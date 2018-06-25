@@ -1,114 +1,135 @@
-> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830003928id_/https%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012605id_/https%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stock Photos PIXTA
+# PIXTA Group Companies Privacy Policy - Stock Photos PIXTA
 
-We, PIXTA Inc. (hereinafter referred to as “Pixta” or “we”) handle with the utmost attention, and take strict measures to protect, the personal information collected from each user (hereinafter referred to as the “User”) of our service “PIXTA” (hereinafter referred to as the “Service”) in accordance with the following Privacy Policy (hereinafter referred to as the “Privacy Policy”).
+## 1\. Handling of Our Customer’s Information
 
-## Definition of Personal Information
+We, PIXTA Inc. (hereinafter referred to as “Pixta”) and PIXTA Group Companies consisting of our subsidiaries and affiliated companies (collectively hereinafter referred to as the “PIXTA Group”) hereby provide the following Privacy Policy (hereinafter referred to as the “Privacy Policy”), and will handle with the utmost attention the information including, but not limited to, personal information collected from each user of services operated and provided by companies of the PIXTA Group (hereinafter referred to as the “Services”) in accordance with the Privacy Policy.Depending on contents of the Services, the PIXTA Group may designate other handling policy in addition to, or separately from, the Privacy Policy. In such case, the other handling policy shall apply to the information of the users of the said Services. 
 
-In this Privacy Policy, the “Personal Information” shall mean information about a living individual which can identify the specific individual by name, date of birth or other description contained in such information (including such information as will allow easy reference to other information and will thereby enable the identification of the specific individual), such as e-mail address, password, name, date of birth, postal address, telephone number, and credit card information collected from the User for the use of the Service.   
-We may also collect information concerning the User’s usage situation on the Service including but not limited to, information of IP address, Cookies, and browser. However, we do not regard that information as included in the Personal Information because it alone cannot identify the specific individual; provided, however, that it shall be regarded as the Personal Information if it is combined and used together with any of the Personal Information.   
-We do not intend to require or collect the Personal Information from anyone under the age of 18 years, with knowing the age of such person. People who are younger than 18 years old may not use the Service. 
+In case where the Personal Information is collected in the context other than use of the Services such as in case of application for employment, the purpose of use of the Personal Information otherwise designated should be noted. However, such designation may be omitted if the purpose of use can be clearly recognized under the acquisitional circumstances. 
 
-## Use of Personal Information
+## 2\. Definition
 
-We will use the Personal Information that has been registered by the User in accordance with this Privacy Policy for the purposes of: 
-
-  1. Provision of the Service;
-  2. Provision of customer services including but not limited to handling inquiries or claims;
-  3. Maintenance of the system and fixing problems;
-  4. Confirmation of the User’s identification;
-  5. Charging for the purchase price and payment of the compensation;
-  6. Displaying on Pixta’s website accessed by the User or on the User’s other mobile devices, sending by e-mail or by mail, or providing by telephone or any other communication devices, of any information regarding Pixta’s other available services or our affiliated companies’ goods or services, which is considered to be beneficial to each User; provided, however, that the User is able to cease or resume such use of the Personal Information by notifying thereof to us;
-  7. Sending e-mails to obtain the User’s consent for the use of his or her Personal Information;
-  8. Creation of statistical material that has been processed to make the User’s identification unidentifiable or unrecognizable (hereinafter referred to as the “Statistical Material”) by aggregating and analyzing attributes of the User’s Personal Information, and use of the Statistical Material for our business operation including but not limited to development for the new services;
-  9. Handling of such relevant matters as stipulated in terms or rules of the Service;
-  10. Other purposes related to the above purposes.
+  1. The term “our subsidiaries and affiliated companies” shall mean the companies of the PIXTA Group as listed under [the Group Company.](https://pixta.co.jp/en/company#group)
+  2. The term “Personal Information” shall mean information about a living individual which can identify the specific individual by name, date of birth or other description contained in such information (including such information as will allow easy reference to other information and will thereby enable the identification of the specific individual), and which contains an individual identification code, in accordance with Act on the Protection of Personal Information. 
 
 
 
-## Handling of Personal Information
+## 3\. Our Customer’s Information to be Collected
 
-Respecting the User’s privacy, we acknowledge that the Personal Information is important to be protected and we take the strict measures to control the User’s Personal Information. We will take the necessary preventive measures against the risk of unauthorized access, falsification, leak, loss or destruction in relation to the User’s Personal Information, and in the event of occurrence of any of the foregoing, we will promptly handle it in order to minimize trouble to each User.
+The PIXTA Group will collect and obtain the following information including the Personal Information of the customers in the course of his or her use of the Services. The customers who use the Services shall be hereinafter referred to as the “User”:
 
-## Disclosure and Entrustment etc. of Personal Information
-
-We shall not disclose or entrust the User’s Personal Information to any third party, without having first informed the User of information regarding to whom and for what purpose his or her Personal Information will be disclosed or entrusted, and obtained the User’s consent thereto (Instead of obtaining the User’s consent, we may post on screen clear explanation thereof and provide the User with a chance to refuse such entrustment); provided, however, that we may disclose or entrust the Personal Information in the following cases:
-
-  1. When we entrust the User’s Personal Information to any subcontractor(s) to the extent necessary for the purposes of the use of the Personal Information set forth in this Privacy Policy;
-  2. When we entrust the User’s Personal Information to any company or companies such as subcontractor(s) with which we have executed Non-Disclosure Agreement in advance to the extent necessary;
-  3. When the User violates the Terms of Use of each of our services, our policies or notices, or it is considered to be necessary to protect rights or property of any other User, third party, or Pixta;
-  4. When we are legally requested to disclose the User’s Personal Information by the courts, governmental order, the Police or any other public body with similar legal status;
-  5. When disclosure of the User’s Personal Information is urgently necessary to safeguard the User’s life, physical health or property; or
-  6. When disclosure or entrustment of the User’s Personal Information is permitted pursuant to laws and regulations or provisions of the Terms of Use etc. that the User has agreed to.
+  1. Information provided by the User in the course of his or her use of the Services  
+The PIXTA Group will collect and obtain the User’s information such as e-mail address, password, name, date of birth, postal address, telephone number, gender, and information for settlement such as credit card information and bank account information required in the course of the User’s use of the Services including, but not limited to, membership registration, log-in, authentication, payment of prices, or receipt of remuneration. 
+  2. Information related to the User’s devises accessing to the Services and information collected through our use of Cookie etc.  
+The PIXTA Group will collect and obtain log-data, including those collected through the use of Cookie or web beacon, IP address, devise information, or any other information related to the User’s use of the Services for improvement of the User’s convenience or experience in using the Services. We do not regard such information as included in the Personal Information because it alone cannot identify the specific individual; provided, however, that it shall be regarded as the Personal Information if it is combined and used together with any of the Personal Information. 
 
 
 
-## Use of Cookies
+## 4\. Purpose of Use
 
-Within the Service, Cookies may be used upon actions such as “collecting the access history”,“confirming Login status”, “saving cart information”, and “changing order of results” etc. The use of Cookies is intended to improve conveniences in the User’s use of the Service, and it does not recognize any of the User’s name or telephone number etc. Any User who desires invalidation of Cookies may invalidate by changing the configuration of web browser. The User who declines the use of Cookies may still be able to continue limited use of the Service such as viewing websites, but unable to use services using Cookies as above mentioned.  
-Also the Service uses Cookies and Web beacons issued from advertising system which has been contracted or adopted for access analysis or advertising distribution, but they do not identify any individual.  
-Behavioral Targeting Advertisement Services listed on “Behavioral Targeting Advertisement the Services List” may be used in a part of the Service in order to distribute proper advertisements to each User. Behavioral Targeting Advertisement is an advertising method to distribute selected advertisements in accordance with interests or preference of each User who accesses to the Service on the basis of the browsing record information etc. Any User who wants to refuse such Behavioral Targeting Advertisements has to access the opt-out pages of each of the companies listed on Behavioral Targeting Advertisement the Services List, and conduct invalidation procedures.  
-[“Behavioral Targeting Advertisement the Services List” is here](https://web.archive.org/optout). 
+The PIXTA Group will use the collected Personal Information for the following purposes (hereinafter referred to as the “Purposes”). 
 
-## Alteration, Deletion or Disclosure of Personal Information
+  1. Provision of the Services;
+  2. Provision of customer services including, but not limited to, handling inquiries or claims;
+  3. Maintenance of the system and fixing of problems;
+  4. Confirmation of the User’s identification or authentication such as provision of log-in function;
+  5. Charging the prices and payment of the remuneration;
+  6. Advertisement, promotion and marketing; 
 
-If any of the User desires confirmation of or alteration to his or her Personal Information that has been registered with us, the User shall take the confirmation or alteration procedures designated by Pixta. 
+Based on the User’s consent, or in the manner or to the extent as permitted by laws and regulations, we will use the Personal Information in order to send, display or otherwise provide (including, but not limited to, providing by telephone etc.) advertisements etc. on the products or services of the PIXTA Group or any other companies that will be considered useful to the User. 
 
-## Retention Period and Period of Use of Personal Information
+  7. Improvement of the Services and research development; 
 
-Even after the User has stopped using the Service, we may retain the Personal Information for an unspecified period of time.
+We will aggregate or analyze the attributes of the User’s Personal Information in order to create the statistical material processed to make the individuals unrecognizable or unidentifiable for the purpose of improvement of the Services and research development or the PIXTA Group’s business operation.
 
-## SSL
+  8. Handling of the Personal Information in accordance with the terms or rules of, or related to, the Services; or
+  9. Other purposes related to the above purposes.
 
-In order to protect the User’s Personal Information, Pixta’s website accommodates SSL as appropriate. Through the browsers with security features compatible such as Microsoft Internet Explorer, the Personal Information entered by the User will be transmitted after having been automatically encrypted.  
-Any User who uses a browser that is not compatible with SSL may not be able to access to Pixta’s website or enter any information. 
 
-## Management of Personal Information
 
-Any and all the Personal Information that has been registered with us will be controlled by Pixta and Pixta’s subcontractor(s) that has executed proper Non-Disclosure Agreement with Pixta. We will take protection measures against any unauthorized access to the network operated by Pixta, and will take the efforts to prevent any access to our server from outside of our network. We take the appropriate measures and control policies upon transmission of any specific Personal Information in order to keep the security of the User’s Personal Information and maintain the accuracy thereof.
+## 5\. Handling of Personal Information
 
-## Trouble Relating to Personal Information
+The PIXTA Group will handle the User’s Personal Information in accordance with Act on the Protection of Personal Information or its relevant laws and regulations. 
 
-We will use the User’s registered e-mail address and password in order to confirm the User’s identity. Each User shall be responsible for safekeeping of such password and we shall not be liable for any trouble arising out of or caused by registered e-mail address or password leaked due to the User’s negligence. We will take the utmost efforts for protection of the User’s Personal Information. However, we shall not be liable to any trouble caused by the User’s negligence or to any problem caused by trouble occurring in the course of the User’s using internet.
+The PIXTA Group will take necessary and appropriate measures for the security control of the collected Personal Information such as prevention of the leakage, loss or damage of such Personal Information. 
 
-## Joint Use of Personal Information 
+The PIXTA Group will not provide the User’s Personal Information to any third party without the User’s prior consent, except the following cases: 
 
-Your Personal Information may be jointly used with our group companies. Please read the [“Joint Use of Personal Information in our Group”](https://web.archive.org/privacy_policy#joint_use_of_personal_information) for the details of such joint use. 
+  1. Cases based on laws and regulations;
+  2. Cases in which there is a need to protect a human life, body or fortune, and when it is difficult to obtain the User’s consent;
+  3. Cases in which there is a special need to enhance public hygiene or promote fostering healthy children, and when it is difficult to obtain the User’s consent;
+  4. Cases in which there is a need to cooperate in regard to a central government organization or a local government, or a person entrusted by them performing affairs prescribed by laws and regulations, and when there is a possibility that obtaining the User’s consent would interfere with the performance of the said affairs;
+  5. Cases in which handling of the Personal Information will be entrusted to subcontractors to the extent required for achievement of the Purposes hereunder;
+  6. Cases in which the User’s action has breached the terms, policy or notices etc. of the Services and in which it is considered necessary to protect right or fortune of the other User, the third party, or the PIXTA Group;
+  7. Cases in which disclosure of the Personal Information is lawfully demanded pursuant to order by the court, government authority, or by the police or any other equivalent public agency; or
+  8. Cases in which disclosure or entrustment of the Personal Information is otherwise permitted under laws and regulations or the terms etc. agreed by the User. 
 
-## Other Important Points
 
-We shall have the right to revise or change provisions of this Privacy Policy, at any time, at our sole discretion. In the case of any material change in this Privacy Policy or usage of the Personal Information by Pixta, we will either post a notice on the Service or send an e-mail to the User in order to notify of such change. The provisions of this Privacy Policy shall take effect between the User and Pixta, and will not apply to any third party including but not limited to the parties being linked from the Service. We shall not be liable to the User’s Personal Information that is registered or handled in any outside website linked from the Service because it is not covered by or subject to this Privacy Policy under Pixta’s control.  
-The number of companies constituting our group or the name(s) thereof may be changed due to any reason such as reorganization. 
 
-## Claims or Inquiries regarding Personal Information
+## 6\. Joint Use of Personal Information 
 
-Please click [here](https://web.archive.org/contacts) if you have any question regarding this Privacy Policy.
+In order to provide the User with better services, we will jointly use the Personal Information with the PIXTA Group pursuant to the provisions of laws and regulation. 
 
-As of September 1, 2015  
-2020 (c) PIXTA Inc. All Rights ReservedPIXTA Inc.
+  1. Items that may be used jointly: 
 
-### Joint Use of Personal Information in our Group
+The same as set forth in Article 3 “Our Customer’s Information to be Collected” of the Privacy Policy. 
 
-In order to provide you with better service, we will jointly use your Personal Information with our group companies within the following scopes when it is necessary. We will make the utmost efforts for strict management with our group in jointly using your Personal Information.   
-We may amend this policy of joint use whenever necessary for the future. In such case, we will notify you or publicly announce for your attention. 
+  2. Scope of joint users: 
 
-  1. Items that may be used jointly:  
-Name, Postal Address, Telephone Number, E-mail Address, Date of Birth, Gender and Other Personal Information collected. 
-  2. Scope of joint users:  
-[Our Group Companies](https://pixta.co.jp/en/company#group)
+The companies of the PIXTA Group as set forth in the Article 2 of the Privacy Policy.
+
   3. Scope of use: 
-    1. Provision of the Service;
-    2. Provision of customer services including but not limited to handling inquiries or claims;
-    3. Maintenance of the system and fixing problems;
-    4. Confirmation of the User’s identification; 
-    5. Charging for the purchase price and payment of the compensation;
-    6. Displaying on Pixta’s website accessed by the User or on the User’s other mobile devices, sending by e-mail or by mail, or providing by telephone or any other communication devices, of any information regarding Pixta’s other available services or our affiliated companies’ goods or services, which is considered to be beneficial to each User; provided, however, that the User is able to cease or resume such use of the Personal Information by notifying thereof to us;
-    7. Sending e-mails to obtain the User’s consent for the use of his or her Personal Information;
-    8. Creation of statistical material that has been processed to make the User’s identification unidentifiable or unrecognizable (hereinafter referred to as the “Statistical Material”) by aggregating and analyzing attributes of the User’s Personal Information, and use of the Statistical Material for our business operation including but not limited to development for the new services;
-    9. Handling of such relevant matters as stipulated in terms or rules of the Service;
-    10. Other purposes related to the above purposes.
-  4. Entity responsible for management of joint use:  
+
+The same as set forth in Article 4 “Purpose of Use” of the Privacy Policy.
+
+  4. Entity responsible for management of joint use: 
+
 PIXTA Inc.
 
 
+
+
+## 7\. Mail Magazines etc.
+
+The User may cease, suspend, or restart the subscription of our direct mails or mail magazines in accordance with the manner as separately designated by us.
+
+## 8\. Cookie etc.
+
+The PIXTA Group will collect the User’s information by use of Cookie or web-beacon as set forth in Article 3 of this Privacy Policy. Any User who desires to disable Cookie may do so by changing the configuration of web browser. Though the User who disables Cookie can access the sites or use a part of the Services, it should be understood that the services available to the User will be limited in connection with the part of the Services that uses Cookie. 
+
+Behavioral Targeting Advertisement Services listed on “Behavioral Targeting Advertisement the Services List” may be used in part of the Services in order to distribute proper advertisements to the User. Behavioral Targeting Advertisement is an advertising method to distribute selected advertisements in accordance with interests or preference of the User who accesses to the Services on the basis of the browsing record information etc. Any User who desires to refuse such Behavioral Targeting Advertisements has to access the opt-out pages of each of the companies listed on Behavioral Targeting Advertisement the Services List, and conduct invalidation procedures. [“Behavioral Targeting Advertisement the Services List”](https://www.pixtastock.com/optout) is here. 
+
+## 9\. Security Effort
+
+  1. In order to protect the User’s Personal Information, websites of the Services accommodate SSL as appropriate, through which the Personal Information entered by the User will be transmitted after having been automatically encrypted.
+  2. The PIXTA Group will take protection measures against any unauthorized access to our network, and will take the efforts to prevent any access to our server from outside of our network. We take the appropriate measures and control policies upon transmission of any specific Personal Information in order to keep security of the User’s Personal Information and maintain accuracy thereof.
+  3. In order to maintain safety of the User’s account, it is important for the User by him or herself to protect the password to log-in the account. The User should refrain from setting the same password of another services, or keeping the User’s password in any manner that the password may become known to any third party.
+
+
+
+## 10\. Disclosure or Correction of Personal Information
+
+The User may confirm or correct the registered Personal Information in “account page” or any other equivalent function within the Services.   
+Even after the User has stopped using the Services, the PIXTA Group may retain the Personal Information for an unspecified period of time in order to use the same whenever necessary. 
+
+## 11\. Update or Alteration of This Privacy Policy 
+
+Whenever it is reasonably considered necessary by the PIXTA Group, we may change the Privacy Policy pursuant to provisions of laws and regulations. If there is any material change in the Privacy Policy or in our handling the User’s Personal Information, we will notify the User thereof in either manner of (i) posting the notice in the Services or (ii) sending an e-mail to the User. 
+
+## 12\. Other Important Points
+
+  1. The provisions of the Privacy Policy take effect between the User and the Pixta Group, and will not apply to any third party including, but not limited to, the external services being linked from the Services. We shall not be liable to the User’s Personal Information that is registered or handled in such external services because it is not covered by or subject to the Privacy Policy under the PIXTA Group’s control.
+  2. The number of companies constituting the PIXTA Group or the name(s) thereof may be changed due to any reason such as reorganization.
+
+
+
+## 13\. Claims or Inquiries regarding Personal Information
+
+Please click the following links of each of the Services if you have any question regarding the Privacy Policy. 
+
+\- [PIXTA](https://www.pixtastock.com/contacts)  
+
+
+As of March 19, 2018  
+2020 (c) PIXTA Inc. All Rights Reserved.PIXTA Inc.
