@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinspeaker.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124140148id_/https%3A//www.coinspeaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinspeaker.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625034029id_/https%3A//www.coinspeaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CoinSpeaker
 
@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. If under any such update we
 
 * ## Questions
 
-If you have any questions about this Privacy Policy, please feel free to contact us by email at [contact@coinspeaker.com](mailto:contact@coinspeaker.com).
+If you have any questions about this Privacy Policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b3834352f3a382f1b38343235282b3e3a303e2975383436).
