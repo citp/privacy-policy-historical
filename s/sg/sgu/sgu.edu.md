@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgu.edu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074728id_/http%3A//www.sgu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgu.edu privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625202022id_/http%3A//www.sgu.edu/privacy-policy) for the most accurate reproduction.*
 
 # St. George's University Privacy Policy | St. George's University, Grenada
 
@@ -75,7 +75,7 @@ Internet Technologies Used
 
 Cookies, web beacons, and other relevant internet technologies are used on our Sites to allow us to accomplish the uses set out above as well as to deliver Sites messaging and to keep track of your Information.
 
- **What are cookies?**
+**What are cookies?**
 
 Cookies save a file to an Internet user’s computer and store a limited amount of information.  For example, some cookies help us remember your computer and streamline the login process, some are used to authenticate you as a user on our systems, and some cookies help us deliver advertising that is more customized to your needs on our Web site and the Web sites of our partners.
 
@@ -83,27 +83,27 @@ A cookie can either be stored in your computer’s memory temporarily and automa
 
 In addition to the general browser cookies, we may use Local Shared Objects (sometimes referred to as “Flash cookies” that are built for use with the Adobe® Flash® Player), for authentication purposes, to personalize and to enhance Web site presentation and functionality.  Unlike traditional cookies, Flash cookies cannot be managed through your browser controls and are not saved in your browser’s temporary Internet files.  Flash cookies remain in your Flash Player folder until they are removed, as described below.
 
- **What are the related technologies?**
+**What are the related technologies?**
 
 St. George’s University also uses Web Beacons (also known as clear gifs or pixel tags), which are images that we incorporate onto our Web site to analyze advertising campaigns and the general usage patterns of Web site visitors.
 
- **How does St. George’s University use these technologies?**
+**How does St. George’s University use these technologies?**
 
- _Browser Cookies:_   Browser cookies are used by St. George’s University and its partners for targeted marketing activities and Web site analytics. Browser cookies are placed on sgu.edu by us as well as third-parties.  The information that we collect and share (e.g., IP Address of your computer and pages viewed) does not contain customer or consumer names, addresses, telephone numbers, or email addresses. This information helps our company refine and improve our Web site content and presentation, deliver relevant advertising regarding St. George’s University on other Web sites you visit and optimize our placement in search engine results.
+_Browser Cookies:_   Browser cookies are used by St. George’s University and its partners for targeted marketing activities and Web site analytics. Browser cookies are placed on sgu.edu by us as well as third-parties.  The information that we collect and share (e.g., IP Address of your computer and pages viewed) does not contain customer or consumer names, addresses, telephone numbers, or email addresses. This information helps our company refine and improve our Web site content and presentation, deliver relevant advertising regarding St. George’s University on other Web sites you visit and optimize our placement in search engine results.
 
- _Flash Cookies:_   Flash cookies may be used by St. George’s University for limited purposes, such as authentication, as well as distinguishing customers from visitors to our Web site.
+_Flash Cookies:_   Flash cookies may be used by St. George’s University for limited purposes, such as authentication, as well as distinguishing customers from visitors to our Web site.
 
- _Web Beacons:_   St. George’s University uses Web Beacons to help manage online advertising and site traffic analysis.  These image files are provided by third parties for external ad management, search marketing tracking, affiliate marketing, and sgu.edu site analytics.  In all such instances, the Web Beacon is programmed to collect your computer’s IP Address and certain other limited information when you are on our Web site.  We do not collect your name, e-mail address, or telephone numbers using this technology.  For example, with online advertising campaigns, Web Beacons enable third parties to recognize a cookie on your Web browser, which in turn enables us to learn which advertisements bring unique users to sgu.edu from other locations on the Web.
+_Web Beacons:_   St. George’s University uses Web Beacons to help manage online advertising and site traffic analysis.  These image files are provided by third parties for external ad management, search marketing tracking, affiliate marketing, and sgu.edu site analytics.  In all such instances, the Web Beacon is programmed to collect your computer’s IP Address and certain other limited information when you are on our Web site.  We do not collect your name, e-mail address, or telephone numbers using this technology.  For example, with online advertising campaigns, Web Beacons enable third parties to recognize a cookie on your Web browser, which in turn enables us to learn which advertisements bring unique users to sgu.edu from other locations on the Web.
 
- **How Do I Opt Out of Cookies and Web Beacons?**
+**How Do I Opt Out of Cookies and Web Beacons?**
 
 Please keep in mind that refusing cookies may affect your experience on our Web site.
 
- _Browser Cookies:_  For these cookies, you may delete or prevent placement of cookies by following the instructions contained in the Help section of your browser.
+_Browser Cookies:_  For these cookies, you may delete or prevent placement of cookies by following the instructions contained in the Help section of your browser.
 
- _Flash Cookies:_   To delete or prevent placement of Flash cookies, you will need to visit the Adobe Flash Player Help site at [www.adobe.com/go/settingsmanager](https://web.archive.org/web/20171222074728id_/http%3A//www.sgu.edu/javascript/etwin\('http/::www.adobe.com:go:settingsmanager'\)%3b/javascript/etWin\('http/::www.adobe.com:go:settingsmanager'\)%3B), click on the hyperlink for “Website Privacy Settings panel” on the left hand side of the screen and follow the instructions for preventing third-party Flash content from storing data on your computer.
+_Flash Cookies:_   To delete or prevent placement of Flash cookies, you will need to visit the Adobe Flash Player Help site at [www.adobe.com/go/settingsmanager](https://web.archive.org/web/20180625202022id_/http%3A//www.sgu.edu/javascript/etwin\('http/::www.adobe.com:go:settingsmanager'\)%3b/javascript/etWin\('http/::www.adobe.com:go:settingsmanager'\)%3B), click on the hyperlink for “Website Privacy Settings panel” on the left hand side of the screen and follow the instructions for preventing third-party Flash content from storing data on your computer.
 
- _Web Beacons:_   Because Web Beacons or clear gifs are included within the recipe for a web page (just the same as any other content request), you cannot opt out or refuse them.  However, where they are used in conjunction with cookies they can be rendered ineffective by either opting out of cookies or by changing the cookie settings in your browser.  In other instances, such as in the case of emails, clear gifs are not used in conjunction with cookies and if you are unhappy with the use of clear gifs in such manner, then you should not use the Web site or register to receive emails.  These small pieces of program code reside in your computer and browser and can be removed.  If you desire to remove such technologies you may do so, but this may render our Sites unusable to you.  You can opt out of cookies or the other internet technologies used by disabling these features in your browser program.  Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt-outs periodically.  Consult your browser’s “Help” menu for assistance in changing cookie settings or removing cookie files.
+_Web Beacons:_   Because Web Beacons or clear gifs are included within the recipe for a web page (just the same as any other content request), you cannot opt out or refuse them.  However, where they are used in conjunction with cookies they can be rendered ineffective by either opting out of cookies or by changing the cookie settings in your browser.  In other instances, such as in the case of emails, clear gifs are not used in conjunction with cookies and if you are unhappy with the use of clear gifs in such manner, then you should not use the Web site or register to receive emails.  These small pieces of program code reside in your computer and browser and can be removed.  If you desire to remove such technologies you may do so, but this may render our Sites unusable to you.  You can opt out of cookies or the other internet technologies used by disabling these features in your browser program.  Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt-outs periodically.  Consult your browser’s “Help” menu for assistance in changing cookie settings or removing cookie files.
 
 Our Security Measures
 
