@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trtworld.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924055942id_/http%3A//www.trtworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trtworld.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625152054id_/https%3A//www.trtworld.com/privacy-policy) for the most accurate reproduction.*
 
-# TRT World | Where news inspires change
+# Privacy Policy - TRT World
 
 TRT aims to establish a safe and enjoyable environment for our users by keeping your personal information confidential while using the TRT services. TRT is committed to keeping your personal information safe. When such information is provided, we are legally obliged to use your information with all laws including the Constitution of the Republic of Turkey. Links to other Websites TRT contains hyperlinks to other websites operated by third party companies. These third party companies have their own privacy policies that we urge you to review. TRT does not hold any responsibility for the privacy practices of such third party websites and your use of such websites is at your own risk. Personal Information
 
