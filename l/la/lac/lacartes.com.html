@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2017-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213012501id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625023920id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -437,7 +437,7 @@ $(function() {
 <a class="topmenu-nav-handle"><i class="fa fa-bars" aria-hidden="true"></i></a>
 <ul class="navbar-topheader nav topmenu-nav navbar-top-links">
 <li class="dropdown">
-<a class="nav-link" href="/business">Local Businessess</a>
+ <a class="nav-link" href="/business">Local Businessess</a>
 </li>
 <li class="dropdown">
 <a class="nav-link" href="/marketplace">Marketplace</a>
@@ -676,7 +676,7 @@ Links might be discovered on our site that belongs to third parties. Any third p
 <div class="col">
 <h3>Locations</h3>
 <ul class="nol browse-links">
- <li><a href="/search/w/businesses/co/GB">United Kingdom</a></li>
+<li><a href="/search/w/businesses/co/GB">United Kingdom</a></li>
 <li><a href="/search/w/businesses/co/PH">Philippines</a></li>
 <li><a href="/search/w/businesses/co/US">United States</a></li>
 <li><a href="/search/w/businesses/co/IN">India</a></li>
@@ -703,9 +703,9 @@ Links might be discovered on our site that belongs to third parties. Any third p
 <ul class="nol browse-links block">
 <li><a href="/search/w/businesses/c/Professional-Services">Professional Services</a></li>
 <li><a href="/search/w/businesses/c/Home-Improvement">Home Improvement</a></li>
-<li><a href="/search/w/businesses/c/Health">Health</a></li>
 <li><a href="/search/w/businesses/c/Food-Drink">Food &amp; Drink</a></li>
 <li><a href="/search/w/businesses/c/Shopping">Shopping</a></li>
+<li><a href="/search/w/businesses/c/Health">Health</a></li>
 <li><a href="/search/w/businesses/c/Food-Drink/c2/restaurants">Restaurants</a></li>
 <li><a href="/search/w/businesses/c/Manufacturers-Industrial">Manufacturers &amp; Industrial</a></li>
 <li><a href="/search/w/businesses/c/Finance-Insurance">Finance &amp; Insurance</a></li>
@@ -920,7 +920,6 @@ Lacartes.com © all rights reserved
 <div class="pop-sup"><span class="labelHeader">FREE SIGN UP</span></div>
 <div class="pop-ln"><span class="labelHeader">LOGIN TO LACARTES</span></div>
 </div>
-
 <div class="fieldLine">
 <span class="fieldIcon mail-icon"></span>
 <input id="loginEmail" class="uiField rset mail-icon" type="text" name="email" autocomplete="off" placeholder="Enter email" value="">
@@ -1076,7 +1075,8 @@ By clicking sign up you confirm you have read and agreed to our <a class="inheri
             $(oForm).find('.overlay-loading').show();
             
             $.post(
-                    "/ajax_utils/users/update_user_info.php",
+                    //"/ajax_utils/users/update_user_info.php",
+                    $(oForm).attr('action'),
                     $(oForm).serialize(),
                     function(res) {                         
                         
@@ -1086,15 +1086,19 @@ By clicking sign up you confirm you have read and agreed to our <a class="inheri
                             $(oForm).find('.errorMsg').text(res.errorMsg);
                             $(oForm).find('.errorMsgLine').show();
                             
-                            if(res.error == 2) document.location.href = res.redirectUrl;
+                            //if(res.error == 2) document.location.href = res.redirectUrl;
                             
                         } else { 
-                            //document.location.href = res.redirectUrl;
-                            document.location.reload();
+                            
+                            //$(oForm).find('.overlay-loading').hide();
+                            //$(oForm).find('.signupFormFieldsInner').html(res.form_contents);
+                            
+                            document.location.href = res.redirectUrl;
+                            //document.location.reload();
                         }
                     },
                     'json'
-                );        
+                );         
         },
         
         Login  : function(oForm) {
