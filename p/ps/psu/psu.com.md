@@ -1,33 +1,34 @@
-> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124092731id_/http%3A//www.psu.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625102128id_/https%3A//www.psu.com/privacy) for the most accurate reproduction.*
 
-# PlayStation Universe - Privacy
+# Privacy Policy & Terms and Conditions - PlayStation Universe
 
 This is the web site of ORIGINAL WEB VENTURES Inc.
 
 **Our postal address is:**  
 PO BOX 24159 RPO HAZELDEAN  
-KANATA, ONTARIO K2M 2C3  
-
+KANATA, ONTARIO K2M 2C3 
 
 We can be reached via e-mail at [admin@psu.com](mailto:admin@psu.com)
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address.
 
 The information we collect is used to improve the content of our Web site and used to notify consumers about updates to our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitors preferences, record session information, user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
 We may allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability [to opt out](http://www.networkadvertising.org/managing/opt_out.asp) of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability [to opt out](https://www.networkadvertising.org/managing/opt_out.asp) of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
+## Terms and Conditions
+
 In using this website you are deemed to have read and agreed to the following terms and conditions:
 
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. "The Company", “Ourselves”, “We” and "Us", refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing English Law. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: “Client”, “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. “The Company”, “Ourselves”, “We” and “Us”, refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing English Law. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 Privacy Statement
 
@@ -42,17 +43,18 @@ We will not sell, share, or rent your personal information to any third party or
 Disclaimer   
 Exclusions and Limitations
 
-The information on this web site is provided on an "as is" basis. To the fullest extent permitted by law, this Company:
+The information on this web site is provided on an “as is” basis. To the fullest extent permitted by law, this Company:
 
-•  |  excludes all liability for damages arising out of or in connection with your use of this website. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages.   
----|---  
-•  |  excludes all representations and warranties relating to this website and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in this website and/or the Company’s literature; and   
-  
+  * excludes all liability for damages arising out of or in connection with your use of this website. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages.
+  * excludes all representations and warranties relating to this website and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in this website and/or the Company’s literature; and
+
+
+
 This Company does not however exclude liability for death or personal injury caused by its negligence. The above exclusions and limitations apply only to the extent permitted by law. None of your statutory rights as a consumer are affected.
 
 Log Files
 
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our web servers automatically log standard access information including browser type, access times/open mail, URL requested, and referral URL. This information is not shared with third parties and is used only within this Company on a need-to-know basis. Any individually identifiable information related to this data will never be used in any way different to that stated above without your explicit permission. 
+We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, our web servers automatically log standard access information including browser type, access times/open mail, URL requested, and referral URL. This information is not shared with third parties and is used only within this Company on a need-to-know basis. Any individually identifiable information related to this data will never be used in any way different to that stated above without your explicit permission.
 
 Links from this website
 
@@ -60,7 +62,9 @@ We do not monitor or review the content of other party’s websites which are li
 
 Forum Rules
 
-Registration to the PSU.com community forums is free! We do insist that you abide by the rules and policies detailed below. If you agree to the terms, please check the 'I agree' checkbox and press the 'Complete Registration' button when you register for the site. Although the administrators and moderators of PSU Forums will attempt to keep all objectionable messages off this site, it is impossible for us to review all messages. All messages express the views of the author, and neither the owners of PSU Forums, nor vBulletin Solutions, Inc. (developers of vBulletin) will be held responsible for the content of any message. By agreeing to these rules, you warrant that you will not post any messages that are obscene, vulgar, sexually-oriented, hateful, threatening, or otherwise violative of any laws. 
+Registration to the PSU.com community forums is free! We do insist that you abide by the rules and policies detailed below. If you agree to the terms, please check the ‘I agree’ checkbox and press the ‘Complete Registration’ button when you register for the site.  
+Although the administrators and moderators of PSU Forums will attempt to keep all objectionable messages off this site, it is impossible for us to review all messages. All messages express the views of the author, and neither the owners of PSU Forums, nor vBulletin Solutions, Inc. (developers of vBulletin) will be held responsible for the content of any message.  
+By agreeing to these rules, you warrant that you will not post any messages that are obscene, vulgar, sexually-oriented, hateful, threatening, or otherwise violative of any laws. 
 
 The owners of PSU Forums reserve the right to remove, edit, move or close any content item for any reason.
 
