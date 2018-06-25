@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830060244id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625030951id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PE Hub
 
@@ -111,7 +111,7 @@ With the exceptions noted above, Buyouts Insider does not allow any third-party 
 
 
 
-Buyouts Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Buyouts Insider. Buyouts Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at customerservice@buyoutsinsider.com.
+Buyouts Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Buyouts Insider. Buyouts Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
   8. **Data Retention**
 
@@ -129,4 +129,4 @@ Buyouts Insider uses commercially reasonable controls to safeguard data against 
 
 
 
-If you have any questions or suggestions for this Privacy Policy, please email questions to [customerservice@buyoutsinsider.com](mailto:customerservice@buyoutsinsider.com). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
+If you have any questions or suggestions for this Privacy Policy, please email questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#30534543445f5d554243554246595355705245495f454443595e43595455421e535f5d). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
