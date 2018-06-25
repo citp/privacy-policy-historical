@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suasnews.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910010726id_/https%3A//www.suasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suasnews.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625134718id_/https%3A//www.suasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sUAS News - The Business of Drones
 
@@ -14,13 +14,15 @@ www.suasnews.com does use cookies to store information about visitors preference
 
   * Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to suasnews.com.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to suasnews.com and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 
 
 Our advertising partners include (but are not limited to)….  
 Google Adsense  
 Google Doubleclick Network
+
+Click here for more information on how Google uses information from sites or apps that use their services <https://policies.google.com/technologies/partner-sites>
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.suasnews.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
