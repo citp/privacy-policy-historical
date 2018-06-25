@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadband.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001152345id_/https%3A//www.broadband.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625110209id_/https%3A//www.broadband.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,6 +51,8 @@ Our web contact forms and live chat services are run by trusted third party serv
 Reviews that you submit to us are stored on our website and vetted by a moderator. Approved reviews will be displayed publicly on the website under the name and location you gave and will indicate the broadband provider you reviewed. We reserve the right to edit reviews for length or to remove identifying, libellous or inappropriate content, or to refuse reviews for any reason. Reviews containing links will not be displayed. We may opt make your review a feature review and give it additional prominence on our site or include it in the content of our email newsletter or other promotional materials. We may contact you by the email address that you entered if there is a problem with your review or if we wish to use your review for any other purpose than those outlined here. We will not contact you further unless you have requested that we do so.
 
 During the speed test or while leaving a review of your provider you may optionally rate the quality, reliability, customer service and speed of your broadband service. This information is collated and used to provide star ratings to help other visitors to our site make better comparisons between broadband suppliers. Ratings recorded during speed tests will not be displayed to other site users except as part of an average score. Ratings entered during a review will be displayed alongside your review.
+
+Please refer to our [review guidelines](https://www.broadband.co.uk/about/review-guidelines/) for more details.
 
 #### Tracking of the pages you visit and the links you click, and personalisation using cookies
 
