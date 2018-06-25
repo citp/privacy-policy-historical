@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kashoo.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802172054id_/https%3A//app.kashoo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashoo.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625114047id_/https%3A//assets.kashoo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kashoo | Simple Cloud Accounting - Privacy Policy
 
