@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untappd.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630121849id_/https%3A//untappd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untappd.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625064037id_/https%3A//untappd.com/privacy) for the most accurate reproduction.*
 
 # Terms of Use | Untappd
 
