@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223015700id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625045350id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Active Interest Media
+
+**Your Consent  
+**By using our site, you consent to our privacy policy.
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or magazine, respond to a survey or fill out a form.
@@ -33,7 +36,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 **; To administer a contest, promotion, survey or other site feature**
 
-Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
+Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) via a tracking pixel, or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
 
 **How do we protect your information?**  
 We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
@@ -67,7 +70,7 @@ You may receive email marketing messages from us about our own or other companie
 
 You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. To withdraw your consent, simply contact us by writing to the Active Interest Media, Inc., 5720 Flatiron Pkwy, Boulder, CO 80301, USA Attn: Data Department, or by e-mailing us at privacy@aimmedia.com and advising which of your personal information you no longer wish us to collect, use and/or disclose. We will the inform you of the implications of withdrawing consent to collect, use and/or disclose that personal information, including without limitation the fact that once such consent is withdrawn you may not be able to use certain or all of the features of the Site, applications or services, and/or may not be able to receive products and services from us. Should you nonetheless still desire that consent be withdrawn, we will accede to your request.
 
-We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices/.
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies, tracking pixels, and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at <http://www.aboutads.info/choices/>. Or read Google’s Privacy and Terms here: <https://policies.google.com/technologies/partner-sites> You can also learn more from our advertising and technology partner Say Media: <https://www.saymedia.com/privacy>.
 
 **Premium Accounts**
 
@@ -92,13 +95,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **CAN-SPAM Compliance**  
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-**Your Consent  
-**By using our site, you consent to our privacy policy.
-
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on September 23, 2016.
+This policy was last modified on May 24, 2018.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
