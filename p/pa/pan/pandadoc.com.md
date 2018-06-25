@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908093152id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625055236id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PandaDoc
 
-Updated: August 22, 2017
-
 This Privacy Policy sets forth the policy of PandaDoc, Inc. (the “Company”) in regard to the collection and usage of personal or corporate information that you may provide to us through using this website, or by using any product or service provided by PandaDoc (the “Website”). This Privacy Policy is incorporated into and made a part of our Terms of Use, and by accepting these during registration and by using the Website, you agree to the use of your information in accordance with this Privacy Policy. We may revise this policy from time to time, and will post the most current version on the Website. If a revision meaningfully reduces your rights, we will notify you using the email provided by you.
 
-PandaDoc complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. PandaDoc has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+PandaDoc complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. PandaDoc has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 ## **1\. Information we collect**
 
@@ -36,14 +34,15 @@ Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent o
 
 We maybe share Personal Information and User Content with vendors who are performing services for PandaDoc, (such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us; authentication systems, and fraud detection). We may share Personal Information such as your name, billing address, and credit card number with vendors who assist us with payment processing. Our vendors are contractually obligated to use your Personal Information only at our direction and in accordance with our Privacy Policy.
 
-In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.  
+In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+
 PandaDoc will offer individuals the opportunity to choose (opt out) whether their personal information is to be used for any purpose other than what it was collected for.
 
 We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, UserID history, fraud complaints, and usage history, without a subpoena, in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
 
 In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred or examined during the due diligence process. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Website periodically if you are concerned about how your information is used.
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, PandaDoc is potentially liable.
+In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the Privacy Shield Principles, PandaDoc is potentially liable.
 
 ## **3\. How we protect information**
 
@@ -57,7 +56,7 @@ PandaDoc will use personal information and User Content only for purpose of deli
 
 ### **3.3. Access**
 
-PandaDoc will allow individuals to access their personal information. Further, PandaDoc will allow the individual to correct, update, or delete information. Individuals who wish to make an access request or remove personal information from our records, or if you have any questions in regard to this policy or believe that PandaDoc has not complied with the provisions of this policy, should direct such a request to PandaDoc Solutions Center at the address provided below or by sending an email to us at [info@pandadoc.com](mailto:info@PandaDoc.com).
+PandaDoc acknowledges the individual’s right to access their data and will allow individuals to access their personal information. Further, PandaDoc will allow the individual to correct, update, or delete information. Individuals who wish to make an access request or remove personal information from our records, or if you have any questions in regard to this policy or believe that PandaDoc has not complied with the provisions of this policy, should direct such a request to PandaDoc Solutions Center at the address provided below or by sending an email to us at [info@pandadoc.com](mailto:info@PandaDoc.com).
 
 PandaDoc, Inc.  
 153 Kearny Street, 5th Floor  
@@ -65,8 +64,8 @@ San Francisco, CA 94108
 
 ### **3.4. Enforcement**
 
-In compliance with the EU-US Privacy Shield Principles, PandaDoc commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PandaDoc at [privacy@pandadoc.com](mailto:privacy@pandadoc.com).
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, PandaDoc commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact PandaDoc at [privacy@pandadoc.com](mailto:privacy@pandadoc.com).
 
-PandaDoc has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a last resort binding arbitration option may be available before a Privacy Shield Panel.
+PandaDoc has committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a last resort binding arbitration option may be available before a Privacy Shield Panel.
 
 PandaDoc is also subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
