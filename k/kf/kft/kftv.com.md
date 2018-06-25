@@ -1,99 +1,139 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206060627id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625094525id_/http%3A//www.mb-insight.com/mbi-privacy-and-cookies-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wilmington Group plc
+# MBI Privacy and Cookies Policy
 
-  * What does this policy cover?
-  * How does Wilmington Group safeguard my privacy?
-  * What personally identifiable information does Wilmington Group collect from me?
-  * How does Wilmington Group use cookies and monitoring?
-  * How does Wilmington Group use my information?
-  * With whom does Wilmington Group share my information?
-  * How can I access my information?
+Introduction
 
+1\. This Privacy and Cookies Policy sets out the privacy policy of Media Business Insight Limited, Company Number 8248880 (England), which also refers to ALF Insight Ltd, Company Number 8297172, whose registered address is: Media Business Insight Ltd, Zetland House, 5-25 Scrutton Street, London EC2A 4HJ (”MBI”), who controls this website. For the purpose of the Data Protection Act, the data controller is Media Business Insight Limited.
 
+2\. MBI is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how MBI will use personal information about you that is submitted to MBI.
 
-### What does this policy cover?
+3\. By providing your personal information to MBI, you consent to the collection and use of it and any other information provided to MBI in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at security@mb-insight.com.
 
-This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 6-14 Underwood Street, London N1 7JQ. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk) or via phone on +44 (0) 207 490 0049. 
+4\. MBI may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other MBI website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in March 2018.
 
-This policy will help you understand how Wilmington Group (or its successors in title) will treat your personal information. This policy may change from time to time so please check back regularly.
+Please read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20180625094525id_/http%3A//www.mb-insight.com/mbi-website-tems-of-use.html)
 
-### How does Wilmington Group safeguard my privacy?
+Collection of Personal Information
 
-It is very important to us that you should be able to use and enjoy our websites and services without having to compromise your privacy in any way.
+1\. The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR) and related legislation (“the DPA”).
 
-Wilmington Group includes companies which are members of the Direct Marketing Association, the Data Publishers' Association and the Periodical Publishers Association. Where you see the symbols of these organisations on any of our websites you have the further assurance of our commitment to the standards set by the relevant body.
+2\. MBI (or any of its sub-contractors) may collect personal information about you in the following ways:
 
-Wilmington Group takes technical and organisational measures to ensure the security of your data. Your data will be processed securely in the UK and will only be exported outside the European Economic Area to other Wilmington Group locations or when protected by contract.
+a. any data which you provide when you complete and submit an application to MBI to register on its website(s) or receive email alerts or other communications from MBI;
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used illegally by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+b. any data that you provide via postings to forums and blogs and any other posting that you make to a MBI website (in such circumstances the information posted by you will, of course, also be available to users of the website throughout the world);
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords. Wilmington Group staff will NEVER compromise your security by asking for your password online. Please be careful and responsible when you are online.
+c. during any transaction with us; and
 
-No data transmission over the Internet can be guaranteed entirely secure. While we strive to protect your personal information, Wilmington Group can neither ensure nor warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+d. any other data which you provide to MBI when you enquire about our activities, email, telephone or write to us or otherwise provide us with personal information.
 
-### What personally identifiable information does Wilmington Group collect from me?
+3\. MBI (or any of its sub-contractors) may also receive information about you from third parties, for example a colleague who wants to tell you about one of our websites.
 
-Wilmington Group collects information in several ways from different parts of our network of websites and in the course of our activities.
+Storage and retention of your information
 
-Some personal information is gathered when you register for our websites, publications or events. During registration, Wilmington Group may ask for your name, telephone number, email address, birth date, gender, company, title, address and post code and personal and professional interests and responsibilities. The more accurate the information you volunteer, the better we are able to customise your experience of our websites and our messages.
+1\. MBI will keep your information on a secure server. The technology that MBI uses and the security policies which MBI has implemented are intended to safeguard your information from unauthorised access and improper use.
 
-In addition to registration we may ask you for personal information at other times, for example when you enter a competition or promotion run or sponsored by Wilmington Group and when you report a problem with one of our sites or services. If you contact Wilmington Group we may keep a record of that correspondence. Wilmington Group also occasionally asks users to complete surveys that we use for research purposes.
+2\. MBI will keep your information (to the extent permitted by the DPA) to enable MBI to use it for the purposes described in this Privacy Policy.
 
-Your responses help us to sell data and appropriate advertising space and so minimise the cost of our services to you - or even provide some of them at no charge at all. They also enable us to personalise services to our readers.
+Use of Your Information
 
-Whenever Wilmington Group collects personal information we try to include a link to this Privacy Policy on the page in question.
+1\. MBI may use your personal information (subject in each case to the requirements of the DPA) for the following purposes:
 
-### How does Wilmington Group use cookies and monitoring?
+a. administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any email alerts, transactions with us and competitions and promotions that you take part in;
 
-Wilmington Group uses cookies as a means of offering and providing customisable and personalised services. However, your browser has settings that will allow you to accept all cookies, be informed as cookies arrive or reject all cookies. The downside of rejecting all cookies is that we are then unable to match the site content we offer you to what we know about your preferences from your previous visits.
+b. responding to any enquiry you make;
 
-In addition, advertising networks that serve ads onto Wilmington Group sites may use their own cookies.
+c. subject to your consent, sending you newsletters and/or alerts and information regarding MBI's or any third party's future services; and
 
-Wilmington Group collects IP addresses for system administration, for independent audit and to report aggregate information to our advertisers. By this we can see how our sites are being used, for example, what services and facilities are popular, and how long users spend on particular pages. This is data about our users' browsing actions and patterns and it does not identify anyone individually.
+d. for generating aggregated statistics about users, traffic patterns etc of the MBI website(s) and other services and developing MBI's marketing plans.
 
-When you telephone a Wilmington Group company, or someone who is dealing with calls on our behalf, we may record the conversation to ensure the security of any transaction discussed, to help us to review our quality of service and to assist in the training and development of the employees who take such calls.
+2\. MBI may also disclose your information (subject in each case to the requirements of the DPA) as follows:
 
-### How does Wilmington Group use my information?
+a. if you have given your consent for MBI to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;
 
-Wilmington Group's primary goal in collecting your personal information is to provide you with a customised experience of our website(s). By knowing a little about you, Wilmington Group is able to deliver more relevant advertisements and content to you, and by demonstrating the quality of our users we are able to secure data sales and advertising funding which keeps down the costs of the services we provide to our users.
+b. to any service providers, sub-contractors and agents appointed by MBI to perform the above functions on its behalf and in accordance with its instructions;
 
-With your permission or under the specific terms and conditions of some of our Websites, Wilmington Group companies will use your information to contact you with relevant offers concerning our products and services. For non-contractual uses, you will be given the opportunity to accept or decline these offers when you sign up with us.
+c. to third parties selected by MBI as part of aggregated and anonymised statistics about users, traffic patterns etc of the MBI website(s);
 
-When delivering targeted advertisements, Wilmington Group acts merely as the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, GPs for pharmaceutical companies). We take the advertisement and display it to users meeting the relevant criteria.
+d. to such individuals and/or bodies as necessary to ensure MBI's compliance with any applicable law, regulation, legal proceeding or governmental request;
 
-When you join one of our email newsletter services the emails you receive may include advertising material and links to advertisers' websites. This does not mean that your details have been passed to the advertiser in question.
+e. (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of MBI and its customers), to any relevant authority or third party requiring MBI to disclose the identity of or locate anyone posting such material on an MBI website; and
 
-Wilmington Group undertakes research on our users' demographics, interests and behaviour based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve you, the user. This research is compiled and analysed on an aggregated basis. Wilmington Group may share this aggregated data with advertisers or business partners. We will use our reasonable endeavours to ensure, where reasonable, that our business partners and advertising customers have effective on-line privacy policies and have notified their processing under the Data Protection Act 1998 (as all of our relevant businesses have).
+f. to any individual making a subject information request to MBI.
 
-Please be aware that Wilmington Group advertisers or websites that have links on our site may collect personally identifiable information about you. The information practices of those websites linked to Wilmington Group are not covered by this privacy statement.
+3\. In the event that MBI (or a relevant part of MBI) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant MBI business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom MBI is negotiating such a sale/merger as part of the verification exercise carried out on MBI by the third party.
 
-### What is Wilmington Group's Email Unsubscribe Policy
+4\. In processing your information in accordance with the above, MBI may (to the extent permitted by the DPA) send it outside the European Economic Area (“EEA”). MBI will take all reasonable steps to ensure that in such circumstances your data is treated securely and in accordance with this Privacy Policy but your attention is drawn to the fact that the laws of countries outside the EEA may provide lesser protection to your information than the UK. When you submit your personal information to MBI you consent to the transfer of your information outside the EEA unless you specifically indicate otherwise.
 
-Users who wish to no longer receive our newsletters or promotional emails may click on a link named “Unsubscribe” which is embedded with every email sent by all Wilmington Group companies. However, please note that you cannot opt-out in this way from receiving emails related to paid products services which you are subscribing to or purchasing.
+Registration
 
-### With whom does Wilmington Group share my information?
+1\. To access certain parts of the MBI websites, MBI may require you to register and provide certain information about yourself.
 
-Wilmington Group plc and its associated companies are prohibited by virtue of the Data Protection Act 1998 from disclosing any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or when it is necessary under the circumstances described below. The following describes some of the ways that your information may be disclosed.
+2\. You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to:
 
-When you are on a Wilmington Group site and are asked for personal information, you may not be sharing that information with Wilmington Group alone. Some services are offered jointly with a partner company. In order to provide this co-branded service to you, it is necessary for us to share your personal information with those partner companies.
+a. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and
 
-Promotions and competitions that run on Wilmington Group's sites may be sponsored by companies outside the Wilmington Group or may be co-sponsored by us and another company. Some or all data collected during a promotion may be shared with the sponsor. If personally identifying data about you will be shared, we will tell you when we collect the data.
+b. maintain and promptly update the Registration Data to keep it fully up to date.
 
-If you make a purchase from a site hosted by Wilmington Group, the information obtained during the purchasing transaction, and the information you give such as your credit card number and contact information, is provided to the merchant concerned. This is to enable transactions to take place. You agree that Wilmington Group plc and its associated companies have no responsibility or liability for any such independent store privacy policies.
+Security
 
-From time to time, you may be offered the opportunity to receive materials or special offers from selected third parties outside the Wilmington Group. If you consent to receive information from these third parties you are giving us permission to share your name and email and/or physical address details with them.
+We implement a variety of security measures to maintain the safety of your personal information. To prevent unauthorised access or disclosure, your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential.
 
-Some services are offered on condition that you provide personal information and allow that information to be shared with third parties.
+Controlling your personal information
 
-Under confidentiality agreements, Wilmington Group may match user information with third party data. Also, Wilmington Group companies may disclose aggregated user statistics (for example, “58% of users are executives in SMEs”) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Wilmington Group may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Wilmington Group's Terms, Database Rights or Copyright or may be causing injury to or interference with (either intentionally or unintentionally) Wilmington Group's rights or property, other Wilmington Group users, or anyone else that could be harmed by such activities.
+• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-On some types of Wilmington Group promotions, we will ask for your email address in order to update you on your score, entries and status. When you participate in these types of promotions, you automatically receive promotion-related email. Sometimes these promotion-related email messages may include targeted advertisements.
+• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us.
 
-As indicated here, from time to time Wilmington Group may allow user information to be used by other reputable organisations as permitted under the Data Protection Act 1998. If you do not wish to allow your data to be shared, you can choose not to use a particular service, not to participate in certain promotions or contests, or you can select to opt-out of your information being shared on the registration page as appropriate.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-### How can I access my information?
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you, please write to security@mb-insight.com to contact our Data Protection Officer.
 
-If you have any requests concerning access to your personal information or any queries with regard to these practices, please contact our Data Protection Officer by e-mail: [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
+
+The legitimate interests pursued by the controller or by a third party
+
+Where the processing of personal data is based on Article 6(1) lit.f GDPR. Our legitimate interest is to carry out our business in favour of the well-being of all our employees and the shareholders.
+
+COOKIE POLICY
+
+Introduction
+
+When you visit a MBI website(s), MBI uses “cookie” technology to try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about your use of the website. A number of cookies MBI use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
+
+MBI use cookies to:
+
+• create a specific log-in session for a visitor to a MBI website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+
+• recognise when a visitor to a MBI website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+
+• customise elements of the promotional layout and/or content of the pages of the website;
+
+• store your product selections to the shopping basket;
+
+• collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
+
+• gather information through our advertising partners, about the pages on the MBI website(s) that you visit, and other information about other websites that you visit, to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest-based advertising, and about how to turn this feature off please visit www.youronlinechoices.co.uk or follow the link to the website of our third parties. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+
+Some of the cookies used by MBI websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on a MBI website(s) you may not be able to take full advantage of the website(s) if you do so.
+
+Our cookies
+
+The main cookies we use are here:
+
+SQ_SYSTEM_SESSION – Stores your PHP sessionid so we can store data as part of the standard PHP session system. If you are not logged in, it usually stores nothing, except the fact that you are not logged in.
+
+Third Party Cookies
+
+Certain cookies are either set by third parties on the Website or these are set by us using the third parties’ cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether content is of interest
+
+Webtrends – This stores your PHP sessionid so we can store data as part of the standard PHP session system. WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or many infrequent visitors. The cookie only relates to what goes on in this website. For more information – http://webtrends.com/privacy-policy
+
+Google Analytics – These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information – http:/www.google.co.uk/intl/en/analytics/privacyoverview.html
+
+Third Party Websites
+
+Please be aware that MBI does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy and Cookies Policy.
