@@ -1,79 +1,67 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021011515id_/https%3A//www.estatesales.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195321id_/https%3A//www.estatesales.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At EstateSales.NET we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
-    
-    
-        EstateSales.NET 100 S High St Jackson, MO 63755
-        E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
-        Phone: (888) 653-8468
-      
-
-### Does this website use cookies to keep track of my information?
-
-Yes, this website uses cookies. One common example of how we use cookies is a city selection. When you choose a city to look at, we save that information in a cookie so that the next time you visit our site, we can take you to the most probable city that interests you without having to ask.
-
-### What types of information does this website collect?
-
-We collect the following types of information:
-
-  * Traditional contact information such as mailing address, phone number, and fax number.
-  * Internet contact information such as e-mail addresses.
-  * Web pages visited, click stream data, and other navigation information.
-  * Non-financial identification information, such as username and password combinations.
-  * Estate Sale companies and some individuals provide us with estate sale information and financial information.
-
-
-
-### Why is this website collecting the information?
-
-We collect the information for the following purposes:
-
-  * To complete the current activity of the visitor.
-  * For website administration purposes.
-  * To evaluate, review, or improve the website.
-  * To customize the website for the user on multiple visits to the site.
-  * To notify visitors of updates to the sites, and/or contact them to market products or services.
-  * To send a weekly newsletter with regard to upcoming estate sales.
-
-
-
-### Who will receive the information?
-
-The information will be shared with the following parties:
-
-  * Our internal staff and our direct agents, such as a printing bureau.
-
-
-
-We do not want our own information shared or sold, so we do not do that with your information. We will never sell, rent, give away, or share your information.
-
-### How long will the information be kept?
-
-  * Information like e-mail addresses and sale preferences are kept until the user decides he or she does not want to be e-mailed anymore.
-  * Estate Sale information is usually kept until one month after the sale has occurred.
-
-
-
-### Can I review my information?
-
-Our website allows you to review the contact information we keep about you. This is done by clicking on the link in the estate sale e-mail or by logging in on the site under Subscribers or Admin (depending on whether or not you are a company).
-
-### Can I opt-out at any time?
-
-Yes, you can unsubscribe at any time by one of the following methods. We will normally unsubscribe your address within 30 minutes. It can take up to one business day though.
-
-  1. Click the link at the bottom of a notification e-mail that you received from us and follow the instructions.
-  2. Reply to any e-mail that you have received from us and ask to be unsubscribed or removed
-  3. Log into our web site and make the changes there:  
-[Log In](https://web.archive.org/account)
+  1. **Introduction.**
+    1.  **Effective Date.** The effective date of this Privacy Policy is June 4th, 2018.
+    2.  **Purpose.** Vintage Software, LLC ("Vintage Software" or "Company") is committed to respecting the privacy rights of users of the EstateSales.NET website, the EstateSales.NET service, and any software applications made available by Vintage Software, such as any mobile device application Vintage Software makes available (together, the "Service"). Vintage Software has published this "Privacy Policy" to show its commitment to fair information practices and to the protection of privacy.
+    3.  **Scope.** This Privacy Policy is only applicable to the Service, and not to any websites or services of third parties ("Third Party Websites"), which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. For additional information, see Section 11 (Third Party Websites) and Section 4.2.3 (Third Party Cookies and Advertising).
+    4.  **Separate Terms of Service.** By using the Service, you represent and warrant that you have also read and understood, and agree to be bound by, both this Privacy Policy and Vintage Software's separate Terms of Service document (the "Terms of Service"), which is incorporated by reference and made part of this Privacy Policy. The Terms of Service document is available at [https://www.estatesales.net/terms-of-service](https://web.archive.org/terms-of-service).
+    5.  **No Permission Without Agreement.** By using the Service, you represent and warrant that you have read and understood, and agree to the terms of, this Privacy Policy. If you do not understand or do not agree to be bound by this Privacy Policy, you must immediately cease using or accessing the Service.
+  2.  **Updates and Changes to Privacy Policy.**
+    1. Each time you access the Service, the then-current version of this Privacy Policy will apply. Each time you use the Service, we recommend that you check the date of this Privacy Policy in Section 1.1 (Effective Date) and review any changes since the last time you used the Service.
+    2. Although most changes are likely to be minor, Vintage Software reserves the right, at any time and without notice, to add to, update, change, or modify this Privacy Policy, simply by posting a new version on this page. Any such addition, update, or change will be effective immediately on posting. Unless Vintage Software obtains your express consent, any revised Privacy Policy will apply only to information collected after the effective date of the revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
+  3.  **Children's Privacy.** Vintage Software does not solicit or knowingly collect Personal Information from children under the age of 13. If Vintage Software obtains actual knowledge that it has collected Personal Information from a child under the age of 13, Vintage Software will immediately delete that information from its database. Because Vintage Software does not collect Personal Information from children under the age of 13, Vintage Software has no such information to use or disclose to third parties. Vintage Software has designed this Privacy Policy to comply with the Children's Online Privacy Protection Act ("COPPA").
+  4.  **Information Collection Practices.**
+    1.  **Traffic Data.** Like most website and mobile application operators, Vintage Software collects information that web browsers automatically make available, including: (i) IP addresses; (ii) Internet domain names; (iii) types of devices accessing the Service; and (iv) types of Web browsers accessing the Service (collectively "Traffic Data"). Traffic Data is not meant to personally identify you, although it may be possible to identify you using Traffic Data in combination with other data.
+    2.  **Cookie Policy.** "Cookies" are text files that are placed on your computer by websites that you visit or certain emails that you open. Cookies store a string of information on a user's computer or mobile device, which the user's web browser provides to the Service automatically each time it interacts with the Service. The purpose of Cookies is to identify the user as a unique user of the Service, or to store the user's preferences for that website. Vintage Software uses two types of Cookies: "first-party cookies" and "third-party cookies."
+      1.  **First Party Cookies.** Vintage Software uses first-party Cookies on the Service for the following purposes: (1) to gather visitor and access information relevant to customizing the Service to your interests; and (2) to store your login credentials so you do not have to re-enter it each time you use the Service.
+      2. If you do not wish to have first-party Cookies placed on your computer or mobile device, you should set your web browser to refuse Cookies before accessing the Service. However, certain features of the Service may not function properly without the aid of Cookies. If you refuse Cookies, you assume all responsibility for any resulting loss of functionality.
+      3.  **Third Party Cookies and Advertising.**
+        1.  **Ad Serving.** Vintage Software uses third parties for providing advertising which helps financially support the Service.
+        2.  **Google Advertising.** In addition to these purposes, Google, Inc. ("Google") uses third-party Cookies to serve online interest-based advertisements on EstateSales.NET. As an important example, Google uses a cookie known as "DoubleClick" to enable both Google and Google's third-party marketing partners to serve advertisements to you based on information gathered during your use of the Service or your visit to other websites and services.
+        3.  **Advertising on Third Party Websites.** Vintage Software may advertise on other Third Party Websites to you after you access the Service. We and third-party marketing partners, including without limitation Google, may use first party Cookies (such as the Google Analytics cookie), third party Cookies (such as the DoubleClick cookie), and web beacons (such as the Facebook conversion tracking pixel), including across multiple devices, to inform, optimize, and serve advertisements to you based on your use of the Service. This practice is commonly known as retargeting or remarketing (see <https://en.wikipedia.org/wiki/Behavioral_retargeting>).
+        4.  **Google Analytics.**
+          1. Google Analytics is Google's analytics tool that helps website and app owners to understand how their visitors engage with their properties. It may use a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. The main cookie used by Google Analytics is the "__ga" cookie. Vintage Software uses Google Analytics on the EstateSales.NET website and its other Services.
+          2. In addition to reporting website usage statistics, Google Analytics can also be used, together with other advertising cookies (including the cookies described in Section 4.2.3.2 (Google Advertising)), to help show more relevant ads on Google properties (like Google Search) and across the web.
+        5.  **Data Collection by Third Parties.** Any of these third parties may place Cookies on your computer or mobile device, use web beacons (see <https://en.wikipedia.org/wiki/Web_beacon>), and gather IP addresses and log data to collect traffic and activity data to deliver relevant metrics, content, and advertising.
+      4.  **Opting Out of Third Party Cookies.**
+        1. You may customize your Google Cookies preferences or opt out of using Google Cookies on the Google Ads Settings page at <https://www.google.com/settings/ads>.
+        2. You may learn about Facebook Cookies and how to customize your preferences at <https://www.facebook.com/about/ads>.
+        3. You may opt out of using other third parties' Cookies by visiting the Network Advertising Initiative opt-out page at [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). You can also learn more about how to delete or control Cookies at <https://www.aboutcookies.org/>.
+    3.  **Personally Identifiable Information.** To use certain features of the Service, you will be asked to provide Vintage Software certain personally identifiable information ("Personal Information"). Personal Information includes the following categories, without limitation: (1) "Contact Data" (such as your name, phone number, fax number, mailing address and email address); (2) "Financial Data" (such as your credit/debit card number and expiration date); (3) "Demographic Data" (such as your gender and ZIP code); and (4) "Third Party Social Media Account Data" (such as your account information for third party social media accounts when you access the Service in connection to those accounts). In each case, you will be asked to provide Personal Information; the Service will not gather it secretly. Vintage Software may supplement the Personal Information you provide with additional Personal Information gathered from public sources or from third parties (e.g., consumer reporting agencies) who may lawfully provide that information to Vintage Software. You are under no obligation to provide Personal Information, with the caveat that your refusal to do so may prevent you from using certain features of the Service.
+    4.  **Specific Information Collected.** Vintage Software may collect the following specific items of Personal Information, depending on how you use Service:
+      1. name;
+      2. address;
+      3. email address;
+      4. phone (including home, mobile, work, and fax);
+      5. financial account information, including credit card number, expiration date, name on card, and CVV
+      6. photograph
+      7. social media usernames/handles
+    5.  **Information You Make Public.** The Service may contain features (e.g., instant messages, electronic messaging, etc.) that allow you to upload, post, transmit, display, perform, or distribute content, or other information, including your Personal Information. Any information that you choose to disclose through such features becomes public information over which Vintage Software is unable to exercise control. You should exercise caution when deciding to disclose your Personal Information through these features, and you agree to assume all responsibility for doing so.
+    6.  **Geolocation.** Vintage Software may access and collect information regarding the physical geographic location of your mobile device and/or computer.
+  5.  **Information Use and Disclosure Practices.**
+    1.  **Traffic Data and Information Gathered Using Cookies.** Vintage Software analyzes Traffic Data and information gathered using Cookies to help Vintage Software better understand who is using the Service and how they are using it. By identifying patterns and trends in usage, Vintage Software is able to better design the Service to improve your experience, and to serve you more relevant and interesting content and advertisements. From time to time, Vintage Software may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Service. Vintage Software does not attempt to link information gathered using Cookies to Personal Information.
+    2.  **Personal Information.**
+      1. Generally. Vintage Software uses your Contact Data to send you information about Vintage Software and Vintage Software's products and services, and to contact you when necessary in connection with the Service. Vintage Software uses your Financial Data to verify your qualifications for certain features of the Service and, when necessary, to bill you. Vintage Software uses your Demographic Data to customize and tailor your experience on the Service. Vintage Software uses your Third Party Social Media Account Data in accordance with this Privacy Policy and the privacy policies of third party social media companies, such as Facebook and Twitter. As with Traffic Data and information gathered using Cookies, from time to time Vintage Software may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Service.
+      2.  **Disclosure Practices.** Except under the following categories of circumstances, Vintage Software will keep your Personal Information private, and will not share it with third parties.
+        1.  **Disclosure in Connection with Service.** Vintage Software discloses Personal Information to those who help it provide services, including without limitation those who perform technical, administrative, and data processing tasks such as hosting, billing, customer support, marketing, fulfillment, data storage, and security.
+        2.  **Social Media.** At your direction, Vintage Software discloses your information and your use of the Service on social media platforms. Vintage Software sends your information through the APIs of social media platforms you authorize, in compliance with all applicable laws and the applicable platforms' privacy policies in place when your information is sent.
+        3.  **By Law or to Protect Rights.** Vintage Software discloses Personal Information when required to do so by law, in response to a subpoena or court order, or when Vintage Software believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Vintage Software, third parties, or the public.
+        4.  **Business Transfers; Bankruptcy.** Vintage Software reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Vintage Software's assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and an opportunity to affirmatively opt out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by Vintage Software's successor organization.
+        5.  **Unpaid Accounts.** If you fail to pay any balance owed to Vintage Software in consideration of the provision of the Service, Vintage Software may, as permitted by law, report your Personal Information, including without limitation your unpaid balance, to consumer credit reporting services, collection agencies, and others.
+  6.  **Consent to Receive Electronic Communications From Company.** Without limitation, by registering for the Service and/or by providing your name, email, postal or residential address, and/or phone number through the Service, you expressly consent to receive electronic and other communications from Vintage Software, over the short term and periodically, including email communications, regarding the Service, new product offers, promotions, and other matters. You may opt out of receiving electronic communications at any time by (a) following the unsubscribe instructions contained in each communication; or (b) sending an email to support@EstateSales.NET.
+  7.  **Consent to Receive Electronic Communications from Other Users.** Without limitation, by registering for the Service and/or by providing your name, email, postal or residential address, and/or phone number through the Service, you consent to receive electronic communications, including email, instant messages, video conferencing, and other personal messages from other users of the Service. Without limitation, these are some examples of when you could receive communications from other users:
+    1.  **A Question is Asked.** If you listed a sale or item on this Service, you may receive communications (questions) from other users of the Service.
+    2.  **A Question is Responded to.** If you asked a question, you may receive communications (answers) from other users of the Service responding to your question.
+    3.  **A Request Form is Submitted.** If you are trying to hire an estate sale company, you might submit your information to be distributed to estate sale companies in your area. The estate sale company will receive your personal information. You may receive communications from other users (estate sale companies) of the Service.
+    4.  **A Request Form is Received.** If you are an estate sale company, you might receive communications from other users of the Service trying to decide whether or not to hire you.
+  8.  **Security of Personal Information.** Vintage Software takes security seriously. We use commercially reasonable safeguards to protect against the unauthorized access, use, modification, destruction, or disclosure of your Personal Information. However, due to the realities of data security, Vintage Software is unable to guarantee that any information provided to us will not be accessed, hacked, disclosed, altered, or destroyed by unauthorized parties.
+  9.  **Lost or Stolen Information.** You must promptly notify us if your credit, bank, other financial institution information, username, or password is lost, stolen, or used without permission. In such an event, we will remove the compromised information and update our records accordingly.
+  10.  **User Ability to Access, Update, and Correct Personal Information.** Vintage Software wants your Personal Information to be complete and accurate. As stated in the Terms of Service, by using the Service, you represent and warrant that all information you provide in connection with your use of the Service is current, complete, and accurate, and that you will update that information as needed to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, your Personal Information, visit your personal profile. Through your personal profile, you may review and update your Personal Information that we have already collected.
+  11.  **Third Party Websites.** Vintage Software neither owns nor controls Third Party Websites. Accordingly, Third Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by Vintage Software. Before visiting or providing Personal Information to Third Party Websites, you should inform yourself of the privacy policies and practices (if any) of those Third Party Websites, and should take those steps necessary to, in your discretion, protect your privacy.
+  12.  **Promotional Activities.** From time to time, Vintage Software may conduct contests, giveaways, and other promotions (collectively, "Promotional Activities"). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, Vintage Software may also ask you to participate in surveys designed to help Vintage Software improve the Service. Any Personal Information provided to Vintage Software in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
+  13.  **Business Transitions.** In the event Vintage Software goes through a business transition, including without limitation any merger, acquisition, partnership, business reorganization, debt finance, or sale of company assets, or in the event of an insolvency, bankruptcy, or receivership (together a "Business Transition"), Vintage Software may use information collected in accordance with this Privacy Policy and subject to its restrictions, as part of any such Business Transition. In such instances, your information can be part of the assets transferred.
+  14.  **Do-Not-Track Disclosure.** Vintage Software does not respond to "Do Not Track" signals sent by browsers.
 
 
-
-### What if I think there are inaccuracies in my information?
-
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at:  
-[Contact Us](https://web.archive.org/contact)
-
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us.
