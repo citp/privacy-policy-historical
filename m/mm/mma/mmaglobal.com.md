@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222232624id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625053821id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # MMA Privacy Policy | Mobile Marketing Association
 
@@ -66,4 +66,4 @@ To opt out of Google Analytics, please [click here](https://tools.google.com/dlp
 
 #### How to Contact Us
 
-We can be reached via e-mail at [mma@mmaglobal.com](mailto:mma@mmaglobal.com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
+We can be reached via e-mail at [mma[at]mmaglobal[dot]com](https://web.archive.org/contact/mma/mmaglobal/com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
