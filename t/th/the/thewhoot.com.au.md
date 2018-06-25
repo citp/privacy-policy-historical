@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005180638id_/http%3A//thewhoot.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625090829id_/https%3A//thewhoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The WHOot
 
 Who Australia Pty Ltd A.C.N. 141 199 868 ( **we** , **us** , **our** , or **Who Australia** ) recognises and values the protection of your personal information. We are aware of our obligations under the _Privacy Act 1988_ (Cth) and we will ensure that we fulfil our obligations under that Act.
 
-We also recognise that you may have concerns about our collection of your personal information via our website, which is located at [www.thewhoot.com.au](http://www.thewhoot.com.au/) (the **Website** ) and how we may use that information.
+We also recognise that you may have concerns about our collection of your personal information via our website, which is located at [www.thewhoot.com.au](https://thewhoot.com/) (the **Website** ) and how we may use that information.
 
 We have implemented this Privacy Policy in order to inform you about how we will collect, store, use your personal information and under what circumstances we may disclose your personal information.
 
@@ -15,14 +15,8 @@ Please note that this Privacy Policy forms part of the Terms of Use document, wh
 From time to time, we may ask you to supply personal information such as your name, address, date of birth, telephone number or e-mail address. However, under no circumstances will we request or collect any information from you that may disclose your:
 
   * political, religious or philosophical beliefs or affiliations;
-
-
   * health and sexuality;
-
-
   * racial or ethnic origin; or
-
-
   * criminal convictions.
 
 
@@ -48,11 +42,7 @@ You may opt out of these additional communications at any time and can do so by 
 Your personal information, including your e-mail address, will be used for the following primary purposes:
 
   1. to ensure the proper functioning of the Website;
-
-
   2. to ensure the proper functioning of the ‘The Whoot’ business; and
-
-
   3. to assist Who Australia with our marketing, planning, product development and research requirements.
 
 
@@ -60,14 +50,8 @@ Your personal information, including your e-mail address, will be used for the f
 We will not use or disclose (or permit the use or disclosure of) personal information that could be used to identify an individual member in any circumstances except:
 
   * to ensure the proper functioning of our business and the Website
-
-
   * to communicate promotional offers and special events to you;
-
-
   * where the law requires us, or authorises us to do so; or
-
-
   * where you have given express consent to us for a prescribed purpose.
 
 
@@ -96,4 +80,4 @@ If you have any concerns or questions about our Privacy Policy, please contact u
 
 We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
 
- _Privacy Policy last updated on 15 November 2016._
+ _Privacy Policy last updated on 21 May 2018._
