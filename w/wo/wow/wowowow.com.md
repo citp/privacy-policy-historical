@@ -1,79 +1,59 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227133213id_/http%3A//wowowow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625083133id_/https%3A//www.purewow.com/entry_name/national/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | wowOwow
+# Privacy Policy | PureWow
 
-The following Privacy Policy governs the online information collection practices of The Women on The Net Inc.. We have developed this Privacy Policy to demonstrate our commitment to protecting any information we gather about you while you are using wowowow.com. The Policy describes the type of information we collect from you, how that information may be used and shared and what steps are taken to protect it. Please carefully review our information collection practices and privacy protections below.  
-**  
-Publicly Shared Information**
+Wow Media Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Daily Email or visit our Web Site. Please read this notice carefully.
 
-Certain areas of our site contain information supplied by visitors and others. wowowow.com is not responsible for comments, advice, information, or any other posting made by visitors or others in these areas. We reserve the right to review materials posted in any public areas and to delete or edit them, for any reason, at any time.  
-**  
-Information You Provide to Us**
+#### Personal Information
 
-The only personal information this website obtains about you is information voluntarily provided by you through our website. This means that it is possible to visit and navigate through our site without giving us personally identifiable information. To contribute comments, images, multimedia or other content to the site you must register. When registering you will be required to provide us with a limited amount of personal information such as your name and e-mail address.
+To receive your PureWow e-mails, we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. PureWow does not collect any other personally identifiable information that you do not expressly provide. PureWow will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. PureWow may share your personal information for the purpose of delivering our e-mail to you or as required by law.
 
-During registration and at other times while using the site you may also be asked to provide us with additional information such as gender, salary/income, postal address, etc. This additional information is entirely voluntary.
+#### Non-Personal Information
 
-**Information that is Automatically Collected**
+We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our daily email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in PureWow emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
 
-We collect information about our readers as a group through standard analysis of our web server log files. This information may include your computer’s IP address, information about your web browser and operating system and the pages you visit.
+#### Usage Information
 
-In addition, we will also track basic usage information such as click patterns, referring/exit pages, browser identification and clickstream information through web analytics software.
+In addition to collecting personal and non-personal information, PureWow may also collect non-personal, aggregated information about subscribers' use of our daily email and site. This information is not personally identifiable and will only be used to find out how subscribers use our daily email, site and services. For example, this information will tell us how often a user opens the daily email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
 
-Third party advertisers or ad servers that place advertising on the site may also collect information from you via cookies, web beacons or gifs. The use and collection of your information by these third parties is governed by their third party privacy policy and is not covered by, and may differ from this privacy policy.  
-**  
-Required Disclosures**
+#### Review and Access
 
-We may need to disclose your personally identifiable information when required by law. In such cases, we may raise or waive any legal objection or right available to us. You authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
 
-**Use of Personal Information**
+#### How to Unsubscribe
 
-We use the information we collect from you in a variety of ways, including using it to customize features and advertising that appear on the site as well as newsletters sent to your email address. When you provide us with your personal registration information you may have the option of informing us that you would like to receive promotional offers from us and/or third parties. This selection authorizes us and third parties to use the information that we collect online from you while you are using the site in order to send promotional offers directly to you. If you choose to receive these promotional offers, your information may be used for direct mail or email marketing.
+You can unsubscribe from receiving PureWow emails at any time. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any PureWow daily email or on the bottom of the PureWow homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [info@purewow.com](mailto:info@purewow.com)
 
-You should understand that information you provide through the registration process or post to the public areas of our website or through the use of our platform may be accessible by, and made public through, syndication programs and by search engines, metasearch tools, crawlers, metacrawlers and other similar programs.
+#### Choice/Opt-Out
 
-Certain areas of our website allow you to post information about yourself and communicate with others, as well as post reviews and upload content. Such postings may appear on other websites or when searches are executed on the subject of your posting. When you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available.
+If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
 
-**Use of Non-Personally Identifiable Information**
+#### Third Party Advertising
 
-We use this information to evaluate use of the site and to determine which areas we need to improve. By evaluating usage patterns, demographic, interests and general behavior, we are able to better understand and serve you. This information is used exclusively in aggregate form and is not directly linked to personally identifiable information. This non-personal information will include data such as how many persons visited a particular page or activity, the length of their visit, the average age of our visitors on the site or page, income distribution, or the preferences of our visitors.
+ISome of the ads appearing on our Daily Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to "opt-out", please contact us at info@purewow.com for more information.
 
-**Use of Cookies and Tracking Devices**
+Occasionally, you'll get an email marked "dedicated" or "sponsored" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive PureWow unsponsored emails either. Please see "How to Unsubscribe."
 
-This site uses cookies or other tracking devices. Cookies do not allow the website to access personal information that you haven’t already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser.
+#### Tracking
 
-This site also uses clear GIFs [Graphics Interchange Format] to gather information on visits to our website, track usage of website links and e-mails. We do not disclose personal information that may be linked to our GIF tracking practices to third parties.
+Like most sites, PureWow.com makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly recognize you and simplify your user experience. PureWow will never use cookies to retrieve information from your computer that is unrelated to our site or services.  On occasion, to provide our readers with a more customized experience, we may use, transmit, index, display, and transfer non-personally-identifiable user information.
 
-**Use and Collection of Information by Advertisers and Sponsors**
+#### Third Party Cookies
 
-We use third-party advertising companies to serve ads when you visit our site. These advertising companies may collect and use information (not including your name, address, e-mail address or other personal information) about your visits to our site in order to provide advertisements about goods and services of interest to you.
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
-Our website contains advertisements, including banner ads and/or links to the websites of advertisers or sponsors. These entities may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you link to or visit an advertiser’s, sponsor’s or others’ website, we may frame the site with our website logo. It is important that you understand that you will be subject to the privacy policy and terms of usage agreement of that website operator when you click on a link to their site. We will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
+#### Links to Other Sites
 
-**Third Party Providers**
+As part of the service, PureWow will create links allowing you to access third party sites. PureWow is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information.
 
-Except as otherwise stated in this privacy policy, we do not generally sell, trade, rent, or share your personal information that we collect with third parties, unless you ask or authorize us to do so. To help us better provide some of the services and features of our site, we may provide your personal information to third-parties we have partnered with, for the sole and limited purpose of distributing newsletters, and other electronic publications that we are associated with, which in may be in the form of daily emails. These third-parties are required not to use your information except as necessary to provide the relevant services to you. You expressly consent to the sharing of your personal information with our third-party partner for the sole purpose of receiving newsletters and other electronic publications.
+#### Security
 
-You may indicate a preference to stop receiving further communications from us and our third-party partner and opt out by contacting us directly at [info@wowowow.com](mailto:info@wowowow.com). Should you decide to opt out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties.
+All information described above is stored on restricted database servers.
 
-**Third Party Advertising**
+#### Modification to this Policy
 
-The advertisements appearing on this Web site are delivered to you by 24/7 Real Media, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about 24/7 Real Media, cookies, and how to “opt-out”, please click [here](http://www.247realmedia.com/EN-US/privacy-policy.html).
+PureWow may change this policy, but we'll post any changes here, so be sure to check back for future information.
 
-**Children’s Privacy Statement**
+#### Contact Us
 
-This site is not directed to children under the age of thirteen and we do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the site, we will delete the information from our records.
-
-Because we do not collect any personally identifiable information from children under the age of thirteen, we also do not knowingly distribute such information to third parties. We also do not knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the site.
-
-**Our Security Procedures  
-**  
-We take measures to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors’ personal information if provided. The databases are protected in a secure facility hosted by Rackspace. For information about Rackspace’s security policies please click [here](http://www.rackspace.com/downloads/pdfs/RackspaceSecurityApproach.pdf).
-
-We will review our security measures and Privacy Policy on a periodic basis and we may modify our policies as we deem appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis.
-
-**Questions Regarding Privacy**
-
-If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to: [info@wowowow.com](mailto:info@wowowow.com "Email Us")  
-Amended as of June 22, 2010. The Women on the Net Inc. **  
-**
+If you have any questions about this policy, the daily email or our site in general, please email [info@purewow.com](mailto:info@purewow.com)
