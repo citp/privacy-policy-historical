@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managewp.org privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405035330id_/https%3A//managewp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managewp.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625170418id_/https%3A//managewp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,6 +14,12 @@ Register to share, discuss and vote for the best WordPress stories every day, fi
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
   
+
+
+## Cookies and Tracking Technologies
+
+  
+Cookies on this website allow us to track your browsing behavior, links clicked, device type, and to collect various data about how you use and interact with this website. We use Google Analytics strictly for the purposes of improving how this website works. You can opt-out of use of these technologies at any time by accessing our [Cookie settings](https://managewp.org/#) and changing your preferences.  
 
 
 ## The Information We Collect
