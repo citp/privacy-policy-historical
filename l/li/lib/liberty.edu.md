@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120175919id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625052202id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # Privacy Policy | University Offices | Liberty University
 
@@ -30,7 +30,7 @@ In some instances, our websites use cookies that uniquely identify your browser 
 
 ## Information You Provide to Us
 
-You provide information to Liberty when you fill out online forms on our websites or use a login-required service. Depending on the type of the service, we use your information in different ways as outlined below.
+You provide information to Liberty when you fill out online forms and browse our websites or use a login-required service. Depending on the type of the service, we use your information in different ways as outlined below.
 
 ### Inquiry and Application Forms
 
@@ -51,7 +51,12 @@ You provide information to Liberty when you fill out online forms on our website
 ### Login Sites and Services
 
   * Various websites and web services of Liberty University require users to log in to gain access to information and tools reserved for students, faculty and staff.
-  * Creation of a login account requires you to provide your student or faculty/staff ID number.
+
+
+
+### Web Engagement Data
+
+  * Your engagement data (i.e. analytic info, referral data, form data, etc.) may be used to personalize our communications with you.
 
 
 
