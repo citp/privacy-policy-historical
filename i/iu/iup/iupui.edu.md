@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019122831id_/https%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625122848id_/https%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Notice: Indiana University–Purdue University Indianapolis
+# Privacy Notice: IUPUI
 
 Effective: 2014-11-18
 
 ### Applicability
 
-This privacy notice applies only to the Indiana University–Purdue University Indianapolis (IUPUI) website ([https://www.iupui.edu](https://web.archive.org/web/20171019122831id_/https://www.iupui.edu/index.html)) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by IUPUI will be used only as outlined in this privacy notice.
+This privacy notice applies only to the IUPUI website ([https://www.iupui.edu](https://web.archive.org/web/20180625122848id_/https://www.iupui.edu/index.html)) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by IUPUI will be used only as outlined in this privacy notice.
 
 Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university websites should review the privacy notices for the particular sites they visit. IUPUI is not responsible for the content of other websites or for the privacy practices of websites outside the scope of this notice.
 
