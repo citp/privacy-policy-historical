@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422085500id_/https%3A//www.sportsbikeshop.co.uk/motorcycle_parts/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625192044id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/info/privacy_policy) for the most accurate reproduction.*
 
 # SPORTSBIKESHOP - Privacy Policy
 
@@ -83,6 +83,16 @@ Without limitation, any of the following Data may be collected by this Website f
 
     * 5.2. Any Data used by such parties is used only to the extent required by them to perform the services that SPORTSBIKESHOP LTD requests. Any use for other purposes is strictly prohibited.
 
+    * 5.3. Integration of the Trusted Shops Trustbadge
+
+      * 5.3.1. Following an order, the Trusted Shops Trustbadge is incorporated into this web page in order to display our Trusted Shops trustmark for buyers and the Trusted Shops product offer.
+
+      * 5.3.2. In balancing the various interests, this serves to safeguard our legitimate prevailing interests in an optimised marketing of our offer. The Trustbadge and the services advertised are an offer of Trusted Shops GmbH, Subbelrather Str. 15C, 50823 Köln.
+
+      * 5.3.3. Whenever a Trustbadge is called up, the web server automatically stores a so-called server log file which contains, for example, your IP address, the date and time of retrieval, the data volume transferred and the requesting provider (access data), and documents the retrieval. This access data will not be evaluated and will be automatically overwritten seven days after your visit to the page.
+
+      * 5.3.4. Other personal information will only be transferred to Trusted Shops if you decide, after completing an order, to use Trusted Shops products or have already registered for their use. In this case, the contractual agreement between you and Trusted Shops applies.
+
   6. ## Links to Other Websites
 
 This Website may, from time to time, provide links to other websites. SPORTSBIKESHOP LTD has no control over such websites and is in no way responsible for the content thereof. This Policy does not extend to your use of such websites. Users are advised to read the privacy policy or statement of other websites prior to using them.
@@ -129,18 +139,18 @@ Data security is of great importance to SPORTSBIKESHOP LTD and to protect your D
 
 Name of Cookie | Purpose | Strictly Necessary  
 ---|---|---  
-PHPSESSID | Session related cookies | Ja  
-ls_* | Session related cookies | Ja  
-cart | Stores contents of basket | Ja  
-wishlist | Stores contents of wishlist | Ja  
-free | Stores list of free items in your basket | Ja  
-referral | Stores URL of referring website if any | Nein  
-ref_terms | Stores any search phrases entered to find our website if you used a search engine | Nein  
-affiliate | Stores ID of referring affiliate if any | Nein  
-partner_skin | Used for custom styling of our website | Nein  
-campaign | Stores ID of referring email campaign if any | Nein  
-mc_selected | Tracks the currently selected motorcycle model on our bike specific feature | Nein  
-auto_fill | Allows our website to remember your login details for your convenience | Nein  
+PHPSESSID | Session related cookies | Yes  
+ls_* | Session related cookies | Yes  
+cart | Stores contents of basket | Yes  
+wishlist | Stores contents of wishlist | Yes  
+free | Stores list of free items in your basket | Yes  
+referral | Stores URL of referring website if any | No  
+ref_terms | Stores any search phrases entered to find our website if you used a search engine | No  
+affiliate | Stores ID of referring affiliate if any | No  
+partner_skin | Used for custom styling of our website | No  
+campaign | Stores ID of referring email campaign if any | No  
+mc_selected | Tracks the currently selected motorcycle model on our bike specific feature | No  
+auto_fill | Allows our website to remember your login details for your convenience | No  
   
 and the following third party Cookies may be placed on your computer:
 
