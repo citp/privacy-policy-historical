@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amgreatness.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902074824id_/https%3A//amgreatness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgreatness.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154805id_/https%3A//amgreatness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Greatness
 
-This Privacy Policy governs the manner in which www.amgreatness.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://34.201.232.221 website (“Site”). This privacy policy applies to the Site and all products and services offered by www.amgreatness.com.
+This Privacy Policy governs the manner in which www.amgreatness.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://amgreatness.com website (“Site”). This privacy policy applies to the Site and all products and services offered by www.amgreatness.com.
 
 **Personal identification information**
 
@@ -51,7 +51,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).  You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).  Alternatively, you may opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).  You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).  Alternatively, you may opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 **Other Ad Networks**
 
@@ -67,8 +67,8 @@ www.amgreatness.com has the discretion to update this privacy policy at any time
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://34.201.232.221/terms-service). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://amgreatness.com/terms-service). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message at [Contact Us](http://34.201.232.221/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message at [Contact Us](https://amgreatness.com/contact).
