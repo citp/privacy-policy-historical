@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220202850id_/http%3A//www.spicejet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625165440id_/http%3A//www.spicejet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | SpiceJet Airlines
 
@@ -26,7 +26,3 @@ We employ common web technologies that help to manage our web site, among them:
 General
 
 If we change our information handling practices or other privacy aspects, we will give you as much notice as possible prior to implementation. In rare cases, just like with any company or person, we may need to disclose certain information to comply with a valid legal process, such as a court order, subpoena or search. We also may choose to establish or exercise our legal rights or defend against legal claims.
-
-General 
-
-If we change our information handling practices or other privacy aspects, we will give you as much notice as possible prior to implementation. In rare cases, just like with any company or person, we may need to disclose certain information to comply with a valid legal process, such as a court order, subpoena or search. We also may choose to establish or exercise our legal rights or defend against legal claims. 
