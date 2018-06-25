@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213020230id_/http%3A//www.geninfo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geninfo.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625195817id_/http%3A//www.geninfo.com/privacy) for the most accurate reproduction.*
 
-# General Information Services | Privacy
+# Privacy – GIS
 
 Protecting privacy has always been a top priority at GIS. We believe that a strong privacy policy is good business. To underscore our commitment to privacy, we have amended our online privacy policy on our websites.
 
@@ -16,7 +16,7 @@ These sites only collect personally-identifiable information from you if you cho
 
 II. Cookies
 
-"Cookies" are messages that web servers (computers that deliver web pages) exchange with web browsers (programs that support website interaction, such as Microsoft Internet Explorer). GIS uses these messages in our customer web applications to simplify and enhance the user experience. GIS does not store any personally-identifiable information in cookies. Cookies do not act maliciously on computer systems, nor can they be used to spread viruses or access your computer's hard drive.
+“Cookies” are messages that web servers (computers that deliver web pages) exchange with web browsers (programs that support website interaction, such as Microsoft Internet Explorer). GIS uses these messages in our customer web applications to simplify and enhance the user experience. GIS does not store any personally-identifiable information in cookies. Cookies do not act maliciously on computer systems, nor can they be used to spread viruses or access your computer’s hard drive.
 
 III. Non-personally-identifiable information
 
@@ -38,7 +38,7 @@ As an information company, we value having our data as accurate as possible. Acc
 
 We take steps to protect against the loss, misuse, or unauthorized alteration of personally-identifiable information collected through this website. We recognize the importance of security for all personally-identifiable information collected by our website. We exercise care in providing secure transmission of your information from your PC to our servers.
 
-Once we receive personally-identifiable information, we take steps to protect its security on our systems. In the event we request or transmit sensitive information, such as Social Security Numbers, we use accepted industry standards, such as 128-bit secure socket layer ("SSL") encryption.
+Once we receive personally-identifiable information, we take steps to protect its security on our systems. In the event we request or transmit sensitive information, such as Social Security Numbers, we use accepted industry standards, such as 128-bit secure socket layer (“SSL”) encryption.
 
 We strictly limit access to personally-identifiable information to those employees who need access in order to carry out their job responsibilities.
 
