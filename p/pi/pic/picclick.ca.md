@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picclick.ca privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116012424id_/https%3A//picclick.ca/pages/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625114033id_/https%3A//picclick.ca/pages/terms.html) for the most accurate reproduction.*
 
-# PicClick CA • Terms & Privacy
+# PicClick CA Terms & Privacy
 
 ## Terms of Service
 
