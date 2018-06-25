@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollywoodtimes.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224175655id_/http%3A//mollywoodtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollywoodtimes.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625163114id_/http%3A//mollywoodtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mollywood Times
 
@@ -31,7 +31,7 @@ seen by anyone using the internet .
 **Contents Related to Movies**  
 songs , videos, and Images related to movies we uses on the website is under the sole  
 proprietorship of the producer and his production company. Any enquiries related to movie and news  
-can be forwarded to us directly via our email id – mollywoodtimes@gmail.com
+can be forwarded to us directly via our email id – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **About Movie reviews  **
 
@@ -48,4 +48,4 @@ To whom we share your personal data
 
 Contact us for any further assistance or enquiries about your use of personal information, please
 
-write to us at
+write to us at 
