@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222109id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025327id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Ayurveda
 
@@ -16,15 +16,25 @@ www.planetayurveda.com collects and uses Personal Information and Anonymous Info
 
 Any and all uses of Personal Information by www.planetayurveda.com comply with applicable laws.
 
-## HOW INFORMATION IS COLLECTED
+## HOW INFORMATION IS COLLECTED?
 
 When you communicate with us via our Site, www.planetayurveda.com collects your Personal Information only if you provide it to www.planetayurveda.com voluntarily. Portions of the Site may allow you to provide www.planetayurveda.com with Personal Information in order to deliver requested materials, products or services to you.
 
 ## INFORMATION WE TRACK
 
-### We track the information in two different ways:-
+**You may give us your information by filling in forms on the Site or any Application or by corresponding with us by post, phone, email, on social media or otherwise. This includes information you provide when you:**
 
-#### A. Log Files
+  * Register for an account with us (whether online or in-store);
+  * Place an order;
+  * Sign up to our newsletters;
+  * Request marketing to be sent to you;
+  * Contact our Customer Care Team;
+  * Enter a competition, promotion or survey; or
+  * Give us some feedback.
+
+
+
+#### Log Files
 
 Similar to many websites, www.planetayurveda.com gathers certain anonymous, non-personal information automatically and stores it in web server log files. This information includes:-
 
@@ -40,7 +50,7 @@ Similar to many websites, www.planetayurveda.com gathers certain anonymous, non-
 
 www.planetayurveda.com uses this information to improve our Site, analyze trends, administer the Site, track users movements around the Site, and gather aggregate information about the Site user base as a whole. Aggregate information is data www.planetayurveda.com collects about a group or category of services or Site visitors/users From which individual identities has been removed, and therefore does not include your Personal Information.
 
-#### B. Cookies
+#### Cookies
 
 A cookie is a small text file that is stored on a users computer for record-keeping purposes. It can also help www.planetayurveda.com understand how the Site visitors click to the Site, and what pages they view during their visit. Similar to many websites, www.planetayurveda.com uses a standard technology called a "session cookie" to enable the Site to recognize you during a visit to this Site. The session cookie is stored in temporary memory on your computer and is not retained after you close your browser.
 
@@ -54,11 +64,22 @@ Despite our use of commercially reasonable efforts to protect your Personal Info
 
 ## USE OF PERSONAL INFORMATION
 
-The Personal Information www.planetayurveda.com gathers From you may be used for the following purposes:
+We process personal information for the following Services and purposes:
 
-  1. To provide information, materials, or services that you have requested; and
-  2. To provide you with information and materials about our services, products and/or related materials, such as electronic newsletters and/or promotional e-mails.
-  3. To aware you about certain changes in the website or working of website.
+Account set up, Account management and order processing.
+
+We use personal information such as your name, email address, phone number, card details, and information about your device to:
+
+  1. To set up and administer your account
+  2. To deliver your purchases
+  3. To provide customer care and technical support
+  4. To process returns
+  5. For security and to verify your identity
+  6. To take payment and process refunds
+  7. Fraud protection
+  8. To send you messages by email, SMS or otherwise such as order updates
+  9. To provide you with marketing (where we have the right to do so – see marketing section below)
+  10. To communicate with you
 
 
 
@@ -68,6 +89,8 @@ www.planetayurveda.com may create Anonymous Information records From Personal In
 
 ## SHARING / DISLCOSURE OF PERSONAL INFORMATION
 
+Except as set out in this Privacy Policy, we do not sell, rent, share, trade or giveaway any of your personalized information to third parties unless we have your express permission or are required by law to do so.
+
   1. Sharing Personal Information with partners and affiliates www.planetayurveda.com/ Krishna Herbal Company may share some or all of your Personal Information with Affiliates, in which case www.planetayurveda.com will require our Affiliates/partners to honor Privacy Policy of www.planetayurveda.com
   2. Sharing Personal Information in the event of Acquisition In the unlikely event that www.planetayurveda.com is acquired merges with another entity or sells portions of its assets; our databases (which may contain your online personal information) will be among transferred assets.
   3. Disclosing Personal Information to Comply with Laws and Similar Disclosure www.planetayurveda.com may disclose your Personal Information if it believe in good faith that such disclosure is necessary to:- 
@@ -75,6 +98,42 @@ www.planetayurveda.com may create Anonymous Information records From Personal In
     2. To protect and defend our rights or property, and/or the rights or property of the visitors/users of our Site, or third parties.
 
 
+
+## YOUR RIGHTS
+
+Under the General Data Protection Regulation, you, as a data subject have a number of rights which are detailed below. Some of these only apply in specific circumstances and are qualified in several respects by exemptions in data protection legislation. We will advise you in our response to your request if we are relying on any such exemptions.
+
+### Right to access
+
+You have the right to request information about the personal data we hold on you at any time. You can contact Planet Ayurveda and we will provide you with your personal data via e-mail. You should include adequate information to identify yourself and such other relevant information that will reasonably assist us in fulfilling your request.
+
+### Right to rectification
+
+You can request us to rectify and correct any personal data that we are processing about you which is incorrect. If you have a Planet Ayurveda account you can edit or delete your personal data in my account section under privacy setting.
+
+### Right to portability
+
+Whenever Planet Ayurveda processes your personal data, by automated means based on your consent or which was necessary for us to provide you with our products and services, you have the right to get a copy of your data transferred to you. This only includes the personal data you have submitted to us. You may have the right to have your personal data transferred by us directly to an other organisation, if this is technically feasible.
+
+### Right to erasure
+
+You have the right to erase any personal data processed by Planet Ayurveda at any time except for the following situations:
+
+  1. you have an ongoing matter with Customer Service
+  2. you have an open order which has not yet been shipped or partially shipped
+  3. you have an unsettled debt with Planet Ayurveda, regardless of the payment method
+  4. if you are suspected or have misused our services within the last four years
+  5. if you have made any purchase, we will keep your personal data in connection to your transaction for book-keeping purposes
+  6. Your right to object to processing based on legitimate interest: 
+  7. You have the right to object to processing of your personal data that is based on Planet Ayurveda's legitimate interest. Where we suspend our processing of your personal data we will still be permitted to store your personal data, but any other processing of this information will require your consent, subject to certain exemptions. When you do so your account will cease to exit and you will be considered inactive.
+
+
+
+### Right to withdraw consent
+
+Where we have relied upon your consent to process your personal data, you have the right to withdraw that consent.
+
+To opt out of marketing, you can use the unsubscribe link or the opt-out option found in the marketing communication you receive from us. For other marketing preferences, you can visit the **My Account** tab when you log into your account or the " **Contact Us** " option within the relevant Service.
 
 ## POSTING TO PUBLIC AREAS
 
@@ -86,7 +145,7 @@ Upon your written request through email/fax or letter, we will allow you to revi
 
 ## DELETION OF DATA
 
-We keep Personal Information for an unlimited time period. However you can ask us to delete your Personal Information From our marketing databases, and if you do that we will comply as soon as practicable. If you would like to submit revisions to your Personal Information, please do so on the website or you may send them via e-mail to [herbalremedies123@yahoo.com](mailto:herbalremedies123@yahoo.com).
+We keep Personal Information for an unlimited time period. However you can ask us to delete your Personal Information From our marketing databases, and if you do that we will comply as soon as practicable. If you would like to submit revisions to your Personal Information, please do so on the website or you may send them via e-mail to [herbalremedies123@yahoo.com](mailto:herbalremedies123@yahoo.com). OR You can directly go to Privacy Settings under My Account and can delete your account. 
 
 ## AGE
 
@@ -108,4 +167,4 @@ You should be aware that the privacy regulations are not harmonized across the w
 
 This Privacy Policy is subject to occasional revision, and changes will be posted on this page. Any changes to this Privacy Policy will be communicated on this page. You are urged to return to check the Privacy Policy for the latest updates prior to submitting any Personal Information through the Site.
 
-This Privacy Policy was created in March 2013
+This Privacy Policy was created in June 2018
