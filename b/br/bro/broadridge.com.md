@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608011108id_/http%3A//www.broadridge.com/privacy/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625132932id_/https%3A//www.broadridge.com/legal/privacy-statement-english) for the most accurate reproduction.*
 
 # Privacy Statement | Broadridge
 
 Broadridge believes that privacy is important to the success and use of the Internet. This Statement describes the practices that Broadridge will follow with respect to the personal information it collects from users of www.broadridge.com and other Broadridge websites, mobile applications, or hosted websites that link to this Privacy Statement.
 
-**What is personal information?**
+* * *
+
+## What is personal information?
 
 “Personal information” is information that can be used to identify or contact you. Personal information includes your name, address, e-mail address, and phone number, as well as information you provide us about your interests and preferences.
 
 In some cases, we operate or host websites owned by our clients, including banks, brokers, mutual funds and corporations or other business entities (the “Business Owner” of the website). On these hosted sites, we may also collect sensitive personal information that you provide, which for some services may include your account number and Social Security number, as well as information you provide when you access your account online or conduct transactions. All personal information and sensitive personal information collected via these hosted sites is considered “Confidential Information.”
 
-**How do we collect, use, and disclose personal information?**
+## How do we collect, use, and disclose personal information?
 
 On Broadridge websites we collect personal information that you provide so that we may provide you or our clients with, or contact you about, products, services and information, to enhance your site visit or follow up with you after your visit.
 
@@ -24,7 +26,7 @@ Please note that we may always disclose any information as required by law, when
 
 Finally, if you are located outside the United States, your personal information will be maintained by us in the U.S. We may transfer your personal information to countries outside your location or the U.S. However, we assure adequate protection for your personal information in compliance with all applicable laws.
 
-**Cookies and Other Data Collection Technologies**
+## Cookies and Other Data Collection Technologies
 
 When you visit our website or use our mobile applications, we may collect certain information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs and web beacons. We do not, however, use tracking or cookie technology on pages of our websites that provide notice and access hosting services to public companies.
 
@@ -34,13 +36,11 @@ We may also use Flash Cookies (also known as Local Stored Objects) and similar t
 
 In connection with Broadridge marketing efforts, we may use pixel tags and web beacons.  Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action. These tools allow us to measure response to our communications and improve our web pages and promotions. Information collected using these technologies in our e-mails may be associated with the recipient’s e-mail address.
 
-We collect many different types of information from cookies and other technologies. For example, we may collect information from the device you use to access our website, your 
-
-operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address assigned to the device you use to connect to the Internet. An IP address is a unique number that devices use to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to Broadridge and the website you visit after you leave our site. 
+We collect many different types of information from cookies and other technologies. For example, we may collect information from the device you use to access our website, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address assigned to the device you use to connect to the Internet. An IP address is a unique number that devices use to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to Broadridge and the website you visit after you leave our site. 
 
 In many cases, the information we collect using cookies and other tools is only used in a non-identifiable way, without any reference to Personal Information. For example, we use information we collect about all website users to optimize our websites and to understand website traffic patterns. In some cases, we do associate the information we collect using cookies and other technology with your Personal Information. This Privacy Statement applies to the information when we associate it with your Personal Information.
 
-**Browser Tracking Information**
+## Browser Tracking Information
 
 On some of our sites, such as [www.broadridge.com](http://www.broadridge.com/) and Advanced Annual Meeting Solutions’ websites (the Shareholder Forum and Virtual Shareholder Meeting, which may be customized for the Business Owner), and mobile applications Broadridge directly or through third parties uses Google Analytics, Adobe Analytics, and/or Demandbase, Inc.’s (“Demandbase’s”) web analytics to provide Broadridge or its clients with information about the use of Broadridge’s websites. 
 
@@ -52,13 +52,13 @@ Broadridge provides Demandbase with the IP addresses recorded by Broadridge’s 
 
 Although our websites currently do not have a mechanism to recognize the various web browser Do Not Track signals, we do offer individuals choices to manage their cookie preferences as described above. To learn more about browser tracking signals and Do Not Track please visit <http://www.allaboutdnt.org/>
 
-**Social Media Interactions and Interest-based Ads** ****
+## Social Media Interactions and Interest-based Ads
 
 Our websites may enable you to interact with us and others via social media platforms, such as Facebook, Twitter, LinkedIn and Instagram. While we respect each social media platform’s privacy policies, we may collect personal information about you and your friends if you choose to use these tools.
 
 We may display interest-based ads to you when you are using platforms such as Facebook and Google. These platforms allow us to personalize the ads that we display to you. We do not share any of your personal information with these platforms, although we may convert your email address into a unique number which can be matched by the platform with its user to allow delivery of the advertising. Although we do not provide any personal information to these platforms, they may gain insights about individuals who respond to the ads we display.
 
-**Mobile Applications**
+## Mobile Applications
 
 We may offer mobile applications that allow you to access your account, interact with us online and receive other information via your smartphone. All personal information collected by Broadridge via our mobile applications is protected by the terms of this Privacy Statement.   
 
@@ -66,31 +66,31 @@ When you download our mobile applications, you may choose to allow us to obtain 
 
 We may also offer automatic (or “push”) notifications. We will provide push notifications only to those individual who opt-in to receive such notifications from Broadridge. You do not have to provide location information to Broadridge or enable push notifications to use any of our mobile apps. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
 
-**Do we collect your information for marketing communications?**
+## Do we collect your information for marketing communications?
 
 Broadridge is a business to business service provider and does not market its services to individual consumers. However, Broadridge does provide certain information by subscription and uses an opt-in format for choosing future e-mail communications in specified subject areas. These e-mail communications contain links to unsubscribe from future e-mail communications. Broadridge also may use the personal information you provide on Broadridge websites to contact you to respond to your inquiries or to contact your business about information relating to Broadridge’s or its affiliate’s products and services from time to time. Please email us at [info@broadridge.com](mailto:info@broadridge.com) if you do not want your information used for further marketing contact. Broadridge does not send Broadridge marketing communications to individuals who provide us with personal information via a hosted website for a Business Owner.
 
-**How can you correct, access, and update your information?**
+## How can you correct, access, and update your information?
 
 You may view and edit the personal information you have provided on any of our websites by contacting us using the link provided on such website. Our customer support department can also reasonably assist you with other requests related to information about you that may be maintained by us. Please send requests to [privacy@broadridge.com](mailto:privacy@broadridge.com).
 
-**How do we protect your information?**
+## How do we protect your information?
 
 We take reasonable steps to help prevent the loss, misuse and alteration of the information under our control. For example, we have implemented physical, logical, and administrative procedures to protect and secure the information we process and maintain. We also use encryption and firewall technologies to protect sensitive information during online transmissions.
 
-**How can you help protect your information?**
+## How can you help protect your information?
 
 If you have registered at a Broadridge website or a hosted website, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
 
-**Can we change this Privacy Statement?**
+## Can we change this Privacy Statement?
 
 From time to time, we may want to use personal information in ways that are not anticipated by this Privacy Statement. If we make a material change to this Statement or in how Broadridge will use your personal information, we will notify you either by posting and highlighting the policy changes before they take effect or by directly sending you a notification. We encourage you to periodically review this Privacy Statement to learn how Broadridge is protecting your information.
 
-**International Data Transfers**
+## International Data Transfers
 
-Broadridge and certain affiliates process personal information. Broadridge is committed to handling such personal information in accordance with applicable laws. Personal information transfers from the European Economic Area are authorized by approved model contracts or other appropriate means. Broadridge has historically participated in the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Programs. Although the Safe Harbor framework is no longer a valid basis for the transfer of EU Personal Information, Broadridge continues to comply with the Safe Harbor Principles internally as a demonstration of our commitment to the protection of personal information.
+Broadridge and certain affiliates process personal information. Broadridge is committed to handling such personal information in accordance with applicable laws. Personal information transfers from the European Economic Area are authorized by approved Standard Contractual Clauses or other appropriate means.
 
-**Privacy Protection Policy for Social Security Numbers**
+## Privacy Protection Policy for Social Security Numbers
 
 Broadridge may collect Social Security numbers in the ordinary course of certain of its businesses. Broadridge has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers from unlawful use and unauthorized disclosure. All Broadridge associates and service providers are required to follow these established procedures. 
 
@@ -101,11 +101,11 @@ In particular:
 
 
 
-**Other sites**
+## Other sites
 
 Broadridge sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
 
-**Broadridge Corporate Issuer Solutions Information Security Program**
+## Broadridge Corporate Issuer Solutions Information Security Program
 
 Broadridge Corporate Issuer Solutions, a registered transfer agent, maintains an information security program to address the risk that customer information acquired in the course of its business is disclosed inadvertently without authorization, misused, altered, destroyed, or otherwise compromised. As part of this information security program, Corporate Issuer Solutions has designed and implemented safeguards to prevent such disclosure, misuse, alteration, destruction, or compromise and has implemented appropriate measures to oversee its service providers’ compliance with the program. Corporate Issuer Solutions also has adopted protocols for the proper disposal of any consumer report information acquired in the course of its business.
 
@@ -127,10 +127,110 @@ Corporate Issuer Solutions maintains its records of securities and shareholders 
   * When the disclosure is necessary to prevent fraud
   * When the disclosure is necessary for Corporate Issuer Solutions to perform its duties
   * When providing information necessary for third parties to perform services on behalf of Corporate Issuer Solutions
-  * When the disclosure is required by law.
+  * When the disclosure is required by law
 
 
 
-If you have questions or concerns regarding this statement, you should contact us at [privacy@broadridge.com](mailto:privacy@broadridge.com).
+## Important Information for EEA Residents
 
-_This Privacy Statement was last updated February 1, 2017._
+These provisions explain our practices with regard to European Economic Area (EEA) personal data as required by the EU General Data Protection Regulation.
+
+  1. **Information about Broadridge**
+
+
+
+Broadridge Financial Solutions, Inc.  
+Attn: General Counsel  
+5 Dakota Drive  
+Suite 300  
+Lake Success, New York 11042  
+USA  
+Email: [privacy@broadridge.com](mailto:privacy@broadridge.com)
+
+  2. **The Purposes and Legal Basis for Processing, including Legitimate Interests**
+
+
+
+We only process Personal Information when we have a legal basis for the processing, such as:
+
+  * To fulfill a contract with you
+  * With your consent (where required and provided you have not objected, as may be applicable)
+
+
+
+We may also process your Personal Information for our legitimate interests, provided that such processing shall not outweigh your rights and freedoms.  In particular, we may process your Personal Information as needed to:
+
+  * protect you, us or others from threats (such as security threats or fraud)
+  * comply with the laws that are applicable to us around the world
+  * enable or administer our business, such as for the provision of services to our customers, quality control, consolidated reporting, and customer service
+  * market our products and services to existing and prospective customers
+  * manage corporate transactions, such as mergers or acquisitions
+  * understand and improve our business or customer relationships generally
+
+
+  3. **The Purpose for which we Process your Personal Data**
+
+
+
+We process your Personal Information for the legitimate interests we have referred to above and for the following purposes:
+
+  * processing of customer data in accordance with our client contracts
+  * payment processing and financial account management, contract management, website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance
+
+
+  4. **Your Rights**
+
+
+
+You always have the right to object to our marketing communications.  To opt-out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message.
+
+Broadridge also respects the rights of EEA residents to access, correct and request erasure or restriction of their personal information as required by law.  This means:
+
+  * you generally have a right to know whether or not Broadridge maintains your Personal Information. If we do have your personal information, we will be provide you with a copy (subject to the rights of others).  If your information is incorrect or incomplete, you have the right to ask us to update it 
+  * you have the right to object to our processing of your Personal Information
+  * you may also ask us to delete or restrict your personal information
+  * you may also have the right to data portability in some circumstances
+
+
+
+To exercise these rights, please contact us via email at [privacy@broadridge.com](mailto:privacy@broadridge.com) or write us at the address above, and a member of our Privacy Team will assist you.  Please understand that we may need to verify your identify before we can process your request.  
+
+If you believe that we have processed your Personal Information in violation of applicable law, you may file a complaint with the Broadridge Chief Privacy Officer at [privacy@broadridge.com](mailto:privacy@broadridge.com) or with a supervisory authority. 
+
+  5. **International Transfers**
+
+
+
+Your Personal Information may be transferred to, stored at or processed in the United States and other countries which may not have equivalent privacy or data protection laws.
+
+We generally use approved Standard Contractual Clauses to assure that Personal Information is adequately protected when it is transferred out of the European Economic Area or Switzerland.
+
+  6. **Data Retention**
+
+
+
+We will retain your Personal Information for as long as the information is needed for the purposes set forth in Section 3 above and for any additional period that may be required or permitted by law.  You may request that we delete your Personal Information by contacting us via email at [privacy@broadridge.com](mailto:privacy@broadridge.com).  Unless we are required by law to retain your information, where we are the (i) data controller we will delete your Personal Information upon your request; and (ii) data processor, we will delete Personal Information per the instruction of the data controller.
+
+  7. **Disclosure of Your Personal Information**
+
+
+
+Other than as set out below, your information will not be sold, shared or provided to any third party:
+
+  * we may share your Personal Information with our affiliates and subsidiaries
+  * we may share your Personal Information with our subprocessors in connection with delivery of our services and products
+
+
+  8. **Notification of Changes**
+
+
+
+If we decide to change our privacy policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+  9. **How to Contact Us and our Chief Privacy Officer**
+
+
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement.  You can always reach us via email at [privacy@broadridge.com](mailto:privacy@broadridge.com).  You can also reach us via mail at the address provided above.
+
+This Privacy Statement was last updated May 22, 2018.
