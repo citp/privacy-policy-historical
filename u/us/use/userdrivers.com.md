@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722111437id_/http%3A//www.userdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155300id_/http%3A//www.userdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - User Drivers
 
@@ -28,7 +28,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
@@ -36,7 +36,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 UserDrivers.Com have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information.
 
-This site, UserDrivers.com, use some advertise agent company to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click <http://www.networkadvertising.org/optout_nonppii.asp>
+This site, UserDrivers.com, use some advertise agent company to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [http://www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp)
 
 ### Respect to security
 
