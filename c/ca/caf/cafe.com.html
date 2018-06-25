@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the cafe.com privacy policy that was archived on 2017-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170831040755id_/https%3A//www.cafe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cafe.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625070141id_/https%3A//www.cafe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
@@ -25,9 +25,9 @@
 <link rel="alternate" type="application/rss+xml" title="CAFE » Feed" href="https://www.cafe.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="CAFE » Comments Feed" href="https://www.cafe.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cafe.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.cafe.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.1" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cafe.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.cafe.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -42,15 +42,13 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="all-css-0" href="https://www.cafe.com/_static/??/wp-content/mu-plugins/jetpack/modules/simple-payments/simple-payments.css,/wp-content/themes/cafedotcom/src/style.css?m=1501705384" type="text/css" media="all">
-<link rel="stylesheet" id="open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="all-css-2" href="https://www.cafe.com/wp-content/mu-plugins/jetpack/css/jetpack.css?m=1501705384g" type="text/css" media="all">
-<script type="text/javascript" src="https://www.cafe.com/_static/??-eJyVz1EKwjAMBuAL2XUFh/ggnqWmmWttm9pmTG9vh/VVNgiEwP+FRC5J2Ah+Nlikq/WcMb9b61w5yH8BEew9a8Yu2PgLA0XGyJInDJWAHtEQAwVZMqwbirfw2CUm1CYThV2oXVggk/dMo32hEZsWVJyocJX2tvE19506bVaVuKlruKihVyd17M+D+wD0+oeb"></script>
-<script type="text/javascript" src="https://s.ntv.io/serve/load.js?ver=4.8.1"></script>
+<link rel="stylesheet" id="all-css-0" href="https://www.cafe.com/_static/??/wp-content/themes/fern/src/cafe-style.css,/wp-content/mu-plugins/jetpack/css/jetpack.css?m=1529438172" type="text/css" media="all">
+<script type="text/javascript" src="https://www.cafe.com/_static/??-eJyNz9sOwiAMgOEXkhEPc/HC+CwInQOBYttFfXtZnLduSZPefH/S6mdRPts4OmAd6jxGoPe8msAb/Q+o5G9kBJrk8w9bzAJZtAyQatIDZc1kp5ajt/eVdgDjCDGt5PM9bAljFOz9C5xaSGtWkKU2/rr4QvjuxrjJF6n2ks7bdndsT92+O4QPJpp6Qw=="></script>
+<script type="text/javascript" src="https://s.ntv.io/serve/load.js?ver=4.9.6"></script>
 <link rel="https://api.w.org/" href="https://www.cafe.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cafe.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cafe.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.1">
+<meta name="generator" content="WordPress 4.9.6">
 <link rel="canonical" href="https://www.cafe.com/privacy/">
 <link rel="shortlink" href="https://www.cafe.com/?p=66">
 <link rel="alternate" type="application/json+oembed" href="https://www.cafe.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cafe.com%2Fprivacy%2F">
@@ -65,43 +63,78 @@ img.emoji {
 <meta property="article:published_time" content="2015-09-28T18:19:30+00:00">
 <meta property="article:modified_time" content="2015-10-09T20:48:34+00:00">
 <meta property="og:site_name" content="CAFE">
-<meta property="og:image" content="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=200">
-<meta property="og:image:width" content="200">
-<meta property="og:image:height" content="200">
+<meta property="og:image" content="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
 <meta property="og:locale" content="en_US">
+<meta name="twitter:text:title" content="Privacy">
 <meta name="twitter:image" content="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=240">
 <meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
 <link rel="icon" href="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=32" sizes="32x32">
 <link rel="icon" href="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=192" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=180">
 <meta name="msapplication-TileImage" content="https://www.cafe.com/wp-content/uploads/2017/06/cropped-cafe_blackedges.jpg?w=270">
 		<style type="text/css" id="wp-custom-css">
-			.jw-controls-right .jw-dock {
-margin: 3em 0em;
+			.article-block-medium-long .post-info {
+	
+	width: 100%;
 }
 
-.bracket-black input[type=email]{
-	color:black;
+.sidebar .newsletter-block{
+	
+	background-image: url(/wp-content/themes/fern/src/images/newsletter_300x330.jpg);
+}
+
+.summit-form{
+	display: block
+}
+.postid-21290 #fieldEmail{
+	color: black;
+}
+
+@media screen and (max-width: 600px) {
+
+	.App .nav{
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.App .nav button{
+		margin: 5px 3px;
+	}
+}
+
+.postid-21752 .no-bottom-padding img{
+    height: 200px;
+    width: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.home .article-block-large .meta {
+	display:none;
+	
 }		</style>
 	
 </head>
 
 <body class="page-template-default page page-id-66 group-blog">
-	
+
 <div class="site">
 
-	<div class="site-top-ad ad-holder ad-holder-dark wrap">
+		<div class="site-top-ad ad-holder ad-holder-dark wrap">
 
 			</div> <!-- /.ad-holder -->
-
+	
 	<div class="site-header-spacer"></div>
 
 	<header class="site-header dark">
 
-		<div class="wrap">
-
+		<div class="wrap inner-header">
+			
 							<a href="/" class="site-logo-link">
-					<svg class="site-logo site-logo-with-border" xmlns="http://www.w3.org/2000/svg" viewBox="-1917.241 146.759 90.483 90.483"><g data-name="Layer 1" transform="translate(-1917.241 146.759)"><path data-name="Path 1043" d="M29.4 118a5.6 5.6 0 0 0 5.08.32 10.648 10.648 0 0 0 5.044-3.841 9.592 9.592 0 0 0 2.105-5.806v-4.183l-4.688 1.636v4.138a3.462 3.462 0 0 1-.748 2.083 3.877 3.877 0 0 1-1.839 1.393 2 2 0 0 1-1.83-.117 1.735 1.735 0 0 1-.753-1.569V95.669a3.53 3.53 0 0 1 .753-2.105 3.814 3.814 0 0 1 1.83-1.4 2.011 2.011 0 0 1 1.839.126 1.744 1.744 0 0 1 .766 1.573v3.516l4.688-1.636v-3.424a4.837 4.837 0 0 0-2.083-4.345 5.52 5.52 0 0 0-5.085-.334 10.652 10.652 0 0 0-5.044 3.86 9.637 9.637 0 0 0-2.105 5.815v16.354A4.758 4.758 0 0 0 29.4 118z" transform="translate(-15.01 -47.887)"></path><path data-name="Path 1044" d="M70.6 97.65L75.316 96l1.059 6.518 4.738-1.659L76.1 72.65l-6.221 2.168-5.089 31.739 4.706-1.641zm2.376-17.039l1.672 11.229-3.349 1.167z" transform="translate(-35.583 -39.902)"></path><path data-name="Path 1045" d="M113.981 76l6.095-2.123v-4.542l-6.095 2.128v-8.182l8.344-2.907V55.83l-12.865 4.485V90.3l4.521-1.573z" transform="translate(-60.116 -30.664)"></path><path data-name="Path 1046" d="M157.766 68.921l-8.349 2.912v-8.181l6.1-2.123v-4.544l-6.1 2.123v-8.177l8.349-2.912V43.48L144.9 47.961V77.95l12.866-4.485z" transform="translate(-79.58 -23.881)"></path><path data-name="Path 1047" d="M0 0v90.483h90.483V0zm4.508 85.975V4.508h81.471v81.467z"></path></g></svg>
+										<svg class="site-logo site-logo-with-border" xmlns="http://www.w3.org/2000/svg" viewBox="-1917.241 146.759 90.483 90.483"><g data-name="Layer 1" transform="translate(-1917.241 146.759)"><path data-name="Path 1043" d="M29.4 118a5.6 5.6 0 0 0 5.08.32 10.648 10.648 0 0 0 5.044-3.841 9.592 9.592 0 0 0 2.105-5.806v-4.183l-4.688 1.636v4.138a3.462 3.462 0 0 1-.748 2.083 3.877 3.877 0 0 1-1.839 1.393 2 2 0 0 1-1.83-.117 1.735 1.735 0 0 1-.753-1.569V95.669a3.53 3.53 0 0 1 .753-2.105 3.814 3.814 0 0 1 1.83-1.4 2.011 2.011 0 0 1 1.839.126 1.744 1.744 0 0 1 .766 1.573v3.516l4.688-1.636v-3.424a4.837 4.837 0 0 0-2.083-4.345 5.52 5.52 0 0 0-5.085-.334 10.652 10.652 0 0 0-5.044 3.86 9.637 9.637 0 0 0-2.105 5.815v16.354A4.758 4.758 0 0 0 29.4 118z" transform="translate(-15.01 -47.887)"></path><path data-name="Path 1044" d="M70.6 97.65L75.316 96l1.059 6.518 4.738-1.659L76.1 72.65l-6.221 2.168-5.089 31.739 4.706-1.641zm2.376-17.039l1.672 11.229-3.349 1.167z" transform="translate(-35.583 -39.902)"></path><path data-name="Path 1045" d="M113.981 76l6.095-2.123v-4.542l-6.095 2.128v-8.182l8.344-2.907V55.83l-12.865 4.485V90.3l4.521-1.573z" transform="translate(-60.116 -30.664)"></path><path data-name="Path 1046" d="M157.766 68.921l-8.349 2.912v-8.181l6.1-2.123v-4.544l-6.1 2.123v-8.177l8.349-2.912V43.48L144.9 47.961V77.95l12.866-4.485z" transform="translate(-79.58 -23.881)"></path><path data-name="Path 1047" d="M0 0v90.483h90.483V0zm4.508 85.975V4.508h81.471v81.467z"></path></g></svg>
 					<svg class="site-logo site-logo-no-border" xmlns="http://www.w3.org/2000/svg" viewBox="-1916.878 355 89.879 30"><g data-name="Group 1096" transform="translate(-1916.89 355)"><path data-name="Path 1049" d="M1.1 27.944A6.808 6.808 0 0 0 6.512 30a13.3 13.3 0 0 0 6.974-2.009 10.351 10.351 0 0 0 4.528-4.953l1.613-4.112H13.9l-1.561 4.065a4.16 4.16 0 0 1-1.718 1.776 4.727 4.727 0 0 1-2.55.748 2.3 2.3 0 0 1-1.926-.748 1.567 1.567 0 0 1-.208-1.776l6.248-16.028A3.927 3.927 0 0 1 13.8 5.14a4.727 4.727 0 0 1 2.55-.748 2.479 2.479 0 0 1 1.978.748 1.643 1.643 0 0 1 .208 1.822l-1.353 3.411h5.725l1.3-3.364a4.462 4.462 0 0 0-.625-4.953A6.692 6.692 0 0 0 18.222 0a12.942 12.942 0 0 0-6.974 2.056A10.558 10.558 0 0 0 6.72 7.009L.474 22.991a4.449 4.449 0 0 0 .626 4.953z"></path><path data-name="Path 1050" d="M45.333 23.37h5.777l-1.353 6.73h5.829L60.895.8H53.3L35.6 30.1h5.777zm9.108-15.888l-2.5 11.589h-4.11z" transform="translate(-17.066 -.426)"></path><path data-name="Path 1051" d="M93.309 17.669l7.443.047 1.718-4.486h-7.443l3.123-7.991h10.2L110.068.8H94.35L82.9 30.1l5.517.047z" transform="translate(-39.748 -.426)"></path><path data-name="Path 1052" d="M137.888 25.707h-10.2l3.123-7.991h7.443l1.718-4.439h-7.443l3.123-7.991h10.2L147.62.847 131.85.8 120.4 30.146l15.77.047z" transform="translate(-57.73 -.426)"></path></g></svg>
 				</a>
 			
@@ -109,7 +142,7 @@ margin: 3em 0em;
 			
 			
 			<button class="button button-no-border menu-toggle">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1442 176.956 30.044 30.044"><defs><clipPath id="menu-clip-path1"><rect x="0" y="0" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path2"><rect x="0" y="18" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path3"><rect x="18" y="0" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path4"><rect x="18" y="18" width="12" height="12"></rect></clipPath></defs><g data-name="Group 1089" transform="translate(-2411.956 -13)"><g data-name="Group 1088" transform="translate(969.956 189.956)"><g data-name="Rectangle 281" class="cls-1" clip-path="url(#menu-clip-path1)"><path class="cls-2" d="M0 0h12.018v12.018H0z"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z"></path></g><g data-name="Rectangle 282" class="cls-1" clip-path="url(#menu-clip-path2)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(0 18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(0 18.027)"></path></g><g data-name="Rectangle 283" class="cls-1" clip-path="url(#menu-clip-path3)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(18.027)"></path></g><g data-name="Rectangle 284" class="cls-1" clip-path="url(#menu-clip-path4)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(18.027 18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(18.027 18.027)"></path></g></g></g></svg>
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1442 176.956 30.044 30.044"><defs><clipPath id="menu-clip-path1"><rect x="0" y="0" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path2"><rect x="0" y="18" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path3"><rect x="18" y="0" width="12" height="12"></rect></clipPath><clipPath id="menu-clip-path4"><rect x="18" y="18" width="12" height="12"></rect></clipPath></defs><g data-name="Group 1089" transform="translate(-2411.956 -13)"><g data-name="Group 1088" transform="translate(969.956 189.956)"><g data-name="Rectangle 281" class="cls-1" clip-path="url(#menu-clip-path1)"><path class="cls-2" d="M0 0h12.018v12.018H0z"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z"></path></g><g data-name="Rectangle 282" class="cls-1" clip-path="url(#menu-clip-path2)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(0 18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(0 18.027)"></path></g><g data-name="Rectangle 283" class="cls-1" clip-path="url(#menu-clip-path3)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(18.027)"></path></g><g data-name="Rectangle 284" class="cls-1" clip-path="url(#menu-clip-path4)"><path class="cls-2" d="M0 0h12.018v12.018H0z" transform="translate(18.027 18.027)"></path><path class="cls-3" d="M1.5 1.5h9.018v9.018H1.5z" transform="translate(18.027 18.027)"></path></g></g></g></svg>
 			</button>
 
 		</div> <!-- /.wrap -->
@@ -117,93 +150,36 @@ margin: 3em 0em;
 		<div class="site-menu">
 			<div class="site-menu-inner">
 
-				<form class="site-menu-search">
-					<label class="label-over-input">
-						<span class="label-text">Type to Search</span>
-						<span class="brackets-input-holder">
-							<input type="search" name="s" class="brackets-input">
-						</span>
-					</label>
-				</form>
+	<form class="site-menu-search">
+		<label class="label-over-input">
+			<span class="label-text">Type to Search</span>
+			<span class="brackets-input-holder">
+				<input type="search" name="s" class="brackets-input">
+			</span>
+		</label>
+	</form>
 
-				<nav class="main-menu">
-					<ul class="menu">
-						<li class="menu-item-today" data-hover_class="today"><a href="/">Cafe</a></li>
-						<li class="menu-item-videos" data-hover_class="videos"><a href="/type/videos">Videos</a></li>
-						<li class="menu-item-words" data-hover_class="words"><a href="/type/words">Words</a></li>
-						<li class="menu-item-games" data-hover_class="games"><a href="/type/games">Games</a></li>
-						<li class="menu-item-sounds" data-hover_class="sounds"><a href="/type/sounds">Sounds</a></li>
-					</ul>
-				</nav> <!-- /.main-navigation-->
+	<nav class="main-menu">
+		<ul class="menu">
+			<li class="menu-item-today" data-hover_class="today"><a href="/">Cafe</a></li>
+			<li class="menu-item-videos" data-hover_class="videos"><a href="/type/videos">Videos</a></li>
+			<li class="menu-item-words" data-hover_class="words"><a href="/type/words">Words</a></li>
+			<li class="menu-item-sounds" data-hover_class="sounds"><a href="/type/sounds">Sounds</a></li>
+		</ul>
+	</nav> <!-- /.main-navigation-->
 
-				<nav class="social-menu">
+	<nav class="social-menu">
 	<ul class="menu">
 		<li><a href="https://facebook.com/CAFE" class="button button-icon"><svg class="icon icon-fill icon-facebook" width="7.51" height="16.3" xmlns="http://www.w3.org/2000/svg" viewBox="-1846.275 1140.135 7.515 16.302"><path data-name="Path 1103" d="M14.254 6.676h-1.822a.689.689 0 0 0-.724.774v1.7h2.522l-.275 2.871h-2.222v8.164h-3.4v-8.166H6.74V9.148h1.6V7.275a3.153 3.153 0 0 1 3.4-3.4h2.5v2.8z" transform="translate(-1853.015 1136.255)"></path></svg></a></li>
 		<li><a href="https://twitter.com/cafedotcom" class="button button-icon"><svg class="icon icon-fill icon-twitter" width="17.07" height="13.92" xmlns="http://www.w3.org/2000/svg" viewBox="-1790.902 1141.438 17.066 13.918"><path data-name="Path 1104" d="M368.569 9.532v.441a9.985 9.985 0 0 1-15.389 8.415 7.751 7.751 0 0 0 .824.059 6.969 6.969 0 0 0 4.355-1.5 3.586 3.586 0 0 1-3.3-2.442 4.813 4.813 0 0 0 .647.059 3.1 3.1 0 0 0 .912-.118A3.5 3.5 0 0 1 353.8 11v-.059a3.666 3.666 0 0 0 1.589.441 3.492 3.492 0 0 1-1.56-2.913 3.6 3.6 0 0 1 .471-1.765 10.021 10.021 0 0 0 7.238 3.678 3.657 3.657 0 0 1-.088-.794 3.518 3.518 0 0 1 6.091-2.413 6.654 6.654 0 0 0 2.236-.853 3.523 3.523 0 0 1-1.56 1.942 6.941 6.941 0 0 0 2.03-.559 6.186 6.186 0 0 1-1.678 1.827z" transform="translate(-2144.082 1135.378)"></path></svg></a></li>
 		<li><a href="https://www.instagram.com/cafedotcom/" class="button button-icon"><svg class="icon icon-fill icon-instagram" width="17.82" height="17.82" xmlns="http://www.w3.org/2000/svg" viewBox="-1731.717 1139.014 17.824 17.824"><g data-name="Group 1167" transform="translate(-1731.717 1139.014)"><path data-name="Path 1105" d="M13.324 0H4.5A4.5 4.5 0 0 0 0 4.5v8.823a4.5 4.5 0 0 0 4.5 4.5h8.823a4.5 4.5 0 0 0 4.5-4.5V4.5A4.5 4.5 0 0 0 13.324 0zm2.546 13.324a2.565 2.565 0 0 1-2.546 2.546H4.5a2.565 2.565 0 0 1-2.546-2.546V4.5A2.565 2.565 0 0 1 4.5 1.954h8.823A2.565 2.565 0 0 1 15.87 4.5z"></path><path data-name="Path 1106" d="M22.266 5.2a1.066 1.066 0 1 0 1.066 1.066A1.026 1.026 0 0 0 22.266 5.2z" transform="translate(-8.646 -2.121)"></path><path data-name="Path 1107" d="M11.96 7.3a4.56 4.56 0 1 0 4.56 4.56 4.562 4.562 0 0 0-4.56-4.56zm0 7.224a2.606 2.606 0 1 1 2.606-2.606 2.629 2.629 0 0 1-2.606 2.606z" transform="translate(-3.018 -2.977)"></path></g></svg></a></li>
-		<li><a href="https://www.snapchat.com/add/cafedotcom" class="button button-icon"><svg class="icon icon-fill icon-snapchat" width="16.69" height="16.69" xmlns="http://www.w3.org/2000/svg" viewBox="-1671.078 1139.812 16.695 16.695"><path data-name="Path 1108" d="M16.171 11.739a3.924 3.924 0 0 0-.469-.184 2.888 2.888 0 0 1-2.109-2.21l.762-.307a1.545 1.545 0 0 0 .879-1.719 1.226 1.226 0 0 0-.469-.737A1.141 1.141 0 0 0 14 6.338h-.293l-.234.061a5.527 5.527 0 0 1-.059-.982 4.812 4.812 0 0 0-.41-2.025 4.928 4.928 0 0 0-1.055-1.657A4.167 4.167 0 0 0 10.371.63 4.98 4.98 0 0 0 8.437.2 4.419 4.419 0 0 0 6.5.63a4.673 4.673 0 0 0-1.582 1.1 3.213 3.213 0 0 0-1.11 1.539A5.01 5.01 0 0 0 3.4 5.294c0 .368-.059.675-.059.982l-.234-.061h-.295a1.141 1.141 0 0 0-.762.246 1.226 1.226 0 0 0-.469.737 1.423 1.423 0 0 0 .879 1.719l.762.307a3 3 0 0 1-2.109 2.21 1.6 1.6 0 0 1-.527.307 1.074 1.074 0 0 0-.586.98 1.3 1.3 0 0 0 .469.982 2.655 2.655 0 0 0 .586.307 6.549 6.549 0 0 0 1.055.246.812.812 0 0 1 .059.368 1.357 1.357 0 0 0 .762.859 1.319 1.319 0 0 0 .645.123h.469a1.728 1.728 0 0 1 .586-.061 1.506 1.506 0 0 1 .645.123 3.869 3.869 0 0 1 .7.368 4.576 4.576 0 0 0 2.4.859 4.235 4.235 0 0 0 2.4-.859 3.869 3.869 0 0 1 .7-.368 1.506 1.506 0 0 1 .645-.123c.176 0 .41.061.586.061h.469a1.319 1.319 0 0 0 .645-.123 1.17 1.17 0 0 0 .7-.859.812.812 0 0 0 .059-.368 5.9 5.9 0 0 0 1-.246 1.8 1.8 0 0 0 .586-.307.838.838 0 0 0 .352-.921c.298-.245.239-.736-.347-1.043z" transform="translate(-1671.078 1139.612)"></path></svg></a></li>
 		<li><a href="https://www.youtube.com/channel/UCKQ2X8tEH72TvPu2Tku0Cjw" class="button button-icon"><svg class="icon icon-fill icon-youtube" width="17.64" height="21.42" xmlns="http://www.w3.org/2000/svg" viewBox="-1853.578 558.478 17.636 21.416"><g data-name="Group 3289" transform="translate(-1853.578 558.478)"><path data-name="Path 2676" d="M11.121 122.331a.864.864 0 0 0-.073-.325.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179c.008-1.048.008-2.088.008-3.136zm0 0a.864.864 0 0 0-.073-.325.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179c.008-1.048.008-2.088.008-3.136zm3.924-5.288q-6.227-.134-12.454 0A2.653 2.653 0 0 0 0 119.69v6.483a2.653 2.653 0 0 0 2.591 2.648q6.227.134 12.454 0a2.653 2.653 0 0 0 2.591-2.648v-6.483a2.648 2.648 0 0 0-2.591-2.648zM3.81 126.766H2.616V120H1.373v-1.13h3.68V120H3.81zm4.281-2.811v2.811H7.035v-.642c-.041.041-.057.065-.081.089a1.91 1.91 0 0 1-.82.585 1.028 1.028 0 0 1-.5.049.611.611 0 0 1-.479-.382 1.589 1.589 0 0 1-.114-.609v-4.906H6.1c0 .033.008 2.973.008 4.4a1.15 1.15 0 0 0 .016.236.262.262 0 0 0 .374.211 1.236 1.236 0 0 0 .512-.4.223.223 0 0 0 .016-.106v-4.341h1.065v3.006zm4.037 2.25a.879.879 0 0 1-.9.642 1.17 1.17 0 0 1-.9-.414 1.242 1.242 0 0 0-.106-.106v.447H9.155v-7.9h1.065v2.6a.8.8 0 0 1 .114-.179 1.219 1.219 0 0 1 .609-.39.923.923 0 0 1 1.1.5 2.1 2.1 0 0 1 .171.885v3.314a1.912 1.912 0 0 1-.089.593zm3.924-.219a1.3 1.3 0 0 1-1.121.918 1.805 1.805 0 0 1-1.015-.106 1.4 1.4 0 0 1-.8-1.024 3.555 3.555 0 0 1-.081-.658c-.008-.861-.008-1.73 0-2.6a1.723 1.723 0 0 1 .422-1.219 1.546 1.546 0 0 1 1.324-.512 1.786 1.786 0 0 1 .463.081 1.286 1.286 0 0 1 .877 1.04 2.855 2.855 0 0 1 .057.585c.008.463 0 1.479 0 1.479h-2.035v1.454a.471.471 0 1 0 .942 0v-.731h1.089a5.34 5.34 0 0 1-.122 1.292zm-.975-3.721a.471.471 0 0 0-.942 0v.82h.95v-.82zm-4.029-.26a.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179v-3.136a.775.775 0 0 0-.065-.325zm0 0" transform="translate(0 -107.472)"></path><path data-name="Path 2677" d="M134.671 25.5v5.865h-1.089v-.634c-.122.122-.219.227-.333.325a1.414 1.414 0 0 1-.691.357.692.692 0 0 1-.885-.471 1.6 1.6 0 0 1-.073-.439v-5h1.08v4.476a1.327 1.327 0 0 0 .016.179.249.249 0 0 0 .349.211 1.151 1.151 0 0 0 .52-.4.223.223 0 0 0 .016-.106V25.5zm0 0" transform="translate(-120.909 -23.428)"></path><path data-name="Path 2678" d="M36.466 3.1L35.735 0H34.5l1.373 4.557a.524.524 0 0 1 .024.162v3.226h1.137V4.72a.563.563 0 0 1 .024-.162A1312.74 1312.74 0 0 0 38.44 0H37.2s-.5 2.1-.731 3.1zm0 0" transform="translate(-31.697)"></path><path data-name="Path 2679" d="M83.66 23.7a1.56 1.56 0 0 0-1.56 1.56v3.046a1.56 1.56 0 1 0 3.119 0V25.26a1.565 1.565 0 0 0-1.56-1.56zm.447 4.663a.447.447 0 1 1-.894 0v-3.168a.447.447 0 1 1 .894 0zm0 0" transform="translate(-75.43 -21.775)"></path></g></svg></a></li>
 	</ul>
 </nav> <!-- /.social-nav -->
 
-				<div class="cafe-slider-holder">
-
-					<div class="cafe-slider-header">
-						<h5 class="section-title uppercase">Originals</h5>
-					</div> <!-- /.cafe-slider-header -->
-
-					<div class="cafe-slider cafe-slider-menu">
-									<div class="slide">
-				<a href="https://www.cafe.com/series/cafe-crashes/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_cafecrashes.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/carl-diggler/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_images.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/girl-friday/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_girlfriday.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/real-fake-news/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_realfakenews.png?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/cafe-updates/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/06/preetbharara__series_v2.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/todd-dracula-cuts-the-news/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_todddracula.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/why-it-sucks-to-be-a-woman/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_wistbaw.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-					<div class="slide">
-				<a href="https://www.cafe.com/series/zamboni-cops/">
-					<img width="178" height="100" src="https://www.cafe.com/wp-content/uploads/2017/05/1024_576_zamboni.jpg?w=178" class="attachment-ss_series_logo size-ss_series_logo" alt="">				</a>
-			</div> <!-- /.slide -->
-							</div>
-
-					<div class="dots-holder dots-holder-menu"></div>
-
-					<script>
-						jQuery( '.cafe-slider-menu' ).slick( {
-							infinite: false,
-							variableWidth: true,
-							arrows: false,
-							dots: true,
-							appendDots: jQuery( '.dots-holder-menu' ),
-						} );
-					</script>
-
-				</div> <!-- /.shows-slider-holder -->
-
-			</div> <!-- /.site-menu-inner -->
+</div> <!-- /.site-menu-inner -->
 		</div> <!-- /.site-menu -->
-
+		
 	</header> <!-- /.site-header -->
 
 <section class="light">
@@ -215,7 +191,7 @@ margin: 3em 0em;
 						<h1 class="post-title">Privacy</h1>
 					</header>
 
-					<div class="entry-content">
+					<div class="entry-content skip-readmore">
 						<h2>Privacy</h2>
 <p>We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to data and information collected through cafe.com, the affiliated network of websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by Some Spider, LLC (collectively “Some Spider” or “we,” “us,” or “our”); all apps published by Some Spider; and all other interactive features, services, and communications provided by Some Spider (“Service” or “Services”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Some Spider. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your use of this Service, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.</p>
 <p>Please be advised that the practices described in this Privacy Policy apply only to information gathered online through our Service. It does not apply to information that you may submit to us offline or by companies or organizations to which we may link or who may link to us.</p>
@@ -330,7 +306,7 @@ margin: 3em 0em;
 
 	<div class="ad-holder widget">
 		<h4 class="ad-title">Advert</h4>
-		<div class="cafe_adunit tower" data-adunit="tower"></div>
+		<div class="fern_adunit tower" data-adunit="tower"></div>
 	</div> <!-- /.ad-holder -->
 
 	<div class="widget">
@@ -338,15 +314,15 @@ margin: 3em 0em;
 	<div class="article-block article-block-horizontal article-block-tiny">
 
 		<div class="thumb-holder">
-										<a href="https://www.cafe.com/joel-osteens-bible-just-may-read-a-little-different-than-yours/">
-					<img src="https://www.cafe.com/wp-content/uploads/2017/08/osteen-and-crowd.jpg?w=178&amp;h=100&amp;crop=1">
+										<a href="https://www.cafe.com/stay-tuned-your-questions-answered-with-anne-milgram-lisa-monaco/">
+					<img src="https://www.cafe.com/wp-content/uploads/2018/06/MilgramMonaco_StayTuned_EpART.jpg?w=178&amp;h=100&amp;crop=1">
 				</a>
 					</div> <!-- /.thumb-holder -->
 
 		<div class="post-info">
 			
 			
-			<h3 class="post-title  serif"><a href="https://www.cafe.com/joel-osteens-bible-just-may-read-a-little-different-than-yours/">Joel Osteen’s Bible Just May Read a Little Different Than Yours</a></h3>
+			<h3 class="post-title  serif"><a href="https://www.cafe.com/stay-tuned-your-questions-answered-with-anne-milgram-lisa-monaco/">STAY TUNED: Your Questions, Answered (with Anne Milgram &amp; Lisa Monaco)</a></h3>
 			
 		</div> <!-- /.post-info -->
 
@@ -356,15 +332,15 @@ margin: 3em 0em;
 	<div class="article-block article-block-horizontal article-block-tiny">
 
 		<div class="thumb-holder">
-										<a href="https://www.cafe.com/according-to-these-people-hurricane-katrina-was-barack-obamas-fault/">
-					<img src="https://www.cafe.com/wp-content/uploads/2017/08/obama.png?w=178&amp;h=100&amp;crop=1">
+										<a href="https://www.cafe.com/stay-tuned-transcript-the-prosecution-with-pat-fitzgerald/">
+					<img src="https://www.cafe.com/wp-content/uploads/2018/06/staytuned_fitzgerald_art.jpg?w=178&amp;h=100&amp;crop=1">
 				</a>
 					</div> <!-- /.thumb-holder -->
 
 		<div class="post-info">
 			
 			
-			<h3 class="post-title  serif"><a href="https://www.cafe.com/according-to-these-people-hurricane-katrina-was-barack-obamas-fault/">According To These People, Hurricane Katrina Was Barack Obama’s Fault</a></h3>
+			<h3 class="post-title  serif"><a href="https://www.cafe.com/stay-tuned-transcript-the-prosecution-with-pat-fitzgerald/">Stay Tuned Transcript: The Prosecution (with Pat Fitzgerald)</a></h3>
 			
 		</div> <!-- /.post-info -->
 
@@ -374,15 +350,15 @@ margin: 3em 0em;
 	<div class="article-block article-block-horizontal article-block-tiny">
 
 		<div class="thumb-holder">
-										<a href="https://www.cafe.com/tillerson-speaks-for-the-nation-trump-is-a-different-story/">
-					<img src="https://www.cafe.com/wp-content/uploads/2017/08/tillerson.jpg?w=178&amp;h=100&amp;crop=1">
+										<a href="https://www.cafe.com/lesbian-without-apology-being-out-and-being-funny-with-cameron-esposito/">
+					<img src="https://www.cafe.com/wp-content/uploads/2018/06/REmade_16x23.jpg?w=178&amp;h=100&amp;crop=1">
 				</a>
 					</div> <!-- /.thumb-holder -->
 
 		<div class="post-info">
 			
 			
-			<h3 class="post-title  serif"><a href="https://www.cafe.com/tillerson-speaks-for-the-nation-trump-is-a-different-story/">Tillerson Speaks For The Nation – Trump is a Different Story</a></h3>
+			<h3 class="post-title  serif"><a href="https://www.cafe.com/lesbian-without-apology-being-out-and-being-funny-with-cameron-esposito/">Lesbian Without Apology: Being Out and Being Funny with Cameron Esposito</a></h3>
 			
 		</div> <!-- /.post-info -->
 
@@ -403,7 +379,7 @@ margin: 3em 0em;
 <footer class="site-footer">
 
 	<div class="footer-top-image">
-					<span class="middle-image"><img src="https://www.cafe.com/wp-content/themes/cafedotcom/src/images/footer-middle@2x.png"></span>
+					<span class="middle-image"><img src="https://www.cafe.com/wp-content/themes/fern/src/images/footer-middle@2x.png"></span>
 			</div>
 
 	<div class="wrap">
@@ -427,12 +403,10 @@ margin: 3em 0em;
 		<li><a href="https://facebook.com/CAFE" class="button button-icon"><svg class="icon icon-fill icon-facebook" width="7.51" height="16.3" xmlns="http://www.w3.org/2000/svg" viewBox="-1846.275 1140.135 7.515 16.302"><path data-name="Path 1103" d="M14.254 6.676h-1.822a.689.689 0 0 0-.724.774v1.7h2.522l-.275 2.871h-2.222v8.164h-3.4v-8.166H6.74V9.148h1.6V7.275a3.153 3.153 0 0 1 3.4-3.4h2.5v2.8z" transform="translate(-1853.015 1136.255)"></path></svg></a></li>
 		<li><a href="https://twitter.com/cafedotcom" class="button button-icon"><svg class="icon icon-fill icon-twitter" width="17.07" height="13.92" xmlns="http://www.w3.org/2000/svg" viewBox="-1790.902 1141.438 17.066 13.918"><path data-name="Path 1104" d="M368.569 9.532v.441a9.985 9.985 0 0 1-15.389 8.415 7.751 7.751 0 0 0 .824.059 6.969 6.969 0 0 0 4.355-1.5 3.586 3.586 0 0 1-3.3-2.442 4.813 4.813 0 0 0 .647.059 3.1 3.1 0 0 0 .912-.118A3.5 3.5 0 0 1 353.8 11v-.059a3.666 3.666 0 0 0 1.589.441 3.492 3.492 0 0 1-1.56-2.913 3.6 3.6 0 0 1 .471-1.765 10.021 10.021 0 0 0 7.238 3.678 3.657 3.657 0 0 1-.088-.794 3.518 3.518 0 0 1 6.091-2.413 6.654 6.654 0 0 0 2.236-.853 3.523 3.523 0 0 1-1.56 1.942 6.941 6.941 0 0 0 2.03-.559 6.186 6.186 0 0 1-1.678 1.827z" transform="translate(-2144.082 1135.378)"></path></svg></a></li>
 		<li><a href="https://www.instagram.com/cafedotcom/" class="button button-icon"><svg class="icon icon-fill icon-instagram" width="17.82" height="17.82" xmlns="http://www.w3.org/2000/svg" viewBox="-1731.717 1139.014 17.824 17.824"><g data-name="Group 1167" transform="translate(-1731.717 1139.014)"><path data-name="Path 1105" d="M13.324 0H4.5A4.5 4.5 0 0 0 0 4.5v8.823a4.5 4.5 0 0 0 4.5 4.5h8.823a4.5 4.5 0 0 0 4.5-4.5V4.5A4.5 4.5 0 0 0 13.324 0zm2.546 13.324a2.565 2.565 0 0 1-2.546 2.546H4.5a2.565 2.565 0 0 1-2.546-2.546V4.5A2.565 2.565 0 0 1 4.5 1.954h8.823A2.565 2.565 0 0 1 15.87 4.5z"></path><path data-name="Path 1106" d="M22.266 5.2a1.066 1.066 0 1 0 1.066 1.066A1.026 1.026 0 0 0 22.266 5.2z" transform="translate(-8.646 -2.121)"></path><path data-name="Path 1107" d="M11.96 7.3a4.56 4.56 0 1 0 4.56 4.56 4.562 4.562 0 0 0-4.56-4.56zm0 7.224a2.606 2.606 0 1 1 2.606-2.606 2.629 2.629 0 0 1-2.606 2.606z" transform="translate(-3.018 -2.977)"></path></g></svg></a></li>
-		<li><a href="https://www.snapchat.com/add/cafedotcom" class="button button-icon"><svg class="icon icon-fill icon-snapchat" width="16.69" height="16.69" xmlns="http://www.w3.org/2000/svg" viewBox="-1671.078 1139.812 16.695 16.695"><path data-name="Path 1108" d="M16.171 11.739a3.924 3.924 0 0 0-.469-.184 2.888 2.888 0 0 1-2.109-2.21l.762-.307a1.545 1.545 0 0 0 .879-1.719 1.226 1.226 0 0 0-.469-.737A1.141 1.141 0 0 0 14 6.338h-.293l-.234.061a5.527 5.527 0 0 1-.059-.982 4.812 4.812 0 0 0-.41-2.025 4.928 4.928 0 0 0-1.055-1.657A4.167 4.167 0 0 0 10.371.63 4.98 4.98 0 0 0 8.437.2 4.419 4.419 0 0 0 6.5.63a4.673 4.673 0 0 0-1.582 1.1 3.213 3.213 0 0 0-1.11 1.539A5.01 5.01 0 0 0 3.4 5.294c0 .368-.059.675-.059.982l-.234-.061h-.295a1.141 1.141 0 0 0-.762.246 1.226 1.226 0 0 0-.469.737 1.423 1.423 0 0 0 .879 1.719l.762.307a3 3 0 0 1-2.109 2.21 1.6 1.6 0 0 1-.527.307 1.074 1.074 0 0 0-.586.98 1.3 1.3 0 0 0 .469.982 2.655 2.655 0 0 0 .586.307 6.549 6.549 0 0 0 1.055.246.812.812 0 0 1 .059.368 1.357 1.357 0 0 0 .762.859 1.319 1.319 0 0 0 .645.123h.469a1.728 1.728 0 0 1 .586-.061 1.506 1.506 0 0 1 .645.123 3.869 3.869 0 0 1 .7.368 4.576 4.576 0 0 0 2.4.859 4.235 4.235 0 0 0 2.4-.859 3.869 3.869 0 0 1 .7-.368 1.506 1.506 0 0 1 .645-.123c.176 0 .41.061.586.061h.469a1.319 1.319 0 0 0 .645-.123 1.17 1.17 0 0 0 .7-.859.812.812 0 0 0 .059-.368 5.9 5.9 0 0 0 1-.246 1.8 1.8 0 0 0 .586-.307.838.838 0 0 0 .352-.921c.298-.245.239-.736-.347-1.043z" transform="translate(-1671.078 1139.612)"></path></svg></a></li>
 		<li><a href="https://www.youtube.com/channel/UCKQ2X8tEH72TvPu2Tku0Cjw" class="button button-icon"><svg class="icon icon-fill icon-youtube" width="17.64" height="21.42" xmlns="http://www.w3.org/2000/svg" viewBox="-1853.578 558.478 17.636 21.416"><g data-name="Group 3289" transform="translate(-1853.578 558.478)"><path data-name="Path 2676" d="M11.121 122.331a.864.864 0 0 0-.073-.325.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179c.008-1.048.008-2.088.008-3.136zm0 0a.864.864 0 0 0-.073-.325.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179c.008-1.048.008-2.088.008-3.136zm3.924-5.288q-6.227-.134-12.454 0A2.653 2.653 0 0 0 0 119.69v6.483a2.653 2.653 0 0 0 2.591 2.648q6.227.134 12.454 0a2.653 2.653 0 0 0 2.591-2.648v-6.483a2.648 2.648 0 0 0-2.591-2.648zM3.81 126.766H2.616V120H1.373v-1.13h3.68V120H3.81zm4.281-2.811v2.811H7.035v-.642c-.041.041-.057.065-.081.089a1.91 1.91 0 0 1-.82.585 1.028 1.028 0 0 1-.5.049.611.611 0 0 1-.479-.382 1.589 1.589 0 0 1-.114-.609v-4.906H6.1c0 .033.008 2.973.008 4.4a1.15 1.15 0 0 0 .016.236.262.262 0 0 0 .374.211 1.236 1.236 0 0 0 .512-.4.223.223 0 0 0 .016-.106v-4.341h1.065v3.006zm4.037 2.25a.879.879 0 0 1-.9.642 1.17 1.17 0 0 1-.9-.414 1.242 1.242 0 0 0-.106-.106v.447H9.155v-7.9h1.065v2.6a.8.8 0 0 1 .114-.179 1.219 1.219 0 0 1 .609-.39.923.923 0 0 1 1.1.5 2.1 2.1 0 0 1 .171.885v3.314a1.912 1.912 0 0 1-.089.593zm3.924-.219a1.3 1.3 0 0 1-1.121.918 1.805 1.805 0 0 1-1.015-.106 1.4 1.4 0 0 1-.8-1.024 3.555 3.555 0 0 1-.081-.658c-.008-.861-.008-1.73 0-2.6a1.723 1.723 0 0 1 .422-1.219 1.546 1.546 0 0 1 1.324-.512 1.786 1.786 0 0 1 .463.081 1.286 1.286 0 0 1 .877 1.04 2.855 2.855 0 0 1 .057.585c.008.463 0 1.479 0 1.479h-2.035v1.454a.471.471 0 1 0 .942 0v-.731h1.089a5.34 5.34 0 0 1-.122 1.292zm-.975-3.721a.471.471 0 0 0-.942 0v.82h.95v-.82zm-4.029-.26a.356.356 0 0 0-.317-.219.562.562 0 0 0-.439.162.287.287 0 0 0-.073.106v3.6a.253.253 0 0 1 .032.049.663.663 0 0 0 .374.227.355.355 0 0 0 .471-.284.637.637 0 0 0 .016-.179v-3.136a.775.775 0 0 0-.065-.325zm0 0" transform="translate(0 -107.472)"></path><path data-name="Path 2677" d="M134.671 25.5v5.865h-1.089v-.634c-.122.122-.219.227-.333.325a1.414 1.414 0 0 1-.691.357.692.692 0 0 1-.885-.471 1.6 1.6 0 0 1-.073-.439v-5h1.08v4.476a1.327 1.327 0 0 0 .016.179.249.249 0 0 0 .349.211 1.151 1.151 0 0 0 .52-.4.223.223 0 0 0 .016-.106V25.5zm0 0" transform="translate(-120.909 -23.428)"></path><path data-name="Path 2678" d="M36.466 3.1L35.735 0H34.5l1.373 4.557a.524.524 0 0 1 .024.162v3.226h1.137V4.72a.563.563 0 0 1 .024-.162A1312.74 1312.74 0 0 0 38.44 0H37.2s-.5 2.1-.731 3.1zm0 0" transform="translate(-31.697)"></path><path data-name="Path 2679" d="M83.66 23.7a1.56 1.56 0 0 0-1.56 1.56v3.046a1.56 1.56 0 1 0 3.119 0V25.26a1.565 1.565 0 0 0-1.56-1.56zm.447 4.663a.447.447 0 1 1-.894 0v-3.168a.447.447 0 1 1 .894 0zm0 0" transform="translate(-75.43 -21.775)"></path></g></svg></a></li>
 	</ul>
 </nav> <!-- /.social-nav -->
 
-		<img src="https://www.cafe.com/wp-content/themes/cafedotcom/src/images/footer-blurb.png" class="footer-blurb">
 		<p>
 			<a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.cafe.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.cafe.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP"></a>		</p>
 
@@ -446,10 +420,9 @@ margin: 3em 0em;
 
 	<script>
 
-	var AdSettings = {"dfpID":"32950521","cafe_postid":"1","setContentType":"home","cafe_categories":"home","cafe_tags":"home","setCategoryExclusion":""};
+	var AdSettings = {"dfpID":"32950521","fern_postid":"1","setContentType":"home","fern_categories":"home","fern_tags":"home","setCategoryExclusion":"","site_name":"cafe"};
 
 	jQuery( document ).ready( function() {
-		cafeInlines();
 		jQuery.dfp( AdSettings );
 		window.onload = function() {
 			window.googletag.pubads().refresh();
@@ -462,7 +435,7 @@ margin: 3em 0em;
     var _sf_async_config={};
     /** CONFIGURATION START **/
     _sf_async_config.uid = 57311;
-    _sf_async_config.domain = 'cafe.com';
+    _sf_async_config.domain = 'fern.com';
     _sf_async_config.useCanonical = true;
     /** CONFIGURATION END **/
     (function(){
@@ -481,15 +454,15 @@ margin: 3em 0em;
 </script>
 
 
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201735"></script>
-<script type="text/javascript" src="https://www.cafe.com/_static/??/wp-content/themes/cafedotcom/src/js/public.js,/wp-content/themes/cafedotcom/js/skip-link-focus-fix.js,/wp-includes/js/wp-embed.min.js?m=1501714095j"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201735.js" async="" defer=""></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201826"></script>
+<script type="text/javascript" src="https://www.cafe.com/_static/??/wp-content/themes/fern/src/js/public.js,/wp-content/themes/fern/js/skip-link-focus-fix.js,/wp-includes/js/wp-embed.min.js?m=1526597374j"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201826.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:5.2.1',blog:'129638486',post:'66',tz:'-4',srv:'www.cafe.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:6.2.1',blog:'129638486',post:'66',tz:'-4',srv:'www.cafe.com'} ]);
 	_stq.push([ 'clickTrackerInit', '129638486', '66' ]);
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0601a5bd6b","applicationID":"47197790","transactionName":"ZAEANRADC0dRU0FeW11LIwIWCwpaH0BUUFE=","queueTime":0,"applicationTime":70,"atts":"SEYXQ1gZGBgSURcNT04Z","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0601a5bd6b","applicationID":"47197790","transactionName":"ZAEANRADC0dRU0FeW11LIwIWCwpaH0BUUFE=","queueTime":0,"applicationTime":74,"atts":"SEYXQ1gZGBgSURcNT04Z","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
