@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xboxdvr.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112051507id_/http%3A//xboxdvr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xboxdvr.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625163321id_/http%3A//xboxdvr.com/privacy) for the most accurate reproduction.*
 
 # Xbox DVR - View your Xbox clips and screenshots
 
@@ -51,7 +51,7 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 On our Privacy Policy Page
 
-<4>Can change your personal information:
+#### Can change your personal information:
 
 By logging in to your account
 
