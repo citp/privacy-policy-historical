@@ -1,62 +1,158 @@
-> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119094832id_/https%3A//www.viewbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625024257id_/https%3A//www.viewbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ViewBug.com
 
-The use of the Viewbug website(s) and/or Viewbug software and any Viewbug services and products (collectively, the "Website") provided by Golozo L.L.C.. ("Viewbug") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Viewbug [Terms & Conditions](https://web.archive.org/terms/). If you do not agree to this Privacy Policy, please do not use the Website.
+At ViewBug, we believe privacy is a fundamental right. ViewBug if founded on the principle of helping photographers within our platform where users can share their photos with the community, join photo contests or challenges, create challenges, build websites and search for photos, like or comment on them. 
 
-**General**
+The services can be accessed via the mobile ViewBug app (hereinafter "App")   
+or on www.viewbug.com (hereinafter "Website"). 
 
-Viewbug takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
+Information Collected by ViewBug
 
-BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Viewbug reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We collect the following types of information from our ViewBug users: 
 
-If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us.
+Basically,
 
-Please note that any video, image, or other content posted at the direction of users onto the Viewbug website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.   
-Collection of Information Personal Information. Use of certain features of the Website may require submission of certain personal information, including your first and last name, email address, a nickname (or other user ID) and a password.
+We collect certain information to make ViewBug better for you and to provide a great overall experience.
 
-Non personally identifiable Information. Viewbug may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
+Information You Provide to Us
 
-Viewbug may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Viewbug client is used.
+  1. We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+  
 
-**How is the information being used?**
+  2. Registration: In order for you to use ViewBug services you must complete a registration form. As part of this registration form, we require certain personal information.
+  
 
-The information is used to operate and improve the features, offerings and content presented to you by Viewbug, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest.
+  3. User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as your first and last names, email address, social media account names, your birthday, a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
 
-Please note that Viewbug may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while Viewbug's business partners and advertisers may receive aggregate data about Viewbug users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information.
 
-Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by Viewbug in good faith. Furthermore, Viewbug may transfer personally identifiable information in the event of a transfer of ownership of Viewbug or any of its websites or products, in which case the information could become subject to a different privacy policy.
 
-**Cookies**
+Automatic Information
 
-Viewbug may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.
+  1. We receive and store certain types of information whenever you interact with us. ViewBug and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, ViewBug cookie information, and the page you requested. ViewBug uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. This does not involve collecting any of your personal information.
+  
 
-Viewbug does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies.
+  2. In addition to the "traffic data", ViewBug and its authorized agents may collect information about the device you're using to access ViewBug, its operating system, unique device identifier, device settings such as language and crash data. Which data is specifically collected depends on the type of device and/or system running on that device. This data is again used to help us diagnose problems with the site and/or mobile apps and analyze usage trends. This does not involve collecting any of your personal information.
+  
 
-**Third Party Ad Servers**
+  3. ViewBug may collect and use information regarding the geographic location of your devices. If the location data contains your personal information, then ViewBug will treat this location data in accordance with this Policy.
+  
 
-Viewbug or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Viewbug's.
+  4. ViewBug may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+  
 
-**Security**
+  5. Many companies offer programs that help you to visit websites anonymously. While ViewBug will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-Viewbug has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
 
-**California Privacy Policy**
 
-Viewbug's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Viewbug may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know.
+Basically,
 
-**Special Note for Parents**
+During your registration we collect your user profile data. Our servers might collect log information to make the website faster. We also collect geographical location data to present a better experience regardless of your location.
 
-Protecting the privacy of young children is especially important. For that reason, Viewbug does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Viewbug learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Viewbug will take the appropriate steps to delete this information.
+E-mail Communications
 
-**Modification and Deletion of Personally Identifiable Information**
+ViewBug is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. ViewBug may send out e-mails with ViewBug-related news, products, offers, surveys or promotions. You may also receive notification e-mails from ViewBug, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
 
-Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us at [members@viewbug.com](mailto:members@viewbug.com) that you wish to delete your personally identifiable information or any part thereof contained at our databases.
+Basically,
 
-Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at [members@viewbug.com](mailto:members@viewbug.com) Please note that deletion of your personally identifiable information from Viewbug's database will not prevent Viewbug from using gathered anonymous information.
+We will send you emails based on your profile settings which you can change at any time. Occasionally, we might send emails to all our members.
 
-Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Viewbug does not own or control, or does not employ or manage.
+Cookies
 
-**Non-U.S. Users**
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. ViewBug cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
+ViewBug utilizes third-party services like Google Analytics to help analyze how our site is used. These services, including Google Analytics, also use cookies to collect information about visitors to our site (including IP addresses) in an anonymous form that does not include personal information.
+
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of ViewBug's coolest features. Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies. 
+
+Basically,
+
+Our system will give you a safe cookie to remember you. Third-party services that help us analyze how our site is used also use cookies to collect information about visitors to our site.
+
+Analytics
+
+ViewBug uses services like Google Analytics and/or Amplitude to help analyze and understand how our site and mobile applications are used, so that we can make ViewBug products more interesting to you. These tools capture data about how individual users are using our site and mobile applications. This includes event logs, device type and device configuration settings such as language, crash data and other data but never personal information. These third-party services treat the analytics data in accordance with this privacy policy and ViewBug does not disclose your personal information to any third parties through our use of these services. 
+
+Basically,
+
+The analytics services that we use do not collect personal information, and all information collected is used in accordance with this policy. Analytics services help us better understand usage trends and help us improve your experience based on those trends.
+
+Sharing Your Information
+
+Because ViewBug enables people to discover and share information with one another, information about the people who use ViewBug is an integral part of the ViewBug experience. Rest assured that we will not rent or sell your personal information to anyone and that we will share your personal information only as described below: 
+
+  * ViewBug Personnel: ViewBug personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of ViewBug business.
+  * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if ViewBug, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+  * Protection of ViewBug and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of ViewBug, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other ViewBug users in your User Profile. The User Profile is the area on ViewBug where we allow you to tell other ViewBug users about yourself. You may control what personal information is displayed in your User Profile by visiting the Settings section of your User Profile.
+  * Followers' Activity: Much like other online social networks, ViewBug allows non-followers to browse your followers’ activity.
+  * Syndication: ViewBug allows for the RSS syndication of all of its public content within the ViewBug website.
+  * Service Providers: ViewBug may share user information as well as information from tools such as cookies, log files, device identifiers and location data, with third-parties that help ViewBug provide services to you (“Service Providers”). Our Service Providers will be given access to your information as is reasonably necessary for ViewBug to provide our services. ViewBug requires Services Providers to protect your data in a manner consistent with this Policy and to limit the use of such information to the performance of services for ViewBug. ViewBug may also remove parts of data that can identify you and share anonymized data with Service Providers, including combining your information with other information in a way that it is no longer associated with you.
+  * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+
+
+Basically,
+
+We do not sell your information to anyone. We show publicly available information to other users such as in your profile, and you can change what you wish to display in your account settings. We may share information so that we can provide our service, and we may share information where required by law. We may also share information with third-parties that help ViewBug provide services to you.
+
+Keeping Information Secure
+
+  * Your ViewBug account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
+  * Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+
+
+
+Basically,
+
+Your account is protected by an encrypted password. We keep it secure; you must also keep it safe. Our employees may not access your account unless required to do a specific job.
+
+Ways to Control Display and Use of Your Information
+
+  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.
+  * By visiting your User Profile, you can correct, amend, add or delete personal information on our website.
+  * If you do not wish to receive e-mail from us or other ViewBug users, please visit the Settings of your User Profile and/or follow the instructions contained in the unwanted e-mail message.
+  * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+
+
+
+Basically,
+
+You choose what you share with us and can edit it within your account settings.
+
+Children Under 18 Years of Age
+
+You must be 14 years and older to register to use the ViewBug website. As a result, ViewBug does not specifically collect information about children. If we learn that ViewBug has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 14 and 18 ask and receive their parents' permission before using ViewBug or sending information about themselves or anyone else over the Internet. 
+
+Basically,
+
+You cannot register if you are under 18 years old. Ask for your parents' permission if you are between 14 and 18 years old. You are not allowed to register if you are under 14 years old.
+
+Information modification or Deletion
+
+You have the right at any time to request information about what personal data we process about you and to demand correction, deletion and/or restriction of your personal data stored by us. For your security, we will ask you to verify your details in the event of such a request or change. Please send contact us: https://help.viewbug.com 
+
+Basically,
+
+You can contact us with any questions or requests at any time.
+
+Changes to this Privacy Policy
+
+ViewBug may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the ViewBug website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+
+Basically,
+
+The Privacy Policy may change.
+
+Conditions of Use
+
+If you decide to visit the ViewBug website or use any of our official mobile applications, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law. 
+
+Basically,
+
+Visiting ViewBug or using any of our official mobile applications is subject to our Terms of Use and Privacy Policy.
+
+Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of May 24, 2018. 
