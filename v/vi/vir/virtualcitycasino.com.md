@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualcitycasino.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121093404id_/http%3A//www.virtualcitycasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualcitycasino.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625210221id_/http%3A//www.virtualcitycasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Virtual City Casino Privacy Policy
 
@@ -33,6 +33,19 @@ Virtual City Casino website works by using cookies and Active X components for (
   7. **Virtual City Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies. 
     2. To use your personal data to provide you with information or materials only if you requested it.
+  8. **Verification Policy**
+    1. By registering an Account with Virtual City Casino, the Player is giving the Casino consent to conduct any verification as required.
+    2. Virtual City Casino reserves the right to ask Players for verification documents following deposits and/or prior to executing a withdrawal.
+    3. Where it is required for any fraud or anti-money laundering investigations, the Casino may request additional information to ascertain the Player’s source of funds and/or wealth.
+    4. For verification purposes, Virtual City Casino reserves the right to ask for a clear copy of (but is not limited to): 
+      1. Valid identity document (passport, national ID card or driver’s licence)
+      2. A copy of the card in question showing the card holder name, or evidence of the deposit method used (if applicable)
+      3. Documents confirming residence, such as a bank statement or utility bill, no older than 3 months
+    5. Should it be deemed necessary Virtual City Casino may also require these documents to be certified by a registered Notary.
+    6. Casino play at Virtual City Casino is available only to persons older than 18 years of age. Anyone using the casino software who is found to be under the age of 18 will have all game play voided and any winnings forfeited. Virtual City Casino may also report the matter to relevant authorities.
+    7. Virtual City Casino reserves the right to seek information about the extent of the Player’s intended gambling during the verification process.
+    8. Any documents provided to Virtual City Casino will be held in confidence and stored for five years from the date on which Player’s Account is closed (unless there is a regulatory reason which Casino must comply with which extends this period).
+    9. Virtual City Casino takes a Risk based approach to mitigate the presence of money laundering, fraud and criminal activity. A Player’s account may be frozen and any payment withheld, where the casino is unable to verify the Player’s identity.
 
 
 
