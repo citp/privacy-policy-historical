@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226210501id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625043038id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
-
-Get the  
-#WORKFROMWHEREVER  
-GUIDE
-
-Discover how to start and grow a business that affords you the freedom to #WorkFromWherever. 
-
-Inside You’ll Find:
-
-  * Tips to achieve the #WorkFromWherever lifestyle.
-  * How to set up and shape your business to create freedom.
-  * Insights into how I manage a factory and team from across the globe.
-
-
-
-“This guide was not only incredibly inspiring, but also SO actionable. Thank you!”  
-Megan
 
 MelanieDuncan.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -108,3 +91,21 @@ From time to time, MelanieDuncan.com will enter into an arrangement with a third
 that the data was collected voluntarily from individuals on website registrations and co-registrations, that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and that MelanieDuncan.com has the right to send marketing offers to the individuals.
 
 We hope this information satisfies any questions or concerns you may have regarding the email practices of MelanieDuncan.com. If you have additional questions or wish to discuss this matter further, please contact us at: melanieATmelanieduncanDOTcom (Please replace AT with @ and DOT with .)
+
+**Section 11: Visitors’ GDPR Rights**
+
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
