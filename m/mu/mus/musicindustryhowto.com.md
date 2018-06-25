@@ -1,73 +1,100 @@
-> *The following text is extracted and transformed from the musicindustryhowto.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119024410id_/https%3A//www.musicindustryhowto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicindustryhowto.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625232702id_/https%3A//www.musicindustryhowto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Music Industry How To
 
-This Privacy Policy governs the manner in which Music Industry How To collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.musicindustryhowto.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Music Industry How To.
+## Who we are
 
-**Personal identification information**
+**Our website address is: https://www.musicindustryhowto.com.**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## What personal data we collect and why we collect it
 
-**Non-personal identification information**
+### Comments
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.**
 
-**Web browser cookies**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### Media
 
-**How we use collected information**
+**If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.**
 
-Music Industry How To may collect and use Users personal information for the following purposes:
+### Contact forms
 
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _– To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Any contact forms you submit will be held on account unless you request it’s deletion. Data given in our contact forms will never be given to a third party. Where started on the relevant contact form, any data submitted through it can be used as a testimonial on our website (your email address will not be shared).
+
+### Cookies
+
+**If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.**
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+**Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.**
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use the following analytics services:
+
+  * Google Analytics.
+  * Statcounter (don’t store personal data [as shown here](https://statcounter.com/support/knowledge-base/314/)).
 
 
 
-**How we protect your information**
+## Who we share your data with
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We don’t share your data with any third party companies. We use some to help process our data (for example our shopping cart) but this information is only usable by our company.
 
-**Sharing your personal information**
+## How long we retain your data
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+**If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.**
 
-**Third party websites**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+## What rights you have over your data
 
-**Advertising**
+**If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+## Where we send your data
 
-**Google Adsense**
+**Visitor comments may be checked through an automated spam detection service.**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+## Your contact information
 
-**Changes to this privacy policy**
+If you need to, you can contact us on our [contact page](https://www.musicindustryhowto.com/contact).
 
-Music Industry How To has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## Additional information
 
-**Your acceptance of these terms**
+### How we protect your data
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://www.musicindustryhowto.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+There are a number of ways we protect your data.
 
-**Contacting us**
+  * All data sent through out website is secured by an https protocol.
+  * Staff which can handle data are kept to a minimum.
+  * All staff who have access to data are training on proper data handling.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Music Industry How To](https://www.musicindustryhowto.com/)  
-<https://www.musicindustryhowto.com/>  
-[Contact](https://www.musicindustryhowto.com/contact/)
 
-This document was last updated on March 31, 2014
+
+### What data breach procedures we have in place
+
+Any breach will be investigated and a notice sent out to appropriate parties, letting them know of this and what needs to be done next.
+
+We’ll also do our best to minimize any damages.
+
+### What third parties we receive data from
+
+None.
+
+### What automated decision making and/or profiling we do with user data
+
+None.
+
+### Industry regulatory disclosure requirements
+
+None.
