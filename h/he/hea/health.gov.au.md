@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223142248id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625050054id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Department of Health | Privacy and personal information
 
