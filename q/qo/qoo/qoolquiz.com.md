@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027225652id_/http%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120942id_/https%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
 
-# Qool Quiz
+# QoolQuiz 心理測驗
 
 1\. General
 
