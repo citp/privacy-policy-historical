@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120944id_/https%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625181032id_/https%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Texas Observer
 
@@ -14,7 +14,7 @@ Information that you provide is the property of The Texas Observer. All of the i
 
 The Texas Observer may use your contact information to get in touch with you regarding the status of your registration or any contributions or orders you may place. You may also be contacted by us regarding contribution receipts, additional solicitations or subscription specials, or requesting your feedback about yourexperience with [TexasObserver.org](https://www.texasobserver.org/).
 
-The personally identifiable information that you provide to us and information about your order may becombined with other personally identifiable information (such as demographic information and past purchasehistory) available from our records and other sources. This information will be used to make our futuremarketing efforts more efficient. This information may also be shared with our third party service providersthat assist us with our marketing efforts and with other marketers whose products or services we feel maybe of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [business@texasobserver.org.](http://mailto:business@texasobserver.org/)
+The personally identifiable information that you provide to us and information about your order may becombined with other personally identifiable information (such as demographic information and past purchasehistory) available from our records and other sources. This information will be used to make our futuremarketing efforts more efficient. This information may also be shared with our third party service providersthat assist us with our marketing efforts and with other marketers whose products or services we feel maybe of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [[email protected]](http://mailto:business@texasobserver.org/)
 
 [TexasObserver.org](https://www.texasobserver.org/) may provide you with comment sections, personal blogs, or message boards for youruse. In the event you voluntarily disclose personally identifiable information using such services, thatinformation, along with any content in your communication or post, can be collected, correlated and usedby third parties. This may result in unsolicited messages from third parties. Such activities are beyond thecontrol of The Texas Observer. The Texas Observer does not assume any duty to monitor or review thecontents of any comments or personal blogs.
 
@@ -28,15 +28,15 @@ Please note that your use of the [TexasObserver.org](https://www.texasobserver.o
 
 #### BY WEBSITE OR PRINT
 
-The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on [TexasObserver.org](https://www.texasobserver.org/). If a donor choosesto opt out of any acknowledgement listings in printed material or on [TexasObserver.org](https://www.texasobserver.org/), please email [business@texasobserver.org](mailto:business@texasobserver.org), mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.
+The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on [TexasObserver.org](https://www.texasobserver.org/). If a donor choosesto opt out of any acknowledgement listings in printed material or on [TexasObserver.org](https://www.texasobserver.org/), please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#096b7c7a60676c7a7a497d6c71687a666b7a6c7b7f6c7b27667b6e), mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.
 
 #### BY E-MAIL
 
-Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. [TexasObserver.org](https://www.texasobserver.org/) collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email [business@texasobserver.org](mailto:business@texasobserver.org) to request to unsubscribe.
+Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. [TexasObserver.org](https://www.texasobserver.org/) collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#583a2d2b31363d2b2b182c3d20392b373a2b3d2a2e3d2a76372a3f) to request to unsubscribe.
 
 #### BY MAIL
 
-The Texas Observer recognizes that readers may be interested in publications or organizations other thanthe The Texas Observer. Therefore, from time to time, The Texas Observer may make postal addressesavailable to other reputable organizations whose products or services we think you might find interesting.Please remember that, although The Texas Observer endeavors to select only reputable organizations whoshare our commitment to customer privacy, we are in no way responsible for the actions or policies of theseother organizations. If you do not want to share your postal address with such other companies, call us at 1-800-939-6620 to speak to a customer service representative, email us at [business@texasobserver.org](http://mailto:business@texasobserver.org/) or send a post card to:
+The Texas Observer recognizes that readers may be interested in publications or organizations other thanthe The Texas Observer. Therefore, from time to time, The Texas Observer may make postal addressesavailable to other reputable organizations whose products or services we think you might find interesting.Please remember that, although The Texas Observer endeavors to select only reputable organizations whoshare our commitment to customer privacy, we are in no way responsible for the actions or policies of theseother organizations. If you do not want to share your postal address with such other companies, call us at 1-800-939-6620 to speak to a customer service representative, email us at [[email protected]](http://mailto:business@texasobserver.org/) or send a post card to:
 
 The Texas Observer  
 Attn: Do Not Trade  
@@ -85,7 +85,7 @@ We also count, track and aggregate the visitor’s activity into our analysis of
 You can always choose not to provide information, to opt out of receiving communications from us or toupdate your information at any time. [TexasObserver.org](https://www.texasobserver.org/) gives users the following options:
 
   1. Click on the “Unsubscribe” link included at the bottom of each of our e-mails and follow theinstructions on the web page.
-  2. Send an e-mail to our friendly Customer Service representatives at [business@TexasObserver.org](mailto:business@texasobserver.org) with your name and address.
+  2. Send an e-mail to our friendly Customer Service representatives at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e28097918b8c879191a296879a83918d80918790948790cc8d9085) with your name and address.
   3. Call our Customer Service representatives toll free at 1-800-939-66204. Send a post card or letter with your request, name, and address to: The Texas Observer 307 W. 7thSt., Austin, TX 78701
 
 
@@ -114,4 +114,4 @@ Austin, Texas 78701
 
 1.800.939.6620
 
-Email: [business@texasobserver.org](mailto:business@texasobserver.org)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f29087819b9c978181b286978a93819d90819780849780dc9d8095)
