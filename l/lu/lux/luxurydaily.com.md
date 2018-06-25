@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurydaily.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125201605id_/https%3A//www.luxurydaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurydaily.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010248id_/https%3A//www.luxurydaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Luxury Daily
 
@@ -8,7 +8,36 @@ Napean LLC d/b/a Luxury Daily and its subsidiaries and affiliates (individually 
 
 This policy describes the type of information we may collect from you and/or that you may provide us when you visit and/or use any Web site(s), mobile site(s) and/or app(s) provided by us (individually or collectively, “Web site(s)“You/your/user(s)” means you as a user of our Web site(s), including any information, tools and services available from the Web site(s), conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to use the Web sites.
 
-**Guide to Contents:**
+ **EU GDPR Compliance Statement**
+
+We are most grateful to have you as part of the  _Luxury Daily  _community and trust that our journalism meets your highest standard.
+
+We have updated our Privacy Policy to incorporate the new European Union General Data Protection Regulation (“EU GDPR”).
+
+Management of your personal data to service your account is of paramount importance to us. We have clarified your individual rights in our updated policy. They are noted here for your convenience.
+
+  * Personal identifying information (data about you) is collected when you subscribe through the webpages hosted on our site. These webpages are hosted for Luxury Daily by our circulation service provider, Cambey & West.
+  * This Personal Identifying Information (PII) includes your name, email address, mailing address, phone number and password that you provided. You will have also provided a credit card to pay for your subscription, and while needed for processing your payment, the card number is not stored. Instead, the transaction ID received back from the card processor is stored. All of the PII data is stored within the Cambey & West system, which has been tested and verified to be PCI compliant as a Level 1 Service Provider by an independent agency. This is a thorough and rigorous testing of the security, proving the inability to penetrate and acquire any data stored within it.
+  * When you submitted a subscription form hosted on our site, you entered into an agreement with _Luxury Daily_ (which is owned by Napean LLC) to provide you protected online content in exchange for PII and the subscription fees.
+  * EU subscribers: Your data will not be shared with any third parties without your express consent.
+  * Your PII is retained for the duration of your subscription.
+  * In compliance with the EU General Data Protection Regulation, at any point you can request:
+
+
+    * The right to access and review your data
+    * The right to correct your data
+    * The right to withdraw your consent
+    * The right to be forgotten, erasure of your date
+  * Procedures are in place to handle all of these requests which, will be addressed in 30 days or less
+  * Any questions about our privacy policy can be sent to _[privacypolicy@luxurydaily.com](mailto:privacypolicy@luxurydaily.com)_
+
+
+
+DATE LAST MODIFIED: May 21, 2018
+
+Below is the entire Privacy Policy:
+
+ **Guide to Contents:**
 
   1. Scope
   2. Information Collected
@@ -26,9 +55,10 @@ This policy describes the type of information we may collect from you and/or tha
   14. International Uses
   15. Disputes
   16. Contact
+  17. EU GDPR compliance
 
 
-  1. **Scope**
+  1.  **Scope**
 
 
 
@@ -40,7 +70,7 @@ This policy describes the type of information we may collect from you and/or tha
 
 1.4       By accessing the Web site(s), you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on the Web site(s). If there is anything you do not understand please email any inquiry to help@luxurydaily.com. **If at any time you do not agree to this Privacy Policy, please do not use the Web site(s).**
 
-** ** 1.5       We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Web site(s). Amendments to this Privacy Policy will be posted at this URL and will be effective when posted. It is your responsibility to review any such changes or updates and check the Web site(s) from time to time to be sure you understand all terms and conditions, agreements and policies of the Web site(s) and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Web site(s) following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+ ** ** 1.5       We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Web site(s). Amendments to this Privacy Policy will be posted at this URL and will be effective when posted. It is your responsibility to review any such changes or updates and check the Web site(s) from time to time to be sure you understand all terms and conditions, agreements and policies of the Web site(s) and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Web site(s) following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 2. ** _ _** **Information Collected**
 
@@ -56,7 +86,7 @@ This policy describes the type of information we may collect from you and/or tha
 
 2.6       Payment processing information is not collected by us. We may use a third party(ies) for payment processing. We do not receive or store your credit card or bank account information, and we do not want you to send us your credit card or bank account information by email or other means. Please review the terms of use and privacy policies of the third party payment processor prior to providing Personal Information to them.
 
-  3. **Use of Your Personal Information**
+  3.  **Use of Your Personal Information**
 
 
 
@@ -77,7 +107,7 @@ We may use the Personal Information we collect for various purposes, including t
 
 
 
-**     ** 4. **Sharing Personal Information With Third Parties**
+ **     ** 4. **Sharing Personal Information With Third Parties**
 
 4.1       We are committed to maintaining your trust and we want you to understand when and with whom we may share Personal Information and information collected about you.
 
@@ -95,7 +125,7 @@ We may use the Personal Information we collect for various purposes, including t
 
 4.8       Mobile phone numbers may be used to send SMS (Short Message Service), text and voice message notifications related to the Web site(s) and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.
 
-  5. **Non-Personally Identifiable Information**
+  5.  **Non-Personally Identifiable Information**
 
 
 
@@ -117,7 +147,7 @@ The Web site will comply with [Do Not Track](http://en.wikipedia.org/wiki/Do_not
 
 5.8       Third-Party Functionalities: The Web site(s) contains links to and/or enables certain third-party functionalities to enhance your experience on the Web site(s), including social plug-ins, tools and APIs. Prior to using any third-party functionalities (e.g., Facebook “Like” button) on the Web site(s), you should consult the privacy notices of the third-party providers of such functionalities (e.g., Facebook), as we have no control over information that is submitted to, or collected by, such third parties, or how they may use the information. The privacy policies and data practices of such third parties may significantly differ from ours, and we make no representation or warranty whatsoever about their policies and practices. Your communications and interactions with such third parties are solely between you and them, and are at your own risk.
 
-  6. **Your Security**
+  6.  **Your Security**
 
 
 
@@ -125,7 +155,7 @@ The Web site will comply with [Do Not Track](http://en.wikipedia.org/wiki/Do_not
 
 6.2       Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100 percent secure. While we will use reasonable means to ensure the security of information you transmit through the Web site(s), any transmission of Personal Information is at your own risk. We cannot guarantee that such information will not be intercepted by third parties and we shall not be liable for any breach of the security of your Personal Information resulting from causes or events that are beyond our control, including, without limitation, your own act or omission, corruption of storage media, defects in third-party data security products or services, power failures, natural phenomena, riots, acts of vandalism, hacking, sabotage, or terrorism and we are not responsible for circumvention of any privacy settings or security measures contained on the Website(s).
 
-  7. **Links to Other Web site(s)**
+  7.  **Links to Other Web site(s)**
 
 
 
@@ -133,7 +163,7 @@ The Web site will comply with [Do Not Track](http://en.wikipedia.org/wiki/Do_not
 
 7.2       In addition, our privacy practices may differ from those of these other Web site(s). If you provide Personal Information at one of those Web site(s), you are subject to the privacy policy of the operator of that Web site(s), not our Privacy Policy. Please make sure you understand any other Web site’s privacy policy before providing Personal Information.
 
-**      **8. **Opt-Out**
+ **      **8. **Opt-Out**
 
 8.1       You may opt out of: (a) receiving email communications such as email newsletters and promotional emails by following the instructions provided at the bottom of each email, clicking the “unsubscribe” button at the bottom of emails we sent you; or (b) receiving promotional email communications by emailing us at help@luxurydaily.com. Please allow up to ten (10) business days for changes to your email preferences to take effect. During that time, you may continue to receive email communications from us that were already in process. Opting out of receiving Web site(s) communications will not affect your receipt of service-related communications such as payment confirmations.
 
@@ -159,13 +189,13 @@ We may also work with Facebook and Apple to provide analytics in connection with
 
 8.11.    If you do not receive a response from us to any emails you send to us within ten (10) business days, please send us another email as your original email may not have been received.
 
-  9. **Children**
+  9.  **Children**
 
 
 
 We do not permit children under 18 years of age to use the Web site(s), and we do not knowingly collect, use or disclose Personal Information from anyone under 18 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 18, we will make reasonable efforts to delete such information from our records.
 
-  10. **Your Privacy Rights**
+  10.  **Your Privacy Rights**
 
 
 
@@ -193,31 +223,31 @@ Under **California Civil Code sections 1798.83-1798.84, California residents** a
 
 (g)       We allow the collection of users’ behavioral tracking (but not Personal Information) by third parties. We do not authorize the collection of Personal Information on the Web site(s) by third parties.
 
-  11. **Disclosure for Legal Purposes**
+  11.  **Disclosure for Legal Purposes**
 
 
 
 You hereby authorize us to disclose any of your Personal Information pursuant to judicial and administrative proceedings and to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose Personal Information if we believe the disclosure is necessary or appropriate in the event of an investigation of improper or illegal conduct in connection with the Web site(s), such as fraud, misrepresentation, intellectual property infringement, or other activity that may put us at risk for liability.
 
-  12. **Non-Confidential Information**
+  12.  **Non-Confidential Information**
 
 
 
 We do not want you to send to us any confidential or proprietary information through email or otherwise. Any information, materials, suggestions, ideas or comments sent to us will be considered non-confidential, and by submitting the same to us, you are giving us the absolute right to use, modify, reproduce, transmit, display and distribute the information for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission.
 
-  13. **Assignment**
+  13.  **Assignment**
 
 
 
 We may freely assign this Privacy Policy or any of our rights and/or obligations hereunder.
 
-  14. **International User Notice**
+  14.  **International User Notice**
 
 
 
 For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union, the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Web site(s), you agree to have your information used and transferred to the United States as set forth in this policy.
 
-  15. **Disputes**
+  15.  **Disputes**
 
 
 
@@ -243,10 +273,39 @@ All disputes between you and us will be resolved by BINDING ARBITRATION. YOU HER
 
 (i) Class Action Waiver. The parties further expressly waive any ability to maintain any class action in any forum. Any arbitration, claim or other proceedings by or between you and Napean shall be conducted on an individual basis and not in any class action, mass action, or on a consolidated or representative basis. You further agree that the arbitrator shall have no authority to award class-wide relief or to combine or aggregate similar claims or unrelated transactions. You acknowledge and agree that this agreement specifically prohibits you from commencing arbitration proceedings as a representative of others. If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial. Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator.
 
-  16. **Contact**
+  16.  **Contact**
 
 
 
 If you have any questions about your privacy or security at the Web site(s), or wish to update your Personal Information, please send an email to help@luxurydaily.com or write to us at: Napean LLC, ATTN: Privacy, 401 Broadway, Ste. 1408, New York, NY 10013, and include your name, mailing address and email address in the message.
 
-**DATE LAST MODIFIED: August 7, 2016**
+ **DATE LAST MODIFIED: August 7, 2016**
+
+17\. **EU GDPR Compliance**
+
+ **EU GDPR Compliance Statement**
+
+We are most grateful to have you as part of the  _Luxury Daily  _community and trust that our journalism meets your highest standard.
+
+We have updated our Privacy Policy to incorporate the new European Union General Data Protection Regulation (“EU GDPR”).
+
+Management of your personal data to service your account is of paramount importance to us. We have clarified your individual rights in our updated policy. They are noted here for your convenience.
+
+  * Personal identifying information (data about you) is collected when you subscribe through the webpages hosted on our site. These webpages are hosted for Luxury Daily by our circulation service provider, Cambey & West.
+  * This Personal Identifying Information (PII) includes your name, email address, mailing address, phone number and password that you provided. You will have also provided a credit card to pay for your subscription, and while needed for processing your payment, the card number is not stored. Instead, the transaction ID received back from the card processor is stored. All of the PII data is stored within the Cambey & West system, which has been tested and verified to be PCI compliant as a Level 1 Service Provider by an independent agency. This is a thorough and rigorous testing of the security, proving the inability to penetrate and acquire any data stored within it.
+  * When you submitted a subscription form hosted on our site, you entered into an agreement with _Luxury Daily_ (which is owned by Napean LLC) to provide you protected online content in exchange for PII and the subscription fees.
+  * EU subscribers: Your data will not be shared with any third parties without your express consent.
+  * Your PII is retained for the duration of your subscription.
+  * In compliance with the EU General Data Protection Regulation, at any point you can request:
+
+
+    * The right to access and review your data
+    * The right to correct your data
+    * The right to withdraw your consent
+    * The right to be forgotten, erasure of your data
+  * Procedures are in place to handle all of these requests which, will be addressed in 30 days or less
+  * Any questions about our privacy policy can be sent to _[privacypolicy@luxurydaily.com](mailto:privacypolicy@luxurydaily.com)_
+
+
+
+ **DATE LAST MODIFIED: May 21, 2018**
