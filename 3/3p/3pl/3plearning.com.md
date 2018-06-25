@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231015048id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194033id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning's Privacy Policy
 
@@ -8,9 +8,9 @@ This webpage explains our privacy and security commitments in plain language.
 
   * __
 
-3P Learning is a global e-learning resource company. We produce a range of online resources and a network of websites including but not limited to those for the  [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Reading Eggs](http://www.readingeggs.com/) and [World Education Games](http://www.worldeducationgames.com/) brands.
+3P Learning is a global e-learning resource company. We produce and distribute a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/), [Spellodrome](http://www.spellodrome.com/), [Reading Eggs,](http://www.readingeggs.com/) [Mathseeds](http://www.3plearning.com/mathseeds), and [World Maths Day / World Education Games](http://www.worldeducationgames.com/) brands.
 
-  *  __
+  * __
 
 Each resource operates under the 3P Learning brand, together with challenge websites for national and regional events which may use or integrate with some of the aforementioned websites (the Site) and are owned and operated by 3P Learning Ltd (and/or our subsidiaries or licensors) (collectively, 3P Learning or ‘us’ or ‘we’).
 
@@ -64,7 +64,7 @@ Collectively, this legislation includes, without limitation:
   * The Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”).
   * The Municipal Freedom of Information and Protection of Privacy Act, Ontario (“MFIPPA”)
   * The Student Online Personal Information Protection Act, California (SOPIPA)
-  * We are also reviewing our processes and we are committed to being compliant with the EU General Data Protection Regulation (Regulation 2016/679) on or before May 2018, when it comes into effect.  
+  * With effect from 25 May 2018, the EU General Data Protection Regulation (Regulation 2016/679).  
 
 
 
@@ -88,11 +88,11 @@ We collect the following categories of personal information:
   * We do not however collect any unnecessary personal information from Registrants (for instance, information about religious beliefs).
   * It is impractical in most circumstances for you to remain anonymous, and we may not be able to interact with you, provide access to the Site, or answer your enquiry if we are not able to identify you or collect your personal information.  
 
-  * In the case of school/educational institution customers (School Customer), we seek consent from the School Customer to be provided with Registrant information for and on behalf fo that student or teacher.  
+  * In the case of school/educational institution customers (School Customer), we seek consent from the School Customer to be provided with Registrant information for and on behalf of that student or teacher.  
 
   * In the case of individual / home subscriptions (Home Customers) we seek consent from the Home Customer at the time of purchasing and registering the product to use the information collected. Where the Home Customer is a student who is a minor, we ask that permission be sought by that student’s parent / legal guardian.  
 
-  * Registrants who do not give this consent (or do not have this consent provided on their behalf) cannot provide us with their personal information and cannot use the Site.  
+  * Registrants who do not give this consent (or do not have this consent provided on their behalf) cannot provide us with their personal information and cannot use the Site. You can however withdraw your consent at any time.  
 
 
 
@@ -123,7 +123,7 @@ The information collected from Registrants, customers or prospective customers m
 
   * __
 
-3P Learning strives to provide a highly engaging Site for students. Given students have indicated their strong preference for their name to be shown publicly in recognition of their achievements, we allow this – but we do not allow full names (i.e. First Name and Surname) to be shown publicly. In addition, all administrative user access to any Site permits the partial (to initials only) or full anonymising (by use of a pseudonym) of names, where preferred by the user.
+Hall of Fame leaderboards : 3P Learning strives to provide a highly engaging Site for students. Given students have indicated their strong preference for their name to be shown publicly on our Sites in recognition of their achievements, we allow this – but we do not allow full names (i.e. First Name and Surname) to be shown publicly. In addition, all administrative user access to any Site permits the partial (to initials only) or full anonymising (by use of a pseudonym) of names, where preferred by the user. If you have any questions about the Hall of Fame and managing the information that is disclosed, please contact us.
 
   *  __
 
@@ -203,6 +203,10 @@ We also ask for Registrants’ consent to use any personal information collected
 
 We retain the personal information that we collect from and about our Registrants for as long as it is needed to provide access to the Site or to manage that Registrant’s account. We take reasonable steps to delete the personal information we collect if your registration to use our Site lapses and you opt out of receiving further communications from us, or if you ask us to delete your information. We may however retain and use personal information as necessary to comply with our legal and regulatory obligations, to resolve disputes and to enforce our agreements, and we may retain and use anonymous and aggregated information for performance reporting, benchmarking and analytic purposes and for product and service improvement.
 
+  *  __
+
+Registrants can request that their personal information be deleted by contacting the 3P Learning Data Protection and Privacy Officer (contact details below).
+
 
 
 
@@ -235,7 +239,7 @@ Further information regarding data storage and security of the Microsoft Azure C
 
   * __
 
-We also expect all our employees and contractors to comply with this Privacy Policy, and we will take appropriate actions to address breaches by employees and contractors of the obligations imposed by this Privacy Policy.
+We provide our personnel with training about data security and privacy, and we require all our employees and contractors to comply with this Privacy Policy and their obligations of confidentiality. We will take appropriate actions to address breaches by employees and contractors of the obligations imposed by this Privacy Policy.
 
 
 
@@ -272,10 +276,14 @@ By consenting to the collection and use of their personal information, Registran
 
 Registrants in Canada, please refer to our  additional information about Canadian users. In accordance with various Canadian provinces’ privacy legislations applicable to many of our school customers we do not store Canadian students’ personal identifiable information outside of Canada. All the data pertaining to a student’s activity within the platform (non-identifiable data) is stored in the East US 2 region of Microsoft Azure. Access to the data is restricted only to the users themselves – and then only via our own applications. It is strictly inaccessible outside of the environment of a 3P Learning resource account and each user only has access to their own data (or in the case of a school’s administrator or IT technician, the data within the school’s wider account).
 
+  *  __
+
+Registrants in the EU, please refer to our [additional information about EU users](http://www.3plearning.com/privacy/GDPR).
 
 
 
- **Anonymous or aggregated information**
+
+**Anonymous or aggregated information**
 
   * __
 
@@ -318,7 +326,7 @@ However, this information is not linked to any personal information that Registr
 
   * __
 
-3P Learning reserves the right to change, modify, or revise this  Privacy Policy in order to comply with any applicable laws, to reflect changes in our processes or for any other reason at any time. Therefore our Registrants are required to check the Privacy Policy periodically to read about any changes, modifications, or revisions. Registrants may wish to check it each time they submit personal information. You will be deemed to have consented to such variation by your continued use of the Site following any changes being made.
+3P Learning reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws, to reflect changes in our processes or for any other reason at any time. Material changes in our Privacy Policy will be communicated to Registered Users and customers, but we also encourage our Registrants to check the Privacy Policy periodically to read about any changes, modifications, or revisions. Registrants may wish to check it each time they submit personal information. You will be deemed to have consented to such variation by your continued use of the Site following any changes being made.
 
 
 
@@ -354,3 +362,62 @@ For more information on privacy legislation and guidelines in your local jurisdi
   * **USA** : [www.ftc.gov](http://www.ftc.gov/)
 
 
+
+**Special information for users across Canada**
+
+  * __
+
+3P Learning is committed to providing access to our resources through an environment that is compliant with all national and provincial privacy requirements applicable to us, and those requirements that apply to our School Customers across Canada.
+
+  *  __
+
+ **This Privacy Policy has been developed with the standards required to be compliant with the Alberta Freedom of Information and Protection of Privacy Act, the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA), the Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”), the Freedom of Information and Protection of Privacy Act (British Columbia) (“FIPPA”) and the Municipal Freedom of Information and Protection of Privacy Act, Ontario (“MFIPPA”).**
+
+  *  __
+
+We sometimes transfer school information to others, including to affiliated entities or unrelated companies (“service providers”), that carry out certain functions on our behalf such as order fulfillment, accounts receivable and data processing. Student names or other personally identifiable information, however, remains in Canada. In those cases where we do need to use the services of a third party, we require them not to use or disclose the information for any purpose other than as directed by 3P Learning.
+
+  *  __
+
+We take all reasonable contractual or other measures to protect your personal information while processed or handled by these service providers. If the information is located outside Canada it will be subject to legal requirements in those foreign countries applicable to our service providers, however the information they have will not be personal in nature.
+
+
+
+
+ **Special Information for users in the European Union**
+
+3P Learning welcomes the EU General Data Protection Regulation (GDPR) as an essential set of regulations to affirm our commitment to data protection across the European Union. We are committed to ensuring: 
+
+  * Personal data is processed fairly, lawfully and in a transparent manner 
+  * Personal data is collected and processed only for specified and lawful purposes 
+  * Processed data is adequate, relevant and not excessive 
+  * Processed data is accurate and, where necessary, kept up to date 
+  * Personal data is not kept longer than necessary 
+  * Personal data is processed in accordance with an individual’s rights 
+  * Personal data is kept secure 
+  * Personal data is not transferred to countries outside of the EU without adequate protection
+
+
+
+The information below should be read in addition to our Privacy Policy, and outlines specific information relevant to certain aspects of our GDPR compliance. 3P Learning Ltd is registered with the Independent Commissioners Office, registration reference no: Z2188515. A copy of this certificate can be downloaded [here](http://cdn.3plearning.com/wp-content/uploads/2017/05/3P-Learning-ICO-Registration-Certificate.pdf). 3P Learning Ltd is a company registered in England and Wales with company registration no. 05919214 and is a trading company within the 3P Learning Group ([https://www.3plearning.com](https://www.3plearning.com/)). 
+
+  * __
+
+**Lawfulness of processing:** 3P Learning collects personal information in a number of contexts and for a number of purposes.   Please refer to the “What personal information we collect”, “What we will do with your information” and “How we collect and process your information” sections of the Privacy Policy. Our processing activities are based either on consent or legitimate interests pursued by 3P Learning and our school and district customers in delivering learning resources for use by schools, teachers, parents and students which are designed to improve learning outcomes and inspire a love of learning.
+
+  *  __
+
+ **Is personal information transferred outside of the European Union?** Yes, personal information in relation to Registered Users and customers located in the EU may be transferred outside of the EU in 2 main situations:
+
+
+
+  1. User data is uploaded to and stored on our servers located in the USA which are maintained by Microsoft Azure. These servers are located in the East US 2 region within Microsoft Azure (<https://azure.microsoft.com/en-au/regions>) and this location was chosen as it is one of the most advanced Azure regions. Microsoft has extensive expertise in protecting data, championing privacy, and complying with complex regulations, and currently complies with both the [EU-U.S. Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en) and [EU Model Clauses](https://www.microsoft.com/en-us/trustcenter/Compliance/EU-Model-Clauses), thereby helping to support 3P Learning’s compliance with the requirements of the GDPR. Additional information about Microsoft’s compliance with the EU GDPR is available at[ https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx).
+  2. In most instances, personal data about our EU based customers is collected, accessed and managed by our sales, operational and customer support teams in the United Kingdom. Very occasionally however, such information may be shared with our employees in one of ours offices outside of the UK e.g. to respond to an urgent customer support query outside of normal hours or for internal reporting processes. Our main offices outside of the EU are located in Calgary, Canada and Sydney, Australia. To ensure appropriate safeguards exist in relation to such transfers, 3P Learning has implemented [standard contractual clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) to cover the transfer of data relevant to EU registrants to other companies within the 3P Group that are not located in the EU.
+
+
+
+Additionally, please refer to information about our Hall of Fame. 
+
+Specific information in relation to Reading Eggs and Mathseeds: Reading Eggs and Mathseeds are distributed in the EU by 3P Learning in partnership with Blake eLearning, the owners and operators of the Reading Eggs and Mathseeds sites (and a company incorporated in Australia). We have arrangements in place to document our respective obligations in relation to personal information collected and used about Registered Users and to ensure appropriate safeguards exist in relation to the transfer of personal information by 3P Learning outside of the EU to Blake eLearning.
+
+**For further information, please contact the3P Learning Data Protection and Privacy Officer.**
