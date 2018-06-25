@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119203311id_/https%3A//www.cfl.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625211125id_/https%3A//www.cfl.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CFL.ca
-
-**PRIVACY POLICY**
 
 This Privacy Policy describes the manner in which the Canadian Football League and its affiliates, including CFL Enterprises, L.P., CFL Enterprises G.P., CFL Holdings G.P., and CFL Holdings L.P., (collectively, the “CFL,” “we,” “our,” “us”) use information in operating our websites, our mobile and other apps, and any other online service that displays or provides an authorized link to this Privacy Policy (collectively, our “Services”). Please note that this Privacy Policy does not apply to the websites, apps, or services of any of the Member Clubs of the Canadian Football League (“Member Clubs”), which are governed by the individual privacy policies of the Member Clubs.
 
 By using our Services, you consent to the practices described in this Privacy Policy. If you have any questions about this Privacy Policy, please contact us at <http://www.cfl.ca/contact-us/>  or as described under Contact Us below.
 
-  1. **Information Collection**
-
-
+### **Information Collection**
 
 You generally are not required to provide information about yourself when you visit the Services. However, we may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, participate in surveys or forums, access various content or features, submit comments or content, use a send-to-a-friend feature, or directly contact us with questions or feedback:
 
@@ -40,9 +36,8 @@ We also may collect certain information automatically when you visit the Service
   * Standard Server Log Information
 
 
-  2. **Use of Information**
 
-
+### **Use of Information**
 
 We may use information that we collect through the Services for a variety of purposes, including to:
 
@@ -55,9 +50,8 @@ We may use information that we collect through the Services for a variety of pur
   * As otherwise described to you at the point of collection or pursuant to your consent.
 
 
-  3. **Sharing Information**
 
-
+### **Sharing Information**
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. At times, as described below, we may share your personal information with others for various purposes:
 
@@ -83,9 +77,8 @@ These third parties may set their own cookies or similar web technologies to col
   * **Other Parties with your Consent** : We may share information with third parties when you consent to such sharing. For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
 
 
-  4. **Cookies and Similar Technologies**
 
-
+### **Cookies and Similar Technologies**
 
 The Services use technologies such as cookies, beacons, tags and scripts. These technologies are used for a variety of purposes, such as analyzing trends, administering the Services, analyzing how users interact with the Services, and gathering demographic information. By using the Services, you consent to our use of cookies and similar technologies.
 
@@ -93,15 +86,11 @@ Users can control the use of cookies at the individual browser level. If you rej
 
 We may use mobile analytics software to allow us to better understand the functionality of our Services. This software may record information such as how often you use an application, the events that occur within the application, aggregated usage, performance data, and where an application was downloaded from.
 
-  5. **Links to Other Websites**
-
-
+### **Links to Other Websites**
 
 The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under our control or maintained by us. Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to this third-party content. We encourage you to review the privacy policies of these third-party websites or services. We do not have any control over such services, and therefore have no responsibility or liability for the manner in which the entities that operate such linked services may collect, use, disclose, or otherwise treat your information.
 
-  6. **Security**
-
-
+### **Security**
 
 We have adopted reasonable security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us.
 
@@ -109,38 +98,25 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 
 Your online access to some of your information may be protected with a password that you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages).
 
-  7. **Data Retention**
-
-
+### **Data Retention**
 
 We will retain your information for as long as your account is active, as needed to provide you the Services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  8. **Minors**
-
-
+### **Minors**
 
 People aged thirteen or under are not allowed to become registered users of this site. For more information, please contact the webmaster.
 
-  9. **Changes to this Privacy Policy**
-
-
+### **Changes to this Privacy Policy**
 
 We may update this Privacy Policy from time to time to reflect changes in our privacy practices, so we encourage you to review this Privacy Policy periodically. If we make significant changes to this Privacy Policy, we will provide appropriate notice to you.
 
-  10. **Contact Us**
+### **Contact Us**
 
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [contact@cfl.ca](mailto:contact@cfl.ca) or:
 
-
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [privacypolicy@cfl.ca](mailto:privacypolicy@cfl.ca) or:
-
-**Canadian Football League**
-
-50 Wellington Street East, 3rd Floor
-
-Toronto, Ontario M5E 1C8
-
-Attention: Website Privacy Policy
-
-Tel: (416) 322-9650
-
+**Canadian Football League**  
+50 Wellington Street East, 3rd Floor  
+Toronto, Ontario M5E 1C8  
+Attention: Website Privacy Policy  
+Tel: (416) 322-9650  
 Fax: (416) 322-9651
