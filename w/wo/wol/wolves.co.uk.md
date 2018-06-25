@@ -1,37 +1,559 @@
-> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913163230id_/https%3A//www.wolves.co.uk/club/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625101332id_/https%3A//www.wolves.co.uk/club/policies/privacy-policy) for the most accurate reproduction.*
 
-# | Wolverhampton Wanderers FC
+# Privacy Policy | Wolverhampton Wanderers FC
 
-PRIVACY POLICY
+**Introduction**
 
-We will collect information from our supporters and customers when completing sales transactions and will also require such information when entering competitions run by the club.   
-Where we purchase data we will ensure that the data is compliant with the marketing preferences of the individuals included.   
-This includes, but is not limited to, the Telephone Preference Service (TPS) and the Mail Preference Service (MPS).
+Welcome to the Wolves privacy notice.
 
-We will also collect data from third parties such as websites and social media platforms for conversion tracking and targeted advertising on these platforms.   
-Fans providing data through these methods will be able to opt out from communications in the usual manner.   
-To opt out from interest-based advertising on Twitter, users can do so here https://support.twitter.com/articles/20170405.
+Wolves respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-We will use the information that we hold for administration and customer services purposes, to ensure that your purchasing experience with the club is completely satisfactory.   
-We will also use the information for marketing purposes.   
-This includes profiling your purchasing habits to assist us in marketing our future campaigns.   
-By not providing your information this may affect the service that we deliver to you and will also restrict us from sending you both informative and promotional communications.   
-For example, most of our promotional offers are communicated via email in the first instance, opting out from receiving emails from Wolverhampton Wanderers may result in you not receiving the information or being made aware of the offer.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://web.archive.org/media/4843/wolves-gdpr-website-privacy-policy-v1-final.pdf "https://prod-wolves-cms.azurewebsites.net/media/4843/wolves-gdpr-website-privacy-policy-v1-final.pdf"). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
-We will store your information within our transactional systems and central database and will take reasonable measures to ensure that the information we hold is accurate and relevant.   
-We may send you information from our business partners.   
-These communications will come from Wolverhampton Wanderers and you will be able to opt in or out of them in the normal manner, we will not pass your contact details for these companies to market to you directly.   
-We may pass certain information to external parties that will assist us in profiling our current and potential customers.   
-Any data passes on will be covered by a Non-Disclosure Agreement and may not be used or passed on by the third party for any purpose and must be destroyed upon completion of the requested task.
+  1. IMPORTANT INFORMATION AND WHO WE ARE
+  2. THE DATA WE COLLECT ABOUT YOU
+  3. HOW IS YOUR PERSONAL DATA COLLECTED
+  4. HOW WE USE YOUR PERSONAL DATA
+  5. DISCLOSURES OF YOUR PERSONAL DATA
+  6. INTERNATIONAL TRANSFERS
+  7. DATA SECURITY
+  8. DATA RETENTION
+  9. YOUR LEGAL RIGHTS
+  10. GLOSSARY
+  11. COOKIES POLICY
 
-When providing your data we will ask you to confirm your contact preferences and these requests will be stored against your personal data.   
-You may opt in or out of communications at any time by writing to The Data Controller, Wolves FC, Molineux Stadium, Waterloo Road, Wolverhampton, WV1 4QR, calling the Ticket Office on 0871 222 1877, emailing fans@wolves.co.uk or following the unsubscribe link at the bottom of all bulk emails sent by Wolverhampton Wanderers FC.   
-We will endeavour to action all requests within the legal requirement of 21 days.   
-Where we request you to provide sensitive data we will ask you to explicitly consent to provide this information and allow us to process it.   
-At any time you can request a copy of all of the information that we hold with regard to your personal data.   
-All requests must be made in writing to The Data Controller, Molineux Stadium, Waterloo Road, Wolverhampton, WV1 4QR and a fee of £10 submitted with the request.
 
-To ensure that we follow your instructions correctly and to help us improve our service to you we may monitor and record our communications.   
-When you provide us with information about another person you confirm that they have appointed you to act for them and consent for us to process their personal data.   
-They will have the opportunity at any time to amend their marketing preferences via the channels detailed above. As per the Data Protection Act 1998, children that are at least 12 years old are deemed to have the understanding to exercise their own rights with regard to data protection and therefore they have the responsibility to provide and amend their own details.   
-For children under 12 personal details are to be provided and amended by the child’s parent or guardian.
+
+**1\. Important information and who we are**
+
+**Purpose of this privacy notice**
+
+This privacy notice aims to give you information on how Wolves collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter or purchase a product or service or take part in a competition or play a game or engage in a chat forum or watch our video services.
+
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
+
+**Controller**
+
+Wolverhampton Wanderers Football Club Limited is the controller and responsible for your personal data (collectively referred to as "Wolves", "we", "us" or "our" in this privacy notice).
+
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
+
+**Contact details**
+
+Our full details are:
+
+Full name of legal entity: Wolverhampton Wanderers Football Club Limited
+
+Name or title of DPO: Matt Wild, Club Secretary
+
+Email address: DPO@wolves.co.uk
+
+Postal address: DPO, Wolverhampton Wanderers Football Club, 67 Waterloo Rd, Wolverhampton WV1 4QR
+
+Telephone number: 0871 222 2220
+
+**Changes to the privacy notice and your duty to inform us of changes**
+
+This version was last updated on 21st May, 2018 and historic versions can be obtained by contacting us.
+
+The data protection law in the UK will change on 25 May 2018. Although this privacy notice sets out most of your rights under the new laws, we may not yet be able to respond to some of your requests (for example, a request for the transfer of your personal data) until May 2018 as we are still working towards getting our systems ready for some of these changes.
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+**Third-party links and social media**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you.
+
+We have a social media presence for the purpose of engaging with our fans.
+
+If you enable such connections or choose to communicate your personal data to us via third-party websites or social media, please remember that we do not control these third-party websites and are not responsible for their privacy statements. When you leave our website or interact with us on social media, we encourage you to read the privacy notice of every website of forum that you visit or use.
+
+**2\. The data we collect about you**
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
+
+  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, marital status, title, age, date of birth and gender.
+  * **Contact Data** includes billing address, delivery address, email address and telephone numbers.
+  * **Financial Data** includes bank account and payment card details.
+  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
+  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, occupation, preferences, feedback and survey responses.
+  * **Usage Data** includes information about how you use our website, products and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data) nor do we collect any information about criminal convictions and offences without your explicit opt in consent.
+
+**If you fail to provide personal data**
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+**3\. How is your personal data collected?**
+
+We use different methods to collect data from and about you including through:
+
+  * **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
+    * apply for our products or services;
+    * create an account on our website;
+    * subscribe to our service or publications;
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey;
+    * engage in a chat forum;
+    * or watch our video services; or
+    * give us some feedback.
+  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our cookies policy for further details.
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below.
+  * Technical Data from the following parties:  
+(a)   analytics providers such as Google based outside the EU;   
+(b)   advertising networks such as affiliate window based inside **OR** outside the EU; and  
+(c)   search information providers such as Yahoo based inside **OR** outside the EU
+  * Contact, Financial and Transaction Data from providers of technical, payment and delivery services based inside **OR** outside the EU.
+  * Identity and Contact Data from data brokers or aggregators such as Experian based inside **OR** outside the EU.
+  * Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU
+
+
+
+**4\. How we use your personal data**
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Click here to find out more about the types of lawful basis that we will rely on to process your personal data.
+
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting the DPO.
+
+**Purposes for which we will use your personal data**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.  Please contact the DPO if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+**Purpose/Activity**
+
+| 
+
+**Type of data**
+
+| 
+
+**Lawful basis for processing including basis of legitimate interest**  
+  
+---|---|---  
+  
+To register you as a new customer
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+| 
+
+Performance of a contract with you  
+  
+To process and deliver your order including:
+
+(a) Manage payments, fees and charges
+
+(b) Collect and recover money owed to us
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to recover debts due to us)  
+  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+  
+To enable you to partake in a prize draw, competition or complete a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications 
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical  
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you 
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical  
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences 
+
+| 
+
+(a) Technical
+
+(b) Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+  
+**Marketing**
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a privacy centre where you can view and make certain decisions about your personal data. You can access the centre via a link on every email that we send you or by logging in to [www.wolves.co.uk](http://www.wolves.co.uk/ "www.wolves.co.uk")
+
+**Promotional offers from us**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+**Third-party marketing**
+
+We will get your express opt-in consent before we share your personal data with any company outside the Wolves group of companies for marketing purposes.
+
+**Opting out**
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by contacting the DPO at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
+
+**Cookies**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see here
+
+**Change of purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact the DPO.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**5\. Disclosures of your personal data**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * Internal Third Parties as set out in the glossary.
+  * External Third Parties as set out in the glossary.
+  * Specific third parties as listed here.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+**6\. International transfers**
+
+We do not transfer your personal data outside the European Economic Area ( **EEA** ).
+
+**7\. Data security**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+All integrations via SFTP file transfer or API direct from partner systems are fully encrypted and secure. If we need to do ad-hoc data transfers, we use a secure cloud folder for storing and transferring files and data
+
+**8\. Data retention**
+
+**How long will you use my personal data for?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by contacting the DPO.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**9\. Your legal rights**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
+
+  * Request access to your personal data
+  * Request correction of your personal data
+  * Request erasure of your personal data
+  * Object to processing of your personal data
+  * Request restriction of processing your personal data
+  * Request transfer of your personal data
+
+
+
+**Right to withdraw consent**
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/ "www.ico.org.uk")). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. If you wish to exercise any of the rights set out above, please contact the DPO on email at [DPO@wolves.co.uk](mailto:DPO@wolves.co.uk "DPO@wolves.co.uk"), by telephone on 0871 222 2220 or by post at DPO, Wolverhampton Wanderers Football Club, 67 Waterloo Rd, Wolverhampton WV1 4QR
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+**10\. Glossary**
+
+**LAWFUL BASIS**
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting the DPO.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**THIRD PARTIES**
+
+**External Third Parties**
+
+  * Service providers acting as processors who provide IT and system administration services.
+  * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances.
+
+
+
+**YOUR LEGAL RIGHTS**
+
+You have the right to:
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+**11\. Cookies Policy**
+
+**Site tracking & cookies**
+
+When visiting our website, we would like to use "cookies" and other tracking technologies which record information and data automatically.
+
+**What are cookies?**
+
+"Cookies" are small text files stored on your "browser" on your computer's hard drive, which collect basic information, but not personally identifying information, that a website can use to recognize repeat site visits. Cookies send information stored on them back to our webserver when you access our website.
+
+Cookies enable Wolves to provide features such as remembering your address, so that you do not have to re-enter it each time you use the website. Cookies do not attach to your system or damage your files.
+
+**Removing cookies**
+
+Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies. You can usually change your browser so that it will not accept cookies. If you do this, you will still be able to browse around the site and use most of the features on the website but the functions that allow you to add items to your trolley, set up a new account or access an existing account will not be available. Alternatively, you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them will depend on the type of internet browser programme, which your computer uses.
+
+If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions at this link [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") (Wolves is not responsible for the content of external websites.)
+
+Go to the heading "Manage Cookies". Click onto the option you prefer, either stopping cookies being installed or notifying you of them. From the list provided, click onto the programme, which your computer uses. If this is not shown on the list, click on the "help" heading on the bar at the top of this page, search for information on "cookies" - an explanation of how to delete cookies will appear, then follow those instructions.
+
+If we cannot use such technology it is possible that certain functionality or 'personalised' services of this site might be affected and you might not be able to access certain Webpages. This information does not identify you personally.
+
+**What information do we collect?**
+
+We automatically collect and store only the following information about your visit:-
+
+  * the internet domain and IP address from where you access our Website;
+  * the type of browser software and operating system used to access our Website;
+  * the date and time you access our Website;
+  * the pages you enter, visit and exit our Website from; and
+  * if you linked to our Website from another Website, the address of that Website.
+
+
+
+Why do we collect this information?
+
+We use this information to help us identify click stream patterns, to compile aggregate data in order to observe behaviour and to improve our Website, to learn about the number of visitors to our Website, the types of technology our visitors use, to target the advertising and to assess the general effectiveness of such advertising.
+
+We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience.
+
+Currently our Webpages are optimised for the following Internet browsers: Internet Explorer 8.0+, Firefox, Safari, Chrome and native browsers on mobile devices and tablets.
+
+We do not use cookies to collect or store personal information such as your name or email address.
+
+**Third party advertising cookies**
+
+Some of the advertisements you see on this site are generated by third parties. Some of these third parties generate their own "anonymous cookies", for the same reasons we do: to track how many unique users have seen a particular ad, and how many times they have seen it.
+
+These third party cookies cannot be used to identify an individual user, but only for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users).
+
+List of cookies on [www.wolves.co.uk](http://www.wolves.co.uk/ "www.wolves.co.uk")
+
+**Cookie Name**
+
+| 
+
+**Purpose**  
+  
+---|---  
+  
+_ga
+
+_gat_UA-100320797-1
+
+_gid
+
+| 
+
+Cookies related to Google Analytics which facilitate tracking information about how the website is being used, e.g. number of users.  
+  
+cookie-accept
+
+_sa_sso_upid
+
+wwfc_name
+
+wwfc_token
+
+_RequestVerificationToken
+
+| 
+
+Cookies associated with login and sign on for the website.  
+  
+**Cookies set by third-party on[login.wolves.co.uk](https://web.archive.org/umbraco/login.wolves.co.uk "login.wolves.co.uk")**
+
+_ga
+
+_gat_UA-100320797-1
+
+_gid
+
+| 
+
+Cookies set by 3rd Party provider on login.wolves.co.uk for Google Analytics which facilitate tracking information about how the website login is being used, e.g. number of users.  
+  
+---|---  
+  
+_RequestVerificationToken  
+cookie-accept
+
+_sa_sso_referringtenantid
+
+_sa_sso_returnvisitorurl
+
+_sa_sso_successredirecturl
+
+_sa_sso_upid
+
+_sa_sso_session
+
+| 
+
+Cookies set by 3rd Party provider on login.wolves.co.uk to enable the handshake for a personalised experience for fans when they login to the site. Ability to reveal Hi ‘Name’ and link to the fan’s account details once logged in.  
+  
+**Consent to cookies**
+
+In using this website, and by submitting your information, you consent to the collection, storage and use of your personal information by us as set out in this Cookies Policy.
+
+If you do not agree, please leave this website now.
