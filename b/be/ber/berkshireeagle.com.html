@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the berkshireeagle.com privacy policy that was archived on 2017-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227045732id_/http%3A//berkshireeagle.com/privacy-policy/berkshire-eagle) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the berkshireeagle.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625105251id_/http%3A//berkshireeagle.com/privacy-policy/berkshire-eagle) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" w-mod-js w-mod-no-touch w-mod-video w-mod-no-ios"><head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="author" content="">
     
         
-    <script async="" src="//cdn2.lockerdome.com/_js/ajs.js" id="ld-ajs"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=1381377748574854"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script async="" src="//cdn2.lockerdome.com/_js/ajs.js" id="ld-ajs"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=1381377748574854"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css">    
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
@@ -20,17 +20,57 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-        <link rel="stylesheet" type="text/css" href="/css/webflow.css">
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000000",
+          "text": "#ffffff"
+        },
+        "button": {
+          "background": "#f99d3e",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "edgeless",
+      "position": "top",
+      "static": true,
+      "content": {
+        "message": "We use cookies to determine if you are a subscriber, for analytics regarding site use, and advertising metrics."
+      }
+    })});
+    </script>
+
+        <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/webflow.css">
     <link rel="stylesheet" type="text/css" href="/css/neni-wf.css">
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
     <script type="text/javascript" src="/js/modernizr.js"></script>
+    <script>
+    function ta_paywallLoaded(){
+
+      var ck = 'loggedIn';
+      var prior = Cookies.get(ck);
+      if( typeof prior != 'undefined' ){
+        prior = eval(prior);
+      }
+      var current = ta_isUserLoggedIn();
+      if( prior != current ){
+        Cookies.set(ck, current);
+      }
+
+    }
+    </script>
 
         <link rel="stylesheet" href="/css_system/cq_base_beta.css">
-    <link rel="stylesheet" href="/css/neni-ccms.css?cb=1514350652">
+    <link rel="stylesheet" href="/css/neni-ccms.css?cb=1529923966">
 
     <meta name="google-site-verification" content="q1FaG1oh8jqsqqsTjbOEnVK_jUt8FL5x2VovL991nfo">
 
-    <!-- Hotjar Tracking Code for http://www.berkshireeagle.com/ -->
+    <!-- Hotjar Tracking Code for https://www.berkshireeagle.com/ -->
     <script>
         (function(h,o,t,j,a,r){
             h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -42,11 +82,10 @@
         })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
     </script><script async="" src="//static.hotjar.com/c/hotjar-575786.js?sv=5"></script>
     
-	<title>The Berkshire Eagle | Pittsfield Breaking News, Sports, Weather, Traffic</title>
+	<title>Privacy policy | The Berkshire Eagle | Pittsfield Breaking News, Sports, Weather, Traffic</title>
 
-	<script src="http://hosted2.ap.org/scripts/CustomNews.js"></script>
-
-    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+	
+          <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -54,8 +93,12 @@
 
 <script>
   googletag.cmd.push(function() {
-	googletag.defineSlot('/17604206/Eagle_RoS_Interstitial', [1, 1], 'div-gpt-ad-1488918914287-0').addService(googletag.pubads());
-	googletag.defineSlot('/17604206/Eagle_RoS_FloatBar', [1, 1], 'div-gpt-ad-1488917712825-0').addService(googletag.pubads());
+
+// googletag.defineSlot('/17604206/Eagle_RoS_Interstitial', [1, 1], 'div-gpt-ad-1488918914287-0').addService(googletag.pubads());
+
+    googletag.defineSlot('/17604206/Eagle_RoS_FloatBar', [1, 1], 'div-gpt-ad-1488917712825-0').setTargeting('subscriber',  [ ( Cookies.get('loggedIn') ? 'yes' : 'no' ) ] ).addService(googletag.pubads());
+    // googletag.defineSlot('/17604206/Eagle_RoS_FloatBar', [1, 1], 'div-gpt-ad-1488917712825-0').addService(googletag.pubads());
+
     googletag.defineSlot('/17604206/Eagle_Business_BigBox_ATF', [[300, 600], [160, 600]], 'div-gpt-ad-1482258784283-80').addService(googletag.pubads());
     googletag.defineSlot('/17604206/Eagle_Business_Box_ATF', [300, 250], 'div-gpt-ad-1482258784283-81').addService(googletag.pubads());
     googletag.defineSlot('/17604206/Eagle_Business_Box_BTF', [[300, 600], [160, 600], [300, 250]], 'div-gpt-ad-1482258784283-82').addService(googletag.pubads());
@@ -145,28 +188,48 @@
     googletag.defineSlot('/17604206/Eagle_Holiday_MedBox_Low', [300, 250], 'div-gpt-ad-1485554629588-12').addService(googletag.pubads());
     googletag.defineSlot('/17604206/Eagle_Holiday_MedBox_Mid', [300, 250], 'div-gpt-ad-1485554629588-13').addService(googletag.pubads());
 
-        googletag.pubads().collapseEmptyDivs();
+
+    googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
   });
-</script>
+</script>  
      <link rel="icon" href="https://9e754e343524fd93c1a1-771745a27987d2f29c4afcbf7e1615f0.ssl.cf1.rackcdn.com/BE.ico" type="image/x-icon">
       <link rel="shortcut icon" href="https://9e754e343524fd93c1a1-771745a27987d2f29c4afcbf7e1615f0.ssl.cf1.rackcdn.com/BE.ico">
       <meta property="fb:pages" content="194810627240021">   
 		
-		<meta property="og:title" content="The Berkshire Eagle">
+		<meta property="og:title" content="Privacy policy | The Berkshire Eagle">
 	<meta property="og:description" content="">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-			<meta property="og:image" content="http://berkshireeagle.com/images/og/berkshire-eagle.jpg">
-			<link rel="canonical" href="http://berkshireeagle.com/privacy-policy/berkshire-eagle/">
+			<!-- TESTING -->
+		<meta property="og:image" content="http://www.berkshireeagle.com/images/og/berkshire-eagle.jpg">
+			<link rel="canonical" href="https://www.berkshireeagle.com/privacy-policy/berkshire-eagle/">
 
 		<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@BerkshireEagle">
-	<meta name="twitter:title" content="The Berkshire Eagle">
+	<meta name="twitter:title" content="Privacy policy | The Berkshire Eagle">
 	<meta name="twitter:description" content="">
-			<meta name="twitter:image" content="http://berkshireeagle.com/images/og/berkshire-eagle.jpg">
+			<meta name="twitter:image" content="http://www.berkshireeagle.com/images/og/berkshire-eagle.jpg">
 		
 
+        <!-- Facebook Pixel Code -->
+      <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '157111781663527');
+        fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=157111781663527&ev=PageView&noscript=1"
+      /></noscript>
+      <!-- End Facebook Pixel Code -->
+    
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -194,7 +257,8 @@
   
 
   
-     <script type="text/javascript" src="http://berkshireeagle.ma.pw.newsmemory.com?meter&amp;service=onstop&amp;v=4"></script> <div class="ebri">
+     <script type="text/javascript" src="http://berkshireeagle.ma.pw.newsmemory.com?meter&amp;service=onstop&amp;v=8" async=""></script>
+      <script type="text/javascript" src="http://berkshireeagle.ma.pw.newsmemory.com?meter&amp;v=8" async=""></script> <div class="ebri">
 
 <!-- ADTAG: Eagle_Tools_Leaderboard_Upper.html --><!-- /17604206/Eagle_Tools_Leaderboard_Upper -->
 <div id="div-gpt-ad-1482258784283-157" class="leaderboard hidden-xs">
@@ -216,17 +280,7 @@ if( $(window).width() < 768 ){
 		<div class="row fullwidth">
 				<div class="clearfix">
 						<div class="pull-right col-sm-6">
-							<span style="float:left; margin-right: 10px;">
-								<ul class="list-inline">
-									<li>
-										<a class="upper" href="/search.html">SEARCH</a>
-									</li>
-																			<li>
-											<div class="upper" onclick="ta_account();" id="ta_account_button">LOGIN</div>
-										</li>
-																	</ul>
-							</span>
-							<span style="float:left;">
+							<span style="float:right;">
 								<ul class="list-inline">
 									<li>
 										<a class="upper icon" target="new" href="https://www.facebook.com/berkshire.eagle"><i class="fa fa-facebook-official"></i></a>
@@ -242,12 +296,22 @@ if( $(window).width() < 768 ){
 										</button>
 									</li>
 									<li>
-										<button class="btn btn-xs btn-primary subscribe manage text-center" onclick=" window.open('http://neni-news.com/subscribe/'); ">
-											Gift Subscription										</button>
+										<button class="btn btn-xs btn-primary subscribe manage text-center" onclick=" window.open('http://berkshireeagle.ma.newsmemory.com/'); ">
+											Read our e-Edition										</button>
 									</li>
 
 									
 								</ul>
+							</span>
+							<span style="float:right; margin-right: 10px;">
+								<ul class="list-inline">
+									<li>
+										<a class="upper" href="/search.html">SEARCH</a>
+									</li>
+																			<li>
+											<div class="upper" onclick="ta_account();" id="ta_account_button">LOGIN</div>
+										</li>
+																	</ul>
 							</span>
 						</div> <!-- .pull-right-->
 						<div class="pull-left">
@@ -255,10 +319,10 @@ if( $(window).width() < 768 ){
 									<li>
 										PITTSFIELD, MASS.									</li>
 									<li>
-										TUE., DEC. 26, 2017									</li>
+										MON., JUN. 25, 2018									</li>
 									<li class="wx">
-										<img src="http://forecast.weather.gov/images/wtf/small/nskc.png">
-										11.0°, FAIR										<span class="forecast">
+										<img src="https://forecast.weather.gov/images/wtf/small/novc.png">
+										61.0°, OVERCAST										<span class="forecast">
 											<a href="http://www.accuweather.com/en/us/pittsfield-ma/01201/weather-forecast/329321" target="new">FORECAST</a>
 										</span>
 									</li>
@@ -316,6 +380,9 @@ if( $(window).width() < 768 ){
 											<a href="/education/">Education</a>
 										</li>
 																			<li>
+											<a href="/Health/">Health</a>
+										</li>
+																			<li>
 											<a href="/real-estate-news/">Real Estate</a>
 										</li>
 																			<li>
@@ -340,19 +407,31 @@ if( $(window).width() < 768 ){
 											<a href="/Daniel_Pearl_Berkshire_Scholarship.html">Daniel Pearl Scholarship</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/berkshire-museum,514928">Berkshire Museum: Art on the Block</a>
+											<a href="/stories/berkshire-business-outlook-a-diverse-economy-geared-for-the-future,536337">Berkshire Business Outlook: A Diverse Economy</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/broadband-in-the-berkshires,498160?">Broadband in the Berkshires</a>
+											<a href="/stories/berkshire-museum,514928">Berkshire Museum: Art on the Block</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/the-cannabis-road,514570">Cannabis Road</a>
+											<a href="/stories/broadband-in-the-berkshires,498160?">Broadband in the Berkshires</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/nurses-strike-at-berkshire-medical-center,521065">Diagnosis Discord: urses Strike at Berkshire Medical Center</a>
+											<a href="/stories/the-cannabis-road,514570">Cannabis Road</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/sick-bridges-failing-spans-scant-dollars,523731">Sick Bridges  | Failing Spans; Scant Dollars</a>
+											<a href="/stories/nurses-strike-at-berkshire-medical-center,521065">Diagnosis Discord: Nurses Strike at Berkshire Medical Center</a>
+										</li>
+																			<li>
+											<a href="/stories/the-disappearance-of-joanne-ringer,530223">The Disappearance of Joanne Ringer</a>
+										</li>
+																			<li>
+											<a href="/stories/sick-bridges-failing-spans-scant-dollars,523731">Sick Bridges  | Failing Spans; Scant Dollars</a>
+										</li>
+																			<li>
+											<a href="/documentinghate.html">Documenting Hate</a>
+										</li>
+																			<li>
+											<a href="/public-employee-pay.html">Public Employee Pay Database</a>
 										</li>
 																	</ul>
 													</li>
@@ -380,6 +459,9 @@ if( $(window).width() < 768 ){
 										</li>
 																			<li>
 											<a href="http://racing.ap.org/berkshireeagle/">NASCAR</a>
+										</li>
+																			<li>
+											<a href="/2018berkshireallstars.html">Berkshire All Stars</a>
 										</li>
 																	</ul>
 													</li>
@@ -430,7 +512,7 @@ if( $(window).width() < 768 ){
 											<a href="/theater/">Theatrical Landscape</a>
 										</li>
 																			<li>
-											<a href="berkshireeagle.com/stories/the-scene,491926">The Scene</a>
+											<a href="/stories/the-scene,491926">The Scene</a>
 										</li>
 																	</ul>
 													</li>
@@ -454,28 +536,22 @@ if( $(window).width() < 768 ){
 											<a href="/tvlistings/">TV listings</a>
 										</li>
 																			<li>
-											<a href="http://www.berkshireeagle.com/takeout.html">Take out menus</a>
+											<a href="/takeout.html">Take out menus</a>
 										</li>
 																			<li>
-											<a href="http://www.berkshireeagle.com/games/">Games</a>
+											<a href="/games/">Games</a>
 										</li>
 																	</ul>
 													</li>
 											<li class="dropdown">
-							<a href="/lifestyle/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick=" window.location.href = '/lifestyle/'; ">
-								Life								<!-- <span class="caret"></span> -->							</a>
+							<a href="/berkshires-week/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick=" window.location.href = '/berkshires-week/'; ">
+								BWSV								<!-- <span class="caret"></span> -->							</a>
 															<ul class="dropdown-menu">
 																			<li>
-											<a href="/health/">Health</a>
-										</li>
-																			<li>
-											<a href="/insights/">Insights</a>
-										</li>
-																			<li>
-											<a href="http://berkshireeagle.com/stories/the-cottager,493961">The Cottager</a>
-										</li>
-																			<li>
 											<a href="/berkshires-week">Berkshires Week</a>
+										</li>
+																			<li>
+											<a href="/stories/the-cottager,493961">The Cottager</a>
 										</li>
 																			<li>
 											<a href="/announcements/">Announcements</a>
@@ -484,7 +560,7 @@ if( $(window).width() < 768 ){
 													</li>
 											<li class="dropdown">
 							<a href="/opinion/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" onclick=" window.location.href = '/opinion/'; ">
-								Opinion								<!-- <span class="caret"></span> -->							</a>
+								Op/Ed								<!-- <span class="caret"></span> -->							</a>
 															<ul class="dropdown-menu">
 																			<li>
 											<a href="/editorials/">Editorials</a>
@@ -496,7 +572,7 @@ if( $(window).width() < 768 ){
 											<a href="/columnists/">Columnists</a>
 										</li>
 																			<li>
-											<a href="http://www.berkshireeagle.com/stories/chan-lowe-editorial-cartoons,515051">Editorial Cartoons</a>
+											<a href="/stories/chan-lowe-editorial-cartoons,515051">Editorial Cartoons</a>
 										</li>
 																	</ul>
 													</li>
@@ -505,10 +581,10 @@ if( $(window).width() < 768 ){
 								Podcasts								<!-- <span class="caret"></span> -->							</a>
 															<ul class="dropdown-menu">
 																			<li>
-											<a href="http://berkshireeagle.com/stories/the-berkshire-eagle-podcast-collection,492451">Berkshire Eagle Podcast Collection</a>
+											<a href="/stories/the-berkshire-eagle-podcast-collection,492451">Berkshire Eagle Podcast Collection</a>
 										</li>
 																			<li>
-											<a href="http://berkshireeagle.com/stories/accents-podcast-collection,492728">Accents Podcast Collection</a>
+											<a href="/stories/accents-podcast-collection,492728">Accents Podcast Collection</a>
 										</li>
 																	</ul>
 													</li>
@@ -553,16 +629,16 @@ if( $(window).width() < 768 ){
 											<a href="http://berkshireeagle.ma.newsmemory.com/advmarketplace.php">Classifieds</a>
 										</li>
 																			<li>
-											<a href="http://www.neni.news/eagle-printing-binding-and-mailing/">Eagle Printing: Contact Us</a>
+											<a href="http://www.neni.news/commercial/">Eagle Printing: Contact Us</a>
 										</li>
 																			<li>
 											<a href="/classifieds/">Top listings</a>
 										</li>
 																			<li>
-											<a href="/contact/">Place an ad</a>
+											<a href="https://classifieds.newzware.com/neni/wp/WebClassified/WebBookingClient.html">Place an ad</a>
 										</li>
 																			<li>
-											<a href="http://masspublicnotices.org/recentnoticesbypubl.aspx?id=981">Legal Notices</a>
+											<a href="https://masspublicnotices.org/recentnoticesbypubl.aspx?id=981">Legal Notices</a>
 										</li>
 																			<li>
 											<a href="/weeklyads.html">Weekly Flyers</a>
@@ -601,6 +677,10 @@ if( $(window).width() < 768 ){
 											<a href="http://neni-news.com/subscribe/faq.html">FAQs</a>
 										</li>
 																	</ul>
+													</li>
+											<li class="dropdown">
+							<a href="/thebeat" class="dropdown-toggle" onclick=" window.location.href = '/thebeat'; ">
+								Newsletters								<!-- <span class="caret"></span> -->							</a>
 													</li>
 					
 				</ul>
@@ -655,9 +735,7 @@ span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-c
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-154'); });
 </script>
-</div>
-
-	</div>
+</div>	</div>
 </div>
 								</div><div class="railitem section-1col">
 								<div class="box">
@@ -674,11 +752,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-153'
 
 	<div class="label">Local news</div>
 
-			<h3><a class="story-head" href="/stories/top-stories-of-2017-vanishing-of-joanne-ringer-haunts-family-friends,527970">Top Stories of 2017: Vanishing of Joanne Ringer haunts family, friends</a></h3>
-					<h3><a class="story-head" href="/stories/top-stories-of-2017-mass-moca-spreads-wings-with-completion-of-building-6-renovation,527969">Top Stories of 2017: Mass MoCA spreads wings with completion of Building 6 renovation</a></h3>
-					<h3><a class="story-head" href="/stories/with-state-funds-frozen-local-shelters-have-fewer-beds-to-offer-this-winter,527968">With state funds frozen, local shelters have fewer beds to offer this winter</a></h3>
-					<h3><a class="story-head" href="/stories/richmond-crash-delays-delivery-of-cancer-treatment-materials,527955">Richmond crash delays delivery of cancer-treatment materials</a></h3>
-					<h3><a class="story-head" href="/stories/pittsfield-mans-bail-revoked-in-drug-case-200k-bail-set-for-allegedly-lying-to-grand-jury,527937">Pittsfield man's bail revoked in drug case, $200K bail set for allegedly lying to grand jury</a></h3>
+			<h3><a class="story-head" href="/stories/treetop-fun-for-everyone-at-ramblewilds-special-needs-day,543098">Treetop fun for everyone at Ramblewild's Special Needs Day</a></h3>
+					<h3><a class="story-head" href="/stories/pedestrian-airlifted-to-baystate-medical-center-after-being-struck-by-a-car-in-north-adams,543078">Pedestrian airlifted to Baystate Medical Center after being struck by a car in North Adams</a></h3>
+					<h3><a class="story-head" href="/stories/carr-hardwares-90th-anniversary-how-berkshires-based-business-has-survived-and-thrived-for-9,543073">Carr Hardware's 90th anniversary: How Berkshires-based business has survived and thrived for 9 decades</a></h3>
+					<h3><a class="story-head" href="/stories/mayor-seeks-upgrades-to-aging-north-adams-fleet,543071">Mayor seeks upgrades to aging North Adams fleet</a></h3>
+					<h3><a class="story-head" href="/stories/lenox-leaders-seek-public-input-on-crafting-short-term-rentals-rules,543069">Lenox leaders seek public input on crafting short-term rentals rules</a></h3>
 		
 	<p class="box-link">
 		<a href="/local-news/">
@@ -721,37 +799,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-159'
 	
 	
 	
-		<div class="content-item clearfix first">
-
-						
-												<a class="story-head lede no-float" href=""></a>
-						<p class="text-lede"></p><div id="ap_widget_container_81d73f0f79354edf688f6c10d7b313b4"></div>
-<script src="http://digitalservices.ap.org/widget-content/81d73f0f79354edf688f6c10d7b313b4"></script>
-
-
-<p></p>
-
-						
-						
-						
-		</div>
-
-	
 		
 </div><!-- .box-content-default -->								</div><div class="railitem section-1col">
 								<div class="box box-content-default">
 	
-			<div class="label">2018 Winter Games </div>
+			<div class="label">NASCAR</div>
 	
 	
 		<div class="content-item clearfix first">
 
 						
 												<a class="story-head lede no-float" href=""></a>
-						<p class="text-lede"></p><div id="ap_widget_container_2ae8376c234850ef98bcb3b51362310d"></div>
-<script src="https://digitalservices.ap.org/widget-content/2ae8376c234850ef98bcb3b51362310d"></script>
-
-<p></p>
+						<p class="text-lede"></p><div id="ap_widget_container_61cface7a72ee00a7a1dd38da9770a1d"></div>
+<script src="http://digitalservices.ap.org/widget-content/61cface7a72ee00a7a1dd38da9770a1d"></script><p></p>
 
 						
 						
@@ -763,8 +823,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-159'
 
 						
 												<a class="story-head lede no-float" href=""></a>
-						<p class="text-lede"></p><div id="ap_widget_container_a86d544d921b2de90486314670df89e7"></div>
-<script src="https://digitalservices.ap.org/widget-content/a86d544d921b2de90486314670df89e7"></script><p></p>
+						<p class="text-lede"></p><div id="ap_widget_container_7e493b4584994fa947d8773abbbf4fec"></div>
+<script src="http://digitalservices.ap.org/widget-content/7e493b4584994fa947d8773abbbf4fec"></script><p></p>
 
 						
 						
@@ -778,11 +838,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-159'
 
 	<div class="label">Sports</div>
 
-			<h3><a class="story-head" href="/stories/mount-everett-hockey-tagged-for-4-1-loss-by-visiting-greenfield,527971">Mount Everett hockey tagged for 4-1 loss by visiting Greenfield</a></h3>
-					<h3><a class="story-head" href="/stories/high-school-hockey-mount-everett-loses-in-pre-holiday-matchup-with-newtown,527871">High School Hockey: Mount Everett loses in pre-holiday matchup with Newtown</a></h3>
-					<h3><a class="story-head" href="/stories/williams-womens-soccer-coach-michelyne-pinard-her-staff-and-defender-danielle-sim-earn-top-ncaa,527865">Williams women's soccer coach Michelyne Pinard, her staff and defender Danielle Sim earn top NCAA D-III honors</a></h3>
-					<h3><a class="story-head" href="/stories/howard-herman-catching-up-with-former-umass-football-coach-jim-reid-before-bc-plays-in-the,527864">Howard Herman: Catching up with former UMass football coach Jim Reid before BC plays in the Pinstripe Bowl</a></h3>
-					<h3><a class="story-head" href="/stories/gene-chague-berkshire-woods-waters-a-most-memorable-fishing-trip-part-1,527843">Gene Chague | Berkshire Woods &amp; Waters: A most memorable fishing trip, Part 1</a></h3>
+			<h3><a class="story-head" href="/stories/summer-baseball-notebook-coutts-enjoying-successful-start-for-steeplecats,543102">Summer baseball notebook: Coutts enjoying successful start for SteepleCats</a></h3>
+					<h3><a class="story-head" href="/stories/roundup-post-68-blue-drops-one-game-gets-rained-out-of-another,543101">Roundup: Post 68 Blue drops one game, gets rained out of another</a></h3>
+					<h3><a class="story-head" href="/stories/dastoli-sykes-fight-off-rain-competition-to-claim-36th-pewter-cup-title,543100">Dastoli, Sykes fight off rain, competition to claim 36th Pewter Cup title</a></h3>
+					<h3><a class="story-head" href="/stories/taconic-baseball-notebook-braves-poised-to-continue-making-deep-tournament-runs,543076">Taconic baseball notebook: Braves poised to continue making deep tournament runs</a></h3>
+					<h3><a class="story-head" href="/stories/taconic-strikes-first-but-austin-prep-bats-get-hot-in-big-4th-inning-to-win-miaa-division-i,543058">Taconic strikes first, but Austin Prep bats get hot in big 4th inning to win MIAA Division I baseball championship</a></h3>
 		
 	<p class="box-link">
 		<a href="/sports/">
@@ -798,9 +858,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-159'
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-155'); });
 </script>
-</div>
-
-	</div>
+</div>	</div>
 </div>
 								</div><div class="railitem section-1col">
 								<div class="box">
@@ -812,20 +870,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-155'
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482258784283-158'); });
 </script>
-</div>
-
-	</div>
+</div>	</div>
 </div>
 								</div><div class="railitem section-1col">
 								<div class="box box-content-headlines">
 
 	<div class="label">Trending</div>
 
-			<h3><a class="story-head" href="/stories/mass-environmental-police-investigating-after-lanesborough-man-says-hunters-shot-gutted-a-deer-on,527858">Mass. Environmental Police investigating after Lanesborough man says hunters shot, gutted a deer on private property</a></h3>
-					<h3><a class="story-head" href="/stories/judge-rules-sonsini-animal-shelter-officials-can-return-to-work-pending-decision-over-leadership,527893">Judge rules Sonsini Animal Shelter officials can return to work pending decision over leadership spat</a></h3>
-					<h3><a class="story-head" href="/stories/after-a-white-christmas-brace-for-bitter-cold-subzero-temps-wind-chill-as-low-as-25,527867">After a white Christmas, brace for bitter cold: Subzero temps, wind chill as low as -25</a></h3>
-					<h3><a class="story-head" href="/stories/an-annual-christmas-community-meal-was-canceled-then-the-christian-center-stepped-in,527872">An annual Christmas community meal was canceled; then, the Christian Center stepped in</a></h3>
-					<h3><a class="story-head" href="/stories/trial-date-set-for-adams-resident-alexander-ciccolo-in-alleged-terror-plot,527860">Trial date set for Adams resident Alexander Ciccolo in alleged terror plot</a></h3>
+			<h3><a class="story-head" href="/stories/pedestrian-airlifted-to-baystate-medical-center-after-being-struck-by-a-car-in-north-adams,543078">Pedestrian airlifted to Baystate Medical Center after being struck by a car in North Adams</a></h3>
+					<h3><a class="story-head" href="/stories/tiny-house-with-big-echoes-inside-a-pioneering-african-american-dwelling-in-dalton,543015">Tiny house with big echoes: Inside a pioneering African-American dwelling in Dalton</a></h3>
+					<h3><a class="story-head" href="/stories/hoping-to-avoid-prosecution-child-porn-suspect-declares-himself-sovereign-member-of-private,543051">Hoping to avoid prosecution, child porn suspect declares himself sovereign member of private society</a></h3>
+					<h3><a class="story-head" href="/stories/lien-times-pittsfield-plans-to-hold-tax-title-auction-in-fall,543046">Lien times: Pittsfield plans to hold tax title auction in fall</a></h3>
+					<h3><a class="story-head" href="/stories/at-relay-for-life-cancer-survivor-event-theres-no-place-like-hope,543047">At Relay for Life cancer survivor event, 'There's no place like hope'</a></h3>
 		
 
 </div><!-- .box-content-headlines -->								</div>			</aside>
@@ -910,20 +966,28 @@ if( $(window).width() < 768 ){
 
 <script type="text/javascript" src="/js/webflow.js"></script>
 <script type="text/javascript" src="/js/ebri.js"></script>
+<script type="text/javascript">
+/**
+*     Google Analytics tracking script for Tecnavia Paywall (version 1.1.0).
+*     Set the value of ga_account_id to your Google Analytics account. 
+*     Support for both Classic GA and Universal Analytics
+*/
+function ta_popupCallback(params){    
+        if (params['popup'] == 'paywall'){params['popup'] = 'blocking screen';}
+ 
+        //Classic GA
+        if (typeof _gat != "undefined"){
+            var ga_account_id = 'UA-85555179-1';
+            var tracker = _gat._createTracker(ga_account_id, 'tec1');
+            tracker._trackEvent('Paywall ' + params['popup'], params['action'], params['target']);
+        //Universal Analytics
+        }else if (typeof ga != "undefined"){
+                ga('send', 'event', 'Paywall ' + params['popup'] , params['action'], params['target']);
+        }
+}
+</script>
 <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 
- <script type="text/javascript" src="http://berkshireeagle.ma.pw.newsmemory.com?meter&amp;v=4"></script> 
-<!-- /17604206/Eagle_RoS_Interstitial -->
-<div id="div-gpt-ad-1488918914287-0" style="height:1px; width:1px;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488918914287-0'); });
-</script>
-</div><!-- /17604206/Eagle_RoS_FloatBar -->
-<div id="div-gpt-ad-1488917712825-0" style="height:1px; width:1px;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488917712825-0'); });
-</script>
-</div>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   
 
