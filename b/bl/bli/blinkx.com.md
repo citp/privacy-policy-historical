@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blinkx.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913040654id_/http%3A//www.blinkx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkx.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625103640id_/http%3A//www.360daily.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Blinkx
+# Privacy Policy | 360Daily
 
 ### Our Commitment
 
-RhythmOne, LLC (“ **RhythmOne** ”, “ **we** ”, “ **us** ”, or “ **our** ”) recognizes that our customers, users, visitors and others who use www.blinkx.com, applications, or other websites owned or operated by RhythmOne (the “ **RhythmOne Sites** ”) (collectively or individually “ **User** ”, “ **you** ”, or “ **your** ”) value their privacy. This privacy policy (this “ **Privacy Policy** ”) details important information regarding the use and disclosure of User information collected on the RhythmOne Sites.
+RhythmOne, LLC (“ **RhythmOne** ”, “ **we** ”, “ **us** ”, or “ **our** ”) recognizes that our customers, users, visitors and others who use www.360daily.com, applications, or other websites owned or operated by RhythmOne (the “ **RhythmOne Sites** ”) (collectively or individually “ **User** ”, “ **you** ”, or “ **your** ”) value their privacy. This privacy policy (this “ **Privacy Policy** ”) details important information regarding the use and disclosure of User information collected on the RhythmOne Sites.
 
 The Privacy Policy only addresses our activities from our servers. Other websites, including those that we link to and third-party websites or services that we co-brand, may have their own policies, which we do not control, and thus are not addressed by this policy.
 
@@ -40,6 +40,14 @@ Information about our use of cookies is contained in our "[Cookie Information](h
 
 Your browser’s cookie settings may be sufficient indication of your consent to placement of and access to cookies on your computer by RhythmOne, and RhythmOne’s collection, use, and disclosure of non-PII and in some cases, PII about your activity on the RhythmOne Sites.
 
+#### GDPR Rights.
+
+Users residing in certain countries, including the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access and request deletion of your personal information. While these rights are not applicable globally, users from the EU can manage their personal information by following the links below.
+
+[Delete/Opt-Out](https://web.archive.org/opt-out)
+
+[Access/Retrieve Personal Information](https://web.archive.org/retrieval)
+
 #### Policies of Other Sites and Services
 
 The RhythmOne Sites contain links to third-party websites and online services. If you choose to visit another website or online service by clicking on a link, you will be directed to such third party’s website or online service. The fact that we may link to a website or online service is not an endorsement, authorization, or representation of our affiliation with that third party, nor is it an endorsement of their privacy policies. In addition, RhythmOne may also synchronize the unique identifiers collected and described above with those of third parties (including cross-device identifiers as described in the RhythmOne’s Use of Cross-Application and Cross-Device Technology section below). RhythmOne has no control over, nor does it bear any responsibility for the privacy policies and/or content of these third-parties, their sites and/or their services. Such third-parties, their sites and/or their services may follow different rules regarding the collection, use, and disclosure of personally and non-personally identifiable information about you, and may place cookies or other files on your computer to collect data from you. RhythmOne also takes no responsibility for the cookies these third-parties, their sites and/or services might place on your hard drive. We encourage you to read the privacy policies of other websites and online services before using or providing any information to such website or services.
@@ -64,6 +72,10 @@ We use industry-standard efforts, such as firewalls and secure socket layers whe
 
 Because no method of transmitting or storing electronic data is completely secure, we cannot guarantee that information, including without limitation User data or PII, will never be accessed, used, or released in a manner inconsistent with this policy.
 
+#### Overseas Transfers and Processing of Your Information
+
+Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage 1R's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy. 
+
 ### Legal Issues
 
 RhythmOne discloses personal information when required by law or in the good faith belief that such action is necessary to conform to the edict of the law or comply with a legal process served on the RhythmOne Sites; to protect and defend the property rights of RhythmOne, the RhythmOne Sites, or our partners; or to act on exigent circumstances to protect the personal safety of RhythmOne Users, employees, or the general public.
@@ -86,11 +98,11 @@ We reserve the right to revise the Privacy Policy at any time. We may update the
 
 #### Questions and Concerns
 
-If you believe that we have not followed the Privacy Policy, or if you have any questions or concerns regarding our policies, or if you would like to obtain a written copy of the Privacy Policy, please send an email to[srrqonpx@EulguzBar.pbz](mailto:srrqonpx@EulguzBar.pbz)or to[cevinpl@EulguzBar.pbz](mailto:cevinpl@EulguzBar.pbz), or contact us at:
+If you believe that we have not followed the Privacy Policy, or if you have any questions or concerns regarding our policies, or if you would like to obtain a written copy of the Privacy Policy, please send an email to [srrqonpx@EulguzBar.pbz](mailto:srrqonpx@EulguzBar.pbz) or to [cevinpl@EulguzBar.pbz](mailto:cevinpl@EulguzBar.pbz), or contact us at:
 
-251 Kearny St  
-2nd Floor  
-San Francisco, CA 94108  
+601 Montgomery Street  
+Suite 1600  
+San Francisco, CA 94111  
 USA  
 Tel: +1 415 655 1450  
 
