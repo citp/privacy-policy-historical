@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006190217id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155207id_/https%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
 # It's Nice That | Privacy Policy and Cookies
 
 **Introduction**  
-We at It’s Nice That Ltd are committed to ensuring that our website (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure. If you have any questions about this privacy policy or do not agree with it, please contact us at [studio@itsnicethat.com](mailto:studio@itsnicethat.com) or on +44 (0)207 739 5222 before using our website.
+We at It’s Nice That Ltd are committed to ensuring that our website (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure. If you have any questions about this privacy policy or do not agree with it, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e2e5e4f5f8fed1f8e5e2fff8f2f4e5f9f0e5bff2fefc) or on +44 (0)207 739 5222 before using our website.
 
-Our website terms of use available [here](http://www.itsnicethat.com/terms-conditions) explain the terms on which you are allowed to use our website. In accordance with the Data Protection Act 1998, It’s Nice That Ltd is registered as a ‘Data Controller’ on the public Register of Data Controllers as maintained by the UK’s Information Commissioner. We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes.
+Our website terms of use available [here](https://www.itsnicethat.com/terms-conditions) explain the terms on which you are allowed to use our website. In accordance with the Data Protection Act 1998, It’s Nice That Ltd is registered as a ‘Data Controller’ on the public Register of Data Controllers as maintained by the UK’s Information Commissioner. We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes.
 
 **Collection of Information**  
 We collect personal information from you in a number of situations. When you sign up for our mailing list, we ask for your name and e-mail address. We also collect the personal information that you provide when you request a product or service from us, including when you buy something from our on-line shop (Company of Parrots), when you contact us to get involved in one of our projects, sign up for one of our events or take part in one of our surveys. Finally, we keep a record of communications by email you may have with us.
@@ -23,10 +23,10 @@ If you are a customer of ours or you have previously asked us for information on
 
 We do not provide your personal information to external organisations (i.e. outside of It’s Nice That and our group companies) for their own marketing purposes without your explicit consent.
 
-If at any time you do not want your information used for direct marketing purposes please contact us on [studio@itsnicethat.com](mailto:studio@itsnicethat.com) or on 0207 739 5222 and if you decide that you no longer wish to receive marketing emails from us, please either follow the unsubscribe link in one of our marketing email messages or contact us [studio@itsnicethat.com](mailto:studio@itsnicethat.com) or on 0207 739 5222.
+If at any time you do not want your information used for direct marketing purposes please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfacabaabbb6b09fb6abacb1b6bcbaabb7beabf1bcb0b2) or on 0207 739 5222 and if you decide that you no longer wish to receive marketing emails from us, please either follow the unsubscribe link in one of our marketing email messages or contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9d9a9b8a8781ae879a9d80878d8b9a868f9ac08d8183) or on 0207 739 5222.
 
 **Checking or Updating Personal Information**  
-You may request details of the personal information that we hold about you under the Data Protection Act 1998. If you would like a copy of the information held about you please write to us at It’s Nice That, 21 Downham Road, London N1 5AA or email us at [studio@itsnicethat.com](mailto:studio@itsnicethat.com)
+You may request details of the personal information that we hold about you under the Data Protection Act 1998. If you would like a copy of the information held about you please write to us at It’s Nice That, 21 Downham Road, London N1 5AA or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#13606766777a7c537a67607d7a7076677b72673d707c7e)
 
 If you think any information we have about you in incorrect or incomplete, please write to us or email us as soon as possible. We will update any information as soon as we can.
 
@@ -34,7 +34,7 @@ If you think any information we have about you in incorrect or incomplete, pleas
 It’s Nice That and our marketing email messages sometimes contain links to other websites which are not within our control. The It’s Nice That privacy policy applies only to It’s Nice That, and not to these other websites. Once you have left our website/marketing email message, we cannot be held responsible for the content of these third party websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy policy applicable to the website in question.
 
 **Security**  
-We take the security of your personal information very seriously at It’s Nice That. To prevent unauthorised access or disclosure, your data will be held on a secure server and appropriate security precautions have been put in place to seek to prevent alteration, loss or misuse of data that is under our control. If at any point you suspect or become aware of a security incident (i.e. for example you receive suspicious communication from someone holding themselves out to be an It’s Nice That Ltd employee or from a dupe website claiming to be affiliated with It’s Nice That), please forward the communication to us or report the incident by email [ab@itsnicethat.com](mailto:ab@itsnicethat.com) or in writing to The Directors, It’s Nice That, 21 Downham Road, London N1 5AA as soon as possible.
+We take the security of your personal information very seriously at It’s Nice That. To prevent unauthorised access or disclosure, your data will be held on a secure server and appropriate security precautions have been put in place to seek to prevent alteration, loss or misuse of data that is under our control. If at any point you suspect or become aware of a security incident (i.e. for example you receive suspicious communication from someone holding themselves out to be an It’s Nice That Ltd employee or from a dupe website claiming to be affiliated with It’s Nice That), please forward the communication to us or report the incident by email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cedeecce5f8ffe2e5efe9f8e4edf8a2efe3e1) or in writing to The Directors, It’s Nice That, 21 Downham Road, London N1 5AA as soon as possible.
 
 **Cookie Policy**
 
@@ -85,9 +85,9 @@ _ga | Used to distinguish users. | Persistent
 _gat | Used to throttle request rate | Persistent  
 10 minutes  
   
-For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20171006190217id_/http%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20180625155207id_/https%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
-To opt out of being tracked by Google Analytics across all websites visit: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
+To opt out of being tracked by Google Analytics across all websites visit: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 **Advertising Cookies**  
 These cookies are used by our ad provider (DoubleClick for Publishers) to decide which adverts visitors to the site are shown. They allow us to understand whether or not you’ve seen an advert, and how long it is since you’ve seen it. For more information on these cookies please visit the links below:
@@ -114,9 +114,9 @@ dependent on the privacy settings you have chosen on these networks.
 **Other Third Party Content Cookies**  
 Our site, like most websites, includes functionality provided by third parties. As a publisher we are embedding content from other sources regularly to enrich your experience. These embedded pieces of content may contain cookies, and listed below are all of the third parties on our site as of 21 February 2016. For details about the cookies they use, or if you encounter any that are not on this list, please contact the suppliers directly for further details.
 
-  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20171006190217id_/http%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
-  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20171006190217id_/http%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
-  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20171006190217id_/http%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
+  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20180625155207id_/https%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
+  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20180625155207id_/https%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
+  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20180625155207id_/https%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
   * Vimeo ([www.vimeo.com/cookie_policy](https://vimeo.com/cookie_policy))
   * Spotify ([www.spotify.com/uk/legal/privacy-policy](https://www.spotify.com/uk/legal/privacy-policy))
   * Google Maps ([www.google.com/policies/privacy/](https://www.google.com/policies/privacy/))
@@ -133,6 +133,6 @@ Disabling these cookies will likely break the functions offered by these third p
 You can find more information on cookies at [allaboutcookies.org](http://allaboutcookies.org/)  
 The IAB has provided the following website to give information specifically about privacy issues around Internet advertising: [www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)
 
-If you would like to contact us about cookies please email us at [studio@itsnicethat.com](mailto:studio@itsnicethat.com)
+If you would like to contact us about cookies please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1063646574797f507964637e797375647871643e737f7d)
 
 This privacy policy was last updated on 2 March 2016
