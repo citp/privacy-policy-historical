@@ -1,91 +1,87 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003843id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625062947id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
 
 # Newgrounds Wiki - Privacy Policy
 
-Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, Newgrounds.com.
+Here's a breakdown of what information we collect and store about you and why and how we might process it. Newgrounds is an American company, all data processing takes part in the U.S. "Site" is in most cases a reference to newgrounds.com where used below.
 
-**Information Automatically Logged**
+**Personal Information - User Accounts**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting.
+All user accounts, as a bare minimum, store your email address. You create a username unique to Newgrounds.
 
-**Cookies, Web Beacons, Flash Cookies and Web Logs**
+You are able to enter further information, such as your first and last name, although this is not publicly available on the site UNLESS you contribute work to one of the public portals and you choose to use your real name as attribution.
 
-When you log into the site, we set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. You may clear these cookies in your browser after a session in which you have logged in.
+Most further information is not required UNLESS you enter into one of our revenue programs, at which point we collect your full name and postal address, together with any information required for taxation purposes.
 
-Our web pages may also contain an electronic file called a web beacon that allows us to count users who have visited that page or to access certain cookies.
+You are able to enter other publicly available information via your public profile page and can change or withdraw this information at any time.
 
-The Flash content on this site may contain Flash cookies put in place by the developers. These are used to store game save data and serve third party ads. We are not responsible for the use of these Flash cookies and do not share data with them.
+**Social Login Integration**
 
-We use Google Analytics to automatically record information that your browser sends whenever you visit a website. This data is stored in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser.
+We allow you to sign up with and log in via your Facebook and Google accounts. When you initially sign up for an account via these services, your first name and last name are used to suggest usernames you might want to use on Newgrounds, although whether these are then stored on Newgrounds is up to you. We do store the email address that's specified in either your Facebook or Google account when you register on Newgrounds via these services.
 
-None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, web beacons and web logs with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior. See our policy below about Investigating Abuse.
+**Information Sharing**
+
+We do not share your personal information with any third parties, with the exception of any direct and credible requests from enforcement agencies in order to comply with any law, regulation or legal process. In rare cases, we may also volunteer your information to law enforcement agencies if we feel you or actions you make on Newgrounds pose a risk to us or to others.
+
+We may share information you have provided publicly in order to promote work you have done, or to publicize something you have participated in. For example, if you have uploaded a game, animation, piece of art or audio, we may promote that work. Similarly, if you have written an interesting blog article, we may choose to talk about that publicly in our own news posts.
+
+**Email**
+
+You may opt in or out of email subscriptions at any time via your [email subscriptions page](https://www.newgrounds.com/account/subscriptions).
+
+**Cookies**
+
+We use cookies to store login tokens and minimal information that helps us identify progress or preferences across the site. For example, the forums store a timestamp of when you last visited. When you return to the site at a later date, the cookie containing that timestamp is used to identify new posts that you might not have read.
+
+Older flash based games may store flash cookies on your computer to save your game progress, preferences or high scores.
+
+Newer games may also store some of their resources on third party websites. You may be asked to create accounts outside of Newgrounds to enhance your experience when playing these games. You should familiarize yourself with the privacy policies of those websites if you choose to sign up to services of this type.
+
+None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior.
+
+**IP Addresses**
+
+We collect your IP address in areas like registration, sign ins and any information you might post on the site (like forum posts). This helps us distinguish between users, find common patterns in our moderation systems and to give us an idea as to whether or not multiple account names might actually belong to the same person. 
+
+If you're a registered user, IP Addresses are also used to show you rough location estimates in your account login section, so you can potentially spot any suspicious activity on your account. We also use IP Addresses for non logged in users to display content that they may not have already seen.
+
+**Device Information**
+
+We collect generic information about the device you're using on Newgrounds in order to determine how best to serve the content to you. For example, if you are using a mobile device, we will attempt to render a mobile version of the site for you wherever possible. Again, logged in users will these devices in the logged in sessions section of their account.
+
+**Security**
+
+We follow industry standards to store and protect data we collect and utilize encryption where appropriate.
+
+**Retention**
+
+We retain any personal information you have included in your account for as long as you have an account with us. If your account is deleted, you may opt to leave elements of it behind; forum posts, reviews etc. We may retain information like IP address logs indefinitely to help us better understand patterns across the site or as a partial means of identifying return problematic users.
+
+Data may persist in copies made for backup purposes beyond an initial account deletion.
+
+**Children**
+
+Our services are for people aged 13 and over and we do not knowingly allow or collection information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information, please contact us via support@newgrounds.com.
+
+Anyone under the age of 18 must have explicit consent from a parent or guardian to use Newgrounds. If you are under 18, we also ask that you not include any personal information in your user profile (such as your name or city) or in your posts on the site.
+
+This site DOES NOT MEET the Online Privacy Protection Act guidelines. Whilst we make efforts to provide age guidelines for content, this site has links that are unsuitable for children.
 
 **Third Party Advertising**
 
-Ads appearing on this website are delivered to you by CPM Star, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
+We outsource advertising space on the site to third party companies. They may collect their own information about you based on your IP address and the equipment you are using to view the website, but we do not disclose any of your personal details with these advertisers.
 
-CPM Star or other advertising companies we deal with may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+**Third Party Resources**
 
-**Advertisers & Third Party Cookies**
+Some of the site's assets are hosted elsewhere. We use a content delivery network from cloudflare.com, hosted libraries from jquery.com and fontawesome.com.
 
-In the course of serving advertisements to this site, our third-party ad servers, their affiliates, or individual advertisers may place or recognize a unique cookie on your browser. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**Links to External Sites**
 
-**Registration Forms**
+This privacy policy is only applicable to Newgrounds and we are not responsible for the actions or policies of any other websites we link to.
 
-Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (such as their zip code or age). Contact information from these forms is used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+**Changes To This Policy**
 
-Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. If your account is linked to illegal activity, threats of harm to others or to yourself, your registration info may be made available to law enforcement personnel.
+We may periodically revise or update this privacy policy at any time without prior notice. Please return to this page regularly to keep up to date, particularly before providing any further personal information to us.
 
-We do not collect home and / or cell phone numbers.
+**Contacting Us**
 
-**Collected Google/Facebook User Data**
-
-Users may opt to sign in using a Google or Facebook User account. 
-
-When creating or linking an account, Newgrounds will access your first and last name, your profile image, your email address, and the unique user id associated with your account, which are then used to pre-fill our registration form. 
-
-Once you submit the form, we will collect and store your email address and the user id associated with your account. We collect the email address to ensure you have a valid point of contact, and we collect the user id to associate your Newgrounds account with your Google or Facebook account. Each time you sign in via Google or Facebook, we access your user id in order to look up the appropriate Newgrounds account to sign you into.
-
-**Order Forms**
-
-Our site uses an order form for customers to purchase items from our store. We collect contact information (such as email address) from these forms to get in touch with the purchaser when necessary. We collect mailing addresses for shipping purposes. None of this information is shared with third parties.
-
-Credit card information is processed via secure server and not saved on our servers. Newgrounds is verified by [Comodo](https://www.comodo.com/) as a trusted vendor.
-
-If you are logged in when purchasing from the store, your order history will be saved. You may choose to make individual purchases public on your user page. You may also place orders without creating an account.
-
-**Contests**
-
-We run contests on our site in which we ask visitors for contact information. This information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-**External Links**
-
-This site contains links to other sites. Newgrounds is not responsible for the privacy practices or the content of such Web sites.
-
-**Public Forums**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-Children's Guidelines
-
-This site DOES NOT MEET the Online Privacy Protection Act guidelines. This site has links that are unsuitable for children.
-
-**Special Rules for Children**
-
-Children under the age of 13 are not eligible to become registered users. If you are under 18, we also ask that you not include any personal information in your user profile (such as your name, city or date of birth) or in your posts on the site.
-
-**Investigating Potential Abuse**
-
-We may use any information provided to us by a user, including personally identifiable information, along with any data gathered from our web logs and from third parties to conduct investigations, and we may disclose this information to third parties, including law enforcement officials, investigators, or private parties seeking to protect and enforce their rights; if we have a good faith belief that it is necessary to comply with a court order, judicial proceeding, legal process, subpoena or warrant; we have a good faith belief that it is necessary to exercise our legal rights or defend against legal claims; or we believe that your actions violate the law or our Terms of Use or threaten the rights, property, or safety of our company, our users, or others.
-
-**Choice/Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. This may be done from the [email subscriptions page](http://www.newgrounds.com/account/subscriptions).
-
-**Data Quality/Access**
-
-This site gives users the option of changing and modifying information previously provided. This may be done from the [account options page](http://www.newgrounds.com/account/).
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: tom @ newgrounds.com. 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact us at support@newgrounds.com. 
