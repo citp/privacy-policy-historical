@@ -1,14 +1,104 @@
-<!--The following is the downloaded HTML source of the intolondon.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120084333id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intolondon.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625140237id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="desktop uk logged_out no-js" lang="en-GB"><!-- <![endif]--><head>
-<meta charset="iso-8859-1"><meta name="language" content="en-GB"><meta name="author" content="SpareRoom"><meta name="robots" content="all,index,follow"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><meta name="description" content="Privacy Policy. Information for tenants and sharers from the flat and house sharing experts, www.spareroom.co.uk"><meta name="keywords" content="flatshare,flatshare,flat share, Houseshare, house share,flatshare,flat share,houseshare,house share, roommate, flatshare, flat share,  houseshare, house share, room to let, room for rent, student accomodation, shared accomodation, rooms to let,  flat shares, houseshares, flatshares, flat sharing, rooms to rent"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-itunes-app" content="app-id=400181250, affiliate-data=at=1001lnJ5&amp;ct=uk-desktop-universal-smartbanner&amp;pt=450238"><meta name="google-play-app" content="app-id=com.spareroom.spareroomuk"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WFTS7MZ"></script><script>
+<style>.hidden-overlay { display: none }</style><meta charset="iso-8859-1"><meta name="language" content="en-GB"><meta name="author" content="SpareRoom"><meta name="robots" content="all,index,follow"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><meta name="description" content="Privacy Policy. Information for tenants and sharers from the flat and house sharing experts, www.spareroom.co.uk"><meta name="keywords" content="flatshare,flatshare,flat share, Houseshare, house share,flatshare,flat share,houseshare,house share, roommate, flatshare, flat share,  houseshare, house share, room to let, room for rent, student accomodation, shared accomodation, rooms to let,  flat shares, houseshares, flatshares, flat sharing, rooms to rent"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-itunes-app" content="app-id=400181250, affiliate-data=at=1001lnJ5&amp;ct=uk-desktop-universal-smartbanner&amp;pt=450238"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WFTS7MZ"></script><script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script>
+    if ( typeof NodeList.prototype.forEach !== "function" ) {
+      NodeList.prototype.forEach = Array.prototype.forEach;
+    }
+</script><script>
   'use strict'
 
   var _sr = {};
   _sr.session = {
     
-    loggedin : false
+    loggedin: false,
+    session_id: '',
+    session_key: '',
+  };
+
+  _sr.commerce = {
+    products: {
+      personal: [{
+        sku: 'W4',
+        name: '4 week saver',
+        duration: '4 weeks',
+        price: '24.99',
+        original_price: '29.99',
+        selling_points: {
+          bold: [
+            '89p per day',
+            'Pause your upgrade any time',
+            'The stress-free option – give yourself plenty of time'
+          ],
+          early_bird: [
+            '89p per day',
+            'Pause your upgrade any time',
+            'The stress-free option – give yourself plenty of time'
+          ],
+        },
+      }, {
+        sku: 'W2',
+        name: '2 weeks',
+        duration: '2 weeks',
+        price: '21.99',
+        selling_points: {
+          bold: [
+            '£1.57 per day',
+            '74% of people fill their room within 2 weeks'
+          ],
+          early_bird: [
+            '£1.57 per day',
+            '78% of people find a place within 2 weeks'
+          ],
+        },
+      }, {
+        sku: 'W1',
+        name: '1 week',
+        duration: '1 week',
+        price: '10.99',
+        selling_points: {
+          bold: [
+            '£1.57 per day',
+            '40% of people fill their room within 7 days'
+          ],
+          early_bird: [
+            '£1.57 per day',
+            '41% of people find somewhere within 7 days'
+          ],
+        },
+      }, {
+        sku: 'M6',
+        name: '6 months',
+        duration: '6 months',
+        price: '99',
+        selling_points: {
+          bold: [
+            '54p per day',
+            'Best value'
+          ],
+        },
+      }],
+      pro: [],
+    },
+    payment_providers: [
+      {
+        name: 'paypal',
+        url : 'https://www.paypal.com/cgi-bin/webscr',
+        use_sandbox : '0'
+      },
+      {
+        name: 'stripe',
+        url: 'https://orders.spareroom.co.uk/stripe/charge',
+        publishable_key: 'pk_live_ULPe0T07QEa1nYw9b9i6QFCs'
+      },
+      {
+        name: 'worldpay',
+        url : 'https://secure.worldpay.com/wcc/purchase',
+        use_sandbox : '0'
+      },
+    ],
   };
 
   _sr.page = {
@@ -35,19 +125,43 @@
 
   _sr.affiliate = {
     id: '',
-    category: ''
+    category: '',
   };
 
   _sr.site = {
     
-    id : 1,
-    currency : 'GBP'
+    id: 1,
+    currency: 'GBP',
+    currency_symbol: '£',
+    domain_id: '1',
+    domain_name: 'www.spareroom.co.uk',
+    photos_domain: 'photos2.spareroom.co.uk',
+    photos_path: '/images/flatshare/listings',
+    sub_dir: 'flatshare',
+    static_files_server: 'https://images2.spareroom.co.uk',
+    base_url: 'https://www.spareroom.co.uk',
+    my_account_directory: '/content/myaccount/myaccount-index/',
   };
 
   _sr.third_party = {}
 
   _sr.third_party.visual_dna = {
     
+  };
+
+  _sr.config = {
+    worldpay : {
+      api_url : 'https://secure.worldpay.com/wcc/purchase',
+      use_sandbox : '0'
+    },
+    paypal : {
+      api_url : 'https://www.paypal.com/cgi-bin/webscr',
+      use_sandbox : '0'
+    }
+      ,
+      stripe: {
+        publishable_key: 'pk_live_ULPe0T07QEa1nYw9b9i6QFCs'
+      }
   };
 
   _sr.action = {};
@@ -68,7 +182,14 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script><script async="" src="https://static.hotjar.com/c/hotjar-313548.js?sv=5"></script>
-<script type="text/javascript">window.optimizely = window.optimizely || [];window.isLoggedIn = false;window.isKnownUser = false;</script><script src="https://cdn.optimizely.com/js/106124109.js"></script>
+<script type="text/javascript">window.optimizely = window.optimizely || [];window.isLoggedIn = false;window.isKnownUser = false;</script>  <!-- Optimize Page hiding snippet (recommended pre GTM) -->
+  <style>.async-hide{ opacity: 0 !important}</style>
+  <script>
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+    })(window,document.documentElement,'async-hide','dataLayer',750,{'GTM-WFTS7MZ':true});
+  </script>
   <script>
       window.dataLayer = window._sr ? [window._sr] :[];
   </script>
@@ -79,68 +200,169 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-WFTS7MZ');</script>
   <!-- End Google Tag Manager -->
-<link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/865e1f16b374472d296c0e7fc2f4b97d.css"><!--[if (gte IE 6)&(lte IE 8)]><script src="https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script><![endif]--><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"><script src="https://assets.spareroom.co.uk/assets/e0c43c978ea516935f9ded8af409ac54.js"></script><link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/af265a31ffbfd215466a7f6d58265e2a.css"><link rel="shortcut icon" href="https://images2.spareroom.co.uk/favicon.png"><link rel="apple-touch-icon" href="https://images2.spareroom.co.uk/apple-touch-icon-precomposed.png"><link rel="android-touch-icon" href="https://images2.spareroom.co.uk/android-touch-icon.png">  <title>Privacy Policy</title>
-  <link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/705029db5d8ef8e3895e0800fa519d64.css">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/056202c7c6411c28dbcd6b2916aa63a4.css">    <link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/3ebde982b2a3f1c3c065625921cc5729.css">
+<!--[if (gte IE 6)&(lte IE 8)]><script src="https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script><![endif]--><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"><script src="https://assets.spareroom.co.uk/assets/e0c43c978ea516935f9ded8af409ac54.js"></script><link rel="shortcut icon" href="https://images2.spareroom.co.uk/favicon.png"><link rel="apple-touch-icon" href="https://images2.spareroom.co.uk/apple-touch-icon-precomposed.png"><link rel="android-touch-icon" href="https://images2.spareroom.co.uk/android-touch-icon.png">  <title>Privacy Policy</title>
+  <link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/12e28bb36f95f01903f7bbf1ab3832c8.css">
+</head>
 <body class="PAGEinfoadvice" id="privacyUk">
-
-     
+  
   
   <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFTS7MZ"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-<header class="wrap base-header" id="openSearch" data-overlay-focus-target-item="search-box"><a id="top" href="#top" class="trans-all-1s hidden" hidden="">top</a><div id="header"><div id="logo"><a href="https://www.spareroom.co.uk" class="headerSRLogo" data-ga-event-category="Home Links" data-ga-event-action="clicked" data-ga-event-label="header-SR-logo"><img src="//images2.spareroom.co.uk/img/logos/SpareRoom_header_logo.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpareRoom_header_logo.png?v=012'; this.onerror=null;" class="svg logoSR" alt="SpareRoom Logo"></a></div><div id="header_info"><blockquote><div class="slideshow"><p class="slide slide_first">7,221,916 registered users! SpareRoom has a huge choice of Rooms for Rent and Flatmates across the UK</p><p class="slide">'SpareRoom is the UK's #1 flat and house share website.' <cite> Source: <a href="/content/about/about-spareroom-new/" title="find out more about Hitwise">Hitwise</a></cite></p><p class="slide"><em>'The pioneering online business that has transformed the way people look for somewhere to live'</em> - <cite><a href="http://www.express.co.uk/finance/personalfinance/265444/Room-to-grow-in-New-York" target="_blank" title="The Daily Express Newspaper">The Daily Express</a></cite></p><p class="slide">Every 3 minutes someone in the UK finds a flatmate with SpareRoom.co.uk</p></div></blockquote></div><div id="login-box" class="login_box" data-overlay-focus-target-item="login-box">
-  
-  <a class="button-login" data-cookie-check="login-box" data-overlay-focus-target="login-box" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk">Log in<i class="fa fa-caret-down"></i></a>  
-    <div class="login_box_panel" data-overlay-focus-target-item="login-box">
-    
-    <form action="/flatshare/logon.pl" method="POST" name="loginform" class="block block_simple" id="loginform">
-        <fieldset class="logon">
-            <div class="logon-email">
-                <h3>Log in with your email</h3>
-                <div class="group email">
-                    <label for="loginemail"> Email</label>
-<input id="loginemail" type="email" name="email" value="" placeholder="me@example.com" maxlength="255" required="">
-                </div>
-                <div class="group password">
-                    <label for="loginpass"> Password </label>
-<input id="loginpass" type="password" name="password" value="" placeholder="******" maxlength="255" required="">
-                    <a href="/flatshare/passwordreminder.pl" rel="nofollow" class="logon_form_forgot_pass">Forgot your password?</a>
-                </div>
-                
-                    <ul class="group">
-                        <li><strong>Security options</strong></li>
-                        <li>
-                            <label for="remember_me" class="form_input form_radio"><input id="remember_me" type="radio" name="remember_me" value="Y" checked="">                                 Remember me
-                            </label>
-                        </li>
-                        <li>
-                            <label for="shared_computer" class="form_input form_radio"><input id="shared_computer" type="radio" name="remember_me" value="N">                                Shared computer
-                            </label>
-                        </li>
-                    </ul>
-                
-<input class="primary-standard" id="loginbutton_popUpBox" type="submit" name="input_submit" value="Log in">
-            </div>
-            <div class="logon-facebook">
-                <h3>Log in with your Facebook</h3>
-<a class="fbconnect_login button-facebook" id="fb_login_popUpBox" title="Connect with Facebook" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk"><i class="fa fa-facebook-official"></i>Log in with Facebook</a>
-            </div>
-        </fieldset>
-        <fieldset class="free-registration">
-            <div class="register-email">
-                <h3>Not registered? Join us FREE</h3>
-                <input type="hidden" name="loginfrom_url" value="!loginfrom_url|attr_escape!"><a class="secondary-standard" id="registerbutton_popUpBox" href="/flatshare/reg.pl">Register with your email</a>            </div>
-            <div class="register-facebook">
-<a class="fbconnect_login button-facebook" id="fb_loginregister_popUpBox" title="Connect with Facebook" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk"><i class="fa fa-facebook-official"></i>Register using Facebook</a>
-            </div>
-        </fieldset>
-    </form>
-
-  </div>
+<header class="wrap base-header" data-overlay-name="search-box"><div class="base-header__wrap"><a id="top" href="#top" class="trans-all-1s hidden" hidden="">top</a><div class="brand-header" id="header"><div class="brand-header__content"><div id="logo"><a href="https://www.spareroom.co.uk" class="headerSRLogo" data-ga-event-category="Home Links" data-ga-event-action="clicked" data-ga-event-label="header-SR-logo"><img src="//images2.spareroom.co.uk/img/logos/SpareRoom_header_logo.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpareRoom_header_logo.png?v=012'; this.onerror=null;" class="svg logoSR" alt="SpareRoom Logo"></a></div><div class="brand-header__support">
+  <div class="brand-header__support-button" data-overlay-target="support" data-overlay-type="dropDown" data-overlay-settings="{&quot;dropDownLink&quot;:&quot;/contact.pl&quot;}"><a class="brand-header__support-button-link">Support</a> <i class="brand-header__support-button-caret fa fa-caret-down"></i></div>
+  <nav class="brand-header__support-nav hidden-overlay" data-overlay-name="support"><!--
+    --><a class="brand-header__support-link" href="/contact.pl">Contact us online</a><!--
+    --><p class="brand-header__support-text">Call <span class="brand-header__support-phone-number"><a href="tel:+441617681162">0161 768 1162</a></span><br>Mon to Fri: 9am – 8.30pm<br>Weekends: 10am – 7.30pm    </p>
+  </nav>
 </div>
-</div><nav id="main-nav" class="main-nav"><ul><li><a class="" title="Home page" data-ga-event-category="Home Links" data-ga-event-action="clicked" data-ga-event-label="main-nav-home" href="/">Home</a></li><li><a class="" title="Search results" href="/flatshare/search.pl">Search</a></li><li><a class="" title="Rooms for rent in your area" href="/flatshare-house-share/uk/">Browse</a></li><li><a class="" title="Advertise on SpareRoom" href="/content/placeditadvert/choose-section-new/">Place ad</a></li><li><a class="" title="My SpareRoom account" href="/content/myaccount/myaccount-index/">My account</a></li><li><a class="" title="Register " href="/flatshare/reg.pl">Register</a></li></ul><ul><li><a class="" title="About us" href="/content/about-us/about-spareroom/">About us</a></li><li><a class="" title="Info and Advice Overview" href="/content/info-advice/info-and-advice/">Info &amp; advice</a></li></ul></nav></header>  
+  <div class="login_box_panel" data-overlay-name="login-box" data-logged-out="show-box">
+<form action="/flatshare/logon.pl" method="POST" name="loginform" class="block block_simple" id="loginform">
+    <fieldset class="logon">
+        <div class="logon-email">
+            <h3>Log in with your email</h3>
+            <div class="group email">
+                <label for="loginemail"> Email</label>
+<input id="loginemail" type="email" name="email" value="" placeholder="me@example.com" maxlength="255" required="">
+            </div>
+            <div class="group password">
+                <label for="loginpass"> Password </label>
+<input id="loginpass" type="password" name="password" value="" placeholder="******" maxlength="255" required="">
+                <a href="/flatshare/passwordreminder.pl" rel="nofollow" class="logon_form_forgot_pass">Forgot your password?</a>
+            </div>
+                <ul class="group">
+                    <li><strong>Security options</strong></li>
+                    <li>
+                        <label for="remember_me" class="form_input form_radio"><input id="remember_me" type="radio" name="remember_me" value="Y" checked="">                            Remember me
+                        </label>
+                    </li>
+                    <li>
+                        <label for="shared_computer" class="form_input form_radio"><input id="shared_computer" type="radio" name="remember_me" value="N">                            Shared computer
+                        </label>
+                    </li>
+                </ul>
+<input class="primary-standard" id="loginbutton_popUpBox" type="submit" name="input_submit" value="Log in">
+        </div>
+        <div class="logon-facebook">
+            <h3>Log in with your Facebook</h3>
+<a class="fbconnect_login button-facebook" id="fb_login_popUpBox" title="Connect with Facebook" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk"><i class="fa fa-facebook-official"></i>Log in with Facebook</a>
+        </div>
+    </fieldset>
+    <fieldset class="free-registration">
+        <div class="register-email">
+            <h3>Not registered? Join us FREE</h3>
+            <input type="hidden" name="loginfrom_url" value="!loginfrom_url|attr_escape!"><a class="secondary-standard" id="registerbutton_popUpBox" href="/flatshare/reg.pl">Register with your email</a>        </div>
+        <div class="register-facebook">
+<a class="fbconnect_login button-facebook" id="fb_loginregister_popUpBox" title="Connect with Facebook" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk"><i class="fa fa-facebook-official"></i>Register using Facebook</a>
+        </div>
+    </fieldset>
+</form>
+  </div>
+<div class="authentication-links">
+  <a class="authentication-links__register-link" href="/flatshare/reg.pl" title="Create an account">Register</a>
+  <a class="authentication-links__sign-in-link" href="https://www.spareroom.co.uk/flatshare/logon.pl?loginfrom_url=%2Fcontent%2Fdefault%2Fprivacy-uk" title="Log in to your account" data-cookie-check="login-box">Log in <i class="authentication-links__icon fa fa-caret-down"></i></a>
+</div>
+<div class="locale-choice">
+  <div class="locale-choice--click" data-overlay-target="country-code" data-overlay-type="dropDown"><img src="/img/icons/flags/en-GB.png?v=012" onerror="this.src='/img/icons/flags/en-GB.png?v=012'; this.onerror=null;" class="svg locale-choice--flag" alt="en-GB"><span class="locale-choice--code">UK</span><span class="fa fa-caret-down locale-choice--caret-down"></span></div><aside class="locale-choice--modal hidden-overlay" data-overlay-name="country-code">
+    <form class="locale-choice--form" method="post" action="/" id="country_id_form">
+        <p class="locale-choice--para">In which country are you looking?</p><!--
+        --><label class="locale-choice--label"><input type="radio" name="country_id" value="1" data-website="https://www.spareroom.co.uk/" class="locale-choice--radio" checked="">UK</label><!--
+        --><label class="locale-choice--label"><input type="radio" name="country_id" value="2" data-website="https://www.spareroom.com/roommates" class="locale-choice--radio">USA</label><!--
+        --><button type="submit" class="primary-featured button--wide">Save</button>
+    </form>
+  </aside>
+</div></div></div>
+<nav id="navBarTest" class="nav-bar " role="navigation">
+  <div class="nav-bar__menus">
+      <ul class="nav-bar__menu nav-bar__menu--left"><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/flatshare/search.pl" title="Search SpareRoom for a property or tenant" class="nav-bar__link nav-bar__link--search">
+        <i class="nav-bar__link-icon  fa fa-search" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Search</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/flatshare/logon.pl?loginfrom_url=/content/myaccount/myaccount-index/" title="Your SpareRoom account area" class="nav-bar__link nav-bar__link--myAccount">
+        <i class="nav-bar__link-icon  fa fa-user" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Account</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/flatshare/mythreads.pl" title="View your messages" class="nav-bar__link nav-bar__link--messages">
+        <i class="nav-bar__link-icon  fa fa-envelope" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Messages</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/content/placeditadvert/choose-section-new/" title="Place your wanted or need property advert for free" class="nav-bar__link nav-bar__link--placeAd">
+        <i class="nav-bar__link-icon  fa fa-thumb-tack" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Post ad</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/flatshare-house-share/uk/" title="Rooms for rent in your area" class="nav-bar__link nav-bar__link--browse">
+        <i class="nav-bar__link-icon  fa fa-th-list" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Browse</span>
+      </a>
+
+          </li><!--
+  --></ul>
+
+      <ul class="nav-bar__menu nav-bar__menu--right"><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="#" title="Show full navigation menu" class="nav-bar__link nav-bar__link--more" data-overlay-target="nav-menu" data-overlay-type="slideIn">
+        <i class="nav-bar__link-icon  fa fa-bars" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">More</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/content/about-us/about-spareroom/" title="About us" class="nav-bar__link nav-bar__link--aboutUs">
+        <i class="nav-bar__link-icon  fa fa-users" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">About us</span>
+      </a>
+
+          </li><!--
+          --><li class="nav-bar__menu-item">
+                  <a href="/content/info-advice/info-and-advice/" title="Info and advice overview" class="nav-bar__link nav-bar__link--info">
+        <i class="nav-bar__link-icon  fa fa-book" aria-hidden="true"></i>
+        <span class="nav-bar__link-text">Info &amp; advice</span>
+      </a>
+
+          </li><!--
+  --></ul>
+
+
+<nav id="menuAllTest" class="nav-menu trans-all-05s nav-menu--logged_out" role="navigation" data-overlay-name="nav-menu">
+
+<a href="/" class="nav-menu__close" data-overlay-close="nav-menu" title="Show full navigation menu"><i class="nav-menu__close-icon fa fa-times" aria-hidden="true"></i><span class="nav-menu__close-text">Close</span></a>
+  <ul class="nav-menu__ul">
+    <li>
+      <a href="/flatshare/logon.pl?loginfrom_url=/content/myaccount/myaccount-index/" title="Your SpareRoom account area" class="nav-menu__link nav-menu__link--myAccount"><i class="nav-menu__link-icon  fa fa-user" aria-hidden="true"></i><span class="nav-menu__link-text">Account</span>      </a>
+      
+    </li>
+    <li>
+      <a href="/content/placeditadvert/choose-section-new/" title="Place your wanted or need property advert for free" class="nav-menu__link nav-menu__link--placeAd"><i class="nav-menu__link-icon  fa fa-thumb-tack" aria-hidden="true"></i><span class="nav-menu__link-text">Post ad</span>      </a>
+    </li>
+    <li>
+      <a href="/flatshare-house-share/uk/" title="Rooms for rent in your area" class="nav-menu__link nav-menu__link--browse"><i class="nav-menu__link-icon  fa fa-th-list" aria-hidden="true"></i><span class="nav-menu__link-text">Browse</span>      </a>
+    </li>
+    <li>
+      <a href="/content/about-us/about-spareroom/" title="About us" class="nav-menu__link nav-menu__link--aboutUs"><i class="nav-menu__link-icon  fa fa-users" aria-hidden="true"></i><span class="nav-menu__link-text">About us</span>      </a>
+    </li>
+    <li>
+      <a href="/content/info-advice/info-and-advice/" title="Info and advice overview" class="nav-menu__link nav-menu__link--info"><i class="nav-menu__link-icon  fa fa-book" aria-hidden="true"></i><span class="nav-menu__link-text">Info &amp; advice</span>      </a>
+    </li>
+    
+  </ul>
+</nav>  </div>
+</nav></div></header>  
   
   
   
@@ -165,21 +387,18 @@
             </label>
           </li>
           
-          
           <li>
             <label title="Potential flatmates and tenants seeking accommodation">
               <input type="radio" name="flatshare_type" value="wanted" class="radiobuttons">
               Rooms Wanted
             </label>
           </li>
-          
-          <li>
-            <label title="Find others seeking accommodation to form a new flatshare">
-              <input type="radio" name="flatshare_type" value="buddyup" class="radiobuttons">
-              Buddy ups
-            </label>
-<span class="tooltip buddyUp" tabindex="-1">&nbsp;<i class="fa fa-info-circle"></i><span class="tooltip_box"><span class="tooltip_text">Find potential buddy ups to share this property with <a href="/content/info-faq/buddyups/" title="Find out more about BuddyUps">Find out more »</a></span><span class="tooltip_arrow">&nbsp;</span></span><span class="tooltip_background" tabindex="-1"></span></span>            </li>
-          
+            <li>
+              <label title="Find others seeking accommodation to form a new flatshare">
+                <input type="radio" name="flatshare_type" value="buddyup" class="radiobuttons">
+                Buddy ups
+              </label>
+<span class="tooltip buddyUp" tabindex="-1">&nbsp;<i class="fa fa-info-circle"></i><span class="tooltip_box"><span class="tooltip_text">Find potential buddy ups to share this property with <a href="/content/info-faq/buddyups/" title="Find out more about BuddyUps">Find out more »</a></span><span class="tooltip_arrow">&nbsp;</span></span><span class="tooltip_background" tabindex="-1"></span></span>              </li>
         </ul>
       </div>
         <div>
@@ -214,10 +433,7 @@
         
 	
 	<p>
-		
-		
 			(<a href="/content/default/terms-uk/" class="lbAction">Click here to see our terms and conditions</a>.)
-		
 	</p>
 	<p>This privacy policy sets out the basis on which we’ll process any personal data we collect from you, or which you provide to us when you register and use our website, or any services provided through it (including when you post any adverts on the site). Please read the following carefully to understand how we use and protect the information you provide to us. </p>
 	<p>By browsing and/or using our website, or any services offered through it, you’re consenting to our processing of your personal data in accordance with this privacy policy.</p>
@@ -225,13 +441,13 @@
 		<li>
 			<h3>Contacting us</h3>
 			<ol>
-				<li>For the purpose of the Data Protection Act 1998, Flatshare Limited (<strong>"We"</strong>, <strong>"Us"</strong> <strong>"Our"</strong>) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 - our registered office is at 
+				<li>For the purpose of the Data Protection Act 1998, Flatshare Limited (<strong>"We"</strong>, <strong>"Us"</strong> <strong>"Our"</strong>) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 – our registered office is at 
 5th Floor,
 Dale House,
 35 Dale Street,
 Manchester,
 
-M1 2HF, UK.  For more information see  <a href="/content/about-us/about-spareroom/">'about us '</a>.</li>
+M1 2HF, UK. For more information see <a href="/content/about-us/about-spareroom/">'about us'</a>.</li>
 				<li>If you’d like to know what information we hold about you, or you have any other queries or complaints in relation to this privacy policy, our contact details are as follow
 					<address>
 						Flatshare Ltd<br>
@@ -242,23 +458,26 @@ Dale House<br>
 Manchester<br>
 
 M1 2HF<br> UK<br><br>
-						Email: <a class="email" href="/contact.pl">customerservices@<span class="hidden">null</span>spareroom.co.uk</a><br><br>
+						Email: <a class="email" href="mailto:DPO@spareroom.co.uk">DPO@<span class="hidden">null</span>spareroom.co.uk</a><br><br>
 						Phone: <a href="tel:+441617681162">0161 768 1162</a>
 					</address>
 				</li>
 			</ol>
 		</li>
 		<li>
-			<h3>The information we collect from you</h3>
+			<h3>The information we collect from you and the lawful basis for processing it</h3>
 			<ol>
-				<li>We collect the information you provide to us when you register on the site, including your name, gender, email address and search preferences. We use this information to create a user account for you on our site and to provide our services to you, including publishing your adverts on the site and facilitating introductions with other members of our site. However, we will not share your email address with other users of the site unless you have specifically chosen to disclose it. Where you have not opted out of receiving them, we will also use this information to send you email notifications of other users’ adverts matching your search preferences and/or newsletters about our own services we think may be of interest to you from time to time. We will not sell or rent any of this information to any third parties nor send you any third party marketing communications unless you have specifically opted in to receiving them.</li>
-				<li>Any information you include in any advert you place on our site will be collected by us and stored on our servers for the purposes of making the website, and the content contained within it, available to our users, and to enable our users to search for and respond to adverts on the site. In the event you are asked to submit any sensitive personal data as part of the process for posting adverts on the site you’ll be asked to tick a box to demonstrate your consent to our collecting and storing that information and to us making that information available to other users through the site. We may also collect information from adverts posted to the site on an aggregated basis for statistical analysis. Some of this data may be used in press releases or shared with third parties on an aggregated basis. However, no individual will ever be identifiable from such data. We don’t collect, store or use any personal information contained in any such posts for any other purpose not set out in this privacy policy. Please note that any materials or information you post to our website will be visible to other users of the site. We therefore advise you to be selective about what information you include in your adverts and not to include any information you aren’t happy to be publically available.</li>
-				<li>We may collect any information contained in correspondence between you and us. For example, if you contact us we may keep a record of that correspondence. We may also ask you for information when you report a problem with our website or any content or services made available through it.</li>
-				<li>We may also collect and store any information contained in communications between yourself and other users on the site, where such communications have taken place via our on-site messaging system. We do not routinely monitor all communications but we may use software to track communications and we reserve the right to monitor them in order to investigate any suspected breach of our terms and conditions, illegal behaviour or any other misuse of our service or for any other reasonable reason as determined by us from time to time.</li>
+				<li>We collect the information you provide to us when you register on the site, including your name, gender, email address and search preferences. We use this information to create a user account for you on our site and to provide our services to you, including publishing your adverts on the site and facilitating introductions with other members of our site. However, we will not share your email address with other users of the site unless you have specifically chosen to disclose it. Where you have not opted out of receiving them, we will also use this information to send you email notifications of other users’ adverts matching your search preferences and/or newsletters about our own services we think may be of interest to you from time to time. We will not sell or rent any of this information to any third parties nor send you any third party marketing communications unless you have specifically opted in to receiving them. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.</li>
+				<li>Any information you include in any advert you place on our site will be collected by us and stored on our servers for the purposes of making the website, and the content contained within it, available to our users, and to enable our users to search for and respond to adverts on the site. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.</li>
+				<li>In the event you are asked to submit any sensitive personal data as part of the process for posting adverts on the site you’ll be asked to tick a box to demonstrate your consent to our collecting and storing that information and to us making that information available to other users through the site. Our lawful basis for processing this information is ‘consent provided by the data subject’.
+				</li>
+				<li> We may also collect information from adverts posted to the site on an aggregated basis for statistical analysis. Some of this data may be used in press releases or shared with third parties on an aggregated basis. However, no individual will ever be identifiable from such data. We don’t collect, store or use any personal information contained in any such posts for any other purpose not set out in this privacy policy. Please note that any materials or information you post to our website will be visible to other users of the site. We therefore advise you to be selective about what information you include in your adverts and not to include any information you aren’t happy to be publically available.</li>
+				<li>We may collect any information contained in correspondence between you and us. For example, if you contact us we may keep a record of that correspondence. We may also ask you for information when you report a problem with our website or any content or services made available through it. Our lawful basis for processing this information is the legitimate interest of the company. Namely, to ensure that the services we offer remain suitable for our customers, and to help resolve issues with our platform.</li>
+				<li>We may also collect and store any information contained in communications between yourself and other users on the site, where such communications have taken place via our on-site messaging system. We do not routinely monitor all communications but we may use software to track communications and we reserve the right to monitor them in order to investigate any suspected breach of our terms and conditions, illegal behaviour or any other misuse of our service or for any other reasonable reason as determined by us from time to time. Our lawful basis for processing this information is the legitimate interest of the company. Namely, to ensure that the services we offer remain suitable for our customers, to help resolve any customer disputes, to facilitate the identification of fraudulent activity and to assist any other legal investigations.</li>
 				<li>We may also collect certain information about your visits to our website and how you use it. This may include your IP address, geographical location, browser type, referral source, length of visit, number of page views and similar information. We may use this information for a number of purposes, <strong>including website administration, optimising the use and performance of the website, disclosing to third party contributors or for security purposes.</strong> Individual users will not be identifiable from this information. This information may be collected by a third party website analytics service provider on our behalf and may be collected using cookies. For more information on our use of cookies please refer to section 5 below.</li>
-				<li>We may also collect other information about your activity on the site that is specific to your user account, such as your search history, your search and account preferences and adverts you have posted. We use this information to improve your site experience and to send you content and messages that are relevant to you. We may use cookies to collect this information.</li>
-				<li>In some instances, we may receive some information that you submit to any third party website you access from a link contained in our website, or where you have logged into our website using your profile and account details of a third party website, such as Facebook. Both we and the owner or operator of that third party website will be the data controller in respect of any such information. You should check the privacy policy of those third party websites to find out how they will use your data.</li>
-				<li>If you choose to register and log in to our site using your Facebook profile you are agreeing to share some of the information contained in your Facebook profile with us, such as your friends list, your education and work history, your email address and your interests. We may use this information to improve your user experience on the site and to match you with other users of the site who you are already friends with on Facebook, or who have similar interests or histories to you.</li>
+				<li>We may also collect other information about your activity on the site that is specific to your user account, such as your search history, your search and account preferences and adverts you have posted. We use this information to improve your site experience and to send you content and messages that are relevant to you. We may use cookies to collect this information. Our lawful basis for processing this information is the legitimate interest of the customer. Namely, to ensure that the services we offer remain suitable for our customers, and to improve customers’ experience of our platform.</li>
+				<li>In some instances, we may receive some information that you submit to any third party website you access from a link contained in our website, or where you have logged into our website using your profile and account details of a third party website, such as Facebook. Both we and the owner or operator of that third party website will be the data controller in respect of any such information. You should check the privacy policy of those third party websites to find out how they will use your data. Our lawful basis for processing this information is that the processing is necessary for performance of a contract.</li>
+				<li>If you choose to register and log in to our site using your Facebook profile you are agreeing to share some of the information contained in your Facebook profile with us, such as your age, gender, friends list, your education and work history, your email address and your interests. We may use this information to improve your user experience on the site and to match you with other users of the site who you are already friends with on Facebook, or who have similar interests or histories to you. Our lawful basis for processing this information is the legitimate interest of the customer. Namely, to ensure that the services we offer remain suitable for our customers, and to improve customers’ experience of our platform.</li>
 			</ol>
 		</li>
 		<li>
@@ -267,19 +486,26 @@ M1 2HF<br> UK<br><br>
 				<li>
 					We will only use the personal information we collect from you in accordance with this privacy policy. In addition to the specific uses set out in section 2 above, we may use your information for the following purposes:
 					<ol>
-						<li>to ensure that content from the website is presented in the most effective manner for you and for the device you’re using;</li>
-						<li>to send you alerts about adverts that match your search preferences and to let you know when other users of the site have expressed an interest in any adverts you have posted to the site;</li>
-						<li>to provide you with other marketing communications by post and/or electronic means (such as email, SMS and/or MMS) about our products, services, events, special discounts and offers, which you have requested to be sent or which we feel may interest you, where you have not opted out of being contacted for such purposes;</li>
-						<li>to send you other general (non-marketing) commercial communications, such as information about the website and services provided to you by us at that time;</li>
-						<li>to provide customer service in relation to your use of the website, to contact you, to deal with enquiries and complaints relating to the use of the website and to notify you about changes to our services;</li>
-						<li>to develop, improve and personalise the website so as to improve your user browsing experience; and</li>
+						<li>to ensure that content from the website is presented in the most effective manner for you and for the device you’re using. Our lawful basis for processing this information is the legitimate interest of the customer. Namely, to ensure that the services we offer remain suitable for our customers, and to improve customers’ viewing experience of our platform;</li>
+						<li>to send you alerts about adverts that match your search preferences and to let you know when other users of the site have expressed an interest in any adverts you have posted to the site. Our lawful basis for processing this information is the legitimate interest of the customer. Namely, to ensure that the services we offer remain suitable for our customers, and to improve our customer service;</li>
+						<li>to provide you with other marketing communications by post and/or electronic means (such as email, SMS and/or MMS) about our products, services, events, special discounts and offers, which you have requested to be sent or which we feel may interest you, where you have not opted out of being contacted for such purposes. Our lawful basis for processing this information is the legitimate interest of the company. Namely, to encourage customer engagement with our platform. We will always follow the guidelines established by the Privacy and Electronic Communications Regulations when contacting you via email or SMS. We only contact users with whom we have an existing customer relationship, and we will only contact you about services that are similar to those you have already signed up for. You are free to unsubscribe at any time through the ‘Email alerts’ section of your ‘Account’ menu, which can be reached by clicking the unsubscribe link in any of our emails;</li>
+						<li>to send you other general (non-marketing) commercial communications, such as information about the website and services provided to you by us at that time. Our lawful basis for processing this information is the legitimate interest of the customer. Namely, to ensure that the services we offer remain suitable for our customers, and to improve our customer service;</li>
+						<li>to provide customer service in relation to your use of the website, to contact you, to deal with enquiries and complaints relating to the use of the website and to notify you about changes to our services. Our lawful basis for processing this information is that the processing is necessary for performance of a contract;</li>
+						<li>to develop, improve and personalise our website and associated applications in order to improve your SpareRoom experience. This is in the legitimate interest of our customers, which provides our lawful basis for this processing, as it enables us to ensure that the services we offer continue to be suitable for our customers, and to improve our customer service. We share data with the organisations listed below, which will never share your data with anyone else:
+							<ul class="list--no-counter">
+								<li class="list__li--no-counter"><a href="https://policies.google.com/privacy?hl=en-GB&amp;gl=uk">Firebase &amp; Fabric</a> - to assist with reducing iOS and Android application crashes and monitoring</li>
+								<li class="list__li--no-counter"><a href="https://www.appsflyer.com/privacy-policy/">AppsFlyer</a> - Application usage information and advertising campaign attribution</li>
+								<li class="list__li--no-counter"><a href="https://www.hotjar.com/legal/policies/privacy">HotJar</a> - to improve website user experience</li>
+								<li class="list__li--no-counter"><a href="https://www.facebook.com/about/privacy/update">Facebook Analytics</a> - to help us understand our users' usage and behaviour across our platforms</li>
+							</ul>
+						</li>
 						<li>to provide third parties with statistical information about our users - <strong>this information will not be able to be used to identify any individual user.</strong></li>
 					</ol>
 				</li>
 			</ol>
 		</li>
 		<li>
-			<h3>Disclosure of your information</h3>
+			<h3>Disclosure of your information to recipients (or categories of recipients)</h3>
 			<ol>
 				<li><strong>Other than as expressly set out in this privacy policy or as otherwise required or permitted by law, we will not share, sell or distribute any of the information you provide to us without your consent.</strong></li>
 				<li>
@@ -307,8 +533,8 @@ M1 2HF<br> UK<br><br>
 				 		<dd>Using Google AdWords code, we are able to see which pages helped lead to registering and, where applicable, upgrading. This allows us to make better use of our paid search budget on Google.. You can also choose to opt-out of AdWords remarketing <a href="https://www.google.com/settings/ads/onweb/" target="_blank" rel="noreferrer">here</a>.</dd>
 				 		<dt>DoubleClick</dt>
 				 		<dd>We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future when you browse other websites.</dd>
-				 		<dt>Visual DNA</dt>
-						<dd>We use a VisualDNA tag to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by <a href="http://my.visualdna.com/" title="visualDNA" target="_blank" rel="noreferrer">clicking here</a> and choosing the ‘Cookie Settings’ option. VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form.
+				 		<dt>Facebook Pixel</dt>
+						<dd>We use the Facebook Pixel to understand how people we advertise to on Facebook, and Facebook partners, interact with our site. The Facebook Pixel also allows us to identify groups of Facebook users who are similar to groups of SpareRoom users and advertise our services to them. Guidance on how to opt out is available <a href="https://www.facebook.com/help/568137493302217" title="Facebook Pixel" target="_blank" rel="noreferrer">here</a>.
 						</dd>
 						<dt>Google Analytics Demographics and Interest Reporting</dt>
 						<dd>These help us better understand who our users are so we can make content on other channels, such as YouTube, more relevant. You can choose to opt out of these cookies <a href="https://support.google.com/analytics/answer/181881?hl=en" target="_blank" rel="noreferrer">here</a>.</dd>
@@ -347,7 +573,7 @@ M1 2HF<br> UK<br><br>
 		<li>
 			<h3>Security and data retention</h3>
 			<ol>
-				<li>We employ appropriate technological and operational security measures to protect against any unauthorised access to or unlawful processing of any personal information about you that we hold. We will retain your information for a reasonable period or as long as the law requires or permits.</li>
+				<li>We employ appropriate technological and operational security measures to protect against any unauthorised access to or unlawful processing of any personal information about you that we hold. We will retain your information for a period as defined in our data retention policy or as long as the law requires or permits.</li>
 				<li>Data transmission over the internet is inherently insecure. Although we employ appropriate technological and organisational security measures to protect your data we cannot guarantee the security of any data sent over the internet.</li>
 			</ol>
 		</li>
@@ -361,8 +587,25 @@ M1 2HF<br> UK<br><br>
 		<li>
 			<h3>Your rights</h3>
 			<ol>
-				<li>You are entitled to know what personal data we hold about you and you may ask us to make any necessary changes to ensure it is accurate and kept up to date. If you wish to do this, please contact us using the contact information provided in section 1 above. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you and we may also require you to provide us with appropriate identification.</li>
+				<li>You are entitled to know what personal data we hold about you and you may ask us to make any necessary changes to ensure it is accurate and kept up to date. If you wish to do this, please contact us using the contact information provided in section 1 above. There will be no charge for this service; if, however, you log multiple requests, a nominal charge may be applied to cover the administration of those requests. We may also require you to provide us with appropriate identification.</li>
+				<li>
+					Under the GDPR, you have the right to ‘block’ or request the deletion or removal of personal data to prevent further processing. This right to erasure is also known as ‘the right to be forgotten’. Specific circumstances in which you can request the deletion or removal of personal data include:
+					<ol>
+						<li>Where the personal data is no longer necessary for the purposes for which it was collected or otherwise processed</li>
+						<li>Where you withdraw consent</li>
+						<li>When you object to the processing and there is no overriding legitimate interest for continuing the processing</li>
+						<li>Where the personal data was unlawfully processed (i.e. otherwise in breach of the GDPR)</li>
+						<li>Where the personal data has to be erased in order to comply with a legal obligation</li>
+					</ol>
+					In case a deletion is not possible due to legal, statutory or contractual retention periods, or if it requires disproportionate efforts or prejudices your legitimate interests, the data will be blocked instead of deleted.
+				</li>
+				<li>You may also request from us a copy of any of your personal data that has been processed through automated means. This will be provided in a structured, commonly used, and machine-readable format (where technically feasible), which you may then transmit to another controller. You have the right to request that we send this data to another controller on your behalf, but only if it is technically feasible to do so.</li>
+				<li>You have the right to withdraw your consent for us to collect, process and store your data at any time. If you wish to withdraw your consent, please confirm this via email to <a class="email" href="mailto:DPO@spareroom.co.uk">DPO@<span class="hidden">null</span>spareroom.co.uk</a></li>
+				<li>If you have a complaint about any aspect of data protection or if you feel your privacy has been breached by us, we would like to hear from you. To help us investigate and resolve your concerns as quickly as possible, please contact us via email to <a class="email" href="mailto:DPO@spareroom.co.uk">DPO@<span class="hidden">null</span>spareroom.co.uk</a></li>
 				<li>You may request that we cease sending you any marketing information at any time by notifying us in writing, following any "unsubscribe" instructions included in any marketing communications which we send to you, or by clicking on "My Account" on the website homepage and updating your account preferences.</li>
+				<li>If you are unhappy with the final response you have received from us, you have the right to complain to the supervisory authority: the Information Commissioner’s Office (ICO). You can call the ICO on 030 3123 1113 or visit the ICO website: <a href="https://ico.org.uk" target="_blank" rel="noreferrer">ico.org.uk</a>.</li>
+				<li>You are required to provide personal data in order to enter into a contract with us. Failure to provide this personal data may mean that we are unable to execute the contract, and could result in termination of our provision of services to you.</li>
+				<li>If at any time we intend to process your personal data for a reason or in a manner not originally communicated, then prior to performing that processing we will provide you with all relevant information, in accordance with section 11.2 above.</li>
 			</ol>
 		</li>
 		<li>
@@ -371,10 +614,7 @@ M1 2HF<br> UK<br><br>
 		</li>
 	</ol>
 	<p>
-		
-		
 			(<a href="/content/default/terms-uk/" class="lbAction">Click here to see our terms and conditions</a>.)
-		
 	</p>
 
       </div>
@@ -391,47 +631,50 @@ M1 2HF<br> UK<br><br>
       <a href="tel:+441617681162"> Call us on 0161 768 1162</a>
     </p>
       <p class="need_help_hours">
-        Monday to Friday: 9am - 8:30pm <br>
-        Weekends: 10am - 7:30pm
+        Mon to Fri: 9am – 8.30pm
+        <br>
+        Weekends: 10am – 7.30pm
       </p>
       <div data-livechat=""></div>
 	</div>
 </section>      </aside>
     </div>
   </main>
-<footer id="site-footer" class="wrap base-footer"><div class="info-and-resources grid-4"><div><strong>New to sharing</strong><ul><li><a title="Flatsharing FAQ" href="/content/info-advice/flatsharing-faq/">Why flatshare?</a></li><li><a title="Earn £4.250 tax free by renting a room" href="/rentaroomscheme/">The Rent a Room scheme</a></li><li><a title="The benefits of taking in a lodger" href="/lodger">Guide to taking in a lodger</a></li><li><a title="Rent by the room" href="/rentingbytheroom/">Landlord's guide to renting by the room</a></li><li><a title="Flat Share Home Contents and Shared House Contents Insurance" href="/content/info-flatsharing/shared-house-contents-insurance/">Shared Home Insurance</a></li><li><a title="A chance to win a live rent free for a month" href="/liverentfree">Live rent free</a></li></ul></div><div><strong>About us</strong><ul><li><a title="Find out more about us" href="/content/about-us/about-spareroom/">About SpareRoom</a></li><li><a title="Why to use SpareRoom" href="/content/about-us/why-use-spareroom/">Why use SpareRoom?</a></li><li><a title="How SpareRoom Works" href="/content/about-us/how-spareroom-works/">How SpareRoom Works</a></li><li><a title="SpareRoom's blog" href="https://blog.spareroom.co.uk" target="_blank">Blog</a></li><li><a title="SpareRoom's terms" href="/content/default/terms-uk">Terms</a></li><li><a title="SpareRoom's privacy" href="/content/default/privacy-uk">Privacy policy</a></li><li><a title="Discrimination" href="/content/default/discrimination/">Discrimination</a></li><li><a title="Work at SpareRoom" href="/content/about/jobs">Jobs</a></li></ul></div><div><strong>Our services</strong><ul><li><a title="Advertise your Room to Let" href="/content/placeditadvert/listing-options/">Advertise a room</a></li><li><a title="Place a room wanted advert" href="/flatshare/wanted_listing_step1.pl">Place a room wanted ad</a></li><li><a title="Advertise your whole property out to a group of sharers" href="/content/placeditadvert/scp-options/">Advertise a whole property</a></li><li><a title="Student accommodation and student flatshare" href="/student-accommodation">Student Accommodation</a></li><li><a title="Find / Advertise rooms from Monday to Friday" href="/monday-to-friday/">Monday to Friday lets</a></li><li><a title="Gay Flatshare - find rooms in LGBT households" href="/lgbt-households">Gay Flatshare</a></li><li><a title="Search our flatmate/roommate profiles" href="/roommates">Roommate finder</a></li></ul></div><div class="contact-us"><strong>Contact us | Need help?</strong><a title="Contact us" href="/contact.pl"><i class="fa fa-envelope-o"></i> Contact Us by email</a><a href="tel:+441617681162"><i class="fa fa-phone"></i> Call us on 0161 768 1162</a><span>Monday to Friday 9am - 8:30pm</span><span>Weekends: 10am - 7:30pm</span><a title="SpareRoom FAQ" href="/content/infowebsitehelp/faq/"><i class="fa fa-question"></i> FAQ</a><a title="Press" href="/press"><i class="fa fa-info-circle"></i> Press Office</a></div></div><div class="topCities-and-social grid-4"><p><strong>Top flatsharing cities:</strong></p><p><a title="London flatshare house share and flatmates" href="/london">London</a><a title="Belfast flatshare house share and flatmates" href="/flatshare/belfast">Belfast</a><a title="Birmingham flatshare house share and flatmates" href="/flatshare/birmingham">Birmingham</a><a title="Brighton flatshare house share and flatmates" href="/flatshare/brighton">Brighton</a><a title="Bristol flatshare house share and flatmates" href="/flatshare/bristol">Bristol</a></p><p><a title="Cambridge flatshare house share and flatmates" href="/flatshare/cambridge">Cambridge</a><a title="Cardiff flatshare house share and flatmates" href="/flatshare/cardiff">Cardiff</a><a title="Edinburgh flatshare house share and flatmates" href="/flatshare/edinburgh">Edinburgh</a><a title="Glasgow flatshare house share and flatmates" href="/flatshare/glasgow">Glasgow</a></p><p><a title="Leeds flatshare house share and flatmates" href="/flatshare/leeds">Leeds</a><a title="Manchester flatshare house share and flatmates" href="/flatshare/manchester">Manchester</a><a title="Northampton flatshare house share and flatmates" href="/flatshare/northampton">Northampton</a><a title="More towns &amp; cities flatshare house share and flatmates" href="/flatshare-house-share/uk/">More towns &amp; cities</a></p></div><div class="other-services grid-4"><a href="https://www.speedflatmating.co.uk" title="The original flatmate finding event"><img src="//images2.spareroom.co.uk/img/logos/SpeedFlatmating_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpeedFlatmating_white.png?v=012'; this.onerror=null;" class="svg " alt="SpeedFlatmatingLogo">Find a room or meet potential flatmates face to face. Events held every week in London and Manchester. Find out more.</a><a href="https://blog.spareroom.co.uk/lodgers/a-victory-in-the-2015-budget/" title="A Victory in the 2015 Budget"><img src="//images2.spareroom.co.uk/img/logos/RaiseTheRoof_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/RaiseTheRoof_white.png?v=012'; this.onerror=null;" class="svg " alt="Raise the Roof Logo">Our successful 6 year campaign means a better deal for homeowners and renters. Find out more.</a><a href="/liverentfree" title="A chance to win a live rent free for a month"><img src="//images2.spareroom.co.uk/img/logos/LiveRentFree_white.png?v=02" onerror="this.src='//images2.spareroom.co.uk/img/logos/LiveRentFree_white.png?v=02'; this.onerror=null;" class="svg " alt="Live Rent Free Logo">Enter our free competition to win a month's rent. Held every month. Find out more.</a><a href="https://www.spareroom.com/roommates" title="Home page"><img src="//images2.spareroom.co.uk/img/logos/SpareRoom_en-US_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpareRoom_en-US_white.png?v=012'; this.onerror=null;" class="svg " alt="SpareRoom Logo in white">Need a room or roommate in New york, San Francisco or Los Angeles? Visit our USA site.</a></div><div class="external-links grid-8"><span class="apps-download"><a title="SpareRoom apps details" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-app-page" href="/app"><strong>SpareRoom apps</strong> </a>(free)<a title="SpareRoom iOS app download on Apple Store" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-ios-store" href="https://itunes.apple.com/app/apple-store/id400181250?pt=450238&amp;ct=uk-desktop-universal-footer&amp;at=1001lnJ5&amp;mt=8&amp;ls=1"><i class="fa fa-apple"></i> iOS app</a><a title="SpareRoom Android app download on Google Play" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-google-play" href="https://play.google.com/store/apps/details?id=com.spareroom.spareroomuk&amp;hl=en"><i class="fa fa-android"></i> Android app</a></span><p class="social"><strong>Follow us:</strong><a title="SpareRoom YouTube channel" href="https://www.youtube.com/user/spareroom/?sub_confirmation=1"><i class="fa fa-youtube-play"></i></a><a title="SpareRoom on Twitter" href="https://www.twitter.com/SpareRoomUK"><i class="fa fa-twitter"></i></a><a title="SpareRoom FaceBook page" href="https://www.facebook.com/spareroom"><i class="fa fa-facebook"></i></a><span class="copyright">©1999-2017 Flatshare Ltd.</span></p></div></footer><div class="overlay-mask" id="overlay-mask"></div>
-
-<div id="reg_overlay" class="reg_close"></div>
-<div class="reg_wrap" id="reg_popup">
-  <div class="popreg">
-    <a class="popreg__regclose reg_close">
-      <i class="fa fa-times popreg__close-icon"></i>
-    </a>
-    <img src="/img/logos/SpareRoom_white.png" class="svg popreg__logo" alt="SpareRoom Logo in white">
-    <div class="popreg__title">Signup for FREE</div>
-    <ul class="popreg__list">
-      <li class="popreg__list-item">Place a free ad</li>
-      <li class="popreg__list-item">Contact free ads</li>
-      <li class="popreg__list-item">Save ads and searches</li>
+<footer id="site-footer" class="wrap base-footer"><div class="info-and-resources grid-4"><div><strong>New to sharing</strong><ul><li><a title="Flatsharing FAQ" href="/content/info-advice/flatsharing-faq/">Why flatshare?</a></li><li><a title="Earn £7,500 tax free by renting a room" href="/rentaroomscheme/">The Rent a Room scheme</a></li><li><a title="The benefits of taking in a lodger" href="/lodger">Guide to taking in a lodger</a></li><li><a title="Rent by the room" href="/rentingbytheroom/">Landlord's guide to renting by the room</a></li><li><a title="Flat Share Home Contents and Shared House Contents Insurance" href="/content/info-flatsharing/shared-house-contents-insurance/">Shared Home Insurance</a></li><li><a title="A chance to win a live rent free for a month" href="/liverentfree">Live rent free</a></li></ul></div><div><strong>About us</strong><ul><li><a title="Find out more about us" href="/content/about-us/about-spareroom/">About SpareRoom</a></li><li><a title="Why to use SpareRoom" href="/content/about-us/why-use-spareroom/">Why use SpareRoom?</a></li><li><a title="How SpareRoom Works" href="/content/about-us/how-spareroom-works/">How SpareRoom Works</a></li><li><a title="SpareRoom's blog" href="https://blog.spareroom.co.uk" target="_blank">Blog</a></li><li><a title="SpareRoom's terms" href="/content/default/terms-uk">Terms</a></li><li><a title="SpareRoom's privacy" href="/content/default/privacy-uk">Privacy policy</a></li><li><a title="Discrimination" href="/content/default/discrimination/">Discrimination</a></li><li><a title="Work at SpareRoom" href="/content/about/jobs">Jobs</a></li></ul></div><div><strong>Our services</strong><ul><li><a title="Advertise your Room to Let" href="/content/placeditadvert/listing-options/">Advertise a room</a></li><li><a title="Place a room wanted advert" href="/flatshare/wanted_listing_step1.pl">Place a room wanted ad</a></li><li><a title="Advertise your whole property out to a group of sharers" href="/content/placeditadvert/scp-options/">Advertise a whole property</a></li><li><a title="Student accommodation and student flatshare" href="/student-accommodation">Student Accommodation</a></li><li><a title="Find / Advertise rooms from Monday to Friday" href="/monday-to-friday/">Monday to Friday lets</a></li><li><a title="Gay Flatshare - find rooms in LGBT households" href="/lgbt-households">Gay Flatshare</a></li><li><a title="Search our flatmate/roommate profiles" href="/roommates">Roommate finder</a></li></ul></div><div class="contact-us"><strong>Contact us | Need help?</strong><a title="Contact us" href="/contact.pl"><i class="fa fa-envelope-o"></i> Contact Us by email</a><a href="tel:+441617681162"><i class="fa fa-phone"></i> Call us on 0161 768 1162</a><span>Mon to Fri: 9am – 8.30pm</span><span>Weekends: 10am – 7.30pm</span><a title="SpareRoom FAQ" href="/content/infowebsitehelp/faq/"><i class="fa fa-question"></i> FAQ</a><a title="Press" href="/press"><i class="fa fa-info-circle"></i> Press Office</a></div></div><div class="topCities-and-social grid-4"><p><strong>Top flatsharing cities:</strong></p><p><a title="London flatshare house share and flatmates" href="/london">London</a><a title="Belfast flatshare house share and flatmates" href="/flatshare/belfast">Belfast</a><a title="Birmingham flatshare house share and flatmates" href="/flatshare/birmingham">Birmingham</a><a title="Brighton flatshare house share and flatmates" href="/flatshare/brighton">Brighton</a><a title="Bristol flatshare house share and flatmates" href="/flatshare/bristol">Bristol</a></p><p><a title="Cambridge flatshare house share and flatmates" href="/flatshare/cambridge">Cambridge</a><a title="Cardiff flatshare house share and flatmates" href="/flatshare/cardiff">Cardiff</a><a title="Edinburgh flatshare house share and flatmates" href="/flatshare/edinburgh">Edinburgh</a><a title="Glasgow flatshare house share and flatmates" href="/flatshare/glasgow">Glasgow</a></p><p><a title="Leeds flatshare house share and flatmates" href="/flatshare/leeds">Leeds</a><a title="Manchester flatshare house share and flatmates" href="/flatshare/manchester">Manchester</a><a title="Northampton flatshare house share and flatmates" href="/flatshare/northampton">Northampton</a><a title="More towns &amp; cities flatshare house share and flatmates" href="/flatshare-house-share/uk/">More towns &amp; cities</a></p></div><div class="other-services grid-4"><a href="https://www.speedflatmating.co.uk" title="The original flatmate finding event"><img src="//images2.spareroom.co.uk/img/logos/SpeedFlatmating_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpeedFlatmating_white.png?v=012'; this.onerror=null;" class="svg " alt="SpeedFlatmatingLogo">Find a room or meet potential flatmates face to face. Events held every week in London and Manchester. Find out more.</a><a href="https://blog.spareroom.co.uk/lodgers/a-victory-in-the-2015-budget/" title="A Victory in the 2015 Budget"><img src="//images2.spareroom.co.uk/img/logos/RaiseTheRoof_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/RaiseTheRoof_white.png?v=012'; this.onerror=null;" class="svg " alt="Raise the Roof Logo">Our successful 6 year campaign means a better deal for homeowners and renters. Find out more.</a><a href="/liverentfree" title="A chance to win a live rent free for a month"><img src="//images2.spareroom.co.uk/img/logos/LiveRentFree_white.png?v=02" onerror="this.src='//images2.spareroom.co.uk/img/logos/LiveRentFree_white.png?v=02'; this.onerror=null;" class="svg " alt="Live Rent Free Logo">Enter our free competition to win a month's rent. Held every month. Find out more.</a><a href="https://www.spareroom.com/roommates" title="Home page"><img src="//images2.spareroom.co.uk/img/logos/SpareRoom_en-US_white.png?v=012" onerror="this.src='//images2.spareroom.co.uk/img/logos/SpareRoom_en-US_white.png?v=012'; this.onerror=null;" class="svg " alt="SpareRoom Logo in white">Need a room or roommate in New york, San Francisco or Los Angeles? Visit our USA site.</a></div><div class="external-links grid-8"><span class="apps-download"><a title="SpareRoom apps details" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-app-page" href="/app"><strong>SpareRoom apps</strong> </a>(free)<a title="SpareRoom iOS app download on Apple Store" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-ios-store" href="https://itunes.apple.com/app/apple-store/id400181250?pt=450238&amp;ct=uk-desktop-universal-footer&amp;at=1001lnJ5&amp;mt=8&amp;ls=1"><i class="fa fa-apple"></i> iOS app</a><a title="SpareRoom Android app download on Google Play" data-ga-event-category="Apps promo" data-ga-event-action="clicked" data-ga-event-label="footer-google-play" href="https://play.google.com/store/apps/details?id=com.spareroom.spareroomuk&amp;hl=en"><i class="fa fa-android"></i> Android app</a></span><p class="social"><strong>Follow us:</strong><a title="SpareRoom YouTube channel" href="https://www.youtube.com/user/spareroom/?sub_confirmation=1"><i class="fa fa-youtube-play"></i></a><a title="SpareRoom on Twitter" href="https://www.twitter.com/SpareRoomUK"><i class="fa fa-twitter"></i></a><a title="SpareRoom FaceBook page" href="https://www.facebook.com/spareroom"><i class="fa fa-facebook"></i></a><span class="copyright">©1999-2018 Flatshare Ltd.</span></p></div></footer><div class="overlay-mask" id="overlay-mask"></div>
+<div class="profile-viewer hidden-overlay" data-overlay-name="user-profile"><!--
+  --><a class="close-circle-cross fa fa-times-circle" data-overlay-close="user-profile"></a><!--
+  --><div class="profile-viewer__identity">
+    <img id="profile-data__profile_photo" src="/img/spareroom/v4/icons/profilepic_unisex.gif" onerror="this.src='/img/spareroom/v4/icons/profilepic_unisex.gif'; this.onerror=null;" class="profile-viewer__photo">
+    <div data-profile-viewer-value="0" class="profile-viewer__identity-name" id="profile-data__first_name">Unknown</div>
+    <!-- if verified.value -->
+    <div class="profile-viewer__verified hidden" id="profile-data__verified"><img src="/images/spareroom/netcred/netcred-icon.png" class="verified-icon"> <span class="verified-copy">Verified User</span></div>
+    <!-- end if -->
+    <a href="/flatshare/mydetails.pl" class="profile-viewer__edit-link hidden">Edit profile</a>
+  </div><!--
+  --><div class="profile-viewer__info-wrap">
+    <ul class="profile-viewer__data-list">
+      <li class="profile-viewer__data-item">age<span data-profile-viewer-value="0" class="profile-viewer__data-value" id="profile-data__age">Unknown</span></li>
+      <li class="profile-viewer__data-item">gender<span data-profile-viewer-value="0" class="profile-viewer__data-value" id="profile-data__gender">Unknown</span></li>
+      <li class="profile-viewer__data-item">member since<span data-profile-viewer-value="0" class="profile-viewer__data-value" id="profile-data__member_since">Unknown</span></li>
+      <li class="profile-viewer__data-item">last active<span data-profile-viewer-value="0" class="profile-viewer__data-value" id="profile-data__last_active">Unknown</span></li>
     </ul>
-    <form action="/roommate/reg.pl" method="POST" name="registration" data-cookie-check="self">
-      <a class="fbconnect_login button-facebook" id="fb_login" title="Connect with Facebook">
-        <i class="fa fa-facebook"></i>Sign up with Facebook
-      </a>
-      <a class="primary-featured primary-featured-blue" id="" name="register" href="/flatshare/reg.pl">
-        <i class="fa fa-envelope"></i>Sign up with email
-      </a>
-      <a id="reg_remind_me_later" class="reg_close">
-        <i class="fa fa-clock-o"></i>Remind me later
-      </a>
-      <a class="login" href="/flatshare/logon.pl">Already registered? <strong>Log in</strong></a>
-    </form>
-  </div>
+    <div class="profile-viewer--quote-wrap">
+      <div class="profile-viewer--quote-title">Joined SpareRoom because:</div>
+      <!-- if haveashare.value -->
+        <q class="profile-viewer--quote-item hidden" id="profile-data__have_a_share">I have a flat or house share</q>
+      <!-- end if -->
+      <!-- if lookingforashare.value -->
+        <q class="profile-viewer--quote-item hidden" id="profile-data__looking_for_a_share">I am looking for a flat or house share</q>
+      <!-- end if -->
+      <!-- if makeashare.value -->
+        <q class="profile-viewer--quote-item hidden" id="profile-data__make_a_share">I'd like to find people to form a new share</q>
+      <!-- end if -->
+    </div><!--
+  --></div><!--
+--><error class="profile-viewer__error-message"></error>
 </div>
 
-<script src="https://assets.spareroom.co.uk/assets/015517d93fbdca271e2cbb80c830c7c6.js"></script>
-
-
+<script src="https://assets.spareroom.co.uk/assets/bce44aa92f830829f08ddb4b7d9c86a7.js"></script>
 <script>
   
 
@@ -463,14 +706,16 @@ M1 2HF<br> UK<br><br>
   SR.saveSearchToLocalStorage.init();
   SR.spareroom.init();
   SR.share.init();
+  var flashMessage = SR.flashMessage;
+  flashMessage.init();
 
-  // jQuery('input[type="text"]').each(function() {
-  //   if ( jQuery(this)[0].hasAttribute('data-store-search-text') ) {
-  //     new SR.Autocompleter({
-  //       input: jQuery(this)
-  //     });
-  //   }
-  // });
+  jQuery('input[type="text"]').each(function() {
+    if ( jQuery(this)[0].hasAttribute('data-store-search-text') ) {
+      new SR.Autocompleter({
+        input: jQuery(this)
+      });
+    }
+  });
   </script>
   
 
@@ -478,68 +723,8 @@ M1 2HF<br> UK<br><br>
 
 
 
-
-	<script type="text/javascript">
-		adroll_adv_id = "IJG4AKV23RCELMW5Y4G3QZ";
-		adroll_pix_id = "PGGI74QLWVFBDEKV6KU3CD";
-		(function () {
-			var oldonload = window.onload;
-			window.onload = function(){
-				__adroll_loaded = true;
-				var scr = document.createElement("script");
-				var host = "https://s.adroll.com";
-				scr.setAttribute('async', 'true');
-				scr.type = "text/javascript";
-				scr.src = host + "/j/roundtrip.js";
-				((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-				if(oldonload){oldonload()}
-			};
-		}());
-	</script>
-
-	
-
-
-  <script src="/js/v4/reg_prompt.js"></script>
-
-<link rel="stylesheet" href="https://assets.spareroom.co.uk/assets/1744b0263fdf977eac5cec17c23fb400.css">
-  <style>
-    .smartbanner.smartbanner_android {
-      min-width: 966px;
-    }
-    .smartbanner__container {
-      position: fixed;
-      width: 100%;
-    }
-    .smartbanner {
-      height: 78px;
-    }
-  </style>
-<script src="https://assets.spareroom.co.uk/assets/1f2242be7e0a888d5c7f731b3e0f0b9d.js"></script>
-
-<script>
-var hasApp;
-
-    // Android Smart Banner;
-    if (navigator.userAgent.match(/Android/i) !== null && hasApp != 1) {
-        new SmartBanner({
-              daysHidden: 5,   // days to hide banner after close button is clicked (defaults to 5)
-              daysReminder: 90, // days to hide banner after "VIEW" button is clicked (defaults to 90)
-              appStoreLanguage: 'en', // language code for the App Store (defaults to us)
-              title: 'SpareRoom',
-              author: 'SpareRoom.co.uk',
-              button: 'VIEW',
-              store: {
-                  ios: 'On the App Store',
-                  android: 'on Google Play<sup>TM</sup> <small>Google Play is a trademark of Google Inc.</small>'
-              },
-              price: {
-                  ios: 'FREE',
-                  android: 'FREE'
-              }
-              // , force: 'android' // Uncomment for platform emulation
-          });
-    };
-</script>
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="https://assets.spareroom.co.uk/assets/07109aead217b05b22420180a428d72b.js"></script>
+  <script src="https://assets.spareroom.co.uk/assets/705fb8bf5c0223c0c1b07bac517b79e8.js"></script>
 
 </body></html>
