@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hstyles.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231000507id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hstyles.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625124247id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sony Music
 
