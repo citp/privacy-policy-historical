@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919002534id_/http%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625232207id_/https%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
 
 # CraftJack Privacy Policy
 
@@ -37,7 +37,7 @@ In general. We may use information that we collect about you to:
   * deliver the products and services that you have requested;
   * manage your account and provide you with customer support;
   * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices or send newsletters about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices or send newsletters about products or services that may be of interest to you from us;
   * communicate with you with regard to partially completed service requests;
   * develop and display content and advertising tailored to your interests on our site and other sites;
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
@@ -90,7 +90,7 @@ With respect to Service Professionals and consumers, if certain information has 
 
 ### Your choices about collection and use of your information
 
-  * At any time a consumer user can choose to no longer receive commercial or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+  * At any time a consumer user can choose to no longer receive commercial or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages by simply clicking on the unsubscribe link in the footer of any email from us or contact us at support@craftjack.com. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
   * If you prefer not to have us share your postal mailing information with these selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at support@craftjack.com.
 
 
