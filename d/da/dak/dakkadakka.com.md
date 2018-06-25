@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107120219id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625083242id_/https%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
 
-# DakkaDakka - Privacy Policy | Like the Black Library but easier to find.
+# DakkaDakka - Privacy Policy | See Dick play. See Dick roll. See Dick lose it. Don't be a Dick.
 
 ## Dakka Privacy Policy
 
