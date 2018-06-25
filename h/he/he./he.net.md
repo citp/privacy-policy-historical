@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220013316id_/http%3A//he.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625090613id_/http%3A//www.he.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ We may also store the information that we gather from you in a file along with a
 
 **Cookies**
 
-Hurricane Electric uses cookies to track information about you. Upon entering Hurricane Electric's website, a cookie is created. The only information that this cookie displays is where you came from. For example, if you found Hurricane Electric from a search engine, the cookie will tell us from which search engine. 
+Upon entering Hurricane Electric's website, a cookie is created. The information that this cookie displays is where you came from. For example, if you found Hurricane Electric from a search engine, the cookie will tell us from which search engine. 
 
-We use cookies to track where visitors are coming from. We look at which search engines, directories, and other web sites are bringing the most traffic to our site. We then take this information to fine tune our marketing efforts. 
+We use cookies to track where visitors are coming from. We look at which search engines, directories, and other web sites are bringing traffic to our site. 
 
 **Disclosure**
 
