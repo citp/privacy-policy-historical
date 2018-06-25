@@ -1,75 +1,163 @@
-> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909090758id_/http%3A//www.nativo.net%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625165630id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
 
-# Nativo: Scalable and automated native advertising platform
+# Website Privacy Policy — Nativo Native Platform
 
-## Privacy Policy
+Incoming, EU-wide data protection legislation known as the **“General Data Protection Regulation”** or **“GDPR”** (a copy of which is posted [here](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=en)), will have effect from May 25th, 2018. The Website Privacy Policy is intended to meet our duties of Transparency under the GDPR and all other applicable privacy laws.
 
-**Introduction**  
-This Site located at [www.nativo.net](http://www.nativo.net/) is offered by Nativo, Inc., a Delaware corporation (the "Company,""we" or "us").
+We will post any modifications or changes to this Website Privacy Policy on this page.
 
-This Privacy Policy explains how we collect, use and disclose your personal and non-personal information when you access or use this Site, its content and services (the "Services"). By accessing this Site or using any Services, you acknowledge that you have read, understand and agree to be legally bound by the Terms of Use Agreement, which is a legally binding agreement that governs your access and use of the Site. 
+## Who we are.
 
-Please read this Privacy Policy carefully which is incorporated and made part of our Terms of Use Agreement. If you have any questions, feel free to contact us. By accessing and using any Services, you acknowledge that you have read, understand and agree to be legally bound by this Privacy Policy, and consent to our collection and use of your personal information, including the transfer of this information outside the State of California and/or the United States for storage, processing and use by the Company.
+We are Nativo, Inc. We are a Californian company. Our address is: 100 N. Sepulveda Blvd., 10th Floor, El Segundo, CA 90245.
 
-**Site limited to adults age 18 or older**  
-This Site and the Services are offered and made available only to users 18 years of age or older. By accessing and using this Site, you represent that you are 18 years old or older and that you have reviewed and agreed to the Terms of Use Agreement, including this Privacy Policy.
+We have a UK subsidiary called Nativo London Limited. Its address is: 5 Margaret Street, 2nd Floor, London, UK W1W 8RG.
 
-**User Account and Password**  
-The Services may be offered to you through access to this Site, provided that you open an account ("Account") directly with us by completing the registration process and providing true, accurate, current and complete information about yourself ( "Registration Data"). No one under age 18 may provide any personal information to us or to this Site. If we determine, in our sole discretion, that a person is under the age of 18, based on the information provided during the registration process, that person will not be permitted to register.
+When we refer to **“Nativo”** , **“we”** or **“us”** in this Website Privacy Policy, we are referring to both ourselves and our UK subsidiary.
 
-**How You Provide Personal Information**  
-There are a variety of ways in which you as an online visitor to this Site may provide us with your personal information (including personally identifiable information).
+We have appointed a “Data Protection Officer”, this is a person who is responsible for overseeing and advising us in relation to our compliance with the GDPR and our compliance with this Interest Based Ads Privacy Policy. If you want to contact our Data Protection Officer directly, you can email: [privacy@nativo.com](mailto:privacy@nativo.com).
 
-  * **_User Account_** You may be required to open a user account directly with the Company by completing the registration process and providing true, accurate, current and complete information about yourself. Personal information may also be required to use certain Services, including customer support, technical service requests, and service orders. Information collected will vary depending upon the activity and may include your name, email address, phone number, business address, and credit card information.
-  * **_Billing information_** You may be required to pay for certain Services. Current, complete, and accurate information for your billing account is required and you must also promptly update all information, such as a change in billing address, credit card number, or credit card expiration date.
+## **What we do.**
 
+Nativo is an advertising technology provider. Our technology facilitates campaign planning, buying, management, delivery, optimization, measurement and analytics for advertisers and agencies and enables publishers to build, upload, host, serve, render and report on campaigns delivered to their web and mobile app properties.
 
+## **Cookies.**
 
-**How We Gather Non-Personal Information**  
-We may also gather and assess certain non-personal information, including the number of visitors to this Site. This information is collected from various sources.
+The Website uses cookies, pixels, beacons and similar technology placed by us or third parties. The cookie we set (the “Nativo Cookie”) is a ‘persistent’ browser cookie. This means the Nativo Cookie remains on your device even after you close out of your browser or turn off your device. Nativo uses this Nativo Cookie and other similar technologies to help us store basic information about a user of the Website. This enables us to identify account holders, to optimize user experience on the Website, and to learn from and improve the Nativo technology and services, based on user behavior. Cookies may also be used by our third-party providers to track how you use the Website to target ads to you on other websites.
 
-  * **_Cookies_** Our computer servers may automatically collect and store certain information about you through built-in tracking features or technology known as "cookies" to send a small file to your computer's hard drive. A cookie identifies you as a unique user to obtain information regarding your use of this Site and the Services. This information may include the domain from which you accessed the Internet, the date and time you accessed this Site, the Internet address of the web site you used to link to this Site, your IP address, browser type and language, as well as information on which the Services you used, the pages you viewed, and which ads or links are clicked.
-  * **_Third party ads_** Advertising and other content may be provided by ad serving companies that gather information about your online activities through the use of cookies. This Privacy Policy covers the use of cookies by the Company only, but not the use of cookies by third parties, including advertisers.
-  * **_Internet log files_** We may maintain log files which contain IP addresses (the numeric address that may be assigned to your computer by your ISP) to monitor website traffic, to troubleshoot technical problems, and to report aggregate information to third party advertisers. For website security purposes. To ensure that this Site remains available to all users, we also monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-  * **_Other tools and technologies_** We may use metrics tool and other analytics technologies to capture aggregate statistical usage information when you use this Site and the Services. The information collected includes data about your hardware system (IP addresses, browser type, browser language, platform type), mobile device (if applicable), media, Internet and website usage (domain names, landing pages, pages viewed, the viewing order and the amount of time spent on particular pages, and the date and time).
+To be able to do the above, we need to collect:
+
+  * A unique identifier (which is resettable) assigned to a particular cookie (a “Cookie ID”); and
+
+  * information about your logged-in status, key value records and reference data regarding your interaction with the Website and our technology infrastructure and tools (collectively, “Passive Data”).
 
 
 
-**How We Use Information**  
-We use your name, email address and other personal information we have collected to allow you to access and use this Site and the Services, to fulfill your specific requests, to process your transactions, to administer your inquiries, to provide service notifications, and to solicit your feedback and input. If you choose this feature, we may also use your personal information to send messages about new services, features, enhancements, offers, opportunities and other items of interest.
 
-We use personal and non-personal information, in individual or aggregated form, to analyze the behavior and preferences of our online visitors, to troubleshoot technical problems, to enforce our Terms of Use Agreement, to ensure proper functioning of the Site and to improve the Services. We also combine non-personal information with personal information, to tailor our Services to your preferences or interests and for other related purposes.
+Effect of clearing your Cookies.
 
-**Sharing Information**  
-We will not share or disclose your personal information to any third parties without your consent. However, we may disclose information about you to third party contractors in order to provide the Services, to resolve service problems, to correct errors in the Services, to communicate with you, to provide you with information in connection with the Services, and to enhance your experience on this Site. Third party contractors may also use your personal information to provide email delivery, credit card processing, or other Services on this Site. When requesting the Services, you may be asked to provide your personal information, including your name, mailing address, telephone number and email address. When the third party contractors have access to the personal information that you provide to us, we require them to adhere to our privacy policies and to protect the confidentiality of your personal information while performing their duties for us. These third parties are prohibited from using your personal information for any other purpose without your specific consent.
+If you clear your cookies, it will delete the Nativo Cookie and therefore the Cookie ID will no longer identify a cookie on your device. This means the next time you visit the Website (unless you actively identify yourself by logging in), we will not recognize you or your device, we will treat you as an entirely new user we have never seen before and we will set the Nativo Cookie (together with a new Cookie ID) again.
 
-**Links to Other Websites**  
-This Site may contain hyperlinks to other websites as part of advertising for other products and/or services that appear on this Site. None of these website links is meant as an endorsement, authorization or representation by us of another website or its products and/or services. These providers may require you to disclose personal information in order to register for and access such products and/or services. If you click on a link to another website, including on an advertising hyperlink, you will be leaving this Site. Because we do control these websites, their privacy policies, or activities of any third parties, we are not responsible for any use of your personal information by other parties. Before providing any personal information, be sure to review the privacy policies of the product or service providers from whom you request services or products, including any third party websites linked to this Site.
+Expiry date of the Nativo Cookie.
 
-**Legal compliance**  
-You understand and agree that we may disclose personal information we may have about you to law enforcement or the appropriate civil authorities if required to do so by law, to comply with legal process, such as a search warrant, subpoena, statute, or court order issued by a governmental entity or other competent authority. We may also do so if we have a good faith belief that disclosure is reasonably necessary to avoid liability, to prevent potential or actual injury, loss or damage, to protect our rights, property or operations, or that of our affiliates or the public. The Company is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
+The Nativo Cookie expires within 30 days following the time at which you last visited the Website.
 
-**Transfer of Information**  
-You agree that we have the right to transfer your personal information in the event of a transfer of ownership, the business, and a substantial part of the assets of the Company, whether by acquisition or merger with another company. In such an event, we will notify you when your personal information is transferred and if it becomes subject to a different privacy policy.
+## **What "Your Rights" are.**
 
-**Updating Your Information**  
-You can correct or update your user account information or terminate your user account at any time by contacting us. We reserve the right to retain your information in our files following your termination to resolve disputes, enforce our Terms of Use Agreement, for technical purposes, to comply with legal requirements, and for the security, integrity and operation aspects of this Site and the Services.
+ **Opt out of Targeted Advertising**
 
-**Information Security**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. When you send sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). However, no method of data transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
+Nativo is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct. You may use the [NAI opt out tool](http://optout.networkadvertising.org/?c=1#!/), which will allow you to opt out of receiving tailored online ads from Nativo and from other NAI members.
 
-**Changes to Privacy Policy**  
-We reserve the right to change this Privacy Policy in any way and at any time. We will attempt to give you advance notice of any change in this Privacy Policy by posting on this Site, or by sending a message informing you of the modified terms with a link to the posting on this Site. However, we reserve the right to make changes immediately, as determined in our sole discretion. You agree to periodically check this Site and to read any changes to this Privacy Policy. Accessing this Site or using the Services after any changes to this Privacy Policy become effective constitutes your acceptance of the new Privacy Policy. If you do not agree to this Privacy Policy or any future changes to this Privacy Policy, you do not have permission to use the Services and you must immediately discontinue any further use of this Site.
+ **Reset your Cookies.**
 
-**Your California Privacy Rights / Contacting the Company**  
-Under California law, residents of the State of California who have an established business relationship with the Company or one of its subsidiaries may choose to opt out of the disclosure of personal information to third parties for direct marketing purposes. Our policy, however, is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after giving your approval, or if you have any questions about this Privacy Policy, please email [admin@nativo.net](mailto:admin@nativo.net) or contact us at:
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility).
 
-Nativo, Inc.  
-Attn: Nativo Administrator  
-200 N. Sepulveda Blvd • Suite 850  
-El Segundo, CA 90245  
-United States of America
+As noted above, if you clear your cookies, it will delete the Nativo Cookie and therefore the Cookie ID will no longer identify a cookie on your device. This means the next time you visit the Website (unless you actively identify yourself by logging in), we will not recognize you or your device, we will treat you as an entirely new user we have never seen before, and we will set the Nativo Cookie (together with a new Cookie ID) again.
 
-© Nativo, Inc. 2011. All Rights Reserved.
+ **Erasure.**
 
-Updated April 1, 2011
+In addition to the opt-out rights described above, you may have the right to request that we erase Personal Data we hold about you in certain situations. You can exercise these rights by contacting our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com). If you do not have an account with us, we won’t have a way to identify your data by name in our systems, so, in such case, we may need to request certain information from you (such as the applicable Cookie ID from your system) to complete this request.
+
+When we receive any request to erase your Personal Data, we will try to comply with it as soon as reasonably practicable and (in any event) within one month.  
+
+ **Access.**
+
+In certain situations, you may have the right to request access to the Personal Data associated with your account and/or your current Cookie ID. You can exercise this right by contacting our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com). If you don’t have any account with us, we don’t have a way to identify your data by name in our systems, so, in such case, we may need to request certain information from you (such as the applicable Cookie ID and Mobile Advertising IDs from your systems) to complete this request.
+
+When we receive a request, pursuant to the previous paragraph, to provide you with the Personal Data associated with your account and/or current Cookie ID, we will try to comply with it as soon as reasonably practicable and (in any event) within one month.  
+
+ **Correction and amendment.**
+
+If you have any account with us, you can correct your account information directly through your account, or by contacting your account manager at Nativo. However, if you believe we hold information about you that that you are unable to correct or amend through your account, we recommend you contact our Data Protection Officer at: [privacy@nativo.com](mailto:privacy@nativo.com).
+
+ **Right to object.**
+
+You have a right to object to our use of your Personal Data in certain situations. If you want to exercise this right at any time, the quickest and easiest way to do so is by ‘opting out’ following the steps described here.
+
+You can also request that we ‘erase’ your Personal Data by following the steps outlined [here](https://web.archive.org/privacy-policy/#what-your-rights-are-wpp).
+
+You can also request that we stop sending marketing communications to your email address by using the unsubscribe link in our marketing emails or by contacting [privacy@nativo.com](mailto:privacy@nativo.com).
+
+ **Complaints.**
+
+If you would like to make a complaint regarding this Website Privacy Policy or our practices in relation to your Personal Data, please contact our Data Protection Officer at [privacy@nativo.com](mailto:privacy@nativo.com).
+
+We will reply to your complaint as soon as we can and in any event, within forty-five (45) days.
+
+If you feel that your complaint has not been adequately resolved, please note that the GDPR gives you the right to contact your local data protection supervisory authority, which for the UK, is the Information Commissioner’s Office.
+
+## **What Personal Data we collect.**
+
+All the Personal Data we collect from you is outlined in the table below.
+
+Before you read that table, it might be useful to explain what “Personal Data” is. The GDPR definition of Personal Data can be found [here](https://gdpr-info.eu/art-4-gdpr/). Essentially, it boils down to: information about an individual, from which that individual is either directly identified or can be identified.  
+
+It does **not** include ‘anonymous data’ (i.e., information where the identity of an individual has been permanently removed).
+
+However, it **does** include ‘indirect identifiers’ or ‘pseudonymous data’ (i.e., information which alone doesn’t identify an individual but, when combined with certain additional and reasonably accessible information, could be attributed to a particular person).
+
+Category of Personal Data collected | What this means | How we collect it  
+---|---|---  
+Account Information  | First name, last name, email address, telephone number, profile picture, passwords and security protocols of users who maintain an account for any of Nativo’s digital advertising services, content advertising infrastructure and tools. | Through your active submission (either directly through the platform or indirectly through Nativo or your organization’s administrator) when you create an account with Nativo.   
+Log Records | Log records contain your logged-in status, key value records and reference data regarding your interaction with the Nativo platform, infrastructure and tools, all tied to a Cookie ID.  | Through the use of cookies, pixels, beacons and similar technology when you interact with Nativo’s platform, websites and tools.   
+  
+## **How we use your Personal Data and why.**
+
+Purpose | Category(ies) of Personal Data involved | Why do we do this | Our legal basis for this use of data  
+---|---|---|---  
+To provide you with access to the Nativo platform and tools  |  Account Information  | Using this data helps us to provide you with a consistent experience.  | Our legitimate interests, as well as those of your organization. We need to provide you with access to administer our platforms and services and fulfil our contractual obligations to your organization as a service provider.   
+To provide reporting to your organization  | Account Information; Log Records |  We use your Account Information and Log Records to prepare reports to report on your use of our services. | Our legitimate interests, as well as those of your organization. We need to be able collect information regarding your usage of our services to report back to your organization.  
+To learn about and improve the Nativo products and services. |  Account Information; Log Records  | We conduct analytics on user interaction with our services to facilitate improvement of our products and services.  | Our legitimate interests, as well as those of your organization. To provide you and your organization with the best experience from our services, we need to learn from how you interact with our services to enable us to make improvements.  
+Troubleshooting | Log Records | We use Log Records to track issues that might be occurring on our systems.  | Our legitimate interests, as well as those of your organization. We need to monitor and ensure the proper operation of our systems and services to administer our services and fulfill our contractual obligations to your organization.   
+To Contact you  | Account Information | We use your Account Information to contact you regarding your account or our services, including to market our services to your organization.  | Our legitimate interests, as well as those of your organization. We need to contact your organization to administer our platform and services, to fulfill our contractual obligations, and to keep your organization informed about additional product and service offerings.   
+To Measure and Target Advertisements | Account Information; Log Records |  Our third-party providers use information about your interaction with the Website to display ads for Nativo when you visit other properties on the Internet.  | Our legitimate interests, as well as those of your organization. Use of information about user interaction with the Website allows us to target advertising to users who have previously demonstrated interest in our services.  
+  
+## **Who we share your Personal Data with.**
+
+The table below describes who we share your Personal Data with, what we share and why we share it.
+
+We endeavor to ensure that people to whom we provide Personal Data hold it subject to appropriate safeguards and controls. In addition, where relevant, when we share Personal Data with third parties who are not directly subject to the GDPR, we make sure:
+
+  * that party is either:
+    * based in a country that has laws and institutions in place; or
+    * part of a sector or participates in a framework (e.g., the EU-U.S. Privacy Shield), 
+
+that the European Union considers ensures that your Personal Data will be adequately protected; or
+
+  * adequate safeguards are in place to ensure your Personal Data will be protected in line with the requirements of the GDPR.
+
+
+
+Recipients | Category(ies) of Personal Data we share. | Why we share this Personal Data  
+---|---|---  
+Hosting Provider |  Account Information; Log Records  | Our services are hosted on our proprietary Nativo Platform. In order to host this service, we have to pass all the data we hold (including your Personal Data) to our hosting provider.  
+Reporting and Analytics Providers  |  Account Information; Log Records  | We pass certain Account Information and Log Records (excluding your passwords and other security protocols) to our reporting and analytics providers to enable us to learn and improve the Nativo products and services  
+Affiliates | Account Information; Log Records | As a group of companies, we rely on affiliates to provide certain services to us. All affiliates are required to adhere to the descriptions and specifications set out in this Interest Based Ads Privacy Policy.   
+An acquirer or insolvency practitioner  | Account Information; Log Records. | We may share Personal Data when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding. All counterparties will be required to keep such information strictly confidential.   
+Law enforcement agencies and regulatory authorities | Account Information; Log Records. | We may share Personal Data as we believe necessary or appropriate:  
+• to comply with applicable laws; and/or  
+• to comply with lawful requests and legal process, including to respond to requests from public and government authorities to meet national security or law enforcement requirements.   
+  
+## **How we keep your Personal Data secure.**
+
+We have put in place appropriate security measures to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed.
+
+We limit access to your Personal Data to those employees and other staff who have a business need to have such access. All such people are subject to a contractual duty of confidentiality.
+
+We have put in place procedures to deal with any actual or suspected Personal Data breach. In the event of any such breach, we have systems in place to work with applicable regulators. In addition, in certain circumstances (e.g., where we are legally required to do so) we may notify you of this breach.
+
+## **How long we store your Personal Data.**
+
+We will only retain your Personal Data for so long as we reasonably require it to use it for the purposes set out above, unless a longer retention period is required by law (for example for regulatory purposes).
+
+The table below shows our standard retention practices:
+
+Category of Personal Data | Retention period  
+---|---  
+Account Information | We keep Account Information for a maximum of one (1) year from the date on which the organization account holder closes the applicable account or terminates its relationship with us.   
+Log Records | We keep Log Records for a maximum of two (2) years from the data on which they are collected, after which they will be deleted permanently. The duration of this retention period is required to ensure that we are able to retain this information for as long as is needed to comply with our obligations to your organization (particularly audit requests) and for internal reporting purposes.  
+  
+## **Our policy on children** **.**
+
+Our websites, products and services are not intended for use by children under the age of 16.
+
+Nativo, Inc., and Nativo London Limited.
