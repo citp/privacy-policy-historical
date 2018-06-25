@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704071930id_/http%3A//delphiforums.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625205844id_/http%3A//www.delphiforums.com/privacy.htm) for the most accurate reproduction.*
 
 # Delphi Forums Home
 
@@ -8,33 +8,26 @@ Your privacy is of the utmost importance to Delphi Forums. Because we ask for so
 
 Some basic personal information is required in order to register with Delphi Forums: 
 
-  * **Name** \- Your first and last name help us to personalize your online experience. For example, your "My Forums" list of favorite online communities may feature your first and/or last name. 
-  * **Email Address** \- By providing your email address, you can receive important messages via your existing email account. Message board notifications, personalized My Forums newsletters, and messages sent to you by other Delphi Forums members rely on the email address you provide when you register. 
-  * **User Name** \- This is how you are identified when you participate in forums. While many other aspects of your account can be updated regularly, your user name cannot be changed.
+  * **Email Address** \- By providing your email address, you can receive important messages via your existing email account. Message board notifications, personalized My Forums newsletters, and messages sent to you by other Delphi Forums members rely on the email address you provide when you register. Delphi Forums does not share your email address with other members, forum hosts, or third parties. 
+  * **User Name** \- This is how you are identified when you participate in forums. While many other aspects of your account can be updated regularly, your user name cannot be changed. Your User Name can be seen by other members.
 
 
 
-## Information Delphi Forums Requests
-
-When you register, you are asked to give demographic information (like birth year, occupation, and gender). We ask you to tell us a little about yourself so we can better understand the types of people who register. This information can also be used to provide you with content that may be of interest to you, and to show you advertisements that are relevant to your demographic information. Delphi Forums uses outside ad companies to display ads on its sites. These ads may contain cookies. While Delphi Forums uses cookies in other parts of its sites, the ad companies also use cookies with the ads displayed, and Delphi Forums may not have access to this information. 
-
-## Children's Online Privacy Protection Act
+## Children
 
 No children under 13 are allowed to participate in Delphi Forums. 
-
-## Participation
-
-The above describes information that is provided "actively" - meaning, you choose to submit this information to us when you join Delphi Forums, or update your account at any point after having joined. Some other information is provided "passively" - meaning, that Delphi Forums obtains this information when you login to your Delphi account and use the service. This is done primarily through the use of "cookies." Cookies are used on Delphi Forums to verify your login information, and to optionally store your password in your browser so that you do not need to type it in each time you visit. Any time that you point your browser to a 'members-only' area, Delphi Forums checks your browser's cookie file to see if you have already logged in, and if you have, you're taken right to the page that you have requested. If not, you'll be directed to the Delphi Forums login screen, where you can quickly and easily login to your account, or signup for Delphi Forums if you are not yet a member. Cookies are also used in conjunction with some ad banners to determine their effectiveness. 
 
 ## Cookies
 
 Delphi Forums uses cookies to customize your experience while using our services. A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so Delphi Forums can't learn about your browsing history based on any other cookies in your browser. Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly.
 
+Cookies are used on Delphi Forums to verify your login information, and to optionally store your password in your browser so that you do not need to type it in each time you visit. Any time that you point your browser to a 'members-only' area, Delphi Forums checks your browser's cookie file to see if you have already logged in, and if you have, you're taken right to the page that you have requested. If not, you'll be directed to the Delphi Forums login screen, where you can quickly and easily login to your account, or signup for Delphi Forums if you are not yet a member. 
+
 ## Advertising
 
-Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you (if you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>). Personally identifiable information such as your name, address, email address or telephone number are not shared with advertisers without your permission. We may use personally identifiable information in order to fill in forms on third-party sites we use to present advertising offers. But this information will not be shared and will not be stored by any third parties if you decline these offers.
+Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you (if you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>). Personally identifiable information such as your name or email address are not shared with advertisers. 
 
-Among the third-party advertising companies that Delphi Forums uses are Google and Advertising.com. For more information on their privacy policies, please consult the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) and the [Advertising.com Privacy Policy](http://www.advertising.com/abt_privacy.php).
+Among the third-party advertising companies that Delphi Forums uses are Google. For more information on their privacy policies, please consult the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Delphi Forums also uses technology from VigLink to augment links to certain online merchants. Please see the [VigLink disclosure statement](http://www.viglink.com/policies/ftc) for more information.
 
