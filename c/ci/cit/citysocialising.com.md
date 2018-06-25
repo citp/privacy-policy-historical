@@ -1,71 +1,144 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902221709id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625180340id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
 
 # citysocializer social club privacy policy
 
-CitySocialising Ltd. (herein referred to as “citysocializer”) values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information citysocializer collects about you and why, what we may do with that information and how we handle your Content. We uphold the highest standards with respect to protection of privacy and of personal information, and have made a notification to the UK Information Commissioner, under the no. Z1605027. Our technical teams do their utmost to ensure the safety of our sites. Internet security is a complex issue and no system can be considered 100% secure. Should a security breach occur citysocializer.com will endeavour to act as fast as possible to remedy the problem. 
+**Effective Date: May 25, 2018**
 
-## 1\. Information Collection
+Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Citysocializer’s services, you consent to the collection and use of your data as described in this Privacy Policy.
 
-1.1. We collect the following information about you and your use of our Website, mobile applications, platform and service (together, our "Platform") in order to create a better, more personalized experience for you:
+## This Privacy Policy describes:
 
-1.1.1. Compulsory information: your full name, your email address, gender, date of birth, a password selected by you, your city or town location; and
+  * the information we, Citysocialising Limited (“Citysocializer”) collect about you,
+  * how we use and share that information, and
+  * the privacy choices available to you.
 
-1.1.2. Non-compulsory information: your marital status, sexual orientation, the type of people you would like to meet, where you are from, a personal message about yourself, tags that relate to your interests.
 
-1.1.3. for purposes of this Policy, "Personally Identifiable Information" means information that could be used to identify your personally (such as your email address or IP address), which has not been previously or subsequently disclosed by you on the public areas of our website or in messages you send via the Citysocializer platform.
 
-1.2. We automatically track certain basic information about our members (such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, click patterns, etc.). We use this information to do internal research on our members' usage patterns, demographics, interests and general behavior to better understand and serve you and our community.
+This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”), or when you otherwise interact with us. From time to time, we may change the provisions of this Privacy Policy. We encourage you to review the Privacy Policy regularly to stay informed about our information practices and the ways you can help protect your privacy.
 
-1.3. We currently contract with online partners to help manage and optimize our business and communications. We use the services of a site analytics partner to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our site analytics partner on this site. A "cookie" is a piece of data stored on your computer that is tied to information about you. The type of information collected includes the URL you came from and go to, your browser information, and IP address, and helps us learn how to improve our service. No information shared with our site analytics partner is directly linked to your Personally Identifiable Information.
+## What Information Do We Collect When You Use Our Services?
 
-1.4. For our members' convenience, we also use "cookies" to allow you to enter your password less frequently during a session and to provide for an easier registration process. If you configure your browser or otherwise choose to reject the cookies, you may still use our site. However, to best experience our website and Platform and most easily use our Platform you must have cookies enabled. Our use of cookies is consistent with the rights and restrictions set forth in Section 2.
+## Information You Provide to Us
 
-1.5. We may collect information such as the number and type of socials you like organizing, creating, hosting or going to, postings you make on the public areas of our website, messages you send to us, and correspondence we receive from other members or third parties about your activities or postings on our website. Our use of this information is consistent with the rights and restrictions set forth in Section 2.
+We collect information you provide to us, such as when you create an account, update your profile, use the interactive features of our Services, participate in contests, promotions or surveys, request customer support or otherwise communicate with us. The types of information we may collect include:
 
-## 2\. Use of Information
+  * Basic user information, such as your name, gender, birth date, email address and profile and social photographs;
+  * Messages and interactive forum information, such as messages to other Citysocializer users, comments on social chats, group posts and information you provide in connection with activities and events you post to the site;
+  * Other background, contact and demographic information, such as your occupation, social event history, interests and self-descriptions you choose to provide;
+  * Information about you from other Citysocializer users, such as friend connections, reviews of socials you host, compliments sent and received by you, and other interconnections and interactions between you and other Citysocializer users.
 
-2.1. We use the information we collect about you (including your Personally Identifiable Information) to create a better, more personalized experience for you based on your individual usage habits, improve our marketing and promotional efforts, analyze site usage, improve our content and product offerings, and customize our site's content, layout and Services. These uses improve our site and allow us to better customize it to meet your needs. We also use the information we collect about you to resolve disputes, troubleshoot problems, and enforce our Terms of Service Agreement.
 
-2.2. We may compile the information we collect about you and use it, in an aggregate form only, in the negotiation and establishment of service agreements with public and/or private enterprises under which such enterprises will serve as citysocializer partners or as venues for meetings between our members ("socials").
 
-2.3. We may use for promotional, sales or any use that we consider appropriate your correspondence with us or photographs submitted for publication on our website, be it via email, postings on our website, or feedback via the member polls. Our use of such materials is consistent with the restrictions on disclosure of Personally Identifiable Information set forth in Section 3.
+## Information We Collect Automatically
 
-## 3\. Disclosure of Your Information
+When you access or use our Services, we may also automatically collect information about you, including:
 
-3.1. Opt-in requirement. WITHOUT YOUR AFFIRMATIVE CONSENT (ON A CASE-BY-CASE BASIS), WE DO NOT SELL, RENT OR OTHERWISE SHARE YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH OTHER THIRD PARTIES, UNLESS OTHERWISE REQUIRED AS DESCRIBED BELOW UNDER "REQUIRED DISCLOSURES". TO THE EXTENT WE SHARE INFORMATION WITH OUR PARTNERS AND ADVERTISERS, WE SHARE ONLY AGGREGATED OR OTHERWISE NON-PERSONALLY IDENTIFIABLE INFORMATION THAT IS NOT LINKED TO YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+  * Location Information: We may collect information about your location when you access our mobile application or website, or otherwise consent to the collection of this information.
+  * Device Information: We collect device-specific information when you access our Services, including your hardware model, operating system and version, unique device identifiers, mobile network information and information about the device’s interaction with our Services.
+  * Log Information: We collect log information about how you access or use our Services, including your access times, browser type and language, Internet Service Provider and Internet Protocol (“IP”) address.
+  * Information Collected by Cookies and other Tracking Technologies: We or our third party services we use to improve your experience may automatically collect information using cookies and other tracking technologies to, among other things count visits, understand usage of the service and campaign effectiveness and tell, for example, if an email has been opened and acted upon.
 
-Aggregated information that we may share with our marketing partners includes, but is not limited to, information showing the relative popularity of one citysocializer venue over another, or the popularity of certain citysocializer topics.
 
-3.2. You should understand that information you provide through the registration process or post to the public areas of our website, or through the use of our Platform (including your name (if provided) and location information) may be accessible by and made public through syndication programs and by search engines, metasearch tools, crawlers, metacrawlers and other similar programs.
 
-3.3. Required disclosures. Though we make every effort to preserve member privacy, we may need to disclose your Personally Identifiable Information when required by law or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on our website, (b) enforce this Policy or the Terms of Service Agreement, (c) respond to claims that your Personal Information violates the rights of third parties; or (d) protect the rights, property or personal safety of citysocializer, its members and the public. You authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+## Information We Collect from Other Sources
 
-## 4\. Communications from Citysocializer and Members of the Citysocializer Community
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your Citysocializer account through a third-party social networking site, we will have access to certain information from that site, such as your name, profile picture and other account information in accordance with the authorization procedures determined by such third-party social networking site. But other than your first name, surname, gender, and profile photo, no other information from third-party social networking sites is shared with other users.
 
-4.1. Communication from citysocializer and Members of the citysocializer Community are governed by Sections 7.1 and 7.2 of our Terms of Service. You may manage your subscriptions to all citysocializer Communications in the Notifications Settings tab of your Edit Profile page.
+## How Do We Use this Information?
 
-## 5\. Reviewing, Updating, Deleting and Deactivating Personal Information
+We use information about you for purposes described in this Privacy Policy or otherwise disclosed to you on or in connection with our Services. For example, we may use information about you to:
 
-5.1. After registration for our Platform we provide a way to update your Personally Identifiable Information. Upon your request, we will deactivate your account and remove your Personally Identifiable Information from our active databases. To make this request, email contact@citysocializer.com. Upon our receipt of your request, we will deactivate your account and remove your Personally Identifiable Information as soon as reasonably possible in accordance with our deactivation policy and applicable law. Nonetheless, we will retain in our files information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems or to enforce the Terms of Service Agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints (for example, we will not remove your information from our back up storage).
+  * Operate and improve our Services;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards and events and provide other news and information about Citysocializer and other third parties;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize the Services, which may include providing content or features that match user profiles or interests;
 
-## 6\. Notification of Changes
 
-6.1. If we decide to change this Policy, we will post those changes on http://www.citysocializer.com/privacy or post a notice of the changes to this Policy on the homepage (http://www.citysocializer.com/) and other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Policy statement under which the information was collected.
 
-6.2. If we make any material changes in our privacy practices, we will post a prominent notice on our website notifying you and our other members of the change. In some cases where we post a notice we will also email you and other members who have opted to receive communications from us, notifying them of the changes in our privacy practices. However, if you have deleted/deactivated your account, then you will not be contacted, nor will your previously collected personal information be used in this new manner.
+We retain the personal data you provide until your account is deleted. Account deactivation does not delete your personal data. In some cases we may retain certain information in anonymized or aggregated form.
 
-6.3. Any changes to this Policy (i.e., if it does not change how we treat your Personally Identifiable Information) will become effective after we provide you with at least thirty (30) days notice of the changes and provide notice of the changes as described above. You must notify us within this 30 day period if you do not agree to the changes to the Policy and wish to deactivate your account as provided under Section 5.
+## Transfers of Your Personal Information Abroad
 
-## 7\. Dispute Resolution
+Citysocializer may store and process personal information in the United Kingdom, United States and other countries, where under local laws you may have fewer legal rights. However, wherever we store your information we will treat it in accordance with this Privacy Policy. Citysocialising Limited complies with the General Data Protection Regulation Framework as set forth by the European Union Parliament regarding the collection, use, and retention of personal information of all individuals within the European Union and the export of personal data outside the EU. Citysocialising Limited have made a notification to the UK Information Commissioner, under the no. Z1605027.
 
-7.1. Any dispute, claim or controversy arising out of or relating to this Policy or previous Privacy Policy statements shall be resolved through negotiation, mediation and arbitration as provided under our Terms of Service Agreement.
+## Sharing of Information
 
-## 8\. Contact Information
+We will not share information about you with outside parties except as described below or elsewhere in this Privacy Policy:
 
-8.1. If members have any questions or suggestions regarding this Policy, please contact the Secretary of citysocializer using postal mail or email, as follows:   
-Postal Address:   
-CitySocialising Ltd., 5 Wormwood Street, London EC2M 1RQ   
-For any membership queries or general questions please visit our [support section.](https://citysocializer.zendesk.com/home)   
+  * With your consent
+  * With third party vendors, consultants and other service providers who need access to such information to carry out their work for us; This includes Recurly and Stripe the providers of our secure subscription payment processing, renewal and reporting service;
+  * With others who access or use our Services in accordance with the privacy settings you establish
+  * With search engines in order to index the content you provide as part of a group or public profile;
+  * With partners who run contests, special offers or other events or activities in connection with our Services;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
+  * If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, including to meet national security or law enforcement requirements; and
+  * To enforce our agreements, policies, and [Terms of Use](https://www.citysocializer.com/terms) to protect the security or integrity of our Services; or to protect Citysocializer, our users or the public from harm or illegal activities. 
 
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+Citysociallizer is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the GDPR, unless Citysocializer proves that it is not responsible for the event that allowed the damage to occur.
+
+## Social Media Tools
+
+Citysocializer may offer social sharing features or other integrated tools which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these social sharing features. Citysocializer may also allow you to access Google Maps. Please note that when you use Google Maps, you are subject to [Google’s privacy policy](https://policies.google.com/privacy?hl=en) , as amended by Google from time to time. 
+
+## Third Party Links
+
+Occasionally, at our discretion, we may include or offer third party products or services as part of our Services. These third parties may have separate and independent privacy policies. We therefore have no responsibility or liability for the activities of these third parties and how they collect, use or share information about you. Nonetheless, we seek to protect the integrity of our Services and welcome any feedback about these third parties.
+
+## Advertising and Analytics Services Provided by Others
+
+We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services in relation to the use of our Services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address and information about your web browser and operating system, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Citysocializer and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests on our Services and better understand your online activity. Please note that we may share aggregated, non-personal information, or personal information in a hashed, non-human readable form, with these third parties.
+
+## How Do We Protect Visitor Information?
+
+We take security of your data seriously and take reasonable measures to protect information about you from loss, theft, misuse, unauthorized access, disclosure, alteration and destruction.
+
+## Your Information Choices
+
+## Privacy Settings
+
+We will only collect and process personal data about you where we have a lawful basis. Lawful bases include, but are not limited to, where:
+
+  * you having given consent
+  * processing is necessary for the performance of a contract with you
+  * processing is necessary for the legitimate interests pursued by Citysocializer, as deemed lawful under the Global Data Protection Regulation.
+  * processing is necessary for the compliance of a legal obligation
+
+
+
+Learn more [(link to GDPR)](https://www.eugdpr.org/).
+
+You have many choices about your data.
+
+  * You can update and correct most of your personal data through your account. If this is not possible, you can ask us to update your data, particularly in cases of inaccuracy, by contacting [Customer Support](https://citysocializer.zendesk.com/hc/en-gb).
+  * You can request a portable copy of your data by clicking the “Download my data” link in your Account Settings page and following the process outlined.
+  * You can opt-out of email marketing and push notifications using the Email and Push Notification options in your Account and Notification Settings Pages.
+  * You can ask us to restrict or limit the processing of your data.
+  * You may also revoke your consent to processing and ask us to delete your data.
+
+
+
+## Account Information
+
+You may update or correct information about you at any time by logging into your account and editing your profile. You may deactivate or delete your account and personal data entirely by logging into your account and clicking on the relevant link in your Account Settings. Even after you deactivate or delete your account, we may retain certain information for legitimate business purposes or to protect member safety. If your account is deactivated, Citysocializer will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
+
+## Location Information via Mobile Device 
+
+You have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device and by following the standard uninstall process and removing Citysocializer’s application from your device. Doing so, however, may mean that you cannot use all or a portion of our Services.
+
+## Cookies
+
+Most web browsers are set to accept cookies by default. However, you can choose to set your browser to remove or reject browser cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies, or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note, however, that our Services may not function properly if your browser does not accept cookies. 
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us [here](https://citysocializer.zendesk.com/hc/en-gb) or via mail at 5 Wormwood Street, London, EC2M 1RQ, United Kingdom or email at **support@citysocializer.com.**
+
+In addition, EU members can direct privacy-related inquiries or complaints to **support@citysocializer.com.** Any dispute, claim or controversy arising out of or relating to this Policy or previous Privacy Policy statements shall be resolved through negotiation, mediation and arbitration, as provided under our Terms of Service Agreement, if you believe that the processing of your personal data infringes on the Global Data Protection Regulation. 
 
 This Privacy Policy is governed by the terms of the citysocializer Terms of Service Agreement, including but not limited to Section 17 of such Terms of Service Agreement.
