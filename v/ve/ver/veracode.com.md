@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126170136id_/https%3A//www.veracode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625084224id_/https%3A//www.veracode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Veracode
 
@@ -6,7 +6,7 @@
 
 **Effective as of September 27, 2017**
 
-Veracode takes privacy issues and your privacy very seriously.  This Privacy Policy describes the personal information Veracode, Inc. and Veracode Limited (“Veracode”, “we”, “us” and “our”) collects about you through [www.veracode.com](https://www.veracode.com/) and its related websites (the “Site(s)”), why we collect it, how we use it, and when we share it with third parties. By using and visiting our Sites, you agree to the information collection and use practices described in this Privacy Policy. This Privacy Policy does not apply to any other Veracode product, service or application, or websites that display or link to different privacy policies. If you have any questions about this Privacy Policy, please contact us as described in the section entitled, “Contact Us”, below.
+CA Veracode takes privacy issues and your privacy very seriously.  This Privacy Policy describes the personal information CA Veracode, Inc. and CA Veracode Limited (“CA Veracode”, “we”, “us” and “our”) collects about you through [www.veracode.com](https://www.veracode.com/) and its related websites (the “Site(s)”), why we collect it, how we use it, and when we share it with third parties. By using and visiting our Sites, you agree to the information collection and use practices described in this Privacy Policy. This Privacy Policy does not apply to any other CA Veracode product, service or application, or websites that display or link to different privacy policies. If you have any questions about this Privacy Policy, please contact us as described in the section entitled, “Contact Us”, below.
 
 **1\. What information we collect**
 
@@ -16,7 +16,7 @@ The following is a more detailed explanation of these types of information.
 
 **Personal Information**
 
-We may collect information that identifies you personally, such as your name, address, phone and fax numbers and e-mail address, when you submit a form, such as, but not limited to, a form that requests additional information about Veracode solutions. We may collect additional information if you choose to submit it, including, but not limited to: job title, employer, business telephone number, and mailing address. We will only collect and use this information to the extent it is necessary to respond to your inquiry, form/amend or perform a contractual relationship with you, and to send you communications related to our solutions, products, services, promotions, company, and other products or services as further described in the section entitled, “How we use information we collect”, below. 
+We may collect information that identifies you personally, such as your name, address, phone and fax numbers and e-mail address, when you submit a form, such as, but not limited to, a form that requests additional information about CA Veracode solutions. We may collect additional information if you choose to submit it, including, but not limited to: job title, employer, business telephone number, and mailing address. We will only collect and use this information to the extent it is necessary to respond to your inquiry, form/amend or perform a contractual relationship with you, and to send you communications related to our solutions, products, services, promotions, company, and other products or services as further described in the section entitled, “How we use information we collect”, below. 
 
 If you choose to submit your resume to us through our Sites or via a third party website, we will collect the information provided in order to contact you about potential employment opportunities.
 
@@ -92,7 +92,7 @@ Expires after 24 months
 
 | 
 
-For Google Analytics across Veracode Sites. To opt out of being tracked by Google Analytics across all websites, visit <http://tools.google.com/dlpage/gaoptout>. You may also opt out of Google's use of cookies by visiting <http://www.google.com/privacy/ads/>.  
+For Google Analytics across CA Veracode Sites. To opt out of being tracked by Google Analytics across all websites, visit <http://tools.google.com/dlpage/gaoptout>. You may also opt out of Google's use of cookies by visiting <http://www.google.com/privacy/ads/>.  
   
 _mkto_trk
 
@@ -106,7 +106,7 @@ Expires after 24 months
 
 | 
 
-Allow us to collect information about how you use the Veracode Sites after receiving an email from us, including data such as how you arrived at the site, how often you have visited, and which pages you viewed. To opt out, you can disable cookies or unsubscribe from Veracode emails using the link on the bottom of the email.
+Allow us to collect information about how you use the CA Veracode Sites after receiving an email from us, including data such as how you arrived at the site, how often you have visited, and which pages you viewed. To opt out, you can disable cookies or unsubscribe from CA Veracode emails using the link on the bottom of the email.
 
 <http://www.marketo.com/trust/legal/privacy/>  
   
@@ -122,7 +122,7 @@ Session cookie
 
 | 
 
-Set by the Veracode Sites Content Management System (Drupal) upon arrival to the Veracode website.
+Set by the CA Veracode Sites Content Management System (Drupal) upon arrival to the CA Veracode website.
 
 <https://www.drupal.org/privacy>  
   
@@ -138,11 +138,11 @@ Expires after 24 months
 
 | 
 
-Set by Demandbase, which uses the cookies to gather information in identifying companies/businesses visiting Veracode Sites.
+Set by Demandbase, which uses the cookies to gather information in identifying companies/businesses visiting CA Veracode Sites.
 
 <http://www.demandbase.com/company/privacy-policy/>  
   
-Some Veracode pages use cookies that permit select third party partners, including Google, to provide you Veracode related content, including Veracode advertisements, on their sites or elsewhere on the Internet. This is based on your prior visits to the Sites.
+Some CA Veracode pages use cookies that permit select third party partners, including Google, to provide you CA Veracode related content, including CA Veracode advertisements, on their sites or elsewhere on the Internet. This is based on your prior visits to the Sites.
 
 Additionally, third parties may use cookies to allow you to link to social networking sites like Facebook, Twitter and LinkedIn. As noted below, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can control whether or not these cookies are used, but preventing them may stop us from offering you some services. Alternatively you may use the third parties' own tools to prevent these cookies.
 
@@ -162,15 +162,15 @@ If you want to clear all cookies left behind by the websites you have visited, h
 
 **2\. How we use information we collect**
 
-We collect personal information about you through the Sites to communicate with you, to the extent permitted by applicable law, about our solutions, products, services, promotions, company, and other products or services we think may be of interest to you. In the absence of your express prior consent, we will only send you marketing emails to advertise for our own products or services that are similar to those you purchased from us. You can object (opt-out) to the receipt of such marketing emails at any time, without any costs arising (other than transmission costs), by following the unsubscribe link found at the bottom of each marketing email or by contacting us as described in the section entitled, “Contact Us”, below. In addition, if you submit your resume, we will contact you about potential employment opportunities. We may share your personal information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service as described in the section entitled “How we share information with third parties” below. We use technical information which does not identify individual users, to improve user experience and overall quality of our Sites, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. For example, each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by Site management software. Veracode uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes. Because technical information does not personally identify you, we may also use and disclose technical information for any other purpose. To the extent permitted by applicable law, we may combine personal information with technical information. If we do so, we will treat all combined information as personal information as long as it is combined. The personal information we collect is deleted once it is no longer used for the purposes stated above and if no statutory retention obligations apply (in which case the data will be deleted after the applicable retention period expires).
+We collect personal information about you through the Sites to communicate with you, to the extent permitted by applicable law, about our solutions, products, services, promotions, company, and other products or services we think may be of interest to you. In the absence of your express prior consent, we will only send you marketing emails to advertise for our own products or services that are similar to those you purchased from us. You can object (opt-out) to the receipt of such marketing emails at any time, without any costs arising (other than transmission costs), by following the unsubscribe link found at the bottom of each marketing email or by contacting us as described in the section entitled, “Contact Us”, below. In addition, if you submit your resume, we will contact you about potential employment opportunities. We may share your personal information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service as described in the section entitled “How we share information with third parties” below. We use technical information which does not identify individual users, to improve user experience and overall quality of our Sites, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. For example, each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by Site management software. CA Veracode uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes. Because technical information does not personally identify you, we may also use and disclose technical information for any other purpose. To the extent permitted by applicable law, we may combine personal information with technical information. If we do so, we will treat all combined information as personal information as long as it is combined. The personal information we collect is deleted once it is no longer used for the purposes stated above and if no statutory retention obligations apply (in which case the data will be deleted after the applicable retention period expires).
 
 **3\. How we share information with third parties**
 
-We will share your personal information only in the ways and with third parties that are described in this policy.  We do not sell your personal information to third parties and we will not provide any of your personal information to third parties for their marketing purposes without your explicit consent. The personal and technical information you provide to the Site may be shared, to the extent permitted by applicable law and to the extent necessary, with our third party agents and service providers who help Veracode operate the Sites; help Veracode provide the services requested by you; contribute to Veracode’s own sales and marketing efforts; and help Veracode with its recruitment and staffing efforts.
+We will share your personal information only in the ways and with third parties that are described in this policy.  We do not sell your personal information to third parties and we will not provide any of your personal information to third parties for their marketing purposes without your explicit consent. The personal and technical information you provide to the Site may be shared, to the extent permitted by applicable law and to the extent necessary, with our third party agents and service providers who help CA Veracode operate the Sites; help CA Veracode provide the services requested by you; contribute to CA Veracode’s own sales and marketing efforts; and help CA Veracode with its recruitment and staffing efforts.
 
 We may transfer and disclose information, including personal information, in response to lawful requests by public and governmental authorities and law enforcement agencies, including to meet national security or law enforcement requirements. In addition, we may disclose personal information to customers, vendors, service providers, public and governmental authorities and law enforcement agencies where required in order to comply with a legal obligation; when the law requires it, at the request of governmental authorities conducting an investigation; when we believe in good faith that disclosure is necessary to protect our rights; to investigate fraud; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of users of the Sites or others, in all cases only if and to the extent such transfer and disclosure is permitted by applicable law. 
 
-In addition, in the event Veracode goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. By providing your personal information, you agree that we may transfer such information to the acquiring entity without your further consent. You will be notified via email and/or a notice posted on our Sites of any such change in ownership or control of your personal information.
+In addition, in the event CA Veracode goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. By providing your personal information, you agree that we may transfer such information to the acquiring entity without your further consent. You will be notified via email and/or a notice posted on our Sites of any such change in ownership or control of your personal information.
 
 **4\. Security**
 
@@ -178,11 +178,11 @@ The security of your personal information is important to us. Please be assured 
 
 **5\. Links to other websites**
 
-The Sites may contain links to third party websites such as the websites of Veracode partner companies. Veracode takes no responsibility for the content, operation or privacy practices of such websites. This Privacy Policy does not apply to third party websites, and you should check the policies of any linked website before offering information to the sponsor of the website. Veracode provides these links to you only as a convenience, and the inclusion of any link to such websites does not imply endorsement by Veracode of those sites.
+The Sites may contain links to third party websites such as the websites of CA Veracode partner companies. CA Veracode takes no responsibility for the content, operation or privacy practices of such websites. This Privacy Policy does not apply to third party websites, and you should check the policies of any linked website before offering information to the sponsor of the website. CA Veracode provides these links to you only as a convenience, and the inclusion of any link to such websites does not imply endorsement by CA Veracode of those sites.
 
-**6.  Veracode Blogs and other Forums**
+**6.  CA Veracode Blogs and other Forums**
 
-If you use a blog or similar forum, or other chat or similar tool that we may make available on the Sites, you should be aware that any personal information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. Veracode is not responsible for the personal information you choose to submit in these forums. You are also responsible for using these forums in a responsible and professional manner consistent with any applicable terms of use or other terms and conditions that may be set forth on the relevant forum site.
+If you use a blog or similar forum, or other chat or similar tool that we may make available on the Sites, you should be aware that any personal information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. CA Veracode is not responsible for the personal information you choose to submit in these forums. You are also responsible for using these forums in a responsible and professional manner consistent with any applicable terms of use or other terms and conditions that may be set forth on the relevant forum site.
 
 **7\. Where we hold data**
 
@@ -200,14 +200,14 @@ Other than as set out in this policy, we will provide you with notice and give y
 
 **10.   Privacy Shield**
 
-Veracode complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Veracode has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+CA Veracode complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  CA Veracode has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  CA Veracode is accountable for personal data that it receives under the Privacy Shield Framework and transfers to a third party as set forth in the Privacy Shield Principles. CA Veracode remains liable under the Privacy Shield Principles if third-parties engaged to process personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless CA Veracode proves that it is not responsible for the event(s) giving rise to the damage.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
-In compliance with the Privacy Shield Principles, Veracode commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Veracode at: [cmellin@veracode.com](mailto:cmellin@veracode.com)
+In compliance with the Privacy Shield Principles, CA Veracode commits to resolve complaints about our collection or use of your personal information.  Note that compliance by CA Veracode with the Privacy Shield Principles will be administered and monitored by the Department of Commerce and will be enforced by the Federal Trade Commission (FTC). EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact CA Veracode at: [cmellin@veracode.com](mailto:mailto:cmellin@veracode.com)
 
-Veracode has further committed to refer unresolved Privacy Shield complaints to American Arbitration Association an alternative dispute resolution provider located in the New York, NY. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit [www.adr.org](http://www.adr.org/) for more information or to file a complaint.  The services of American Arbitration Association are provided at no cost to you.
+CA Veracode has further committed to refer unresolved Privacy Shield complaints to American Arbitration Association an alternative dispute resolution provider located in the New York, NY. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit <http://go.adr.org/privacyshield.html> for more information or to file a complaint.  The services of American Arbitration Association are provided at no cost to you.  If neither CA Veracode nor the American Arbitration Association resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
 
 **11\. Contact Us**
 
 If you have questions or comments about our use of your information or about this Privacy Policy, please contact us by email at [privacy@veracode.com](mailto:privacy@veracode.com).
 
-**_Copyright Notice_** _. Copyright © 2006-2017 Veracode, Inc. All rights reserved._
+**_Copyright Notice_** _. Copyright © 2006-2017 CA Veracode, Inc. All rights reserved._
