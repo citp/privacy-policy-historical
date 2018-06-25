@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashiondivadesign.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202185732id_/http%3A//www.fashiondivadesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiondivadesign.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625204125id_/http%3A//www.fashiondivadesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Diva Design
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](mailto:contact@fashiondivadesign.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](https://web.archive.org/cdn-cgi/l/email-protection#92f1fdfce6f3f1e6d2f4f3e1fafbfdfcf6fbe4f3f6f7e1fbf5fcbcf1fdff).
 
 At www.fashiondivadesign.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.fashiondivadesign.com and how we use it.
 
