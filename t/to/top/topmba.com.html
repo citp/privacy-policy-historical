@@ -1,65 +1,64 @@
-<!--The following is the downloaded HTML source of the topmba.com privacy policy that was archived on 2017-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170815225809id_/https%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topmba.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625044123id_/https%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:schema="http://schema.org/"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script src="//www.googletagmanager.com/gtm.js?id=GTM-WCXV5F" type="text/javascript" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8PUlVbGwAHU1lUDgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8PUlVbGwAHU1lUDgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="https://www.topmba.com/sites/default/files/logo.png" type="image/png">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="https://www.topmba.com/privacy-policy">
 <link rel="shortlink" href="https://www.topmba.com/node/7">
-<link rel="author" href="http://plus.google.com/">
 <meta property="og:site_name" content="TopMBA.com">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.topmba.com/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:updated_time" content="2015-03-26T11:40:23+00:00">
+<meta property="og:updated_time" content="2018-05-25T11:50:45+01:00">
 <meta name="twitter:title" content="Privacy Policy">
 <meta property="article:published_time" content="2014-06-15T17:08:00+01:00">
-<meta property="article:modified_time" content="2015-03-26T11:40:23+00:00">
+<meta property="article:modified_time" content="2018-05-25T11:50:45+01:00">
 <meta itemprop="name" content="Privacy Policy">
+<link rel="author" href="http://plus.google.com/">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <link rel="apple-touch-icon" href="/sites/all/themes/topmba/assets/images/apple-touch.png">  <title>Privacy Policy | TopMBA.com</title>
-  <link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_CZzJA85-TrSmF883kN5VumPUA78bFX4IR-ETsmRI3-E.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_z405mu5Fo8HGkcwHzD-lhUVmNPQRkliUYhpJ7mgmsbg.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_-BWEQDWaX0butWJG0PawMr48k66TJSI6pDXrwRS6z2E.css" media="all">
-<style type="text/css" media="all">
-<!--/*--><![CDATA[/*><!--*/
-#sliding-popup.sliding-popup-bottom{background:#FFEFD8;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#4A4A4A !important;}
-
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_1OCiTFCWAcRcj3h2gDge4RHJ6Ny3GAGlNj21FvaBatM.css" media="all">
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_rR1DpSLi1KgiMxbFifnJmAQqhMimqFWSANWtO7m3wlY.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_oie-Y_Mplxb9QOD-TsHQLFURH6wpAgaGBmAX4LHzB1g.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_u_QYCFeLDClne8J_2lDCaOYrAY8gz34OaL8gqTpucgw.css" media="all">
 
 <!--[if lt IE 10]>
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
 <![endif]-->
 <link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_xjmFbkbRJtFqats7BGkHtJTCedWR3Z8BbWGM0hSC9Nk.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_10T6W25k2SIezz2D9elE-Z4q9XbnB1DyDXjFw4uKrEs.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_xjmFbkbRJtFqats7BGkHtJTCedWR3Z8BbWGM0hSC9Nk.css" media="all">
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#sliding-popup.sliding-popup-bottom{background:#ffefd8}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p{color:#4a4a4a !important}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_Q-iolWm-O92C77w0MjhuzOSFIDtCgwQzWeR7rL3W-lw.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
 
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
 <![endif]-->
 
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
 <![endif]-->
 
 <!--[if lt IE 10]>
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_xtIgRZP2Gb44My8W_9VvE2wpCSlU9zKYB0x0WjwaUzg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_xtIgRZP2Gb44My8W_9VvE2wpCSlU9zKYB0x0WjwaUzg.css" media="all" />
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="https://www.topmba.com/sites/default/files/css/css_Ov3fAax8hBDSzmWwslbxwWzDROeHdZL21jQTNpc6sP8.css" media="all">
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css/css_Ov3fAax8hBDSzmWwslbxwWzDROeHdZL21jQTNpc6sP8.css" media="all">
+  <script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_2IkvexqsiTG9ZHCoHyRxpImxUGFy5PIBEaAg6yZAlYQ.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var $sj = jQuery.noConflict();
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_Rkjoczh56pD07i5vZMb-M06eqRaz_Fp7y7tkGjhKMGM.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var googletag = googletag || {};
@@ -68,32 +67,34 @@ googletag.slots = googletag.slots || {};
 //--><!]]>
 </script>
 <script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_l9r85MB3xIegyxanZsdSvQyBjMpa5Aj9Qe7-kWc6i20.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_eW4RZcsxd_lrLsb2iZhjOr0UheH7OMQT7vB3UYj1wIc.js"></script>
 <script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_87EX2gyaVhSKm7aG0GvWRnM-PSt5Ky-BM-JZRv-4x-Q.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_L9KTYpgxNU-a9x5bXm3z9yQT_AeZ3HsUlf_UaB7bqyI.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 document.createElement( "picture" );
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_VOrs69yxiN0GJxQfvFfKJCNjpEL35TmhPD5nAxWkwuc.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_sJCpzq20pY_YVthoJbEm31iyPPjMKXF1qp6doaJ1STg.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 googletag.cmd.push(function() {
   googletag.pubads().enableAsyncRendering();
+  googletag.pubads().collapseEmptyDivs();
 });
 
 googletag.enableServices();
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_zu2gDGuEYNwQTFBi-rNsR16KpA-0YxNvLrYbXN7ypMQ.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_gBr0uo0zMgQamUNZ5UphmH-8esgYE2C9NQQ64RmQkQg.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37720021-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "dimension1", "anonymous user");ga("send", "pageview");
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-37720021-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "dimension1", "anonymous user");ga("send", "pageview");
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_Ik9fwm3dCVn59LE5_YTC9gjxhBeJ05Qc5PuR5Bcm1hA.js"></script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_XQtwut9UB8J8wmqhUOA0qUnwKtyH5wOwY-SiJNQ3y3M.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_894MKCVwd4rpZvSyiM-Abk29WNdxqqs5EyjWmw_YXhM.js"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_NbDLQS4UDa1QYZStvtthpMAVRAXZzCS-WP5dxmq8m3I.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery(function () {
@@ -109,7 +110,25 @@ jQuery(function () {
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"topmba","theme_token":"TZtUodmSaSzsGbhAjQLKyUqkB8yb9MGdo7P0f8HZ4bE","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery\/1.12.4\/jquery.min.js":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-migrate\/1.4.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"1":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.3.6\/js\/bootstrap.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"2":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/all\/modules\/custom\/qs_custom_search\/qs_custom_search.js":1,"sites\/all\/modules\/custom\/qs_event_registration\/qs_event_registration.js":1,"sites\/all\/modules\/custom\/qs_users\/qs_users.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"3":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1,"sites\/all\/libraries\/neat_scrollbar\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/libraries\/mousewheel\/jquery.mousewheel.min.js":1,"sites\/all\/modules\/contrib\/neat_scrollbar\/js\/neat_scrollbar_default.js":1,"sites\/all\/modules\/custom\/share_selection\/js\/share-selection.js":1,"sites\/all\/modules\/custom\/share_selection\/js\/ss-twitter.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/jquery.maskedinput.js":1,"sites\/all\/themes\/radix\/assets\/js\/radix.script.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/script.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/jcf.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/bootstrap-submenu.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery-dateFormat.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/hogan.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.jq.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.jq-nc.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/js.cookie.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/ekko-lightbox.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/instantsearch.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.blockUI.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.dotdotdot.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.shuffle.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/parsley.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/routie.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/algoliasearch.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/iframeResizer.contentWindow.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/iframeResizer.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/mmenu\/jquery.mmenu.all.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/shared.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/parsleyConfig.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/recommended-programs.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/algolia.instant.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/algolia.js":1,"5":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/comment\/comment.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/custom\/qs_custom_search\/qs_custom_search.css":1,"sites\/all\/modules\/custom\/qs_form_alter\/qs_form_alter.css":1,"sites\/all\/modules\/custom\/qs_instant_registration\/css\/qs_instant_registration.css":1,"sites\/all\/modules\/custom\/qs_layouts\/qs_layouts.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/facebook_pull\/facebook_pull.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/tagadelic\/tagadelic.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"sites\/all\/libraries\/neat_scrollbar\/jquery.mCustomScrollbar.css":1,"sites\/all\/modules\/custom\/share_selection\/css\/share-selection.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"public:\/\/ctools\/css\/460897606d318652cea864a4180864e0.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jcf.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jcarousel-default.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/rankings.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/form-controls.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jasny-bootstrap.min.css":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/mmenu\/jquery.mmenu.all.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/print.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie7.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie8.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_6.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThis site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Review our \u003Ca href=\u0022\/cookies-policy\u0022 target=\u0022_blank\u0022\u003Ecookies information\u003C\/a\u003E for more details.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","domain":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"menuMinipanels":{"panels":{"panel_0":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":0},"panel_4014":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"430","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4014"},"panel_4000":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"430","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4000"},"panel_3756":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"215","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"3756"},"panel_4001":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"430","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4001"},"panel_4013":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"430","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4013"},"panel_4035":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4035"},"panel_4002":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4002"},"panel_4012":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4012"},"panel_4018":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"430","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"4018"},"panel_3759":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomRight","tooltip":"topRight"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"215","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"3759"},"panel_8071":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"8071"},"panel_8026":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"8026"},"panel_8031":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"8031"},"panel_12006":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"12006"},"panel_12011":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"430"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"12011"}}},"neatScrollbarSet":{"theme":"dark","buttons":1,"round_dragger":0,"inertia":"0","autohide":0,"dragger_status":1,"mousewheel_status":1,"touch_status":1,"default_stylesheet":0,"nodes":0,"blocks":0,"vertical_css":"","horizontal_css":"","browser_resize":1,"content_resize":0,"autoscroll":0},"urlIsAjaxTrusted":{"\/search\/node":true}});
+var replaceDarkLeadImg = function () {
+  var $dark_lead_img = jQuery('.dark-lead .field-tour-logo').find('img');
+  if($dark_lead_img.length < 1)
+    return;
+  var dark_lead_img_src = $dark_lead_img.attr('src');
+  if(dark_lead_img_src.match(/_alt\.([^\.]+)$/g))
+    return;
+  var corrected_dark_lead_img_src = dark_lead_img_src.replace(/\.([^\.]+)$/g, '_alt.$1');
+  $dark_lead_img.attr('src', corrected_dark_lead_img_src);
+};
+jQuery(function () {
+  replaceDarkLeadImg();
+});
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"topmba","theme_token":"6WfXV18-aEKWTtSOC3DEqBFPubJhUkCh6E7fwk8Q5bw","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery\/1.12.4\/jquery.min.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-migrate\/1.4.1\/jquery-migrate.min.js":1,"1":1,"misc\/jquery.once.js":1,"2":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.3.6\/js\/bootstrap.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"3":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/all\/modules\/custom\/qs_custom_search\/qs_custom_search.js":1,"sites\/all\/modules\/custom\/qs_event_registration\/qs_event_registration.js":1,"sites\/all\/modules\/custom\/qs_users\/qs_users.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"4":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"5":1,"sites\/all\/libraries\/neat_scrollbar\/jquery.mCustomScrollbar.min.js":1,"sites\/all\/libraries\/mousewheel\/jquery.mousewheel.min.js":1,"sites\/all\/modules\/contrib\/neat_scrollbar\/js\/neat_scrollbar_default.js":1,"sites\/all\/modules\/custom\/share_selection\/js\/share-selection.js":1,"sites\/all\/modules\/custom\/share_selection\/js\/ss-twitter.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/jquery.maskedinput.js":1,"https:\/\/www.youtube.com\/iframe_api":1,"sites\/all\/themes\/radix\/assets\/js\/radix.script.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/script.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/mobile.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/jcf.js":1,"sites\/all\/themes\/topmba\/assets\/javascripts\/owl.carousel.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/bootstrap-submenu.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery-dateFormat.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/hogan.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.jq.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/autocomplete.jq-nc.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/js.cookie.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/ekko-lightbox.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/instantsearch.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.blockUI.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.dotdotdot.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/jquery.shuffle.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/parsley.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/routie.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/algoliasearch.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/iframeResizer.contentWindow.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/iframeResizer.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/mmenu\/jquery.mmenu.all.min.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/shared.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/parsleyConfig.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/recommended-programs.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/algolia.instant.js":1,"sites\/all\/themes\/topmba\/d8assets\/js\/algolia.js":1,"6":1,"7":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/comment\/comment.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/custom\/qs_custom_search\/qs_custom_search.css":1,"sites\/all\/modules\/custom\/qs_form_alter\/qs_form_alter.css":1,"sites\/all\/modules\/custom\/qs_instant_registration\/css\/qs_instant_registration.css":1,"sites\/all\/modules\/custom\/qs_layouts\/qs_layouts.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/facebook_pull\/facebook_pull.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/neat_scrollbar\/jquery.mCustomScrollbar.css":1,"sites\/all\/modules\/custom\/share_selection\/css\/share-selection.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"public:\/\/ctools\/css\/460897606d318652cea864a4180864e0.css":1,"0":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jcf.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jcarousel-default.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/rankings.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/form-controls.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/jasny-bootstrap.min.css":1,"sites\/all\/themes\/topmba\/d8assets\/js\/libs\/mmenu\/jquery.mmenu.all.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/print.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie7.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie8.css":1,"sites\/all\/themes\/topmba\/assets\/stylesheets\/ie.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_3.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_6.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"uid":0,"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThis site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Review our \u003Ca href=\u0022\/cookies-policy\u0022 target=\u0022_blank\u0022\u003Ecookies information\u003C\/a\u003E for more details.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":100,"disagree_do_not_show_popup":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"currentPath":"node\/7","currentPathIsAdmin":false,"neatScrollbarSet":{"theme":"dark","buttons":1,"round_dragger":0,"inertia":"0","autohide":0,"dragger_status":1,"mousewheel_status":1,"touch_status":1,"default_stylesheet":0,"nodes":0,"blocks":0,"vertical_css":"","horizontal_css":"","browser_resize":1,"content_resize":0,"autoscroll":0},"urlIsAjaxTrusted":{"\/search\/node":true}});
 //--><!]]>
 </script>
   <!--[if lt IE 9]>
@@ -125,24 +144,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
    <meta property="twitter:account_id" content="4503599628232736">
    <meta property="fb:app_id" content="488990738105192">
    <meta name="p:domain_verify" content="f862c9afad8a1c49624e47769e8b2575">
+   <meta name="referrer" content="unsafe-url">
    <script type="application/ld+json">
     {  "@context" : "http://schema.org",
        "@type" : "WebSite",
        "name" : "TopMBA",
        "alternateName" : "TopMBA",
-       "url" : "http://www.TopMBA.com"
+       "url" : "https://www.topmba.com/app"
     }
    </script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-panopoly-page node-promoted region-content panel-layout-qs_single_column panel-region-contentmain tm-d7-body navbar-is-fixed-top">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCXV5F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WCXV5F');</script>
-<!-- End Google Tag Manager -->
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-    <header class="navbar navbar-inverse navbar-fixed-top" id="navbar" role="banner">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCXV5F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <header class="navbar navbar-inverse navbar-fixed-top" id="navbar" role="banner">
   <div class="navbar-header">  <div class="region region-navigation">
     <div class="container-fluid container-fluid-max hide">
   <div class="row">
@@ -187,13 +203,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <div class="col-md-2">
         <div class="clearfix">
                       <a class="logo navbar-btn pull-left" href="/app/" title="Home" rel="home">
-              <img src="/app/themes/topmba/logo.svg" alt="Home" style="height: 32px; width: auto!important;">
+              <img src="/app/themes/custom/topmba/logo.svg" alt="Home" style="height: 32px; width: auto!important;">
             </a>
                                 <a class="name navbar-brand" href="/app/" title="Home" rel="home" style="display:none;">TopMBA</a>
                             </div>
       </div>
       <div class="row-fluid tmba-responsive-menu">
-        <div class="col-md-7 col-xs-3">
+        <div class="col-md-6 col-xs-3">
           <div class="tm-hamburger-wrap">
             <a href="#" class="tm-hamburger text-uppercase">Menu</a>
           </div>
@@ -204,15 +220,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                           
               <ul class="menu nav navbar-nav">
                       <li>
-        <a href="/app/news-research" target="" id="tm-news-research-menu-item">News</a>
+        <a href="/app/news-research">News</a>
             
             </li>
                           <li class="expanded dropdown tm-menu-item-rankings">
-                <a href="/mba-rankings/home" class="dropdown-toggle disabled" data-target="#" data-submenu="">Rankings <span class="tm-caret-down text-warning-light"></span></a>
+                <a href="/mba-rankings/home" class="dropdown-toggle disabled" data-submenu="">Rankings <span class="tm-caret-down text-warning-light"></span></a>
             
                             <ul class="menu dropdown-menu">
                       <li>
-        <a href="/mba-rankings/home" target="" id="">Rankings Overview</a>
+        <a href="/mba-rankings/home">Rankings Overview</a>
             <div class="tm-menu-popover">
   <a href="/mba-rankings/home"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/rankings-overview_1_0.jpg" alt="MBA Rankings Overview" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -226,105 +242,35 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/mba-rankings/region" target="" id="">QS Global 250 Full-Time MBA Rankings by Region</a>
+        <a href="/mba-rankings/2018">QS Global MBA Rankings 2018</a>
             <div class="tm-menu-popover">
-  <a href="/mba-rankings/region"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/ranking-global-fulltime-mba_0_0.png" alt="QS Global 250 Full-Time MBA Rankings by Region" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <a href="/mba-rankings/2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/TU_FTMBA-Rankings-2018_0.png" alt="MBA Rankings Overview" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region" class="text-primary-dark">QS Global 250 Full-Time MBA Rankings by Region</a></h4>
-    <p>Identify the world’s top-ranked business schools by geographic location.</p>
+    <h4><a href="/mba-rankings/2018" class="text-primary-dark">MBA Rankings Overview</a></h4>
+    <p>Find the right MBA program for you with QS’s business school rankings.</p>
 
     <hr class="hr-primary">
-    <a href="/mba-rankings/region" class="tm-callto-action"><span><i class="tm-caret-right"></i>View all regional rankings now</span></a>
+    <a href="/mba-rankings/2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View full list of rankings</span></a>
   </div>
 </div>
 
             </li>
                   <li>
-        <a href="/mba-rankings/region/us-canada/2017" target="" id="">- US &amp; Canada</a>
+        <a href="/business-masters-rankings/2018">QS Business Masters Rankings 2018</a>
             <div class="tm-menu-popover">
-  <a href="/mba-rankings/region/us-canada/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/USA_0_0.jpg" alt="QS Magic MBA Quadrants: US &amp; Canada" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <a href="/business-masters-rankings/2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/TU_FTMBA-Masters-Rankings-2018_0.png" alt="Business Masters Rankings Overview" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region/us-canada/2017" class="text-primary-dark">QS Magic MBA Quadrants: US &amp; Canada</a></h4>
-    <p><font color="#333333">Identify top schools based on academic and employer reputation.</font></p>
+    <h4><a href="/business-masters-rankings/2018" class="text-primary-dark">Business Masters Rankings Overview</a></h4>
+    <p>Find the right Business Masters program for you with QS’s business school rankings.</p>
 
     <hr class="hr-primary">
-    <a href="/mba-rankings/region/us-canada/2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>View list of institutes</span></a>
+    <a href="/business-masters-rankings/2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View full list of rankings</span></a>
   </div>
 </div>
 
             </li>
                   <li>
-        <a href="/mba-rankings/region/europe/2017" target="" id="">- Europe</a>
-            <div class="tm-menu-popover">
-  <a href="/mba-rankings/region/europe/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/Europe_0.jpg" alt="QS Magic MBA Quadrants: Europe" class="img-responsive img-primary img-branded img-shadowed"></a>
-  <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region/europe/2017" class="text-primary-dark">QS Magic MBA Quadrants: Europe</a></h4>
-    <p><font color="#333333">Identify top schools based on academic and employer reputation.</font></p>
-
-    <hr class="hr-primary">
-    <a href="/mba-rankings/region/europe/2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>View list of institutes</span></a>
-  </div>
-</div>
-
-            </li>
-                  <li>
-        <a href="/mba-rankings/region/asia/2017" target="" id="">- Asia-Pacific</a>
-            <div class="tm-menu-popover">
-  <a href="/mba-rankings/region/asia/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/asia_0_0.jpg" alt="QS Magic MBA Quadrants: Asia-Pacific" class="img-responsive img-primary img-branded img-shadowed"></a>
-  <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region/asia/2017" class="text-primary-dark">QS Magic MBA Quadrants: Asia-Pacific</a></h4>
-    <p><font color="#333333">Identify top schools based on academic and employer reputation.</font></p>
-
-    <hr class="hr-primary">
-    <a href="/mba-rankings/region/asia/2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>View list of institutes</span></a>
-  </div>
-</div>
-
-            </li>
-                  <li>
-        <a href="/mba-rankings/region/latin-america/2017" target="" id="">- Latin America</a>
-            <div class="tm-menu-popover">
-  <a href="/mba-rankings/region/latin-america/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/latin-america.jpg" alt="QS Magic MBA Quadrants: Latin America" class="img-responsive img-primary img-branded img-shadowed"></a>
-  <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region/latin-america/2017" class="text-primary-dark">QS Magic MBA Quadrants: Latin America</a></h4>
-    <p><font color="#333333">Identify top schools based on academic and employer reputation.</font></p>
-
-    <hr class="hr-primary">
-    <a href="/mba-rankings/region/latin-america/2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>View list of institutes</span></a>
-  </div>
-</div>
-
-            </li>
-                  <li>
-        <a href="/mba-rankings/region/middle-east-africa/2017" target="" id="">- Middle East &amp; Africa</a>
-            <div class="tm-menu-popover">
-  <a href="/mba-rankings/region/middle-east-africa/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/middle-east.jpg" alt="QS Magic MBA Quadrants: Middle East &amp; Africa" class="img-responsive img-primary img-branded img-shadowed"></a>
-  <div class="tm-wrapper text-primary">
-    <h4><a href="/mba-rankings/region/middle-east-africa/2017" class="text-primary-dark">QS Magic MBA Quadrants: Middle East &amp; Africa</a></h4>
-    <p><font color="#333333">Identify top schools based on academic and employer reputation.</font></p>
-
-    <hr class="hr-primary">
-    <a href="/mba-rankings/region/middle-east-africa/2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>View list of institutes</span></a>
-  </div>
-</div>
-
-            </li>
-                  <li>
-        <a href="/why-mba/publications/global-250-business-schools-report-2017" target="" id="">QS Global 250 Business Schools Report</a>
-            <div class="tm-menu-popover">
-  <a href="/why-mba/publications/global-250-business-schools-report-2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/g250-report-1.jpg" alt="QS Global 250 Business Schools Report" class="img-responsive img-primary img-branded img-shadowed"></a>
-  <div class="tm-wrapper text-primary">
-    <h4><a href="/why-mba/publications/global-250-business-schools-report-2017" class="text-primary-dark">QS Global 250 Business Schools Report</a></h4>
-    <p>QS’s latest guide to the world’s top business schools for full-time MBA programs.</p>
-
-    <hr class="hr-primary">
-    <a href="/why-mba/publications/global-250-business-schools-report-2017" class="tm-callto-action"><span><i class="tm-caret-right"></i>Download the full report</span></a>
-  </div>
-</div>
-
-            </li>
-                  <li>
-        <a href="/mba-rankings/specialization" target="" id="">QS MBA Rankings by Specialization</a>
+        <a href="/mba-rankings/specialization">QS MBA Rankings by Specialization</a>
             <div class="tm-menu-popover">
   <a href="/mba-rankings/specialization"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/mba-rankings-by-specialization.jpg" alt="QS MBA Rankings in 10 Specializations" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -338,7 +284,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/mba-rankings/online-mba-rankings/2017" target="" id="">QS Distance Online MBA Rankings</a>
+        <a href="/mba-rankings/online-mba-rankings/2017">QS Distance Online MBA Rankings</a>
             <div class="tm-menu-popover">
   <a href="/mba-rankings/online-mba-rankings/2017"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/distance-online-mba-rankings_1.jpg" alt="QS Distance Online MBA Rankings" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -352,11 +298,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/emba-rankings" target="" id="">QS Global EMBA Rankings</a>
+        <a href="/emba-rankings">QS EMBA Rankings</a>
             <div class="tm-menu-popover">
-  <a href="/emba-rankings"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/emba-lead-image.jpg" alt="QS Global EMBA Rankings" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <a href="/emba-rankings"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/EMBA-Navigation.jpg" alt="QS EMBA Rankings" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
-    <h4><a href="/emba-rankings" class="text-primary-dark">QS Global EMBA Rankings</a></h4>
+    <h4><a href="/emba-rankings" class="text-primary-dark">QS EMBA Rankings</a></h4>
     <p>Find the right executive MBA program for you with QS’s regional and joint EMBA rankings.</p>
 
     <hr class="hr-primary">
@@ -365,15 +311,85 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div>
 
             </li>
+                  <li>
+        <a href="/why-mba/publications/jobs-salary-trends-report-2018">QS TopMBA Jobs &amp; Salary Trends Report 2018</a>
+            <div class="tm-menu-popover">
+  <a href="/why-mba/publications/jobs-salary-trends-report-2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/J%26S%20dropdown_0.jpg" alt="QS TopMBA Jobs &amp; Salary Trends Report 2018" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <div class="tm-wrapper text-primary">
+    <h4><a href="/why-mba/publications/jobs-salary-trends-report-2018" class="text-primary-dark">QS TopMBA Jobs &amp; Salary Trends Report 2018</a></h4>
+    <p>See the latest trends in MBA hiring and salary levels around the world, broken down by region and industry</p>
+
+    <hr class="hr-primary">
+    <a href="/why-mba/publications/jobs-salary-trends-report-2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View report now</span></a>
+  </div>
+</div>
+
+            </li>
+                  <li>
+        <a href="/why-mba/publications/qs-roi-report-2018">QS TopMBA.com ROI Report: Full-Time MBA 2018</a>
+            <div class="tm-menu-popover">
+  <a href="/why-mba/publications/qs-roi-report-2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/ROI%20report_0.jpg" alt="QS TopMBA.com ROI Report: Full-Time MBA 2018" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <div class="tm-wrapper text-primary">
+    <h4><a href="/why-mba/publications/qs-roi-report-2018" class="text-primary-dark">QS TopMBA.com ROI Report: Full-Time MBA 2018</a></h4>
+    <p>What is the return on investment of a full-time MBA program?</p>
+
+    <hr class="hr-primary">
+    <a href="/why-mba/publications/qs-roi-report-2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View report now</span></a>
+  </div>
+</div>
+
+            </li>
+                  <li>
+        <a href="/why-mba/publications/applicant-survey-2018">MBA Applications and Aspirations</a>
+            <div class="tm-menu-popover">
+  <a href="/why-mba/publications/applicant-survey-2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/Applicant_HeaderNav_1.jpg" alt="MBA Applications and Aspirations" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <div class="tm-wrapper text-primary">
+    <h4><a href="/why-mba/publications/applicant-survey-2018" class="text-primary-dark">MBA Applications and Aspirations</a></h4>
+    <p>Discover insights from the 2018 QS TopMBA.com Applicant Survey.</p>
+
+    <hr class="hr-primary">
+    <a href="/why-mba/publications/applicant-survey-2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View report now</span></a>
+  </div>
+</div>
+
+            </li>
+                  <li>
+        <a href="/why-mba/publications/career-guide-fall-spring-2018" target="" id="">QS TopMBA Career Guide Fall 2017 – Spring 2018</a>
+            <div class="tm-menu-popover">
+  <a href="/why-mba/publications/career-guide-fall-spring-2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/TM%20Career%20Guide_0.png" alt="QS TopMBA Career Guide Fall 2017 – Spring 2018" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <div class="tm-wrapper text-primary">
+    <h4><a href="/why-mba/publications/career-guide-fall-spring-2018" class="text-primary-dark">QS TopMBA Career Guide Fall 2017 – Spring 2018</a></h4>
+    <p>Discover top insider tips from MBA employers, admissions advice and much more.</p>
+
+    <hr class="hr-primary">
+    <a href="/why-mba/publications/career-guide-fall-spring-2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View guide now</span></a>
+  </div>
+</div>
+
+            </li>
+                  <li>
+        <a href="/why-mba/publications/executive-guide-fall-spring-2018" target="" id="">Top Executive Guide Fall 2017 – Spring 2018</a>
+            <div class="tm-menu-popover">
+  <a href="/why-mba/publications/executive-guide-fall-spring-2018"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/Top%20Executive%20Guide_0.png" alt="Top Executive Guide Fall 2017 – Spring 2018" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <div class="tm-wrapper text-primary">
+    <h4><a href="/why-mba/publications/executive-guide-fall-spring-2018" class="text-primary-dark">Top Executive Guide Fall 2017 – Spring 2018</a></h4>
+    <p>Read inspiring EMBA alumni stories, find an EMBA that’s right for you and much more.</p>
+
+    <hr class="hr-primary">
+    <a href="/why-mba/publications/executive-guide-fall-spring-2018" class="tm-callto-action"><span><i class="tm-caret-right"></i>View guide now</span></a>
+  </div>
+</div>
+
+            </li>
         </ul>
   
             </li>
                           <li class="expanded dropdown tm-menu-item-mba-events">
-                <a href="/events" class="dropdown-toggle disabled" data-target="#" data-submenu="">MBA Events <span class="tm-caret-down text-warning-light"></span></a>
+                <a href="/events" class="dropdown-toggle disabled" data-submenu="">MBA Events <span class="tm-caret-down text-warning-light"></span></a>
             
                             <ul class="menu dropdown-menu">
                       <li>
-        <a href="/events" target="" id="">MBA Events Overview</a>
+        <a href="/events">MBA Events Overview</a>
             <div class="tm-menu-popover">
   <a href="/events"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/mba-events-overview.jpg" alt="MBA Events Overview" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -387,12 +403,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/events/qs-world-mba-tour" target="" id="">QS World MBA Tour</a>
+        <a href="/events/qs-world-mba-tour">QS World MBA Tour</a>
             <div class="tm-menu-popover">
-  <a href="/events/qs-world-mba-tour"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/qs-world-mba-tour_0.jpg" alt="QS World MBA Tour" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <a href="/events/qs-world-mba-tour"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/qs-world-mba-tour_1.jpg" alt="QS World MBA Tour" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
     <h4><a href="/events/qs-world-mba-tour" class="text-primary-dark">QS World MBA Tour</a></h4>
-    <p>7 regions. 400+ institutes. Meet the world’s top business schools at an upcoming MBA fair.</p>
+    <p>7 regions. 400+ institutions. Meet the world’s top business schools at an upcoming MBA fair.</p>
 
     <hr class="hr-primary">
     <a href="/events/qs-world-mba-tour" class="tm-callto-action"><span><i class="tm-caret-right"></i>View calendar &amp; RSVP</span></a>
@@ -401,7 +417,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/events/qs-connect-1-2-1" target="" id="">QS Connect MBA</a>
+        <a href="/events/qs-connect-1-2-1">QS Connect MBA</a>
             <div class="tm-menu-popover">
   <a href="/events/qs-connect-1-2-1"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/qs-connect-one-two-one_1.jpg" alt="QS Connect MBA" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -415,7 +431,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/events/qs-women-leadership" target="" id="">QS Women in Leadership</a>
+        <a href="/events/qs-women-leadership">QS Women in Leadership</a>
             <div class="tm-menu-popover">
   <a href="/events/qs-women-leadership"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/qs-women-in-leadership_0.jpg" alt="QS Women in Leadership" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -432,20 +448,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
             </li>
                   <li>
-        <a href="https://www.qsleap.com/" target="_blank" id="tm-test-prep-menu-item">GMAT &amp; GRE Prep</a>
+        <a href="https://www.qsleap.com/">GMAT &amp; GRE Prep</a>
             
             </li>
                           <li class="expanded dropdown tm-menu-item-scholarships">
-                <a href="/scholarships" class="dropdown-toggle disabled" data-target="#" data-submenu="">Scholarships <span class="tm-caret-down text-warning-light"></span></a>
+                <a href="/scholarships" class="dropdown-toggle disabled" data-submenu="">Scholarships <span class="tm-caret-down text-warning-light"></span></a>
             
                             <ul class="menu dropdown-menu">
                       <li>
-        <a href="/scholarships" target="" id="">Scholarships</a>
+        <a href="/scholarships">Scholarships</a>
             <div class="tm-menu-popover">
-  <a href="/scholarships"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/scholarships_0.jpg" alt="QS MBA Scholarships" class="img-responsive img-primary img-branded img-shadowed"></a>
+  <a href="/scholarships"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/scholarships_0_0.jpg" alt="QS MBA Scholarships" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
     <h4><a href="/scholarships" class="text-primary-dark">QS MBA Scholarships</a></h4>
-    <p><font color="#333333">Apply for US$1.7 million worth of MBA scholarships.</font></p>
+    <p><font color="#333333">Apply for US$7 million worth of MBA scholarships.</font></p>
 
     <hr class="hr-primary">
     <a href="/scholarships" class="tm-callto-action"><span><i class="tm-caret-right"></i>Apply now</span></a>
@@ -454,7 +470,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
             </li>
                   <li>
-        <a href="/admissions/financing-your-mba/scholarship-winners" target="" id="">Scholarship Winners</a>
+        <a href="/admissions/financing-your-mba/scholarship-winners">Scholarship Winners</a>
             <div class="tm-menu-popover">
   <a href="/admissions/financing-your-mba/scholarship-winners"><img src="/app/sites/default/files/styles/menu_popover_image_180x100/public/menu-images/scholarship-winners_0.jpg" alt="QS MBA Scholarship Winners" class="img-responsive img-primary img-branded img-shadowed"></a>
   <div class="tm-wrapper text-primary">
@@ -475,32 +491,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
                       </nav>
         </div>
-        <div class="col-md-3 col-xs-9">
+        <div class="col-md-4 col-xs-9">
           <div id="block-topmba-secondary-menu" class="pull-right">
-            <ul class="menu nav navbar-nav">
-              <li class="first">
-                <a href="javascript:void(0);" title="Search"><span class="fa-img-icons fa-img-search"></span></a>
-              </li>
-                            <li class="tmba-share">
-                <a href="javascript:void(0);" class="tmba-thumbs-up"><i class="fa fa-lg fa-thumbs-o-up"></i></a>
-                <ul class="dropdown-menu list-inline tmba-find-us dropdown-menu-right">
-                  <li><span class="find-us">Find us</span></li>
-                  <li><a href="https://www.facebook.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-facebook-square"></i></a></li>
-                  <li><a href="https://twitter.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-twitter-square"></i></a></li>
-                  <li><a href="https://plus.google.com/u/0/b/102518486747449549956/102518486747449549956/posts" target="_blank" rel="nofollow"><i class="fa fa-google-plus-square"></i></a></li>
-                  <li><a href="http://www.linkedin.com/groups?gid=96906&amp;mostPopular=&amp;trk=tyah" target="_blank" rel="nofollow"><i class="fa fa-linkedin-square"></i></a></li>
-                  <li><a href="http://www.youtube.com/user/qstopmba?sub_confirmation=1" target="_blank" rel="nofollow"><i class="fa fa-youtube-square"></i></a></li>
-                  <li><a href="https://www.instagram.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
-                  <li><a href="https://www.pinterest.com/topmba/" target="_blank" rel="nofollow"><i class="fa fa-pinterest-square"></i></a></li>
-                </ul>
-              </li>
-                            <li class="tm-user">
-                <a href="#" data-toggle="modal" data-target="#tm-login-modal" class="tmba-user" title="Login"><span class="fa-img-icons fa-img-user"></span></a>
-              </li>
-              <li>
-                <a href="#" data-toggle="modal" data-target="#tm-register-modal" class="tmba-join btn btn-success tmba-btn btn-white-bordered">Join us free</a>
-              </li>
-                                        </ul>
           </div>
         </div>
       </div>
@@ -553,21 +545,25 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                           <span class="tm-close hide">X</span>
                           <select name="country" id="tm-countries-select" class="form-select form-control">
                             <option value="">Study Destination</option>
+                                                          <option value="afghanistan" data-region="asia">Afghanistan</option>
                                                           <option value="andorra" data-region="europe">Andorra</option>
+                                                          <option value="argentina" data-region="south-america">Argentina</option>
                                                           <option value="australia" data-region="oceania">Australia</option>
                                                           <option value="austria" data-region="europe">Austria</option>
+                                                          <option value="azerbaijan" data-region="asia">Azerbaijan</option>
                                                           <option value="belgium" data-region="europe">Belgium</option>
-                                                          <option value="brazil" data-region="latin-america">Brazil</option>
+                                                          <option value="brazil" data-region="south-america">Brazil</option>
                                                           <option value="canada" data-region="north-america">Canada</option>
                                                           <option value="chile" data-region="latin-america">Chile</option>
                                                           <option value="china" data-region="asia">China</option>
                                                           <option value="costa-rica" data-region="north-america">Costa Rica</option>
+                                                          <option value="czech-republic" data-region="europe">Czech Republic</option>
                                                           <option value="denmark" data-region="europe">Denmark</option>
                                                           <option value="egypt" data-region="africa">Egypt</option>
-                                                          <option value="estonia" data-region="europe">Estonia</option>
                                                           <option value="finland" data-region="europe">Finland</option>
                                                           <option value="france" data-region="europe">France</option>
                                                           <option value="germany" data-region="europe">Germany</option>
+                                                          <option value="ghana" data-region="africa">Ghana</option>
                                                           <option value="greece" data-region="europe">Greece</option>
                                                           <option value="hong-kong-sar" data-region="asia">Hong Kong Sar</option>
                                                           <option value="hungary" data-region="europe">Hungary</option>
@@ -576,29 +572,32 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                                           <option value="israel" data-region="asia">Israel</option>
                                                           <option value="italy" data-region="europe">Italy</option>
                                                           <option value="japan" data-region="asia">Japan</option>
-                                                          <option value="kazakhstan" data-region="asia">Kazakhstan</option>
                                                           <option value="lebanon" data-region="middle-east">Lebanon</option>
                                                           <option value="luxembourg" data-region="europe">Luxembourg</option>
                                                           <option value="malaysia" data-region="asia">Malaysia</option>
-                                                          <option value="mexico" data-region="latin-america">Mexico</option>
+                                                          <option value="mexico" data-region="north-america">Mexico</option>
+                                                          <option value="monaco" data-region="europe">Monaco</option>
                                                           <option value="netherlands" data-region="europe">Netherlands</option>
                                                           <option value="new-zealand" data-region="oceania">New Zealand</option>
-                                                          <option value="nicaragua" data-region="latin-america">Nicaragua</option>
+                                                          <option value="nicaragua" data-region="north-america">Nicaragua</option>
                                                           <option value="norway" data-region="europe">Norway</option>
+                                                          <option value="peru" data-region="south-america">Peru</option>
                                                           <option value="portugal" data-region="europe">Portugal</option>
                                                           <option value="russia" data-region="europe">Russia</option>
-                                                          <option value="saudi-arabia" data-region="middle-east">Saudi Arabia</option>
+                                                          <option value="saint-pierre-and-miquelon" data-region="north-america">Saint Pierre and Miquelon</option>
                                                           <option value="singapore" data-region="asia">Singapore</option>
                                                           <option value="south-africa" data-region="africa">South Africa</option>
-                                                          <option value="south-korea" data-region="asia">South Korea</option>
                                                           <option value="spain" data-region="europe">Spain</option>
                                                           <option value="sweden" data-region="europe">Sweden</option>
                                                           <option value="switzerland" data-region="europe">Switzerland</option>
+                                                          <option value="taiwan" data-region="asia">Taiwan</option>
                                                           <option value="thailand" data-region="asia">Thailand</option>
                                                           <option value="turkey" data-region="asia">Turkey</option>
+                                                          <option value="ukraine" data-region="europe">Ukraine</option>
                                                           <option value="united-arab-emirates" data-region="middle-east">United Arab Emirates</option>
                                                           <option value="united-kingdom" data-region="europe">United Kingdom</option>
-                                                          <option value="united-states" data-region="europe">United States</option>
+                                                          <option value="united-states" data-region="north-america">United States</option>
+                                                          <option value="uruguay" data-region="south-america">Uruguay</option>
                                                       </select>
                         </div>
                       </div>
@@ -668,13 +667,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
   </div>
 </div>
+  <div class="navbar-header-res"></div>
+  <nav class="bg-primary" role="navigation" aria-labelledby="system-breadcrumb">
+    <div class="container">
+      <div class="row">
+        <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" class="" itemprop="url"><span itemprop="title">Home</span></a></span><span class="crumbs-separator"> &gt; </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/privacy-policy" itemprop="url" class="active"><span itemprop="title">Privacy Policy</span></a></span></div>      </div>
+    </div>
+  </nav>
 </header>
-<nav class="bg-primary" role="navigation" aria-labelledby="system-breadcrumb">
-  <div class="container">
-    <div class="row">
-      <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" class="" itemprop="url"><span itemprop="title">Home</span></a></span><span class="crumbs-separator"> &gt; </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/privacy-policy" itemprop="url" class="active"><span itemprop="title">Privacy Policy</span></a></span></div>    </div>
-  </div>
-</nav>
+
+
 <div id="main-wrapper">
   <div id="main" class="main">
             <div id="content" class="">   <div class="region region-content">
@@ -713,7 +715,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="pane-content">
     
   <div class="field-text-body">
-    <p>Quacquarelli Symonds Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites then you can be assured that it will only be used in accordance with this privacy statement.</p><p>QS may change this policy from time to time. Changes to our policy will be updated on our web sites only. You should check our policy from time to time to ensure that you are happy with any modifications. This policy was last updated on 15 January 2013.</p><p><strong>1. What Information We Collect</strong></p><p>We may collect the following information:</p><ul><li>Name and job title</li><li>Contact information including email address</li><li>Demographic information such as postcode, preferences and interests</li><li>Other information relevant to customer surveys and/or offers, and registrations to our events and products</li></ul><p>All data collected by QS is stored in a one database environment, regardless of which of our websites you contacted us through.</p><p><strong>A. Registration</strong></p><p>In order to become a User, you must provide us the following information to create an account: first name, last name, email address and password. Without this minimal amount of information, you cannot create an account. QS requests other information from you during the registration process, (e.g., gender, location, etc.) that QS uses to provide better, more customized marketing services such as updates, better ads, and more valuable information. You acknowledge that this information is personal to you, and by creating an account on our websites; you allow QS and selected third parties, to identify you and to allow to use your information in accordance with our <a href="http://www.topmba.com/user-agreement">User Agreement</a>.</p><p><strong>B. Cookies</strong></p><p>Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on our websites, as well as to deliver QS and third-party advertising to Users both on and off the our websites. A cookie is a tiny data file that resides on your computer, mobile phone, or other device, and allows us to recognize you as a User when you return to the our websites using the same computer and web browser. You can remove or block cookies using the settings in your browser, but in some cases doing so may impact your ability to use our websites.</p><p>In the course of serving advertisements or optimizing the services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through cookies will not be personally identifiable but may provide general segment information (e.g., your industry or geography or information about your professional or educational background) for the enhancement of your user experience by providing more relevant advertising. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Our websites does not store unencrypted personally identifiable information in the cookies.</p><p><strong>C. Advertising</strong></p><p>To support the services we provide at no cost to our Users, as well as provide a more relevant and useful experience for our Users, we target and serve our own ads and third-party ads.</p><p>We target ads to Users based on general profile information or on non-personally identifiable information inferred from a User’s profile (e.g., industry, school, gender, age, nationality, or other relevant information). QS does not provide personally identifiable information to any third party ad network.</p><p>If in the future we show advertising on our websites, the advertiser may use cookies to track the number of anonymous users responding to the campaign. We will not have access to or control of cookies placed by third parties.</p><p>You have the ability to accept or decline cookies by modifying your browser preferences.&nbsp;You can accept all cookies, be notified when a cookie is set, or reject all cookies.</p><p><strong>D. Log files, IP Addresses and Information About Your Computer and Mobile Device</strong></p><p>Due to the communications standards on the internet, when you visit our websites we automatically receive the URL of the site from which you came and the site to which you are going to when you leave our websites.</p><p>Additionally, advertisers receive the URL of the page you were on when you click on an ad on our websites. QS also receives the internet protocol (“IP”) address of your computer, your computer operating system and type of web browser you are using, email patterns, your mobile device and mobile operating system (if you are accessing our websites using a mobile device), as well as the name of your ISP or your mobile carrier.</p><p><strong>E. Rights to Access, Correct and Eliminate Information About You</strong></p><p>You have a right to access, modify, correct and eliminate the data you supplied to QS. If you update any of your information, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this policy. You may request deletion of your information at any time by contacting&nbsp;<a href="mailto:onlinesupport@qs.com">onlinesupport@qs.com</a>. We will respond to your request within 30 days. Please note, however that information you have shared with others, or that other Users have copied, may also remain visible even if you request its deletion.</p><p><strong>F. Data Retention</strong></p><p>QS will retain your information for so long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.</p><p><strong>2. What We Do With The Information We Gather</strong></p><p>By providing information to QS for the purposes of creating your User account or adding any additional details to your QS profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and QS’s User Agreement that allow QS to process information about you.</p><p>Supplying information to QS, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to QS’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your Settings, or by closing your account, but please note that your withdrawal of consent will not be retroactive.</p><p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p><ul><li>QS Communications</li><li>Internal record keeping&nbsp;</li><li>Enhance our products and services</li><li>We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided</li><li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone or mail. We may use the information to customize the website according to demographic interests</li></ul><p><strong>3. Links to Other Websites</strong></p><p>Our websites may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><p><strong>4. Controlling your personal information</strong></p><p>You may choose to restrict the collection or use of your personal information in the following ways:</p><ul><li>When you are asked to fill in a form on any of our websites, look for the tick box that indicates you do not want the information to be for direct marketing purposes</li><li>If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by sending an email to&nbsp;<a href="mailto:onlinesupport@qs.com">onlinesupport@qs.com</a>&nbsp;and stating that you would like to be removed from our marketing lists</li><li>To remove yourself from email communications, please send an email to&nbsp;<a href="mailto:onlinesupport@qs.com">onlinesupport@qs.com</a>&nbsp;stating that you would like to be removed from our marketing lists</li></ul><p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to&nbsp;<a href="mailto:onlinesupport@qs.com">onlinesupport@qs.com</a>.</p><p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p><p><strong>5. Security</strong></p><p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we safeguard and secure the information we collect online via electronic and managerial procedures.</p><p>To protect any data you store on our servers, QS also regularly audits its system for possible vulnerabilities and attacks. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to QS. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p><p><strong>6. Your Obligations</strong></p><p>As a User, you have certain obligations to other Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly</p><ul><li>You must, at all times, abide by the terms and conditions of the then-current Privacy Policy and User Agreement. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs).</li><li>You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of QS and its community of Users.</li><li>You must not provide to QS and/or other Users information that you believe might be injurious or detrimental to your person or to your professional or social status.</li><li>You must keep your password confidential and not share it with others.</li><li>Any violation of these guidelines may lead to the restriction, suspension or termination of your account at the sole discretion of QS.</li></ul><p><strong>7. How to Contact Us</strong></p><p>You may also write to us with any questions or concerns bout this Privacy Policy at:</p><p>QS Headquarters:<br>1 Tranley Mews Fleet Road<br>London, NW3 2DG<br>United Kingdom</p>  </div>
+    <p>Quacquarelli Symonds Ltd (“QS”) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites then you can be assured that it will only be used in accordance with this privacy statement.</p><p>QS may change this policy from time to time. Changes to our policy will be updated on our Websites and/or Services only. You should check our policy from time to time to ensure that you are happy with any modifications. This policy was last updated on May 24 2018.</p><ol><li><strong>What information we collect</strong></li></ol><p>We may collect the following information:</p><p>Name and job title</p><p>Gender and date of birth<br>Contact information including email address<br>Demographic information such as postcode, preferences, and interests<br>Other information required or relevant to registrations for our events and/or products</p><p>Other information relevant to customer surveys and/or offers</p><p>All data collected by QS is stored in a one database environment, regardless of which QS site you contacted us through.</p><p>Due to the communications standards on the internet, when you visit our Websites or Services we also automatically receive the URL of the site from which you came and the site to which you are going to when you leave our Websites or Services.</p><p>QS receives the internet protocol (“IP”) address of your computer, your computer operating system and type of web browser you are using, email patterns, your mobile device and mobile operating system (if you are accessing our Websites or Services using a mobile device), as well as the name of your ISP or your mobile carrier.</p><ol start="2"><li><strong>What we do with the information we gather</strong></li></ol><p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p><p>By providing information to QS for the purposes of becoming a Site User, creating your QS User account or adding any additional details to your QS User profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and QS’s User Agreement that allow QS to process information about you.</p><p>Supplying information to QS, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to QS’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your Settings, or by closing your account, but please note that your withdrawal of consent will not be retroactive.</p><p>In order to become a QS User, you must provide us the following information to create an account: first name, last name, email address and password. Without this minimal amount of information, you cannot create an account. QS may request other information from you during the account creation process, (e.g., gender, location, etc.) that QS uses to provide better, more customized marketing services such as updates, better ads, and more valuable information. You acknowledge that this information is personal to you, and by creating an account on our websites, you allow QS and selected third parties, to identify you and to allow to use your information in accordance with our User Agreement.</p><p>This means we’ll:</p><ul><li>create a profile about you to help us understand you as a customer and tailor the communications we send you;</li><li>tell you about other products and services you might be interested in;</li><li>try to identify products and services you’re interested in; and</li></ul><p>We use the following for marketing and to identify the products and services you’re interested in.</p><ul><li>Your contact details. This includes your name, of birth and email address.</li><li>Information from cookies and tags placed on your connected devices.</li><li>Details of the products and services you’ve bought and how you use them&nbsp;</li></ul><p>We’ll send you information (about the products and services we provide) by phone, post, email, text message and online banner advertising. We also use the information we have about you to personalise these messages wherever we can as we believe it is important to make them relevant to you.&nbsp;We also check that you are happy for us to send you marketing messages before we do so. In each message we send, you also have the option to opt out.</p><p>We’ll only market other organisations’ products and services if you have said it is OK for us to do so.</p><p>You can ask us to stop sending you marketing information or withdraw your permission at any time.</p><ol start="3"><li><strong>Security</strong></li></ol><p>We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we safeguard and secure the information we collect online via electronic and managerial procedures.</p><p>To protect any data you store on our servers, QS also regularly audits its system for possible vulnerabilities and attacks. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to QS. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p><ol start="4"><li><strong>Links to other websites</strong></li></ol><p>Our websites may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><ol start="5"><li><strong>What we use cookies for</strong></li></ol><p>QS use cookies to check whether or not you are logged in and to identify which of our high availability servers you are looking at. We also use cookies to help collect analytics data to constantly improve your on-site experience. It is your legal right to opt-out of this data collection if you so wish.</p><p>Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on our Websites and Services, as well as to deliver QS and third-party advertising to Site Users and QS Users both on and off our Websites and Services. A cookie is a tiny data file which asks permission to be placed on your computer’s hard drive. Once you agree, this small file resides on your computer, mobile phone, or other device, and allows us to recognize you as a Site User or QS User when you return to our Websites or Services using the same computer and web browser. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can remove or block cookies using the settings in your browser, but in some cases doing so may impact your ability to use our Websites or Services.</p><p>In the course of serving advertisements or optimizing the services to our Site Users or QS Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through cookies will not be personally identifiable but may provide general segment information (e.g. your industry or geography or information about your professional or educational background) for the enhancement of your user experience by providing more relevant advertising. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Our Websites and Services do not store unencrypted personally identifiable information in the cookies.</p><ol start="6"><li><strong>Advertising</strong></li></ol><p>To support the services we provide at no cost to our Site Users and QS Users, as well as provide a more relevant and useful experience for our Site Users and QS Users, we target and serve our own ads and also ads from third-parties.</p><p>We target ads to Site Users and QS Users based on general profile information or on non-personally identifiable information inferred from a Site User’s or QS User’s profile (e.g. industry, school, gender, age, nationality, or other relevant information). QS does not provide personally identifiable information to any third party ad network.</p><p>Third party advertisers may use cookies to track the number of anonymous users responding to their campaigns. We will not have access to or control of cookies placed by third parties.</p><p>You have the ability to accept or decline cookies by modifying your browser preferences. You can accept all cookies, be notified when a cookie is set, or reject all cookies.</p><p>Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details, access requests or complaints, please review their&nbsp;<a href="http://exponential.com/privacy/">privacy policy</a>&nbsp;or contact their data protection officer via&nbsp;<a href="mailto:privacy@exponential.com">privacy@exponential.com</a>&nbsp;. If you would like to opt out of Exponential’s advertising, please use this link:&nbsp;<a href="http://exponential.com/privacy/opt-out/">http://exponential.com/privacy/opt-out/</a></p><p>We may also show you advertising on our site based on your behaviour on other sites. Behavioural retargeting allows us and some of our advertising partners to show you ads based on your browsing patterns and interactions with a site away from our site. Our behavioural retargeting partner is Criteo. To read their privacy policy and to opt out of their services, please click here:&nbsp;<a href="http://www.criteo.com/en/privacy-policy">www.criteo.com/en/privacy-policy</a>&nbsp;&nbsp;&nbsp;&nbsp;</p><ol start="7"><li><strong>Removing a cookie</strong></li></ol><p>Removing a cookie varies depending on which browser you are using.</p><p><strong>Firefox</strong>&nbsp;To remove a cookie, Right Click on the page you are looking at and select ‘View Page Info’. A dialogue window will then open. Choose the security tab from the top of the window and then choose ‘View Cookies’. You are then able to remove any cookies you wish from your machine. To prevent cookies from being set on your machine, chose ‘Menu-&gt;Options’. A dialogue window will open. Choose ‘Privacy’ from the tabs at the top and choose the checkbox that says ‘Do not allow sites to track’.</p><p><strong>Internet Explorer</strong>&nbsp;To prevent a current page from tracking choose ‘Tools -&gt; Safety -&gt; Tracking Protection’ from here you can set your preferences for analytics tracking. Choose ‘Tools -&gt; Internet Options -&gt; Privacy’ From here you can set your preferences for the types of cookies that you will accept and from where.</p><p><strong>Safari</strong>&nbsp;To prevent tracking if you are using Safari choose ‘Tools -&gt; Preferences -&gt; Security’ and then choose your preferences from the ‘Accept Cookies’ section.</p><p><strong>Chrome</strong>&nbsp;To manage your cookie options in Google Chrome choose ‘Tools -&gt; Settings -&gt; Advanced Options -&gt; Privacy -&gt; Content Settings’. Then choose the options that you would like for cookies on your machine and then select ‘Ok’ to save.</p><ol start="8"><li><strong>Analytics</strong></li></ol><p>We use two analytics packages in order to constantly improve your browsing experience on TopMBA.com, TopUniversities.com, qs.com and some of our other web properties.</p><p>These packages are:</p><ul><li>Google Analytics</li><li>IBM CoreMetrics</li></ul><p>To opt out of Google Analytics data collection, you will need to remove all cookies which begin with two underscore characters. Examples include:</p><ul><li>__utma</li><li>__utmb</li><li>__utmc</li><li>__utmz</li></ul><ol start="9"><li><strong>Right to access personal information</strong></li></ol><p>Under the law any individual has a right to ask for a copy of the personal information held about them. This means that you can ask for the information that the QS holds about you. This is known as the right of ‘subject access’.</p><p>When making a request you will need to give us:</p><ul><li>a request in writing (by post or by email)</li></ul><p>We may need to ask you to provide:</p><ul><li>proof of your identity</li><li>proof of your home address</li><li>any information that we reasonably need to locate the information you have requested (for example the website or event you registered for)</li></ul><p>Although you should submit a request in writing, if you would like to speak to someone in person, you can contact the Data Protection Officer using the following details:</p><p>Data Protection Officer</p><p>QS Quacquarelli Symonds Ltd</p><p>1 Tranley Mews</p><p>London</p><p>NW3 2DG</p><p>United Kingdom</p><p>Phone: +44(0) 207284 7200</p><p>Email: <a href="mailto:dpo@qs.com">dpo@qs.com</a></p><ol start="10"><li><strong>Rights concerning the processing of your personal information</strong></li></ol><ol><li>i) Right to restrict processing of personal information</li></ol><p>In some situations, you have the right to require us to restrict the processing of your personal information. We may restrict your personal information by temporarily moving the information to another processing system, making the information unavailable to users, or temporarily removing published information from a website.</p><p>We may also use technical methods to ensure the personal information is not subject to further processing and cannot be changed. When we have restricted processing of personal information, this will be clearly indicated on our systems.</p><p>You can require us to restrict processing in the following circumstances:</p><ol><li>You are concerned that the information we hold about you is inaccurate. You can ask us to restrict the information until we are able to determine whether the information is accurate or inaccurate;</li><li>We are processing your personal data unlawfully and you do not want us to delete the information but restrict it instead.</li><li>We no longer need the information for the purposes for which we collected it, but they are needed by you for the establishment, exercise or defence of legal claims;</li><li>You have objected to the processing (see below), and we need to decide whether the legitimate grounds we have to process the information override your legitimate interests.</li></ol><ol><li>ii) Processing you think is unlawful</li></ol><p>If you tell us that you think we are processing your personal information unlawfully, but you do not want the information to be erased, you have the right to require us to restrict the processing of that information.</p><p>We will ask you for an explanation about why you think the processing is unlawful, and may also ask that you provide evidence to support this view.</p><p>iii) Processing of personal information you think is inaccurate</p><p>You can tell us if you think the personal information we are processing about you is factually inaccurate.</p><p>If we find that personal information we are processing about you is inaccurate, we will take appropriate steps to correct the information.</p><ol><li>iv) Right to erasure of personal data (“the right to be forgotten”)</li></ol><p>In the following circumstances, you have the right to require that QS securely deletes or destroys your personal information:</p><ul><li>If the personal information we hold about you is no longer necessary for the purposes for which we originally collected it.</li><li>The processing is based on consent - if you have previously given your consent to QS collecting and processing your personal information, and you notify us that you withdraw your consent.</li><li>If you think QS has processed your personal information unlawfully.</li></ul><p>If you think any of the above situations apply, we may ask you for an explanation and further information to verify this.</p><ol><li>v) Right to object to processing</li></ol><p>You have the right to object to QS processing your personal data in the following circumstances:</p><ol><li>Personal information used for direct marketing</li></ol><p>If we are using your personal information to send you direct marketing, you have the right to object at any time. If you exercise this right, we will stop processing your personal information for direct marketing purposes. However, we may keep your information on a “suppression list” to ensure your information is not added to any marketing lists at some point in the future.</p><ol start="2"><li>Right to data portability</li></ol><p>If you have provided your information to QS, you have the right to request and receive a copy of that information in a structured, commonly-used and machine-readable format.</p><p>There are some situations in which the right to data portability does not apply. For further information, please contact: <a href="mailto:dpo@qs.com">dpo@qs.com</a></p><ol><li>vi) Exercising your rights concerning the processing of your personal information</li></ol><p>If you wish to exercise any of the above rights concerning the way in which we process your personal information, please contact:</p><p>Data Protection Officer</p><p>QS Quacquarelli Symonds Ltd</p><p>1 Tranley Mews</p><p>London</p><p>NW3 2DG</p><p>United Kingdom</p><p>Phone: +44(0) 207284 7200</p><p>Email: <a href="mailto:dpo@qs.com">dpo@qs.com</a></p><p>vii) Your right to complain to a national data protection regulator (data protection supervisory authority)</p><p>If you think we have processed your personal information unfairly or unlawfully, or we have not complied with your rights under GDPR, you have the right to complain to a national data protection regulator.</p><p>Complaints about how we process your personal information can be considered by the UK data protection regulator, the Information Commissioner’s Office (ICO). The ICO can be contacted using the following details:</p><p>Information Commissioner’s Office</p><p>Wycliffe House</p><p>Water Lane</p><p>Wilmslow</p><p>Cheshire</p><p>SK9 5AF</p><p>UNITED KINGDOM</p><p>Website: <a href="http://www.ico.org.uk">www.ico.org.uk</a>.</p><p>Email: <a href="mailto:casework@ico.org.uk">casework@ico.org.uk</a>.</p><p>If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), and you think that some, or all, of the issues you are concerned about have taken place in your country of residence, you can complain to your national data protection regulator.</p><p>For contact details of national data protection regulators in the EU and EEA, please use the following link:</p><p><a href="https://ec.europa.eu/info/law/law-topic/data-protection_en">https://ec.europa.eu/info/law/law-topic/data-protection_en</a></p><p>You should be aware that from 25 May 2018 onwards, the EU or EEA regulator you first contact may not be the regulator that deals with your complaint. They may refer your complaint to another data protection regulator, and a number of regulators may work together to determine the outcome of your complaint. The overall handling of your complaint will be dealt with by a “lead supervisory authority”, which will be allocated during the complaint handling process.</p><p>If you live outside the EU or EEA, and the data protection issue you are concerned about relates to the processing of personal data in the country you live in, you may be able to complain to your national data protection or privacy regulator. Details of some national data protection or privacy regulators are detailed in the above link. Alternatively, you may be able to find details of your national privacy or data protection regulator by searching the internet.</p><p>If you have a concern about how we have processed your personal data, many data protection/privacy regulators will ask that you contact us first, outlining your concerns, allowing us to try and put the issue right, prior to contacting them with your complaint or concern.</p><ol start="11"><li><strong>Your obligations</strong></li></ol><p>As a Site User or QS User, you have certain obligations to other Site Users and QS Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members such as QS:</p><ol><li>a) You must, at all times, abide by the terms and conditions of the then-current Privacy Policy and User Agreement. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs).</li><li>b) You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of QS and its community.</li><li>c) You must not provide to QS and/or other Site Users and/or QS Users information that you believe might be injurious or detrimental to your person or to your professional or social status.</li><li>d) You must keep your password confidential and not share it with others.</li></ol><p>Any violation of these guidelines may lead to the restriction, suspension or termination of your account at the sole discretion of QS.</p>  </div>
   </div>
 
   
@@ -731,6 +733,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <!-- /#main-wrapper -->
 
 <footer id="footer" class="footer" role="footer">
+  <div class="media-container">
+      </div>
   <div class="container">
     <section id="block-topmba-footer-block" class="block block-block-content block-block-content57f1d8b9-c84b-4418-81e0-f49710fbe341 clearfix">
   
@@ -749,7 +753,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   <ul class="menu nav"><li class="first active-trail active"><a href="/app/news-research" class="active-trail dropdown-toggle" style="margin-bottom:10px;">News</a>
                     </li>
                     <li class="leaf">
-                      <a href="http://www.qsleap.com/?utm_source=topmba&amp;utm_medium=topmba-tab&amp;utm_campaign=leap&amp;__hstc=151111334.a36b4bb4950e901b7cce86e98970eac0.1472209128318.1472209128318.1472209128318.1&amp;__hssc=151111334.1.1472209128319&amp;__hsfp=2485354263" class="dropdown-toggle gmat-gre" target="_blank" style="margin-bottom:10px;">GMAT &amp; GRE Prep</a>
+                      <a href="https://www.qsleap.com/?utm_source=topmba&amp;utm_medium=topmba-tab&amp;utm_campaign=leap&amp;__hstc=151111334.a36b4bb4950e901b7cce86e98970eac0.1472209128318.1472209128318.1472209128318.1&amp;__hssc=151111334.1.1472209128319&amp;__hsfp=2485354263" class="dropdown-toggle gmat-gre" target="_blank" style="margin-bottom:10px;">GMAT &amp; GRE Prep</a>
                     </li>
                     <li class="expanded active-trail dropdown active"><a href="/scholarships" class="active-trail dropdown-toggle">Scholarships<span class="caret"></span></a>
                       <ul class="dropdown-menu"><li class="first leaf"><a href="/mba-scholarships">MBA Scholarships</a></li>
@@ -765,11 +769,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <div class="pane-content">
                   <ul class="menu nav"><li class="last expanded dropdown"><a href="/mba-rankings/home" rel="nofollow" class="dropdown-toggle">Rankings<span class="caret"></span></a>
                       <ul class="dropdown-menu"><li class="first leaf"><a href="/mba-rankings/home" rel="nofollow">Rankings Overview</a></li>
-                        <li class="leaf"><a href="/mba-rankings/region" rel="nofollow">QS Global Full-Time MBA Rankings by Region</a></li>
-                        <li class="leaf active"><a href="/why-mba/publications/global-250-business-schools-report-2017" class="active">QS Global 250 Business Schools Report</a></li>
+                        <li class="leaf"><a href="/mba-rankings/2018" rel="nofollow">QS World University Rankings: Global MBA Rankings 2018</a></li>
+                        <li class="leaf"><a href="/business-masters-rankings/2018" rel="nofollow">QS World University Rankings: Business Masters Rankings 2018</a></li>
                         <li class="leaf"><a href="/mba-rankings/specialization" rel="nofollow">QS MBA Rankings by Specialization</a></li>
                         <li class="leaf"><a href="/mba-rankings/online-mba-rankings/2017">QS Distance Online MBA Rankings</a></li>
-                        <li class="last leaf"><a href="/emba-rankings">QS Global EMBA Rankings</a></li>
+                        <li class="leaf"><a href="/emba-rankings">QS EMBA Rankings</a></li>
+                        <li class="leaf"><a href="/why-mba/publications/jobs-salary-trends-report-2018">QS TopMBA Jobs &amp; Salary Trends Report 2018</a></li>
+                       <li class="last leaf"><a href="/why-mba/publications/qs-roi-report-2018">QS TopMBA.com ROI Report: Full-Time MBA</a></li>
+                       <li class="last leaf"><a href="/why-mba/publications/applicant-survey-2018">MBA Applications and Aspirations Report 2018</a></li>
+                       <li class="last leaf"><a href="/why-mba/publications/career-guide-fall-spring-2018">QS TopMBA Career Guide Fall 2017 – Spring 2018</a></li>
+                       <li class="last leaf"><a href="/why-mba/publications/executive-guide-fall-spring-2018">QS Top Executive Guide Fall 2017 – Spring 2018</a></li>
+
                       </ul></li>
                   </ul></div>
               </div>
@@ -804,40 +814,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="social_login_btns footer">
     <ul><li><a href="https://www.instagram.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
       <li><a href="https://www.pinterest.com/topmba/" target="_blank" rel="nofollow"><i class="fa fa-pinterest-square"></i></a></li>
-      <li><a href="http://www.youtube.com/user/qstopmba?sub_confirmation=1" target="_blank" rel="nofollow"><i class="fa fa-youtube-square"></i></a></li>
-      <li><a href="http://www.linkedin.com/groups?gid=96906&amp;mostPopular=&amp;trk=tyah" target="_blank" rel="nofollow"><i class="fa fa-linkedin-square"></i></a> </li>
+      <li><a href="https://www.youtube.com/user/qstopmba?sub_confirmation=1" target="_blank" rel="nofollow"><i class="fa fa-youtube-square"></i></a></li>
+      <li><a href="https://www.linkedin.com/groups?gid=96906&amp;mostPopular=&amp;trk=tyah" target="_blank" rel="nofollow"><i class="fa fa-linkedin-square"></i></a> </li>
       <li><a href="https://plus.google.com/u/0/b/102518486747449549956/102518486747449549956/posts" target="_blank" rel="nofollow"><i class="fa fa-google-plus-square" target="_blank"></i></a></li>
-      <li><a href="http://twitter.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-twitter-square"></i></a></li>
+      <li><a href="https://twitter.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-twitter-square"></i></a></li>
       <li><a href="https://www.facebook.com/topmba" target="_blank" rel="nofollow"><i class="fa fa-facebook-square"></i></a></li>
     </ul></div>
   <div class="copyright_text">
-    <p><span>©&nbsp;<span>QS Quacquarelli Symonds Limited 1994 - 2017. All rights reserved.</span></span>
+    <p><span>©&nbsp;<span>QS Quacquarelli Symonds Limited 1994 - 2018. All rights reserved.</span></span>
     </p>
   </div>
 </div></div>
       
   </section>
 
-<script src="https://www.dwin1.com/10031.js" type="text/javascript" defer="defer"></script>
-<!-- Fallback Image Pixel Tracking - Mandatory --> 
-<img src="https://www.awin1.com/sread.img?tt=ns&amp;tv=2&amp;merchant=10031&amp;amount=0.00&amp;cr=USD&amp;ref=0&amp;parts=default:0.00&amp;vc=&amp;ch=na&amp;testmode=0" border="0" width="0" height="0">
-<!-- Javascript Tracking - Mandatory --> 
-<script type="text/javascript">
-<!--
-/*** Do not change ***/
-var AWIN = {};
-AWIN.Tracking = {};
-AWIN.Tracking.Sale = {};
-/*** Set your transaction parameters ***/
-AWIN.Tracking.Sale.amount = '0.00';
-AWIN.Tracking.Sale.orderRef = '0';
-AWIN.Tracking.Sale.parts = 'default:0.00';
-AWIN.Tracking.Sale.voucher = '';
-AWIN.Tracking.Sale.currency = 'USD';
-AWIN.Tracking.Sale.test = '0';
-AWIN.Tracking.Sale.channel = 'na';
-//-->
-</script>
 <img src="https://shareasale.com/sale.cfm?amount=&amp;tracking=&amp;transtype=lead&amp;merchantID=72683" width="1" height="1">
   </div>
     <div id="tm-user-pass-modal" class="tm-modal modal" tabindex="-1" role="dialog">
@@ -920,8 +910,21 @@ AWIN.Tracking.Sale.channel = 'na';
     </div>
   </div>
 </div>
-</footer>
-<!--*twitter Remarketing tag - every page *-->
+<div id="tm-register-tmrg-modal" class="tm-modal modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-body">
+        <a href="javascript:void(0);" class="close text-white" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="h1">×</span></a>
+        <section id="block-register-emba" class="block clearfix">
+          <div class="tm-sso-frame-wrap">
+            <div data-src="/app/sso/user/register/tmrg" class="tm-sso-frame tm-sso-frame-register-emba" style="min-height: 1134px;"></div>
+            <div class="tmrg_signin_block" id="tmrg_signin_block"> Already Registered ? <a href="#" data-toggle="modal" data-target="#tm-login-modal" class="tm-user-access-tab">Sign in</a></div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div></footer><!--*twitter Remarketing tag - every page *-->
 <!--<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">
     twttr.conversion.trackPid('l4mrl');
@@ -930,622 +933,14 @@ AWIN.Tracking.Sale.channel = 'na';
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4mrl&p_id=Twitter" />
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4mrl&p_id=Twitter" />
 </noscript>-->
-  <div class="menu-minipanels menu-minipanel-0">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-why_mba_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-2">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-4014 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4673"><a href="/why-mba" class="menu-minipanel menu-minipanel-0">Why Study an MBA?</a></li>
-<li class="leaf menu-mlid-4086"><a href="/why-mba/student-stories">Student Stories</a></li>
-<li class="leaf menu-mlid-4087"><a href="/why-mba/mba-alumni-stories">Alumni Stories</a></li>
-<li class="leaf menu-mlid-4674"><a href="/why-mba/ceo-interviews" class="menu-minipanel menu-minipanel-0">CEO Interviews</a></li>
-<li class="leaf menu-mlid-4088"><a href="/why-mba/faculty-voices">Faculty Voices</a></li>
-<li class="leaf menu-mlid-4089"><a href="/why-mba/publications">Publications</a></li>
-<li class="leaf menu-mlid-5329"><a href="/why-mba/publications/e-papers">E-Papers</a></li>
-<li class="last leaf menu-mlid-4676"><a href="/why-mba/home" class="menu-minipanel menu-minipanel-0">Why MBA overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/qs-north-american-business-school-roi-report"><img alt="MBA ROI report for North America" title="New MBA ROI report for North America" class="media-element file-default panopoly-image-original" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/roi_nam_2015_dropdown.jpg?itok=xiKp7IwQ"></a></p><p class="heading_2nd_menu"><strong><a href="/why-mba/publications/qs-north-american-business-school-roi-report"><i>QS Return on Investment – North American Full-Time MBA 2015</i></a></strong></p><h3>Measuring MBA ROI across 85 schools in North America</h3><p><strong><a href="/why-mba/publications/qs-north-american-business-school-roi-report">Read Now</a></strong></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4014">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-why_mba_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-2">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-4014 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4673"><a href="/why-mba" class="menu-minipanel menu-minipanel-0">Why Study an MBA?</a></li>
-<li class="leaf menu-mlid-4086"><a href="/why-mba/student-stories">Student Stories</a></li>
-<li class="leaf menu-mlid-4087"><a href="/why-mba/mba-alumni-stories">Alumni Stories</a></li>
-<li class="leaf menu-mlid-4674"><a href="/why-mba/ceo-interviews" class="menu-minipanel menu-minipanel-0">CEO Interviews</a></li>
-<li class="leaf menu-mlid-4088"><a href="/why-mba/faculty-voices">Faculty Voices</a></li>
-<li class="leaf menu-mlid-4089"><a href="/why-mba/publications">Publications</a></li>
-<li class="leaf menu-mlid-5329"><a href="/why-mba/publications/e-papers">E-Papers</a></li>
-<li class="last leaf menu-mlid-4676"><a href="/why-mba/home" class="menu-minipanel menu-minipanel-0">Why MBA overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/qs-north-american-business-school-roi-report"><img alt="MBA ROI report for North America" title="New MBA ROI report for North America" class="media-element file-default panopoly-image-original" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/roi_nam_2015_dropdown.jpg?itok=xiKp7IwQ"></a></p><p class="heading_2nd_menu"><strong><a href="/why-mba/publications/qs-north-american-business-school-roi-report"><i>QS Return on Investment – North American Full-Time MBA 2015</i></a></strong></p><h3>Measuring MBA ROI across 85 schools in North America</h3><p><strong><a href="/why-mba/publications/qs-north-american-business-school-roi-report">Read Now</a></strong></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4000">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-programs_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-1">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-4000 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4029"><a href="/mba-programs/full-time-mba-guide">Full-time MBA</a></li>
-<li class="leaf menu-mlid-4031"><a href="/programs/executive-mba">Executive MBA</a></li>
-<li class="leaf menu-mlid-4032"><a href="/mba-programs/distance-online-mba-guide">Distance Online MBA</a></li>
-<li class="leaf menu-mlid-4033"><a href="/mba-programs/home">Specializations</a></li>
-<li class="leaf menu-mlid-8349"><a href="/mba-programs">MBA Program Articles</a></li>
-<li class="last leaf menu-mlid-4034"><a href="/mba-programs/home">Programs Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-2">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/global-250-business-schools-report-2017"><img alt="QS Global 250 Business Schools Report 2017" title="The QS Global 250 Business Schools Report 2017" class="media-element file-default panopoly-image-original" data-delta="1" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/g250_menudropdown_0.jpg?itok=X5k2JPr4"></a></p><p><a href="/why-mba/publications/global-250-business-schools-report-2017">The QS Global 250 Business Schools Report 2017</a></p><h3>QS’s guide to the world’s top full-time MBA programs</h3><p><a href="/why-mba/publications/global-250-business-schools-report-2017">View now</a></p><p></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-3756">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-where_to_study_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-3">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-3756 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4682"><a href="/where-to-study/region/usa-canada/guide">US &amp; Canada</a></li>
-<li class="leaf menu-mlid-4683"><a href="/where-to-study/region/europe/guide">Europe</a></li>
-<li class="leaf menu-mlid-4684"><a href="/where-to-study/region/asia/guide">Asia</a></li>
-<li class="leaf menu-mlid-4685"><a href="/where-to-study/australasia/guide">Australia &amp; New Zealand</a></li>
-<li class="leaf menu-mlid-4686"><a href="/where-to-study/region/latin-america/guide">Latin America</a></li>
-<li class="leaf menu-mlid-4687"><a href="/where-to-study/region/middle-east/guide">Middle East</a></li>
-<li class="leaf menu-mlid-4688"><a href="/where-to-study/region/africa/guide">Africa</a></li>
-<li class="last leaf menu-mlid-4689"><a href="/where-to-study/home">Where to Study Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/where-to-study/home"><img height="117" width="175" class="media-element file-default panopoly-image-original" data-delta="1" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/where-to-study.jpg?itok=ecXXV6d7"></a></p><p class="heading_2nd_menu"><a href="/where-to-study/home">Top Business Schools around the world</a></p><p><a href="https://www.topmba.com/institution/region/north-america">Business Schools in North America</a> <a href="https://www.topmba.com/institution/region/europe">Business Schools in Europe</a> <a href="https://www.topmba.com/institution/region/asia">Business Schools in Asia</a> <a href="https://www.topmba.com/institution/region/latin-america">Business Schools in South America</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4001">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-where_to_study_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-3">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-3756 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4682"><a href="/where-to-study/region/usa-canada/guide">US &amp; Canada</a></li>
-<li class="leaf menu-mlid-4683"><a href="/where-to-study/region/europe/guide">Europe</a></li>
-<li class="leaf menu-mlid-4684"><a href="/where-to-study/region/asia/guide">Asia</a></li>
-<li class="leaf menu-mlid-4685"><a href="/where-to-study/australasia/guide">Australia &amp; New Zealand</a></li>
-<li class="leaf menu-mlid-4686"><a href="/where-to-study/region/latin-america/guide">Latin America</a></li>
-<li class="leaf menu-mlid-4687"><a href="/where-to-study/region/middle-east/guide">Middle East</a></li>
-<li class="leaf menu-mlid-4688"><a href="/where-to-study/region/africa/guide">Africa</a></li>
-<li class="last leaf menu-mlid-4689"><a href="/where-to-study/home">Where to Study Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/where-to-study/home"><img height="117" width="175" class="media-element file-default panopoly-image-original" data-delta="1" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/where-to-study.jpg?itok=ecXXV6d7"></a></p><p class="heading_2nd_menu"><a href="/where-to-study/home">Top Business Schools around the world</a></p><p><a href="https://www.topmba.com/institution/region/north-america">Business Schools in North America</a> <a href="https://www.topmba.com/institution/region/europe">Business Schools in Europe</a> <a href="https://www.topmba.com/institution/region/asia">Business Schools in Asia</a> <a href="https://www.topmba.com/institution/region/latin-america">Business Schools in South America</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4013">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-rankings_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-4">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-4013 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4065"><a href="/mba-rankings/region">QS Global Full Time MBA Rankings by Region</a></li>
-<li class="leaf menu-mlid-4068"><a href="/why-mba/publications/global-250-business-schools-report-2017">QS Global 250 Business Schools Report</a></li>
-<li class="leaf menu-mlid-57259"><a href="http://www.topmba.com/emba-rankings">QS Global EMBA Rankings</a></li>
-<li class="collapsed menu-mlid-4066"><a href="/mba-rankings/specialization">QS MBA Rankings in 10 Specializations</a></li>
-<li class="leaf menu-mlid-5511"><a href="/mba-rankings/online-mba-rankings">QS Distance Online MBA Rankings</a></li>
-<li class="last leaf menu-mlid-4726"><a href="/mba-rankings/home">Rankings Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p class="heading_2nd_menu"><a href="/mba-rankings/online-mba-rankings/2017"><img alt="QS Distance Online MBA Rankings 2017" title="The QS Distance Online MBA Rankings 2017" class="media-element file-default panopoly-image-original" data-delta="1" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/online_rankings_base_image_dropdown.jpg?itok=DjNIBU2c"></a></p><p><a href="/mba-rankings/online-mba-rankings/2017">The QS Distance Online MBA Rankings 2017</a></p><h3>Discover the world’s leading online MBA programs</h3><p><a href="/mba-rankings/online-mba-rankings/2017">View now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4035">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-mba_events_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-5">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-4002 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4057"><a href="/events/qs-world-mba-tour" title="QS World MBA Tour">QS World MBA Tour</a></li>
-<li class="leaf menu-mlid-4058"><a href="/events/qs-connect-1-2-1" title="QS TopMBA Connect 1-2-1">QS TopMBA Connect 1-2-1</a></li>
-<li class="leaf menu-mlid-4059"><a href="/events/qs-executive-connect" title="QS Executive Connect">QS Executive Connect</a></li>
-<li class="leaf menu-mlid-4060"><a href="/events/qs-women-leadership" title="QS Women in Leadership">QS Women in Leadership</a></li>
-<li class="last leaf menu-mlid-4730"><a href="/events">MBA Events Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-5">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/events"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/events.jpg?itok=QQpT8mN7"></a></p><p class="heading_2nd_menu"><a href="/events">MBA Events</a></p><h3>Meet the world’s top business schools</h3><p><a href="/events">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4002">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-mba_events_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-5">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-4002 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4057"><a href="/events/qs-world-mba-tour" title="QS World MBA Tour">QS World MBA Tour</a></li>
-<li class="leaf menu-mlid-4058"><a href="/events/qs-connect-1-2-1" title="QS TopMBA Connect 1-2-1">QS TopMBA Connect 1-2-1</a></li>
-<li class="leaf menu-mlid-4059"><a href="/events/qs-executive-connect" title="QS Executive Connect">QS Executive Connect</a></li>
-<li class="leaf menu-mlid-4060"><a href="/events/qs-women-leadership" title="QS Women in Leadership">QS Women in Leadership</a></li>
-<li class="last leaf menu-mlid-4730"><a href="/events">MBA Events Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-5">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/events"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/events.jpg?itok=QQpT8mN7"></a></p><p class="heading_2nd_menu"><a href="/events">MBA Events</a></p><h3>Meet the world’s top business schools</h3><p><a href="/events">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4012">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-admissions_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-7">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-4012 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4105"><a href="/admissions">MBA Admissions</a></li>
-<li class="leaf menu-mlid-4062"><a href="/admissions/gmatgre">GMAT/GRE</a></li>
-<li class="leaf menu-mlid-4063"><a href="/admissions/financing-your-mba">Financing your MBA</a></li>
-<li class="leaf menu-mlid-4064"><a href="/scholarships">Scholarships</a></li>
-<li class="leaf menu-mlid-4104"><a href="/admissions/financing-your-mba/scholarship-winners">Scholarship Winners</a></li>
-<li class="leaf menu-mlid-28206"><a href="/admissions/videos">Videos</a></li>
-<li class="leaf menu-mlid-4096"><a href="/blog">Blog</a></li>
-<li class="leaf menu-mlid-4098"><a href="/forum">Forum</a></li>
-<li class="last leaf menu-mlid-4727"><a href="/admissions/home">Admissions Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-6">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/scholarships"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/scholarships_0.jpg?itok=MjqdjvZi"></a></p><p class="heading_2nd_menu"><a href="/scholarships">Scholarships</a></p><h3>Apply for US$1.7 million of QS MBA Scholarships</h3><p>&nbsp;</p><p><a href="/scholarships">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-4018">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-mba_jobs_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-6">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4018 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4094"><a href="/jobs">MBA Careers</a></li>
-<li class="leaf menu-mlid-4091"><a href="/jobs/employers">MBA Employers</a></li>
-<li class="leaf menu-mlid-4093"><a href="/jobs/career-trends">Career Trends</a></li>
-<li class="leaf menu-mlid-4092"><a href="/jobs/internships">Internships</a></li>
-<li class="last leaf menu-mlid-4728"><a href="/jobs/home">MBA Jobs Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-7">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17"><img alt="QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" title="The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" class="media-element file-default panopoly-image-original" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/js2017_menudrop.jpg?itok=oSFBBej2"></a></p><p class="heading_2nd_menu"><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17</a></p><h3>Find out which industries hire the most MBAs, and how much they pay</h3><p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-3759">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-community_menu_item">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-          </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/community/home"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/topmba_forum_launch_button.jpg?itok=4f0OCXAu"></a></p><p class="heading_2nd_menu"><a href="/community/home">QS TopMBA Forum</a></p><h3>Join the conversation in our brand new forum</h3><p><a href="/community/home">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-8071">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-community_menu_item">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-          </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/community/home"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/topmba_forum_launch_button.jpg?itok=4f0OCXAu"></a></p><p class="heading_2nd_menu"><a href="/community/home">QS TopMBA Forum</a></p><h3>Join the conversation in our brand new forum</h3><p><a href="/community/home">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-8026">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-mba_jobs_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-6">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4018 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4094"><a href="/jobs">MBA Careers</a></li>
-<li class="leaf menu-mlid-4091"><a href="/jobs/employers">MBA Employers</a></li>
-<li class="leaf menu-mlid-4093"><a href="/jobs/career-trends">Career Trends</a></li>
-<li class="leaf menu-mlid-4092"><a href="/jobs/internships">Internships</a></li>
-<li class="last leaf menu-mlid-4728"><a href="/jobs/home">MBA Jobs Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-7">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17"><img alt="QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" title="The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" class="media-element file-default panopoly-image-original" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/js2017_menudrop.jpg?itok=oSFBBej2"></a></p><p class="heading_2nd_menu"><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17</a></p><h3>Find out which industries hire the most MBAs, and how much they pay</h3><p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-8031">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-mba_jobs_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-6">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-4018 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4094"><a href="/jobs">MBA Careers</a></li>
-<li class="leaf menu-mlid-4091"><a href="/jobs/employers">MBA Employers</a></li>
-<li class="leaf menu-mlid-4093"><a href="/jobs/career-trends">Career Trends</a></li>
-<li class="leaf menu-mlid-4092"><a href="/jobs/internships">Internships</a></li>
-<li class="last leaf menu-mlid-4728"><a href="/jobs/home">MBA Jobs Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-7">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17"><img alt="QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" title="The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17" class="media-element file-default panopoly-image-original" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/js2017_menudrop.jpg?itok=oSFBBej2"></a></p><p class="heading_2nd_menu"><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">The QS TopMBA.com Jobs &amp; Salary Trends Report 2016/17</a></p><h3>Find out which industries hire the most MBAs, and how much they pay</h3><p><a href="/why-mba/publications/jobs-salary-trends-report-2016-17">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-12006">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-community_menu_item">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-          </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-1">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/community/home"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/topmba_forum_launch_button.jpg?itok=4f0OCXAu"></a></p><p class="heading_2nd_menu"><a href="/community/home">QS TopMBA Forum</a></p><h3>Join the conversation in our brand new forum</h3><p><a href="/community/home">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><div class="menu-minipanels menu-minipanel-12011">
-<div class="panel-display phelan clearfix qs-phelan" id="mini-panel-admissions_menu">
-
-
-  <div class="column1 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-block pane-menu-block-7">
-  
-      
-  
-  <div class="pane-content">
-    <div class="menu-block-wrapper menu-block-7 menu-name-main-menu parent-mlid-4012 menu-level-1">
-  <ul class="menu nav nav-pills nav-stacked"><li class="first leaf menu-mlid-4105"><a href="/admissions">MBA Admissions</a></li>
-<li class="leaf menu-mlid-4062"><a href="/admissions/gmatgre">GMAT/GRE</a></li>
-<li class="leaf menu-mlid-4063"><a href="/admissions/financing-your-mba">Financing your MBA</a></li>
-<li class="leaf menu-mlid-4064"><a href="/scholarships">Scholarships</a></li>
-<li class="leaf menu-mlid-4104"><a href="/admissions/financing-your-mba/scholarship-winners">Scholarship Winners</a></li>
-<li class="leaf menu-mlid-28206"><a href="/admissions/videos">Videos</a></li>
-<li class="leaf menu-mlid-4096"><a href="/blog">Blog</a></li>
-<li class="leaf menu-mlid-4098"><a href="/forum">Forum</a></li>
-<li class="last leaf menu-mlid-4727"><a href="/admissions/home">Admissions Overview</a></li>
-</ul></div>
-  </div>
-
-  
-  </div>
-    </div>
-  </div>
-  <div class="column2 panel-panel">
-    <div class="panel-panel-inner">
-      <div class="panel-pane pane-custom pane-6">
-  
-      
-  
-  <div class="pane-content">
-    <p><a href="/scholarships"><img height="117" width="175" class="media-element file-default panopoly-image-original" alt="" title="" typeof="foaf:Image" src="https://www.topmba.com/sites/default/files/styles/panopoly_image_original/public/scholarships_0.jpg?itok=MjqdjvZi"></a></p><p class="heading_2nd_menu"><a href="/scholarships">Scholarships</a></p><h3>Apply for US$1.7 million of QS MBA Scholarships</h3><p>&nbsp;</p><p><a href="/scholarships">Read now</a></p>  </div>
-
-  
-  </div>
-    </div>
-  </div>
-
-
-</div><!-- /.phelan -->
-</div><script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_7Ukqb3ierdBEL0eowfOKzTkNu-Le97OPm-UqTS5NENU.js"></script>
-<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_YSbaRi80rh_OSOli3HoUcRTr7yeh_YWaQpdckZ1BNyw.js"></script>
+  <script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_7Ukqb3ierdBEL0eowfOKzTkNu-Le97OPm-UqTS5NENU.js"></script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_29qYXJz8NLGg8Aomg-RZPjJcj9yEdEst1BMZ9gZbs-4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_tqC0xSbhZO_YGs08n9CwrrPj091CkUFnc8Rnjlybb3I.js"></script>
 <script type="text/javascript" src="https://www.topmba.com/sites/default/files/js/js_TuPP9m112wdyS5pLj13DJ4VbFMK9VjQdpJhMV0FeEAE.js"></script>
   <script src="/sites/all/themes/topmba/assets/javascripts/jasny-bootstrap.min.js"></script>
   <!--
@@ -1555,6 +950,6 @@ AWIN.Tracking.Sale.channel = 'na';
   </script>
   <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/stbzn1z1';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9a19f12ede","applicationID":"3778693","transactionName":"ZVEDYhFSWkVYURENV1wbIFUXWltYFkIEA11tWQBYAlRRRGZcCgBdbUIIUxRsRFdeVw==","queueTime":0,"applicationTime":952,"atts":"SRYAFFlISUs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9a19f12ede","applicationID":"3778693","transactionName":"ZVEDYhFSWkVYURENV1wbIFUXWltYFkIEA11tWQBYAlRRRGZcCgBdbUIIUxRsRFdeVw==","queueTime":0,"applicationTime":578,"atts":"SRYAFFlISUs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
