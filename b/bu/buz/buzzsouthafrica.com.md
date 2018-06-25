@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910085000id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625234946id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - South Africa News | Read Latest SA News on BuzzSouthAfrica.com
+# Privacy Policy - BuzzSouthAfrica - Famous People, Celebrity Bios, Updates, Trendy News
 
 ## Your Privacy Rights
 
@@ -53,6 +53,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 ### Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email to  **info@alexmooremedia.com  **
+Should you have other questions or concerns about these privacy policies, please send us an email to  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **
 
 Effective Date: 14 November 2014
