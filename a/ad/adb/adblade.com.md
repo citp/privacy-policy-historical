@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314041658id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025420id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
 
 # Adblade - Privacy Policy
 
@@ -58,4 +58,4 @@ Adblade works hard to respect the privacy of its users. Unless required otherwis
 
 Adblade reserves the right to change this policy at any time due to changes in applicable laws, Adblade's business needs or otherwise. Use of Adblade.com and the advertising network of owned and partnered websites which utilize Adblade's services constitute agreement with the terms of this policy as may be amended by Adblade from time to time.
 
-Last updated: October 5, 2011 
+Last updated: September 22, 2015 
