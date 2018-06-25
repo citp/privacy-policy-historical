@@ -1,68 +1,151 @@
-> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830211050id_/https%3A//www.cgtrader.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625053233id_/https%3A//www.cgtrader.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CGTrader.com
+# Privacy Policy | CGTrader
 
-CGTrader is committed to protecting the privacy of its users.
+**WEBSITE PRIVACY POLICY – CGTrader **
 
-### Collection of Data
+Like most website operators, CGTrader collects data about visitors to our website at [www.cgtrader.com](http://www.cgtrader.com/) ( **Website** ). This helps us understand how useful the website is and how to improve it.
 
-We may collect personal contact information from you, including your name, e-mail, bank account/ credit card/ PayPal information, address, reputation score. If you sell 3D models on CGTrader, we may request information that is required for tax institutions of Republic of Lithuania – including passport or governmental ID copies, physical address, date of birth, and identification number, which are used solely to comply with tax authorities of Republic of Lithuania when making payouts to you. You may access this information in your [Payment Agreement section](https://www.cgtrader.com/profile/payment_agreements) or request to have this information modified or removed from our systems at any time by contacting us at info@cgtrader.com. In case of a user's request to changing or removing this information, CGTrader commits to responding and/or proceeding this request in 3 working days. We only use this information to carry out the immediate activity requested and for no other purpose. No information or user data is kept longer than 5 years - all the information is automatically deleted after the time validation from the last login date expires. We do not carry out any personal research nor do we disclose this data to any persons outside of CGTrader and its immediate staff and partners.
+CGTrader data collection practices are governed by the following Privacy Policy ( **Policy** ), which tells you what data CGTrader collect, how we use that data and who has access to that data.
 
-### Cookies
+You will also find important information about your privacy rights, so please read the Policy carefully.
 
-CGTrader does not use cookies to extract information from you, solely to simplify your visits - we use this in order to enable you to come back to CGTrader without having to login each and every time, as well as when you create a Member Account, and using external analytics services, such as Google Analytics, Intercom.io, and others. Your continued use of CGTrader means that you consent to such use of the cookies by CGTrader. When you create a Member Account, CGTrader will use cookies to store your Member ID. This Member ID is a string of random characters and contains none of your personal information. A temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have had to log on again on each page as well as use site's functions like shopping cart, item likes and similar ones. You can turn off cookies in your web browser (more information about this is available at [ http://www.aboutcookies.org/). ](http://www.aboutcookies.org/\).) This will however make it more or less impossible to access many of the functions on our web site.
+UAB “CGTrader”, company code 302935696, Naugarduko str. 3, Vilnius, Lithuania ( **CGTrader** , **we** or **us** ) is the controller of your personal data. You can contact us by email at [info@cgtrader.com](mailto:info@cgtrader.com). You can contact our data protection officer by email at [dpo@cgtrader.com](mailto:dpo@cgtrader.com).
 
-Cookie Title  |  Description  |  Data used  |  Created at  |  Expiration date/Time valid  |  Domain   
----|---|---|---|---|---  
-rating_tab  |  Stores last product type used in Community Ratings pages.  |  String  |  On product type switch in community ratings page.  |  At end of browser session  |  cgtrader   
-per_page  |  Stores per page user pererence. Is used in listing pages.  |  Integer  |  On first listing page view.  |  At end of browser session  |  cgtrader   
-i_am_an_adult  |  Stores user confirmation to be legal for adult content.  |  Boolean  |  On first attempt to access adult content.  |  5 years  |  cgtrader   
-fileDownload  |  Improves download experience. Used to indicate file download completed event.  |  Boolean  |  On file download request.  |  5 years  |  cgtrader   
-_cgtrader_session  |  Encrypted user sessions, used for unique user identification.  |  Encrypted Hash  |  On first visit.  |  At end of browser session  |  cgtrader   
-_cgtrader_cookies_check  |  Used to identify if users browsers supports cookies.  |  Boolean  |  On first visit.  |  5 years  |  cgtrader   
-vanity_id  |  Uniq user identifier used by A/B testing framework.  |  String  |  On first visit.  |  5 years  |  cgtrader   
-_cgtrader_uuid  |  Uniq user identifier used for pageviews tracking.  |  String  |  On first visit.  |  5 years  |  cgtrader   
-_cgtrader_98e316  |  Stores browsing time and pageviews, is used for ponential customer type identification.  |  Encrypted Hash  |  On first visit.  |  5 years  |  cgtrader   
-_cgtrader_wj31es  |  Indicates if user have seen first model upload popup.  |  Boolean  |  On first model upload popup show.  |  1 year  |  cgtrader   
-_cgtrader_splp41  |  Indicates if user have seen subscribe to low poly newsletter popup.  |  Boolean  |  On first subscribe to low poly nwesletter popup show.  |  1 year  |  cgtrader   
-_cgtrader_tpsa07  |  Stores date of last shown recommendation/tip.  |  Date  |  On first model tips show.  |  5 years  |  cgtrader   
-_cgtrader_tpsw09  |  Indicates if user have seen tip/recommendation.  |  Boolean  |  On first model tips show.  |  5 years  |  cgtrader   
-_cgtrader_3d3b10  |  Indicates if user have seen happy hour discounts popup.  |  Boolean  |  On first happy hour discount popup show.  |  1 day  |  cgtrader   
-_cgtrader_547b4e  |  Indicates if user have seen happy hour discounts popup in free listing pages.  |  Boolean  |  On first happy hour discount popup show in free listing pages.  |  5 years  |  cgtrader   
-_cgtrader_sep12f  |  Indicates if user have seen buyers engagement program popup.  |  Boolean  |  On first buyers engagement program popup show.  |  1 day  |  cgtrader   
-_cgtrader_qbw947  |  Indicates if user have seen seller analytics feature popup.  |  Boolean  |  On first seller analytics feature popup show.  |  1 day  |  cgtrader   
-_cgtrader_cpsa48  |  Indicates if user has accepted with cookies policy.  |  Boolean  |  After user accepts with cookies policy.  |  1 year  |  cgtrader   
-_gat_UA-21829154-5  |  Used by google universal analytics service.  |  String  |  On first visit.  |  10 minutes  |  google   
-_ga  |  Used by google analytics service.  |  String  |  On first visit.  |  2 years  |  google   
-_dc_gtm_UA-21829154-5  |  Used by google tag manager service.  |  String  |  On first visit.  |  10 minutes  |  google   
-__zlcmid  |  Used by zendesk service.  |  String  |  On first visit.  |  1 year  |  zendesk   
-  
-### Security
+ **Contents**
 
-Our intent is to provide privacy, integrity, as well as authentication with regards to our Internet communication. The security measures we have taken are intended to secure and encrypt your data, such that a third party cannot capture, access or read the information while it is in transit between your computer and our system.
+ **1.Information we collect and how we use it**
 
-### Links to External Sites
+1.1.Data about your use of the Website
 
-CGTrader cannot be held responsible for the content or data policies and procedures found on external sites. If you would like to be informed of any changes that we make to our privacy policy, please contact us.
+1.2.Registration information
 
-### Direct Marketing
+1.3.Transaction information
 
-CGTrader may send you e-mails for marketing purposes only in case of your explicit consent. In case you wish to stop receiving e-mails for marketing purposes please click unsubscribe found at the end of such e-mail.
+1.4.Participation information
 
-### Infringement of Privacy
+1.5.Inquiries and answers
 
-In case of any infringement of your privacy either by CGTrader or Member of the Site, please contact:
+1.6.Direct marketing
 
-Dalia Lasaite
+1.7.Cookies
 
-UAB CGTrader
+1.8.Profiling
 
-Antakalnio st. 17
+ **2\. Who may See your data**
 
-LT-10312 Vilnius
+ **3\. How long we keep your data**
 
-Company code: 302935696
+ **4\. Links to other sites**
 
-Lithuania
+ **5\. Updates**
 
-E-mail: dalia@cgtrader.com
+ **6\. Your rights**
+
+ **** **1\. INFORMATION WE COLLECT AND HOW WE USE IT**
+
+In this Policy, “personal data” is defined as any information relating to an identified or identifiable natural person.
+
+ **1.1. Data about your use of the Website**
+
+We always improve our Website and user experience. Therefore we have to know what information on the Website is most interesting for visitors, from which countries visitors come to our Website, how often visitors return, which browsers they use, on which devices the Website is browsed, what is their IP address, how you move, click or scroll around our Website etc. 
+
+We may collect and use the information you provide to us, such as your location, IP address or any other information you give us by filling in forms on the Website, or by corresponding with us, or information received through the use of cookies, as well as information about you that we receive from other sources such as public domain or third parties we work with (business partners, data controllers, advertising networks, social media platforms and others). 
+
+We collect this information by using third party tools such as Google Analytics or similar ones, which allows to record and analyse statistical data about use of the Website.
+
+Legal basis to collect the data about use of the Website is necessity to perform our service to provide you with our Website and our legitimate interest to improve it.
+
+ **1.2. Registration information**
+
+When you register to use our services by establishing an account or connecting your Facebook or Google account to the Website, we will collect personal data as necessary to offer and fulfil the services you request. Depending on the services you choose, we may require you to provide us with your username and email address to establish an account. We may require you to provide us with additional personal data as you use our services.
+
+Legal basis to collect the data about registration information is performance of a contract to or in order to take steps at your request prior to entering into a contract between us as well as to provide our services.
+
+ **1.3. Transaction information**
+
+When you use our services or access our website, to make purchases from the designers, we collect information about your payments and transactions, as well as other information associated with the transaction such as amount paid for designs, used payment method, geolocation information or other important information.
+
+When you use our services or access our website, to sell your designs on our website, we collect information about your name, surname, personal identification document, personal code or its equivalent, transactions information and your address.
+
+All this information is necessary for us to calculate the applicable taxes, to facilitate the transactions as well as to keep track of the rights obtained to the designs.
+
+Legal basis to collect the data about transaction information is to execute a contract between you, designer and us as well as to provide our services. We also process this personal data to fulfil our obligations under applicable accounting and tax laws. In these cases, the processing of personal data is based on mandatory legal provisions which require that we store certain data for accounting purposes.
+
+ **1.4. Participation information**
+
+When you use our service or access our Website to connect with other members via forum, to participate in challenges, competitions, we collect information that you post in our forums as well as your name, surname, email address and link to your personal website.
+
+Legal basis to collect the data about participation information is performance of a contract to or in order to take steps at your request prior to entering into a contract between us as well as to provide our services.
+
+ **1.5. Inquiries and answers**
+
+When you visit our Website, you have the opportunity to ask questions and make comments. We process your personal data of your inquiries or comments in order to provide answers to the submitted questions or to respond to the expressed opinions.
+
+Legal basis for processing this data is our legitimate interest to respond to your inquiries or comments.
+
+ **1.6. Direct Marketing**
+
+If you subscribe to our news by providing your consent while registering, or make a purchase on our Website or download models for free and do not object to receive news, we may use your e-mail address for the purpose of sending you CGTrader updates, offers and other marketing material.
+
+To learn more about how we use your email for marketing purposes, please read our Direct Marketing Notice. 
+
+Legal basis to provide you with direct marketing material is your consent or our legitimate interest to provide you with relevant information about CGTrader and offers of goods and services available at our Website. You may disagree with such use of your email at any time by clicking “unsubscribe” in the message you receive from us or by updating your account settings. **Cookies**
+
+We use cookies to improve our website, make your browsing experience and our business decisions better. To learn more about use of cookies, please read our [Cookie Notice](https://www.cgtrader.com/pages/cookie-notice).
+
+Legal basis to collect data by cookies is our legitimate interest in ensuring the technical functionality of the Website, and when cookies are used to memorise your choices, collect statistical data and provide tailor-made advertising – your consent.
+
+ **1.8. Profiling**
+
+CGTrader may use the data of your activities as well as transactions to provide you with the most relevant information. CGTrader assigns each member to an individual profile depending on your interests, for example if you are looking to purchase designs, to sell them or both. CGTrader also assigns profile to inactive users or the ones who like to enjoy free content. Depending on the profile that you are assigned to, CGTrader will amend the experience you receive while visiting our website which might include slight alterations of the Website as well as most interesting pieces of the Website will reach you first or you might access additional functionalities.
+
+You may freely choose your main interests in your profile settings to guarantee the best experience.
+
+Legal basis to process this data is necessity to perform our service to provide you with our Website and our legitimate interest to improve it.
+
+CGTrader may also provide you with tailor made direct marketing materials based on your browsing, purchase or download history if you are a buyer or based on your browsing history or uploaded models if you are designer.
+
+Legal basis to provide you with direct marketing material is your consent or our legitimate interest to provide you with relevant information about CGTrader and offers of goods and services available at our Website. You may object to such use of your data at any time by updating your account settings.
+
+ **2\. WHO MAY SEE YOUR DATA**
+
+We put our best efforts to keep your data safe and always require the high level of security and confidentiality from our employees and partners.
+
+We may share your personal data with our trusted services providers when they provide services to us, to you on behalf of us and under our instructions. We will control and shall remain responsible for the use of your personal data at all times.
+
+Transaction information data may be accessible to our partners, who provide us with tools for payments. Our partner PayPal operates in various countries worldwide, therefore depending on your location, your data might be transferred outside EU. To ensure adequate level of safety for your data, the PayPal has established binding corporate rules. Our partner Payoneer is based in the US and certain data may be transferred outside EU. Payoneer ensures your data safety by having suitable contract terms in place.
+
+Statistical browsing data may be accessible to our partners, who provide us with tools for analytics. Google LLC is based in the US and certain data may be transferred outside EU. Google LLC participates in the Privacy Shield.
+
+Your personal data may be disclosed to public authorities if we are required to disclose personal data by law or to comply with a lawful request of authorities. 
+
+**3\. HOW LONG WE KEEP YOUR DATA**
+
+Personal data will be stored for the period of your membership in our website and 2 years after your last log in to the Website. The information that you post in our forums may be kept for a longer period after it is anonymised. Transaction data will be kept for the period of the license term to the designs.
+
+Statistical data will be stored for a period of up to 2 years.
+
+In some cases, personal data may be stored for a longer period if storage of personal data is required in order to protect our or any third parties’ legitimate interests, e.g. for the period of statutory limitation or in case of a legal dispute.Links to other sites
+
+The Website may contain hyperlinks to other sites, i.e. links leading to websites of our partners or to social media websites. This Policy is applicable only with respect to the Website, but not any other sites, therefore we strongly recommend to review the privacy policies of any websites that you may reach by following hyperlinks presented in this Website. We have no control and no responsibility with regard to any content presented in sites other than the Website.
+
+ **5\. UPDATES**
+
+We may change this Policy from time to time. If we make any changes to this Policy, we will let you know it on our Website at <https://www.cgtrader.com/pages/privacy-policy>, where you will also find the latest version of this Policy.
+
+ **6\. YOUR RIGHTS**
+
+By contacting us at info@cgtrader.com, you may exercise your rights as the data subject, including the following:
+
+  * The right to request access to your personal data. You may access, correct, update, change or remove your personal data at any time. However, please note that certain information is strictly necessary in order to fulfil the purposes defined in this Policy and may also be required by law. Thus, you may not remove such personal data;
+  * The right to request rectification of your personal data;
+  * The right to request erasure of your personal data. If personal data is erased under your request, we will only retain such copies of the information as are necessary for us to protect our or third parties’ legitimate interests, comply with governmental orders, resolve disputes, troubleshoot problems, or enforce any agreement you have entered into with us.; 
+  * The right to withdraw consent regarding processing of personal data;
+  * The right to data portability.
+
+
+
+In some cases you may have a right to request restriction of processing of your personal data or to object to processing of your personal data. 
+
+If you are domiciled in the EU and you think your privacy rights were breached, you may lodge a complaint with the data protection authority of the country of your domicile. You may find the list and contact details of EU data protection authorities here - [http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061). 
