@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126224122id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626011447id_/https%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | After School Africa
 
@@ -8,11 +8,11 @@
 
 This site keeps all your personal information secret. Your personal information is not shared with anyone else.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@afterschoolafrica.com
 
 ##  **Long Version**
 
-This privacy statement has been created in order to demonstrate the firm commitment of [www.afterschoolafrica.com](http://www.afterschoolafrica.com/about/contact/) to privacy. The following statement discloses the information gathering and dissemination practices for this website. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by www.afterschoolafrica.com and how it is used.
+This privacy statement has been created in order to demonstrate the firm commitment of [www.afterschoolafrica.com](https://www.afterschoolafrica.com/about/contact/) to privacy. The following statement discloses the information gathering and dissemination practices for this website. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by www.afterschoolafrica.com and how it is used.
 
  **Log Files**  
 Like many other Web sites, www.afterschoolafrica.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
