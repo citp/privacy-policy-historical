@@ -1,83 +1,328 @@
-> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902212922id_/http%3A//www.darkhorizons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120129id_/http%3A//www.darkhorizons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dark Horizons
 
-Dark Futures Pty Ltd. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “Dark Horizons” at http://www.darkhorizons.com. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy.
+Privacy Policy of **www.darkhorizons.com**
 
-#### Cookies
+Dark Futures Pty Ltd. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “Dark Horizons” at http://www.darkhorizons.com. 
 
-A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are “session cookies,” which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them.
+This Website collects some Personal Data from its Users. Users may be subject to different protection standards and broader standards may therefore apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.
 
-#### Web Beacons
+We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy.
 
-Generally, a Web beacon consists of a small string of software code that represents a graphic image request on a Web page or email. Web beacons can be used for many purposes –including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. A significant majority of web beacons collect only anonymous data.
+OWNER AND DATA CONTROLLER  
+Dark Futures Pty. Ltd.  
+Owner contact email: privacy@darkhorizons.com
 
-#### Third Party Cookies and Web beacons
+TYPES OF DATA COLLECTED
 
-In the course of serving advertisements to this site and/or collecting site traffic reporting statistics , our third-party advertiser(s) and/or audience measurement organizations may place or recognize cookies and/or Web beacons on your browser. We do not provide any Personally Identifiable Information to these advertisers, third party websites, or other businesses. These third party websites, businesses and advertisers or advertising companies working on their behalf may sometimes use technology to deliver the advertisements that appear on our site directly to your browser. They automatically receive your IP address when this happens. We do not have access to or control over cookies or other technologies that they may use and the information practices of these advertisers and third party advertisers, third party websites or businesses are not covered by this policy and you should refer to their respective privacy policies.
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies, Usage Data, email address and various types of Data.
 
-#### How We Use Cookies
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 
-We use cookies (1) to estimate the number of visitors to our Web site, and (2) to measure general traffic patterns.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.
 
-Companies that place ads on the darkhorizons.com Web site may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the www.darkhorizons.com web site may not function properly if your browser refuses our cookies.
+Unless specified otherwise, all Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
 
-#### Cookie Notification and Disabling
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
 
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the www.darkhorizons.com web site may not function properly if your browser is set to reject cookies. Users can opt out of advertising behavioral targeting through the opt-out link located [here](http://www.networkadvertising.org/choices/).
+Any use of Cookies – or of other tracking tools – by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-#### Personally Identifiable Information
+Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party’s consent to provide the Data to the Owner.
 
-Personally Identifiable Information is your name, address, e-mail address, phone number, and credit card information.
+MODE AND PLACE OF PROCESSING THE DATA
 
-#### Where We Collect Personally Identifiable Information
+**Methods of processing**
 
-We collect personally identifiable information when you (1) use the social network options, (2) use the “email a friend” option and (3) submit feedback, questions, or “contact us” messages, (4) enter contests, (5) post a comment in the ‘comments’ section of articles, (6) submit e-mails or letters to us.
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
-#### How We Use Personally Identifiable Information
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-Dark Futures Pty Ltd. only uses your personally identifiable information to respond to your questions or requests to contact us. We are participants in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising.
+**Legal basis of processing**
 
-#### Anonymous Information Collected on this Website
+The Owner may process Personal Data relating to Users if one of the following applies:
 
-Dark Futures Pty Ltd. also compiles aggregate data from all of our customers such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Dark Futures Pty Ltd. does not combine your personally identifiable information with information about pages visited or any other click-stream data.
+– Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
 
-#### Who We Disclose Personally Identifiable Information To
+– provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
 
-The www.darkhorizons.com web site contains advertisements and links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the www.darkhorizons.com web site. Dark Futures Pty Ltd. is not responsible for the privacy policies, practices, or content of Web sites with links on our site. DarkHorizons.com may disclose some personal information to outside companies who help us with the administration and delivery of promotional games, trivia contests, and sweepstakes.
+– processing is necessary for compliance with a legal obligation to which the Owner is subject;
 
-Dark Futures Pty Ltd. reserves the right to co-operate fully with any law enforcement authority in any jurisdiction in respect of any lawful direction or request to disclose your identity or other information in respect of your posting any materials which violate any applicable or relevant law. We may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Dark Futures Pty Ltd. or others.
+– processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
 
-#### Demographic Information
+– processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
-Demographic information may be collected on the www.darkhorizons.com web site. The information will only be shared with any third-parties in an aggregate format.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-#### Log Files
+**Place**
 
-The www.darkhorizons.com web site automatically logs information such as IP addresses, ISPs, and browser type but does not link that information to personally identifying information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+The Data is processed at the Owner’s operating offices and in any other places where the parties involved in the processing are located.
 
-#### Third Party Advertising
+Depending on the User’s location, data transfers may involve transferring the User’s Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
 
-This site uses the services of indieClick and various independent advertisers for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+If broader protection standards are applicable, Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
 
-#### Security
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+
+**Retention time**
+
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for. Therefore:
+
+– Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+
+– Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+THE PURPOSES OF PROCESSING
+
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Advertising, Interaction with external social networks and platforms, Contacting the User and Content commenting.
+
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
+
+DETAILED INFORMATION ON THE PROCESSING OF PERSONAL DATA
+
+Personal Data is collected for the following purposes and using the following services:
+
+ADVERTISING
+
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Website, possibly based on User interests.
+
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
+
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.
+
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+
+**Google AdSense (Google Inc.)**
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.
+
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant.
+
+**Taboola Monetize Content (Taboola Inc.)**
+
+Taboola is an advertising service provided by Taboola Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://www.taboola.com/privacy-policy) – [Opt Out](https://www.taboola.com/privacy-policy).
+
+**DoubleClick for Publishers (Google Inc.)**
+
+DoubleClick for Publishers is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with.
+
+In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google’s use of data, consult [Google’s partner policy](https://www.google.com/policies/privacy/partners/).
+
+This service uses the “Doubleclick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.
+
+Users may decide to disable all the Doubleclick Cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](http://www.google.com/privacy/ads/).
+
+**PubMatic (PubMatic, Inc.)**
+
+PubMatic is an advertising service provided by PubMatic, Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](http://www.pubmatic.com/privacy-policy.php) – [Opt Out](http://www.pubmatic.com/opt-out/).
+
+**Rubicon Project (The Rubicon Project, Inc.)**
+
+Rubicon Project is an advertising service provided by The Rubicon Project, Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://rubiconproject.com/privacy/) – [Opt Out](https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/).
+
+ANALYTICS
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+
+**Google Analytics (Google Inc.)**
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
+
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant.
+
+**Analytics collected directly (this Website)**
+
+This Website uses an internal analytics system that does not involve third parties.
+
+Personal Data collected: Cookies and Usage Data.
+
+CONTACTING THE USER
+
+**Contact form (this Website)**
+
+By filling in the contact form with their Data, the User authorizes this Website to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+
+Personal Data collected: email address and various types of Data.
+
+CONTENT COMMENTING
+
+Content commenting services allow Users to make and publish their comments on the contents of this Website.
+
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
+
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
+
+**Disqus (Disqus)**
+
+Disqus is a content commenting service provided by Big Heads Labs Inc.
+
+Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. Place of processing: United States – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951).
+
+INTERACTION WITH EXTERNAL SOCIAL NETWORKS AND PLATFORMS
+
+This type of service allows interaction with social networks or other external platforms directly from the pages of this Website.
+
+The interaction and information obtained through this Website are always subject to the User’s privacy settings for each social network.
+
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
+
+**Twitter Tweet button and social widgets (Twitter, Inc.)**
+
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://twitter.com/privacy). Privacy Shield participant.
+
+**Pinterest “Pin it” button and social widgets (Pinterest)**
+
+The Pinterest “Pin it” button and social widgets are services allowing interaction with the Pinterest platform provided by Pinterest Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://about.pinterest.com/en/privacy-policy).
+
+**Facebook Like button and social widgets (Facebook, Inc.)**
+
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+
+Personal Data collected: Cookies and Usage Data. Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/explanation). Privacy Shield participant.
+
+THE RIGHTS OF USERS
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+Users entitled to broader protection standards may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.
+
+In particular, Users have the right to do the following:
+
+– **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+
+– **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+
+– **Access their Data.** Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+
+– **Verify and seek rectification.** Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+
+– **Restrict the processing of their Data.** Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+
+– **Have their Personal Data deleted or otherwise removed.** Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+
+– **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+
+– **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
+
+DETAILS ABOUT THE RIGHT TO OBJECT TO PROCESSING
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. 
+
+HOW TO EXERCISE THESE RIGHTS
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+**Applicability of broader protection standards**
+
+While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.
+
+Such broader protection standards apply when the processing:
+
+– is performed by an Owner based within the EU;
+
+– concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
+
+– concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.
+
+COOKIE POLICY
+
+This Website uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.darkhorizons.com/cookie-policy "Cookie Policy").
+
+ADDITIONAL INFORMATION ABOUT DATA COLLECTION AND PROCESSING
+
+**Legal action**
+
+The User’s Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.
+
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+
+**Additional information about User’s Personal Data**
+
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+**System logs and maintenance**
+
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
+
+**Information not contained in this policy**
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+
+**How ‘Do Not Track’ requests are handled**
+
+This Website does not support “Do Not Track” requests.
+
+To determine whether any of the third-party services it uses honor the ‘Do Not Track’ requests, please read their privacy policies.
+
+**Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Access to data is limited and employees obtain access to log files by a secured password. Dark Futures Pty Ltd. periodically reviews web security and ensures that all policies and practices are adhered to within the company.
 
-#### Minors
+**Protection of Minors**
 
 Dark Futures Pty Ltd. is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to the www.darkhorizons.com web site. In addition our site is not directed to anyone under the age of 13. Children under 13 years of age MUST NOT submit personally identifiable information to www.darkhorizons.com and we will not knowingly collect any personally identifiable information from children under 13 years of age.
 
-#### Links
+**Changes to this privacy policy**
 
-The www.darkhorizons.com web site contains links to other web sites. Please note that when you click on one of these links, you are ‘clicking’ to another web site. We are not responsible for the privacy practices of these or any other sites and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+The Owner reserves the right to make changes to this privacy policy at any time. It is strongly recommended to check this page often. 
 
-#### Contacting the Web Site
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
+DEFINITIONS AND LEGAL REFERENCES
 
-Email: garth@darkhorizons.com
+**Personal Data (or Data)**  
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
 
-#### Changes to this Policy
+**Usage Data**  
+Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
-We reserve the right to amend this Privacy Policy at any time for any reason. Therefore, users are encouraged to check our site frequently and review the current Privacy Policy.
+**User**  
+The individual using this Website who, unless otherwise specified, coincides with the Data Subject.
+
+**Data Subject**  
+The natural person to whom the Personal Data refers.
+
+**Data Processor (or Data Supervisor)**  
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+
+**Data Controller (or Owner)**  
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.
+
+**This Website (or this Application)**  
+The means by which the Personal Data of the User is collected and processed.
+
+**Service**  
+The service provided by this Website as described in the relative terms (if available) and on this site/application.
+
+**European Union (or EU)**  
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+
+**Cookies**  
+Small sets of data stored in the User’s device.
+
+**Legal information**  
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
+
+This privacy policy relates solely to this Website, if not stated otherwise within this document.
