@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002075409id_/https%3A//www.collectorsweekly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025025id_/https%3A//www.collectorsweekly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Collectors Weekly
 
@@ -8,9 +8,7 @@ Thank you for visiting Collectorsweekly.com. We are committed to respecting your
 
 #### Information We Collect
 
-If you choose to provide us with your Personal Information on the site, for example to ask a question, request more information, or respond to a survey, YOUR PERSONAL INFORMATION WILL NOT BE SHARED WITH OR SOLD TO THIRD PARTIES WITHOUT YOUR CONSENT. We do not currently provide Personal Information to third parties. If at a later time we choose to make certain offers or services available to our users from third parties, we will ask you whether your Personal Information may be sent to third parties before doing so.
-
-Regardless of your decision regarding the sharing of your Personal Information, we may share aggregated demographic data and related usage information with our business partners. This aggregated information will not contain any Personal Information that can identify an individual user.
+If you choose to provide us with your Personal Information on the site, for example to ask a question, request more information, or respond to a survey, we do not currently provide this Personal Information to third parties. However, information, including Personal Information, that we collect from you is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Information, may be disclosed or transferred to a third party acquirer in connection with the transaction. We may also share aggregated demographic data and related usage information with our business partners. This aggregated information will not contain any Personal Information that can identify an individual user.
 
 #### Cookies and Other Tracking Technologies
 
