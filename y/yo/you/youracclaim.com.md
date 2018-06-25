@@ -1,139 +1,233 @@
-> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905150427id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625230744id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
 
-# Acclaim
+# Privacy and Cookies Policy - Acclaim
 
-Acclaim, a business of NCS Pearson, Inc., respects your privacy and has adopted this Privacy and Cookies Policy (hereinafter “Privacy Policy”) for the Acclaim business group. This Privacy Policy describes Acclaim’s data protection practices, the types of personal information that we may receive or collect from badge issuers, who may be companies, organizations or educational institutions (“Issuer or Issuers”) and from individuals, also known as badger earners, who desire to access, manage, publish, and share their achievements, professional recognition, and credentials through online digital badges or other evidence of achievement, recognition, or credential (“Digital Badge” or “Digital Badges”). This Privacy Policy describes the Digital Badge services Acclaim provides on its website located at [https://www.youracclaim.com](https://www.youracclaim.com/) (hereinafter this “Site”), your rights and responsibilities, our rights and responsibilities, how we use the information we receive or collect, with whom we transfer and share the information with, the measures we take to safeguard the information you provide us, and the choices you can make about providing your personal information to us. All references to ‘our’, ‘us’, or ‘we’, in this Privacy Policy are deemed to refer to Acclaim. By accepting our Privacy Policy, located at <https://www.youracclaim.com/privacy> and Terms, located at [https://www.youracclaim.com/terms,](https://www.youracclaim.com/terms) you consent to our collection, use, processing, transfer, and storage of your personal information as described in this Privacy Policy. 
+**Introduction**
 
-The rights and responsibilities described in our Privacy Policy do not cover third party websites that may be linked to our Site or referred to on this Site. These third party websites have their own privacy policies and we encourage you to read and review them. 
+Credly and its agents ( **“Credly”** ) are committed to data security and the fair and transparent processing of personal data. This privacy policy describes how Credly treats the information you provide to us or that we otherwise collect. This Privacy Policy also describes your choices regarding use, access and correction of your personal information. **“You”** refers to the person or entity using the Service. The **“Service”** is the digital credentialing and certification functionality, associated insights and connection to relevant career, education and training opportunities provided through any website or application offered by Credly. **“Personal Information”** includes the information we collect directly from you as well as personal information from Issuers (defined below) and Third-Party Services (defined below). This Privacy Policy sets out how we will treat the personal data which you provide to us in compliance with applicable data protection laws, including the General Data Protection Regulation (EU) 2016/679 ( **GDPR** ). 
 
-## YOUR RIGHTS & RESPONSIBILITIES
+Please read this Policy carefully as it contains important information on who we are, how and why we collect, store, use and share personal data, your rights in relation to your personal data, how to contact us and supervisory authorities in the event that you would like to report a concern about the way in which we process your data. 
 
-You agree that by visiting and/or providing and transmitting your personal information to us on this Site you are accepting the practices described in this Privacy Policy and any updates made to this Privacy Policy. It is your responsibility to read this Privacy Policy and check for updates on a regular basis. By continuing to use our Site after such updates have been made you are agreeing to be bound by any changes to this Privacy Policy. 
+This Privacy Policy describes our broadest potential use of your Personal Information, although we may actually make far less use. The basis for our processing of your Personal Information is your consent. No law requires you to provide us with your Personal Information. You may withdraw your consent for us to process your Personal Information at any time, but that may preclude you thereafter from using the Website and the Service. We will delete your Personal Information following the withdrawal of your consent, however, such withdrawal will not affect the lawfulness of processing prior to withdrawal. 
 
-You are never required to provide us with your personal information. If you do not agree to this Privacy Policy, please do not provide or transmit your personal information to us; however, if you decide not to provide to us your personal information, it will affect our ability to provide to you our Digital Badging services. 
+Credly collects Personal Information when you choose to submit it through e-mail, an online form, or other method. We also collect information through cookies (see “Credly Use of ‘Cookies’” section below for detail). 
 
-You agree that we may collect, use, process, transfer, and store your personal information as described herein. We will use your personal information only for the limited and specific purpose for providing to you the Digital Badging services. 
+Credly also maintains a log of certain information concerning visitors to our websites, including but not limited to, internet protocol (“IP”) address (a computer's numerical Internet address), third party websites from which visitors access our website, type of web browsers used, and pages viewed. Such information may be treated as Personal Information. 
 
-If you have consented/opted in to receiving news and updates from Acclaim on professional growth opportunities, you have the right at any time to prevent us from further contacting you by following the unsubscribe/opt out instructions provided in each promotional e-mail. We make every effort to promptly process all unsubscribe requests in a timely manner. 
+By your use of the Service you consent to our use and disclosure of your Personal Information in accordance with this Privacy Policy. 
 
-As the subject of the personal information collected, you may access and correct your personal information by signing into your account, clicking the top far right icon, and choosing the “Manage Profile” option. 
+**Who are we?**
 
-If you have concerns with Your Rights and Responsibilities or our compliance with them, click on HOW TO CONTACT US for more information. 
+Credly is a Delaware corporation with offices in New York City. Our registered address is 349 5th Avenue, New York, NY 10016-5019. 
 
-## OUR RIGHTS & RESPONSIBILITIES
+The Credly Service is an internet-based, hosted platform designed to enable subscribers to the Service ( **“Issuers”** ) to issue digital badges and credentials ( **“Credentials”** ) to individuals who meet prescribed requirements ( **“Earners”** ), and for those Earners to display the Credentials online on the Service or on third party sites, as elected by Earners.   
+We may provide your information to trusted partners who work on behalf of, or with, Credly under confidentiality agreements to help Credly provide the Service. They may also assist Credly in communicating with you about the Service and about offers from Credly and our partners, where you have given us appropriate permissions.   
+For the purposes of the GDPR, Credly is the ‘processor’ of certain types of Personally Identifiable Data provided by Issuers and the ‘controller’ of other types of Personally Identifiable Data provided directly to us by Earners. Credly offers a Data Protection Addendum (DPA) for qualifying organizations available upon request by emailing [privacy@credly.com](mailto:privacy@credly.com). 
 
-We will provide you access to these Rights and Responsibilities and any subsequent updates. 
+You may contact our Primary Point of Contact for data privacy and security with any questions, comments or concerns about this policy by sending an email to [privacy@credly.com](mailto:privacy@credly.com). 
 
-We encourage you to periodically review this Privacy Policy to learn more about our information practices as they change over time. We reserve the right to update this Privacy Policy periodically, without notice. A change in the effective date will indicate that the Privacy Policy has been updated. Any changes to our Privacy Policy will become effective upon posting of the revised Privacy Policy on our Site. Your use of our Site, and any of our products and services following such changes constitutes your acceptance of the revised Privacy Policy then in effect. 
+Credly owns and operates Credly.com and YourAcclaim.com. This Policy, together with our website terms of use and any other documents referred to in them, sets out the basis on which Credly processes Personal Data. 
 
-We are committed to resolving complaints about our collection, use, processing, and storage of your personal information. Click on RESOLUTION OF CONCERNS for more detailed information. 
+## PRIVACY SHIELD COMPLIANCE
 
-**Pursuant to the New Jersey Truth in Consumer Contract Warranty and Notice Act, the sections entitled "HOW WE USE, SHARE AND TRANSFER YOUR INFORMATION" and "LINKS TO OTHER WEBSITES" (below) does not apply to those persons covered by that law.**
+Credly participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. Credly is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the EU in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-## TYPES OF INFORMATION WE COLLECT AND HOW WE COLLECT IT
+Credly is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Credly complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
-The information we collect about you, whether it is supplied directly to us by you or information we may receive from Issuers’ and third parties about you, may or may not include information that identifies you personally. When we refer to information about you in this Privacy Policy, it may include both personally identifiable information about you and non-personally identifiable information that cannot be specifically linked to you personally. You consent to our collection, use, and disclosure of any information submitted to us via our Site or information collected when you access our Site. Acclaim collects, uses, and where specified, shares your information as described below: 
+Credly is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC). In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
-### Information We Receive Directly From You
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-When you register on our Site, you will need to create a personal profile. You will be required to enter your name, country, email address and a password. You may also provide the following information, including but not limited to, a photograph of yourself, a short “bio”, zip code, current employer, current position, birthdate month and year, and your time zone. You may contact us with your suggestions relating to badges, applications for publishing your badges, your overall approval rating of us, and any other information you’d like to share with us. We may from time to time request feedback from you in the form of surveys, questionnaires, or comment forms. These requests may include demographic information (e.g., age, gender, and interests) to help us better serve you. This information will only be used for our internal and research purposes and not for purposes of future marketing activities unless otherwise explicitly stated. By registering on our Site, you authorized Acclaim to collect, use, process, and store your personal information in accordance with this Privacy Policy. 
+Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
-We may use your information to provide you with support or other services that you have requested and to respond to your inquiries. 
+**What personal data do we collect?**
 
-### Non-Personal Information
+We may collect and process the following personal data: 
 
-We may statistically aggregate in non-person-specific form information collected to improve this Site, our quality controls, operations management, security processes, future marketing and promotional efforts, and our overall product and service offerings in an attempt to better understand our users’ interests and preferences. In some cases, we may transfer this information to our third party service providers. By using this Site, you give your consent to this non-person-specific data aggregation and the use and transmission of this aggregated statistical data as outlined above. 
+**Information you provide to us:**
 
-### Information We Receive From Internet Service Providers
+When registering for or using the Service, you may be prompted to give us information about yourself such as your name and email address. When you configure your account settings, you may enter additional information about yourself. You may also select user configuration settings that determine how the Service looks and functions. You may, at times, also send us an e-mail which may contain not only your e-mail address, but other information about you, including home or business addresses, telephone numbers, or account details. The information you give us may also include statements you make on the Service such as testimonials, services reviews, or other statements that may identify you personally. 
 
-This Site receives information that is automatically generated by a user’s Internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access the Site, the country, state and telephone area code, the location of the ISP’s servers, the pages of this Site that the user views, any search terms entered on this Site, and the user’s website address and email address. This information may be collected for system administration purposes, to gather broad demographic information, and to monitor the level of activity on this Site. Acclaim does not link IP addresses to personally identifiable information; however, we reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes. 
+We will provide you with a user ID (an e-mail address) and account activation e-mail for you to access the Service and create a user “profile” for use as described below. When you first sign onto the Service, you will be presented with your profile, which contains the information supplied to us. In addition to the required information, including name, email, password and country, you may provide some or all of the following information, including but not limited to, a photograph of yourself, a short “bio,” your zip code, current employer, current job title, birthdate month and year, your phone number, and your time zone. You will be able to update or correct any of the contact information in your profile. You may receive certain e-mails relating to your use of the Service. Your contact information is also added to Credly's directory of current and former users of the Service. If you receive another Credential from other Issuers, your user ID will be authorized to access the Service, and your contact information will be added to the participant list for that Issuer. 
 
-### Cookies and Web Beacons
+If you have consented or opted in to receiving news and updates from Credly on professional growth or further education opportunities, you have the right at any time to prevent us from further contacting you by following the unsubscribe or opt-out instructions included in the relevant email or through the privacy tools provided to you through the Service. 
 
-By using this Site, you agree to our use of cookies and our use of web beacons for the collection of certain information in order to provide the products or services you have requested and for improvement, as we deem appropriate in our sole discretion, related to our products and services. 
+We may use your Personal Information to contact you regarding your use of the Service, for customer support purposes, and to inform you of updates, modifications and other matters relating to the Service, and information about others services that we offer in accordance with your subscription preferences. You may decline to receive mail or e-mail from us that does not relate directly to your access to or use of the Service by selecting the opt-out link contained in any such e-mail or by contacting us at [privacy@credly.com](mailto:privacy@credly.com). 
 
-Cookies are small text files that a web server places on your computer or mobile device. Cookies contain information that can later be read by the web server that originally placed the cookie on your computer or mobile device. 
+**Information we collect about you**
 
-**Below is a list of the main types of cookies we use and what we use them for:**
+Credly also will maintain a history of your access to the Service, and certain actions taken by you while accessing the Service, a log of users' IP addresses, the third-party Website from which users access the Service, the type of web browsers used to access the Service and the browser's settings that may affect Service performance (collectively,  **“Usage Log Information”** ). For purposes of maintaining and enhancing Service performance and security, Credly may use Usage Log Information, information about your browser, and other local computer settings. We also may use Usage Log Information to tailor our communications to you about the Service, and contact you in relation to providing support. We also may aggregate Usage Log Information to create or publish statistical analyses and reports about Service usage. We will not authorize the publication of Personal Information about any user without the prior written consent of such person. 
 
-  1. Strictly Necessary Cookes: These cookies are essential in order to enable you to move around the Site and use its features, such as accessing secure areas of this Site. Without these cookies, services you have asked for, like shopping baskets or e-billing, cannot be provided. 
-  2. Performance Cookies: These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. Some of the performance cookies are analytics cookies using third party web analytics software, which allow us to understand more about how our Site is used. For example, like many companies, we use Google Analytics, which may use performance cookies. We use Google Analytics to obtain web trend information about user interaction with this Site. We use this information for system administration purposes and to identify problems and improve service. While Google Analytics collects and reports information on an anonymous basis, Google Analytics uses cookies and collects IP addresses to gather web trend information. For more information about Google Analytics, and for links to Google’s privacy policy and an opt-out tool for Google Analytics, go to [ www.google.com/intl/en/analytics/privacyoverview.html. ](http://www.google.com/intl/en/analytics/privacyoverview.html) Performance cookies are not used to collect information that identifies a visitor. All information these performance cookies collect is aggregated and therefore anonymous. The aggregated data is only used by us to improve how our Site works. We might also use performance cookies to highlight our products or services that we think will be of interest to you based on your use of our Site. **By using this Site you agree we may place these types of cookies on your device.**
-  3. Functionality Cookies: These cookies allow the Site to remember choices you make (such as your user name, language, or the region you are located in) and provide enhanced, more personal features. For instance, these cookies can be used to remember changes you have made to text size, fonts, and other parts of web pages that you can customize. They may also be used to provide services you have asked for, such as watching a video or commenting on a blog. The information these cookies gather is not used to track your browsing activity on other websites. These cookies are known as “functionality cookies” and they help to improve a user’s experience of a website by providing a more personalized service. **By using this Site you agree we may place these types of cookies on your device.**
-  4. Targeting or advertising cookies: These cookies are used to deliver advertising materials relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often, targeting or advertising cookies will be linked to site functionality provided by the other organization. Most of our Sites do not use targeting cookies. **By using this Site you agree we may place these types of cookies on your device.**
+**Information we receive from Issuers**
 
+Issuers provide Personal Information to us, including Credential requirements, and information about you to confirm that you have earned the applicable Credential. The use of information collected from Issuers shall be limited to the purpose of providing the service for which these Organizations have engaged Credly. 
 
+If you are an Issuer, by using the Website or Services, you confirm that you have obtained prior, specific, and informed consent to provide Personal Information to us. We may request a copy or evidence of such consent. 
 
-3rd Party Cookies and Social Networks. If you click on a hyperlink from this Site to any third party websites (for example, if you ‘share’ content from our Site with friends or colleagues through social networks) or use third party services together with this Site, you may acquire cookies from these third party websites. Third party websites will have their own privacy and cookie policies which we do not and cannot control. Please check the third-party websites for more information about their cookies and how to manage them. You should always review these third-party websites privacy policies. 
+Credly collects information under the direction of the Issuer, or as provided directly to Credly by the Earner. If you are a customer of one of the Issuers and would no longer like to be contacted by one of the Issuers that use our service, please contact the Issuer that you interact with directly. 
 
-How to manage cookies
+An individual who seeks access, or who seeks to correct or amend inaccurate Credentials should direct their query to the Issuer. We retain Personal Information we process on behalf of the Issuers for as long as needed to provide services to the Issuers and the Earners. Credly shall continue to make the Service available to Earners, including in cases where the Issuer terminates its use of the Service. Individual Credentials and an Earner’s entire account may be deleted by the Earner at any time directly through the Service. Credly will retain this Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you block cookies or cookies are not enabled on your computer, it will mean that your browsing experience on our Site will be limited. Some active content may not work correctly. 
+**Information about You Received from Mobile Application**
 
-To turn cookies on or off for all of our websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at [ ico.org.uk/for-the-public/online/cookies. ](https://ico.org.uk/for-the-public/online/cookies)
+When you download and use the Service via our mobile application, we automatically collect information on the type of device you use, operating system version, user identification, and device identifier. 
 
-**Web Beacons**
+We may send you push notifications. You may turn off push notifications at the device level. 
 
-Web Beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data. For example, when you visit a page on this Site, the code for the page being visited may be transferred to us. The information transmitted to us is only used internally by us and is not shared with any third parties, except as provided in this Privacy Policy. We use this information for the following purposes: 
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any Personal Information you submit within the mobile application. 
 
-  * To allow us to better understand the traffic patterns within our websites and, subsequently, to adjust our content to better respond to our visitors interests; and 
-  * To use the information we obtain to suggest materials and resources that may be of interest to you based on your use of our Site. 
+**Non-Personal Information**
 
+We may statistically aggregate in non-person-specific form information collected to improve our websites, our quality controls, operations management, security processes, future marketing and promotional efforts, and the overall Service in attempt to better understand our users’ interests and preferences. In some cases, we may transfer this information to our third-party service providers. By using this Site, you consent to this non-person specific data aggregation and the use and transmission of this aggregated statistical data as outlined above. 
 
+**Information about other people**
 
-By using this Site, you agree to the our use of the cookies as described above and to our use of web beacons for the collection of information in order to provide the products or services you have requested and for improvements, as we deem appropriate in our sole discretion, related to our products and services. 
+If you provide information to us about any person other than yourself, such as your relatives, next of kin, your advisers, your suppliers, or your Earners, you must ensure that they understand how their information will be used, and that they have given their permission for you to disclose it to us and for you to allow us, and our outsourced service providers, to use it. 
 
-## HOW WE USE, SHARE, AND TRANSFER YOUR INFORMATION
+**How do we use your personal data?**
 
-Acclaim will use your information consistent with this Privacy Policy. We may transfer information that we collect about you, including your personal information, to the Issuer and our third party service providers. If you are located in a country or jurisdiction with laws governing data protection and privacy that may differ from U.S. law it is important to know that we may transfer your information, including your personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, including the United States (“U.S”). You consent to our use and transfer of your information to the U.S. or any other country in which Acclaim or its service providers maintain facilities. 
+**Additional Uses of Service Information**
 
-Acclaim may use and transfer your information as follows: 
+In addition to the uses described above of the information received in connection with your use of the Service, Credly uses and, where specified, shares your information: 
 
-**To provide Support or other Services.** We may use your information to provide you with support of other services that you have requested. 
+  * **To display Credentials.** Credly may use your information to display Credentials that you receive through the Service or through Third-Party Services, embeds that you make on the Service or third parties’ Website, or on social network services you link to your account. 
+  * **To provide support or other services** that you have requested, and to respond to your inquiries. 
+  * **To engage in transactions with you** , including contacting you about your account or transactions. 
+  * **To process transactions,** Credly may use financial, credit card and payment information that you provide. Credly may need to share some of this information with suppliers, delivery services, credit card clearing houses and other third parties to complete the transactions. 
+  * **To notify you of relevant opportunities** such as new product releases and service developments, related facts or programming that may be relevant to you. 
+  * **To provide online forums and social networks.** The Service allows users the option to participate in interactive discussions and post comments and other content. Note that any information you share may become publicly accessible. 
+  * **To improve quality and facilitate use of the Service.**
+  * **To operate the Service through the assistance of third parties.** Credly may use services from third-party service providers, such as hosting services and software developers, in support of its operation of the Service. When doing so, we will take steps to ensure that such service providers implement appropriate privacy and security measures consistent with this Privacy Policy to safeguard against the unauthorized use or disclosure of your information. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+  * **To comply with legal requirements.** In addition, we may also disclose information about you as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is reasonably necessary to enforce our rights or protect our operations or users or others investigate fraud, or in response to legal processes or governmental investigations in accordance with our internal policy on access by governmental authorities, or under exigent circumstances in response to a perceived significant threat to a person's health or property. 
 
-**To improve the quality and function of Our Website.** We may use your information, including the information gathered from site navigation, cookies, and web beacons, to improve the quality of our services and to enhance your experience with our Site. 
 
-**To our authorized third party service providers.** We may use third party service providers, such as hosting services and software developers, in support of our service offerings and in the operations of our Site. These third party service providers will be given limited access to your information as is reasonably necessary to deliver the agreed upon services. We will have agreements in place with these third party service providers prior to the transfer of any personal information for the purpose of requiring such third party service provider to provide at least the same level of privacy protection as that set forth in this Privacy Policy and we will instruct third party service providers that they may only use the information we provide for the purpose(s) identified by us in such agreement. If you choose to not have your information shared with our third party service providers, do not create an Acclaim account as you will not be able to participate in or receive the benefits or services provided us. 
 
-We do not provide your personal information to any parties who are not connected with the services we provide or relate to such products or services unless you agree. Except as disclosed in this Privacy Policy, we will not provide your data to third parties. 
+**Location-Based Services**   
+The device you use to access the Website or Service may provide your location to us. This information may be shared with Issuers in connection with the issuance of Credentials, where location is relevant to completion of the achievement recognized by the Credential. 
 
-**To understand traffic patterns and Badge performance.** We may use aggregated data to allow us to better understand the traffic patterns within our website or to better understand Badge performance and, subsequently, to adjust our content to better respond to visitors’ interests. 
+**Privacy Preferences**
 
-**To the Issuer.** We may disclose your profile and information, including but not limited to, your registration information, badge acceptance, transactions, utilization, and activity on our Site, to your Issuer(s) for their use in evaluating and improving their Badging program. 
+The Service allows you to customize the information about yourself that is made accessible to others. When you establish an account, the Service applies default settings. Default settings also apply to new features introduced on the Service. Credentials issued to you will default to the “public” setting. You may activate a “private” setting such that the Credential will no longer be publicly accessed at any time, on a Credential-by-Credential basis. Until you terminate your use of the Service, the fact that you are a user, as indicated by the public display of your full name and avatar, is available to others on the Service. Review your privacy settings regularly to ensure that they match your preferences. 
 
-**To comply with legal requirements and laws.** We may disclose personal information in response to a subpoena, court order or legal process, to the extent permitted and required by law; in response to lawful requests by public authorities, including to meet national security or law enforcement requirements; to protect your security, or the security of other persons, consistent with applicable law; to address actual or suspected fraud or other illegal activities; or as you may specifically authorize in using our services. 
+**Security**
 
-**To NCS Pearson, Inc.** We may share your information within the NCS Pearson, Inc. family of companies and to facilitate a merger or acquisition involving all or substantially all of NCS Pearson, Inc.’s assets. 
+Credly takes appropriate and reasonable precautions to implement appropriate administrative and technical procedures to protect the security of Personal Information provided or generated through the Service. We permit persons working for us to access and use your information only in a manner consistent with this Privacy Policy. 
 
-## HOW WE STORE AND PROTECT YOUR INFORMATION
+We protect the security of your information during transmission by using Transport Layer Security (TLS) and Secure Sockets Layer (SSL) software or other encryption technology, which encrypts information you input. Wherever appropriate, we obfuscate and/or encrypt information in our systems and/or during information transfer. Credly regularly reviews the cryptographic protocols it uses to protect the privacy and security of your Personal Information. 
 
-Acclaim collects, processes, uses, transfers, and stores personal information received only for the limited and specified purposes set forth in this Privacy Policy. 
+Because of the nature of internet and for other reasons, we cannot guarantee the security of your Personal Information, so you should take precautions to protect it when you are on the internet, such as changing passwords often, using a combination of letters and numbers when creating passwords, using a secure browser and being sure to log off the Service when finished using a shared computer. 
 
-Acclaim cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Site. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. Acclaim cannot ensure or warrant the security of any information you transmit to us or guarantee that information on our Site may not be accessed, disclosed, altered, or destroyed. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. By using our Service, you acknowledge that you understand and agree to assume these risks. 
+**Third-Party Sites**
 
-## INFORMATION ACCESS AND CORRECTIONS.
+The Service may include hyperlinks to third-party website neither owned nor managed by us, and, as described above, you may use certain Third-Party Services in connection with the Credentials issued through the Service. Credly has no control over these Third-Party Services and your interactions with those third parties are subject to their privacy policies and terms of use. 
 
-You may update your account information, change your password, or change your account settings at any time by logging into your account and changing your account settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such an email communications. If you have any questions about reviewing or modifying your account information, you can contact us directly at [http://support.youracclaim.com.](http://support.youracclaim.com/) To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations. 
+**Information collected by Electronic Communications Protocols and Web Beacons**
 
-## INFORMATION FROM CHILDREN.
+We may collect information about you and your use of the Service through electronic communications protocols, web beacons, cookies, embedded URLs, pixel tags and related devices or technologies. 
 
-We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect Personally Identifiable Information from children under the age of 13. If a child under the age of 13 has provided us with Personally Identifiable Information, we ask that a parent or guardian contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or 1 (952) 681-3918. If you are under 18, please be sure to read this Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand. Those that are under the age of 18 may only purchase products from our online stores with the permission of their parent(s) or legal guardian(s). 
+As is true when you visit most websites, certain information is automatically generated and stored about your visits. Such information may include: network routing information (for example, where you came from); equipment information (for example, device type, operating system, browser type); IP address, and dates and times of your visits. 
 
-## LINKS TO OTHER WEBSITES AND SERVICES
+We may use your Personal Information to inform you about other Credly services that might interest you and to gather feedback from you. 
 
-This Site may contain links to other websites on the Internet that are owned and operated by third parties. Third party websites are provided solely for the convenience of our visitors. Acclaim is not responsible for the practices employed by third party websites or the services offered, including the information or content contained on such website. You should review the privacy policies of all such third party websites before providing your personal information. 
+**Sensitive Information**
 
-## RESOLUTION OF CONCERNS.
+Do not send us any sensitive Personal Information (e.g., social security numbers or other national identifiers, or information related to racial or ethnic origin, political opinions, religious or philosophical beliefs, health, sex life or sexual orientation, genetic or biometric information, criminal background, or trade union membership). 
 
-**About our Privacy Policy.** Questions or concerns regarding the use or disclosure of personal information should first be directed to [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at 1 (952) 681-3918. We will investigate and attempt to resolve the complaint regarding the use and disclosure of personal information identified in our Privacy Policy. 
+**Credly Use of "cookies"**
 
-If you believe you have not received a timely or satisfactory response from Acclaim you should contact (free of charge) your state or national data protection authority. A list of National Data Protection Authorities can be found by clicking on [ National Data Protection Authorities. ](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm) Acclaim has committed to cooperate with the Data Protection Authorities and will comply with the information and advice provided to it by the panel of DPAs in relation to such unresolved complaints. 
+A cookie is a small piece of information, sent by a web server to a web browser, that is stored on your computer so that it can later be read, allowing the server to uniquely identify the browser. Some cookies may remain on a user's computer after the user leaves the Website. Most browsers provide you with information on and control over cookies, including a feature to opt-out of the use of cookies. You can set your browser to alert you when a cookie is being used, and accept or reject it. You can also set your browser to refuse all cookies or accept only cookies returned to the originating servers. However, you may not be able to use some features of the Service if you disable cookies. For more information on managing cookies, please go to www.allaboutcookies.org, or visit www.youronlinechoices.com which has further information about behavioral advertising and online privacy. 
 
-## UPDATES TO OUR PRIVACY POLICY.
+Our Website uses cookies or similar technologies to distinguish you from other users and to collect information about your online preferences and to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. This helps us provide you with a good experience when you browse our websites and allows us to improve our websites. Our main purpose in using cookies is to facilitate and enhance communications and interactions between you and our websites, but cookies can be used for other purposes. Cookies for the Service may collect a unique identifier, user configuration settings and profile information. Credly also uses cookies to collect general usage and volume statistical information that does not include personally identifiable information. 
 
-Acclaim reserves the right to update this Privacy Policy from time to time. We encourage you to visit and review this Privacy Policy periodically to ensure you agree with any changes or updates. We will post our revised privacy notice on our website and update the ‘Revision Date’ to reflect the date of the changes. 
+**By continuing to browse the Website, you consent to our use of cookies.**
 
-By continuing to use our website after we post any such changes or updates you accept the privacy notice as modified. 
+We use the following cookies: 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com.](mailto:PearsonVUEContracts@pearson.com) You may also contact us at +1 (952) 681-3918. 
+  * **Strictly necessary cookies required for the operation of our Website.** They include, for example, cookies that enable you to log into secure areas of our Website. 
+  * **Analytical/performance cookies that collect information about how you use our Website.** They allow us to recognize and count the number of visitors and to see how visitors move around our Website. This helps us to improve the way our Website work. These cookies are sometimes placed by third party providers of web traffic analysis services, such as Google Analytics. 
+  * **Functionality cookies that remember choices you make and recognize you when you return.** This enables us to personalize our content, greet you by name and remember your preferences (for example, your choice of language or region). 
+  * **Targeting cookies that collect information about your browsing habits** such as the pages you have visited and the links you have followed. We use this information to make our Website more relevant to your interests, and, if we enable advertising, to make advertising more relevant to you, as well as to limit the number of times you see an ad. These cookies are usually placed by third-party advertising networks. They remember the other Website that you visit and this information is shared with third-party organizations, for example advertisers. 
 
-Revision Date: May 1, 2017 
+
+
+We use Google Analytics. For information on how Google processes and collects your information regarding this product and how you can opt-out, please see <https://tools.google.com/dlpage/gaoptout>. 
+
+Credly and its service providers, vendors and partners, may use cross-device/cross-context tracking. For example, you might use multiple browsers on a single device, or use various devices (such as desktops, smartphones, and tablets), which can result in your having multiple accounts or profiles across these various contexts and devices. Cross-device/cross-context technology may be used to connect these various accounts or profiles and the corresponding data from the different contexts and devices. 
+
+**Third-Party Cookies and Functions**
+
+Certain Third-Party tools are available for your use through the Service – such as Facebook, Twitter and LinkedIn – and these Third Parties may use cookies, pixel tags and other technologies to, among other things, record your use of these tools and which pages you were viewing when doing so. Information so collected is subject to the privacy policies of those third parties (please see the Third-Party Sites Section above). If you wish to opt out of any interest-based advertising, which would include the use of the above-mentioned Third-Party tools, click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/). 
+
+**How long will you keep your personal data?**
+
+**Access, Retention and Deletion**
+
+Upon request Credly will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us at [privacy@credly.com](mailto:privacy@credly.com).  We will respond to your request within a reasonable timeframe. 
+
+Credly may retain your Personal Information for as long as your account is active and so long as retention is required or permitted in accordance with this Privacy Policy, or otherwise by law. When Credly deletes your Personal Information, Credly will do so in a manner designed to ensure that it cannot be reconstructed. 
+
+**Viewing of Data for Support**
+
+For the purpose of providing the Service and associated support including answering any questions you may have, Credly may view and process your Personal Information from nations outside the EEA that are deemed by the EU to have non-adequate data protection laws, including the United States. 
+
+**Where do we store your personal data and how is it protected?**
+
+We take reasonable steps to protect your personal data from loss or destruction.   
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our site; any transmission is at your own risk. Once we have received your personal data, we will use procedures and security features consistent with industry practices to try to prevent unauthorized access. 
+
+**Your California Privacy Rights**
+
+If you reside in California, under California Civil Code Section 1798.83, a California resident with a business relationship with Credly that is primarily for personal, family or household purposes, may request certain data regarding Credly’s disclosure, if any, of Personal Information to third parties for the third parties’ direct marketing. To make such a request, please send an e-mail to [privacy@credly.com](mailto:privacy@credly.com) with "Request for California Privacy Information" in the subject line. You may make such a request once per calendar year. If applicable, we will provide you a list of the categories of Personal Information disclosed to third parties for their direct marketing during the immediately preceding calendar year, along with the third parties' names and addresses. Not all Personal Information sharing is covered by Section 1798.83. 
+
+**Your European Data Protection Rights**
+
+If you reside in the United Kingdom (UK) or a country within the European Union, or your Personal Information is processed in the UK or a country in the European Union, subject to certain exceptions, you have the following rights: 
+
+  * **Right to Access:** Learn whether we are processing your Personal Information and, if so, to gain access to it and certain information about it. 
+  * **Right to Rectification:**  Have inaccurate Personal Information corrected or removed, and have incomplete Personal Information completed. 
+  * **Right to Erasure:** Have your Personal Information erased when: 
+    * It is no longer necessary for the purposes collected;
+    * You withdraw consent to process it;
+    * We have processed it unlawfully; or
+    * EU or Member State law to which we are subject requires erasure.
+  * **Right to Restrict Processing:** Restrict our processing of your Personal Information when: 
+    * You contest its accuracy (for a period necessary to verify it);
+    * The processing is unlawful and you prefer restriction of use to erasure; or
+    * We no longer need the data, but you need it in connection with legal claims.
+  * **Right to Data Portability:** Obtain in usable form the Personal Information you gave us and, if technically feasible, require its transmittal directly to another controller that you designate. 
+  * **Right to Object:** In certain circumstances, you have the right to object to the processing of your Personal Information. If you would like to object to the processing of your Personal Information, please contact us using the contact details provided below. 
+
+  
+You also have the right to lodge a complaint with an EU member state data protection supervisory authority. 
+
+To exercise these rights, you may communicate with our Primary Point of Contact for Privacy, using the contact information at the end of this Privacy Policy. 
+
+If you reside in the UK or a country within the European Union, or your Personal Information is processed in the UK or a country in the European Union, Credly will, and will ensure that its data processors will, process your Personal Information in accordance with all applicable data protection legislation, including the GDPR. 
+
+**Use by Minors & COPPA Compliance**
+
+The free version of the Service is intended for use by adults only. Credly does not promote online to children and does not intentionally collect any personally identifiable information from children under the age of thirteen, except for pursuant to the COPPA-Compliant solution described below. If you believe that a person under the age of thirteen has disclosed Personally Identifiable information through the Service, other than through the COPPA-Compliant solution, please report this to us immediately by e-mailing us at: [privacy@credly.com](mailto:privacy@credly.com) with “Notice of Underage Person” in the subject line. 
+
+Credly complies with the Children’s Online Privacy Protection Act ( **“COPPA”** ), and offers an alternative version of the Service for children under the age of thirteen and the Issuers that serve them. A COPPA-compliant Service is available only through Credly’s paid offering, including a private credential catalogue and management environment accessible only to students and authorized school officials. Schools working with Credly to offer digital credentials to children under 13 represent to Credly that they have obtained parental consent directly or that they act as parents’ agents and provide consent on parents’ behalf. 
+
+**Corporate Matters**
+
+Credly may provide our investors, partners, and others with aggregated information (i.e., information that does not identify users personally) concerning users of the Service. In addition, Credly may disclose your Personal Information to a successor or acquiring entity as part of a merger, acquisition, reorganization, or other transaction involving all or substantially all of Credly’s assets or shares, or the business to which the Service relates. If Credly were sold to or merged with another company, that company will agree to abide by the terms of this Privacy Policy. 
+
+You will be notified via email or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. You have the right to request that your Personal Information be removed from our records at any time. 
+
+**Subprocessors**   
+To support delivery of our Services, we may engage and use data processors with access to certain personally identifiable data of Earners (each, a "Subprocessor"). Credly maintains and updates a list of approved Subprocessors at [www.credly.com/subprocessors](http://www.credly.com/subprocessors). 
+
+**Policy Updates**
+
+We may update this Privacy Policy from time to time, and the updated version will be effective upon posting as to our treatment of subsequently acquired Personal Information. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. Please check the revision date at the beginning of this Privacy Policy periodically to check for revisions. By continuing to use the Service, including the Website, after a revised version has been posted, you agree to be bound by the revised Privacy Policy as to subsequently acquired Personal Information. 
+
+If you have questions about this Privacy Policy and our information practices, please contact our Primary Point of Contact by e-mail at [privacy@credly.com](mailto:privacy@credly.com) or at the following address: 
+
+Credly, Inc.   
+349 5th Avenue   
+New York, NY 10016-5019   
+Attention: General Counsel 
