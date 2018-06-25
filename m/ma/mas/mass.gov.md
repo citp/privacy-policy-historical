@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221338id_/https%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mass.gov privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010934id_/https%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
 
 # Mass.gov® Privacy Policy | Mass.gov
+
+## Mass.gov® Privacy Policy
 
 **_Effective_** : 10/31/2016
 
@@ -59,6 +61,32 @@ Mass.gov uses (or may use) the following tools (each a “Tool” and collective
 **Express opt out:** Visitors can opt out by not using the search function on [**Mass.gov**](http://mass.gov/). They can also go to the [**Transparency and choice**](https://www.google.com/policies/privacy/) section of Google’s Privacy Policy for additional information on opting out.
 
 **Special notes:** If you have a Google account (such as Gmail), Google may be able to link the information that it collects from Google Site Search with personally identifiable information from your Google account (such as your name or mobile phone number).
+
+#### Tool Name: Google AdWords™
+
+**Purpose:  **Google AdWords uses cookies to track sales and other conversions when users click on an ad. We may use Google’s remarketing service to target our ads to you based on your prior behavior.
+
+**Data collected:  **Google Adwords tracks when a user completes a specified action, which could be a click, download, form submission, or other event.
+
+**Privacy Policy:  **[www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html), <https://policies.google.com/technologies/ads>
+
+**Express Opt Out:** <https://adssettings.google.com/authenticated?hl=en>
+
+**Special Notes:  **The pilot project will use GoogleAdWords and Facebook Pixel to track users who navigate to the Department of Fish and Wildlife's webpage to buy one or more fishing licenses. Users consent to this tracking by navigating to the Department of Fish and Wildlife’s online portal for purchasing fishing licenses. The pilot project will begin on May 17, 2018, and tracking will occur only on or after this date.”
+
+#### Tool Name: Facebook Pixel™
+
+**Purpose:** The Facebook Pixel tool tracks actions of users after they are redirected to a third party website by clicking on a Facebook advertisement.This population level data will enable us to understand how effective Facebook advertisements are for market research purposes. The collected data remain anonymous to us. This means that we cannot see the personal data of any individual user. However, the collected data are saved and processed by Facebook. Facebook Pixel tracking also allows Facebook and its partners to show you advertisements. A cookie will be saved onto your computer for these purposes.
+
+**Data collected:  **Facebook Pixel tracks when a user completes a specified action, which could be a click, download, form submission, or other event.
+
+**Privacy Policy:** [www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+
+**Terms of use:** [www.facebook.com/legal/terms/update?ref=old_policy](https://www.facebook.com/legal/terms/update?ref=old_policy)
+
+**Express Opt Out:** [www.facebook.com/ads/website_custom_audiences/](https://www.facebook.com/ads/website_custom_audiences/)
+
+**Special notes:** Department of Fish and Wildlife is conducting a limited pilot of Facebook Pixel use on a small number of Fish and Wildlife pages related to buying fishing licenses.
 
 #### Tool name: ForeSee™ provided by ForeSee Results
 
