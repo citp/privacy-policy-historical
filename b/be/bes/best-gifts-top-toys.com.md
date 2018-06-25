@@ -1,49 +1,120 @@
-> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415212433id_/http%3A//www.best-gifts-top-toys.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625123013id_/https%3A//www.best-gifts-top-toys.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Best Gifts Top Toys
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.best-gifts-top-toys.com%2Fwebsite-privacy-policy%2F&media=)
+No personal information is required to use our website. None. Nada. Zero. You can visit us and remain completely anonymous.
 
-## Privacy Policy:
+Best Gifts Top Toys, found at https://best-gifts-top-toys.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-HL Stevens Group, LLC (" **HL Stevens Group, LLC** ") operates http://www.best-gifts-top-toys.com and may operate other websites. It is HL Stevens Group, LLC policy to respect your privacy regarding any information we may collect while operating our websites.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-### Website Visitors
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Like most website operators, HL Stevens Group, LLC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HL Stevens Group, LLC purpose in collecting non-personally identifying information is to better understand how HL Stevens Group, LLC visitors use its website. From time to time, HL Stevens Group, LLC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-HL Stevens Group, LLC also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://www.best-gifts-top-toys.com blogs/sites. HL Stevens Group, LLC only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-### Gathering of Personally-Identifying Information
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-Certain visitors to HL Stevens Group, LLC websites choose to interact with HL Stevens Group, LLC in ways that require HL Stevens Group, LLC to gather personally-identifying information. The amount and type of information that HL Stevens Group, LLC gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [http://www.best-gifts-top-toys.com](http://www.best-gifts-top-toys.com/) to provide a username and email address. Those who engage in transactions with HL Stevens Group, LLC are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HL Stevens Group, LLC collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with HL Stevens Group, LLC. HL Stevens Group, LLC does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+**HOW YOUR INFORMATION MAY BE USED**
 
-### Aggregated Statistics
+We may use the information collected in the following ways:
 
-HL Stevens Group, LLC may collect statistics about the behavior of visitors to its websites. HL Stevens Group, LLC may display this information publicly or provide it to others. However, HL Stevens Group, LLC does not disclose personally-identifying information other than as described below.
+  * To operate and maintain the Website;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-### Protection of Certain Personally-Identifying Information
 
-HL Stevens Group, LLC discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HL Stevens Group, LLC behalf or to provide services available at HL Stevens Group, LLC websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using HL Stevens Group, LLC websites, you consent to the transfer of such information to them. HL Stevens Group, LLC will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, HL Stevens Group, LLC discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when HL Stevens Group, LLC believes in good faith that disclosure is reasonably necessary to protect the property or rights of HL Stevens Group, LLC, third parties or the public at large. If you are a registered user of an HL Stevens Group, LLC website and have supplied your email address, HL Stevens Group, LLC may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with HL Stevens Group, LLC and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HL Stevens Group, LLC takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### Cookies
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. HL Stevens Group, LLC uses cookies to help HL Stevens Group, LLC identify and track visitors, their usage of HL Stevens Group, LLC website, and their website access preferences. HL Stevens Group, LLC visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HL Stevens Group, LLC websites, with the drawback that certain features of HL Stevens Group, LLC websites may not function properly without the aid of cookies.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-### Business Transfers
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-If HL Stevens Group, LLC, or substantially all of its assets, were acquired, or in the unlikely event that HL Stevens Group, LLC goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of HL Stevens Group, LLC may continue to use your personal information as set forth in this policy.
+The Website currently uses the following third-party service providers:
 
-### Ads
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by HL Stevens Group, LLC and does not cover the use of cookies by any advertisers.
+Best Gifts Top Toys is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-### Privacy Policy Changes
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-Although most changes are likely to be minor, HL Stevens Group, LLC may change its Privacy Policy from time to time, and in HL Stevens Group, LLC sole discretion. HL Stevens Group, LLC encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://www.best-gifts-top-toys.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-### Childrens Online Privacy Policy Protection Act Compliance
+**ANONYMOUS DATA**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Policy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are least 13 years old or older.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.best-gifts-top-toys.com%2Fwebsite-privacy-policy%2F&media=)
+**PUBLICLY VISIBLE INFORMATION**
+
+If you  leave a comment, certain information may be publicly visible.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
+
+You may also choose to link your Facebook, Instagram, and Google Account.
+
+**COOKIES**
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**
+
+**Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+**Retargeting  Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Best Gifts Top Toys is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at thelesleyshow@gmail.com to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to thelesleyshow@gmail.com
+
+Amend – You may contact us at thelesleyshow@gmail.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to thelesleyshow@gmail.com
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+Best Gifts Top Toys does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at thelesleyshow@gmail.com and we will use our best efforts to promptly remove such information from our records.
+
+**CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we will not request any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at thelesleyshow@gmail.com for questions related to this Privacy Policy.
+
+**FURTHER INFORMATION**
+
+Of course, online privacy and information security is an evolving issue. To help with country regulations governing your online privacy, we are providing useful links to other sources which you may find helpful:
+
+[Overview of the GDPR – General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/)  
+[Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)  
+[Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)  
+[The Guide to the PECR 2003](https://ico.org.uk/for-organisations/guide-to-pecr/)  
+[United States: US Department of State](https://www.state.gov/misc/415.htm)  
+[Canada: Personal Information Protection and Electronic Documents Act (PIPEDA)](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/)
+
+Last updated: May 7, 2018
