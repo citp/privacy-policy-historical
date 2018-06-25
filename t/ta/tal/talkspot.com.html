@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the talkspot.com privacy policy that was archived on 2017-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171224122914id_/http%3A//www.talkspot.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talkspot.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625050638id_/http%3A//www.talkspot.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="Head1"><title>
 Privacy Policy
@@ -8,60 +8,70 @@ Privacy Policy
 <meta content="Privacy policy for the website building suite by Talkspot.com." name="description">
 <link rel="canonical" href="http://www.talkspot.com/privacy-policy">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="/aspx/favicon.ico">
-<!-- Latest compiled and minified CSS -->
-<link href="/aspx/_scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<!--<link href="/aspx/_scripts/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />-->
-<!-- default scripts don't change a lot -->
-<script type="text/javascript" async="" src="http://talkspotsupport.com/ChatLink.ashx?config=2&amp;id=stlivechat2"></script><script type="text/javascript" async="" src="http://talkspotsupport.com/ChatLink.ashx?config=10&amp;id=stlivechat10"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/aspx/_scripts/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
-<script src="/aspx/_scripts/jquery/jquery-ui-1.11.2/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/aspx/_scripts/bootbox/bootbox.min.js"></script>
-<script src="/aspx/_scripts/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="/aspx/_scripts/sonic/sonic.js"></script>
-<script src="/aspx/_scripts/talkspot/sonic.spinner.js"></script>
-<!-- required to support jqueryslidershock.com, Sliding Gallery version -->
-<script type="text/javascript" src="/aspx/scripts/jquery/js/jquery-1.7.1.min.js"></script>
-<script>
-var $jq171 = jQuery.noConflict(true);
-</script>
+<!-- 
+too many issues with old widgets to optimize with new/or cdn ref 
+this block is for non-responsive sites.
+-->
+<!-- this shows only on responsive sites -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" href="/aspx/_scripts/formvalidation/dist/css/formValidation.css">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/aspx/_scripts/froala.editor.2.8.0/css/plugins/emoticons.min.css" rel="stylesheet">
+<link href="/aspx/_scripts/froala.editor.2.8.0/css/froala_style.min.css" rel="stylesheet">
+<script type="text/javascript" async="" src="http://talkspotsupport.com/ChatLink.ashx?config=2&amp;id=stlivechat2"></script><script type="text/javascript" async="" src="http://talkspotsupport.com/ChatLink.ashx?config=10&amp;id=stlivechat10"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="/aspx/_scripts/formvalidation/dist/js/formValidation.js"></script>
+<script src="/aspx/_scripts/formvalidation/dist/js/framework/bootstrap4.js"></script>
 <style type="text/css">
-#iFrameLiveActivity {
-border:none;
-overflow:hidden;
-margin:0;
-visibility: hidden; background-color: transparent !important; background-image: none !important;
+#iFrameLiveActivity { border: none; overflow: hidden; margin: 0; visibility: hidden; background-color: transparent !important; background-image: none !important; }
+/* so that image widgets don't need to republish to align correctly (B4 made this necessary) */
+.img-responsive, .img-fluid, .blob-simple-pic { 
+display: block; 
+display: -webkit-box; 
+max-width: -webkit-fill-available;
+margin:0 auto;
 }
+/* extension to bootbox for marketing messages or anything else you want to emulate fullscreen w/bootbox */
+.modal-fullscreen { min-width: 100% !important; width: 100% !important; margin: 0px auto !important; }
+.modal-fullscreen .modal-content { min-height: 100vh; }
+/* formvalidation.io b4 classes (they are on beta3.3 still) */
+.has-warning .form-control { border-color: #dc3545; }
+.has-warning .form-control:focus { background-color: #fff; border-color: #dc3545 !important; outline: 0; box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, .25); }
+.has-warning .form-control-feedback { color: #dc3545; float:left;margin-top:.1rem;}
+.has-warning .checkbox, .has-warning .checkbox-inline, .has-warning .custom-control, .has-warning .form-control-feedback, .has-warning .form-control-label, .has-warning .radio, .has-warning .radio-inline, .has-warning.checkbox label, .has-warning.checkbox-inline label, .has-warning.radio label, .has-warning.radio-inline label { color: #dc3545; }
+.fv-form-bootstrap4 .has-warning label, .fv-form-bootstrap4 .has-warning .fv-control-feedback {
+color: #dc3545;
+}
+.has-success .form-control { border-color: #5cb85c; float:left;margin-top:.1rem;}
+.has-success .form-control:focus { background-color: #fff; border-color: #5cb85c !important; outline: 0; box-shadow: 0 0 0 0.2rem rgba(92, 184, 92, .25); }
 </style>
 <meta content="3 days" name="revisit-after">
-<link href="/uploads/122991/pagetemplates/DesignCreated201706231409/themes/CleanAndSimplev1.css?v=2017-11-24" rel="stylesheet" type="text/css"><script src="/aspx/_scripts/lazyload/lazyload.js?v=2017-11-24" type="text/javascript"></script>
-<script src="/aspx/_scripts/talkspot/blob-page.js?v=2017-11-24" type="text/javascript"></script>
-<script src="/aspx/_scripts/colorbox/jquery.colorbox-min.js?v=2017-11-24" type="text/javascript"></script>
-<script src="/aspx/_scripts/postmessage/jquery.ba-postmessage.js?v=2017-11-24" type="text/javascript"></script>
-<script src="http://vjs.zencdn.net/c/video.js?v=2017-11-24" type="text/javascript"></script>
-<link href="/aspx/_scripts/animate/animate.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<link href="/aspx/_scripts/fontawesome/css/font-awesome.min.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<link href="http://vjs.zencdn.net/c/video-js.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<link href="/aspx/scripts/colorbox/example1/colorbox.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<link href="/aspx/Css/BlobPage.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<link href="/aspx/Css/ThemeCommon.css?v=2017-11-24" rel="stylesheet" type="text/css">
-<script src="/aspx/_scripts/milonic/milonic_src.js?v=2017-11-24" type="text/javascript"></script>
-<script src="/aspx/_scripts/milonic/mmenudom.js?v=2017-11-24" type="text/javascript"></script>
-<link href="http://www.talkspot.com/uploads/122991/scratch/menus/menu-30955614-123.css" rel="stylesheet" type="text/css">
+<link href="/uploads/122991/pagetemplates/DesignCreated201801121024/themes/CleanAndSimplev1.css?v=2018-06-07" rel="stylesheet" type="text/css"><script src="/aspx/_scripts/lazyload/lazyload.min.js?v=2018-06-07" type="text/javascript"></script>
+<script src="/aspx/_scripts/talkspot/blob-page.min.js?v=2018-06-07" type="text/javascript"></script>
+<link href="/aspx/css/blobpage.min.css?v=2018-06-07" rel="stylesheet" type="text/css">
+<link href="http://www.talkspot.com/uploads/122991/scratch/menus/menu-30955614-196.css" rel="stylesheet" type="text/css">
+<link href="/aspx/_scripts/froala.editor.2.8.0/css/froala_style.css" rel="stylesheet" type="text/css">
+<link href="/aspx/_scripts/froala.editor.2.8.0/css/plugins/emoticons.css" rel="stylesheet" type="text/css">
+<link href="/aspx/blob2/blobs/admin/configs/textwidget/blobsimpletextwidget.css" rel="stylesheet" type="text/css">
 <link href="/aspx/_scripts/animate/animate.css" rel="stylesheet" type="text/css">
 </head>
-<body id="blobpagebody" class="bootstrap"><div id="menu-30955614" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><nav class="navbar  navbar-fixed-top  navbar-lg navbar-default nav-pills"><div id="navbar-30955614" class="container-fluid"><!-- Brand and toggle get grouped for better mobile display --><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-30955614-collapse" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="#"><img src="http://www.talkspot.com/uploads/122991/logos/talkspot-LOGO.png?v=122" alt="Logo"></a></div><!-- Collect the nav links, forms, and other content for toggling --><div class="collapse navbar-collapse" id="menu-30955614-collapse"><ul class="nav navbar-nav"><li><a href="/" class="menuItem" ts_section="" style="outline: transparent solid 0px;">HOME</a></li><li><a href="/about-talkspot" class="menuItem" ts_section="" style="outline: transparent solid 0px;">ABOUT</a></li><li><a href="/pricing-index" class="menuItem" ts_section="" style="outline: transparent solid 0px;">PRICING</a></li><li><a href="/customer-testimonials" class="menuItem" ts_section="" style="outline: transparent solid 0px;">TESTIMONIALS</a></li><li><a href="/website-templates" class="menuItem" ts_section="" style="outline: transparent solid 0px;">TEMPLATES</a></li><li class="dropdown"><a href="#" class="dropdown-toggle menuItem" data-toggle="dropdown" role="button" aria-expanded="false" style="outline: transparent solid 0px;">MORE<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/feature-index" class="menuItem" ts_section="" style="outline: transparent solid 0px;">Features</a></li><li><a href="/additional-services" class="menuItem" ts_section="" style="outline: transparent solid 0px;">Services</a></li><li><a href="/contact-us" class="menuItem" ts_section="" style="outline: transparent solid 0px;">Contact Us</a></li><li><a href="/blog" class="menuItem" ts_section="" style="outline: transparent solid 0px;">Blog</a></li><li><a href="/rss-recent-developments" class="menuItem" ts_section="" style="outline: transparent solid 0px;">RSS</a></li><li><a href="/frequently-asked-questions" class="menuItem" ts_section="" style="outline: transparent solid 0px;">FAQ</a></li></ul></li></ul></div><!-- /.navbar-collapse --></div><!-- /.container-fluid --></nav></div>
+<body id="blobpagebody" class="bootstrap">
 <form method="post" action="http://www.talkspot.com/privacy-policy" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzk1NjgwNzY2ZGSD63yh3U3JLcGxJ8SbMbjLFsgGyw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUzNTkwMDA5OWRkmQNEkcpyzIR9nZ22yHKzkNuWKDE=">
 <div class="aspNetHidden">
 <input type="hidden" name="RadStyleSheetManager1_TSSM" id="RadStyleSheetManager1_TSSM" value="">
 <input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="">
 </div>
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a8f95decb-d716-4257-bc42-c772df7173e5%3aea597d4b" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a59e0a739-153b-40bd-883f-4e212fc43305%3aea597d4b" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
-
+<div id="spinnercontainer"></div>
 <div id="tsMenuBlobpage"></div>
 <div id="div_AdminMessagePanel"></div>
 <div id="externalIFrame" style="position: absolute; display: none; top: -500px; z-index: 200000; width: 0px;">
@@ -70,6 +80,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <input type="hidden" name="hfFormLink" id="hfFormLink">
 <input type="hidden" name="hfFormMode" id="hfFormMode" value="normal">
 <input type="hidden" name="hfTempKey" id="hfTempKey">
+<input type="hidden" name="hfShowMarketingMessage" id="hfShowMarketingMessage" value="0">
 <!-- main page placeholder -->
 <!-- CANNOT USE UPDATE PANEL HERE, MILONIC FAILS DRAWING ON POSTBACK -->
 <div id="pnlPageContent">
@@ -78,80 +89,57 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script type="text/javascript" src="/aspx/blob2/unify/assets/js/custom.js"></script>
 <script type="text/javascript" src="/aspx/blob2/unify/assets/js/app.js"></script>
 <!--=== Background Image ===-->
-<div id="ts-background" style="background-image: url(&quot;/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg2.jpg&quot;); background-size: cover; position: fixed; height: 100%; width: 100%; z-index: -100;"></div>
+<div id="ts-background"></div>
 <!--=== END Background Image ===-->
 <div id="UnifyTemplate" class="wrapper">
 <!--=== Spacer ===-->
-<div class="ts-top-spacer" style="position: relative; min-height: 50px;"></div>
+<div class="ts-top-spacer"></div>
 <!--=== END Spacer ===-->
 <!--=== MENU ===-->
 <div><div class="ts-dockingZone" data-dz="menu">
 <div class="ts-widget" data-blobid="30955614" data-placementid="2236efe6-fa2a-4646-8128-944ad3acd03f" data-name="Menu" data-edited="true" data-extrainfo="bootstrap">
 <div style="width: 100%;">
-<div class="mnu-wrapper text-center" style="margin: 0px auto;">
-
+<div class="mnu-wrapper text-center" style="margin: 0 auto;">
+<div id="menu-30955614" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; ">
+<nav id="navbar-30955614" class="navbar navbar-expand-md navbar-light navbar-lg   fixed-top ">
+<a class="navbar-brand" href="/"><img src="http://www.talkspot.com/uploads/122991/logos/talkspot-LOGO.png?v=195" alt="Logo" style="max-height: 30px; padding-left: 2px;"></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-30955614" style="background-color: white;">
+<span class="fa fa-bars" style="background-color: white; "></span>
+</button>
+<div class="collapse navbar-collapse" id="navbars-30955614">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link menuItem" href="/home" ts_section="" target="_self" renamed="false" title="">HOME<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link menuItem" href="/about-talkspot" ts_section="" target="_self" renamed="false" title="">ABOUT<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link menuItem" href="/pricing-index" ts_section="" target="_self" renamed="false" title="">PRICING<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link menuItem" href="/customer-testimonials" ts_section="" target="_self" renamed="false" title="">TESTIMONIALS<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link menuItem" href="/website-templates" ts_section="" target="_self" renamed="false" title="">TEMPLATES<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="dropdown-30955614-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">MORE </a>
+<div class="dropdown-menu" aria-labelledby="dropdown-30955614-6" style="max-height: 250px;overflow-y:auto;overflow-x:hidden;">
+<a class="dropdown-item" href="/feature-index" ts_section="" target="_self" renamed="false" title="">Features<span class="sr-only">(current)</span></a>
+<a class="dropdown-item" href="/additional-services" ts_section="" target="_self" renamed="false" title="">Services<span class="sr-only">(current)</span></a>
+<a class="dropdown-item" href="/contact-us" ts_section="" target="_self" renamed="false" title="">Contact Us<span class="sr-only">(current)</span></a>
+<a class="dropdown-item" href="/blog" ts_section="" target="_self" renamed="false" title="">Blog<span class="sr-only">(current)</span></a>
+<a class="dropdown-item" href="/rss-recent-developments" ts_section="" target="_self" renamed="false" title="">RSS<span class="sr-only">(current)</span></a>
+<a class="dropdown-item" href="/frequently-asked-questions" ts_section="" target="_self" renamed="false" title="">FAQ<span class="sr-only">(current)</span></a>
+</div>
+</li>
+</ul>
+</div>
+</nav>
 </div>
 </div>
-<script type="text/javascript">
-var tsof = $('.ts-menu-outer-frame');
-var tssp = $('.ts-top-spacer');
-var nvbr = $('.navbar-fixed-top');
-var nvbrh = 0;
-if ($(nvbr).length == 1) {
-$(tssp).css('position', 'relative');
-}
-var delay30955614 = (function () {
-var timer = 0;
-return function (callback, ms) {
-clearTimeout(timer);
-timer = setTimeout(callback, ms);
-};
-})();
-$(document).ready(function () {
-// re-parent the navbar if needed.
-// Jira #86
-if ($('.ts-menu-outer-frame').length == 0) {
-$('.mnu-wrapper').hide();
-if ($('nav.navbar-fixed-bottom').length == 1) {
-// navbar at the bottom of the page needs a skoosh more room Jira #117
-if ($('.ts-bottom-spacer').length == 0) {
-$('body').append('<div class="ts-bottom-spacer" style="height:30px"></div>');
-}
-var nb = $('nav.navbar-fixed-bottom');
-var id = $(nb).find('div').attr("id");
-if (id != undefined) {
-id = id.replace('navbar', 'menu');
-nb = $('#' + id);
-$('body').append($(nb));
-}
-}
-if ($('nav.navbar-fixed-top').length == 1) {
-var nb = $('nav.navbar-fixed-top');
-var id = $(nb).find('div').attr("id");
-if (id != undefined) {
-id = id.replace('navbar', 'menu');
-nb = $('#' + id);
-$('body').prepend($(nb));
-}
-}
-}
-setTimeout(function () {
-checkHeight30955614();
-}, 100);
-$('.mnu-wrapper').show();
-});
-$(window).resize(function () {
-delay30955614(function () {
-checkHeight30955614();
-}, 200);
-});
-function checkHeight30955614() {
-if ($(nvbr).length == 1) {
-nvbrh = $(nvbr).height();
-$(tssp).animate({ 'min-height': nvbrh }, 50);
-}
-}
-</script>
+</div>
 </div>
 <div class="ts-widget" data-blobid="31314235" data-placementid="677e2dbd-cc8b-4fe6-84b9-02a6c3196352" data-name="Javascript" data-edited="true" data-extrainfo="">
 <!-- js widget script tags added by user -->
@@ -196,7 +184,7 @@ text-decoration: none;
 <div class="col-md-1"></div>
 <div class="col-sm-10 text-center">
 <p>
-<span class="color-blue">Free-Trial - No Credit Card Required - Only $4.95/mo &nbsp;<a href="/website-templates" data-href="FreeTrialCallout" class="btn-u">TRY IT FREE</a></span>
+<span class="color-blue">No Credit Card Required  &nbsp;<a href="/website-templates" data-href="BuildWebsiteCallout" class="btn-u">BUILD YOUR FREE WEBSITE TODAY</a></span>
 </p>
 </div>
 <div class="col-md-1"></div>
@@ -223,8 +211,8 @@ text-decoration: none;
 <div class="col-md-12">
 <div class="talkspot-shaded-not"><div class="ts-dockingZone" data-dz="col1">
 <div class="ts-widget" data-blobid="21218386" data-placementid="165543ea-6fa9-4c98-9514-003457d17796" data-name="SimpleText" data-edited="true" data-extrainfo="">
-<div style="width: 100%; margin: 0px; padding:0px 0px 0px 0px; text-align:left; ">
-<div id="ctl21_ctl00_ctl00_pnl_simpletext" class="MainText talkspot-shaded" style="padding:8px 8px 8px 8px;margin-top:2px;margin-bottom:2px;">
+<div style="width: 100%; margin: 0px; padding:0px 0px 0px 0px; ">
+<div id="ctl19_ctl00_ctl00_pnl_simpletext" class="MainText talkspot-shaded" style="padding:8px 8px 8px 8px;margin-top:2px;margin-bottom:2px;">
 <h1 class="headingwhite">Talkspot Privacy Policy</h1>
 <p>Updated May 17, 2010</p>
 </div>
@@ -401,80 +389,80 @@ please send us an email at
 <div style="height: 125px; "></div>
 </div>
 <div class="ts-widget" data-blobid="27928516" data-placementid="3c1d1ad6-e7e1-4e1a-b349-71d886c2212b" data-name="Animation" data-edited="true" data-extrainfo="">
-<div id="ctl51_ctl01_ctl00animationSandbox" style="text-align: center; animation-duration: 2s; cursor: pointer;" class="flash ts-animated">
-<img src="/uploads/122991/gallery/Test Folder/Logos/talkspot-LOGO.png" alt="Animation" style="width: 100px;">
+<div id="ctl49_ctl01_ctl00animationSandbox" style="display:none; text-align: center;">
+<img src="#" alt="Animation">
 <div class="ts-centered">
-<h4 id="ctl51_ctl01_ctl00animationText" style="font-size: 20px; color: rgb(0, 0, 0);"></h4>
+<h4 id="ctl49_ctl01_ctl00animationText">This is some sample text</h4>
 </div>
 </div>
 <script type="text/javascript">
 $(document).ready(function () {
 var pageEditing = 'false';
 if (pageEditing == 'true') {
-$('#ctl51_ctl01_ctl00animationSandbox').html('<div class="talkspot-shaded" style="width: 100%; height: 100%; ">Animation Widget - use Page Preview to view</div>');
-$('#ctl51_ctl01_ctl00animationSandbox').show();
+$('#ctl49_ctl01_ctl00animationSandbox').html('<div class="talkspot-shaded" style="width: 100%; height: 100%; ">Animation Widget - use Page Preview to view</div>');
+$('#ctl49_ctl01_ctl00animationSandbox').show();
 }
 else {
-ctl51_ctl01_ctl00setInitialParameters();
+ctl49_ctl01_ctl00setInitialParameters();
 }
 });
-function ctl51_ctl01_ctl00testAnim() {
-var anim = $('#ctl51_ctl01_ctl00_hdn_animation').val();
-//$('#ctl51_ctl01_ctl00animationSandbox').bind("animationend", function () {
+function ctl49_ctl01_ctl00testAnim() {
+var anim = $('#ctl49_ctl01_ctl00_hdn_animation').val();
+//$('#ctl49_ctl01_ctl00animationSandbox').bind("animationend", function () {
 //  alert("User clicked on 'foo.'");
 //});
-$('#ctl51_ctl01_ctl00animationSandbox').removeClass().addClass(anim + ' ts-animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
+$('#ctl49_ctl01_ctl00animationSandbox').removeClass().addClass(anim + ' ts-animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
 $(this).removeClass();
 });
 };
-function ctl51_ctl01_ctl00setInitialParameters() {
-var imageUrl = $('#ctl51_ctl01_ctl00_hdn_imageUrl').val();
-$('#ctl51_ctl01_ctl00animationSandbox img').attr('src', imageUrl);
-var text = $('#ctl51_ctl01_ctl00_hdn_text').val();
+function ctl49_ctl01_ctl00setInitialParameters() {
+var imageUrl = $('#ctl49_ctl01_ctl00_hdn_imageUrl').val();
+$('#ctl49_ctl01_ctl00animationSandbox img').attr('src', imageUrl);
+var text = $('#ctl49_ctl01_ctl00_hdn_text').val();
 text = text.replace(/\n/gm, '<br />');
-$('#ctl51_ctl01_ctl00animationText').html(text);
-var textSize = $('#ctl51_ctl01_ctl00_hdn_textSize').val();
-$('#ctl51_ctl01_ctl00animationSandbox h4').css('font-size', textSize + 'px');
-var textColor = $('#ctl51_ctl01_ctl00_hdn_textColor').val();
-$('#ctl51_ctl01_ctl00animationText').css('color', textColor);
-var picSize = $('#ctl51_ctl01_ctl00_hdn_picSize').val();
+$('#ctl49_ctl01_ctl00animationText').html(text);
+var textSize = $('#ctl49_ctl01_ctl00_hdn_textSize').val();
+$('#ctl49_ctl01_ctl00animationSandbox h4').css('font-size', textSize + 'px');
+var textColor = $('#ctl49_ctl01_ctl00_hdn_textColor').val();
+$('#ctl49_ctl01_ctl00animationText').css('color', textColor);
+var picSize = $('#ctl49_ctl01_ctl00_hdn_picSize').val();
 if (picSize == 'None') {
-$('#ctl51_ctl01_ctl00animationSandbox img').hide();
+$('#ctl49_ctl01_ctl00animationSandbox img').hide();
 }
 else {
-$('#ctl51_ctl01_ctl00animationSandbox img').css('width', picSize + 'px');
+$('#ctl49_ctl01_ctl00animationSandbox img').css('width', picSize + 'px');
 }
-var loop = $('#ctl51_ctl01_ctl00_hdn_loop').val();
-//ctl51_ctl01_ctl00setAttributes('iteration-count', loop);
-var duration = $('#ctl51_ctl01_ctl00_hdn_duration').val();
-ctl51_ctl01_ctl00setAttributes('duration', '' + duration + 's');
-var delay = $('#ctl51_ctl01_ctl00_hdn_delay').val();
-//* ctl51_ctl01_ctl00setAttributes('delay', '' + delay + 's'); *//
-ctl51_ctl01_ctl00delayedStart(delay)
-var border = $('#ctl51_ctl01_ctl00_hdn_border').val();
+var loop = $('#ctl49_ctl01_ctl00_hdn_loop').val();
+//ctl49_ctl01_ctl00setAttributes('iteration-count', loop);
+var duration = $('#ctl49_ctl01_ctl00_hdn_duration').val();
+ctl49_ctl01_ctl00setAttributes('duration', '' + duration + 's');
+var delay = $('#ctl49_ctl01_ctl00_hdn_delay').val();
+//* ctl49_ctl01_ctl00setAttributes('delay', '' + delay + 's'); *//
+ctl49_ctl01_ctl00delayedStart(delay)
+var border = $('#ctl49_ctl01_ctl00_hdn_border').val();
 if (border == '0') {
 }
 else {
 var borderParameter = '' + border + 'px solid ' + textColor;
-$('#ctl51_ctl01_ctl00animationSandbox').css('border', borderParameter);
-$('#ctl51_ctl01_ctl00animationSandbox').css('padding', '8px');
+$('#ctl49_ctl01_ctl00animationSandbox').css('border', borderParameter);
+$('#ctl49_ctl01_ctl00animationSandbox').css('padding', '8px');
 }
-var animation = $('#ctl51_ctl01_ctl00_hdn_animation').val();
+var animation = $('#ctl49_ctl01_ctl00_hdn_animation').val();
 var pageSelected = $('#System.Web.UI.WebControls.HiddenField').val();
 if (pageSelected == 0) {
 }
 else {
-$('#ctl51_ctl01_ctl00animationSandbox').css('cursor', 'pointer');
-$('#ctl51_ctl01_ctl00animationSandbox').click(function () {
+$('#ctl49_ctl01_ctl00animationSandbox').css('cursor', 'pointer');
+$('#ctl49_ctl01_ctl00animationSandbox').click(function () {
 $(this).fadeOut(1000);
-var link = $('#ctl51_ctl01_ctl00_hdn_link').val();
+var link = $('#ctl49_ctl01_ctl00_hdn_link').val();
 location.assign(link);
 return false;
 });
 }
-var center = $('#ctl51_ctl01_ctl00_hdn_center').val();
+var center = $('#ctl49_ctl01_ctl00_hdn_center').val();
 if (center == '1') {
-var as = $('#ctl51_ctl01_ctl00animationSandbox');
+var as = $('#ctl49_ctl01_ctl00animationSandbox');
 var p = as.detach();
 p.appendTo('body');
 as.css({
@@ -487,34 +475,34 @@ as.css({
 'margin-top': -as.outerHeight() / 2 + 'px'
 });
 }
-var beforeFirstShowing = $('#ctl51_ctl01_ctl00_hdn_beforeFirstShowing').val();
+var beforeFirstShowing = $('#ctl49_ctl01_ctl00_hdn_beforeFirstShowing').val();
 if (beforeFirstShowing == 'show') {
-$('#ctl51_ctl01_ctl00animationSandbox').show();
+$('#ctl49_ctl01_ctl00animationSandbox').show();
 }
 }
-function ctl51_ctl01_ctl00delayedStart(wait) {
-setTimeout(ctl51_ctl01_ctl00delayedStartDoIt, wait * 1000)
+function ctl49_ctl01_ctl00delayedStart(wait) {
+setTimeout(ctl49_ctl01_ctl00delayedStartDoIt, wait * 1000)
 }
-function ctl51_ctl01_ctl00delayedStartDoIt() {
+function ctl49_ctl01_ctl00delayedStartDoIt() {
 // Always show the animation itself
-$('#ctl51_ctl01_ctl00animationSandbox').show();
-ctl51_ctl01_ctl00testAnim();
+$('#ctl49_ctl01_ctl00animationSandbox').show();
+ctl49_ctl01_ctl00testAnim();
 // set a timer which will tell us when the animation completes (we hope)
-var duration = $('#ctl51_ctl01_ctl00_hdn_duration').val();
-setTimeout(ctl51_ctl01_ctl00delayedStartDoItAgain, duration * 1000)
+var duration = $('#ctl49_ctl01_ctl00_hdn_duration').val();
+setTimeout(ctl49_ctl01_ctl00delayedStartDoItAgain, duration * 1000)
 }
-function ctl51_ctl01_ctl00delayedStartDoItAgain() {
+function ctl49_ctl01_ctl00delayedStartDoItAgain() {
 // an animation just completed
-var beforeSequequentShowings = $('#ctl51_ctl01_ctl00_hdn_beforeSubsequentShowings').val();
+var beforeSequequentShowings = $('#ctl49_ctl01_ctl00_hdn_beforeSubsequentShowings').val();
 if (beforeSequequentShowings == "noshow") {
-$('#ctl51_ctl01_ctl00animationSandbox').fadeOut(200);
+$('#ctl49_ctl01_ctl00animationSandbox').fadeOut(200);
 }
-var loop = $('#ctl51_ctl01_ctl00_hdn_loop').val();
+var loop = $('#ctl49_ctl01_ctl00_hdn_loop').val();
 // if we only do this once -- we are done
 if (loop == '1') {
 return;
 }
-var wait = $('#ctl51_ctl01_ctl00_hdn_delay').val();
+var wait = $('#ctl49_ctl01_ctl00_hdn_delay').val();
 if (beforeSequequentShowings == 'skip') {
 wait = 0; // no wait on subsequent showings
 }
@@ -522,52 +510,52 @@ else {
 if (beforeSequequentShowings == 'show') {
 }
 else {
-$('#ctl51_ctl01_ctl00animationSandbox').fadeOut(200);
+$('#ctl49_ctl01_ctl00animationSandbox').fadeOut(200);
 }
 }
-ctl51_ctl01_ctl00delayedStart(wait);
+ctl49_ctl01_ctl00delayedStart(wait);
 }
-function ctl51_ctl01_ctl00centerIt () {
-$('#ctl51_ctl01_ctl00animationSandbox').css('position', 'fixed');
-$('#ctl51_ctl01_ctl00animationSandbox').css('top', '50%');
-$('#ctl51_ctl01_ctl00animationSandbox').css('left', '50%');
-$('#ctl51_ctl01_ctl00animationSandbox').center();
+function ctl49_ctl01_ctl00centerIt () {
+$('#ctl49_ctl01_ctl00animationSandbox').css('position', 'fixed');
+$('#ctl49_ctl01_ctl00animationSandbox').css('top', '50%');
+$('#ctl49_ctl01_ctl00animationSandbox').css('left', '50%');
+$('#ctl49_ctl01_ctl00animationSandbox').center();
 }
-function ctl51_ctl01_ctl00setAttributes(what, value) {
+function ctl49_ctl01_ctl00setAttributes(what, value) {
 //#yourElement {
 //  -vendor-animation-duration: 3s;
 //-vendor-animation-delay: 2s;
 //-vendor-animation-iteration-count: infinite;
 //}
-ctl51_ctl01_ctl00setAttribute('moz', what, value);
-ctl51_ctl01_ctl00setAttribute('o', what, value);
-ctl51_ctl01_ctl00setAttribute('webkit', what, value);
-ctl51_ctl01_ctl00setAttribute('ms', what, value);
+ctl49_ctl01_ctl00setAttribute('moz', what, value);
+ctl49_ctl01_ctl00setAttribute('o', what, value);
+ctl49_ctl01_ctl00setAttribute('webkit', what, value);
+ctl49_ctl01_ctl00setAttribute('ms', what, value);
 }
-function ctl51_ctl01_ctl00setAttribute(browser, what, value) {
+function ctl49_ctl01_ctl00setAttribute(browser, what, value) {
 var part1 = '-' + browser + '-animation-' + what;
 var part2 = value;
 //alert(part1);
 //alert(part2);
-$('#ctl51_ctl01_ctl00animationSandbox').css(part1, value);
+$('#ctl49_ctl01_ctl00animationSandbox').css(part1, value);
 }
 </script>
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_action" id="ctl51_ctl01_ctl00_hdn_action">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_imageUrl" id="ctl51_ctl01_ctl00_hdn_imageUrl" value="/uploads/122991/gallery/Test Folder/Logos/talkspot-LOGO.png">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_text" id="ctl51_ctl01_ctl00_hdn_text">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_textSize" id="ctl51_ctl01_ctl00_hdn_textSize" value="20">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_picSize" id="ctl51_ctl01_ctl00_hdn_picSize" value="100">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_loop" id="ctl51_ctl01_ctl00_hdn_loop" value="1">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_animation" id="ctl51_ctl01_ctl00_hdn_animation" value="flash">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_duration" id="ctl51_ctl01_ctl00_hdn_duration" value="2">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_delay" id="ctl51_ctl01_ctl00_hdn_delay" value="0">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_pageSelected" id="ctl51_ctl01_ctl00_hdn_pageSelected" value="0">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_link" id="ctl51_ctl01_ctl00_hdn_link">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_center" id="ctl51_ctl01_ctl00_hdn_center" value="0">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_textColor" id="ctl51_ctl01_ctl00_hdn_textColor" value="Black">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_border" id="ctl51_ctl01_ctl00_hdn_border" value="0">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_beforeFirstShowing" id="ctl51_ctl01_ctl00_hdn_beforeFirstShowing" value="show">
-<input type="hidden" name="ctl51$ctl01$ctl00$hdn_beforeSubsequentShowings" id="ctl51_ctl01_ctl00_hdn_beforeSubsequentShowings" value="show">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_action" id="ctl49_ctl01_ctl00_hdn_action">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_imageUrl" id="ctl49_ctl01_ctl00_hdn_imageUrl" value="/uploads/122991/gallery/Test Folder/Logos/talkspot-LOGO.png">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_text" id="ctl49_ctl01_ctl00_hdn_text">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_textSize" id="ctl49_ctl01_ctl00_hdn_textSize" value="20">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_picSize" id="ctl49_ctl01_ctl00_hdn_picSize" value="100">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_loop" id="ctl49_ctl01_ctl00_hdn_loop" value="1">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_animation" id="ctl49_ctl01_ctl00_hdn_animation" value="flash">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_duration" id="ctl49_ctl01_ctl00_hdn_duration" value="2">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_delay" id="ctl49_ctl01_ctl00_hdn_delay" value="0">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_pageSelected" id="ctl49_ctl01_ctl00_hdn_pageSelected" value="0">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_link" id="ctl49_ctl01_ctl00_hdn_link">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_center" id="ctl49_ctl01_ctl00_hdn_center" value="0">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_textColor" id="ctl49_ctl01_ctl00_hdn_textColor" value="Black">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_border" id="ctl49_ctl01_ctl00_hdn_border" value="0">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_beforeFirstShowing" id="ctl49_ctl01_ctl00_hdn_beforeFirstShowing" value="show">
+<input type="hidden" name="ctl49$ctl01$ctl00$hdn_beforeSubsequentShowings" id="ctl49_ctl01_ctl00_hdn_beforeSubsequentShowings" value="show">
 </div>
 </div>
 </div>
@@ -592,33 +580,33 @@ color: #777;
 </style>
 <div class="container">
 <div class="row text-center">
-<div class="col-md-10 sm-margon-bottom-10">
+<div class="col-md-12 sm-margin-bottom-10">
 <ul class="list-inline terms-menu">
-<li><a href="/terms-of-service" data-href="FooterTOS">Terms of Service &nbsp;|</a></li>
-<li><a href="/privacy-policy" data-href="FooterPP">Privacy Policy &nbsp;|</a></li>
-<li><a href="http://www.talkspotsupport.com/Main/" data-href="FooterSupport" target="_blank">Support &nbsp;|</a></li>
-<li><a href="http://talkspotsupport.com/Main/frmNewTicket.aspx?InstanceID=adb8497f-b60c-454d-b5f5-da9e14e9796d" data-href="FooterChat" target="_blank">Live Chat &nbsp;|</a></li>
-<li><a href="mailto:support@talkspot.com" data-href="FooterEmail">Email Us &nbsp;|</a></li>
-<li><a href="https://www.talkspot.com/aspx/blob2/admin/magicsignin.aspx" data-href="FooterSearch">Search for your website&nbsp;|</a></li>
-<li>
+<li class="list-inline-item"><a href="/terms-of-service" data-href="FooterTOS">Terms of Service &nbsp;|</a></li>
+<li class="list-inline-item"><a href="/privacy-policy" data-href="FooterPP">Privacy Policy &nbsp;|</a></li>
+<li class="list-inline-item"><a href="http://www.talkspotsupport.com/Main/" data-href="FooterSupport" target="_blank">Support &nbsp;|</a></li>
+<li class="list-inline-item"><a href="http://talkspotsupport.com/Main/frmNewTicket.aspx?InstanceID=adb8497f-b60c-454d-b5f5-da9e14e9796d" data-href="FooterChat" target="_blank">Live Chat &nbsp;|</a></li>
+<li class="list-inline-item"><a href="mailto:support@talkspot.com" data-href="FooterEmail">Email Us &nbsp;|</a></li>
+<li class="list-inline-item"><a href="https://www.talkspot.com/aspx/blob2/admin/magicsignin.aspx" data-href="FooterSearch">Search for your website&nbsp;|</a></li>
+<li class="list-inline-item">
 <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Facebook" href="https://www.facebook.com/talkspotwebsites" data-href="FooterFB" target="_blank">
 <i class="fa fa-facebook"></i>
 <div style="display:none; ">Facebook</div>
 </a>
 </li>
-<li>
+<li class="list-inline-item">
 <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Twitter" href="https://twitter.com/Talkspotwebpage" data-href="FooterTwitter" target="_blank">
 <i class="fa fa-twitter"></i>
 <div style="display:none; ">Twitter</div>
 </a>
 </li>
-<li>
+<li class="list-inline-item">
 <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Pinterest" href="https://www.pinterest.com/talkspotcom/talkspot-website-templates/" data-href="FooterPinterest" target="_blank">
 <i class="fa fa-pinterest"></i>
 <div style="display:none; ">Pinterest</div>
 </a>
 </li>
-<li>
+<li class="list-inline-item">
 <a data-placement="top" data-toggle="tooltip" class="tooltips" data-original-title="Instagram" href="https://www.instagram.com/talkspot/" data-href="FooterInstagram" target="_blank">
 <i class="fa fa-instagram"></i>
 <div style="display:none; ">Instagram</div>
@@ -701,7 +689,7 @@ font-size: inherit !important;
 text-decoration: none !important;
 }
 </style>
-<div class="MainText" style="padding: 15px; text-align: center;"><a href="http://www.talkspot.com/?ad=32" target="_blank"><img src="http://www.talkspot.com/aspx/blob2/templates/footer/images/Talkspot-20px.png" alt="www.talkspot.com" style="display: inline; margin-bottom: 0px;"> &nbsp;Do It Yourself Websites &amp; Blogs, Start Your Risk-Free Trial Today</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="">© 2017 Talkspot.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" onclick="showSignInFullPage();;return false;">Sign in or register</a> </div></div>
+<div class="MainText" style="padding: 15px; text-align: center;"><a href="http://www.talkspot.com/?ad=32" target="_blank"><img src="http://www.talkspot.com/aspx/blob2/templates/footer/images/Talkspot-20px.png" alt="www.talkspot.com" style="display: inline; margin-bottom: 0px;"> &nbsp;Do It Yourself Websites &amp; Blogs, Start Your Risk-Free Trial Today</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" href="">© 2018 Talkspot.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" onclick="showSignInFullPage();;return false;">Sign in or register</a> </div></div>
 </div>
 </div>
 </div>
@@ -718,7 +706,7 @@ text-decoration: none !important;
 <!-- JS Page Level-->
 <script type="text/javascript">
 var backgroundPage = '2';
-var backgroundList = [['1','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg.jpg'],['2','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg2.jpg'],['3','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg3.jpg'],['4','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg4.jpg'],['5','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg5.jpg'],['6','/uploads/122991/pagetemplates/DesignCreated201706231409/images/bg6.jpg']]; 
+var backgroundList = [['1','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg.jpg'],['2','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg2.jpg'],['3','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg3.jpg'],['4','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg4.jpg'],['5','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg5.jpg'],['6','/uploads/122991/pagetemplates/DesignCreated201801121024/images/bg6.jpg']]; 
 $(document).ready(function () {
 App.init();
 for (var i = 0; i < backgroundList.length; i++) {
@@ -745,12 +733,157 @@ $('#ts-background').css('z-index', '-100');
 <div class="modal-body" style="overflow-y: hidden !important; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;">
 </div>
 <div class="modal-footer">
-<button id="bpGenericModalMainMenu" class="btn btn-default pull-left" style="display: none; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;">Main Menu</button>
-<button id="bpGenericModalClose" class="btn btn-default" style="display: none; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;">Close</button>
+<button id="bpGenericModalMainMenu" class="btn btn-light pull-left" style="display: none; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;">Main Menu</button>
+<button id="bpGenericModalClose" class="btn btn-light" style="display: none; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;">Close</button>
 </div>
 </div>
 </div>
 </div>
+<!-- APPLICATION SCRIPTS -->
+<script src="/aspx/_scripts/bootbox/bootbox.b4.custom.js?v=2.x"></script>
+<script src="/aspx/_scripts/sonic/sonic.min.js"></script>
+<script src="/aspx/_scripts/talkspot/sonic.spinner.min.js"></script>
+<script type="text/javascript">
+function IsMarketingMessageOn() {
+var wrk = 0;
+return wrk == "1" ? true : false;
+}
+function returnLoginLink() { return "https://www.talkspot.com/aspx/Blob2/Admin/Signin/SecureSignin.aspx/rp/1925560/rs/www.talkspot.com"; }
+function returnRegisterLink() { return "https://www.talkspot.com/aspx/blob2/admin/signin/secureregister.aspx?tempkey="; }
+function raiseAsyncPostback() {
+//ff-bug #325 fix
+setTimeout(function () {
+__doPostBack("LinkButton_AsyncPostBack", "");
+}, 1);
+}
+function getBlockOutColor() { return '#c0c0c0'; }
+function getSSLServer() { return 'www.talkspot.com'; }
+var allTagsStyle = 'border-box';
+var publicMsgid = '1925560';
+var publicPageList = '';
+var publicJsVersion = '2018-06-07';
+var publicIsResponsive = 'true';
+var customer_email = '';
+var customer_number = '';
+var public_hasSEOPriviledges = '';
+var public_hasMailingListPriviledges = '';
+var public_hasEditingPriviledges = '';
+var my_editing = false;
+$(document).ready(function () {
+var public_isAdmin = 'false';
+if (public_isAdmin == 'true') {
+my_editing = true;
+var publicJsVersion = '2018-06-07';
+var fix = '/aspx/blob2/admin/blobpg';
+var fix2 = '/blobPgJS.h';
+if ($('#UnifyTemplate').length == 0) {
+fix2 = '/blobPgJS.b3.h';
+}
+var fix3 = 'tml';
+var fix4 = fix + fix2 + fix3;
+$('#tsMenuBlobpage').load(fix4 + '?x=' + publicJsVersion);
+}
+if ($('#UnifyTemplate').length == 0) {
+$('body').find('div.input-group').find('input').css('box-sizing', 'border-box');
+$('body').find('div.input-group').find('span.input-group-btn').attr('style', '');
+$('body').find('div.input-group').find('span.input-group-btn').css('box-sizing', 'border-box');
+}
+if (my_editing == false) {
+// adjust margins top/bottom template for fixed navbars
+// per ken, doesn't happen when editing.
+var $fxdTp = $('body').find('.navbar.fixed-top');
+// http://getpaid.talkspot.com, currently has bootstrap3 bits, bootslider (bootstrap3) loading from
+// a js widget <video id="myVideo"> ... when the page gets synced to B4..should be able to remove extra test.
+if ($fxdTp.length > 0 && $('#myVideo').length==0) {
+var margin = $fxdTp.height() + ($fxdTp.css('padding-top').replace('px', '') * 1) * 2;
+$('#UnifyTemplate').css('padding-top', margin + 2); // + 2 is for border
+}
+var $fxdBtm = $('body').find('.navbar.fixed-bottom');
+if ($fxdBtm.length > 0) {
+var margin = $fxdBtm.height() + ($fxdBtm.css('padding-top').replace('px', '') * 1) * 2;
+$('#UnifyTemplate').css('padding-bottom', margin + 2); // + 2 is for border
+}
+// end fixed navbar 
+}
+else {
+setTimeout(function () {
+$('#UnifyTemplate').css('margin-top', $('#ts-menu-main-btn-wrapper').height());
+}, 100);
+}
+if (IsMarketingMessageOn() == true) {
+var content;
+$.get('/aspx/_scripts/bootbox/_BoostrapAjax.html', function (data) {
+content = data;
+bootbox.dialog({
+animate: false,
+size: "fullscreen",
+closeButton: true,
+message: content,
+title: "Modal title",
+buttons: {
+cancel: {
+label: "Cancel",
+className: "btn btn-secondary",
+callback: function () {
+bootbox.hideAll();
+result = 0;
+}
+},
+OK: {
+label: "Save",
+className: "btn btn-" + "primary",
+callback: function () {
+bootbox.hideAll();
+}
+}
+}
+}).on('shown.bs.modal', function (e) {
+$("body").css('overflow', 'hidden');
+}).on('hide.bs.modal', function (e) {
+});
+});
+}
+});
+enableBackground("body");
+// Log Off
+$('body').on('click', '.ts-logout', function (e) {
+e.preventDefault();
+window.location.href = "/aspx/blob2/blobpage2.aspx?type=logoff";
+});
+function tsLogIt(menu) {
+return false;
+var fix = '/aspx/blob2/admin/blobpg';
+var fix2 = '/blobpglogger.a';
+var fix3 = 'spx';
+var fix4 = fix + fix2 + fix3;
+var se = 'www.talkspot.com';
+var sc = '/aspx/blob2/blobpage.aspx';
+var q = 'msgid=1925560';
+var parms = '?se=' + se +
+'&ms=' + publicMsgid +
+'&sc=' + sc +
+'&q=' + encodeURIComponent(q) +
+'&me=' + encodeURIComponent(menu);
+$.ajax({
+url: fix4 + parms,
+dataType: 'json',
+type: 'GET',
+success: function (data) {
+},
+error: function (xhr, ajaxOptions, thrownError) {
+}
+});
+}
+</script>
+<!-- maybe -- the startup tour-->
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8E98ABEE">
+</div>
+<script type="text/javascript">
+//<![CDATA[
+enableBackground("body");//]]>
+</script>
+</form>
 <!-- Google Script -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -779,123 +912,5 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(c,s);
 })();
 </script>
-<script type="text/javascript">
-function returnLoginLink() { return "https://www.talkspot.com/aspx/Blob2/Admin/Signin/SecureSignin.aspx/rp/1925560/rs/www.talkspot.com"; }
-function returnRegisterLink() { return "https://www.talkspot.com/aspx/blob2/admin/signin/secureregister.aspx?tempkey="; }
-function raiseAsyncPostback() { __doPostBack("LinkButton_AsyncPostBack", ""); }
-function getBlockOutColor() { return '#c0c0c0'; }
-function getSSLServer() { return 'www.talkspot.com'; }
-var allTagsStyle = 'border-box';
-var publicMsgid = '1925560';
-var publicPageList = '';
-var publicJsVersion = '2017-11-24';
-var publicIsResponsive = 'true';
-var customer_email = '';
-var customer_number = '';
-$(document).ready(function () {
-$("#cboxClose").on("touchend", function (e) {
-$.fn.colorbox.close();
-});
-var public_previewingWebsite = 'false';
-if (public_previewingWebsite == 'true') {
-//$('#tsMenuBlobpage').css('min-height', '50px');
-var publicJsVersion = '2017-11-24';
-var fix = '/aspx/blob2/admin/blobpg';
-var fix2 = '/blobPgJS.h';
-var fix3 = 'tml';
-var fix4 = fix + fix2 + fix3;
-$('#tsMenuBlobpage').load(fix4 + '?x=' + publicJsVersion);
-}
-// I have no idea what the following code does -- and, suspect it could be deleted
-// KEN - 2016-11-11 (who was too cowardly to do it!)
-initAdminPanel();
-$.receiveMessage(function (e) {
-switch (e.data) {
-case "close_ipopup":
-{ doWidgetPopupCancel(); break; }
-case "nav_start":
-{ widgetConfigNavStart(); break; }
-case "nav_end":
-{ widgetConfigNavEnd(); break; }
-case "set_ipopupflag":
-{ setIsIframePopupVisible(true); break; }
-default:
-var rawdata = e.data;
-var datavals = rawdata.split('|');
-if (e.data.indexOf("set_registration") >= 0) {
-if (datavals.length == 3) {
-widgetConfigNavStart();
-if (datavals[1] == 0) {
-var mylink = returnRegisterLink();
-mylink = mylink.substring(0, mylink.lastIndexOf('/'));
-showIPopup(800, 600, mylink + '/' + datavals[2], 0);
-}
-else {
-showRegisterFullPage();
-}
-}
-}
-if (e.data.indexOf("nav_passed") >= 0) {
-if (datavals.length == 2) {
-$('#hfTempKey').attr('value', datavals[1]);
-widgetConfigNavStart();
-$('#hfFormMode').attr('value', "nav_passed");
-raiseAsyncPostback();
-}
-}
-}
-},
-'http://' + getSSLServer()
-);
-// kens box model fix went too far, in fact, for responsive, just default to css box sizing
-if ($('#UnifyTemplate').length == 0) {
-//$('#pnlPageContent *').css('-webkit-box-sizing', allTagsStyle);
-//$('#pnlPageContent *').css('-moz-box-sizing', allTagsStyle);
-//$('#pnlPageContent *').css('box-sizing', allTagsStyle);
-$('body').find('div.input-group').find('input').css('box-sizing', 'border-box');
-$('body').find('div.input-group').find('span.input-group-btn').attr('style', '');
-$('body').find('div.input-group').find('span.input-group-btn').css('box-sizing', 'border-box');
-}
-});
-enableBackground("body");
-// Log Off
-$('body').on('click','.ts-logout',function (e) {
-e.preventDefault();
-window.location.href = "/aspx/blob2/blobpage2.aspx?type=logoff";
-});
-function tsLogIt(menu) {
-return false;
-var fix = '/aspx/blob2/admin/blobpg';
-var fix2 = '/blobpglogger.a';
-var fix3 = 'spx';
-var fix4 = fix + fix2 + fix3;
-var se = 'www.talkspot.com';
-var sc = '/aspx/blob2/blobpage.aspx';
-var q = 'msgid=1925560';
-var parms = '?se=' + se +
-'&ms=' + publicMsgid +                        
-'&sc=' + sc +
-'&q=' + encodeURIComponent(q) +
-'&me=' + encodeURIComponent(menu);
-$.ajax({
-url: fix4 + parms,
-dataType: 'json',
-type: 'GET',
-success: function (data) {
-},
-error: function (xhr, ajaxOptions, thrownError) {
-}
-});
-}
-</script>
-<!-- maybe -- the startup tour-->
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8E98ABEE">
-</div>
-<script type="text/javascript">
-//<![CDATA[
-enableBackground("body");//]]>
-</script>
-</form>
 
-<div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"></div></body></html>
+</body></html>
