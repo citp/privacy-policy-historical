@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualitypoint.blogspot.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061627id_/http%3A//www.blog.qualitypointtech.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitypoint.blogspot.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025422id_/http%3A//www.blog.qualitypointtech.com/p/blog-page.html) for the most accurate reproduction.*
 
-# QualityPoint Technologies: Privacy Policy
+# QualityPoint Technologies (QPT): Privacy Policy
 
 ###  [ Privacy Policy ](http://www.blog.qualitypointtech.com/p/blog-page.html)
 
@@ -35,12 +35,14 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
 **
 
 Thanks for visiting our blog
 
 **
 
-[](http://twitter.com/rajamanickam_a "twitter")[](http://feeds2.feedburner.com/QualitypointTechnologies "rss") [](http://www.facebook.com/#!/pages/QualityPoint-Technologies/123901844309309 "facebook") [](http://www.linkedin.com/in/qualitypoint "linkedin") [](http://www.youtube.com/qualitypointtech "YouTube Channel") [](http://feedburner.google.com/fb/a/mailverify?uri=QualitypointTechnologies&loc=en_US "subscribe")
+[](http://twitter.com/rajamanickam_a "twitter")[](http://www.linkedin.com/in/qualitypoint "linkedin") [](http://www.youtube.com/qualitypointtech "YouTube Channel") [](http://feedburner.google.com/fb/a/mailverify?uri=QualitypointTechnologies&loc=en_US "subscribe")
 
 [ ](https://www.blogger.com/rearrange?blogID=4410551344051995799&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
