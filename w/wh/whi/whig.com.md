@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223022108id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625054856id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
 
 # This Web Site's Privacy Policy - Herald-Whig -
 
-Posted: Dec. 22, 2017 12:01 am 
+Posted: Jun. 24, 2018 12:01 am 
 
 **General**
 
