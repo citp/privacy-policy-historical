@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the stripes.com privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119210738id_/https%3A//www.stripes.com/2.1326) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stripes.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625122354id_/https%3A//www.stripes.com/2.1326) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head> 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
+
             <meta name="robots" content="index">
         <meta name="robots" content="ACAP allow-index">
         <meta name="GOOGLEBOT" content="index, follow">
@@ -18,13 +18,12 @@
     <meta property="fb:admins" content="100001735654878">
 
         <meta property="og:site_name" content="Stars and Stripes">
-            <meta property="og:title" content="Web Notice">
                 <meta property="og:type" content="website">
             
                             
     	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@starsandstripes">
-	<meta name="twitter:title" content="Web Notice">
+	<meta name="twitter:title" content="">
 	<meta name="twitter:description" content="">
 				<meta name="twitter:image" content="https://www.stripes.com/img/socialmedia/images/facebook_default.jpg">
 	    
@@ -688,13 +687,13 @@ function dfpAd(spot) {
                       <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li><li class="parent-link show-for-small-only"><a class="parent-link js-generated" href="/news/special-reports">Special Reports</a></li>
                         <!-- <li><a href="/news/special-reports/election-2016">Election 2016</a></li> -->
                         <li><a href="/news/veterans/stolen-valor">Stolen Valor</a></li>
-                        <li><a href="/news/special-reports/vietnam-at-50/1966">Vietnam 50</a></li>
+                        <li><a href="/news/special-reports/vietnam-at-50/1967">Vietnam 50</a></li>
                       </ul>
                   </li>
                   <li class="divider"></li>
                   <li class="has-dropdown not-click" style="min-width: 90px"><a href="/history">History</a>
                       <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li><li class="parent-link show-for-small-only"><a class="parent-link js-generated" href="/history">History</a></li>
-                        <li><a href="http://www.stripes.com/news/special-reports/vietnam-at-50/1966">Vietnam at 50</a></li>
+                        <li><a href="http://www.stripes.com/news/special-reports/vietnam-at-50/1967">Vietnam at 50</a></li>
                         <li><a href="/medalofhonor">Medal of Honor</a></li>
                         <li><a href="http://www.stripes.com/news/special-reports/heroes/heroes-2016">Heroes</a></li>
                         <li><a href="/blogs/from-the-archives">From the Archives</a></li>
@@ -727,6 +726,7 @@ function dfpAd(spot) {
                         <li><a href="/sports/pacific">Pacific</a></li>
                         <li><a href="/blogs/pacific-sportsblog">Pacific Sports Blog</a></li>
                         <li><a href="/sports/us">U.S.</a></li>
+                        <li><a href="/sports/sports-perspectives">Perspectives</a></li>
                       </ul>
                   </li>
                   <li class="divider"></li>
@@ -953,94 +953,50 @@ function dfpAd(spot) {
   
   
   $(function () {
-      //detecting device
-      var isMobile = {
-          Android: function () {
-              return navigator.userAgent.match(/Android/i);
-          },
-          BlackBerry: function () {
-              return navigator.userAgent.match(/BlackBerry/i);
-          },
-          iOS: function () {
-              return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-          },
-          Opera: function () {
-              return navigator.userAgent.match(/Opera Mini/i);
-          },
-          Windows: function () {
-              return navigator.userAgent.match(/IEMobile/i);
-          },
-          any: function () {
-              return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-          }};
-  
-      if (isMobile.any()) {
-          $('#cont_with_ad2').addClass('ad_mobile_ver');
-          
-      } else {
-  
-          //////////////////windowshadow ad////////////////////////////
-          if ($("#" + 'cont_with_ad2').length === 0) {
-          } else {
-            
-            $('#topwide').css('margin-top', '3rem');
-  
-              $("#cont_with_ad2 *").imagesLoaded(function () {
-                  $(window).ready(function () {
-                      var w = $(window).width();
-                      var x = 1035;
-                      if (w >= x) {
-                          
-                          $('.ad_ribbon2 > .cont2').fadeIn();
-  
-                          if (document.cookie.indexOf('stripesWindowshade=1') == -1) {
-                              //set cookie so windowshade only expands itself once every 24 hours
-                              var d = new Date();
-                              d.setTime(d.getTime() + (1*24*60*60*1000));
-                              var expires = "expires="+d.toGMTString();
-                              document.cookie = "stripesWindowshade=1; path=/; " + expires;
-                            
-                              setTimeout(function () {
-                                  $('.ad_l2').slideDown(1000);
-                              }, 1800);
-      
-                              setTimeout(function () {
-                                  $('.btn_close').fadeIn();
-                              }, 3500);
-                          }
-                      }
-                  });
-  
-                  $('.btn_close').on('click', function () {
-                      $('.ad_l2').slideToggle();
-                  });
-  
-  
-                  $('.ad_ribbon2 > .cont2').on('click', function () {
-  
-                      $('.ad_l2').slideDown(900);
-  
-                      setTimeout(function () {
-                          $('.btn_close').show();
-                      }, 1500);
-                  });
-  
-  
-                  $(window).resize(function () {
-                      if ($(window).scrollTop() <= 200) {
-                          var w = $(window).width();
-                          var x = 1008;
-                          if (w >= x) {
-                              $('.ad_ribbon2').show();
-                          } else {
-                              $('.ad_l2,.ad_ribbon2').hide();
-                          }
-                      } else {
-                      }
-                  });
-              });
-          }
-      }
+	  //////////////////windowshadow ad////////////////////////////
+	  if ($("#" + 'cont_with_ad2').length === 0) {
+	  } else {
+		
+          $("#cont_with_ad2 *").imagesLoaded(function () {
+			  $(window).ready(function () {
+				  $('.ad_ribbon2 > .cont2').fadeIn();
+
+                  if (document.cookie.indexOf('stripesWindowshade=1') == -1) {
+					  //set cookie so windowshade only expands itself once every 24 hours
+					  var d = new Date();
+					  d.setTime(d.getTime() + (1*24*60*60*1000));
+					  var expires = "expires="+d.toGMTString();
+					  document.cookie = "stripesWindowshade=1; path=/; " + expires;
+					
+					  setTimeout(function () {
+						  $('.ad_l2').slideDown(1000);
+                          $('.ad_ribbon2').hide();
+					  }, 1800);
+
+					  setTimeout(function () {
+						  $('.btn_close').fadeIn();
+					  }, 2800);
+                  }
+			  });
+
+			  $('.btn_close').on('click', function () {
+				  $('.ad_l2').slideUp(400);
+                  setTimeout(function () {
+                      $('.ad_ribbon2').show();
+                  }, 400);
+			  });
+
+
+			  $('.ad_ribbon2 > .cont2').on('click', function () {
+				  $('.ad_l2').slideDown(900);
+                  $('.ad_ribbon2').hide();
+
+                  //setTimeout(function () {
+					  $('.btn_close').show();
+                  //}, 900);
+			  });
+		  });
+	  }
   });
 </script>
 
@@ -1048,7 +1004,7 @@ function dfpAd(spot) {
   var windowshadeRand = Math.floor(1000000000 + Math.random() * 9000000000);
   var windowshadeScript = "//pubads.g.doubleclick.net/gampad/adx?iu=/267968996/Stripes_Takeover&t=sitepage%3D" + dfpSitePage + "&sz=6x1&c=" + windowshadeRand + "&m=text/javascript";
   document.write("<script src='"+ windowshadeScript + "'><\/scr" + "ipt>");
-</script><script src="//pubads.g.doubleclick.net/gampad/adx?iu=/267968996/Stripes_Takeover&amp;t=sitepage%3Dstripes-web-notice&amp;sz=6x1&amp;c=4343533232&amp;m=text/javascript"></script>
+</script><script src="//pubads.g.doubleclick.net/gampad/adx?iu=/267968996/Stripes_Takeover&amp;t=sitepage%3Dstripes-web-notice&amp;sz=6x1&amp;c=2488796231&amp;m=text/javascript"></script>
 
 <style>
 @charset "UTF-8";
@@ -1057,23 +1013,8 @@ function dfpAd(spot) {
 /* Last Updated:2015.03.20
 /* Editor:SSP
 /* ===============================================================\*/
-/*
-#main, #rail {
-    margin-top: 50px;
-}
-*/
 .bodynoscroll {
 	overflow: hidden !important;
-}
-
-.tofixthead {
-	position: fixed !important;
-	top: 45px !important;
-	z-index: 402 !important;
-}
-
-.tofixthead > .ad_l2 {
-	display: none;
 }
 
 .ad_ribbon2 > .cont2:hover,
@@ -1081,7 +1022,7 @@ function dfpAd(spot) {
 	cursor: pointer;
 }
 
-#cont_with_ad2 {
+.takeover_container {
 	position: absolute;
 	top: 200px;
 	left: 0px;
@@ -1092,17 +1033,9 @@ function dfpAd(spot) {
 }
 
 .ad_ribbon2 {
-	background-color:rgba(197,197,197,0.95);
-	border-bottom: 5px solid #8f8f8f;
+	background-color: black;
 	text-align: center;
-	min-height: 50px;
-	padding-top:2px;
 	transition: background 300ms ease-out 0s;
-}
-
-.ad_ribbon2:hover {
-	background-color:rgba(149,149,149,0.95);
-
 }
 
 .ad_ribbon2 > .cont2 {
@@ -1119,7 +1052,7 @@ function dfpAd(spot) {
 }
 
 .ad_ribbon2 > .cont2 img {
-	margin: 5px;
+	margin: 0;
 }
 
 .ad_ribbon2 > .cont2 p {
@@ -1136,14 +1069,12 @@ function dfpAd(spot) {
 	position: relative;
 	display: none;
 	width: 100%;
-	background-color:rgba(197,197,197,0.95);
-	/*background-color:rgba(149,149,149,0.95); */
-	border-bottom: 5px solid #8f8f8f;
+	background-color: black;
 	text-align: center;
 }
 
 .ad_l2 img.adimg {
-	margin: 35px auto;
+	margin: auto;
 }
 
 .ad_l2 .btn_close {
@@ -1151,19 +1082,16 @@ function dfpAd(spot) {
 	top: 0px;
 	right: 0px;
 	display: none;
-	width:50px;
-	height: 50px;
-	background: url(/img/icons/close_icon_dark.png) no-repeat center;
 	text-align: center;
 	opacity: 0.6;
 	transition: all 300ms ease-out 0s;
+    font-size: 2.5em;
+    margin-top: 0.25em;
+    color: white;
 }
 .ad_l2 .btn_close:hover {
 	cursor: pointer;
 	opacity: 0.8;
-}
-.ad_l2_small {
-    display: none;
 }
 
 
@@ -1177,52 +1105,58 @@ function dfpAd(spot) {
 	z-index: 102;
 }
 
-/******************* FOR mobile ********************/
-#cont_with_ad2.ad_mobile_ver > .ad_l2 {}
-
-#cont_with_ad2.ad_mobile_ver > .ad_ribbon2 {
-	display: none;
+#cont_with_ad2_mobile {
+    top: auto;
+    bottom: 0px;
+    position: fixed;
 }
-
+#cont_with_ad2_tablet {
+    top: 45px;
+}
 
 /******************* CUSTOM SIZE QUERIES ********************/
-@media only screen {
-
-} /* Define mobile styles */
+@media only screen {} /* Define mobile styles */
 
 @media only screen and (max-width: 40em) {
-.ad_l2,
-.ad_ribbon2 {
-	display: none;
-}
+    #cont_with_ad2, #cont_with_ad2_tablet {
+        display: none;
+    }
+    .ad_ribbon2 {
+        padding-top: 0;
+    }
+    .ad_ribbon2 .cont2 img {
+        margin: 0;
+    }
+    .ad_ribbon2 .cont2 p {
+        display: none;
+    }
 } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 @media only screen and (min-width: 40.063em) {} /* min-width 641px, medium screens */
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
-.ad_l2,
-.ad_ribbon2 {
-	display: none;
-}
+    #cont_with_ad2, #cont_with_ad2_mobile {
+        display: none;
+    }
 } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
 @media only screen and (min-width: 64.063em) {
-.ad_ribbon2 {
-	display: block;
-}
+  #cont_with_ad2_tablet, #cont_with_ad2_mobile {
+      display: none;
+  }
 } /* min-width 1025px, large screens */
 
 @media only screen and (min-width: 64.063em) and (max-width: 72em) {
-	#cont_with_ad2 {
-		top: 45px;
-	}
+    #cont_with_ad2 {
+        top: 45px;
+    }
 } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
 
-  @media only screen and (min-width: 90.063em) { } /* min-width 1441px, xlarge screens */
+@media only screen and (min-width: 90.063em) { } /* min-width 1441px, xlarge screens */
 
-  @media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
 
-  @media only screen and (min-width: 120.063em) { } /* min-width 1921px, xlarge screens */
+@media only screen and (min-width: 120.063em) { } /* min-width 1921px, xlarge screens */
 </style>
 
       
@@ -1469,6 +1403,7 @@ For help, contact Paul Thomas, Interactive Media team.
   var authors = {};
   authors["Michael Abrams"] = "2.1270";
   
+  authors["Jason Behnke"] = "2.2477";
   authors["Carlos Bongioanni"] = "2.1835";
   authors["Brian Bowers"] = "2.1350";
   authors["Gregory Broome"] = "2.1905";
@@ -1477,9 +1412,9 @@ For help, contact Paul Thomas, Interactive Media team.
   authors["Matt M. Burke"] = "2.1728";
   
   authors["Dianna Cahn"] = "2.2242";
+  authors["Stephen Carlson"] = "2.2476";
   authors["Jolene Carpenter"] = "2.2244";
   authors["Leon Cook"] = "2.2371";
-  authors["Tara Copp"] = "2.2151";
 
   authors["Mike Darnell"] = "2.1958";
   authors["Michael S. Darnell"] = "2.1958";
@@ -1530,6 +1465,7 @@ For help, contact Paul Thomas, Interactive Media team.
   
   authors["Phillip Walter Wellman"] = "2.2247";
   authors["Nikki Wentling"] = "2.2357";
+  authors["Scott Wyland"] = "2.2478";
   
   authors["Andrew Yurkovsky"] = "2.2249";
   
@@ -1628,7 +1564,7 @@ if (navigator.userAgent.match(/StripesApp/i)) {
     <div class="row">
         <div class="small-13 column">
             <ul class="inline-list">
-              <li class="hide-for-medium-only"><a href="/">© 2017 Stars and Stripes. All Rights Reserved.</a></li>
+              <li class="hide-for-medium-only"><a href="/">© 2018 Stars and Stripes. All Rights Reserved.</a></li>
                 <li class="divider show-for-large-up"></li>
               <li class="hide-for-small-only"><a href="/1.103221/">Disclaimer</a></li>
                 <li class="divider hide-for-small-only"></li>
