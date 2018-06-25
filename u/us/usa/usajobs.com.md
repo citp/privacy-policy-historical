@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208001638id_/https%3A//www.usajobs.gov/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625110007id_/https%3A//www.usajobs.gov/Help/Privacy) for the most accurate reproduction.*
 
 # USAJOBS Help Center | Privacy Policy
 
@@ -51,7 +51,7 @@ Your voluntary responses are treated in a highly confidential manner. Your respo
 
 ### Public Reporting Burden
 
-We estimate the average time to complete this information collection varies from 20 minutes to 45 minutes including time for reviewing instructions, gathering the data needed, and completing and reviewing entries. The average time is 30 minutes. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: U.S. Office of Personnel Management, USAJOBS Program Office, 3206-0219, 1900 E Street, NW, Suite 6500, Washington, DC 20415-0001. The OMB Number, 3206-0219, is valid until 03/31/2017. OPM may not collect this information, and you are not required to respond, unless this number is displayed.
+We estimate the average time to complete this information collection varies from 20 minutes to 45 minutes including time for reviewing instructions, gathering the data needed, and completing and reviewing entries. The average time is 30 minutes. Send comments regarding the burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: U.S. Office of Personnel Management, USAJOBS Program Office, 3206-0219, 1900 E Street, NW, Suite 2469, Washington, DC 20415-0001. The OMB Number, 3206-0219, is valid until 02/28/2021. OPM may not collect this information, and you are not required to respond, unless this number is displayed.
 
 ### If You Send Us An Email Or A Forms Request
 
