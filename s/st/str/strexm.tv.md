@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914042631id_/https%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625071748id_/https%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
 
 # Strexm - Privacy Policy
 
@@ -117,8 +117,8 @@ As we continue to develop, we may change or add new services or features to our 
 
 ### DETAILS AND CONTACT
 
-This web site is owned and operated by Bettercast Limited, a company incorporated in Hong Kong. You may contact us directly through one of the means listed on our [contact page](https://strexm.tv/contact).
+This web site is owned and operated by SplitmediaLabs Limited, a company incorporated in Hong Kong. You may contact us directly through one of the means listed on our [contact page](https://strexm.tv/contact).
 
 * * *
 
-Last Updated: 07th January 2016
+Last Updated: 28th February 2016
