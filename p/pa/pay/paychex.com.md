@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003223124id_/https%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193045id_/https%3A//www.paychex.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Paychex Privacy Statement | Paychex
 
 This Privacy Statement describes how Paychex and our subsidiaries and affiliates collect, use, share and protect business, financial, and personal information. This statement applies to all information collected or submitted on this website and mobile applications (“Site”). This notice is available on the homepage of this Site and at every login page where personally identifiable information may be requested.
 
-****Your privacy, and the privacy of the information provided, is important to us. We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration and untimely destruction. We do not grant access to personal information about you except as otherwise set forth herein. We do not share or sell personal information collected on the site with any third parties for their own marketing purposes.  
+Your privacy, and the privacy of the information provided, is important to us. We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration and untimely destruction. We do not grant access to personal information about you except as otherwise set forth herein. We do not share or sell personal information collected on the site with any third parties for their own marketing purposes. 
 
-****At times, we will provide you with links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.
-
-  * Information Collection and Use
-  * Parties with Whom Information May be Shared
-  * How to Access and Correct Your Information
-  * Security Center Information
-  * Changes to this Privacy Statement
-
-
+At times, we will provide you with links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.
 
 ## Information Collection and Use
 
@@ -29,22 +21,22 @@ The categories of personal information that we collect may include, but are not 
   * Employee information, including social security number, date of birth, financial, bank account, biometric, geolocation, medical and beneficiary information, to provide the Services
   * Credit, debit, or cash/payment card information if used, such as for billing
   * Credit or debt history regarding your creditworthiness or credit history
-  * Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module 
+  * Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module
 
 
 
-**How personal information is collected   **
+**How personal information is collected  **
 
 We do not require you to provide any personal information in order to have general access to the Site. However, in order to access or use certain information, features or Services at the Site, you may be required to provide personal information. Personal information is primarily collected:    
 
   * When you utilize the Services, we obtain from you the information we need to provide the Services.
-  * From applications, forms and other information you provide us on the Site 
-  * When you establish an account, or an account is established for you at the direction of your employer, to receive Services 
+  * From applications, forms and other information you provide us on the Site
+  * When you establish an account, or an account is established for you at the direction of your employer, to receive Services
   * From survey information and/or site registration
   * If you provide us with comments or suggestions, request information about our Services, or contact our customer service department via phone, email or other forms of communication
   * From consumer and business reporting agencies regarding your creditworthiness or credit history
   * From third parties to verify information given to us
-  * From information you may provide via Social Media. For information regarding safe and productive participation in our social media community, view our [Social Media Guidelines](https://www.paychex.com/fb/guidelines.aspx?fb=true).
+  * From information you may provide via Social Media. For information regarding safe and productive participation in our social media community, view our [Social Media Guidelines](http://pages.paychex.com/guidelines/).
 
 
 
@@ -52,13 +44,13 @@ We do not require you to provide any personal information in order to have gener
 
 We use the information provided on the Site to perform the Services you request. We limit the collection of personal customer information that we need to:
 
-  * Facilitate customer requested Services, transactions, investments, distributions and benefits 
+  * Facilitate customer requested Services, transactions, investments, distributions and benefits
   * Provide superior service to our customers
   * Comply with legal, reporting and regulatory requirements
   * Administer and improve our websites
   * Detect fraud or theft to protect our business and client information
-  * Contact you with information on Services, new Services or products, or upcoming events 
-  * Facilitate applicant tracking and recruitment 
+  * Contact you with information on Services, new Services or products, or upcoming events
+  * Facilitate applicant tracking and recruitment
 
 
 
@@ -72,7 +64,7 @@ A “cookie” is a piece of data that our Site may provide to your browser whil
 
 Paychex may use third-party service providers to use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out of this information tracking using a web browser that supports Do Not Track functionality, or by manually opting out via sites like the Digital Advertising Alliance Consumer Choice Page. (<http://www.aboutads.info/choices>)
 
-**Children under 13 years of age   **
+**Children under 13 years of age  **
 
 This site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age. All dependent data needed for benefits enrollment is customarily provided by the employee/guardian and kept secure as indicated in this Statement.
 
@@ -85,10 +77,10 @@ Under California Civil Code 1798, California residents with an established busin
 Information is shared to facilitate the Services needed in order to properly and efficiently handle duties related to your account. We may share information with:
 
   * Government agencies to fulfill legal, reporting and regulatory requirements
-  * Attorneys, accountants and auditors 
+  * Attorneys, accountants and auditors
   * Credit reporting agencies to supply vendor references on client’s behalf  
   * Our employees, affiliated companies, subsidiaries, agents and third party service vendors to perform Services related to your account, to offer additional Services, perform analysis to determine qualification to receive future services or collect amounts due.
-  * Banking and brokerage firms to complete payroll processing and securities transactions 
+  * Banking and brokerage firms to complete payroll processing and securities transactions
   * Credit bureaus and similar organizations, law enforcement or government officials. We reserve the right to release information if we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, in a fraud investigation, an audit or examination.
 
 
@@ -99,7 +91,7 @@ Keeping your information accurate and up-to-date is very important. You can revi
 
 ## Security Center
 
-For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](https://web.archive.org/corporate/security/).
+For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](https://web.archive.org/corporate/security/).
 
 ## Changes to This Privacy Statement
 
@@ -107,19 +99,4 @@ This statement may be revised from time to time due to legislative changes, chan
 
 If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.
 
-Last revised date: April 1, 2016
-
-  * [About Us](https://www.paychex.com/corporate/about-us.aspx)
-  * [Office Locations](https://locations.paychex.com/)
-  * [Paychex History](https://www.paychex.com/corporate/history.aspx)
-  * [Privacy Statement](https://www.paychex.com/corporate/privacy.aspx)
-  * [Security Center](https://www.paychex.com/corporate/security/)
-  * [Paychex Charitable Foundation](https://www.paychex.com/corporate/charitable-foundation.aspx)
-  * [Paychex Golf](https://www.paychex.com/corporate/golf.aspx)
-
-
-
-  * [](https://www.paychex.com/ "Home")
-  * [](https://www.paychex.com/login/ "Link to Login")
-
-
+Effective date: October 30, 2017
