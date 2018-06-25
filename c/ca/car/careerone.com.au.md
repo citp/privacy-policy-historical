@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191310id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625070136id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
@@ -51,8 +51,8 @@ For more information on how to protect yourself online, click [here](http://insi
 You may [contact us](http://my.careerone.com.au/privacy/EmailForm.aspx "contact us") for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 555 010, or write to us at:
 
 CareerOne Privacy Officer  
-Level 11  
-418A Elizabeth St  
-Surry Hills NSW 2010
+Level 10  
+51-57 Pitt Street  
+Sydney, NSW 2000
 
 If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](http://inside.careerone.com.au/fullpolicy/inside2.aspx#9 "TRUSTe for assistance in resolving your issue").
