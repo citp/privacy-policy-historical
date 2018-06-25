@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818174820id_/http%3A//www.uwmedicine.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625183637id_/https%3A//www.uwmedicine.org/about/compliance/privacy) for the most accurate reproduction.*
 
 # Joint Notice of Privacy Practices | UW Medicine
 
@@ -70,7 +70,7 @@ This section explains your rights and some of our responsibilities to help you.
 **File a complaint if you feel your rights are violated**
 
   * You can complain if you feel we have violated your rights by contacting us using the information below.
-  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1.877.696.6775, or visiting [ **www.hhs.gov/ocr/privacy/hipaa/complaints/**](http://www.hhs.gov/ocr/privacy/hipaa/complaints/). 
+  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1.877.696.6775, or visiting [**www.hhs.gov/ocr/privacy/hipaa/complaints/**](http://www.hhs.gov/ocr/privacy/hipaa/complaints/). 
   * We will not retaliate against you for filing a complaint. 
 
 
@@ -100,7 +100,7 @@ _If you are not able to tell us your preference, for example if you are unconsci
 
 **In the case of fundraising:**
 
-  * We may contact you for fundraising efforts, but you can tell us not to contact you again.
+  * We may contact you for fundr​aising efforts, but you can tell us not to contact you again. For more information, see [**uwmedicine.org/about/compliance/p​atients-and-fundraising.**](https://web.archive.org/about/compliance/patients-and-fundraising)
 
 
 
@@ -134,7 +134,7 @@ _Example: We use health information about you to manage your treatment and servi
 _Example: We give information about you to your health insurance plan so it will pay for your services._
 
 **How else can we use or share your health information?**  
-We are allowed or required to share your information in other ways – usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes. For more information see: [ **www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html**](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html).
+We are allowed or required to share your information in other ways – usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes. For more information see: [**www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html**](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html).
 
  **Help with public health and safety issues**
 
@@ -204,9 +204,9 @@ We are allowed or required to share your information in other ways – usually i
 
 
 For more information see:   
-[ **www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html**](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html) **.**
+[**www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html**](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html) **.**
 
-**Changes to the Terms of This Notice**   
+**Changes to the Terms of This Notice**  
 We can change the terms of this notice, and the changes will apply to all information we have about you. The new notice will be available upon request, in our office, in clinical settings, and on our web site. 
 
 **_This Joint Notice of Privacy Practices applies to UW Medicine and Seattle Cancer Care Alliance (SCCA), which operate healthcare facilities in the greater Seattle area, and to the medical staff at those facilities._**
@@ -215,14 +215,14 @@ We can change the terms of this notice, and the changes will apply to all inform
 
 UW Medicine and SCCA participate in organized healthcare arrangements. Although these two organizations are separate healthcare entities, they share patient information for treatment, payment, and operations related to the organized healthcare arrangement. 
 
-**UW MEDICINE COMPLIANCE**   
+**UW MEDICINE COMPLIANCE**  
 Box 358049   
 Seattle, WA 98195-8049   
 206.543.3098 or 855.211.6193   
 [ comply@uw.edu](mailto:complay@uw.edu)  
 [uwmedicine.org/nopp](https://web.archive.org/nopp)
 
-**SCCA INTEGRITY PROGRAM**   
+**SCCA INTEGRITY PROGRAM**  
 825 Eastlake Ave E MS: LG-600   
 P.O. Box 19023   
 Seattle, WA 98109-1023   
