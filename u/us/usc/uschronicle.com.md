@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123456id_/http%3A//uschronicle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625033032id_/http%3A//uschronicle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - US Chronicle
 
@@ -63,6 +63,10 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 Third-party vendors and ad networks serve ads on this site.
 
+Further information related to adsense ads on this site is located here. We are linking to these pages are they are often more up to date.
+
+https://policies.google.com/technologies/partner-sites
+
 Changes to this privacy policy
 
 US Chronicle has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -76,8 +80,8 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 US Chronicle  
 uschronicle.com  
-admin@uschronicle.com  
-admin@uschronicle.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on September 15, 2016
 
