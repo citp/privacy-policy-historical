@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527015827id_/https%3A//www.eveningexpress.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625021103id_/https%3A//www.eveningexpress.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evening Express
-
-  *   * 
-
-
-
-
-© 2017 Aberdeen Journals Ltd.
 
 **Privacy Statement**
 
@@ -47,4 +40,4 @@ Our website contains links to other websites belonging to third parties which ar
 We may update this Policy at any time without notice. We will tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.
 
 **12\. Contacting Us**  
-If you have any questions about privacy, or wish to update your details or have them removed from our mailing list at any time, please contact us using [privacy@dcthomson.co.uk](mailto:privacy@dcthomson.co.uk). Privacy statement updated June 2012.
+If you have any questions about privacy, or wish to update your details or have them removed from our mailing list at any time, please contact us using [privacy@dcthomson.co.uk](mailto:privacy@dcthomson.co.uk). Privacy tatement updated June 2012.
