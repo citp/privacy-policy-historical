@@ -1,48 +1,163 @@
-> *The following text is extracted and transformed from the bulldawgmarketing.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710072911id_/http%3A//www.bulldawgmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulldawgmarketing.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626001303id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
-# Privacy Policy | Bulldawg Marketing
+# Privacy Policy | Hover.com
 
-## Our Commitment to Privacy
+## Our Privacy and Data Collection Practices
 
-Bulldawg Marketing, Inc. (the “Company”) is the owner of the information collected on this Web site (the “Site”). Because of the common concern about privacy on the World Wide Web, we have adopted the following Privacy Policy for our Site. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us on the Site and to assist you in making informed decisions when using our Site. This Privacy Policy may be updated from time to time and any changes will be posted in this statement. This Policy applies only to activities the Company engages in on the Site and does not apply to Company activities that are conducted offline or unrelated to the Site.
+Like most online businesses, Hover collects and processes information on behalf of and about our customers. We want to help our customers understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-Please know that the security of your personal information is important to us. While we consider our policies and procedures to be adequate, there is still a risk that your personal information could be misappropriated. No method of transmission over the Internet, or method of electronic storage, is completely secure. Therefore, while we strive to use commercially acceptable means to protect your personal information from unintended disclosure, we cannot guarantee its absolute security. If you have any questions about security on our Site, you may contact us by using the email or “Leave a Reply” link on the Site.
+The purpose of this document is to share these details with our customers and anyone else interested in how we collect and process personal data.
 
-### What Information Do We Collect?
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with various domain registries to facilitate the registration and management of your domain names.
 
-When you visit our Site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Site use information collected as you browse our Site.  
-The Site is a general audience web site. We do not knowingly collect or maintain any personal information from children under the age of thirteen. If in the future, we intend to collect personally identifiable information from children, we will do so in compliance with the Children’s Online Privacy Protection Act of 1988 (15 U.S.C. § 6501 et seq.) including, without limitation, obtaining necessary parental consent.
+We've tried really hard to keep this document simple and readable and if you have any suggestions for how we can improve it, please let do us know.
 
-### Personal Information
+## Account Information
 
-Except for information that your Internet service provider automatically provides to our Web server, such as Web site addresses and possibly user’s e-mail addresses, we will not collect any personally-identifiable information about you (e.g., your name, address, telephone number or e-mail address (“personal data”)) through the Site unless you have provided it to us voluntarily. Voluntary information may be provided when you contact us with a request or comment, participate in a contest or promotion we may run from time to time, or sign up to or join an e-mail list. Please note that e-mail sent to us may not be secure.
+When you purchase services from Hover, we create an account for you. This account makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve and enhance our Site and our products and services; we may use that information to contact you and to send product and service information, offers and other information to you; and we may provide other third parties with information about visitors to our Site, including your personal data, if (i) we are required by law, (ii) it is necessary for completing an authorized operation, for instance to process a credit card transaction, (iii) if the person submitting the information asks that it be shared, or (iv) we are assisting our affiliates, sponsors, vendors, clients or other third party marketers in connection with their marketing, promotion, sweepstakes, contest and/or data collection efforts. In addition, we may, at our option, sell or rent personal data about you to third parties.
+Account data includes:
 
-### Web Site Use Information
+* the name of the account holder;   
+* the mailing address of the account holder;   
+* a primary and, optionally, a secondary email address, associated with the account holder and any other individual that the account holder wishes to designate;   
+* a credit card number, expiry, and verification code;
 
-In some cases, we may automatically collect technical information when you connect to our Site that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, your computer’s IP address, the type of computer operating system you are using, the domain name of the Web site from which you linked to our Site and a record of the pages on our Site that you have visited. We may use this information for purposes of optimizing and improving our Site, analyzing trends, administering the Site and gathering demographic information about our user base as a whole. 
+Registration contact data varies by top-level domain, but it may include up to:
 
-Additionally, when you view our Site, we also may store certain information on your computer in the form of a “cookie” or similar file. Cookies are text files that help us tailor and improve your web browsing experience on our Site. They do not contain any personally identifiable information. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
+* Name and postal address of the Registered Name Holder;   
+* Registered Domain Name;   
+* The primary and secondary nameserver(s) for the Registered Domain * Name;   
+* Email address, voice, and fax (if available) telephone numbers of the Registered Name Holder;
 
-### Other Web Sites Linked to Our Web Site
+Contact data: including name, postal address, email address, voice and fax (if available) telephone numbers for other persons that may have responsibility for your Registered Domain Name.
 
-We are not responsible for the practices employed by Web sites linked to or from our Site nor the information or content created therein.  
-Please remember that when you use a link to go from our Site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites that have a link to our Site, are subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.  
-Surveys or Contests
+For your convenience, we may store this data at your direction as a default set of information for future domain purchases.
 
-We may on occasion provide you the opportunity to participate in contests, promotions or surveys on our Site. If you participate, we will request certain personally-identifiable information from you. Participation in these surveys, contests or promotions is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, address and e-mail) and demographic information (such as zip code), and we may share this information with our clients, sponsors, affiliates, vendors and/or other third parties.
+## Our use of your account data
 
-### Questions/Changes to Your Information
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-If you have any questions about this Privacy Policy or you wish to revise or remove personal information you submitted previously on the Site, you may contact us by using the e-mail or “Leave a Reply” link on the Site. You expressly authorize us to access your data for purposes of completing your requested modifications and/or deletions. 
+We share this data programmatically with Braintree, for the purpose of billing your credit card.
 
-### Business Transitions
+Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry-normal first six and last four digits of the credit card, the type of credit card, and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not usable for any billing or charging purposes. Braintree will never use your data for their own purposes without our explicit consent or notice to us.
 
-If the event Bulldawg Marketing, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we have the right to assign your personally-identifiable information to the other party to the transaction. You will be notified via notice on our Site of any such change in ownership or control over your personal information.
+Hover may share your account data with law enforcement agencies on a case-by-case basis, if necessary as part of a legal investigation. We may notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. We evaluate these requests on a case-by-case basis and we will notify you as appropriate.
 
-### Your Consent
+We may use your account data to contact you concerning a dispute related to your account or for verification purposes to make sure no one else is accessing your account.
 
-By using our Site you consent to our collection and use of your information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post the revised Privacy Policy on our Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. We encourage you to review this Privacy Policy each time you visit our Site to check for any updates or changes. Any changes shall be effective when posted to this Site.
+Hover does not share your account data with any other parties for any other reasons, with the exception of vendors, working under our instruction following levels of security at least as rigorous as those followed by Hover.
 
-This Privacy Policy was last updated on April 18, 2013. 
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the OpenSRS, our sister operating division, and, in turn, that data is shared with the registry that manages the TLD you are registering in, for example, Verisign, for .com; CIRA, for .ca; and Nominet, for .uk.. The information we gather for specific registries will be presented to you at the time of your registration.
+
+Hover is also required by ICANN to escrow your registration data with Iron Mountain. Iron Mountain is not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be able to register domains.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Registered Name for this purpose. Tucows sends this email directly and does not use a third party service to facilitate this mailing.
+
+If your Registered Domain Name is the subject of a dispute under either ICANN’s [Uniform Domain Name Dispute Resolution Policy](https://www.icann.org/resources/pages/help/dndr/udrp-en) or its [Uniform Rapid Suspension Policy](https://www.icann.org/resources/pages/urs-2014-01-09-en), we will share your registration data with the arbitration provider that is adjudicating the dispute, who will share it with the other party to the dispute. We also may use your registration data to contact you concerning any dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## Location of Data Collection and Processing
+
+Your account data and registration data are collected and processed by us in Ontario, Canada. When necessary for the services your have requested from us, your data may also be processed elsewhere, within or outside of Canada, in accord with legal regulations.
+
+## WHOIS
+
+Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
+
+Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+This tutorial can help you with controlling the publication of your information in Whois.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
+
+## Domain Search Information
+
+Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
+
+Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+This tutorial can help you with controlling the publication of your information in Whois.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+We only provide newsletters to you if you have opted in to receive them. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. 
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). When you visit our websites, our web servers temporarily record the domain name or IP address of your computer, the file requested (file name and URL) by the client, the http response code, and the website from which you are visiting us. The recorded data is used for data security purposes, particularly to protect against attempted attacks on our server, and for statistical analysis. We do not use it to create individual user profiles nor do we share this information with third parties. Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to any third-party. We use a variety of third party services to help us collect and analyze this data, including Google Analytics.
+
+## Cookies
+
+We use cookies for certain services. These are small text files that are stored on your computer. They enable the system to tell if you repeatedly visit websites from the same computer.
+
+Session cookies are cookies that are only saved on your computer for the duration of a single Internet session. They do not contain any personal data. For some offerings we use persistent cookies that support the services for future sessions. These cookies remain valid until you delete them or until the deletion period configured in your client is reached. You can set your browser to prevent these cookies being stored or to delete the cookies at the end of your Internet session. Please remember that in this case you may not have access to the full range of functions offered by our website.
+
+##  Data Security and Retention
+
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored. We use encryption where appropriate.
+
+We retain personal data only for as long as necessary to provide the services you have purchased from us, and we may retain that information for legal or business purposes after termination of the services. These post-services retention periods are either mandated by law or contract and are necessary for preserving, resolving, defending or enforcing our legal and contractual rights or needed to maintain accurate business and financial records.
+
+If you have any questions about the security or retention of your personal data, you can contact us by email at [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm).
+
+## Data Access and Correction
+
+You may view the personal information we have about you inside your account. You also may request, free of charge, information on the scope, origin, and recipients of any stored data as well as the purpose of storage. You may request that incorrect data be corrected at any time, or you may correct any data elements inside your account to which you have access.
+
+## Age restrictions
+
+We do not target our services to persons under the age of 18. If you know of, or have reason to believe, anyone under the age of 18 has provided us with any personal data, please contact us.
+
+## Changes in our Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes here, among other places we think you are likely to visit. We will place a date on any new privacy policy with material changes, so you will be able to see the last revision date.
+
+## Data Protection Authority
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, responsible for the territory in which we maintain a subsidiary office in Germany. Our lead supervisory authority is:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit   
+Nordrhein-Westfalen   
+Postfach 20 04 44   
+40102 Düsseldor   
+Tel.: 0211/38424-0
+
+## Contact Us
+
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [DPO@tucows.com](mailto:DPO@tucows.com). In the alternative, you may contact us by either of the following means:
+
+By Mail:
+
+Hover, a service of Tucows   
+96 Mowat Avenue   
+Toronto, Ontario   
+M6K 3M1   
+CANADA   
+(Attention: Office of the Data Protection Officer)
+
+or for customers established in the EEA
+
+Attn:   
+Tucows Data Protection Officer   
+Rickert Rechtsanwaltsgesellschaft m.b.H   
+Kaiserplatz 7 - 9   
+53113 Bonn   
+[DPO@tucows.com](mailto:DPO@tucows.com)
+
+We will respond to all requests, inquiries or concerns within thirty (30) days.
