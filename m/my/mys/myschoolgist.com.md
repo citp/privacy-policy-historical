@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myschoolgist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190958id_/https%3A//www.myschoolgist.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolgist.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194336id_/https%3A//www.myschoolgist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nigeria Universities, Polytechnics and Colleges News
+# Privacy Policy • Myschoolgist
 
-At [MySchoolGist](https://www.myschoolgist.com.ng/ "MySchoolGist"), the privacy of our visitors is of _extreme importance_ to us. This Privacy Policy governs the manner in which MySchoolGist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.myschoolgist.com.ng](https://www.myschoolgist.com.ng/ "MySchoolGist") website. This privacy policy applies to the Site and all products and services offered by MySchoolGist.
+At [MySchoolGist](https://www.myschoolgist.com/ "MySchoolGist"), the privacy of our visitors is of _extreme importance_ to us. This Privacy Policy governs the manner in which MySchoolGist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.myschoolgist.com](https://www.myschoolgist.com/ "MySchoolGist") website. This privacy policy applies to the Site and all products and services offered by MySchoolGist.
 
 ### What Information do We Collect?
 
@@ -47,7 +47,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 Ads appearing on our site may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
  **Google Adsense**  
-Some of the ads may be served by Google. Google, as a third party vendor, uses cookies to serve ads on www.myschoolgist.com.ng. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.myschoolgist.com.ng and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/ "Google ad and content network privacy policy"). MySchoolGist has no access to or control over these cookies that are used by third-party advertisers.
+Some of the ads may be served by Google. Google, as a third party vendor, uses cookies to serve ads on www.myschoolgist.com.ng. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.myschoolgist.com.ng and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/policies/privacy/ads/ "Google ad and content network privacy policy"). MySchoolGist has no access to or control over these cookies that are used by third-party advertisers.
 
 ### Online Privacy Policy Only
 
@@ -65,7 +65,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you require any more information or have any questions regarding our privacy policy, please feel free to contact us using the information below.
 
-  * Contact Us [Page](https://www.myschoolgist.com.ng/contact/ "Contact Us").
-  * Send mail directly [admin@myschoolgist.com](mailto:admin@myschoolgist.com)
+  * Contact Us [Page](https://www.myschoolgist.com/contact-us/ "Contact Us").
+  * Send mail directly [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4726232a2e29072a3e34242f28282b202e34336924282a)
 
 
