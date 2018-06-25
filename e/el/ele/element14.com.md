@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123211734id_/https%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625135239id_/https%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
 
-# element14 Community Terms of Use and Privacy Po... | element14 | element14 Community
+# element14 Community Terms of Use and Privacy Po... | element14 |
 
 element14 Community Terms of Use and Privacy Policy
 
@@ -8,7 +8,7 @@ element14 Community Terms of Use and Privacy Policy
 
 * * *
 
-These Terms of Use (“Terms”) set out the basis upon which the Premier Farnell plc group of companies (“PF/us/we”) provides access to and use of element14. By registering on, accessing or using element14 you agree to be bound by these Terms.
+These Terms of Use (“Terms”) set out the basis upon which the Premier Farnell Ltd group of companies (“PF/us/we”) provides access to and use of element14. By registering on, accessing or using element14 you agree to be bound by these Terms.
 
 We may update these Terms from time to time without notice so you should check them regularly because your continued use of element14 will constitute your acceptance of the updated Terms.
 
@@ -104,7 +104,7 @@ Any provision of these Terms that is found by a competent court or authority to 
 
 * * *
 
-We take the privacy of our customers and prospective customers very seriously. The purpose of this statement is to set out the principles governing our collection and use of personal information we may obtain about you during the course of element14. By accepting these Terms, you are indicating that you have read this Privacy Policy and understand that your personal information may be used in accordance with it. If you have any questions regarding this Policy or feel that we are not complying with it, please let us know at [communitymanager@premierfarnell.com.](https://web.archive.org/web/20161123211734id_/https%3A//www.element14.com/community/static/legal/communitymanager@premierfarnell.com)
+We take the privacy of our customers and prospective customers very seriously. The purpose of this statement is to set out the principles governing our collection and use of personal information we may obtain about you during the course of element14. By accepting these Terms, you are indicating that you have read this Privacy Policy and understand that your personal information may be used in accordance with it. If you have any questions regarding this Policy or feel that we are not complying with it, please let us know at [communitymanager@element14.com.](mailto:communitymanager@element14.com)
 
 #### How we collect information about you
 
@@ -132,6 +132,8 @@ We may need or wish to share your information with a limited number of others fo
 In connection with element14 
 
 Jive Software, Inc.  (Jive) is the company which provides the platform for element14. From time to time, Jive may be required to access our servers in connection with their provision of the platform for element14 and they may therefore have indirect access to all your information on element14 although they will not process your information in any way. Jive has its own privacy policy which is available at <http://www.jivesoftware.com/legal>
+
+element14 uses Salesforce.com Marketing Cloud for marketing communications purposes. Your information may be passed to the Salesforce.com servers (which may be located outside the EEA) via a secure transfer but will not be accessed by Salesforce.com directly. To review the Salesforce.com privacy policy please see [http://www.salesforce.com/uk/company/privacy](http://www.salesforce.com/uk/company/privacy/)
 
 element14 carries out analyses on visits to increase the efficiency of the site, and may therefore use your IP address (a series of numbers that identifies a computer on the internet), operating system and browser type to collect among other things, statistical data about users’ browsing actions and patterns but such data will not be used to identify you personally. 
 
@@ -165,7 +167,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 It is up to you how we use your information.  If you are not comfortable with our proposed use of your information during the course of the provision of element14, please be aware that we regret that we have limited possibilities to modify element14 and the terms of your participation in it. Please do not set up an element14 account if you object to the use of your information in the manner outlined in this Policy.
 
-If you would prefer that we do not use the data provided to us in connection with registration for or use of element14 in any of the ways proposed following registration, please note that you may let us know at any time by contacting the administrator of element14 at [ communitymanager@premierfarnell.com.](https://web.archive.org/web/20161123211734id_/https%3A//www.element14.com/community/static/legal/communitymanager@premierfarnell.com)
+If you would prefer that we do not use the data provided to us in connection with registration for or use of element14 in any of the ways proposed following registration, please note that you may let us know at any time by contacting the administrator of element14 at [ communitymanager@element14.com.](mailto:communitymanager@element14.com)
 
 #### Your rights to access personal information
 
@@ -173,4 +175,4 @@ You have the right of access to your personal records held on our files by writt
 
 #### Who are we
 
-Premier Farnell plc is the holding company of the Premier Farnell plc group of companies. When we refer to “Group”, “Company”, or “we”, “our” or “us” in this notice, we mean Premier Farnell plc and each of its subsidiary companies. 
+Premier Farnell Ltd is the holding company of the Premier Farnell Ltd group of companies. When we refer to “Group”, “Company”, or “we”, “our” or “us” in this notice, we mean Premier Farnell Ltd and each of its subsidiary companies. 
