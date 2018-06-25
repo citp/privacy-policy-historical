@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119045812id_/https%3A//www.fantasyalarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625164813id_/https%3A//www.fantasyalarm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FantasyAlarm.com
 
@@ -18,7 +18,7 @@ All products and services provided on the FA website whether free or purchased a
 
 #### Subscription Products 
 
-All subscription products purchased on the FA website can be cancelled at anytime. It is easy to cancel a subscription with FA. If you are on a desktop or laptop, make sure you are logged in, go to the FA homepage, click on Manage Account and then Manage Playbook. If you are on your phone or other mobile device, make sure you are logged in and click on Manage My Playbook Subscription. If at any time, you are not sure how to do anything on our site including cancellation of a subscription product or service, we have customer service on call for you at [support@fantasyalarm.com](mailto:support@fantasyalarm.com). Upon cancellation the account will remain active for 30 days from your last payment date. 
+All subscription products purchased on the FA website can be cancelled at anytime. Playbook Pro customers are responsible for monthly payments until cancelling their account. Customers can easily cancel after Log in. If you are on a desktop or laptop, make sure you are logged in, go to the FA homepage, click on Manage Account and then Manage Playbook. If you are on your phone or other mobile device, make sure you are logged in and click on Manage My Playbook Subscription. If at any time, you are not sure how to do anything on our site including cancellation of a subscription product or service, we have customer service on call for you at [support@fantasyalarm.com](mailto:support@fantasyalarm.com). Upon cancellation the account will remain active for 30 days from your last payment date. FA makes it simple to cancel any subscription. 
 
 #### Content Products & Services 
 
@@ -26,7 +26,11 @@ All products and services provided on the FA website are created with our best e
 
 #### FREE Products & Services 
 
-All products and services provided on the FA website are created with our best efforts for quality and timeliness. FA has FREE products such as our Lineup Generators and Forums where FA requires a registered account in order to save information on your behalf to make the products better for you and/or the community. If for some reason, you do not wish to be in our community any longer, you may simply request to have yourself removed from our system by writing to [support@fantasyalarm.com](mailto:support@fantasyalarm.com). We will remove you immediately. 
+All products and services provided on the FA website are created with our best efforts for quality and timeliness. FA has FREE products Forums where FA requires a registered account in order to save information on your behalf to make the products better for you and/or the community. If for some reason, you do not wish to be in our community any longer, you may simply request to have yourself removed from our system by writing to [support@fantasyalarm.com](mailto:support@fantasyalarm.com). We will remove you immediately. 
+
+#### Using Promotional Codes for Discounts
+
+FA offers promotional codes (promo codes) for discounted purchases or membership plans. These promo codes MUST be input AFTER the user creates a new account or logs into an existing account. It is the users' responsbility to press the APPLY button and be sure that the promo code has registered for the discounted purchase or subscription. In many instances, FA has no ability to correct product purchase prices or membership sign ups at the wrong prices. For more information you can write to [support@fantasyalarm.com](mailto:support@fantasyalarm.com). 
 
 ###   **HOW FA USES THE INFORMATION IT COLLECTS?**
 
