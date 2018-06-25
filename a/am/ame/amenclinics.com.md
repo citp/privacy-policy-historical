@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211043202id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184108id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
-# Amen Clinic's Privacy Policy | Amen Clinics
+# Privacy Policy | Amen Clinics
 
 Amen Clinics, Inc. values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We’ve built a site that allows you to control how much information you give us and how that information is used. This privacy policy (“Policy”) describes the data collection, use, and disclosure practices of Amen Clinics, Inc. in connection with the Web Site, www.AmenClinics.com (the “Web Site” or “Site”).
 
