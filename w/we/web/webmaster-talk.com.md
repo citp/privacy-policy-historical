@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmaster-talk.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917021355id_/https%3A//www.warriorforum.com/privacy.html%3Futm_source%3Dinternal%26utm_medium%3Dfooter%26utm_campaign%3Dfeed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-talk.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005017id_/https%3A//www.warriorforum.com/privacy.html%3Futm_source%3Dinternal%26utm_medium%3Dfooter%26utm_campaign%3Dfeed) for the most accurate reproduction.*
 
 # WarriorForum - Privacy Policy
 
