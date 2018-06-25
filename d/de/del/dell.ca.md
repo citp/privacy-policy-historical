@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226222940id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625201142id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell
 
@@ -60,14 +60,14 @@ Except as described above, we will not disclose your Personal Information to thi
 
 ### How You Can Access Your Information
 
-Dell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the [My Account ](https://www.dell.com/identity/v2/discovery?whr=urn:transaction)or [Premier Account ](http://premier.dell.com/)sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of Personal Information we hold about you or if you wish to request deletion or correction of Personal Information we hold about you, please send a written request to [privacy@dell.com](mailto:privacy@dell.com) or the postal address provided at the bottom of this Privacy Statement.
+Dell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the [My Account ](https://www.dell.com/identity/v2/discovery?whr=urn:transaction)or [Premier Account ](https://premier.dell.com/)sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of Personal Information we hold about you or if you wish to request deletion or correction of Personal Information we hold about you, please send a written request to [privacy@dell.com](mailto:privacy@dell.com) or the postal address provided at the bottom of this Privacy Statement.
 
 ### Selecting Your Communication Preferences and Opting Out of Marketing
 
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
   * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; and 
-  * At any point you can also visit our [List Removal Page](http://www.dell.com/content/public/xdbredirect.aspx?link=global:external:pmc-list-removal) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * At any point you can also visit our [List Removal Page](https://www.dell.com/content/public/xdbredirect.aspx?link=global:external:pmc-list-removal) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
   * When you save a cart while shopping online, you can choose to receive email reminders; 
   * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences (including the possibility of being removed from our advertising and marketing lists as set forth above).
 
@@ -108,7 +108,7 @@ Cookies allow you to take advantage of some of Dell's essential features, includ
 
 Dell also works with advertising and personalization Business Partners to use cookies, Internet browsing, cross-mobile application browsing and online purchase data across multiple devices to help us display personalized content and appropriate advertising during your visits to mobile applications, Dell.com and other websites. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns and with identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page. These cookies can be effective whether you are on Dell.com or another website.
 
-[Learn more](http://www.dell.com/spredir.ashx/solutions/ads-and-emails) about targeted advertising and how to opt out.
+[Learn more](https://www.dell.com/spredir.ashx/solutions/ads-and-emails) about targeted advertising and how to opt out.
 
 #### “Do Not Track” Signals
 
