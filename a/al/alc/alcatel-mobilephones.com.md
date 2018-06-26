@@ -1,80 +1,158 @@
-> *The following text is extracted and transformed from the alcatel-mobilephones.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515224651id_/http%3A//www.alcatelonetouch.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatel-mobilephones.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115406id_/http%3A//com.com/privacy) for the most accurate reproduction.*
 
-# Alcatel | Privacy Policy
+# Privacy Policy | com.com
 
-Your privacy is important to us and TCL Communication Technology Holdings Limited (collectively "TCT”) recognizes privacy and security as being concerns for most individuals accessing the Internet, including its customers. TCT has developed a Privacy Policy that covers how it collects, uses, discloses and stores your information. By using TCT’s web site, you consent to the collection and use of your information by TCT as set forth in the then current Privacy Policy. This statement of Privacy Policy discloses TCT’s privacy policy for a public web site relating to alcatel.
+Last modified: December 7, 2016
 
-### Collection of Personal Information
+## Introduction
 
-When a visitor places an order with TCT, TCT may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as payment card information, driver’s license numbers, social security numbers (or equivalent national identification numbers) and date of birth.
+Com.com ( **"Company"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-In addition to purchasing products or service and registration, TCT may ask you for and collect personal information at other times, including when you enter a sweepstakes or contest, participate in a promotion or marketing campaign sponsored by TCT or one of its business partners, when you want to find out about service offered in your area, when you complete surveys or other questionnaires; when you participate in a user forum or blog hosted by TCT or one of its business partners, when you send an email to TCT, when you express interest in employment with TCT, or when you engage in other activities on it’s web site.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website Com.com (our **"Website"** ) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-In addition, TCT’s web server logs collect the domain names of visitors to its web site. This information is aggregated to measure number of visits, average time spent on the TCT’s web site, pages viewed and other web site usage information. TCT uses this information to measure the use of its site and to improve the content of its site. Aggregated information is not used in such a form that would enable direct connection of any personal information to TCT’s visitors.
+This policy applies to information we collect:
 
-Any submissions that you make to any public areas of TCT’s web site such as bulletin boards ("Public Areas") will be public and will not be considered personal information. TCT does not control, and are not responsible for, the actions of other users of the web site or of clients with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
-
-### Personally Identifiable Information
-
-When you are on the TCT’s web site and are asked for personal information, you are sharing that information with TCT, its subsidiaries and related companies. Additionally, if you purchase a cellular phone, accessories or other device requiring service, your personal information is shared with the service provider/carrier with whom you subscribe.
-
-If you express an interest in a product requiring a particular type of service, TCT may share your personal information with your local service provider in order to determine whether such service is available in your area. TCT may share your personal information with third-party business partners so that they may provide services to TCT that are consistent with the terms of this Privacy Policy, and this web site (e.g. database management, sending targeted emails, software sales, and conducting sweepstakes and other promotions on TCT’s behalf).
-
-TCT may also contract with third party companies to perform services for TCT on its web site that require these companies to collect personal information (e.g. hosting a web site sweepstakes, promotion or survey, or selling software downloads). TCT's web site may allow third party vendors to provide products and services directly to TCT consumers. Such relationships are designated with a "Provided By" or "Powered By" company legend or logo, or other similarly worded designation. If you desire to purchase a product or service from such third party, your personal information will be collected by the third-party company, and shared with TCT. You may review the privacy practices of the third party either by clicking the link on the bottom of the page, or by clicking on the "Provided by Company" logo, which will take you to their web site.
-
-Additionally, when you purchase or download software applications from TCT or a third-party, your personal information is shared with the software developer/licensor in order to register you as a licensed software user, and to permit them to provide you any required support. If you are concerned about the privacy policy of a certain developer or software company, you may contact them directly or visit their individual web sites. TCT’s web site may also contain various links to third-party web sites. These web sites may provide additional information, goods, services and/or promotions. These web sites are owned and operated independently of TCT, and have their own separate privacy and data collection practices. Any information you provide to these web sites will be governed under the terms of their privacy policy, if any. TCT has no responsibility or liability whatsoever for the independent actions or policies of these independent web sites, and is not responsible for the content or privacy practices of such web sites.
-
-TCT takes great pride in utilizing only reputable business partners. TCT may, on occasion, provide personal information to third-party businesses as part of a specific product, service, or promotion. TCT shares web site usage information about visitors to its web siteswho have received a targeted promotional campaign with reputable third-party advertising companies for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, TCT and its third-party advertising companies note some of the pages you visit on its web sites through the use of pixel tags (also called clear gifs). The information collected by TCT’s third-party advertising companies through the use of these pixel tags is not personally identifiable.
-
-Except as outlined in this policy or on its web site, TCT does not provide your personal information to third parties without your consent. Please note that, in special cases, TCT may need to share information without acquiring consent, such as when it believes in good faith that the law requires it, or to identify, contact or bring legal action against someone who may be violating its site’s Terms of Use or may be violating TCT’s or other's rights or causing injury to or interfering with TCT's or others’ property.
-
-### Non-Personally Identifiable Information
-
-When you enter TCT’s web site, the server may attach a small text file to your hard drive — commonly called a “cookie”. Your unique cookie tells TCT that it is you whenever you re-enter the web site, so TCT can recall where you have previously been on the web site, and what, if anything, you have in your shopping cart. Cookies help TCT deliver a better web site experience to its users.
-
-TCT may also use cookies to measure traffic patterns, and which areas of the TCT’s web site you have visited, and your visiting patterns. This information collected by using a cookie is sometimes called "clickstream." TCT uses this information to understand how its users navigate the web site, and to determine common traffic patterns, including what site the user came from. TCT uses this information to make web site navigation and product recommendations, and to help redesign its web site in order to make your experience on the web site more efficient and enjoyable. TCT may also use this information to better personalize the content, banner ads, and promotions that you and other users will see. This helps TCT deliver you the content you want when you want it, in order for you to make better purchasing decisions. TCT uses a third party to track user clickstreams.
-
-You have choices with respect to cookies. By modifying your Internet browser preferences, you have the ability to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please note that, if you choose to reject all cookies you will be unable to use those services or engage in activities that require the placement of cookies.
-
-### Use of Information Collected via TCT’s Web Site
-
-TCT shall use your personally identifiable information that is collected on its web sites primarily for the following purposes:
-
-  * To deliver services or to complete a transaction or service requested by you. TCT's primary goal in collecting personal information is to facilitate product order processing and to enable TCT to contact you if a problem arises with your order. Additionally, if you purchase a cellular phone, accessories or other device requiring service, your personal information may be used to obtain a credit report if necessary. Such information is required when making a purchase.
-  * To alert you of special offers, updated information and other new products or services from TCT, or other third parties, or to forward promotional materials to you.
-  * To fulfill the terms of a promotion. TCT shall use the information it collects to help target valuable marketing and advertising offers. This kind of advertising may be done with banner ads as well as promotional emails sent by TCT, or by third parties under contract with TCT. TCT may also match user information with third party data to help it better understand its customers. TCT also conducts research on its users' demographics, interests, and behavior based on the information provided to it when making a purchase, during a promotion, from surveys and from its server log files. TCT does this to better understand and serve its users. This research is compiled and analyzed on an aggregated basis as to prevent identification of personal information relating to any one individual. TCT may share this aggregated data with its business partners.
-  * To ensure TCT’s web site are relevant to your needs as well as to help TCT create and publish content most relevant to you. This information may also be used to provide you with a customized experience on TCT’s web site, which includes interactive communications, and other services. TCT’s web site may also contain optional surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. TCT uses the information you provide to help it design and build better products, to customize your shopping experience, and to provide advice and purchase recommendations. Taking part in any of these segments is always optional and voluntary
-  * To notify you about a material change to this privacy policy or the Terms of Use Agreement, if necessary
-  * To allow you access to limited-entry areas of TCT’s web sites
-  * To contact you in response to sign up forms such as Contact Us or other inquiry
-  * Finally, TCT may also ask for your personal information when you express an interest in employment opportunities at TCT.
+  * On this Website.
+  * In email, text, and other electronic messages between you and this Website.
+  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-### Access to Personal Information
+It does not apply to information collected by:
 
-TCT or its business partners may, from time to time, send you email or direct mail regarding TCT’s products and services. If you do not want to receive such information, simply inform TCT when giving your personal information, or follow the directions contained on the mailing to remove your name from its mailing list(s).
+  * us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-On certain types of TCT promotions or sweepstakes, TCT will ask for your email address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests. Please note that by refusing to provide personal information or by denying or withdrawing consent to use personal information for purposes identified, you may be unable to participate in certain programs or activities sponsored by TCT.
 
-You also have the right to access (review, correct, amend or delete) your personal information by contacting TCT. Individuals are responsible for providing TCT with accurate and complete personal information, and for contacting TCT if correction of such information is required. Please note that, where permitted, TCT reserves the right to disallow unreasonable requests for access. If you have established a "user profile" on TCT’s web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information. Please use the Contact Us form to direct any questions concerning TCT’s Privacy Policy. Requests to unsubscribe from ("opt-out" of) communications from TCT may also be made using the Contact Us form.
 
-### Security of Your Personal Information
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-When you place an order or provide personal information, TCT employs certain technical and organization security measures. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, TCT cannot ensure or warrant the security of any information you transmit to TCT and you understand that any information that you transfer to TCT is done at your own risk.
+## Children Under the Age of 13
 
-Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input. Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
 
-We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information. You can add or update certain information on pages. When you update information, a copy of the prior version may be kept for our records
+## Information We Collect About You and How We Collect It
 
-### International Transfer of Information
+We collect several types of information from and about users of our Website, including information:
 
-As part of a global company TCT has international sites and users from all over the world. The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country. Whenever TCT handles personal information, regardless of where this occurs, it takes appropriate steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use, this Privacy Policy and all applicable laws and regulations.
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social security number or ANY OTHER INFORMATION THE WEBSITE COLLECTS THAT IS DEFINED AS PERSONAL OR PERSONALLY IDENTIFIABLE INFORMATION UNDER AN APPLICABLE LAW/any other identifier by which you may be contacted online or offline ("personal information");
+  * that is about you but individually does not identify you; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-### Changes to this Privacy Policy
 
-TCT reserves the right to change this Privacy Policy from time to time in its sole discretion. When TCT does, TCT will also revise the "last update" date at the bottom of this Privacy Policy.
 
-### Collection and Use of Information from Children Under the Age of 13
+We collect this information:
 
-TCT does not knowingly collect personal information from children under 13. If TCT learns that it has collected the personal information of a child under 13 TCT will take steps to delete the information as soon as possible.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
+
+
+
+Information You Provide to Us. The information we collect on or through our Website may include:
+
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of [registering to use our Website, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Your search queries on the Website.
+
+
+
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although [we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile], please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+Information We Collect Through Automatic Data Collection Technologies. As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+
+  * Details of your visits to our Website, including traffic data, location data, logs] and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
+
+
+
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
+
+The information we collect automatically is statistical data and may include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or[opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+
+## Third-Party Use of Cookies and Other Tracking Technologies.
+
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
+
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+
+We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html
+
+## How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you.
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.]
+
+## Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Com.com's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Com.com about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have consented to these disclosures. 
+  * To fulfill the purpose for which you provide it
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Com.com, our customers, or others.
+
+
+
+## Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+
+
+## Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@com.com
+
+## Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
