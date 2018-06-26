@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnnl.gov privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023064518id_/https%3A//www.pnnl.gov/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnnl.gov privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626034916id_/https%3A//www.pnnl.gov/disclaimer.asp) for the most accurate reproduction.*
 
 # PNNL: Security & Privacy
 
