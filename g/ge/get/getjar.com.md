@@ -1,81 +1,94 @@
-> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910220755id_/https%3A//www.getjar.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626200359id_/https%3A//www.getjar.com/info/privacy) for the most accurate reproduction.*
 
 # GetJar Privacy policy
 
-**Updated: May 9, 2014**
+**Updated as of May 9, 2018**
 
-This GetJar privacy policy ("Privacy Policy") is intended to inform you of Spigot Inc. ("we," "us," or "our") policies and practices regarding the collection, use, and disclosure of your Personal Information through the GetJar Site and GetJar Services. We define Personal Information as information that allows someone to identify or contact you, including for example your name, address, telephone number, and email address. 
+Spigot, Inc ("Spigot" "we" or "us") has established this Privacy Policy to explain how we may collect, retain, process, share and transfer your Personal data when you use our Software, and our Services, and to allow you to make an informed decision about how you will use our Services. 
 
-By registering with us or using our website, you expressly consent to the information handling practices in this privacy policy. If you reside outside the United States, you understand that your personal information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in your country. 
+Our "Services" include the Software on this website, the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" or "user" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services.
 
-This Privacy Policy is a part of our [Terms of Use](https://web.archive.org/info/terms/). If any term of this Privacy Policy is inconsistent or conflicts with any term of the Terms of Use, this Privacy Policy will control. Capitalized terms used in this Privacy Policy but not defined in this Privacy Policy have the meanings given to them in the Terms of Use. 
+This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third-party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. 
 
-## Personal Information You Provide to us
+**I. What Information Do We Collect?**
 
-When you register to use GetJar Services, we may collect your name, e-mail address and e-mail preferences, and password for your account. We may also ask you to provide additional information on an optional basis in connection with setting up your account. You may also register by using your log-in credentials from social networking websites, including Facebook, Twitter, or LinkedIn. When you register in this way, we may collect Personal Information from the social networking websites that you have given us permission to collect or made publicly available. The information GetJar obtains may depend on your privacy settings with the social networking website. When you purchase any Materials or services from the GetJar Site, we may collect your name, phone number, e-mail address, mailing address, billing address, complete credit card information that enables us to receive your payment (however we do not retain your credit card number unless requested) and federal tax identification number or European Union VAT number as applicable. When you give us feedback, we may collect any information that is contained in your feedback. When you contact us by sending us an e-mail, fax, or letter, we collect your e-mail address, fax number, or mailing address, and any information contained in the e-mail, fax, or letter you send us. 
+Spigot may collect information about you when you visit our Sites or use our Services, including the following: 
 
-## Personal Information Collected via Technology
+  * Information you provide us. We collect the content, communications and other information you provide when you contact us, including your email address.
+  * Information we get from your use of our services. We collect information about the Services that you use and how you use them. This information includes: 
+    * **Device Information**
 
-As you use the GetJar Site or any GetJar Service, some information may also be collected passively, including your Internet protocol address, browser type, access time, mobile phone model, and telecom carrier. We may also store a small text file called a "Cookie" on your computer or phone to store certain information about your use of the GetJar Site or GetJar Services. We may use both session Cookies (which expire once you close your browser) and persistent Cookies (which stay on your computer or phone until you delete them). We may collect and store information locally on your device using mechanisms such as browser web storage and application data caches. 
+We collect device-specific information (such as your hardware model and operating system version). 
 
-So that GetJar can provide services, such as version upgrades and app recommendations, we may passively collect information that identifies your mobile device, such as the International Mobile Equipment Identity, IP address, and Android ID. GetJar may also automatically collect data about apps you have installed and the frequency of their use. We may collect details of how you used the GetJar Services, such as your browsing behaviors and search queries. 
+    * **Log Information**
 
-## Use of Information
+When you use our Services or view content provided by Spigot, we automatically collect and store certain information in server logs. This includes:
 
-We use your Personal Information to provide the GetJar Services to you, to respond to requests that you make, to personalize your online experience on the GetJar Site, to improve the GetJar Site and GetJar Services, and to better tailor the features, performance, and support of the GetJar Services. 
+      * Internet protocol address ("IP Address")
+      * The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers)
+      * Device event information such as crashes, system activity, hardware settings, browser language, and the date and time of your request and referral URL 
+      * Your geographic location 
+      * The domain name of your Internet service provider
 
-We may use your Personal Information to send you electronic newsletters or promotional e-mails, unless you have requested not to receive such promotional communications from us. We may also use your Personal Information to send you GetJar Services-related communications, and you may opt out of these communications if you terminate your account. 
 
-We may create Anonymous Information records from Personal Information. We reserve the right to use and disclose Anonymous Information at our discretion. "Anonymous Information" means information that is not associated with or linked to your Personal Information. 
 
-Any feedback you provide will be governed by the Terms of Use. 
+**II. How Do We Use This Information?**
 
-## Disclosure of Personal Information
+We are able to deliver, personalize, and improve our Services by combining and using the information that we have about you to understand how you use and interact with our Services. We also may use the information that we have about you for the following purposes: 
 
-Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so. 
+  * Provide, maintain, improve, and develop relevant features, content, and Services. 
+  * To communicate with you by responding to your requests, comments, and questions. 
+  * Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
+  * Create analytics and reports for internal purposes. These analytics and reports may include aggregate or anonymous information.
+  * Detect and defend against fraudulent, abusive, or unlawful activity.
 
-We may provide your Personal Information to specified third parties for sending you promotional e-mails relating to such third parties' products, unless you have requested us not to receive promotional communications from such third parties. 
 
-We may provide your Personal Information to third party service providers who work on behalf of or with us to provide the GetJar Site and GetJar Services. However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant). 
 
-We may provide your credit card and related billing and payment information to third party service providers engaged on GetJar's behalf, including payment processors and/or credit agencies, for the purposes of checking credit, effecting payment, and servicing your accounts. 
+**III. How Do We Share This Information?**
 
-We may share some or all of your Personal Information with our Affiliates in which case we will require our Affiliates to honor this Privacy Policy. 
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We do not sell, license or share information that individually identifies our users with companies, organizations or individuals outside of Spigot. We will share your information in the following ways:
 
-We will not share any Personal Information with any of our app developer partners. 
+  * Our vendors, subcontractors and business partners ("service providers"): We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else or using it for other purposes.
+  * Companies within Spigot 's group of companies: We may share your information with our parent company and our affiliates, which are entities under common ownership or control of our ultimate parent company. 
+  * Fraud prevention: We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * Law enforcement purposes and public safety: If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose an individual's personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  * Sale or merger of our business: We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * Advertisers and advertising networks: Advertisers and advertising networks place ads (including sponsored links in search results) on our site. These companies may collect information, such as your computer's IP address, browser information, and search queries, as you use our Site and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-If we or our assets related to this Privacy Policy are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information, as described in this Privacy Policy. 
 
-## Law Enforcement Compliance
 
-We may be required by law, or by law enforcement officers acting under the color of law, to record some or all of your communications on or through the GetJar Site or GetJar Services. We may, and you hereby authorize us to, disclose your Personal Information (including your account information) and your communications through the GetJar Site and GetJar Services, if required by law or by law enforcement officers acting under the color of law, or if we believe in good faith that disclosure is necessary to: (1) comply with relevant laws or to respond to subpoenas or warrants served on us; or (2) to protect and defend ours, our Affiliates,' other users,' or your, rights, property or safety. 
+**IV. How Do We Use Cookies and Tracking Technology?**
 
-## Your Choices Regarding Your Personal Information
+We use cookies, pixel tags, web beacons, and similar files or technologies to collect and store the information we automatically collect about your computer, device, and product usage. We use the term "cookies" in this policy to refer to cookies and all such similar technologies that collect information automatically when you are using the Spigot Services, where this policy is posted. You can find out more about cookies our cookie policy here <https://www.getjar.com/info/cookie/>
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us or the GetJar Site, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive. 
+**V. How Long Do We Keep the Information?**
 
-Despite your indicated e-mail preferences, we may send you administrative e-mails regarding the GetJar Service, including, for example, purchase confirmation, account creation confirmation, and notices of material changes to our Terms of Use or Privacy Policy. 
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
 
-You may change your email address and password for the Service by editing it in your account page. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives. 
+**VI. How Do We Protect Your Personal data?**
 
-## Regarding Children
+We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your personal data against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and account/profile registration information and verifying that the personal data we maintain about you is accurate and current. 
 
-We do not intentionally gather Personal Information about Users who are under the age of 13.
+**VII. Age Limitations.**
 
-## Third Party Sites, Third Party Services, and Third Party Materials
+The Sites and Services are not directed to children under the age of 13. We do not knowingly collect information, including personal data, from children or other individuals who are not legally able to use our Sites and Services. If we obtain actual knowledge that we have collected personal data from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data. Contact us if you believe that we have mistakenly or unintentionally collected information from a child under the age of 13. 
 
-Please be aware that the terms of our Privacy Policy do not apply to Third Party Sites, Third Party Services or Third Party Materials that have links or are provided through the GetJar Site. Third party providers of such Third Party Sites, Third Party Services or Third Party Materials, may collect (via tracking technologies like Cookies or web beacons) and use Anonymous Information regarding your interaction with the Third Party Sites, Third Party Services or Third Party Materials that they deliver and with which you interact. 
+**VIII. International Data Transfers**
 
-## Security
+Spigot may transfer your personal data to countries other than the one in which you live. In particular, your personal data will be transferred to and processed in the United States where many of our central databases operate. By using the Services, you acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your personal data being collected, processed and transferred as set forth in this Privacy Policy and US law. Spigot offers European Union Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our users that operate in the European Union. 
 
-We make reasonable efforts to protect your Personal information, but no company, including us, can fully eliminate security risks connected to handling information on the internet. 
+**IX. Your Rights**
 
-## Privacy Policy Updates
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to personal data, as well as to seek to update, delete or correct this Information. If you wish to exercise any of these rights, please contact gdprcontact@getjar.mobi. To the extent that Spigot's processing of your personal data is subject to the General Data Protection Regulation, Spigot relies on its legitimate interests 
 
-This Privacy Policy may be amended at any time in accordance with the section titled "Updates" in the [Terms of Use].
+**X. More Information.**
 
-## Contacting GetJar
+For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. If you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us at the address below. 
 
-If you have any questions about this Privacy Policy, you may contact GetJar in the following ways: 
+**XI. Contact Us**
 
-**Web:** [Contact Us](http://developer.getjar.mobi/contactus/)
+Please also feel free to contact Spigot if you have any questions about this Privacy Policy or Spigot 's practices, or if you are seeking to exercise any of your statutory rights. 
+
+Spigot, Inc  
+774 Mays Blvd #10-456  
+Incline Village, NV 89451 
