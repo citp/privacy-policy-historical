@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bigtop40.com privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218231144id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigtop40.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626021239id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Privacy Policy | Big Top 40</title>
+        <title>Global Privacy Statement | Big Top 40</title>
     
         
         <link rel="canonical" href="http://www.bigtop40.com/privacy-policy/">
@@ -98,27 +98,23 @@
 
         
         <meta name="keywords" content="">
-        <meta name="description" content="Any information you provide about yourself to the Big Top 40 will only be used in accordance with our Privacy Policy Statement. Read all about it here. - Listen to new songs, watch videos and find the top 40 chart at Big Top 40">
+        <meta name="description" content="Global Privacy Statement- Listen to new songs, watch videos and find the top 40 chart at Big Top 40">
         
             <meta content="summary_large_image" name="twitter:card">
         
-            <meta content="Privacy Policy" name="twitter:title">
+            <meta content="Global Privacy Statement" name="twitter:title">
         
-            <meta content="Any information you provide about yourself to the Big Top 40 will only be used in accordance with our Privacy Policy Statement. Read all about it here." name="twitter:description">
+            <meta content="" name="twitter:description">
         
             <meta name="twitter:image:width" content="640">
         
             <meta content="360" name="twitter:image:height">
         
-            <meta name="apple-itunes-app" content="app-id=318936503">
-        
             <meta content="article" property="og:type">
         
-            <meta content="http://www.bigtop40.com/privacy-policy/" property="og:url">
+            <meta content="http://www.bigtop40.comhttp://www.bigtop40.com/privacy-policy/" property="og:url">
         
-            <meta content="Privacy Policy" property="og:title">
-        
-            <meta content="Any information you provide about yourself to the Big Top 40 will only be used in accordance with our Privacy Policy Statement. Read all about it here." property="og:description">
+            <meta content="Global Privacy Statement" property="og:title">
         
             <meta content="BigTop40" property="og:site_name">
         
@@ -138,7 +134,7 @@
         
             <meta content="/" name="parsely-section">
         
-            <meta content="Privacy Policy" name="parsely-title">
+            <meta content="Global Privacy Statement" name="parsely-title">
         
             <meta name="parsely-post-id" content="229">
         
@@ -230,7 +226,7 @@
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
 gusto.build_streaming_params = function() {
-    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1513638703;");
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1529975559;");
 };
 //    this comes from app settings for ukrp
 gusto.streaming_params_cookie_name = 'ukrp_streamparams';
@@ -274,23 +270,30 @@ gusto.build_streaming_params = function() {
     var params = [];
     
         try {
-            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1513638703;"));
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1529975559;"));
         } catch(e) {
             param_error('amsparams');
         }
         
     
         try {
-            params.push('awparams=' + stitch('|', "kxsegs:" , Krux.segments , ";"));
+            params.push('aw_0_1st.nmc=' + stitch('|', encodeURIComponent('["'+ gusto.nielsen.segments.split(',').join('","') + '"]')));
         } catch(e) {
-            param_error('awparams');
+            param_error('aw_0_1st.nmc');
         }
         
     
         try {
-            params.push('kuid=' + stitch('', Krux('get', 'user')));
+            params.push('nmcuid=' + stitch('', (gusto.nielsen.userId)));
         } catch(e) {
-            param_error('kuid');
+            param_error('nmcuid');
+        }
+        
+    
+        try {
+            params.push('aw_0_req.gdpr=' + stitch('', true));
+        } catch(e) {
+            param_error('aw_0_req.gdpr');
         }
         
     
@@ -303,49 +306,42 @@ gusto.build_streaming_params = function() {
     
         <!-- DAC -->
         <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dt/common/DAC.js"></script>
-        <script type="text/javascript" src="http://aka-cdn-ns.adtech.de/dac/646.1/w1231115.js"></script>
+        <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dac/646.1/w1231115.js"></script>
     
 
     </head>
     <body class="js">
-        <!-- START krux interchange tag -->
+        
+            <!-- START Nielsen interchange script -->
 <script type="text/javascript">
-// code for retrieving the Krux user id and segments from either local storage or a cookie
-window.Krux || ((Krux = function() {Krux.q.push(arguments);}).q = []);
-
-(function() {
-	function retrieveKruxValue(key) {
-		var ret = "";
-		// check for value in local storage
-		if (window.localStorage) {
-			ret = window.localStorage.getItem(key);
-		}
-		if (ret != undefined && ret != "") {
-			return ret;
-		}
-		// check for value in cookie
-		if (navigator.cookieEnabled) {
-			ret = document.cookie.match(key + '=([^;]*)');
-			ret = (ret && unescape(ret[1])) || "";
-		}
-		return ret;
-	}
-	var kruxUserId = "";
-	// there are two possible variables that hold the krux user id - try them both
-	kruxUserId = retrieveKruxValue('kxuser');
-	if (kruxUserId == undefined || kruxUserId == "") {
-		kruxUserId = retrieveKruxValue('kxkuid');
-	}
-	Krux.user = kruxUserId;
-	Krux.segments = retrieveKruxValue('kxsegs') && retrieveKruxValue('kxsegs').split(',') || [];
-
-})();
-
-// used in _ad_tech.html
-window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
+    window.gusto.nielsen = {
+        userId: null,
+        segments: [],
+        callbacks: [],
+        init: function() {
+            if (window.localStorage) {
+                window.gusto.nielsen.userId = window.localStorage.getItem('nmcUserId') || null;
+                window.gusto.nielsen.segments = window.localStorage.getItem('nmcSegments') || "";
+            }
+        },
+        receive: function(data) {
+            window.gusto.nielsen.userId = data.user.uid;
+            window.gusto.nielsen.segments = data.user.segments;
+            for(var index=0; index < window.gusto.nielsen.callbacks.length; index++) {
+                var callback = window.gusto.nielsen.callbacks[index];
+                callback.call();
+            }
+            if (window.localStorage) {
+                window.localStorage.setItem('nmcUserId', window.gusto.nielsen.userId);
+                window.localStorage.setItem('nmcSegments', window.gusto.nielsen.segments);
+            }
+        }
+    };
+    window.gusto.nielsen.init();
 </script>
-<!-- END krux interchange tag -->
+<!-- END Nielsen interchange script -->
 
+        
         
 
 
@@ -365,6 +361,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
             <script>
 var GLOBALADVERTISING = (function(){
+    // Vars
+    var consentStringSuccess = false;
+    var consentStringAttempts = 0;
+
     // Helper functions
     var get_url_vars = function() {
         var vars = {};
@@ -407,6 +407,26 @@ var GLOBALADVERTISING = (function(){
         }
         document.cookie = name + "=" + value + expires + "; path=/";
     };
+    var fetchConsentString = function () {
+        if (!consentStringSuccess && consentStringAttempts < 4) {
+            setTimeout(function () {
+                consentStringAttempts++;
+
+                window.__cmp('ping', null, function (data, success) {
+                    if (success && data.cmpLoaded === true) {
+                        window.__cmp('getConsentData', null, function (data, success) {
+                            if (success) {
+                                window.GLOBALADVERTISING.gdpr_consent = data.consentData;
+                                consentStringSuccess = true;
+                            }
+                        });
+                    }
+                });
+
+                fetchConsentString();
+            }, 1000);
+        }
+    };
     var readCookie = function (name) {
         var nameEQ = name + "=";
         var ca = document.cookie.split(';');
@@ -439,6 +459,14 @@ var GLOBALADVERTISING = (function(){
     }
     catch(err) {}
 
+    // Read and add callback for populating Nielsen segments
+    if(window.gusto.nielsen) {
+        var nmc_segments = window.gusto.nielsen.segments.split(',').join(":");
+        window.gusto.nielsen.callbacks.push(function(){
+            window.GLOBALADVERTISING.nmc = window.gusto.nielsen.segments.split(',').join(":");
+        });
+    }
+
     // Set page count from cookie
     var pageCount = 1;
     var pageCountCookie = readCookie('pagecount');
@@ -451,6 +479,11 @@ var GLOBALADVERTISING = (function(){
     // Very useful for AT suite and debugging live
     var ua_string = window.navigator.userAgent;
     var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+
+    // CMP Stuff
+    if (window.__cmp) {
+        fetchConsentString();
+    }
 
     // Return the advertisting object
     var section_array = get_section_array("/privacy-policy/");
@@ -467,7 +500,12 @@ var GLOBALADVERTISING = (function(){
         'contenttype': "article",
         'adtest': adtest,
         'sensitive': "false",
-    };
+        'newslink': "false",
+        'nmc': nmc_segments,
+        'gdpr': 1,
+        'gdpr_pd': 1,
+        'gdpr_consent': ""
+    }
 
     if(log_ads) {
         console.log("The following ad values has been configured", ad_config);
@@ -604,25 +642,19 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 		
 		       <li>
 	               
-	                   <a href="/music-videos/">Music Videos</a>
+	                   <a href="/music-videos/">Videos</a>
+	               
+	           </li>
+		
+		       <li class="childless">
+	               
+	                   <a href="/news/">News</a>
 	               
 	           </li>
 		
 		       <li>
 	               
 	                   <a href="/features/">Features</a>
-	               
-	           </li>
-		
-		       <li class="childless">
-	               
-	                   <a href="/new-music/">New Music</a>
-	               
-	           </li>
-		
-		       <li class="childless">
-	               
-	                   <a href="/songs/">Songs</a>
 	               
 	           </li>
 		
@@ -733,7 +765,7 @@ if (window.GLOBALADVERTISING){
 
     
 		
-			<h1>Privacy Policy</h1>
+			<h1>Global Privacy Statement</h1>
 		
 	
 	
@@ -783,7 +815,7 @@ if (window.GLOBALADVERTISING){
 
 		
 				<p class="stand_first">
-					Any information you provide about yourself to the Big Top 40 will only be used in accordance with our Privacy Policy Statement. Read all about it here.
+					
 				</p>
 		
 
@@ -804,53 +836,174 @@ if (window.GLOBALADVERTISING){
 	<div id="article_body_wrap">
 		<div class="article_body grid_3">
 			
-				<p dir="ltr">Any information you provide about yourself (personal information) to This Is Global Limited (Global Radio) will only be used in accordance with our Privacy Policy, detailed below.</p>
-<p dir="ltr">This Privacy Policy outlines the kinds of personal information we collect, how we use personal information, who we share it with and your rights regarding the personal information you provide to us. Please note, this Privacy Policy does not apply to websites or text services operated by third parties.</p>
-<h2><strong>1. Collection of Information</strong></h2>
-<p dir="ltr">We collect personal information from you through your interaction via our websites, text services or other media. This may occur when you participate in, or sign up to, any of Global Radios services, such as competitions, research panels, or if you use any of our app(s), register an account or apply for a job with us.</p>
-<p dir="ltr">The information we collect will vary depending on the service you request but could include name, address, phone number, email address, user name, password, age, gender, date of birth, household composition, comments, competition answers or your job application. We may also ask for additional information depending on the nature of the service provided. Unless stated, the data fields we request must be completed. We will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so.</p>
-<p dir="ltr">If you use any of our apps, we will collect the following information: (i) your location upon your first use you will be prompted for permission for us to use your location (which you may decline) in order to offer you relevant services (we cannot offer relevant services if you do not permit us to detect and use your location); and (ii) your device - if you access our services from a device such as a mobile telephone running an application, we will uniquely identify each instance of the application, but we will not be able to personally identify you from this information.</p>
-<h2>Cookies</h2>
-<p dir="ltr">We also collect certain information through the use of cookies and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used,&nbsp;<a href="/cookie-policy/">please read our cookie policy</a>.</p>
-<h2>2. Use of Information</h2>
-<p dir="ltr">We will use your personal information for a number of purposes including the following:</p>
+				<h2><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>Who are we?</strong></h2>
+<p>We are the Global Media &amp; Entertainment Limited group (‘Global’).&nbsp; Global is home to some of the UK’s biggest commercial radio brands,&nbsp;<a class="external-blank" href="http://www.capitalfm.com/" target="_blank">Capital</a>,&nbsp;<a class="external-blank" href="http://www.capitalxtra.com/" target="_blank">Capital XTRA</a>,&nbsp;<a class="external-blank" href="http://www.heart.co.uk/" target="_blank">Heart</a>,&nbsp;<a class="external-blank" href="http://www.heart.co.uk/extra" target="_blank">Heart Extra</a>,&nbsp;<a class="external-blank" href="http://www.classicfm.com" target="_blank">Classic FM</a>,&nbsp;<a class="external-blank" href="http://www.smoothradio.com/" target="_blank">Smooth Radio</a>,&nbsp;<a class="external-blank" href="http://www.smoothradio.com/extra" target="_blank">Smooth Extra</a>,&nbsp;<a class="external-blank" href="http://www.mygoldmusic.co.uk" target="_blank">Gold</a>,&nbsp;<a class="external-blank" href="http://www.lbc.co.uk/" target="_blank">LBC</a>, and&nbsp;<a class="external-blank" href="http://www.radiox.co.uk" target="_blank">Radio X</a>. &nbsp;Our portfolio also includes our digital platforms,&nbsp;<a class="external-blank" href="http://www.wetheunicorns.com" target="_blank">We The Unicorns</a>&nbsp;and&nbsp;<a class="external-blank" href="http://www.popbuzz.com" target="_blank">PopBuzz</a>, our TV channels,&nbsp;<a class="external-blank" href="http://www.capitalfm.com/tv" target="_blank">Capital TV</a>&nbsp;and&nbsp;<a class="external-blank" href="http://www.heart.co.uk/tv" target="_blank">Heart TV</a>&nbsp;and our licensed broadcast partners,&nbsp;<a class="external-blank" href="http://www.communicorpuk.com" target="_blank">Communicorp</a>&nbsp;and Adventure Radio.</p>
+<p>This Privacy Statement explains how we collect and use information about you when you interact with our radio, TV, digital brands and this website. This could be through smart speakers, when you enter one of our competitions, or when you engage with our charity activities or sales channels.</p>
+<p>Please note our&nbsp;<a class="external-blank" href="http://www.globalplayer.com" target="_blank">Global Player</a>&nbsp;App has its own Privacy Statement which you can access here:&nbsp;<a class="external-blank" href="http://www.globalplayer.com/privacy-policy/" target="_blank">http://www.globalplayer.com/privacy-policy/</a></p>
+<p>Any personal information that you provide to us may be shared across our brands and may be used in the ways described in this Privacy Statement.</p>
+<p>When you click on adverts or links which take you away from any Global website or Brand app, you should know that we have no control over the content or privacy practices of those other platforms.&nbsp; We advise you to check their privacy policies before providing your information to them.&nbsp;</p>
+<p>If you have any questions about this Privacy Statement or how we use your personal information please contact us at&nbsp;<a class="external-blank" href="mailto:privacy@global.com" target="_blank">privacy@global.com</a></p>
+<p>&nbsp;</p>
+<h2><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>What information do we collect directly from you?</strong></h2>
+<p>The information we collect will vary depending on how you interact and engage with us but it will usually include your name, address, phone number, email address, user name, password, age, gender, date of birth (if appropriate), competition and survey answers and any comments you have decided to provide.</p>
+<p>If you call or email any of our stations, we may also collect your location and a brief summary of your contribution or opinion.</p>
+<p>If you use any of our Brand apps, or listen through a connected device online or via a smart speaker, we will also collect the following information:</p>
 <ul>
-<li dir="ltr">
-<p dir="ltr">to provide, administer and communicate with you about our services and promotions (e.g. to enable you to log in to your account and/or enter competitions).</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">to contact you about a submission you have made to the online research panel, including any content you may provide.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">to consider your application for a job with us.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">to analyse and improve the services we offer.</p>
-</li>
+<li>Your location – upon your first use of our app, you will be asked if we can use your location in order to offer services and information that is relevant to your area. We will also have information regarding your general geographic location based on your IP address and the GPS of your mobile device.</li>
 </ul>
-<p dir="ltr">to send you marketing communications about content, products, events and promotions by us, that you might be interested in. If you are a registered user, then these communications may be personalised for you based on your browsing preferences.</p>
-<p dir="ltr">to send you marketing communications about products, events and promotions by third parties, that you might be interested in. We will only do so if at the time of collecting your personal information you have specifically agreed to opt-in to receive such communications from third parties.</p>
-<p dir="ltr">We may also use your personal information in other ways but will ensure that we notify you of this.</p>
-<h2>3. Sharing Information</h2>
-<p dir="ltr">We will not sell, trade, rent or otherwise pass on your personal information to others, including any personal information that we collect through the use of cookies, except as described here or with your prior consent.</p>
-<p dir="ltr">We may share personal information with service providers who perform functions and services on our behalf. Such third parties will be provided with personal information necessary to perform the services on our behalf but are not authorised to use such information for any other purposes.</p>
-<p dir="ltr">Only where you have agreed to receive marketing communications from third parties, will we pass on your personal information for this purpose.</p>
-<p dir="ltr">We may disclose your personal information when you enter a competition or when you provide material we wish to publish. We will only do so with your prior consent.</p>
-<p dir="ltr">We may carry out research or analysis, which contains your personal information, via our sites. Any "pooled" responses to questions may also be shared with our partner organisations.</p>
-<p dir="ltr">We may also disclose personal information about you to comply with applicable laws and when requested to do so by law enforcement agencies or government bodies.</p>
-<p dir="ltr">We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.</p>
-<h2>4. Use of Aggregate Information</h2>
-<p dir="ltr">We may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers and other third parties. However it will not be possible to identify you from this information. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests. Some of this information may be collected using cookies as described above and in our cookie policy.</p>
-<h2>5. Data Transfers</h2>
-<p dir="ltr">We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect the information as described in this Privacy Policy.</p>
-<h2>6. Your Rights</h2>
-<p dir="ltr">If you are registered for an account with us you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text user, then where appropriate the text messages you receive from us will alert you to options for unsubscription and/ or change of details please follow these messages.</p>
-<p dir="ltr">You have certain rights to the personal information we process about you. You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at privacy@global.com.</p>
-<p dir="ltr">You may request access to the personal information we hold about you. If you would like to submit a request please contact us at&nbsp;privacy@global.com</p>
-<h2>7. Changes to our Privacy Policy</h2>
-<p dir="ltr">We reserve the right to change our Privacy Policy and all changes will be posted here. Where the changes are significant, we may also choose to email all our registered users with the new Privacy Policy.</p>
-<h2>8. Contact Us</h2>
-<p dir="ltr">If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights please contact us at: privacy@global.com</p>
+<ul>
+<li>Your device – if you access our services or programmes from a device such as a mobile app, we will uniquely identify each instance of that use but we will not be able to personally identify you from this information</li>
+</ul>
+<p>We will not normally collect any sensitive personal information from you, and will, in any event, ask for your express consent to hold this information if we need to&nbsp; do so.</p>
+<p>&nbsp;</p>
+<h2>3.&nbsp;&nbsp;&nbsp;&nbsp; What do we use your information for?</h2>
+<p>We use your personal information:</p>
+<ul>
+<li>To give you localised content and relevant adverts so you benefit from the best user experience;</li>
+<li>To enable you to log in to your account;</li>
+<li>To enable you to enter competitions on our websites;</li>
+<li>To invite you to join our online research panel (and, if you participate, we will keep your views and any other content you may provide on record, if you give your consent for us to do so);</li>
+<li>To tell you about products, events, services and promotions that we or our third party partners are offering. This communication could be by email, phone, text or another form of electronic communication. We will only contact you if you have told us that you want to hear from us or our third party partners. If you are a registered user of a Global website, these communications may be personalised for you, based on your browsing preferences;</li>
+<li>We will use your information to deliver targeted advertising to you when you visit our websites. This is known as online behavioural advertising (OBA). It works by giving you adverts based on the way you have interacted with the website. For example, if you have been clicking on articles about pop music, you may be shown more adverts for live pop music events. None of the OBA techniques used will collect personal information such as your name, email address, postal address or phone number.&nbsp;</li>
+</ul>
+<p>If you would like more information regarding OBA and how to opt out, please visit&nbsp;<a href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a></p>
+<p>We will use your data either because you have consented for us to do so or because we have a legitimate interest in processing your information, as follows:</p>
+<p><strong>Legitimate interest uses</strong></p>
+<table style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+<td valign="top" width="200">
+<p>PURPOSE</p>
+</td>
+<td valign="top" width="414">
+<p>COMMENT</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="200">
+<p>To analyse, measure and improve the services we offer.</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="414">
+<p>We improve our products by tracking usage on our websites and apps. This allows us to improve the speed with which we can process your requests and allows us to remember your site preferences.&nbsp;</p>
+<p>We only use information on an aggregated basis which does not identify individuals.&nbsp; The information is subject to Global’s security policies and only kept for as long as necessary before being deleted.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p>To create profiles for targeted advertising and marketing opportunities.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="414">
+<p>We collect information from cookies, other online activity and&nbsp; third parties&nbsp;to help us create profiles and segments to enable us and our partners to deliver more relevant online advertising to our audience and to measure the effectiveness of that activity.</p>
+<p>It is possible&nbsp;to opt out of or block the cookies that we use to undertake these activities at any time.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p>To help prevent fraud and loss</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="414">
+<p>Global has a legitimate interest in protecting its assets, employees and audience from fraud and, in certain circumstances, we may also have a legal obligation to prevent fraud or money laundering. We will take action to minimise any privacy intrusion when investigating suspicious incidents.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p>To train our staff</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="414">
+<p>Global has a legitimate interest in ensuring our staff are fully trained and expert in their respective roles.&nbsp; This may mean having access to personal information, but the extent of this access will be determined by the role of the individual and is subject to Global’s security policies.&nbsp; All our staff receive training in information security and data protection and are subjected to confidentiality obligations.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p>To comply with our regulatory obligations</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="414">
+<p>Global has regulatory obligations to ensure our broadcasts are free from offensive or provocative remarks and that our staff and presenters are not subject to verbal abuse.&nbsp; If you call one of our stations and make rude or offensive remarks, we will keep a record and block further calls from you. Records of abusive callers are only available to a limited number of staff and such records are subject to Global’s security and confidentiality policies.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies are small pieces of information that a website sends to your device while you are browsing.</p>
+<p>We may use cookies for a number of reasons – for more information please see our&nbsp;<a href="/cookie-policy/">Cookie Policy</a>.</p>
+<p>In brief we use cookies to:</p>
+<ul>
+<li>understand how many users we have and how frequently users visit our websites;</li>
+<li>remember your site preferences and location so that you don’t have to resubmit the same information every time you visit our websites;</li>
+<li>increase our website speed;</li>
+<li>show you adverts that we think you may be interested in;;</li>
+<li>limit the number of times you see the same advertisement;</li>
+<li>track who has viewed or listened to an advert so that we can measure the effectiveness of advertising campaigns;</li>
+<li>enable third parties to collect anonymised information which provides analysis of how many people are using our websites and how they are using them;</li>
+<li>store details of your preferred media player (using flash cookies) – some content may not work if these are disabled.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>4.&nbsp;&nbsp;&nbsp;&nbsp; What information do we collect about you from other sources?</h2>
+<p>We may obtain additional information about you from third parties and from social media in the following ways.</p>
+<p>To assist us in our marketing, including OBA, and to ensure that you receive adverts and other information that is relevant to you, we may collect your data from trusted third parties.&nbsp; for example, when you’ve entered a competition or completed a survey or questionnaire and have agreed that this data may then be shared with others including Global. This information may include details about our users’ demographics, interests and classifications and be used to place users in particular groups or segments for targeting advertising. Some of this information may&nbsp; also have come from publicly available sources.&nbsp;</p>
+<p>Please be aware that if you log in via Facebook or Twitter you will be giving Facebook and Twitter permission to share some of your details with us depending on your privacy settings on their site. For example, if your Facebook privacy settings are set to allow it, they will provide us with your public profile which includes your name, profile picture, emails address, age range, gender, language spoken and gender.</p>
+<p>&nbsp;</p>
+<h2>5.&nbsp;&nbsp;&nbsp;&nbsp; Personal Information relating to children</h2>
+<p>&nbsp;We do not knowingly use the personal information of children under 13 years of age either directly or indirectly.&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<h2><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>Who do we share your information with?</strong></h2>
+<ul>
+<li>We may share personal information with providers who perform services on our behalf.&nbsp; They will only receive the information that is necessary for them to carry out the agreed services and will only use your information in accordance with our written instructions and will have the appropriate measures in place to keep your information safe and secure. We also have partners who help us with website analytics and online behavioural advertising: for more information about these parties, please see our&nbsp;<a href="/cookie-policy/">Cookies Statement</a>.</li>
+</ul>
+<ul>
+<li>If you sign up for one of our partnered services, such as online dating, you will be providing your information directly to our third party partner. We advise that you check their privacy policy or statement to understand how they use your information.&nbsp; They may share certain information with us, which we will only use for the reasons set out in this statement and this will not include sensitive personal information or financial information.</li>
+</ul>
+<ul>
+<li>If you enter a competition, we may, if you have agreed, disclose your information to the competition sponsors. If you are a prize winner, we will give your information to the sponsors and share your information with the parties who assist us in providing prizes to the winners.</li>
+</ul>
+<ul>
+<li>We may carry out research or analysis, which contains your personal information, via our sites, and share aggregated responses to questions with our partner organisations.&nbsp;</li>
+</ul>
+<ul>
+<li>In the event that we sell or transfer all or a portion of our business or assets, we reserve the right to transfer personal information we have about you.&nbsp; Should such a sale or transfer occur, we will use reasonable efforts to direct the person receiving your information to continue to use it in way that is consistent with this statement.&nbsp; Following such a sale or transfer, you may contact the person or business to which we transferred your information with any enquiries concerning their use of your personal data.</li>
+</ul>
+<ul>
+<li>We may disclose personal information about you to comply with applicable laws and when requested or obliged to do so by law enforcement agencies, or regulatory or other government bodies.&nbsp; We may also disclose personal information to external legal advisors in order to protect or defend our legal rights or obligations.</li>
+</ul>
+<ul>
+<li>We may share anonymous statistics about our users, sales and traffic patterns with our advertisers and other third parties.&nbsp; It will not be possible to identify you from such information.&nbsp; For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.&nbsp; Some of this information may be collected using cookies as described above and in our&nbsp;<a href="/cookie-policy/">cookie statement</a>.</li>
+</ul>
+<ul>
+<li>We will always ask for your agreement before publishing information provided by you or information about you.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>7.&nbsp;&nbsp;&nbsp;&nbsp; How long do we keep your information for?</h2>
+<p>We will only keep your information for as long as we need to – for example, we will keep your information three months if you enter a competition to 13 months if you call into one our radio shows.</p>
+<p>&nbsp;</p>
+<h2>8.&nbsp;&nbsp;&nbsp;&nbsp; Do we send your information outside the UK or European Union?</h2>
+<p>We may transfer the personal information we collect about you to countries other than the UK or the European Union.&nbsp; These countries may not have the same data protection laws as the country in which you originally provided the information.&nbsp; If we do need to transfer your personal information in this way we take steps to ensure that it is adequately protected for the purposes of UK and European data protection laws.&nbsp;&nbsp; These steps will include undertaking due diligence on the recipients and putting in place contractual obligations on them to take care of your data.&nbsp;</p>
+<p>We may also use partners or recipients who are signatories to the EU-US Privacy Shield which also provides adequate protections for the purposes of European privacy laws.</p>
+<p><strong>&nbsp;</strong><strong>&nbsp;</strong></p>
+<h2><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>Your rights in relation to how we use your personal information.</strong></h2>
+<p>Data Protection laws give you certain rights in respect of your personal information, as set out below: please note these rights do not apply in all cases and may only be exercised where Global is the data controller for your information.</p>
+<ul>
+<li>The right to be informed of how your data will be used – this Statement provides that information;</li>
+<li>The right to have your personal data corrected if it is inaccurate or incomplete – you can also manage some of this yourself if you have registered with us via one or more of our websites;</li>
+<li>The right to access the personal data held about you – usually referred to as a data subject access request. If you wish to submit a request, please contact&nbsp;<a href="mailto:privacy@global.com">privacy@global.com</a>.&nbsp; Please note you will be asked to supply us with proof of identity before we will be able to provide you with a response;</li>
+<li>The right to object to the processing of your personal data – this will include the right to object to direct marketing – you will always be given the opportunity to opt-out of further direct marketing when you receive such communications from us or you can contact us at&nbsp;<a href="mailto:crm.marketing@global.com">crm.marketing@global.com</a>;</li>
+<li>The right to move, copy or transfer certain personal information – please note this right only applies if you have given us your consent to use your data and may not apply to all the information we hold about you;</li>
+<li>The right to restrict the use of your information in certain circumstances; and</li>
+<li>The right to make a complaint. if you have any concerns about how we are using your personal information you can contact the Information Commissioner’s Office who is empowered to investigate our data protection practices.&nbsp; You can find out more at&nbsp;<a href="http://www.ico.org.uk" target="_blank">www.ico.org.uk</a>. However, if you do have any concerns we would like you give us the opportunity to know about them so we would encourage you to contact us first so we can try and to help you:&nbsp;<a href="mailto:privacy@global.com">privacy@global.com</a>.&nbsp;</li>
+</ul>
 			
 		</div>
 
@@ -907,7 +1060,7 @@ if (window.GLOBALADVERTISING){
 
 	
 		
-<h2><a href="/music-videos/">Latest Music Videos</a></h2>
+<h2><a href="/music-videos/official-video/">Latest Music Videos</a></h2>
 	
 
 	
@@ -922,26 +1075,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 first_row cycle_start cycle_end  has_video">
+<article class="grid_2 first_row cycle_start cycle_end  ">
 
 	<h3>
 	    
-        <a href="/songs/ed-sheeran-perfect/" class="">
+        <a href="/music-videos/official-video/rita-ora-cardi-bebe-rexha-charli-xcx-girls/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2017/40/ed-sheeran---perfect-1507195655-editorial-promo-0.png" alt="Ed Sheeran - Perfect" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/23/rita-ora-and-cardi-b-kiss-in-girls-music-video-with-bebe-rexha-and-charli-xcx-1528885666-editorial-promo-1.jpg" alt="Rita Ora and Cardi B kiss in Girls music video wit" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		Ed Sheeran - 'Perfect'</span>
+		Rita Ora And Cardi B Kiss In Girls Music Video With Bebe Rexha And Charli XCX</span>
 
     
 	    
@@ -965,26 +1118,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 cycle_start cycle_end  has_video">
+<article class="grid_2 cycle_start cycle_end  ">
 
 	<h3>
 	    
-        <a href="/songs/macklemore-kesha-good-old-days/" class="">
+        <a href="/music-videos/official-video/shawn-mendes-nervous/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2017/40/macklemore--kesha---good-old-days-1507195323-editorial-promo-0.jpg" alt="Macklemore &amp; Kesha - Good Old Days" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/23/shawn-mendes-nervous-music-video-1528816634-editorial-promo-0.jpg" alt="Shawn Mendes Nervous Music Video" height="62" width="116">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		Macklemore feat. Kesha - 'Good Old Days'</span>
+		Shawn Mendes Gets Tickled And Slapped By Mystery Girl In Nervous Music Video</span>
 
     
 	    
@@ -1008,26 +1161,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 last cycle_start cycle_end  has_video">
+<article class="grid_2 last cycle_start cycle_end  ">
 
 	<h3>
 	    
-        <a href="/songs/gucci-mane-offset-met-gala/" class="">
+        <a href="/music-videos/official-video/years-years-sanctify/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2017/40/gucci-mane---met-gala-1507194108-editorial-promo-0.jpg" alt="Gucci Mane - Met Gala" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/13/years--years---sanctify-music-video-1522943150-editorial-promo-1.jpg" alt="Years &amp; Years - Sanctify (Music Video)" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		Gucci Mane feat. Offset - 'Met Gala'</span>
+		Years &amp; Years - Sanctify [Official Music Video &amp; Lyrics]</span>
 
     
 	    
@@ -1049,7 +1202,7 @@ if (window.GLOBALADVERTISING){
 	
 	
 		
-			<footer><a href="/music-videos/">Watch More New Music Videos</a></footer>
+			<footer><a href="/music-videos/official-video/">Watch More New Music Videos</a></footer>
 
 		
 	
@@ -1068,7 +1221,7 @@ if (window.GLOBALADVERTISING){
 					
 
 
-<article class="grid_2 first first_row cycle_start cycle_end  win"><a href="/win/huawei-mate-10/"><em class="win">Win</em><h3><img src="http://assets.bigtop40.com/2017/50/huawei-mate-10-pro-vodafone-asset-1513180135-hero-promo-1.jpg" alt="Huawei Mate 10 Pro Vodafone Asset" height="298" width="298"><span>Win a Huawei Mate 10 &amp; 12 Months of The Best Entertainment!</span></h3></a></article>
+<article class="grid_2 first first_row cycle_start cycle_end  "><a href="/win/win-an-apple-music-membership-for-a-year/"><h3><img src="http://assets.bigtop40.com/2018/18/calvin-harris--dua-lipa---one-kiss-1525615438-hero-promo-1.jpg" alt="Calvin Harris &amp; Dua Lipa - One Kiss" height="298" width="298"><span>Win an Apple Music membership for a year</span></h3></a></article>
 
 				
 			
@@ -1098,26 +1251,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 first_row cycle_start cycle_end  has_video">
+<article class="grid_2 first_row cycle_start cycle_end  has_audio">
 
 	<h3>
 	    
-        <a href="/features/playlists/best-pop-songs-2017/" class="">
+        <a href="/playlists/biggest-female-collaborations/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2016/52/little-mix---touch-1483009090-editorial-promo-0.jpg" alt="Little Mix - Touch" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/19/rihanna-and-shakira-1526561147-editorial-promo-1.jpg" alt="Rihanna and Shakira" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              <em class="has_audio">Listen</em>
             
         
         
-		Top Chart Hits: 35 Of The Best Pop Songs Of 2017...So Far!</span>
+		Girls, Girls, Girls: 10 Best All-Female Collaborations Of All Time</span>
 
     
 	    
@@ -1141,28 +1294,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 gallery cycle_start cycle_end  ">
+<article class="grid_2 cycle_start cycle_end  ">
 
 	<h3>
 	    
-        <a href="/features/number-1-singles-2017/" class="">
+        <a href="/playlists/best-summer-songs/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2017/05/ed-sheeran-shape-of-you-video-1485774266-editorial-promo-0.png" alt="Ed Sheeran Shape Of You Video" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/19/pineapples-in-swimming-pool-1526465429-editorial-promo-0.jpg" alt="Pineapples in swimming pool" height="62" width="116">
     
 
 	<span class="headline">
 		
 		    
               
-                <em class="gallery">Picture Gallery</em>
-              
             
         
         
-		Every No.1 Vodafone Big Top 40 Single Of 2017</span>
+		Best Summer Songs of 2018 Playlist: Hottest New Music That Sounds Like Summer 2018</span>
 
     
 	    
@@ -1186,26 +1337,26 @@ if (window.GLOBALADVERTISING){
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 last cycle_start cycle_end  ">
+<article class="grid_2 last cycle_start cycle_end  has_audio">
 
 	<h3>
 	    
-        <a href="/features/playlists/one-direction-greatest-hits-best-songs-playlist/" class="">
+        <a href="/playlists/throwback-ipod-songs-2000s/" class="">
 	    
 	    
 
      
-        <img src="http://assets.bigtop40.com/2017/36/one-direction-popcorn-1504776345-editorial-promo-0.jpg" alt="One Direction" height="138" width="138">
+        <img src="http://assets.bigtop40.com/2018/15/throwback-ipod-songs-1524050804-editorial-promo-1.jpg" alt="Throwback iPod Songs" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              
+              <em class="has_audio">Listen</em>
             
         
         
-		VOTE: The Best One Direction Songs Ranked By You</span>
+		Throwback Songs From The 2000s You Definitely Had On Your iPod</span>
 
     
 	    
@@ -1270,14 +1421,14 @@ if (window.GLOBALADVERTISING){
     
     <ol>
         
-        <li class="first explicit">
+        <li class="first">
             
 
 
 <h4>
     <span class="num">1</span>
-    <span class="track">River (feat. Ed Sheeran)</span>
-    <span class="artist">Eminem</span>
+    <span class="track">Shotgun</span>
+    <span class="artist">George Ezra</span>
 </h4>
 
 
@@ -1288,8 +1439,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/8c/4f/b4/8c4fb4c9-919c-cef3-9a86-929ce682fd66/mzaf_6916606247536831129.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "River (feat. Ed Sheeran)"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/c9/1f/83/c91f83b2-38c7-3a93-fabe-2da29dc5c2a8/mzaf_5271705754245759426.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Shotgun"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1299,13 +1450,13 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/river-feat-ed-sheeran/1321895370?i=1321895377&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "River (feat. Ed Sheeran)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/shotgun/1331589118?i=1331589486&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Shotgun" from iTunes</span>
         </a>
     </p>
     
 
-    <p class="explicit">Explicit</p>
+    
 
         </li>
         
@@ -1315,8 +1466,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">2</span>
-    <span class="track">Perfect Symphony (with Andrea Bocelli)</span>
-    <span class="artist">Ed Sheeran</span>
+    <span class="track">Solo (feat. Demi Lovato)</span>
+    <span class="artist">Clean Bandit</span>
 </h4>
 
 
@@ -1327,8 +1478,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/13/cf/87/13cf87ff-274b-b526-33df-0040172a0bc8/mzaf_2644453004385379544.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Perfect Symphony (with Andrea Bocelli)"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/80/9c/c6/809cc6e9-c2e4-f300-921c-e37b5a4a6569/mzaf_4199798196739675159.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Solo (feat. Demi Lovato)"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1338,8 +1489,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/perfect-symphony-with-andrea-bocelli/1323176986?i=1323177389&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Perfect Symphony (with Andrea Bocelli)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/solo-feat-demi-lovato/1380752874?i=1380753466&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Solo (feat. Demi Lovato)" from iTunes</span>
         </a>
     </p>
     
@@ -1354,8 +1505,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">3</span>
-    <span class="track">Perfect Duet (with Beyoncé)</span>
-    <span class="artist">Ed Sheeran</span>
+    <span class="track">If You're Over Me</span>
+    <span class="artist">Years &amp; Years</span>
 </h4>
 
 
@@ -1366,8 +1517,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/ce/f8/2c/cef82c1e-1da2-4ace-55fd-0e863f87d0d0/mzaf_996499473733845989.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Perfect Duet (with Beyoncé)"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/06/eb/70/06eb70e7-bfc4-0eee-78b2-f9e164ccf3a8/mzaf_547055110221117375.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "If You're Over Me"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1377,8 +1528,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/perfect-duet-with-beyonc%C3%A9/1318665235?i=1318665245&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Perfect Duet (with Beyoncé)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/if-youre-over-me/1373788921?i=1373789726&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "If You're Over Me" from iTunes</span>
         </a>
     </p>
     
@@ -1393,8 +1544,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">4</span>
-    <span class="track">Last Christmas (Single Version)</span>
-    <span class="artist">Wham!</span>
+    <span class="track">Leave a Light On</span>
+    <span class="artist">Tom Walker</span>
 </h4>
 
 
@@ -1405,8 +1556,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4c/f8/c8/mzm.ylyxorlq.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Last Christmas (Single Version)"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/ff/0d/38/ff0d3886-853b-dcaa-8504-546740bba791/mzaf_3947949635552680360.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Leave a Light On"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1416,8 +1567,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/last-christmas-single-version/202117886?i=202117984&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Last Christmas (Single Version)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/leave-a-light-on/1289368758?i=1289368769&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Leave a Light On" from iTunes</span>
         </a>
     </p>
     
@@ -1426,14 +1577,14 @@ if (window.GLOBALADVERTISING){
 
         </li>
         
-        <li>
+        <li class=" explicit">
             
 
 
 <h4>
     <span class="num">5</span>
-    <span class="track">Anywhere</span>
-    <span class="artist">Rita Ora</span>
+    <span class="track">I Like It</span>
+    <span class="artist">Cardi B, Bad Bunny &amp; J Balvin</span>
 </h4>
 
 
@@ -1444,8 +1595,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/02/2a/a0/022aa06d-f375-567d-d472-1559403726c9/mzaf_460144347717733898.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Anywhere"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/1f/99/50/1f995089-1a92-8a35-deb8-d6ad1112b7d7/mzaf_4506281732899607891.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "I Like It"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1455,13 +1606,13 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/anywhere/1294717355?i=1294717501&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Anywhere" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/i-like-it/1368156323?i=1368157211&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "I Like It" from iTunes</span>
         </a>
     </p>
     
 
-    
+    <p class="explicit">Explicit</p>
 
         </li>
         
@@ -1471,8 +1622,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">6</span>
-    <span class="track">Perfect</span>
-    <span class="artist">Ed Sheeran</span>
+    <span class="track">One Kiss</span>
+    <span class="artist">Calvin Harris, Dua Lipa</span>
 </h4>
 
 
@@ -1483,8 +1634,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/0c/b3/dd/0cb3ddf4-001a-7c84-e03c-23c481e0d00f/mzaf_8473056260251397628.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Perfect"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/93/f0/07/93f007ed-7987-f0c3-9fb5-8a1f16fba7b8/mzaf_3238277755823048841.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "One Kiss"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1494,8 +1645,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/perfect/1193682944?i=1193683175&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Perfect" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/one-kiss/1364709432?i=1364709436&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "One Kiss" from iTunes</span>
         </a>
     </p>
     
@@ -1510,8 +1661,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">7</span>
-    <span class="track">Dimelo (feat. Wyclef Jean &amp; Naughty Boy) [X Factor Recording]</span>
-    <span class="artist">Rak-Su</span>
+    <span class="track">Rise (feat. Jack &amp; Jack)</span>
+    <span class="artist">Jonas Blue</span>
 </h4>
 
 
@@ -1522,8 +1673,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/1d/c5/d7/1dc5d740-8e01-198b-1ec2-c49f677f1039/mzaf_4564366978733220949.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Dimelo (feat. Wyclef Jean &amp; Naughty Boy) [X Factor Recording]"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/d9/e2/fa/d9e2fa23-61f7-eec9-6f10-6fda0d95f81f/mzaf_5828339373526155984.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Rise (feat. Jack &amp; Jack)"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1533,8 +1684,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/dimelo-feat-wyclef-jean-naughty-boy-x-factor-recording/1318829532?i=1318829541&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Dimelo (feat. Wyclef Jean &amp; Naughty Boy) [X Factor Recording]" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/rise-feat-jack-jack/1383852254?i=1383852262&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Rise (feat. Jack &amp; Jack)" from iTunes</span>
         </a>
     </p>
     
@@ -1543,14 +1694,14 @@ if (window.GLOBALADVERTISING){
 
         </li>
         
-        <li class=" explicit">
+        <li>
             
 
 
 <h4>
     <span class="num">8</span>
-    <span class="track">Beautiful Trauma</span>
-    <span class="artist">P!nk</span>
+    <span class="track">2002</span>
+    <span class="artist">Anne-Marie</span>
 </h4>
 
 
@@ -1561,8 +1712,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/a1/18/21/a11821b2-25bb-7158-1b52-08340752c1f9/mzaf_5163424934965364370.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Beautiful Trauma"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/e0/51/0d/e0510d84-39bf-3eff-7d60-c0cd3f5e91e8/mzaf_1261725383527459030.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "2002"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1572,13 +1723,13 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/beautiful-trauma/1269268686?i=1269268688&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Beautiful Trauma" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/2002/1350388262?i=1350388932&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "2002" from iTunes</span>
         </a>
     </p>
     
 
-    <p class="explicit">Explicit</p>
+    
 
         </li>
         
@@ -1588,8 +1739,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">9</span>
-    <span class="track">17</span>
-    <span class="artist">MK</span>
+    <span class="track">I'll Be There</span>
+    <span class="artist">Jess Glynne</span>
 </h4>
 
 
@@ -1600,8 +1751,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/6a/b7/71/6ab77135-7744-ef30-2bec-40bba7d99aa7/mzaf_5589879302966552524.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "17"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/e5/fb/7f/e5fb7f29-7d8d-97f4-6571-72ad764d6283/mzaf_2931743403785716535.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "I'll Be There"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1611,8 +1762,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/17/1269598149?i=1269598586&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "17" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/ill-be-there/1376766204?i=1376767301&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "I'll Be There" from iTunes</span>
         </a>
     </p>
     
@@ -1627,8 +1778,8 @@ if (window.GLOBALADVERTISING){
 
 <h4>
     <span class="num">10</span>
-    <span class="track">Man's Not Hot</span>
-    <span class="artist">Big Shaq</span>
+    <span class="track">Familiar</span>
+    <span class="artist">Liam Payne &amp; J Balvin</span>
 </h4>
 
 
@@ -1639,8 +1790,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/08/11/53/081153c5-0d95-9669-d087-2ed35f178973/mzaf_6502946831511318451.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Man's Not Hot"</span>
+        <a class="preview_player jp-play" href="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/45/96/bb/4596bbae-cd4d-80ba-07f8-c5aed5b157f2/mzaf_402013387236148243.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Familiar"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1650,8 +1801,8 @@ if (window.GLOBALADVERTISING){
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/mans-not-hot/1287497897?i=1287498432&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Man's Not Hot" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/familiar/1368945168?i=1368945549&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Familiar" from iTunes</span>
         </a>
     </p>
     
@@ -1662,7 +1813,7 @@ if (window.GLOBALADVERTISING){
         
     </ol>
     
-    <p class="updated">Last updated: 10.55 pm 18/12/2017</p>
+    <p class="updated">Last updated: 02.15 am 26/06/2018</p>
     
 </div>
         
@@ -1803,7 +1954,7 @@ if (window.GLOBALADVERTISING){
 			
 			<li>
 
-	<a href="https://www.facebook.com/bigtop40show/" class="external">Facebook</a>
+	<a href="https://www.facebook.com/bigtop40" class="external">Facebook</a>
 
 </li>
 			
@@ -1912,7 +2063,7 @@ if (window.GLOBALADVERTISING){
 
 	</div>
 	<div class="foot">
-		<p id="copyright">© Global 2017 </p>
+		<p id="copyright">© Global 2018 </p>
 	</div>
 </footer>
 
