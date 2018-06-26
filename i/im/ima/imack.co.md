@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629155132id_/http%3A//imack.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626044212id_/https%3A//imack.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iMack
-
-AD: [Get All Latest Android Games Here](http://fxapk.com/)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](mailto:70clacks@gmail.com).
 
