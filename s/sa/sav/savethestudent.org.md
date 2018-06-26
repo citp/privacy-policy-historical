@@ -1,72 +1,293 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829224425id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626130744id_/https%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
-This privacy policy sets out how this website (www.savethestudent.org) uses and protects any information that you may provide when you use the site. The website is owned and operated by Grip Media Limited. This policy is effective from 12th April 2012.
+## 1\. INTRODUCTION
 
-We (Grip Media Ltd) are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how we collect, process and protect your personal data through your use of our website [ **savethestudent.org** ], including any information you may provide through our site when you sign up to our newsletters, take part in a prize draw or competition, or access a product or service.
 
- **We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.  We are a registered data controller under the United Kingdom's Data Protection Act 1998 in respect of your personal information to which our privacy policy applies.**
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-We may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with any changes
+Grip Media Limited is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy policy).
 
- **What we collect**
+This policy is effective from 29th March 2018.
 
-We may collect the following information from our users:
+###  **Contact Details**
 
-  * name
-  * contact information including email address
-  * demographic information such as home town, university, graduation year, preferences and interests
-  * other information relevant to customer surveys and/or offers
+Grip Media Limited trading as Save the Student.
 
+Email address: 
 
+Postal address: Kairos, 3 Millharbour, London, E14 9XP, England, United Kingdom.
 
- **What we do with the information we gather**
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](https://www.ico.org.uk/)). We would be grateful if you would [contact us](https://www.savethestudent.org/contact-us) first if you do have a complaint so that we can try to resolve it for you.
 
-We often require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send newsletters and emails with updates about our website and occasionally about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+## 2\. WHAT DATA WE COLLECT ABOUT YOU
 
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
+We may process certain types of personal data about you as follows:
 
- **Security Policy**
-
-We are committed to ensuring that your information is secure and take reasonable precautions. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online. However we do not guarantee the security of any information disclosed to us. By submitting data and information you accept the risks involved and will not hold us liable for any breach of this security.
-
- **How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-We allow advertisers and other third parties to place cookies onto your computer when you visit our Website. These cookies are placed to keep track of the Web searches you make while visiting this website, as well as your Web surfing behavior on this Website and other Websites you may visit. That information is used to show you advertisements tailored to your interests on this and other Websites, and/or to keep track of your response to each ad. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/choices/).
-
- **Links to external websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
- **Hosted images**
-
-We claim no credit for any images posted on this website, unless otherwise noted, that we do not own the copyright for. Images on this website are copyright to its respectful owners. If there is an image appearing on this website that belongs to you and you do not wish for it appear on this site, please[ contact us](http://www.savethestudent.org/contact-us) with a direct link to the image and it will be promptly removed.
-
- **Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * if you have previously agreed to us using your personal information for communication purposes, you may change your mind at any time. You are able to use the unsubscribe link within any of our newsletters to remove yourself from the mailing list.
+  *  **Identity Data** may include your first name, maiden name, last name, username, title, date of birth and gender.
+  *  **Contact Data** may include your address, email address and telephone numbers.
+  *  **Technical Data** may include your login data, internet protocol addresses, browser type and version, browser plug-in types and versions, time zone setting and location, operating system and platform and other technology on the devices you use to access this site.
+  *  **Profile Data** may include your username and password, university graduation year, university name, university course name or area, preferences, feedback and survey responses.
+  *  **Usage Data** may include information about how you use our website, products and services.
+  *  **Marketing and Communications Data** may include your preferences in receiving marketing communications from us and our third parties and your communication preferences.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find useful or interesting.
+We may also process Aggregated Data from your personal data but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of our site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
+ **Sensitive Data**
 
- **How to contact us**
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-Please use the [Contact form](http://www.savethestudent.org/contact-us) found within the website to email us. Or you can write to our office at: Grip Media Ltd, 83 Ducie St, Manchester, M1 2JQ.
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
+
+## 3\. HOW WE COLLECT YOUR PERSONAL DATA
+
+We collect data about you through a variety of different methods including:
+
+  *  **Direct interactions:** You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you:
+    * create an account on our site;
+    * subscribe to our service or publications;
+    * request resources or marketing be sent to you;
+    * enter a competition, prize draw, promotion or survey; or
+    * give us feedback.
+  *  **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns.  
+We collect this data by using cookies, server logs and similar technologies.  
+We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our cookie policy at <https://www.savethestudent.org/cookie-policy> for further details.
+  *  **Third parties or publicly available sources:** We may receive personal, identity, contact or technical data about you from various third parties and public sources as set out below:
+    * Analytics providers such as Google ([privacy policy](https://policies.google.com/privacy?hl=en)) and Clicky ([privacy policy](https://clicky.com/terms/privacy)) based outside the EU;
+    * Search information providers such as Google and Microsoft based outside the EU;
+    * Social media websites such as Facebook, Twitter and LinkedIn based outside the EU;
+    * Comment service providers such as Disqus based outside the EU;
+    * Email service providers such as Mailchimp and Aweber based outside the EU;
+    * Competition entry and survey response collection providers such as Google and Woobox based outside the EU;
+    * Advertising networks based inside the EU such as Awin and TradeDoubler;
+    * Advertising networks based outside the EU such as Google and Commission Junction;
+    * Advertisers that you directly engage with through our website, based inside and outside the EU, such as Amazon, eBay and Virgin;
+    * Public web pages you may be associated with, such as an author profile page on a news website.
+
+
+
+## 4\. HOW WE USE YOUR PERSONAL DATA
+
+We will only use your personal data when legally permitted. The most common uses of your personal data are:
+
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Generally, we do not rely on consent as a legal ground for processing your personal data, other than in relation to sending marketing communications to you via email or WhatsApp messaging.
+
+You have the right to withdraw consent to marketing at any time by emailing us at  or following unsubscribe links in our newsletters.
+
+###  **Purposes for processing your personal data**
+
+Set out below is a description of the ways we intend to use your personal data and the legal grounds on which we will process such data. We have also explained what our legitimate interests are where relevant.
+
+We may process your personal data for more than one lawful ground, depending on the specific purpose for which we are using your data. Please email us at  if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+ **Purpose/Activity**|  **Type of data**|  **Lawful basis for processing**  
+---|---|---  
+To register you as a new website user| (a) Identity  
+(b) Contact| Performance of a contract with you  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+| (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+| (a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests to keep our records updated and to study how our audience use our products/services  
+  
+To enable you to partake in a prize draw, competition or complete a survey| (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+| (a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests to study how our audience use our products/services, to develop them and grow our business  
+  
+To administer and protect our business and our site (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)| (a) Identity
+
+(b) Contact
+
+(c) Technical
+
+| (a) Necessary for our legitimate interests for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise
+
+(b) Necessary to comply with a legal obligation  
+  
+To deliver relevant website content and advertisements to you and measure and understand the effectiveness of our advertising| (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical
+
+| Necessary for our legitimate interests to study how our audience use our products/services, to develop them, to grow our business and to inform our marketing strategy  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences| (a) Technical
+
+(b) Usage
+
+| Necessary for our legitimate interests to define types of visitors for our products and services, to keep our site updated and relevant, to develop our business and to inform our marketing strategy  
+To fulfil your request to be contacted by a third-party service or organisation| (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+| Performance of a contract with you (consent)  
+   
+To make suggestions and recommendations to you about goods or services that may be of interest to you| (a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+| Necessary for our legitimate interests to develop our products/services and grow our business  
+  
+###  **Marketing communications  **
+
+You will receive marketing communications from us if you have:
+
+  * requested information from us; or
+  * if you provided us with your details and ticked the box at the point of entry of your details for us to send you marketing communications; and
+  * in each case, you have not opted out of receiving that marketing.
+
+
+
+We have a long-standing partnership with [Graduate Recruitment Bureau](https://www.savethestudent.org/out/grb) (GRB) and we may ask you whether you would like to be contacted by them for their marketing purposes. Only with your express opt-in consent will we share your personal data with them. We may also receive monetary remuneration from them. You can find their own privacy policy [here](https://www.grb.uk.com/about-us/privacy-policy).
+
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at  at any time.
+
+###  **Change of purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to find out more about how the processing for the new purpose is compatible with the original purpose, please email us at 
+
+If we need to use your personal data for a purpose unrelated to the purpose for which we collected the data, we will notify you and we will explain the legal ground of processing.
+
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+## 5\. DISCLOSURES OF YOUR PERSONAL DATA
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above:
+
+  * Service providers who provide IT, data, communication and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities based in the United Kingdom and other relevant jurisdictions who require reporting of processing activities in certain circumstances.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+## 6\. INTERNATIONAL TRANSFERS
+
+Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Many of our third parties service providers are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * Where we use providers based in the United States, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+Please email us at  if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+## 7\. DATA SECURITY
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+
+In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know such data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+## 8\. DATA RETENTION
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+## 9\. YOUR LEGAL RIGHTS
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. These include the right to:
+
+  * Request access to your personal data.
+  * Request correction of your personal data.
+  * Request erasure of your personal data.
+  * Object to processing of your personal data.
+  * Request restriction of processing your personal data.
+  * Request transfer of your personal data.
+  * Right to withdraw consent.
+
+
+
+You can see more about these rights at: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+If you wish to exercise any of the rights set out above, please email us at 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## 10\. THIRD-PARTY LINKS
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+## 11\. COOKIES
+
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience.
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see <https://www.savethestudent.org/cookie-policy>.
+
+## 12\. IMAGES
+
+We claim no credit for any images posted on this website, unless otherwise noted, that we do not own the copyright for. Images on this website are copyright to its respectful owners. If there is an image appearing on this website that belongs to you and you do not wish for it appear on this site, please [contact us](https://www.savethestudent.org/contact-us) with a direct link to the image and it will be promptly removed.
