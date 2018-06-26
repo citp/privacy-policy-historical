@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212641id_/https%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211311id_/https%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NESN.com
 
@@ -40,7 +40,7 @@ Sublicense to third parties the unrestricted right to exercise any of the forego
 
 The foregoing grants shall include the right to exploit any proprietary rights in such communication, including but not limited to rights under copyright, trademark, service mark or patent laws under any relevant jurisdiction.
 
-We sometimes use the non-personally identifiable information that we collect online to improve the design and content of our web site, protect the security of our web site, and to enable us to personalize your Web experience. We also may use this information in the aggregate to analyze web site usage, as well as to offer you products, programs, or services.
+We sometimes use the non-personally identifiable information that we collect online to improve the design and content of our web site, protect the security of our web site, and to enable us to personalize your Web experience. We also may use this information to analyze web site usage, as well as to offer you products, programs, or services.
 
 We may disclose personally identifiable and non-personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our web site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company.
 
@@ -48,7 +48,7 @@ Agents and contractors who have access to personally identifiable information ar
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-Certain NESN web sites may disclose personally identifiable information to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a web site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.
+NESN may disclose personally and non-personally identifiable information to third parties whose practices are not covered by this Privacy Policy (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
 
 We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site.
 
@@ -68,7 +68,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The NESN sites covered by this Privacy Policy sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the web site activity. We have no control over these third parties’ use of this information. The web site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some of the NESN sites covered by this Privacy Policy may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
+Some of the NESN sites covered by this Privacy Policy may use a third party to present or serve the advertisements that you may see on such NESN sites. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
 **Our Commitment to Security**
 
