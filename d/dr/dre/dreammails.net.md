@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223005353id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211418id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
   
-**::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://www.globalfriendsonline.com/index.php/board,77.0.html) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
+**::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://my-ptr.info/mybb/forumdisplay.php?fid=4) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
+
+[**Multi-Site Purchase/Redemption Contest - December 27, 2017 - March 31, 2018**](http://my-ptr.info/mybb/showthread.php?tid=16)
 
 | 
 
-[](http://dreammails.net/scripts/runner.php?BA=14368&hash=e895713b032c961b71f9578a8c85df3e&url=http%3A%2F%2Fwww.neobux.com%2F%3Fr%3DLBJ90)  
+[](http://dreammails.net/scripts/runner.php?BA=22613&hash=38e166f79230aa514a1a1666f74dc8a7&url=http%3A%2F%2Ftraffup.net%2Ffree%2F%3Frf%3D415894229)  
 
 
 |   
@@ -17,26 +19,24 @@
 ---  
   
   
- **::** **Total Members: 490**
+ **::** **Total Members: 563**
 
-**::** ** Active Members: 446 **
+**::** ** Active Members: 488 **
 
 **
 
-**::** Total Payout: 10,836.61 
+**::** Total Payout: 11,179.91 
 
-**::** Mails In Queue: 0 
+**::** Mails In Queue: 7 
 
-**::** Paid To Click Links: 324 
+**::** Paid To Click Links: 369 
 
-**::** Banners In Queue: 289 
+**::** Banners In Queue: 306 
 
 **
 
 **::** Server Time / Program Owner's Local Time:  
-
-
-[](http://ptr-ranking.info/)  
+  
   
 **DreamMails Respects Your Privacy**   
 
