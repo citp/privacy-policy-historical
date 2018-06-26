@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220113059id_/http%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627005739id_/http%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Westeros: Privacy Policy
 
-This Privacy Policy governs the manner in which Westeros.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://westeros.org](http://www.westeros.org/?URL=http%3A%2F%2Fwesteros.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by Westeros.org.
+This Privacy Policy governs the manner in which Westeros.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [url=http://westeros.org]http://westeros.org[/url] website ("Site"). This privacy policy applies to the Site and all products and services offered by Westeros.org.
 
 ### Personal identification information
 
@@ -48,7 +48,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DoubleClick cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DoubleClick uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network ad preferences at [http://www.google.com/ads/preferences/](http://www.westeros.org/?URL=http%3A%2F%2Fwww.google.com%2Fads%2Fpreferences%2F)
+Some of the ads may be served by Google. Google's use of the DoubleClick cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DoubleClick uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie by visiting the Google ad and content network ad preferences at [url=http://www.google.com/ads/preferences/]http://www.google.com/ads/preferences/[/url]
 
 ### Compliance with children's online privacy protection act
 
@@ -67,9 +67,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Westeros.org   
-[http://westeros.org](http://www.westeros.org/?URL=http%3A%2F%2Fwesteros.org)   
+[url=http://westeros.org]http://westeros.org[/url]   
 [webmaster@westeros.org](mailto:webmaster@westeros.org)
 
 This document was last updated on May 02, 2017
 
-Privacy policy created by [http://www.generateprivacypolicy.com](http://www.westeros.org/?URL=http%3A%2F%2Fwww.generateprivacypolicy.com)
+Privacy policy created by [url=http://www.generateprivacypolicy.com]http://www.generateprivacypolicy.com[/url] 
