@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223125531id_/https%3A//metroland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626205041id_/http%3A//notices.torstar.com/privacy-policy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy | Metroland Media
+# Privacy Policy | Torstar
 
 [Voir en français](https://web.archive.org/politique-de-confidentialite)
 
@@ -18,7 +18,7 @@ Read More
 
 We collect personal information you provide directly to us **when you purchase our products, register for, use or attend our services, donate to our charities or fill out our surveys.** We collect information we get from third parties or from you when you **visit us, call us or you use our services.** Unless the information collected or compiled is sensitive in nature, we assume your consent for all purposes set out in this policy.
 
-Commonly Collected personal Information | Purpose  
+Commonly Collected Personal Information | Purpose  
 ---|---  
 **Contact information** such as name, address, postal code, email address, telephone number | 
 
@@ -49,14 +49,14 @@ Commonly Collected personal Information | Purpose
   
 **Social media identifiers** (such as single sign on through Facebook, Google or other social media accounts) and other information you share with us or make public via your social networking platform. You may control what information you share though the social networking sites’ privacy settings. | 
 
-  * verify your identity when you use social login so that you may access your account and use our services.
+  * verify your identity when you use social login so that you may access your account and use our services
   * provide a customized experience
   * develop better products and services
 
   
 **Subscriber id and passwords** | 
 
-  * verify your identity so that you may access your account and use services.
+  * verify your identity so that you may access your account and use services
 
   
 **Credit card, PayPal or banking information and transaction ID** | 
@@ -102,7 +102,7 @@ We may share your personal information within the Torstar Companies, our chariti
   * You have **consented**.
   * We are permitted or required to do so by **law**.
   * We have engaged an **authorized service provider** to carry out services on our behalf. Personal information may be transferred outside of your province and/or outside of Canada for processing or storage. Read more
-  * We are required to share the information with **merchants** from whom you have purchased something or registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. Read More
+  * We are required to share the information with **merchants** from whom you have purchased something or registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. Read more
 
 
 
