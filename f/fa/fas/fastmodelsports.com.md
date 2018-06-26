@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the fastmodelsports.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912123857id_/https%3A//fastmodelsports.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmodelsports.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082209id_/http%3A//fastmodelsports.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FastModel Sports
 
-Fast Model Technologies LLC (“we” or “us”) recognizes the importance of privacy to our customers and users (“you”). In order to provide you with the best possible service it may be necessary for us to store information about you. However, we only collect information that you choose to provide us. This Privacy Policy explains what types of information we may collect from you and how we use that information to operate [www.fastmodelsports.com](http://www.fastmodelsports.com/) (the “Site”) and provide services to you.
+FastModel Holdings, LLC d/b/a **FastModel Sports** (“we” or “us”) recognizes the importance of privacy to our customers and users (“you”). In order to provide you with the best possible service it may be necessary for us to collect information about you. However, we only collect information that you choose to provide us. This Privacy Policy explains what types of information we may collect from you and how we use that information to operate [www.fastmodelsports.com](http://www.fastmodelsports.com/) (the “Site”) and provide services to you.
 
-We reserve the right to amend and update this Privacy Policy at any time and for any reason, and you are responsible for reviewing this Privacy Policy from time to time to become aware of any such changes. Any revisions to this Privacy Policy shall be effective immediately upon posting.
+We reserve the right to amend and update this [Privacy Policy](https://fastmodelsports.com/pages/privacy-policy) at any time and for any reason, and you are responsible for reviewing this Privacy Policy from time to time to become aware of any such changes. Any revisions to this Privacy Policy shall be effective immediately upon posting.
 
 **Information We Collect**
 
-Personally Identifiable Information – Personally identifiable information is collected if you submit it voluntarily as part of an order or other communication you choose to send. When you purchase a product, contact us, sign up for a mailing list, submit a blog entry or enter into any other transaction with us on the Site, you may be asked to provide your first and last name, postal address, email address, telephone number, credit card number (for purchases) and other personal information. You may also create a user name and password of your choice.
+Personally Identifiable Information – Personally identifiable information is collected if you submit it voluntarily as part of an order or other communication you choose to send. When you purchase a product, contact us, sign up for a mailing list, submit a blog entry or enter into any other transaction with us on the Site, you may be asked to provide your first and last name, postal address, email address, telephone number, credit card number (for purchases) and other personal information. You may also create a username and password of your choice.
 
-Behavioral Information – We also receive and store certain other types of information whenever you visit our Site. In addition to information you provide, we may collect the name of the domain and host from which you access the Internet; the IP address of the computer you are using; the browser and operating system you are using; the date and time you access the Site; and the Internet address of the website (if any) from which you linked to the Site. We use “cookies” to automatically gather some of this information. A cookie is a small text file that we send to your computer to collect information about your activities on the Site. The cookie transmits this information back to the Site each time your browser requests a page from the Site, and the information is stored to help facilitate your use of the Site the next time you visit. Please note that cookies may include registration numbers for your registered Fast Model Sports products, which can be linked to personally identifiable information. If you do not want to receive cookies from the Site, you can set your browser to not accept cookies.
+Behavioral Information – We also receive and store certain other types of information whenever you visit our Site. In addition to information you provide, we may collect the name of the domain and host from which you access the Internet; the IP address of the computer you are using; the browser and operating system you are using; the date and time you access the Site; and the Internet address of the website (if any) from which you linked to the Site. We use “cookies” to automatically gather some of this information. A cookie is a small text file that we send to your computer to collect information about your activities on the Site. The cookie transmits this information back to the Site each time your browser requests a page from the Site, and the information is stored to help facilitate your use of the Site the next time you visit. Please note that cookies may include registration numbers for your registered FastModel Sports products, which can be linked to personally identifiable information. If you do not want to receive cookies from the Site, you can set your browser to not accept cookies.
 
 **Use of Information**
 
-Personally identifiable information will be used for purchases, including as necessary to complete your order, to contact you or respond to inquires concerning your order and to deal with any financial queries. We may also use your personally identifiable information to keep you informed of new releases, products or services, promotions or other offers, to provide information on how to use our products, to improve the Site and to otherwise improve the services we provide you.
+Personally identifiable information will be used for purchases, including as necessary to complete your order, to contact you or respond to inquiries concerning your order and to deal with any financial queries. We may also use your personally identifiable information to keep you informed of new releases, products or services, promotions or other offers, to provide information on how to use our products, to improve the Site and to otherwise improve the services we provide you.
 
 We may monitor IP addresses and other behavioral information for security purposes, Site administration, trend analysis, to prevent fraud, troubleshoot problems and/or improve our services. The IP address of the computer you use to access this Site is not linked to any personal information you provide on this Site.
 
-Cookies will be used to create and modify your shopping cart, so if you set your browser to not accept cookies you will not be able to checkout on the Site.
+Cookies will be used to create and modify your shopping cart, so if you set your browser to not accept cookies you will not be able to checkout on the Site. We also use cookies, embedded scripts, and other tracking tools to provide insight on how well our content answers your questions, while also allowing us to improve how and when we show you content, in order to provide a better experience for you.
 
 **How We Share Your Information**
 
@@ -26,7 +26,9 @@ We may engage third party agents to perform certain functions necessary to provi
 
 We may disclose to third parties aggregated, anonymous information regarding our sales, traffic analysis and other information regarding the Site. This information will not include personally identifiable data about you.
 
-Please also be aware that (i) in the event our company or any of its assets are ever sold, our customer database would be transferred to the new owner and (ii) your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
+Please also be aware that (i) in the event our company or any of its assets are ever sold, our customer database would be transferred to the new owner and (ii) your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website. 
+
+Should you decide that you no longer want to share your data with FastModel, for any reason, then FastModel will honor all requests to erase or withdraw all personal data. 
 
 **Information Security**
 
@@ -42,8 +44,8 @@ We do not knowingly collect, use or disclose information from or about a child u
 
 **Correcting/Updating Personal Information; Questions**
 
-If you have any questions about this Privacy Policy or your personal information, or wish to correct, update or remove any personal information you have provided to us, please contact us at [privacy@fastmodelsports.com.](mailto:privacy@fastmodelsports.com)
+If you have any questions about this Privacy Policy or your personal information, or wish to correct, update or remove any personal information you have provided to us, please contact us at [privacy@fastmodelsports.com](mailto:privacy@fastmodelsports.com).
 
 Internet Privacy Policy
 
-Effective 8/9/12
+Updated May 30, 2018
