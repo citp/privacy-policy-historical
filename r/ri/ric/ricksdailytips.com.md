@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917125244id_/http%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricksdailytips.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626070348id_/https%3A//www.ricksdailytips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Any personal information requested from visitors is used solely to complete the task at hand. I will never ask for any information that I don’t need in order to successfully conduct business with you (that was initiated by you) or allow you to enjoy the site’s features.
 
-– Your personal information (name, address, phone number, email address, etc.) is never shared with any third party for any reason.
+– Your personal information (name, address, phone number, email address, etc.) is never stored on my server or shared with any third party for any reason except when you choose to leave a comment on one of my posts and opt to have my site store your name, email address and IP address so you can leave additional comments in the future without having to enter that information again.
 
 – I never send unsolicited commercial email (SPAM) to the visitors of RicksDailyTips.com.
 
 – In short, your personal information is completely safe and confidential when you visit and interact in any way with RicksDailyTips.com.
 
-Detailed privacy information:
+**Detailed privacy information:**
 
 The privacy of the visitors to RicksDailyTips.com is important to me…
 
 I recognize that privacy of your personal information is important. Here is information on the types of personal information collected when you visit RicksDailyTips.com, and how I safeguard your information. I will NEVER sell your personal information to third parties.
 
-Log Files
+**Log Files**
 
 As with most other websites, RicksDailyTips.com collects and uses the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit my site (such as Internet Explorer or Firefox), the time you visited my site and which pages you visited throughout this site.
 
-Cookies and Web Beacons
+**Cookies and Web Beacons**
 
 I do use cookies to store information, such as your personal preferences when you visit this site. This could include only showing you a popup once in your visit, or the ability to login to some of the site features, such as forums.
 
-I also use third party advertisements on RicksDailyTips.com to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on my site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit the site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+I also use third party advertisements on RicksDailyTips.com to support the site.
 
-DoubleClick DART cookies
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on my site, which will also send these advertisers (such as Google through the Google AdSense program and the Amazon Associates affiliate program) information including your IP address, your ISP , the browser you used to visit the site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+**DoubleClick DART cookies**
 
 I also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
 
@@ -36,6 +38,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-**Advertising**
+**In-House Advertising**
 
 RicksDailyTips.com generates advertising revenue via paid posts, reviews and advertisements of various types.
