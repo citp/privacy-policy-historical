@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229235519id_/http%3A//www.wbrc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627010542id_/http%3A//www.wbrc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WBRC FOX6 News - Birmingham, AL
 
