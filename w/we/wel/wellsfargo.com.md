@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellsfargo.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004723id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellsfargo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626205901id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
 
 # Digital Privacy and Cookies Policy – Privacy and Security – Wells Fargo
 
@@ -50,7 +50,7 @@ We may share information with service providers with whom we work, such as data 
 
 ## Children’s privacy
 
-From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.  We request that such individuals do not provide personal information through the services. 
+From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.  We request that such individuals do not provide personal information through the services.
 
 For more information about the Children’s Online Privacy Protection Act (COPPA), visit the FTC website: [www.ftc.gov](https://web.archive.org/exit/e?id=115158222).
 
