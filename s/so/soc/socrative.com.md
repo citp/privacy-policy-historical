@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081336id_/http%3A//www.socrative.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626104039id_/https%3A//app.masteryconnect.com/Privacy) for the most accurate reproduction.*
 
-# 
+# mc-logo-white
 
 * * *
 
-MasteryConnect, Inc. ("MasteryConnect") values your privacy. In this MasteryConnect Privacy Policy ("Privacy Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our websites – [www.masteryconnect.com](https://www.masteryconnect.com/) or [www.socrative.com](http://www.socrative.com/) (the "Sites"), users of our mobile applications (the "Apps"), and users of the services available through our Sites and Apps (collectively, the "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update your personal information. The Sites, Apps and Services are owned and operated by MasteryConnect, Inc., 222 South Main, Suite 200, Salt Lake City, UT 84101. 
+MasteryConnect, Inc ("MasteryConnect") values your privacy. In this MasteryConnect Privacy Policy ("Privacy Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our websites – [https://masteryconnect.com](https://masteryconnect.com/) or [https://socrative.com](https://socrative.com/) (the "Sites"), users of our mobile applications (the "Apps"), and users of the services available through our Sites and Apps (collectively, the "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update your personal information. The Sites, Apps and Services are owned and operated by MasteryConnect, Inc, 175 West 200 South, Suite 1000, Salt Lake City, Utah 84101. 
 
 By submitting Personal Data (as defined below) through our Sites, Apps or Services, you agree to the terms of this Privacy Policy, and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy. 
 
@@ -39,8 +39,8 @@ If you have questions about the privacy aspects of our Services or would like to
 
 MasteryConnect   
 Attn: Legal   
-222 South Main, Suite 200   
-Salt Lake City, UT 84101   
+175 West 200 South, Suite 1000   
+Salt Lake City, Utah 84101   
 (801) 736-0258   
 [privacy@masteryconnect.com](mailto:privacy@masteryconnect.com).   
 
@@ -211,7 +211,7 @@ This Privacy Policy is current as of the Last Updated Date set forth above. We m
 
 **COPPA Privacy Policy**
 
-MasteryConnect, Inc. ("MasteryConnect") values the privacy of children and of all of its users. This COPPA Privacy Policy ("COPPA Policy") is designed to comply with the Children's Online Privacy Protection Act ("COPPA") and contains important information about how we collect, use, and disclose the personal information we collect from children under thirteen years old who use our websites, [www.masteryconnect.com](https://www.masteryconnect.com/) or [www.socrative.com](http://www.socrative.com/) (the "Sites"), our mobile applications (the "Apps"), and the services available through our Sites and Apps (collectively, the "Services"). This COPPA Policy also explains how a parent or guardian (“parent” or “you”) can restrict the collection, use and/or disclosure of your Child’s (as defined below) information and how you can request deletion of your Child’s information. 
+MasteryConnect, Inc ("MasteryConnect") values the privacy of children and of all of its users. This COPPA Privacy Policy ("COPPA Policy") is designed to comply with the Children's Online Privacy Protection Act ("COPPA") and contains important information about how we collect, use, and disclose the personal information we collect from children under thirteen years old who use our websites, [https://masteryconnect.com](https://masteryconnect.com/) or [https://socrative.com](https://socrative.com/) (the "Sites"), our mobile applications (the "Apps"), and the services available through our Sites and Apps (collectively, the "Services"). This COPPA Policy also explains how a parent or guardian (“parent” or “you”) can restrict the collection, use and/or disclosure of your Child’s (as defined below) information and how you can request deletion of your Child’s information. 
 
 The MasteryConnect Services are a classroom tool and resource that teacher end users (“Teachers”) can use as part of their classroom activities to identify levels of student understanding around their instruction on a real-time basis. To use the Services, Teachers may collect personal information from their students, including children who are under 13 years old (“Students”). For the purposes of this Policy, "Child" or "Children" means a Student under 13 years old. 
 
@@ -222,6 +222,13 @@ Children's personal information will be handled only as described in this COPPA 
 **Who Will Collect Information About Children?**
 
 MasteryConnect operates the Sites, Apps, and Services and will collect Children’s personal information as described in this COPPA Policy. We can be contacted at: 
+
+MasteryConnect   
+175 West 200 South, Suite 1000   
+Salt Lake City, Utah 84101   
+(801) 736-0258   
+[privacy@masteryconnect.com](https://web.archive.org/web/20180626104039id_/https%3A//app.masteryconnect.com/privacy@masteryconnect.com)   
+
 
 **What Information Do We Collect About Children?**
 
