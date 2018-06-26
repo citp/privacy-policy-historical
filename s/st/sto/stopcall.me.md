@@ -1,37 +1,39 @@
-> *The following text is extracted and transformed from the stopcall.me privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406160606id_/http%3A//www.stopcall.me/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopcall.me privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626104214id_/http%3A//stopcall.me/privacy-policy) for the most accurate reproduction.*
 
-# STOP CALL from Privacy Policy
+# Privacy Policy
 
-To better protect your privacy we provide this notice explaining our online information practices, including how we collect and use the information you may provide to us on the Web site, and the choices you can make about the way your information is collected and used.
+At StopCall.me we recognize that privacy of your personal information is extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by and how we use it. We never sell your personal information to third parties.
 
-**Collected information**
+### Personal Information Collected
 
-When you submit information for publication on our Website, all information supplied will be available to the public. Please exercise caution when supplying personally identifying information. Avoid posting your own email address and phone number within the post message.
+We may collect, store and use the following kinds of personal data:  
+(a) information about your visits to and use of this website;  
+(b) information that you provide to us for the purpose of registering with us and/or using our website features; 
 
-Like most other Internet sites, we use cookies to personalize and enhance your experience on our sites. No identifiable information is gathered via the cookies. We also use Internet traffic analysis software which tracks your visited pages.
+### Log Files
 
-**Information we collect:**
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP, the browser you used to visit our site, the time you visited our site and which pages you visited throughout our site.
 
-  * IP address;
-  * Pages visited;
-  * About Computer / Device (type, operating system, browser etc.).
+### Cookies and Web Beacons
 
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features.
 
+### Our Advertising Partners
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies are necessary to provide you with certain website features.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+(a) Spokeo Inc;  
+(b) Whoeasy; 
 
-**Links to third party Web sites**
+You should consult the respective privacy policies of these third-party vendors and ad networks for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This privacy policy document does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Our Website offers hyperlinks to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies, practices, or the content of any third party Web sites. Once you've left our Web sites via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any information they collect from you.
+### Third Party Websites
 
-**Third party advertising**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We may use third-party advertising companies to serve ads on our Web sites. These companies may use cookies, pixel tags, or otherwise independently collect non-personally identifiable information from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+### Your Consent
 
-**Privacy Policy Changes**
+By using our site, you consent to our privacy policy.
 
-This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page.
+### Privacy Policy Changes
 
-**Questions and comments**
-
-Questions regarding this privacy statement should be submitted via the [feedback form](http://www.stopcall.me/help/contact-us).
+If we decide to change our privacy policy, we will post those changes on this page.
