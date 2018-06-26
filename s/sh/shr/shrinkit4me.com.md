@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrinkit4me.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105131144id_/http%3A//shrinkit4me.com/%3Flink%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinkit4me.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626230159id_/http%3A//shrinkit4me.com/%3Flink%3DPRIVACY) for the most accurate reproduction.*
 
 # None
 
