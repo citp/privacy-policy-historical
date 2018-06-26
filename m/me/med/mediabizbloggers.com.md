@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328220327id_/https%3A//www.mediavillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabizbloggers.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626152423id_/https%3A//www.mediavillage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,4 +18,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### HOW TO CONTACT US
 
-We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact [maryann@mediavillage.com](mailto:maryann@mediavillage.com)  or write to us: MediaVillage.com, Attn: Legal Department, PO Box 27740, Las Vegas, NV 89126.
+We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact [maryann@mediavillage.com](mailto:maryann@mediavillage.com)  or write to us: MediaVillage.com, Attn: Legal Department, PO Box 4757, New York, NY 10185.
