@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsdownloads.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902071004id_/https%3A//letsdownloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsdownloads.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626025215id_/https%3A//letsdownloads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,3 +67,5 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 24, 2017
+
+Updated October 23rd, 2017 Author: 
