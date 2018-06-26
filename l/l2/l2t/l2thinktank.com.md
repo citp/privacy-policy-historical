@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the l2thinktank.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212210551id_/http%3A//www.l2thinktank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l2thinktank.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626175512id_/https%3A//www.l2inc.com/privacy-policy) for the most accurate reproduction.*
 
-# L2: A Think Tank for Digital Innovation » Privacy Policy
+# Privacy Policy | Gartner L2
 
-We understand that privacy is important to our site visitors and our members.
+Updated: December 2017
 
-Any personal information that you may give us, including your email address and contact details, is used to fulfill your information request and stored in a database for marketing purposes.  
-If you sign up for our Daily Digest Email via our Sign Up with L2 form and choose not to receive other information related to L2, you will only receive the Daily Digest via email. Should you opt in to receive Event information, you will receive periodic emails notifying you of upcoming L2 events as well as early registration discount offers. If you opt in to receive L2 News, we will send you an email no more than once per week informing you of our latest research releases and publications.
+This Privacy Policy discloses what information L2 collects and how it is used. This policy may be revised or updated at L2’s discretion. Any changes to our policy will be posted to this page with a revision date.
 
-If you download a report from L2 (for example, a Digital IQ Index® report), we will automatically place you on our News and Events email lists.
+Data L2 gathers about you
 
-Each email will contain the option to quickly and easily opt out from receiving any further communication.
+1\. Personal data that you supply when you subscribe to our newsletters, sign up for membership, register for one of our events, or provide contact information  
+2\. Information collected while you are on l2inc.com, including usage activity and browsing behavior on site
 
-We do not sell or provide the information collected or stored about you to third parties.
+Analytics and third-party technologies
 
-Our site and our blog in particular contain links to other web sites. L2 is not responsible for the content or privacy practices of external Internet sites.
+1\. L2 uses Google Analytics to track and analyze aggregated usage data from visitors to l2inc.com. This data is anonymous and is not linked to any specific user.  
+2\. L2 uses cookies to display advertising messages to past visitors of l2inc.com. These ads may appear elsewhere on the web.  
+3\. Visitors can opt out of L2’s cookie-based advertising via YourAdChoices. Visitors are also able to opt out of Google Analytics tracking with the Google Analytics Opt-out Browser Add-on.
+
+If you have questions regarding our Privacy Policy as it relates to your use of this site or L2’s products and services, please email info@l2inc.com.
