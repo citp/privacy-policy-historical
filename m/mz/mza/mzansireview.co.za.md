@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mzansireview.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125701id_/http%3A//www.mzansireview.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mzansireview.co.za privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075808id_/http%3A//www.mzansireview.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mzansi Review - Insurance news and analysis
+# Privacy Policy - Mzansi ReviewMzansi Review - Insurance news and analysis
 
 **Mzansi Review Privacy Policy**  
 1\. Audience  
