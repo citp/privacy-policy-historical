@@ -1,109 +1,99 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922120352id_/https%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191437id_/https%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DrugAbuse.com
+# Privacy Policy - DrugAbuse.com
 
-## Website Privacy Policy
+This is a web site of Recovery Brands LLC.
 
-**Effective Date: 10/01/2015**
+Effective Date: April 27, 2018
 
-This Privacy Policy covers the information appearing on the website on which it is posted (“Website” or “Site”), which is operated by Recovery Brands LLC, part of Sober Media Group (“Recovery Brands”, “DrugAbuse.com”, “Sober Media Group” or “we”).  This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.  By accessing the Site on any computer, mobile phone, tablet, or other device (collectively, “Device”), you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Website.
+This Privacy Policy describes how and when we collect, use and share information about you when you visit our Sites. By using the Sites, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of information collected from you as described in this Privacy Policy.
 
-We may modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the information we collect.
+## Online Privacy Policy Only
 
-## Collection of Information
+This online privacy policy applies only to information collected through our Sites and not to information collected offline, including telephonically, via email, or through any other means.
 
-### Personal Information
+## What Information Do We Collect From Visitors to Our Website?
 
-We collect personal information from you when you provide it to us, including by providing information to us to find a treatment facility, or when you contact us.  This information may include, for example, your email address, name, telephone phone number, or mailing address.
+Upon visiting our Sites, our server automatically logs your visit. The server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-### Non-Personal Information
+Additionally, we collect information you expressly provide. When using our site, subscribing to our newsletter, filling out a form, commenting on our blog or taking a certification quiz, you may be asked to enter your name, e-mail address, mailing address, phone number or other contact information. You may also be asked to provide information that will assist us in referring you or a loved one to an appropriate treatment center, such as information relating to the condition or ailment you wish to treat and your insurance information. Similarly, we may collect payment information, such as credit and debit card numbers, when you make purchases through the site.
 
-When you visit the Website, we may collect certain non-personal information from you, including your Internet Protocol (IP) address, the date and time of your visit, browser type, operating system, the specific web pages visited during your connection, and the domain name from which you accessed the Website. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other clickstream data. We may also use non-personal information for statistical analysis, research, and other purposes.
+We may monitor and/or record telephone conversations for our business purposes, such as quality assurance and training purposes and to protect our rights.
 
-Like many commercial websites, we may analyze how visitors use our Site through what is known as “cookie” technology.  A cookie is a small text file that is placed on your computer when you access the Site and allows us to recognize you each time you visit the Site. We may use cookies to: (1) enhance or personalize your Website usage; (2) monitor Site usage; (3) manage the Website; and (4) improve the Website and our services. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features that are currently on our Website, or that we may put on our Website in the future.
+We may combine information we receive from you through our Sites with information about you that we receive from our affiliates and/or third parties. We will handle the combined information as described in this privacy policy to help us provide services and information to you.
 
-We may also use web beacons on the Website, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Site visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the Website. Web beacons help us analyze our Website visitors’ behavior and measure the effectiveness of the Website and our advertising. We may work with service providers that help us track, collect and analyze this and other site usage information.
+## Do We Disclose Visitors’ Information to Third Parties?
 
-We may combine the non-personal information we collect, such as through cookies and web beacons, with other information we have collected from you.
+We do not sell or trade to outside parties the information we collect from you other than as set forth herein. We may disclose information collected from and about you to select trusted treatment partners in order to match you with an appropriate treatment center. We may disclose the information we collect to third parties, including to our affiliates and business partners, who assist us in operating our Sites, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, respond to legal process (such as a search warrant, subpoena or court order), enforce our Sites’ policies, or protect ours or others’ rights, property, or safety. Non-personally identifiable visitor information (including unique device identifiers) may be provided to other parties for marketing, advertising, or other uses. We may also disclose your personal information with your express consent for other purposes not listed here. We may disclose your personal information to a potential or actual acquirer, successor, or assignee as part of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in bankruptcy or similar proceedings).
 
-### Use of Information
+## How Do We Use Visitors’ Information?
 
-We may use the information we collect from and about you for any of the following purposes: (1) to improve the quality of the content available on our sites, administer the sites, and enable certain functionality such as your participation in interactive areas of the sites (2) to provide you with names of treatment centers; (3) to respond to your inquiries; (4) to review Website usage and operations; (5) to address problems with the Website, our business or our services; (6) to protect the security or integrity of the Site and our business; (7) to monitor the Site for compliance with our Terms of Use and the law; and (8) to contact you with Website updates, newsletters and other informational and promotional materials from us and third party marketing offers from our trusted partners, as well as from other companies.
+We may use the information we collect from you in the following ways:
 
-If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by emailing us at removal@recoverybrands.com, or by following the instructions contained in the messages you receive.
+  * To process a placement and/or consulting request
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our Website, address problems, and protect the security or integrity of the Site and our business (we continually strive to improve our Website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To administer a promotion, survey or other Website feature
+  * To communicate with you about information and updates pertaining to your placement and/or consulting request.
+  * To monitor the Site for compliance with our Terms of Use and the law
 
-## Disclosure of Information
 
-We may disclose information collected from and about you as follows: (1) to select companies and organizations so that they may use it for their own marketing and promotional uses; (2) to our related companies and service providers, to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Website Terms of Use or of our rights or the rights of any third party; (4) to respond to legal process (such as a search warrant, subpoena or court order) and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent for other purposes not listed here. We may share aggregate, non-personally identifiable information about Website users with third parties.
 
-While DrugAbuse.com seeks to share personally-identifying information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you prefer that we not share your information with third parties, you may “opt out” by contacting us with that request. You should be aware that any information you post on a bulletin board, forum, comment space, or “chat” room or that you otherwise specifically and knowingly disclose during the use of the Site, may be directly collected and used by third parties. As a result of disclosing such information, you may be subject to unsolicited email. You should have no expectation of privacy with respect to your communications through the forums or your profile should you choose to list this information.
+We may use non-personal information for statistical analysis, research, and other purposes.
 
-## Security
+## Cookies and Similar Technologies
 
-We maintain reasonable and appropriate measures designed to maintain information we collect in a secure manner.  We have taken certain physical, electronic, and administrative steps to safeguard and secure the information we collect from Website visitors.  Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances.
+We may use cookies to enable the site’s or service providers’ systems to recognize your browser and capture and remember certain information.
 
-## Email Policies
+We use cookies and similar technologies to understand and save your preferences for future visits and compile aggregate data about Site usage and interaction so that we can offer better experiences and tools in the future. We may contract with third-party service providers that use these technologies to assist us in better understanding our Sites’ visitors. They may collect information about your online activities over time, on other devices, and on other websites or apps, if those websites and apps also use the same service provider.
 
-DrugAbuse.com will use reasonable means to protect the privacy of the information you send us by email. However, because of the risks outlined below, DrugAbuse.com cannot guarantee that email communications will be confidential. Additionally, DrugAbuse.com will not be liable in the event that you or anyone else inappropriately uses your email.
+We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Site and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to <https://www.google.com/policies/privacy/partners/>, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
 ## Interest Based Advertising
 
-We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time.
+We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time. Advertising Providers may utilize cookies and similar technologies to make advertising more relevant to you.
 
-You may visit www.aboutads.info to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program.  Note that electing to opt-out will not stop advertising from appearing in your browser or applications.  It may make the ads you see less relevant to your interests.  In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
+You may visit www.aboutads.info to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice.
+
+Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Sites, you may not be able to utilize the features of the Sites to their fullest potential.
+
+## How Do Our Sites Handle Do-Not-Track Signals?
+
+Some browsers incorporate a “Do Not Track” (DNT) feature that, when activated, signals to websites and online services that you do not want to be tracked. However, there is not yet an accepted standard for how to respond to browser DNT signals, and we do not currently respond to them.
+
+## Your California Privacy Rights
+
+Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Notice and our privacy commitments to our customers should not hesitate to contact us at [privacy@recoverybrands.com](mailto:privacy@recoverybrands.com).
 
 ## Children
 
 We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen.
 
-## Your California Privacy Rights
+## Email Policies
 
-California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.  To make such a request, please contact us by emailing [privacy@recoverybrands.com](mailto:privacy@recoverybrands.com).
+Recovery Brands will use reasonable means to protect the privacy of the information you send us by email. However, because of the risks outlined below, Recovery Brands cannot guarantee that email communications will be confidential. Additionally, Recovery Brands will not be liable in the event that you or anyone else inappropriately uses your email.
 
-## Third Party Websites
+## Security
 
-The Site may contain links to third-party websites which may have privacy policies that differ from our own. We are not responsible for, nor do we endorse, any of the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any external site before disclosing any personal information.  Please contact those websites directly if you have any questions about their privacy policies. 
+We maintain reasonable and appropriate measures designed to maintain information we collect in a secure manner. We have taken certain physical, electronic, and administrative steps to safeguard and secure the information we collect from Website visitors. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances.
 
-## Contact Us
+## Disclaimer Statement
 
-If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@recoverybrands.com](mailto:contact@recoverybrands.com).  If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
+All of the contents on the Sites, including any images, text, external links, graphics or any other material posted on the Sites, are intended solely for informational purposes. The information contained herein may be written by non-medical professionals and is not necessarily a substitute for professional medical advice, treatment or diagnosis of any disease or disability. Please seek advice consulting a qualified medical professional with any questions that you may have regarding your physical or mental health condition(s). If you are experiencing thoughts of suicide or any other medical emergency dial 911 or visit your local emergency room.
 
-##  About the DrugAbuse.com Toll-Free Helpline and Directory 
+The Sites contain links to external websites and references to other resources that are not associated with our Sites. We have no control over these third-party resources and make no warranty or representation as to the content of those resources. Their inclusion does not constitute an endorsement or recommendation.
 
-Each year, the [DrugAbuse.com](https://web.archive.org/) hotline connects thousands of people with substance abuse treatment programs throughout the U.S. toll-free. Calls are answered by American Addiction Centers (AAC) who have treatment support specialists available 24/7, 365 days a year. 
+## Changes to This Privacy Policy
 
-Both our treatment directory and our hotline are offered at no cost to you. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
-##  Where Else Can I Find Help? 
+## **Contacting Us**
 
-**National Hotlines:**
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-SAMHSA Facility Locator - <http://findtreatment.samhsa.gov/index.html> 1-800-662-HELP (4357) Free and confidential information in English and Spanish for individuals and family members facing substance abuse and mental health issues. 24 hours a day, 7 days a week. 
-
-Suicide Prevention Lifeline - <http://www.suicidepreventionlifeline.org/> 1-800-273-TALK (8255) 24-hour, toll-free, confidential suicide prevention hotline available to anyone in suicidal crisis or emotional distress. Your call is routed to the nearest crisis center in the national network of more than 150 crisis centers. 
-
-American Association of Poison Control Centers - <http://www.aapcc.org/> For a poisoning emergency in the U.S. call 1-800-222-1222 The American Association of Poison Control Centers supports the nation’s 55 poison centers in their efforts to prevent and treat poison exposures. Poison centers offer free, confidential medical advice 24 hours a day, seven days a week 
-
-**Nonprofit Treatment Centers:**
-
-Betty Ford Center - <http://www.bettyfordcenter.org/index.php>
-
-Phoenix House - <http://www.phoenixhouse.org/>
-
-Caron - <http://www.caron.org/>
-
-Odyssey House - <http://www.odysseyhouse.org/>
-
-Recovery Gateway - <http://recovergateway.org/>
-
-Dawn Farm - <http://dawnfarm.org/>
-
-Austin Recovery - <http://www.austinrecovery.org/>
-
-**Recovery Programs:**
-
-Alcoholics Anonymous - <http://www.aa.org/>
-
-Narcotics Anonymous - <http://www.na.org/>
-
-Smart Recovery - <http://www.smartrecovery.org/>
+Recovery Brands  
+517 Fourth Avenue  
+Suite 401  
+San Diego, CA 92101  
+[contact@recoverybrands.com](mailto:contact@recoverybrands.com)
