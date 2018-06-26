@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inside-sports.tv privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921233350id_/http%3A//inside-sports.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inside-sports.tv privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626040940id_/http%3A//inside-sports.tv/info/privacy) for the most accurate reproduction.*
 
 # Inside Sports TV
 
