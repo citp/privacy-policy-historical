@@ -1,25 +1,65 @@
-> *The following text is extracted and transformed from the cenq.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206134519id_/http%3A//www.cenq.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cenq.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174530id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
 
-# cenq.com - Privacy Policy
+# Privacy Policy
 
-At cenq.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by cenq.com and how it is used. 
+### Privacy Policy
 
-**Log Files**  
-Like many other Web sites, cenq.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+This privacy policy has been compiled to provide a clear understanding of how Brandroot.com collect's, uses, protects or otherwise handles your Personally Identifiable Information.
 
-**DoubleClick DART Cookie**  
+#### What personal information does Brandroot collect from visitors on our website?
+
+When purchasing a domain name on our site, as appropriate, you may be asked to enter your personal information, such as, your name, email address, mailing address, phone number, credit card information and other details to help us complete your purchase as securely as possible.
+
+#### When does Brandroot collect personal information?
+
+We collect information from you when you make a purchase on our site, register for an account, subscribe to a newsletter, or fill out a contact form.
+
+#### How does Brandroot use your personal information?
+
+We may use your personal information when you make a purchase on our site, register for an account, subscribe to a newsletter, fill out a contact form or browse our website by visiting the various pages that we offer. We may use your personal information in the following ways:
+
+  * To personalize your experience on our site and to allow us to deliver the type of products in which you show interest.
+  * To improve our website.
+  * To serve you in responding to your customer service inquiries and requests.
+  * To process transactions that you make on our website.
+  * To send emails regarding your order or other product and service offerings.
 
 
-  * Google, as a third party vendor, uses cookies to serve ads on cenq.com.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to cenq.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+We only collect your email address in order to:
+
+  * Respond to your inquiries, and/or other requests and questions.
+  * Process orders and to send information pertaining to your purchases.
+  * Add you to our mailing list or continue to send emails to you after a transaction has been made.
 
 
 
-Our third-party ad servers or ad networks use technology to the advertisements and links that appear on cenq.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+If you would like to unsubscribe from receiving emails from us, you can follow the instructions at the bottom of the email.
 
-cenq.com has no access to or control over these cookies that are used by third-party advertisers. 
+#### How do we protect our visitor information?
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. cenq.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Your personal information is protected behind secured networks. In addition, all sensitive information you supply is encrypted via the updated security technology TLS (Transport Layer Security). We implement a variety of security protocols when a user places an order to maintain the security of our visitor's personal information. All purchases are processed through a gateway provider and are never stored on our servers.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+#### Does Brandroot use cookies?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the products in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize our website, Brandroot.com. Also, cookies may be used to target ads to you on other websites.
+
+We use cookies to:
+
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. You can choose to turn off all cookies. You do this through your browser settings. If you disable cookies, some features on our site may be disabled.
+
+
+
+#### Third Party Disclosure
+
+We do not sell, trade, nor transfer your personal information to outside parties. This does not include our website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing our visitors and customers. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our rights, property, or safety.
+
+Information that we collect may include IP addresses, cookie identifiers and website activity.
+
+#### How do I contact Brandroot?
+
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a63646c654a68786b646e7865657e24696567)
+
+This content was lat edited on May 23, 2018.
