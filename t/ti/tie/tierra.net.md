@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202081148id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tierra.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626070155id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
 
-# Put Yourself On The Web
+# 
 
 **Overview**
 
