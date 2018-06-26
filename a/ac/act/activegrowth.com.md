@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the activegrowth.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410053005id_/http%3A//activegrowth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activegrowth.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122309id_/https%3A//activegrowth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ActiveGrowth
+# Privacy Policy • ActiveGrowth
 
 **Privacy Policy for  ActiveGrowth  
 **
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://activegrowth.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://activegrowth.com/contact/).
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
@@ -25,7 +25,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-Refer to our [disclaimer page](http://activegrowth.com/disclaimer/) for more information about our emailing and anti-spam policies.
+Refer to our [disclaimer page](https://activegrowth.com/disclaimer/) for more information about our emailing and anti-spam policies.
 
 ## How Do We Use the Information That You Provide to Us?
 
