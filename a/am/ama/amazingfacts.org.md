@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913152232id_/https%3A//www.amazingfacts.org/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingfacts.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627014443id_/https%3A//www.amazingfacts.org/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Amazing Facts
 
