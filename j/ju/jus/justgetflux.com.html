@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justgetflux.com privacy policy that was archived on 2017-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171108205256id_/https%3A//justgetflux.com/news/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justgetflux.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626092713id_/https%3A//justgetflux.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="utf-8">
@@ -47,22 +47,28 @@ html, body { height: 100%; }
 body {
   font-family: Georgia, Helvetica, Arial, sans-serif;
   font-size: 18px;
-  line-height: 140%;
+  line-height: 144%;
   color: #333;
   -webkit-font-smoothing: antialiased;
 }
 
 .navbar,.navbar-brand {
-  font-family: Lato, Helvetica, Arial;
-  font-size: 20px;
+  font-family: Segoe UI, Lato, Helvetica, Arial;
+  font-size: 18px;
   font-weight: 700;
-  background-color:#fafafa;
+  background-color:#fafafa;;
+}
+
+.buttontext {
+  font-family: Segoe UI, Lato, Helvetica, Arial;
+  font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Lato;
+  font-family: Segoe UI, Lato;
   font-weight: 700;
   line-height: 130%;
+  letter-spacing: -0.01em;
   margin: 1.3em 0 0.5em;
 }
 
@@ -72,12 +78,12 @@ h1, h2 {
 
 h3 {
   font-size: 22px;
-  color: #359;
+  color: #357;
 }
 
 h4, h5, h6 {
   font-size: 18px;
-  color: #359;
+  color: #357;
 }
 
 h1.title {
@@ -94,7 +100,7 @@ div.banner {
   margin: 1em -1.5em;
   padding: 0 2em 1em 1.5em;
   background: rgba(128, 64, 0, 0.01);
-  font-family: Lato;
+  font-family: Segoe UI, Lato;
   font-weight: 700;
 }
 
@@ -127,7 +133,6 @@ p.less {margin: 0.5em 0;}
 
 a         { color: #77b; text-decoration: none;}
 a:hover   { color: #459; }
-a:visited { color: #77a; }
 
 table {
   font-size: inherit;
@@ -250,20 +255,23 @@ a, a:focus, a:hover {
   border: 0;
 }
 
+#compare {
+  position: relative;
+}
 
+#compare img {
+  top: 0;
+  left: 0;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+#compare img.top {
+  position: absolute;
+  opacity: 0;
+}
 
 .site {
   background-color: #fff;
@@ -381,6 +389,58 @@ a, a:focus, a:hover {
   text-align: center;
 }
 
+.grow {
+  margin-bottom: 0.2em;
+}
+
+.o50 {
+  opacity: 0.5;
+}
+
+.g {
+  padding: 2em 0;
+  background-color: rgba(255, 255, 255, 0.1);
+  font-size: 16px;
+  font-family: Segoe UI, Helvetica;
+}
+
+.glab {
+  width: 30%;
+  margin-right: 0.5em;
+  display: inline-block;
+  text-align: right;
+  opacity: 0.9;
+}
+
+.gtitle {
+  padding-left: 4px;
+  margin-left: 25%;
+  font-size: 30px;
+  line-height: 1.2em;
+  margin-bottom: 1.0em;
+}
+
+.gsub {
+  padding-left: 0.5em;
+  margin-left: 25%;
+  margin-top: 1.0em;
+  margin-bottom: 0.6em;
+  font-style: italic;
+}
+
+.gfill {
+  background-color: #369;
+  height: 20px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.gamt {
+  color: rgba(0, 0, 0, 0.5);
+  margin-left: 4px;
+  display: inline-block;
+}
+
 </style>
 
 
@@ -412,10 +472,10 @@ a, a:focus, a:hover {
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="/news">Blog</a></li>
+            <li class="active"><a href="/news">News</a></li>
             <li><a href="https://forum.justgetflux.com/">Forum</a></li>
             <li><a href="/news/../research.html">Research</a></li>
-            <li><a href="/news/../faq.html">Support</a></li>
+            <li><a href="/news/../faq.html">FAQ</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -534,7 +594,7 @@ a, a:focus, a:hover {
             <a class="extra" href="mailto:support@justgetflux.com">support@justgetflux.com</a>
           </div>
         </div>
-        <div class="copy">Copyright f.lux Software LLC 2008-2017</div>  
+        <div class="copy">Copyright f.lux Software LLC 2008-2018</div>  
       </div>
     </div>
   </div> <!-- /container -->
