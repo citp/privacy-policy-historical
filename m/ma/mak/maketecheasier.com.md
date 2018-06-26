@@ -1,34 +1,161 @@
-> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119043053id_/https%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627013624id_/https%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MakeTechEasier.com
 
-MakeTechEasier.com write plenty of software tutorials and reviews on a daily basis. In most cases we check the instructions and apps thoroughly beforehand. However sometimes we are not able to completely check the app as much as we would like to. Hence we would like to state that we can’t be held liable/responsible for any loss/damage/discomfort occurred as a result of using a MakeTechEasier recommended instruction/product/service.
+MakeTechEasier is committed to safeguarding your privacy. Contact us [here](https://www.maketecheasier.com/contact/) if you have any questions or problems regarding the use of your personal data and we will gladly assist you.
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of MakeTechEasier.com. The only possible exception to this is if you enter a MakeTechEasier Giveaway contest. In some of these contests, it is clearly stated in the contest terms and conditions that your email address may be passed to the contest sponsor so they can contact you directly. Entering the contest implies that you give your consent to this happening.
+By using this site or/and our services, you consent to the processing of your personal data as described in this Privacy Policy.
 
-Other Internet sites or services that may be accessible through MakeTechEasier.com have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
+## Table of Contents
 
-MakeTechEasier.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
-
-A “cookie” is a small data text file that is placed in your browser and allows MakeTechEasier.com to recognize you each time you visit or login to this site (customisation etc). Cookies themselves do not contain any personal information, and MakeTechEasier.com does not use cookies to collect personal information.
-
-Cookies may also be used by third party content providers such as newsfeeds and ad providers. Third party ad networks that are serving ads on MakeTechEasier.com may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving.
-
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) and utilize tracking technology about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Also keep in mind that third party ads served on MakeTechEasier.com (i.e. from Google Adsense) are likely to be customised to reflect user’s (in this case you) interests. Please contact those vendors and others directly if you have any questions about their privacy policies.
-
-To opt-out of third party cookies, please go to <http://www.aboutads.info/choices>.
-
-We welcome all kinds of comments and thoughts- supportive, dissenting, critical or otherwise. However, we do moderate, filter or delete comment that is
-
-  * abusive
-  * off-topic
-  * contains ad-hominem attacks
-  * promotes hate of any kind
-  * uses excessively foul language
-  * blatantly spam
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your personal data (for EEA residents)
+  4. What personal data we gather about you
+  5. Who else has access to your personal data
+  6. How we secure your data
+  7. Information about cookies
+  8. Contact information
 
 
 
-All comments are filtered through spam filtering technology; The spam-filtering technology isn’t perfect and it would flag legitimate comment from time to time. If you find that your comment isn’t immediately showing up, it may have been erroneously flagged as spam. Please [contact us](https://www.maketecheasier.com/contact/) to follow up on the status of your comment if it hasn’t shown up after 24 hours and we will do our best to sort it out.
+## Definitions
+
+ **Personal Data** – any information relating to an identified or identifiable natural person  
+**Processing** – any operation or set of operations which is performed on personal data or on sets of personal data  
+**Data subject** – a natural person whose personal data is being processed  
+**Child** – a natural person under 16 years of age  
+**We/us** (either capitalized or not) – MakeTechEasier/Uqnic Network Pte Ltd.
+
+We promise to follow the following data-protection principles:
+
+  * Processing is lawful, fair, and transparent. Our processing activities have lawful grounds. We always consider your rights before processing personal data. We will provide you information regarding processing upon request.
+  * Processing is limited to the purpose. Our processing activities fit the purpose for which personal data was gathered.
+  * Processing is done with minimal data. We only gather and process the minimal amount of personal data required for any purpose.
+  * Processing is limited with a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
+
+
+
+If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your Personal Data and rectification of inaccurate Personal Data; (b) request erasure of your Personal Data; (c) request restrictions on the processing of your Personal Data; (d) object to processing your Personal Data; and/or (e) the right to data portability (“collectively, “Requests”). We can only process Requests from a user whose identity has been verified. To verify your identity, please provide your email address when you make a request. For more information about how to get access to Personal Data and for exercising your rights, you can submit a request [here](https://www.maketecheasier.com/personal-data/). You also have the right to lodge a complaint with a supervisory authority.
+
+### Site Visitation Tracking
+
+Like most websites, this site uses Google Analytics (GA) to track user interaction. We use this data to determine the number of people using our site, to better understand how they find and use our web pages and to see their journey through the website.
+
+Although GA records data such as your geographical location, device, Internet browser and operating system, none of this information personally identifies you to us. GA also records your computer’s IP address, which could be used to personally identify you, but Google does not grant us access to this. We consider Google to be a third-party data processor (see here).
+
+GA makes use of cookies, details of which can be found on [Google’s developer guides](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). For your information, our website uses scripts generated by Google Tag Manager to implement GA.
+
+Disabling cookies on your Internet browser will stop GA from tracking any part of your visit to pages within this website.
+
+### User Registration
+
+Should you choose to register and set up a user account with Make Tech Easier, the name and email address you submitted will be saved to this website’s database, along with the time and date that you registered. This information is only used to identify you as a user of the website and is not passed on to any of the third-party data processors detailed below. Your name will only be shown when you are logged in to the website, although if the supplied email address is linked to a Gravatar account, your Gravatar photo will also be displayed.
+
+If you are a child, you MUST obtain parental consent before registering a user account on our site.
+
+### Blog’s Comments
+
+Should you choose to add a comment to any posts that we have published on our blog, the name and email address you enter with your comment will be saved to this website’s database, along with your computer’s IP address and the time and date you submitted the comment.
+
+This information is only used to identify you as a contributor to the comment section of the respective blog post and is not passed on to any of the third-party data processors detailed below. Only your name will be shown on the public-facing website. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+Your comment and its associated personal data will remain on this site until we see fit to either 1.) remove the comment or 2.) remove the blog post. Should you wish to have the comment and its associated personal data deleted, please email us here using the email address that you commented with.
+
+If you are a child, you MUST obtain parental consent before posting a comment on our blog.
+
+ **NOTE** : you should avoid entering personally identifiable information to the actual comment field of any blog post comments that you submit on this website.
+
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Purchase of Products
+
+Should you decided to purchase ebooks and products from us, you will be required to register for a MakeTechEasier user account in which your name and email address will be saved to this website’s database as detailed here. Your purchase record, which includes item purchased and payment transaction ID, will also be saved. This information is necessary for us to verify your purchase and to render our services. We do not store and have no access to your credit card details.
+
+If you are a child, you MUST obtain parental consent before purchasing our products.
+
+### Giveaway Participation
+
+From time to time, we will hold giveaway events and will give out free prizes to those who participated and won. The name and email address you enter in the participation form will be saved to our database. This information is only used to identify you as a participant of the giveaway event and to allow us to contact you if you are the winner.
+
+The data will be deleted sixty days after the giveaway event ends.
+
+### Email Newsletter
+
+If you choose to join our email newsletter, the email address that you submit will be saved to our database.
+
+Your email address will remain in our database until you specifically request removal from the list. You can do this by unsubscribing using the unsubscribe links contained in any email newsletters that we send you or by requesting removal via email. When requesting removal via email, please send your email to us using the email account that is subscribed to the mailing list.
+
+If you are a child, you MUST obtain parental consent before joining our email newsletter.
+
+### Contact Forms
+
+Should you choose to contact us using the contact form on our Contact Us page, none of the data you supply will be stored by this website or passed to / be processed by any of the third-party data processors. Instead, the data will be collated into an email and sent to us over the [Simple Mail Transfer Protocol (SMTP)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol).
+
+Our own SMTP servers are protected by [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) (sometimes known as SSL), meaning that the email content is encrypted using SHA-2, 256-bit cryptography before being sent across the Internet. The email content is then decrypted by our local computers and devices. However, not all mail servers are secured in such a way. Therefore, we would suggest that you always **consider email as an insecure medium** and not include personal, confidential or otherwise sensitive information within an email.
+
+We do not share your personal data with strangers. Personal data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience.
+
+ **We share your data with our processing partners:**
+
+  * Google – Google Analytics, Google Adsense, Google DFP
+  * Amazon – Amazon Web Services, Inc.
+  * Paypal
+  * Gravatar
+
+
+
+We only work with processing partners who are able to ensure an adequate level of protection to your personal data. We disclose your personal data to third parties or public officials when we are legally obliged to do so. We might disclose your personal data to third parties if you have consented to it or if there are other legal grounds for it.
+
+We do our best to keep your personal data safe. We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks.
+
+Even though we try our best, we cannot guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+If you have an account with us, note that you have to keep your username and password secret.
+
+## Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services.
+
+We use cookies and/or similar technologies to analyse customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalise and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
+
+ **We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information the next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed on the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website, and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some third party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+If you have any questions regarding processing your personal data, your rights regarding your personal data or this Privacy Policy, contact us by email at privacy@maketecheasier.com.
+
+We reserve the right to make changes to this Privacy Policy.
+
+The last modification was made May 24, 2018.
