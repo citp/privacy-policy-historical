@@ -1,70 +1,67 @@
-> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075720id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626152136id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
 
 # General - Privacy Policy | Community | BeerAdvocate
 
-[ ](https://www.beeradvocate.com/)
-
-[Dismiss Notice](https://web.archive.org/web/20171119075720id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/account/dismiss-notice?notice_id=5 "Dismiss Notice")
-
-**Extreme Beer Fest: Los Angeles**
-
-Join us December 9th in Los Angeles for the ultimate throwdown of craft beer creativity! 
-
-[Learn more...](https://www.beeradvocate.com/extreme/los-angeles/)
-
-  1. [](https://web.archive.org/web/20171119075720id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/)
+  1. [](https://web.archive.org/web/20180626152136id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/)
 
 ### 
 
-[BeerAdvocate](https://web.archive.org/web/20171119075720id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/) _Founders (17,635)_ _Aug 23, 1996_ _Massachusetts_
+[BeerAdvocate](https://web.archive.org/web/20180626152136id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/) _Founders (17,820)_ _Aug 23, 1996_ _Massachusetts_
 
-_**Subscriber**_
+_**Premium Member**_
 
 > **BeerAdvocate.com Privacy Policy**
 > 
-> This privacy policy discloses the privacy practices for this web site ("Service"), and applies solely to information collected by this Service.
+> This privacy policy discloses the privacy practices for BeerAdvocate.com (the "Service"), and applies solely to information collected by this Service.
 > 
-> **Information Collection, Use, and Sharing**  
->  The providers ("we", "us", "our") are the sole owners of the information collected by our Service. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+> **Information Gathering**  
+>  The providers ("we", "us", "our") are the sole owners of the information collected by our Service. We only have access to/collect information that you voluntarily provide us.
 > 
-> We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+> Contributing to our Service requires the creation of an account, at which time we collect and process the following data:
 > 
-> Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+>     * name/username
+>     * email address
+>     * date of birth  
 > 
-> **Registration**  
->  In order to use this Service, a user must first complete the registration form. During registration a user is required to give certain information (such as name, email address and location). This information is used to tailor your experience and contact you about items on our Service in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
+>     * IP addresses
+> Further data may be collected if you choose to share it, such as if you fill out fields on your profile. We may also collect non-personally identifiable technical information used purely for the purposes of analytics.
 > 
-> **Your Access to and Control Over Information**  
->  You may opt out of any future contacts from us at any time. You can do the following at any time by editing your profile information or contacting us via email:
+> **Use of Information**  
+>  We may use your personal information in the following ways:
 > 
->     * See what data we have about you, if any.
->     * Change/correct any data we have about you.
->     * Express any concern you have about our use of your data.
-> **Orders**  
->  We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
+>     * registering your account and customizing your experience
+>     * account management and authentication
+>     * transactional and informational emails, which you may opt-out of at any time
+> **Third Parties**  
+>  If directly provided by you, these are some of the third parties that could be using your data as a result of your signing up for or using their service.  
+> 
+>     * Eventbrite: for event tickets; name, email, billing information.
+>     * Chargebee: for magazine subscriptions; name, email, billing information, shipping information.
+>     * Shopify: for merchandise orders; name, email, billing information, shipping information.
+>     * Magzter: for digital magazine subscriptions.
+>     * Google Play Newsstand: for digital magazine subscriptions.
+>     * Stripe/PayPal: for transactional purchases.
+> We do not share or store this data. Please refer to each service for their own privacy policy.
+> 
+> **Security**  
+>  We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 > 
 > **Cookies**  
->  We use "cookies" on this Service. A cookie is a piece of data stored on a Service visitor's hard drive to help us improve your access to our Service and identify repeat visitors to our Service. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our Service. Cookies can also enable us to track and target the interests of our users to enhance the experience on our Service. Usage of a cookie is in no way linked to any personally identifiable information on our Service.
+>  We use "cookies" on this Service. A cookie is a piece of data stored on a Service visitor's hard drive to help us improve your access to our Service and identify repeat visitors to our Service. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our Service. Cookies can also enable us to track and target the interests of our users to enhance the experience on our Service. Usage of a cookie is in no way linked to any personally identifiable information on our Service, but is require to use portions of our Service.
 > 
-> Some of our business partners may use cookies on our Service (for example, advertisers). However, we have no access to or control over these cookies.
+> Some of our business partners may use cookies on our Service (for example, advertisers or analytical services). However, we have no access to or control over these cookies.
 > 
 > **Links**  
 >  This Service contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our Service and to read the privacy statements of any other site that collects personally identifiable information.
 > 
-> **Surveys & Contests**  
->  From time-to-time our Service requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Service.
+> **Rights**  
+>  You have a right to access the personal data we hold about you. To do so please log into your account or contact us. If you believe that the information we hold for you is incomplete or inaccurate, you may log in to edit your profile information or contact us.
 > 
-> **Security**  
->  We take precautions to protect your information. When you submit sensitive information via the Service, your information is protected both online and offline.
+> **Acceptance**  
+>  Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
 > 
-> Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
-> 
-> While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-> 
-> **Updates**  
->  Our Privacy Policy may change from time to time without notice, however, all updates will be posted on this page.
-> 
-> If you feel that we are not abiding by this privacy policy, you should [contact us immediately](http://www.beeradvocate.com/contact/). 
+> **Changes**  
+>  We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future. 
 
 
 
