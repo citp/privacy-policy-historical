@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914194737id_/https%3A//learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626223144id_/https%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -9,6 +9,8 @@ A friendly reminder from your teacher:
 Your privacy is extremely important. LearnAmericanEnglishOnline.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the LearnAmericanEnglishOnline.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit LearnAmericanEnglishOnline.com regularly to review our privacy statement.
 
 If you have questions or concerns regarding this statement, you should contact the operator of this website at [paul@learnamericanenglishonline.com](mailto:paul@learnamericanenglishonline.com) and enter the words "privacy concerns" in the subject field. 
+
+Because LearnAmericanEnglishOnline works in partnership with Ezoic, an artificial intelligence platform for pubishers, here is an additional link for [the privacy policy to which LAEO Incorporated and Ezoic both agree](https://g.ezoic.net/privacy/learnamericanenglishonline.com). 
 
   
 Collected Information
