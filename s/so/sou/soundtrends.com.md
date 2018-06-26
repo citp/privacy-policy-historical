@@ -1,179 +1,251 @@
-> *The following text is extracted and transformed from the soundtrends.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930235551id_/https%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrends.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626083419id_/https%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Information
 
-**Native Instruments. Latest Version September 2016.**
+The following advice on data protection applies when you visit our website https://www.native-instruments.com, including the use of the associated online shop. 
 
-##  1\. General 
+We are aware that you take the protection of your personal data very seriously, and the protection of your personal data is equally important to Native Instruments. For this reason, we strictly comply with statutory provisions when collecting, processing and using your data. We apply technical and organisational measures to ensure the protection of the personal data we receive from you. This includes training our employees in their obligation to comply with data privacy guidelines (customer services are exclusively implemented by Native Instruments Group employees), as well as procedural and digital security measures related to the processing of your data.
 
-We recognize that the careful handling of your personal information is important to you. The protection of personal data is just as important to NATIVE INSTRUMENTS. Therefore NATIVE INSTRUMENTS commits itself to act in accordance with the following statement. With this statement you consent the collection, processing and use of your personal data by NATIVE INSTRUMENTS for the following purposes.
+In the following section we will provide information about the methods, purpose and scope of the data processing which takes place when you visit our website and/or our online shop. 
 
-Personal data is defined as all information which allows conclusions about your personal or substantive relationships. These are specially protected by the German Federal Data Protection Act and by the German Teleservices Data Protection Act. 
+We continuously strive to help you with any questions you may have regarding data processing issues relevant to our online services. If you have any questions, please contact the department responsible for data processing:
 
-Data transmitted anonymously or using a pseudonym can not be considered as personal data. 
+Native Instruments GmbH  
+Data protection officer: Kai-Hendrik Weutzing  
+Schlesische Str. 29-30  
+10997 Berlin, Germany  
+Email: privacy@native-instruments.de 
 
-##  2\. Responsible Party 
+## 1\. Personal Data
 
-Responsible party in terms of German privacy laws is: 
+The following information relates to the processing of your personal data. Personal data refers to all data which refers to you personally, i.e., name, address, email address, payment information or your activities as a user.
 
-**NATIVE INSTRUMENTS GmbH**   
-Schlesische Str. 29-30   
-10997 Berlin   
-Germany 
+## 2\. Data Capture Every Time You Access the Website
 
-Telephone: +49.30.61 10 35-0 
+ **a) Usage Data**
 
-**Management Board: Daniel Haver, Mate Galic**
+Every time you access the website, even if it is only to look for information and you do not log in or register a customer account, or otherwise deliberately transfer information (for example by signing up for a newsletter), we will capture the following data, transmitted by your browser, which allow you to visit the website (usage data): 
 
-Amtsgericht Charlottenburg   
-HRB 72458   
-USt-IdNr. DE 20 374 7747 
+  * IP address
+  * Date and time of the request
+  * Duration of the visit to the website
+  * Time zone difference to Greenwich Mean Time (GMT) 
+  * Contents of request (actual page) 
+  * Access status/HTTP-status code 
+  * Respectively transmitted data quantities 
+  * Which website the request is coming from 
+  * Browser, browser language, browser software version
+  * Operating system 
 
-Reponsible Data Protection Officer:   
-**Kai-Hendrik Weutzing**  
-mailto:privacy@native-instruments.de 
 
-Further information can be found in our [public procedures register.](https://www.native-instruments.com/en/company/legal-information/privacy-policy/verfahrensverzeichnis/ "public procedures register.")
 
-##  3\. Use of the data 
+For IT security reasons, we will save your IP address in our IT system log files for 7 days following your website visit in order to recognize and prevent (Distributed) Denial of Service attacks. After the 7 days have passed your IP address will be anonymized by removing the last 8 bits.
 
-As soon as you buy something in our shop, register a product via NATIVE INSTRUMENTS registration software or via the web site or have yourself registered for one of our services, we need your e-mail address, possibly your name and other personal information (i.e. postal address, telephone number, credit card information, sex, date of birth). NATIVE INSTRUMENTS uses this data to customize your visit to our web site and to continuously improve it. 
+If your IP address is saved in unabbreviated format, we will only aggregate it with any of the usage data mentioned above if we have a legitimate interest.
 
-We also use your information to communicate about orders, products, services and marketing offers with you and for updating our data sets and to maintain and update your customer accounts at NATIVE INSTRUMENTS, to display content such as your registered products, or to display relevant updates to you, as well as recommending other products which might be interesting to you. Beyond that we use your information to improve our platform, to prevent or uncover abuse, particularly fraud or to allow third parties to exercise technical, logistic or other services on our behalf.
+**b) Cookies**
 
-##  4\. Procedure 
+When using our website as well as our online shop, cookies are saved on the device you use to access the page. They enable the Native Instruments systems to recognize your browser and to provide services which are of interest to you personally.
 
-We act according to the principle of data parsimony and data avoidance, i.e. we collect and use only the most necessary data for processing your order or product registration and for the communication with you. 
+Cookies are small text files (alphanumeric identification symbols) which are stored on users’ end devices when they visit a website. When the same website is visited again, the information which was saved will then be sent back to the participating server. We use first-party cookies and third-party cookies, which can be designed as session cookies or temporary cookies. 
 
-You can visit our web site without leaving personal data: When surfing without logging in we do not collect any personal data but merely place a cookie. By default information such as your IP address, time and duration of your visit, operating system, browser and visited sites are captured. 
+Session cookies are automatically deleted from your hard drive after your browser session. These cookies store a so-called session ID, which is assigned various requests from your browser during a shared session. This type of cookie is used in relation to the basket function in the online shop as well as to user and licence data. Its use is technically required in order to be able to connect your user account with your actions over separate visits.
 
-If you register as a customer we collect your data via the registration form you fill in, among others your name, your address including e-mail, the details of your desired method of payment, your credit card number if this applies, and the details on your regarding order. Different cookies will be created in this case as well. 
+Temporary cookies are deleted after a pre-determined amount of time. These cookies allow us to recognize a repeated website visit based on the feedback from the cookies to the participating server over various browser sessions, in order to – for example – maintain the selected language settings over various website visits. A connection to your user account (where applicable) and the possible identification will only be implemented if you select the “Remember me” function during login. In this way, we can provide a personalized shopping experience. 
 
-We store your order data within the ordering history and send the order data to you via e-mail. The terms and conditions can be found here. 
+Third-party cookies are only set by servers if they are not identical with our servers, i.e. if they come from other websites you have visited. In contrast, first-party cookies on browsers are not accessible across domains. Third-party cookies are used when using our website and our online shop by some third-party companies (for further details about some selected providers used by us, see below under c). 
 
-When registering a product via the NATIVE INSTRUMENTS registration software or the web site, data about the registered product, your hardware and the used serial number is stored. On initial registration your e-mail address and your postal address and your preferred language are stored as well. 
+By using these third-party cookies, also known as “tracking cookies”, a user’s visits to various websites can be assigned to the specific visitor. This allows us to draw conclusions about the visitor’s interests and to accordingly customize websites (personalization, for example through individually tailored advertisements). 
 
-Furthermore, the data you voluntarily enter on initial registration in the NATIVE INSTRUMENTS registration software’s online profile is stored. 
+You also have the option of configuring your browser so that specific types of cookies are not allowed or deleted. You can also visit our website if your browser settings block the placing of cookies or if you do not agree with having cookies placed on your hard drive. We would like to inform you, however, that if you do so, you may not be able to fully use all features on our website, in particular purchases via the use of a virtual basket, which will not be possible for technical reasons (see above).
 
-We also sporadically send out surveys on specific questions regarding NATIVE INSTRUMENTS and its products. If you take part in these campaigns, your e-mail address and your answers will be stored. 
+**c) Third-Party Providers**
 
-Finally, we need information on your person, at least your e-mail address in the following cases:
+**(aa) Google Analytics**
 
-  * if you register for the delivery of a newsletter or comparable promotional material.
-  * if you use our support services. In this case the data you enter into the form about your hardware and software is stored and used for follow-up, i.e. if use support a further time.
-  * if you participate in one of our competitions or other marketing campaigns.
-  * if you get in touch with us for other reasons.
+As a part of our internet presence we use Google Analytics, which is a web analysis tool provided by Google Inc. Google Analytics uses cookies to analyze how our website is used. The information generated by the cookie about your use of this website, including the abbreviated IP address, is transferred to and stored on a Google server, in some cases located in the USA. The evaluation by Google is exclusively carried out in an anonymous process in which the code expansion provided by Google “anonymizeIp” deletes the last 8 bits of your IP address, therefore anonymizing it for subsequent data processing.
 
+If you have registered a user account with us, we will additionally use a so-called "User ID" for this service. This is a unique, permanent and personalized symbol sequence which we assign to you when you first log in to your user account. When you visit the website and are logged in to your user account, the website activities are assigned to your permanent user ID. This ID is not assigned to a specific end device (smartphone, laptop, etc.), but to you personally. In conjunction with Google Universal Analytics, this User ID is transmitted to Google, where it is used by us at Google as a pseudonym for you as a user. The data accumulated by Google are therefore anonymized for Google, as the service does not have the option to create a link to your user account and therefore to your personal data.
 
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us as website operators, and providing other services relating to website activity and internet usage. Where applicable, Google will transmit this information to third parties if this is prescribed by law, or as long as these third parties process these data on behalf of Google.
 
-##  5\. Cookies 
+If, however, you still wish to prevent the use of Google Analytics, you can install the browser add-on to deactivate Google Analytics. [Get the add-on from Google](https://tools.google.com/dlpage/gaoptout?hl=en "Get the add-on from Google").
 
-Cookies are alphanumerical identifiers, small text files we transmit to the hard disk of your computer via your web browser or other programs. They enable NATIVE INSTRUMENTS’ systems to recognize your browser and offer you different services. No security relevant or personal data will be stored. Furthermore, cookies cannot transmit viruses, spy out data on your computer or send e-mails without your notice. Also, every web server can only read cookies it has set itself. 
+As mentioned above, you can prevent the storage of cookies by adjusting your browser software settings accordingly. We would like to inform you, however, that if you do this you may not be able to fully use all the functions on this website.
 
-Using our web site without cookies being set is possible under certain conditions; a purchase in the shop unfortunately does not work without the possibility of setting cookies. 
+[More information regarding data usage via Google](https://policies.google.com/technologies/partner-sites "More information regarding data usage via Google").
 
-The most browsers are set by default to accept cookies automatically. But you can disable cookies being storing or configure your browser in a way that it notifies you before storing cookies. As you can only make full use of the most of our interesting features with cookies being enabled, we recommend leaving the cookie function on. 
+**(bb) Hotjar**
 
-Furthermore we recommend completely signing off after using a computer you share with other users if this machine is configured in a way it accepts cookies. This particularly applies to computers in public spaces, such as internet cafés or libraries. In this case we highly recommend completely signing off so that no data remain recognizable for the next user. 
+We also use the “Hot Jar” web analysis service from Hotjar Ltd. The information obtained with the assistance of this web analysis service helps us to improve our website and make it more user-friendly. The information that Hotjar captures using cookies includes the navigation through and the interaction with the content on our website. Hotjar also receives information including the IP address (anonymized by abbreviation), screen size and browser information, geographical location (only the respective country), preferred language, referring domain and pages visited (including the page access data and time). 
 
-##  6\. Disclosure of personal data 
+[Opt out of tracking by Hotjar](https://www.hotjar.com/opt-out "Opt out of tracking by Hotjar").
 
-The careful handling of your personal information is important to us. It is by no ways our business to sell this information. We hand over information that we receive to third parties solely for the purposes described in the following: 
+**(cc) Optimizely**
 
-**1.** In some cases NATIVE INSTRUMENTS is required by law to disclose information to third parties. In particular when a crime or abuse is suspected, NATIVE INSTRUMENTS is obliged to disclose information to law enforcement authorities. This includes exchanging information with companies that inquire credit card abuse. No personal data is passed if companies want to use them commercially. 
+We use the web analysis service “Optimizely” from Optimizely Inc. for our websites in order to improve functionality, leading to a better user experience. No personal data is transmitted to Optimizely as, per our request, Optimizely anonymizes all IP addresses transmitted by us. 
 
-**2.** We assign other service providers, partner companies and individuals to perform functions on our behalf. Examples include payment processing (credit card, direct debit), analysis of our databases, handling newsletters and other promotional activities as well as analysis and documentation of our site visits. 
+[More information about how Optimizely Inc. processes data](https://www.optimizely.com/de/privacy/ "More information about how Optimizely Inc. processes data").
 
-These service providers have access to personal information needed to perform their tasks. However, the may not use them for any other purposes. They are also obliged to treat the information in accordance with this privacy policy and the German data protection laws. For this reason, we try to assign service providers who are bound to the German data protection regulations, or at least to the European data protection rules. 
+You can deactivate this tracking at any time by [following the instructions on the Optimizely website](http://www.optimizely.com/opt_out "following the instructions on the Optimizely website").
 
-As part of a credit card and credit assessment your name and your address are passed to such a company, whereas your rights are respected in strict accordance with statutory provisions.
+**(dd) Webtrekk**
 
-**3.** As we continuously develop our business, it may occur that we sell or buy individual subsidiaries, business units or parts of them. In such transactions, customer information is usually transferred together with the transferred part of the company. Your data are further subject to the previously existing privacy statement. The only exception is the case that you explicitly agree to other provisions. In the unlikely event that all or substantial parts of NATIVE INSTRUMENTS are sold, personal information will be passed on to the buyer. 
+We use the “Webtrekk" tool from Webtrekk GmbH for statistical evaluations of our website. A cookie is used to transmit the relevant information to the Webtrekk tool. The evaluation takes place on an exclusively anonymized basis, in which the last 8 bits of your IP address are deleted and therefore anonymized for subsequent data processing.
 
-**4.** In all other cases, we will inform you when personal information should be disclosed to third parties, and give you the opportunity to give your consent. 
+The data capture and storage by Webtrekk can be stopped at any time by [following the instructions on the Webtrekk website](https://www.webtrekk.com/en/legal/praeferenz-basierte-werbung/ "following the instructions on the Webtrekk website").
 
-##  7.a Google Analytics 
+**(ee) Zendesk**
 
-In the context of disclosure of personal data, we would like to point out Google Analytics, a web analytics service provided by Google, Inc., which uses cookies to help analyze how the website is used. 
+In order to process submitted requests, especially those directed to our customer service team (“Customer Support”), we use the helpdesk system Zendesk. The according functions are supplied by Zendesk, Inc., 989 Market Street #300, San Francisco, CA 94102, USA, who have concluded an order data processing agreement. 
 
-The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States of America. 
+As part of customer support, the following data are saved in Zendesk to enable order processing: Name, email address, telephone number, postal code, city and country. In case of questions regarding the implementation of hardware repairs, complete customer postal addresses are saved in individual cases if this is necessary to process the repairs. 
 
-Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for NATIVE INSTRUMENTS and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+You can find more information in the [ Zendesk privacy policy](https://www.zendesk.de/company/customers-partners/privacy-policy/ " Zendesk privacy policy").
 
-Additionally, a so-called User-ID will be used on this website. This ID is not assigned to a particular device, but to you personally. The User-ID enables the analysis of your behavior across devices (smartphone, tablet, notebook). The allocation of the User-ID to a user ensues once we have unequivocally identified you as a user. This happens generally when you are using your user account. As soon as you have logged-in for the first time, a User-ID is allocated to you accordingly. It contains a unique, persistent, and non-personally identifiable string for a signed user. Once you log into our website the User-ID is sent to Google Analytics. As far as Google is concerned, the User-ID functions as your pseudonym. Google connects your online behavior and the User-ID to a profile. Google only receives the User-ID, not the information contained in the above-mentioned profile or other personal data of yours. A summarized version of the profile thus created is accessible to us. We do not attach any other of your personally identifiable data to the profile connected to a User-ID. 
+**d) Retargeting**
 
-If you do not want your activity on this website to be tracked, please opt out using this link:  
-[tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "tools.google.com/dlpage/gaoptout")
+Retargeting is a variant of online targeting in which users of an online service are marked by suppliers via the retargeting function. This function serves to present visitors to a website with interest-based advertisements as part of the advertising networks. In order to do this, your browser stores cookies which make it possible to recognize you as a visitor when you access websites which belong to the corresponding supplier’s advertising network. These pages display advertisements for products based on your previous internet activity, including products in which you have shown an interest on other websites which use the corresponding provider’s remarketing function.
 
-##  7.b Interest-based advertising 
+On our website we mainly use retargeting services from the following suppliers:
 
-Within the scope of its marketing operations NATIVE INSTRUMENTS uses Google’s program for “interest-based advertising”, so-called remarketing. In the process of this program a special browser cookie is stored on the user’s computer. It is used for serving the user special ads by Native Instruments, Google or third-party services when visiting other websites.
+**(aa) Criteo**
 
-Users can opt out of Google's use of these cookies by visiting the [Opt out site of Google ads](http://www.google.com/policies/technologies/ads/ "Opt out site of Google ads") and the [Opt out site of DoubleClick.](http://www.google.com/doubleclick/ "Opt out site of DoubleClick.") Alternatively users can opt out third party services using these cookies through by visiting [Deaktivierungsseite der Netzwerkwerbeinitiative](http://www.networkadvertising.org/choices/ "Deaktivierungsseite der Netzwerkwerbeinitiative") the Opt out page of the Network Advertising Initiative.
+If you don’t wish to use the Criteo retargeting function, then you can generally deactivate it by [visiting their website](http://www.criteo.com/privacy/ "visiting their website").
 
-##  7.c Optimizely 
+**(bb) Facebook**
 
-This website uses Optimizely, a range of website analytics services for A/B and multivariate testing purposes provided by Optimizely, Inc. This service uses cookies to identify a visitor's browser and track website usage while on this website. The cookies do not collect personal information about you. For more information on how Optimizely uses your data, please go to: [http://www.optimizely.com/privacy. ](http://www.optimizely.com/privacy "http://www.optimizely.com/privacy. ") You can opt out anytime by following the instruction at [http://www.optimizely.com/opt_out.](http://www.optimizely.com/opt_out "http://www.optimizely.com/opt_out.")
+If you don’t wish to use Facebook’s retargeting function, then you can generally deactivate it [via your Facebook account](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen "via your Facebook account")
 
-##  7.d Facebook 
+**(cc) Google Remarketing**
 
-NATIVE INSTRUMENTS´ website uses plug-ins of the social network Facebook ([www.facebook.com](https://www.facebook.com/ "www.facebook.com") ). The plug-ins are marked with a company logo of Facebook or the addition "Facebook Social Plug-in. When you access a website from us, which contains such a plug-in, a direct connection to servers through the browser of Facebook is set up. By integrating of the plug-in, Facebook receives the information that you have visited our website. As long as you are logged in to Facebook, Facebook can assign the visit to the site to your Facebook account. The plug-in transmits any actions you perform via the plug-in, e.g. pressing the “Like”-Button, directly on to Facebook, and these data will be stored there.  
-For the purpose and scope of data collection and further processing and use of data by Facebook, and your rights and settings taken to protect your privacy, please see the respective privacy notices from Facebook.
+According to the company’s own information, Google does not capture any personal data during this process. If you don’t wish to use Google’s retargeting function, then you can generally deactivate it by selecting the [according settings](https://adssettings.google.com/ "according settings") on Google.
 
-To prevent such a collection of data through Facebook, you must log out on Facebook before visiting our website. 
+Alternatively, you can follow these instructions to [deactivate the use of cookies for interest-based advertising](http://optout.networkadvertising.org/#! "deactivate the use of cookies for interest-based advertising").
 
-##  7.e Hotjar 
+**e) Links to Third-Party Providers**
 
-This Website uses Hotjar web analytics service. We are using the information collected by Hotjar service to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular Hotjar may record navigation through and interacting with the content on our website. Hotjar may also collect your device’s IP address (collected and stored in an anonymized format), device screen size, device type (unique device identifiers) and browser information, geographic location (country only), preferred language used to display the webpage, referring domain, pages visited, date and time when website were accessed. Hotjar may disclose collected information to third parties, including contractual partners.
+Links to third-party providers and our internet presence on Facebook, Twitter, Instagram, YouTube und Soundcloud are embedded in our website. You can activate the redirection by clicking on the relevant symbol (for example the Facebook button) on the lower part of our website. Native Instruments is not responsible for data processing carried out by third-party providers. Please learn more about data processing by reading the relevant company’s privacy notices.
 
-If you do not want your activity on this website to be tracked by Hotjar, please opt out using this link: https://www.hotjar.com/opt-out  
-<https://www.hotjar.com/opt-out>
+## 3\. Additional Data Processing with Newsletter Subscriptions and Participation in Survey Campaigns, Questionnaires and Competitions
 
-##  7.f Zendesk 
+ **a) Newsletter Subscription**
 
-For processing submitted requests, especially within our customer service, we make use of the ticket system from Zendesk. The respective services are offered by the company Zendesk Inc., 989 Market Street #300, San Francisco, CA 94102, USA.
+If you wish to receive regular information and news about our services, products and campaigns, you have the option of subscribing to our newsletter on our website by entering your email. 
 
-Further information can be found in Zendesk’s privacy policy:   
-<https://www.zendesk.com/company/privacy/>
+We use a so-called double-opt-in procedure in our newsletter subscription. This means that after entering your email address you will receive a confirmation email from us, with a request for you to confirm that you wish to receive the newsletter. 
 
-##  8\. Data protection 
+If you have purchased a Native Instrument product or downloaded a so-called “demo” or “free” version of our software, you will also receive a newsletter. Of course, you may withdraw your consent at any time. With the help of this newsletter we will ensure as part of our direct marketing that you will be able to stay up to date with updates, offers and new developments.
 
-**1.** We have developed organizational and technical measures to reliably protect the data received from you. Our employees are intensively informed and trained and commit themselves to the data confidentiality. This ensures that your data are kept confidential. We can particularly ensure that your data is protected because we provide our customer service through our own staff and not by third parties. Thereby controls and effective training are possible. 
+The only obligatory information for subscribing and receiving our newsletter is your email address as a technical requirement. 
 
-**2.** To protect your personal data during transmission to our servers, we use Secure Sockets Layer (SSL) software. This encrypts all information you transmit to us. 
+You can withdraw your consent to receiving the newsletter at any time. In order to do so you can use the following link, which is available in every email.
 
-**3.** When confirming an order, we reveal only the last five digits of your credit card number. Of course, we transmit the entire credit card number to the appropriate companies while processing the order. 
+[withdraw your consent to receiving the newsletter](https://www.native-instruments.com/de/company/newsletter-unsubscribe/ "withdraw your consent to receiving the newsletter").
 
-**4.** Furthermore, we maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your personal information. Part of these security measures is that we occasionally may ask you to provide proof of your identity before we disclose personal information. 
+**b) Survey Campaigns and Questionnaires**
 
-**5.** We would like to point out that it is important to protect yourself against unauthorized access to your password and your computer. If you share your computer with others (notably for computers in public areas such as internet cafés and libraries), you should make sure to logout after each session.
+If you have purchased a Native Instruments product, you may receive an email inviting you to participate in a survey. Of course, you may withdraw your consent at any time. With the help of this survey, we would like your feedback in order to continuously improve our products for you. 
 
-**6.** Despite these actions, there is no 100% guarantee against unauthorized third parties gaining access to your data. Consequently, we have to point out that every transmission of data over the Internet is at your own risk. 
+**c) Competitions**
 
-##  9\. Third party websites 
+At irregular intervals we will invite you to take part in competitions on our website or via newsletter. If you participate, you will be asked to enter your name, surname, email address and country of residence. This information is necessary to allow effective participation in the competition, and is deleted after the competition ends.
 
-In order to provide you with comprehensive information, our website contains external links to third-party websites. To the extent that these are not clearly identifiable as such, we shall point out to you that the relevant link refers to an external website. NATIVE INSTRUMENTS has no influence on the content and design of such third-party websites. Consequently, the guarantees given under this privacy statement do naturally not apply for such other websites.
+## 4\. Contact and Support Service
 
-##  10\. Newsletter 
+ **a) Email**
 
-You receive a newsletter by NATIVE INSTRUMENTS if you
+If you contact us via email, we will use your email address and name in order to process your query and contact you if necessary. 
 
-  * have subscribe to a newsletter on our website.
-  * have registered a product of NATIVE INSTRUMENTS.
-  * have downloaded a demo version.
+**b) Support Service**
 
+If you use our support service via the helpdesk (only possible for registered users), we will use your email address and name in order to process your query. Additionally, data which you have provided in the entry form regarding your hardware or software are saved and used for resubmission (i.e. if you use further support at a later date) in order to be able to offer you the best possible support in the long term.
 
+## 5\. Additional Data Processing when Setting Up a User Account
 
-Within this NATIVE INSTRUMENTS distinguishes between different product categories. I.e. if you have registered a product out of the DJ division and on out of the producer division, it could be that you receive newsletters on topics of the one as well as the other division. 
+In order to be able to see your order data for current and previous orders, as well as the order status of your purchase at any time, you have the option to register a user account on our website.  
+The obligatory data we require are your name, email address and your personal password. All other data are voluntary and marked accordingly. 
 
-Regardless of this NATIVE INSTRUMENTS conducts survey on specific topics. Registered users of our software are asked by e-mail to participate in such surveys. 
+If you would like to use your user account for product purchases, we require your address and payment information for processing contracts. Obligatory data are marked accordingly. All other data are voluntary.
 
-You can unsubscribe form receiving both newsletters and invitations to a survey at the following [Link.](https://www.native-instruments.com/en/company/newsletter-unsubscribe/ "Link.")
+The personal data submitted relating to this – those which are necessary to fulfil the contract, as well as those which are voluntary – are saved with the option to change or correct them. You can change these data in your customer account in the customer area at any time. 
 
-##  11\. Information about saved data 
+In order to prevent unauthorized access to your personal data by third parties, in particular your financial data, we secure it according to current technology standards.
 
-You have the possibility to be furnished any time at no charge with information on the data stored about you and on their use. Please describe your wishes or other questions on privacy via e-mail (mailto:[privacy@native-instruments.de](mailto:privacy@native-instruments.de)).
+## 6\. Product Orders, Product Registration
 
-We will do our best to help you with your concerns. 
+ **a) Product Orders**
 
-Any consent given to the processing of data may be revoked at any time and without stating any reasons (in accordance with the German Teleservices Act - TMG).
+You can place orders in our online shop via your user account by entering the personal data required for order processing.
+
+The captured and saved data required for this purpose and as part of contract processing are: Name, address, email address, payment information. All other data are accordingly marked as voluntary information. 
+
+We will store your order data as part of the order history and send you the order data via email. When confirming your order via email we will not disclose any payment details, only the payment method selected. You can find more information in our [Terms & Conditions.](https://www.native-instruments.com/agb "Terms & Conditions.")
+
+[Access our payment methods](https://www.native-instruments.com/en/shop-information/shipping-fees-payment/ "Access our payment methods").
+
+In compliance with the statutory provisions, your email address, which you entered upon purchasing a payable service, authorizes the use thereof for our own similar products or services. In case of contract conclusion, we will therefore send you advertising for similar products via email from time to time. If you do not wish to receive these advertising emails then you can retract the use of your email address in the newsletter subscription settings.
+
+**b) Product Registration**
+
+Besides the necessary activation of our software products, there is an option to register the purchased hardware via our website within your customer account. When registering the product via the website, the serial number of the respective hardware is stored and assigned to your customer account. 
+
+## 7\. Credit Check and Credit Card Check
+
+For each order which takes place on account or via a credit card, we can check your credit via a credit agency.
+
+## 8\. Sharing Your Personal Information
+
+Native instruments is legally obliged to pass on information to third parties. In particular if there is suspicion of a criminal offence, Native Instruments is obliged to pass the data to law enforcement authorities upon request. This includes the exchange of data with companies which handle credit card fraud. In this regard, there is no sharing of your personal data if the company wishes to use these for commercial use.
+
+Apart from this, we will only use the personal data you entrust us with for processing your products or subscribing to our newsletter. 
+
+For processing newsletter subscriptions, we will pass the email address on to the relevant service provider. This service provider is bound to our instructions as part of an order processing relationship and will not pass your data on to third parties.
+
+In order to process your product orders, we will pass your address data on to a commissioned delivery company and, where applicable, your payment data to banks that we work with. These service providers are also tied to our instructions as part of an order processing relationship and will not pass your data on to third parties.
+
+There is no other transmission of your data to third parties.
+
+## 9\. Right to Information, Deletion and Revocation
+
+ **a) Right to Information**
+
+At all times, you reserve the right to demand information about any of your data which have been stored, as well as its origin, recipients or categories of recipients who have received this data and the purpose of this storage.
+
+**b) Correction**
+
+You retain the right to demand the correction of incorrect personal data. Additionally, considering the purpose of the processing, you retain the right to demand the completion of incomplete personal data.
+
+**c) Deletion**
+
+After ending the respective usage relationship, your personal data are deleted after the statutory tax and trade retention periods, as long as you haven’t expressly – within the framework of your customer account – agreed to the further use of your data.
+
+As long as this does not infringe on statutory retention periods, and as long as your data is no longer required for order processing, you can demand the deletion of your data in compliance with the conditions contained in Art. 17 GDPR.
+
+**d) Right to Limitations on Processing**
+
+You have the right to demand limitations on the processing of your personal data if the conditions according to Art. 18 GDPR are fully met.
+
+**e) Right to Data Portability**
+
+You have the right to receive the personal data concerning you, which you provided to us, in a structured, commonly used, machine-readable format, as well as the data of other responsible persons without hinderance by Native Instruments, as long as the requirements of Art. 20 GDPR are fully met.
+
+**f) Right of Objection**
+
+In accordance with Art. 21 GDPR, you have the right of appeal due to reasons which result from a special situation, against the processing of the personal data concerning your person, which arise due to Art. 6 Abs. 1 e) or f) GDPR.
+
+**g) Revocation**
+
+If you have given approval for the use of your data, you can revoke it without form at any time, effective for the future, which may result in you no longer being able to use our services in their entirety. 
+
+**h) Right of Appeal**
+
+Irrespective of other administrative or legal recourse, you retain the right of appeal to a regulatory authority, in particular in the member state where you are residing, your place of work, or the location of the alleged infringement, if you believe that our processing of your personal data is in violation of data protection laws.
+
+**i) Contact Information**
+
+For revocation as well as requests for information or deletion, please contact:
+
+Native Instruments GmbH  
+Data protection officer: Kai-Hendrik Weutzing  
+Email: privacy@native-instruments.de
