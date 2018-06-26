@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602102445id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626233933id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.*
 
 # SurePayroll Privacy Policy | SurePayroll
 
@@ -101,4 +101,4 @@ This statement may be revised from time to time due to legislative changes, chan
 
 If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.
 
-Last revised date: August 27, 2014 
+Last revised date: August 27, 2014
