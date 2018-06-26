@@ -1,152 +1,259 @@
-> *The following text is extracted and transformed from the michbar.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161936id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michbar.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191515id_/https%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# AddThis - Privacy Policy
+# Privacy Policy - AddThis
 
-### Introduction
+### 1\. INTRODUCTION
 
-AddThis tools provide website owners with the capability to enable users to instantly share webpages, blogs, news, photos, videos, and other content to the most popular social networks and other destinations via a browser plug-in or website plug-in.
+This AddThis Privacy Policy (also referred to as the **‘Privacy Policy’** ) informs consumers about the collection, use and sharing (collectively referred to as **‘processing’** ) of your personal information in connection with Oracle’s provision of the AddThis Tools and Toolbar. It also explains the choices you have in relation to these processing activities.
 
-Oracle ('Oracle', 'we', 'us', or 'our') operates a technology called AddThis. AddThis includes the following key components:
+AddThis includes the following key components:
 
-1\. AddThis Tools: Oracle provides an AddThis suite of technologies to website publishers for use on their websites or mobile device applications ('AddThis Tools'). With AddThis Tools, publishers can (i) enable users to share, follow, view, recommend and interact with the publisher’s content, and (ii) collect information from those users as a result of their visit. The AddThis Tools are available for download through AddThis.com or through selected third party sites.
+1\. AddThis Tools: Oracle ( **‘Oracle’, ‘we’, ‘us’, ‘Oracle Marketing & Data Cloud’**) provides an AddThis suite of technologies to publishers for use on their websites ( **'AddThis Tools'** ). AddThis Tools provide website owners with the capability to enable users of their websites to share webpages, blogs, news, photos, videos, and other content with social networks and other destinations via a browser plug-in or website plug-in. With AddThis Tools, publishers can (i) enable users to share, follow, view, recommend and interact with the publisher’s content, and (ii) collect information from those users as a result of their visit. The AddThis Tools are available for download through AddThis.com or through selected third party sites.
 
-2\. AddThis Platform: Oracle also provides publishers with a platform where they can perform analytics and customize their websites and/or applications to provide users with more relevant advertising (“AddThis Platform”).
-
-3\. AddThis Toolbar: Oracle also enables users to download and install directly from Oracle an AddThis Toolbar as a browser plug-in that enables users to share content from virtually any website (“AddThis Toolbar”). The AddThis Toolbar is available for download through AddThis.com or through selected third party sites.
+2\. AddThis Toolbar: Oracle also enables you to download and install directly from Oracle an AddThis Toolbar as a browser plug-in that enables you to share content from virtually any website ( **‘AddThis Toolbar’** ). The AddThis Toolbar is available for download through AddThis.com or through selected third party sites.
 
 This Privacy Policy has two key purposes:
 
-1\. When you interact with a website or mobile device application on which a publisher has installed AddThis Tools, your direct interactions are primarily with that publisher. Therefore, in our AddThis Terms of Service with the publisher, we require that the publisher informs you directly of how it may collect and use your personal information in this context and get your consent where appropriate. Oracle also informs you through this Privacy Policy how it uses, manages and shares the personal information it receives via the publisher and the AddThis Tools. 
+1\. When you interact with a website on which a publisher has installed AddThis Tools, your direct interactions are primarily with that publisher. In our [AddThis Terms of Service](http://www.addthis.com/privacy/terms-of-service/) with the publisher, we require that the publisher informs you directly of how it collects and uses your personal information in this context, and gets your consent where appropriate. Oracle may then also receive information about you via your interactions with the publisher’s AddThis Tools, so this Privacy Policy informs you how we process that personal information. 
 
-2\. In addition, when you download the AddThis Toolbar and use it to share content, we may collect certain personal and other information about you. Through this Privacy Policy, we explain to you how we may use, manage and share that information.
+2\. When you download the AddThis Toolbar and use it to share content, we may collect certain personal and other information about you. This Privacy Policy explains to you how we process that information as well.
 
-### Scope
+This Privacy Policy was last updated on May 25, 2018. However, the Privacy Policy can change over time, for example to meet changing business or legal requirements. The most up-to-date version can be found on this [website](http://www.addthis.com/privacy/privacy-policy). In case there is an important change that we want to highlight to you, we will also inform you in another appropriate way (for example, via a pop-up notice or statement of changes on our website).
 
-As described above, this Privacy Policy only applies to (i) information received via AddThis Tools available on a Publisher’s website or mobile device applications (collectively, “Publisher Site”) and (ii) information collected via the AddThis Toolbar. 'Publisher' means the owner or operator of a Publisher Site that incorporates and displays the AddThis Tools and makes the AddThis Tools available to End Users. 'End Users' means individuals who visit, access and/or use the AddThis Tools from a Publisher Site. “Toolbar User” means individuals who download and use the AddThis Toolbar.
+### AddThis PRIVACY POLICY SUMMARY
 
-This Privacy Policy does not govern the use of the AddThis Platform by the Publisher (or any individual working for the Publisher). Specifically, the Privacy Policy does not apply to personal information Oracle collects from Publishers on www.addthis.com (“AddThis Site”) in order to register and administer a Publisher’s account on the AddThis Site and provide the Publisher with access to the AddThis Platform. Oracle’s Privacy Policy on <https://www.oracle.com/legal/privacy/privacy-policy.html> describes how we collect and use such Publisher personal information.
+This Privacy Policy applies to information received via the AddThis Tools and AddThis Toolbar available on a publisher’s website, as well as information collected via those Tools. 
 
-### Types of AddThis Data and How AddThis Data is Received
+Oracle Corporation and its affiliated entities are responsible for the processing of your personal information collected via the AddThis Tools and AddThis Toolbar as described in this Privacy Policy. 
 
-The AddThis Tools and AddThis Toolbar collect information from the device used by the End User to interact with Publisher Sites or by the Toolbar User to interact with the AddThis Toolbar (“AddThis Data”).
+The AddThis Tools collect personal information from the device used by you to interact with Publisher Sites or with the AddThis Toolbar. 
 
-AddThis Data may consist of the following:
+Oracle receives personal information from either publishers or directly from you. We receive personal information when you interact with a website on which a publisher has installed AddThis Tools. The publishers share your personal information with Oracle per our AddThis Terms of Service. Oracle receives personal information directly from you when you download the AddThis Toolbar and use it to share content. 
 
-  * Internet Protocol (IP) address, Mobile Advertising ID (MAID) (which allows mobile app developers to identify who is using their mobile apps), mobile application ID, browser type, browser language, type of operating system, and the date and time the End User visited a Publisher Site or Toolbar User used the Toolbar;
-  * Behavior on a Publisher Site, such as how long the End User visited the Publisher Site, End User sharing behavior of content on a Publisher Site, and scrolling behavior of an End User on a Publisher Site;
-  * The referring URL and the web search the End User used to locate and navigate to a Publisher Site;
-  * Keywords entered into the AddThis Toolbar search functionality, and whether and when the Toolbar User downloads, installs, or uninstalls the AddThis Toolbar;
-  * Information regarding how often an End User uses the AddThis Tools and how often a Toolbar User uses the AddThis Toolbar; and
-  * Geo-location data derived from an End User’s and Toolbar User’s IP address.
+We use personal information about you to enable Oracle customers and partners to market products and services to you, to provide personalized recommendations and messages, to link browsers and apps across devices, to sync unique identifiers with our partners, to develop and improve Oracle products and services, and for security and compliance purposes. 
 
+Your personal information is shared throughout Oracle's organization and with third parties such as Oracle Marketing & Data Cloud customers and partners, and service providers. 
 
+We provide multiple choices in respect of the information we process about you. You can choose to opt-out and object to our use of your personal information, delete your personal information, or access your personal information. 
 
-AddThis Data will be treated as personal information to the extent required under applicable law. Publishers are required per the AddThis Terms of Service to obtain all necessary End User consents and authorizations, and provide any required notices for the provision of AddThis Data collected from End Users to Oracle.
+If you believe your personal information has been used in a way that is not consistent with the Privacy Policy, please contact the Global Data Protection Officer. 
 
-When an End User visits a Publisher Site or when a Toolbar User uses the AddThis Toolbar, AddThis receives AddThis Data via Cookies and Pixels. “Cookies” are small text files that contain a string of characters and uniquely identify a browser. “Pixels” are small strings of code that provide a method for delivering a graphic image on a webpage or other document. Pixels allow the operator of a webpage or other document, or a third party who serves the Pixel, to set, read, and modify Cookies on, and to transfer other data to, the browser used to view the webpage or other document. Cookies and Pixels allow the AddThis Tools and AddThis Toolbar to receive AddThis Data. When an End User uses the AddThis Tools on a Publisher Site to share information and content the Publisher makes available on the Publisher Site (“Publisher Content”), the End User is redirected through the AddThis Site before the End User is directed to their destination website where they want to publish or share the Publisher Content (e.g., to share Publisher Content to a social media site such as Facebook).
+### 2\. SCOPE
 
-Oracle may also receive End Users’ email addresses on behalf of the Publisher on a Publisher Site and transfer those emails addresses to Publisher’s email service provider. The email addresses collected on behalf of the Publisher are excluded from the definition of “AddThis Data” and these email addresses are not retained or used by Oracle to provide interest-based advertising, or to provide Oracle marketing or other Oracle purposes.
+As described above, this Privacy Policy applies to (i) information received via AddThis Tools installed on a publisher’s website ( **‘Publisher Site’** ); and (ii) information collected via the AddThis Toolbar.
 
-### How Oracle Uses AddThis Data
+**“Publisher”** means the owner or operator of a Publisher Site that incorporates and displays the AddThis Tools and makes the AddThis Tools available to End Users. **“End Users”** means individuals who visit, access and/or use the AddThis Tools from a Publisher Site. **“Toolbar Users”** means individuals who download and use the AddThis Toolbar. End Users and Toolbar Users are collectively referred to in this Privacy Policy as **“you”** or **“your”**. 
 
-Enable AddThis Tools functionality. We use AddThis Data to process an End User’s and Toolbar User’s request to share content via the AddThis Tools and AddThis Toolbar. We also use AddThis Data to customize the AddThis Tools and AddThis Toolbar to the End User’s and a Toolbar User’s usage patterns. For example, when an End User shares Publisher Content on a Publisher Site to Facebook, Oracle places the Facebook icon at the top of the End User’s AddThis Tools menu.
+Oracle also provides publishers with a platform where they can perform analytics and customize their websites and/or applications to provide users with more relevant advertising ( **‘AddThis Platform’** ). This Privacy Policy does not govern the use of the AddThis Platform by the Publisher (or any individual working for the Publisher). Specifically, the Privacy Policy does not apply to personal information Oracle collects from Publishers on www.addthis.com ( **‘AddThis Site’** ) in order to register and administer a Publisher’s account on the AddThis Site and provide the Publisher with access to the AddThis Platform. Oracle’s Privacy Policy on <https://www.oracle.com/legal/privacy/privacy-policy.html> describes how we process such Publisher personal information.
 
-Provide End Users and Toolbar Users with interest-based advertising. Publishers provide us with AddThis Data upon End User consent so that we can build Segments and Profiles to facilitate personalized interest-based advertising for End Users. By installing the AddThis Toolbar, Toolbar Users provide consent for us to use their AddThis Data for interest-based advertising. “Profiles” are unique sets of information about a computer or device, or a set of multiple computers or devices sharing common attributes. 'Segments' are a group of Profiles that share a common behavior or preference (e.g., travel enthusiast, sports fan). The types of Segments that are linked to your computer or device can be viewed in the Registry. Please see below for information on the Registry under 'Access.'
+### 3\. WHO IS RESPONSIBLE FOR PROCESSING YOUR PERSONAL INFORMATION? 
 
-Personalized recommendation and messages. Publishers can use AddThis Data and insights on End User interests provided by AddThis to personalize the Publisher Site. For example, the Publisher can provider an End User with an article recommendation or a coupon based on prior interest displayed by the End User. Additionally, if a Publisher determines End Users are interested in sports, the Publisher can customize the Publisher Site to be more sports-centric.
+Oracle Corporation and its affiliated entities are responsible for processing AddThis Data described in this Privacy Policy. A list of Oracle entities is available [here](http://www.oracle.com/us/corporate/contact/global-070511.html). Please select a region and country to view the registered address and contact details of the Oracle entity or entities located in each country.
 
-Link browsers and apps across devices. Oracle may use cross-device technology that is designed to enable AddThis, Publishers and other Oracle partners to connect Profiles in a browser and a mobile application. AddThis’ mobile Software Development Kit (SDK) product allows Oracle to link the mobile browser and the mobile application so that Publishers can customize Content within the Publisher application and receive analytics. End Users and Toolbar Users may opt out of AddThis’ use of cross-device technology as described below in the “Opting Out” section.
+### 4\. WHICH TYPES OF PERSONAL INFORMATION DO WE PROCESS AND FROM WHAT SOURCES?
 
-Sync unique identifiers. The AddThis Tools also incorporate Cookies and Pixels from our third party partners to enable the synchronization of unique identifiers between Oracle and our third party partners to facilitate online behavioral advertising across the online advertising ecosystem. For a list of those third party partners, please visit: <http://www.addthis.com/privacy/pixel-partners>. The “Opt-Out” button available at the top of this page will opt the End User out of data collection by Oracle and cease the syncing of unique identifiers with our third party partners. Please see the “Opting Out of Online Advertising facilitated by the AddThis Tools” section below for more information.
+The AddThis Tools and AddThis Toolbar collect information from the device used by you to interact with Publisher Sites or with the AddThis Toolbar ( **‘AddThis Data’** ).
 
-Protect and develop AddThis functionality. We use AddThis Data to understand how the AddThis Tools and AddThis Toolbar are being used and to help us ensure that the AddThis Tools and AddThis Toolbar are functioning properly. We also use AddThis Data for detecting, preventing, and addressing fraud or technical issues, research and development purposes, internal operational purposes, and to create aggregate statistics for market research or analytics services.
+AddThis Data is collected online and may indirectly identify you. It includes, for example:
 
-### Opting Out of Online Advertising facilitated by the AddThis Tools
-
-AddThis Opt-out. If an End User or Toolbar User prefer that Oracle and our third party partners do not receive information via Cookies and Pixels for the purposes outlined in this Privacy Policy, the End User or Toolbar User may opt out of data collection at any time via the “Opt-Out” button available at the top of this page. Upon opting out, we will place an opt-out Cookie on End User’s or Toolbar User’s device. The opt-out Cookie tells the AddThis Tools and AddThis Toolbar not to include information from that device in AddThis Data.
-
-Browser Opt-out. End Users or Toolbar Users may also be able to change browser settings to cause the browser to refuse third-party Cookies, or to indicate when a third-party Cookie is being set. Check the browser's 'Help' files to learn more about how the browser handles Cookies.
-
-Industry Opt-out. Opt out tools are also provided by the following industry groups:
-
-  * Digital Advertising Alliance (DAA): <http://www.aboutads.info/choices/>
-
-  * Network Advertising Initiative (NAI): <http://www.networkadvertising.org/choices/>
-
-  * European Interactive Digital Adverting Alliance (EDAA): <http://www.youronlinechoices.eu/> and <http://www.edaa.eu/>
+  * unique IDs such as a cookie ID on your browser;
+  * IP addresses and information derived from IP addresses, such as geographic location;
+  * information about your device, such as browser, device type, operating system, the presence or use of 'apps', screen resolution, or the preferred language;
+  * the date and time you visited a Publisher Site or you used the AddThis Toolbar;
+  * the referring URL and the web search you used to locate and navigate to a Publisher Site;
+  * keywords entered into the AddThis Toolbar search functionality, and whether and when you downloaded, installed, or uninstalled the AddThis Toolbar;
 
 
 
+We may associate personal information about you with interest segments or profiles as part of the provision of AddThis services to our customers and partners. **Interest segments** are a specific group of consumers that share a common behaviour or preference used for marketing by our customers. **Profiles** are a set of attributes about a specific consumer or device, or a set of multiple consumers or devices sharing common attributes used for marketing by our customers.
 
-Please note that if Cookies are blocked on an End User’s or Toolbar User’s device using the Browser Opt-out, the AddThis and industry opt-out processes may not function properly. Please also note that if the End User or Toolbar User uses a different computer, device or Internet browser, or deletes Cookies, the End User or Toolbar User will need to exercise their opt-out choice for that device or browser again.
+Oracle may also collect email addresses on behalf of a Publisher to assist the Publisher in creating email lists as part of our AddThis List Building Tools service. More information about this service is available [here](http://www.addthis.com/get/list-building/). Oracle is not responsible for the use and processing of your email address in connection with the AddThis List Building Tools service. We encourage you to read the privacy policies of the Publishers to understand how such Publishers use and share your email addresses.
 
-Mobile Opt-Out. While the opt-out methods described above may work for mobile web browsing, they are Cookie-based and are therefore less reliable in mobile 'app' environments that may not accept Cookies. As an alternative, Oracle suggests End Users or Toolbar Users download AppChoices App provided by the Digital Advertising Alliance (DAA). This app allows consumers to exercise opt-out control for specific companies, including AddThis, and provides a more reliable opt-out signal when consumers are in a mobile app.
+### 5\. HOW DOES ORACLE USE ADDTHIS DATA?
 
-AddThis Tools and AddThis Toolbar respond to Limit Ad Tracking settings in a mobile device. End Users or Toolbar Users may also be able to adjust device settings to limit the collection of data from the AddThis Tools and AddThis Toolbar. Check the device’s 'Help' files to learn more about Limit Ad Tracking.
+We use personal information for the following purposes:
 
-Blocking Emails Shared via AddThis Tools or AddThis Toolbar. End Users or Toolbar Users may opt to share content (with other users for example) by email using the AddThis Tools or AddThis Toolbar. By using the AddThis Tools or AddThis Toolbar, the End User or Toolbar User agrees to abide by the general rules of conduct in the Terms of Service. Oracle does not verify the email address provided by the End User or Toolbar User. Oracle will delete the email address upon completion of the task. To opt out of emails sent by End Users or Toolbar Users using AddThis Tools, please visit: <http://www.addthis.com/privacy/email-opt-out>
+a) to enable AddThis Tools and AddThis Toolbar functionality; 
 
-Toolbar Uninstallation. The AddThis Toolbar can be uninstalled at any time. Please refer to your browser’s support or help feature to determine how to uninstall the AddThis Toolbar.
+b) to enable AddThis Publishers and Oracle Marketing & Data Cloud customers and partners to market products and services to you;
 
-### Disclosing AddThis Data to Third Parties
+c) to provide personalized recommendations and messages;
 
-We share AddThis Data as follows:
+d) to link browsers and apps across devices;
 
-  * We license AddThis Data to third-party partners, such as marketers, integration partners, pixel partners and resellers consistent with this Privacy Policy, for the purposes stated above in 'How Oracle Uses AddThis Data.''
-  * We share AddThis Data with third parties if we have a good faith belief that disclosure is reasonably necessary to (a) satisfy applicable law, regulation, or legal process, (b) respond to requests from public and government authorities including public and government authorities outside your country of residence, for national security and/or law enforcement purposes, (c) enforce the applicable Terms of Service, including investigation of potential violations thereof, or (d) protect against harm to the rights, property or safety of Oracle, End Users, Toolbar Users, or the public as required or permitted by law.
-  * We share AddThis Data with our affiliates, in which case we will require them to honor this Privacy Policy. Additionally, in the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, we expect that any AddThis Data that we have will be among the assets transferred.
-  * We share AddThis Data with third-party service providers in order for those service providers to perform business functions for Oracle or on behalf of Oracle customers. When Oracle shares AddThis Data with third party service providers, we require them to use AddThis Data only for the purpose of providing services to us and to implement security controls to maintain the confidentiality of that information.
-  * In addition, we may aggregate AddThis Data with the information of others and share that aggregated information with third parties without restriction to the extent allowed by applicable law.
+e) to sync unique identifiers;
+
+These purposes are further specified below.
+
+**a) Enable AddThis Tools and AddThis Toolbar functionality.**
+
+We use AddThis Data to process your request to share content via the AddThis Tools and AddThis Toolbar. We also use AddThis Data to customize the AddThis Tools and AddThis Toolbar to your usage patterns.
+
+_Example: You visit a website and use the AddThis sharing tool on the website to share an article to Facebook._
+
+**b) Enable AddThis Publishers and Oracle Marketing & Data Cloud customers and partners to market products and services to you.**
+
+Publishers provide us with AddThis Data so that we can build Segments and Profiles to facilitate personalized interest-based advertising for you by Oracle and our Oracle Marketing & Data Cloud customers and partners. By installing the AddThis Toolbar, Toolbar Users provide consent for us to use their AddThis Data for interest-based advertising. 
+
+_Example: A marketing professional working for a travel company wants to reach a group of individuals (also known as an audience) who may be interested in its travel specials to Hawaii. The marketing professional uses AddThis Tools to create an audience interested in travel to Hawaii. If you have visited a travel website previously and have expressed an interest in Hawaiian vacations, you may subsequently see advertisements for a vacation to Hawaii because a cookie has been placed on your device that made you part of that travel company’s audience._
+
+**c) Provide personalized recommendations and messages.**
+
+Publishers can use AddThis Data and insights provided by AddThis to personalize the Publisher Site. 
+
+_Example: You visit a site and see content on the site that you find relevant to your interests. Using the example above, if you visit the travel company’s site, you may see specials to Hawaii on the travel company’s homepage. You decide you want to receive additional information from the travel company via email communications and provide your email address to the travel company so they can send you offers and specials directly to your inbox._
+
+**d) Link browsers and apps across devices.**
+
+For linking Profiles and Segments to enable Oracle Marketing & Data Cloud customers and partners to connect your interest segments across the various browsers and/or devices you may use for the purposes described in this section. 
+
+_Example: You are interested in vacations offered by a travel company and have clicked on their online advertising. You are logged into several devices (your desktop, smartphone, and tablet) using the same login. Oracle partners have indicated that you are likely the same user across those same devices. The travel company is able to send vacation offers to you (via de-identified cookie ID) to these different devices._
+
+**e) Sync unique identifiers.**
+
+The AddThis Tools also incorporate Cookies and Pixels from Oracle partners to enable the synchronization of unique identifiers between Oracle and our third party partners to facilitate online behavioral advertising across the online advertising ecosystem. For a list of those third party partners, please visit: <http://www.addthis.com/privacy/pixel-partners>. The “Opt-Out” button available at the top of this page will opt you out of data collection by Oracle and cease the syncing of unique identifiers with our third party partners. Please see the **“What are your choices?”** section below for more information.
+
+**f) To analyse, develop, improve, and improve the AddThis Tools, AddThis Toolbar and Oracle products and services.**
+
+We can process AddThis Data for Oracle’s own research and development purposes. For example, to enhance data quality, develop new features and functionality and for statistical analyses related to the performance and operation of the Oracle Marketing & Data Cloud. 
+
+**g) To manage the security of our sites, networks, and systems.**
+
+We can collect usage and systems operations data from the AddThis Tools and AddThis Toolbar for security and operations management to help keep our networks and systems as well as our products and services secure, or to investigate and prevent cyber-attacks or potential fraud, including ad fraud and to detect bots.
+
+**h) To comply with applicable laws and regulations and to operate our business.**
+
+In some cases, we may process AddThis Data to comply with applicable laws and regulations. For example, to respond to a request from a regulator or to defend a legal claim. We may also process AddThis Data in the operation of our business. For example, to conduct audits and investigations, for finance and accounting, archiving and insurance purposes.
+
+### 6\. WHAT IS OUR BASIS FOR PROCESSING ADDTHIS DATA?
+
+If we have collected information about you in the EU/EEA, our basis for processing is the following: 
+
+a) We rely on your **consent** to enable Oracle Marketing & Data Cloud customers and partners to market products and services to you and to develop and improve our Oracle products and services. End User consent is obtained on behalf of Oracle and Oracle Marketing & Data Cloud customers and partners by the AddThis Publishers. Please refer to Section 8 ( **“What are your Choices?”** ) below for more details on how to opt out of interest-based data processing based on your consent;
+
+b) We rely on our **legitimate interest** to provide measurement and analytics on campaign performance and to analyze, develop, improve, and optimize sites, our networks, and systems, and to maintain the security of our sites, networks, and systems. Oracle products and services secure. To the extent it is recognized to constitute an appropriate legal basis, we may rely on **legitimate interests** to enable our partners and customers to market products and services to you;
+
+c) We will process AddThis Data in order to comply with **applicable laws and regulations** , such as to process an opt-out request.", "disclosing-heading": "Disclosing AddThis Data to Third Parties
+
+### 7\. WHAT COOKIES, PIXEL TAGS AND OTHER SIMILAR TECHNOLOGIES DOES ADDTHIS USE?
+
+Cookies and similar technologies (e.g., pixels tags and device identifiers) are used by Oracle and our advertising technology partners to recognize you and/or your device(s) on, off and across different services and devices for the purposes specified in Section 5 above.
+
+**Cookies** are small text files that contain a string of characters and uniquely identify a browser on a connected device. We or our partners use cookies to, among other things, track user trends and collect information about how you use Publishers’ Sites or interact with advertising. Most browsers are initially configured to accept cookies by default. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "help" files to learn more about handling cookies. 
+
+**Pixel Tags** (also called web beacons or clear GIFs) are invisible 1 x 1 pixels that are placed on webpages that use this technology for marketing and measurement purposes. When you access these webpages, pixel tags generate a generic notice of the visit. Pixel tags can be used with cookies or alone. When used with cookies, pixel tags can track activity on a site by a particular device and provide relevant online advertising to you. When you turn off cookies or have opted out of cookies, pixel tags simply detect a unique website visit and how you interacted with the advertising but do not track an individual to provide relevant online advertising.
+
+**Redirect notice.** When you use the AddThis Tools on a Publisher Site to share information and content the Publisher makes available on the Publisher Site ( **‘Publisher Content’** ), you are redirected through the AddThis Site before you are directed to your destination website where you want to publish or share the Publisher Content (e.g., to share Publisher Content to a social media site such as Facebook).
+
+### 8\. WHAT ARE YOUR CHOICES?
+
+We provide multiple choices in respect of the information we process about you. You can exercise these choices as described below.
+
+**Opt-out and object to our use of personal information.** Oracle offers multiple ways for you to opt out and object to our use of your personal information as described in this Privacy Policy.
+
+  * **AddThis Opt Out.** If you prefer that Oracle and our third party partners do not receive your personal information via Cookies and Pixels for the purposes outlined in this Privacy Policy, you may opt out of collection at any time via the “Opt-Out” button available on the left of this page. Upon opting out, we will place an opt-out Cookie on your device. The opt-out Cookie tells the AddThis Tools and AddThis Toolbar not to include information from that device in AddThis Data.
+  * **AdTech Industry Opt-out.** You may also opt out of our processing of your personal information for Oracle Data Cloud services by using the opt-out tools provided by the following industry groups: 
+    * Digital Advertising Alliance (‘DAA’): <http://www.aboutads.info/choices/>
+    * Network Advertising Initiative (‘NAI’): [http://www.optout.networkadvertising.org](http://www.optout.networkadvertising.org/)
+    * European Interactive Digital Adverting Alliance (‘EDAA’): <http://www.youronlinechoices.eu/> and <http://www.edaa.eu/>
+  * **Do Not Track.** Oracle honors “Do Not Track” browser settings, meaning we will not track your browser for marketing purposes while you have “Do Not Track” turned on in your browser settings.
 
 
 
-### Security, Retention, and Data Integrity
+Please note that if you opt out using the first two opt out tools, you may still temporarily receive marketing due to marketing campaigns already underway. However, you will be opted-out of all future marketing campaigns that use the Oracle Marketing & Data Cloud. 
 
-We use physical, technical, and organizational safeguards that are designed to protect AddThis Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. In the event that Oracle determines that AddThis Data stored by Oracle is acquired, or is reasonably believed to have been acquired, by an unauthorized person and applicable law requires notification, Oracle will, consistent with the reasonable needs of law enforcement and subject to applicable law, provide notification as required by law.
+Also note that the first two opt out tools are currently cookie-based and prevent Oracle from using your personal information for interest-based advertising on the browser on which they are installed. As a result, the opt out will only function if your browser is set to accept third-party cookies and may not function where cookies are sometimes automatically disabled or removed (e.g., certain mobile devices and operating systems). If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you will need to opt out again. Oracle does not use persistent, unique identifiers to revive a previously opted-out profile or deleted cookie. 
 
-We retain AddThis Data for up to 24 months. AddThis Data collected in certain jurisdictions may be retained per internal practices for timeframes less than 24 months to address regional variances. Oracle may also retain statistical data related to the performance, operation and use of AddThis Tools for more than 24 months for security and operations management, statistical analyses, service improvement, and research and development.
+**Blocking Emails Shared via AddThis Tools or the AddThis Toolbar.** You may opt of sharing content (with other users for example) by email using the AddThis Tools or AddThis Toolbar. By using the AddThis Tools or AddThis Toolbar, You agree to abide by the general rules of conduct in the [AddThis Terms of Service](http://www.addthis.com/privacy/terms-of-service/). Oracle does not verify the email address you provided. Oracle will delete the email address within 90 days of collection. To opt out of emails sent by you using AddThis Tools, please use the opt-out tool available at: [http://www.addthis.com/privacy/email-opt-out.](http://www.addthis.com/privacy/email-opt-out)
 
-### Access
+**Toolbar Uninstallation.** The AddThis Toolbar can be uninstalled at any time. Please refer to your browser’s support or help feature to determine how to uninstall the AddThis Toolbar.
 
-Oracle maintains a consumer tool called the [Oracle BlueKai Registry](http://www.bluekai.com/registry/), which allows End Users and Toolbar Users to view the type of standard Segments Oracle shares via the Oracle Audience Data Marketplace that are applicable to the browser, computer or device that views the registry ('Registry'). Within the Registry, End Users and Toolbar Users may opt-out at any time. Publishers and other partners may create custom Segments that may not appear in the Registry and over which Oracle has no visibility.
+**Access personal information**  
+In order to exercise your right to access your online information, you can use the Oracle Data Cloud Registry ( **‘Registry’** ) to view the online segments Oracle has associated with your device. By accessing this Registry, you can view the types of third-party interest segments that are available for Oracle Data Cloud customers. Please note that the interest segments you see within the Registry is information about you from the profile associated with the specific browser, computer or device that you are using to visit the Registry. You may see different segments when viewing the Registry from a different browser, computer or device. We therefore recommend using different browsers and devices when accessing the Registry.
 
-Keep in mind that the Segments presented within the Registry are Segments from the Profile associated with the specific browser, computer or device that the End User or Toolbar User is using to visit the Registry. End Users or Toolbar Users may see different Segments when viewing the Registry from a different browser, computer or device. Under certain conditions, End Users or Toolbar Users may also request that their information be removed from AddThis Data. Please submit any such request using the contact details set out in the 'Enforcement, Questions, and Complaints' section.
+**Delete personal information**  
+You can erase or delete the AddThis Data Oracle is processing about your device or remove segments in the Registry by opting out of AddThis services using the opt-out tool above.
 
-### Sensitive Data
+### 9\. WHEN AND HOW CAN WE SHARE ADDTHIS DATA?
 
-Oracle is aware of the sensitivity of certain types of data. We do not create any online interest Segments that reflect third-party marketing information that we consider sensitive. For example, we do not create sensitive health-related or finance-related Segments that we consider sensitive with third parties. The current list of types of health segments we do create may be found by clicking [here](https://cache.addthiscdn.com/site/legal/AddThis_Healthcare_Segments-11142016.pdf). The current list of types of finance segments we create may be found by clicking [here](https://cache.addthiscdn.com/site/legal/AddThis_Finance-Information-Collected-04032014.pdf). We may further restrict segments based on the differing laws in countries outside of the United States.
+**Sharing within Oracle**  
+As a global corporation, AddThis Data can be shared globally throughout Oracle's worldwide organisation. A list of Oracle entities is available [here](http://www.oracle.com/us/corporate/contact/global-070511.html). Please select a region and country to view the registered address and contact details of the Oracle entity or entities located in each country. Oracle employees are authorised to access personal information only to the extent necessary to perform their job functions.
 
-We do not knowingly receive or maintain AddThis Data from individuals who are under 16 years of age, and no part of our Site, AddThis Platform, AddThis Tools, or AddThis Toolbar are designed to attract people under the age of 16. If we obtain knowledge that an individual is under the age of 16, we will take steps to remove that individual's AddThis Data from our databases.
+**Sharing with third parties**
 
-### Industry Involvement
+We may share AddThis Data with the following third parties: 
 
-Oracle is a member of, and adheres to the codes of, several industry groups including the [Network Advertising Initiative ('NAI')](http://optout.networkadvertising.org/), the [Digital Advertising Alliance ('DAA')](http://www.aboutads.info/), [European Digital Advertising Alliance ('EDAA')](http://youronlinechoices.eu/) and the [Interactive Advertising Bureau ('IAB')](https://www.iab.com/). Please visit these industry groups for more information on the advertising industry and for more opt-out choices.
+  * Oracle Marketing & Data Cloud customers and partners, including digital marketers, ad agencies, web publishers, demand side platforms, data management platforms, supply-side platforms and social media networks. Oracle’s use of AddThis Data by our Oracle Marketing & Data Cloud customers and partners is described in the [Oracle Marketing & Data Cloud Privacy Policy](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html);
+  * third-party service providers as necessary to perform Oracle Marketing & Data Cloud services on behalf of Oracle;
+  * relevant third parties in the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings;
+  * to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to government requests, including public and government authorities outside your country of residence, for national security and/or law enforcement purposes.
 
-### Links to Other Sites
 
-AddThis Platform, AddThis Tools, and AddThis Toolbar may contain links to, and allow End Users and Toolbar Users to share content on third party websites and services. By providing such links to third party websites or services or allowing sharing of content, we are not endorsing, authorizing or representing that we are affiliated with that third party, nor are we endorsing the third party’s privacy or information security policies or practices. We encourage reading the privacy policies of these third party websites and services to understand how such third parties collect, use and share information.
 
-### Cross Border Transfer
+### 10\. FOR HOW LONG DO WE RETAIN ADDTHIS DATA?
 
-Oracle is a global corporation with operations in over 80 countries and has developed global data security practices designed to ensure that End User and Toolbar User personal information is appropriately protected in all locations globally. Please note that such personal information may be transferred, accessed and stored globally as necessary in accordance with this Privacy Policy. Oracle has implemented appropriate safeguards for transfers of personal information originating from the European Economic Area ('EEA') to Oracle affiliates and unaffiliated third parties located outside the EEA.
+Oracle maintains personal information for the following retention periods:
 
-### Enforcement, Questions, and Complaints
+We retain AddThis Data for **13 months** as of collection. A 1% sample of AddThis Data ( **‘Sample Dataset’** ) is retained for a maximum of 24 months for business continuity purposes. Oracle hashes the direct and indirect identifiers (such as IP address and cookie ID) in the Sample Dataset. “Hashing” means the personal information cannot be associated with an individual without the use of additional information.
 
-For inquiries or complaints regarding this Privacy Policy, please contact Oracle by emailing us at [privacy_ww@oracle.com](mailto:privacy_ww@oracle.com) or writing to us at the address below and providing your full name and address:
+### 11\. HOW IS ADDTHIS DATA SECURED?
 
-Chief Privacy Officer Oracle Corporation   
-10 Van De Graaff Dr.   
+Oracle has implemented appropriate technical, physical and organizational measures designed to protect personal information against accidental or unlawful destruction or accidental loss, damage, alteration, unauthorized disclosure or access as well as all other forms of unlawful processing.
+
+### 12\. DO WE PROCESS SENSITIVE PERSONAL INFORMATION? 
+
+Oracle does not create any online interest segments that reflect personal information that we consider sensitive. While the types of personal information considered sensitive may vary among consumers and applicable law, we treat the following types of personal information as sensitive:
+
+  * precise health information, such as a consumer having a certain medical condition like cancer or diabetes. If you would like to view the current list of third-party health and wellness interest segments available in the Oracle BlueKai Marketplace, please click [here](https://www.oracle.com/us/assets/health-wellness-data-segments-2537888.pdf);
+  * certain aspects of a consumer's personal life or financial situation;
+  * interest in "adult" products or services; 
+  * information considered sensitive based on applicable law. 
+
+
+
+We do not allow AddThis Data to be used for employment, credit, healthcare, or insurance eligibility purposes. 
+
+### 13\. DOES ORACLE PROCESS ADDTHIS DATA FROM CHILDREN? 
+
+We do not intentionally collect AddThis Data from, and do not tailor any services to, children under 16 years of age. Further, we prohibit our Publishers from providing Oracle with personal information from sites directed to children under the age of 16 or from consumers whose age these companies know to be under the age of 16. 
+
+### 14\. IS ORACLE A MEMBER OF ANY INDUSTRY ORGANIZATIONS?
+
+Oracle is a member of, and adheres to the regulatory principles of, several industry groups including the [Network Advertising Initiative ('NAI')](http://optout.networkadvertising.org/?c=1), the [Digital Advertising Alliance ('DAA')](http://www.aboutads.info/), [European Digital Advertising Alliance ('EDAA')](http://youronlinechoices.eu/) and the [Interactive Advertising Bureau ('IAB')](https://www.iab.com/). Please visit these industry groups for more information on the advertising industry and for more opt-out choices.
+
+### 15\. LINKS TO OTHER SITES
+
+AddThis Platform, AddThis Tools, and AddThis Toolbar contain links to, and allow you to share content on, third party websites and services. By providing such links to third party websites or services or allowing sharing of content, we are not endorsing, authorizing or representing that we are affiliated with that third party, nor are we endorsing the third party’s privacy or information security policies or practices. We encourage you to read the privacy policies of these third party websites and services to understand how such third parties collect, use and share information.
+
+### 16\. HOW IS ADDTHIS DATA HANDLED GLOBALLY?
+
+Oracle is a global corporation with operations in over 80 countries and personal information is processed globally. If personal information is transferred to an Oracle recipient in a country that does not provide an adequate level of protection for personal information, Oracle will take measures designed to adequately protect information about you, such as ensuring that such transfers are subject to the terms of the EU Model Clauses. 
+
+### 17\. HOW DO I CONTACT ORACLE IF I HAVE QUESTIONS, COMMENTS OR COMPLAINTS?
+
+For inquiries or complaints regarding this Privacy Policy, please contact Oracle’s Global Data Protection Officer by emailing us at privacy_ww@oracle.com or writing to us at the address below and providing your full name and address:
+
+_Oracle Corporation  
+Global Data Protection Officer  
+10 Van de Graaff Drive   
 Burlington, MA 01803   
-United States of America
+U.S.A._
 
-### Dispute Resolution
+### 18\. DISPUTE RESOLUTION OR FILING A COMPLAINT
 
-We will respond to inquiries and attempt to resolve complaints and disputes regarding use and disclosure of your personal information in accordance with this Privacy Policy.
+If you have any complaints regarding our compliance with this Privacy Policy, please contact us first. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this Privacy Policy and in accordance with applicable law.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that you believe we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, specified on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. You also have the right to file a complaint with a competent data protection authority if you are a resident of a European Union member state.
 
-### Changes to this Privacy Policy
+### 19\. ORACLE CORPORATE HEADQUARTERS
 
-Please note that this Privacy Policy may change from time to time. In the event we make material changes that reduces your rights or Oracle obligations under this Privacy Policy, we will post a prominent notice in this section of this Privacy Policy notifying End Users and Toolbar Users when it is updated.
+Oracle's corporate headquarters are located at:
 
-Last updated/version: September 7, 2017
+_500 Oracle Parkway  
+Redwood Shores, CA  
+94065, USA  
+Tel: +1.650.506.7000  
+Fax: +1.650.506.7200  
+_
+
+_Last updated:_ June 14, 2018 
