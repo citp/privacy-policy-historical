@@ -1,116 +1,119 @@
-> *The following text is extracted and transformed from the breakingdefense.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223105818id_/https%3A//breakingdefense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingdefense.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626192011id_/https%3A//breakingdefense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Breaking Defense - Defense industry news, analysis and commentary
 
-Last modified: February 14, 2013
+Updated: May 15, 2018
 
-**INTRODUCTION**  
-Breaking Defense, part of Breaking Media, Inc. (“ **We** “) respect your privacy and are committed to protecting it through our compliance with this policy.
+Breaking Media has updated its privacy policy to provide clear and direct language surrounding the information we collect, what we use it for, and the few situations in which we share it with others. 
 
-This policy (together with our terms of use [www.breakingdefense.com/terms-of-use](http://www.breakingdefense.com/terms-of-use) and any other documents referred to in it) describes the personal information that we collect from you, or that you provide on this website www.breakingdefense.com (our “Website”) and how that information may be used or disclosed by us.
+We intend that you use Breaking Media products secure in the knowledge that we take your privacy seriously and that we’ve implemented fair and ethical practices. 
 
-This policy does not apply to information we collect through any other means, or to] information collected on any other Company, affiliate, or third-party site, or by any third-party application that may link to or be accessible from the Website.  
-Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing our Website, you agree to this privacy policy. This policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the policy periodically for updates.
+By using our products, you are accepting the practices described in the below privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use our products.
 
-**CHILDREN UNDER THE AGE OF 13**  
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [services@breakingmedia.com](mailto:services@breakingmedia.com) or write to us at Breaking Media, Inc., a Delaware corporation located at 611 Broadway, Suite 907D, New York, New York 10012, Attn: Services.
+## COLLECTION OF INFORMATION
 
-**INFORMATION WE COLLECT ABOUT YOU**  
-We collect several types of information from and about users of our Website, including:
+**Personal Information**  
+When you sign-up for our newsletters, register for events, register for webinars, download whitepapers, take surveys or similar products on a Breaking Media property, you voluntarily supply personally identifiable information about yourself.
 
-  * Information you provide to us.
-  * Information we collect as you navigate through the site, including usage details, IP addresses, and cookies and web beacons.
-  * Information we receive from third parties, for example, our business partners.
+The personal information that we collect and store may include, but is not limited to, the following types of information about you:
 
+Contact information, including first and last name, email address, and phone number.  
+Occupation information, including company name, company type, your title, and any other information you directly provide to us via registration.
 
+Unless explicitly stated at the time of collection, personal information is not shared directly with Breaking Media advertisers. 
 
-**INFORMATION YOU PROVIDE TO US**  
-We may collect and use the following information that you provide to us:
+You are able to unsubscribe from our newsletters at any point via the link provided in each message we send. 
 
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses and text messages), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our Website and of the fulfilment of your orders. You may be required to provide financial information before placing an order through our Website.
+**Non-Personal Information**  
+When you use our Breaking Media websites, newsletters, or other digital products, we collect additional non-personally identifiable information. 
 
+This includes, but is not limited to, data about your device, browser, operating system, your IP address, general location information, page information, and the date and time of each request you make to Breaking Media.
 
+This non-personal information may be collected through various technologies, including but not limited to server logs, cookies, and web beacons.
 
-**USAGE DETAILS, IP ADDRESSES AND COOKIES/, COOKIES AND WEB BEACONS**
+We may use information gathered across our network of websites, mobile apps, newsletters, and other products to create a single user record. Additionally, we may use or combine information that we collect or receive from outside third-party sources to enhance, expand, and check the accuracy of our records.
 
-  * **Usage Details and IP Addresses.**  As you navigate through the Website, we may also collect details of your visits to our Website, including, but not limited to, traffic data, location data, logs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access, as well as information about your computer and internet connection, including your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ equipment, browsing actions and patterns[, and does not identify any individual.
-  * **Cookies.**  For the same reason, we may obtain information about your general internet usage by using cookies. A cookie is a small file stored on the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: 
-    * Estimate our audience size and usage patterns.
-    * Store information about your preferences, allowing us to customize our Website according to your individual interests.
-    * Speed up your searches.
-    * Recognize you when you return to our Website.
+## USE OF INFORMATION
 
+We use your data for the following purposes:
 
-
-You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-
-  * **Web Beacons.**  Pages of the Website may contain electronic images known as web beacons (also referred to as single-pixel gifs) that permit the Company to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
-  * **Third-Party Advertiser Use of Cookies and Web Beacons.**  Some advertisements on the Website are served by third-party advertising companies. Please note that our advertisers may also use cookies [alone or in conjunction with web beacons or other tracking technologies] to collect information about our users. We do not have control over third-party advertisers’ cookies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.  
-We do not collect personally identifiable information automatically, but we may tie this information to your previously submitted personally identifiable information.
+  1. Provide you with access to the content and services we produce
+  2. Analyze demographic or behavioral data to improve or personalize the products we offer to you
+  3. Provide you with more relevant advertising content
+  4. Post your user generated content and comments to the sites as you request
+  5. To respond to any emails or requests you directly make to us
+  6. For our own marketing and retargeting purposes
+  7. For our statistical, research, recordkeeping, and reporting purposes
+  8. To monitor our products for compliance with our Terms of Service and to protect the security of our network
+  9. To comply with the law
+  10. For any other purpose identified at the time of collection
 
 
 
-**USER CONTRIBUTIONS**  
-You are responsible for any content, including personal information, that you contribute to be published or displayed (hereinafter, “posted”) on the Website, or transmit to other users of the Website (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use [www.breakingdefense.com/terms-of-use](http://www.breakingdefense.com/terms-of-use) and known or suspected violations should be reported to or write to us at Breaking Media, Inc., a Delaware corporation located at 611 Broadway, Suite 907D, New York, New York 10012, Attn: Services
+We will not use the information provided to us in ways unrelated to the ones described above.
 
-**Uses Made of the Information**  
-We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
+## SHARING INFORMATION
 
-  * To present our Website and its contents in a suitable and effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
-  * To notify you about changes to our service.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
+We may share information collected about you under the following conditions:
 
-
-
-We may also use your information, or permit selected third parties to use your information, to contact you about goods and services that may be of interest to you where you have consented to be contacted for such purposes. If you do not want us to use your information in this way, or to provide your information to third parties for marketing purposes, please check the relevant box located on the form on which we collect your data (the order form/registration form)/adjust your user preferences accordingly in your account profile).
-
-We do not disclose your personally identifiable information to our advertisers, but we may provide them with aggregated information about our users (for example, we may report to them that 500 men aged under 30 clicked on their advertisement on a given day). We may also use such aggregated information to help advertisers reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience. Even though we only disclose aggregate information that is not personally-identifiable to advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may assume that you meet the target criteria they selected.
-
-**DISCLOSURE OF YOUR INFORMATION**  
-We may disclose personal information that you provide via this Website to the following third parties:
-
-  * Our subsidiaries and affiliates.
-  * Contractors and service providers we use to support our business.
-  * In the event of merger, acquisition, or any form of sale of some or all of Breaking Media’s assets, in which case personal
+  1. With your consent, after letting you know what information will be shared, and with whom. 
+    1. This includes cases where we share your personal data with one of our advertisers or partners. For example, when you register for a webinar or download a whitepaper provided by a partner. In these instances, we will make it clear that the data you are sharing will be transferred to the third party. You will always have the option to not have your data shared by not registering for that specific product.
+    1. To third party service providers helping us provide, improve, and market Breaking Media products and services. Examples include but are not limited to: 
+      1. Our email service provider which we use sends our newsletter
+      2. Our webinar provider which collects registration information and hosts online presentations
+      3. Online analytic tools such as Google Analytics which provides analytics about website usage
+      4. Social networking sites such as Twitter, Instagram and Facebook
+  2. With government entities as needed to provide our services and where required by law
+  3. As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy
+  4. To investigate, respond to or resolve problems or inquiries (including law enforcement or legal requests) or protect, enforce, or defend our rights, assets and/or interests
+  5. To prevent or respond to a violation of any law, regulation, or our Terms of Service, or as necessary to protect and defend our network security
 
 
 
-We may also disclose your personal information to third parties to:
+## COOKIES
 
-  * Comply with any court order or other legal obligation.
-  * Enforce or apply our terms of use [www.breakingdefense.com/terms-of-use](http://www.breakingdefense.com/terms-of-use) and other agreements.
-  * Protect the rights, property, or safety of Breaking Media], our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+Like many websites, we use cookies, web beacons and similar technologies to record your preferences, track the use of our products and your exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the products and make it easier and/or relevant for your use. For example, we may recommend articles similar to the ones you’re reading or display advertisements that you haven’t already seen.
 
+Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your web browser to decline cookies, some features may not work or may not work as designed.
 
+Some browsers make it possible for you to signal that you don’t want your Internet browsing activity to be tracked. Since the Internet community hasn’t reached a consensus on how to honor these signals, we don’t take action to Do-Not-Track requests at this time.
 
-**CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION**  
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+## ONLINE ADVERTISING PARTNERS
 
-  * **Cookies.**  If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from Third Parties.**  If you do not wish us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form) or by sending us an e-mail stating your request to [services@breakingmedia.com](mailto:services@breakingmedia.com).
-  * **Promotional Offers from the Company.**  If you do not wish to have your e-mail address used for promotional purposes by the Company, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form) or you can opt-out of the email. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
-  * **Personalized Advertising.**  If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form).
+We allow third-party advertisers to display advertisements on our sites and in our products. These third-party advertisers and related ad-serving companies may use cookies alone or in conjunction with tracking technologies such as web beacons to collect information about you when you use Breaking Media products.
 
+We will not provide these online advertisers with access to any personally identifiable information you may have provided to us without your consent. Advertisers may, however, use persistent identifiers to track your internet usage across other websites in their networks beyond our websites. While we will not provide these advertisers with personally identifiable information, they may already possess personally identifiable information about you, obtained from other sources, and may be able to combine that information with information behavioral data collected when you use Breaking Media products. For example, whether you engaged with their advertisement when it was displayed.
 
+We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect and we are not responsible for the privacy policies or the content of those third parties. 
 
-You should review this privacy policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this privacy policy, your continued use of the Website (following the posting of the revised privacy policy) means that you accept and agree to the terms of the revised privacy policy.
+If you would like more information about this practice and to know your choices about not having this information used by these companies, you may so by visiting www.aboutads.info/ or networkadvertising.org/choices/ or www.youronlinechoices.eu/.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**  
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [services@breakingmedia.com](mailto:services@breakingmedia.com) or write to us at Breaking Media, Inc., a Delaware corporation located at 611 Broadway, Suite 907D, New York, New York 10012, Attn: Services.
+## DATA RETENTION
 
-**DATA SECURITY**  
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+We will retain your Personal Data for as long as you maintain an account or as otherwise necessary to provide you the Services. We will also retain your Personal Data in a secure backup system for a reasonable period of time in order to assure reliable service and as necessary to comply with our legal obligations, resolve disputes, protect our network security, and enforce our agreements.  
+Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.  
+Where permissible, we will also delete your Personal Data upon your request.
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk.
+## THIRD PARTY WEBSITES
 
-**CHANGES TO OUR PRIVACY POLICY**  
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to this privacy policy, we will notify you by e-mail or through a notice on our home page. The date the privacy policy was last revised is identified at the top of the page.
+Our Properties may contain links to third-party websites or mobile applications. Please be aware that we do not control these linked websites and that this Privacy Policy does not apply to those websites.
 
-**CONTACT INFORMATION**  
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [services@breakingmedia.com](mailto:services@breakingmedia.com) or write to us at Breaking Media, Inc., a Delaware corporation located at 611 Broadway, Suite 907D, New York, New York 10012, Attn: Services.
+## CHILDREN
+
+Our Properties are not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+## CHANGES TO OUR PRIVACY POLICY
+
+We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
+
+## SECURITY
+
+We take reasonable measures to help protect data we collect from unauthorized access and use. We cannot, however, fully eliminate security risks associated with the storage and transmission of Personal Data.
+
+## CONTACT US
+
+If you have questions regarding our privacy policy, please contact us at: [services@breakingmedia.com](mailto:services@breakingmedia.com) or write to us at:
+
+Breaking Media, Inc.  
+611 Broadway, Suite 907D  
+New York, NY 10014
