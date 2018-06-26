@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224024541id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626185452id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
 # American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
@@ -16,9 +16,11 @@ We may use that voluntarily submitted data to:
 
   * Fulfill your orders or transactions.
   * Contact you about other ACLU activities or news, or about opportunities to support the ACLU.
-  * In the case of petitions, display your first name, last initial, city, and state on petition forms that you sign.
+  * In the case of petitions, we may display on our website your first name, last initial, city and state, and deliver your first and last name, city and state, zip code, or congressional district to the advocacy target. Where required for federal agencies to accept public comments, we may also submit your email address and other required information.
+  * In the case of direct messages to advocacy targets (such as your member of congress), all required information fields (e.g. name, email address, etc.) will be passed on to the advocacy target with your message.
   * In the case of blog comments, post your comment and, if given, your name.
   * Deliver content to you on platforms such as social media, other websites, search results pages and mobile apps.
+  * If you have joined People Power, share your name and contact information with other volunteers, and acknowledge your participation in specific volunteer activities.
 
 
 
