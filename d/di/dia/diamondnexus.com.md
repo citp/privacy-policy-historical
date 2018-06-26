@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723050421id_/http%3A//www.diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626185738id_/https%3A//www.diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,3 +33,28 @@ You are always free to disallow cookies if your browser has this feature. Disabl
 DiamondNexus uses Google Analytics to track website performance. Google Analytics uses cookies to gather basic information about your gender, web interests, and browsing behavior. This information will in no way allow Google or DiamondNexus to identify you individually. If you create an account with DiamondNexus, your personal contact information will never be given to Google.
 
 You can opt-out of Google Analytics data gathering on [this page](https://tools.google.com/dlpage/gaoptout/).
+
+#### European Privacy Rights & Personal Data Protection
+
+For individuals who reside in the European Economic Area (“EEA”) you are afforded data protection under the General Data Protection Regulation (GDPR). Under the GDPR Diamond Nexus gives you the following rights and will adhere to all of the following requests regarding your data: 
+
+  * **Request a copy of and/or changes to your data:** As a user in the EEA you can request a copy of all personal data that Diamond Nexus has on file. You can also request that we change any incorrect or incomplete data on file.
+  * **Request deletion of all data:** You have the right to request that select pieces or the entirety of your personal data is removed from all Diamond Nexus databases.
+  * **Request cessation of personal data processing:** At any point you can request that Diamond Nexus ceases processing all or portions of your data. 
+
+
+
+Exercising these rights & requests
+
+To exercise your rights and make any of the aforementioned requests please contact Diamond Nexus at [customerservice@diamondnexus.com](mailto:customerservice@diamondnexus.com?subject=European%20Privacy%20Rights) or send mail to:
+
+Data Processing Requests  
+c/o Diamond Nexus  
+5050 W. Ashland Way  
+Franklin, WI 53132
+
+Complaints
+
+You have the right to file a complaint regarding Diamond Nexus’ usage of your personal data or the terms of this privacy policy by sending an email to [customerservice@diamondnexus.com](mailto:customerservice@diamondnexus.com?subject=European%20Privacy%20Rights%20Complaint). We will reply to your complaint as quickly as possible
+
+If your complaint is not resolved and you are located in the EEA, the GDPR gives you the right to contact your local data [protection authority.](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
