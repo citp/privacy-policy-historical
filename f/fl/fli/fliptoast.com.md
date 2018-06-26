@@ -1,17 +1,65 @@
-> *The following text is extracted and transformed from the fliptoast.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptoast.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174530id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy
 
-* * *
+### Privacy Policy
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+This privacy policy has been compiled to provide a clear understanding of how Brandroot.com collect's, uses, protects or otherwise handles your Personally Identifiable Information.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+#### What personal information does Brandroot collect from visitors on our website?
+
+When purchasing a domain name on our site, as appropriate, you may be asked to enter your personal information, such as, your name, email address, mailing address, phone number, credit card information and other details to help us complete your purchase as securely as possible.
+
+#### When does Brandroot collect personal information?
+
+We collect information from you when you make a purchase on our site, register for an account, subscribe to a newsletter, or fill out a contact form.
+
+#### How does Brandroot use your personal information?
+
+We may use your personal information when you make a purchase on our site, register for an account, subscribe to a newsletter, fill out a contact form or browse our website by visiting the various pages that we offer. We may use your personal information in the following ways:
+
+  * To personalize your experience on our site and to allow us to deliver the type of products in which you show interest.
+  * To improve our website.
+  * To serve you in responding to your customer service inquiries and requests.
+  * To process transactions that you make on our website.
+  * To send emails regarding your order or other product and service offerings.
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We only collect your email address in order to:
+
+  * Respond to your inquiries, and/or other requests and questions.
+  * Process orders and to send information pertaining to your purchases.
+  * Add you to our mailing list or continue to send emails to you after a transaction has been made.
+
+
+
+If you would like to unsubscribe from receiving emails from us, you can follow the instructions at the bottom of the email.
+
+#### How do we protect our visitor information?
+
+Your personal information is protected behind secured networks. In addition, all sensitive information you supply is encrypted via the updated security technology TLS (Transport Layer Security). We implement a variety of security protocols when a user places an order to maintain the security of our visitor's personal information. All purchases are processed through a gateway provider and are never stored on our servers.
+
+#### Does Brandroot use cookies?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the products in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize our website, Brandroot.com. Also, cookies may be used to target ads to you on other websites.
+
+We use cookies to:
+
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. You can choose to turn off all cookies. You do this through your browser settings. If you disable cookies, some features on our site may be disabled.
+
+
+
+#### Third Party Disclosure
+
+We do not sell, trade, nor transfer your personal information to outside parties. This does not include our website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing our visitors and customers. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our rights, property, or safety.
+
+Information that we collect may include IP addresses, cookie identifiers and website activity.
+
+#### How do I contact Brandroot?
+
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a63646c654a68786b646e7865657e24696567)
+
+This content was lat edited on May 23, 2018.
