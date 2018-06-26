@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101204646id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626092126id_/https%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Insights
 
@@ -12,7 +12,7 @@ If you have any questions about this privacy policy or our treatment of your per
 
 ### 1.1.2     Your rights
 
-It is important for you to understand and be able to exercise your ‘data rights’; in particular, your right to not to have personal data used for direct marketing purposes.
+It is important for you to understand and be able to exercise your ‘data rights’; in particular, your right to not to have personal data used for direct marketing purposes. Under the General Data Protection Regulations (GDPR), you have the right to access, modify, and delete your data. 
 
 #### 1.1.2.1   Withdrawal of consent including marketing opt-out
 
@@ -24,13 +24,7 @@ Our contact details are above should you wish to exercise these important rights
 
 #### 1.1.2.2   Access to personal data
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
-
-(a) the payment of a fee (currently fixed at £10.00); and
-
-(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
-
-Where this information is processed automatically, you may ask to receive it in a structured, commonly used and machine-readable format. If requested and feasible, we will transmit those data directly to another controller without hindrance.
+You may instruct us to provide you with any personal information we hold about you, in relation to information we store on your name, email address, profile information such as company and job title, and your payment history. Following a request we require up to 30 working days to provide you with your information.
 
 We may withhold such personal information to the extent permitted by law.
 
@@ -54,9 +48,9 @@ You have a right to lodge a complaint with a supervisory authority. In the UK, y
 
 We collect, store and use the following kinds of personal information:
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation)
+(a) We use Google Analytics to analyse the use of this website, including information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation). Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our membership packages
+(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our membership packages - we do not store any credit card or payment method information as part of payment processing during member subscription.
 
 (c) information that you provide to us for registering with us and for subscribing to our website services, email notifications and/or newsletters (including name, email, job role and communication preferences);
 
@@ -130,7 +124,7 @@ _How do I block cookies from these service?_
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-If you want to manage privacy we recommend you install [Ghostery](http://www.ghostery.com/) which gives you a chance to learn more about each service it identifies on a site and block their cookies or Scripts. It gives information on how they describe themselves, a link to their privacy policies.
+If you want to manage privacy we recommend you install [Ghostery](https://www.ghostery.com/) which gives you a chance to learn more about each service it identifies on a site and block their cookies or Scripts. It gives information on how they describe themselves, a link to their privacy policies.
 
 ### 1.1.7     Third party websites
 
@@ -156,11 +150,15 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
 
-### 1.1.10 Updating information
+### 1.1.10     Updating information
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+You can update the information we hold on you when logged into the website.
 
-### 1.1.11 Policy amendments
+### 1.1.11     Sale of the business
+
+In the event that the business is sold or integrated into another business, your details may be disclosed to our advisors, and to any potential purchaser's advisors, and following completion of a sale would transfer to the new owners of the business
+
+### 1.1.12     Policy amendments
 
 We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
 
