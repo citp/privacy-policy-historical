@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the gemvara.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129173219id_/https%3A//www.gemvara.com/l/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemvara.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030742id_/https%3A//www.gemvara.com/l/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gemvara
 
-IP Address: 
+Thank you for visiting Gemvara. Your privacy is very important to us. The information below is designed to inform you of what information we collect, why we collect that information and how we use it. We will only share your personal information with third parties only in the ways that are described below and will __never sell your personal information.__
 
-When you visit our Website, Gemvara collects your IP address to, among other things, help diagnose problems with its server, administer and tune the operation of its Website, analyze trends, track traffic patterns, gather demographic information for aggregate use, and track the date and duration of each session within our Website. Your IP address may also be used in combination with your personal information to prevent fraud or abuse, customize your shopping experience, improve our website, customer service, products, and promotional efforts, and to understand your preferences, patterns and interests. 
+When you submit your personal information to us, you are giving us your consent to the collection, use and disclosure of your information as set forth in this Privacy Policy. We are available to discuss your questions or concerns regarding this Policy and our privacy practices.
 
-Data Collection Devices, such as Cookies and Web Beacons:
+We encourage you to check the date of our Privacy Policy each time you visit the website as we sometimes need to change the Privacy Policy to stay in compliance with the various regulations that govern privacy practices.
 
-Gemvara collects data through cookies, web logs, web beacons (also known as pixel gifs or action tags) and other monitoring technologies to enhance your browsing and shopping experience on our website. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive to collect information about your activities on our website. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users or within an email for the purpose of transferring information and are not stored on your computer. 
+**_Browsing our Website_**
 
-We use cookies and web beacons to deliver our ads, improve and measure the usability, track visits from our affiliates and partners, performance and effectiveness of our Website, improve and measure the effectiveness of our marketing programs, learn how customers use our website, estimate our audience size, and to customize your shopping experience. Examples of the type of information that we collect through these collection devices, includes: total visitors to the website, pages viewed, unique visitors, time spent on our Website and on certain web pages, etc. 
+In general, you can browse our Website without telling us who you are or revealing any personal information about yourself. However, some items require you to have an account with Gemvara in order to view pricing. In all cases, placing an order requires you to disclose personally identifiable information so that we may properly process and ship your order.
 
-We may authorize third parties to use cookies, web beacons and other monitoring technologies to compile information about the use of the Website or interaction with advertisements that appear on the Website. We do have access or control over these cookies. 
+**_Personally Identifiable Information_**
 
-We do not link the information we store in cookies or collect from web beacons to any personally identifiable information you submit while on our site. 
+Personally identifiable information includes: your name, shipping and billing addresses, telephone number, email address, and credit card and/or banking information.  This information is used to process your order, ship your order, collect payment for your order comply with applicable provisions of the Patriot Act, communicate with you regarding your order and allow you to receive marketing offers. Gemvara does not share this information with third-parties unless it is required to process your order, deliver marketing material or as required by governmental regulation. **__This information is never sold to third-parties.  __**
 
-We use session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. 
+**_Non-Personally Identifiable Information_**
 
-You are always free to decline cookies if your browser permits (You can remove persistent cookies by following directions provided in your Internet browser's "help" file); although, by declining the use of cookies you may not be able to use certain features on the Website. 
+Non-personally identifiable information includes: IP address of your computer, the type of computer or device you are using, etc. that allows us to deliver a positive user experience when shopping on our site as well as to detect and prevent fraud.  Note that the non-personally identification is not linked to any personally identifiable information you submit on our site.
 
-Third Party Personal information:
+**_Use of Cookies_**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Gemvara stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+We use session ID cookies and persistent cookies. A session ID cookie enables the shopping cart experience and expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time or is deleted by you.
 
-We also provide you with the opportunity to share a product or your wish list with a friend. If you choose to share a product or a wish list with your friend we will ask for your friend's email address in order to automatically send them a one-time email containing the product or your wish list. Gemvara stores this information for the sole purpose of sending this one-time email. 
+You are free to decline the use of cookies, however, by declining the use of cookies, you may not be able to use certain features on the Website. 
 
-If you wish to purchase an electronic gift card for your friend we will ask for your friend's name and email address in order to send your friend their electronic gift card. Gemvara stores or does not store this information for the sole purpose of sending this email and tracking the redemption of said electronic gift card. 
+**_Opting-Out_**
 
-You may also provide the shipping information of a friend in order to send them our products as a gift. We store this information for the purposes of shipping a product to your friend. You may update or remove this information by logging into your account and going to your saved addresses page. 
+You may opt-out from receiving marketing material from Gemvara. To do so, you may un-subscribe via the link provided in any email you receive from Gemvara or by contacting us at 1-800-545-6566 and asking an agent to remove you from our mailing lists. Opting out of receiving marketing materials will not affect our communications with you regarding your orders with us and also does not affect our use of your non-personally identifiable information.
 
-Your friend may contact us at customer-care@gemvara.com to request that we remove any of this information from our database.
+**_Data Security_**
+
+Gemvara has physical and electronic procedures in place to keep all information collected on our website safe and secure.
+
+**_Legal Requirements_**
+
+Gemvara will disclose your personal information only when required or compelled to do so in accordance with the law. 
