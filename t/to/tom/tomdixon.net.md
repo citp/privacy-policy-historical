@@ -1,69 +1,82 @@
-> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616044517id_/http%3A//www.tomdixon.net/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626071124id_/https%3A//www.tomdixon.net/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cookie and Privacy Policy
 
-Tom Dixon has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: [www.tomdixon.net](http://tomdixon.net/)
+**DATA PROTECTION**
 
-Tom Dixon is the trading name and trade mark of Design Research Ltd.
+**We hold personal information in three places know as 'the database', 'the website' and our 'order system'**
 
-Any information that you provide to us will be stored and processed in accordance with the Data Protection Act 1998.
+'The website' refers to the platform we use to run tomdixon.net and our Tom Dixon Shops.  
+'The database' is the platform we use to collect and store email addresses of people that want to receive marketing communications from us, namely our email newsletter.  
+The 'order system' is used to process and fulfil all our online and in-store orders.
 
-We will hold and transmit your information in a safe, confidential and secure environment.
+You can request for us to delete information we hold for you on the website or the system at any time, presuming there are no outstanding orders or payments. Please email customerservices@tomdixon.net with the subject line 'DELETE MY ACCOUNT' using the corresponding email address.
 
-We will not sell or rent your personal information to third parties except as described under the heading “your data” below or in our Privacy Policy. If you object to your Information being transferred or used in this way please do not register.
+**The database**  
+We use the database to send these marketing emails to people who have given us their information and consented to receive communications from us.  
+We also use the database to send transactional emails to customers who have made purchases directly from Tom Dixon Studio.  
+Any person in the database can decide exactly what type of marketing emails they receive by clicking the 'Update my preferences' link in the footer of the last marketing email they received.  
+Likewise, any person can unsubscribe and be removed from the database at any time with immediate effect, by clicking the Unsubscribe link in the footer of the last marketing email they received and confirming their un-subscription.
 
-## Your Data
+**The website**  
+We an ecommerce platform to take online and instore orders and payments.  
+When an account is setup on the website, or an order is placed, we securely collect and store personal information to enable us to fulfil that order.  
+We also transfer some of your information from the website to the database in order for us to send you transactional emails (order confirmation, delivery information, after sale support). You have the choice to opt-into the database via the website if you would like to receive marketing communications from Tom Dixon Studio.  
+If you would like to know what information we hold for you on the website, you can log in to tomdixon.net at any time and access your information.
 
-When becoming a new customer you agree to our terms and conditions and privacy policy. The information you provide shall be held and may be used by Design Research Ltd and disclosed to associated companies of Tom Dixon for the following purposes:
+**Order system**  
+We use the system to process and fulfil our online and in-store orders. The order system processes information from the website and instruct our order fulfilment parties to deliver goods or services to our customers.
 
-\- Informing you about forthcoming events organized by or on behalf of Tom Dixon;
+You can request for us to delete information we hold for you on the website or the system at any time, presuming there are no outstanding orders or payments. Please email customerservices@tomdixon.net with the subject line 'DELETE MY ACCOUNT' using the corresponding email address.
 
-\- Telling you about products, services and offers available from Tom Dixon;
+**COOKIE POLICY**
 
-\- Operating and administering such products, services and offers;
+**What Are Cookies?**
 
-\- Processing of applications for, and administering membership of, this website;
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
 
-\- Providing you with updates and information about Tom Dixon;
+**How We Use Cookies**
 
-\- Helping Tom Dixon through analysis and assessment to better understand and develop our business, including new and innovative products and services.
+We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
 
-Tom Dixon may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.
+**Disabling Cookies**
 
-We may share your information with selected third parties including:
+You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
 
-\- Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.
+**The Cookies We Set**
 
-\- Advertisers, affiliate marketing agencies and advertising networks that require the data to select and serve relevant adverts to you and others (where you have consented to this happening).
+If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
 
-\- Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
 
-\- Build and hosting services providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.
+This site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users. 
 
-\- Build and hosting service providers that help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.
+This site offers e-commerce or payment facilities and some cookies are essential to ensure that your order is remembered between pages so that we can process it properly.
 
-Communication between Tom Dixon and you may be by letter, phone, fax and/or e-mail or other electronic means. IMPORTANT: By registering with Tom Dixon and/or using this website you consent to Tom Dixon using your data in this way.
+From time to time we offer user surveys and questionnaires to provide you with interesting insights, helpful tools, or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or to provide you with accurate results after you change pages.
 
-## Shopping
+When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
 
-When becoming a new customer online with Tom Dixon or purchasing goods online we record your Internet IP address for our records for reference to any fraudulent payment transactions.
+In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
-Opting out of Email Updates from Tom Dixon
+**Third Party Cookies**
 
-Tom Dixon will periodically send you marketing emails only if you opt-in using the sign up forms online or in the Tom Dixon showroom. If you no longer wish to receive Email updates from Tom Dixon you can unsubscribe by clicking on the link in the footer of the email or using the ‘unsubscribe from all’ link within the email preference centre accessible through the emails. Alternatively you can contact customers services on +44 (0)203 696 4950 or email [shop@tomdixon.net](mailto:shop@tomdixon.net) 
+In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
-## New Customer Forms
+This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
 
-Our websites new customer form requires users to give us contact information (like their name, email, postal address). Contact information from this form is used to supply information about the Tom Dixon to you at a later date. Users may opt-in to receive future mailings from us via email and post. You can change these options within your profile at a later date under "my account".
+For more information on Google Analytics cookies, see the official Google Analytics page.
 
-## Security
+As we sell products it's important for us to understand statistics about how many of the visitors to our site actually make a purchase and as such this is the kind of data that these cookies will track. This is important to you as it means that we can accurately make business predictions that allow us to monitor our advertising and product costs to ensure the best possible price.
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+We use adverts to offset the costs of running this site and provide funding for further development. The behavioural advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by anonymously tracking your interests and presenting similar things that may be of interest.
 
-## Data Quality/Access
+We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; Pinterest and Olapic will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.
 
-This site gives users the following options for changing and modifying information previously provided once signed in, though the "my account" section.
+**More Information**
 
-## Contacting the Web Site
+Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us through one of our preferred contact methods.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact [shop@tomdixon.net](mailto:shop@tomdixon.net) 
+Email: [customerservices@tomdixon.net](mailto:customerservices@tomdixon.net)
+
+Phone: +44 20 7400 0500
