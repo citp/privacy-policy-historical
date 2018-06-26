@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220221604id_/http%3A//bitofgame.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626081302id_/http%3A//bitofgame.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy - Bit of Game - Free Unity Games and MMO's
+# Privacy - Bit of Game - Free Online Games and MMO's
 
 **General policy.**
 
@@ -26,7 +26,7 @@ We allow third party advertisers to post advertisements on our Site. These third
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at submit@bitofgame.biz.
 
 **Third Party Tools/Analytics on Bit of Game**
 
