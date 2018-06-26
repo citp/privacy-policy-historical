@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackgold.ca privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222235903id_/http%3A//www.blackgold.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackgold.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626084007id_/http%3A//www.blackgold.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Black Gold Regional Schools
 
 **Black Gold Regional Schools**
 
-Black Gold Regional Division No. 18’s website connects you to BGRD schools and departments. This website is maintained to assist you in finding information about BGRD, its schools, programs, and services. Black Gold Regional Division No. 18 is subject to the Alberta Freedom of Information and Protectioin of Privacy (FOIP) Act and is committed to providing a website that respects your privacy while you visit us online. This privacy statement summarizes the privacy practices of BGRD No. 18 with respect to our website located at [www.blackgold.ca](http://www.blackgold.ca/)
+Black Gold Regional Division No. 18’s website connects you to BGRD schools and departments. This website is maintained to assist you in finding information about BGRD, its schools, programs, and services. Black Gold Regional Division No. 18 is subject to the Alberta Freedom of Information and Protectioin of Privacy (FOIP) Act and is committed to providing a website that respects your privacy while you visit us online. This privacy statement summarizes the privacy practices of BGRD No. 18 with respect to our website located at [www.blackgold.ca](https://www.blackgold.ca/)
 
 We do not automatically gather any personal information from you such as your name, phone number, or email address. This information is obtained only if you supply it voluntarily, usually through contacting us via email or by providing it on an online form. You should review the privacy statement each time you submit personal information on the website.
 
