@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bakunos.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210114828id_/http%3A//bakunos.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakunos.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626233832id_/http%3A//ww4.bakunos.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * **Overview**
 
-Thank you for visiting www.bakunos.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Thank you for visiting ww4.bakunos.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
 * **What Type of Information We Collect**
 
