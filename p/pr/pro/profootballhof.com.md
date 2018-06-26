@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222164734id_/http%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174523id_/http%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service | Pro Football Hall of Fame Official Site
 
-_Last Updated: Sept. 24, 2014_
+_Last Updated: Feb. 13, 2018_
 
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, “NFL,” “we,” “our,” “us”) respect your privacy and value your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website www.ProFootballHOF.com,  (the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
 Please note that this Privacy Policy does not apply to NFL properties that do not link to this Privacy Policy (including NFLShop.com and NFLRush.com) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs").  In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
 
-NFL Enterprises LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  If you have questions or complaints regarding our privacy policy or practices, please first contact Pete Fierle at 330-456-8207. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-The TRUSTe program covers only information that is collected through our Services that link to this Privacy Policy.  
+If you have questions or complaints regarding our privacy policy or practices, please first contact Pete Fierle at 330-456-8207. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
   *  Information Collection
   *  Use of Information 
