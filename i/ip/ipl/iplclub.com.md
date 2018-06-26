@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplclub.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214021453id_/http%3A//iplclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplclub.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174916id_/http%3A//iplclub.com/privacy) for the most accurate reproduction.*
 
 # IplClub
 
@@ -11,6 +11,8 @@ Thank you for visiting our privacy and services section we value your trust you 
 Once you provide your personal data to us, you are not anonymous to us and hence you can take advantage of certain activities like posting comments, enrolling for a contest in that case if you participate in a contest then you may be asked to submit personal data like your name, address, contact details, email address with the optional info like your location, age, personal and professional interests, gender, your experience with us and any feedback etc.
 
 In case you connect with IplClub via social networking sites like Facebook, Twitter, Google+ etc we can store your personal information you have chosen to display in that networks.
+
+**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [support@iplclub.com](mailto:support@iplclub.com)
 
 **Sharing and use of personal information-**
 
@@ -42,6 +44,10 @@ When you use your browser in order to visit or surf any website usually small te
 **Policy update:**
 
 In any case, if we make a change or update our privacy policy or its provisions we will inform you by posting on our page/website so you keep in check about our updated policies and that updated policies will be implemented with immediate effect or as soon as it is posted on the site.
+
+**Google Analytics**
+
+We use Google Analytics to track visitors on this site. Google Analytics uses cookies to collect this data.In order to be compliant with the new regulation Google included a data processing amendment.The data we collect will be processed anonymously and “Data sharing” is disabled.We don’t use other Google services in combination with Google Analytics cookies.
 
 **Contact Us:**
 
