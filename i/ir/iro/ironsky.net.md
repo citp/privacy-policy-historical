@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironsky.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227164734id_/http%3A//ironsky.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironsky.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626192745id_/http%3A//ironsky.net/privacy-policy) for the most accurate reproduction.*
 
 # Iron Sky Universe | Privacy policy
 
@@ -6,7 +6,7 @@
 
 We at Iron Sky Universe Oy (“ISU”) are committed to protecting your privacy as the controller of your personal data.
 
-ISU is a limited liability company incorporated under the laws of Finland. Our business identification code is 2584146-3 and our registered address is c/o 2 krs, Työpajankatu 2b E, 00580 Helsinki. As a Finnish company we operate under and comply with the data protection regulation applicable in the EU and in Finland, including but not limited to, the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (“Data Protection Directive”), the Finnish Data Protection Act (523/1999) and the Information Society Code (917/2014).
+ISU is a limited liability company incorporated under the laws of Finland. Our business identification code is 2584146-3 and our registered address is c/o 2 krs, Työpajankatu 2b E, 00580 Helsinki. As a Finnish company we operate under and comply with the data protection regulation applicable in the EU and in Finland, including but not limited to General Data Protection Regulation of the European Union (“GDPR”) 2016/679/EU).
 
 These principles together with our Terms of Use set the framework for how we process the personal data collected from you or otherwise relating to you. Please take a moment to familiarize yourself with our privacy policies below in order to better understand the way we work and how your data is processed.
 
@@ -94,7 +94,16 @@ You have the right at any time to inspect and correct your personal data stored 
 
 You have the right at any time to prohibit ISU from using your personal data for contacting you in marketing or selling purposes. You may also exit any of our mailing lists you have subscribed to by following the instructions at the bottom of our messages.
 
-In order to exercise your rights, please contact us at legal@ironsky.net with a detailed request.
+You have the following rights in relation to your information based on GDPR and other laws, which you can exercise by sending an email to [legal@ironsky.net](mailto:legal@ironsky.net "mailto:legal@ironsky.net"):
+
+  * to request access to your information and information related to our use of your information
+  * to request us to send your marketing information by email
+  * to request the correction or deletion of your information
+  * to request that we restrict our use of your information
+  * to object to the processing of your information for certain purposes
+  * to withdraw your consent to our use of your information. In accordance with Article 77 of the GDPR, you also have the right to file a complaint with a supervisory authority.
+
+
 
 **Changes to this Privacy Policy**
 
