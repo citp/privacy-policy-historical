@@ -1,246 +1,137 @@
-> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920065935id_/https%3A//www.getsmarter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115117id_/https%3A//www.getsmarter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GetSmarter
 
-THIS PRIVACY POLICY FORMS PART OF OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE WITH ANY TERM OF THIS PRIVACY POLICY, YOU MUST CEASE USE OF GETSMARTER'S WEBSITES IMMEDIATELY. YOU CAN ALSO CONTACT US IF YOU WOULD LIKE FURTHER INSIGHT INTO HOW WE COLLECT, USE AND SECURE THE DATA ACQUIRED THROUGH OUR WEBSITES.
+This Privacy Policy (the “Privacy Policy”) describes how GetSmarter (as owned and operated by [2U, Inc.](https://2u.com/)) (“GetSmarter”, “we”, or “us”) collects, uses and discloses information from and about you when you visit and use GetSmarter.com and GetSmarter’s associated websites, applications and virtual learning environments/online campus platforms (collectively, the “Websites”), as well as your ability to control certain uses of that information. GetSmarter respects your privacy and is committed to protecting it through our compliance with this Privacy Policy. By accessing or otherwise using the Websites, you agree to GetSmarter’s collection, use and disclosure of your information, as data controller, in accordance with this Privacy Policy, which is incorporated into GetSmarter’s [Terms of Use.](https://web.archive.org/terms-and-conditions-for-students)
 
-#### Welcome to GetSmarter's Privacy Policy
+We regularly review our compliance with this Privacy Policy and whenever we receive a formal complaint, we will make best efforts to contact the person who made the complaint to attempt to resolve his or her concerns. If you have any concerns about the use of your information, or the contents of this Privacy Policy, please feel free to [contact us.](https://web.archive.org/contact)
 
-This Privacy Policy ("Policy") sets out the basis on which GetSmarter collects, uses and shares the data that we receive from users of our websites and online applications. We take the privacy of our students and other users seriously, and we recommend that you read this Policy carefully. By using GetSmarter's website at [www.getsmarter.com](https://www.getsmarter.com/), associated websites and applications, or our virtual learning environments/online campus platforms ("Websites"), you agree to be bound by this Policy. 
+### QUICK GUIDE TO CONTENTS 
 
-Our courses are delivered to students from many different countries - in recognition of this, we endeavour to process all data in accordance with principles of internationally accepted best practice, and in compliance with the legal provisions relating to data protection in force in the United Kingdom. We regularly review our compliance with this Policy and whenever we receive a formal complaint, we will contact the person who made the complaint to attempt to resolve his or her concerns. We are also very willing to work with any regulatory authority to resolve complaints regarding the transfer of personal data.
-
-Please note that by using our Websites (as a user browsing the Websites or as a student), you are consenting to our collection and use of your information as more fully set out in this Policy. If you have any concerns about the use of your information, or the contents of this Policy, please feel free to [contact us](https://web.archive.org/contact). 
-
-#### Data collected
-
-We distinguish in this Policy between 'personal data' (for example your contact details, identity number, or other information that can be used to identify you or attributed to you), and 'non-personal data' (for example data regarding usage of the Websites, and de-identified information extracted from the Websites for analysis). We collect both personal and non-personal data through our Websites and through third parties, either automatically (through cookies for example), or by your providing this information to us during registration, info pack download, or during courses through our virtual learning environments/online campuses ("Online Campus").
-
-  1.  **User Notifications:**
-
-Failure to provide certain information may make it difficult or impossible for you to access certain services through the Websites (for example, to register for and complete courses, certain personal information and completed assignments will be required to be submitted through the Websites).
-
-You will need to ensure that your personal information submitted to us is accurate and up-to-date (for example, we need a current email address on our system to communicate with you about our courses).
-
-You are responsible for any third party information obtained, published or shared through the Websites, and you consent to only use or share this third party data with the third party's consent. You are also responsible for ensuring the accuracy of all information submitted to the Websites.
-
-  2.  **Personal Data:**
-
-We collect and store the personal information that you may provide to us through our Websites when you download an info pack, register for a course, update or change your information with us, or participate in courses. This personal data may only be your name and email address, but may also be your identity document, telephone number, address, education level, and other personal information capable of identifying you. We may also store your bank details if requested to process a refund of a course fee.
-
-We also collect and store information in relation to your participation in our courses, for example assignments, communications, surveys and other course data submitted by you. We also store the comments shared in forums on our Online Campus, however please note that information which you post on these forums will be publicly available to other users on the forum (so be careful of what you post, and bear in mind the guidelines for online conduct in our Websites' Terms of Use).
-
-If you pay for a course through our Websites, please note that our payment service provider collects and processes your credit card information, and we do not collect or store this information.
-
-  3.  **Non-personal Data:**
-
-In addition to personal data (which is treated with special consideration in light of the potential for misuse to the detriment of our users), we also store non-personal data, which cannot be used to identify our users. The kinds of non-personal data that we collect includes de-identified data about usage of our Websites (including the Online Campus).
-
-We also make use of cookies or similar tracking tools to identify Website users and remember their preferences, for the purpose of providing a better user experience and service, and marketing/advertising our services online.
+  * Collection of Information
+  * How We Use Your Information
+  * How We Disclose Your Information
+  * Information Security and Data Retention
+  * Your Rights Regarding Your Personal Information 
+  * Additional Information
 
 
 
+## Collection of Information
 
-#### Cookies and similar technologies
+ _Legal Basis for Collecting and Processing Personal Information_  
+GetSmarter collects and processes your personal information when we have lawful bases for doing so. These lawful bases include when you provide consent, when we have a contractual obligation to collect or process your personal data, and when we have a legitimate interest (e.g., to communicate with you regarding the short courses/programs (each, a “Course”), to use data for analytics purposes, to prevent fraud, to report possible criminal acts or threats to public security to a competent authority) in processing your personal information.
 
-A cookie is a small piece of code that is installed in your web browser by a website that you visit. They help the website to remember information about your visit, and assist to make the website, and advertisements that you encounter while browsing, more relevant to you. We've provided some further detail on cookies below to try and clarify how and why we use them.
+ _Information You Provide_  
+GetSmarter collects information from you when you choose to provide it to us. For example, we may collect your information when you submit a form requesting information about a Course or about other courses offered at other schools, otherwise provide information to us through the Websites, or otherwise contact us. The information we collect may include personal information, such as your contact details, government issued identifier, or other information that can be used to identify you or can be attributed to you, or non-personal information. In some cases, you may choose not to provide us with your information, but we may require it when necessary to perform a contract or to comply with a legal obligation. We also may use information about you for reasons not described in this Privacy Policy where the reason is compatible with the purpose for which we originally collected your information and where such use is lawful.
 
-  1.  **Technical cookies and cookies serving aggregated statistical purposes:**
+ _Information Automatically Collected_  
+When you visit the Websites or interact with e-mails that we send to you, we may passively collect information from you and store that information on our server logs, including your internet protocol address (“IP address”), browser type, operating system, device identifier, device model, software version, or mobile or ISP carrier information. We also use Cookies and other technologies to collect information about your visit to the Websites, such as the date and time of your visit, the information you searched to find the Websites, or your activity on the Websites. “Cookies” are small files which may be stored on your computer during your use of the Websites and contain data about your use of the Websites. We may use session Cookies (which expire when you close your browser) or persistent Cookies (which stay on your computer until you delete them) to understand more about your activity on the Websites or on other websites.
 
-Activity necessary for the functioning of the service: Our Websites use cookies to save your session and to carry out other activities for the Websites' operation, for example in relation to the distribution of traffic.
+ _Tracking Options and California Do Not Track Disclosures_. You may adjust your browser or operating system settings to limit this tracking or to decline or delete Cookies, but you may be unable to access or use certain areas of the Websites. Check the “Help” menu of your browser or operating system to learn how to change your tracking settings or Cookie preferences. On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. Note that our systems may not recognize Do Not Track headers or requests from some or all browsers.
 
-Activity regarding the savings of preferences, optimisation and statistics: Our Websites use cookies to save browsing preferences and to optimise your browsing experience. For example, we use cookies to set the language and the currency for the Websites, or for the management of statistics.
+To learn more about your choices for receiving interest-based advertising or to opt-out, please review the information below:
 
-  2.  **How can I manage the installation of cookies?**
-
-You can manage preferences for cookies directly from within your own browser and prevent websites from installing them. Through your browser preferences, it is also possible to delete cookies installed in the past. It is important to note that by disabling all cookies, the functioning of the Websites may be compromised. You can find information about how to manage cookies in your browser using the following links: [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Apple Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US), [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies) and [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies). 
-
-In the case of third party cookies (from other websites that have things like ads or images embedded on the page of the Website that you're visiting), you can exercise your right to withdraw from their tracking activity by utilising the information provided in that third party’s privacy policy on their Website, by clicking the opt-out link (if provided) or by contacting that third party.
-
-If you would like to go deeper into behavioural advertising and cookies, we find the Website at [Your Online Choices](https://www.youronlinechoices.com/) to be a helpful information source (particularly for users residing in the European Union). This service advises you on how to select your tracking preferences for most advertising tools. 
-
-Given the relative complexity linked to the identification of technologies based on cookies and their very close integration with the operation of the internet, you are encouraged to [contact us](https://web.archive.org/contact) should you wish to receive any further information on the use of cookies themselves and any possible use of them (for example, by a third party) carried out through the Websites. 
-
-  3. **Legal information:**
-
-Notice to European Users: this privacy statement has been prepared in fulfilment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of cookies.
+  *  **DAA** : To opt-out of such collection and use for interest-based advertising by the Digital Advertising Alliance (DAA) participating companies, please visit: <http://www.aboutads.info/choices>.
+  *  **EDAA** : To opt-out from the use of information about your online activities for interest-based advertising by European Interactive Digital Advertising Alliance (EDAA) member companies, please visit: [ http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
+  *  **NAI** : To opt-out from the use of information about your online activities for interest-based advertising by Network Advertising Initiative (NAI) member companies, please visit: <http://www.networkadvertising.org/choices/>.
 
 
 
+ _Third-Party Cookies_. You may adjust your browser or operating system settings to limit this tracking or to decline or delete Cookies, but you may be unable to access or use certain areas of the Websites. Check the “Help” menu of your browser or operating system to learn how to change your tracking settings or Cookie preferences. On your mobile device, you can adjust your privacy and advertising settings to limit your tracking for advertising or control whether you receive more relevant advertising. Note that our systems may not recognize Do Not Track headers or requests from some or all browsers.
 
-#### Use of Non-Personal Data
+ _Information Collected from Other Sources_  
+We may collect or receive information about you from other sources with which you interact (e.g., Facebook), companies that are our partners, or other third parties to update or supplement the information that you provide or that we collect automatically. We may use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services or other offers that may be of interest to you, and for internal business analysis or other business purposes.
 
-We use your non-personal data for purposes like product improvement, internal reporting, learning analytics, performing statistical analyses of collective behaviour of our users, measuring demographics and interests, and for other legitimate business purposes. We will take all reasonable steps to properly de-identify all information that is stored and analysed as non-personal data. This non-personal data may also be shared with the current and future universities partnering on course development and/or delivery ("Universities"), and other partners and service providers (since there is no prejudice to our users from the disclosure of this non-personal information).
+ _Our Combination of Your Information_  
+We may combine the information we receive from and about you, via the Websites and from third parties, to help us tailor our communications to you and to improve the Websites.
 
-#### Use of Personal Data
+ _Failure to Provide Personal Information_  
+Failure to provide certain information may make it difficult or impossible for you to access some services through the Websites (for example, to register for and complete courses). You will need to ensure that personal information submitted to us is accurate and up-to-date (for example, we need a current email address to communicate with you about the Course in which you are enrolled).
 
-Except as set out in this Policy or specifically agreed by you, we won't disclose your personal data that we receive through the Websites. In general we will always aim to de-identify the information that we store (as non-personal information), but some information will need to still be attached to your name or email address (as personal information), for reasons listed below, and with the aim of supporting personalised student learning journeys. We work hard to ensure that access to student information doesn't disadvantage or prejudice our students.
+## How We Use Your Information
 
-The ways in which (and the purposes for which) we use personal data are described in further detail below:
+GetSmarter may use the information that we collect from and about you in order to:
 
-  * Verifying student identity.
-  * Contacting you for the purpose of:
+  * Provide our services, including the set up and management of accounts and profiles. 
+  * Personalize your experience on the Websites and in any Course in which you choose to enroll and help us to better respond to your individual needs.
+  * Develop new products or services or to conduct analysis to enhance current products and services.
+  * Engage in behavioural marketing and remarketing to users of the Websites and students, and marketing to potential students with similar interests, when you consent to such marketing or for the legitimate purpose of communicating with you regarding a Course. 
+  * Review the usage and operations of the Websites and to analyze and improve the Websites (we continually strive to improve the Websites based on the information and feedback we receive from you).
+  * Contact you for the following purposes: 
     * marketing,
-    * advising you on course information,
-    * assisting you to complete your courses (for example we might contact you if you have a failed module or have not logged into the Online Campus), with the aim of keeping students motivated, providing support and celebrating/congratulating top achievers, or
-    * other legitimate business purposes, and all communications with you for these purposes will be kept on record.
-  * For learning analytics purposes (and product improvement more generally), including:
-    * analysing student characteristics, demographics, activities and behaviours on the Online Campus, allowing us to continually improve the design of our courses for the benefit of you and other students,
-    * providing analytical information to all relevant personnel who are involved in assisting and supporting students to complete courses, to enable them to optimise the student experience,
-    * using analytical information to define key indicators to predict student success and design appropriate positive interventions, and analyse whether the tools in the Online Campus are adding to the learning experience, or
-    * other legitimate business purposes.
-    * Reporting internally and to Universities on student enrolment, performance and related matters (acting reasonably in the disclosure of educational records to only necessary personnel).
-    * For behavioural marketing and remarketing to Website users and students, and marketing to potential students with similar interests.
-    * Recording, tracking and analysing activities on the Online Campus - we keep a record of all communications and interactions between you and us, all interactions in the forums, all activities, assignments and behaviours of students, all educational records, and all survey feedback which is not anonymously completed.
-    * Researching, developing and improving, as well as training.
-    * For disclosure:
-      * to personnel within GetSmarter and our third party contractors for legitimate business purposes, including but not limited to internally used software and systems providers, and courier companies for shipping of certificates (as far as reasonably necessary for them to provide their services to you and to us);
-      * to government authorities in response to court orders, subpoenas or other legal processes, to establish or exercise a legal right, defend a claim, or as otherwise required by law;
-      * to investigate, prevent or take action in relation to any suspected illegal activities, or to protect our own rights and the rights of the Universities;
-      * to acquirers, assignees or other successor entities in connection with a sale, merger or reorganisation of all or substantially all of our equity, business or assets;
-      * to a student's employer, in the event that the employer is paying for the student's course (information disclosed in this case shall include course performance information, unless otherwise expressly agreed in writing with GetSmarter).
-    * For any other purpose: ul li for which we receive your consent, li that is in the public interest, li within the bounds of the laws of the United Kingdom, or li at the request of a public authority (including, but not limited to in respect of courses partnering with Universities based in the United States of America) in accordance with FERPA).
+    * advising you on Course information, 
+    * respond to your inquiries,
+    * assisting you in completing your Courses, including communicating with you about your use of the Websites to complete a Course (you may not opt out of receiving these communications while participating in the Course), or
+    * other legitimate business purposes (as specified above).
+  * Protect the security of the Websites. 
+  * Verify your identity. 
+  * As otherwise described at the point of collection or for purposes which you expressly permit us to use the information.
 
 
 
-You agree that we may also share any of your personal data with the University collaborating on a course for which you are enrolled, and this University may use your personal data in accordance with their own privacy policies.
+GetSmarter also may use de-identified information in an aggregated or anonymized manner to help us analyze the use of the Websites. This Privacy Policy does not limit our use or disclosure of de-identified information, and we reserve the right to use and disclose such information to our partners, advertisers, and other third parties at our discretion.We will retain your personal information for as long as necessary to provide you with the services through the Websites or to otherwise administer and maintain the services and our Websites.
 
-We may also disclose all your personal data between our associated GetSmarter companies, who shall have all the same rights as us in relation to such personal data, and shall comply with this Policy in the processing of such information.
+## How We Disclose Your Information
 
-#### External Parties
+GetSmarter may share your information with other entities or individuals in the following circumstances: 
 
-We use several external service providers to assist us to process personal data for the above purposes, and they may hold this personal data on their own servers for these purposes. We have provided some further information on some of these external parties below, but we may use other service providers as well – if you would like access to a full list of our service providers please [contact us](https://web.archive.org/contact). We are not responsible for, nor do we endorse the privacy practices of these external third parties. 
+  * **University Partners** : We may share your information with the relevant University Partner in order to process your information, track your participation in the Course, and/or fulfill our contracted responsibilities to the University Partner.
+  *  **Select Partners and Affiliates** : We may share your information with our select partners and affiliates that we believe may have offers of interest to you.
+  *  **Service Providers** : We may share your information with our service providers that provide business, professional, or technical support functions for us. These service providers are only provided access to your information to the extent necessary to process your information and/or provide services to GetSmarter, and may not use or share your information for any other purposes. GetSmarter may disclose limited information about you to Service Providers to serve relevant advertising on third party platforms to you or to other audiences. If you do not want GetSmarter to disclose your information to Service Providers (including affiliated third parties which may not share the GetSmarter name) for their direct marketing or any other purpose, you may opt out of such disclosure by contacting us at [info@getsmarter.com](mailto:info@getsmarter.com)
+  *  **Your Employer** : We may share your information with your employer, in the event that the employer is paying for your Course (information disclosed in this case shall include Course performance information, unless otherwise expressly agreed in writing with GetSmarter).
+  *  **Legal Matters; Safety** : We may access or share your information to satisfy any applicable law, regulation, legal process, or governmental request; in connection with an investigation on matters related to public safety; as permitted by law; or otherwise as required by law. We may disclose your information to protect the security of the Course, the Websites, servers, network systems, and databases. We also may disclose your information as necessary if we believe that there has been a violation of our Terms of Use (including investigation of potential violations thereof), any other legal document or contract related to the Websites, or the rights of any third party.
+  *  **Fraud; Security:** We may access and disclose your information to detect, prevent, or otherwise address fraud, security or other technical issues.
+  *  **Consent; Other:** We may share information with third parties when we have your consent, or otherwise as described to you at the point of collection.
+  *  **University Partners** : We may share your information with the relevant University Partner in order to process your information, track your participation in the Course, and/or fulfill our contracted responsibilities to the University Partner.
+  *  **Sale or Transfer of Business or Assets** : GetSmarter may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use your information in a manner that is consistent with this Privacy Policy.
+  *  **De-Identified Aggregate or Anonymous Information** : GetSmarter may also share de-identified aggregate or anonymous information with third parties for their marketing or analytics uses. For example, we provide Google Analytics with de-identified data so that they may provide us with a better understanding of visitors’ interactions with the Websites, including actions a visitor takes while accessing the Websites or sites to which a visitor navigates after leaving the Websites. [Learn more about Google Analytics' use of de-identified data](https://tools.google.com/dlpage/gaoptout/), and how to opt out of such use with a browser add-on, [here](https://tools.google.com/dlpage/gaoptout/)
+  *  **International Transfers** : We transfer personal data from the European Economic Area to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. In these instances, we use Standard Contractual Clauses, and some of our Service Providers may rely on Standard Contractual Clauses, Privacy Shield, or Binding Corporate Rules, to help ensure we and our Service Providers respect your data privacy rights and protect your data. If you would like a copy of our Standard Contractual Clauses, you may do so by contacting us at [info@getsmarter.com ](mailto:info@getsmarter.com)or on our [contact page](https://web.archive.org/contact).
 
-  1. **Analytics:**
 
-The following service providers enable us to monitor and analyse web traffic and can be used to keep track of user behaviour:
 
- **Segment (Segment Inc.)**
+For California Residents: If you do not want GetSmarter to disclose your information to third parties (including affiliated third parties which may not share the GetSmarter name) for their direct marketing purposes, you may opt out of such disclosure by contacting us at[info@getsmarter.com ](mailto:info@getsmarter.com)or on our [contact page](https://web.archive.org/contact).
 
-Segment is an analytics service provided by Segment Inc.
+## Information Security and Data Retention
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://segment.com/docs/legal/privacy/)
- **Google Analytics (Google Inc.)**
+We are committed to protecting the security of your information. We maintain what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure your information and to prevent unauthorized access, maintain accuracy, and ensure appropriate use of your information. The accuracy, safety, and security of your information also depend on you. Where we have given you (or where you have chosen) a password for access to certain parts of the Websites, you are responsible for keeping this password confidential. We ask that you not share your password with anyone. Even though we do our best to protect your information, the transmission of information via the internet is not completely secure, and we cannot guarantee our security measures. We are not responsible for any unauthorized access to or acquisition of your information.
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the data collected to track and examine the use of our Websites, to prepare reports on activities and share them with other Google services. Google may use the personal data collected to contextualize and personalize the ads of its own advertising network.
+We will retain your personal information for as long as necessary to provide you with the services through the Website or to otherwise administer and maintain the services and our Website. 
 
-    * Personal data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
- **Facebook Ads conversion tracking (Facebook, Inc.)**
+## Your Rights Regarding Your Personal Information 
 
-Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on our Websites.
+You may access and/or update your personal information through your user profile. In some instances, you may have the right to (a) request that GetSmarter export a full listing of your personal information in a commonly used electronic form (b) withdraw your consent to GetSmarter to process your personal information; and (c) request that GetSmarter restrict the processing of or delete your personal information. Certain personal information, however, is necessary for us to provide information to you about the Course or to provide services to you through the Websites or otherwise. If you choose not to provide this personal information or request that GetSmarter delete or restrict the processing of this personal information, you may not be able to participate in the Course, and we may not be able to provide you with other services, including those provided through the Websites or advertised about the Course. 
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.facebook.com/about/privacy/)
- **Google AdWords conversion tracking (Google Inc.)**
+If you believe these rights regarding your personal information have been infringed upon, please contact us as set forth in the “Additional Information” section. You also have a right to lodge a complaint with data protection authorities.
 
-Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on our Websites.
+To the extent the above rights apply in your country, they may be limited in some situations, for example, if GetSmarter is under a legal requirement to retain certain information. If you wish to make a request described in this paragraph, or if you are otherwise unable to access and/or edit your personal information through your user profile, you may contact us at [info@getsmarter.com ](mailto:info@getsmarter.com)or visit our [Contact Us ](https://web.archive.org/contact)page (using the Data Protection Enquiry tab).
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
- **Google Tag Manager (Google Inc.)**
+## Additional Information
 
-Google Tag Manager is an analytics service provided by Google Inc.
+##### Education Records
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
- **IntelliBoard (IntelliBoard, Inc.)**
+You may have specific rights relating to the disclosure of any personal information that you provide to us and/or education records that we may create about you under the Family Education Rights & Privacy Act (“FERPA”), or other relevant law or regulation. You also may have specific rights under FERPA related to accessing and/or updating your personal information. If you would like to inspect and review your education records, you may submit a request through our [contact page](https://web.archive.org/contact). Requests for access will receive a response within 45 days, although certain records may be excluded from education records made available for inspection (within the bounds of the law and our confidentiality undertakings with third parties). You may also request amendment of records that you believe are inaccurate, misleading or in violation of your rights.
 
-IntelliBoard is an analytics service provided by IntelliBoard, Inc., that records student behavioural data on our Online Campus.
+##### Public Forums; Publicly Available Content
 
-    * Personal Data collected: Usage data.
-    * Place of processing: USA – [Privacy Policy](https://intelliboard.net/privacy)
-  2.  **Remarketing and behavioural targeting:**
+Any information you may disclose through the Websites, such as on message boards, in chat rooms, or on other public areas on the Websites, may be viewed by others, such as your classmates and professors. Please exercise caution when disclosing personal information in these public areas. You are responsible for ensuring the accuracy of all information submitted to the Websites, and you agree to only publish or share information about a third party with the third party’s consent.
 
-The following service providers allow us to inform, optimize and serve advertising based on past use of the Websites. This activity is performed by tracking usage data and by using cookies. The information will be shared with data processers that manage the remarketing and behavioural targeting activity:
+Your content may be made available, and may be accessed, viewed, stored, collected, or used by other users of the Websites, such as your classmates and professors, subject to your restrictions and the Terms of Use. If you do not want GetSmarter to store metadata associated with your content, please remove the metadata before uploading your content. 
 
- **Facebook Remarketing (Facebook, Inc.)**
+##### Third-Party Content, Links, and Plug-Ins
 
-Facebook Remarketing is a Remarketing and Behavioural Targeting service provided by Facebook, Inc. that connects the activity of our Websites with the Facebook advertising network.
+The Websites may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you, to better understand who is using the Websites, how people are using the Websites, how to improve the effectiveness of the Websites, our services and related content, to help us or those third parties serve more targeted advertising to you across the Internet, and to allow “Like” buttons and “Share” buttons to work. In some cases, we may know that you clicked on a social plugin, such as a Twitter Follow button, or receive other information from the social media sites. Similarly, if you have previously provided personal information to a third party operating a plug-in on our Websites, then such third party may recognize you on our Websites. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours. As with linked websites, we have no control over the information that is collected, stored, or used by social network plugins.
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/)
- **AdWords Remarketing (Google Inc.)**
+##### Changes to This Policy
 
-AdWords Remarketing is a Remarketing and Behavioural Targeting service provided by Google Inc. that connects the activity of our Websites with the Adwords advertising network and the Doubleclick Cookie.
+We review our privacy practices from time to time, and reserve the right to make changes to this Privacy Policy at any time. If we do make changes, we will give notice via the Website features or by emailing you. We recommend that you check the contents of the Privacy Policy whenever you have any new questions about privacy and our use of data, referring to the date of the last amendment listed at the bottom of the Privacy Policy.
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)
- **AdRoll (Semantic Sugar, Inc.)**
+##### Questions or Concerns About This Policy
 
-AdRoll is an advertising service provided by Semantic Sugar, Inc.
+If you have any questions or comments about this Privacy Policy, please use the [contact us ](https://web.archive.org/contact)feature on our Website, or email us at [info@getsmarter.com](mailto:info@getsmarter.com). You may also have the right to complain to a European Union data protection authority. To make a request to delete or access the data GetSmarter has about you, visit our [contact us ](https://web.archive.org/contact)page and use the "Data Protection Enquiry" tab. 
 
-    * Personal Data collected: Cookie and Usage data.
-    * Place of processing: USA – [Privacy Policy](https://www.adroll.com/about/privacy) – [Opt Out](https://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
- **Twitter Remarketing (Twitter, Inc.)**
+If you are not registered for any of our courses, or if you are registered for a course presented in collaboration with a university or college located in South Africa, the data controller for the purpose of this Privacy Policy is Get Educated Proprietary Limited (incorporated in South Africa) with registered address at 2nd floor, Deneb House, Cnr/of Main and Browning Road, Observatory, Cape Town, 7925, South Africa. If you are registered for a course presented in collaboration with a university or college in the United States of America or the United Kingdom, the data controller for the purpose of this Privacy Policy will be the GetSmarter corporate entity with which you contract at the commencement of a course. GetSmarter operates through companies in the United States of America, the United Kingdom, and South Africa, and collaborates with top universities in each of these countries. 
 
-Twitter Remarketing is a Remarketing and Behavioural Targeting service provided by Twitter, Inc. that connects the activity of our Websites with the Twitter advertising network. Personal data collected: Cookie and Usage data.
+The relevant data controller will be charged with making decisions regarding the purposes and methods of processing of data in terms of this Privacy Policy.
 
-    * Place of processing: USA – [Privacy Policy](https://twitter.com/privacy?lang=en) – [Opt Out](https://support.twitter.com/articles/20172847)
-
-
-
-#### Information Security
-
-  *  **Methods of processing**
-
-We undertake to process your personal data in a reasonable manner and take appropriate, reasonable security measures to prevent unauthorised access, disclosure, modification, or unauthorised destruction of your personal data. All data processing shall be carried out by employees, consultants or third party service providers using computers and/or IT enabled tools, following standard organizational procedures and modes.
-
-In some cases, personal and non-personal data may be accessible to certain types of persons involved with the operation of the Websites (administration, sales, marketing, finance, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, by us as data processers.
-
-  *  **Place**
-
-All data collected through our Websites is managed and processed primarily at our various operating offices, and in any other place where the parties involved with the processing are located. For further information on our servers and places where we process data, please [contact us](https://web.archive.org/contact). 
-
-Due to the fact that we have students all over the world, and hosting services have become more 'cloud-based' and international in recent years, we may send and store your personal data outside of the country in which you reside, and there will therefore be some cross-border transfer of this personal data. We are nevertheless committed to protecting the privacy and confidentiality of personal information when it is transferred, in accordance with this Policy and the data privacy requirements in the United Kingdom.
-
-  *  **Retention time**
-
-All Personal Data will only be kept for the time necessary considering the purpose for which it was collected or to provide the service requested by you – we won't keep Personal Data for an excessive period of time, and won't keep Personal Data after we no longer have any valid use for it. You may also request that we suspend or remove your personal data from our system.
-
-All non-personal data and de-personalised data will be retained for as long as it is useful and necessary, in light of the fact that the maintenance of this data would not be prejudicial to individual users in the event of a security breach.
-
-
-
-
-#### Additional Information
-
-  *  **Education Records**
-
-If you would like to inspect and review your education records, you may submit a request through our [contact page](https://web.archive.org/contact). Requests for access will receive a response within 45 days, although certain records may be excluded from education records made available for inspection (within the bounds of the law and our confidentiality undertakings with third parties). You may also request amendment of records that you believe are inaccurate, misleading or in violation of your rights. 
-
-  * **Legal action**
-
-Your personal data may be used for legal purposes as reasonably determined by us, in court or in the stages leading to possible legal action. You also acknowledge that we may be required to reveal your personal data upon request of public authorities.
-
-  *  **Additional information about Personal Data**
-
-In addition to the information contained in this Policy, we may provide you with additional and contextual information concerning particular services or the collection and processing of personal data on request.
-
-  *  **System Logs and Maintenance**
-
-For operation and maintenance purposes, our Websites and any third party services may collect files that record interaction with the Websites (System Logs) or use for this purpose other personal data (such as IP Address).
-
-  *  **The rights of Users**
-
-You have a right to know what personal data is being stored, and processed, as well as the categories of recipients with whom it may be shared. You may [contact us](https://web.archive.org/contact) to learn about the contents and origin of this personal data, to verify its accuracy or to ask for this data to be supplemented, cancelled, updated or corrected, or for their transformation into an anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to us at [info@getsmarter.com](mailto:info@getsmarter.com)or on our [contact page](https://web.archive.org/contact).
-
-Our Websites do not currently support “Do Not Track” (“DNT”) requests. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. To determine whether any of the third party services linked on our Website honour DNT requests, please read their privacy policies.
-
-  *  **Changes to this Policy**
-
-We review our privacy practices from time to time, and reserve the right to make changes to this Policy at any time by giving notice through a Website feature or by emailing you. We recommend that you check the contents of the Policy whenever you have any new questions about privacy and our use of data, referring to the date of the last modification listed at the bottom of the Policy.
-
-If you object to any changes to the Policy, you must cease using the Websites and can request that we delete your personal data (if you're in the middle of a course when this happens – please [contact us](https://web.archive.org/contact)immediately if you have an objection to a change in the Policy). Unless stated otherwise, the then-current Policy applies to all data that we maintain. 
-
-  * **Contacting us about this Policy**
-
-If you have any questions or comments about this Policy, please use the [contact us](https://web.archive.org/contact) feature on our Website, or email us at [info@getsmarter.com](mailto:info@getsmarter.com). 
-
-If you are not registered for any of our courses, or if you are registered for a course presented in collaboration with a university or college located in South Africa, the data controller for the purpose of this Policy is Get Educated Proprietary Limited (incorporated in South Africa) with registered address at 2nd floor, Deneb House, Cnr/of Main and Browning Road, Observatory, Cape Town, 7925, South Africa. If you are registered for a course presented in collaboration with a university or college in the United States of America or the United Kingdom, the data controller for the purpose of this Policy is GetSmarter Online Limited (incorporated in England and Wales), with registered address at 74 Rivington Street, London, United Kingdom, EC2A 3AY.
-
-The relevant data controller will be charged with making decisions regarding the purposes and methods of processing of data in terms of this Policy.
-
-
-
+ **Date of Last Amendment: 25 May 2018**
