@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chipotle.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910023810id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipotle.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626224029id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
 
 # Chipotle — Privacy Policy
 
 ## CHIPOTLE’S PRIVACY POLICY
 
-###### (LAST UPDATED SEPTEMBER 1, 2017)
+###### (LAST UPDATED MAY 22, 2018)
 
 Thank you for visiting Chipotle online. This Privacy Policy describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliated companies (collectively, "Chipotle", “we” or “our”) collect, use and disclose personal information of visitors to our websites, users of our online services and others to whom we expressly provide that this Privacy Policy will apply.
 
@@ -37,13 +37,14 @@ Chipotle does not support Do Not Track browser settings and does not currently p
   1. You must be 13 years of age or older to participate in the Chipotle mobile text program.
   2. By participating in the Chipotle mobile text program and signing up for mobile offers and text updates, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Chipotle. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
   3. Message and data rates may apply. All charges are billed by and payable to your mobile service provider. Chipotle does not charge you for sending or receiving text messages to 888222. 
-  4. If you would like to be removed from the Chipotle mobile text program, you must text STOP to 888222 to opt-out. This is the exclusive method for opting out. After texting STOP to 888222 you will receive one additional message confirming that your request has been processed.
-  5. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “HELP” to 888222 or contact us [here](http://chipotle.com/email-us).
+  4. If you would like to be removed from the Chipotle mobile text program, you must text STOP to 888222 (U.S.) or 888333 (Canada) to opt-out. This is the exclusive method for opting out. After texting STOP to 888222 you will receive one additional message confirming that your request has been processed.
+  5. Chipotle reserves the right to remove subscribers from our messaging database at our discretion. For more information, reply “HELP” to 888222 (U.S.) or 888333 (Canada) or contact us [here](http://chipotle.com/email-us).
   6. In the event that you change or deactivate your mobile number it is your responsibility to notify Chipotle [here](http://chipotle.com/email-us) to have your number removed.
   7. Chipotle will not be liable for any delays in the receipt of any SMS messages or undelivered messages. T-Mobile policies require that we specify that T-Mobile, also, will not be liable for any delays in the receipt of any SMS messages or undelivered messages.
   8. Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
   9. These mobile terms and conditions as well as the rest of the privacy policy are subject to change at any time without notice.
-  10. View our Terms of Use [here](https://www.chipotle.com/terms).
+  10. You will receive 1 automated marketing message to the number provided at entry. Message and data rates may apply. Text STOP to 888222 to cancel. Text HELP for help Consent is not a condition of purchase or entry. Sponsor's Mobile Privacy Policy: [http://chipotle.com/privacy-policy](http://chipotle.com/privacy-policy)
+  11. View our Terms of Use [here](https://www.chipotle.com/terms).
 
 
 
