@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906095849id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030548id_/https%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
 
 # VST Plugins, Synth Presets, Effects, Virtual Instruments, Music Plugins from Pluginboutique
 
@@ -40,7 +40,7 @@ We will not without your express consent provide your personal information to an
 
 **Newsletter Subscriber**
 
-A registered user is added to our Newsletter Subscribers database when he/she leaves the "Yes. I want to subscribe to the Loopmasters newsletter" option ON, on our registration page. After completing our registration process which involves clicking an activation link sent to his/her email account the user becomes a Newsletter Subscriber. Our email communications with our Newsletter Subscribers is based solely on their permission.
+A registered user is added to our Newsletter Subscribers database when he/she leaves the "Yes. I want to subscribe to the Plugin Boutique newsletter" option ON, on our registration page. After completing our registration process which involves clicking an activation link sent to his/her email account the user becomes a Newsletter Subscriber. Our email communications with our Newsletter Subscribers is based solely on their permission.
 
 **What Is Spam?**
 
@@ -116,19 +116,18 @@ The website contains links to other websites. We are not responsible for the pri
 
 ### 11\. Financial Information
 
-The website does not store your credit card and payment details on our server. The website retains details of your purchases and purchased products in your account, but no sensitive details relating to your payment methods are stored or handled by Loopmasters.
+The website does not store your credit card and payment details on our server. The website retains details of your purchases and purchased products in your account, but no sensitive details relating to your payment methods are stored or handled by Plugin Boutique.
 
 ### 12\. Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@pluginboutique.com or by post to:
 
-### **Plugin Boutique**
+#### **Plugin Boutique Ltd.**
 
-Unit 106  
-Brighton Junction  
-1A Isetta Square  
-35 New England Street  
-Brighton, BN1 4GQ
+Unit C, Level 7  
+New England House, New England Street  
+Brighton  
+BN1 4GH
 
 e-mail: support@pluginboutique.com  
-Tel/Fax: +44 (0)1273 810 250
+Telephone: +44 (0)1273 974905
