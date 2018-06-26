@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enginethemes.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701212120id_/https%3A//www.enginethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enginethemes.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626200842id_/https%3A//www.enginethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EngineThemes
 
