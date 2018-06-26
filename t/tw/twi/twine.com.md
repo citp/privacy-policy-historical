@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twine.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024042753id_/https%3A//www.johnhancock.com/privacysecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twine.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626020526id_/https%3A//www.johnhancock.com/privacysecurity.html) for the most accurate reproduction.*
 
 # Privacy and Security | John Hancock
+
+### 
 
 ### Scope
 
@@ -9,7 +11,7 @@ The John Hancock Online Privacy Statement (the "Statement") applies to John Hanc
 ### Information We Collect Online
 
   * John Hancock may collect several types of anonymous data about visitors to our Websites and Apps, including device-related information (such as browser type, device type, Internet Protocol (IP) address) and server log data (such as the date, time and duration of your visit) by using various technologies, including cookies and web beacons.
-  * When you visit or use our Websites or use our Apps, we and contracted third-party service providers acting on our behalf may also receive and collect certain Personal Information (as defined in the John Hancock Online Privacy Statement) from and about you. The information that we may receive and collect depends on which of our Websites or Apps you are visiting, what you request or do while visiting them, and whether you register or need to log in as a customer, client, account holder, or participant. Some information may be input by you while other data is automatically gathered. Personal Information may include (i) personal data such as name, address, email address, telephone number, date of birth, Social Security Number, and citizenship, (ii) financial data such as income, assets, banking information, and investment preferences, and (iii) health data, such as medical, and health-related information and habits.
+  * When you visit or use our Websites or use our Apps, we and contracted third-party service providers acting on our behalf may also receive and collect certain Personal Information (as defined in the John Hancock Online Privacy Statement) from and about you. The information that we may receive and collect depends on which of our Websites or Apps you are visiting, what you request or do while visiting them, and whether you register or need to log in as a customer, client, account holder, or participant.  Some information may be input by you while other data is automatically gathered.  Personal Information may include (i) personal data such as name, address, email address, telephone number, date of birth, Social Security Number, and citizenship, (ii) financial data such as income, assets, banking information, and investment preferences, and (iii) health data, such as medical, and health-related information and habits.
   * We may combine the Personal Information and anonymous data we collect from you with data obtained from other sources to help us improve your John Hancock experience and to help us better tailor our interactions with you.
   * By voluntarily providing us with Personal Information, you are consenting to our use of it in accordance with this Statement.
 
