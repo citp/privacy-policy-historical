@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211004824id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627011836id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # SnapFiles Privacy Policy
 
 ### Information Collection and Use
 
 WebAttack, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. WebAttack, Inc. collects information from our users at several different points on our website. 
+
+We may use third-party advertising companies to serve ads when you visit our website
 
 ### Registration
 
