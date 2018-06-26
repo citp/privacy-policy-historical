@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the callawaygolf.com privacy policy that was archived on 2017-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171109181615id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the callawaygolf.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626125548id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js"><head>
 
 
+
+
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<script async="" src="https://d1n00d49gkbray.cloudfront.net/js/callaway.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/utils/lazyLoader.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>
-//CHECK FOR INTERNET EXLPORER
+<script async="" src="https://d1n00d49gkbray.cloudfront.net/js/callaway.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/utils/lazyLoader.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">
+/* CHECK FOR INTERNET EXLPORER */
 var ms_ie = false;
 var ua = window.navigator.userAgent;
 var old_ie = ua.indexOf('MSIE ');
@@ -15,14 +17,14 @@ if ((old_ie > -1) || (new_ie > -1)) {
 ms_ie = true;
 }
 if ( ms_ie ) {
-//IE specific code goes here
+/* IE specific code goes here */
 try {
 document.getElementsByTagName('body')[0].classList.add('IE');
 } catch (e) {
 }
 }
 (function () {
-if ( typeof window.CustomEvent === "function" ) return false; //If not IE
+if ( typeof window.CustomEvent === "function" ) return false; /* If not IE */
 function CustomEvent ( event, params ) {
 params = params || { bubbles: false, cancelable: false, detail: undefined };
 var evt = document.createEvent( 'CustomEvent' );
@@ -32,20 +34,26 @@ return evt;
 CustomEvent.prototype = window.Event.prototype;
 window.CustomEvent = CustomEvent;
 })();
+/*!
+* Stickyfill – `position: sticky` polyfill
+* v. 2.0.3 | https://github.com/wilddeer/stickyfill
+* MIT License
+*/
+!function(a,b){"use strict";function c(a,b){if(!(a instanceof b))throw new TypeError("Cannot call a class as a function")}function d(a,b){for(var c in b)b.hasOwnProperty(c)&&(a[c]=b[c])}function e(a){return parseFloat(a)||0}function f(a){for(var b=0;a;)b+=a.offsetTop,a=a.offsetParent;return b}function g(){function c(){a.pageXOffset!=k.left?(k.top=a.pageYOffset,k.left=a.pageXOffset,n.refreshAll()):a.pageYOffset!=k.top&&(k.top=a.pageYOffset,k.left=a.pageXOffset,l.forEach(function(a){return a._recalcPosition()}))}function d(){f=setInterval(function(){l.forEach(function(a){return a._fastCheck()})},500)}function e(){clearInterval(f)}c(),a.addEventListener("scroll",c),a.addEventListener("resize",n.refreshAll),a.addEventListener("orientationchange",n.refreshAll);var f=void 0,g=void 0,h=void 0;"hidden"in b?(g="hidden",h="visibilitychange"):"webkitHidden"in b&&(g="webkitHidden",h="webkitvisibilitychange"),h?(b[g]||d(),b.addEventListener(h,function(){b[g]?e():d()})):d()}var h=function(){function a(a,b){for(var c=0;c<b.length;c++){var d=b[c];d.enumerable=d.enumerable||!1,d.configurable=!0,"value"in d&&(d.writable=!0),Object.defineProperty(a,d.key,d)}}return function(b,c,d){return c&&a(b.prototype,c),d&&a(b,d),b}}(),i=!1;a.getComputedStyle?!function(){var a=b.createElement("div");["","-webkit-","-moz-","-ms-"].some(function(b){try{a.style.position=b+"sticky"}catch(a){}return""!=a.style.position})&&(i=!0)}():i=!0;var j="undefined"!=typeof ShadowRoot,k={top:null,left:null},l=[],m=function(){function g(a){if(c(this,g),!(a instanceof HTMLElement))throw new Error("First argument must be HTMLElement");if(l.some(function(b){return b._node===a}))throw new Error("Stickyfill is already applied to this node");this._node=a,this._stickyMode=null,this._active=!1,l.push(this),this.refresh()}return h(g,[{key:"refresh",value:function(){if(!i&&!this._removed){this._active&&this._deactivate();var c=this._node,g=getComputedStyle(c),h={top:g.top,display:g.display,marginTop:g.marginTop,marginBottom:g.marginBottom,marginLeft:g.marginLeft,marginRight:g.marginRight,cssFloat:g.cssFloat};if(!isNaN(parseFloat(h.top))&&"table-cell"!=h.display&&"none"!=h.display){this._active=!0;var k=c.parentNode,l=j&&k instanceof ShadowRoot?k.host:k,m=c.getBoundingClientRect(),n=l.getBoundingClientRect(),o=getComputedStyle(l);this._parent={node:l,styles:{position:l.style.position},offsetHeight:l.offsetHeight},this._offsetToWindow={left:m.left,right:b.documentElement.clientWidth-m.right},this._offsetToParent={top:m.top-n.top-e(o.borderTopWidth),left:m.left-n.left-e(o.borderLeftWidth),right:-m.right+n.right-e(o.borderRightWidth)},this._styles={position:c.style.position,top:c.style.top,bottom:c.style.bottom,left:c.style.left,right:c.style.right,width:c.style.width,marginTop:c.style.marginTop,marginLeft:c.style.marginLeft,marginRight:c.style.marginRight};var p=e(h.top);this._limits={start:m.top+a.pageYOffset-p,end:n.top+a.pageYOffset+l.offsetHeight-e(o.borderBottomWidth)-c.offsetHeight-p-e(h.marginBottom)};var q=o.position;"absolute"!=q&&"relative"!=q&&(l.style.position="relative"),this._recalcPosition();var r=this._clone={};r.node=b.createElement("div"),d(r.node.style,{width:m.right-m.left+"px",height:m.bottom-m.top+"px",marginTop:h.marginTop,marginBottom:h.marginBottom,marginLeft:h.marginLeft,marginRight:h.marginRight,cssFloat:h.cssFloat,padding:0,border:0,borderSpacing:0,fontSize:"1em",position:"static"}),k.insertBefore(r.node,c),r.docOffsetTop=f(r.node)}}}},{key:"_recalcPosition",value:function(){if(this._active&&!this._removed){var a=k.top<=this._limits.start?"start":k.top>=this._limits.end?"end":"middle";if(this._stickyMode!=a){switch(a){case"start":d(this._node.style,{position:"absolute",left:this._offsetToParent.left+"px",right:this._offsetToParent.right+"px",top:this._offsetToParent.top+"px",bottom:"auto",width:"auto",marginLeft:0,marginRight:0,marginTop:0});break;case"middle":d(this._node.style,{position:"fixed",left:this._offsetToWindow.left+"px",right:this._offsetToWindow.right+"px",top:this._styles.top,bottom:"auto",width:"auto",marginLeft:0,marginRight:0,marginTop:0});break;case"end":d(this._node.style,{position:"absolute",left:this._offsetToParent.left+"px",right:this._offsetToParent.right+"px",top:"auto",bottom:0,width:"auto",marginLeft:0,marginRight:0})}this._stickyMode=a}}}},{key:"_fastCheck",value:function(){this._active&&!this._removed&&(Math.abs(f(this._clone.node)-this._clone.docOffsetTop)>1||Math.abs(this._parent.node.offsetHeight-this._parent.offsetHeight)>1)&&this.refresh()}},{key:"_deactivate",value:function(){var a=this;this._active&&!this._removed&&(this._clone.node.parentNode.removeChild(this._clone.node),delete this._clone,d(this._node.style,this._styles),delete this._styles,l.some(function(b){return b!==a&&b._parent&&b._parent.node===a._parent.node})||d(this._parent.node.style,this._parent.styles),delete this._parent,this._stickyMode=null,this._active=!1,delete this._offsetToWindow,delete this._offsetToParent,delete this._limits)}},{key:"remove",value:function(){var a=this;this._deactivate(),l.some(function(b,c){if(b._node===a._node)return l.splice(c,1),!0}),this._removed=!0}}]),g}(),n={stickies:l,Sticky:m,addOne:function(a){if(!(a instanceof HTMLElement)){if(!a.length||!a[0])return;a=a[0]}for(var b=0;b<l.length;b++)if(l[b]._node===a)return l[b];return new m(a)},add:function(a){if(a instanceof HTMLElement&&(a=[a]),a.length){for(var b=[],c=function(c){var d=a[c];return d instanceof HTMLElement?l.some(function(a){if(a._node===d)return b.push(a),!0})?"continue":void b.push(new m(d)):(b.push(void 0),"continue")},d=0;d<a.length;d++){c(d)}return b}},refreshAll:function(){l.forEach(function(a){return a.refresh()})},removeOne:function(a){if(!(a instanceof HTMLElement)){if(!a.length||!a[0])return;a=a[0]}l.some(function(b){if(b._node===a)return b.remove(),!0})},remove:function(a){if(a instanceof HTMLElement&&(a=[a]),a.length)for(var b=function(b){var c=a[b];l.some(function(a){if(a._node===c)return a.remove(),!0})},c=0;c<a.length;c++)b(c)},removeAll:function(){for(;l.length;)l[0].remove()}};i||g(),"undefined"!=typeof module&&module.exports?module.exports=n:a.Stickyfill=n}(window,document);
+/* Apply polyfill for position: sticky */
+(function () {
+function loadStickyfill() {
+var elements = document.querySelectorAll('.sticky');
+Stickyfill.add(elements);
+}
+document.addEventListener && document.addEventListener("DOMContentLoaded", loadStickyfill);
+document.attachEvent && document.attachEvent("onreadystatechange", loadStickyfill);
+})();
 </script>
-<!-- Optimizely Code A/B Testing -->
 
-
-
-<script>
-window['optimizely'] = window['optimizely'] || [];
-window['optimizely'].push(["customTag", "pageName", ""]);
-window['optimizely'].push(["customTag", "pageType", ""]);
-</script>
-
-<script src="//cdn.optimizely.com/js/867550373.js"></script>
 
 <link rel="canonical" href="http://www.callawaygolf.com">
+
 
 
 
@@ -61,9 +69,14 @@ window['optimizely'].push(["customTag", "pageType", ""]);
 
 
 
+
+
 <script>
-window.SiteHelper = {"ID":"CG2","isProduction":true,"isStaging":false,"isDevelopment":false,"isNoEcommerceWebSite":false,"isCGPOWebSite":false,"isSHOPWebSite":false,"isODYWebSite":false,"isODYIntlWebSite":false,"isGCWebSite":false,"isVIPWebSite":false,"isCGWebSite":true,"isCGIntlWebSite":false,"isCGJapanWebSite":false,"isCGEuropeWebSite":false,"isCGEuropeEcommerceWebSite":false,"isRewardsWebSite":false,"isOGIOWebSite":false,"currencyCode":"USD","salesChannel":"CEX","timezone":"US/Central"};
+window.SiteHelper = {"ID":"CG2","isProduction":true,"isStaging":false,"isDevelopment":false,"isNoEcommerceWebSite":false,"isMultiLocaleWebSite":false,"isCGPOWebSite":false,"isSHOPWebSite":false,"isODYWebSite":false,"isODYIntlWebSite":false,"isGCWebSite":false,"isVIPWebSite":false,"isCGWebSite":true,"isCGIntlWebSite":false,"isCGJapanWebSite":false,"isCGUKWebSite":false,"isCGEuropeWebSite":false,"isCGEuropeEcommerceWebSite":false,"isCGCanadaWebSite":false,"isRewardsWebSite":false,"isOGIOWebSite":false,"isCGIntlNoSubscribe":false,"currencyCode":"USD","currentLocale":"en_US","salesChannel":"CEX","timezone":"US/Central","checkRealTimeInventory":true,"bvApiUrl":"//callaway.ugc.bazaarvoice.com/static/5076/bvapi.js"};
 </script>
+
+
+
 
 
 
@@ -81,6 +94,10 @@ res["app_account.email.subscribesuccess"] = "Thank you for subscribing.";
 res["app_account.email.subscribeerror"] = "There was an error processing your subscription.";
 
 res["app_content.configurator.selectone"] = "- Select one -";
+
+res["app_content.configurator.stock"] = "Stock";
+
+res["app_content.configurator.custom"] = "Custom";
 
 res["app_callawaygolf.configurator.ajax.next"] = "Next";
 
@@ -119,30 +136,34 @@ return null;
 </script>
 
 <!--[if lte IE 9]>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/ie8support.min.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/ie8support.js"></script>
 <![endif]-->
 
-<link rel="dns-prefetch" href="//sits-pod21.demandware.net">
-<link rel="dns-prefetch" href="//ajax.aspnetcdn.com">
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//use.typekit.net">
-<link rel="dns-prefetch" href="//p.typekit.net">
-<link rel="dns-prefetch" href="//ugc.callawaygolfpreowned.com">
-<link rel="dns-prefetch" href="//magpie-static.ugc.bazaarvoice.com">
-<link rel="dns-prefetch" href="//network-a.bazaarvoice.com">
-<link rel="dns-prefetch" href="//s7.addthis.com">
-<link rel="dns-prefetch" href="//ct1.addthis.com">
-<link rel="dns-prefetch" href="//m.addthis.com">
-<link rel="dns-prefetch" href="//m.addthisedge.com">
-<link rel="dns-prefetch" href="//su.addthis.com">
-<link rel="dns-prefetch" href="//api-public.addthis.com">
-<link rel="dns-prefetch" href="//blogsandmedia.wpengine.com">
-<link rel="dns-prefetch" href="//blog.callawaygolf.com">
-<link rel="dns-prefetch" href="//pbs.twimg.com">
-<link rel="dns-prefetch" href="//i1.ytimg.com">
-<link rel="dns-prefetch" href="//chanalytics.merchantadvantage.com">
+
+
+<link rel="dns-prefetch" href="//sits-pod21.demandware.net"> 
+<link rel="dns-prefetch" href="//ajax.aspnetcdn.com"> 
+<link rel="dns-prefetch" href="//ajax.googleapis.com"> 
+<link rel="dns-prefetch" href="//fonts.googleapis.com"> 
+<link rel="dns-prefetch" href="//use.typekit.net"> 
+<link rel="dns-prefetch" href="//p.typekit.net"> 
+<link rel="dns-prefetch" href="//ugc.callawaygolfpreowned.com"> 
+<link rel="dns-prefetch" href="//magpie-static.ugc.bazaarvoice.com"> 
+<link rel="dns-prefetch" href="//network-a.bazaarvoice.com"> 
+<link rel="dns-prefetch" href="//s7.addthis.com"> 
+<link rel="dns-prefetch" href="//ct1.addthis.com"> 
+<link rel="dns-prefetch" href="//m.addthis.com"> 
+<link rel="dns-prefetch" href="//m.addthisedge.com"> 
+<link rel="dns-prefetch" href="//su.addthis.com"> 
+<link rel="dns-prefetch" href="//api-public.addthis.com"> 
+<link rel="dns-prefetch" href="//blogsandmedia.wpengine.com"> 
+<link rel="dns-prefetch" href="//blog.callawaygolf.com"> 
+<link rel="dns-prefetch" href="//pbs.twimg.com"> 
+<link rel="dns-prefetch" href="//i1.ytimg.com"> 
+<link rel="dns-prefetch" href="//chanalytics.merchantadvantage.com"> 
 <link rel="dns-prefetch" href="//stats.callawaygolf.com"> 
+
 
 
 
@@ -160,9 +181,11 @@ return null;
 
 
 
+
 	
 	<meta name="google-site-verification" content="DnPmcI4PdrJHX7xvwXtg-sno_8uLIlHsY6G3KtdW5IE">
 	<meta name="google-site-verification" content="YkryXtdn7Zq1OsJajVqir0KCv2uCISaet5mGm5sWA_Y">
+
 
 <script>
 var _lazy = [],
@@ -170,6 +193,7 @@ _gaq = window._gaq || [],
 common = [],
 site = [];
 </script>
+
 
 
 
@@ -196,6 +220,7 @@ js.src = "//connect.facebook.net/en_US/sdk.js";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
+
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -261,6 +286,8 @@ CQuotient.getCQUserId = function () {
 </script>
 
 
+
+
 <script id="lazy-loader">
 (function() {
 var js, s= null;
@@ -268,7 +295,7 @@ try{
 js = document.createElement("script");
 js.async = true;
 
-js.src = "http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/utils/lazyLoader.min.js";
+js.src = "http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/utils/lazyLoader.js";
 
 s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(js, s);
@@ -289,13 +316,17 @@ window.$ && $.reportError && $.reportError({
 
 
 
+
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/jquery/jquery-validate.1.14.0.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/jquerybrowserpatch.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/jquery/jquery.mobile.touch.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/jquery/jquery.touchpunch.min.js"></script>
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/jq-extension.min.js"></script>
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/jquery/jquery-validate.1.14.0.min.js"></script>
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/jquerybrowserpatch.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/jquery/jquery.mobile.touch.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/jquery/jquery.touchpunch.js"></script>
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/jq-extension.js"></script>
 <script>
 (function () {
 if (!window.JSON) {
@@ -324,13 +355,19 @@ return typeof vContent === "string" ? "\"" + vContent.replace(/"/g, "\$&") + "\"
 }
 })();
 </script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/modernizr.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/hoverIntent.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/hoverdir.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/mediaquery.min.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/modernizr.min.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/hoverIntent.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/hoverdir.js"></script>
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/mediaquery.js"></script>
+
 <!--[if (gte IE 6)&(lte IE 8)]>
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/js/selectivizr.min.js"></script>
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/js/selectivizr.min.js"></script>
 <![endif]-->
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -338,24 +375,27 @@ return typeof vContent === "string" ? "\"" + vContent.replace(/"/g, "\$&") + "\"
 @viewport { zoom: 1.0; width: device-width; }
 @-ms-viewport { width: extend-to-zoom; zoom: 1.0; }
 </style>
-<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/swiper/swiper.min.css">
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/swiper/slidermgr.min.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/bootstrap3/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/bootstrap3/css/bootstrap-awesome.min.css">
 
-<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/css/simple-line-icons.min.css">
-<link type="text/css" rel="stylesheet" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/global/css/themify-icons.min.css">
-<link rel="stylesheet" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/css/callawaygolf.min.css">
-
-<link rel="stylesheet" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/css/callawaygolf-responsive.min.css">
+<link rel="stylesheet" type="text/css" href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/swiper/swiper.css">
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/swiper/slidermgr.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/bootstrap3/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/bootstrap3/css/bootstrap-awesome.css">
 
 
+<link rel="stylesheet" type="text/css" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/css/simple-line-icons.css">
+<link type="text/css" rel="stylesheet" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/global/css/themify-icons.css">
+<link rel="stylesheet" href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/css/callawaygolf.css">
+
+<link rel="stylesheet" href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/css/callawaygolf-responsive.css">
 
 
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/js/callawaygolf.min.js"></script>
+
+
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/js/callawaygolf.js"></script>
 <!-- BazaarVoice Curations Code -->
 <script src="//curations-static.feedmagnet.com/gallery/callawaygolfpreowned/prod/loader.js"></script>
 <!-- Facebook Conversions Code -->
+
 
 
 
@@ -389,11 +429,17 @@ _googWcmGet('gphone','888-382-9604');
 
 
 
+
+
 <meta name="msvalidate.01" content="D57F6CCE16C02C6E8F630AB0C679E33A">
 
 
 
 
+
+<script>
+var ssoId = '';
+</script>
 
 <!-- Google Analytics -->
 
@@ -411,8 +457,22 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 ga('create', 'UA-18222628-1', {'allowLinker': true, 'cookieExpires': 7776000});
 ga('require','linker');
+var domain = window.location.hostname;
+var linkerArray = [];
 
-ga('linker:autoLink',['community.callawaygolf.com','cmp.callawaygolf.com']);
+if (domain.indexOf('community') > -1) {
+linkerArray.push('cmp.callawaygolf.com');
+linkerArray.push('www.callawaygolf.com');
+} else if (domain.indexOf('cmp') > -1) {
+linkerArray.push('community.callawaygolf.com');
+linkerArray.push('www.callawaygolf.com');
+} else {
+linkerArray.push('community.callawaygolf.com');
+linkerArray.push('cmp.callawaygolf.com');
+}
+
+ga('linker:autoLink',linkerArray);
+
 
 
 //include enhanced ecommerce plugin
@@ -420,9 +480,13 @@ ga('require','ec');
 //include google optimize plugin
 
 
+
+
+
 if (typeof ssoId != 'undefined' && ssoId != '') {
 ga("set","userId",ssoId);
 }
+
 
 if (typeof rewardsOptIn != 'undefined' && rewardsOptIn != '')
 ga('set','dimension1',rewardsOptIn);
@@ -432,12 +496,11 @@ ga('set','dimension2',emailOptIn);
 
 
 
-// Optimizely Universal Analytics Integration
-window.optimizely = window.optimizely || [];
-window.optimizely.push("activateUniversalAnalytics");
+
 ga('set','dimension4','control');
 ga('set','dimension5',window.Yo?'optimized' : 'control');
 ga("send", "pageview");
+
 
 </script>
 <!-- End Google Analytics -->
@@ -515,12 +578,7 @@ grecaptcha.render('recaptcha', {
 
 
 </head>
-<!--[if lt IE 7]> <body itemscope itemtype="http://schema.org/WebPage" class="search-close header ie ie6 lte9 lte8 lte7"> <![endif]-->
-<!--[if IE 7]> <body itemscope itemtype="http://schema.org/WebPage" class="search-close header ie ie7 lte9 lte8 lte7"> <![endif]-->
-<!--[if IE 8]> <body itemscope itemtype="http://schema.org/WebPage" class="search-close header ie ie8 lte9 lte8"> <![endif]-->
-<!--[if IE 9]> <body itemscope itemtype="http://schema.org/WebPage" class="search-close header ie ie9 lte9"> <![endif]-->
-<!--[if gt IE 9]> <body itemscope itemtype="http://schema.org/WebPage" class="search-close header ie ie10"> <![endif]-->
-<!--[if !IE]><!--> <body itemscope="" itemtype="http://schema.org/WebPage" class="search-close header no-ie"> <!--<![endif]-->
+<body itemscope="" itemtype="http://schema.org/WebPage" class="search-close header no-ie">
 <div id="page-container" class="pt_page">
 
 
@@ -720,14 +778,14 @@ grecaptcha.render('recaptcha', {
  
 <input type="hidden" id="txtGigyaGameNotification" value="false">
 
-	<input type="hidden" id="txtGigyaLoginSuccessUrl" value="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-LoginSuccess">
+	<input type="hidden" id="txtGigyaLoginSuccessUrl" value="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-LoginSuccess">
 
-<input type="hidden" id="txtGigyaLogoutUrl" value="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-Logout">
-<input type="hidden" id="txtSiteLogoutUrl" value="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-SiteLogout">
+<input type="hidden" id="txtGigyaLogoutUrl" value="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-Logout">
+<input type="hidden" id="txtSiteLogoutUrl" value="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-SiteLogout">
 
 <input type="hidden" id="txtGigyaUserManagementSettings" value="1">
 
-<link href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/gigya/css/gigya.css" type="text/css" rel="stylesheet">
+<link href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/gigya/css/gigya.css" type="text/css" rel="stylesheet">
 
 <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_pAYRV5RTwjyF_5axAlTpjzy6rjg1akgiTLSNr7hOOy61nAmJP0709NDYFAeRUt29">
 {
@@ -737,7 +795,8 @@ grecaptcha.render('recaptcha', {
 }
 </script>
 
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/gigya/js/Demandware.Gigya.js"></script>
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/gigya/js/Demandware.Gigya.js"></script>
+
 
 
 <div class="gift-card-info-bar">
@@ -749,7 +808,7 @@ grecaptcha.render('recaptcha', {
 <i class="fa fa-bars"></i>
 </a>
 <div class="navbar-header" id="logo">
-<a class="navbar-brand" href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Home-Show">
+<a class="navbar-brand" href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Home-Show">
 <span class="logo-text">Callaway Golf</span>
 </a>
 </div>
@@ -770,7 +829,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-top-level has-submenu nav-products">
-<a class="top-level-link" href="http://www.callawaygolf.com/products/">
+<a class="top-level-link" href="http://shop.callawaygolf.com/products/">
 <span class="title">Products</span>
 
 <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -784,7 +843,7 @@ grecaptcha.render('recaptcha', {
 <div class="nav-primary">
 
 <div class="col-md-3 level-2 has-submenu nav-golf-clubs">
-<a class="submenu-header nav-tab-title" href="http://www.callawaygolf.com/golf-clubs/" data-nav-tab-content="nav-tab-golf-clubs">
+<a class="submenu-header nav-tab-title" href="http://shop.callawaygolf.com/golf-clubs/" data-nav-tab-content="nav-tab-golf-clubs">
 <span class="title">Clubs</span>
 </a>
 
@@ -794,61 +853,67 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-submenu has-submenu nav-drivers">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/drivers/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/drivers/">
 <span class="title">Drivers</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-woods">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/fairway-woods/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/fairway-woods/">
 <span class="title">Fairway Woods</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-hybrids">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/hybrids/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/hybrids/">
 <span class="title">Hybrids</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-irons">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/iron-sets/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/iron-sets/">
 <span class="title">Iron/Combo Sets</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-wedges">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/wedges/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/wedges/">
 <span class="title">Wedges</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-putters">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/putters/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/putters/">
 <span class="title">Odyssey Putters</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-toulon-design-putters">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/toulon-design-putters/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/toulon-design-putters/">
 <span class="title">Toulon Design Putters</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-toulon-garage">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/golf-clubs/toulon-garage/" target="_blank">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/golf-clubs/toulon-garage/" target="_blank">
 <span class="title">Toulon Garage</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-complete-sets">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/complete-sets/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/complete-sets/">
 <span class="title">Complete Sets</span>
 </a>
 </li>
 
+<li class="nav-submenu  nav-womens">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/golf-clubs/womens/">
+<span class="title">Women's</span>
+</a>
+</li>
+
 <li class="nav-submenu  nav-juniors">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-clubs/junior-clubs/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-clubs/junior-clubs/">
 <span class="title">Juniors</span>
 </a>
 </li>
@@ -857,32 +922,26 @@ grecaptcha.render('recaptcha', {
 </div>
 <div class="col-md-6">
 
-<li class="nav-submenu  nav-womens">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/golf-clubs/womens/">
-<span class="title">Women's</span>
-</a>
-</li>
-
-<li class="nav-submenu  nav-classic-clubs">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/golf-clubs/classic-golf-clubs/">
-<span class="title">Classic Clubs</span>
-</a>
-</li>
-
 <li class="nav-submenu  nav-trade-in-trade-up">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/golf-clubs/trade-in-trade-up/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/golf-clubs/trade-in-trade-up/">
 <span class="title">Trade In! Trade Up!</span>
 </a>
 </li>
 
+<li class="nav-submenu  nav-classic-clubs">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/golf-clubs/classic-golf-clubs/">
+<span class="title">Classic Clubs</span>
+</a>
+</li>
+
 <li class="nav-submenu  nav-additional">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/golf-clubs/additional/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/golf-clubs/additional/">
 <span class="title">Additional</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-gift-cards-clubs">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/golf-clubs/gift-cards-clubs/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/golf-clubs/gift-cards-clubs/">
 <span class="title">Gift Cards</span>
 </a>
 </li>
@@ -894,7 +953,7 @@ grecaptcha.render('recaptcha', {
 </div>
 
 <div class="col-md-3 level-2 has-submenu nav-balls">
-<a class="submenu-header nav-tab-title" href="http://www.callawaygolf.com/golf-balls/" data-nav-tab-content="nav-tab-balls">
+<a class="submenu-header nav-tab-title" href="http://shop.callawaygolf.com/golf-balls/" data-nav-tab-content="nav-tab-balls">
 <span class="title">Balls</span>
 </a>
 
@@ -904,31 +963,31 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-submenu has-submenu nav-mens-golf-balls-chrome-soft">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/balls/chrome-soft/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/balls/chrome-soft/">
 <span class="title">Chrome Soft</span>
 </a>
 </li>
 
 <li class="nav-submenu has-submenu nav-mens-golf-balls-supersoft">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/balls/supersoft/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/balls/supersoft/">
 <span class="title">Supersoft</span>
 </a>
 </li>
 
 <li class="nav-submenu has-submenu nav-mens-golf-balls-superhot">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/balls/superhot/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/balls/superhot/">
 <span class="title">Superhot</span>
 </a>
 </li>
 
 <li class="nav-submenu has-submenu nav-warbird-balls">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/balls/warbird/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/balls/warbird/">
 <span class="title">Warbird</span>
 </a>
 </li>
 
 <li class="nav-submenu has-submenu nav-womens-golf-balls">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/balls/womens/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/balls/womens/">
 <span class="title">Women's</span>
 </a>
 </li>
@@ -938,14 +997,8 @@ grecaptcha.render('recaptcha', {
 <div class="col-md-6">
 
 <li class="nav-submenu  nav-balls-custom-logo">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/balls/custom-logo/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/balls/custom-logo/">
 <span class="title">Custom Logo</span>
-</a>
-</li>
-
-<li class="nav-submenu  nav-clearance-balls">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/balls/clearance/">
-<span class="title">Clearance</span>
 </a>
 </li>
 
@@ -956,7 +1009,7 @@ grecaptcha.render('recaptcha', {
 </div>
 
 <div class="col-md-3 level-2 has-submenu nav-accessories">
-<a class="submenu-header nav-tab-title" href="http://www.callawaygolf.com/golf-accessories/" data-nav-tab-content="nav-tab-accessories">
+<a class="submenu-header nav-tab-title" href="http://shop.callawaygolf.com/golf-accessories/" data-nav-tab-content="nav-tab-accessories">
 <span class="title">Accessories</span>
 </a>
 
@@ -966,106 +1019,124 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-submenu  nav-stand-bags">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/stand-bags/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/stand-bags/">
 <span class="title">Stand Bags</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-cart-bags">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/cart-bags/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/cart-bags/">
 <span class="title">Cart Bags</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-staff-bags">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/staff-bags/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/staff-bags/">
 <span class="title">Staff Bags</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-headwear">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/headwear/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/headwear/">
 <span class="title">Headwear</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-gloves">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/gloves/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/gloves/">
 <span class="title">Gloves</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-bag-accessories">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/bag-accessories/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/bag-accessories/">
 <span class="title">Bag Accessories</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-limited-edition">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/limited-edition/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/limited-edition/">
 <span class="title">Limited Edition</span>
 </a>
 </li>
 
-<li class="nav-submenu  nav-callaway-collection">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/team-callaway-collection/">
-<span class="title">Team Callaway Collection</span>
+<li class="nav-submenu  nav-rangefinders-gps">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/gps-rangefinders/">
+<span class="title">GPS &amp; Rangefinders</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-footwear">
-<a class="submenu-header" href="http://www.callawaygolf.com/golf-shoes/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/golf-shoes/">
 <span class="title">Footwear</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-apparel">
-<a class="submenu-header" href="http://www.callawaygolf.com/accessories/golf-apparel/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/accessories/golf-apparel/">
 <span class="title">Apparel</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-travel">
-<a class="submenu-header" href="http://www.callawaygolf.com/products/accessories/travel-gear/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/travel-gear/">
 <span class="title">Travel Gear</span>
+</a>
+</li>
+
+<li class="nav-submenu  nav-towels">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/towels/">
+<span class="title">Towels</span>
+</a>
+</li>
+
+<li class="nav-submenu  nav-eyewear">
+<a class="submenu-header" href="http://shop.callawaygolf.com/products/accessories/eyewear/">
+<span class="title">Eyewear</span>
 </a>
 </li>
 
 
 <li>
 
-<a class="link-category" href="http://www.callawaygolf.com/golf-accessories/">View All Accessories</a>
+<a class="link-category" href="http://shop.callawaygolf.com/golf-accessories/">View All Accessories</a>
 </li>
 
 </div>
 <div class="col-md-6">
 
+<li class="nav-submenu  nav-travis-mathew">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/travismathew/">
+<span class="title">TravisMathew</span>
+</a>
+</li>
+
 <li class="nav-submenu  nav-gift-cards">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/accessories/gift-cards/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/gift-cards/">
 <span class="title">Gift Cards</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-clearance">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/accessories/clearance/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/clearance/">
 <span class="title">Clearance</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-tag-link">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/accessories/training-aids-more/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/training-aids-more/">
 <span class="title">Training Aids &amp; More</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-shipping-labels">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/accessories/return-or-trade-shipping-labels/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/return-or-trade-shipping-labels/">
 <span class="title">Return/Trade Shipping Labels</span>
 </a>
 </li>
 
 <li class="nav-submenu  nav-odyssey-accessories">
-<a class="submenu-header secondary" href="http://www.callawaygolf.com/products/accessories/odyssey-accessories/">
+<a class="submenu-header secondary" href="http://shop.callawaygolf.com/products/accessories/odyssey-accessories/">
 <span class="title">Odyssey Accessories</span>
 </a>
 </li>
@@ -1101,7 +1172,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-top-level has-submenu nav-customs">
-<a class="top-level-link" href="http://www.callawaygolf.com/customs/">
+<a class="top-level-link" href="http://shop.callawaygolf.com/customs/">
 <span class="title">Customs</span>
 
 <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -1115,19 +1186,19 @@ grecaptcha.render('recaptcha', {
 <ul class="nav-primary">
 
 <li class="nav-submenu nav-callaway-customs">
-<a class="submenu-header" href="http://www.callawaygolf.com/customs/callaway-customs/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/customs/callaway-customs/">
 <span class="title">Callaway Customs</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-custom-fitting">
-<a class="submenu-header" href="http://www.callawaygolf.com/customs/custom-fitting/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/customs/custom-fitting/">
 <span class="title">Custom Fitting</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-custom-logo">
-<a class="submenu-header" href="http://www.callawaygolf.com/customs/custom-logo/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/customs/custom-logo/">
 <span class="title">Custom Logo</span>
 </a>
 </li>
@@ -1145,7 +1216,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-top-level has-submenu nav-blog">
-<a class="top-level-link" href="http://www.callawaygolf.com/callaway-news/">
+<a class="top-level-link" href="http://shop.callawaygolf.com/callaway-news/">
 <span class="title">News + Media</span>
 
 <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -1158,38 +1229,32 @@ grecaptcha.render('recaptcha', {
 
 <ul class="nav-primary">
 
-<li class="nav-submenu nav-news-buzz">
-<a class="submenu-header" href="http://www.callawaygolf.com/newsandbuzz/">
-<span class="title">News + Buzz</span>
-</a>
-</li>
-
 <li class="nav-submenu nav-cmp-videos">
-<a class="submenu-header" href="http://www.callawaygolf.com/videos/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/videos/">
 <span class="title">Videos</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-cmp-podcasts">
-<a class="submenu-header" href="http://www.callawaygolf.com/podcast/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/podcast/">
 <span class="title">Podcasts</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-cmp-callaway-live">
-<a class="submenu-header" href="http://www.callawaygolf.com/callawaylive/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/callawaylive/">
 <span class="title">Callaway Live</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-callaway-collab">
-<a class="submenu-header" href="http://www.callawaygolf.com/blog/callaway-collabs/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/blog/callaway-collabs/">
 <span class="title">Callaway Collabs</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-callaway-create">
-<a class="submenu-header" href="http://www.callawaygolf.com/blog/callaway-create/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/blog/callaway-create/">
 <span class="title">Callaway Create</span>
 </a>
 </li>
@@ -1207,7 +1272,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-top-level has-submenu nav-community">
-<a class="top-level-link" href="http://www.callawaygolf.com/community/">
+<a class="top-level-link" href="http://shop.callawaygolf.com/community/">
 <span class="title">Community</span>
 
 <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -1221,37 +1286,37 @@ grecaptcha.render('recaptcha', {
 <ul class="nav-primary">
 
 <li class="nav-submenu nav-community-reviews-testing">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/product-reviews-testing/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/product-reviews-testing/">
 <span class="title">Product Reviews &amp; Testing</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-the-fitting-corner">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/fitting-corner/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/fitting-corner/">
 <span class="title">Fitting Corner</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-community-equipment">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/equipment/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/equipment/">
 <span class="title">Equipment</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-inside-callaway">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/inside-callaway/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/inside-callaway/">
 <span class="title">Inside Callaway</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-community-sweepstakes">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/contests%2C-giveaways%2C-sweeps/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/contests%2C-giveaways%2C-sweeps/">
 <span class="title">Contests, Giveaways, &amp; Sweeps</span>
 </a>
 </li>
 
 <li class="nav-submenu nav-community-your-game">
-<a class="submenu-header" href="http://www.callawaygolf.com/community/your-game-more/">
+<a class="submenu-header" href="http://shop.callawaygolf.com/community/your-game-more/">
 <span class="title">Your Game &amp; More</span>
 </a>
 </li>
@@ -1271,7 +1336,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li class="nav-top-level  nav-team">
-<a class="top-level-link" href="http://www.callawaygolf.com/team-callaway/">
+<a class="top-level-link" href="http://shop.callawaygolf.com/team-callaway/">
 <span class="title">Team</span>
 
 </a>
@@ -1291,7 +1356,7 @@ grecaptcha.render('recaptcha', {
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/">
+<a href="http://shop.callawaygolf.com/products/">
 Products
 </a>
 
@@ -1300,7 +1365,7 @@ Products
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/">
+<a href="http://shop.callawaygolf.com/golf-clubs/">
 Clubs
 </a>
 
@@ -1309,7 +1374,7 @@ Clubs
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/drivers/">
+<a href="http://shop.callawaygolf.com/golf-clubs/drivers/">
 Drivers
 </a>
 </li>
@@ -1318,7 +1383,7 @@ Drivers
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/fairway-woods/">
+<a href="http://shop.callawaygolf.com/golf-clubs/fairway-woods/">
 Fairway Woods
 </a>
 </li>
@@ -1327,7 +1392,7 @@ Fairway Woods
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/hybrids/">
+<a href="http://shop.callawaygolf.com/golf-clubs/hybrids/">
 Hybrids
 </a>
 </li>
@@ -1336,7 +1401,7 @@ Hybrids
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/iron-sets/">
+<a href="http://shop.callawaygolf.com/golf-clubs/iron-sets/">
 Iron/Combo Sets
 </a>
 </li>
@@ -1345,7 +1410,7 @@ Iron/Combo Sets
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/wedges/">
+<a href="http://shop.callawaygolf.com/golf-clubs/wedges/">
 Wedges
 </a>
 </li>
@@ -1354,7 +1419,7 @@ Wedges
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/putters/">
+<a href="http://shop.callawaygolf.com/golf-clubs/putters/">
 Odyssey Putters
 </a>
 </li>
@@ -1363,7 +1428,7 @@ Odyssey Putters
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/toulon-design-putters/">
+<a href="http://shop.callawaygolf.com/golf-clubs/toulon-design-putters/">
 Toulon Design Putters
 </a>
 </li>
@@ -1372,7 +1437,7 @@ Toulon Design Putters
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/golf-clubs/toulon-garage/" target="_blank">
+<a href="http://shop.callawaygolf.com/products/golf-clubs/toulon-garage/" target="_blank">
 Toulon Garage
 </a>
 </li>
@@ -1381,7 +1446,7 @@ Toulon Garage
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/complete-sets/">
+<a href="http://shop.callawaygolf.com/golf-clubs/complete-sets/">
 Complete Sets
 </a>
 </li>
@@ -1390,7 +1455,16 @@ Complete Sets
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/junior-clubs/">
+<a href="http://shop.callawaygolf.com/products/golf-clubs/womens/">
+Women's
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/golf-clubs/junior-clubs/">
 Juniors
 </a>
 </li>
@@ -1398,37 +1472,31 @@ Juniors
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/golf-clubs/womens/">
-Women's
-</a>
-</li>
-
-<li>
-<a href="http://www.callawaygolf.com/golf-clubs/classic-golf-clubs/">
-Classic Clubs
-</a>
-</li>
-
-<li>
-<a href="http://www.callawaygolf.com/golf-clubs/trade-in-trade-up/">
+<a href="http://shop.callawaygolf.com/golf-clubs/trade-in-trade-up/">
 Trade In! Trade Up!
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/additional/">
+<a href="http://shop.callawaygolf.com/golf-clubs/classic-golf-clubs/">
+Classic Clubs
+</a>
+</li>
+
+<li>
+<a href="http://shop.callawaygolf.com/golf-clubs/additional/">
 Additional
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/golf-clubs/gift-cards-clubs/">
+<a href="http://shop.callawaygolf.com/golf-clubs/gift-cards-clubs/">
 Gift Cards
 </a>
 </li>
 
 <li class="view-more">
-<a href="http://www.callawaygolf.com/golf-clubs/">
+<a href="http://shop.callawaygolf.com/golf-clubs/">
 global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 </a>
 </li>
@@ -1440,7 +1508,7 @@ global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-balls/">
+<a href="http://shop.callawaygolf.com/golf-balls/">
 Balls
 </a>
 
@@ -1449,7 +1517,7 @@ Balls
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/chrome-soft/">
+<a href="http://shop.callawaygolf.com/products/balls/chrome-soft/">
 Chrome Soft
 </a>
 </li>
@@ -1458,7 +1526,7 @@ Chrome Soft
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/supersoft/">
+<a href="http://shop.callawaygolf.com/products/balls/supersoft/">
 Supersoft
 </a>
 </li>
@@ -1467,7 +1535,7 @@ Supersoft
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/superhot/">
+<a href="http://shop.callawaygolf.com/products/balls/superhot/">
 Superhot
 </a>
 </li>
@@ -1476,7 +1544,7 @@ Superhot
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/warbird/">
+<a href="http://shop.callawaygolf.com/products/balls/warbird/">
 Warbird
 </a>
 </li>
@@ -1485,7 +1553,7 @@ Warbird
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/womens/">
+<a href="http://shop.callawaygolf.com/products/balls/womens/">
 Women's
 </a>
 </li>
@@ -1493,19 +1561,13 @@ Women's
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/balls/custom-logo/">
+<a href="http://shop.callawaygolf.com/products/balls/custom-logo/">
 Custom Logo
 </a>
 </li>
 
-<li>
-<a href="http://www.callawaygolf.com/products/balls/clearance/">
-Clearance
-</a>
-</li>
-
 <li class="view-more">
-<a href="http://www.callawaygolf.com/golf-balls/">
+<a href="http://shop.callawaygolf.com/golf-balls/">
 global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 </a>
 </li>
@@ -1517,7 +1579,7 @@ global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-
 
 
 <li>
-<a href="http://www.callawaygolf.com/golf-accessories/">
+<a href="http://shop.callawaygolf.com/golf-accessories/">
 Accessories
 </a>
 
@@ -1526,7 +1588,7 @@ Accessories
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/stand-bags/">
+<a href="http://shop.callawaygolf.com/products/accessories/stand-bags/">
 Stand Bags
 </a>
 </li>
@@ -1535,7 +1597,7 @@ Stand Bags
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/cart-bags/">
+<a href="http://shop.callawaygolf.com/products/accessories/cart-bags/">
 Cart Bags
 </a>
 </li>
@@ -1544,7 +1606,7 @@ Cart Bags
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/staff-bags/">
+<a href="http://shop.callawaygolf.com/products/accessories/staff-bags/">
 Staff Bags
 </a>
 </li>
@@ -1553,7 +1615,7 @@ Staff Bags
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/headwear/">
+<a href="http://shop.callawaygolf.com/products/accessories/headwear/">
 Headwear
 </a>
 </li>
@@ -1562,7 +1624,7 @@ Headwear
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/gloves/">
+<a href="http://shop.callawaygolf.com/products/accessories/gloves/">
 Gloves
 </a>
 </li>
@@ -1571,7 +1633,7 @@ Gloves
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/bag-accessories/">
+<a href="http://shop.callawaygolf.com/products/accessories/bag-accessories/">
 Bag Accessories
 </a>
 </li>
@@ -1580,7 +1642,7 @@ Bag Accessories
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/limited-edition/">
+<a href="http://shop.callawaygolf.com/products/accessories/limited-edition/">
 Limited Edition
 </a>
 </li>
@@ -1589,88 +1651,7 @@ Limited Edition
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/team-callaway-collection/">
-Team Callaway Collection
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/golf-shoes/">
-Footwear
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/accessories/golf-apparel/">
-Apparel
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/travel-gear/">
-Travel Gear
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/towels/">
-Towels
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/eyewear/">
-Eyewear
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/umbrellas/">
-Umbrellas
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/headcovers/">
-Headcovers
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/gifts-extras/">
-Gifts &amp; Extras
-</a>
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/products/accessories/gps-rangefinders/">
+<a href="http://shop.callawaygolf.com/products/accessories/gps-rangefinders/">
 GPS &amp; Rangefinders
 </a>
 </li>
@@ -1679,45 +1660,114 @@ GPS &amp; Rangefinders
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/gps-rangefinders/upro-gps/">
-uPro GPS
+<a href="http://shop.callawaygolf.com/golf-shoes/">
+Footwear
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/accessories/golf-apparel/">
+Apparel
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/travel-gear/">
+Travel Gear
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/towels/">
+Towels
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/eyewear/">
+Eyewear
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/umbrellas/">
+Umbrellas
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/headcovers/">
+Headcovers
+</a>
+</li>
+
+
+
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/gifts-extras/">
+Gifts &amp; Extras
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/gift-cards/">
+<a href="http://shop.callawaygolf.com/products/accessories/travismathew/">
+TravisMathew
+</a>
+</li>
+
+<li>
+<a href="http://shop.callawaygolf.com/products/accessories/gift-cards/">
 Gift Cards
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/clearance/">
+<a href="http://shop.callawaygolf.com/products/accessories/clearance/">
 Clearance
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/training-aids-more/">
+<a href="http://shop.callawaygolf.com/products/accessories/training-aids-more/">
 Training Aids &amp; More
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/return-or-trade-shipping-labels/">
+<a href="http://shop.callawaygolf.com/products/accessories/return-or-trade-shipping-labels/">
 Return/Trade Shipping Labels
 </a>
 </li>
 
 <li>
-<a href="http://www.callawaygolf.com/products/accessories/odyssey-accessories/">
+<a href="http://shop.callawaygolf.com/products/accessories/odyssey-accessories/">
 Odyssey Accessories
 </a>
 </li>
 
 <li class="view-more">
-<a href="http://www.callawaygolf.com/golf-accessories/">
+<a href="http://shop.callawaygolf.com/golf-accessories/">
 global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 </a>
 </li>
@@ -1734,7 +1784,7 @@ global.header.viewcategory <span class="glyphicon glyphicon-chevron-right" aria-
 
 
 <li>
-<a href="http://www.callawaygolf.com/customs/">
+<a href="http://shop.callawaygolf.com/customs/">
 Customs
 </a>
 
@@ -1743,7 +1793,7 @@ Customs
 
 
 <li>
-<a href="http://www.callawaygolf.com/customs/callaway-customs/">
+<a href="http://shop.callawaygolf.com/customs/callaway-customs/">
 Callaway Customs
 </a>
 
@@ -1753,7 +1803,7 @@ Callaway Customs
 
 
 <li>
-<a href="http://www.callawaygolf.com/customs/custom-fitting/">
+<a href="http://shop.callawaygolf.com/customs/custom-fitting/">
 Custom Fitting
 </a>
 
@@ -1763,7 +1813,7 @@ Custom Fitting
 
 
 <li>
-<a href="http://www.callawaygolf.com/customs/custom-logo/">
+<a href="http://shop.callawaygolf.com/customs/custom-logo/">
 Custom Logo
 </a>
 
@@ -1778,7 +1828,7 @@ Custom Logo
 
 
 <li>
-<a href="http://www.callawaygolf.com/callaway-news/">
+<a href="http://shop.callawaygolf.com/callaway-news/">
 News + Media
 </a>
 
@@ -1787,17 +1837,7 @@ News + Media
 
 
 <li>
-<a href="http://www.callawaygolf.com/newsandbuzz/">
-News + Buzz
-</a>
-
-</li>
-
-
-
-
-<li>
-<a href="http://www.callawaygolf.com/videos/">
+<a href="http://shop.callawaygolf.com/videos/">
 Videos
 </a>
 
@@ -1807,7 +1847,7 @@ Videos
 
 
 <li>
-<a href="http://www.callawaygolf.com/podcast/">
+<a href="http://shop.callawaygolf.com/podcast/">
 Podcasts
 </a>
 
@@ -1817,7 +1857,7 @@ Podcasts
 
 
 <li>
-<a href="http://www.callawaygolf.com/callawaylive/">
+<a href="http://shop.callawaygolf.com/callawaylive/">
 Callaway Live
 </a>
 
@@ -1827,7 +1867,7 @@ Callaway Live
 
 
 <li>
-<a href="http://www.callawaygolf.com/blog/callaway-collabs/">
+<a href="http://shop.callawaygolf.com/blog/callaway-collabs/">
 Callaway Collabs
 </a>
 
@@ -1837,7 +1877,7 @@ Callaway Collabs
 
 
 <li>
-<a href="http://www.callawaygolf.com/blog/callaway-create/">
+<a href="http://shop.callawaygolf.com/blog/callaway-create/">
 Callaway Create
 </a>
 
@@ -1852,7 +1892,7 @@ Callaway Create
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/">
+<a href="http://shop.callawaygolf.com/community/">
 Community
 </a>
 
@@ -1861,7 +1901,7 @@ Community
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/product-reviews-testing/">
+<a href="http://shop.callawaygolf.com/community/product-reviews-testing/">
 Product Reviews &amp; Testing
 </a>
 
@@ -1871,7 +1911,7 @@ Product Reviews &amp; Testing
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/fitting-corner/">
+<a href="http://shop.callawaygolf.com/community/fitting-corner/">
 Fitting Corner
 </a>
 
@@ -1881,7 +1921,7 @@ Fitting Corner
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/equipment/">
+<a href="http://shop.callawaygolf.com/community/equipment/">
 Equipment
 </a>
 
@@ -1891,7 +1931,7 @@ Equipment
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/inside-callaway/">
+<a href="http://shop.callawaygolf.com/community/inside-callaway/">
 Inside Callaway
 </a>
 
@@ -1901,7 +1941,7 @@ Inside Callaway
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/contests%2C-giveaways%2C-sweeps/">
+<a href="http://shop.callawaygolf.com/community/contests%2C-giveaways%2C-sweeps/">
 Contests, Giveaways, &amp; Sweeps
 </a>
 
@@ -1911,7 +1951,7 @@ Contests, Giveaways, &amp; Sweeps
 
 
 <li>
-<a href="http://www.callawaygolf.com/community/your-game-more/">
+<a href="http://shop.callawaygolf.com/community/your-game-more/">
 Your Game &amp; More
 </a>
 
@@ -1926,7 +1966,7 @@ Your Game &amp; More
 
 
 <li>
-<a href="http://www.callawaygolf.com/team-callaway/">
+<a href="http://shop.callawaygolf.com/team-callaway/">
 Team
 </a>
 
@@ -1940,11 +1980,11 @@ Team
 	
 
 
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Account-Show">My Account</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Account-Show">My Account</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
 <li><a href="#" data-toggle="modal" data-target="#orderStatusModal">Order Status</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find">Find a Retailer</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find?defaultServices=8&amp;defaultDistanceKm=500">Demo/Fitting Event</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find">Find a Retailer</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find?defaultServices=8&amp;defaultDistanceKm=500">Demo/Fitting Event</a></li>
 
  
 	
@@ -1955,6 +1995,12 @@ Team
 </div>
 <div class="nav navbar-nav" id="header-secondary">
 <div class="utility-container">
+<div class="utility-section hidden-tablet hidden-phone">
+
+	 
+
+	
+</div>
 <div id="search-utility" class="utility-section menu-search-button">
 <a class="menu-trigger menu-nav-btn-search" href="#" data-menu-target="menu-nav-search">
 <span class="icon-magnifier"></span>
@@ -1987,19 +2033,21 @@ Team
 
 
 
+
 <div id="asset-header-help" class="contentAsset"><!-- dwMarker="content" dwContentID="0ede789c3d20fd1b3a93a6e5ec" template="app_cg2:rendering/content/contentsFrame" -->
 
 
 
 
 
+
 <ul>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find?defaultServices=8&amp;defaultDistanceKm=500">Demo/Fitting Event</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find?defaultServices=8&amp;defaultDistanceKm=500">Demo/Fitting Event</a></li>
 <li><a href="#" data-toggle="modal" data-target="#orderStatusModal">Order Status</a></li>
-<!--<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-faqs">FAQs</a></li>-->
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find">Find a Retailer</a></li>
-<li><a href="http://www.callawaygolf.com/preferred-internet-retailers/">Online Retailers</a></li>
+<!--<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-faqs">FAQs</a></li>-->
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Stores-Find">Find a Retailer</a></li>
+<li><a href="http://shop.callawaygolf.com/preferred-internet-retailers/">Online Retailers</a></li>
 </ul>
 
 
@@ -2208,7 +2256,7 @@ Team
 
 <h5>Sign In</h5>
 <div class="formError"></div>
-<form id="sign-in-menu-form" name="dwfrm_login" action="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Login-HeaderLogin">
+<form id="sign-in-menu-form" name="dwfrm_login" action="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Login-HeaderLogin">
 <div class="form-group form-group-lg">
 <input placeholder="Email Address" id="username" class="form-control" name="dwfrm_login_username" type="email" onsubmit="return trim(this)" value="" required="" data-validation-required-message="Please enter an Email Address" data-validation-email-message="Must be in the format of name@domain.com">
 </div>
@@ -2233,7 +2281,7 @@ Team
 		<li class="liLoginHeader"> <!-- TODO: get rid of this? It leaves an annoying dot on the screen. maybe fix via .css? -->
 			
 
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/gigya/js/Demandware.Gigya.Login.js"></script>
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/gigya/js/Demandware.Gigya.Login.js"></script>
 <script type="text/javascript">
 	new Demandware.Gigya.Login('header');
 </script>
@@ -2247,7 +2295,7 @@ Team
 		<input type="hidden" id="txtGigyaLoginButtonSize" value="32">
 		<input type="hidden" id="txtGigyaLoginShowHeader" value="">
 		<input type="hidden" id="txtGigyaLoginShowTerms" value="false">
-		<input type="hidden" id="txtGigyaLoginCallback" value="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-LoginSuccess">
+		<input type="hidden" id="txtGigyaLoginCallback" value="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-LoginSuccess">
 		<input type="hidden" id="txtGigyaActive" value="true">
 		<input type="hidden" id="txtGigyaLoggedIn" value="null">
 		<input type="hidden" id="txtGigyaDemandwareLoggedIn" value="false">
@@ -2264,7 +2312,7 @@ Team
 	
 
 
-<p class="needAccount">Need an Account? <a href="https://www.callawaygolf.com/account-signup?returnToReferrer=true">Join Today!</a></p>
+<p class="needAccount">Need an Account? <a href="https://shop.callawaygolf.com/account-signup?returnToReferrer=true">Join Today!</a></p>
 <script>
 function trim(el) {
 el.value = el.value.replace (/(^\s*)|(\s*$)/gi, "");
@@ -2277,7 +2325,7 @@ HeaderAuthentication();
 return false;
 });
 function HeaderAuthentication() {
-var url = "http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Login-HeaderLogin";
+var url = "http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Login-HeaderLogin";
 var system = $("#system");
 var menu = $("#sign-in-menu");
 var formErr = menu.find(".formError");
@@ -2354,7 +2402,7 @@ async: true
 				if (!window.location.hostname.indexOf('cmp') > -1) {
 			  		jQuery.ajax({
 			 			type: "POST",
-			 		   	url: "http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-GetUserPoints",
+			 		   	url: "http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Gigya-GetUserPoints",
 			 		   	async : true,
 					   	success: function(data){
 							pointsForDisplay = "";
@@ -2372,7 +2420,7 @@ async: true
 
 
 <div id="cart-utility" class="utility-section">
-<a href="http://www.callawaygolf.com/cart">
+<a href="http://shop.callawaygolf.com/cart">
 <span class="icon-basket"></span>
 <span class="noDisplay">Cart</span>
 
@@ -2390,7 +2438,7 @@ async: true
 
 <div class="search-container">
 <div class="search-form form-group-lg container">
-<form method="GET" action="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Search-Show">
+<form method="GET" action="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Search-Show">
 <div class="input-append">
 <input class="search-input form-control" type="text" name="q" value="" placeholder="What are you looking for?" data-rfkid="rfkid_6">
 <input type="hidden" name="cgid" value="results">
@@ -2537,6 +2585,7 @@ async: true
 
 
 
+
 <p><strong>Effective November 1, 2006 (last updated October 9, 2017)</strong> <br>
   This policy describes Callaway Golf's privacy practices. It applies to the websites were it is located. It also applies to our mobile sites and apps. &nbsp;We use your information based on your consent to our practices. Your use of this website indicates that you agree to our collection, disclosure, and use of your information as described in this Privacy Policy. </p>
 <h3>Information We Collect </h3>
@@ -2549,11 +2598,11 @@ async: true
   Information you post or share on the Site. </strong>We collect the information you post in a public space on our site. For example, you might be able to post feedback about our products that others visiting our sites will see. We also collect information when you contact us.<br>
   <br>
   <strong>Information about your Callaway account. </strong>For example, we may collect user names and passwords.</p>
-<p><strong>Other information. </strong>For example, we may collect information about the website browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location. This may include your precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. If you use our mobile app, we may also access your device’s location information in the background.&nbsp; We might also collect device identifiers. We collect this information using the tracking tools described below. To control those tools, <a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">visit here</a>.</p>
+<p><strong>Other information. </strong>For example, we may collect information about the website browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location. This may include your precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. If you use our mobile app, we may also access your device’s location information in the background.&nbsp; We might also collect device identifiers. We collect this information using the tracking tools described below. To control those tools, <a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">visit here</a>.</p>
 <h3>How We Collect Your Information </h3>
 <p><strong>We collect information directly from you. </strong>For example, we collect information when you register on the Site or make an online purchase. We also collect information if you take our surveys or participate in online forums. From time to time we offer sweepstakes, contests, and prize draws, and collect information as part of those programs. We may also allow you to post information in an online forum.<br>
   <strong><br>
-  We collect information from you passively.</strong>&nbsp;For example, we use common tracking tools like cookies and web beacons. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this website. Learn more about these tools and how you can control them, <a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">here</a>. We also collect information from our mobile apps.<br>
+  We collect information from you passively.</strong>&nbsp;For example, we use common tracking tools like cookies and web beacons. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this website. Learn more about these tools and how you can control them, <a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">here</a>. We also collect information from our mobile apps.<br>
   <strong><br>
   We get information about you from third parties.</strong>&nbsp; For example, social media websites may provide us with information about you. </p>
 <h3>We Combine Information </h3>
@@ -2583,7 +2632,7 @@ async: true
 <h3>Your Choices </h3>
 <p><strong>Opting out of marketing emails. </strong>You can opt out of marketing emails by following the instructions in any marketing emails you receive. You can also opt-out by sending us an&nbsp;<a href="mailto:webmaster@callawaygolf.com">email</a>. To request changes to or to review your information, please send us an&nbsp;<a href="mailto:webmaster@callawaygolf.com">email</a>. You may also log into your account and change your settings. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.</p>
 <p><strong>Controlling information shared with third parties for marketing purposes. </strong>To opt out of having your information shared with third parties for their marketing purposes, please&nbsp;<a href="mailto:webmaster@callawaygolf.com">email us</a>. We will process your request as required by law. Some of our sites also have a "My Profile" area where you can modify your preferences.</p>
-<p><strong>Controlling cookies and tracking tools. </strong>You can choose to turn off tracking tools. To learn how, read our <strong>Do Not Track</strong> policy&nbsp;<a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">here</a>&nbsp;. However if you don't provide us with information you will not be able to participate in certain features, like contests or sweepstakes. Also, if you turn off tracking, some features may not work.<br>
+<p><strong>Controlling cookies and tracking tools. </strong>You can choose to turn off tracking tools. To learn how, read our <strong>Do Not Track</strong> policy&nbsp;<a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">here</a>&nbsp;. However if you don't provide us with information you will not be able to participate in certain features, like contests or sweepstakes. Also, if you turn off tracking, some features may not work.<br>
   We contract with third parties to serve our ads across the Internet. The ads we serve may be based on tracking activities, as described in more detail below.<br>
   <strong><br>
   Controlling tools on your mobile devices. </strong>For example, you can turn off the GPS locator or push notifications on your phone.&nbsp; Each push notification has an “unsubscribe” link.</p>
@@ -2596,7 +2645,7 @@ async: true
 <p>Our sites are generally operated in the United States. If you are located outside of the United States, any information you provide to us will be transferred to the United States. By using our sites and giving us your information, you consent to such transfer, and understand that the U.S. may not provide the same level of protections as the laws of your country.</p>
 <h3>Links to Third-Party Sites </h3>
 <p>Our sites contain links to third-party sites. If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the information practices of that website. You should read the privacy policy of other websites carefully. We are not responsible for such third party's sites.<br>
-  Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click <u>here</u>. We do not control the use of those technologies.</p>
+  Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click <a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">here</a>. We do not control the use of those technologies.</p>
 <h3>Contact Us </h3>
 <p>If you have any questions about this Policy, please email us at <a href="mailto:webmaster@callawaygolf.com">webmaster@callawaygolf.com</a>.<br>
   You can also write to us or call us at:<br>
@@ -2654,6 +2703,14 @@ async: true
 
 	 
 
+
+	
+
+
+
+
+
+ 
 	
 </div>
 <div id="footer-4" class="slot slot-content">
@@ -2677,7 +2734,9 @@ async: true
 
 
 
+
 <div id="asset-order-status-modal" class="contentAsset"><!-- dwMarker="content" dwContentID="d6a7696260f6fce8da2ec3d2d6" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -2692,7 +2751,7 @@ async: true
         <h4 class="modal-title" id="statusLabel">Your Order Status</h4>
       </div>
       <div class="modal-body">
-        <form action="https://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/OrderStatus-Detail" method="get" id="dwfrm_login">
+        <form action="https://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/OrderStatus-Detail" method="get" id="dwfrm_login">
 			<fieldset>
 					<div class="form-group">
 						<input placeholder="Order Number" class="form-control" id="OrderId" type="text" name="OrderId" value="" maxlength="2147483647">					
@@ -2731,6 +2790,7 @@ async: true
 
 
 <div id="asset-password-reset-modal" class="contentAsset"><!-- dwMarker="content" dwContentID="6e713aea61ee19d9c5f0f90c7f" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -2929,18 +2989,18 @@ async: true
 
 
 <div class="accountpasswordreset">
-<form method="post" name="AccountPasswordResetForm" id="AccountPasswordResetForm" onsubmit="return false;">
+<form method="post" name="AccountPasswordResetForm1" id="AccountPasswordResetForm1" onsubmit="return false;">
 <fieldset>
 <legend class="noDisplay">Reset Password</legend>
 <div class="col-md-8 col-md-offset-2">
 <p>Provide your email address below and we will send you a new password shortly.</p>
-<div id="AccountErrorMessage" class="alert alert-error"></div>
+<div id="AccountErrorMessage1" class="alert alert-error"></div>
 <div class="form-group">
-<input class="form-control" placeholder="Email Address" id="accountrequestpassword_email" name="requestpassword_email" type="email" autocomplete="off">
+<input class="form-control" placeholder="Email Address" id="accountrequestpassword_email1" name="requestpassword_email" type="email" autocomplete="off">
 <span class="noDisplay">E-Mail</span>
 </div>
 <div class="form-group">
-<button id="account_pw_send_btn" type="submit" value="Send Password" class="btn btn-large btn-block btn-primary">Send Password</button>
+<button id="account_pw_send_btn1" type="submit" value="Send Password" class="btn btn-large btn-block btn-primary">Send Password</button>
 </div>
 </div>
 </fieldset>
@@ -2949,19 +3009,19 @@ async: true
 <script>
 (function ($) {
 var validator,
-form = $("#AccountPasswordResetForm"),
+form = $("#AccountPasswordResetForm1"),
 applyValidation = function () {
 validator = form.validate && form.validate({
 "focusInvalid" : false,
 "errorClass": "invalid",
 "rules": {
-"accountrequestpassword_email" : {
+"accountrequestpassword_email1" : {
 "required" : true,
 "email" : true
 }
 },
 "messages" : {
-"accountrequestpassword_email" : {
+"accountrequestpassword_email1" : {
 "required" : $.createToolTipElement("An email address is required"),
 "email" : $.createToolTipElement("Must be in the format of name@domain.com")
 }
@@ -2977,12 +3037,12 @@ window.common && common.push({"name" : "init.enableToolTips"});
 function setPasswordResetError(msg) {
 if(msg)
 {
-$(".accountpasswordreset").find("#AccountErrorMessage").show();
+$(".accountpasswordreset").find("#AccountErrorMessage1").show();
 $("#passwordResetSuccess").hide();
-$("#AccountErrorMessage span").remove();
+$("#AccountErrorMessage1 span").remove();
 $("#passwordResetSuccess span").remove();
 }
-$(".accountpasswordreset").find("#AccountErrorMessage").append("<span class=\"error_message\">" + msg + "<\/span>");
+$(".accountpasswordreset").find("#AccountErrorMessage1").append("<span class=\"error_message\">" + msg + "<\/span>");
 };
 function setPasswordResetSuccess(msg) {
 if(msg) {
@@ -3004,22 +3064,22 @@ applyValidation();
 $(window).load(applyValidation);
 }
 });
-$("#AccountErrorMessage").hide();
+$("#AccountErrorMessage1").hide();
 $("#passwordResetSuccess").hide();
 $(":input[name='requestpassword_email']").keyup(function(){
-$("#AccountErrorMessage").css('display','none');
+$("#AccountErrorMessage1").css('display','none');
 });
-$('#account_pw_send_btn').unbind('click');
-$('#account_pw_send_btn').click(function() {
-if($("#AccountPasswordResetForm").valid()) {
+$('#account_pw_send_btn1').unbind('click');
+$('#account_pw_send_btn1').click(function() {
+if($("#AccountPasswordResetForm1").valid()) {
 $("body").addClass("loading");
 $('body').css('cursor', 'wait');
-var post = $('#AccountPasswordResetForm').serialize();
-$("#account_pw_send_btn").prop('disabled',true);
+var post = $('#AccountPasswordResetForm1').serialize();
+$("#account_pw_send_btn1").prop('disabled',true);
 $.ajax({
-type: "POST",
+type: "GET",
 dataType: "jsonp",
-url: "http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Account-PasswordReset",
+url: "http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Account-PasswordReset",
 data: post,
 success: function(data){
 if (data.errorMessage){
@@ -3029,13 +3089,13 @@ if (data.successMessage){
 setPasswordResetSuccess(data.successMessage);
 }
 $("body").removeClass("loading");
-$("#account_pw_send_btn").prop('disabled',false);
+$("#account_pw_send_btn1").prop('disabled',false);
 $('body').css('cursor', 'auto');
 },
 failure: function(data) {
 $('#PasswordResetDialog').dialog("close").destroy();
 $("body").removeClass("loading");
-$("#account_pw_send_btn").prop('disabled',false);
+$("#account_pw_send_btn1").prop('disabled',false);
 $('body').css('cursor', 'auto');
 }
 });
@@ -3094,7 +3154,8 @@ $('#PasswordResetDialog').dialog('open');
 
 
 
-<div id="3defafca737c3868e20365c287" class="email-subscription-container" style="">
+
+<div id="625141a421f0c1e15c152172f8" class="email-subscription-container" style="">
 
 
 
@@ -3108,6 +3169,7 @@ $('#PasswordResetDialog').dialog('open');
 
 
 <div id="asset-footer-email-subscription" class="contentAsset"><!-- dwMarker="content" dwContentID="7ef269f516c84c026de21f9580" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3127,13 +3189,13 @@ $('#PasswordResetDialog').dialog('open');
 
 <div class="email-subscription">
 <div class="email-subscription-form">
-<form id="fe6634931390a5481a74f2e744" method="post" action="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Registration-Subscribe" class="subscription-form">
-<input name="source" type="hidden" class="sourceID" value="YvL2CghAQ/RfpIOdFqMVJySew990/qddxa64fTd71Y5ZOQ+lORDlckd2CBNmepRUd0d94lphw3eZ/3Y5EqbpQA==">
+<form id="920ebd726b588d37cfbc6c86ff" method="post" action="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/Registration-Subscribe" class="subscription-form">
+<input name="source" type="hidden" class="sourceID" value="kclFfjL4+v/zrt7/A9slG05ykwKIzL/XyQP1jz6JfBtH7RpFAJ8LQrsBZ5a0Y09HQKoYyqXAiPhXbP3o/3w0fQ==">
 <input name="msgID" type="hidden" value="footer-email-subscription">
 <input name="format" type="hidden" value="">
 <div class="input-append form-group form-group-lg col-md-6 col-md-offset-3">
 <label class="noDisplay">Enter your email address</label>
-<input class="form-control" id="subscriptionEmail-fe6634931390a5481a74f2e744" name="email" type="text" placeholder="Enter your email address">
+<input class="form-control" id="subscriptionEmail-920ebd726b588d37cfbc6c86ff" name="email" type="text" placeholder="Enter your email address">
 <button type="submit" class="email-subscribe-submit" name="signUp"><span class="icon-arrow-right-circle"></span> <span class="noDisplay">Sign Up</span></button>
 </div>
 <div class="email-modal-dismiss noDisplay">
@@ -3177,7 +3239,9 @@ No, Thanks
 
 
 
+
 <div id="asset-footer-callaway-logo" class="contentAsset"><!-- dwMarker="content" dwContentID="ce261b1ee5599f84d98f936439" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3200,14 +3264,14 @@ No, Thanks
 
 <div class="mini-locale-selector btn-group dropup">
 <button class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-<span class="locale-default dropdown-txt">Change Your Region</span>
+<span class="locale-en_US dropdown-txt">Change Your Region</span>
 <span class="caret"></span>
 </button>
 <ul class="dropdown-menu">
 
 
 <li class="locale-en_US">
-<a href="/on/demandware.store/Sites-CG2-Site/en_US/Home-Show">USA</a>
+<a href="http://cmp.callawaygolf.com/">USA</a>
 </li>
 
 
@@ -3303,7 +3367,9 @@ No, Thanks
 
 
 
+
 <div id="asset-footer-help-links" class="contentAsset"><!-- dwMarker="content" dwContentID="b3cded88ec7c394a1e3f788f74" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3311,13 +3377,13 @@ No, Thanks
 
 <h5>Help</h5>
 <ul>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show">Contact Us</a></li>
 <li><a href="#" data-toggle="modal" data-target="#orderStatusModal">Order Status</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-faqs">FAQs</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-warranty">Warranty Info</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-counterfeit-warning">Counterfeit Warning</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=orders&amp;cid=help-return-policy">Return Policy</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=orders&amp;cid=orders-payment-shipping">Payment/Shipping Options</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-faqs">FAQs</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-warranty">Warranty Info</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=help&amp;cid=help-counterfeit-warning">Counterfeit Warning</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=orders&amp;cid=help-return-policy">Return Policy</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=orders&amp;cid=orders-payment-shipping">Payment/Shipping Options</a></li>
 </ul>
 
 
@@ -3354,7 +3420,9 @@ No, Thanks
 
 
 
+
 <div id="asset-footer-corporate-links" class="contentAsset"><!-- dwMarker="content" dwContentID="9020a96dc62622dd5620574f32" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3365,7 +3433,7 @@ No, Thanks
 <li><a href="http://cmp.callawaygolf.com/about-us">About Us</a></li>
 <li><a target="_blank" href="http://www.callawaypresscenter.com/">Press Center</a></li>
 <li><a target="_blank" href="https://callawaygolf.gcs-web.com/">Investor Relations</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=corporate&amp;cid=corporate-careers">Careers</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=corporate&amp;cid=corporate-careers">Careers</a></li>
 <li><a target="_blank" href="http://cmp.callawaygolf.com/militaryappreciation">Military Appreciation</a></li>
 </ul>
 
@@ -3403,7 +3471,9 @@ No, Thanks
 
 
 
+
 <div id="asset-footer-legal-links" class="contentAsset"><!-- dwMarker="content" dwContentID="e932a75d881715bf6cb4d6dacf" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3411,11 +3481,11 @@ No, Thanks
 
 <h5>Legal</h5>
 <ul>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal">Legal</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal-privacy-policy">Privacy Policy</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">Ad and Cookie Policy</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal-testimonial-disclaimer">Testimonial Disclaimer</a></li>
-<li><a href="http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=corporate&amp;cid=corporate-social-responsibility%20">Social Responsibility</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal">Legal</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal-privacy-policy">Privacy Policy</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=ad-cookie-policy">Ad and Cookie Policy</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&amp;cid=legal-testimonial-disclaimer">Testimonial Disclaimer</a></li>
+<li><a href="http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=corporate&amp;cid=corporate-social-responsibility%20">Social Responsibility</a></li>
 </ul>
 <div class="footer-social-links">
 <a href="https://www.facebook.com/Callaway/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> <span class="noDisplay">View Our Facebook Page</span></a>
@@ -3459,7 +3529,9 @@ No, Thanks
 
 
 
+
 <div id="asset-footer-logos" class="contentAsset"><!-- dwMarker="content" dwContentID="6c6ac6db138227db05f1813b07" template="app_cg2:rendering/content/contentsFrame" -->
+
 
 
 
@@ -3484,6 +3556,7 @@ No, Thanks
 </div>
 </footer>
 
+
 <div id="popup-trigger"></div>
 
 
@@ -3500,25 +3573,22 @@ No, Thanks
 
 
 
+
 </div>
 
 
 
 
-
-
-
-
-<script type="text/javascript" src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/mmenu/js/mmenu.min.js"></script>
-<link type="text/css" rel="stylesheet" href="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/mmenu/css/mmenu.all.min.css">
+<script type="text/javascript" src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/mmenu/js/mmenu.js"></script>
+<link type="text/css" rel="stylesheet" href="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/mmenu/css/mmenu.all.css">
 
 
 
 
 
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/bootstrap3/js/bootstrap.min.js"></script>
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/bootstrap/js/jqBootstrapValidation.min.js"></script>
-
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/bootstrap3/js/bootstrap.min.js"></script>
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/bootstrap/js/jqBootstrapValidation.js"></script>
+<script src="http://shop.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/bootstrap/js/jqBootstrapValidation.js"></script>
 
 <script src="https://use.fontawesome.com/8d1ea1591f.js"></script>
 
@@ -3526,7 +3596,7 @@ No, Thanks
 
 	
 
-<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=9495&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171109181615id_%2Fhttp%253A%2F%2Fwww.callawaygolf.com%2Fon%2Fdemandware.store%2FSites-CG2-Site%2Fen_US%2FCustomerService-Show%253Ffid%253Dlegal%2526cid%253Dlegal-privacy-policy&amp;cb=37211530561838904"></script><script type="text/javascript">
+<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=9495&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180626125548id_%2Fhttp%253A%2F%2Fwww.callawaygolf.com%2Fon%2Fdemandware.store%2FSites-CG2-Site%2Fen_US%2FCustomerService-Show%253Ffid%253Dlegal%2526cid%253Dlegal-privacy-policy&amp;cb=64836901101248360"></script><script type="text/javascript">
 (function(){"use strict";var e=null,b="4.0.0",
 n="9495",
 additional="",
@@ -3593,21 +3663,21 @@ var MathTag = {
 version: "1.0",
 previous_url: document.referrer,
 industry: "retail",
-mt_adid: "180048", // unique MediaMath ID for CGI sites
-mt_excl: "", // hashed user ID in SHA-1 format
-mt_exem: "", // hashed email address in SHA-1 format
+mt_adid: "180048", /* unique MediaMath ID for CGI sites */
+mt_excl: "", /* hashed user ID in SHA-1 format */
+mt_exem: "", /* hashed email address in SHA-1 format */
 event_type: "catchall",
-mt_id: "1123261", // unique MediaMath ID for event type
-order_id: "", // unique ID for any given completed purchase
-revenue: "", // net sales from a completed purchase (without "$" sign)
-currency: "", // currency in "usd", "eur", "gbp" style format
-page_name: "", // optional, unique name for any given page
-search_query: "", // search term queried by the user
-product_id: "", // unique SKU-level ID (must tie to the product feed)
+mt_id: "1123261", /* unique MediaMath ID for event type */
+order_id: "", /* unique ID for any given completed purchase */
+revenue: "", /* net sales from a completed purchase (without "$" sign) */
+currency: "", /* currency in "usd", "eur", "gbp" style format */
+page_name: "", /* optional, unique name for any given page */
+search_query: "", /* search term queried by the user */
+product_id: "", /* unique SKU-level ID (must tie to the product feed) */
 product_category: "",
 product_name: "",
-product_retail_price: "", // full price for a given item (without "$" sign)
-product_discount_price: "", // lowest price paid for a given item (without "$" sign)
+product_retail_price: "", /* full price for a given item (without "$" sign) */
+product_discount_price: "", /* lowest price paid for a given item (without "$" sign) */
 product_quantity: "",
 product_brand: "",
 billing_postal_code: ""
@@ -3630,13 +3700,22 @@ billing_postal_code: ""
 
 
 
-<script src="http://www.callawaygolf.com/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/bootstrap/js/jqBootstrapValidation.min.js"></script>
+
+
+
+
+
+	<img height="1" width="1" src="https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDc1NzM3MzcvdC8y/kv/pagename=null">
+
+
+
+
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/__Analytics-Tracking";
+        var trackingUrl = "http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -3648,9 +3727,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-CG2-Site/-/en_US/v1510187478883/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-CG2-Site/-/en_US/v1529986409840/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 </body></html>
