@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910063423id_/https%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626215327id_/https%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
 
-# Wikileaf - Privacy Policy
+# Privacy Policy of Wikileaf
 
 Wikileaf.com, Inc., (Wikileaf), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Wikileaf.com, Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
@@ -60,4 +60,4 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 
 **Email:** support@wikileaf.com
 
-**Telephone Number:** 206-459-6667
+**Telephone Number:** 206-771-1296
