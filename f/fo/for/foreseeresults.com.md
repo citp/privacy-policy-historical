@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010205128id_/http%3A//www.foreseeresults.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626045348id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeSee
 
@@ -10,7 +10,7 @@ In many cases, our surveys are anonymous; however, some of our clients may ask y
 
 This Privacy Statement describes how ForeSee Results, Inc. (“ForeSee”) collects, uses, and discloses certain personally identifiable information (“Personal Data”) that it receives about the following types of individuals through certain websites, mobile websites, and mobile applications as outlined herein: (i) ForeSee’s own website visitors, (ii) ForeSee’s clients (“Clients”), and (iii) ForeSee’s Clients’ customers and website visitors.  ForeSee’s practices with respect to each of these categories of individuals is explained below.
 
-ForeSee recognizes that the European Union (“EU”) has established strict protections regarding the handling of Personal Data, and ForeSee therefore has elected to adhere to the US-EU and Privacy Shield Principles (the “Privacy Shield”) with respect to such Personal Data that it receives in the United States about individuals located in the EU. ForeSee also engages with its Clients in the EU Model Clauses for data processing.
+ForeSee recognizes that the European Union (“EU”) has established strict protections regarding the handling of Personal Data, and ForeSee therefore has elected to adhere to the EU-U.S. Privacy Shield Framework (the “Privacy Shield”) with respect to such Personal Data that it receives in the United States about individuals located in the EU. ForeSee also engages with its Clients in the EU Model Clauses for data processing.
 
 For further background and information about Privacy Shield, and to see ForeSee’s representation on the Privacy Shield List, please refer to the Privacy Shield website at [www.privacyshield.gov](https://www.privacyshield.gov/).
 
