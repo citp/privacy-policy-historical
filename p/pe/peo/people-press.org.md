@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the people-press.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032547id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people-press.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626165716id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
-Effective Date:  Oct. 10, 2017
+Effective Date:  March 27, 2018
 
 Pew Research Center (“we,” “us,” or “our”) shares your concerns about maintaining the integrity and privacy of personal information collected on the internet.  We are committed to protecting your privacy, and this privacy policy (“Policy”) is intended to describe our information collection and dissemination practices in connection with Pew Research Center family of websites located at www.pewresearch.org or any website or service that links to or refers to this Policy (collectively, the “Sites”).
 
@@ -12,19 +12,19 @@ Please review the entire Policy and feel free to contact us using the contact in
 
 We may collect the following kinds of information when you use the Sites:
 
-__Information you provide directly to us__ _._ For certain activities, such as when you register, subscribe to our alerts, download our datasets, or contact us directly, we may collect some or all of the following types of information:
+__Information you provide directly to us_._ For certain activities, such as when you register, subscribe to our alerts, download our datasets, or contact us directly, we may collect some or all of the following types of information:
 
-  * Contact information, such as your full name, email address, mobile phone number, and address;
-  * Username and password; and
-  * Any other information you provide to us.
+Contact information, such as your full name, email address, mobile phone number, and address;
 
+Username and password; and
 
+Any other information you provide to us.
 
 We may combine such information with information we may already have about you.
 
-__Information we collect automatically__ _._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
+__Information we collect automatically_._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
 
-We and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Sites, you consent to our use of cookies and similar technologies.
+We and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information.  For more information about cookies, pixel tags, Local Shared Objects, and similar technologies, please see the “Cookies” section below.
 
 We may also collect technical data to address and fix technical problems and improve our Sites, including the memory state of your device when a system or app crash occurs while using our Sites.  Your device or browser settings may permit you to control the collection of this technical data.  This data may include parts of a document you were using when a problem occurred, or the contents of your communications.  By using the Sites, you are consenting to the collection of this technical data.
 
@@ -49,10 +49,10 @@ We generally use the information we collect online to:
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-  * __Authorized third-party vendors and service providers__ _._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.
+  * __Authorized third-party vendors and service providers_._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.
   * __Corporate affiliates__. We may share your information with our corporate affiliates that are subject to this policy.
-  * __Business transfers__ _._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
-  * __Legal purposes__ _._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of Pew Research Center, our affiliates, users, or the public.
+  * __Business transfers_._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * __Legal purposes_._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of Pew Research Center, our affiliates, users, or the public.
   * __With your consent or at your direction__. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
 
 
@@ -83,19 +83,25 @@ To opt out of interest-based advertising across browsers and devices from compan
 
 __Do-Not-Track Signals and Similar Mechanisms__. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-**VII.** **INTERNATIONAL USERS**
+**VII. COOKIES**
+
+Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  To find out more above cookies, including how to see what cookies have been set and how to manage and delete them, visit www.aboutcookies.org or www.allaboutcookies.org.
+
+We use cookies, Local Shared Objects, and similar technologies for technical reasons to enable the efficient operation of the Sites, to enhance the ease of use of the Sites, and to gather statistics on how you use our Sites.  By using the Sites, you consent to our use of cookies and similar technologies.  You may opt out of cookies and similar technologies in accordance with the “Choices” section above, but please understand that certain functionalities on the Site may no longer function for you if you choose to do so.
+
+**VIII.** **INTERNATIONAL USERS**
 
 We maintain information in the United States of America and in accordance with the laws of the United States, which may not provide the same level of protection as the laws in your jurisdiction.  By using the Sites and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.
 
-**VIII.** **CHILDREN**
+**XI.** **CHILDREN**
 
 We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law.  If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
 
-**IX.** **CHANGES TO THE PRIVACY POLICY**
+**X.** **CHANGES TO THE PRIVACY POLICY**
 
 We may update this Policy from time to time. When we update the Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Sites to stay informed of our privacy practices.
 
-**X.** **CONTACT INFORMATION**
+**XI.** **CONTACT INFORMATION**
 
 If you have any questions about this Policy or our practices, please contact us at:
 
