@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204184114id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626041044id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Pages
 
