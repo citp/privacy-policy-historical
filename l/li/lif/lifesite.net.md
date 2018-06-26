@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831161925id_/https%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626112425id_/https%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LifeSite
 
@@ -10,7 +10,7 @@ LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alterna
 
 The registration process is used to tailor the news sent to your email address. See “Use of Registration Information” below.
 
-For information about LifeSiteNews.com’s services, please see the following page: [ http://www.lifesitenews.com/about/](http://www.lifesitenews.com/about/).
+For information about LifeSiteNews.com’s services, please see the following page: [ http://www.lifesitenews.com/about](http://www.lifesitenews.com/about/).
 
 **Use of Registration Information**
 
@@ -30,13 +30,13 @@ LifeSiteNews.com features security measures to protect the loss, misuse or alter
 
 We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information
 
-**Subscribe/Unsusbscribe**
+**Subscribe/Unsubscribe**
 
 LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page:
 
 **Correct/Update Personal Information**
 
-      LifeSiteNews.Com allows you to change or modify your personal information by sending e-mail to remove an e-mail address or by visiting a designated customer service page.
+      LifeSiteNews.Com allows you to change or modify your personal information by sending email to remove an e-mail address or by visiting a designated customer service page.
 
 **Disclaimer**
 
@@ -44,4 +44,4 @@ This site contains links to other sites. LifeSiteNews.com is not responsible for
 
 **Contact Us**
 
-If you have any additional questions or concerns about our privacy policy, please contact us at [ http://www.lifesitenews.com/contact.html](http://www.lifesitenews.com/contact.html)
+If you have any additional questions or concerns about our privacy policy, please contact us at [ https://www.lifesitenews.com/contact](https://www.lifesitenews.com/contact)
