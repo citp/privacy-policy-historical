@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallstreetdaily.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704111917id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetdaily.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626200844id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wall Street Daily | Wall Street Daily
+# Privacy Policy | Wall Street Daily
 
 We’re super sensitive about our privacy and assume you are too. So at _Wall Street Daily_ we take your individual privacy very seriously. We’re also aware of the threats to your security and privacy on the Internet.
 
