@@ -1,93 +1,63 @@
-> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150252id_/http%3A//www.jomres.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D16%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626193353id_/https%3A//www.jomres.net/2-uncategorised/49-privacy-policy) for the most accurate reproduction.*
 
-# Jomres - online hotel booking software for Mambo/Joomla, from Woollyinwales IT - Privacy Notice
+# Jomres the Online Booking System for Joomla and WordPress - Privacy Policy
 
-### Effective 26 July 2005
-
-### Privacy Notice Table Of Contents:
-
-Our Commitment To Privacy   
-The Information We Collect   
-How We Use Information   
-Our Commitment To Data Security   
-Our Commitment To Children's Privacy   
-How To Access Or Correct Your Information   
-How To Contact Us
+## Privacy Policy
 
   
+Last updated: 06 April 2018
 
+**Woollyinwales IT** ("us", "we", or "our") operates [http://www.jomres.net](http://www.jomres.net/) (the "Site").
 
-### Our Commitment To Privacy
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-  
+### Information Collection And Use
 
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information") and email address. This information is used to administer your account and process orders.
 
-### The Information We Collect: 
+We have not, and will never, share your information with third parties. The only exception to this are payment gateways we use to provide trials/payments for services. Please see their sites for their specific privacy policies.
 
-This notice applies to all information collected or submitted on this website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+We do not store ANY information that your Jomres installation generates. Your clients are just that, yours, they're not our and we do not request or store any of their information.
 
-  
+### How long do we store your information for?
 
+Unless you specifically request it, we will store the information you save in your account indefinately, both for tax purposes and to maintain a record of your licenses. If you raise a ticket, again we will store this information indefinately as having a record of our interactions with you allows us to ensure that we are providing you with the best possible service.
 
-Name   
-Address   
-Email address   
-Phone number 
+You can, at any time, request that we remove your information. Please contact us via the ticket system. So long as you do not have any active licenses with us, we will be happy to anonymise all of your personally identifyable information.
 
-  
+### Download your data
 
+You can download the PII data that we store for you via your account, menu option "Download you data". On that page we you will see two separate information fields. The first field shows your PII as stored in the license server. The second field shows any ticket posts associated with your email address.
 
-### The Information We DONT Collect:
+### Log Data
 
-Credit/Debit Card Information 
+Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this.
 
-  
+### Communications
 
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information through newsletters or other communications, however we will never share this information with third parties. We send out newsletters occasionally, but _you must_ opt into receiving those newsletters, and you can unsubscribe at any time. Most updates are provided through our Facebook and Twitter feeds, and through the Jomres Control Panel itself.
 
-### The Way We Use Information:
+[edit April 2018] At this moment in time new users cannot subscribe to newsletters. We prefer to share information through Facebook, Twitter, Github and the forum.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+### ​Cookies
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site, such as the forum or the shop.
 
-We use return email addresses to answer the email we receive. We may also use email addresses to keep registrants of the Jomres.net family of websites up to date with new releases. Such addresses are not used for any other purpose and are not shared with outside parties. 
+### Security
 
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+### Changes To This Privacy Policy
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+This Privacy Policy is effective as of 26 April 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this  
+page.
 
-  
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-### Our Commitment To Data Security
+### Contact Us
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-  
-
-
-### Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-  
-
-
-### How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and maintain by calling us or sending us an email.. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-  
-
-
-### How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please contact us.
+If you have any questions about this Privacy Policy, please [contact us](https://www.jomres.net/contact).
