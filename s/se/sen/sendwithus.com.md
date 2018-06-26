@@ -1,139 +1,77 @@
-> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523092342id_/http%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626222025id_/https%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · sendwithus
+# Privacy Policy · Sendwithus
 
-##### Last Updated: February 13, 2015
+##  DYSPATCH Privacy Policy
 
-Thanks for using Sendwithus, and taking the time to read through this =]
+Jump to Sendwithus Privacy Policy
 
-Sendwithus is owned and operated by Techdrop Labs Inc. ("Techdrop Labs").  
-Techdrop Labs is committed to protecting the privacy of your information.
+We at Dyspatch (“Dyspatch,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the dispatch.io website (the “Website”) or any other features, content, or applications offered from time to time by Dyspatch in connection therewith (collectively, the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-  * #### Web Site Covered
+###  I. What Does This Privacy Policy Cover?
 
-This Privacy Policy covers the information practices of [sendwithus.com](http://sendwithus.com/).
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-  * #### Information Collected
+We do not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register for the Services. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any Personal Information to us or on the Services. In the event that we learn that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [ legal@dyspatch.io ](mailto:legal@dyspatch.io). 
 
-Techdrop Labs offers a service under of the name sendwithus (the "Service"). Techdrop Labs collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Service (“Customers”).
+We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below. 
 
-    * When expressing an interest in obtaining additional information about the Service or registering to use the Service, Techdrop Labs requires you to provide personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”).
+###  II. What Information Does Dyspatch Collect?
 
-    * When purchasing the Service, Techdrop Labs requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”).
+**A. Information You Provide to Us:**
 
-    * Techdrop Labs may also ask you to provide additional information, such as industry, company revenues, or number of employees (“Optional Information”).
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information, including but not limited to, your name, title, Dyspatch, email address, phone number, address, location and browser information. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
-Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Techdrop Labs Customers.”
+If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by sending an email to [ legal@dyspatch.io ](mailto:legal@dyspatch.io). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
-    * As you navigate the Company’s Web site, Techdrop Labs may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
+**B. Information Collected Automatically:**
 
-  * #### Use of Information Collected
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties. 
 
-The Company uses Data About Techdrop Labs Customers to perform the services requested.
+When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Services, so that we can make the Services appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally. 
 
-    * For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
+###  III. Will Dyspatch Share Any of the Personal Information it Receives?
 
-    * Techdrop Labs uses Contact Information for account access, service notifications, and other purposes related to use of the Services.
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we do share your Personal Information with third parties as described in Section II and in this Section: 
 
-    * Techdrop Labs uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
+**A. Affiliated Businesses and Third Party Websites We Do Not Control:** In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Services (either alone or jointly with us).You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies. 
 
-    * The Company may also use Data About Techdrop Labs Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
+**B. Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
 
-    * Techdrop Labs uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Techdrop Labs Customers to provide personalized information about the Company.
+**C. Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party. 
 
-  * ##### Web Site Navigational Information
+**D. Protection of Dyspatch and Others:** We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Dyspatch, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-Techdrop Labs uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
+**E. With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information. 
 
-    1. #### Cookies
+###  IV. Is Personal Information About me Secure? 
 
-Techdrop Labs uses cookies to make interactions with the Company’s Web site easy and meaningful. When you visit the Company’s Web site, Techdrop Labs servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Techdrop Labs, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or other Web forms that may be displayed), you remain anonymous to the Company. Techdrop Labs uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+We endeavor to protect the privacy of your Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
-If you have chosen to identify yourself to Techdrop Labs, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and r equests. Session cookies are required to use the Services.
+The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
-Techdrop Labs uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Web site. When you purchase the Services or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web site, but you will not be able to successfully use the Services.
+###  V. WHAT PERSONAL INFORMATION CAN I ACCESS? 
 
-Techdrop Labs may use information from session and persistent cookies in combination with Data About Techdrop Labs Customers to provide you with information about the Company and the Services.
+Our Services give you access to a range of information (including Personal Information) about your account and your interactions with the Services for the purpose of viewing and, in certain cases, updating or deleting that information. The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [ legal@dyspatch.io ](mailto:legal@dyspatch.io). 
 
-    2. #### Web Beacons
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Information to third parties for such third parties’ direct marking purposes; in order to submit such a request, please contact us at [ legal@dyspatch.io ](mailto:legal@dyspatch.io). 
 
-Techdrop Labs uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Techdrop Labs may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web site. Techdrop Labs uses Web beacons to operate and improve the Company’s Web site and email communications.
+###  VI. What Choices Do I Have? 
 
-Techdrop Labs may use information from Web beacons in combination with Data About Techdrop Labs Customers to provide you with information about the Company and the Services.
+You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. 
 
-    3. #### IP Addresses
+You may request deletion of your information by emailing us at [ legal@dyspatch.io ](mailto:legal@dyspatch.io). Please note that some information may remain in our records, for example in our archives, after your request of deletion of such information. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Please also note that comments you post publicly on our Website, such as comments on our blog posts, will remain visible to the public. 
 
-When you visit Techdrop Labs' Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Techdrop Labs uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web site.
+If you have any questions about viewing or updating information we have on file about you, please contact us at [ legal@dyspatch.io ](mailto:legal@dyspatch.io). Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [ legal@dyspatch.io ](mailto:legal@dyspatch.io). 
 
-    4. #### Third Party Cookies
+###  VII. Changes to this Privacy Policy 
 
-From time-to-time, Techdrop Labs engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web site. Techdrop Labs may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you a message. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been first posted. 
 
-Techdrop Labs may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
+###  VIII. Questions or Concerns 
 
-  * #### Public Forums, Refer a Friend, and Customer Testimonials
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [ legal@dyspatch.io ](mailto:legal@dyspatch.io), and we will try to resolve your concerns. 
 
-Techdrop Labs may provide bulletin boards, blogs, or chat rooms on the Company’s Web site directly or via third-party services. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Techdrop Labs is not responsible for the personal information you choose to submit in these forums.
+_Effective Date: March 21 2018_
 
-Techdrop Labs may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Techdrop Labs obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
-
-  * #### Sharing of Information Collected
-
-Techdrop Labs may share Data About Techdrop Labs Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Techdrop Labs may also share Data About Techdrop Labs Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Techdrop Labs does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
-
-From time to time, Techdrop Labs may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Techdrop Labs, the Company may share Data About Techdrop Labs Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Techdrop Labs does not control our business partners’ use of the Data About Techdrop Labs Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
-
-Techdrop Labs uses a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
-
-Techdrop Labs reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
-
-  * #### International Data Collection and Transfer
-
-The Company’s Web site and Services are hosted in the United States. If you are accessing the Web site and/or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions. By providing your personal data you consent to:
-
-    * The use of your personal data for the uses identified above in accordance with the Privacy Policy; and
-
-    * The transfer of your personal data to the United States as indicated above.
-
-To facilitate Techdrop Labs global operations, the Company may transfer and access Data About Techdrop Labs Customers from around the world, including the United States. This Privacy Statement shall apply even if Techdrop Labs transfers Data About Techdrop Labs Customers to other countries.
-
-  * #### European Union Data Protection
-
-To the extent that we store data in the United States, we comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.
-
-If you reside in the European Union, upon registration for any applicable Techdrop Labs service or offering you consent that the personal information you have provided may be transferred and stored in countries outside the EU.
-
-To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-  * #### Communications Preferences
-
-Techdrop Labs offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [support@sendwithus.com](mailto:support@sendwithus.com). Customers cannot opt out of receiving transactional emails related to their account with Techdrop Labs or the Services.
-
-  * #### Correcting and Updating Your Information
-
-Customers may update or change their registration information by logging in to their accounts at <https://app.sendwithus.com/login>. Requests to Techdrop Labs to modify or delete your information will be handled within 30 days once customer account ownership has been verified.
-
-  * #### Security
-
-Techdrop Labs uses appropriate administrative, technical, and physical security measures to protect Data About Techdrop Labs Customers.
-
-  * #### Changes to this Privacy Statement
-
-Techdrop Labs reserves the right to change this Privacy Statement. Techdrop Labs will provide notification of the material changes to this Privacy Statement through the Company’s Web Site at least thirty (30) business days prior to the change taking effect.
-
-  * #### Contacting Us
-
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to [legal@sendwithus.com](mailto:legal@sendwithus.com) or by mailing
-
-Techdrop Labs Inc. Legal  
-375 Water Street  
-Suite 680  
-Vancouver, BC V6B 5C6  
-Canada
-
-
-
-
-Congratulations, you made it all the way to the bottom!
-
-Enjoy a cupcake, on the house!
+_Last Updated: March 22, 2018_
