@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602124754id_/https%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winni.in privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082623id_/https%3A//www.winni.in/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Winni.in
 
@@ -19,10 +19,6 @@ By accepting the Privacy Policy and the User Agreement in registration, you expr
 ## Your Privacy - Our Commitment
 
 At Winni, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
-
-## Winni Privacy Guarantee
-
-Winni promises that we will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Web site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority. We will never reveal your personal and sensitive information like credit card numbers, your password, your order details etc.
 
 ## Information we collect
 
