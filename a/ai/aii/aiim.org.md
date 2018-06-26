@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122113704id_/http%3A//www.aiim.org/global%2520pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626171925id_/http%3A//www.aiim.org/global%2520pages/privacy-policy) for the most accurate reproduction.*
 
 # AIIM International Privacy Statement
 
-This privacy statement discloses the privacy practices for aiim.org and other AIIM online properties, collectively referred to as aiim.org. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. By displaying this statement, this website has agreed to notify you of: 1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the website 
+**Data Controller Contact Information**  
+AIIM International  
+8403 Colesville Rd, Suite 1100  
+Silver Spring, MD 20910  
+[aiim@aiim.org](mailto:aiim@aiim.org)
+
+This privacy statement discloses the privacy practices for aiim.org and other AIIM online properties, collectively referred to as aiim.org. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. By displaying this statement, this website has agreed to notify you of:
+
+1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the website 
 
 2\. The organization collecting the information
 
@@ -89,3 +97,37 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+**For citizens of the European Union and those subject to GDPR:**
+
+When using our website and submitting personal data to us as defined in the GDPR, you are entitled to the following rights:
+
+The right of access  
+You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.
+
+The right to rectification  
+You have the right to have your personal data corrected if it is inaccurate or incomplete.
+
+The right to erasure (right to be forgotten)  
+You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.
+
+The right to restrict processing  
+You have a right to ‘block’ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.
+
+The right to data portability  
+You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.
+
+The right to object  
+You have the right to object to us processing your personal data for the following reasons:
+
+  * Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling);
+  * Direct marketing (including profiling);
+  * Processing for purposes of scientific/historical research and statistics; and
+  * Rights in relation to automated decision-making and profiling.
+
+
+
+Automated individual decision-making and profiling  
+You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
+
+To make these requests, please email [aiim@aiim.org](mailto:aiim@aiim.org) providing your name and email addresses. Proper identification will be required before any action is taken.
