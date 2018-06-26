@@ -1,174 +1,156 @@
-> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125015521id_/http%3A//events.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626101555id_/https%3A//events.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Events.com
 
-### DARK BLUE SEA - PRIVACY POLICY
+**Privacy Policy**
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Last Updated: July 10, 2017
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+Welcome and thank you for your interest in our Privacy Policy.  Events.com is committed to protecting the privacy and security of your Personal Information through your relationship with Events.com, Inc., a California corporation (“ **Events.com** ”, “ **we** ,” or “ **us** ”) and our website at www.events.com (the “ **Site** ”), as well as all related websites, networks, applications, and other services provided by us and on which a link to this Privacy Policy (this “ **Policy** ”) is displayed (collectively, together with the Site, our “ **Service** ”).
 
-The Dark Blue Sea group comprises a number of companies that includes:
+This Policy describes the information that we gather from you on the Service, how we use and disclose such information, and the steps we take to protect such information.  By using the Service, you consent to the privacy practices described in this Policy.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+This Policy is incorporated into and is subject to the Events.com Terms of Service. Capitalized terms used but not defined in this Policy have the meaning given to them in the Events.com Terms of Service.
 
+**What information do we collect on the Service?**
 
+  * ******User-provided Personal Information.**  When you use the Service, you may provide and we may collect what is often called personally identifiable information which is information that specifically identifies an individual.  For the purposes of this Policy, we refer to such information as “ **Personal Information**.” Examples of Personal Information include an individual’s name, email address, mailing address, mobile phone number, and credit card or other billing information. Personal Information may also include other information, such as an individual’s date of birth, geographic area, or preferences, when that information is linked together with Personal Information that identifies a specific individual. You may provide us with Personal Information in various ways on the Service. For example, you provide us with Personal Information when you register for an account, use the Service, make a purchase on the Service, or send us customer service-related requests.
 
-#### ABOUT THIS PRIVACY POLICY
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+  * ******Cookies and Automatically Collected Information**. When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your device. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to use the Service to its fullest potential.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users, and may be connected with your Personal Information.
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+  * ******Location Information.**   We may obtain information about your physical location, such as by use of GPS and other geolocation features in your device, or by inference from other information we collect (for example, your IP address indicates the general geographic region from which you are connecting to the Internet).
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+  * ******Third Party Web Beacons and Third Party Buttons**. We may display third-party content on the Service, including third-party advertising.  Third-party content may use cookies, web beacons, or other mechanisms for obtaining data in connection with your viewing of the third party content on the Service. Additionally, we may implement third party buttons (such as Facebook “like” or “share” buttons) that may function as web beacons even when you do not interact with the button. Information collected through third-party web beacons and buttons is collected directly by these third parties, not by Events.com. Information collected by a third party in this manner is subject to that third party’s own data collection, use, and disclosure policies.
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
 
-In order to do this, we share your personal information with our related companies.
+  * ******Information from Other Sources**. We may obtain information, including Personal Information, from third parties and sources other than the Service, such as our customers, partners and advertisers. If we combine or associate information from other sources with Personal Information that we collect through the Service, we will treat the combined information as Personal Information in accordance with this Policy.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
 
-#### HOW WE COLLECT INFORMATION
 
-**Personal Information provided to us**
+**Other Third Party Connections** : When you use the Service you may connect your account to your accounts on third party services like Instagram, Twitter, Facebook, Google and/or Linkedin in which case we may collect, use, disclose, transfer and store information relating to your account with such third party services in accordance with this Privacy Policy.  For example, if you connect with Instagram, we store your Instagram data which may include your identification, user name, email, profile picture, follower list and location and use them to connect with your Instagram account to provide certain functionality on the Services, like recommending events that your Instagram followers are interested in and sharing the events you are interested in with certain groups of people, like your Instagram followers or the event organizer of the event which you registered. We use services provided by Loginradius to create these connections to your accounts on the third party services mentioned above.  As a term of use of the Loginradius services, Events.com has granted Loginradius a non-exclusive, worldwide, royalty free right to the user content which allows Loginradius to modify, analyze, distribute and use such data in connection with the operation of the service. Loginradius will not sell or share any original user profile data to any third party.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+**How do we use the information we collect**?  
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+We use information we collect on the Service in a variety of ways in providing the Service and operating our business, including the following:  
 
-**Website activity, cookies and related technology**
+  * We use the information that we collect on the Service to operate, maintain, enhance and provide all features of the Service, to provide services and information that you request, to respond to comments and questions and otherwise to provide support to users, and to process and deliver entries and rewards in connection with promotions that may be offered from time to time on the Service.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+  * We use the information that we collect on the Service to understand and analyze the usage trends and preferences of our users, to improve the Service, and to develop new products, services, features, and functionality.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
 
-**IP Addresses**
+  * We may use your email address or other information we collect to contact you for administrative purposes such as customer service or to send communications, including updates on promotions and events, relating to products and services offered by us and by third parties we work with. Generally, you have the ability to opt out of receiving promotional communications as described below under “Your Choices.”
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+  * We may use cookies and automatically collected information to:  (i) personalize our Service, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of the Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+**When do we disclose information**?  
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+Except as described in this Policy, we will not disclose your information that we collect on the Service to third parties without your consent. We may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.  We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+  * Any information that you voluntarily choose to include in a publicly accessible area of the Service will be available to anyone who has access to that content, including other users.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+  * Certain endurance race managers will release, and publish on-line, pre-race rosters which may include all or part of the following information: your first and last name, gender and age or age group in which you have registered to participate.  These pre-race rosters will be accessible by the public.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+  * We work with third party service providers to provide website, application development, hosting, maintenance, and personal information data management services, and other services for us. These third parties may have access to or process your information as part of providing those services for us. Generally, we limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such information.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+  * We may disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws, in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
 
-#### EPP SHARING ARRANGEMENTS
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+  * We also reserve the right to disclose your information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights, property, or safety of others.
 
-#### PROTECTING KIDS PRIVACY
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+  * Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
 
-**Notice to Kids**
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+  * We may make certain aggregated, automatically-collected, or otherwise non-Personal Information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through the Service.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
 
-**Notice to Parents**
+**What are your choices?**
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+You may, of course, decline to share certain Personal Information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, or correct your account information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other Personal Information we hold about you, you may contact us at privacy@events.com. Please note that while any changes you make will be reflected in active user databases within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt out from receiving commercial email from us by sending your request to us by email at privacy@events.com or by writing to us at the address given at the end of this policy.  International Users, in compliance with their local laws may be required to expressly consent and/or opt-in prior to receiving commercial email or other forms of electronic communication from us.  Please be aware that if you opt out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten business days for us to process your request, and you may continue receiving promotional communications from us during that period. Additionally, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+Your device operating system or browser may include settings, options, or add-on components to control the placement and presence of cookies and access to location information.   
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+We use Google Analytics to collect and process certain analytics data; Google provides some additional privacy options described at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+**We may use Third-Party Services.  **
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+The Service may contain features or links to websites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
 
-#### LINKS TO OTHER WEBSITES
+**What is our policy regarding children?**
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+Protecting the privacy of young children is especially important. Our Site is a general audience site not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at privacy@events.com and request that we delete that child’s Personal Information from our systems.
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+**What is our Data Security Policy?**
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+We use certain physical, managerial, and technical safeguards that are designed to improve the integrity and security of Personal Information that we collect and maintain. Please be aware that no security measures are perfect or impenetrable.  We cannot and do not guarantee that your information will not be accessed, viewed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  If we learn of a security breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs.
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+**Are you an International Visitor?**
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+The Service is hosted in the United States. If you choose to use the Service from Canada, the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your Personal Information outside of those regions to the United States for storage and processing. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. By providing any information, including Personal Information, on or to the Service, you consent to such transfer, storage, and processing.
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+If you are an international user, and you have appropriately indicated to us that you are an international user (i.e. using the Services from outside of the United States), then you may not receive commercial email from us, unless you expressly opt in and consent to receive such commercial email, or other electronic communications, in compliance with your local laws, such as the Canada’s Anti-Spam Legislation.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+**E.U.-U.S. Privacy Shield Program**
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+Events.com complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Events.com has certified that it adheres to the Privacy Shield Privacy Principles of notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Events.com is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). To learn more about the Privacy Shield Framework, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+  
+Our self-certification means that we promise that:
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+  1. Notice.  When we collect your personal information, we’ll give you timely and appropriate notice describing what personal information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it.
+  2. Choice.  We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make.
+  3. Relevance.  We’ll collect only as much personal information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent.
+  4. Retention.  We’ll keep your personal information only as long as we need it for the purposes for which we collect it, or as permitted by law.
+  5. Accuracy.  We’ll take appropriate steps to make sure the personal information in our records is accurate.
+  6. Security.  We’ll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration and destruction.
+  7. Sharing.  Except as described in this policy, we won’t share your personal information with third parties without your consent.
+  8. International Transfer.  If we transfer your personal information to another country, we’ll take appropriate measures to protect your privacy and the personal information we transfer.
+  9. Enforcement.  We’ll regularly review how we’re meeting these privacy promises, and we’ll provide an independent way to resolve complaints about our privacy practices.  
 
-#### PRIVACY COMPLAINTS
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
+**We may change and update this Policy.**
 
+Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify this Policy, we will make it available through the Service, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of this Policy.
 
+**Are you a California Resident?**
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
+Residents of California have the right to request a disclosure describing what types of personal information we have shared with third parties for their direct marketing purposes, and with whom we have shared it, during the preceding calendar year.  You may request a copy of that disclosure by contacting us at privacy@events.com.
 
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
+**We respond to your questions, concerns and complaints about privacy**
 
+Events.com will investigate all complaints and will take all reasonable steps to resolve privacy-related issues.  Please contact us with any questions or comments about this Policy, your Personal Information, our use and disclosure practices, or your consent choices by email at privacy@events.com.
 
+Events.com, Inc.
 
-#### YOUR ACCEPTANCE OF THESE TERMS
+Attention: Privacy Compliance / Corporate Counsel
 
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+12255 El Camino Real Suite 210
+
+San Diego, CA 92130
+
+858-257-2300
+
+**European Union Dispute Resolution**
+
+In compliance with the EU-US Privacy Shield Principles, we commit to resolve any complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact us at the above address.
+
+Events.com has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint cannot be resolved through these channels, under certain limited conditions for individuals, binding arbitration option may be available before the Privacy Shield Panel.
