@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217004858id_/http%3A//seattlemag.com/seattle-magazine-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082247id_/http%3A//www.seattlemag.com/seattle-magazine-privacy-policy) for the most accurate reproduction.*
 
 # Seattle Magazine Privacy Policy | Seattle Magazine
 
