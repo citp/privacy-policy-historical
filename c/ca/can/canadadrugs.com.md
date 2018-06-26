@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616004520id_/http%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626102853id_/https%3A//www.canadadrugs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Canadian Pharmacy Online Policies - Canada Drugs
 
@@ -72,11 +72,11 @@ Canada Drugs
 24 Terracon Place   
 Winnipeg, Manitoba Canada   
 R2J 4G7   
-Attention: Brock Gunter-Smith 
+Attention: Carey Gatz 
 
-Telephone No. (204) 654-7950   
+Telephone No. (204) 654-7953   
 Facsimile No. (204) 258-7010   
-E-Mail: brock@canadadrugs.com 
+E-Mail: carey.gatz@canadadrugs.com 
 
 Updating this Policy 
 
