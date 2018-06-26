@@ -1,71 +1,183 @@
-> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214211300id_/http%3A//www.vfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfestival.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626142504id_/https%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Virgin
 
-In order to use the www.vfestival.com website you agree to be bound by the following terms and conditions:
+**Last updated on: 9th October 2017**
 
-TERMS OF USE
+Here at Virgin.com Limited ("Virgin.com", "we" or "us"), we take your privacy seriously. We're committed to protecting the privacy of any personal information you give us and we will comply with all relevant data protection legislation and related applicable UK legislation.
 
-By accessing “www.vfestival.com” (hereinafter “we”, “us”, “our”, “www.vfestival.com”), you agree to be legally bound by the following terms. If you do not agree to be legally bound by all of the following terms then please do not access and/or use “www.vfestival.com”. We may change these at any time and we’ll do our utmost in informing you, though it would be prudent to review this regularly yourself as your continued usage of “www.vfestival.com” after changes mean you agree to be legally bound by these terms as they are updated and/or amended.
+For the purposes of relevant data protection legislation, Virgin.com Limited is the data controller of personal information we hold and process about you. We are registered on the public register of data controllers maintained by the Information Commissioner in the UK. See the "Talk to us" section at the end of this Privacy Policy for details of how to contact us.
 
-We provide the website to you on an ‘as is’ and ‘as available’ basis. Any arrangement between you and a third party is at your sole risk and responsibility.
+We have a philosophy here about the way we use your data you share with us and the way that we communicate with you. If you hear from us, we will always aim to be respectful, relevant and appropriate. If at any time you don't feel we've lived up to our philosophy, please let us know straight away by getting in touch with us through the Contact Us page of Virgin.com.
 
-The copyright, trademarks, domain names and other intellectual property rights in all material and information on www.vfestival.com belongs to us or (it has been licensed to us) by the licensor.
+Please take the time to read this Privacy Policy as it is important for you to understand how we collect and use your data when you use Virgin.com. This policy explains how we collect, use and store the personal information you provide to us. 'Personal information' is data that relates to you and that identifies or can be used to identify you – this might be your name, email address, or other digital identifiers relating to you, such as cookies, IP addresses or logs.
 
-With the exception of non official websites offering V Festival tickets or V Festival merchandise for sale, other websites may use content copied from www.vfestival.com on the condition that this website is acknowledged and a link to this website is provided as part of the article.
+This policy may change from time to time and, if it does, the up-to-date version will always be available on the Virgin.com site. Please make sure that you are aware of the latest version of this Privacy Policy.
 
-You may download or print off copies of the content of www.vfestival.com for your personal, non commercial use and information only but, any copying adaptation of the content, layout or code of www.vfestival.com, or the creation of an archive or database containing the content (in whole are part), for any business purpose or other commercial exploitation, without our specific written consent will constitute copyright and/or trade mark infringement. All other rights are reserved.
+We are proud to give you access to Virgin.com and, in return, we may collect, use and share your personal information as is necessary for us to make the website available in accordance with the Terms and Conditions and to give you the best user experience. We will only use personal information for our purposes in a manner permitted by relevant data protection legislation.
 
-www.vfestival.com owns the copyright in all photographs taken by employees and volunteers of the V Festival. However, photographs taken by freelance photographers who have specific permission to work as a freelance photographer retain the copyright of these images. They are published here with their permission for this websites promotional use only and may not be used without the original copyright owner’s permission.
+**Cookie Policy**
 
-If you do download or print off copies of content you must retain any copyright or other intellectual property notices contained in the original material.
+We use cookies to improve your experience on our site, Virgin.com, and to recommend content that may be of interest to you. You can find out more below about what cookies are, the cookies we use and how to switch them off.
 
-We make no representation or warranty as to the content of third party websites. We exclude all liability for any third party material made available on www.vfestival.com or contained on any third party website that it links to. Any contract concluded with a third party company will be between you and that company only and will be subject to their terms and conditions.
+You can indicate your acceptance to our use of cookies in accordance with this policy by clicking “OK” in the appropriate place on the banner that appears on Virgin.com. However, please note that if you do not click “OK” but continue to browse the site, you will be deemed to have accepted our use of cookies (and what we use them for) in accordance with this Privacy Policy.
 
-You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually orientated or any other material that may violate any laws be it of your country, the country where “www.vfestival.com” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP addresses of all posts are recorded to aid in enforcing these conditions. You agree that “www.vfestival.com” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, “www.vfestival.com” shall not be held responsible for any hacking attempt that may lead to the data being compromised.
+**What are cookies?**
 
-You agree not to try and sell tickets for V Festival within the V Festival forum. Any attempts to do so will be removed by the orgianisers. Any one found abusing this policy will be removed from the website.
+A cookie is a text file containing small amounts of information which is downloaded to your device when you access a website. The text file is then sent back to our server each time your browser requests a page from the server. This enables us to operate the site more effectively and load the site so that it reflects your personal preferences, based on your previous browsing on Virgin.com as well as keywords we may be able to gather from URLs of other webpages from which you accessed Virgin.com. Cookies can also allow us to do various other things, as explained below.
 
-PRIVACY POLICY
+**What cookies do we use?**
 
-Maztec Ltd and Roseclaim Ltd, owners of www.vfestival.com and V Festival as named throughout this policy are committed to protecting your privacy.
+When you visit Virgin.com, the following types of cookies may be downloaded to your device:
 
-We will use the information you input and we collect to allow you to receive the full benefits of the V Festival website and related services.
+**Analytical and Performance Cookies**
 
-We will protect your privacy and information in line with this privacy policy and the law.
+We may use analytics service providers for website traffic analysis and reporting. Analytics service providers generate statistical and other information about the use of Virgin.com by using cookies. They allow us to recognise and count the number of visitors and to see how often visitors return to the site, how long they stay and how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, it helps users to find what they are looking for easily. The information generated relating to the site may be used to create reports about the use of the site and the analytics service provider will store this information.
 
-We may use your information for marketing but it is up to you whether you want to receive information from us. We will automatically send you V Festival updates but at other times we may send you other material.
+**Advertising and Targeting Cookies**
 
-If you input your mobile number this will be passed to our headline sponsor Virgin Media and by inputting your mobile number you are subscribing to Virgin Media updates, to view the Virgin Media privacy policy please visit the Virgin Media website.
+These cookies record your visit to Virgin.com, the pages you have visited and the links you have followed to other sites. We will use this information to try and make our site and other sites that you visit more relevant to your interests. We may also share this information with others, such as other Virgin companies and carefully selected third parties, for this purpose.
 
-We do not disclose your personal information to anyone without your consent.
+We work with technology partners to support our website and to provide you with relevant information about the products and services of other Virgin companies both on Virgin.com and on affiliated sites or sites within the advertising networks we work with. We may use cookies on our site to help us to place relevant Virgin company advertising on third party websites when you visit those sites. If you are not happy for us to do this, please see the section of this policy titled “How do I turn cookies off?” below.
 
-You can unsubscribe at any time by clicking on the unsubscribe link in any of our emails to you.
+**Functionality Cookies**
 
-We may change our privacy policy at any time we therefore encourage you to come back to this page occasionally.
+We may use functional cookies that allow us to remember choices you have made on the site so as to provide you with a more enhanced user experience by delivering content specific to your interests.
 
-This policy explains in detail how “www.vfestival.com” along with its affiliated companies (hereinafter “we”, “us”, “our”, “www.vfestival.com”, “) use any information collected during any session of usage by you (hereinafter “your information”).
+**Strictly Necessary Cookies**
 
-Your information is collected via two ways. Firstly, by browsing “www.vfestival.com” will cause the software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the software. A third cookie will be created once you have browsed topics within “www.vfestival.com” and is used to store which topics have been read, thereby improving your user experience.
+These are cookies that are required for the administration and operation of our site. Some cookies that we use are necessary for our site to function properly and to enable you to move around the site and use its features.
 
-We may also create cookies external to the software whilst browsing “www.vfestival.com”, though these are outside the scope of this document, which is intended to only cover the pages, created by the software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “www.vfestival.com” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).
+**Third Party Cookies**
 
-Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid e-mail address (hereinafter “your e-mail”). Your information for your account at “www.vfestival.com” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your e-mail address required by “www.vfestival.com” during the registration process is either mandatory or optional, at the discretion of “www.vfestival.com”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the software.
+Because Virgin and Richard have a strong presence on various social networks, we try and make it as easy as possible to share content and to see what content is popular on those networks. We add buttons to allow people to easily share to those networks. We also use Facebook to power the commenting functionality on the site. When we include these social 'plugins', it gives those sites the flexibility to use their own cookies. They can't read any cookies we set from Virgin.com, and we can't read any cookies they set, but it lets them do the same kind of traffic measuring that we do on the rest of Virgin.com, and it also lets them know whether you're logged into their site. For example, if you're logged in to Facebook, read a post by Richard Branson and want to make a comment, you can do that straight away without having to log in again - we never know whether you're logged in or not, as you communicate directly with Facebook, through their plugins on our site.
 
-Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “www.vfestival.com”, so please guard it carefully and under no circumstance will anyone affiliated with “www.vfestival.com” or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the software. This process will ask you to submit your user name and your e-mail, and then the software will generate a new password to reclaim your account. V Festival will not at any point sell your details to any third party. Unless you have actively unsubscribed from receiving email newsletters, you agree to permit V Festival to send to your registered email or mobile number communications about V Festival and our carefully selected Festival partners.
+Other sites and services (including, for example, advertising networks, providers of external services like web traffic analysis services and content recommendation engines) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-LIMITATION OF LIABILITY
+**As at 9th October 2017, we use the following third party cookies:**
 
-Whilst V Festival will use it’s reasonable endeavours to ensure that all material found of this website is accurate and up to date it cannot guarantee this to users/readers and V Festival does not represent that the information contained on this website is accurate, complete or verified and will accept no liability or obligation (whether at law or otherwise) for the accuracy or completeness of the information contained in this website for any loss or damage suffered by any person, company or other organisation from any reliance placed upon the information found on this website.
+  * MailChimp - Email distribution
+  * AddThis (Oracle) - Social Sharing tools
+  * Google Analytics - Web Analytics
+  * Google Doubleclick - Virgin Advertising Performance
+  * Twitter - Advertising Targeting
+  * Facebook Social Graph - Social Comment publishing
+  * Facebook Social Plugins - Advertising Targeting
+  * Facebook Custom Audience - Advertising Targeting
+  * Aquia - Virgin Recommendation Engine
+  * YouTube.com - Video Player
+  * Google Tag Manager - Tag Manger
+  * Perfect Market (taboola) - Advertising Targeting
+  * Linked-In - Advertising Targeting
+  * Tealium - Advertising Targeting
 
-Pages on www.vfestival.com that acknowledge a specific author do not necessarily represent the views of V Festival but are presented as the opinion of that author. V Festival has no responsibility for the contents of such articles.
 
-Maztec Ltd Registered Office: 69 Caversham Road, London, NW5 2DR - Registered In England 253904. VAT number 674980681
 
-Roseclaim Ltd Registered Office: Emery House, 192 Heaton Moor Road, Stockport, SK4 4DU - Registered in England 03130736. VAT number 674527705
+Further information on the general use and function of the third party cookies listed above can be found at http://optout.aboutads.info/#/.
 
-Information: hello@vfestival.com
+**How do I turn cookies off?**
 
-TICKET TERMS AND CONDITIONS:
+If you do not wish us to install cookies or you don’t agree with how we use these cookies, you can change the settings on your internet browser to reject them. For more information please consult the “Help” section of your browser or visit www.aboutcookies.org,  www.allaboutcookies.org or http://optout.aboutads.info/#/. Please note that if you do set your browser to reject cookies, you may not be able to use all of the features on our site.
 
-Attendees of V Festival consent to the photography, filming/sound recording as members of the audience, which may be used for promotional or commercial activities that will be used on V Festival.com and associated Social Media communities.
+**What information do we collect if you sign up for our newsletter?**
+
+If you want to sign up to receive our newsletter we will collect personal information from you as is necessary for the newsletter service, namely your email address, name and what you are interested in hearing more about.
+
+**Will we use your information for marketing?**
+
+Once you have given your consent to marketing, we may display offers, promotions, products or services on the site which we think will interest you based upon the information we collect from your cookies. You may withdraw your consent to direct marketing at any time by writing to contactus@virgin.com with the subject line ‘Withdraw consent request from direct marketing’.
+
+**How else will we use your information?**
+
+We may also use your information for the following purposes:
+
+  * To help us make the website and other related content available to you (please see the "Will we share your information with anyone else?" section below for more information)
+  * To make the website more relevant for you and our other visitors. This includes sometimes requesting personal information from you to help us run and develop our website and associated functions
+  * To send you our newsletter if you have signed up to receive it
+  * To carry out occasional surveys to analyse our user base — ultimately we want to ensure that Virgin.com provides everything that you — our audience — is looking for
+  * To check whether you are eligible for a competition and to contact you if you win
+  * To comply with the law
+  * As we feel is necessary to prevent illegal activity or to protect our interests
+
+
+
+**How long do we keep hold of the information?**
+
+There are certain reasons that we have to keep hold of some of your information. Naturally we keep your information while you are registered with us so that we are able to provide the service to you but we also keep it after you've left us, though only for as long as we need it. How long we keep it depends very much on the type of information we are holding and the purpose for which we need it. We also have to take into account our legal obligations in respect of how long we keep that data.
+
+You can request that we delete your personal information at any time.
+
+**Will we share your information with anyone else?**
+
+Only if…
+
+  * You specifically request this, such as when you submit information to enquire about jobs or submit a job application through www.virgin.com
+  * We are required to do so to comply with the law or with the directions of the courts or other authorities
+  * We feel it is reasonably necessary to prevent illegal activity or to protect our interests
+  * We feel that other Virgin companies products and services may interest you
+  * It helps our trusted third party service providers to provide and improve our service to you or to carry out surveys and user analysis to understand your needs and preferences. We will also share your information with MailChimp, who securely host emails and act as a supplier to distribute our newsletter. We contractually require these service providers to keep your personal information safe and secure. These trusted third parties would only be permitted to use your personal information for the purposes we specify.
+
+
+
+As at July 2017, we currently don’t share any info with third parties that is not anonymised. However, if we do in the future we will list them in this privacy policy and we will notify you of this change to our privacy terms.
+
+We may share some broader statistics and customer profiling information with third parties and other Virgin companies - but we'll keep it anonymous, so you won't be identifiable from that data.
+
+We will never rent or sell our user's details to any other organisation or individual.
+
+**What if you post information on our site?**
+
+This site contains an opportunity for users to comment ("User Content") on content displayed on the site. This information is in the public domain, so it may be accessed by any person using the web in any part of the world and can be found using independent search engines. So, if you choose to post information to the interactive parts of our site, we have to state that you do so at your own risk. This is the case whether the User Content is uploaded directly onto www.virgin.com or through a connected site.
+
+**This means your User Content:**
+
+  * Won't have its usage and circulation limited as described in the sections of this policy above entitled 'Will we use your information for marketing?', 'How else will we use your information?' and 'Will we share your information with anyone else?'
+  * Won't be protected as described in the section of this policy below headed 'Will we be transferring any personal information outside the EU?'
+  * Won't be held securely as described in the section of this policy below headed 'Keeping your information safe'
+
+
+
+We are obliged by our legal eagles to state that, to the maximum extent permitted by law, neither Virgin.com nor any other Virgin company will be liable to you or to any third party for any loss or damage resulting from any User Content posted on www.virgin.com.
+
+However, if you upload User Content to our site using Facebook, we will protect your privacy consistently with your Facebook privacy settings.
+
+Please read our Terms and Conditions for more information about posting User Content. If you register on the site, you'll need to comply with our Terms and Conditions.
+
+If you have any concerns about User Content appearing on this site, please contact us using the Contact Us page on www.virgin.com.
+
+**How will we make sure our site is secure?**
+
+We follow strict security procedures to manage how your personal information is stored, used, who sees it and to help stop any unauthorised person getting hold of it. All personal information you register with Virgin.com will be located behind a firewall. We take security extremely seriously but as no system is 100% secure, we can't completely guarantee the protection of your personal information, any more than any other organisation can. So we can't accept any liability for the loss, theft or misuse of the personal information which you've registered on our website if there is a security breach. If you submit a business proposal to us through <https://www.virgin.com/become-a-virgin-business> our business proposal information will be held subject to the terms and conditions of the Business Proposal Submission Agreement.
+
+**Will we transfer any personal information outside the EU?**
+
+Countries outside the European Union may have a lower standard of protection for personal information than that required by EU data protection laws. The information we collect from you may be transferred to, and stored, outside the EU (including for example in the United States) and may also be processed by people operating outside the EU who work for us or one of our suppliers. If we need to transfer your data to a company based outside the EU (e.g. if our hosting company is based in the US), we'll take steps to make sure your personal data is handled in line with EU law. Please see the table of our suppliers in the "Will we share your information with anyone else?" section above which sets out whether they are based inside or outside the EU. If you would like any more details on this please get in contact with us.
+
+**What about personal information relating to minors?**
+
+Protecting the online privacy of children is especially important to us. If you are under 18 years old, please do not provide us with your name, contact details or any other information about yourself. To find out more, please read our Terms and Conditions.
+
+**Are you protected by this policy outside www.virgin.com?**
+
+www.virgin.com contains links to other websites. Obviously, we don't have any control over those websites and we cannot take any responsibility for any information you give them. Other sites have different privacy and security policies and terms and conditions, so we advise you to read these before using them.
+
+How you can access your information
+
+You can request access to the personal information we hold about you at any time. You can write to us at the following address requesting access to your personal information.
+
+Virgin.com Limited  
+c/o Virgin Management Limited  
+The Battleship Building  
+179 Harrow Road  
+London W2 6NB  
+UK
+
+Email: contactus@virgin.com
+
+You are entitled to be told by us whether we or someone else on our behalf is processing the personal information we hold on you; what personal information we hold; details of the purposes for the processing of your personal information; and details of any third party with whom your personal information has been shared. You can also request that we correct any personal information which we hold about you where it is inaccurate.
+
+Sometimes we may ask you to provide proof of identity before we show you your personal information - so we can prevent unauthorised access.
+
+**Talk to us**
+
+If you have any queries, comments or complaints regarding this Privacy Policy, just get in touch. You can contact us through the Contact Us section of www.virgin.com or write to us at the address set out above or at the following email address contactus@virgin.com. 
