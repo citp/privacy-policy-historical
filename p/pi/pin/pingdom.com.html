@@ -1,910 +1,1566 @@
-<!--The following is the downloaded HTML source of the pingdom.com privacy policy that was archived on 2017-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171221234319id_/https%3A//www.pingdom.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pingdom.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626171433id_/https%3A//www.solarwinds.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js wf-loading" lang="sv"><head>
-      <!-- Start Visual Website Optimizer Asynchronous Code -->
-      <script src="https://use.typekit.net/mbf1fll.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N2BMT3"></script><script type="text/javascript">
-        var _vwo_code=(function(){
-            var account_id=41177,
-            settings_tolerance=2000,
-            library_tolerance=2500,
-            use_existing_jquery=false,
-            /* DO NOT EDIT BELOW THIS LINE */
-            f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-      </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=41177&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171221234319id_%2Fhttps%253A%2F%2Fwww.pingdom.com%2Flegal%2Fprivacy-policy&amp;r=0.2506385714635002" type="text/javascript"></script>
-      <!-- End Visual Website Optimizer Asynchronous Code -->
-
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N2BMT3"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-N2BMT3');</script>
+<!DOCTYPE html><html lang="en"><head>
 
     
-					
-	
 
 
-									
+    
 
 
-	
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js" type="text/javascript" async=""></script><script>
+    /*! loadCSS: load a CSS file asynchronously. [c]2016 scottjehl, Filament Group, Inc. Licensed MIT */
+    (function (w) {
+        "use strict";
+        /* exported loadCSS */
+        var loadCSS = function (href, before, media) {
+            // Arguments explained:
+            // `href` [REQUIRED] is the URL for your CSS file.
+            // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+            // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+            // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+            var doc = w.document;
+            var ss = doc.createElement("link");
+            var ref;
+            if (before) {
+                ref = before;
+            }
+            else {
+                var refs = (doc.body || doc.getElementsByTagName("head")[0]).childNodes;
+                ref = refs[refs.length - 1];
+            }
+
+            var sheets = doc.styleSheets;
+            ss.rel = "stylesheet";
+            ss.href = href;
+            // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+            ss.media = "only x";
+
+            // wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+            function ready(cb) {
+                if (doc.body) {
+                    return cb();
+                }
+                setTimeout(function () {
+                    ready(cb);
+                });
+            }
+            // Inject link
+            // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+            // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+            ready(function () {
+                ref.parentNode.insertBefore(ss, (before ? ref : ref.nextSibling));
+            });
+            // A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+            var onloadcssdefined = function (cb) {
+                var resolvedHref = ss.href;
+                var i = sheets.length;
+                while (i--) {
+                    if (sheets[i].href === resolvedHref) {
+                        return cb();
+                    }
+                }
+                setTimeout(function () {
+                    onloadcssdefined(cb);
+                });
+            };
+
+            function loadCB() {
+                if (ss.addEventListener) {
+                    ss.removeEventListener("load", loadCB);
+                }
+                ss.media = media || "all";
+            }
+
+            // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+            if (ss.addEventListener) {
+                ss.addEventListener("load", loadCB);
+            }
+            ss.onloadcssdefined = onloadcssdefined;
+            onloadcssdefined(loadCB);
+            return ss;
+        };
+        // commonjs
+        if (typeof exports !== "undefined") {
+            exports.loadCSS = loadCSS;
+        }
+        else {
+            w.loadCSS = loadCSS;
+        }
+    }(typeof global !== "undefined" ? global : this));
+    loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+</script><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
+
+<title>SolarWinds - Privacy Policy</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="keywords" content="">
 
 
-<title>Privacy Policy | Pingdom</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"><meta name="theme-color" content="#fff000"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><style> 
-.has-video.text-with-bulletlist .screenshot-big-wrapper video{max-width:720px} 
-.feature-boxes a { text-decoration: none; }
-.feature-boxes a:hover p { color: #181818;}
-.feature-boxes p { transition: color 0.1s ease-out; }
-@media (max-width: 767px) {
-.cd-morph-dropdown{height:0;}
-.cd-morph-dropdown.nav-open{height:100%;}
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<meta name="DC.title" content="SolarWinds - Privacy Policy">
+<meta name="DC.description" content="">
+
+
+        <link rel="canonical" href="https://www.solarwinds.com/legal/privacy">
+        <link rel="alternate" hreflang="en" href="https://www.solarwinds.com/legal/privacy">
+
+
+
+<meta name="msvalidate.01" content="6BAF2EFDAC8719FD91494A916D13582C">
+<meta name="google-site-verification" content="MmRPg9TfCHGThQW_kuTL0BB7fFbnkiJN7CgF61lrFbs">
+
+        <link rel="dns-prefetch" href="//m.addthisedge.com">
+        <link rel="dns-prefetch" href="//s3.amazonaws.com">
+        <link rel="dns-prefetch" href="//cdn.brightedge.com">
+        <link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+        <link rel="dns-prefetch" href="//customerportal.solarwinds.com">
+        <link rel="dns-prefetch" href="//now.eloqua.com">
+        <link rel="dns-prefetch" href="//everestjs.net">
+        <link rel="dns-prefetch" href="//facebook.com">
+        <link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+        <link rel="dns-prefetch" href="//googleadservices.com">
+        <link rel="dns-prefetch" href="//google-analytics.com">
+        <link rel="dns-prefetch" href="//apis.google.com">
+        <link rel="dns-prefetch" href="//m.addthisedge.com">
+        <link rel="dns-prefetch" href="//beacon-1.newrelic.com">
+        <link rel="dns-prefetch" href="//data.wa.perf.overture.com">
+        <link rel="dns-prefetch" href="//pixel.everesttech.net">
+        <link rel="dns-prefetch" href="//solarwinds.postclickmarketing.com">
+        <link rel="dns-prefetch" href="//sales.liveperson.net">
+        <link rel="dns-prefetch" href="//cdn.swcdn.net">
+        <link rel="dns-prefetch" href="//solarwinds.tt.omtrdc.net">
+        <link rel="dns-prefetch" href="//solarwinds.postclickmarketing.com">
+        <link rel="dns-prefetch" href="//ssl.gstatic.com">
+        <link rel="dns-prefetch" href="//themes.googleusercontent.com">
+        <link rel="dns-prefetch" href="//srv2.wa.marketingsolutions.yahoo.com">
+        <link rel="dns-prefetch" href="//ad.yieldmanager.com">
+
+<link href="/solarwindscontentv2/css?v=tXlNo1KzI-Y4ZrLLTFhDyevWeRqRX5__FzVNOPo8e001" rel="stylesheet">
+
+
+<script type="text/javascript">
+    //Async Google Fonts
+    WebFontConfig = {
+        google: { families: ['Roboto:400,700'] }
+    };
+    (function () {
+        var wf = document.createElement('script');
+        wf.src = ('https:' === document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+    })(); </script>
+
+<script src="https://use.fortawesome.com/5979041a.js"></script>
+
+<script src="https://assets.adobedtm.com/f621f149f278de13c57fa7bfeaddccafd7f1bda7/satelliteLib-fb69f0a9f50708c2a6a9431adb15862288e326cc.js"></script>
+
+
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        
+
+        <div lang="en">
+
+
+
+
+
+
+<header class="container hidden-xs hidden-sm">
+    <div class="row">
+        <div class="col-sm-3">
+<a href="/" class="logo-link" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/global/logo-types/solarwinds-logo-types/swlogo2x.ashx?h=45&amp;w=195&amp;la=en&amp;hash=74013DF6672932A9B0FA082655A7DD5F6C023615" alt="SolarWinds Logo"></a>        </div>
+        <div class="col-sm-9">
+            <nav class="subnav">
+                <ul>
+                    <li><a href="/federal-government/it-management-solutions-for-government" data-linktype="Default Header" data-linkdetail="TopLink1:Government">Government</a></li>
+                    <li><a href="https://customerportal.solarwinds.com/" data-linktype="Default Header" data-linkdetail="TopLink2:Customer Portal">Customer Portal</a></li>
+                    <li><a href="https://partner.solarwinds.com/" data-linktype="Default Header" data-linkdetail="TopLink3:Partners">Partners</a></li>
+                    <li><a href="https://www.solarwinds.com/company/contact-us" data-linktype="Default Header" data-linkdetail="TopLink4:Contact Us">Contact Us</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            English <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-english">
+                                <li><a href="/de/legal/privacy">Deutsch</a></li>
+                                <li><a href="/es/legal/privacy">Español</a></li>
+                                <li><a href="/fr/legal/privacy">Français</a></li>
+                                <li><a href="/ja/legal/privacy">日本語</a></li>
+                                <li><a href="/zh/legal/privacy">中文</a></li>
+                                <li><a href="/pt/legal/privacy">Português</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <script type="text/javascript">
+                function setUrl() {
+                    window.location.href = 'http://www.solarwinds.com/InternalSearch/Search/Index/?q=' + document.getElementById('SearchText').value;
+                };
+            </script>
+            <form id="searchForm" action="" method="get">
+                <div class="input-group custom-search-form pull-right">
+                    <input type="text" class="form-control input-sm search-btn" placeholder="" id="SearchText">
+                    <span class="input-group-btn">
+                        <button class="btn btn-warning btn-sm" type="button" onclick="setUrl(); return false;">
+                            <span>Search</span>
+                        </button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+
+
+<nav class="navbarUltra navbarUltra-default ultraMenu">
+    <div class="container">
+        
+<div class="navbar-header ultra">
+    <button type="button" class="navbar-toggle ultra collapsed" data-toggle="collapse" data-target="#custom-bootstrap-menu" aria-expanded="false">
+        <span class="sr-only">
+            Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="navbar-toggle-text">Menu</span>
+    </button>
+    <div class="navbar-brand ultra visible-xs-block visible-sm-block">
+<a href="/" class="mobile" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/global/logo-types/solarwinds-logo-types/swlogo2x.ashx?h=45&amp;w=195&amp;la=en&amp;hash=74013DF6672932A9B0FA082655A7DD5F6C023615" alt="SolarWinds Logo"></a>        <a href="/" class="flare" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/header/sw-flame-orange.ashx?h=33&amp;w=41&amp;la=en&amp;hash=D88842C4E22E7F58A39F97CB745FE993BA8228A2" alt="sw-flame-orange"></a>    </div>
+    <div class="navbar-toggle-menu ultra">
+        <a>
+            <span class="email-icon">
+            </span>
+        </a>
+        <a href="tel:866.530.8100">
+            <span class="phone-icon">
+            </span>
+        </a>
+        <a href="#" class="dropdown-toggle language-toggle-ultra" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            English
+            <span class="caret">
+            </span>
+        </a>
+        <ul class="dropdown-menu language-dropdown-ultra">
+                <li><a href="/de/legal/privacy">Deutsch</a></li>
+                <li><a href="/es/legal/privacy">Español</a></li>
+                <li><a href="/fr/legal/privacy">Français</a></li>
+                <li><a href="/ja/legal/privacy">日本語</a></li>
+                <li><a href="/zh/legal/privacy">中文</a></li>
+                <li><a href="/pt/legal/privacy">Português</a></li>
+        </ul>
+    </div>
+</div>
+
+
+        <div class="navbar-collapse ultra collapse" id="custom-bootstrap-menu">
+            <ul class="nav navbarUltra-nav ultraDesktop hidden-xs hidden-sm">
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Products" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Products</a>
+                        <ul class="dropdown-menu ultra-menu">
+
+<div class="tabsContainerMegaMenu">
+    <div id="outerTabs">
+        <ul class="container icons">
+                    <li class="active">
+                        <a href="#tab-1" class="hasTab icon-network" data-linktype="Top Menu" data-linkdetail="Tab:Network Management">
+                            <i class="fort fort-sw-cat-network" aria-hidden="true"></i>
+                            <span>
+                                Network Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-2" class="hasTab icon-systems" data-linktype="Top Menu" data-linkdetail="Tab:Systems Management">
+                            <i class="fort fort-sw-cat-apps-sys" aria-hidden="true"></i>
+                            <span>
+                                Systems Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-3" class="hasTab icon-database" data-linktype="Top Menu" data-linkdetail="Tab:Database Management">
+                            <i class="fort fort-sw-cat-database" aria-hidden="true"></i>
+                            <span>
+                                Database Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-4" class="hasTab icon-itSecurity" data-linktype="Top Menu" data-linkdetail="Tab:IT Security">
+                            <i class="fort fort-sw-cat-security" aria-hidden="true"></i>
+                            <span>
+                                IT Security
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-5" class="hasTab icon-itHelpDesk" data-linktype="Top Menu" data-linkdetail="Tab:IT Help Desk">
+                            <i class="fort fort-sw-cat-help-desk" aria-hidden="true"></i>
+                            <span>
+                                IT Help Desk
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-6" class="hasTab icon-cloud" data-linktype="Top Menu" data-linkdetail="Tab:Cloud">
+                            <i class="fort fort-sw-cat-cloud" aria-hidden="true"></i>
+                            <span>
+                                Cloud
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/downloads" class="icon-all" data-linktype="Top Menu" data-linkdetail="Tab:All Products">
+                            <i class="fort fort-sw-nav-all-products" aria-hidden="true"></i>
+                            <span>
+                                All Products
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/free-tools" class="icon-free" data-linktype="Top Menu" data-linkdetail="Tab:Free Tools">
+                            <i class="fort fort-sw-nav-free-tools" aria-hidden="true"></i>
+                            <span>
+                                Free Tools
+                            </span>
+                        </a>
+                    </li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="container dropdownMenu">
+    <div class="row">
+        <div id="tabs">
+                <div id="tab-1" class="tabWrapper" style="">
+                <div class="row">
+                        <div class="col-sm-3">
+                            <p class="title">Products</p>
+                            <ul class="submenuItems">
+                                    <li><a href="/network-performance-monitor" data-linktype="Top Menu" title="Network Performance Monitor" data-linkdetail="Products:Network Management:Network Performance Monitor">Network Performance Monitor</a></li>
+                                    <li><a href="/netflow-traffic-analyzer" data-linktype="Top Menu" title="Netflow Traffic Analyzer" data-linkdetail="Products:Network Management:NetFlow Traffic Analyzer">NetFlow Traffic Analyzer</a></li>
+                                    <li><a href="/network-configuration-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Configuration Manager">Network Configuration Manager</a></li>
+                                    <li><a href="/ip-address-manager" data-linktype="Top Menu" title="IP Address Manager" data-linkdetail="Products:Network Management:IP Address Manager">IP Address Manager</a></li>
+                                    <li><a href="/user-device-tracker" data-linktype="Top Menu" title="User Device Tracker" data-linkdetail="Products:Network Management:User Device Tracker">User Device Tracker</a></li>
+                                    <li><a href="/voip-network-quality-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:VoIP &amp; Network Quality Manager">VoIP &amp; Network Quality Manager</a></li>
+                            </ul>
+                            <a href="/network-management-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Network Management:View All Network Management Products">View All Network Management Products</a>
+                        </div>
+                        <div class="col-sm-3">
+                            <ul class="submenuItems colMulti noTitle">
+                                    <li><a href="/log-manager-for-orion-software" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Log Manager for Orion">Log Manager for Orion</a></li>
+                                    <li><a href="/engineers-toolset" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Engineer's Toolset">Engineer's Toolset</a></li>
+                                    <li><a href="/network-topology-mapper" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Topology Mapper">Network Topology Mapper</a></li>
+                                    <li><a href="/kiwi-cattools" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Kiwi CatTools">Kiwi CatTools</a></li>
+                                    <li><a href="/kiwi-syslog-server" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Kiwi Syslog Server">Kiwi Syslog Server</a></li>
+                            </ul>
+                        </div>
+                    <div class="col-sm-3">
+                        <p class="title">Bundles</p>
+                        <ul class="submenuItems colMulti">
+                                <li><a href="/network-bandwidth-analyzer-pack" data-linktype="Top Menu" title="Network Bandwidth Analyzer Pack" data-linkdetail="Products:Network Management:Network Bandwidth Analyzer Pack">Network Bandwidth Analyzer Pack</a></li>
+                                <li><a href="/ip-control-bundle" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:IP Control Bundle">IP Control Bundle</a></li>
+                        </ul>
+                        <p class="title">Unified Solutions</p>
+                        <ul class="submenuItems colMulti">
+                                <li><a href="/network-automation-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Automation Manager">Network Automation Manager</a></li>
+                                <li><a href="/network-operations-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Operations Manager">Network Operations Manager</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 helpBox">
+                                                            <a href="/log-manager-for-orion-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Network Management:Learn More">
+                                       <!-- 
+                                          <div class="innerHelpBox"> -->
+                                       <h3>Unify log management and infrastructure performance with SolarWinds Log Manager for Orion.</h3>
+                                       <img alt="NPM Network Summary" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/log-manager/images/product-screenshots/lm-real-time-log-stream.ashx">
+                                       <p>Aggregate. Search. Chart.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                       <!-- <a href="/log-manager-for-orion-software" class="learn" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Network Management">Learn More</a> -->
+                                       <!-- 
+                                          </div> -->
+                                    </a>
+
+<style>
+.innerHelpBox h3 {
+    font-size: 15px!important;
 }
-</style><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png"><link rel="manifest" href="/favicons/manifest.json"><link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#fff000"><meta name="theme-color" content="#ffffff"><meta property="og:title" content="Privacy Policy"><meta property="og:site_name" content="Pingdom"><meta property="og:type" content="website"><meta property="og:description" content="Pingdom Privacy Policy. It is Pingdom's policy to respect your privacy regarding any information we may collect. Read the full document here."><meta property="og:url" content="https://www.pingdom.com/legal/privacy-policy/"><meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/pingdom-com-234hy890we/images/homepage/_ogImage/product-screenshot@2x.jpg?mtime=20170622121016"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="twitter:image" content="https://s3-eu-west-1.amazonaws.com/pingdom-com-234hy890we/images/homepage/_ogImage/product-screenshot@2x.jpg?mtime=20170622121016"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@pingdom"><meta name="twitter:title" content="Privacy Policy"><meta name="twitter:url" content="https://www.pingdom.com/legal/privacy-policy/"><meta name="twitter:creator" content="@pingdom"><meta name="twitter:description" content="Pingdom Privacy Policy. It is Pingdom's policy to respect your privacy regarding any information we may collect. Read the full document here."><meta name="description" content="Pingdom Privacy Policy. It is Pingdom's policy to respect your privacy regarding any information we may collect. Read the full document here.">
-    <link rel="stylesheet" async="" href="https://www.pingdom.com/assets/css/styles.min.css?1">
-
-    <script>
-    var mainHtmlEl = document.getElementsByTagName('html')[0];
-    mainHtmlEl.classList.remove('no-js');
-    mainHtmlEl.classList.add('js');
-
-  (function(d) {
-    var config = {
-      kitId: 'mbf1fll',
-      scriptTimeout: 3000,
-      async: true,
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);
-</script>
-    
-    <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
-    <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/is-in-viewport/3.0.0/isInViewport.min.js"></script>
-    
-
-        <script>var icons = {}</script>
-
-
-        
-    <style>
-	/* Button in top navbar */
-	.main-nav .buttons-wrapper a.button, 
-	/* Button in 'most popular' pricing column */
-	.most-popular-2 td:nth-child(2) .small-button,
-	.most-popular-3 td:nth-child(3) .small-button,
-	.most-popular-4 td:nth-child(4) .small-button,
-	.most-popular-5 td:nth-child(5) .small-button,
-	/* Button on startpage */
-	.home .cta-button a.button,
-	/* Button with proper cta-button-class */
-	a.cta-button{
-		color: #ffffff;
-		background-color: #5cc72a
-	}
-	.main-nav .buttons-wrapper a.button:hover,
-	.most-popular-2 td:nth-child(2) .small-button:hover,
-	.most-popular-3 td:nth-child(3) .small-button:hover,
-	.most-popular-4 td:nth-child(4) .small-button:hover,
-	.most-popular-5 td:nth-child(5) .small-button:hover,
-	.home .cta-button a.button:hover,
-	a.cta-button:hover{
-		background-color: #49a31f
-	}
-
-
 </style>
-  </head>
-  <body>
-
-
- 
-                <header class="site-header">
-		
-	
-	<div class="cd-morph-dropdown">
-				<div class="container nav-trigger">
-			<div class="outer">
-				<div class="button button1">
-					<div class="stripe stripe1"></div>
-					<div class="stripe stripe2"></div>
-					<div class="stripe stripe3"></div>
-				</div>
-			</div>
-		</div>
-				<nav class="main-nav">
-			<div class="pagewidth menu-wrapper">
-				<div class="logo-wrapper">
-					<a href="/">
-				<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 156 65.5"><g fill="#444"><g><path d="M137.95 43.1c0 1.705.012 3.408-.003 5.112-.018 1.997-1.117 3.28-2.76 3.257-1.634-.023-2.683-1.3-2.69-3.328-.012-3.358 0-6.717-.007-10.075-.004-1.723-.57-2.157-2.25-1.753-2.31.555-3.777 2.445-3.824 5.047-.044 2.434.113 4.88-.085 7.296-.07.868-.735 1.994-1.466 2.41-.664.38-1.94.223-2.66-.194-.608-.353-1.097-1.402-1.132-2.166-.127-2.768-.14-5.55-.015-8.32.28-6.227 6.355-10.677 12.583-9.38.992.205 2.1.222 3.09.01 6.598-1.412 12.66 3.418 12.666 10.167.002 2.482.014 4.965-.005 7.447-.01 1.613-1.05 2.756-2.524 2.837-1.51.083-2.76-1.062-2.803-2.73-.065-2.482.015-4.966-.04-7.447-.058-2.684-1.73-4.66-4.172-5.053-1.388-.224-1.88.176-1.894 1.606-.02 1.754-.006 3.506-.006 5.258zM53.51 44.678c.002 1.313.024 2.627-.004 3.94-.038 1.74-1.073 2.872-2.61 2.915-1.593.044-2.758-1.106-2.797-2.892-.05-2.284-.006-4.57-.02-6.858-.018-3.29-1.99-5.49-4.918-5.51-2.976-.02-5 2.227-5.018 5.59-.012 2.24.018 4.477-.01 6.714-.024 1.828-1.098 2.972-2.703 2.96-1.59-.014-2.65-1.17-2.672-3.005-.028-2.528-.063-5.06.01-7.587.165-5.662 4.8-10.122 10.408-10.087 5.688.036 10.246 4.583 10.33 10.32.02 1.167.004 2.335.005 3.502zM25.65 41.002c0-2.338-.018-4.675.007-7.013.02-1.9 1.13-3.142 2.732-3.127 1.594.015 2.68 1.27 2.684 3.174.013 4.773.013 9.545 0 14.318-.006 1.966-1.02 3.15-2.66 3.18-1.68.03-2.742-1.192-2.758-3.228-.02-2.435-.005-4.87-.005-7.305zM28.42 23.774c1.44.032 2.678 1.32 2.65 2.754-.03 1.44-1.317 2.672-2.758 2.64-1.453-.03-2.675-1.3-2.643-2.748.03-1.454 1.303-2.678 2.75-2.646zM75.53 40.756c-.11-4.76-3.72-8.857-8.4-9.708-4.815-.876-9.52 1.614-11.47 6.072-1.914 4.368-.52 9.566 3.37 12.383 3.425 2.48 7.1 2.61 11.023.927.324 3.547-1.41 5.7-4.727 6.064-1.85.203-2.9 1.283-2.802 2.883.096 1.584 1.33 2.557 3.162 2.49 5.3-.19 9.713-4.552 9.845-9.87.094-3.744.09-7.495 0-11.24zm-10.33 5.41c-2.752 0-5.017-2.306-4.965-5.06.05-2.695 2.31-4.867 5.03-4.834 2.716.034 4.908 2.26 4.89 4.968-.02 2.698-2.258 4.925-4.954 4.926zM97.653 27.042c-.004-2.002-1.098-3.286-2.744-3.27-1.635.017-2.69 1.3-2.707 3.32-.013 1.59-.003 3.176-.003 4.566-1.954-.273-3.776-.818-5.566-.725-5.722.298-9.965 5.07-9.755 10.694.208 5.586 4.93 10.008 10.586 9.912 5.618-.096 10.115-4.623 10.177-10.33.052-4.723.02-9.445.01-14.168zM87.176 46.165c-2.704-.055-4.898-2.304-4.877-5 .02-2.707 2.243-4.9 4.964-4.893 2.737.005 4.916 2.176 4.926 4.908.01 2.78-2.263 5.04-5.014 4.985zM22.575 35.43c-2.527-3.744-7.212-5.418-11.568-4.132-4.315 1.273-7.356 5.22-7.413 9.794-.06 4.82-.03 9.64-.01 14.46.01 1.874 1.165 3.11 2.78 3.07 1.555-.037 2.62-1.243 2.65-3.055.025-1.65.004-3.298.004-5.2.556.227.862.36 1.173.477 4.29 1.622 9.052.352 11.873-3.162 2.86-3.56 3.065-8.47.512-12.253zM13.93 46.165c-2.71-.033-4.902-2.254-4.9-4.966 0-2.716 2.194-4.913 4.92-4.928 2.724-.015 4.946 2.158 4.983 4.873.037 2.746-2.262 5.054-5.002 5.02zM109.336 30.764c-5.666-.007-10.36 4.624-10.405 10.266-.044 5.705 4.65 10.432 10.373 10.44 5.73.01 10.43-4.696 10.397-10.407-.032-5.655-4.698-10.292-10.364-10.3zm.058 15.275c-2.76.027-4.966-2.092-5.014-4.815-.05-2.794 2.162-5.056 4.944-5.057 2.697 0 4.948 2.226 4.965 4.913.016 2.706-2.182 4.932-4.896 4.96z"></path></g></g><g><path fill="#181818" d="M5.737 21.607c-1.27 0-2.14-.388-2.14-.388v-1.104s1.35.428 2.126.428c.7 0 1.388-.13 1.388-.97 0-.65-.48-.794-1.076-.962l-.558-.155c-.725-.205-1.917-.504-1.917-1.957 0-1.633 1.32-2.022 2.682-2.022 1.218 0 1.917.4 1.917.4v1.064s-.91-.428-1.97-.428c-.857 0-1.4.17-1.4.908 0 .635.49.79 1.088.946l.674.182c.79.207 1.8.674 1.8 1.97.002 1.646-1.176 2.087-2.615 2.087m7.226 0c1.283 0 3.2-.39 3.2-3.565 0-3.137-1.97-3.565-3.2-3.565-1.322 0-3.2.518-3.2 3.565-.002 3.137 1.863 3.565 3.2 3.565m0-6.17c.712 0 1.905.182 1.905 2.606 0 2.333-1.27 2.592-1.905 2.592-.532 0-1.906-.182-1.906-2.592 0-2.386 1.192-2.606 1.906-2.606m4.88 6.04h1.296v-9.128h-1.296v9.126zm8.81 0v-4.64c0-1.802-1.037-2.36-2.54-2.36-1.415 0-2.58.48-2.58.48v1.05s1.308-.48 2.397-.48c.894 0 1.426.207 1.426 1.1v.598H23.84c-1.1 0-2.89.363-2.89 2.268 0 1.737 1.153 2.113 2.203 2.113 1.452 0 2.243-1.025 2.243-1.025l.13.895h1.127zM25.357 19.7s-.933.896-1.88.896c-.687 0-1.232-.26-1.232-1.14 0-1.117.7-1.427 1.88-1.44l1.232-.014V19.7zm5.986-4.057c.66 0 1.076.196 1.076.196v-1.18s-.273-.183-.933-.183c-1.18 0-1.608 1.076-1.608 1.076l-.17-.948h-1.024v6.87h1.295v-5s.597-.832 1.363-.832m13.12-1.037H43.01l-.828 3.942c-.22 1.025-.43 2.333-.43 2.333s-.284-1.438-.557-2.332l-1.18-3.942H38.15l-1.18 3.942c-.272.908-.543 2.333-.543 2.333s-.22-1.424-.415-2.332l-.83-3.942h-1.476l1.813 6.87h1.788l1.06-3.668c.274-.947.715-2.566.715-2.566s.414 1.606.7 2.58l1.063 3.654h1.802l1.816-6.87zm1.62 6.87h1.296V14.56H46.08v6.915zm9.42 0v-4.69c0-1.75-.962-2.308-2.23-2.308-1.467 0-2.607 1.1-2.607 1.1l-.26-.972h-.997v6.87h1.296V16.46s1.114-.87 2.268-.87c.883 0 1.232.326 1.232 1.18v4.706h1.296zm7.738 0V12.35h-1.296v2.827s-.583-.7-1.815-.7c-.922 0-3.112.442-3.112 3.566 0 3.083 1.777 3.564 2.85 3.564 1.493 0 2.218-.998 2.218-.998l.142.868h1.013zm-1.295-1.684s-.883.79-1.815.79c-.804 0-1.815-.272-1.815-2.538 0-2.153.998-2.53 1.944-2.53.96 0 1.684.688 1.684.688v3.59zm5.284 1.815c1.438 0 2.618-.44 2.618-2.088 0-1.296-1.012-1.764-1.804-1.97l-.673-.183c-.595-.155-1.087-.31-1.087-.946 0-.738.543-.907 1.4-.907 1.06 0 1.97.428 1.97.428V14.88s-.7-.4-1.918-.4c-1.36 0-2.683.387-2.683 2.02 0 1.454 1.192 1.753 1.917 1.958l.558.155c.596.17 1.074.314 1.074.962 0 .842-.686.97-1.387.97-.776 0-2.125-.427-2.125-.427v1.103s.866.39 2.14.39"></path><path fill="#F99D1C" d="M75.888 10.422c-.933.256-1.88.463-2.806.75-1.884-1.694-4.29-2.82-6.947-3.105 2.075-1.474 6.607-4.232 13.103-4.243l-1.615 1.482s6.845-.243 8.572-2.603c-.014.22-.155.51-.225.713-.49 1.45-1.383 2.617-2.492 3.518-1.08.88-2.31 1.504-3.552 2.025-1.27.53-2.547 1.043-3.86 1.414-.06.016-.118.033-.178.048m10.738-.232s-6.317-.483-12.88 1.63c.87.91 1.605 1.95 2.166 3.09 3.452-1.92 8.236-4.374 10.714-4.72m-10.28 5.707c.4 1.03.67 2.126.78 3.268l6.013-6.186-6.795 2.917zm3.243 3.253c.28 0 .537-.176.537-.515 0-.346-.256-.517-.538-.517-.28 0-.537.168-.537.517 0 .342.256.515.536.515m0-.917c.216 0 .407.12.407.4s-.19.4-.408.4c-.216 0-.41-.123-.41-.4 0-.284.194-.4.41-.4m.217.655l-.042-.117c-.018-.047-.04-.09-.07-.117.053-.023.095-.062.095-.135 0-.14-.11-.16-.214-.16h-.16v.53h.11v-.204l.07-.003c.024.02.044.07.057.12l.024.088h.13zm-.23-.444c.082 0 .1.01.1.073 0 .06-.034.087-.15.087v-.16h.05"></path></g></svg>
-			</a>
-				</div>
-				<div class="options-wrapper">
-					 					<a class="menu-option hover-drop has-dropdown product" data-content="product" href="https://www.pingdom.com/product/">
-							<span class="">Product</span></a>
-					
-					       					<a class=" menu-option hover-drop" href="https://www.pingdom.com/pricing/">
-							<span>Pricing</span>
-						</a>     					<a class="menu-option hover-drop has-dropdown links" data-content="using-pingdom" href="https://www.pingdom.com/resources/">
-							<span class="">Resources</span></a>
-					
-					       					<a class="menu-option hover-drop" href="https://help.pingdom.com" target="_blank">
-							<span class="">Support</span>
-						</a>      					<a class="menu-option hover-drop" href="https://tools.pingdom.com" target="_blank">
-							<span class="">Tools</span>
-						</a>  				</div>
-				<div class="buttons-wrapper">
-										<a class="menu-option hover-drop" target="_blank" href="https://my.pingdom.com/">
-					<span class="">Log in</span></a>
-					
-					<a class="button" target="_blank" href="https://www.pingdom.com/signup/">Sign up</a>
-				</div>
-			</div>
-		</nav>
-		<div class="morph-dropdown-wrapper">
-			<div class="dropdown-list">
-				<div class="dropdown-wrapper">
-					<div id="product" class="dropdown product">
-						<a href="#0" class="label">Product</a>
-						<div class="content">
-							<div class="grid grid--bleed">
-								      <script>
-								icons['uptime'] = (function(){
-
-  var smallTl;
-  var bigTl;
-
-  function init(containerId){
-    containerId = containerId || '';
-    smallTl = new TimelineMax({paused:true, repeat:-1, repeatDelay:0.1, yoyo: false});
-    smallTl.to(containerId + ' #Group-14', 0.25, {y:24, ease:Quint.easeOut});
-    smallTl.to(containerId + ' #Group-14', 0.25, {y:26, ease:Power1.easeIn});   
-    
-    bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-    bigTl.to(containerId + ' #arrow', 0.25, {y:-2, ease:Quint.easeOut});
-    bigTl.to(containerId + ' #arrow', 0.25, {y:0, ease:Power1.easeIn});
-
-  }
-
-  return{
-    init: init,
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani " data-iconsize="small" data-iconslug="uptime">
-									<a href="https://www.pingdom.com/product/uptime-monitoring/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <!--?xml version="1.0" encoding="UTF-8"?-->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="45px" viewBox="0 0 50 45">
-  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-  <title>uptime-small</title>
-  <desc>Created with Sketch.</desc>
-  <defs></defs>
-  <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <g id="Artboard-2" transform="translate(-364.000000, -133.000000)">
-      <g id="uptime-small" transform="translate(371.000000, 137.000000)">
-        <g id="icon">
-          <rect id="Rectangle-4-Copy-2" fill="#FFF000" transform="translate(25.250000, 11.625000) rotate(-90.000000) translate(-25.250000, -11.625000) " x="13.625" y="0.875" width="23.25" height="21.5" rx="1"></rect>
-          <path d="M18.9958496,34 L3.67088204,34 C1.64350987,34 0,32.2132053 0,30.0007252 L0,7.9992748 C0,5.79053632 1.64644138,4 3.67088204,4 L30.329118,4 C32.3564901,4 34,5.79190122 34,7.9974817 L34,17" id="Rectangle-4-Copy-4" stroke="#282828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-          <circle id="Oval-13" stroke="#282828" stroke-width="2" fill="#FFFFFF" cx="30" cy="29" r="8"></circle>
-          <g id="Group-14" transform="translate(27.000000, 26.000000)" stroke="#282828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M3,6 L3,0" id="Path-9"></path>
-            <path d="M6,3 L3,0" id="Path-9-Copy"></path>
-            <path d="M0,3 L3,0" id="Path-9-Copy-2"></path>
-          </g>
-          <circle id="Oval-2-Copy-4" fill="#282828" cx="4" cy="8" r="1"></circle>
-          <circle id="Oval-2-Copy-10" fill="#282828" cx="8" cy="8" r="1"></circle>
-          <circle id="Oval-2-Copy-11" fill="#282828" cx="12" cy="8" r="1"></circle>
-          <path d="M0,12 L34,12" id="Path-2-Copy-5" stroke="#282828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-        </g>
-        <g id="lines" transform="translate(5.000000, 16.000000)" stroke="#282828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M8,1 L-1.13686838e-13,1" id="Path-6-Copy-9"></path>
-          <path d="M20,1 L12,1" id="Path-6-Copy-9"></path>
-          <path d="M12,5 L1.13686838e-13,5" id="Path-6-Copy-10"></path>
-          <path d="M4,9 L-1.13686838e-13,9" id="Path-6-Copy-11"></path>
-          <path d="M9,9 L8,9" id="Path-6-Copy-11"></path>
-        </g>
-      </g>
-    </g>
-  </g>
-</svg>
+                    </div>
+                </div>
+            </div>
+                <div id="tab-2" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-4">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/server-application-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Server &amp; Application Monitor">Server &amp; Application Monitor</a></li>
+                                            <li><a href="/virtualization-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Virtualization Manager">Virtualization Manager</a></li>
+                                            <li><a href="/storage-resource-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Storage Resource Monitor">Storage Resource Monitor</a></li>
+                                            <li><a href="/backup" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:SolarWinds Backup">SolarWinds Backup</a></li>
+                                            <li><a href="/web-performance-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Web Performance Monitor">Web Performance Monitor</a></li>
+                                    </ul>
+                                        <a href="/system-management-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:View All Systems Management Products">View All Systems Management Products</a>
+                                </div>
+                            <div class="col-sm-5">
+                                    <p class="title">Bundles</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/systems-management-bundle" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Systems Management Bundle">Systems Management Bundle</a></li>
+                                            <li><a href="/application-performance-optimization" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Application Performance Optimization Pack">Application Performance Optimization Pack</a></li>
+                                    </ul>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                      <a href="/server-application-monitor" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Systems Management:Learn More">
+                                       <h3>Monitor any application, any system, anywhere, with Server &amp; Application Monitor.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/network-performance-monitor/images/product-screenshots/npm-network-summary.ashx">
+                                       <br>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-3" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                <p class="title">Products</p>
+                                <ul class="submenuItems">
+                                    <li><a href="/database-performance-analyzer" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Database Performance Analyzer">Database Performance Analyzer</a></li>
+                                </ul>
+                                <span class="listItemSmall">
+                                    Database and SQL query performance monitoring, analysis, and tuning
+                                </span>
+                                <ul class="miniSubItems">
+                                    <li>
+                                        <span class="listItemItalic">
+                                            Available for these database engines:
+                                        </span>
+                                    </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-sql-server" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:SQL Server">SQL Server</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-oracle-monitoring-tuning" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Oracle">Oracle</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-mysql" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:MySQL">MySQL</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-db2" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:DB2">DB2</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-sap-ase" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:SAP ASE">SAP ASE</a>
+                                </li>
+                                <li>
+                                    <a href="/cloud-virtualized-database-migration" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Cloud">Cloud</a>
+                                </li>
+                                </ul>
+                                    <a href="/database-performance-monitoring-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Database Management:View All Database Management Products">View All Database Management Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/database-performance-analyzer" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Database Management:Learn More">
+                                       <h3>Find causes of slowness in your databases with Database Performance Analyzer.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/database-performance-analyzer/images/product-screenshots/dpa-alerts-and-reports.ashx">
+                                       <p>See your database performance in a whole new way.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-4" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/siem-security-information-event-management-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Security Information and Event Management">Security Information and Event Management</a></li>
+                                            <li><a href="/patch-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Patch Manager">Patch Manager</a></li>
+                                            <li><a href="/serv-u-managed-file-transfer-server" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Secure Managed File Transfer Server">Secure Managed File Transfer Server</a></li>
+                                            <li><a href="/ftp-server-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Secure FTP Server">Secure FTP Server</a></li>
+                                    </ul>
+                                        <a href="/it-security-management-tools" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:IT Security:View All IT Security Products">View All IT Security Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/siem-security-information-event-management-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:IT Security:Learn More">
+                                       <h3>A SIEM that makes easy-to-use logs for security, compliance, and troubleshooting.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/log-event-manager/images/product-screenshots/lem-ndepth-dashboard.ashx?h=405&amp;w=648&amp;la=en&amp;hash=8E1806AA0FA45BBAD5315B03BEEE44732461D5B6">
+                                       <p>Centralized threat detection, incident awareness, and active response.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-5" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/help-desk-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Web Help Desk">Web Help Desk</a></li>
+                                            <li><a href="/remote-support-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Dameware Remote Support">Dameware Remote Support</a></li>
+                                            <li><a href="/dameware-mini-remote-control" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Dameware Mini Remote Control">Dameware Mini Remote Control</a></li>
+                                            <li><a href="/help-desk-essentials" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Help Desk Essentials">Help Desk Essentials</a></li>
+                                            <li><a href="/mobile-admin" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Mobile Admin">Mobile Admin</a></li>
+                                    </ul>
+                                        <a href="/it-help-desk" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:View All IT Help Desk Products">View All IT Help Desk Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/help-desk-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:IT Help Desk:Learn More">
+                                       <h3>Simplify your service desk management and start resolving issues faster.</h3>
+                                       <img alt="NPM Network Summary" src="https://www.webhelpdesk.com/-/media/solarwinds/swdcv2/licensed-products/web-help-desk/images/product-screenshots/whd-help-desk-software.ashx">
+                                       <p>Help desk ticketing, asset management, change management, and more.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-6" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href=" https://www.appoptics.com/" data-linktype="Top Menu" title="" target="_blank" data-linkdetail="Products:Cloud:Application &amp; Infrastructure Monitoring">Application &amp; Infrastructure Monitoring</a></li>
+                                                <span class="listItemSmall">
+                                                    Try our next-generation APM, which seamlessly integrates application performance, server, and infrastructure monitoring
+                                                </span>
+                                            <li><a href="/papertrail" data-linktype="Top Menu" title="" data-linkdetail="Products:Cloud:Hosted Log Management">Hosted Log Management</a></li>
+                                                <span class="listItemSmall">
+                                                    Aggregate, tail, and search log data for faster troubleshooting with a frustration-free log management solution
+                                                </span>
+                                            <li><a href="/pingdom" data-linktype="Top Menu" title="" data-linkdetail="Products:Cloud:Website Uptime &amp; Performance">Website Uptime &amp; Performance</a></li>
+                                                <span class="listItemSmall">
+                                                    Get reliable and easy-to-use website uptime, performance, and digital experience monitoring
+                                                </span>
+                                            <li><a href="http://www.loggly.com" data-linktype="Top Menu" title="" target="_blank" data-linkdetail="Products:Cloud:Hosted Log Monitoring &amp; Analytics">Hosted Log Monitoring &amp; Analytics</a></li>
+                                                <span class="listItemSmall">
+                                                    Visualize log data with a simple and affordable log monitoring and log analytics solution
+                                                </span>
+                                    </ul>
+                                        <a href="/cloud-monitoring" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Cloud:View All Cloud Monitoring Products">View All Cloud Monitoring Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="https://www.appoptics.com/" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Cloud:Learn More">
+                                       <h3>AppOptics: Next-gen SaaS-based application performance &amp; infrastructure monitoring.</h3>
+                                       <img alt="NPM Network Summary" src="h/-/media/solarwinds/appoptics/products/ao-infrastructure-monitoring-dashboard.ashx?h=405&amp;w=648&amp;la=en&amp;hash=FA4D400B4FCE64A5662687BFF7E658F3149B6CE4">
+                                       <p>APM. Distributed tracing. Easy installation. Starts at $7.50/mo per host.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-7" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                </div>
+            </div>
+                <div id="tab-8" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-												<div class="grid__col-9">
-													<h5 class="">Uptime monitoring</h5>
-													<p class="gray no-margin">
-														Test your site’s availability from all over the world.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								      <script>
-								icons['alerting'] = (function(){
+                        </ul>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Support" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Support</a>
+                        <ul class="dropdown-menu ultra-menu">
+
+<div class="container dropdownMenu supportTab">
+    <div class="row">
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Success Center" href="https://support.solarwinds.com/Success_Center" class="dropdown-toggle menu-subheadline">Success Center</a>
+                <p>Find product guides, documentation, training, onboarding information, and support articles.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Success Center:Find product guides, documentation, training, onboarding information, and support articles." href="https://support.solarwinds.com/Success_Center?sid=mnavSC">Access the Success Center</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Success Center:Find product guides, documentation, training, onboarding information, and support articles." href="https://support.solarwinds.com/Success_Center/Smart_Start_Onboarding_Program?sid=mnavSS">Smart Start Onboarding</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Technical Support" href="https://support.solarwinds.com/Success_Center" class="dropdown-toggle menu-subheadline">Technical Support</a>
+                <p>Submit a ticket for technical and product assistance, or get customer service help.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">Americas: +1-512-682-9300</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">EMEA: +353 21 5002900</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">APAC: +61 2 8412 4900</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="https://customerportal.solarwinds.com/support/submit-a-ticket?sid=mnavT">Submit a Ticket</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification" href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy" class="dropdown-toggle menu-subheadline">Training &amp; Certification</a>
+                <p>Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification:Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy." href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy?sid=mnavSA">SolarWinds Academy</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification:Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy." href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy/Solarwinds_Certified_Professional?sid=mnavCP">SolarWinds Certified Professional</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Customer Portal" href="https://customerportal.solarwinds.com/" class="dropdown-toggle menu-subheadline">Customer Portal</a>
+                <p>Download the latest product versions and hotfixes. Manage your portal account and all your products.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Customer Portal:Download the latest product versions and hotfixes. Manage your portal account and all your products." href="https://customerportal.solarwinds.com/?sid=mnavCP">Access the Customer Portal</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance" href="/maintenance" class="dropdown-toggle menu-subheadline">Renew Maintenance</a>
+                <p>Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance:Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training." href="/maintenance?sid=mnavRM">Renew Maintenance</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance:Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training." href="https://support.solarwinds.com/Success_Center/Customer_Service/Frequently_Asked_Questions_About_Auto-Renewal?sid=mnavAR">Learn about Auto-Renewal</a> </li>
+                </ul>
+            </div>
+    </div>
+</div>                        </ul>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Community" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Community</a>
+                        <ul class="dropdown-menu ultra-menu">
+<div class="container dropdownMenu">
+    <div class="row">
+            <div class="col-sm-3">
+                <a href=" https://thwack.solarwinds.com/welcome" target="_blank" data-linkdetail="Community:THWACK" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">THWACK</a>
+                <p>Connect with more than 130K community members. Get help, be heard by us and do your job better using our products.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://thwack.solarwinds.com/welcome" data-linktype="Top Menu" data-linkdetail="Community:THWACK:View THWACK">View THWACK</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" target="_blank" data-linkdetail="Community:Geek Speak Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Geek Speak Blog</a>
+                <p>Get the latest tips, tricks and advice from your fellow SolarWinds geeks.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linktype="Top Menu" data-linkdetail="Community:Geek Speak Blog:View Geek Speak Blog">View Geek Speak Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="https://logicalread.com/" target="_blank" data-linkdetail="Community:LogicalRead Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">LogicalRead Blog</a>
+                <p>Into databases? Find articles, code and a community of database experts.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://logicalread.com/" data-linktype="Top Menu" data-linkdetail="Community:LogicalRead Blog:View LogicalRead Blog">View LogicalRead Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="/certification/network-certification" target="_blank" data-linkdetail="Community:Personal Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Personal Certification</a>
+                <p>Earn the official stamp of your expertise by becoming a SolarWinds Certified Professional.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="/certification/network-certification" data-linktype="Top Menu" data-linkdetail="Community:Personal Certification:View Professional Certification">View Professional Certification</a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+                        </ul>
+                    </li>
+                                    <li class="menu-toggle separator">
+                        <a href="/downloads" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="">FREE DOWNLOADS</a>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="/company/contact-us" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="Contact Sales">Contact Sales</a>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="/onlinequotes" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="RightLink2 : ONLINE QUOTE">Online Quote</a>
+                    </li>
+                <li class="view-menu-toggle separator">
+                    <a href="/downloads" class="view-all-products" data-linktype="Top Menu" data-linkdetail="View All Products">View All Products</a>
+                </li>
+                <li class="view-menu-toggle separator">
+                    <a href="/free-tools" class="view-free-tools" data-linktype="Top Menu" data-linkdetail="View Free Tools">View Free Tools</a>
+                </li>
+            </ul>
+            <ul class="nav navbarUltra-nav ultraMobile hidden-md hidden-lg">
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Products" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Products</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href="/network-management-software" data-linkdetail="Products:Network Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Network Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/network-performance-monitor" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Performance Monitor">Network Performance Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/netflow-traffic-analyzer" data-linktype="Top Menu" data-linkdetail="Products:Network Management:NetFlow Traffic Analyzer">NetFlow Traffic Analyzer</a>
+                            </li>
+                            <li>
+                                <a href="/network-configuration-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Configuration Manager">Network Configuration Manager</a>
+                            </li>
+                            <li>
+                                <a href="/ip-address-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:IP Address Manager">IP Address Manager</a>
+                            </li>
+                            <li>
+                                <a href="/user-device-tracker" data-linktype="Top Menu" data-linkdetail="Products:Network Management:User Device Tracker">User Device Tracker</a>
+                            </li>
+                            <li>
+                                <a href="/voip-network-quality-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:VoIP &amp; Network Quality Manager">VoIP &amp; Network Quality Manager</a>
+                            </li>
+                            <li>
+                                <a href="/log-manager-for-orion-software" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Log Manager for Orion">Log Manager for Orion</a>
+                            </li>
+                            <li>
+                                <a href="/engineers-toolset" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Engineer's Toolset">Engineer's Toolset</a>
+                            </li>
+                            <li>
+                                <a href="/network-topology-mapper" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Topology Mapper">Network Topology Mapper</a>
+                            </li>
+                            <li>
+                                <a href="/kiwi-cattools" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Kiwi CatTools">Kiwi CatTools</a>
+                            </li>
+                            <li>
+                                <a href="/kiwi-syslog-server" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Kiwi Syslog Server">Kiwi Syslog Server</a>
+                            </li>
+                            <li>
+                                <a href="/network-bandwidth-analyzer-pack" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Bandwidth Analyzer Pack">Network Bandwidth Analyzer Pack</a>
+                            </li>
+                            <li>
+                                <a href="/ip-control-bundle" data-linktype="Top Menu" data-linkdetail="Products:Network Management:IP Control Bundle">IP Control Bundle</a>
+                            </li>
+                            <li>
+                                <a href="/network-automation-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Automation Manager">Network Automation Manager</a>
+                            </li>
+                            <li>
+                                <a href="/network-operations-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Operations Manager">Network Operations Manager</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/system-management-software" data-linkdetail="Products:Systems Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Systems Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/server-application-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Server &amp; Application Monitor">Server &amp; Application Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/virtualization-manager" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Virtualization Manager">Virtualization Manager</a>
+                            </li>
+                            <li>
+                                <a href="/storage-resource-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Storage Resource Monitor">Storage Resource Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/backup" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:SolarWinds Backup">SolarWinds Backup</a>
+                            </li>
+                            <li>
+                                <a href="/web-performance-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Web Performance Monitor">Web Performance Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/systems-management-bundle" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Systems Management Bundle">Systems Management Bundle</a>
+                            </li>
+                            <li>
+                                <a href="/application-performance-optimization" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Application Performance Optimization Pack">Application Performance Optimization Pack</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/database-performance-monitoring-software" data-linkdetail="Products:Database Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Database Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/database-performance-analyzer" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Database Performance Analyzer">Database Performance Analyzer</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-sql-server" data-linktype="Top Menu" data-linkdetail="Products:Database Management:SQL Server">SQL Server</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-oracle-monitoring-tuning" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Oracle">Oracle</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-mysql" data-linktype="Top Menu" data-linkdetail="Products:Database Management:MySQL">MySQL</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-db2" data-linktype="Top Menu" data-linkdetail="Products:Database Management:DB2">DB2</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-sap-ase" data-linktype="Top Menu" data-linkdetail="Products:Database Management:SAP ASE">SAP ASE</a>
+                            </li>
+                            <li>
+                                <a href="/cloud-virtualized-database-migration" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Cloud">Cloud</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/it-security-management-tools" data-linkdetail="Products:IT Security" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">IT Security</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/siem-security-information-event-management-software" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Security Information and Event Management">Security Information and Event Management</a>
+                            </li>
+                            <li>
+                                <a href="/patch-manager" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Patch Manager">Patch Manager</a>
+                            </li>
+                            <li>
+                                <a href="/serv-u-managed-file-transfer-server" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Secure Managed File Transfer Server">Secure Managed File Transfer Server</a>
+                            </li>
+                            <li>
+                                <a href="/ftp-server-software" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Secure FTP Server">Secure FTP Server</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/it-help-desk" data-linkdetail="Products:IT Help Desk" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">IT Help Desk</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/help-desk-software" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Web Help Desk">Web Help Desk</a>
+                            </li>
+                            <li>
+                                <a href="/remote-support-software" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Dameware Remote Support">Dameware Remote Support</a>
+                            </li>
+                            <li>
+                                <a href="/dameware-mini-remote-control" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Dameware Mini Remote Control">Dameware Mini Remote Control</a>
+                            </li>
+                            <li>
+                                <a href="/help-desk-essentials" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Help Desk Essentials">Help Desk Essentials</a>
+                            </li>
+                            <li>
+                                <a href="/mobile-admin" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Mobile Admin">Mobile Admin</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/cloud-monitoring" data-linkdetail="Products:Cloud" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Cloud</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href=" https://www.appoptics.com/" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Application &amp; Infrastructure Monitoring">Application &amp; Infrastructure Monitoring</a>
+                            </li>
+                            <li>
+                                <a href="/papertrail" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Hosted Log Management">Hosted Log Management</a>
+                            </li>
+                            <li>
+                                <a href="/pingdom" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Website Uptime &amp; Performance">Website Uptime &amp; Performance</a>
+                            </li>
+                            <li>
+                                <a href="http://www.loggly.com" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Hosted Log Monitoring &amp; Analytics">Hosted Log Monitoring &amp; Analytics</a>
+                            </li>
+                </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Support" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Support</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center" data-linkdetail="Support:Success Center" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Success Center</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center?sid=mnavSC" data-linktype="Top Menu" data-linkdetail="Support:Success Center:Access the Success Center">Access the Success Center</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Smart_Start_Onboarding_Program?sid=mnavSS" data-linktype="Top Menu" data-linkdetail="Support:Success Center:Smart Start Onboarding">Smart Start Onboarding</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center" data-linkdetail="Support:Technical Support" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Technical Support</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:Americas: +1-512-682-9300">Americas: +1-512-682-9300</a>
+                        </li>
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:EMEA: +353 21 5002900">EMEA: +353 21 5002900</a>
+                        </li>
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:APAC: +61 2 8412 4900">APAC: +61 2 8412 4900</a>
+                        </li>
+                        <li>
+                            <a href="https://customerportal.solarwinds.com/support/submit-a-ticket?sid=mnavT" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:Submit a Ticket">Submit a Ticket</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy" data-linkdetail="Support:Training &amp; Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Training &amp; Certification</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy?sid=mnavSA" data-linktype="Top Menu" data-linkdetail="Support:Training &amp; Certification:SolarWinds Academy">SolarWinds Academy</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy/Solarwinds_Certified_Professional?sid=mnavCP" data-linktype="Top Menu" data-linkdetail="Support:Training &amp; Certification:SolarWinds Certified Professional">SolarWinds Certified Professional</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://customerportal.solarwinds.com/" data-linkdetail="Support:Customer Portal" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Customer Portal</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://customerportal.solarwinds.com/?sid=mnavCP" data-linktype="Top Menu" data-linkdetail="Support:Customer Portal:Access the Customer Portal">Access the Customer Portal</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/maintenance" data-linkdetail="Support:Renew Maintenance" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Renew Maintenance</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/maintenance?sid=mnavRM" data-linktype="Top Menu" data-linkdetail="Support:Renew Maintenance:Renew Maintenance">Renew Maintenance</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Customer_Service/Frequently_Asked_Questions_About_Auto-Renewal?sid=mnavAR" data-linktype="Top Menu" data-linkdetail="Support:Renew Maintenance:Learn about Auto-Renewal">Learn about Auto-Renewal</a>
+                        </li>
+                    </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Community" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Community</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href=" https://thwack.solarwinds.com/welcome" data-linkdetail="Community:THWACK" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">THWACK</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://thwack.solarwinds.com/welcome" data-linktype="Top Menu" data-linkdetail="Community:THWACK:View THWACK">View THWACK</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linkdetail="Community:Geek Speak Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Geek Speak Blog</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linktype="Top Menu" data-linkdetail="Community:Geek Speak Blog:View Geek Speak Blog">View Geek Speak Blog</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://logicalread.com/" data-linkdetail="Community:LogicalRead Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">LogicalRead Blog</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://logicalread.com/" data-linktype="Top Menu" data-linkdetail="Community:LogicalRead Blog:View LogicalRead Blog">View LogicalRead Blog</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/certification/network-certification" data-linkdetail="Community:Personal Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Personal Certification</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/certification/network-certification" data-linktype="Top Menu" data-linkdetail="Community:Personal Certification:View Professional Certification">View Professional Certification</a>
+                        </li>
+                    </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="FREE DOWNLOADS" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">FREE DOWNLOADS</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Contact Sales" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Contact Sales</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Online Quote" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Online Quote</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+                <li class="view-menu-toggle separator">
+                    <a href="/downloads" class="view-all-products" data-linktype="Top Menu" data-linkdetail="View All Products">View All Products</a>
+                    <a href="/free-tools" class="view-free-tools" data-linktype="Top Menu" data-linkdetail="View Free Tools">View Free Tools</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
 
-    var smallTl;
-    var bigTl;
 
-    function init(containerId){
-        // console.log("containerId: " + containerId);
-        var smallClockLines = [containerId +' #Path-5', containerId +' #Path-5-Copy-2', containerId +' #Path-5-Copy-3']; 
-
-        TweenMax.set(containerId + ' #ikon ', {transformOrigin:'50% 0%'} );
-        smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        smallTl.to(containerId + ' #ikon', 0.2, {rotation:2,ease:Power1.easeOut});
-        smallTl.to(containerId + ' #ikon', 0.2, {rotation:0,ease:Power1.easeOut});
-        smallTl.staggerTo(smallClockLines, 0.15, {scale:0}, 0.03, 0);
-        smallTl.staggerTo(smallClockLines, 0.15, {scale:1}, 0.03, 0.2);
-
-
-        bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: true});
-        bigTl.to(containerId + ' #klocka', 0.05, {x:-2, ease:Power1.easeOut});
-        
-     
-    }
-
-  return{
-    init: init,
-
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani " data-iconsize="small" data-iconslug="alerting">
-									<a href="https://www.pingdom.com/product/alerting/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <svg id="klocka" xmlns="http://www.w3.org/2000/svg" width="50" height="45" viewBox="0 0 50 45"><title>alerting-small</title><path id="gult" d="M19,14h0A15,15,0,0,1,34,29h0A15,15,0,0,1,19,44h0A15,15,0,0,1,4,29H4A15,15,0,0,1,19,14Z" style="fill:#fff000"></path><g id="ikon"><path id="Oval-7-Copy" d="M18.23,27.06A4,4,0,1,0,26,29.13" style="fill:#fff;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Combined-Shape-Copy" d="M33,25.85l-.26,1,1,.26h0a2,2,0,0,1-1,3.86l-21.26-5.7a2,2,0,0,1,1-3.86h0l1,.26.26-1,.78-2.9,1-3.85h0a10,10,0,1,1,19.32,5.18Z" style="fill:none;stroke:#282828;stroke-width:2px"></path><circle id="Oval-10" cx="26.02" cy="25" r="1" transform="translate(-4.86 43.67) rotate(-75)" style="fill:#282828"></circle><circle id="Oval-9" cx="34.22" cy="13.74" r="3" transform="translate(12.09 43.24) rotate(-75)" style="fill:#fff000;stroke:#282828;stroke-width:2px"></circle><path id="Path-5" d="M36.29,6l.52-1.93" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-5-Copy-2" d="M41.95,15.81l1.93.52" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-5-Copy-3" d="M41.57,9.5,44,8.08" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Oval-7" d="M30.49,4.46a2,2,0,1,0-3.86-1" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-5-2" data-name="Path-5" d="M17.33,22.67l5.8,1.55" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-5-Copy" d="M28.92,25.78l3.86,1" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></svg></div>
-												<div class="grid__col-9">
-													<h5 class="">Alerting</h5>
-													<p class="gray no-margin">
-														Effective alerting for when you need to be the first to know.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								      <script>
-								icons['page_speed'] = (function(){
-
-  var smallTl;
-  var bigTl;
-
-  function init(containerId){
-    containerId = containerId || '';
-    
-    $(containerId + ' #lines').clone().attr('id', 'lines2').prependTo(containerId + ' svg');
-
-    
-    smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-    smallTl.staggerTo(containerId + ' #speedlines path', 0.25, { x:-25, ease:Linear.easeNone});
-    // smallTl.add(lines,0);
-    
-
-    $(containerId + ' #fartstreck1').clone().attr('id', 'fartstreck2').prependTo(containerId + ' svg');
-    var fartstreck = new TimelineMax({paused:false, repeat:3});
-    fartstreck.staggerTo(containerId + ' #fartstreck1 path', 0.25, {scaleX:2, x:-25, ease:Linear.easeNone});
-    fartstreck.staggerFrom(containerId + ' #fartstreck2 path', 0.25, {scaleX:1.8, x:25, ease:Linear.easeNone},0,0);
-    bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-    bigTl.add(fartstreck,0);
-
-    TweenMax.set(containerId + ' #visare', {transformOrigin: '50% 50%'});
-    bigTl.to(containerId + ' #visare', 1, {rotation:360, ease:Linear.easeNone}, 0);
-    bigTl.to(containerId + ' #knapp', 0.1, {x:-2, y:2, ease:Power1.easeOut}, 0);
-    bigTl.to(containerId + ' #knapp', 0.1, {x:0, y:0, ease:Power1.easeOut}, 0.1);
-
-    // bigTl.staggerFrom(containerId + ' #fartstreck1 path', 0.2, {x:'25', ease:Linear.easeNone}, 0.05);
-    
-    // bigTl.staggerFromTo(containerId + ' #fartstreck1 path', 0.2, {scaleX:2, x:'40', ease:Quint.easeOut}, 0.01);
-
-
-  }
-
-  return{
-    init: init,
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani " data-iconsize="small" data-iconslug="page_speed">
-									<a href="https://www.pingdom.com/product/page-speed/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <svg id="pagespeed-small" xmlns="http://www.w3.org/2000/svg" width="50" height="45" viewBox="0 0 50 45"><title>pagespeed-small</title><g id="speedlines"><path id="linje7" d="M7,20H5" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje6" d="M10,24H8" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje5" d="M10,16H7" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje4" d="M6,28H4" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje3" d="M1,28H1" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje2" d="M10,32H6" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje1" d="M2,20H2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje7-2" data-name="linje7" d="M31.75,20h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje6-2" data-name="linje6" d="M34.75,24h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje5-2" data-name="linje5" d="M34.75,16h-3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje4-2" data-name="linje4" d="M30.75,28h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje3-2" data-name="linje3" d="M25.75,28h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje2-2" data-name="linje2" d="M34.75,32h-4" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje1-2" data-name="linje1" d="M26.75,20h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje7-3" data-name="linje7" d="M22.75,16h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje6-3" data-name="linje6" d="M22.75,32h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje5-3" data-name="linje5" d="M17.75,20h-3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje4-3" data-name="linje4" d="M18.75,24h-2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje3-3" data-name="linje3" d="M13.75,24h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje2-3" data-name="linje2" d="M19.75,28h-4" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="linje1-3" data-name="linje1" d="M17.75,16h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="yellow"><rect id="Rectangle-4-Copy-2" x="18" y="4" width="22" height="30" rx="1" ry="1" style="fill:#fff000"></rect></g><g id="window"><g id="Lager_5" data-name="Lager 5"><rect x="11" y="16" width="8" height="21.38" style="fill:#fff"></rect></g><g id="icon"><path id="Rectangle-4-Copy-4" d="M44,34a3.85,3.85,0,0,1-3.67,4H13.67A3.84,3.84,0,0,1,10,34V12a3.85,3.85,0,0,1,3.67-4H40.33A3.85,3.85,0,0,1,44,12Z" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><circle id="Oval-2-Copy-4" cx="14" cy="12" r="1" style="fill:#282828"></circle><circle id="Oval-2-Copy-10" cx="18" cy="12" r="1" style="fill:#282828"></circle><circle id="Oval-2-Copy-11" cx="22" cy="12" r="1" style="fill:#282828"></circle><path id="Path-2-Copy-5" d="M10,16H44" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-10" d="M18,17V38" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g><g id="lines"><path id="Path-6-Copy-9" d="M36,20H22" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-6-Copy-10" d="M36,24H22" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-6-Copy-11" d="M36,28H22" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-6-Copy-12" d="M29.07,32H22" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></svg></div>
-												<div class="grid__col-9">
-													<h5 class="">Page speed monitoring</h5>
-													<p class="gray no-margin">
-														Examine and optimize the load performance of your website.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								      <script>
-								icons['performance'] = (function(){
-
-    var smallTl;
-    var bigTl;
-
-    function init(containerId){
-
-        
-        smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        smallTl.to(containerId + ' #visare', 0.25, {rotation:40, transformOrigin:'50% 50%', ease:Back.easeOut});
-        smallTl.to(containerId + ' #visare', 0.25, {rotation:30, ease:Back.easeOut});
-        smallTl.to(containerId + ' #visare', 0.25, {rotation:45, ease:Back.easeOut});
-        smallTl.to(containerId + ' #visare', 0.5, {rotation:-15, ease:Back.easeOut});
-        smallTl.to(containerId + ' #visare', 0.5, {rotation:0, ease:Back.easeOut});
-
-
-
-        bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        bigTl.to(containerId + ' #visare', 0.25, {rotation:20, transformOrigin:'50% 50%', ease:Back.easeOut});
-        bigTl.to(containerId + ' #visare', 0.25, {rotation:10, ease:Back.easeOut});
-        bigTl.to(containerId + ' #visare', 0.25, {rotation:-35, ease:Back.easeOut});
-        bigTl.to(containerId + ' #visare', 0.5, {rotation:-15, ease:Back.easeOut});
-        bigTl.to(containerId + ' #visare', 0.5, {rotation:0, ease:Back.easeOut});        
-        
-        
-     
-    }
-
-  return{
-    init: init,
-
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani " data-iconsize="small" data-iconslug="performance">
-									<a href="https://www.pingdom.com/product/performance-monitoring/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <svg id="performance-small" xmlns="http://www.w3.org/2000/svg" width="50" height="45" viewBox="0 0 50 45"><title>performance-small</title><g id="Lager_2" data-name="Lager 2"><g id="Lager_10" data-name="Lager 10"><path id="Rectangle-4-Copy-2" d="M28,12h0A15,15,0,0,1,43,27h0A15,15,0,0,1,28,42h0A15,15,0,0,1,13,27h0A15,15,0,0,1,28,12Z" style="fill:#fff000"></path></g><g id="Lager_9" data-name="Lager 9"><path id="Oval-3" d="M36.46,15.37a15,15,0,0,0-2.12-3.19M29.71,8.58a15,15,0,1,0,6.94,19.65" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_6" data-name="Lager 6"><path id="Path" d="M31.43,10.8a1,1,0,1,0,.15-1.41A1,1,0,0,0,31.43,10.8Z" style="fill:#181818"></path></g><g id="Lager_5" data-name="Lager 5"><path id="Oval-4-Copy" d="M12,23a1,1,0,1,1,1-1A1,1,0,0,1,12,23Zm3.36-9a1,1,0,1,1,1.41.15A1,1,0,0,1,15.36,14Z" style="fill:#282828"></path></g><g id="Lager_4" data-name="Lager 4"><path id="Oval-3-Copy" d="M22.82,30.86a9.52,9.52,0,0,0,2.34-.29m3-1.37a9.54,9.54,0,0,0,3.27-3.89" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_3" data-name="Lager 3"><polyline id="Path-3" points="31.47 25.16 28.01 23.16 38.07 19.73 40.16 30.14 36.7 28.17" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></polyline></g></g><g id="visare"><g id="Lager_9_kopia" data-name="Lager 9 kopia"><path id="Rectangle-4-Copy-2-2" data-name="Rectangle-4-Copy-2" d="M23,7h0A15,15,0,0,1,38,22h0A15,15,0,0,1,23,37h0A15,15,0,0,1,8,22H8A15,15,0,0,1,23,7Z" style="fill:#fff000;opacity:0"></path></g><g id="Lager_8" data-name="Lager 8"><circle id="Oval-4" cx="23" cy="22" r="2" style="fill:none;stroke:#282828;stroke-width:2px"></circle></g><g id="Lager_7" data-name="Lager 7"><path id="Path-4" d="M23.5,19.93l1.92-8.59" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g></svg></div>
-												<div class="grid__col-9">
-													<h5 class="">Visitor Insights (RUM)</h5>
-													<p class="gray no-margin">
-														Enhance your site performance with data from actual site visitors.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								      <script>
-								icons['transaction'] = (function(){
-
-    var smallTl;
-    var bigTl;
-
-    function init(containerId){
-
-        smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        smallTl.to(containerId + ' #arrow', 0.25, {x:1.3, ease:Power1.easeOut});
-        smallTl.staggerTo(containerId + ' #screenlines g', 0.1, {scaleX:0.6, ease:Power1.easeOut}, 0.05);
-        smallTl.staggerTo(containerId + ' #screenlines g', 0.1, {scaleX:1, ease:Power1.easeOut}, 0.05);
-        smallTl.to(containerId + ' #arrow', 0.25, {x:0, ease:Power1.easeOut}, "-=0.4");
-        smallTl.to(containerId + ' #x', 0.25, {scale:1.1, ease:Quint.easeIn}, "-=0.6");
-        smallTl.to(containerId + ' #x', 0.25, {scale:1, ease:Quint.easeOut}, "-=0.25")
-
-        bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        bigTl.to(containerId + ' #arrow', 0.25, {x:3, ease:Power1.easeOut});
-        bigTl.staggerTo(containerId + ' #linjer g', 0.1, {scaleX:0.6, ease:Power1.easeOut}, 0.05, "-=0.1");
-        bigTl.staggerTo(containerId + ' #linjer g', 0.1, {scaleX:1, ease:Power1.easeOut}, 0.05, "-=0.2");
-        bigTl.to(containerId + ' #arrow', 0.25, {x:0, ease:Power1.easeOut}, "-=0.4");
-        bigTl.to(containerId + ' #x', 0.25, {scale:1.1, ease:Quint.easeIn}, "-=0.6");
-        bigTl.to(containerId + ' #x', 0.25, {scale:1, ease:Quint.easeOut}, "-=0.25");
-        
-     
-    }
-
-  return{
-    init: init,
-
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani " data-iconsize="small" data-iconslug="transaction">
-									<a href="https://www.pingdom.com/product/transaction-monitoring/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <svg id="transactions-small" xmlns="http://www.w3.org/2000/svg" width="48.01" height="40" viewBox="0 0 48.01 40"><title>transactions-small</title><g id="Lager_18" data-name="Lager 18"><rect id="Rectangle-4-Copy-2" x="11.01" width="26" height="30" rx="1" ry="1" style="fill:#fff000"></rect></g><g id="Lager_17" data-name="Lager 17"><path id="Rectangle-4-Copy-3" d="M26,11V9a4,4,0,0,1,4-4H40a4,4,0,0,1,4,4V21M30,35a4,4,0,0,1-4-4" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_16" data-name="Lager 16"><circle id="Oval-13" cx="39.01" cy="31" r="8" style="fill:#fff;stroke:#282828;stroke-width:2px"></circle></g><g id="Lager_15" data-name="Lager 15"><path id="Rectangle-4-Copy-4" d="M26,31h0a4,4,0,0,1-4,4H6a4,4,0,0,1-4-4V9A4,4,0,0,1,6,5H22a4,4,0,0,1,4,4h0v4" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_13" data-name="Lager 13"><circle id="Oval-2-Copy-4" cx="5.01" cy="9" r="1" style="fill:#282828"></circle></g><g id="Lager_12" data-name="Lager 12"><circle id="Oval-2-Copy-10" cx="9.01" cy="9" r="1" style="fill:#282828"></circle></g><g id="Lager_11" data-name="Lager 11"><circle id="Oval-2-Copy-11" cx="13.01" cy="9" r="1" style="fill:#282828"></circle></g><g id="Lager_8" data-name="Lager 8"><path id="Path-2-Copy-5" d="M2,13H26" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="arrow"><g id="Lager_4" data-name="Lager 4"><polyline id="Path-3" points="25 19 25 16 32 22 25 28 25 25 14 25" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></polyline></g><g id="Lager_14" data-name="Lager 14"><circle id="Oval-2-Copy-11-2" data-name="Oval-2-Copy-11" cx="9.01" cy="19" r="1" style="fill:#282828"></circle></g><g id="Lager_9" data-name="Lager 9"><path id="Path-2-Copy-9" d="M13,19h3.93" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_10" data-name="Lager 10"><path id="Path-2" d="M20,19h6" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g><g id="screenlines"><g id="Lager_7" data-name="Lager 7"><path id="Path-2-Copy-6" d="M30,9H40" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_6" data-name="Lager 6"><path id="Path-2-Copy-7" d="M30,13H40" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_5" data-name="Lager 5"><path id="Path-2-Copy-8" d="M35,17h5" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g><g id="x"><g id="x-2" data-name="x"><path id="Path-6-Copy-5" d="M42.48,33.5l-5-5" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-6-Copy-13" d="M37.48,33.5l5-5" transform="translate(-0.99 0)" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g></svg></div>
-												<div class="grid__col-9">
-													<h5 class="">Transaction monitoring</h5>
-													<p class="gray no-margin">
-														Help ensure your most vital site interactions function smoothly.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								      <script>
-								icons['server'] = (function(){
-
-  var smallTl;
-  var bigTl;
-
-  function init(containerId){
-    containerId = containerId || '';
-    
-    var prickArr = [containerId + ' #prick1', containerId + ' #prick4', containerId + ' #prick3', containerId + ' #prick2'];
-    
-    smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-    smallTl.staggerTo(prickArr, 0.1, {opacity:0, ease:Quint.easeOut}, 0.1);
-    smallTl.staggerTo(prickArr, 0.1, {opacity:1, ease:Quint.easeOut}, 0.1);
-    smallTl.to(containerId + ' #pil', 0.25, {y:-2, ease:Quint.easeOut},0);
-    smallTl.to(containerId + ' #pil', 0.25, {y:0, ease:Quint.easeOut},0.25);
-    
-    bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-    bigTl.staggerTo(prickArr, 0.1, {opacity:0, ease:Quint.easeOut}, 0.1);
-    bigTl.staggerTo(prickArr, 0.1, {opacity:1, ease:Quint.easeOut}, 0.1);
-    bigTl.to(containerId + ' #arrow', 0.25, {y:-2, ease:Quint.easeOut},0);
-    bigTl.to(containerId + ' #arrow', 0.25, {y:0, ease:Quint.easeOut},0.25);
-
-  }
-
-  return{
-    init: init,
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-
-
-
-								</script>   								<div class="grid__col-sm-6 hover-text-black hover-yellow-line-left has-icon-ani black-line-left external-product-link" data-iconsize="small" data-iconslug="server">
-									<a target="_blank" href="http://server-monitor.pingdom.com/" class="no-decor">
-										<div class="boxpadding-medium">
-											<div class="grid grid--bleed">
-												<div class="grid__col-3"> <svg id="server-small" xmlns="http://www.w3.org/2000/svg" width="50" height="45" viewBox="0 0 50 45"><title>server-small</title><g id="yellow"><rect id="Rectangle-4-Copy-2" x="18.94" y="5" width="23" height="25" rx="1" ry="1" style="fill:#fff000"></rect></g><g id="Layer_12" data-name="Layer 12"><path id="Line" d="M7,12.34v5.31m0,3.7V32" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-width:2px"></path></g><g id="Layer_11" data-name="Layer 11"><path id="Line-2" data-name="Line" d="M39,12v9" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-width:2px"></path></g><g id="Layer_10" data-name="Layer 10"><path id="Oval-2" d="M25.18,16C33,15.73,39,14.05,39,12c0-2.22-7.16-4-16-4S7,9.8,7,12c0,2,6,3.72,13.82,4" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-width:2px"></path></g><g id="prick4"><circle id="Oval-23" cx="11" cy="20" r="1" style="fill:#282828"></circle></g><g id="prick3"><circle id="Oval-23-2" data-name="Oval-23" cx="16" cy="21" r="1" style="fill:#282828"></circle></g><g id="prick2"><circle id="Oval-23-3" data-name="Oval-23" cx="11" cy="30" r="1" style="fill:#282828"></circle></g><g id="prick1"><circle id="Oval-23-4" data-name="Oval-23" cx="16" cy="31" r="1" style="fill:#282828"></circle></g><g id="boll"><circle id="Oval-13" cx="36" cy="32" r="8" style="fill:#fff;stroke:#282828;stroke-width:2px"></circle></g><g id="pil"><path id="Path-9" d="M36,35V29" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-9-Copy" d="M39,32l-3-3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-9-Copy-2" d="M33,32l3-3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Layer_4" data-name="Layer 4"><path id="Oval-49" d="M7,22c0,2.21,7.16,4,16,4,.86,0,1.69,0,2.51,0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-width:2px"></path></g><g id="Layer_3" data-name="Layer 3"><path id="Oval-49-2" data-name="Oval-49" d="M7,32c0,2.21,7.16,4,16,4q1.08,0,2.12,0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-width:2px"></path></g></svg></div>
-												<div class="grid__col-9">
-													<h5 class="arrowlink">Server monitor</h5>
-													<p class="gray no-margin">
-														The easier way to monitor servers and web applications.
-													</p>
-												</div>
-											</div>
-										</div>
-									</a>
-								</div>
-															</div>
-							<div class="hidden-sm">
-								<div class="line"></div>
-								<p><a class="block gray" href="https://www.pingdom.com/product/">Product Overview</a></p>
-							</div>
-						</div>
-					</div>
-					<div id="using-pingdom" class="dropdown links">
-												<a href="#0" class="label">Resources</a> 						<div class="content">
-							 <script>
-							icons['api'] = (function(){
-
-    var smallTl;
-    var bigTl;
-
-    function init(containerId){
-
-        smallTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        smallTl.staggerTo(containerId + ' #lines path', 0.25, {scaleX:0, ease:Quint.easeOut}, 0.02);
-        smallTl.staggerTo(containerId + ' #lines path', 0.25, {scaleX:1, ease:Quint.easeOut}, 0.02, 0.25);
-
-        bigTl = new TimelineMax({paused:true, repeat:-1, yoyo: false});
-        bigTl.staggerTo(containerId + ' #lines path', 0.25, {scaleX:0, ease:Quint.easeOut}, 0.02);
-        bigTl.staggerTo(containerId + ' #lines path', 0.25, {scaleX:1, ease:Quint.easeOut}, 0.02, 0.25);        
-        // smallTl.staggerTo(containerId + ' #lines path', 0.25, {scaleX:1, ease:Quint.easeOut}, 0.05, '-="0.1"');
-           
-        
-        
-     
-    }
-
-  return{
-    init: init,
-
-    smallTl: function(){return smallTl;},
-    bigTl: function(){return bigTl;},
-
-  };
-
-}());
-							</script>   							<div class="block relative hover-yellow-line-left">
-								<a href="https://www.pingdom.com/resources/api/2.1/" class=" no-decor hover-text-black has-icon-ani" data-iconsize="small" data-iconslug="api">
-									<div class="grid grid--bleed">
-										<div class="grid__col-3">
-											<div class="icon-wrapper">
-												 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="45" viewBox="0 0 50 45"><title>api-small</title><g id="Lager_1" data-name="Lager 1"><g id="Lager_2" data-name="Lager 2"><g id="Lager_21" data-name="Lager 21"><rect id="Rectangle-4-Copy-2" x="14" y="2" width="26" height="30" rx="1" ry="1" style="fill:#fff000"></rect></g><g id="Lager_20" data-name="Lager 20"><path id="Rectangle-4-Copy-3" d="M25,15V13a4,4,0,0,1,4-4H42c2.21,0,2-.21,2,2V32a4,4,0,0,1-4,4H24" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_19" data-name="Lager 19"><path id="Rectangle-4-Copy-4" d="M10,36a4,4,0,0,1-4-4V11c0-2.21-.21-2,2-2H21a4,4,0,0,1,4,4V36Z" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_4" data-name="Lager 4"><path id="Path-6" d="M6,40H44" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g><g id="Lager_3" data-name="Lager 3"><path id="Path-4" d="M35,7V12.5A2.49,2.49,0,0,0,37.5,15h0A2.5,2.5,0,0,0,40,12.49V7Z" style="fill:#fff;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></g></g><g id="lines"><path id="Path-2-Copy-5" d="M10,15H21" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-6" d="M13,20h8" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-16" d="M10,20h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-8" d="M10,25H21" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-9" d="M10,30h3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-17" d="M19,30h2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-18" d="M16,30h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-12" d="M29,15h3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-7" d="M29,20h3" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-13" d="M38,20h2" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-14" d="M35,20h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-11" d="M32,25h8" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-15" d="M29,25h0" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path><path id="Path-2-Copy-10" d="M29,30h5" style="fill:none;stroke:#282828;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path></g></svg>
-											</div>
-										</div>
-										<div class="grid__col-9">
-											<h5>Pingdom API</h5>
-											<p class="gray ">
-												Automate your Pingdom interactions with our REST API
-											</p>
-										</div>
-									</div>
-								</a>
-							</div>
-							<div class="line"></div>
-							<div class="block page-links">
-								<div class="grid">
-									<div class="grid__col-6">
-										<h5>Using Pingdom</h5>
-									</div>
-									<div class="grid__col-6">
-										<h5>Resources</h5>
-									</div>
-																		<div class="grid__col-6 hover-text-black"><a class="gray no-decor " href="https://www.pingdom.com/resources/tutorials/">Tutorials &amp; Guides</a></div>
-																		<div class="grid__col-6 hover-text-black"><a class="gray no-decor " href="https://www.pingdom.com/resources/mobile-apps/">Mobile apps</a></div>
-																		<div class="grid__col-6 hover-text-black"><a class="gray no-decor " href="https://www.pingdom.com/resources/downloads/">Downloads</a></div>
-																		<div class="grid__col-6 hover-text-black"><a class="gray no-decor " href="https://www.pingdom.com/company/brand-assets/">Brand assets</a></div>
-																		<div class="grid__col-6 hover-text-black"><a class="gray no-decor " href="https://www.pingdom.com/resources/webhooks/">Webhooks</a></div>
-																	</div>
-							</div>
-							<div class="line"></div>
-							<div class="block text gray">
-								<p>Don't take our word for it!<br>Read some of our <a href="https://www.pingdom.com/company/why-pingdom/customers/">Customer Stories</a></p>
-<p><br></p>
-<div class="line"></div>
-<p><br></p>
-<p>Who are we?&nbsp;<a href="https://www.pingdom.com/company/why-pingdom/">Read our story</a></p>
-							</div>
-													</div>
-					</div>
-					<div class="hidden-sm">
-						   						<a class=" menu-option hover-drop" href="https://www.pingdom.com/pricing/">
-							<span>Pricing</span>
-						</a>    <a class="menu-option hover-drop" href="https://help.pingdom.com">
-							<span class="">Support</span>
-						</a>   <a class="menu-option hover-drop" href="https://tools.pingdom.com">
-							<span class="">Tools</span>
-						</a>  					</div>
-					<div class="buttons-wrapper hidden-sm">
-												<a class="menu-option hover-drop" target="_blank" href="https://my.pingdom.com/">
-					<span class="">Log in</span></a>
-						
-						<a class="button" target="_blank" href="https://www.pingdom.com/signup/">Sign up</a>
-					</div>
-				</div>
-								<div class="bg-layer-wrapper">
-					<div class="bg-layer" aria-hidden="true"></div>
-				</div>
-			</div> 		</div> 	</div></header>  
-      
-      <main class="main ">
-        
-
-
-
-
-
-
-
-
-
-
-<section class="relative short-header ">
-	<div class="content-wrapper vspacepad-top-xxl pagewidth">
-		<div class="align-center col-8-width">
-			<h1> Privacy Policy</h1>
-					</div>
-		
-				
-		
-			</div>
-	
-
-<div class="header-bg-wrapper overflow-hidden" style="background-color:#f8f8f8">
-<!--?xml version="1.0" encoding="UTF-8"?-->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Lager_1" width="4281" height="384" viewBox="0 0 4281 384">
-  <defs>
-    <mask id="mask" x="-32.91" y="0" width="4326.27" height="587.28" maskUnits="userSpaceOnUse">
-      <g id="mask-2">
-        <rect id="path-1" width="4280" height="384" style="fill:#fff"></rect>
-      </g>
-    </mask>
-    <mask id="mask-2-2" x="-16.38" y="0" width="4329.84" height="667.05" maskUnits="userSpaceOnUse">
-      <g id="mask-4">
-        <rect id="path-3" width="4280" height="384" style="fill:#fff"></rect>
-      </g>
-    </mask>
-    <mask id="mask-3" x="0" y="0" width="4280" height="506.71" maskUnits="userSpaceOnUse">
-      <g id="mask-6">
-        <rect id="path-5" width="4280" height="384" style="fill:#fff"></rect>
-      </g>
-    </mask>
-    <mask id="mask-4-2" x="0" y="0" width="4354.76" height="425.3" maskUnits="userSpaceOnUse">
-      <g id="mask-8">
-        <rect id="path-7" width="4280" height="384" style="fill:#fff"></rect>
-      </g>
-    </mask>
-  </defs>
-  <title>header-bg-small-gray</title>
-  <g id="Page-1">
-    <g id="GREY_header-small_4280x384">
-      <g id="holder">
-        <rect id="path-1-2" x="1" width="4280" height="384" style="fill:#f8f8f8"></rect>
-      </g>
-      <g id="Path-20-Copy-Clipped">
-        <g style="mask:url(#mask)">
-          <path id="Path-20-Copy" d="M-32.91,382.14s153.31-10.38,439-48.82c83.05-11.17,178.2-61.76,278.61-76.4,40.46-5.9,105.62,45.72,171.59,45.15s200.28-51.26,251.51-45.15c316.1,37.72,205.76,21.94,205.76,21.94,27.2-.95,76.11-1.71,109.24-1.71h-5.21c33.13,0,86.85-.69,120-1.54L1601,274c33.12-.85,86.07-7.91,118.26-15.75l61.58-15c32.19-7.85,85.06-12,118.08-9.19l27.13,2.28c33,2.77,86.25,9.7,118.87,15.47l32.63,5.77c32.63,5.77,85.83,12.85,118.85,15.82l77.27,6.94c33,3,85.07-3.61,116.31-14.7l36.52-13c52-18.47,136.29-18.06,188.16.91l161.79,59.17c31.12,11.38,80.52,8.89,110.74-4.73,0,0,156.48-83.31,287.34-66.67s188.63,9.6,288.75-46,232.88,32.84,232.88,32.84c29.08,15.87,79.46,27.24,112.56,25.66,0,0,157.16-10.48,216.13,3.08s268.5,125.22,268.5,125.22l-571,205.14H1080.82Z" style="fill-opacity:0.029999999329447746"></path>
-        </g>
-      </g>
-      <g id="Path-20-Clipped">
-        <g style="mask:url(#mask-2-2)">
-          <path id="Path-20" d="M-16.37,394.18S204,385.08,485.45,349s232.89-64.22,347.78-71.54c105.52-6.72,178.28,42.63,251.33,43.86s313.7-18.8,339-13.86c87,17,113.26,13,113.26,13,33.12.46,85.42-7.8,116.79-18.43l70.07-23.75c31.38-10.64,81.5-8.68,112,4.38l30.83,13.22c30.45,13.06,79.33,12,109.18-2.44L2047,259.06c29.85-14.4,79.36-17.08,110.79-6.63,0,0,125.17,48.9,239.39,48.9s116.28-33.69,224.79-33.69,277.12,98.14,277.12,98.14c29.19,15.69,73.15,10.81,99-9.88,0,0,121-116.45,235.66-96.83s165.22,11.32,252.91-54.21,201.69,37.23,201.69,37.23c26.73,19.54,74.72,40.71,107.2,47.29l517.9,104.82L3713.62,667H1399.91Z" style="fill-opacity:0.03999999910593033"></path>
-        </g>
-      </g>
-      <g id="Path-20-Clipped-2">
-        <g style="mask:url(#mask-3)">
-          <path id="Path-20-2" d="M1431.47,451.74c3.43-42.94,41-80.85,83.85-85.2,0,0,69.09-4.37,138.7-20.55s100.93-14.73,176-16.18,101,28.43,174.78,26.93,93.44-51.81,175.76-54.23,95.94,41.62,189.81,43.48,99.72-55.53,253.27-60c44.67-1.29,118.9,72.63,166.88,77.16,114.49,10.81,99.16,13.26,99.16,13.26,21.27,5.78,26.79,24,12.35,40.7l3-3.46c-14.45,16.7-44.07,31-66.14,32l-1372,61c-22.07,1-38.54-16.08-36.78-38.1Z" style="fill-opacity:0.05000000074505806;opacity:0.699999988079071;isolation:isolate"></path>
-        </g>
-      </g>
-      <g id="Group-4-Clipped">
-        <g style="mask:url(#mask-4-2)">
-          <g id="Group-4">
-            <g id="Group">
-              <path id="Path-19-Copy" d="M10.8,424.31,332.86,376l187.67-36,210.86-11.2,159.55-99.61,219.79,41.56s35.32,74.74,105.15,74.74,115.78-57.66,161.85-57.66,63.4,34,109.81,34S1543,298.22,1590,298.22s56.88,22,107,13.56S1767,345.45,1767,345.45l109.09-60.34,100.32-37.33,99.24,48.52,100.51-13.92,99.28-32.83,100.27,34,99.6-37.39,171.16,67.05,99.73-64,100.4,32,102.85-20.51,99.66,51.14,39.85-4.48,68.88-36.59,72.06-175.23,132.4,118.63,228.44-47.92,213.59,101.09s62.25-97.62,75.34-99.36,76-72.83,99.45-72.64,161.8,28.33,161.8,28.33l50,138.67,103.45-59.42,60.28-8.2" style="fill:none;stroke:#ffca00;stroke-width:2px;opacity:0.699999988079071;isolation:isolate"></path>
-              <g id="graph-dot">
-                <g id="Group-4-2">
-                  <g id="Oval-2">
-                    <g id="path-3-link">
-                      <circle id="path-3-2" cx="1976" cy="248" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval" cx="1976" cy="248" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-2">
-                <g id="Group-4-3">
-                  <g id="Oval-2-2">
-                    <g id="path-4-link">
-                      <circle id="path-4" cx="1876" cy="285" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-2-3" cx="1876" cy="285" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-3">
-                <g id="Group-4-4">
-                  <g id="Oval-2-4">
-                    <g id="path-5-link">
-                      <circle id="path-5-2" cx="2076" cy="296" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-3" cx="2076" cy="296" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-4">
-                <g id="Group-4-5">
-                  <g id="Oval-2-5">
-                    <g id="path-6-link">
-                      <circle id="path-6" cx="2176" cy="282" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-4" cx="2176" cy="282" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-5">
-                <g id="Group-4-6">
-                  <g id="Oval-2-6">
-                    <g id="path-7-link">
-                      <circle id="path-7-2" cx="2276" cy="250" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-5" cx="2276" cy="250" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-6">
-                <g id="Group-4-7">
-                  <g id="Oval-2-7">
-                    <g id="path-8-link">
-                      <circle id="path-8" cx="2376" cy="283" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-6" cx="2376" cy="283" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-7">
-                <g id="Group-4-8">
-                  <g id="Oval-2-8">
-                    <g id="path-9-link">
-                      <circle id="path-9" cx="2546" cy="275" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-7" cx="2546" cy="275" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-8">
-                <g id="Group-4-9">
-                  <g id="Oval-2-9">
-                    <g id="path-10-link">
-                      <circle id="path-10" cx="2646" cy="313" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-8" cx="2646" cy="313" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-9">
-                <g id="Group-4-10">
-                  <g id="Oval-2-10">
-                    <g id="path-11-link">
-                      <circle id="path-11" cx="2746" cy="249" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-9" cx="2746" cy="249" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-10">
-                <g id="Group-4-11">
-                  <g id="Oval-2-11">
-                    <g id="path-12-link">
-                      <circle id="path-12" cx="2846" cy="281" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-10" cx="2846" cy="281" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-11">
-                <g id="Group-4-12">
-                  <g id="Oval-2-12">
-                    <g id="path-13-link">
-                      <circle id="path-13" cx="2949" cy="261" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-11" cx="2949" cy="261" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-              <g id="graph-dot-12">
-                <g id="Group-4-13">
-                  <g id="Oval-2-13">
-                    <g id="path-14-link">
-                      <circle id="path-14" cx="3049" cy="311" r="4" style="fill:#fff000"></circle>
-                    </g>
-                    <circle id="Oval-12" cx="3049" cy="311" r="3" style="fill:none;stroke:#ffca00;stroke-width:2px"></circle>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-</svg>
 
 </div>
 
-</section>
+
+        
 
 
-<section class="entry-body col-10-width documentLayout">
-<div class="document-layout  boxpadding-sm-xlarge boxpadding--small border-radius">
-	<p>At Pingdom, it is one of our fundamental values to deliver a great customer experience. Based upon this philosophy, Pingdom AB and its affiliated companies and subsidiaries (“Pingdom”) established this privacy statement (“Privacy Statement”) to assist our customers, business partners, and other visitors of this website, any other webpage or mobile applications that Pingdom operates, or any other location where we post a direct link to this policy (“Website”) with understanding the types of information that we collect from and about you when you visit our Website, why we collect it, what we do with it, and your ability to control certain uses of it. We want you to feel informed and comfortable when you visit with us.<br></p>
-<p>When you visit our Website, please read the Privacy Statement carefully. By using or accessing our Website, you agree to the collection, use, and disclosure of information in accordance with this Privacy Statement. This Privacy Statement may change from time to time, and your continued use is deemed to be acceptance of such changes. So, please check this periodically for updates!<br></p>
-<h3>Data Collection</h3>
-<p><em>Information You Provide to Us.</em>&nbsp;Pingdom collects information from you when you choose to provide it to us. Such information may be provided to us when you: apply for a job at Pingdom; download and install a product for evaluation; download and install a free tool; request a quote; purchase or register a product; sign up for newsletters, support materials, white papers, our email list, or other assets offered by Pingdom; obtain support, services, or training; create a user account on our Website, customer portal or community forum; or otherwise contact us. The personal information we collect may include your name, address, email address, telephone number, user name, password(s), information about the products that you own and use, or your payment information. Such information may be required to create your account or to complete your purchase. If you use a third party to create your account or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.</p>
-<p><em>Information We May Collect.</em>&nbsp;Pingdom may use cookies, web beacons, web analytics, or other technologies to automatically collect certain information about you when you visit our Website, utilize the Pingdom products, or otherwise interact with us. Please note, these may be first party cookies or tools, which are hosted within a Pingdom domain name, or third party cookies or tools, which are hosted by another party. Please reference the Pingdom&nbsp;<a href="https://www.pingdom.com/legal/cookie-policy">Cookie Policy</a>&nbsp;for further information.</p>
-<p><em>Information Collected from Other Sources.</em>&nbsp;Pingdom may obtain information about you from other sources, including updated addresses, contact information, demographic information, and other publicly available data.</p>
-<p><em>Combination of Information.</em>&nbsp;Pingdom may combine the information it receives from and about you, including personal information, non-personal information, and information collected offline, with information collected from third party sources. Real User Monitoring Service (“RUM”). Pingdom uses customized and proprietary software code to analyze and obtain information regarding how third party visitors (“Visitor”) interact with its Clients’ websites. When a Visitor visits a website that uses RUM, this code contacts Pingdom’s servers and enables Pingdom to collect and analyze the Visitor’s activity while visiting that website (“Visitor Data”). This information is stored on Pingdom’s database servers and converted to an aggregate and anonymized form to perform analyses and produce reports for its Clients.</p>
-<h3>Our Commitment to GDPR</h3>
-<p>On May 25, 2018, the European Union’s General Data Protection Regulation (GDPR) takes effect. GDPR regulates the governance of personal data for EU citizens with an emphasis on data security and privacy. The GDPR does not only apply to companies that operate in the EU.&nbsp; This regulation will also impact companies operating outside of the EU if they have any EU customers or personal data of anyone in the EU.&nbsp;&nbsp;</p>
-<p>SolarWinds® has made information security and data privacy foundational principles of everything we do, and we recognize the importance of passing regulations to advance information security and data privacy for citizens of the EU. We are firmly committed to GDPR readiness.&nbsp;&nbsp;</p>
-<p><br></p>
-<h2>Data Use</h2>
-<p>Pingdom may use the information we collect to: - Administer or operate the Pingdom products, services, or Website, including completing a transaction, providing you with products or user support, responding to your requests for information, preventing transactional fraud, or otherwise contacting you; - Provide or contact you with customized content, targeted offers, information, newsletters, and advertising or other promotional material about Pingdom or its partners on the Website, other websites, or via telephone or email (if you have agreed to such communications); - Research, address, develop, and improve the usage and operations of the Website or existing or new Pingdom products and services; - Protect the security or integrity of the Website and our business; and - Perform any other functions as otherwise described to you at the point of data collection.</p>
-<h2>Data Sharing</h2>
-<p>Pingdom may disclose the information we collect from and about you (a) to our third party service providers, partners, and distributors to enable the service provider, partner, or distributor to perform a business, professional, or technical support function for Pingdom; (b) in association with law enforcement, fraud prevention, a subpoena, or other legal or government investigatory action; (c) as required by law, rule, or regulation; (d) if Pingdom reasonably believes it is required to protect Pingdom, its customers, or the public; or (e) as described to you at the point of collection.</p>
-<p>Except as otherwise set forth herein, Pingdom may provide aggregated statistics about users to third parties, but such information will be aggregated so that it does not identify a particular individual or company. Pingdom is not in the business of selling or renting your personally identifiable information to others and will not share your personally identifiable information with others, except as otherwise described in this Privacy Statement.</p>
-<p>Pingdom may sell or purchase assets during the normal course of our business. If another entity acquires Pingdom or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Website in a manner that is consistent with this Privacy Statement.</p>
-<h2>Data Storage</h2>
-<p>As Pingdom operates globally, using the Internet to collect and process your information necessarily involves the transmission and storage of data on an international basis. Therefore, by using our Website, our products, and communicating electronically with us, you acknowledge our processing of your information in this way. We may transfer your personal information among our global locations or to destinations of our storage facilities and/or our third party providers, including to countries outside the European Economic Area (EEA). Your personal information may be stored on servers in a global location. It may also be processed by staff operating outside of the EEA, who work for us or one of our suppliers.</p>
-<p>Some of these locations may have data protection standards that are different to those in your country. For EEA residents, we have taken commercially reasonable measures to ensure that your personal information is treated securely and in accordance with this Privacy Statement. Additionally, your personal information may be subject to the laws of other countries, where the data protection and other laws may differ from those of your country of residence. Your personal information may be disclosed in response to inquiries or requests from government authorities in the countries in which we operate.</p>
-<h2>Marketing Choices</h2>
-<p>Pingdom may periodically send you emails with information regarding Pingdom, its products or its partners. If you no longer wish to continue receiving such information, please click the “unsubscribe” link available at the bottom of the relevant email. You can also contact Pingdom at&nbsp;<a href="mailto:yourfriends@pingdom.com">yourfriends@pingdom.com</a>&nbsp;and let Pingdom know that you no longer wish to receive such information. Alternatively, you can reply to an email from Pingdom and type "REMOVE" in the subject line.</p>
-<h2>Public Forums</h2>
-<p>Any information that you may disclose on community forums or other public areas of the Website (“User Contribution”) becomes public information, and you are solely responsible for your User Contributions. Pingdom has no responsibility for any information, including personally identifiable information, that you choose to submit in these forums. We do encourage you to exercise caution when disclosing personal information in these public areas, as Pingdom has no control over who has access or will utilize said information. Additionally, Pingdom is not responsible for any circumvention by third parties of any privacy setting or security measures contained on the Website. Even after removal, your User Contributions may remain viewable in cached or archived pages or may have been copied or stored by other Website users. Proper access and use of information on the Website, including User Contributions, is governed by this Privacy Statement and the Terms of Use relating thereto. Any known or suspected violations should be reported to at&nbsp;<a href="mailto:legal_team@solarwinds.com">legal_team@solarwinds.com</a>.</p>
-<h2>Third Party Sites</h2>
-<p>The Website may include links to third party websites for your convenience and information only. Pingdom does not own or control these third party websites. Pingdom is not responsible for the availability, content, data collection, utilization of data, use of cookies, or otherwise on the third party websites, and any data that you choose to give to unrelated third parties is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company before submitting any information to them. If you have any questions about how such third parties’ privacy and data use practices, you should contact such third parties directly.</p>
-<h2>How to Update and Access Information</h2>
-<p>Certain areas of this Website will require you to provide certain personal information. It is your responsibility to provide the most recent available and accurate information. Additionally, please inform Pingdom of any change of name, address, or other information. If you have created an account on the Website, you may update certain information in your account profile, or you may request that Pingdom update, modify, or delete your registered information by sending an email to&nbsp;<a href="mailto:yourfriends@pingdom.com">yourfriends@pingdom.com</a>&nbsp;with the words "UPDATE USER INFORMATION" in the subject line. You have the right, subject to certain exemptions, to obtain a copy of any personal data we hold about you and to correct any inaccuracies in such data. If you wish to avail of any of these rights, please contact us at:&nbsp;<a href="mailto:yourfriends@pingdom.com">yourfriends@pingdom.com</a>. While we will strive to accommodate your request, we may reject a request to satisfy our legal obligations, resolve disputes, enforce our agreements, where we have a legitimate reason to do so, or where the request may impose a risk on the privacy of others, is unreasonable, repetitive, or requires disproportionate technical effort.</p>
-<h2>Security</h2>
-<p>Pingdom uses commercially reasonable security measures, such as physical access controls, encryption, firewalls, and network monitoring, and strives to safeguard information concerning and submitted by users. Despite the security measures employed by Pingdom, users should be aware that it is impossible to guarantee absolute security with respect to electronic information, and User agrees and accepts the risks associated with the same.</p>
-<h2>Children under the Age of 13</h2>
-<p>This Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website; Pingdom does not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website, or send any information about yourself to us. If you believe that information from or about a child under 13 is in our possession, please contact us at&nbsp;<a href="mailto:legal_team@solarwinds.com">legal_team@solarwinds.com</a>.</p>
-<h2>Questions</h2>
-<p>If you have any questions about this Privacy Statement or our data handling practices, you may contact us at&nbsp;<a href="mailto:yourfriends@pingdom.com">yourfriends@pingdom.com</a>. In order for us to properly respond to you, you will need to provide us with sufficient details regarding your question. We will contact you if we require any additional information from you.</p>
-<h2>Modifications to this Privacy Statement</h2>
-<p>Pingdom reserves the right to review, modify, and update this Privacy Statement and will note the date of its most recent revision. In the event Pingdom updates or modifies this Privacy Statement, Pingdom shall endeavor to post such updates or modifications on this Website following any such modifications. It we update or modify the Privacy Statement in a material way, we will utilize commercially reasonable efforts to provide appropriate notice to you.</p>
-<p>© 2016 Pingdom AB. All Rights Reserved. Last Updated 08/11/2016</p>
-<div class="document-shadow absolute border-radius big-dropshadow"></div>
+
+
+        <div lang="en">
+
+
+
+
+
+
+
+
+<div id="" class="container-fluid">
+
+    <!-- background color is set by properties in layout -->
+        <div class="container topics-simple-hero">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <h1 class=" ">SolarWinds Privacy</h1>
+
+
+                </div>
+            </div>
+        </div>
+</div></div>
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div lang="en">
+
+
+<p>&nbsp;</p>
+<p>SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data.
+</p>
+<p><a href="/general-data-protection-regulation-core-it"><strong>GDPR Statement</strong>:</a> The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. SolarWinds has a dedicated, cross-functional team overseeing SolarWinds' GDPR readiness. We discuss SolarWinds' efforts and commitment to GDPR in the <a href="/general-data-protection-regulation-core-it"> SolarWinds GDPR Resource Center</a>. </p>
+<p><a href="#privacy" name="privacy"><strong>Privacy Notice</strong>:</a> SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.</p>
+<p><a href="https://www.solarwinds.com/cookies"><strong>Cookie Policy</strong>:</a> This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.</p>
+<a name="privacy" id="privacy"></a>
+<p>
+<strong>PRIVACY NOTICE</strong>
+</p>
+<p>
+<em>Last updated: May 15, 2018</em>
+</p>
+<p>
+SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries
+(“SolarWinds,” “we” or “us”) are committed to protecting the privacy of
+visitors of the SolarWinds website(s), individuals who register to use the
+products and services, individuals who register to attend the Company’s
+corporate events, and business partners (“Customers”). This Privacy Notice
+(“Privacy Notice” or “Notice”) describes our privacy practices in relation
+to the use of SolarWinds websites (including any customer portal or
+interactive customer website), its software, services, solutions, tools,
+and related applications, services, and programs, including attendance of
+corporate events and research and marketing activities, offered by
+SolarWinds (the “Services”) as well as your choices regarding use, access
+and correction of personal data.
+</p>
+<p>
+This Privacy Notice describes how we collect, use, disclose and otherwise
+process personal data collected related to our Services and otherwise in
+the course of our business activities, including the information practices
+of the websites that link to this Privacy Notice (“Sites”).
+</p>
+<p>
+This Privacy Notice does not apply to information collected about
+SolarWinds employees, applicants, or other personnel.
+</p>
+<p>
+The SolarWinds Sites may contain links to other websites; and information
+practices and/or the content of such other websites shall be governed by
+the privacy statements of such other websites.
+</p>
+<p>
+<strong>About Us</strong>
+</p>
+<p>
+SolarWinds provides its Services—which include IT management and monitoring
+solutions such as network, systems and database management, security
+solutions, applications and infrastructure monitoring, and IT helpdesk
+tools—to business customers, directly, and through distributors, resellers,
+and managed service providers (MSPs).
+</p>
+<p>
+SolarWinds Parent Inc. and SolarWinds Worldwide, LLC (and their US subsidiaries listed on the SolarWinds certification page) have complied with the EU-US and Swiss-US Privacy Shield Framework; as part of this, we have certified to the US Department of Commerce that we adhere to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the <strong>“Principles”</strong>), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below.
+</p>
+<p>
+You can learn more about Privacy Shield at
+<a href="https://www.privacyshield.gov/">
+<strong>www.privacyshield.gov</strong>
+</a>
+and see our Privacy Shield self-certification at
+<a href="https://www.privacyshield.gov/list">
+<strong>www.privacyshield.gov/list</strong></a>. SolarWinds' self-certification to the Privacy Shield is subject to the
+investigatory and enforcement authority of the Federal Trade Commission.
+</p>
+<p>
+<strong>Customer Owned Data</strong>
+</p>
+<p>
+As a provider of Services, we may receive, process or store certain
+information, including personal information, on behalf of our Customers.
+All such information (“<strong>Customer Data</strong>”) is owned and
+controlled by our Customers, who are the data controllers for such
+information with respect to EU data protection law. Customer Data may
+include information from the end points and other systems, tools or devices
+that Customers manage or monitor using our Services, and end user data
+related to individuals activities on Customer’s network and systems. It may
+also include event logs, end user information (such as IP address, email
+address and computer name), and other data where relevant to a support or
+service request. SolarWinds is a data processor for Customer Data. This means that SolarWinds processes Customer Data on the basis of instructions from our Customers. If SolarWinds receives a data subject request, it may point you in the direction of its Customer, as the Customer is the controller of the Customer Data.
+</p>
+<p>
+<strong>Data Relating to Our Customers and Users of Our Sites</strong></p>
+<p>SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal data.</p>
+<p>
+<em>
+Business Contact and Customer Relationship Management.
+</em>
+We collect and maintain information about our Customers, which may include
+company name, business contact name and title, phone number, email and
+other contact details. We may also collect billing address, financial
+account, credit card information, order details, subscription and license
+information, and usage details. In addition, we collect user credential and
+profile data (name, contact, authorized users) of Customer’s authorized
+users and account administrators.
+</p>
+<p>
+<em>Data Submitted on Sites.<strong> </strong></em>
+In order to access or use certain portions of the Sites, to enjoy the full
+functionality of the Sites, or to conduct or seek to conduct business with
+us, you may be prompted to provide certain personal data to us, including
+in the following ways:<strong><em></em></strong>
+</p>
+<ul>
+    <li>by filling in forms (for example, a “Contact Us” form) on our Sites or at
+    a trade show or anywhere else we conduct business;
+    </li>
+    <li>by downloading or accessing the SolarWinds Services;
+    </li>
+    <li>by downloading documentation from our Sites;
+    </li>
+    <li>by subscribing to newsletters or other communications; or
+    </li>
+    <li>by corresponding with us by phone, e-mail or otherwise using our contact
+    details.
+    </li>
+</ul>
+<p>
+Typically, the personal data you give us may include name, business
+affiliation, business address, telephone number, and email address, and any
+personal details required to resolve any enquiries or complaints.
+</p>
+<p>
+<em>Third Parties.</em>
+We may also obtain personal data about Customers from third parties, such
+as LinkedIn and other publicly accessible sources.
+</p>
+<p>
+<em>Customer Support and Service.<strong> </strong></em>
+When Customers contact us for support or other customer service requests,
+we maintain support tickets and other records related to the requests,
+including any information provided by Customers related to such support or
+service requests. We may also collect call recordings related to support
+and customer service-related calls.
+</p>
+<p>
+<em>Usage Details.</em>
+We collect information about Customers’ usage of our Services, including IP
+address, Customer ID, email address, and other usage statistics. We do not
+collect usage details about Customer end users, except as necessary for
+support or to provide the Services requested by Customers (in which case we
+are a data processor of such data).
+</p>
+<p>
+When you visit our Sites, our server automatically collects certain browser
+or device generated information, which may in some cases constitute
+personal data, including but not limited to:
+</p>
+<ul>
+    <li>
+    your domain;
+    </li>
+    <li>
+    your IP address;</li>
+    <li>your date, time and duration of your visit;</li>
+    <li>your browser type;
+    </li>
+    <li>
+    your operating system;
+    </li>
+    <li>
+    your page visits;</li>
+    <li>information from third parties;</li>
+    <li>other information about your computer or device; or</li>
+    <li>Internet traffic.
+    </li>
+</ul>
+<p>
+<em>De-identified Data.</em>
+We may de-identify and aggregate certain data we collect such that the
+data no longer identifies or can be linked to a particular customer or an
+individual data subject (“De-identified Data”), subject to the terms of any
+applicable customer agreements. We may use this data to improve our
+Services, analyze trends, publish market research, and for other marketing,
+research or statistical purposes, and may disclose such data to third
+parties for these specific purposes.
+</p>
+<p>
+<em>Other Data</em>. SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data.
+</p>
+<p>
+<strong>Cookies</strong>
+</p>
+<p>
+Our Sites use cookies. More information about our use of cookies can be
+found in our cookie policy at <a href="https://www.solarwinds.com/cookies">
+<strong>www.solarwinds.com/cookies</strong></a>.
+</p>
+<strong>Use of Personal Data</strong>
+<p>&nbsp;</p>
+<p>
+The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract.
+</p>
+<p>
+For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases:
+</p>
+<ul>
+    <li><strong>Performance of Contract:</strong> the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;</li>
+    <li><strong>Compliance with Law:</strong> the processing is necessary for us to comply with a relevant legal obligation (for example, laws which require us to collect tax information from customers, carry out checks on customers, or which compel us to disclose information to public authorities or regulators);</li>
+    <li><strong>Our Legitimate Interests:</strong> the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities, such as developing and maintaining relationships with our customers (the majority of the processing covered by this notice is legitimate interest based);* </li>
+    <li><strong>Defend Our Rights:</strong> where the processing is necessary to the establishment, exercise or defence of legal claims; or</li>
+    <li><strong>With Your Consent:</strong> you have consented to the processing (for example, where we are required by local law to rely upon your prior consent for the purposes of direct marketing).</li>
+</ul>
+<p>* In all cases where legitimate interests is relied upon as a lawful basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights and freedoms.  This is achieved in a number of ways, including through the application of principles of data minimization and security, and by taking steps to ensure that personal data is only collected or otherwise obtained where it is relevant to the lawful business activities, and where using personal data is reasonably necessary for those activities.</p>
+<p>
+<strong>Disclosure of Personal Data</strong>
+</p>
+<p>
+SolarWinds is a global group of companies, and we may share personal data
+with our affiliated businesses as part of our business operations and
+administration of the Services. We may also appoint third party service
+providers (who will operate under our instructions) to assist us in
+providing information, products or services to you, in conducting and
+managing our business, or in managing and improving our Services or the
+Sites. SolarWinds may share your personal data with these affiliates and
+third parties to perform services that the third parties have been engaged
+by SolarWinds to perform on SolarWinds's behalf, subject to appropriate
+contractual restrictions and security measures, or if we believe it is
+reasonably necessary to prevent harm or loss, or it believes that the
+disclosure will further an investigation of suspected or actual illegal
+activities.
+</p>
+<p>
+SolarWinds reserves the right to share any information that is not deemed
+personal data or is not otherwise subject to contractual restrictions.
+</p>
+<p>
+If personal data is transferred outside the EU to other SolarWinds group
+companies or to third party service providers, we will take steps to ensure
+that your personal data receives the same level of protection as if it
+remained within the EU, including by entering into data transfer
+agreements, using the European Commission approved Standard Contractual
+Clauses, or by relying on certification schemes such as the EU - US Privacy
+Shield. For transfers to other SolarWinds group companies in the United
+States (a country that has not received a decision from the European
+Commission determining that the United States provides adequate protection
+to personal data), we have put in place European Commission approved
+Standard Contractual Clauses, which protect personal data transferred
+between SolarWinds entities. You have a right to obtain details of the
+mechanism under which your personal data is transferred outside of the EU
+by contacting <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>.
+</p>
+<p>
+We contractually require agents, service providers, and affiliates who may
+process personal data related to the Services to provide the same level of
+protections for personal data as required under the Principles. SolarWinds
+currently does not transfer personal data to a third party for the third
+party’s own use, but only for SolarWinds’ purposes as outlined above.
+SolarWinds will remain liable under the Principles if one of its third
+party processors processes personal data in a manner inconsistent with the
+Principles, if we are responsible for the event giving rise to the damage.
+</p>
+<p>
+<strong>Other Disclosures</strong>
+</p>
+<p>
+<em>Law Enforcement or National Security</em>. In accordance with our legal obligations, we may also transfer Customer
+Data, subject to a lawful request, to public authorities for law
+enforcement or national security purposes.
+</p>
+<p>
+<em>Additional Disclosures</em>. We may also disclose Customer Data (including any personal data), where
+otherwise required by law.
+</p>
+<p>
+<em>Business Transfers.<strong> </strong></em>
+We may share personal data with third parties in connection with potential
+or actual sale of our company or any of our assets, or those of any
+affiliated company, in which case personal data held by us about our users
+may be one of the transferred assets.
+</p>
+<p>
+<em>Just-in-Time Disclosures.</em> Additional disclosures or information about processing of personal data related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal data.
+</p>
+<p>
+<strong>Children</strong>
+</p>
+<p>
+The Sites, Services and Portal are not for use by children under the age of
+16 years and SolarWinds does not knowingly collect, store, share or use the
+personal data of children under 16 years. If you are under the age of 16
+years, please do not provide any personal data, even if prompted by the
+Sites to do so. If you are under the age of 16 years and you have provided
+personal data, please ask your parent(s) or guardian(s) to notify
+SolarWinds and SolarWinds will delete all such personal data.
+</p>
+<p>
+<strong>Marketing </strong>
+</p>
+<p>
+Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the Email Preference Center on our Site or use the Email Preference Center link in our promotional emails to request that we will stop sending you communications.
+</p>
+<p>
+<strong>Security</strong>
+</p>
+<p>
+SolarWinds aims to safeguard and protect your personal data from
+unauthorized access, improper use or disclosure, unauthorized modification
+or unlawful destruction or accidental loss, and SolarWinds utilizes and
+maintains certain reasonable processes, systems, and technologies to do so.
+However, you acknowledge that no environment is completely secure or
+error-free, and that these processes, systems, and technologies utilized
+and maintained by SolarWinds are subject to compromise. Accordingly, we
+cannot be held responsible for unauthorized or unintended access that is
+beyond our control.
+</p>
+<p>
+<strong>Retention of Your Personal Data</strong>
+</p>
+<p>
+We apply a general rule of keeping personal data only for as long as
+required to fulfil the purposes for which it was collected. However, in
+some circumstances, we may retain personal data for other periods of time,
+for instance where we are required to do so in accordance with legal, tax
+and accounting requirements, or if required to do so by a legal process,
+legal authority, or other governmental entity having authority to make the
+request, for so long as required.
+</p>
+<p>
+In specific circumstances, we may also retain your personal data for longer
+periods of time corresponding to a statute of limitation, so that we have
+an accurate record of your dealings with us in the event of any complaints
+or challenges.
+</p>
+<p>
+<strong>External Links</strong>
+</p>
+<p>
+The Sites may contain links to third party sites. Since SolarWinds does not
+control nor is responsible for the privacy practices of those websites, we
+encourage you to review the privacy policies of these third party sites.
+This Policy applies solely to personal data collected by our Sites or in
+the course of our business activities.
+</p>
+<p>
+<strong>Access and Data Subject Rights</strong>
+</p>
+<p>Individuals have the right to access the personal data processed about them, subject to applicable law; individuals may request to access their personal data processed by us by emailing us at <a href="/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a>.</p>
+<p>
+Subject to applicable law, you may also have some or all of the following rights available to you in respect of your personal data
+</p>
+<ul>
+    <li>to obtain a copy of your personal data together with information about how and on what basis that personal data is processed;
+    </li>
+    <li>to rectify inaccurate personal data (including the right to have incomplete personal data completed);
+    </li>
+    <li>to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed);
+    </li>
+    <li>to restrict processing of your personal data under certain circumstances
+    </li>
+    <li>to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you;
+    </li>
+    <li>to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and
+    </li>
+    <li>to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization.
+    </li>
+</ul>
+<p>
+In addition to the above rights, under EU data protection law, applicable individuals have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes.
+</p>
+<p>
+You also have the right to lodge a complaint with your local supervisory authority for data protection.
+</p>
+<p>
+In relation to all of these rights, please contact us at <a href="/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a>. Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.
+</p>
+<p>
+If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data.
+</p>
+<p>
+<strong>Privacy Shield Dispute Resolution</strong></p>
+<p>
+We encourage EU and Swiss individuals who have questions or complaints
+about how we process their personal data under Privacy Shield to contact us
+at <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>. We will work to resolve your issue as quickly as
+possible, but in any event, within 45 days of receipt.
+</p>
+<p>
+We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at <a rel="noopener noreferrer" href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim" target="_blank">www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim</a>.
+</p>
+<p>
+If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at <a rel="noopener noreferrer" href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>.
+</p>
+<p>
+<strong>Contact Information</strong>
+</p>
+<p>
+If you have any questions in relation to this Notice, please contact us at <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>.
+</p></div>
+
+        </div>
+    </div>
 </div>
-</section>
+
+        <div lang="en">
+
+<div class="container-fluid footer-top stretch">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-5">
+                 <p>We're Geekbuilt<sup>™</sup>.</p>
+<p>Developed by network and systems engineers who know what it takes to manage today's dynamic IT environments, SolarWinds has a deep connection to the IT community.</p>
+<p>The result? IT management products that are effective, accessible, and easy to use.</p>
+                <ul class="social-icons">
+                    <li class="facebook">                        
+<a href="https://www.facebook.com/SolarWinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/facebook_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=931ADB02E12C11EF99FB14607E7B3BF6D7C3A478" alt=""></a>                    </li>
+                    <li class="twitter">
+<a href="https://twitter.com/solarwinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/twitter_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=AC3284782C573D962E96F922BC238C52DD8A9F96" alt=""></a>                    </li>
+                    <li class="youtube">
+<a href="https://www.youtube.com/user/solarwindsinc" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/youtube_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=7CFE9622B85C705D2EFA1FDC7032AFBDFB32E6A8" alt=""></a>                    </li>
+                    <li class="linkedin">
+<a href="https://www.linkedin.com/company/solarwinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/linkedin_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=2A68E8B96D28D26C01F7F397378809D49F2907C4" alt=""></a>                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-4 col-sm-offset-3">
+                <div class="row company-links">
+                    <div class="col-xs-6">
+                        <a href="/company/home">Company</a>
+                        <a href="https://solarwinds.jobs/">Career Center</a>
+                        <a href="/resources">Resource Center</a>
+                        <a href="http://launch.solarwinds.com/SW-User-Preferences.html">Email Preference Center</a>
+                        <a href="/solution-finder">Solution Finder</a>
+                    </div>
+                    <div class="col-xs-6">
+                        <a href="https://customerportal.solarwinds.com/" target="_blank">For Customers</a>
+                        <a href="/federal-government/it-management-solutions-for-government">For Government</a>
+                        <a href="https://partner.solarwinds.com/">For Partners</a>
+                        <a href="/general-data-protection-regulation-core-it">GDPR Resource Center</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid footer-bottom stretch">
+    <div class="container trademark">
+        <div class="row"> 
+            <div class="col-sm-8">
+                <a href="/legal/legal-documents">Legal Documents</a>
+                <a href="/information-security">Security Information</a>
+                <a href="/product-documentation">Documentation &amp; Uninstall Information</a>
+                
+                
+                
+            </div>
+            <div class="col-sm-4">
+                <span class="legal">© 2018 SolarWinds Worldwide, LLC. All rights reserved.</span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ .container-->
+</div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
 
 
-      </main>
-    
-                  <footer class="footer pagewidth vspace-top-xxl">
-	<div class="grid hover-text-black-a">
-						
-							<div class="pagelinks-column grid__col-6 grid__col-sm-2">
-							<p href="#" class="parentpage bold ">Product</p>
-				<p><a href="https://www.pingdom.com/product/uptime-monitoring/">Uptime</a><br><a href="https://www.pingdom.com/product/performance-monitoring/">Performance</a></p>
-<p><a href="https://www.pingdom.com/product/transaction-monitoring/">Transaction monitoring</a></p>
-<p><a href="https://www.pingdom.com/product/alerting/">Alerting</a><br><a href="https://www.pingdom.com/product/page-speed/">Page Speed</a><br><a href="http://tools.pingdom.com" target="_blank" rel="noreferrer noopener">Pingdom Tools</a><br><a href="https://www.pingdom.com/pricing/">Pricing</a></p>
-			</div>
-						
-							<div class="pagelinks-column grid__col-6 grid__col-sm-2">
-							<p href="#" class="parentpage bold ">Company</p>
-				<p>
-<a href="https://www.pingdom.com/company/why-pingdom/">Why Pingdom</a><br><a href="https://www.pingdom.com/company/contact/">Contact</a><br><a href="https://www.pingdom.com/company/brand-assets/">Brand Assets</a><br><a href="http://pingdom.jobs" target="_blank" rel="noreferrer noopener">Jobs</a><br><a href="https://www.pingdom.com/company/why-pingdom/customers/">Customers</a><br><br></p>
-			</div>
-						
-							<div class="pagelinks-column grid__col-6 grid__col-sm-2">
-							<p href="#" class="parentpage bold ">Using Pingdom</p>
-				<p><a href="https://www.pingdom.com/resources/api/2.1/">API</a><br><a href="https://www.pingdom.com/resources/tutorials/">Tutorials</a><br><a href="https://www.pingdom.com/resources/webhooks/">Webhooks</a><br><a href="https://www.pingdom.com/resources/downloads/">Downloads</a><br><a href="https://www.pingdom.com/resources/mobile-apps/">Mobile Apps</a><br><a href="https://help.pingdom.com/hc/en-us" target="_blank" rel="noreferrer noopener">Pingdom Help</a></p>
-			</div>
-						
-							<div class="pagelinks-column grid__col-6 grid__col-sm-2">
-							<p href="#" class="parentpage bold ">Solarwinds</p>
-				<p><a href="http://www.solarwinds.com/cloud-monitoring" target="_blank" rel="noreferrer noopener">SolarWinds Cloud</a><br><a href="https://www.librato.com/" target="_blank" rel="noreferrer noopener"></a><a href="https://www.appoptics.com" target="_blank" rel="noreferrer noopener">AppOptics</a><br><a href="https://papertrailapp.com/" target="_blank" rel="noreferrer noopener">Papertrail</a><br></p>
-			</div>
-						
-							<div class="grid__col-12 grid__col-sm-4 latest-from-blog">
-							<p href="#" class="parentpage bold ">Latest from our blog</p>
-				<p><a href="http://royal.pingdom.com/2017/08/09/filmstrip-timeline-metrics-features/" target="_blank" rel="noreferrer noopener">Our Improved Page Speed Reports...</a><br></p>
-<p><a href="http://royal.pingdom.com/2017/07/19/introducing-threshold-alerting/" target="_blank" rel="noreferrer noopener">Introducing Threshold Alerting</a><br></p>
-<p><a href="http://royal.pingdom.com/2017/05/17/pingdom-announces-new-server-monitoring-capability/" target="_blank" rel="noreferrer noopener">Pingdom Announces New Server...</a></p>
-<p><br></p>
-<p><a href="http://royal.pingdom.com/" target="_blank" class="arrowlink" rel="noreferrer noopener">Visit Royal Pingdom</a></p>
-			</div>
-				
-	</div> 
-	<hr class="lightgray vspace-top-m vspace-bottom-s">
-	<div class="grid legal hover-text-black-a">
-		<div class="grid__col-sm-10">
-			<p>Copyright © 2017 Pingdom AB. All Rights Reserved.&nbsp;<a href="https://www.pingdom.com/legal/software-service-agreement/">Software Service Agreement</a>,&nbsp;<a href="https://www.pingdom.com/legal/trademarks/"> Trademarks</a>, <a href="https://www.pingdom.com/legal/terms-of-use/">Terms of Use</a>, <a href="https://www.pingdom.com/legal/privacy-policy/">Privacy Policy&nbsp;</a>or <a href="https://www.pingdom.com/legal/cookie-policy/">Cookie Policy</a>.&nbsp;Get in touch with our <a href="https://help.pingdom.com/hc/en-us">Support Team</a> or give us a call at +1 (802) 242-4077 (8am - 8pm UTC).</p>
-		</div>
-		<div class="socialmedia grid__col-sm-2">
-			<div class="wrapper">
-				<a href="http://twitter.com/pingdom" target="_blank" class="twitter"></a>
-				<a href="https://www.facebook.com/pingdom" target="_blank" class="facebook"></a>
-				<a href="https://www.linkedin.com/company/pingdom" target="_blank" class="linkedin"></a>
-			</div>
-			
-		</div>
-	</div>
-</footer>  
-              
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js"></script>
-    
-    <script defer="" src="/assets/js/main.min.js?1"></script>
-    
-    
+
+<script type="text/javascript">var dataLayer = {
+  "site": {
+    "isProduction": "True",
+    "type": "desktop",
+    "majorVersion": "2",
+    "id": "1",
+    "brand": "solarwinds",
+    "country": "US",
+    "language": "en",
+    "SiteID": 1
+  },
+  "event": {
+    "name": []
+  },
+  "page": {
+    "server": "p-win-cd-02",
+    "legacyPageName": "US:Root:Privacy Statement:::"
+  },
+  "visitor": {
+    "loginState": "",
+    "type": "",
+    "swid": "",
+    "ipaddress": "207.241.231.85",
+    "persona": ""
+  }
+};</script>
+
+<div class="full-screen-overlay-carousel">
+    <a href="#" class="close">Close <i class="fa fa-times-circle-o"></i></a>
+    <div class="carousel slide" id="lightbox" data-ride="carousel" data-interval="false"></div>
+    <div class="video-content"></div>
+</div>
+
+<div class="full-screen-overlay">
+    <div class="overlay-contents">
+        <div class="static-content">
+            <div class="inner">{{STATIC CONTENT}}</div>
+            <div class="caption">
+                <input type="checkbox" id="static-caption" name="caption[]">
+                <div class="caption-content">
+                    <label for="static-caption" class="caption-control"></label>
+                    <div class="h3">{{CAPTION_TITLE}}</div>
+                    <p>{{CAPTION_CONTENT}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="overlay-title">
+            <div class="h4">{{TITLE}}</div>
+            <a href="#" class="close"><i class="fa fa-close"></i></a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+<script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/bundles/vendorv2?v=uF-TEng8khyCfigRnBojBTK4iEm5cSJsatn-1SonprU1"></script>
+
+<script src="/bundles/registration?v=ICQ0wOOT5bx_1XQyfMnJ0RKVkqFvJXrKe6-pkFigiYY1"></script>
+
+<script src="/bundles/solarwindsscriptsv2?v=ponWUrhcsHAqPQEzonGh_VHwcjA6vM3A9hWgxKDILzI1"></script>
+
+
+<script type="text/javascript">
+    $(function () {
+        $('img').lazy();
+    });
+</script>
+
     
 
 
-  
 
-   </body></html>
+</body></html>
