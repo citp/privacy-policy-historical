@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quietrev.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922175251id_/https%3A//www.quietrev.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quietrev.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191848id_/https%3A//www.quietrev.com/privacy-policy) for the most accurate reproduction.*
 
 # Quiet Revolution's Privacy Policy
 
@@ -78,13 +78,13 @@ COPPA requires, among other things, that we provide parents with certain informa
 
 2. Changing or Deleting Personal Information About Children Under 13
 
- At any time, parents can refuse to permit us to collect further Personal Information from their children under 13 and can request that any Personal Information that we have collected be deleted from our records.  To access, change, or delete the Personal Information that we have collected from their children under 13, parents can [contact us](http://www.quietrev.com/contact-us/).  Please include the children’s names and the parent’s email address so that we can better assist you with your inquiry or request.  
+ At any time, parents can refuse to permit us to collect further Personal Information from their children under 13 and can request that any Personal Information that we have collected be deleted from our records.  To access, change, or delete the Personal Information that we have collected from their children under 13, parents can [contact us](https://www.quietrev.com/contact-us/).  Please include the children’s names and the parent’s email address so that we can better assist you with your inquiry or request.  
 
 Before responding to any request to review Personal Information collected from children under 13, we may require that the requester follow reasonable procedures to help verify his or her identity as the child’s parent or legal guardian.  We may deny any request that fails to follow these procedures.  Please note that if you choose to have your child’s Personal Information deleted, or refuse to permit further collection or use of your child’s Personal Information, certain features of the Platform may be limited or unavailable.
 
 3.  Additional Operators Collecting Personal Information on the Platform
 
-COPPA requires that we list all third-party operators (e.g., ad companies, providers of plug-ins, etc.) that collect information through the Platform.  [Please click here ](http://www.quietrev.com/privacy-policy/providers/)to view the list of such operators.
+COPPA requires that we list all third-party operators (e.g., ad companies, providers of plug-ins, etc.) that collect information through the Platform.  [Please click here ](https://www.quietrev.com/privacy-policy/providers/)to view the list of such operators.
 
 **California Residents**
 
@@ -98,4 +98,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 **How to Contact Us**
 
-If you have questions about this Privacy Policy, please contact us through the [Contact Page.](http://www.quietrev.com/contact-us/)
+If you have questions about this Privacy Policy, please contact us through the [Contact Page.](https://www.quietrev.com/contact-us/)
