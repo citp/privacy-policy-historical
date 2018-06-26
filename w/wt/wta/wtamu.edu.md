@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219021602id_/http%3A//wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626145457id_/http%3A//wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University: Link Policy and Privacy Statement
 
@@ -63,7 +63,7 @@ The following information is collected from server logs for analysis. Note that 
  **Access to Information**  
 Except for education records governed by FERPA, all information collected from this website, including the summary server log information, emails sent to the website, and information collected from web-based forms, may be subject to the Texas Public Information Act. This means that while WTAMU does not actively share information, but in some cases may be compelled by law to release information gathered from its web servers.
 
-The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting Sherry Bays, WT Box 60188, Canyon, Texas, 79016, at 806-651-2095.
+The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting Mark Hiner, WT Box 60188, Canyon, Texas, 79016, at 806-651-2095.
 
  **Forms**
 
@@ -72,11 +72,15 @@ Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://
 In accordance with TAC Rule 206.72, any web-based form on an official University website that requests information from the public must have a link to the [WTAMU Link Policy and Privacy Statement](http://www.wtamu.edu/privacy).
 
  **Security**  
-Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).
+Extensive security measures consistent with the Texas Administrative Code (TAC) "Security Controls Catalog" and WTAMU Rules and Security Standards have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).
 
- **Questions**  
+ **EU General Data Protection Regulation** **(GDPR)**  
+The General Data Protection Regulation is a new data privacy law that applies to personal information collected in or from the European Union and European Economic Area.  West Texas A&M University respects your privacy and is committed to ensuring that any personal or confidential information that is collected is kept accurate and secure from unauthorized access. Personal information that you provide via email or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry or other request for information. The University is striving to achieve compliance with this new regulation. A data protection committee has been formed and a Data Protection Officer has been appointed. View additional information on [GDPR](https://web.archive.org/general-data-protection-regulation.aspx).
+
+Questions  
 If you have any questions about the practices of this site or your use of this website, please contact:
 
+  
 Ernesto Martinez  
 Web Communication Manager  
 West Texas A&M University  
