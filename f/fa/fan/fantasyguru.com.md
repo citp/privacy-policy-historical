@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyguru.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930073042id_/https%3A//www.fantasyguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyguru.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626221820id_/https%3A//www.fantasyguru.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FantasyGuru
 
