@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220115417id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626091728id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
 
 # Algonquin College Privacy Statement - Corporate Policies
 
@@ -29,3 +29,5 @@ Ottawa, Ontario, K2G 1V8.
 ](mailto:FOIcoordinator@algonquincollege.com)Telephone 613-727-4723 Ext. 6407
 
 If you have a complaint about the College’s handling of your personal information, please contact the FOI Coordinator. If your complaint is not resolved to your satisfaction, FIPPA provides a mechanism for independent review by contacting the Information and Privacy Commissioner of Ontario.
+
+Updated: 2016.02.24
