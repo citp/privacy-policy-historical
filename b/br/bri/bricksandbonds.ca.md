@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bricksandbonds.ca privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128021050id_/http%3A//www.bricksandbonds.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bricksandbonds.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626050236id_/http%3A//www.bricksandbonds.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bricks and Bonds
 
