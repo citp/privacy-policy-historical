@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bbtv.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216020507id_/http%3A//bbtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtv.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626073024id_/https%3A//www.bbtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BBTV
+# Privacy Policy
 
 ## menu
 
   * [Content Creators](https://web.archive.org/content-creators)
-  * [Brands](https://web.archive.org/brands)
+  * [Brands](https://brands.bbtv.com/)
   * [Enterprise](https://web.archive.org/enterprise)
   * [Technology](https://web.archive.org/technology)
   * [Videos](https://web.archive.org/videos)
@@ -15,108 +15,174 @@
 
 
 
-## Privacy Policy
+### Privacy Policy
 
-Last Updated On: October 6, 2016
+May 24, 2018
 
-### **1\. INTRODUCTION**
+**Last Updated On: May 25, 2018**
 
-We at BroadbandTV Corp., together with our affiliated companies (referred to collectively in this Privacy Policy as “BBTV”, “we”, “us” or “our”) are committed to respecting and protecting the privacy and security of your personal information obtained by reason of your relationship with us. We take your privacy seriously and believe that you should know what information we collect from you and how we use, disclose, and protect that information.
+**_IMPORTANT UPDATE:_** _BBTV has revised its Privacy Policy to comply with the European Union’s General Data Protection Regulation (GDPR). Read on to understand how it impacts you._
 
-Please read the following to learn how this Privacy Policy applies to your access or use of our websites (including if you are using our website to sign up as a Content Provider or other service provider to BBTV), mobile applications, and any product or platform we offer or through which we provide services (collectively, “Services”).
+**Highlights of BBTV’s Privacy Policy:** • We only ask for your personal data to verify your identity and provide services to you.  • We only collect and keep the data we need.  • We only share your data if it’s required to provide our services.  • We ensure your data is protected when we collect and share it.  • We comply with major data protection regulation.  • We don’t do business with minors under 13.  • You can ask us to change/delete your data by emailing [privacy@bbtv.com](mailto:privacy@bbtv.com). 
 
-### **2\. INFORMATION THAT WE COLLECT**
+#### 1\. Introduction
 
-When you visit our websites or otherwise use our Services, we may collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. We may also collect device specific information (such as your hardware model, operating system version, carrier network and hardware settings), information about your physical location (such as GPS signals, Wi-Fi access points, and cell towers), and information about your usage of an interaction with our Services (including error reports, statistics on page views, and traffic to and from our websites). We may use “cookies” to enhance your use of our websites or other Services. A “cookie” is a small amount of data, which may include a unique identifier.  Cookies are sent to your browser from a websites and stored on your device.  Every device that accesses our website is assigned a different cookie by us. Web browsers can be adjusted to disable cookies.  Providing us with your information is always your choice. You can also set your browser to block all cookies. However, we may not be able to provide you with all the services or functionality you require on a BBTV website if you choose to disable cookies.
+We at BroadbandTV Corp., together with our affiliated companies (referred to collectively in this Privacy Policy as “BBTV”, “we”, “us” or “our”) are committed to respecting and protecting the privacy and security of your personal data obtained by reason of your relationship with us. We take your privacy seriously and believe that you should know what information we collect from you and how we use, disclose, and protect that information.
 
-If you sign up for an account or profile through our Services, if you use our website or other Services to sign up as a Content Provider or other service provider, or if you otherwise use certain Services, we may collect additional personal information from you that is directly associated with you or that can be used to identify you (the “Personal Information”). This Personal Information may include your contact information, such as your name, user name, address, phone number, and email. It may also include any correspondence between you and BBTV.
+Please read the following to learn how this Privacy Policy applies to your access or use of our websites (including if you are using our website to partner with BBTV as a Content Provider ), mobile applications, and any product or platform we offer or through which we provide services.
 
-If you sign up with us as a Content Provider or other service provider, we may additionally collect your PayPal account information and/or payment related information.
+#### 2\. Collection and processing of your data
 
-Before permitting you to use any of the Services, we may also ask you to provide additional Personal Information we can use to verify your identity or manage risk, such as your date of birth.
+**Visitors to our websites:**
 
-BBTV’s Services are not intended for users under the age of 13. We take children’s privacy seriously, and encourage parents to be aware and involved in the online activities of their children at all times to ensure that no information is collected from a child without parental permission. We do not knowingly collect the personal information of minors.
+• **Standard website traffic data.** When you visit our websites or otherwise use our services, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. We also collect device specific information (such as your hardware model, operating system version, carrier network and hardware settings), information about your physical location (such as GPS signals, Wi-Fi access points, and cell towers), and information about your usage of an interaction with our services (including error reports, statistics on page views, and traffic to and from our websites). This data allows us to provide you with a better user experience on our websites. For example, if you are accessing our websites from a non-English-speaking country, this data allows us to provide you with a localized and translated version of our websites. 
 
-### **3\. USE OF THE INFORMATION THAT WE COLLECT  **
+• **Cookies.** We use “cookies” to enhance your use of our websites or other services. A “cookie” is a small amount of data, which include a unique identifier. Cookies are sent to your browser from a website and stored on your device. Every device that accesses our websites is assigned a different cookie by us. Providing us with your information is always your choice. However, we may not be able to provide you with all the services or functionality you require on a BBTV website if you choose to disable cookies. 
 
-We use the information we collect from all of our Services to provide, maintain, and improve them, to develop new ones, and to protect BBTV and our users. We may also use this information to offer you customized content through our Services. We collect Personal Information in order to:
+• **Usage analytics.** Our websites make use of industry-standard analytics frameworks, which track viewership and usage of our websites. Although these frameworks may receive your IP address, they do not provide any personal data to BBTV and are solely for the purposes of improving our websites. 
 
-  * Verify your identity;
-  * Provide you with the products and services requested;
-  * Maintain your account or profile;
-  * Communicate to you any benefit, feature and other information about products and services you have with us;
-  * Respond to any special needs or inquiries you may have;
-  * Resolve disputes with you and troubleshoot problems;
-  * Determine your eligibility for products and services we offer;
-  * Prevent potential or actual prohibited or illegal activities, and enforce any agreement you may have with us;
-  * Manage our risks and operations; and/or
-  * Meet legal and regulatory requirements.
+**Creators partnered with BBTV:**
 
+• **Personal data required to execute a Content Provider Agreement.** If you are a contracted creator with BBTV (also known as Content Providers or partners), or if you have applied to join our network, we collect additional personal data from you that is directly associated with you or that can be used to identify you. This personal data includes your contact information, such as your name, user name, address, phone number, and email. We require this data to issue an agreement to you, to meet legal and regulatory requirements, to provide you with important communications, and to verify your identity in the future should you need to contact us. 
 
+• **Payment information.** We also collect your payment method of choice. We use PayPal and other payment information you provide to us in order to provide you with payment for any services that you may provide to us in accordance with an applicable services agreement between you and BBTV. 
 
-If you are a Content Provider or other service provider who has signed up with us through our Services, we may use PayPal and other payment information you provide to us in order to provide you with payment for any services that you may provide to us in accordance with an applicable services agreement between you and BBTV.
+• **Date of birth.** Before permitting you to use any of our services, we also ask you to provide additional personal data we can use to verify your identity or manage risk, such as your date of birth.
 
-If, for any reason, the information that we collect from you is required to fulfill a different purpose than for the purposes described in this Privacy Policy, we will ask for your consent before we proceed. BBTV processes Personal Information and other information collected on our servers in Canada and/or in other countries. We may process the information that we collect from you outside the country where you live. By using our Services, you consent to any such transfer of information outside of your country.
+BBTV’s services are not intended for users under the age of 13. We take children’s privacy seriously, and encourage parents to be aware and involved in the online activities of their children at all times to ensure that no information is collected from a child without parental permission. We do not knowingly collect the personal data of minors without parental consent. 
 
-### **4\. DISCLOSURE OF THE INFORMATION THAT WE COLLECT   **
+• **Correspondence.** We keep records of correspondence with our contracted Content Providers. Correspondence with BBTV is conducted through ticketing systems, email, or online chat mechanisms. We record this information to ensure adequate levels of service are being provided per your agreement with BBTV. 
 
-We may disclose personally identifiable information to BBTV’s affiliates or affiliated companies.  However, with respect to unaffiliated third parties, we do not share Personal Information with such parties except as permitted or required by applicable laws, rules and regulations and this Privacy Policy. We may share your Personal Information with unaffiliated third parties in the following circumstances:
+• **Content performance data.** When you partner with BBTV, your platform will begin providing us with performance data about your channel and videos. This includes revenue and viewership data. This data is required to calculate payment to you as per your agreement with BBTV. 
 
-  * If you consent to such disclosure. We require opt-in consent for the sharing of any sensitive Personal Information, such as confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality, or banking or other sensitive financial information.
-  * To effect, administer, service, process or enforce a Service that you request or authorize.
-  * To protect the confidentiality or security of BBTV, our records or our users.
-  * To protect against or prevent fraud, unauthorized transactions, claims, or other liability.
-  * To resolve a dispute with you or an inquiry from you.
-  * To persons acting on your behalf in a fiduciary or representative capacity.
-  * To meet any applicable law, regulation, legal process or enforceable governmental request to comply with a civil, criminal, or regulatory investigation, or subpoena or summons by governmental authorities.
+If you are a member of a jointly-operated network (such as NBA Playmakers), we share this performance data with the joint operator as well (such as the NBA).
 
+**Creators represented by BBTV in additional revenue opportunities:**
 
+• **Creator profile data.** To effectively represent you in additional revenue opportunities (such as branded entertainment opportunities and mobile apps), BBTV creates and shares promotional materials about your channel with third parties who may be interested in working with you. This requires collection of data about your channel, such as the reach of your viewership, demographics of your audience, and a brief profile about you and your channel. 
 
-We may also share your Personal Information with unaffiliated third parties that we have engaged to perform certain services in connection with the operation of certain aspects of BBTV’s Services, including without limitation, to perform tasks on our behalf, such as payment processing, data management and analytics,.. These service provider companies are provided only the information necessary to perform the services. In addition, we require them to protect the information in a manner that is consistent with this Privacy Policy and our security practices.
+This information is collected from a variety of sources, including third party analytics tools and information you have shared with BBTV. 
 
-We may share aggregated, non-personally identifiable information (that is, information that cannot, by itself, be used to identify a particular individual or user) with our third party service providers, advertisers, advertising networks and platforms, and/or partners, such as advertising and marketing partners. For example, we may share such information to show trends about the general use of our Services, to improve the design and content of such third parties’ respective offerings, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics.
+• **Content performance data.** If we execute an additional revenue opportunity between yourself and a third party, we will share performance data with that party. The performance data we share will only be related to the opportunity in question. 
 
-If BBTV is involved in a merger, acquisition, reorganization,  asset sale, or other similar transaction or proceeding, we will continue to ensure to confidentiality of any Personal Information and will give affected users notice before Personal Information is transferred or becomes subject to a different privacy policy.
+**Creators not contracted with BBTV:**
 
-### **5\. PROTECTION OF THE INFORMATION THAT WE COLLECT**
+• **Public channel or video metadata.** If you make public your channel and content on digital platforms, we scan and catalog the metadata you have posted publicly. This is similar to how search engines index your content. 
 
-We maintain a variety of physical, electronic, and procedural safeguards to protect the information that we collect from unauthorized access. We use industry accepted procedures and systems to protect against unauthorized access to our systems. In addition, we use third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. These vendors have been selected for their high standards of both physical and technological security, including ISO and SSAE16 certifications.  No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee the absolute security of your Personal Information.  We urge you to take every precaution to protect your personal data when you are on the Internet.
+• **Correspondence with BBTV.** We keep records of correspondence via email, our ticketing systems, online chat, and other means. We record this data for auditing purposes, to ensure effective communications, and to ensure compliance with laws and regulations. 
 
-For the purposes of EU data protection law, Canada is considered a country which provides adequate protections for Personal Information, as confirmed by the European Commission in Commission Decision 2002/2/EC.
+**Users of our network-exclusive products:**
 
-If you are a logged-in, it is advisable that you log out of your account at the end of every session and not leave a logged-in account unattended for any period of time, particularly if you use a shared computer or device.
+• **Authentication data.** We keep data required to authenticate and verify your identity prior to use of our products. This is to ensure you meet the requirements for access of this product, as well as to prevent unauthorized use of your account or credentials. 
 
-Unless it is otherwise permitted in this Privacy Policy, we restrict access to your Personal Information to those BBTV employees, agents and contractors who need to know that information to in order to process it for us, or to provide Services to you or otherwise assist you, and that are legally bound to maintain the confidentiality of your information in a manner consistent with this Privacy Policy.
+• **Metadata you have provided during use of the product.** Many of our products ask you for information to improve the quality of your profile, or enhance your experience with the product. For example, some of our products may ask you about your channel’s interests or topics. 
 
-We maintain your Personal Information so that it is as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. We encourage you to contact us in order help us keep our information current.
+• **Channel analytics.** Some of our products collect performance analytics about your channel. This allows these products to provide you with enhanced reporting, analytics, and optimization functionality. 
 
-We retain Personal Information for as long as is necessary to fulfill any of the purposes set out in Paragraph 3 of this Privacy Policy, or to comply with applicable laws, rules, regulations, and regulatory requests and orders from competent courts and regulatory bodies.
+• **Usage analytics.** Our products use industry-standard analytics tools to track and monitor usage of our applications. These analytics enable us to understand usage patterns for our products and make improvements to these products. 
 
-### **6\. YOUR ACCESS TO YOUR PERSONAL INFORMATION**
+**Users of our mobile products:**
 
-You have the right to access the Personal Information we hold about you in order to verify the information and its accuracy. Please note that there may be instances where access may be restricted as permitted or required by applicable laws, rules and regulations, including information that is subject to legal privilege and information relating to a third party. If applicable, we will advise you of the reasons for restricting access subject to any legal or regulatory requirements.
+• **Account information.** Many of our mobile products require the creation of an account. This requires you to provide a username, password, and other personal data which varies depending on the product. This data is used to verify your identity, track your progress, enable multi-player functionality, enable social features, and prevent unauthorized use of your username. 
 
-We take reasonable steps to allow you to correct, amend or delete Personal Information that is shown to be inaccurate or incomplete. If you want to verify the personal information we hold about you, please contact us at [info@bbtv.com](mailto:info@bbtv.com).
+• **Usage analytics.** Our products use industry-standard analytics tools to track and monitor usage of our applications. These analytics enable us to understand usage patterns for our products and make improvements to these products. 
+
+**Users of our online stores:**
+
+• **Website visitor data.** As our online stores are hosted on the web, the data collected in the “Visitors to our websites” section above applies here. 
+
+• **Purchase, billing, and shipping information.** Fulfilling your purchase order requires the collection of your billing and shipping information. This will include your name, address, and credit card information. 
+
+BBTV uses Shopify Inc. as its online commerce solution. All data related to purchases from our online stores is managed by Shopify Inc. 
+
+**Employees, contractors, or applicants:**
+
+• **Personal data required to process your employment or contract.** BBTV collects only the minimum personal data required to execute your employment or contract. This includes your name, contact information, address, emergency contact, and preferred method of payment. 
+
+• **Job applications.** Applications received via email or online submission contain your personal data, such as name, contact information, education history, and employment history. 
+
+If, for any reason, the information that we collect from you is required to fulfill a different purpose than for the purposes described in this Privacy Policy, we will inform you of this new purpose before we proceed.
+
+Personal data and other information collected by BBTV is stored and processed on our servers in Canada or in the US. These servers may be located outside of the country where you live. All our servers comply with the adequacy requirements set forth by Regulation (EU) 2016/679 (also known as GDPR)
+
+If you have questions or concerns about the transfer or processing of your personal data, you may contact us at [privacy@bbtv.com](mailto:privacy@bbtv.com).
+
+#### 3\. Disclosure of the data that we collect
+
+We disclose personal data to BBTV’s affiliates or affiliated companies when it is required in order to provide our services or fulfill operational or legal requirements. However, with respect to unaffiliated third parties, we do not share personal data with such parties except as permitted or required by applicable laws, rules and regulations and this Privacy Policy. We share your personal data with unaffiliated third parties in the following circumstances:
+
+• If you consent to such disclosure. We require opt-in consent for the sharing of any sensitive personal data, such as confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality, or banking or other sensitive financial information.  • To effect, administer, service, process or enforce a service that you request or authorize.  • To enable additional revenue opportunities, such as branded entertainment campaigns or mobile apps, we may share your influencer profile with third-party brands.  • To enable value-add services, we may share data with the third-party service provider so they can verify your partnership with BBTV.  • To enable you to join our jointly-operated networks (such as NBA Playmakers), we may share your channel information and performance data with that joint operator (such as the NBA).  • To protect the confidentiality or security of BBTV, our records or our users.  • To protect against or prevent fraud, unauthorized transactions, claims, or other liability.  • To resolve a dispute with you or an inquiry from you.  • To persons acting on your behalf in a fiduciary or representative capacity.  • To meet any applicable law, regulation, legal process or enforceable governmental request to comply with a civil, criminal, or regulatory investigation, or subpoena or summons by governmental authorities. 
+
+We also share your personal data with unaffiliated third parties that we have engaged to perform certain services in connection with the operation of certain aspects of BBTV’s services, such as payment processing, data management, and analytics. These service provider companies are provided only the information necessary to perform the services. In addition, we require them to protect the information in a manner that is consistent with this Privacy Policy and our security practices.
+
+We share aggregated, non-personally identifiable information (that is, information that cannot, by itself, be used to identify a particular individual or user) with our third-party service providers, advertisers, advertising networks and platforms, and/or partners, such as advertising and marketing partners. For example, we may share such information to show trends about the general use of our services, to improve the design and content of such third parties’ respective offerings, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics.
+
+If BBTV is involved in a merger, acquisition, reorganization, asset sale, or other similar transaction or proceeding, we will continue to ensure confidentiality of any personal data and will give affected users notice before personal data is transferred or becomes subject to a different privacy policy.
+
+#### 4\. Protection of the data that we collect
+
+We maintain a variety of physical, electronic, and procedural safeguards to protect the information that we collect from unauthorized access. We use industry accepted procedures and systems to protect against unauthorized access to our systems. In addition, we use third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the services. These vendors have been selected for their high standards of both physical and technological security, including ISO and SSAE16 certifications, as well as satisfying EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Economic Area (EEA) to the US. No method of transmission over the Internet, or method of electronic storage, is 100% secure. **Therefore, we cannot guarantee the absolute security of your personal data. We urge you to take every precaution to protect your personal data when you are on the Internet.**
+
+If you are logged-in, it is advisable that you log out of your account at the end of every session and not leave a logged-in account unattended for any period of time, particularly if you use a shared computer or device.
+
+Unless it is otherwise permitted in this Privacy Policy, we restrict access to your personal data to those BBTV employees, agents and contractors who need to know that information to in order to process it for us, or to provide services to you or otherwise assist you, and that are legally bound to maintain the confidentiality of your information in a manner consistent with this Privacy Policy.
+
+We maintain your personal data so that it is as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. We encourage you to contact us at [privacy@bbtv.com](mailto:privacy@bbtv.com) in order help us keep our information current.
+
+#### 5\. Retention and deletion of personal data
+
+We retain personal data for as long as is necessary to fulfill any of the purposes set out in Section 3 of this Privacy Policy, or to comply with applicable laws, rules, regulations, and regulatory requests and orders from competent courts and regulatory bodies.
+
+#### 6\. Transfer of data outside the European Economic Area
+
+We comply with Regulation (EU) 2016/679 (also known as GDPR). Under this regulation, residents of the European Economic Area (EEA) can expect their data to be properly secured when transmitted outside the EEA. We only conduct such transfers of your personal data when mechanisms are in place to protect it. These mechanisms can include transfer to countries where an adequate level of protection has been established, or to organizations compliant with the EU-US Privacy Shield Framework.
+
+BBTV operates out of Canada, which is considered a country that provides adequate protections for personal data, as confirmed by the European Commission in Article 45 of Regulation (EU) 2016/679.
+
+#### 7\. Your access to your personal data
+
+You have the right to access the personal data we hold about you in order to verify the information and its accuracy. Please note that there may be instances where access may be restricted as permitted or required by applicable laws, rules and regulations, including information that is subject to legal privilege and information relating to a third party. If applicable, we will advise you of the reasons for restricting access subject to any legal or regulatory requirements.
+
+We take reasonable steps to allow you to correct, amend or delete personal data that is shown to be inaccurate or incomplete. If you want to verify the personal data we hold about you, please contact us at [privacy@bbtv.com](mailto:privacy@bbtv.com).
 
 To avoid delays, please provide sufficient information in order to allow us to identify you and the specific information you are requesting. Please give us a reasonable amount of time to respond to your inquiry.
 
-### **7\. MODIFICATION OF THIS PRIVACY POLICY**
+#### 8\. Rights for residents of the European Economic Area
 
-We reserve the right to change this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this web page, and if the changes are significant, we will post a more prominent notice on this page or we will directly send you a notification. You agree that your continued use of the Services after notice of such change shall constitute your acceptance of the Privacy Policy. You agree to review this Privacy Policy regularly in order to inform yourself of the terms and conditions of this Privacy Policy and any modifications to the Privacy Policy.
+We comply with Regulation (EU) 2016/679 (also known as GDPR). Residents of the European Economic Area (EEA) are entitled to rights regarding the collection, use, and protection of their data. These rights include:
 
-### **8\. APPLICATION OF THIS PRIVACY POLICY**
+• The right to access your personal data, and understand how it is collected and processed;  • The right to rectify any errors or inaccuracies in your personal data;  • The right to erase your personal data from collection or processing, where not in conflict with legal or operational requirements;  • The right to restrict further processing of your personal data;  • The right to receive exports of your personal data;  • The right to object to the processing of your personal data; and  • The right to exclusion from automated individual decision-making based on your personal data. 
 
-This Privacy Policy applies to all products and services offered by BBTV and its affiliates, including those offered on other websites owned by BBTV, but excludes products, services and agreements that have separate privacy policies that do not incorporate this Privacy Policy. Our Privacy Policy does not apply to products or services offered by other companies or individuals, including third parties who advertise our services, third party software or other products, or third party sites linked from our Services. You must read the privacy policy of the third party to see how your personal information will be handled on their website.
+Residents of the EEA interested in exercising these rights may do so by contacting [privacy@bbtv.com](mailto:privacy@bbtv.com).
 
-### **9\. ENFORCEMENT AND COMPLAINTS**
+Additionally, residents of the European Economic Area (EEA) have the right to lodge a complaint with a supervisory authority. If you reside in the EEA and want to lodge a complaint, you may do so in the member state where you reside, where you work, or where you may have experienced an issue with the processing of your personal data.
 
-We regularly review our compliance with this Privacy Policy and industry-recommended best practices, as well as applicable laws and regulations. Please contact us with any questions or concerns regarding this Privacy Policy or our treatment of your Personal Information. When we receive formal written complaints, we will contact the person who made the complaint to follow up.
+#### 9\. Modification of this Privacy Policy
 
-#### **CONTACT US**
+We reserve the right to change this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this web page, and if the changes are significant, we will post a more prominent notice on this page or we will directly send you a notification. You agree that your continued use of the services after notice of such change shall constitute your acceptance of the Privacy Policy. You agree to review this Privacy Policy regularly in order to inform yourself of the terms and conditions of this Privacy Policy and any modifications to the Privacy Policy.
 
-If you have any questions, comments or concerns about this Privacy Policy, please contact our privacy officer at:
+#### 10\. Application of this Privacy Policy
 
-BroadbandTV Corp.  
+This Privacy Policy applies to all products and services offered by BBTV and its affiliates, including those offered on other websites owned by BBTV, but excludes products, services and agreements that have separate privacy policies that do not incorporate this Privacy Policy. Our Privacy Policy does not apply to products or services offered by other companies or individuals, including third parties who advertise our services, third party software or other products, or third party sites linked from our services. You must read the privacy policy of the third party to see how your personal data will be handled on their website.
+
+#### 11\. Enforcement and complaints
+
+We regularly review our compliance with this Privacy Policy and industry-recommended best practices, as well as applicable laws and regulations. Please contact us with any questions or concerns regarding this Privacy Policy or our treatment of your personal data. When we receive formal written complaints, we will contact the person who made the complaint to follow up.
+
+#### 12\. Contact information
+
+If you have any questions, comments or concerns about this Privacy Policy, or if you would like to exercise your rights over control and usage of your data, please contact us at [privacy@bbtv.com](mailto:privacy@bbtv.com), or using the contact details below:
+
+**Outside the European Economic Area (EEA):**  
+Steve Kwan, Data Protection Officer  
 1205 Melville St.  
-Vancouver BC V6E 0A7  
-Email: info@bbtv.com
+Vancouver BC V6E 0A6  
+Canada  
+[privacy@bbtv.com](mailto:privacy@bbtv.com)
+
+**Inside the European Economic Area (EEA):**  
+RTL Group S.A.  
+43, Boulevard Pierre Frieden  
+1543 Luxembourg  
+Luxembourg  
+[privacyoffice@rtlgroup.com](mailto:privacyoffice@rtlgroup.com)
