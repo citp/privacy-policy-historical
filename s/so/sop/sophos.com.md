@@ -1,200 +1,186 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722083053id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075943id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal
 
-This document was last updated on 14 July 2017.
+## What personal data do we collect, how do we collect it, and why?
 
-### General
+**Data that you provide voluntarily to us**
 
-This is the privacy policy of Sophos Limited and its subsidiaries. 
+When you use our Site, products or services, or you otherwise communicate with us, we may ask you to provide certain personal data voluntarily, including but not limited to your name, company position, postal address, telephone number, mobile number, fax number, email address, credit card or other payment details, age or date of birth, account usernames, passwords, or gender. For example, we may ask you to provide some or all of this personal data when you register an account with us, subscribe to our marketing communications, purchase products or services, and/or submit enquiries to us. We use this information to create and administer your account, send you marketing communications, provide you with the products and services you request, and to respond to your enquiries. In general, the personal data that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal data.
 
-We are committed to safeguarding the privacy of your personal data. Please read the following privacy policy to understand how we collect and use your personal data, for example when you contact us, visit one of our websites (each a “Site”), apply for a job, or use our products and services. 
+**Data collected automatically**
 
-Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy. 
+When you use our Site, products, or services, we may collect certain data automatically from your computers or devices (including mobile devices). The data we collect automatically may include your IP address (explained further below), device type, operating system details, unique device identification numbers (including mobile advertising identifiers), browser-type, browser language, operating system, geographic location (as explained further under the heading “Location information”) and other technical information. We may also collect data about how your device has interacted with our Site, products or services, including the pages or features accessed and links clicked, the amount of time spent on particular pages, mouse hovers, the date and time of the interaction, error logs, referring and exit pages and URLs, and similar information. Collecting this data enables us to better understand the visitors who use our Site, products, and services, including where they come from and what features are of interest to them. We use this information for our internal analytics purposes, and to improve the quality, relevance, and security of our Site, products and services.
 
-### What personal data do we collect?
+For example, every time you connect to the Site, we store a log of your visit that shows the unique number your machine uses when it is connected to the Internet - its IP address. This log tells us what your machine has looked at, whether the page request was successful or not, and which browser your machine used to view the pages. This data is used for statistical purposes as well as to help customize the user experience as you browse the Site and subsequently interact with Sophos. This helps us to understand which areas of the Site are of particular interest, which pages are not being requested, and how many people are visiting the Site in total. It also helps us to determine which products and services may be of specific interest to you. We may also use this information to block IP addresses where there is a breach of the terms and conditions for use of the Site.
 
-We may collect personal data such as your name, company position, address, telephone number, mobile number, fax number, email address, credit card details, age, IP address, and account usernames. 
+Some of the data may be collected automatically using tracking technologies, as explained further under the heading “Cookies and similar tracking technology”.
 
-### How do you use my personal data?
+**Data that we obtain from third party sources**
 
-If you provide personal data to us, we will collect that information and use it for the purposes for which you have provided it and in accordance with this privacy policy.
+From time to time, we may receive personal data about you from third party sources (including without limitation recruitment agencies, credit check agencies, agencies providing compliance checks, lead generation providers, resellers, and other partners who sell our products and services to you), but only where such third parties have confirmed that they have your consent or are otherwise legally permitted or required to disclose your personal data to us. 
 
-### Browsing our Site
+The types of information we collect from third parties include contact details, CVs, credit history, and order information, and we use the information we receive from these third parties to assess your suitability for a job position, carry out compliance checks required under applicable law (such as anti-bribery and corruption checks), make credit decisions, maintain and improve the accuracy of the records we hold about you, and market our products and services to you.
 
-Every time you connect to the Site, we store a log of your visit that shows the unique number your machine uses when it is connected to the Internet - its IP address. This tells us what your machine has looked at, whether the page request was successful or not and which browser your machine used to view the pages. This data is used for statistical purposes as well as to help customize the user experience as you browse the Site and subsequently interact with Sophos and our partners. This helps us to understand which areas of the Site are of particular interest, which pages are not being requested, and how many people are visiting the Site in total. It also helps us and our partners to determine which products and services may be of specific interest to you. We may attempt to contact you through these details if necessary, including, without limitation, when you are using the wrong paths to access the Site or are breaching restrictions on the use of the Site. We may also use this information to block IP addresses where there is a breach of the Terms and Conditions for use of the Site.
+We also receive information from other members of the industry that forms part of or otherwise helps us to develop, test, and enhance our own product offering (for example spam lists, malicious URL lists, and sample viruses), some of which could contain personal data (where permitted by applicable law).
 
-### Cookies
+We may combine information that we collect from you with information about you that we obtain from such third parties.
 
-A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the [Cookie Information](https://www.sophos.com/en-us/legal/cookie-information.aspx) page on the relevant Site.
+**Data collected through our products and services**
 
-### Job applicants
+We use data that we collect from products and services for the purposes for which you provided it, usage and audience counts, monitoring the performance and effectiveness of the products/services, monitoring compliance with our terms and conditions, enabling compatibility with third party operating systems/products/services, planning future roadmap strategy, planning product/service/feature lifecycles and retirements, conducting spam, threat and other scientific research, developing new products and services, enhancing existing products and services, troubleshooting product issues, generating statistics, reporting, and trend analysis. This may include incidental personal data (for example usernames, machine IDs, domain names, IP addresses, file names, and file paths).
 
-If you are making a job application or inquiry, you may provide us with a copy of your CV or other relevant information. We may use this information for the purpose of considering your application or inquiry. Except when you explicitly request otherwise, we may keep this information on file for future reference.
+Our products and services may collect further additional personal data about you beyond the data described in this privacy policy, or use your personal data in ways that are different to or in addition to those described in this privacy policy. We provide a [Product Privacy Information page](https://www.sophos.com/en-us/legal/product-privacy-info.aspx) that explains how our products and services collect and use personal data. Please review the relevant section of the Product Privacy Information page for the product or service you are using to ensure that you are fully informed.
 
-### Partner portal
+**Cookies and similar tracking technology**
 
-Our resellers and distributors may visit our partner portal Site. We may use the customer and prospect information provided on that Site in order to provide the products and services.
+A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. 
 
-### Account management
+Our Site, products, and services may use cookies, unique device identifiers (like Apple ID For Advertisers on iOS devices, and Android Advertising ID on Android devices), and other tracking technologies (collectively, " **Cookies** ") to distinguish you from other users and better serve you when you return to the Site, product, or service, and to monitor and analyse the usage of the Site, product, or service. Cookies also enable us and our third party partners to track and target the interests of our users to enhance the onsite or in-product experience through content, features, and advertisements. 
 
-If you obtain products or services from us, we may use your contact details and (where applicable) payment information for the purposes of (i) providing training, customer support and account management, (ii) order processing and billing, (iii) verifying your usage of the products and services in accordance with the terms and conditions of your agreement with us, (iv) carrying out end user compliance checks for export control purposes; (v) issuing license expiry, renewal and other related notices, and (vi) maintaining our company accounts and records. 
+We, along with our service providers, may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Site, product, or service, as well as serve you ads and personalize/customize your experience when you are using our Site, product, or service and/or when you are on other websites where those cookies can be accessed. We may also include Web beacons in email messages, newsletters, and other electronic communications to determine whether the message has been opened and for other analytics, personalization, and advertising. As we adopt additional technologies, we may also gather additional information through other methods. This practice is explained further under the heading “Marketing and promotions”. 
 
-### Product and service related data
+As explained above, we occasionally share information you have provided to us with service providers, who will de-identify the information and associate it with cookies that enable us to reach you. We may also help these service providers place their own cookies, by deploying a cookie that is associated with a 'hashed' value associated with interest-based or demographic data, to permit advertising to be directed to you on other websites, applications or services.
 
-If you purchase or use our products or services, we may collect the following types of information: (i) product type, product version, product features and operating systems being used; (ii) processing times; (iii) customer identification code and company name, and (iv) IP address of the machine which returns the above listed information.
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser's toolbar. If you choose to decline cookies, please note that your ability to sign in, customize, or use some of the interactive features of our Site, product, or service may be impeded, and the advertisements you see may not be as relevant to you. 
 
-We may use such information for purposes which include but are not limited to:
+For more information about the cookies that we use, please refer to our [Cookie Information](https://www.sophos.com/en-us/legal/cookie-information.aspx) page.
 
-  * verifying your credentials and compliance with any usage restrictions, 
-  * carrying out end user compliance checks for export control purposes, 
-  * providing the products/services and any associated maintenance and technical support, 
-  * providing virus, incident and other alerts, and information about product upgrades, updates, renewals and product lifecycle changes,
-  * providing maintenance and technical support, 
-  * providing information about product upgrades, updates and renewals, 
-  * generating logs, statistics and reports on service usage, service performance and malware infection, 
-  * evaluating, developing and enhancing products, services, and our infrastructure, 
-  * planning development roadmaps and product lifecycle strategies. 
+**Location information**
 
+We may collect different types of information about your location, including general information (for example IP address or ZIP code) and more specific information (for example GPS-based functionality on mobile devices when used to access a Site, product, or service). This information may be used to customize the services provided to you, such as location-based information, advertising, and features. In order to do this, your location information may be shared with our agents, vendors, or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer's instructions for further details.
 
+## Other specific ways we collect and use your personal data
 
-Some products and services also collect or generate an ID code for each machine which reports back to us. This ID code is only used to enable us to distinguish between unique machines so that (i) we do not duplicate reports from the same source; and (ii) we can determine the number of unique machines that are using the products and services. If this ID code is collected together with other information which could identify an individual when combined, we anonymize the ID code to prevent this from occurring. 
+**Job applications**
 
-Certain products and services may include features that collect additional personal data for other purposes, as described below. For detailed information, please also refer to the applicable product or service description.
+If you are making a job application or inquiry, you may provide us with a copy of your CV or other relevant information. We may use this information for the purpose of assessing your application or inquiry. We may also keep this information on file to contact you about future opportunities, unless you ask us not to do this.
 
-### Sophos Home Products
+**Partner portal**
 
-We may directly and remotely communicate with your protected devices for the purposes of, without limitation (i) applying policy and configuration changes to such devices; and (ii) extracting usage information, service performance information, and infection logs.
+Our resellers, distributors, and other partners may visit our partner portal Site. We may use the information provided on that Site for partner relationship management, billing, forecasting, trend analysis, renewal management, marketing, and in order to sell and provide the products and services.
 
-In order to continuously improve the protection levels in the Sophos Home products, it may be necessary for us to collect and process certain information relating to you and to users connected to your account. You acknowledge and agree that the information we collect may include confidential and/or personal data, including without limitation (i) names and email addresses; (ii) account usernames; (iii) IP addresses; (iv) usage information; (v) details of changes or attempted changes to executable files, pathnames and scripts, (vi) infection logs; and (vii) files suspected of being infected with malware. We are committed to safeguarding the privacy of your personal data and will never share this outside Sophos.
+**Account management**
 
-You warrant that you have obtained all necessary permissions and provided the necessary notifications to share the above information with us for the purposes described from all users connected to your account.
+If you obtain products or services from us, we may use your contact details and (where applicable) payment information for the purposes of (i) providing training, customer support, and account management, (ii) order processing and billing, (iii) verifying your usage of the products and services in accordance with the terms and conditions of your agreement with us, (iv) carrying out checks for export control, anti-bribery, anti-corruption, the prevention of modern slavery, and other compliance purposes in accordance with requirements under applicable law; (v) contacting you (including by email communication) regarding license expiry, renewal, and other related notices, and (vi) maintaining our company accounts and records. 
 
-### Sophos Mobile Security 
+**Market research and surveys**
 
-When an application is downloaded on a device or the user initiates a check of all installed applications on an Android device, Sophos Mobile Security sends queries to our cloud infrastructure in order to validate the reputation of the applications. Each query contains a fingerprint generated from the Android application (the APK file) under investigation.
+If you participate in surveys, we may use your personal data for our internal business analysis and training purposes in order to improve our understanding of our users’ demographics, interests and behaviour, to measure and increase customer satisfaction, and to improve our products and services.
 
-A unique device identifier is also generated locally on each mobile device during installation of Sophos Mobile Security. We do not associate this identifier with any personal data. Periodically the product sends statistical feedback packets to us, including the unique device identifier and service performance information.
+**Competitions, contests, promotions**
 
-### Sophos Firewall Products
+If you participate in a competition, contest, or promotion conducted by us or on our behalf, we may use your personal data in order to administer such competition, contest, or promotion. We may also use your personal data as explained further under the heading “Marketing and promotions”. 
 
-You acknowledge and agree that the Sophos Firewall and Firewall Manager Products may provide us with the below information, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection. 
+**Chat rooms**
 
-  1. Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model, hardware version, vendor, firmware version, and country; (ii) aggregated product usage information, such as product features in use (on/off, count), amount of configured objects, policies, managed devices, groups, templates (iii) CPU, memory, and disk usage information; (iv) product errors; and 
-  2. Application Usage and Threat Data, including without limitation (i) IPS alerts; (ii) virus detected and the URL where the virus was found; (iii) spam; (iv) ATP threats; and (v) applications used and unclassified applications.  
-Information about unclassified applications is used to improve and enlarge network visibility and the application control library. 
-  3. Monitoring Threshold Data, includes (i) monitoring threshold values per model; and (ii) alert threshold criteria and values per model.
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information to open areas of our Site, such as via the Sophos Community, online help, or other chat rooms, that information can be viewed publicly and may be collected and used by third parties without our knowledge or consent, and may result in unsolicited messages from other individuals or third parties.
 
+**Network monitoring**
 
+We may collect logs and other data about access to and traffic passing through our network and equipment for the purposes of availability and performance monitoring, maintenance, security monitoring and investigations, conducting spam, threat and other scientific research, new product and service development, the enhancement of existing products and services, generating statistics, reporting, and trend analysis.
 
-Monitoring Threshold data is used to improve the default threshold settings and alert criteria included within the product across models.
+**Sample submissions**
 
-Configuration and Usage Data does not include user-specific information or personal data and cannot be disabled. Application Usage and Threat Data, and Monitoring Threshold Data collection is enabled by default, but you may disable collection of such data within the product at any time. 
+We collect information about suspected spam, suspected malicious files, and files that may be unwanted or undesirable for our customers (for example file names, URLs, file paths, hashes, and file samples) that are (i) received by our own network and equipment, and (ii) voluntarily submitted via our products and services or our Site submission pages. We use this information for spam, threat and other scientific research, new product and service development, the enhancement of existing products and services, generating statistics, reporting, and trend analysis. 
 
-### Sophos Mobile Control 
+## Legal basis for processing personal data 
 
-When Sophos Mobile Control is installed or updated, you may receive Apple push notifications, Google cloud to device messaging for Android, SMS text messages, and other remote communications. 
+Our legal basis for collecting and using personal data will depend on the personal data concerned and the specific context in which we collect it. 
 
-Sophos Mobile Control will store a list of users and mobile devices, and will record any applications downloaded or modifications made to such devices. Your administrator can also configure Sophos Mobile Control to track the geographic location of mobile devices and to lock or wipe a mobile device that has been lost or stolen.
+However, we will normally collect personal data from you only where we need the personal data to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal data from you or may otherwise need the personal data to protect your vital interests or those of another person.
 
-### Sophos Cloud Products
+If we collect and use your personal data in reliance on our legitimate interests (or those of any third party) other than as described in this privacy policy, we will make clear to you at the relevant time what those legitimate interests are.
 
-We may directly and remotely communicate with your protected devices for the purposes of, without limitation (i) applying policy and configuration changes to such devices; and (ii) extracting usage information, service performance information, and infection logs. Such communications may include but not be limited to SMS text messages and other push notifications.
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us using the contact details provided under the “Contact” heading.
 
-You acknowledge and agree that it may be necessary for us to collect and process certain information relating to individuals in order to provide the Cloud products, and that such information may include proprietary, confidential and/or personal data, including without limitation (i) names, email addresses, telephone numbers and other contact details; (ii) account usernames; (iii) IP addresses; (iv) usage information; (v) lists of all software, files, paths and applications installed on the device, (vi) details of changes or attempted changes to executable files, pathnames and scripts, (vii) logs of websites visited; (viii) infection logs; and (ix) files suspected of being infected with malware.
+## With whom might we share your personal data
 
-Certain Cloud products may also (at your sole option) enable you to configure the product to (i) track and log the geographic location of devices; (ii) block access to devices; (iii) delete the content of devices; (iv) store text and email messages that were sent and/or received by devices. Such information may also be stored on the device itself and accordingly we recommend that you encrypt your devices.
+We may transfer or disclose your personal data to the following categories of recipients:
 
-You warrant that you have obtained all necessary permissions and provided the necessary notifications to share the above information with us for the purposes described. You also acknowledge and agree that it may be necessary under applicable law to inform and/or obtain consent from individuals before you intercept, access, monitor, log, store, transfer, export, block access to, and/or delete their communications. You are solely responsible for compliance with such laws.
+  * to [our group companies](https://www.sophos.com/en-us/company/contact.aspx), third party services providers, suppliers, agents, and other organisations who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Site, products, or services), or who otherwise process personal data on our behalf for purposes that are described in this privacy policy or notified to you when we collect your personal data (such as advertising, sweepstakes, analytics, research, customer support, fraud prevention, and legal services);; 
+  * to our authorised resellers, distributors, and other channel partners in order to process your order or sales enquiry, manage your subscription, provide technical or customer support, advise of upcoming product or service subscription expiry and renewal dates, or as otherwise notified to you when we collect your personal data;
+  * a subset of our threat intelligence data to selected reputable members of the IT security industry for the purpose of anti-spam and security threat research;
+  * to any government department, agency, court or other official bodies where we believe disclosure is necessary (i) as a matter of applicable law or regulation (such as in response to a subpoena, warrant, court order, or other legal process), (ii) to exercise, establish, participate in, or defend our legal rights, or limit the damages we sustain in litigation or other legal dispute, or (iii) to protect your vital interests, privacy, or safety, or those of our customers or any other person;
+  * to a potential or actual buyer or transferee (and its agents and advisers) in connection with any proposed or actual transfer of control, purchase, merger, reorganisation, consolidation, or acquisition of any part of our business, provided that we inform the buyer or transferee it must use your personal data only for the purposes disclosed in this privacy policy;
+  * to any other person with your consent to the disclosure.
 
-### Sophos Central
 
-If you select “Enable Partner Access” in the Settings tab of Sophos Central, your designated third party partner or service provider will be able to access and administer your Sophos services on your behalf. If you do not enable such access, your designated third party partner or service provider will only see high-level reporting information such as Sophos services purchased and current usage information. You may revoke such access at any time by changing the permissions in the Settings tab.
 
-### Sophos Anti-Virus for Mac
+Except as set out above, we will not disclose your personal data save where we need to do so in order to enforce this privacy policy, our End User License Agreement, our rights generally, or where required or permitted by applicable local or foreign law.
 
-You acknowledge and agree that the Sophos Anti-Virus for Mac Products may provide us with Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model and hardware version (ii) CPU, memory, and disk usage information; and (iv) product errors, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection.
+Whenever we share personal data, we take all reasonable steps to ensure that it is treated securely and in accordance with this privacy policy. This may include without limitation aggregating or de-identifying information so that it is not intended to be used by the third party to identify you.
 
-### Sophos Anti-Virus for Linux Products (Sophos Anti-Virus for Linux, Sophos Anti-Virus for UNIX and Sophos Linux Security)
+## International transfers of data
 
-You acknowledge and agree that the Sophos Anti-Virus for Linux Products may provide us with the below information, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection.
+As a global company, we and our service providers operate, and our Site, products, and services are accessed from, all over the world. When you give us personal data, that data may be used, processed, or stored anywhere in the world, including in countries that have data protection laws that are different to the country in which you reside. 
 
-  1. Configuration and Usage Data, including without limitation (i) device model, and license information, such as OS name, vendor, kernel version, architecture, VM type, root file system type, and time zone; (ii) aggregated product usage information, such as product features in use (true/false, count), amount of configured objects, product/engine/data versions, and management type; (iii) memory, and uptime; (iv) update status.
-  2. Application Usage and Threat Data, including without limitation (i) MTD alerts; and (ii) applications used.
+However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this privacy policy. For example, these include implementing the European Commission’s Standard Contractual Clauses for transfers of personal data between our group companies, which require all group companies to protect personal data they process from the European Economic Area in accordance with European Union data protection law. 
 
+Our Standard Contractual Clauses can be provided on request. We have implemented similar appropriate safeguards with our third party service providers and partners, and further details can be provided upon request by contacting us using the contact details provided under the “Contact” heading.
 
+## Data retention
 
-Configuration and Usage Data and Application Usage and Threat Data does not include user-specific information or personal data and cannot be disabled.
+We retain personal data we collect from you for as long as necessary for the purposes for which the personal data was collected or where we have an ongoing legitimate business need to do so (for example, to provide you with a product or service you have requested, to ensure that transactions can be processed, settled, refunded, charged back, or to identify fraud), or to comply with applicable legal, tax, or regulatory requirements. Even if you close your account, we will retain certain information in order to meet our obligations. 
 
-### Market research and surveys
+When we have no ongoing legitimate business need to process your personal data, we will either securely destroy, erase, delete or anonymise it, or if this is not possible (for example, because your personal data has been stored in backup archives), then we will securely store your personal data and isolate it from any further processing until deletion is possible. 
 
-If you participate in surveys, we may use your personal data for our internal business and training purposes in order to improve our understanding of our users’ demographics, interests and behavior, and to measure and increase customer satisfaction.
+## Use by children
 
-### Marketing and promotions
+The Site, the products, and the services are not intended for persons under the age of 16. By using the Site, product, or service, you hereby represent that you are at least 16 years old. 
 
-We (or our resellers or other selected third parties acting on our behalf) may contact you from time to time in order to provide you with information about products and services that may be of interest to you. All marketing emails that we send to you will follow the email guidelines described below. You have the right to ask us not to process your personal data for marketing purposes, but if you do so, we may need to share your contact information with third parties for the limited purpose of ensuring that you do not receive marketing communications from them on our behalf.
+## Automated decision-making
 
-### Email communications
+In some instances, our use of your personal data may result in automated decisions being taken that legally affect you or similarly significantly affect you. 
 
-We adhere to the following guidelines in relation to our email communications:
+Automated decisions mean that a decision concerning you is made automatically on the basis of a computer determination (using software algorithms), without our human review. For example, our products and services use automated decisions to determine whether a domain, URL, or IP address is sending spam or malicious content in order to protect our customers from unwanted or undesirable content. We have implemented measures to safeguard the rights and interests of individuals whose personal data is subject to automated decision-making, including controlled product releases and regular quality assessments.
 
-  * emails will clearly identify us as the sender, 
-  * emails will include our physical postal address, 
-  * emails sent to you for marketing purposes will include an option to unsubscribe from future email messages, 
-  * you may unsubscribe from all mailing lists, with the exception of any emails regarding legal notices, invoicing, product updates, upgrades or license renewals, 
-  * any third parties who send emails on our behalf will be required to comply with legislative requirements on unsolicited emails and the use of personal data.
+When we make an automated decision about you (for example if we block a domain, URL, or IP address used by you), you have the right to contest the decision, to express your point of view, and to require a human review of the decision. You can exercise this right by contact us using the contact details provided under the “Contact” heading.
 
+## Your data protection rights
 
+You have the following data protection rights:
 
-We send emails from a number of different domains in both plain text and HTML email formats. Emails are usually sent using sender email addresses at:  
-@sophos.com  
-@email.sophos.com  
-@sophos.de  
-@sophos.fr  
-@sophos.co.jp  
-@sophos.it  
-@sophos.au  
-@sophos.com.au  
-@confirmation.sophos.com  
-@go.sophos.com  
-@get.sophos.com  
-@renewals.sophos.com  
-@productalert.sophos.com
+  * You can **access, delete or request portability** of your personal data by completing [this form](https://app-de.onetrust.com/app/#/webform/5ae85dff-ba17-4244-8f64-15a850fc1130).
+  * You may also ask us to **correct or update** your personal data, **object to processing** of your personal data, or ask us to **restrict processing** of your personal data using the contact details provided under the “Contact” heading
+  * You have the right to **opt-out of marketing communications** we send you at any time. You can usually exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. Alternatively, or to opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “Contact” heading.
+  * If we have collected and process your personal data with your consent, then you can **withdraw your consent** at any time by contacting us using the contact details provided under the “Contact” heading. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on lawful processing grounds other than consent. 
+  * You have the **right to complain** to a data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority. 
 
-Emails offering software downloads or free product trials will usually link to web pages on www.sophos.com or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to customerservice@sophos.com so we can investigate.
 
-We have published best practice guidelines to help internet users learn how to avoid phishing emails at http://www.sophos.com/security/best-practice/phishing.html.
 
-### With whom might we share your personal data?
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-As a global company, we have international sites and users all over the world. When you give us personal data, that data may be used, processed or stored anywhere in the world, including countries outside the EEA. 
+## Links
 
-We may also pass your personal data to suppliers, service providers, subcontractors, agents, distributors, resellers and other partners, some of whom may be located outside the EEA, in order to provide you with the information, products and services that you requested or otherwise for the purposes described in this privacy policy.
+This privacy policy applies to personal data collected by us. If we provide a link to a third party site (whether through our Site, a product or service, or in an e-mail we send you), please be aware that we are not responsible for the content or privacy practices of such third party site. We encourage our users to be aware when they leave our Site, and to read the privacy policy of other sites that collect personal data. We are not liable for any disputes, loss, or damage that may arise from or in connection with your use of such third party sites.
 
-In the event that we receive requests from government departments, agencies or other official bodies, we will only disclose your information if and to the extent that we believe we are legally required to do so (for example, but without limitation, upon receipt of a court order, warrant, subpoena or equivalent).
+## Security
 
-Except as set out above, we will not disclose your personal data save where we need to do so in order to enforce our rights.
+While we strive to protect your personal data, no data transmission or storage can be guaranteed as 100% secure. We endeavour to protect all personal data using reasonable and appropriate physical, administrative, technical, and organisational measures, and in accordance with our internal security procedures and applicable law. These safeguards vary based on the sensitivity of the information that we collect, process, and store, and the current state of technology.
 
-Whenever we share personal data, we take all reasonable steps to ensure that it is treated securely and in accordance with this privacy policy.
+If you have been given or have created log-in details to provide you with access to certain parts of our Site (for example our partner portal), you are responsible for keeping those details confidential in order to prevent unauthorised access to your accounts. 
 
-### Links
+## California privacy rights
 
-This privacy policy applies to personal data collected by us. If an email or Site contains links to a third party site, please be aware that we are not responsible for the content or privacy practices of such site. We encourage our users to be aware when they leave our Site, and to read the privacy policy of other sites that collect personal data. 
+California Online Privacy Protection Act Notice Concerning Do Not Track Signals
 
-### Security
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. To learn more about Do Not Track, you can do so [here](http://allaboutdnt.com/).
 
-We endeavour to hold all personal data securely in accordance with our internal security procedures and applicable law.
+Your California privacy rights
 
-Unfortunately, no data transmission over the Internet or any other network can be guaranteed as 100% secure. As a result, while we strive to protect your personal data, we cannot ensure and do not warrant the security of any information you transmit to us, and this information is transmitted at your own risk.
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their 'personal information' (if any, and as defined under applicable California law) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request using the contact details provided under the “Contact” heading.
 
-If you have been given log-in details to provide you with access to certain parts of our Site (for example our partner portal), you are responsible for keeping those details confidential.
+## Contact
 
-### Contact
+This is the website of Sophos Limited, a company registered in England and Wales under company number 2096520, whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom, and whose VAT registration number is 991 2418 08. Sophos Limited is the controller of personal data collected under this privacy policy (unless we indicate otherwise). 
 
-This is the website of Sophos Limited a company registered in England and Wales under company number 2096520 whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom and whose VAT registration number is 991 2418 08.
+We have appointed individuals who are responsible for the protection and security of your personal data. If you have any questions, comments, concerns, grievances, or complaints about this privacy policy or the manner in which we treat your personal data, or if you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact our Data Protection and Privacy team at [dataprotection@sophos.com](mailto:dataprotection@sophos.com). 
 
-If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact [customerservice@sophos.com](mailto:customerservice@sophos.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 may be made to cover administrative costs involved.
+If you wish to unsubscribe from marketing communications, please email [unsubscribe@sophos.com](mailto:unsubscribe@sophos.com). 
 
-### Notification of changes
+## Notification of changes
 
-This privacy policy was last updated on 10 April 2017. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+We reserve the right to amend or vary this policy from time to time to reflect evolving legal, regulatory, or business practices. When we update our privacy policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make (which, for minor changes, may include posting the revised privacy policy to our Site with immediate effect). Please check this page periodically for changes. We will obtain your consent to any material privacy policy changes if and where this is required by applicable data protection laws.
+
+You can see when this privacy policy was last updated by checking the “last updated” date displayed at the top of this privacy policy under the “General” heading. 
