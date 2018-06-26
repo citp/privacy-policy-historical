@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830041100id_/https%3A//www.newsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626201416id_/https%3A//www.newsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Newsy®
 
@@ -26,7 +26,7 @@ B. HOW WE USE & SHARE THE INFORMATION COLLECTED
 
 In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, and assist us with customer service. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via any Service, and with third parties who assist us in using the content or other information you have posted or shared with us via any Service (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
-In some cases, Newsy may collect data for analysis by Nielsen. Learn more at http://www.nielsen.com/digitalprivacy
+In some cases, Newsy may collect data for analysis by Nielsen. Learn more at <http://www.nielsen.com/digitalprivacy>
 
 (2) Non-PII: We use Non-PII in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your Non-PII by itself or aggregate it with information we have obtained from others. We may share your Non-PII with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
