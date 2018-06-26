@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210025833id_/http%3A//www.wbng.com/story/15534331/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626051333id_/http%3A//www.wbng.com/story/15534331/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WBNG.com: Binghamton-area News, Weather, Sports
 
