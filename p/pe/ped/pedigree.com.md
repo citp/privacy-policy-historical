@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231183736id_/http%3A//www.mars.com/global/policies/privacy/pp-english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626024511id_/http%3A//www.mars.com/global/policies/privacy/pp-english) for the most accurate reproduction.*
 
 # Mars Privacy Policy | Mars
 
