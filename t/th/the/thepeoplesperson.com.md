@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128040326id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626064509id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
