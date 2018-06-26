@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124140245id_/https%3A//www.umw.edu/web/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626103340id_/https%3A//www.umw.edu/web/policies/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Digital Communications
 
