@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118171030id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627012350id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Free information about hundreds of millions of landline and cell phone numbers in the United States.
 
 **What information do we collect?**
 
@@ -57,7 +57,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
  **Changes to our Privacy Policy**
 
