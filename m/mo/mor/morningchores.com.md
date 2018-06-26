@@ -1,131 +1,196 @@
-> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008053242id_/https%3A//morningchores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626190314id_/https%3A//morningchores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Edited on 2017-05-05
+Last Modified: May 23, 2018
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## Introductions
 
-### What personal information do we collect from the people that visit our website?
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site morningchores.com. By providing us with your data, you warrant to us that you are over 13 years of age.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+MorningChores is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-We collect information from you when you place an order, subscribe to a newsletter or enter information on our site, and provide us with feedback on our products or services.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by sending us a message from the [contact page](https://morningchores.com/contact/).
 
-### How do we use your information?
+## What personal data we collect and why we collect it
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Personal data means any information capable of identifying an individual. It does not include anonymized data.
 
-  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or other products and services.
-  * To follow up with them after correspondence (live chat, email or phone inquiries)
+We may process certain types of personal data about you as follows:
 
-
-
-### How do we protect your information?
-
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-### Do we use ‘cookies'?
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We use cookies to:
-
-  * Understand and save user's preferences for future visits.
-  * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  * **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+  * **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+  * **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain backups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+  * **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+  * **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free giveaways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+### **Sensitive Data**
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. Some of the features that make your site experience more efficient and may not function properly.
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-### Third-party disclosure
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We do not sell, trade, or otherwise, transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+### Comments
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Contact forms
+
+If you contact us via the contact forms, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the [Akismet](https://akismet.com/) service for the sole purpose of spam checking. The submission data is stored in our database and emailed to us. This email will include your IP address, timestamp, name, email address, website, and message.
+
+### Cookies
+
+We use cookies to track your use of our website. This enables us to understand how you use the site and track any patterns with regards how you are using our website. This helps us to develop and improve our website as well as products and / or services in response to what you might need or want.
+
+Cookies are either:
+
+  * Session cookies: these are only stored on your computer during your web session and are automatically deleted when you close your browser – they usually store an anonymous session ID allowing you to browse a website without having to log in to each page but they do not collect any personal data from your computer; or
+  * Persistent cookies: a persistent cookie is stored as a file on your computer and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again. We use persistent cookies for Google Analytics.
+
+
+
+Please note that third parties who advertise on our website (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, product recommendations, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Google Analytics (Anonymized IP)
+
+We use Google Analytics to track page views and events from visitors. This service may collect your IP address (anonymized), cookies, and usage data. Your data are retained for 14 months. Read more about how Google Analytics tracking code works on [this page from Google](https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview). [Opt out from Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+### Google Tag Manager
+
+We use Google Tag Manager to help manage tags and scripts needed on this website in a centralized fashion. This service may collect your cookies and usage data.
+
+### Google Maps API
+
+We use Google Maps API to geolocate and display maps such as the planting zone map. As an optional feature, we may ask the permission to access your location strictly to display information tailored to you. This service may collect your cookies and usage data. However, we as the site owner do not see or store this information.
+
+[Google Privacy Policy](https://policies.google.com/privacy?hl=en)
+
+### WordPress.com Stats
+
+We use WordPress.com Stats to track page views. This service may collect your IP address, WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. However, the site owner does not have access to any of this information. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days.
+
+### OneSignal
+
+We use OneSignal to send messages and notifications via web browsers on your desktop or mobile phone. This service may collect your IP address (non-EU), cookies, unique device identifiers for advertising, usage data, and various types of data as specified in [OneSignal Privacy Policy](https://onesignal.com/privacy_policy).
+
+### Marketing Communications
+
+We may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. If you are a limited company, we may send you marketing emails without your consent. However, you can still opt out of receiving marketing emails from us at any time.
+
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
+
+You have the right to withdraw consent to marketing at any time by following the instructions on this page (<https://morningchores.com/unsubscribe/>) or let us know us via the [contact page](https://morningchores.com/contact/).
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+## How we collect your personal data
+
+We collect data about you through a variety of different methods including:
+
+  * Direct interactions: You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you: 
+    * order our products or services;
+    * create an account on our site;
+    * subscribe to our service or publications;
+    * request resources or marketing be sent to you;
+    * enter a competition, prize draw, promotion or survey; or
+    * give us feedback.
+  * Automated technologies or interactions: As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies.
+
+
+
+## Who we share your data with
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers.
+  * Government bodies that require us to report processing activities.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
+
+
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+## How long we retain your data
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+If you leave a comment, contact us, or submit a content, the content and its metadata are retained indefinitely. The administrators can see and edit the information.
+
+In some circumstances you can ask us to delete your data: see below for further information.
+
+In some circumstances, we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+## What rights you have over your data
+
+You have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## Where we send your data
+
+We share your personal data within our group of companies which involves transferring your data outside the European Economic Area (EEA).
+
+Countries outside of the European Economic Area (EEA) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Many of our third parties service providers are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * Where we use providers based in the United States, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+## Additional information
+
+### How we protect your data
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorization. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+### What data breach procedures we have in place
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
 ### Third-party links
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-### Google
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-We use Google AdSense Advertising on our website.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third-party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+**For European Economic Area Residents**
 
-We have implemented the following:
-
-  * Remarketing with Google AdSense
-  * Google Display Network Impression Reporting
-  * Demographics and Interests Reporting
-  * DoubleClick Platform Integration
-
-
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
-
-Opting out:
-
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
-
-### California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA, we agree to the following:
-
-  * Users can visit our site anonymously.
-  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.Our Privacy Policy link includes the word ‘Privacy' and can easily be found on the page specified above.
-
-
-
-You will be notified of any Privacy Policy changes on our Privacy Policy Page.
-
-You can change your personal information by emailing us.
-
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. It's also important to note that we allow third-party behavioral tracking
-
-In order to be in line with Fair Information Practices we will notify you within 7 business days should a data breach occur.
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-### CAN-SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-We collect your email address in order to:
-
-  * Send information, respond to inquiries, and/or other requests or questions
-  * Process orders and to send information and updates pertaining to orders.
-  * Send you additional information related to your product and/or service
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
-
-
-To be in accordance with CANSPAM, we agree to the following:
-
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
-
-
-
-If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email, and we will promptly remove you from ALL correspondence.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
