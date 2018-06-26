@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepeterfive.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209230921id_/http%3A//www.onepeterfive.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepeterfive.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626112218id_/https%3A//onepeterfive.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - OnePeterFive
 
@@ -129,4 +129,4 @@ PO Box
 
 Manassas, Virginia 20110
 
-You may also contact us using our [contact form](http://www.onepeterfive.com/contact/).
+You may also contact us using our [contact form](https://onepeterfive.com/contact/).
