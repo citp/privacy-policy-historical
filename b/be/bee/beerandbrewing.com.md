@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206154512id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beerandbrewing.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626065447id_/https%3A//beerandbrewing.com/cbbinfo/2VXHQ1EPEk22A0IWMams6G/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Craft Beer & Brewing Magazine
 
@@ -17,6 +17,8 @@ IP Addresses We collect and analyse traffic on our Web Sites by keeping track of
 Personalizing Your Experience on the Web Sites We try to personalize your experience on our Web Sites by tracking content you have sent and purchases in order to shape our recommendations that might be of interest to you. We also examine customer traffic patterns and Web Sites usage to help us enhance the design and layout of the Web Sites and make it easier to navigate.
 
 From time to time, we may send you surveys or solicit your feedback. We use surveys to gauge user interest in new products and premiums we may offer. We will ask for your feedback on greetings and other site features. We will use the information we gather to improve our Web Sites and provide a more meaningful experience for our users. We may also use the information to alert you to offers and products in which you may be interested in.
+
+Our email service provider also pulls in publicly available data from social channels to help us better tailor the content to you. If you're ever interested in removing yourself from all of our email lists and deleting your data, please email Haydn Strauss (hstrauss@beerandbrewing.com).
 
 Subscribing to our Newsletter We send email notifications and information to users who have opted in. Those notifications may be, but not limited to, our exclusive Newsletter, information on new features, new content, other products and services. These communications are sent to you directly by Unfiltered Media Group, LLC. In order to receive the emailed information you must have subscribed via one of our Web Sites or other sources such as our mailing/customer list.
 
