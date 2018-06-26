@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203173017id_/http%3A//www.crunchsports.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchsports.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161610id_/https%3A//www.bettingpro.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
  _This Privacy Policy was last revised on 2nd July 2012_
 
-Crunchsports.com (“the Site,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by the site when you use the Site Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our Terms of Use 
+Bettingpro.com (“the Site,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by the site when you use the Site Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our Terms of Use 
 
  **Information We Collect**
 
  _User-Provided Information_ : When you add a Site application on a social network site or a mobile device, you provide us with the information associated with our account on the site in accord with the site’s terms of use. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. You may provide payment information to our payment partner if you conduct paid transactions on the Service; such information is subject to the payment provider’s privacy policy, not this Privacy Policy.
 
- _Cookies Information:  _When you use the Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets the Site help you log in faster and enhance your navigation through the Service. A cookie may also convey anonymous information about how you use the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+ _Cookies Information:_ When you use the Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets the Site help you log in faster and enhance your navigation through the Service. A cookie may also convey anonymous information about how you use the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
  _Log File Information_ : Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any web page. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
@@ -83,18 +83,18 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at the email address below or send mail to:
 
-privacy@crunchsports.com
+privacy@bettingpro.com
 
-CrunchSports.com
+Bettingpro.com
 
-Catena Operations Limited
+Catena Operations Limited 
 
-The Firs, Floor 6
+The Firs, Floor 6 
 
-Gorg Borg Olivier Street
+Gorg Borg Olivier Street 
 
 SLM1801
 
-Sliema
+Sliema 
 
 Malta
