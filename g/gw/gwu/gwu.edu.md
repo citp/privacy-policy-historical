@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002154649id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626231554id_/https%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | The George Washington University
 
@@ -23,7 +23,7 @@ GW maintains information collection procedures that comply with The Child Online
 
 ## Anonymously Collected Information
 
-When a user visits one of GW’s websites, some information such as the visitor’s Internet protocol (IP) address, Internet service provider, operating system, the site from which the visitor arrived, the time and date of the user’s visit and demographic and interest data of users may be collected automatically by GW and third-party vendors as part of the software operation of the website. This intake of information is not personally identifiable. GW uses this information solely for internal purposes, such as, to see what pages are most frequently visited, in order to improve the site. Additionally, GW is currently using Google’s Universal Analytics, a web metrics service, to collect certain information automatically upon a user’s visit. For more information regarding Universal Analytics, see [Google's privacy policy](http://www.google.com/policies/privacy/).
+When a user visits one of GW’s websites, some information such as the visitor’s Internet protocol (IP) address, Internet service provider, operating system, the site from which the visitor arrived, the time and date of the user’s visit and demographic and interest data of users may be collected automatically by GW and third-party vendors as part of the software operation of the website. This intake of information is not personally identifiable. GW uses this information solely for internal purposes, such as, to see what pages are most frequently visited, in order to improve the site. Additionally, GW is currently using Google’s Universal Analytics, a web metrics service, to collect certain information automatically upon a user’s visit. For more information regarding Universal Analytics, see [Google's privacy policy](https://www.google.com/policies/privacy/).
 
 ## Distribution of Collected Information
 
