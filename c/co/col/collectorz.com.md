@@ -1,112 +1,180 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119230737id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626230215id_/https%3A//www.collectorz.com/privacy-policy) for the most accurate reproduction.*
 
-# Collectorz.com Privacy Policy
+# Privacy Policy - Collectorz.com
 
-Your privacy is very important for COLLECTORZ.COM B.V. (“Collectorz.com”). Collectorz.com therefore respects and honors the privacy of all users of its Service. Collectorz.com will only process and use information about you in a secure manner and only for the purposes as described in this Privacy Policy. In processing your personal data Collectorz.com will act in accordance with all applicable laws and regulations.
+## 1\. Introduction
 
-That’s why we created this Privacy Policy. This Privacy Policy was last updated on August 28, 2013.
+At Collectorz.com, we carefully deal with privacy and privacy-sensitive data, to comply with the General Data Protection Regulation (GDPR) and the Telecommunications Act. We will consider as much as possible the European Commission's January 1 2017 proposal to replace the ePrivacy Directive from 2002 with a new ePrivacy Regulation. For example, in the ePrivacy Regulation proposal conditions are attached to the use of cookies and to sending newsletters.
 
-This document gives a description of how Collectorz.com collects and processes your personal data. We therefore recommend that you read this Privacy Policy carefully. The words in this Privacy Policy written with a capital letter are defined in the Collectorz.com Terms of Use, which can be downloaded at <http://www.collectorz.com/terms-of-use.pdf>.
+In this privacy and cookie statement we inform you about which personal data we process, for which purposes we process personal data, the way we process personal data, how you can exercise your privacy rights and other information about how we handle personal data. Personal data is data that can be used to identify an individual or which can be linked to an individual.
 
-## 1\. Collectorz.com
+This privacy and cookie statement applies to the usage of the Collectorz.com websites (like www.collectorz.com, my.clz.com, cloud.collectorz.com and connect.collectorz.com, hereafter: “the Websites”) and the related services, like subscribing to our newsletter, making purchases in our webshop, usage of our database software and the data storage in our CLZ Cloud system. When processing personal data, we make a distinction between the various users of the Websites, namely the website visitor, the trial user and the customer.
 
-COLLECTORZ.COM is a private limited liability company established under the laws of the Netherlands, and is established at W.G. Plein 384 (1054 SG) in Amsterdam, the Netherlands and is registered at the Chamber of Commerce under number 34133448.
+## 2\. For which purposes is Collectorz.com processing personal data?
 
-The Service provided by Collectorz.com entails providing access to the Database through the use of the Software, by means of which you can access, collect, process and/or share Central Media Data and generate and/or upload User Generated Data. The Service is intended to enable you to catalog your collections of movies, books, music, comic books and video games. The Service also entails access to the cloud storage, through which you can synchronize your collections between devices and publish and share these with your friends online.
+Collectorz.com processes various personal details of you by means of the Websites, depending on how you use the Websites and our services.
 
-## 2\. The information collected and processed by Collectorz.com
+### The website visitor
 
-**Order information**   
-To purchase the Service you must make an order on one of the Collectorz.com websites. All provided information will be processed together with your IP-address (the unique number of your computer making it possible to recognize it), in order to fulfil the ordering process.
+For website visitors, Collectorz.com processes personal data for the following purposes: 
 
-**Account**   
-To make use of all the functionalities of the Service, you must create an Account. When you create an Account, you are asked to enter your email address, a username, and a password. When subscribing to the paid version of the Service, you have to fill out information such as your full name, e-mail address and address. All provided information shall constitute your Account and will be processed together with your IP-address (the unique number of your computer making it possible to recognize it). Only your username will be shown on the Website. Other personal information can not be viewed by others.
-
-You can always modify your Account(-settings) and profile within the Service. For instance, you can change your privacy settings, which includes settings on (i) whether your collection is visible for everyone; and (ii) whether personal collection details are visible for everyone. Also you can change how often you get notices on updates or receive other notifications. Please see section 9 of this Privacy Policy for the procedure.
-
-**Automatically generated information**   
-Collectorz.com collects automatically generated information about your behavior during your use of the Service. This information consists for instance of your IP-address (the unique number of your computer making it possible to recognize it), resolution of the screen, operating system, last visits, times of visits, in order to recognize you, to customize your experience, to maintain and improve the Service and to serve advertisements.
-
-## 3\. Cookies
-
-Like most websites, Collectorz.com uses cookies and web log files to track site usage. A cookie is a tiny data file that resides on your computer which allows the Service to recognize you as a User when you return to the Service using the same computer and browser. Cookies cannot damage your computer or the files stored on your computer.
-
-Information is saved in the cookies (such as the settings of your computer and certain preferences) in order to make the process of your next visit to the Service faster, your use of the Service easier and in order to analyse your use of the Service to be able to improve it. The information in cookies does not include personal data, apart from your IP-address. 
-
-You can adjust your browser so that you don’t receive any cookies during your next visit of the Service. However, in that case you may not be able to use all parts or possibilities of the Service or you may not have access to (parts of) the Service. In order to know more about these functions you can consult the Help function of your browser.
-
-If you do want to make use of cookies and you are using a public computer, please make sure that you log out after your session. Also keep your password strictly confidential in order to avoid others using your Account without your consent. 
-
-## 4\. Purposes for which Collectorz.com will process personal data
-
-**Purposes**   
-Collectorz.com will process your personal data for the following purposes: 
-
-  * To provide the Service to you;
-  * To administer your Account with us;
-  * For facilitating interaction and communication and to share information between you and (other Users of) the Service;
-  * To send you service or promotional communications;
-  * Inform you about relevant information and developments within the Service;
-  * To analyze data within the Service with the purpose of improving and/or customizing the Website and our services to you and the other users of the Service;
-  * To provide you with means to control whether or not your contact information is shared with (an)other User(s).
+  * for statistical purposes, like measuring the number of visitors to the various pages of the Websites and tracking how visitors reached the Website and from which countries, in order to improve the Websites 
+  * to measure the effectiveness of our marketing efforts and costs 
+  * to display targeted advertisements for our products on other websites (remarketing) 
+  * for customer support, to answer your questions about our software and services 
 
 
 
-**Use by Collectorz.com**   
-Collectorz.com aims to keep you informed of any changes to its Services or the Website. Collectorz.com will also keep you informed of any actions or events organized by it. Collectorz.com will therefore use your personal data to send you notices and emails regarding these aspects. If you do not want to receive such notices and/or emails, you can unsubscribe by a special hyperlink included in every mailing. Please be aware that you will always receive certain emails form Collectorz.com related to the proper functioning of your Account.
+### The trial-user
 
-On the Service you can filter certain information in order to personalize the information you receive. You can for instance filter the (frequence of) information you receive from notifications, by e-mail, when you receive updates and who can see your profile. When using filtering options, Collectorz.com uses the information provided by you. Also, based on your Account, relevant information provided by other Users will be provided to you. This works the other way around as well: based on the Account of other Users, the information you provide, can be made available to them. 
+Users can sign up for a free trial of our software and services, using their email address, after which he becomes a trial-user. For trial-users, Collectorz.com processes personal data for the following purposes (in *addition* to the purposes listed above for visitors): 
 
-Collectorz.com uses automatically generated information for statistical purposes as well as for protection of the Service and/or Website. These details can be provided to third parties insofar as they cannot be traced back to you personally, therefore it does not include personal data.
+  * to send you the information you need to get started with the trial software 
+  * to create and process a personalized account for using our software and services 
+  * to store and process your collection data in our CLZ Cloud system 
 
-## 5\. Use by third parties
 
-Collectorz.com can, without your consent, provide your details to third parties insofar as this is necessary for providing Services to you, such as providing your details to a payment services provider in order to process payments, to carry out your instructions, to provide specific services or information, or insofar as these details cannot be traced back to you personally. 
 
-In the event that (parts of) the Collectorz.com company are transferred to a third party, in the event that Collectorz.com merges with a third party, or in the event of a reorganization, your personal data may also be disclosed and/or transferred. Collectorz.com will inform you in the event this happens. Any third party to which we transfer or sell Collectorz.com’s assets will have the right to continue to use the personal and other information that you provide to us.
+### The customer
 
-If you make personal data about yourself public via the Service, you should take into account that these data can be read and used by others. The data might also be placed on other websites by third parties. Please take care when providing personal data via the Service. If you make data available via the Service, your Username will be mentioned. Users may opt-out of this feature by editing their account and settings. However, Collectorz.com does not warrant how often third party search engines will update their cache.
+When users buy one or our products, or subscribe to one of our paid services (subscription software), that user becomes a customer. For customers, Collectorz.com processes personal data for the following purposes (in *addition* to the purposes listed above for visitors and trial-users): 
 
-Collectorz.com may provide aggregated anonymous data about the usage of the Service to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on the Website.
+  * to let you place orders in our web-shops, to process your orders and to deliver the products and services you purchased 
+  * to send you product update notifications and our monthly newsletter by email 
+  * to provide the services you are entitled to as a paying customer (product updates, access to our Core online database, unlimited cloud storage, etc…) 
 
-Collectorz.com can provide your personal data to third parties if it is legally obliged to do so, such as responses to civil or criminal subpoenas, other requests by law enforcement personnel. Collectorz.com will disclose such information wherein it has a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceedings, subpoena, or other legal process or request to Collectorz.com brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.
 
-## 6\. Transfer to countries outside the EU
 
-To provide the Service, Collectorz.com makes use of the services of third parties which are established outside the European Union. To ensure the protection for your personal data, Collectorz.com only makes use of the services of third parties outside the European Union where the level of protection for personal data is adequate. For instance, the data of Collectorz.com is hosted in the United States, by a company which adheres to the Safe Harbor Principles: <http://export.gov/safeharbor/eu/index.asp>. 
+## 3\. Which personal data is collected by Collectorz.com and for how long?
 
-## 7\. The scope of responsibility of Collectorz.com
+Collectorz.com does not store personal data for longer than is necessary for the purposes mentioned above. With the exception of the data that we have to store longer because the law obliges us to do so. The retention period for personal data depends on the groups defined above (website visitors, trial-users and customers):
 
-The Service and/or website may contain hyperlinks which link to websites of third parties. Collectorz.com has no power over or influence on websites of third parties. Different privacy policies may apply to the use of websites of third parties. This Privacy Policy only relates to personal data which have been obtained via (your use of) the Service and its website. Collectorz.com does not accept any responsibility or liability for (the operation and/or contents of) websites of third parties.
+### The website visitor
 
-Via the Service you can share information about yourself with others. You are responsible for the personal data that you make available via the Service and/or the Website. Collectorz.com does not accept any responsibility or liability in this regard.
+For website visitors, Collectorz.com processes the following personal data: 
 
-## 8\. Security
+  * IP-adres, user-agent, referrer, identifiers in cookies and statistical data about the pages visited. 
 
-Collectorz.com will take suitable technical and organizational measures to protect your personal data against loss or against any form of unlawful processing.
 
-All information on the Service and/or the website, including your personal data, is saved according to general safety rules in regard to digital data storage. Collectorz.com strives to guarantee the safety of your personal data. Data you supply are stored on servers with limited access. These servers are located in secured buildings. Payment data is always sent in encoded form.
 
-It is your responsibility to protect the security of your login information. Please note that emails and instant messages and similar means of communication are not encrypted and we strongly request you not to communicate any confidential information through these means.
+This data is stored for 3 months and will be removed afterwards.
 
-## 9\. Viewing and changing your data
+### The trial-user
 
-You can always view, review, update, modify, delete, enhance or edit your personal information through your personal Account-page to make the necessary changes to your Account. In your personal Account, you can also choose what information you make available through your public profile and the settings to control the visibility and accessibility through the Service. On your personal profile page you can tell Collectorz.com to close your Account. Please be aware that even after your request for a change is processed, Collectorz.com may, for a time, retain residual information about you in its backup and/or archival copies of its database. User Generated Data you have submitted to complete Central Media Data is stored in the database, and will not be deleted after termination of your Account.
+For trial users, Collectorz.com processes the following personal data, in *addition* to the data listed above for website visitors: 
 
-Collectorz.com does not monitor messages you receive from and send to other Users, nor messages about other Users. Please check the messages and how these messages are sent yourself.
+  * E-mail adres. 
+  * Username. 
+  * Password (encrypted). 
+  * Collection data in our CLZ Cloud system. 
 
-If you want to know which data Collectorz.com has recorded about you or if you want to change data which you are not able to change through your Account, you can contact us here: <http://www.collectorz.com/supportform.php>.
 
-## 10\. Changes to this Privacy Policy
 
-Collectorz.com reserves the right to modify the content of this Privacy Policy. If these modifications significantly alter the way we process your personal data, we will notify you by means of a message on the Service, on the Website or via an email. Unless explicitly stated otherwise, all personal data provided via the Service or the Website is subject to the most recent version of this Privacy Policy.
+If the trial-users doesn’t become a customer, his personal data is stored for 6 months and will be removed afterwards.
 
-## 11\. Applicable law and competent court
+### The customer
 
-If any provision of this Privacy Policy is not enforceable or considered void due to overriding mandatory local law, then this overriding mandatory local law will apply.
+For customers, Collectorz.com processes the following personal data, in *addition* to the data listed above for website visitors and trial-users: 
 
-All disputes resulting from or arising out of this Privacy Policy shall be dealt with in accordance with the Terms of Use.
+  * First name, last name. 
+  * Country. 
 
-## 12\. Questions or remarks?
 
-If you still have any questions about Collectorz.com’s privacy policy, please contact us via the website here: <http://www.collectorz.com/supportform.php>.
+
+Personal data for customers is retained as long as the customer is using our software or services (purchased licenses are for life). When the customer stops using our services, he can request that his account and all data stored will be removed (directly).   
+Financial data is processed for tax purposes and must be retained for seven years and will be removed afterwards.
+
+In case the user contacts customer support email conversations is stored for 3 years and will be removed afterwards.
+
+All other data processed for users on the Websites will be deleted if the processing is no longer necessary for Collectorz.com.
+
+## 4\. Accuracy and responsibility
+
+When you provide personal information to Collectorz.com, you are personally responsible for the accuracy and for keeping it up-to-date. Collectorz.com is not liable, except for intent or gross negligence, for inaccuracies or consequences of activities that are undertaken on the basis of incorrect or incomplete information provided by you.
+
+## 5\. To whom is Collectorz.com providing personal data?
+
+Collectorz.com does not provide any personal data to third parties, except for the processors we use for customer support, email broadcasts, the management and maintenance of the Website, as well as the services offered there, such as the online processing of payments. Appropriate processing agreements have been concluded between Collectorz.com and these processors, which include a confidentiality clause. The processors of Collectorz.com are not allowed to process the personal data for other purposes.
+
+Collectorz.com only provides personal data to third parties outside the European Union if an appropriate level of protection for personal data is available in the country concerned.
+
+In some cases Collectorz.com is legally obliged to provide certain personal data to third parties. For example, it is possible that the police will request information from us in the context of a fraud investigation. In that case, we are legally obliged to provide this information.
+
+## 6\. Security
+
+We take appropriate security measures to limit abuse of and unauthorized access to your personal data. In this way we ensure that only the necessary persons have access to the data, that access to the data is protected and that our security measures are checked regularly.
+
+## 7\. How is Collectorz.com using cookies?
+
+### What are cookies and similar techniques?
+
+A cookie is a small text file that is placed on or read from your computer during your visit to the Websites, for example in the browser of your computer, tablet or smartphone. Through this text file data is stored or read, including personal data. On the basis of this (personal) data you can be recognized on a later visit.
+
+JavaScripts and web beacons are examples of similar techniques that, together with cookies, enable a system to collect information (via Javascripts), store it in small, simple text files (cookies) and then send it (web beacons). This happens in our Websites, but also in our newsletters. We can use this to see who opened newsletters and which links in the newsletter were clicked. All these techniques together are called 'cookies'.
+
+### For what purposes does Collectorz.com use cookies?
+
+  * **Technically necessary cookies** : these cookies are necessary to enable the technical operation of our Websites. 
+  * **Functional cookies** : these cookies are used to provide necessary functionality of our Websites, such as the possibility to save preferences, a shopping cart, remember a login and other functionalities, whether or not within the duration of the session in question . For example, a cookie is placed to remember that you have placed an order in your shopping cart but have not yet fully completed it. 
+  * **Analytical cookies** : Collectorz.com uses Google Analytics and other analytical cookies in a privacy friendly way to analyze how visitors use our Websites. For example, Collectorz.com can improve the user-friendliness of the Websites in this way. With Google Analytics, personal details of visitors are processed. 
+  * **Advertisement or tracking cookies** : Collectorz.com uses Google Adwords, Bing Ads and Facebook ads for commercial and promotional purposes. The collected (personal) data is linked, analyzed and used for the development of profiles, segments and target groups to show relevant information and personalized offers on external websites and other marketing channels of external parties. Tracking cookies can also be placed by external parties on the Websites of Collectorz.com (hereinafter: third party cookies). To place a third party cookie, we ask your permission in advance, because this allows you to monitor your internet behavior across different websites. The privacy and cookies statements of the relevant external parties apply to the (personal) data processed via third party cookies. Collectorz.com has no influence on this. 
+
+
+
+### Which (personal) data is collected by Collectorz.com via cookies?
+
+Collectorz.com collects your IP address and MAC address (where possible anonymous), surfing and click behavior, cookie identifiers, technical characteristics (such as the browser you use and the resolution of your computer screen), from which websites you arrived on one of the Collectorz.com Websites (referrer), when and for how long you visit or use our Websites, whether you use the functionalities of our Websites and which pages you visit on our Websites.
+
+### How can you avoid cookies (even more)?
+
+By changing the settings of your browser, you can indicate that your browser is not allowed to accept cookies (from our Websites). If your browser does not accept cookies from our Websites, it is possible that you cannot use to certain functionalities of our Websites or you may not be able to use any functionalities. If you wish to oppose the cookies of Google Analytics, you can set this in your browser by refusing cookies from Google (Analytics) via your browser or [by clicking here](https://tools.google.com/dlpage/gaoptout).
+
+## 8\. Visitor and user rights
+
+Because your personal data is processed by Collectorz.com, you have certain rights. These rights are explained below. As a trial user and as a customer, you can exercise the right of access and the right to improve, supplement and delete your personal data via your account on [my.clz.com](https://my.clz.com/).
+
+In addition, you can send an email request for execution for one or more of the following rights to privacy@collectorz.com. To prevent abuse, we ask you to identify yourself adequately by sending a copy of a valid proof of identity. Do not forget to hide your BSN and your passport photo on the copy.
+
+### Right of access and the right to get a copy
+
+  * At your request, Collectorz.com will provide you with access to and a copy of your processed personal data via the Websites within a maximum of four weeks. 
+  * Before you get access to and a copy of the processed data, Collectorz.com will verify your identity. 
+  * Collectorz.com may refuse the access to and the copy of the processed data if the request is excessive or if this is necessary to ensure the protection of you or the rights of others. 
+
+
+
+### Right for improvement, addition, restriction or removal
+
+  * If access to you has been granted or a statement has been made about your personal data, you can request Collectorz.com in writing to correct, supplement, delete or restrict the personal data processed via the Websites, if these are incorrect, if they are incomplete or unnecessary for the purpose of the processing or if they are otherwise processed in violation of a statutory provision. The changes to be made must be stated in the request. 
+  * Collectorz.com will send you a response within four weeks, indicating the extent to which the request is being met. If a request is refused, the reason for this willl be indicated. 
+  * Collectorz.com will ensure that a decision to improve, supplement, remove and / or restrict is carried out within four weeks. 
+  * Collectorz.com will also inform each recipient to whom the personal data have been disclosed if necessary. In the decision, Collectorz.com will include to which recipient the information is provided. 
+
+
+
+### Right to object
+
+  * At any time, you can object in writing to processing your data (I) for direct marketing, (II) for scientific or historical research or for statistical purposes or (III) due to personal circumstances. 
+  * Collectorz.com will send you a decision on this within four weeks. As long as no decision has been taken on the objection, a limitation of the processing of your personal data can be made on request. 
+  * Collectorz.com will terminate the processing immediately if it considers the objection well-founded. 
+
+
+
+### Right to data portability
+
+  * If Collectorz.com agrees to your request for a copy of your personal data, this will be provided to you in a structured, commonly used and machine-readable format. The right of portability of personal data applies if the processed personal data have been processed on the basis of your consent or if this was necessary for the execution of an agreement. Only the digitally processed personal data will be provided to you. 
+  * You have the right to transfer those personal data to another controller. 
+
+
+
+## 9\. How to contact Collectorz.com?
+
+For questions, requests or complaints regarding the processing of your personal data, please contact us at privacy@collectorz.com. We are happy to help you if you have a complaint about the processing of your personal data. If, for any reason, you are not happy about how we deal with your request, then, under the privacy legislation, you also have the right to file a complaint with the data protection supervisor, the Dutch Data Protection Authority. You can contact the Dutch Data Protection Authority for this.
+
+## 10\. Changes to the privacy and cookie statement
+
+We may change this privacy and cookie statement from time to time. Changes will be published on our Websites. It is therefore advisable to consult this privacy and cookie statement regularly, so that you are aware of these changes.
+
+## 11\. Cookie declaration
+
+Yes, I agree with the cookie statement 
