@@ -1,8 +1,46 @@
-> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909163936id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122602id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Python Programming Tutorials
 
-Last updated: January 27, 2016
+Last updated: May 25th 2018
+
+### GDPR updates as of May 25th 2018:
+
+#### Personal data collected, and why!
+
+  1. Username you choose - This is how you are identified on the website
+  2. Password - this is how we confirm it's really you.
+  3. Email - this is how you can recover your account. We do not require email validation, you can feel free to make this up if you wanted, just know you can't recover your account if so.
+  4. Tutorials you've completed - When you click the "next tutorial" button at the bottom of a tutorial, that tutorial is marked as "completed" by your account.
+  5. Finally, we track whether or not you've signed up to +=1. If you have, the date and time of your purchase is logged, the last name of the PayPal account, the username associated with this name, the payment itself, and the transaction ID is stored.
+
+
+
+I also use Google Adsense and Google Analytics, which collects various data on you too. Via Google Analytics, I have opted for the lowest user and event data retention available on their platform, which is 14 months. More info on data retention: https://support.google.com/analytics/answer/7667196?authuser=0.
+
+#### How long your data is retained:
+
+  1. All of the above data is retained indefinitely (except for Google Analytics and Google Adsense, I really cannot speak to their full practices, just that I chose the 14-month retention in Google Analytics), unless otherwise requested in writing.
+  2. Within Google Analytics, I have set the data retention to 14 months, and to reset on new activity. So, data stored via Google Analytics is removed 14 months automatically after you *stop* using the website. If you continue to use the website, then the data's expiration renews to be the CURRENT time, plus 14 months.
+
+
+
+
+#### Who we share your data with?
+
+  1. To monetize the website, I make use of Google Adsense, which uses tracking cookies, tracking its own data on you.
+  2. The data found under the above "Personal data collected, and why!" section is not shared with any other entities, except in the case of a PayPal transaction where we compare details of the transaction on our end with PayPal's details of that same transaction to confirm its legitimacy.
+
+
+
+#### What are my rights with my data??
+
+  1. If you want to see all of the data we have on you, make a request to Harrison@pythonprogramming.net
+  2. If you want all of your data permanently scrubbed, deleted, never to be seen again from the website...make a request to Harrison@pythonprogramming.net for this service.
+
+
+
+Resuming the original privacy policy: 
 
 PythonProgramming ("us", "we", or "our") operates the http://pythonprogramming.net website (the "Service").
 
