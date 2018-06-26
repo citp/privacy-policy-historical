@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blu.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012113916id_/https%3A//www.blu.com/on/demandware.static/-/Sites-Blu-US-Library/default/dw64a8d1e5/files/PrivacyPolicy_US.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blu.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626224629id_/https%3A//www.blu.com/on/demandware.static/-/Library-Sites-Library-Blu-Redesign/default/dw64a8d1e5/files/PrivacyPolicy_US.pdf) for the most accurate reproduction.*
 
 # 
 
