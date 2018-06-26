@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nylon.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915122816id_/https%3A//nylon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylon.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626082431id_/https%3A//nylon.com/privacy) for the most accurate reproduction.*
 
 # NYLON · NYLON Media Privacy Policy
 
@@ -76,7 +76,7 @@ We do not specifically market to children under 13.
 
 If at any time you would like to unsubscribe from receiving future marketing emails, you can:
 
-  * Email us at [**privacy@nylon.com**](mailto:privacy@nylon.com) and we will promptly remove you from ALL marketing emails.
+  * Email us at [**privacy@nylon.com**](http://mailto:privacy@nylon.com/) and we will promptly remove you from ALL marketing emails.
 
 
 
