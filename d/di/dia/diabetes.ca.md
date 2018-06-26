@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetes.ca privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123051039id_/http%3A//diabetes.ca/about-cda/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626091103id_/http%3A//www.diabetes.ca/about-cda/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Diabetes Canada
 
@@ -71,5 +71,3 @@ Toronto, ON M5G 2R5
 
 **10\. Your right to challenge our compliance with our privacy policy**    
 If, for any reason, you are concerned about our compliance with our privacy policy, please contact our Privacy Officer at the address listed above.
-
-[](https://crm1.diabetes.ca/bbis_CRMLive/donate)
