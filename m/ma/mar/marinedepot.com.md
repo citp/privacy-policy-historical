@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marinedepot.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513093413id_/http%3A//www.marinedepot.com/help_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinedepot.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626121512id_/https%3A//www.marinedepot.com/help_privacy_policy.html) for the most accurate reproduction.*
 
 # Marine Depot Privacy Policy - Marine Depot
 
 * * *
 
-This privacy statement covers the site //www.marinedepot.com
+This privacy statement covers the site https://www.marinedepot.com
 
 If you have questions or concerns regarding this statement, please contact [customercare@marinedepot.com](mailto:customercare@marinedepot.com)
 
@@ -42,7 +42,7 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 ### Sharing
 
-We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and email delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. 
+We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and email delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes.
 
 FedEx Corporation  
 942 South Shady Grove Road  
@@ -68,7 +68,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### Security
 
-MarineDepot.com takes every precaution necessary to protect your privacy and personal information. When submitting sensitive information (such as a credit card number) via our website, that information is collected, encrypted and protected by the best encryption technology available in the industry—SSL. We combine secure servers with Secure Socket Layer (SSL) transmission to safeguard the personal information of all MarineDepot.com customers. What this means is that any time you send data to our web server it will be encrypted and, in turn, our server will encrypt any data sent back to your web browser. MarineDepot.com uses 128-bit encryption by VeriSign, the most advanced form of SSL software presently available. MarineDepot.com online shopping cart uses VeriSign Digital IDs (SSL Secure Certificate) exclusively. To learn more about SSL, please visit [www.verisign.com](https://www.verisign.com/).
+MarineDepot.com takes every precaution necessary to protect your privacy and personal information. When submitting sensitive information (such as a credit card number) via our website, that information is collected, encrypted and protected by the best encryption technology available in the industry—SSL. We combine secure servers with Secure Socket Layer (SSL) transmission to safeguard the personal information of all MarineDepot.com customers. What this means is that any time you send data to our web server it will be encrypted and, in turn, our server will encrypt any data sent back to your web browser. MarineDepot.com uses 128-bit encryption by VeriSign, the most advanced form of SSL software presently available. MarineDepot.com online shopping cart uses VeriSign Digital IDs (SSL Secure Certificate) exclusively. To learn more about SSL, please visit [www.verisign.com](http://www.verisign.com/).
 
 * * *
 
@@ -92,4 +92,4 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 #### Last Update
 
-The Privacy Policy contained herein became officially effective January 1, 2010.
+The Privacy Policy contained herein became officially effective January 1, 2017.
