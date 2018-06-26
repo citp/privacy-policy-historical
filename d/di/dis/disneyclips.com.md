@@ -1,31 +1,38 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204214447id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626182810id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
-# Disneyclips.com - Privacy Policy
+# Disneyclips.com Privacy Policy
 
-  
+## updated on May 29th 2018
 
+This website uses third-party advertising companies to serve ads when you visit it. These companies may collect information about your IP address, as well as the type of browser and operating system you are using. This is non-personally identifiable information which is used to provide advertisements about goods and services of interest to you based on your prior visits to this or other websites.
 
-This website uses third-party advertising companies to serve ads when you visit it. These companies may use information ( **NOT** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+For more information, see 
 
-For more information, 
-
-[_click here_](https://www.google.com/policies/technologies/ads)
-
-.
-
-If you would like to see ads that are more related to your interests, or if you would prefer not to have this information used by these companies, 
-
-[_click here_](https://www.google.com/ads/preferences/view?sig=ACi0TCixsxNxg_oOimkTW93puPi9F5yqGZVJ2eEG_3BOymv0smNT_I0zFNXYGNhiipX-9FSSrAy-0ORSBZ0XiqCHx3O78s3A1M5iU1qs2kYJyb88UgVv0F_YJN_PqcXEG0Uyk4qmi62yvYUmZzjTcXmK3r14O_xyNw&hl=en)
+[_https://www.google.com/policies/technologies/ads_](https://www.google.com/policies/technologies/ads)
 
 .
 
-Information about your IP address, as well as the type of browser and operating system you are using is collected. This is non-personally identifiable information which is used solely to track trends and better understand how visitors use this website. 
+You may 
 
-Disneyclips.com is not responsible for the content or privacy policies of websites visited through links from this website.
+[_opt out of personalized advertising here_](https://adssettings.google.com/)
+
+.
+
+This website also uses Google Analytics, which measures user-interactions through traffic data in order to optimise your experience.
+
+See 
+
+[_how Google Analytics uses cookies_](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+
+.
+
+If you wish to opt out of Google Analytics, you may 
+
+[_do so here_.](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+Disneyclips.com is not responsible for the content or privacy policies of websites visited through external links.
 
 Please be advised that this privacy policy may be changed in the future. Return to see any changes made.
-
-This page was last updated on March 16th 2009.
 
   
 
