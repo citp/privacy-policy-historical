@@ -1,122 +1,144 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015200id_/https%3A//www.tableau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626234546id_/https%3A//www.tableau.com/privacy) for the most accurate reproduction.*
 
 # Tableau Software Privacy Policy | Tableau Software
 
-##  Welcome! 
+**Last updated on May 17, 2018.**
 
-The Privacy Policy posted on this Site was updated on or about March 15, 2017.
+Tableau believes in the importance of thoughtfully handling personal information and is committed to privacy practices that are transparent and compliant. This Privacy Policy sets out how Tableau uses the personal information we collect and receive about you.
 
-This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Tableau Software and its affiliated entities are collectively referred to in this Privacy Policy as “Tableau,” “we,” “us” or the “Site.” Please read this document carefully.
+## Types of Personal Information
 
-##  Scope of this Privacy Policy 
+Tableau collects personal information in support of its mission to help people see and understand their data. This personal information is collected through a variety of ways. For example, we collect personal information through the registration and use of our software and mobile apps, whether downloaded or accessed through a cloud-based service. We also collect personal information when you use or visit Tableau websites, attend a Tableau hosted or sponsored event, or participate in a Tableau community. We may receive your personal information if you are a Tableau supplier or partner. We may also receive your information from third party partners. If you have other agreements with Tableau, then those agreements control with regard to the subject matter they cover. 
 
-This Privacy Policy applies only to PII collected by Tableau through software or mobile app installation or use or visitation to Tableau websites where this Privacy Policy is posted (the “Site”) and does not apply to any other information collected by Tableau through other means. If you have other agreements with Tableau governing Tableau products and services, then those agreements control with regard to the subject matter of those agreements. Further, our Privacy Policy does not cover the activities of third parties.
+The type of information we collect will depend on your interactions with Tableau. It may include:
 
-With respect to personal data relating to residents of the European Economic Area (EEA), Tableau adheres to the Privacy Shield Principles (as outlined here: <https://www.privacyshield.gov/welcome>)and is an Active Participant in the [Privacy Shield framework](https://www.privacyshield.gov/participant?id=a2zt0000000TNKnAAO). Our Privacy Shield certification covers customer relationship data, and Tableau is subject to the investigative and enforcement powers of the Federal Trade Commission. 
+**Contact and Log In Information.** Name, employer, title, email address, physical address, phone number, and similar contact info, user names and passwords.
 
-### This Privacy Policy covers:
+**Payment Information.** Credit card number, banking information and billing address.
 
-  * The information we collect
-  * How we use your personal information 
-  * How we may share or disclose your personal information
-  * What cookies and web beacons are and how we and others use them
-  * What internet protocol addresses are
-  * Collection of information by third-party sites and sponsors
-  * How we secure and store your information
-  * Your rights if you are a California resident
-  * Use of our online forums and public services
-  * What choices do we give you, and how can you correct or review your personal information
-  * How to contact us
-  * How we may update our privacy policy
+**Demographic Information.** Employment status, occupation, region. On occasion, Tableau may collect other demographic information, such as gender, race and age. 
 
+**Registration Information.** Product registration information, product interest information, transaction information, and in some cases, student verification information. We may also collect registration information related to your attendance at Tableau events, including travel info, scheduling information, food preferences or allergies, accessibility requests and others.
 
+**Usage and Geographic Data.** Tableau collects personal information related to your use of our products, services and websites so that we can analyse and improve. Tableau may use aggregated, non-personally identifiable usage data for external training and marketing purposes. In some instances, Tableau may provide administrative functionality that allows you to opt out of the collection of some usage data. 
 
-##  The Information We Collect 
+Usage data may include information about your computer's or mobile device's operating system and browser type, device type, details about how you are using our products (but not including the underlying data), view your Internet Protocol (IP) address, geographic areas derived from your IP address, networking connection data, Tableau cookie information, file information, metadata, time stamped logs regarding access times and duration of visits, the websites you visited before coming to Tableau websites, and other usage data relating to your activities on our Sites, including the pages you request. We may link this information to the personal information you provide for purposes described in this Privacy Policy, and may provide targeted product information back to users based on their user data. 
 
-Tableau collects certain personal information when you register with Tableau, request information, or when you use Tableau products or services. In registering with Tableau or requesting information, you may provide us with a password, your real name, industry, organization name, job role, and contact information, such as e-mail address, phone number, and shipping address. We may also collect your product registration information, product interest information, transaction information, or demographic information. In addition, for certain licensees, Tableau may require additional information, such as student verification information. We may collect payment information such as your credit card number and billing address if you purchase or license products and services from us. If you connect with Tableau accounts on third party social networking sites, we may also collect information about your social networking accounts, for example, your name, user name or handle, public profile, and email address. We may also combine information you provide with data we collect automatically (as further described below) and with data we receive from third parties.
+**Third Party Data.** We may receive your personal information from third party suppliers or partners. If you connect with Tableau accounts on third party social networking sites, we may receive information about your social networking accounts, for example, your name, user name or display name, public profile, and email address. We may combine information you provide with data we collect automatically and with data we receive from third parties. Certain third parties, including analytics companies, advertisers and ad networks, may automatically collect information about you through our websites using cookies, Web beacons, and device identifiers, including personal information about your online activities over time and across different websites, devices, online channels and applications.
 
-Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your computer's or mobile device's operating system type and version, browser type and language, your Internet Protocol (IP) address, and geographic areas derived from your IP address, Tableau cookie information, file information, time stamped logs regarding access times and duration of visits, the websites you visited before coming to Tableau websites, and other usage data relating to your activities on our Sites, including the pages you request. We may relate this information to the PII you provide for purposes described in this Privacy Policy.
+**Images, Video and Recordings.** Pictures, videos or audio recordings may be collected by Tableau. For example, if you attend a Tableau event, your image may be captured in a photo or video. If you call Tableau customer support, your call may be recorded.
 
-When you use our mobile apps, we also automatically collect information about your device and about your usage of and activity on our mobile apps. For example, we collect your device’s mobile operating system type and version, browser type, device type, geolocation data, Wi-Fi networking connection data, Internet Protocol (IP) address, device identifiers, time stamped logs regarding access times and duration of visits, and other information.
+If you decline to provide your personal information or ask us to delete it, we may be unable to continue to provide or support our products or services.
 
-Certain third parties, including analytics companies, advertisers and ad networks, may also automatically collect information about you through our Sites, using cookies, Web beacons, and device identifiers, including personally identifiable information about your online activities over time and across different websites, devices, online channels and applications when you use our Sites.
+### Ways we Use Personal Information
 
-##  How We Use Your Personal Information 
+We use the personal information we collect for the purposes described in this Privacy Policy, as covered in any agreement that incorporates this Policy, or as disclosed to you in connection with our websites. For example, we will use your information to:
 
-We use PII collected through our Sites for purposes described in this Privacy Policy and as disclosed to you in connection with our Sites. For example, we may use your information to:
+• Provide and deliver products or services, including software updates;  
+• Operate and improve our operations, systems, products, and services;  
+• Understand you and your preferences to enhance your experience;  
+• Respond to your comments and questions and provide customer service;  
+• Send you service-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
+• Communicate with you and your referrals about promotions, upcoming events, and news about products and services offered by Tableau and our selected partners;  
+• Link or combine information about you with other personal information we get from third parties, to help understand your needs and provide you with better and more personalized service;  
+• Enforce our terms and conditions or protect our business, partners, or users; or  
+• Protect against, investigate, and deter fraudulent, unauthorized, or illegal activity
 
-  * Provide and deliver products or services you’ve requested, including software updates;
-  * Operate and improve our internal operations, systems, products, and services;
-  * Understand you and your preferences to enhance your experience;
-  * Respond to your comments and questions and provide customer service;
-  * Send you service-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-  * Communicate with you and your referrals about promotions, upcoming events, and news about products and services offered by Tableau and our selected partners;
-  * Link or combine information about you with other personal information we get from third parties, to help understand your needs and provide you with better and more personalized service; 
-  * Enforce our terms and conditions or protect our business, partners, or users; 
-  * Protect against, investigate, and deter fraudulent, unauthorized, or illegal activity.
+### Reasons for Using Your Information
 
+When we process your personal information we will only do so where at least one of the following applies: 
 
+• We need to use your personal information to perform our responsibilities under our contract with you and to provide you with tools and services;  
+• We have a legitimate reason to use your personal information. For example, it is in our legitimate interests to use your personal information to improve our products and services; to tell you about changes to this Privacy Policy and other policies; to tell you about new products, services and events or changes to our products, services or websites; for business reasons (for example to develop and expand our business); and to tell you about offers or promotions we are running;  
+• You have given consent to use your personal information. You may withdraw consent by "opting out" where we give you the opportunity to do so, or by contacting us using the contact details below.  
+• If it is necessary for us to use your personal information in order to comply with a legal obligation; or  
+• You have chosen to make the information public. You should not share any personal information which you wish to keep confidential or private. 
 
-##  How We May Share or Disclose Your Personal Information 
+### Sharing of Personal Information 
 
-Tableau does not rent, sell, or share PII about you with other people or nonaffiliated companies, except under the following circumstances:
+Tableau works to keep your personal information confidential and secure, and does not sell your personal data. In some circumstances Tableau may share your information with third parties, for example:
 
-  * When we have your permission including when you choose to share information using Tableau Public or post to our blogs.
-  * We may provide PII to trusted partners who work on behalf of or with Tableau to provide us with services. For example, these companies may use your PII to help Tableau communicate with you about offers from Tableau and our marketing partners. Tableau maintains contracts with these companies restricting their access, use and disclosure of personal data in compliance with this Policy and the Privacy Shield obligations, and Tableau may be liable if they fail to meet those obligations and we are responsible for the event giving rise to the damage.
-  * We may share some or all of your information with our current or future "affiliates" (which means a parent company, any subsidiaries, joint ventures, or other companies under common control), in which case we will require our affiliates to honor this Privacy Policy.
-  * We may disclose PII to comply with laws or in response to legal process, for example, in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, verify, prevent, enforce compliance with, or take action regarding: illegal or suspected illegal activities; suspected fraud; situations involving potential threats to the physical safety of any person; protection of the rights and property of Tableau, our agents, customers, or others; or violations or suspected violations of our agreements, policies, Terms of Service or End User License Agreements (EULA); or as otherwise required or permitted by law or consistent with legal requirements. We reserve the right to transfer or disclose PII in our system in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or other proceeding involving sale, transfer, divestiture or assignment of all or a portion of our business or assets to a different entity.
-  * Finally, we may also share aggregated, anonymized or statistical information about you, including demographics data, with others for a variety of purposes, including for their own uses, for example, for improving their products and services for Tableau and others.
+• We may share your personal information when we have your permission, including when you choose to share information using Tableau Public or post to our community websites;
 
+• We provide personal information to trusted partners who work on behalf of or with Tableau to provide us with services, for example, our training and certification partners, and our data storage and marketing vendors and software providers. These companies may use your personal information to perform services and to help Tableau communicate with you about offers from Tableau and our marketing partners. Tableau maintains contracts with these companies restricting their access, use and disclosure of personal information in compliance with this Privacy Policy and any legal obligations;
 
+• If you connect to your third party accounts through our products, we will use that information to authenticate you, enumerate the data sources available to you, download any data you request us to, and download and refresh authentication tokens or persist authentication information such as user names and passwords as necessary to continue to connect to these data;
 
-##  What Cookies and Web Beacons Are and How We and Others Use Them 
+• We may share your personal information with our current or future affiliates, which may include parent and subsidiary companies, joint ventures, or other companies under common control, in which case we will require our affiliates to honor this Privacy Policy;
 
-Our Site may use various software technologies including “cookies,” “web beacons” and “pixel tags.” “Cookies” are small text files that we and others may place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any PII. "Web beacons" or “Pixel tags” are small pieces of code placed on a web page or within the body of an email to monitor the behavior and collect data about the visitors viewing a web page or viewing or opening an email. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on our Site from time to time for this and advertising purposes.
+• We will disclose your personal information to comply with legal requirements, for example, in response to a court order or a subpoena. We also may disclose your personal information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, verify, prevent, enforce compliance with, or take action regarding illegal or suspected illegal activities; suspected fraud; situations involving potential threats to the physical safety of any person; protection of the rights and property of Tableau, our agents, customers, or others; violations or suspected violations of our agreements and policies; or as otherwise required or permitted by law or consistent with legal requirements; 
 
-From time to time, we partner with third parties who may place cookies on your browser when you visit our Sites, may send their own cookies to your cookie file, and may use those cookies to track and collect information about you and your online activities over time and across different websites, devices, and applications and to provide targeted advertising based on your interests and previous browsing history.
+• We transfer or disclose your personal information for corporate reasons. For example, to third parties in connection with or during negotiation of any merger, financing, acquisition, bankruptcy or similar transaction. We may also share personal information with our auditors, attorneys or other advisors in the connection with corporate functions; and
 
-Certain third party ad networks may automatically collect information about your visits to our Sites and other websites, such as your IP address, your Internet service provider, and the browser you use to visit our Sites. They do this using cookies, web beacons or other technologies. You can learn more about practices of many of these third parties by visiting the [Digital Advertising Alliance](http://www.aboutads.info/choices/) (<http://www.aboutads.info/choices/>) in the USA, [Digital Advertising Alliance of Canada](http://youradchoices.ca/) (<http://youradchoices.ca/>) in Canada or the [European Digital Advertising Alliance](http://www.youronlinechoices.eu/) (<http://www.youronlinechoices.eu/>) in Europe. This Privacy Policy does not apply to, and we are not responsible for, cookies or web beacons and other technologies in third party advertising. We encourage you to check the privacy policies of third party advertisers and/or ad services to learn about their use of cookies, web beacons and other technology. For more information about the cookies and related technologies used on our Sites, please refer to our [Cookie Policy](https://web.archive.org/web/20171229015200id_/https%3A//www.tableau.com/www.tableau.com/cookies "Tableau Cookie Ploicy") ([www.tableau.com/cookies/](https://www.tableau.com/cookies/)).
+• Finally, we also share aggregated, anonymized or statistical information about you, including demographics data, with others for a variety of purposes, for example, for improving products and services for Tableau and others.
 
-### What Internet Protocol Addresses Are
+We may facilitate third party services or ways to share data through third parties, including social media platforms, websites, applications, and services through “plug-ins,” widgets, buttons, and other third party features on and connected with our websites, communications or products. Third parties whose services you use in connection with Tableau, such as our training and certification partners, or third parties whose websites we link to, may have information practices that are different from ours. This Privacy Policy does not apply to the activities of third parties when they are collecting or using data for their own purpose or on behalf of others. We are not responsible for the activities of these third parties. We encourage you to review their privacy policies to understand how they use your information.
 
-An Internet protocol (“IP”) address is the unique number assigned to your server or Internet Service Provider (“ISP”). Tableau may track such IP addresses for system administration, to report aggregate information, site tracking, to prevent our servers from being abused and for other uses described in this Privacy Policy.
+### Storage and Security of Your Personal Information
 
-### Collection of Information by Third-Party Sites and Sponsors
+We have reasonable and appropriate physical, electronic, and managerial procedures in place to help safeguard your personal information. However, you should know that no company, including Tableau, can fully eliminate security risks associated with personal information. To help protect yourself, use a strong password, do not use the same passwords to access your Tableau accounts that you use with other accounts or services, and protect your user names and passwords to help prevent others from accessing your accounts and services. For more information about Tableau security practices, see <https://www.tableau.com/security>. 
 
-Our Site contains third party sites linked from our Site to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes and other activities that are promoted on our Site and visitors are directed away from our Site in order to participate in such activities.
+We offer you the ability to post information and exchange ideas through our websites and other services such as Tableau Public. Because your posts and information shared through Tableau Public are public and can be seen by others, we caution all users to consider what they post and not to disclose any personal information. Tableau will not be responsible in the event that you disclose personal information in your posts, through our public services or during any other communication with other website users.
 
-You may also connect to third party services to share your information on and through their social media platforms, websites, applications, and services through “plug-ins,” widgets, buttons, and other third party features on and connected with our Sites. 
+Information collected by Tableau or on our behalf may be stored on your computers, on your mobile devices, or on our servers, and may be transferred to, accessed from, or stored and processed in, the United States and other countries including but not limited to Ireland, the United Kingdom, France, Germany, Australia, Singapore, Japan, and China, and any other country where Tableau or its service providers maintain facilities or support centers (a list of Tableau offices can be found here: <https://www.tableau.com/about/contact>), including jurisdictions that may not have data privacy laws that provide protections equivalent to those provided in your home country. However, we will protect all personal information we obtain in accordance with this Privacy Policy and take reasonable steps to ensure that it is treated lawfully. 
 
-This Privacy Policy does not apply to the activities of these third parties when they are collecting or using data for their own purpose or on behalf of others. Please consult the respective privacy policies and statements of such third parties for more information.
+In certain circumstances we may retain your personal information after you have closed your account or are no longer actively engaged with Tableau. For example:
 
-##  How We Secure and Store Your Information 
+• We may retain your personal information after you have closed your account so that we can send you information about products, services and publications we think you may be interested in. You can "unsubscribe" to receiving such messages or tell us you are no longer interested;
 
-We have put in place reasonable and appropriate physical, electronic, and managerial procedures in an effort to help safeguard information we collect through our Sites. However, you should know that no company, including Tableau, can fully eliminate security risks associated with PII. To help protect yourself, please use a strong password, do not use the same passwords to access your Tableau accounts that you use with other accounts or services, and protect your user names and passwords to help prevent others from accessing your accounts and services.
+• We may retain your personal information in order to protect our legal rights, or those of third parties, or to comply with the law; and
 
-Tableau is a global company with affiliates, varied business processes, management structures and technical systems that cross borders. Information collected by Tableau or on our behalf may be stored on your computers, on your mobile devices, or on our servers, and may be transferred to, accessed from, or stored and processed in, the United States and other countries including but not limited to Ireland, England, France, Germany, Australia, Singapore, Japan, and China, and any other country where Tableau or its service providers maintain facilities or support centers (a list of Tableau offices can be found here: <https://www.tableau.com/about/contact>), including jurisdictions that may not have data privacy laws that provide protections equivalent to those provided in your home country. However, we will protect all personal information we obtain in accordance with this Privacy Policy and take reasonable steps to ensure that it is treated lawfully. PII we collect may be retained for as long as needed to fulfill legitimate business purposes, including the purposes outlined in this Privacy Policy, or for a period of time specifically required or allowed by applicable regulations or laws.
+• We may retain personal information about how you have used our products and services in order to improve and develop our business.
 
-PII we collect may be retained for as long as needed to fulfill legitimate business purposes, including the purposes outlined in this Privacy Policy, or for a period of time specifically required or allowed by applicable regulations or laws.
+• If you purchase products or services from us, we may retain your personal information for as long as we need to in order to provide you with customer service, or for compliance purposes, for example, in order to comply with our record keeping requirements.
 
-##  Use of Our Online Forums and Public Services 
+## Controlling your Personal Information
 
-We offer you the ability to post information and exchange ideas through our blogs and other online services such as Tableau Public. We may also offer ways to share through independent third party sites, plug-ins and online services. We are not responsible for the activities of these third parties. We encourage you to review their privacy policies to understand how they user your information. Because your posts and information shared through Tableau Public are public and can be seen by others, we caution all users to consider what they post and share online and not to disclose any PII as part of their posts, even if requested to do so by other posters. Tableau will not be responsible in the event that you disclose PII in your posts, through our public services or during any other communication with other site users.
+Our marketing emails permit you to "opt-out" of receiving further marketing emails. You may contact us at [customerservice@tableau.com](mailto:customerservice@tableau.com) at any time to let us know that you no longer wish to receive further marketing emails. If you opt-out, we may still send you transactional emails. Transactional emails include emails about your accounts and our business dealings with you, such as renewals and updates, and, as allowed by applicable law, requests for your participation in surveys. 
 
-##  What Choices Do We Give You and How Can You Correct or Review Your Personal Information 
+When you use our websites, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you choose to remove or reject cookies, this could affect certain features or services of our websites. For information about how to remove or manage cookies please read our cookie policy. 
 
-Our marketing emails tell you how to "opt-out" of receiving further marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you, and, as allowed by applicable law, requests for your participation in surveys. You may also contact us [customerservice@tableau.com](mailto:customerservice@tableau.com) at any time to let us know that you no longer wish to receive further marketing emails.
+You may have the right, depending on which country you reside in, to ask us to provide a copy of the personal information we hold about you (provided that we may ask you for proof of your identity). You may also have the right to ask us to correct any inaccuracies in your personal information or to ask us to delete it. We will consider these requests regardless of where you live.
 
-Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given adequate proof of identity). We also offer individuals the ability to have inaccuracies corrected within their contact information. You may also request deletion of your PII. We will honor requests as required by law and subject to our business and legal needs to retain your data. These information requests can be made by sending us an e-mail through the e-mail link provided above or writing to us at the above mailing address.
+In addition, if you are based in the EU and accessing our Sites, then you also have the right to ask us to:
 
-When you use our Sites, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you choose to remove cookies or reject cookies, this could affect certain features or services of our websites. Cookie management tools provided by your browser may not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/sett...](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) (or in the EU [YourOnlineChoices.com](http://youronlinechoices.com/)). You can also choose to opt-out of use of cookies by many of our third party advertising partners for delivery of personalized ads by visiting [the Digital Advertising Alliance](http://www.aboutads.info/choices/) (<http://www.aboutads.info/choices/>) in the USA, [Digital Advertising Alliance of Canada](http://youradchoices.ca/) (<http://youradchoices.ca/>) in Canada or the [European Digital Advertising Alliance](http://www.youronlinechoices.eu/) (<http://www.youronlinechoices.eu/>) in Europe. You can also choose to opt-out of tracking data for analytics by [Crazy Egg](http://www.crazyegg.com/opt-out) (<http://www.crazyegg.com/opt-out>) and for personalization by [Optimizely](https://www.optimizely.com/opt_out/) (<https://www.optimizely.com/opt_out/>). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices.
+• Confirm whether or not personal information about you is being processed;  
+• Provide you with details about how we process your personal information;  
+• Consider your valid objection to the processing of your personal information (including the right to object to processing on grounds relating to your particular situation where we are relying on our legitimate interests as a legal basis for processing your personal information);  
+• Update or delete personal information which we hold about you;  
+• Restrict the way we process your personal information;  
+• Consider your valid request to transfer your personal information to a third party provider of services (data portability); and  
+• Ask us to treat your consent as withdrawn if you have previously provided us with consent to process your personal information and we rely on it as our legal basis for processing.
 
-While we and others give you certain choices, as further outlined in this Policy, there are many ways that Web browser signals and similar mechanisms can indicate your choice to disable tracking, and we may not be aware of nor honor every mechanism.
+If you need help or wish to exercise any of the above rights or have questions about them, please contact us at [privacy@tableau.com](mailto:privacy@tableau.com). We will consider all such requests and provide our response as soon as we can. Please note, however, that personal information may be exempt from such requests in certain circumstances, which may include circumstances where we need to keep processing your personal information for our legitimate interests or to comply with a legal obligation. We may request you provide us with information necessary to confirm your identity. 
 
-##  Questions and Complaints 
+### Cookies and Web Beacons 
 
-If you believe Tableau maintains your personal data in one of the services within the scope of our Privacy Shield certification, you may direct any inquiries or complaints concerning our Privacy Shield compliance to [privacy@tableau.com](mailto:privacy@tableau.com). Tableau will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS, which provides an independent third-party dispute resolution body based in the United States, at <https://www.jamsadr.com/eu-us-privacy-shield>. JAMS has committed to respond to complaints and to provide appropriate recourse at no cost to you. If neither Tableau nor JAMS resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+Our websites may use various software technologies including “cookies,” “web beacons” and “pixel tags.” “Cookies” are small text files that we and others may place in visitors' computer browsers to store their preferences. "Web beacons" or “Pixel tags” are small pieces of code placed on a web page or within the body of an email to monitor the behavior and collect data about the visitors viewing a web page or viewing or opening an email. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on our websites from time to time for this and advertising purposes.
 
-If you have questions or suggestions, please email Tableau at [privacy@tableau.com](mailto:privacy@tableau.com). Written communication should be sent to Tableau Software, Inc., Attn: Tableau Legal, 1621 N 34th St., Seattle, Washington 98103 or The Oval, Shelbourne Road, Dublin 4, Ireland.
+We partner with third parties who may place cookies on your browser when you visit our websites, may send their own cookies to your cookie file, and may use those cookies to track and collect information about you and your online activities over time and across different websites, devices, and applications and to provide targeted advertising based on your interests and previous browsing history.
 
-##  How We May Update Our Privacy Policy 
+Third party ad networks may automatically collect information about your visits to our websites and other websites, such as your IP address, your Internet service provider, and the browser you use to visit our websites. They do this using cookies, web beacons or other technologies. You can learn more about practices of many of these third parties by visiting the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) in the USA, Digital Advertising Alliance of Canada (<http://youradchoices.ca/>) in Canada or the European Digital Advertising Alliance (<http://www.youronlinechoices.eu/>) in Europe. This Privacy Policy does not apply to, and we are not responsible for, cookies or web beacons and other technologies in third party advertising. We encourage you to check the privacy policies of third party advertisers and/or ad services to learn about their use of cookies, web beacons and other technology. For more information about the cookies and related technologies used on our websites, please refer to our Cookie Policy ([www.tableau.com/cookies/](https://www.tableau.com/cookies/)).
 
-From time to time, we may collect and use PII in ways not previously disclosed in our Privacy Policy. If our information practices change we will post any adjustments to our policy on this website and change the “Last Updated” date above. Unless additional notice or consent is required by applicable laws, this will serve as your notification of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
+### Privacy Shield and Data Transfer
+
+For the personal information of residents of the European Economic Area (EEA), Tableau adheres to the Privacy Shield Principles (as outlined here: <https://www.privacyshield.gov/welcome>) and is an active participant in the Privacy Shield framework. Our Privacy Shield certification covers the types of personal information set out in this Privacy Policy, and Tableau is subject to the investigative and enforcement powers of the Federal Trade Commission. 
+
+If we transfer your personal information to third parties outside the EEA will only do so where one of the following applies:
+
+• In the case of transfers of personal information to the US, if the recipient is a member of the Privacy Shield Framework;  
+• Where the transfer of personal information is to a corporate affiliate of Tableau, and we have in place binding corporate rules with such member which safeguard the personal information;  
+• Where we have in place standard model contractual clauses approved by the European Commission or other legally compliant terms; or  
+• There is an adequacy decision by the European Commission which means that the recipient country is deemed to provide adequate protection for such personal information.
+
+You may direct any inquiries or complaints concerning our Privacy Shield compliance to [privacy@tableau.com](mailto:privacy@tableau.com). You may also contact JAMS, at <https://www.jamsadr.com/eu-us-privacy-shield>. JAMS has committed to respond to complaints and to provide appropriate recourse at no cost to you. If neither Tableau nor JAMS resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel. You may also make a complaint to the relevant EU data privacy supervisory authority. 
+
+### How to contact us
+
+Tableau Software, Inc. is a member of a group of companies located in North America, the European Economic Area, Asia, and Australia. Click on this link for a complete, up-to-date list of our group companies who may process your personal information: [www.tableau.com/about/contact](https://www.tableau.com/about/contact).
+
+If you have any questions about how we use your personal information, or if you have any other privacy-related questions, please contact us at [privacy@tableau.com](mailto:privacy@tableau.com) or at Tableau Software, Inc., Attn: Tableau Legal, 1621 N 34th St., Seattle, Washington 98103 or The Oval, Shelbourne Road, Dublin 4, Ireland.
+
+#### Updates
+
+From time to time, we will update this Privacy Policy. In the event there are material changes to our information practices, we will note those changes on Tableau’s Privacy Policy webpage ([www.tableau.com/privacy](https://www.tableau.com/privacy)) and in some cases send a notification of changes via email.
