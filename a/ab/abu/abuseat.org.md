@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709163614id_/https%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626182350id_/https%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
 
-# The CBL
+# 
 
 The CBL is committed to respecting your online privacy, and recognizes your need for appropriate protection and management of any personally identifiable information (PII) you may share with us. 
 
-The CBL is a division of [Spamhaus](http://www.spamhaus.org/). 
+The CBL is a division of Spamhaus. 
 
 The CBL strives to comply with applicable laws around the globe. These laws can vary from country to country, but we fully intend to adhere to the principles set out below as a minimum, regardless of country whereever possible. 
 
@@ -24,25 +24,25 @@ Assistance to help remediate a listing is free, subject to availablity.
 
 Information that may be collected our site will not be used for any marketing purpose, and will not be sold or otherwise disclosed to any third party for marketing purposes. 
 
-## Cookies/Tracking/External Links/Logging
+## CBL Cookie policy
 
-The CBL web pages do not use cookies, Java, flash or other "fancy" features. The only use of javascript is to facilitate multi-lingual translation of some of our web pages, and to operate the captcha on the lookup page. If you choose to have Javascript turned off in your browser, the web pages should still function as normal, except that translation will not be available. 
+The abuseat.org website does not set/use cookies itself. The one cookie at present is the Cloudflare security cookie (_cfduid), see [ here](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) for more detail. 
+
+## Tracking/External Links/Logging
+
+The CBL web pages do not use Java, flash or other "fancy" features. The only use of javascript is to facilitate multi-lingual translation on our web pages, and to operate the captcha on the lookup page. If you choose to have Javascript turned off in your browser, the Captcha will not work, so, you won't be able to do IP address lookups. 
 
 The CBL does not use nor subscribe to any tracking or advertising methodologies. Except for the aforementioned translation facility, and explicit third party links, the CBL web pages are entirely stand-alone and perform no invisible/implicit redirects/links of any kind and do not implement any form of third party tracking/metrics. 
 
 The CBL web pages does have links to third party web pages for the purposes of assisting in the analysis and remediation of CBL listings. These web pages are not under our control, and their privacy policies should be consulted if you have concerns. 
 
-Web site access logging is the usual: originating IP address, timestamp, browser type, operating system and requested link. 
-
-If you register for a rsync transfer of the CBL zone, the originating IP address, current reverse DNS value, timestamp and file transferred are logged for each transfer. 
+Web site access logging is the usual: originating IP address, timestamp, browser type, operating system, referral link (if any) and requested link. 
 
 ## Data Collection
 
-The CBL web pages do not collect any personal information whatsoever, except for the rsync transfer registration page. You can use the CBL web pages without revealing any personal information about yourself, unless you voluntarily choose to sign up for rsync transfers. 
+The CBL web pages do not collect any personal information whatsoever. 
 
-Therefore, the only information collected via use of our web pages is the aforementioned basic web logging, plus the voluntary rsync registration. 
-
-Rsync zone transfer information collected includes what you enter in on the form: your name, organization, request source IP address, timestamp, and IP address that will be doing rsync transfers. 
+Therefore, the only information collected via use of our web pages is the aforementioned basic web logging. 
 
 ## Email, Other Documents
 
@@ -56,19 +56,15 @@ The CBL, as a course of implementing its primary function, retains a full audit 
 
 The database does not contain PII data other than what may be deemed PII in the above paragraph in various jurisdictions. 
 
-We do not believe that the CBL listing database contains any personally identifiable information, in a legal sense or otherwise, and no attempt to attribute an IP to an individual is ever made, except as you may volunteer yourself in email contact with us. Therefore, a listing of an IP address is not a privacy infringement. If some legal jurisdiction may disagree, protecting our users from malicious spam, fraud and malware is in the public interest and supersedes it. 
+We do not believe that the CBL listing database contains any personally identifiable information, in a legal sense or otherwise, and no attempt to attribute an IP to an individual is ever made, except as you may volunteer yourself in email contact with us. 
 
 If you believe a listing is a violation of privacy, correction is simple - find and remediate the infection causing the listing, and the issue goes away. Our mandate is to assist you doing so. 
-
-If you deliberately run a network of compromised computers running malware or other malicious software and believe our listings are harming your privacy or business, we'll be happy to delist on request. However, such requests must be accompanied by your real name, age, nationality, details of the criminal charges laid against you, which prison you currently reside in, and be notorized by competent legal jurisdiction. Such information will be verified by independent means. If you are not currently in prison, please let us know so we can rectify the situation. 
 
 The contents of the database are not made public, only divulged as we (and only we) deem necessary to assist someone contacting the CBL to resolve individual listings. As such, we will only reveal this information to the listee (person affected by listing) and those they may designate (such as their service provider[s]). 
 
 ## Use of Collected Data
 
-Data collected for rsync registration is used to determine your eligibility for a rsync download and facilitating the setup of rsync to permit your download, as well as contacting you if changes will be made to the rsync service. 
-
-All other data is used to facilitate the basic operation of the CBL, diagnose problems, assist in the resolution of a listing, capacity planning, and enhance your experience with the CBL web site. 
+All data is used to facilitate the basic operation of the CBL, diagnose problems, assist in the resolution of a listing, capacity planning, and enhance your experience with the CBL web site. 
 
 ## Data Retention Policies
 
@@ -84,8 +80,6 @@ The published CBL DNSBL zone contains only IP addresses of listings and no other
 
 ## Children under the age of 13
 
-We do not believe that Children's Online Privacy Protection Act of 1998 (COPPA) applies in our case, due to the fact that the CBL is non-commercial/non-profit, does not solicit PII for routine interactions, that any PII collected is for internal (rsync registration) use only and not for marketing or other similar purposes. It seems implausible that any child under the age of 13 years of age would ever be likely to interact with the CBL. 
+We do not believe that Children's Online Privacy Protection Act of 1998 (COPPA) applies in our case, due to the fact that the CBL is non-commercial/non-profit, and does not solicit or obtain PII for routine interactions. It seems implausible that any child under the age of 13 years of age would ever be likely to interact with the CBL. 
 
-That said, some young children with a technical/scientific inclination are doing some surprising things, and we don't want to discourage such learning. We will not knowingly accept rsync registrations or email from under 13 year olds, please have your parents contact us instead to provide permission. 
-
-The CBL and web pages are copyright © 2003-2016, all unauthorized copying is prohibited
+That said, some young children with a technical/scientific inclination are doing some surprising things, and we don't want to discourage such learning. We will not knowingly accept email from under 13 year olds, please have your parents contact us instead to provide permission. 
