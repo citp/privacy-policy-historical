@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214180807id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626092158id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
 
 # Policy | Advertising network TrafMag
 
@@ -63,3 +63,54 @@ Our site may contain links to other sites, which have no direct connection to us
 The privacy policy can be changed. If any changes are made, we will notify the users about it by placing the information on the main page of our site.
 
 In case you have any further questions, please, contact us through [Contact US Form](https://web.archive.org/#contacts).
+
+#### Cookies
+
+We use cookies to personalise content and ads and to analyse our traffic. We also can share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.
+
+[Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission. This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can refuse to save cookies on your device at any time. If you want to delete cookies, stored on the device, or configure your web browser to refuse to accept file cookies, you can do this in the settings section of your browser. Typically, navigation parameters associated with cookies can be found in the "Options", "Tools" or "Settings" sections of the web browser, which you use to access the sites. 
+
+Please note that changing your browser options, and rejecting the use of cookies and store on your device, You will be able to browse our site, however some options or functions may not work. 
+
+Your consent applies to the following domains: *.trafmag.com
+
+##### Necessary
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+Name | Purpose  
+---|---  
+vid | Preserves the visitor's session state across page requests.  
+agree | Stores the user's consent state of privacy policy and cookie use.  
+  
+##### Preferences
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+Name | Purpose  
+---|---  
+lang | Remembers the user's selected language of a website  
+  
+##### Statistics
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+Name | Purpose  
+---|---  
+viewposter | Shows us if the user viewed our advertisement.  
+_ga | Google Analytics cookie. Registers a unique ID that is used to generate statistical data on how the visitor uses the website.  
+__utma | Google Analytics cookie. Used to distinguish users and sessions. The cookie is updated every time data is sent to Google Analytics.  
+__utmb | Google Analytics cookie. Used to determine new sessions/visits. The cookie is updated every time data is sent to Google Analytics.  
+__utmc | Google Analytics cookie. Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
+__utmz | Google Analytics cookie. Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+__utmt | Google Analytics cookie. Used to throttle request rate.  
+  
+##### Marketing
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+Name | Purpose  
+---|---  
+trnmu* | Shows us which advertising banners have already been shown to the visitor. For displaying relevant advertising.
