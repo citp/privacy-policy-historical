@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206213325id_/https%3A//www.leesa.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626060231id_/https%3A//www.leesa.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Leesa
+# Privacy Policy
 
 Leesa Sleep LLC (the “Company”) has created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices for this Website (www.leesa.com). Please note that when you access any external links from the Company, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
 **WHAT PERSONAL INFORMATION DO WE GATHER FROM THOSE WHO VISIT OUR SITE?**
 
-When you visit our Website, you may provide us with two types of information: personal information you knowingly choose to disclose, and information that we automatically collect as you browse our Website.
+When you visit our Website, you may provide us with two types of information: personal information, including personally identifiable information, which you knowingly choose to disclose, and information that we automatically collect as you browse our Website.
 
 Information You Voluntarily Submit. We collect and store any information you enter on our Website, or provide to us in offline contacts we have with you. Information is collected from visitors to the Website in the following areas:
 
@@ -19,7 +19,7 @@ Information You Voluntarily Submit. We collect and store any information you ent
 
 
 
-Information Collected and Stored Automatically. When you browse our Website, you and your Web browser may also transmit information that we automatically collect. We do log your IP address (the Internet address of your computer), the Web pages you visit and the time of your visit, and other click-stream data. This information may be combined with other personal information you have provided. The only other type of information automatically provided to us is the type of computer, operating system and browser you are using. This information is provided by your browser, which we use to improve the performance of our site.
+Information Collected and Stored Automatically. When you browse our Website, you and your Web browser may also transmit information that we automatically collect. We do log your IP address (the Internet address of your computer), the Website pages you visit and the time of your visit, and other click-stream data. This information may be combined with other personal information you have provided. The only other type of information automatically provided to us is the type of computer, operating system and browser you are using. This information is provided by your browser, which we use to improve the performance of our site.
 
 We may also place small data files, called "cookies," in the browser file of your computer's hard drive. These cookies automatically identify your browser to our server whenever you interact with the Website. We use the cookies to record Website statistics. Most browsers automatically accept the cookies, but you usually can change your browser setting to prevent the acceptance of cookies. Certain Web pages may not function properly if you choose not to accept cookies.
 
@@ -40,17 +40,17 @@ Provide you with e-mail messages and other information regarding upcoming events
 
 **DISCLOSING YOUR PERSONAL INFORMATION TO OTHERS**
 
-Except in the limited circumstances stated in this paragraph, we do not sell, rent, license, trade or otherwise disclose the personal information of our Website visitors to unaffiliated third parties. We may disclose your information to service providers who assist us in operating the Website or conducting our business. We may also share such information among our subsidiaries and affiliates as necessary to provide you with the information and services you request or in which you may otherwise be interested. We may disclose information about you if and when we believe it is necessary to comply with any law, rule, court order, or subpoena, or to enforce our legal rights or the rules of this Website, or to protect our business, property and operations, or in connection with a sale, acquisition, merger or other business combination of our business with a third party. We may also disclose nonpersonally identifiable visitor information to other parties for marketing, advertising or other uses.
+Except in the limited circumstances stated in this paragraph, we do not sell, rent, license, trade or otherwise disclose the personal information of our Website visitors to unaffiliated third parties. We may disclose your information to third party service providers who assist us in operating the Website, in presenting or marketing our goods and services to you, or in conducting our business. We may also share such information among our subsidiaries and affiliates as necessary to provide you with the information and services you request or in which you may otherwise be interested. We may disclose information about you if and when we believe it is necessary to comply with any law, rule, court order, or subpoena, or to enforce our legal rights or the rules of this Website, or to protect our business, property and operations, or in connection with a sale, acquisition, merger or other business combination of our business with a third party. We may also disclose nonpersonally identifiable visitor information to other parties for marketing, advertising or other uses.
 
-Some areas of the Website allow you to conduct e-commerce transactions (orders, purchases, etc.). In connection with these transactions, we collect data necessary to complete the transaction that is furnished by you. This information may be furnished to a third party in order to facilitate the transaction.
+Some areas of the Website allow you to conduct e-commerce transactions (orders, purchases, etc.). In connection with these transactions, we collect information furnished by you that is necessary to complete the transaction. This information may be furnished to a third party in order to facilitate the transaction.
 
 **LINKS TO OTHER SITES**
 
-We may create links to other Websites that we think may be of interest to you. We do not endorse any other Websites, and our privacy policy applies only to your use of our Website. We have not reviewed the privacy policies of any Websites we link to our Website, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.
+We may create links to other websites that we think may be of interest to you. We do not endorse any other websites, and our privacy policy applies only to your use of our Website. We have not reviewed the privacy policies of any websites we link to on our Website, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.
 
 **SECURITY**
 
-Since we are committed to your privacy and security, we have put in place physical, electronic, and managerial procedures to attempt to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. However, please remember that no transmission of data over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us or from us, and you do so at your own risk. When you place an order or access your personal information, we offer the use of a secure server. Once we receive your transmission, we use our best efforts to ensure its security on our systems.
+Since we are committed to your privacy and security, we have put in place reasonable physical, electronic, and managerial procedures to attempt to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. However, please remember that no transmission of data over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us or from us, and you do so at your own risk. When you place an order or access your personal information, we offer the use of a secure server. Once we receive your transmission, we use our best efforts to ensure its security on our systems.
 
 **CHANGES IN COMPANY'S PRIVACY POLICY**
 
@@ -65,7 +65,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
   3. You can send mail to the following postal address:
 
 Leesa Sleep LLC  
-3704 Pacific Ave., STE 200  
+3200 Pacific Ave., STE 200  
 Virginia Beach, VA 23451
 
 
