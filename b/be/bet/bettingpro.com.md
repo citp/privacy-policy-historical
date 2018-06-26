@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830051546id_/https%3A//www.bettingpro.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161610id_/https%3A//www.bettingpro.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,8 +82,6 @@ It is our policy to provide notifications, whether such notifications are requir
  **Changes to Our Privacy Policy**
 
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at the email address below or send mail to:
-
-privacy@bettingpro.com
 
 Bettingpro.com
 
