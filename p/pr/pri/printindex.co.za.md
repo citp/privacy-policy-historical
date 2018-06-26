@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printindex.co.za privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224114319id_/https%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printindex.co.za privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626120857id_/https%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
 
 # Legal Policies | Search SA
 
@@ -16,7 +16,7 @@ Last updated: 01 September 2014
 
 Your privacy is of utmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Our Privacy Policy is available on all the pages of Search SA | <https://searchsa.co.za/>
 
-Please read the following carefully. If you have any questions or concerns, please send us an e-mail, for attention The Search Master, at this [email](https://web.archive.org/cdn-cgi/l/email-protection#375f525b477744525645545f4456195458194d56084442555d5254430a66425244435e5859441205074552505645535e5950120507435f5212050767455e4156544e12050767585b5e544e120507585112050764525645545f1205076476)
+Please read the following carefully. If you have any questions or concerns, please send us an e-mail, for attention The Search Master, at this [email](https://web.archive.org/cdn-cgi/l/email-protection#fb939e978bbb889e9a899893889ad59894d5819ac4888e99919e988fc6aa8e9e888f92949588dec9cb899e9c9a899f92959cdec9cb8f939edec9cbab89928d9a9882dec9cbab9497929882dec9cb949ddec9cba89e9a899893dec9cba8ba)
 
 ## **How Search SA Gather and Use Information**
 
@@ -200,7 +200,7 @@ N1 City
 
 7463
 
-[E-Mail](https://web.archive.org/cdn-cgi/l/email-protection#e38b868f93a390868291808b9082cd808ccd9982dcb0968189868097deaf8684828fc3b38c8f8a808a8690c38c8dc3b0868291808bc3b0a2 "E-mail") Search SA
+[E-Mail](https://web.archive.org/cdn-cgi/l/email-protection#274f424b576754424655444f5446094448095d46187452454d4244531a6b4240464b0777484b4e444e42540748490774424655444f077466 "E-mail") Search SA
 
 For international users, we are committed to working with you to obtain a fair resolution of any privacy concern.
 
