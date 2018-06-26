@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustle.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027072900id_/https%3A//www.bustle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustle.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626171329id_/https%3A//www.bustle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -141,5 +141,7 @@ If you have any questions or concerns regarding privacy using the Services, plea
 ## How to Opt-Out of third party data targeting
 
 If you prefer not to receive interest-based content and ads enabled by Quantcast, you can opt-out by clicking on the “Opt Out” link at either Network Advertising Initiative (NAI) (<http://optout.networkadvertising.org/#/>) or Digital Advertising Alliance’s (DAA) (<http://optout.aboutads.info/#/>) . Quantcast is a member of the Network Advertising Initiative (NAI) and participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Each of these programs provides an opt-out feature where consumers can choose not to receive targeted advertising from any NAI or DAA affiliate. These links will take you to the NAI opt out (<http://www.networkadvertising.org/managing/opt_out.asp>) and the DAA opt out (<http://www.aboutads.info/choices/>) . If you are located in the European Union, you may prefer to use the EDAA opt out (<http://www.youronlinechoices.eu/>) . After you opt-out, Quantcast will place a cookie on your browser that identifies you as having opted out. Then you will not receive interest-based content or advertisements enabled by Quantcast and Quantcast will not log your pattern of website visits or other online media consumption. Because the opt-out is cookie-based, your browser must be set to accept third party cookies. If you use multiple devices or browsers, you’ll have to opt out on each. If you delete the cookie, you will need to opt-out again.
+
+"Bustle is a registered Trustworthy Accountability Group (TAG) program participant with sourcing **[disclosure](https://www.bustle.com/p/tag-publisher-sourcing-disclosure-requirement-3200799) **information available."
 
  **Effective Date:** 6/11/2013
