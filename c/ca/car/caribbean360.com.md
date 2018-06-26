@@ -1,71 +1,243 @@
-> *The following text is extracted and transformed from the caribbean360.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215050809id_/http%3A//www.caribbean360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbean360.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626065650id_/http%3A//www.caribbean360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Caribbean360
 
-At the same time that Insite Inc. and caribbean360.com are committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by caribbean360.com online, as specified below, and does not govern or apply to information collected or used by Insite Inc. or its affiliates through other means.  
-**  
-What personally identifiable information do I provide to caribbean360.com?**
+Effective date: May 25, 2018
 
-caribbean360.com asks you to provide various types of personally identifiable information to enhance your experience on our site. During registration, caribbean360.com asks for information such as your name, e-mail address, year of birth, gender, post code, country, Job Title, Primary Responsibility, Job Industry and Company Size. The more information you provide, the better we are able to customize your experience. We may also ask you for other information at other times – such as when you enter a contest or participate in a promotion, when you post an online ad, when you participate in our message boards, or when you order products from us. Whenever you provide personally identifiable information to us, we will make an effort to link to our privacy policy. See below about “cookies” and what other information is collected.
+Insite Inc (“us”, “we”, or “our”) operates the http://www.caribbean360.com website (the “Service”).
 
-**How does caribbean360.com use my personally identifiable information?  **
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Our primary goal in collecting personally identifiable information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you.  
-caribbean360.com uses the personally identifiable information you provide to us in several ways. Some examples follow.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.caribbean360.com
 
-A user’s personally identifiable information may be used by caribbean360.com for editorial purposes such as to contact you as part of an online survey. Additionally, we may also use the information provided by you to: 1) contact you with legal notices, 2) to advise you of any material changes or additions to our Service or terms and conditions, and 3) account status (including confirmation of registrations). If you do not wish to receive the foregoing and therefore unregister from the site, please contact Customer Care and ask to have your registration account deleted. Once your account has been deleted, you will no longer have access to caribbean360.com, however, you may reregister at any time.
+## Definitions
 
-Finally, we reserve the right to send you offers and information about Insite Inc. and its affiliates. However, if you no longer wish to receive the foregoing, please contact Customer Care to request removal from this list.
+**Service**
 
-Further, if you told us in your account preferences that you would be interested in receiving e-mail from us, we may send you e-mails about caribbean360.com products, promotions, or services as well as on behalf of other companies. However, if you no longer wish to receive any of the foregoing, you may change your preferences for the future by contacting us via [email](mailto:info@caribbean360.com).
+Service is the http://www.caribbean360.com website operated by Insite Inc
 
-In order to provide services free of charge, we display advertisements. caribbean360.com delivers targeted advertisements on behalf of advertisers. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, females over 25 years old). We take the advertisement and display it to users meeting that criteria. In this process, the advertiser never has access to individual account information. You will only receive special offers via e-mail from caribbean360.com consistent with your stated preferences. You can change your preferences at any time.
+**Personal Data**
 
-caribbean360.com also does research on our users’ demographics, interests and behavior based on the information you provide to us including upon registration, on order forms, during a promotion, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and caribbean360.com may share this aggregated data with advertisers or other businesses. In addition, under confidentiality agreements, caribbean360.com may match user information with third party data.  
-**  
-Do other companies or people have access to personally identifiable information I provide to caribbean360.com?  **
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-When you are on an area of caribbean360.com and are asked for personally identifiable information, you are providing that information to Insite Inc., its divisions or affiliates, or vendors providing contractual services for caribbean360.com (such as hosting vendors and list managers). If personally identifiable information is being provided to and/or maintained by any company other than these, our policy is that we will not transfer that personally identifiable information unless notice is given prior to transfer. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular service or by expressing this preference, if requested. Additional information about personally identifiable information follows.
+**Usage Data**
 
-**Promotions:  **
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-Promotions that run on caribbean360.com may be sponsored by companies other than caribbean360.com or may be co-sponsored by caribbean360.com and another company. Some or all personally identifiable information provided by you during a promotion may be shared with the sponsor. If information will be shared, we will disclose such sharing prior to the transfer. You can decide not to participate in the promotion if you don’t want your personally identifiable information to be shared. In certain circumstances, you may not be able to participate in a particular promotion if you chose not to share personally identifiable information. Currently, most caribbean360.com promotions are limited to U.S. or North American residents.
+**Cookies**
 
-**Advertisers and Links:  **
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-caribbean360.com advertisers, or Web sites that have links on our site, may also collect personally identifiable information directly from you. The information practices of companies collecting data on our site or Web sites linked to caribbean360.com are not covered by this privacy statement.  
-Marketplace: If you make a purchase or request a service from a business in Marketplace, the information you provide for that transaction (as well as tracking information and cookies as described below) is provided directly to the Marketplace business. Businesses listed in caribbean360.com Marketplace have separate privacy and data collection practices. caribbean360.com has no responsibility or liability for these independent policies. For more information regarding the business and its privacy policy, go to that business’ home page and click on the appropriate link.
+**Data Controller**
 
-**Other:  **
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-If we run competitions or contests on the site, you may be required to provide additional information such as your telephone number and address in order to participate. The exact rules may vary in each case but the specific rules for any contest will state how that information may be used. If you told us in your account preferences that you would be interested in receiving e-mail from us, we may send you e-mails about caribbean360.com products, promotions, or services as well as on behalf of other companies. You can change your account preferences at any time. In addition, in each advertising email you will be provided an ability to opt-out of receiving future emails from the advertiser.
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-We do not control the privacy policies of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies.
+**Data Processors (or Service Providers)**
 
-caribbean360.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-Except as stated in this privacy policy or at the time of collection, a user’s personally identifiable information will not be transferred to a party outside Insite Inc., its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. caribbean360.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our User Agreement or may be causing injury to or interference with (either intentionally or unintentionally) caribbean360.com’s rights or property, other caribbean360.com users, or anyone else that could be harmed by such activities.
+We may use the services of various Service Providers in order to process your data more effectively.
 
-**Data Security:  **
+**Data Subject (or User)**
 
-We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.  
-What information do web servers collect?
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
-Web servers serving caribbean360.com automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., earthlink.net) of visitors. This information is used for various purposes including internal review, to tailor information to individual visitors, and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers.
+## Information Collection and Use
 
-**What are cookies and how does caribbean360.com use them?**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-caribbean360.com places a “cookie” on the browser of a caribbean360.com user’s computer to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site; we may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don’t see the same ad too many times in a single session and that you do not have to reenter your login name or password during your visit. We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt-out of the cookies delivered by caribbean360.com by changing the setting on your browser. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by caribbean360.com.  
-How Can I Opt-Out of Online Advertising Cookies?
+### Types of Data Collected
 
-Online advertising for caribbean360.com is delivered by the vendor DoubleClick. This vendor, like other advertising service vendors, places cookies on users’ hard drives so that its systems can identify your computer. By placing such cookies on your system, DoubleClick is able, among other things, to determine automatically whether you have seen a particular advertisement before and avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. DoubleClick allows visitors the option to opt-out of advertising cookies. If you do not want the benefits of advertising cookies, there is a simple procedure that allows you to deny or accept this feature. For more information about DoubleClick’s use of cookies, and to “opt-out” of the cookies, visit http://www.privacychoices.org.
+#### Personal Data
 
-Please note that opting out through the above procedure will affect not only Caribbean360.com sites, but other sites served by DoubleClick as well. However, it will not affect the cookies used by caribbean360.com.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-Often our advertisers contract with a third-party service to host their ads. In this case, an ad serving vendor contacts the advertisers’ hosting service for a particular advertisement. In that case, an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt-out of cookies from vendors with whom we do not have a contractual relationship.
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
-Kids under 13: Do not send any information about yourself to us – including information like your name, address or e-mail address. In general, we do not knowingly collect personally identifiable information from children under 13. If, in limited circumstances, we do knowingly collect personally identifiable information from a child under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
-Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
 
-© Copyright 2014
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Insite Inc uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Insite Inc legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Insite Inc may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Insite Inc will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Insite Inc will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Barbados and choose to provide information to us, please note that we transfer the data, including Personal Data, to Barbados and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Insite Inc will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Insite Inc may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Insite Inc may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Insite Inc
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Insite Inc aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+**The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+**The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+**The right to object.** You have the right to object to our processing of your Personal Data.
+
+**The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+**The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where Insite Inc relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+**Google AdSense DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+**2Checkout**
+
+Their Privacy Policy can be viewed at <https://www.2checkout.com/policies/privacy-policy>
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [info@caribbean360.com](mailto:info@caribbean360.com)
+
+
