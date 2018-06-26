@@ -1,61 +1,79 @@
-> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111131807id_/https%3A//www.philipbrownemenswear.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626134954id_/https%3A//www.philipbrownemenswear.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Privacy | Philip Browne Menswear
+# Privacy & Cookies | Philip Browne Menswear
 
-Philip Browne is committed to protecting your privacy and we consider the security of your personal details to be of the highest importance.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.philipbrownemenswear.co.uk (the “Site”).
 
-Here we outline the type of personal data which we collect and for what purposes it is used.
+**PERSONAL INFORMATION WE COLLECT**
 
-Philip Browne may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May 2010.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-INFORMATION WE COLLECT
+We collect Device Information using the following technologies:
 
-When you buy from us online, or subscribe to our newsletter, you will be required to fill out a form which asks for the following type of personal information:
-
-  * Name
-  * Email Address
-  * Telephone Number
-  * Billing Address
-  * Delivery Address (if different)
+  * \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * \- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
 
 
-The information you provide is held as strictly private and confidential. This data is stored by us and used specifically to complete your order and send news and information about new stock and offers from philipbrownemenswear.com only. You can opt out of our newsletters by replying "stop" at any time. We do not share this information with outside parties except to the extent necessary to complete your order (ie your address may be shared with a reputable courier service such as Royal Mail, UPS or DHL for delivery purposes).
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information”.
 
-In accordance with the Data Protection Act 1998, we do not disclose your details to any third party for advertising or marketing purposes without your express written consent.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-When you place orders through this site we automatically send you to a secure server. In addition, we prevent any unauthorized access to the information through strict security procedures regarding its storage and disclosure.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-None of your Credit/Debit card information is stored. We use Paypal, a third party payment processor, to handle this pocedure securely.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-SECURITY
+  * \- Communicate with you;
+  * \- Screen our orders for potential risk or fraud; and
+  * \- When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-HOW WE USE COOKIES
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+**SHARING YOUR PERSONAL INFORMATION**
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-LINKS TO THER WEBSITE
+**BEHAVIOURAL ADVERTISING**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-CONTACT
+You can opt out of targeted advertising by using the links below:
 
-At any time, you can remove or amend your information by contacting us at:
+  * \- Facebook: https://www.facebook.com/settings/?tab=ads
+  * \- Google: https://www.google.com/settings/ads/anonymous
+  * \- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-Customer Services  
-Philip Browne Menswear   
-3 Guildhall Hill   
-Norwich   
-NR2 1JH   
-UNITED KINGDOM
 
-T: +44 (0) 1603 664886   
-e: [customerservices@philipbrownemenswear.co.uk](https://web.archive.org/web/20170111131807id_/https%3A//www.philipbrownemenswear.co.uk/pages/customerservices@philipbrownemenswear.co.uk "customerservices@philipbrownemenswear.co.uk")
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+**DO NOT TRACK**
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**YOUR RIGHTS**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**DATA RETENTION**
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+**CHANGES**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at admin@philipbrownemenswear.co.uk or by mail using the details provided below:
+
+Philip Browne Menswear  
+[Re: Privacy Compliance Officer]  
+3 Guildhall Hill Norwich GB NR2 1JH
