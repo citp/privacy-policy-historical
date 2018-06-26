@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219002935id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626040047id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
 
-# AMZ - Android Mobile Games, Android Mobile Apps,Apk,Ringtones-AndroidMobileZone.com
+# Download Android Modded Game, Mod APK, Apps for Android User - AndroidMobileZone.com
 
   1. [Home](http://www.androidmobilezone.com/)
   2. Privacy Policy
