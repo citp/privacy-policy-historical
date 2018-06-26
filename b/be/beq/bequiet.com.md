@@ -1,51 +1,86 @@
-> *The following text is extracted and transformed from the bequiet.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316021725id_/http%3A//www.bequiet.com/privacyanduse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bequiet.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626221657id_/https%3A//www.bequiet.com/en/privacy) for the most accurate reproduction.*
 
-# ChristWebs.com
+# Privacy policy from be quiet!
 
-**ChristWebs.com Privacy Statement and Terms of Use**
+Listan GmbH & Co. KG is pleased you decided to visit the website of our be quiet! brand. Data protection and security while you visit our website is a key concern for us. We are committed to protect your privacy and treat your data confidentially.We would like to explain at this point which personal information of yours that we collect during your visit to our website and for what purposes we use this data.As changes to the applicable legislation or our internal processes maymake amendments necessary to our privacy policy, we ask you to read through this statement of privacy policyregularly.
 
-**Privacy**
+  
+**I. What is personal information?**
 
-ChristWebs.com respects your privacy and is committed to protecting the personal information that you furnish. In general, you can visit ChristWebs.com on the Internet without identifying yourself or providing personal information. There are times when ChristWebs.com may need personal information from you and this Privacy Statement describes the information ChristWebs.com collects from you and how we may use it.
+Personal information means any data related to personal or material circumstances of a specific or identifiable natural person (data subject). Information with which we are unable to draw a reference to your person is not classified as personal information.
 
-Personal Information means any information that may be used to identify an individual. Personal information includes first and last name, email address, mailing address, phone numbers and credit card data 
+  
+**II. What data do we collect and process?**
 
-When you browse our web site you do so anonymously. All information collected will only be used for ChristWebs.com business purposes, such as, to respond to requests and services, to process an property listing or send direct marketing information. 
+It is possible for you to visit our website without the need to reveal your identity.However, if you send us a request using our contact form, we will ask you for the necessary contact information (your name and email address). The same applies if you take part in any of our competitions, for which we will also request your contact information.
 
-ChristWebs.com assumes that you have given permission to collect and use your the above information in accordance with your acceptance of the Terms of Use, of which this Privacy Statement is a part. 
+  
+**III. For what purposes do we use your data?**
 
-The ChristWebs.com web site uses cookies. A cookie is a small data file that is placed on your ChristWebs.com drive when you visit certain web pages. It is used to identify yourself to a web site when you visit it, to load your preferences and to track the pages you've visited. No personal identity information or financial data is ever held in such a cookie. 
+We use your personal information solely to offer you a comprehensive service using the website and to comply with your contact requests or issues.
 
-You have the choice of whether or not to accept cookies by means of your browser settings, although you may not be able to use certain features and functionalities of the ChristWebs.com web site if you do disable them.
+**1\. Log files                                **
 
-If you no longer wish to be a member of ChristWebs.com and would like that information deleted from our records, please contact us. We shall endeavor to delete that information from our files.
+For each page of our website you view, access datais stored in alog file, theserver log. The data stored contains the following information:
 
-ChristWebs.com will not share your personal information with its business partners.
-
-In the event that ChristWebs.com sells a part or parts of its business, the identifiable information that ChristWebs.com has collected could be transferred to the acquiring company unless you instruct ChristWebs.com not to do so in writing.
-
-The security of your identifiable information is of the utmost importance to ChristWebs.com We use industry standard technologies such as token-based authentication, PKI, VPN, SSL, and other security technologies to protect your information.
-
-ChristWebs.com advises you to protect yourself against unauthorized access to your computer and disclosure of your ChristWebs.com password. If you believe that your password has been compromised, you should immediately change your password.
-
-During your online ChristWebs.com experience, you may encounter links to the sites of ChristWebs.com’s business partners who might include standards bodies, customers, channel customers, or suppliers. Though a connection might be made to a ChristWebs.com business partner site, ChristWebs.com is not responsible for the privacy practices of other businesses.
-
-ChristWebs.com strives to comply with all applicable laws in the United States and Texas that are designed to protect your privacy. ChristWebs.com intends to adhere to the principles set forth in this Privacy Statement even if, in conjunction with the above, we transfer your information from your country of residence to countries that may not require the same level of protection for your information. Our goal is to protect your information no matter where that information is collected, transported, or retained.
-
-If you have any questions about the ChristWebs.com Privacy Statement please contact us..
-
-  * The ChristWebs.com Privacy Statement was last updated on October 10th, 2006. 
-  * ChristWebs.com reserves the right to change this Privacy Statement at any time. Modifications to this Privacy Statement can be made without prior notification. 
-  * Continued use of the ChristWebs.com Web sites signifies your acceptance of any changes to the Privacy Statement. 
+  * your IP address (by which your computer is identified) 
+  * your internet service provider (Remote Host) 
+  * date and time, request status, amount of data transferred, internet page linking to the page requested (Referrer) 
+  * name and version of yourweb browser (User Agent)
 
 
 
-**Terms of Use**
+We will only inspectthe server log in cases of improper use of our web pages.We reserve the right to retrospectively check the logging information of users when a reasonable suspicion exists that their use of our websitewas unlawful or in violation of contract.
 
-These Terms and Conditions apply only to our Site ChristWebs.com and not to the web sites of any other companies, organizations or individuals You acknowledge that the information available through this Site are protected by United States Copyright Law. You shall not reproduce any such information. You agree to comply with any additional use restrictions which may be announced by ChristWebs.com at any time regarding specific information provided through this Site. All content on ChristWebs.com is protected by US copyright. 
+**2\. Statistical evaluation**
 
-You may access the ChristWebs.com Site and the information provided but you may not reproduce any content without permission. You use this Site at your own risk. Your use of the data provided here is also to be used at your own risk. ChristWebs.com makes no promise as to the accuracy, completeness, authenticity, or reliability of any information available through the Site. 
+We do not identify persons from the data we collect, but reserve the right toanalyze the datathat we collect in an aggregated or non-identifiable form. The data is made anonymous and only used for statistical purposes to help us improve the website.Purely general information results, such as which web pages link to be quiet!andwhich of ourweb pages are most visited.Your privacy is preserved, because no identity can be traced this way.
 
-We are committed to protecting your privacy and security and have explained in detail what we do. We urge you to read our Privacy Policy. 
+**3\. Cookies**
 
-We operate and control our Site from our offices in Houston, Texas in the United States of America. We do not represent that materials on this site are appropriate or available for use in other locations. Persons who access this Site from other locations do so on their own initiative and are responsible for compliance with laws of Houston, Texas, and to the extent any local laws are applicable.
+Our website makes use of what are known as “cookies” which are small text files saved by your browser. These serve to record the frequency of use and the numbers of visitors to our website as well as allowing us to present information during your visit conveniently.It is also possible to visit our website without cookies. Most browsers are configured so that they accept cookies by default. If you wish to prevent our cookies from being saved on your computer, then please amend the settings in your browser to disable cookies specifically for our website or disable the saving of cookies in general.
+
+  
+**IV. Google Analytics**
+
+The be quiet! website uses Google Analytics. Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google Analytics uses “cookies” which are small text files placed on your computer to help us analyze how users are usingour website. The information generated by a cookie about your use of the website (including your IP address) will normally be transmitted to and stored by Google on servers in USA. The be quiet!websitefirst performs an IP anonymization (“anonymizeIP”) that abbreviates any IP address from within the European Union or other signatory states in the European economic zone (known as IP masking). Only in exceptional cases will your full IP address be sent to a Google server and there abbreviated before being processed. Google will use this information on our behalf for purely statistical purposes of evaluating your use of our website and to provideus with other services related to website activity and internet usage. Google will not associate the IP address transferred by your browser within the scope of Google Analytics with any other data held by Google.
+
+You may refuse the use of cookies by Google Analytics by selecting the appropriate settings in your browser and/or you can restrict the use of Google Analyticsby installing a browser plugin from the selection offered by following this link (<http://tools.google.com/dlpage/gaoptout?hl=en>).
+
+You will find further details at <https://support.google.com/analytics/answer/6004245?hl=en> (general information on Google Analytics and privacy by Google).
+
+  
+**V. Live chat by Userlike**
+
+In cooperation with Userlike we offer you a chat line which enables you to ask us questions directly. Upon starting the live chat Userlike quickly checks your IP in order to determine the country you're contacting us from, helping us tailoring our customer service specifically to your requirements. Your IP address is used for this one purpose only and will not be saved by Userlike.
+
+What will be saved is the chat log. This will spare you possibly extensive explanations to your service history and helps us increase the quality of our live chat. Please let us know if you do not want your chat log to be saved. We will delete it immediately then.
+
+**VI. Will your information be given to third parties?**
+
+As a matter of principle we do not share your personal information with third parties. In certain cases we may be obliged to pass your personal information to law enforcement authorities, inaccordance with statutory requirements. This may be the case, for example, when there is suspicion of a criminal act or misuse of our website.
+
+**VII. Links to associated websites**
+
+Our website contains links to the websites of other services, such as Facebook and YouTube.When you follow such a link you will be forwarded to an external website. You can also see this by the change in URL. The videos embedded in our pages are provided by YouTube. Please consult the privacy policy for the respective serviceto check how your personal information is handled.
+
+https://www.google.com/intl/en/policies/privacy/  
+<https://www.facebook.com/privacy/explanation>
+
+**VIII. Data security**
+
+As part of the technical administration of the website we take technical and organizational steps to protect against willful or accidental manipulation, access by unauthorized persons, loss, destruction or modification (e.g. SSLconnection for the contact form). Wewarn you emphatically that security loopholes exist in data transfers over the internet (e.g. email communications) that cannot be completely protected against access by third parties.
+
+  
+**IX. Data subject requests / dataprotection officer**
+
+If you request it, we are pleased to inform you at any time on whether and what kind of information about you we have stored.If despite our efforts to store only accurate data, we have incorrect information about your person, then we will promptly correct thison your request. If you want us to erase your information, we will do so on request, providing deletion is legally possible.
+
+In such cases and for further questions about privacy please contact our data protection officer:
+
+Dr. Volker Wodianka, LL.M.  
+Certified Data Protection Officer (CIPP/E, CIPM, GDD cert.)  
+c/o SCHLUTIUS Data Privacy & Compliance GmbH  
+Ferdinandstraße 3  
+D-20095 Hamburg  
+Email: v.wodianka@schlutius-privacy.de
