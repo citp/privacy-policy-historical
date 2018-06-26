@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023093510id_/https%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626122157id_/https%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
 
-# Cookies and Privacy – Oi Polloi
+# Data, Cookies and Privacy – Oi Polloi
+
+### Data, Cookies and Privacy
+
+Here we have a full explanation of how Oi Polloi handles your privacy and data, including a full list of other organisations we may share your data with.
+
+Most importantly, if you'd like to know more or have any questions we may not have answered, please email us on data@oipolloi.com
 
 ### How Oi Polloi Uses Cookies
 
@@ -55,17 +61,47 @@ Oi Polloi does not rent, sell, or share personal information about you with othe
 
 If Oi Polloi is acquired by or merged with another company, Oi Polloi will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
+Below is a full list of how, and why, we may share data in order to deliver our services.
+
+**Shopify** : Shopify are a cloud based eCommercec platform who operate our online store and point of sale. They are fully safeguarded and have a number of data protection tools in place. Shopify will not share or pass on data. 
+
+If you place an order with Oi Polloi, on our Shopify account we will store invoice details (full name, billing address, shipping address, telephone number - if provided - and email address). These form part of our financial records.
+
+We also store the IP address from which the order was placed, for fraud protection purposes.
+
+Shopify trigger and send all emails related the the processing of an order or return, by placing an order with us you agree to receive these specific emails.
+
+Shopify has servers located in the US and the EU.
+
+**Worldpay and Streamline:  **Worldpay and Streamline are our payment processors. By shopping with Oi Polloi you agree to allow us to pass on your card details (via the web shop or PDQ) to Worldpay. Oi Polloi does not view or store these card details, they are held and processed at all times by Worldpay. 
+
+**Paypal:** If you choose to pay via PayPal on our website, we will store the email address and reference code for that PayPal transaction. Our PayPal account will also store your delivery address and pass it back to your Shopify account.
+
+**Brightpearl:** Brightpearl is our back of house platform. Any details associated with order processing (name, addresses, email address, telephone number) are transferred to Brightpearl's secure servers to allow us to process your order.
+
+**Metapack and DHL:  **We use a tool named Metapack to integrate with DHL's servers to generate shipping labels. Any order that will be shipped by us will have the delivery details temporarily stored on Metapack and DHL's servers for 90 days, at which point the tracking expires.
+
+**Campaign Monitor:** Our email newsletter is supported by a tool named Campaign Monitor. When you agree to receive marketing from Oi Polloi, we will upload and store your name (if given) and your email address to Campaign Monitor. If you choose to unsubscribe from our newsletter, Campaign Monitor will continue to hold those details in a desperate database, although this can be deleted on request. Campaign Monitor will also store the IP address from which you initially signed up for marketing.
+
+Campaign Monitor's servers are located in the US.
+
+**Outlook:** Our internal and external email is handled securely by Microsoft's Outlook. Customer email are stored for future reference. 
+
+It is our internal policy not to hold any data locally, except to process it (for example, if complaining customer lists) at which point we will revert to storing this information within our cloud-based drive as soon as we have finished processing it.
+
 ### Your Ability to Edit and Delete Your Account Information and Preferences
 
-You can edit your Oi Polloi account information, including your address and contact details, at any time. You cannot directly change the name, address, contact details and other details of existing orders, but you can change your order details by contacting [mailorder@oipolloi.com](mailto:mailorder@oipolloi.com).
+You can edit your Oi Polloi account information, including your address and contact details, at any time. You cannot directly change the name, address, contact details and other details of existing orders, but you may be able to change your order details by contacting [mailorder@oipolloi.com](mailto:mailorder@oipolloi.com).
 
 We reserve the right to send you certain communications that we consider to be part of your Oi Polloi account without allowing you to opt-out of receiving them. These will be relevant service announcements and administrative messages. You can remove your Oi Polloi account to stop receiving these messages. Please note that if you place an order with the site, Oi Polloi will keep a permanent record of your details as entered at the time of the order.
+
+For other account information, or for those with an account who have not placed an order, please contact data@oipolloi.com for full disclosure on the data we hold on you, and to request it's removal.
 
 ### Confidentiality and Security
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products and services to you and to do their jobs.
 
-We have physical, electronic, and procedural safeguards to protect personal information about you. We also comply fully with the UK Data Protection Act (DPA). In respect of this site and the UK DPA, Oi Polloi Limited is the data controller and Oi Polloi's registration number is Z2071683.
+We have physical, electronic, and procedural safeguards to protect personal information about you. We also comply fully with the General Data Protection Regulations (GDPR). In respect of this site, Oi Polloi Limited is the data controller and Oi Polloi's registration number is Z2071683.
 
 ### Changes to this Privacy Policy
 
