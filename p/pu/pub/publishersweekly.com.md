@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119054956id_/https%3A//www.publishersweekly.com/pw/corp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626164136id_/https%3A//www.publishersweekly.com/pw/corp/privacypolicy.html) for the most accurate reproduction.*
 
 # Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
 
-_Last Revised: April 2010_
+_Last Revised: May 2018_
 
 Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
@@ -27,7 +27,69 @@ The information we collect may include information from which you may be persona
 
 When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection](https://web.archive.org/info/automatic_data_collection.php "automatic data collection") technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](http://www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. 
+
+Here is the list of third parties we use along with how we use them and a link to their respective privacy policies: 
+
+Amazon Web Service  
+Hosting our website and its relevant code and content  
+https://aws.amazon.com/privacy/ 
+
+Facebook  
+Providing the comments module on our website; collecting names for giveaways via Rafflecopter.  
+https://www.facebook.com/legal/FB_Work_Privacy 
+
+Mailchimp  
+Collecting and storing email subscriber data; sending out and archiving newsletters and eblasts.  
+https://mailchimp.com/legal/privacy/ 
+
+GTxcel  
+Creating, hosting, and archiving of digital editions; notifying users of the availability of the latest digital edition.  
+http://gtxcel.com/privacy-policy/ 
+
+Google Analytics  
+Collecting website traffic data.  
+https://policies.google.com/privacy?hl=en 
+
+Doubleclick for Publishers  
+Managing the presentation of ads on our website including statistics about them.  
+https://www.doubleclick.com/privacy/. 
+
+Google Ad Sense  
+Delivering ads on our website to fill unsold inventory.  
+\t https://www.google.com/adsense/new/localized-terms 
+
+Rafflecopter  
+Creating, hosting, and archiving giveaways and entrants data, sourced from Facebook or others.  
+https://www.rafflecopter.com/privacy-policy 
+
+Eventbrite  
+Creating, hosting, and archiving of event sign ups, including credit card transactions and lists those who have signed up.  
+https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US 
+
+Stripe  
+Collection and processing of credit card orders on our website.  
+https://stripe.com/us/privacy 
+
+Quantcast  
+General demographic data collection for website visitors.  
+https://www.quantcast.com/privacy/ 
+
+Chartbeat  
+Collecting traffic--not demographic---data on current visitors on our website.  
+https://chartbeat.com/privacy/ 
+
+Comscore  
+Collecting traffic data on website visitors.  
+https://www.comscore.com/About-comScore/Privacy-Policy 
+
+Alexa  
+Collecting traffic data on website visitors.  
+https://www.alexa.com/help/privacy 
+
+We also use a third party subscription fulfillment company, ESP, to manage subscriptions for our print and digital editions. 
+
+If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
 * * *
 
@@ -47,7 +109,7 @@ We also may use your information to better understand our Users and to improve o
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of PWXyz and our affiliates. These communications may include e-mail newsletters, as well as offers for other PWXyz services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [admin@publishersweekly.com](mailto:admin@publishersweekly.com "privacy manager") with the subject line " ** _opt out - third party._** "
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [service@publishersweekly.com](mailto:service@publishersweekly.com "privacy manager") with the subject line " ** _opt out - third party._** "
 
 * * *
 
@@ -58,11 +120,11 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
   * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.
   * Portions of this Site may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User's registration information with the Premium or Sponsored content's sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [admin@publishersweekly.com](mailto:admin@publishersweekly.com "privacy manager") with the subject line: " **do not disclose.** "
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
+  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [service@publishersweekly.com](mailto:service@publishersweekly.com "privacy manager") with the subject line: " **do not disclose.** "
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving PWxyz or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.
-  * To other Reed Elsevier member companies for any uses consistent with those disclosed in this Privacy Policy.
+  * To other PWyxz member companies for any uses consistent with those disclosed in this Privacy Policy.
 
 
 
