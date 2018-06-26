@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031154010id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626064516id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PETA
 
@@ -38,13 +38,13 @@ PETA uses “cookies” and pixels on some webpages. A cookie is a small piece o
 
  **How is information used in PETA **e-mails**?**
 
-If you provide PETA with your e-mail address, you will be signed up to start receiving e-mails from PETA. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail or by e-mailing [Info@peta.org.](mailto:Info@peta.org.) The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA’s international affiliates in order to keep you apprised of developments in your part of the world. If you don’t want your information to be given to PETA’s international affiliates, please e-mail [Info@peta.org](mailto:Info@peta.org).
+If you provide PETA with your e-mail address, you will be signed up to start receiving e-mails from PETA. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail or by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c15323a331c2c39283d72332e3b72) The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA’s international affiliates in order to keep you apprised of developments in your part of the world. If you don’t want your information to be given to PETA’s international affiliates, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#df96b1b9b09fafbaabbef1b0adb8).
 
 In order to provide you with better and more relevant information, we compile information about e-mail response and website usage. This information helps us to understand site usage patterns as well as find what types of content and information may help improve your user experience on PETA’s websites.
 
 All e-mail messages sent to e-mail newsletter subscribers contain a link that allows you to unsubscribe or to modify your profile. You may subscribe or unsubscribe to any e-news or e-mail communication from PETA at any time.
 
-If you have any questions about PETA e-news, please e-mail [Info@peta.org](mailto:info@peta.org).
+If you have any questions about PETA e-news, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f891969e97b8889d8c99d6978a9f).
 
  **How does PETA protect my information?**
 
@@ -56,17 +56,17 @@ When you contribute to PETA online or make a purchase through the PETA Catalog, 
 
 PETA occasionally makes the names and postal addresses of donors available to reputable advocacy and nonprofit organizations and commercial companies.
 
-If you are a PETA donor and you don’t want to have your information exchanged with other organizations and companies, please e-mail us at [Donations@peta.org](mailto:Donations@peta.org) or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail [Info@peta.org](mailto:Info@peta.org) to manage their e-mail preferences.
+If you are a PETA donor and you don’t want to have your information exchanged with other organizations and companies, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f2b69d9c93869b9d9c81b282978693dc9d8095) or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0841666e6748786d7c6926677a6f) to manage their e-mail preferences.
 
-The easiest way to correct or change other information regarding your membership is to visit the [members’ section](https://www.peta.org/donate/membership-services/information/) of our website. You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or 757-622-7382.
+The easiest way to correct or change other information regarding your membership is to visit the [members’ section](https://www.peta.org/donate/membership-services/information/) of our website. You can also contact our membership services at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82c6edece3f6ebedecf1c2f2e7f6e3acedf0e5) or 757-622-7382.
 
-If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA’s international affiliates as described above. Please e-mail [Info@peta.org](mailto:info@peta.org) if you don’t want your information to be shared in this manner.
+If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA’s international affiliates as described above. Please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac3c4ccc5eadacfdecb84c5d8cd) if you don’t want your information to be shared in this manner.
 
 Please be aware that your personal information may be transferred to U.S.-based third party service providers that we engage to support our activities. We take reasonable measures to ensure that any personal information collected, used, disclosed, or otherwise processed by us or by these service providers on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to applicable federal legal requirements, such as, for example, lawful requirements to disclose personal information to government authorities.
 
  **Additional questions?**
 
-If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this website, please e-mail [Info@peta.org](mailto:Info@peta.org).
+If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this website, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6ffd8d0d9f6c6d3c2d798d9c4d1).
 
 You can also reach us via postal mail at:
 
