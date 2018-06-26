@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gizmodo.it privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227012146id_/http%3A//legal.kinja.com/privacy-policy-1793094625) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodo.it privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174424id_/http%3A//legal.kinja.com/privacy-policy-1793094625) for the most accurate reproduction.*
 
 # Privacy Policy
 
