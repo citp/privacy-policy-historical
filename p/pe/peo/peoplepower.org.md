@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318035200id_/https%3A//go.peoplepower.org/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepower.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626095601id_/https%3A//go.peoplepower.org/signup/privacy) for the most accurate reproduction.*
 
 # This is the privacy statement for PeoplePower.org. | PeoplePower.org
 
