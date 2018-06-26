@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205180355id_/https%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626105748id_/https%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — FBI
 
@@ -18,7 +18,7 @@ If you visit our site to read or download information, we automatically collect 
 
 
 
-This information is primarily collected for statistical analysis. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, such as in response to lawful law enforcement requests, we may take additional steps to identify you based on this information, and we may share this information, including your identity, with other government agencies. 
+This information is primarily collected for statistical analysis. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, such as in response to lawful law enforcement requests or tips received from the public, we may take additional steps with the information collected, including steps to identify you based on this information, and we may share this information, including your identity, with other government agencies.
 
 **B. If You Send Us Personal Information**
 
