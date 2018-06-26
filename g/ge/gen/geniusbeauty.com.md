@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniusbeauty.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211134442id_/http%3A//geniusbeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusbeauty.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626120214id_/http%3A//geniusbeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geniusbeauty
 
@@ -41,7 +41,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
+
 ### Your Consent
 
 By using our site, you consent to our privacy policy.  
-This policy was last modified on 10.11.2013
+This policy was last modified on 03.05.2018
