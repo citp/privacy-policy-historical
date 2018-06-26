@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workflowy.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924074810id_/https%3A//workflowy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workflowy.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626072349id_/https%3A//workflowy.com/privacy) for the most accurate reproduction.*
 
 # WorkFlowy, Inc. Privacy Policy
 
@@ -56,10 +56,12 @@ You own the data you put into WorkFlowy. By putting your information into WorkFl
 
 ## Data Security
 
-WorkFlowy is committed to protecting the security of your information and takes reasonable precautions to protect it. Data transmissions for logged in WorkFlowy users are protected by SSL encryption by default, the same technology used by thousands of leading online services such as banks, email providers and remote backup services. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot give a 100% guarantee of the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems: 
+WorkFlowy is committed to protecting the security of your information and takes reasonable precautions to protect it. Data transmissions for WorkFlowy users are protected by SSL encryption by default, the same technology used by thousands of leading online services such as banks, email providers and remote backup services. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot give a 100% guarantee of the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems: 
 
+  * Your data is encrypted at rest in our database and in all backups we create. 
   * Your WorkFlowy password is protected by encryption and only you have access to it; 
-  * Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. As a rule, WorkFlowy employees do not monitor or view your personal information or content stored in the WorkFlowy service, but it may be viewed if we learn that our Terms of Service may have been violated and confirmation is required, or we otherwise determine that we have an obligation to review it; and 
+  * Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. 
+  * As a rule, WorkFlowy employees do not monitor or view your personal information or content stored in the WorkFlowy service, but it may be viewed if we learn that our Terms of Service may have been violated and confirmation is required, or we otherwise determine that we have an obligation to review it; and 
   * The WorkFlowy service uses standard SSL encryption to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures. 
 
 
