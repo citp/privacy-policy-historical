@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funenglishgames.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220044443id_/http%3A//www.funenglishgames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funenglishgames.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042316id_/http%3A//www.funenglishgames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
