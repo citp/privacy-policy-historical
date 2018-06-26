@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213175904id_/https%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627005424id_/https%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Use Policies | National Archives
-
-_Last revised: May 23, 2017_
 
 ## Privacy Statement
 
@@ -16,9 +14,6 @@ This website uses tools (Google Analytics Premium, CrazyEgg, Foresee, Visual Web
   * [Cookies and Google Analytics on websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
   * [Opt out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
   * [Crazy Egg privacy policy](https://www.crazyegg.com/privacy)
-  * [Foresee privacy policy](http://www.foreseeresults.com/privacy-policy.shtml)
-  * [Visual Web Optimizer privacy policy](https://vwo.com/privacy-policy/)
-  * [WebTrends privacy policy](https://www.webtrends.com/terms-policies/privacy/privacy-statement/)
   * [MailChimp privacy policy](https://mailchimp.com/legal/privacy/)
 
 
