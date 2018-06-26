@@ -1,49 +1,139 @@
-> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615063944id_/https%3A//coingate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626212848id_/https%3A//coingate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoinGate
 
-Coingate.com is a website created and owned by UAB “Virtualios valiutos”, registered in Ukmergės street 315B, Vilnius, Lithuania, registration code: 303423510. This Privacy Policy explains how personal information of visitors and users is collected and used on coingate.com.
+At CoinGate (CoinGate is owned and operated by UAB “Virtualios valiutos”) we care about protection of your information. We follow the requirements of the so-called European Union General Data Protection Regulation (GDPR) and other laws protecting information about you at our company. To know more please carefully read this Privacy Policy. 
 
-When you are visiting coingate.com, we collect standard web log information, such as your IP address, operating system, browser type and version, and other non-personally identifiable information. This information is used to optimize your experience using coingate.com and to provice statistics of how coingate.com is used. This information may be kept indefinitely. 
+* **How should I read this Privacy Policy?**
 
-Coingate.com also uses cookies, which are tiny text files, to store information on your computer. Cookies are used to make coingate.com functional and it may not work correctly if cookies are disabled. To find out how to manage cookies in your browser, please visit one of the links below: 
+This Privacy Policy will answer the most important questions about how we collect, use and store information about you. In case you have any other questions or find any part of this Privacy Policy unclear, our Data Protection Officer is ready to help you as described in Section 12 of this Privacy Policy. Please note that any form of the word ‘we’ in this Privacy Policy stands for our company specified in Section 2 of this Privacy Policy. 
 
-  * Mozilla Firefox - <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * Google Chrome - <https://support.google.com/chrome/answer/95647>
-  * Opera - <http://www.opera.com/help/tutorials/security/privacy>
-  * Internet Explorer - <http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies>
+* **Who is responsible for protecting my information?**
 
+We are: UAB “Virtualios valiutos”  
+Our identification number is: 303423510  
+Our address is: A. Gostauto str. 8, LT-01108, Vilnius, Lithuania  
+Our e-mail address is: info@coingate.com 
 
+* **Why and which information do you collect about me?**
 
-Coingate.com also uses third-party services, which may collect some information about you. You should read Privacy Policy of those services, to find out more about how and what information they collect: 
+We collect, use and store only that information that is necessary to: 
 
-  * Google Analytics - <http://www.google.com/policies/privacy>
-  * Groove - <https://www.groovehq.com/our/privacy>
-
-
-
-When you register on coingate.com, we may collect additional information about you:
-
-  * Your full name
-  * Name and physical address of the company you represent
-  * E-mail address
-  * Telephone number
+  * provide you with CoinGate virtual currency purchasing and payment processing collection services 
+  * implement measures of anti-money laundering (AML) and combating the financing of terrorism 
+  * send you information on services of CoinGate 
+  * submit responses to your inquiries 
+  * ensure security of CoinGate’s website 
+  * continuously improve our website for you 
 
 
 
-This information (except e-mail) can be changed by visiting <https://coingate.com/account/settings> while logged in. If you wish to change your e-mail, please [contact our support](mailto:support@coingate.com). This information may be kept indefinitely, but you can request for it to be deleted by [contacting our support](mailto:support@coingate.com). Please note, that we will not be able to delete your information if you have already had any orders or any money moving through your account. 
+You can find the more detailed information in the table enclosed to this Privacy Policy. 
 
-To be able to make withdrawals, we ask you to go through our verification process. To do this, we may ask you to send us the following verification documents: 
+* **Do you use cookies?**
 
-  * Signed copy of your company incorporation certificate
-  * Valid copy of applicant's government Photo ID document
-  * Company utility bill
-  * Power of Attorney allowing applicant to co-operate with CoinGate on company's behalf (if applicant is different from company's Director) 
+Yes. We use cookies as described in our [Cookie Policy](https://web.archive.org/cookie-policy). 
+
+* **Which information I have to provide you with and why?**
+
+You have to provide us with the information which we need to provide you with the virtual currency purchasing and payment processing collection services. In case you do not provide us with this information, we will not be able to provide the services. You can find the more detailed information in the table enclosed to this Privacy Policy. 
+
+* **Where do you get my information from?**
+
+We get your information from: 
+
+  * You 
+  * Blockchains of Bitcoin and other cryptocurrencies 
+  * Facebook Ireland Ltd. 
+  * Google Ireland Ltd. 
+  * Coinfirm Ltd. 
 
 
 
-After verification, all uploaded documents are kept in an encrypted format. 
+You can find the more detailed information in the table enclosed to this Privacy Policy. 
 
-We will never sell, give or otherwise disclose any of the information about you to any third-parties, except to comply with a court order or legal process, or where required by law. 
+* **Why you are legally allowed to collect my information?**
 
-This Privacy Policy may be changed without prior notice. All changes will be reflected in this document immediately. In the event of a major change, we will inform our registered users by e-mail or by other available means of contact. 
+We collect information lawfully about you because: 
+
+  * We conclude and perform a contract with you (Art. 6 (1) (b) of the GDPR) 
+  * We have a legitimate interest to do that (Art. 6 (1) (f) of the GDPR) 
+  * You have given consent to the processing of your personal data (Art. 6 (1) (a) of the GDPR) (Law on Electronic Communications, Art. 69 (1) (Lithuania)) 
+
+
+
+For more detailed information please refer to the table enclosed to this Privacy Policy. 
+
+* **Do you share information about me within the European Union?**
+
+We share the information about you with the following entities only where needed for the reasons listed under the Answer 3 above and permitted by applicable laws: 
+
+  * Bitstamp Ltd. 
+  * Blockchain Luxembourg S.A. 
+  * BlueOrange Bank 
+  * Cex.io Ltd. 
+  * Coinfirm Ltd. 
+  * DaoPay GmbH 
+  * Facebook Ireland Ltd. 
+  * Google Ireland Ltd. 
+  * Mailjet SAS 
+  * Mayzus Financial Services Ltd. 
+  * SatoshiLabs Ltd. 
+  * UAB „Interneto vizija“ 
+  * UAB „Mistertango“ 
+
+
+* **Do you share information about me with someone outside the European Economic Area (EEA)?**
+
+We share the information about you with the following entities only where needed for the reasons listed under the Answer 3 above and permitted by applicable laws. 
+
+  * Amazon Web Services, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4#other-covered-entities)) 
+  * Cloudflare, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0)) 
+  * Facebook, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC)) 
+  * Google LLC (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI)) 
+  * LinkedIn Corporation ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0)) 
+  * Mailgun Technologies, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000PCbmAAG)) 
+  * Reddit, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TNjOAAW)) 
+  * Slack Technologies, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnMBAA0)) 
+  * Twitter, Inc. ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO)) 
+  * Zendesk, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG)) 
+  * AgileBits, Inc. (Canada, which is [considered by European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002D0002&from=en) as safe in terms of data protection) 
+  * ShapeShift AG (Switzerland, which is [considered by European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32000D0518&from=EN) as safe in terms of data protection) 
+  * SimplexCC Ltd. (Israel, which is [considered by European Commission](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:027:0039:0042:EN:PDF) as safe in terms of data protection) 
+
+
+* **How long you will keep information about me?**
+
+We will store your information for 10 years after termination of your account, unless the enclosed table provides otherwise. 
+
+* **What can I do about my information at your company?**
+
+If you wish to do any of the following, please contact our Data Protection Officer as described in Part 12. 
+
+  * Request us to reveal to you information we have about you 
+  * Request us to correct information we have about you 
+  * Request us to delete your information 
+  * Request us to restrict use or deletion of your information 
+  * To object to collection, use and storage of your information at our company 
+  * Request us to export your data to you or transfer it other companies 
+  * To submit a complaint to data protection authority: Lithuanian State Data Protection Inspectorate, phone number (8 5) 279 14 45, e-mail address ada@ada.lt 
+  * To withdraw any consent you gave to us 
+
+
+
+To file an inquiry or a complaint, please contact our Data Protection Officer as described in Part 12. Please note that these rights are subject to conditions and exemptions established by law as well as the procedure we will be following in order to assist you. 
+
+* **How can your Data Protection Officer can help me?**
+
+If you have any questions, comments or complaints regarding how we collect, use and store information about you, CoinGate has Data Protection Officer to help you. If you need his / her help, please send an e-mail to **dpo@coingate.com**. 
+
+Why you collect information about me? | Which information you collect about me? | Why you are legally allowed to collect my information? Which provisions of GDPR and other laws apply? | How long do you keep information about me?  
+Virtual currency purchasing and payment processing collection platform administration | E-mail, password, country, name and surname, address, telephone number, cryptocurrency address, bank account number, account number of money withdrawal platform, PayPal address, transaction amount, transaction currency, transaction time, address of the sender of the transaction, address of the payee of the transaction, ID number, ID copy, photo of you, data provided in business registration certificate, data provided in the document of business address proof | Contract (Art. 6 (1) (b) of the GDPR) | 10 years after termination of your account  
+Prevention of Money Laundering and Terrorist Financing | Name and surname, personal code, date of birth, nationality, country of residence for tax purposes, country, postal code, address, telephone number, e-mail, position, workplace city and state, sources of funds, states from which funds are received and transferred, planned turnover of services, services that use or plan to use, signature, risk level, name and surname of the manager, personal code of the manager, nationality of the manager, signature of the representative, name and surname of the representative, personal code of the representative, data of birth of the representative, the basis of representation, nationality of the representative, country of residence for tax purposes of the representative, representative country, representative postal code, representative country, postal code of the representative, address of the representative, telephone number of the representative, e-mail of the representative, position of the representative, workplace city and state of the representative, risk level of the representative | Legitimate interest (Art. 6 (1) (f) of the GDPR) | 10 years after the termination of business relations  
+Direct marketing | Name and surname, e-mail | Customer relationship (Law on Electronic Communications Art. 69 (2) (Lithuania))
+
+Consent (Law on Electronic Communications Art. 69 (1) (Lithuania))
+
+| 10 years after the end of the customer relationship, unless you withdraw your consent  
+Customer service | E-mail address, subject of your inquiry, date of your inquiry, content of your inquiry, attachments to your inquiry, your name and (or) surname provided in your inquiry, reply to your inquiry, information provided by you | Consent (Art. 6 (1) (a) of the GDPR) | 10 years after receiving a query, request or complaint  
+Website security | Internet protocol address (IP), user agent, referrer url, date and time of website visiting | Legitimate interest (Art. 6 (1) (f) of the GDPR) | 10 years after your last visit of our website
