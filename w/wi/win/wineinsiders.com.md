@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213104625id_/http%3A//wineinsiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626230018id_/http%3A//wineinsiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Wine Insiders
 
@@ -8,7 +8,7 @@ This website, (collectively with all other web pages and websites related to Win
 
 This privacy policy (the "Privacy Policy") sets forth our online data collection, use and sharing practices with respect to the Site. Through use of the Site, we market wines and related products directly to consumers and provide consumers an opportunity to buy wine and related products from Licensed Retailers in their respective states (collectively the "Wine Services"). The sale and delivery of your order will be executed and fulfilled by licensed third-party retail entities that hold valid licenses issued by state alcohol beverage agencies allowing for the legal sale of wine (the "Licensed Retailers" or "Licensed Retailer"). The Site is directed to adults aged 21 or older, you must be at least 21 years of age to make a purchase through the Site and to receive delivery of the products purchased, and a valid government-issued ID will be required upon delivery.
 
-If you are a California resident, click here to learn more about your California Privacy Rights.
+If you are a California resident, [click here](https://web.archive.org/#california-privacy-rights) to learn more about your [California Privacy Rights](https://web.archive.org/#california-privacy-rights).
 
 Please read the terms of this Privacy Policy carefully. If you do not agree to the terms in their entirety, you may not access or otherwise use the Site or its offerings. You agree to the terms of this Privacy Policy when you do any one or more of the following (a) access or use the Site; (b) access and/or view any of the text, photographs, graphics, artwork, video, audio, stories, and/or other content featured on the Site (collectively, "Content"); (c) sign up to receive Wine Services; (d) access links to Wine Insiders social media pages or accounts on third-party social media websites such as Facebook®, Instagram®, Pinterest®, SnapChat® and Twitter® (collectively, "Social Media Pages"); or (e) use the Site's interactive features designed to facilitate interaction between the end user, Wine Insiders and other users of the Site including, but not limited to, product reviews, blogs and associated comment sections located in designated areas of the Site (collectively, the "Interactive Services").
 
@@ -16,7 +16,7 @@ WHEN YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY, YOU ARE AGREEING TO A DISPUT
 
 We are not responsible for the content on, or the privacy practices of, any third-party website not owned or operated by us to which this Site links or that link to this Site. If you visit, or submit information to, any of those websites your visit and information are governed by the privacy statements of the third parties who own or operate those websites. We encourage you to carefully read the privacy statements of any website you visit.
 
-### Information Collection
+## Information Collection
 
 Many areas of the Site do not require registration and may be accessed by you without having to disclose any personal information. However, when you use the Wine Services or other aspects of the Site, you will be required to register and provide personal information about yourself in order to create an Account. Please be sure to protect the confidentiality of the login and password for any Accounts you create. When you use the Wine Services or create an Account, we or our service providers may collect, use and share personally identifiable information such as your name, age, billing address, shipping address, email address, telephone number, Account password, credit card information and birth date, or if you purchase a Gift for someone else, we may also collect, use and share the name, age, shipping address, email address, telephone number and birth date of the Gift recipient, as well as other information you choose to share with us, and when you access the Site with a mobile device, we may also collect and use your device ID (also called a UDID) (all information collectively, "Personal Information"). If you access our Social Media Pages, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service, and when you access our Site you are authorizing us to collect, store and use such information and content in accordance with this Privacy Policy.
 
@@ -28,7 +28,7 @@ Like most other websites, we may also collect certain information automatically,
 
 We may also use other analytical tools to evaluate site performance through the use of aggregated data. We work with service providers that help us track, collect, and analyze this information. We may also track certain information about the identity of the sites you visited immediately before or after coming to this Site.
 
-### Information Use
+## Information Use
 
 We will use the information you provide to us and that we collect to communicate with you about your orders and deliveries, and we may send you a confirmation email when you register an Account or place an order. We may also use the information we collect for various purposes, including to: (a) create your Account; (b) permit you to log into the Site; (c) create a shopping cart and process your orders placed in connection with the Wine Services; (d) bill you for your purchase(s); (e) participate in a Wine Program; (f) contact you, for example, if there is an issue with any orders placed through the Wine Services or a Wine Program; (g) communicate with you via email about your transactions on the Site; (h) send you periodic emails; (i) respond to questions or other requests; (j) inform you of new products, services, promotions, and offers and those of our business partners through email, postal mail, telephone or other means; (k) optimize our advertising and display ads; (l) contact you with respect to your use of the Site or changes to the Privacy Policy or Terms & Conditions; (m) improve the Site and the content, features and services provided through the Site, as well as customer service; (n) update and maintain the accuracy of our information; (o) use for our internal business purposes; (p) send you other notices in order to comply with applicable laws and regulations; (q) use for data analytics purposes; and (r) use for other purposes disclosed at the time you provide information to us.
 
@@ -36,7 +36,7 @@ Cookies, pixel tags, and/or other analytical tools in our emails may also be use
 
 We may also work with one or more data-modeling and/or data-append service which allows us to combine the information you have provided, or have permitted us to gather directly from you, including but not limited to your email, IP address(es) and/or other Personal Information, with other data, including offline data, in order to learn more about you.
 
-### Information Sharing
+## Information Sharing
 
 Except as otherwise expressly noted herein or within the Terms & Conditions, we may share any information collected through the Site and the Wine Services, including without limitation, your Personal Information (and any other information we combine with that Personal Information) with our affiliated companies, our marketing partners, our service providers, and with carefully selected third-party organizations and marketers of products and services potentially of interest to you. We may also disclose your Personal Information to third parties, whether wholly owned by or under common control with us, as necessary to provide the Wine Services you request, process your order, optimize our Site, and to conduct marketing services on our behalf.
 
@@ -54,34 +54,40 @@ We may be required to disclose your Personal Information and/or non-Personal Inf
 
 As we develop our business, we might sell or buy businesses or assets. In the event of a company sale, merger, reorganization, dissolution, or similar event, the Personal Information and other information you provide to us or that we have gathered about you may be part of the transferred assets, and we may assign any of our rights and delegate any of our duties under this Privacy Policy at any time, without your consent, at our sole discretion. This Privacy Policy, along with the Terms & Conditions, will inure to the benefit of our successors, assigns and licensors, provided that any such party's use of your Personal Information complies with the terms and conditions of this Privacy Policy.
 
-### California Privacy Rights
+## California Privacy Rights
 
 If you are a resident of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information by us, our affiliates and subsidiaries to third parties for the third parties' direct marketing purposes. This right granted to California residents applies only to their activities within the State of California. To make such a request, please send an email to [privacy@wineinsiders.com](mailto:privacy@wineinsiders.com?subject=Wine%20Insiders%20-%20California%20Privacy%20Rights) and specify "California Privacy Rights" in the subject line. We will reply within thirty (30) days of receipt of your properly addressed request.
 
-### Children's Privacy
+## Children's Privacy
 
 Our Site is directed to adults 21 years of age and older. We do not knowingly collect Personal Information from people under the age of 21, including children under the age of thirteen. If we become aware that we have collected Personal Information from a user who is under the age of thirteen, we will remove that child's personal information from our files.
 
-### Security
+## Security
 
 When you make an online purchase from our Site, we use Secure Socket Layer (SSL) software to protect your personal information. SSL software encrypts the personal information that is transmitted between you and our Site. When you submit your credit card information, it is passed directly to our credit card processor in an encrypted format. We do not store your credit card information but, instead, receive a token that we match to your order to complete the transaction. We do not share your payment information with any third party except our payment processing provider for the purpose of processing your payment. While we strive to secure the information we collect, even reasonable security measures do not guarantee the security of information transmitted via the Internet. We cannot guarantee that information we seek to protect will be protected under all circumstances, including those beyond our reasonable control. You acknowledge and agree that you transmit information to us via our Site at your own risk. Additionally, if you share emails you receive from us with others, you may be unintentionally sharing your Personal Information contained in these emails with such parties, and you acknowledge that you will be sharing it at your own risk.
 
-### Opt Out
+## Opt Out
 
-Upon your request, we will stop sending emails to your email address. To stop receiving emails from us, simply click on the unsubscribe link located within one of our emails to you. Please allow up to ten (10) business days for the unsubscribe to take place. During that time, you may continue to receive communications from us that were already in process. Please note that even if you opt out, we may continue to contact you regarding your order, your participation in a Wine Program, your Gift purchase or other transactions you initiate or initiated, or to respond to any inquiry or request you make to us.
+Upon your request, we will stop sending emails to your email address. To stop receiving emails from us, simply click on the unsubscribe link located within one of our emails to you. Please allow up to ten (10) business days for the unsubscribe to take place. During that time, you may continue to receive communications from us that were already in process. Please note that even if you opt out, we may continue to contact you regarding your order, your participation in a Wine Program, your Gift purchase or other transactions you initiate or initiated, or to respond to any inquiry or request you make to us. 
 
-### Contact Information
+  
+
+
+## Contact Information
 
 If you have any questions or comments about our Privacy Policy, please contact us at [privacy@wineinsiders.com](mailto:privacy@wineinsiders.com?subject=Wine%20Insiders%20-%20Privacy%20Policy%20Question).
 
-### Users Outside of the United States
+## Users Outside of the United States
 
-Our Site is located within the United States. Your Personal Information will be processed and shared in the United States, where data protection and privacy regulations may provide different levels of protection compared with non-United States jurisdictions. If you are located in the European Union, the United Kingdom, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site or providing you with your information, you consent to this transfer of your information.
+Our Site is located within the United States. Your Personal Information will be processed and shared in the United States, where data protection and privacy regulations may provide different levels of protection compared with non-United States jurisdictions. If you are located in the European Union, the United Kingdom, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Site or providing you with your information, you consent to this transfer of your information. 
 
-### Disputes
+  
+
+
+## Disputes
 
 Any disputes regarding this Privacy Policy are subject to our Terms & Conditions. This Privacy Policy, and any disputes arising out of it, will be governed by the laws of the State of California, regardless of its conflict of law principles. WHEN YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY, YOU ARE AGREEING TO A DISPUTE RESOLUTION POLICY THAT INCLUDES, TO THE EXTENT PERMITTED BY LAW, (1) A REQUIREMENT TO ARBITRATE ANY CLAIM, DISPUTE OR CONTROVERSY, INCLUDING ALL STATUTORY CLAIMS AND ANY STATE OR FEDERAL CLAIMS, THAT MAY ARISE OUT OF OR RELATE TO THIS PRIVACY POLICY OR YOUR USE OF THE SITES. BY AGREEING TO ARBITRATION, YOU UNDERSTAND AND AGREE THAT YOU ARE WAIVING YOUR RIGHT TO MAINTAIN OTHER AVAILABLE RESOLUTION PROCESSES, SUCH AS A COURT ACTION OR ADMINISTRATIVE PROCEEDING, TO SETTLE YOUR DISPUTE; AND (2) A WAIVER OF ANY RIGHT TO BRING A CLASS ACTION OR PRIVATE ATTORNEY GENERAL CLAIM. SEE TERMS & CONDITIONS FOR MORE INFORMATION.
 
-### Changes to this Policy
+## Changes to this Policy
 
 We may change this Privacy Policy from time to time without notice to you. We encourage you to refer back to this policy periodically to ensure you are aware of our current policy. Your continued use of the Site following the posting of any amendment, modification or change to this Privacy Policy shall constitute your acceptance thereof.
