@@ -1,114 +1,111 @@
-> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005173854id_/http%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626043423id_/https%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
 
-# Product Review and Ad Policies - Mom on the Side
+# Product Review and Ad Policies | Mom on the Side
 
-**Privacy Policy** **and Disclosure Statements**
+## **Privacy Policy** **and Disclosure Statements**
 
- _These policies are valid from July 8, 2015  
+ _These policies are valid from May 24th, 2018  
 _
 
-Mom on the Side is a blog written and edited by Lisa Collins. We may receive products directly from brands, manufacturers, public relations companies, and brand marketing firms. In addition we have be invited to fairs, shows, and other events. Complimentary services, gratis products, tickets and press samples never compromise our coverage of the product or event. We will always cover whatever we receive fairly and honestly.
+Mom on the Side found at https://www.momontheside.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-Mom on the Side will not be paid for a review but may receive complimentary products, services, tickets, and travel in exchange for our opinion. Any advice on this site is the opinion of Mom on the Side, and any/all contributing editors for this site. We are in no way responsible for the effects of our advice and always suggest that our readers decide for themselves.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-If there are any images listed on this site you would like removed, please email us and they will be removed promptly.
+### WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
- **Commitment to Online Security**
+ **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-Personal information submitted to Mom on the Side is only accessible by the owner of this site.
+ **Information We Collect from Others:** We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
- **Personal Information Collected by Mom on the Side**
+ **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-Mom on the Side may ask you to provide the following types of personal information: name, postal address, email addresses, and phone numbers. This information is given freely by you and is not required to view, read, or use this site. Mom on the Side may also collect certain non-personally identifiable information such as the date of your visit to the site, the type of browser you are using (e.g., Internet Explorer, Firefox, etc.), the type of operating system you are using (e.g., Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., Charter, Comcast, etc.), and the IP Address of your computer.
+ **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-Mom on the Side does not collect or maintain information from those actually known to be under the age of 18 without the expressed permission from a parent or legal guardian, and the site is not structured to attract anyone under the age of 18.
+### HOW YOUR INFORMATION MAY BE USED
 
- **How Mom on the Side** **Uses Personal Information**
+ **We may use the information collected in the following ways:**
 
- **Collected Online**
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-Mom on the Side will not use your personal information for any purpose other than that for which it is submitted. We use personal information to reply to inquiries and comments, provide operational notices, publish a newsletter, and program or sweepstakes participation. By completing an entry or registration form you are allowing us store your information in a database for retrieval at a future time for purposes of picking a winner for a giveaway or contacting you with site updates.
 
-Mom on the Side will never sell, rent or share your personal information with third-parties.
 
-In general, you are responsible for the information you submit in the form of a comment on a post on this blog. Your comments can be read by anyone and your profile can be viewed by anyone. You are allowed to post as an Anonymous reader as a way to help protect your privacy. This blog uses Google Docs forms for some of it’s giveaways in order to collect information from readers.
+### THIRD-PARTY USE OF PERSONAL INFORMATION
 
- **Materials Submitted to Mom on the Side**
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-All photos, written correspondence and any other materials submitted to Mom on the Side become the sole and exclusive property of Mom on the Side and cannot be returned at any time. By submitting Materials, you agree that Mom on the Side may, but is not obligated to, use the Materials in connection with the site, in any way, in any medium, worldwide, in perpetuity. Further, you warrant all Materials are 100% original and do not violate the right of privacy or publicity of, or constitute a defamation against, any person or entity; that the Materials will not infringe upon or violate the copyright or common law rights or any other rights of any person or entity; that there are and will be no encumbrances, liens, conditions or restrictions whatsoever upon or affecting such Materials; and that you and the person depicted in the Materials are at least 18 years of age or you are a parent or guardian granting permission for use. You agree to indemnify Mom on the Side for all damages and expenses (including reasonable attorney’s fees) arising out of any breach or failure of the warranties made herein.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
- **Help Us Keep Your Personal Information Accurate**
+The Website currently uses the following third-party service providers:
 
-If your personal information changes please submit the changes to Mom on the Side by email at momontheside@gmail.com Please be sure to note that you are “updating” your information.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
- **Computer Tracking and Cookies**
+FeedBlitz – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to [FeedBlitz’s privacy policy](https://www.feedblitz.com/privacy/) for further information.
 
-Our site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public but again, the statistics contain no personal information and cannot be used to gather such information. Our website also recognizes the online site where a visitor clicked one of our banners or buttons to follow through and visit our site, but we cannot identify the visitor or the visitor’s address. Site information is used to confirm promotion of Mom on the Side giveaways, newsletter, or other projects, and may be used to advise participants of the numbers of visitors who come to our site from their sites.
+Collective Bias: Collective Bias uses the Google Analytics plugin on influencer sites only as a way to collect anonymous statistical data, like the number of times per day that a particular page has been visited. The plugin does not provide Collective Bias with information of any kind that can identify an individual (e.g., no names or addresses), and Collective Bias does not collect personal information through influencer sites in other ways. Please refer to [Collective Bias’s privacy policy](https://collectivebias.com/privacy-policy/) for further information.
 
- **Third Party Ads**
+CLEVER: The only personal data the CLEVER pixel collects is IP addresses. The data collected from the pixel is never used to identify individual people, nor combined with other data for that purpose. Pixel data is aggregated ad only used to determine blog traffic levels. CLEVER does not share any IP address data collected from the pixel with outside entities. Please refer to [CLEVER’s privacy policy](https://www.realclever.com/privacy-policy/) for further information.
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
- **Disclaimer Policy**
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-This blog will contain links to other websites and blogs. All external links contain content which is not endorsed or controlled by this blog. All information that you submit on other websites is done so at your own risk. If you are concerned about the sites you visit from this please read the “Privacy Policy” of each website or blog you visit. Your feedback and assistance is welcome in updating the information on this site if you find updates or errors.
+ **ANONYMOUS DATA**  
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
- **Your Privacy**
+ **PUBLICLY VISIBLE INFORMATION**  
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make  this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+You may also choose to link your Facebook, Instagram, and Google Account.
 
- **Google Adsense and the DoubleClick DART Cookie**
+Users may see your username, avatar, profile description and website information.
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+ **COOKIES**  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following www.google.com/privacy_ads Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Mom on the Side has no access or control over these cookies that may be used by third party advertisers.
+ **ADVERTISING**  
+Display Ads
 
- **Collection of Personal Information**
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-When visiting Mom on the Side, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Retargeting Ads
 
- **Links to third party Websites**
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+Affiliate Program Participation
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Mom on the Side has no access or control over these cookies that may be used by third party advertisers.
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Mom on the Side is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-The ads you see on Mom on the Side may be affiliate accounts for products that may be of interested to readers of this site. We may receive products or monetary compensation for recommendations made in reference to the products/services on this website. Most ads posted are typically chosen because it’s a product we have tried and approve of.
+Newsletters
 
-This disclosure is made in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
- **Advertorial and Sponsored Post Policies  
-**
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION  
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at momontheside@gmail.com to be removed from our mailing list.
 
-Mom on the Side occasionally includes compensated advertorial or sponsored posts.
+Access – You may access the personal information we have about you by submitting a request to momontheside@gmail.com
 
- **Affiliate Links and Advertising Policies**
+Amend – You may contact us at momontheside@gmail.com to amend or update your personal information.
 
-Mom on the Side makes use of affiliate links that may appear in some posts. By clicking on the links you help Mom on the Side make money to keep this site running. Mom on the Side also runs advertisements using ad networks. If you ever find an offensive ad please email us at momontheside@gmail.com so we can track it down and remove it.
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to momontheside@gmail.com.
 
- **Affiliate Links**
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-Mom on the Side uses affiliate links in some of the posts. If you click that link and make a purchase of that product or other products up until 30 days, we may make a commission on that sale. The site you visit will place a cookie (a small text file) on your computer when you click the link from Mom on the Side. This tells that site that you came from MomOnTheSide.com and to give us credit for the sale. We use affiliate links to help generate income for MomOnTheSide.com.
+ **SENSITIVE PERSONAL INFORMATION**  
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
- **Public Relations and Product Review Policies  
-**
+ **CHILDREN’S INFORMATION**  
+The Website does not knowingly collect any personally identifiable information from children under the age of 18. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 18 in its database, please contact us immediately at momontheside@gmail.com and we will use our best efforts to promptly remove such information from our records.
 
-Mom on the Side may accept products for review from brands and public relations representatives. We may run giveaways in conjunction with the product review. All giveaway prizes will be either supplied by the brand or Mom on the Side and will be indicated in the giveaway.
-
-Unless compensated as a disclosed sponsored or advertorial post, we exercise full independence over product reviews. Receipt of a product, whether solicited or unsolicited, does not constitute a contract for a published review of the product or for the substance of any content produced that discusses the product.
-
-We accept only products of interest in hopes of lessening negative reviews and accepting a product to review does not guarantee a favorable review, or any review at all. Reviews are done based on honest assessments of the products and content will not be provided to for pre-approval by PR representatives or brands, nor will reviews be edited after the fact based on requests to do so. Products that wish to impose such limitations will not be accepted for review but may be eligible for inclusion as a sponsored post with compensation. Editorial timeline is currently 2-4 weeks from receipt of a product. All items received from brands and PR representatives are disclosed as such per the FTC guides within the review post.
-
- **Receipt of Product Not Contractual or Compensatory**
-
-All products received are deemed to be gifts/commercial samples that do not form a contract for review and are not deemed to be compensation for any content that is written.
-
- **Changes to this Privacy Statement**
-
-The contents of this statement may be altered at any time, at our discretion.
-
-If you have any questions regarding the privacy policy of Mom on the Side then you may contact us at momontheside@gmail.com
+CONTACT INFORMATION  
+At any time, please contact us at momontheside@gmail.com for questions related to this Privacy Policy.
