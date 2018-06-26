@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006204352id_/https%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042214id_/https%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Roche - Privacy Policy
 
@@ -98,7 +98,7 @@ If a Web site has particular provisions relating to privacy that differ from tho
 If you have a business or professional relationship with Roche, we may use information you submit on our sites, including sites intended specifically for business and professional users, to fulfill your requests and develop our business relationship with you and the entities you represent. We may also share such information with third parties acting on our behalf.
 
 **Updates to Privacy Statement**  
-From time to time, Roche may revise this online Privacy Statement. Any such changes to this Privacy Statement will be promptly communicated on this page. Continued use of our sites after receiving notice of a change in our Privacy Statement indicates your consent to the use of newly submitted information in accordance with the amended Roche Privacy Statement. The effective date of this Privacy Statement is 1 November 2005.
+From time to time, Roche may revise this online Privacy Statement. Any such changes to this Privacy Statement will be promptly communicated on this page. Continued use of our sites after receiving notice of a change in our Privacy Statement indicates your consent to the use of newly submitted information in accordance with the amended Roche Privacy Statement. The effective date of this Privacy Statement is 15 May 2018.
 
 **How to Contact Roche**  
 For questions or if you wish Roche to amend or delete your profile, please contact us in writing (by post), as follows:
