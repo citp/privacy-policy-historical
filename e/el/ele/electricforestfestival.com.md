@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electricforestfestival.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710115428id_/https%3A//www.electricforestfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricforestfestival.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626065415id_/https%3A//www.electricforestfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electric Forest 2017
+# Privacy Policy | Electric Forest
 
 Overview
 
@@ -60,7 +60,7 @@ We may operate contests, sweepstakes or other promotions (each, a “ **Promotio
 
 Our Digital Services may enable users to post comments or other content online. We typically collect your name, email address, and website when you post content on our Digital Services. We may use this information in connection with your postings, or to contact you about a post you have made. Please be aware that your name, website and any other information you provide in a comment box or similar field on our Digital Services, including any additional Personal Information, may be made public as soon as you post it on our Digital Services. We do not screen comments or other postings for personal or inappropriate information.
 
-If you post a comment or content to social media that references our official accounts, your comment or content may appear on our Digital Services. We may receive certain Personal Information or other data if and to the extent provided to us by the social media platform. See those those third party providers for more information.
+If you post a comment or content to social media that references our official accounts, your comment or content may appear on our Digital Services. We may receive certain Personal Information or other data if and to the extent provided to us by the social media platform. See those third party providers for more information.
 
 **When you complete a Survey.**
 
@@ -118,7 +118,7 @@ How can I access or update my Personal Information?
 
 You may access or update any Personal Information we hold about you by sending a letter or email using the contact information listed below. We will respond to reasonable requests for access or revision and will provide access to the extent required or allowed by law. However, we may decide not to grant access or make revisions where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in any given case, or when the rights of others would be violated by granting the access.
 
-To obtain a list of the Personal Information that the Company holds about you, or for residents of California (as required by California law) any Personal Information the Company has disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to: Goldenvoice, LLC Attn: Marketing Department, 425 W. 11th Street, Los Angeles, California 90017.
+To obtain a list of the Personal Information that the Company holds about you, or for residents of California (as required by California law) any Personal Information the Company has disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to: Electric Forest, LLC Attn: Marketing Department, 425 W. 11th Street, Los Angeles, California 90015.
 
 What security precautions do you take to protect my Personal Information?
 
@@ -144,12 +144,12 @@ Contact us
 
 If you have any questions about this Policy, our privacy practices, or your dealings with our Digital Services, please contact:
 
-AEG Live  
+AEG Presents  
 Marketing Department  
 425 W. 11th Street  
 Los Angeles, CA 90015
 
-[privacypolicy@aeglive.com](mailto:privacypolicy@aeglive.com)
+[privacypolicy@aegpresents](mailto:privacypolicy@aegpresents.com)[.com](mailto:privacypolicy@aegpresents.com)
 
 Notice for California Users.
 
