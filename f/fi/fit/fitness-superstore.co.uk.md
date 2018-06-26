@@ -1,63 +1,53 @@
-> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927011057id_/http%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness-superstore.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626033554id_/https%3A//www.fitness-superstore.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Fitness Superstore | Privacy Policy
 
-### **What information do we collect?**
+Fitness Superstore (BODYPOWER SPORTS PLC) take your privacy seriously. This summary explains why we require this information, our security measures, and your rights in relation to the data we hold.
 
-We collect information from you when you register on our site, place an order or enter a prize draw/competition. As appropriate, you may be asked to enter your name, e-mail address, mailing address or phone number.
+## **What data do we collect, and what do we use it for?**
 
-### **What do we use your information for?**
+We collect information from you when you register on our site or place an order. As appropriate, you may be asked to enter your title, name, e-mail address, mailing address, phone number(s), and company name (business deliveries only). We collect and store this information in order to fulfil our contract with you.
 
-Any of the information we collect from you may be used in one of the following ways
+The email address and phone number you provide may be used to send you information and updates pertaining to your order (such as delivery updates). We may also contact you by email to request customer feedback (product or business review).
 
-  1. **To process transactions  
-** Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever without your consent, other than for the express purpose of delivering the purchased product or service requested by you, the customer.
-  2. **To send you periodic emails  
-** The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, please click on the unsubscribe link provided on the email and follow the instructions.
+If you choose to opt-in to marketing updates, we will email you about promotions and products. If at any time you would like to unsubscribe to marketing updates, please click on the unsubscribe link provided on the email.
 
+## **Will the data be shared with third parties?**
 
+Your information will not be sold, exchanged, transferred, or given to any other company without your consent, other than for the express purpose of delivering the purchased product or service requested by you. For example, where appropriate, we will share the information you have provided will our delivery companies, installers and maintenance engineers.
 
-### **How do we protect your information?**
+## **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology. It is then encrypted into our payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems. These persons are required to keep the information confidential. SSL encryption is virtually unbreakable. Fitness Superstore have never experienced any instance of credit card fraud resulting from information passed to us.
+All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology, the most advanced security software available for online transactions. After your transaction is complete, your credit/debit card information will not be stored on our servers.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+## **How long will the data be held?**
 
-### **Do we use Cookies?**
+We retain your order details indefinitely so that we can assist with follow up queries, complaints, product service and warranty issues. You have the right to request that we erase this personal data (see “Your Individual Rights” below).
+
+## **Your Individual Rights**
+
+You have right to access, rectify or erase your personal data. To contact us regarding this, please email [data@fitness-superstore.co.uk](mailto:data@fitness-superstore.co.uk). You may be asked to provide ID.
+
+## **Do we use Cookies?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow this). This enables the site or service provider’s systems to recognise your browser and capture and remember certain information.  
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Please also refer to our [cookie policy](https://web.archive.org/cookie-policy/ "Cookie Policy").
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Please also refer to our [cookie policy](https://www.fitness-superstore.co.uk/cookie-policy/ "Cookie Policy").
 
-### **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you. Fitness Superstore requires those third parties to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other’s rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-### **Online Privacy Policy Only**
+## **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-### **Terms and Conditions**
+## **Terms and Conditions**
 
-See our [Terms and Conditions](https://web.archive.org/terms-and-conditions/ "Terms and conditions") establishing the use, disclaimers and limitations of liability governing the use of our website.
+See our [Terms and Conditions](https://www.fitness-superstore.co.uk/terms-and-conditions/ "Terms and conditions") establishing the use, disclaimers and limitations of liability governing the use of our website.
 
-### **Your Consent**
+## Job applications
 
-By using our site, you consent to our privacy policy.
+Please find our GDPR Privacy Notice for Job Applicants [here](https://www.fitness-superstore.co.uk/gdpr-careers).
 
-### **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the modification date below. Policy changes will apply only to information collected after the date of the change.
-
-### Competitions
-
-Unless any Specific Terms tell you otherwise, we will always be the promoter of Competitions. All prize winners will be notified that they have won a prize no later than 5 days of the closing date of the competition via emai. We will not be liable for any prizes which are lost, delayed or damaged in the post for reasons beyond our control. Prizes will only be delivered to an address within the UK. Should a prize winner’s contact details change, it is their responsibility to notify us or the contact persons for the relevant competition. If a prize winner does not take any element of a prize at the time stipulated by us then that element of the prize will be forfeited by the winner. No expenses or additional costs are included in any prize unless stated. For example, the costs of transport to and from an event are not included. By entering a prize draw, you are opting in to our email database to receive marketing offers by email. We will not pass on your details to any third parties. 
-
-  
-This policy was last modified on 07/08/2014.
-
-### **Contacting Us**
+## **Contacting Us**
 
 If you have any questions regarding this privacy policy, please contact us using the information below.
 
@@ -68,4 +58,10 @@ Northampton
 NN3 8RJ  
 United Kingdom  
 [sales@fitness-superstore.co.uk](mailto:sales@fitness-superstore.co.uk)  
-01604673000
+0333 696 8789
+
+## **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on: 24.05.18
