@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsxprss.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127135113id_/http%3A//www.newsxprss.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsxprss.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626021752id_/http%3A//www.newsxprss.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Dose of Curated News
 
