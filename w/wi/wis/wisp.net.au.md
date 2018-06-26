@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisp.net.au privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225110949id_/http%3A//www.wisp.net.au/privacy-policy-pm-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisp.net.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626201752id_/http%3A//www.wisp.net.au/privacy-policy-pm-4.html) for the most accurate reproduction.*
 
-# Wireless Professional Solutions Mikrotik, Ubiquiti, Planet, Giada
+# Wireless Professional Solutions Mikrotik, Ubiquiti, Planet, Giada, Ubiquiti, Ignitenet, Metrolinq
 
 **Our Commitment To Privacy:**
 
