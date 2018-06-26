@@ -1,57 +1,145 @@
-> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162056id_/http%3A//www.asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626104418id_/https%3A//www.asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - American Society of Anesthesiologists (ASA)
 
-Last Updated: June 26, 2008.
+This privacy notice discloses the privacy practices for the American Society of Anesthesiologists (ASA). Any questions regarding this policy and our privacy practices should be sent to [privacy@asahq.org](mailto:privacy@asahq.org).
 
-Thank you for visiting the website (“Site”) of the American Society of Anesthesiologists ("ASA"). This privacy policy ("Privacy Policy") explains our practices for information collected via the Site, how such information is used, the circumstances under which we disclose such information to third parties and the choices you can make about the way we use and share such information. Please take the time to read and understand this Privacy Policy so you can understand how we use your personal information.
+**This privacy notice will notify you of the following:**
 
-When we use the term "personal information" we mean information such as your first/middle initial or first name and last name, street address, town or city, state, zip code, telephone number, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal information also includes information about your personal preferences, survey or application responses and your transactions or relationship with us, if you have been a user of the Site or you have provided this type of information to ASA or its affiliates.
+  * What personally identifiable information is collected from you and how it is used 
+  * With whom your information may be shared 
+  * The security and retention procedures in place to protect your information 
+  * How you can correct any inaccuracies in the information 
+  * What choices are available to you regarding the use of your data 
 
-This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use. Any capitalized terms that are not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms of Use. We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. We encourage you to check this Privacy Policy and Terms of Use often for updates.
 
-Your continued use of the Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your personal information as described herein. This Privacy Policy will remain in full force and effect as long as you are a user of the Site, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason.
 
-**The Information We Collect**  
-We may collect certain non-personally identifiable information (i.e., generic information that does not identify you personally) when you visit any of our web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online or Earthlink). We also may collect personal information about you when you visit the Site and input information, whether you are registering to use any services, features or functions of the Site, or otherwise in the course of any other exchanges of information, transactions and activities. During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as message boards, electronic mail services, messaging services, registration and member profile pages.
+#### Personal Information We Collection and Use: 
 
-**How We Use the Information**  
-We may use the information we obtain from you, including personal information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences. We will use the personal information you provide online only for the purpose(s) you have submitted. Examples of using your personal information for the purpose(s) submitted include sending you an email about updates to the Site or about an upcoming event if you have signed up for updates. We also may conduct an occasional survey of our registered users, to see how our Site can better serve you. In addition, we may send to you an e-mail offering products or services that we think you may be interested in. 
+We make sure that our use of your personal information falls under one or more lawful grounds, including for the performance of a contract, to meet legal obligations, for legitimate business interests or in some instances, with your prior consent. 
 
-**How We Share Your Personal Information**  
-We will not share the personal information you provide except (a) as otherwise permitted under this Privacy Policy (b) if it is for the purpose(s) you provided it; (c) with your consent; (d) as may be required by law or as we think necessary to protect our company or others from injury (e.g., in response to a court order or subpoena, in response to a law enforcement agency request, or when we believe that someone is causing, or about to cause, injury to or interference with the rights or property of another); (e) with other persons or companies or affiliated or related organizations with whom we contract to carry out internal Site operations or our business activities (for example, third-party contractors -- see below); (f) with organizations in connection with the provision of their respective information, products, materials and services or for marketing and/or administrative purposes; (g) in the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us or our affiliates; and/or (h) to notify you when we make changes to one of our subscriber agreements or this policy. Our business needs may change from time to time and we reserve the right to make changes to our Privacy Policy. 
+We collect information when you are: 
 
-Our operations and maintenance contractors sometimes have limited access to your personal information in the course of providing products or services to ASA. These contractors include vendors and suppliers that provide us with email distribution technology, services, and/or content for the operation and maintenance of our Site. Access to your personal information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function for ASA. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personal information consistent with this Privacy Policy, and 2) not use or disclose your personal information for any purpose other than providing us with products and services as required by law.
+**Creating an account or updating your online profile on the ASA website**  
+We ask that you register on the ASA website: 
 
-ASA is committed to protecting your privacy. We maintain reasonable physical, electronic, and procedural safeguards to guard your personal information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use reasonable efforts to ensure the protection of your personal information.
+  * As the first step in our ordering process, we require your contact information to fulfill our obligations in the performance of the order contract. 
+  * To provide content to you as developed at the expense to ASA and made available to the public at no cost for which we have a legitimate interest in being able to contact those that have demonstrated interest in that content. 
+  * To access a third-party website used by ASA to provide goods and services as described below.  
 
-**Opt-Out**  
-If you would like to instruct ASA not to use your personal information as we describe above, please contact us at [advocacy@asahq.org](mailto:advocacy@asahq.org) and clearly state your request.  We will not use your personal information, however, in a manner inconsistent with this Privacy Policy without first obtaining your consent to do so.  If intended uses differ from this policy, we will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an email). 
 
-**Use and Disclosure of Anonymous Information**  
-We sometimes use non-personally identifiable information that we collect to improve the design and content of our Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our Site is used, as well as to offer you products, programs, or services. We may also share aggregate information with others, including affiliated companies and non-affiliated companies.
 
-**Collection of Information by Others**  
-Our Site may contain links to other Sites whose information practices may be different from ours. You should check the other sites' privacy notices since we have no control over information that is submitted to or collected by them.
+ASA websites and third-party websites used by ASA make use of use Single Sign On (SSO) wherever possible.  SSO allows you to have only one login to access many ASA services. Your username and password are stored in one system with a hashed and salted one-way encryption algorithm and are not shared with any third party, even in the execution of SSO. After login to a third-party website, your contact information may be shared with the third-party system so that we don’t ask you to re-enter information that you have provided already. 
 
-**International Users**  
-If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using the Site, you authorize and specifically consent to the export of your personal information to the USA and its storage and use as specified above when you provide such information to us. This policy and our legal obligations are subject to the laws of the State of Illinois and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of Illinois.
+**Becoming a member of ASA**    
+We collect information from you necessary to: 
 
-**How You Can Access or Correct Your Personal Information**  
-For instructions on how you can access the personal information that we have received about you online, or how to correct any errors in such information, please send an email to [advocacy@asahq.org](mailto:advocacy@asahq.org).
+  * Validate your qualifications for membership and specific membership categories 
+  *  Identify members for leadership and other volunteer participation opportunities within the Society 
+  * Enable networking and collaboration opportunities between members. One of the primary means of accomplishing this is the online Member Directory. You may opt out of the ASA Member Directory as well as have limited control over which of your personal information that appears is shared with other members. 
+  * Enable us to fulfill our mission  
 
-To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections. We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions. And if the burden or expense of providing access to your personal information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.
 
-**Special Note for Parents**  
-This Site is not intended for use by children under the age of 13. The Site does not knowingly collect or store personal identifiable information from children under the age of 13. If you have concerns about this Site or its services, if you want to find out if your child has registered for one our services, or if you want to cancel your child's registration, please contact us at [advocacy@asahq.org](mailto:advocacy@asahq.org). If you believe that your child under 13 has gained access to our Site without your permission, you may contact us at [advocacy@asahq.org](mailto:advocacy@asahq.org).
 
-**Transfer of Business Assets**  
-The personal information you provide is considered a company asset and may be included among transferred assets if ASA, any or all of its subsidiaries or affiliates, or any of their assets is ever acquired by or merged into a third party.
+We may ask for sensitive personal information such as gender, race or ethnicity. These will always be optional data and you will not be required to provide that information to become a member of ASA. This information helps us understand the diversity of our membership and the profession and is important for us to advance the profession of Anesthesiology. 
 
-**How to Contact Us**  
-If you have any questions or concerns about this Privacy Policy, you may email [advocacy@asahq.org](mailto:advocacy@asahq.org) or write to the following address:
+We also collect membership and payment information on behalf of your selected state component society. We will share that information, along with your contact information, with your selected state component society so that they can provide the goods and services included with your membership in that society. 
 
-American Society of Anesthesiologists  
-1501 M Street NW  
-Suite 300  
-Washington, DC 20005
+**Registering for or attending an ASA event**    
+We will collect information such as who to contact during an emergency while you are on site at the event, or how to accommodate dietary restrictions and other information regarding your housing and other travel logistics to help us plan and execute our event.   We will also ask whether you require assistance with auditory, visual or mobility needs in compliance with the Americans with Disabilities Act. 
+
+We may ask for information about your professional affiliation, fields of study and/or practice and your place of work. This information, in the aggregate, helps us to plan future events and help us demonstrate value to exhibitors. 
+
+We may also provide technology for your use to help us understand traffic patterns at the event to help us plan future events, to help us ensure that there is appropriate seating and overflow accommodations at the event and to make it easier for you to claim credits for any qualifying educational sessions you may have attended. We may share anonymized data from these technologies to exhibitors to help them understand traffic patterns and aggregate demographic data about attendees who came to their exhibit booth.  
+
+**Obtaining online education from ASA**    
+We may ask you for information regarding your membership in other organizations providing certification to enable you to claim credit with the certifying body, e.g. the American Board of Anesthesiology.   We may also share that information as well as information about the course(s) completed with the certifying organization to help you receive credit for your education activities. 
+
+**Ordering or purchasing products or services from ASA**    
+We will collect contact payment information necessary to process the order.  Credit card information is encrypted as it passes from you, through our systems and to the payment processor.  You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.   Credit card information is not stored in our systems at any time.
+
+**Contact and notification forms**    
+When using a form to contact ASA or requesting to be notified by ASA when certain conditions have been met, e.g. when the registration for the ASA annual meeting is open to the public, we will ask for your name and email so that we can respond to you regarding the reason you contacted us.
+
+**Notifying ASA of potential conflicts of interest**    
+When participating in ASA activities covered under ASA’s [Statement on Conflict of Interest](https://www.asahq.org/member-center/my-account/statement-on-coi), we will ask you to disclose information of certain activities or financial interests that you or a family member have in and outside of ASA. This information is necessary to ensure that members serving in these capacities can meet their obligations to avoid conflicts, or apparent conflicts between their duties to the Society and personal interests or duties with other organizations.  
+
+**Volunteering to participate in the ASA governance process and/or** **committee program initiatives**    
+When you are nominated, or when self nominating to serve as a volunteer on an ASA committee or other ASA governance body or a committee program initiative, we will ask you for information about your professional and leadership experience.  This information will be shared with appropriate ASA member leaders and ASA staff to facilitate the selection process.  We may also ask for sensitive personal information such as gender, race or ethnicity.  This will always be optional data and you will not be required to provide this information to become a member of ASA, or to serve on an ASA committee or otherwise participate in any ASA governance activity.  
+
+**Submitting content for an ASA publication or event**    
+When submitting a proposal to present at a live ASA meeting, we may ask for your level of training, considerations we should be aware of that could impact scheduling along with general demographic information.   This information may be shared with appropriate ASA member leaders and ASA staff to facilitate the selection process. 
+
+**When submitting content for publication in an Anesthesiology**    
+Anesthesiology collects personal information including your contact information and academic resume submitted by yourself or those with whom you may have co-authored a paper. This information is used during the peer review process from initial submission to final publication. This information may be shared with journal editors and reviewers during the peer review process.  
+
+**Making a donation to ASAPAC**    
+We will ask for information about your citizenship status, your employer and your occupation. This information is required to meet reporting requirements of the Federal Election Commission (FEC).   
+
+**Applying to become a Fellow of the ASA (FASA)**    
+We will ask for information required to establish that you meet the eligibility criteria. This includes, but is not limited to place of employment, NPI number, medical licenses, board certifications, education, professional work history and professional leadership experience. This information will be shared with other ASA members and ASA staff in order to evaluate your qualifications. 
+
+**Using ASA websites, mobile apps and other digital platforms**    
+In addition to activities listed elsewhere in this policy, we may collect information about how you are using ASA websites, mobile apps and other digital platforms.  This may include, but is not limited to: 
+
+  * Your IP address and the region of the country and world you live in
+  * Type of device and operating system that you are using
+  * Frequency and duration of your sessions
+  * Types of content you access
+  * The pathways you take as you navigate our digital systems
+  * Searches you conduct
+
+
+
+This information is used for website security, enables us to understand the interests of our users, understand which content areas are trending and important and helps us to enhance the experiences on our digital properties.
+
+This information is collected with and without the use of cookies, which are pieces of data stored on your hard drive.
+
+#### Sharing of Personal Information:
+
+We may pass your information to our third-party service providers, agents subcontractors and other associated organizations for the purposes of completing tasks and providing services to you on your behalf (for example to process applications, to process donations and send you mailings). However, when we use third party service providers, we disclose only the personal information that is necessary to deliver the applicable service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes. Please be reassured that we will not release your information to third parties unless you have requested us to do so, or we are required to do so by law (for example, by a court order or for the purposes of prevention of fraud or other crime). ASA rents email and primary mailing address information of ASA members, that have not opted out of of third-party CME communications, to non-profit organizations who wish to promote CME activities to our members. Members are provided the opportunity to opt out through the unsubscribe options included at the bottom of any email sent through this program. Members can also opt out of this program at any time by contacting Member Services at [info@asahq.org](mailto:info@asahq.org).
+
+#### Security and Retention of Personal Information:
+
+**Retention  
+**We are legally required to hold some types of information to fulfill our statutory obligations, e.g. ASAPAC donations.  We will hold your personal information in our systems for as long as is necessary for the relevant activity, for our legitimate business purposes or as long as is set out in any relevant contract you hold with us.
+
+**Security**    
+We take precautions to protect your information. When you submit sensitive information to ASA, your information is protected both online and offline. Wherever we collect sensitive information (such as username and password or credit card information), that information is encrypted and transmitted to us in a secure way.  
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The website is also hosted in a secure environment. 
+
+Non-sensitive personal information may be transmitted over the Internet, and this can never be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. Once we receive your information, we make our best effort to ensure its security on our systems and when we transmit to one of our third-party providers.  
+
+**Passwords**    
+Where we have given (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+**Links**    
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
+
+#### Access to and Control Over Information
+
+**Updating your Information**    
+The accuracy of your information is very important to us. You can review and change your information online by logging on to our website and going to the [My Account](https://www.asahq.org/member-center/my-account) page.   
+
+You may contact us via the email address or phone number given on the [Contact Us](https://www.asahq.org/about-asa/contact-us) page of our website to inquire about what data we have about you, if any, or to change any data we have about you. 
+
+#### Your Choices
+
+If you do not wish to receive direct marketing communications from us, you can let us know at any time by unsubscribing via the unsubscribe link at the bottom of our marketing email communications and email newsletters. 
+
+You may also contact us via the email address or phone number given on the [Contact Us](https://www.asahq.org/about-asa/contact-us) page of our website to change your marketing preferences. 
+
+**Right to Be Forgotten**    
+For residents of the European Union, under the GDPR regulations, you can request to be forgotten. Due to the complex nature of the many systems that can hold your personal data, we may choose to accomplish this by anonymizing some of your personal information such as name, address and email, but retain the records of your activity. As the Data Controller, we will also pass this request along to the third parties with which we have a Data Processing Agreement and request that they honor your right to be forgotten. We have no control over their performance of the request.   
+
+This action is permanent and cannot be undone. If you later change your mind, you would be required to create another account which could make it difficult to see a complete history of your activity, impacting your ability to receive some benefits. To be forgotten, make your request to [privacy@asahq.org](mailto:privacy@asahq.org). 
+
+As stated elsewhere in this policy, some personal data may need to be retained for legitimate interests or contractual or statutory obligations.   
+
+**Right to Object**    
+For residents of the European Union, under the GDPR regulations, you have the right to object to the processing of your personal data. You may submit such requests to [privacy@asahq.org](mailto:privacy@asahq.org). 
+
+#### Update to our Privacy Policy 
+
+This policy may be updated from time to time.  This policy was last updated 06/09/2018. 
