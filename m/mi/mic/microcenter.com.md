@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221121105id_/http%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626042436id_/http%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Micro Center
-
-Skip to Main Content Area Site Selections - Account, Store, Cart General Information - Store Pickup, Customer Support, Catalog, Service Product Search Form Product Category Navigation Product Brand Navigation Footer
-
-This page discloses the privacy policy of Micro Electronics, Inc., Micro Center® and Micro Center Online®. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use.
-
-By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/site/customer-support/security.aspx) for online purchases.
-
-Micro Electronics, Inc. operates retail stores and web sites under the names of Micro Center and Micro Center Online. Micro Electronics, Inc. is the parent company of these companies, and as such, when you provide information to any of these entities, this information may be combined or shared between current or future Micro Electronics, Inc. entities and subsidiaries.
-
-This site is restricted to users from the United States and those not governed by privacy policies of the European Union. Users from the European Union are advised not to disclose personal information on this site.
 
 ## How is personally identifiable information collected?
 
@@ -72,8 +62,8 @@ Email us at [csrs@microcenterorder.com](mailto:csrs@microcenterorder.com) Note: 
 There are various methods for letting us know if you would or would not like to receive Micro Center and Micro Center Online postal or email promotions. (Please note that if you opt out of our email marketing communications, you may still receive business-related communications such as order and shipping confirmations, product recall information or other administrative communications.)
 
   * **Subscribe / Unsubscribe Online**  
-**For email,** [click here.](https://email.microcentermedia.com/q/Microcenter/microcenter_Subscription) This will take you to our Email Preference Center where you can sign up to receive our various marketing promotions or request to no longer receive specified marketing promotions. All promotional emails we send you also contain a link allowing you to opt out of these specific emails in the future. Click on the relevant link and follow the simple instructions.  
-**For postal** , just access our [Postal Preference Center](http://email.microcentermedia.com/q/Microcenter/microcenter_SubscriptionCenter_PRINT_Updated_122015) to express your preferences.
+**For email,** [click here.](https://microcenterinsider.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DYQpglLjHJlTQGghNPnvyI3AMpzdX7zdATq3sgwr2sYWUDaVXMtX%3DYQpglLjHJlTQGoPjl1aYUBLJiwzg1gRl4yyPfEqzbzaSfnza&_ei_=Etna52KgJplwhKMdQbhEXcU) This will take you to our Email Preference Center where you can sign up to receive our various marketing promotions or request to no longer receive specified marketing promotions. All promotional emails we send you also contain a link allowing you to opt out of these specific emails in the future. Click on the relevant link and follow the simple instructions.  
+**For postal** , just access our [Postal Preference Center](https://microcenterinsider.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DYQpglLjHJlTQGlRjArpOJarq105fLDdlrvGMb0P8AJYe4nVXMtX%3DYQpglLjHJlTQGj5dbG1mfUo7izbwXNi1fgDnUwRzeb7l4toO&_ei_=EjySNquvCKNYfMgauwP6vqY) to express your preferences.
   * **Subscribe / Unsubscribe by Letter**  
 Communications Department, 4119 Leap Road  
 Hilliard, Ohio 43026  
@@ -136,5 +126,3 @@ Authentic Sites like microcenter.com use a VeriSign Secure Server Digital ID to 
   * The name of the Secure Server Certification Authority under which VeriSign issued the Digital ID (RSA Data Security or VeriSign)
 
 
-
-##  Our Policies
