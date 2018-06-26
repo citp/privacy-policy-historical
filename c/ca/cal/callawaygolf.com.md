@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callawaygolf.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109181615id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callawaygolf.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626125548id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service | Callaway
 
@@ -17,13 +17,13 @@ Information you post or share on the Site.** We collect the information you post
 
 **Information about your Callaway account.** For example, we may collect user names and passwords.
 
-**Other information.** For example, we may collect information about the website browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location. This may include your precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. If you use our mobile app, we may also access your device’s location information in the background.  We might also collect device identifiers. We collect this information using the tracking tools described below. To control those tools, [visit here](http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy).
+**Other information.** For example, we may collect information about the website browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location. This may include your precise location. We may collect this using different types of technologies, including GPS and Wi-Fi. If you use our mobile app, we may also access your device’s location information in the background.  We might also collect device identifiers. We collect this information using the tracking tools described below. To control those tools, [visit here](http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy).
 
 ### How We Collect Your Information 
 
 **We collect information directly from you.** For example, we collect information when you register on the Site or make an online purchase. We also collect information if you take our surveys or participate in online forums. From time to time we offer sweepstakes, contests, and prize draws, and collect information as part of those programs. We may also allow you to post information in an online forum.  
 **  
-We collect information from you passively.**  For example, we use common tracking tools like cookies and web beacons. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this website. Learn more about these tools and how you can control them, [here](http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy). We also collect information from our mobile apps.  
+We collect information from you passively.**  For example, we use common tracking tools like cookies and web beacons. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this website. Learn more about these tools and how you can control them, [here](http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy). We also collect information from our mobile apps.  
 **  
 We get information about you from third parties.**   For example, social media websites may provide us with information about you. 
 
@@ -69,7 +69,7 @@ We may share information for other reasons we may describe to you.**
 
 **Controlling information shared with third parties for marketing purposes.** To opt out of having your information shared with third parties for their marketing purposes, please [email us](mailto:webmaster@callawaygolf.com). We will process your request as required by law. Some of our sites also have a "My Profile" area where you can modify your preferences.
 
-**Controlling cookies and tracking tools.** You can choose to turn off tracking tools. To learn how, read our **Do Not Track** policy [here](http://www.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy) . However if you don't provide us with information you will not be able to participate in certain features, like contests or sweepstakes. Also, if you turn off tracking, some features may not work.  
+**Controlling cookies and tracking tools.** You can choose to turn off tracking tools. To learn how, read our **Do Not Track** policy [here](http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy) . However if you don't provide us with information you will not be able to participate in certain features, like contests or sweepstakes. Also, if you turn off tracking, some features may not work.  
 We contract with third parties to serve our ads across the Internet. The ads we serve may be based on tracking activities, as described in more detail below.  
 **  
 Controlling tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.  Each push notification has an “unsubscribe” link.
@@ -91,7 +91,7 @@ Our sites are generally operated in the United States. If you are located outsid
 ### Links to Third-Party Sites 
 
 Our sites contain links to third-party sites. If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the information practices of that website. You should read the privacy policy of other websites carefully. We are not responsible for such third party's sites.  
-Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click _here_. We do not control the use of those technologies.
+Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click [here](http://shop.callawaygolf.com/on/demandware.store/Sites-CG2-Site/en_US/CustomerService-Show?fid=legal&cid=ad-cookie-policy). We do not control the use of those technologies.
 
 ### Contact Us 
 
