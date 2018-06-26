@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imonomy.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229050847id_/http%3A//imonomy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imonomy.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626053749id_/http%3A//imonomy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,3 +106,17 @@ If you think that any personal information imonomy holds about you is incorrect 
   * “website” means the imonomy website accessible on the imonomy.com domain.
 
 
+
+**Privacy**
+
+You agree to apply the EU-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce, located at https://privacyshield.gov/ (“Privacy Shield Principles”) to all data that Imonomy transfers to you that originates from the European Economic Area or Switzerland when that information meets the definition of “personal data” in the Privacy Shield Principles (“EEA Data”). For clarity, you agree to (a) use EEA Data only for purposes consistent with the Imonomy privacy policy (if you receive EEA Data as a “controller” as defined by the Privacy Shield Principles) or only for purposes specified by Imonomy (if you receive EEA Data as a “processor” as defined by the Privacy Shield Principles); (b) notify Imonomy upon your determination that you can no longer apply the Privacy Shield Principles to EEA Data; and (c) upon such determination, cease use of EEA Data or take other reasonable and appropriate steps to apply the Privacy Shield Principles to EEA Data.
+
+If your Offering is directed to children under 13 years old, or under any other age-threshold pursuant to the applicable Law, or if you have actual knowledge that you are collecting personal information from children under that above mentioned age, you will maintain full compliance with relevant Laws, including – if applicable – the US Children Online Privacy Protection Act (COPPA), and the provisions applicable to the protection of a child’s data under Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR). Without limiting the aforesaid, you will provide all necessary notices and receive all necessary consents, including verifiable parental consent, as required under the applicable Law, to Imonomy use of personal information. 
+
+**Data Processing**
+
+This Data Processing Agreement applies when Personal Information is Processed by Imonomy as part of Imonomy’s provision of the Service, as further specified in the Agreement and the applicable order form. In this context, to the extent that provisions under the GDPR apply to Personal Information that Imonomy processes for Customer under the Agreement, Customer is the Data Controller and Imonomy and applicable Affiliates are the Data Processor under such laws and regulations.
+
+Instructions for Imonomy’s Processing of Personal Information. Imonomy will only Process Personal Information on behalf of and in accordance with Customer’s instructions. Customer instructs Imonomy to Process Personal Information for the following purposes: (i) Processing in accordance with the Agreement and applicable order forms, including, without limitation to provide the Service, and for back-up and disaster recovery, cyber security, operations, control, improvements and development of Imonomy’s Service, fraud and service misuse prevention and legal and administrative proceedings; and (ii) Processing to comply with other reasonable instructions provided by Customer where such instructions are consistent with the terms of the Agreement and comply with applicable Privacy Laws and Regulations. 
+
+Processing outside the scope of this DPA (if any) will require prior written agreement between Imonomy and Customer on additional instructions for processing, including agreement on any additional fees Customer will pay to Imonomy for carrying out such instructions.
