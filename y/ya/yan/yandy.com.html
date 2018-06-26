@@ -1,7 +1,327 @@
-<!--The following is the downloaded HTML source of the yandy.com privacy policy that was archived on 2017-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201000108id_/http%3A//www.yandy.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yandy.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626095835id_/https%3A//www.yandy.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<html><head><link href="//assets.yandycdn.com/javascript/player5/skin/blue.monday/jplayer.blue.monday_2.css" rel="stylesheet" type="text/css">
+<html><head><style>
+    .faq-container {
+        text-align: center;
+    }
+
+    .faq-container * {
+        box-sizing: border-box;
+    }
+
+    .faq_header {
+        position: relative;
+        padding-top: 30px;
+        background: #fce1f0;
+	    min-height: 160px;
+    }
+
+    .faq_header .header_text {
+        position: relative;
+        top: 15px;
+    }
+
+    .faq_header .header_text h1 {
+        font-size: 42px;
+        line-height: 44px;
+        letter-spacing: 0;
+        color: #000;
+    }
+
+    .faq_header .header_text h2 {
+        font-size: 22px;
+        line-height: 28px;
+        color: #e60b8a;
+        letter-spacing: 0;
+        font-weight: normal;
+    }
+
+    .faq_header .header_search {
+        position: relative;
+        top: 30px;
+        margin: 0 auto;
+        display: flex;
+        align-content: center;
+        background: #ffffff;
+        padding: 20px;
+        max-width: 960px;
+        box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.10);
+        border-radius: 2px;
+    }
+
+    .faq_header .header_search input {
+        border: 1px solid #D0D0D0;
+        box-shadow: inset 0 1px 2px 0 rgba(0, 0, 0, 0.10);
+        border-radius: 2px;
+        padding: 10px;
+        flex: 4;
+        margin-right: 10px;
+    }
+
+    .faq_header .header_search input:hover {
+        border: 1px solid #bdbdbd;
+    }
+
+    .faq_header .header_search input:focus {
+        border: 1px solid #e60B8A;
+    }
+
+    .faq_header .header_search button {
+        background: #e60b8a;
+        border: none;
+        color: #ffffff;
+        padding: 10px;
+        flex: 1;
+        border-radius: 2px;
+    }
+
+    .faq_header .header_search button:hover {
+        background: #ce097b;
+        cursor: pointer;
+    }
+
+    .faq_header .header_search button:active {
+        background: #ac0868;
+    }
+
+    .faq_body {
+        padding: 50px 0;
+        min-height: 500px;
+    }
+
+    .faq_body .category-list {
+        display: flex;
+        max-width: 960px;
+        margin: 0 auto;
+        align-content: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #f3f4f4;
+    }
+
+    .faq_body .category-list.dimmed {
+        opacity: 0.5;
+        pointer-events: none;
+    }
+
+    .faq_body .category-list .category-list_item {
+        flex: 1;
+        letter-spacing: 0;
+    }
+
+    .faq_body .category-list .category-list_item:hover {
+        color: #e60B8A;
+        cursor: pointer;
+    }
+
+    .faq_body .category-list .category-list_item.active {
+        text-decoration: underline;
+        color: #e60B8A;
+    }
+
+    .faq_body .question-list {
+        position: relative;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+
+    .faq_body .question-list.dimmed .question {
+        opacity: 0.5;
+        pointer-events: none;
+
+    }
+
+    .faq_body .question-list .question {
+        position: relative;
+        padding: 20px;
+        background: #fff;
+        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.30);
+        border-radius: 2px;
+        font-size: 16px;
+        color: #000000;
+        letter-spacing: 0.8px;
+        line-height: 28px;
+        max-height: 10000px;
+        max-width: 960px;
+        margin: 0 auto 10px auto;
+        /*transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1), background 0s ease;*/
+        transition: all 400ms ease, background 0s ease;
+    }
+
+    .faq_body .question-list .question.hidden {
+        /*margin-bottom: 0;*/
+        /*padding: 0;*/
+        /*max-height: 0;*/
+        /*transition: all 200ms cubic-bezier(0.77, 0, 0.175, 1);*/
+        /*transition: all 200ms ease;*/
+        /*box-shadow: none;*/
+        /*overflow: hidden;*/
+        display: none;
+    }
+
+    .faq_body .question-list .question.hidden span {
+        opacity: 0;
+        transition: all 0s ease;
+    }
+
+    .faq_body .question-list .question.loading span {
+        background: #f3f4f4;
+        color: #f3f4f4;
+    }
+
+    .faq_body .question-list .question:hover {
+        cursor: pointer;
+        background: #fafbfb;
+    }
+
+    .faq_body .question-list .question:active {
+        cursor: pointer;
+        background: #f3f4f4;
+    }
+
+    .faq_body .question-list .question .answer {
+        position: absolute;
+        top: 0;
+        left: -20px;
+        width: 1000px;
+        background: #fff;
+        border-radius: 2px;
+        padding: 20px;
+        box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.20);
+        opacity: 0;
+        transform: translateY(20px) scaleX(0.96);
+        transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1);
+        pointer-events: none;
+    }
+
+    .faq_body .question-list .question .title span {
+        /*transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1);*/
+        transition: all 300ms ease;
+        font-size: 20px;
+    }
+
+    .faq_body .question-list .question:hover {
+        position: relative;
+        max-width: 970px;
+        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.30);
+        /*transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1);*/
+
+        transition: all 400ms ease;
+    }
+
+    .faq_body .question-list .question.answer {
+        position: relative;
+        max-width: 1000px;
+        box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.20);
+        /*transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1);*/
+        transition: all 400ms ease;
+        cursor: initial;
+        pointer-events: all;
+        padding-bottom: 40px;
+    }
+
+    .faq_body .question-list .question.answer:hover {
+        background: #fff;
+    }
+
+    .faq_body .question-list .question.answer .actions {
+        opacity: 1;
+        max-height: 40px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .faq_body .question-list .question .actions {
+        display: flex;
+        opacity: 0;
+        max-height: 0;
+        padding: 0;
+        margin: 0;
+        transition: opacity 400ms ease, max-height 400ms ease;
+        overflow: hidden;
+
+    }
+
+    .faq_body .question-list .question .actions .col-1of2 {
+        flex: 1;
+    }
+
+    .faq_body .question-list .question .actions .answer_close, .faq_body .question-list .question .actions .answer_previous {
+        color: #e60b8a;
+        text-decoration: underline;
+        font-size: 13px;
+    }
+
+    .faq_body .question-list .question.answer .actions .answer_close:hover, .faq_body .question-list .question.answer .actions .answer_previous:hover {
+        cursor: pointer;
+    }
+
+    .faq_body .question-list .question .actions .answer_close {
+        text-align: right;
+    }
+
+    .faq_body .question-list .question .actions .answer_previous {
+        text-align: left;
+    }
+
+    .faq_body .question-list .question.answer .title span {
+        font-size: 28px;
+        font-weight: bold;
+        line-height: 32px;
+        margin: 0;
+    }
+
+    .faq_body .question-list .question .body {
+        max-height: 0px;
+        overflow: hidden;
+        transition: all 200ms ease;
+        max-width: 900px;
+        margin: 0 auto;
+        letter-spacing: 0;
+        line-height: 22px;
+    }
+
+    .faq_body .question-list .question.answer .body {
+        max-height: 10000px;
+        padding-top: 20px;
+        /*transition: all 400ms cubic-bezier(0.77, 0, 0.175, 1);*/
+        transition: all 400ms ease;
+    }
+
+    .dimmed {
+        opacity: 0.5;
+        pointer-events: none;
+    }
+
+	p {
+		font-size: 14px !important;
+	}
+
+	.search-loader {
+		margin-left: 5px;
+	}
+
+	.single-question {
+		display: none;
+		text-align: left;
+		position: relative;
+		margin: 0 auto;
+		/*display: flex;*/
+		/*align-content: center;*/
+		background: #ffffff;
+		padding: 20px;
+		max-width: 960px;
+		box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.10);
+		border-radius: 2px;
+	}
+
+	.question-paragraph {
+		margin-top: 10px;
+		text-indent: 8px;
+	}
+
+</style>
+ 
 
 
 
@@ -20,8 +340,9 @@
                 		<meta property="fb:admins" value="617859103,10150376547353620">
         <meta property="fb:app_id" content="120443771394224">
                
-		<link rel="icon" href="/assets/images/favicon.ico" type="image/gif">
-				            </head>
+		<link rel="icon" href="https://assets.yandycdn.com/assets/images/favicon.ico" type="image/gif">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-channel="5ac51a62cf2e0f0acac9979a" src="//creator.zmags.com/channels.js"></script>
+        		            </head>
 
     <body>
 
@@ -29,9 +350,9 @@
     <div id="checkoutToken" data-value="" class="hide"></div>
 	                            <style>
     </style>
-<link href="/assets/css/critical.css" rel="stylesheet" type="text/css">
+<link href="https://assets.yandycdn.com/assets/css/critical-new3.css" rel="stylesheet" type="text/css">
 <style>
-    .flexslider{margin:0;background:#ffecf4;background:#f3f4f4;padding:0;padding-top:34%;position:relative;zoom:1}.flexslider > .flex-viewport{opacity:0;position:absolute!important;top:0;max-height:2000px;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;transition:all 300ms ease;-webkit-transform:translatez(0);-moz-transform:translatez(0);-ms-transform:translatez(0);-o-transform:translatez(0);transform:translatez(0)}
+    .flexslider{margin:0;background:#ffecf4;background:#f3f4f4;padding:0;padding-top:34%;position:relative;zoom:1}.flexslider > .flex-viewport{position:absolute!important;top:0;max-height:2000px;-webkit-transition:all 300ms ease;-moz-transition:all 300ms ease;transition:all 300ms ease;-webkit-transform:translatez(0);-moz-transform:translatez(0);-ms-transform:translatez(0);-o-transform:translatez(0);transform:translatez(0)}
 </style>
 <style>
     .banner {
@@ -68,6 +389,7 @@
 	<div class="topbar banner ">
     <div id="top-nav">
 
+		
             
         <div class="black-bar">
             <div class="logo"><a title="Lingerie" href="/"><img alt="Lingerie" src="//assets.yandycdn.com/assets/images/new-logo-white-bold.png" height="auto" width="135px"></a></div>
@@ -106,260 +428,106 @@
 
     <!-- START MAIN NAV -->
 
-        <div id="navigation" class=" banner ">
-        <ul class="nav clearfix animated">
-            <li nav-id="black-friday">
-                <a style="color:#E60EB8" href="/cyber-monday-2017">CYBER MONDAY!</a>
+	
+	    
+
+    <div id="navigation" class=" banner ">
+        <ul class="nav clearfix animated acontainer">
+						 <li nav-id="lingerie">
+                <a data-click="hpnav:LINGERIE" style="" href="/Shopping/products/category_11.asp">LINGERIE</a>
             </li>
-                                            <li nav-id="112">
-                    <a href="http://www.yandy.com/Shopping/products/category_11.asp">
-                                                        LINGERIE
-
-                                            </a>
-                </li>
-                                            <li nav-id="84">
-                    <a href="http://www.yandy.com/bras.php">
-                                                        BRAS
-
-                                            </a>
-                </li>
-                                            <li nav-id="115">
-                    <a href="http://www.yandy.com/swimwear.php">
-                                                        SWIM
-
-                                            </a>
-                </li>
-                                            <li nav-id="15">
-                    <a href="http://www.yandy.com/Shopping/products/category_15.asp">
-                                                        DRESSES
-
-                                            </a>
-                </li>
-                                            <li nav-id="32">
-                    <a href="http://www.yandy.com/activewear.asp">
-                                                        ACTIVEWEAR
-
-                                            </a>
-                </li>
-                                            <li nav-id="13">
-                    <a href="http://www.yandy.com/Shopping/products/category_13.asp">
-                                                        HOSIERY
-
-                                            </a>
-                </li>
-                                            <li nav-id="109">
-                    <a href="http://www.yandy.com/panties.php">
-                                                        PANTIES
-
-                                            </a>
-                </li>
-                                                            <li nav-id="76">
-                    <a href="http://www.yandy.com/dancewear.php">
-                                                        DANCE
-
-                                            </a>
-                </li>
-                                            <li nav-id="39">
-                    <a href="http://www.yandy.com/shoes.php">
-                                                        SHOES
-
-                                            </a>
-                </li>
-                                            <li nav-id="16">
-                    <a href="http://www.yandy.com/Shopping/products/category_16.asp">
-                                                        PLUS SIZE
-
-                                            </a>
-                </li>
-                                            <li nav-id="19">
-                    <a href="http://www.yandy.com/Shopping/products/category_19.asp">
-                                                        COSTUMES
-
-                                            </a>
-                </li>
-                                            <li nav-id="40">
-                    <a href="http://www.yandy.com/lingerie_sale.asp">
-                                                        SALE
-
-                                            </a>
-                </li>
-                            <li nav-id="last-chance">
-                        <a style="color:#E60EB8" href="/last-chance-items">LAST CHANCE!</a>
-                </li>
-                      </ul>
-
+						 <li nav-id="plus top">
+                <a data-click="hpnav:PLUS SIZE" style="" href="/Shopping/products/category_16.asp">PLUS SIZE</a>
+            </li>
+						 <li nav-id="swimwear">
+                <a data-click="hpnav:SWIMWEAR" style="" href="/swimwear.php">SWIMWEAR</a>
+            </li>
+						 <li nav-id="dresses">
+                <a data-click="hpnav:DRESSES" style="" href="/Shopping/products/category_15.asp">DRESSES</a>
+            </li>
+						 <li nav-id="bras">
+                <a data-click="hpnav:BRAS" style="" href="/sexy-bras">BRAS</a>
+            </li>
+						 <li nav-id="hosiery">
+                <a data-click="hpnav:HOSIERY" style="" href="/Shopping/products/category_13.asp">HOSIERY</a>
+            </li>
+						 <li nav-id="panties">
+                <a data-click="hpnav:PANTIES" style="" href="/panties.php">PANTIES</a>
+            </li>
+						 <li nav-id="dancewear">
+                <a data-click="hpnav:DANCEWEAR" style="" href="/dancewear.php">DANCEWEAR</a>
+            </li>
+						 <li nav-id="activewear">
+                <a data-click="hpnav:ACTIVEWEAR" style="" href="/activewear.asp">ACTIVEWEAR</a>
+            </li>
+						 <li nav-id="shoes">
+                <a data-click="hpnav:SHOES" style="" href="/shoes.php">SHOES</a>
+            </li>
+						 <li nav-id="costumes top">
+                <a data-click="hpnav:COSTUMES" style="" href="/Shopping/products/category_19.asp">COSTUMES</a>
+            </li>
+						 <li nav-id="5aa1cc297e30d">
+                <a data-click="hpnav:ACCESSORIES" style="" href="/Lingerie-Accessories.php">ACCESSORIES</a>
+            </li>
+						 <li nav-id="sale top">
+                <a data-click="hpnav:SALE!" style="color:#E60EB8" href="/lingerie_sale.asp">SALE!</a>
+            </li>
+			        </ul>
     </div>
-        
-</div>
+	  </div>
 
 
             
             <div class="main-content">
                 <div class="main-content-wrap">
-                    
-    <div class="static-container">
+                        <div class="faq-container">
+        <section class="faq_header">
+            <div class="header_text">
+	                                <h1>What is your privacy policy?</h1>
+				            </div>
+	                </section>
+        	        <div class="single-question">
+		        Effective Date: 05/25/2018
 
-                    <div class="static-side-nav">
-                <div class="mobile-nav-button">
-    <i class="fa fa-plus-circle"></i> Customer Service
-</div>
+This Privacy Policy describes how Yandy.com (“Yandy.com”, “Yandy”, “Yandy LLC”, “we”, “our”, or “us”) collects, uses, and shares personal information of users of this website, www.yandy.com (the “Site”). We periodically update this Privacy Policy and reserve the right to change the provisions of this Policy or our privacy practices at any time. We encourage you to review this site periodically and we will alert you that changes have been made by updating the Effective Date of the Policy. Your use of the Site constitutes consent to any changes in this Policy as in effect on the date of such use.
 
-<ul>
-    <li class="static-header-top">CUSTOMER SERVICE</li>
-    <li>
-        <a href="/About-Us">About Us</a>
-    </li>
-    <li>
-        <a href="/Customer-Service">Contact Us</a>
-    </li>
-    <li>
-        <a href="/Payment-Methods">Payment Methods</a>
-    </li>
-        <li>
-        <a href="/giftcards">Gift Cards</a>
-    </li>
-    <li class="static-header">SHIPPING</li>
-    <li>
-        <a href="/OrderTracking">Order Tracking</a>
-    </li>
-    <li>
-        <a href="/Item-Availability">Item Availability</a>
-    </li>
-    <li>
-        <a href="/Shipping-Details-top">Shipping Methods</a>
-    </li>
-    <li>
-        <a href="/Shipping-Details-middle">Shipping FAQs</a>
-    </li>
-    <li>
-        <a href="/Shipping-Details-int">International FAQs</a>
-    </li>
-    <li class="static-header">REFUNDS &amp; EXCHANGES</li>
-    <li>
-        <a href="/Return-Policy">Return Policy</a>
-    </li>
-    <li>
-        <a href="/returnauth.php">Return Authorization</a>
-    </li>
-    <li>
-        <a href="/Return-Policy">Return FAQs</a>
-    </li>
-    <li class="static-header">MY ACCOUNT</li>
-    <li>
-        <a href="/account">Account Login</a>
-    </li>
-    <li>
-        <a href="/account">Wish Lists</a>
-    </li>
-    <!--<li>
-        <a href="/BridalRegistry">Bridal Registry</a>
-    </li>-->
-    <li class="static-header">SIZE &amp; FIT</li>
-    <li>
-        <a href="/sizing-guide">Sizing Guideline</a>
-    </li>
-    <li class="static-header">COMPANY INFO</li>
+YOUR RIGHTS TO ACCESS YOUR PERSONAL INFORMATION You have the right to access personal information about you that Yandy has collected through this Site by sending a request for access to&nbsp;service@yandy.com. You can also request that we correct or delete any such information by choosing one of the following options: Send an e-mail to service@yandy.com and type REMOVE FROM ALL MARKETING in the subject line; call 800-883-0860; Send your request by mail to Yandy.com Membership Services, 21615 N. 7th Ave. Phoenix, AZ 85027 Remember to include your name, address, membership number (if applicable) and phone number in the request. To verify that the request is authentic, we may require that such request be sent from the email address or billing address associated with your personal information. While we will comply reasonably and promptly with your request, we may need to retain some of your information for our own record keeping or to fulfill a legal obligation.
 
-    <li>
-        <a href="/FAQ">FAQs</a>
-    </li>
-    <li>
-        <a href="/privacy-policy.php">Privacy Policy</a>
-    </li>
+ONLINE PRIVACY—THE INFORMATION WE GATHER The type of information we gather online falls into five general categories: Aggregate Site Usage Information Online Order Information Voluntary Registered Shopper Information Click-Stream Data
 
-    <li>
-        <a href="/Employment-Opportunities">Employment Opportunities</a>
-    </li>
-</ul>            </div>
-        
-                    <div class="page-content">
-                <div>
-<h2>PRIVACY POLICY</h2>
+AGGREGATE SITE USAGE INFORMATION We collect and store information about the pages viewed by all of our website visitors. We then use this data in aggregate form to identify overall visitor behavior patterns. Our goal in using this information is to improve our site by making it more responsive to the needs and preferences of our users. Our Web servers automatically collect information about each visitor who requests Yandy.com Web pages, including your computer's internet protocol (IP) address. This IP address allows us to identify your computer on the internet so that the Web content you request from us can be sent to you. From time to time, we may provide portions of this aggregate site behavior information to vendors, consultants, potential advertisers or news agencies. We typically do this in order to demonstrate the amount of interest in our sites and/or to plan for technical infrastructure improvements.
 
-<p>We respect the privacy of our customers. This official Privacy and Security Statement is designed to help you understand what information we gather and how we use it. In our ongoing effort to improve the services and features we provide to our customers, Yandy.com will continue to implement new technologies from time to time. As a result, this policy is subject to change without prior notice. We encourage you to review our privacy policy periodically.</p><br>
+ONLINE ORDER INFORMATION If you choose to purchase products from the Yandy.com site, we require the following information in order to fulfill your order: We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, Yandy.com membership number (if applicable), the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total amount of items requested. Please note that this confirmation e-mail does NOT contain your credit card number.
 
+CLICK-STREAM DATA (AND COOKIE TECHNOLOGY) In order to register on-or purchase products from-Yandy.com websites, your browser must be set to accept "cookies." A cookie is a small piece of data housed in a text file or folder on your computer's hard drive that helps us recognize you when you visit our sites. We use cookies to help us remember things such as the following: (1) the profile facts you tell us about yourself, (2) your specified areas of interest on our sites, (3) the items you've placed in your shopping basket, and/or (4) the pages you visit as you shop. The only personal information our Yandy.com cookie can contain is information that you supply yourself. Our cookies cannot read data from other parts of your computer. If you would like more technical information about how cookies work, take a look at http://www.cookiecentral.com. As stated above, you must enable cookies on your Web browser for Yandy.com to function correctly. If you are concerned about information contained in your Yandy.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies. Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we track and store this information to help us positively customize your shopping experience. We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience.
 
-<h3>ONLINE PRIVACY—THE INFORMATION WE GATHER</h3>
-<p>The type of information we gather online falls into five general categories:</p>
-<ul>
-<li>Aggregate Site Usage Information</li>
-<li>Online Order Information</li>
-<li>Voluntary Registered Shopper Information</li>
-<li>Click-Stream Data</li>
-</ul><br>
- 
-<h3>AGGREGATE SITE USAGE INFORMATION </h3>
-<p>We collect and store information about the pages viewed by all of our website visitors. We then use this data in aggregate form to identify overall visitor behavior patterns. Our goal in using this information is to improve our site by making it more responsive to the needs and preferences of our users.</p>
-<p>Our Web servers automatically collect information about each visitor who requests Yandy.com Web pages, including your computer's internet protocol (IP) address. This IP address allows us to identify your computer on the internet so that the Web content you request from us can be sent to you.</p>
-<p>From time to time, we may provide portions of this aggregate site behavior information to vendors, consultants, potential advertisers or news agencies.  We typically do this in order to demonstrate the amount of interest in our sites and/or to plan for technical infrastructure improvements.</p><br>
+COMMUNICATIONS FROM YANDY.COM Whenever you purchase products from Yandy.com, sign up for our newsletter, or any of our on site promotions, we collect and store the information that you volunteer. Information such as your name, e-mail address, postal address and phone number. The information you supply is added to our customer database. You may receive periodic printed or e-mail communications from us about new products and services, discounts, special promotions or upcoming events. You will not receive any phone calls from us unless there is a customer service issue. In some instances, we use third-party companies to help us provide products and services to you, to assist us in managing customer information, or to fulfill our in house promotions and communicate with you. Some of these companies are given access to your contact information. These companies are contractually restricted from using your information in any manner other than in the service we have contracted them to do. Our customers privacy is very important to us.
+If you want to be removed from all Yandy.com marketing, choose one of the following options: Send an e-mail and type REMOVE FROM ALL MARKETING in the subject line; call 800-883-0860 Send your request by mail to Yandy.com Membership Services, 21615 N. 7th Ave. Phoenix, AZ 85027 Remember to include your name, address, membership number (if applicable) and phone number in the request.
 
+OTHER PRIVACY NOTES Yandy.com may provide links to websites outside of Yandy.com as an added convenience to the user. There are also affiliates that link to Yandy.com. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. Yandy.com is not responsible for the privacy, terms of use, or other policies of any other website.
 
-<h3>ONLINE ORDER INFORMATION</h3>
-<p>If you choose to purchase products from the Yandy.com site, we require the following information in order to fulfill your order:
-We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, Yandy.com membership number (if applicable), the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total amount of items requested. Please note that this confirmation e-mail does NOT contain your credit card number.</p><br>
+CHILDREN'S POLICY We do not intend to collect any personally identifiable information from children through our websites. Please do not allow children under the age of 13 to provide any personally identifiable information or participate in the bulletin board sections of Yandy.com websites.
 
+	        </div>
 
-<h3>CLICK-STREAM DATA (AND COOKIE TECHNOLOGY)</h3>
-<p>In order to register on-or purchase products from-Yandy.com websites, your browser must be set to accept "cookies." A cookie is a small piece of data housed in a text file or folder on your computer's hard drive that helps us recognize you when you visit our sites. We use cookies to help us remember things such as the following: (1) the profile facts you tell us about yourself, (2) your specified areas of interest on our sites, (3) the items you've placed in your shopping basket, and/or (4) the pages you visit as you shop.
-The only personal information our Yandy.com cookie can contain is information that you supply yourself. Our cookies cannot read data from other parts of your computer. If you would like more technical information about how cookies work, take a look at http://www.cookiecentral.com.</p>
-<p>As stated above, you must enable cookies on your Web browser for Yandy.com to function correctly. If you are concerned about information contained in your Yandy.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.</p>
-<p>Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we track and store this information to help us positively customize your shopping experience.  We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience.</p><br>
+			<div>
+				Have more questions? <a class="yandypink" href="/faq">Click Here!</a>
+			</div>
 
-
-<h3>COMMUNICATIONS FROM YANDY.COM</h3>
-<p>Whenever you purchase products from Yandy.com, sign up for our newsletter, or any of our on site promotions including the free Yandy Panty, we collect and store the information that you volunteer. Information such as your name, e-mail address, postal address and phone number. The information you supply is added to our customer database. You may receive periodic printed or e-mail communications from us about new products and services, discounts, special promotions or upcoming events. You will not receive any phone calls from us unless there is a customer service issue.</p>
-<p>In some instances, we use third-party companies to help us provide products and services to you, to assist us in managing customer information, or to fulfill our in house promotions and communicate with you. Some of these companies are given access to your contact information. These companies are contractually restricted from using your information in any manner other than in the service we have contracted them to do.  Our customers privacy is very important to us.</p><br>
-<p>If you want to be removed from all Yandy.com marketing, choose one of the following options:</p>
-<p>Send an e-mail and type REMOVE FROM ALL MARKETING in the subject line; call 623-551-0060</p>
-<p>Send your request by mail to Yandy.com Membership Services, 41780 N. Vision Way, Building 2
-Phoenix, AZ 85086</p>
-
-<p>Remember to include your name, address, membership number (if applicable) and phone number in the request.</p><br>
-
-
-<h3>OTHER PRIVACY NOTES</h3>
-<p>Yandy.com may provide links to websites outside of Yandy.com as an added convenience to the user. There are also affiliates that link to Yandy.com. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. Yandy.com is not responsible for the privacy, terms of use, or other policies of any other website.</p><br>
-
-
-<h3>CHILDREN'S POLICY</h3>
-<p>We do not intend to collect any personally identifiable information from children through our websites. Please do not allow children under the age of 13 to provide any personally identifiable information or participate in the bulletin board sections of Yandy.com websites. </p><br>
-
-
-<h3>ONLINE SECURITY STATEMENT</h3>
-<p>We understand that many consumers are concerned about Internet security. Yandy.com employs industry-leading technologies to store sensitive information and protect it while in transit over the Internet. The following Security Statement describes the technologies we use and provides additional details about how we handle sensitive data like credit card information. We want you to be able to shop at Yandy.com with complete confidence. If for any reason you feel uncomfortable shopping with us online, we invite you to call us and order by phone: 623-551-0060</p><br>
-
-
-<h3>THE TRANSMISSION OF SENSITIVE DATA</h3>
-<p>We work hard to protect the information that you send to us while it is en route to and from our sites. To provide secure transmission, Yandy.com employs Secure Sockets Layer technology (SSL) on those pages that involve sensitive information such as credit card numbers. SSL, which is supported by a vast majority of Internet browsers available today, is the most commonly employed method of secure, encrypted communication used on the Internet.</p><br>
-
-
-<h3>WHAT HAPPENS TO MY INFORMATION AFTER YANDY RECEIVES IT?</h3>
-<p>SSL protects information en route to us. SecureTrust certificate technology ensures that Yandy.com is the only recipient of this information. But we don't stop there. We also work very hard to make sure the information you send us is stored and managed securely once we receive it. All data collected is stored on site and is protected by multiple levels of data and structural security.</p>
-<ul>
-<li>Name</li>
-<li>Contact phone number(s)</li>
-<li>Address</li>
-<li>E-mail address</li>
-<li>Credit card account information</li>
-</ul>
-
-<p>We use this information to process your order and to make sure that it is delivered to you. Aggregated order information is also used to track and analyze overall shopping trends, which allows Yandy.com to improve product offerings and services to its members and customers.</p>
-</div>
-
-            </div>
-        
+		    </div>
                 </div>
             </div>
             <div class="footer">
                                     <input type="hidden" id="image-cdn" cdn="//assets.yandycdn.com" scdn="https://assets.yandycdn.com">
-<input type="hidden" id="domainname" domain="http://www.yandy.com" sdomain="https://www.yandy.com">
+<input type="hidden" id="domainname" domain="https://www.yandy.com" sdomain="https://www.yandy.com">
 <input type="hidden" id="pre-load" value="false">
 <div id="footer-new">
   <div class="footerwrap-new">
        <div style="margin-bottom: -15px;font-size:12px;margin:0 10px;">
                 <br>
                 <span style="color:white">TEXT "YANDY" to</span> 300300 <span style="color:white">to get 10% OFF <span style="font-size:8px;">
-                <br>*Msg&amp;data rates may apply. Terms &amp; Conditions available at Yandy.com/sms. Frequency may vary</span>
+                <br>*Msg&amp;data rates may apply. Terms &amp; Conditions available at Yandy.com/sms. Frequency may vary
+               </span>
        </span></div>
     <div id="footer-signup">
       <span>Sign Up &amp; Receive 10% Off</span> <input id="email-name" type="text" name="email" placeholder="Your Email Address">
@@ -369,6 +537,14 @@ Phoenix, AZ 85086</p>
     <div id="footer-social-icons">
       <span>CONNECT</span><a href="https://www.facebook.com/Yandy" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/Yandy" target="_blank"><i class="fa fa-twitter"></i></a> <a href="https://instagram.com/yandy" target="_blank"><i class="fa fa-instagram"></i></a> <a href="https://www.pinterest.com/yandylingerie/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
     </div>
+      <br>
+      <div style="text-align:center; color: #FFF !important; margin: auto;
+    font-size: 9px !important;
+    text-decoration: none !important;
+    text-transform: none !important;
+    max-width: 600px;">Yandy.com collects your email address to improve the performance of our website and so that we can deliver the most relevant communication back to you, including personalized updates and promotions about Yandy.com's products and services, as well as special offers for you. By signing up you indicate you have read and agree to the terms of Yandy.com's <a href="/privacy-policy.php">privacy policy</a>. You have the right to unsubscribe to Yandy.com's communications by clicking the unsubscribe link in any email.
+      </div>
+
   </div>
               <div id="footer-nav-new">
         <div class="mob-footer-nav-wrap">
@@ -408,13 +584,13 @@ Phoenix, AZ 85086</p>
         <a href="/account">Your Account</a><br>
         <a href="/OrderTracking">Order Status</a><br>
         <a href="/returnauthorization">Return Authorization</a><br>
+        <a href="/Affiliate-Program">Affiliate Program</a><br>
                         <a href="/Shipping-Details-top">Shipping</a><br>
       </div>
       <div class="column16" style="vertical-align:top">
         <span class="h3">COMPANY</span>
         <a href="/About-Us">About Us</a><br>
-        <a href="/news">News</a><br>
-        <a href="/press">Press</a><br>
+        <a href="/blog">Blog</a><br>
         <a href="/giftcards">Gift Cards</a><br>
           <a href="/coupons">Coupons</a><br>
         <a href="/privacy-policy.php">Privacy Policy</a><br>
@@ -427,18 +603,19 @@ Phoenix, AZ 85086</p>
 
 
 <div id="copywrite">
-<div class="side1"><p>© Yandy Lingerie 2017  |  Version 15-fc  |  1.800.883.0860</p></div>
+<div class="side1"><p>© Yandy Lingerie 2017  |  Version 10-fc 207.241.231.163 |  1.800.883.0860</p></div>
 </div>
 
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript">
+
 
     var __couponData = undefined;
     var __halloween_seg = undefined;
                                                     var _mycsg = 'xup3';
-                                         checkout_type = 'cold';
-                                                     abc_type = 'dreamstate';
+                                         checkout_type = 'cnew';
+                                                     abc_type = 'in_house';
             
             
                             var new_user = 'yes';
@@ -466,13 +643,13 @@ Phoenix, AZ 85086</p>
     </script>
 
 <!-- concat -->
-<link href="//assets.yandycdn.com/assets/css/concat/concat_5a1cfa01743e3.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="//assets.yandycdn.com/assets/js/concat/default_5a1cfa046c08a.js"></script>
+<link href="//assets.yandycdn.com/assets/css/concat/concat_5b22cd9ba0287.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//assets.yandycdn.com/assets/js/concat/static_5b22cda063c05.js"></script>
 <!-- endconcat -->
             
 
 	<script>
-            var ship_threshold = {"threshold":60,"message":"Free Shipping on Orders over $60"};
+            var ship_threshold = {"threshold":70,"message":"Free Shipping on Orders over $70"};
             $(function(){
                 if(typeof ig_init_home != 'undefined'){
                     initIGSlider(true);
@@ -483,7 +660,7 @@ Phoenix, AZ 85086</p>
             });
 
 
-           
+
 
 
         </script>
@@ -500,7 +677,24 @@ Phoenix, AZ 85086</p>
     /*]]>*/</script>
 
 <!-- End of yandycustomercare Zendesk Widget script -->
+<script>
 
+	function eventQue(cmd) {
+		if (typeof localStorage == 'object') localStorage.setItem('queue',cmd);
+	}
+
+	function sendQue() {
+		if (typeof localStorage == 'object') {
+			var cmd = localStorage.getItem('queue');
+			if (cmd) {
+				_mag.set('edata',{click:cmd});
+				_mag.track('event');
+				localStorage.setItem('queue','');
+			}
+		}
+	}
+	sendQue();
+	</script>
 
 
 
@@ -521,37 +715,41 @@ window.onload = function(){
 }
 function addImpressions(){
     var pbcount = 0;
-    $('.product-box:not(.impressed)').each(function(){
-        pbcount++;
-        $(this).addClass('impressed');
-        ga('ec:addImpression', {
-            'id': "P"+$(this).attr("data-sku"),   // Product ID/SKU (string). REQUIRED
-            'name': $('.prod-name a', this).text(),     // Product name (string). REQUIRED
-            'category': $(this).attr('data-ptype'),   // Product category (string).
-            'brand': $(this).attr('data-sku').split('-')[0],                // Product brand (string).
-            'list': window.location.href,   //place URL of page displaying here
-            'position': $(this).index()
+    if(ga !== undefined) {
+        $('.product-box:not(.impressed)').each(function(){
+            pbcount++;
+            $(this).addClass('impressed');
+            if($(this).attr('data-sku') !== undefined)  {
+                ga('ec:addImpression', {
+                    'id': "P"+$(this).attr("data-sku"),   // Product ID/SKU (string). REQUIRED
+                    'name': $('.prod-name a', this).text(),     // Product name (string). REQUIRED
+                    'category': $(this).attr('data-ptype'),   // Product category (string).
+                    'brand': $(this).attr('data-sku').split('-')[0],                // Product brand (string).
+                    'list': window.location.href,   //place URL of page displaying here
+                    'position': $(this).index()
+                });
+                $('a',this).click(function(){
+                    ga('ec:addProduct', {
+                        'id': "P"+$(this).attr("data-sku"),   // Product ID/SKU (string). REQUIRED
+                        'name': $('.prod-name a', this).text(),     // Product name (string). REQUIRED
+                        'category': $(this).attr('data-ptype'),   // Product category (string).
+                        'brand': $(this).attr('data-sku').split('-')[0],                // Product brand (string).
+                        'list': window.location.href,   //place URL of page displaying here
+                        'position': $(this).index()
+                    });
+                    ga('ec:setAction', 'click', {       // click action.
+                        'list': window.location.href          // Product list name - must match name used for addImpression
+                    });
+                    ga('send', 'event', 'UX', 'click', {'nonInteraction': 1});
+                    return true;
+                });
+                if(pbcount>50)return false;
+            }
         });
-        $('a',this).click(function(){
-            ga('ec:addProduct', {
-                'id': "P"+$(this).attr("data-sku"),   // Product ID/SKU (string). REQUIRED
-                'name': $('.prod-name a', this).text(),     // Product name (string). REQUIRED
-                'category': $(this).attr('data-ptype'),   // Product category (string).
-                'brand': $(this).attr('data-sku').split('-')[0],                // Product brand (string).
-                'list': window.location.href,   //place URL of page displaying here
-                'position': $(this).index()
-            });
-            ga('ec:setAction', 'click', {       // click action.
-                'list': window.location.href          // Product list name - must match name used for addImpression
-            });
-            ga('send', 'event', 'UX', 'click', {'nonInteraction': 1});
-            return true;
-        });
-        if(pbcount>50)return false;
-    });
-    ga('send', 'event', 'Ecommerce', 'impressions', {'nonInteraction': 1});
-    if( $('.product-box:not(.impressed)').length > 0){
-        addImpressions();
+        ga('send', 'event', 'Ecommerce', 'impressions', {'nonInteraction': 1});
+        if( $('.product-box:not(.impressed)').length > 0){
+            addImpressions();
+        }
     }
 }
 function loadEmAll() {
@@ -571,6 +769,37 @@ function loadEmAll() {
             'dimension5': __halloween_seg
         });
     }
+	
+	if (localStorage.getItem('ps') === null) {
+		var rand = Math.floor((Math.random() * 5) + 1);
+		if (rand == 1) {
+			localStorage.setItem('ps','pageseal');
+		}
+		else {
+			localStorage.setItem('ps','holdout');
+		}
+	}
+	var psval = localStorage.getItem('ps');
+	ga('set', {
+            'dimension4': psval
+    });
+	if (psval == 'pageseal') {
+		$.getScript('//d3owq2fdwtdp2j.cloudfront.net/8496924536.js', function() {
+		});
+	}
+	
+	if (typeof product_out_of_stock == 'number' && window.location.href.indexOf('utm_source') != -1) {
+
+		var utm_source = window.location.href.split('utm_source=')[1];
+		if (utm_source.indexOf('&') != -1) {
+			utm_source = utm_source.split('&')[0];
+		}
+
+
+		ga('set', {
+        'dimension1': utm_source
+        });
+	}
 
     var pbcount = 0;
     $('.product-box').each(function(){
@@ -622,7 +851,7 @@ function loadEmAll() {
 window.asset_host='//cdn.justuno.com/';
 
 (function(i,s,o,g,r,a,m){i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)};a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script',asset_host+'vck.js','juapp');
-	
+
 	(function(d) {
 		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
 		if (d.getElementById(id)) {
@@ -648,23 +877,23 @@ window.asset_host='//cdn.justuno.com/';
 		});
 	};
 
- 
+
 
 
 
 
 /*DO NOT ALTER *** New Site*/(function(e){var t="2259",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});
 
-	
+
 	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 		document,'script','//connect.facebook.net/en_US/fbevents.js');
-	
+
 		fbq('init', '1131768726848243');
 				fbq('track', "PageView");
-	
+
         (function(){"use strict";var e=null,b="4.0.0",
              n="12954",
              additional="",
@@ -687,15 +916,15 @@ _mag.setSegment('upsell',_mycsg);
 
 
     var speed_pagetype = 'na';
-      
+    
 
-	
-		
-	
-			
-			
-		
-		
+
+
+
+
+
+
+
 		
 
 
@@ -733,10 +962,271 @@ _mag.setSegment('upsell',_mycsg);
 
                 			                
         
-    <script src="/assets/js/isotope.pkgd.min.js"></script>
+    <script src="/assets/js/refactor/faq.js"></script>
+    <script type="text/mustache" id="search_suggestions_template">
+        <ul>
+    {{#suggestions}}
+        <li data-id="{{ id }}">
+            <span class="suggestion-title">{{{ title }}} - {{{ body }}}</span>
+        </li>
+    {{/suggestions}}
+</ul>    </script>
+    <script>
+        var shuffle = document.getElementById('shuffleList');
+        var questions = document.getElementsByClassName('loading');
+        questions = [].slice.call(questions);
+        if(shuffle !== null) {
+	        for (var i = shuffle.children.length; i >= 0; i--) {
+		        shuffle.appendChild(shuffle.children[Math.random() * i | 0]);
+		        if (i == 0) {
+			        questions.forEach(function (el) {
+				        el.classList.remove('loading');
+			        });
+		        }
+	        }
+        }
+        $('.category-list_item').click(function () {
+            $('.question').removeClass('answer');
+            $(this).addClass('active');
+            $(this).siblings().removeClass('active');
 
-      <script src="/assets/js/static.js"></script>
-    
+            if ($(this).attr('data-section') == "all") {
+                showAll();
+            } else {
+                showSection($(this).attr('data-section'));
+            }
+        });
+        $('.header_search .button').click(function () {
+            $('html, body').animate({
+                scrollTop: $(".header_search").offset().top - 125
+            }, 600);
+        });
+        $('.question').click(function (e) {
+            $(this).addClass('answer');
+//            $('.category-list').addClass('dimmed');
+//            $(this).siblings().addClass('dimmed');
+            $('.faq-container').addClass('close');
+            e.stopPropagation();
+        });
+        $('.answer_close').click(function (e) {
+            $(this).closest('.question').removeClass('answer');
+//            $('.question').removeClass('dimmed');
+//            $('.category-list').removeClass('dimmed');
+            e.stopPropagation();
+        });
+        $(document).click(function () {
+
+            $('.question').removeClass('dimmed');
+            $('.category-list').removeClass('dimmed');
+        });
+        function showAll() {
+            var q = $('.question');
+            $(q).each(function () {
+//                $(this).show();
+                $(this).removeClass('hidden');
+            })
+        }
+        function showSection(section) {
+            var toHide = $('.question:not([data-section="' + section + '"])');
+            var toShow = $('.question[data-section="' + section + '"]');
+            $(toHide).each(function () {
+//                $(this).hide();
+                $(this).addClass('hidden');
+            });
+            $(toShow).each(function () {
+//                $(this).show();
+                $(this).removeClass('hidden');
+            });
+            console.log(toHide);
+        }
+
+        var parser = {
+	        text : '',
+	        result_text : '',
+
+	        parseList : function(input) {
+		        var re = /(^\ \*[A-Za-z !@#$%^&*()|"':;?><,.\/\\~`+=_\-0-9]{1,}$)/gm;
+		        return input.replace(re, function(str) {
+			        return '<li>{0}</li>'.format(str.replace(' * ', ''));
+		        });
+	        },
+
+	        parseImages : function(input) {
+		        var re = /(\{\{[\s\S]{1,}\}\})/g;
+		        return input.replace(re, function(str) {
+			        var clean_string = str.replace(/\{\{/, '').replace(/\}\}/, '');
+
+			        var image = clean_string;
+			        var click_through = '';
+
+			        if(clean_string.indexOf('|') > -1) {
+				        // It has a pipe, it means they want a clickthrough link
+				        var split_string = clean_string.split('|');
+
+				        image = split_string[0];
+				        click_through = split_string[1];
+			        }
+
+			        var final = '';
+			        var img_html = '<img src="{0}" />'.format(image);
+			        if(click_through != '') {
+				        final = '<a href="{0}">{1}</a>'.format(click_through, img_html);
+			        } else {
+				        final = img_html;
+			        }
+
+			        return final;
+		        });
+	        },
+
+	        parseLinks : function(input) {
+		        var re =/(\[\[[A-Za-z0-9:\/.\ |!@#$%^&*():;"'{}\\?><,.`~]{1,}\]\])/gm;
+		        return input.replace(re, function(str) {
+			        var clean_string = str.replace('[[', '').replace(']]', '');
+
+			        var link = clean_string;
+			        var name = clean_string;
+
+			        if(clean_string.indexOf('|') > -1) {
+				        // It has a pipe, means there is a name
+				        var split_string = clean_string.split('|');
+
+				        link = split_string[0];
+				        name = split_string[1];
+			        }
+
+			        return '<a href="{0}">{1}</a>'.format(link, name);
+		        });
+	        },
+
+	        parseNumberedList : function(input) {
+		        var re = /(^\ [0-9]{1,}\.\)\ [A-Za-z0-9!@#$%^&*()_+-={}\[\]:";'<>?,.\/\\ |`~]{1,})/gm;
+		        return input.replace(re, function(str) {
+			        return '<div class="numbered-list">{0}</div>'.format(str);
+		        });
+	        },
+
+	        parseBold : function(input) {
+		        var re = /(\*\*[\s\S]{1,}\*\*)/g;
+		        return input.replace(re, function(str) {
+			        return '<strong>{0}</strong>'.format(str.replace(/\*\*/g, ''));
+		        });
+	        },
+
+	        parseItalics : function(input) {
+		        var re = /(\`[\ \S]{1,}\`)/g;
+		        return input.replace(re, function(str) {
+			        return '<em>{0}</em>'.format(str.replace(/^\`/, '').replace(/\`$/, ''));
+		        })
+	        },
+
+	        parseHeaders : function(input) {
+		        var re = /((^[\#]{1,3}|^\ [\#]{1,3})([A-Za-z 0-9!@$%^&*()_+-={}\[\]:";'<>?,.\/\\|]{1,}))/gm;
+		        return input.replace(re, function(str) {
+			        var header_re = /\#/g;
+			        var header_size = (str.match(header_re) || []).length;
+			        return '<h{0}>{1}</h{0}>'.format(header_size, str.replace(header_re, ''));
+		        });
+	        },
+
+	        // Broken Fix Later
+	        parseParagraphs : function(input) {
+		        var re = /\n\n/g;
+		        return input.replace(re, '</p><p class="question-paragraph">');
+	        },
+
+	        genHtml : function(input) {
+		        var self = this;
+		        var result = input;
+		        result = self.parseList(result);
+		        result = self.parseLinks(result);
+		        result = self.parseImages(result);
+		        result = self.parseNumberedList(result);
+		        result = self.parseBold(result);
+		        result = self.parseItalics(result);
+		        result = self.parseHeaders(result);
+		        result = self.parseParagraphs(result);
+		        return '<p class="question-paragraph">' + result + '</p>';
+	        }
+        };
+
+        var search_timeout = undefined;
+        $('#faq_search').on('keyup', function(e) {
+        	var query = $(this).val();
+        	clearTimeout(search_timeout);
+        	if(query.length > 3) {
+		        search_timeout = window.setTimeout(function() {
+			        search(query);
+		        }, 300);
+            } else {
+		        $('.question').each(function() {
+			        $(this).removeClass('hidden');
+		        });
+            }
+        });
+
+        function clearSearch() {
+	        $('.question').each(function() {
+		        $(this).removeClass('hidden');
+	        });
+        }
+
+        function search(query) {
+	        $('.header_search button').find('.search-loader').remove();
+	        $('.header_search button').append('<i class="search-loader fa fa-circle-o-notch fa-spin"></i>');
+
+        	if(query == '') {
+		        clearSearch();
+            } else {
+		        $.ajax({
+			        url : '/api/static/search',
+			        type : 'get',
+			        dataType : 'json',
+			        data : {
+				        query : query
+			        },
+			        success : function(r) {
+				        $('.header_search button').find('.search-loader').remove();
+				        if(r.status != 1 && r.msg != '') {
+					        // Show Error Message Here
+				        }
+
+				        $('.question').each(function() {
+					        var id = parseInt($(this).attr('data-question'));
+					        if(r.found_ids.indexOf(id) == -1) {
+						        $(this).addClass('hidden');
+					        } else {
+						        $(this).removeClass('hidden');
+					        }
+				        });
+
+				        if(r.found_ids.length > 0) {
+					        // Show No Results Message
+				        }
+			        }
+		        });
+            }
+        }
+
+        $(document).ready(function() {
+        	$('.question').each(function() {
+        		var _body = $(this).find('.body');
+        		var html = $.trim(_body.html());
+        		_body.html(parser.genHtml(html));
+            });
+
+        	var _single_question = $('.single-question');
+
+	        var html = $.trim($('.single-question').html());
+	        $('.single-question').html(parser.genHtml(html));
+	        $('.single-question').fadeIn().animate({
+	        	'margin-top' : '-30px'
+	        }, {duration : 'slow', queue : false});
+
+        });
+
+    </script>
+
     
 
-</div></body></html>
+</body></html>
