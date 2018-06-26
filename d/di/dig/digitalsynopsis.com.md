@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122121627id_/http%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626150822id_/https%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
 
 # Digital Synopsis - Privacy Policy
 
@@ -20,12 +20,12 @@ DigitalSynopsis.com does use cookies to store information about visitors prefere
 
 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * RevContent
+  * Media.net
 
 
 
@@ -58,6 +58,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Where content is specifically made available for redistribution, it may only be redistributed within your organisation after securing permission from the original content owner/creator. Our status (and that of any identified contributors) as the authors of material on our site must always be acknowledged.
 
-For types of personal information received and collected by DigitalSynopsis.com, view our [privacy policy](http://digitalsynopsis.com/privacy-policy/ "Privacy Policy").
+## Affiliate disclaimer
+
+Digital Synopsis is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+This website contains endorsements for products and services, which means when you click on a link that we recommend, we may receive a commission. Not every link is an affiliate link, but some are.
 
 For all queries, suggestions and feedback, contact us at [info@digitalsynopsis.com](mailto:info@digitalsynopsis.com "Open mail")
