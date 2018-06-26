@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cioreview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606000421id_/http%3A//www.cioreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cioreview.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626090343id_/https%3A//www.cioreview.com/privacy-policy) for the most accurate reproduction.*
 
 # CIOReview : Privacy Policy
-
-### Privacy Policy
 
 This website collects personally identifying information and data about individuals, their company, and their company's demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as subscriptions, e-mails, newsletters, memberships, RSS Feeds, White Papers, conferences and other communications with the Publisher, (ii) when you register for any other CIOReview products individually, your information will be known to the publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
@@ -26,7 +24,7 @@ Mobile, Telephone numbers, Postal addresses, and other personally identifying in
 
 Email addresses and Fax numbers may be collected from our online users (and, as applicable, our print subscribers) and may be used by the Publisher to collect re-qualification data, and may be used for surveys for the Publisher and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-Users who later decide they want to change any of their preferences may do so at [www.cioreview.com/newsletter/](http://www.cioreview.com/newsletter/)
+Users who later decide they want to change any of their preferences may do so at [www.cioreview.com/newsletter/](https://www.cioreview.com/newsletter/)
 
 (Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list).
 
@@ -39,6 +37,12 @@ Our Website users should be aware that when they disclose personally identifying
 In the event that the ownership of this Website and/or any of the Publisher's other products and/or assets are sold or transferred, all lists and data which contain personally identifying information and data including for example address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
 We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
+
+**Important Notice**  
+This private assertion and its enumerated regulations are supposed to conform with regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 ("GDPR") and provide appropriate protection and care with respect to the treatment of your personal facts in accordance with the GDPR.
+
+**Privacy of Children**  
+This Children's Online Privacy Policy explains our information collection, disclosure, and parental consent practices with respect to information provided by children under the age of 13 ("child" or "children"), such as name, address, or e-mail address. We do not knowingly collect (nor do we wish to collect) any personally identifiable information or other user information from children under the age of 13. The Sites are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. We support the Children's Online Privacy Protection Act (COPPA), and our goal is to minimize the information gathered from and disseminated about kids under 13 while permitting them active participation in the trustworthy information, education and independent voice for which we are known.
 
 **Print Subscriber Privacy Policy**  
 The Publisher collects personally identifying information and data about individuals their company and the company's demographics (personally identifying information and data) (i) when you provide information to us, such as when you register or sign up for any of our products such as subscriptions, RSS Feeds, White Papers, emails, newsletters, memberships and other communications with the Publisher (ii) when you subscribe to one or our websites or products, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
@@ -55,13 +59,6 @@ Subscribers for the Publisher's Print subscriptions are asked to complete a ques
 In the event that the ownership of the Publisher's print product or any of the Publisher's other products and/or assets are sold, the lists and data which contain personally identifying information and data including for example address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
 We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
-
-Print subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
-
-CIOReview  
-44790, S Grimmer Blvd,  
-#202 Fremont, CA 94538  
-U.S.A
 
   
 
