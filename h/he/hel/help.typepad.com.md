@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the help.typepad.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231192250id_/http%3A//www.typepad.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.typepad.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627010141id_/https%3A//www.typepad.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Typepad
+
+This Privacy Policy applies to all users before May 23, 2018. Beginning on May 23, 2018, our new Privacy Policy will apply to all new users and all users in the EU/EEA member countries. The [new Privacy Policy](https://www.endurance.com/privacy/privacy) will be effective on June 23, 2018 for users outside the EU/EEA member countries who signed up for services before May 23, 2018. The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference.
 
 1\. What This Privacy Policy Covers
 
 1.1 This Privacy Policy explains how Typepad, Inc. ("we", "us", "our" or "Typepad") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of Typepad's Web sites (each, a "Site" and, collectively, the "Sites"), any of Typepad's services (each, a "Service" and, collectively, the "Services") and any of Typepad's software ("Software").
+
+The information that Typepad collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided.
+
+By using the Services, you freely and expressly give Typepad your consent to export your information and data to the U.S.
 
 1.2 This policy does not apply to the practices of companies that Typepad does not own or control or to people that Typepad does not employ or manage.
 
@@ -203,6 +209,6 @@ Burlington, MA 01803
 Attention: Typepad Copyright Agent   
 
 
-Last updated March 4, 2011
+Last updated January 2, 2018
 
-Copyright © 2016 Typepad, Inc. All rights reserved.
+Copyright © 2018 Typepad, Inc. All rights reserved.
