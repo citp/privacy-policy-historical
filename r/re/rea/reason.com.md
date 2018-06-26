@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the reason.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000634id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reason.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626072610id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reason.com
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy often to make sure that you understand how any personal information you provide will be used.
 
-**Note:**  the privacy practices set forth in this privacy policy are for this reason.com, reason.org, and reason.tv only.
+**Note:** the privacy practices set forth in this privacy policy are for this reason.com, reason.org, and reason.tv only.
 
 **Collection of Information** **  
-**We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request and deliver information that we feel may be of interest to you.  Information submitted when donating to Reason Foundation or subscribing to Reason magazine may be traded with other like-minded organizations that we feel may be of interest to you. To opt out of these mailings, please contact [opt-out@reason.com](mailto:opt-out@reason.com).
+**We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request and deliver information that we feel may be of interest to you. Information submitted when donating to Reason Foundation or subscribing to Reason magazine may be used for marketing purposes and shared with other similar organizations. To opt out of these mailings, please contact[opt-out@reason.com](mailto:opt-out@reason.com).
 
 We use third-party advertising companies to serve advertisements when you visit our website. These companies may use aggregated (not personal identifying) information about your visits to this website in order to provide advertisements about goods and services that may be of interest to you.
 
 **Credit Card Information** **  
-**Credit Card numbers are not stored by us.   They are submitted directly to a secure third party vendor for processing.
+**Credit Card numbers are not stored by us. They are submitted directly to a secure third party vendor for processing.
 
 **Cookie/Tracking Technology** **  
 **The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
