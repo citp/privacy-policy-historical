@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varagesale.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921205311id_/https%3A//www.varagesale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varagesale.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626114001id_/https%3A//www.varagesale.com/privacy) for the most accurate reproduction.*
 
 # VarageSale - Privacy Policy
 
@@ -13,9 +13,9 @@ Your privacy is critically important to us. At VarageSale we have a few fundamen
 
 Below is our Privacy Policy which incorporates these goals and promises.
 
-If you have questions about this policy, please contact our support team at [help@varagesale.com](mailto:help@varagesale.com).
+If you have questions about this policy, please contact our support team at [help@varagesale.com](mailto:help@varagesale.com).
 
-VarageSale, Inc. (“VarageSale”) operates the website located at www.varagesale.com (“Website”) as well as mobile applications available on application stores including the Apple App Store, Google Play Store and Amazon Kindle App Store (each, an “App”). It is VarageSale’s policy to respect your privacy regarding any information we may collect while operating our service. This Privacy Policy applies to visitors of our Website as well as users who register for an account through the Website and/or App.
+VerticalScope Inc. operates the website located at www.varagesale.com (“Website” or “VarageSale”) as well as mobile applications available on application stores including the Apple App Store, Google Play Store and Amazon Kindle App Store (each, an “App”). It is VarageSale’s policy to respect your privacy regarding any information we may collect while operating our service. This Privacy Policy applies to visitors of our Website as well as users who register for an account through the Website and/or App.
 
 ### Website Visitors
 
@@ -51,8 +51,8 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, VarageSale may change its Privacy Policy from time to time, and in VarageSale’s sole discretion. VarageSale encourages visitors to periodically check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, VarageSale may change its Privacy Policy from time to time, and in VarageSale’s sole discretion. VarageSale encourages visitors to periodically check this page for any changes to its Privacy Policy. Your continued use of this Website after any change in this Privacy Policy will constitute your acceptance of such change.
 
 VarageSale is located at [111 Peter St, Suite 901, Toronto, ON, M5V 2H1](https://www.google.ca/maps/place/111+Peter+St,+Toronto,+ON+M5V+2G9/@43.647862,-79.3929029,17z/data=!3m1!4b1!4m2!3m1!1s0x882b34da8a94a0f5:0xf64a5b658d21638e).
 
-_Last Updated: July 15, 2015_
+_Last Updated: May 22, 2018_
