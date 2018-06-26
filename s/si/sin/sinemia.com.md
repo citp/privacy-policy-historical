@@ -1,84 +1,92 @@
-> *The following text is extracted and transformed from the sinemia.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129100250id_/https%3A//www.sinemia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinemia.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626154004id_/https%3A//www.sinemia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sinemia
+# Sinemia
 
 ## Privacy Policy
 
-The Sinemia website and mobile applications (the “Site”) are operated by Brandia Inc. Sinemia is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Site. Please read this policy carefully so that you understand our privacy practices. If you do not agree to this Privacy Policy, do not use the Site or give us any of your information. The terms “Sinemia,” “we,” “us,” and “our” refer to Brandia Inc. and its subsidiaries and affiliates. The terms “you,” “your,” and “yours” refer to the user/customer utilizing the Site. This Privacy Policy is governed by our Terms of Use. 
+The purpose of this Privacy Policy ( **“Policy”** ) is to determine the terms and the conditions related to the usage of the personal data provided by the users (“ **Users** ”) of the web site (“ **Site** ”), located at www.sinemia.com, governed by the Sinemia Inc (“ **Company** ”) and also, the personal data provided by the Sinemia Member or Premium Member (“ **Members** ”) when they are on the Site. The definitions in the Distant Sales Agreement (“ **Agreement** ”) and Terms of Use will be based on the statements which are not defined in this Policy. 
 
-**COLLECTION OF INFORMATION**
+**Which Of Your Data Are Processed?**  
+Under this title, the data processed in the scope of the Company’s services and accepted as the personal data regarding the law numbered 6698 Protection of Personal Data (“ **Law** “) is mentioned below. Unless otherwise specified, the statement of the "personal data" and "special categories of personal data” contain the information given below in the scope of the Policy’s terms and conditions. 
 
-“Personally Identifiable Information” means any information which can be used to identify an individual, and may include, but is not limited to, name, email address, or postal or other physical address. We collect Personally Identifiable Information from you when you register for the Site, including the following: name and email address. To participate in certain activities and to obtain certain services or documents offered on the Site, you may be asked to provide additional Personally Identifiable Information such as phone number, billing address and credit card information. We endeavor to limit our requests for Personally Identifiable Information to information we believe is reasonably necessary to achieve our purposes as described in the “Information Use” section below. Any Personally Identifiable Information received in communication or in material you transmit to the Site by electronic mail or otherwise are and will be treated in accordance with this Privacy Policy. When you visit the Site we also collect non-personally identifiable information, which is information that by itself cannot be used to identify or contact you, such as demographic information (such as age or gender) or usage information (such as the browser you are using, the URL that referred you to the Site and the areas of the Site you visit). We may also supplement the information we collect with information from other sources to assist us in evaluating and improving our Site and offerings. 
+_Name and Contact Information:_ Name, surname, mobile phone, home phone, work phone number, address, email address, address information, the information needed to manage payment transaction, Turkish Republic Identification Number 
 
-**INFORMATION USE**
+_Authentication Information:_ Users’ and Members’ information of membership, information to provide authentication and access to the account, contact information, user name, password hints 
 
-Sinemia uses Personally Identifiable Information for several general purposes:
+_Demographic Data:_ Date of birth, age, gender, marital status, educational background, occupation, interests, preferred language fields 
 
-  * to provide you with the Site, service information, and news,
-  * to support the Site and services offered on or through the Site,
-  * to contact you for feedback about our services,
-  * to conduct research about Sinemia’s customer base or services,
-  * to fulfill your purchase requests,
-  * to process your payments including credit checks and collection,
-  * to notify you of technical updates or changes in policy, or
-  * to contact you for our own marketing and promotional purposes, or
-  * to process contests, sweepstakes, or other promotions and fulfill any related awards or discounts.
+_Location Data:_ Location data from members' smartphones 
+
+_Payment Data:_ Commercial shopping and payment dates 
+
+_Data Collected by Cookies:_ Browser type, IP, operating system, viewed pages, display time 
+
+Regarding to the 3 and 7 articles of the Law, the data anonymized will not be accepted as personal data by the determined articles above and the processing activities related to such data will be carried out without taking the policy into consideration. 
+
+You can feel safe while using our Site. However, no system is completely secure. Even if we take all the necessary actions to protect your information, the possibility of insecurity always exists. For this reason, you should be very careful when you disclose and carry out your personal information. The processing of the information submitted by you without the request of the Company shall not be counted as personal data processed by the Company under this Policy. You should avoid sending your voice, images, and other personal information that is not requested by the Company via any communication channel including but not limited to e-mail or message. 
+
+**For Which Purposes Your Data Are Processed?**  
+The Company may process the personal data provided by Users and Members and the new data acquired by the Company to enable Users to use the Site, to provide and improve the services related to the Site, to use the personal data set out in this Policy, Terms of Use and Agreement, to fulfill the requirements of guarantee services originating from the company, for authentication, to prevent any third party other than the Members from taking the advantages of the services unfairly in breach of the Contract, to identify whether the Members benefit from the services provided at cinema saloons and the films restricted by the Company as mentioned in the 3.10. article of the Agreement, to present advertisements and marketing campaigns belong to the Company or the third parties, to provide promotions to the Users and to fulfill any kind of legal obligation. 
+
+The Company may obtain the information related to the Users' usage of the Site by using cookies that are technical communication files and may transfer them the third parties with the aim of processing them in the scope of the analysis services provided by third parties. The technical communication files mentioned are the small word files that are sent to the User’s browser to keep in the main memory by the Site. The technical communication file simplifies the usage of the internet by keeping the preference and condition settings about the web site. The technical communication file is used for gaining statistical information about how many people use the Site in proportion of the time, for which purpose, how often people visit and stay on the Site and designed for helping the dynamic production of advertisements and content from the pages specifically designed for the Users. 
+
+In order to identify system problems and resolve issues promptly, the Company identifies and uses the IP address of the users where necessary. IP addresses can also be used to identify users in general and to collect comprehensive demographic information. 
+
+**Who Can Access Your Data?**  
+Company can share the personal data provided by the Users and the Members and the new data acquired by the Company with outsourcing service providers, third parties companies providing advertisements, campaigns  and promotions and other third parties to provide and develop the services, to develop the experience of the Members and the Users and to fulfill any of the purposes under the title of “ _For which purposes your data are processed?_ ”. 
+
+Company can share the personal data provided by the Users and the Members with the contractors provides the services, with outsourcing service providers for providing the services in the scope of the Terms of Use and the Agreement in the scope of specified and on condition that is used only in connection with the purpose for which it is being worked, limited and measured. 
+
+In addition, regarding to the 5 and 8 articles of Law or in the case of the exceptions that are indicated in Law, the personal data can be processed and shared with the third parties by the Company. The main situations are as follows: 
+
+  * It is expressly permitted by any law;
+  * It is necessary in order to protect the life or physical integrity of the data subject or another person where the data subject is physically or legally incapable of giving consent;
+  * It is necessary to process the personal data of parties of a contract, provided that the processing is directly related to the execution or performance of the contract;
+  * It is necessary for compliance with a legal obligation which the controller is subject to;
+  * The relevant information is revealed to the public by the data subject herself/himself;
+  * It is necessary for the institution, usage, or protection of a right;
+  * It is necessary for the legitimate interests of the data controller, provided that the fundamental rights and freedoms of the data subject are not harmed.
 
 
 
-We may use non-Personally Identifiable Information such as demographic data to analyze and develop our marketing strategy and further improve the Site and our services.
+The Company has the right of transfer the personal data to servers (including servers, subsidiaries, sub-contractors or outsourcing service providers) located anywhere in the world outside of the country of residence of Users and Members with the aim of getting hosting service in the scope of fulfilling the purposes set out above. 
 
-**INFORMATION SHARING AND DISCLOSURE**
-
-We will not sell or rent your Personally Identifiable Information to third parties except as described in this Privacy Policy. We may disclose your Personally Identifiable Information to other companies or people under any of the following circumstances:
-
-  * if sharing the information is reasonably necessary to provide or otherwise make available the Site and any feature of the Site or a service that you have requested.
-  * to keep you up to date on the latest product announcements, software updates, special offers, or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of these types of communications). (Note that you will not be able to opt-out of service announcements that contain important information relevant to your use of the Site and are not promotional in nature.)
-  * if we believe in good faith that we are required to do so by law, in connection with litigation, to prevent a crime, or to protect personal property, the public, or the Site.
-  * in connection with a sale or merger with another entity, consolidation, restructuring, sale of company assets, financing or other corporate change, including during the course of any due diligence process or if Sinemia should ever file for bankruptcy or related proceeding.
-  * to your employer (or similar entity), if you participate in any of enterprise solutions or corporate programs.
-  * when we otherwise have your consent to share the information.
+**About Accessing Data And Your Right Of Rectification**  
+Users and Members, in connection with his/her have the right to;   
 
 
+  * Learn whether or not her/his personal data have been processed;
+  * Request information as to processing if her/his data have been processed;
+  * Learn the purpose of processing of the personal data and whether data are used in accordance with their purpose;
+  * Know the third parties in the country or abroad to whom personal data have been transferred;
+  * Request rectification in case personal data are processed incompletely or inaccurately;
+  * Request deletion or destruction of personal data within the framework of the conditions set forth under article 7;
+  * Request notification of the operations made as per indents (d) and (e) to third parties to whom personal data have been transferred;
+  * Object to occurrence of any result that is to her/his detriment by means of analysis of personal data exclusively through automated systems;
+  * Request compensation for the damages in case the person incurs damages due to unlawful processing of personal data by applying to the Company.
 
-Sinemia may also share non-Personally Identifiable Information with third parties (e.g. aggregate or demographic data).
 
-**CHILDREN**
 
-The Site is not intended for or directed to persons under the age of 13, and we will not knowingly collect information from such persons. Any person who provides information to us through registration or in any other manner on the Site represents to Sinemia that they are 13 years of age or older. If we learn that a child under 13 has submitted personal information to us, we will attempt to delete the information as soon as possible.
+The Users and the Members can transmit their right to petition via notary with filling the form which is located at www.sinemia.com to the headquarter of the company located at Esentepe Mah. Talatpaşa Cad. Kolektif House Levent/İstanbul with the original signature. There is no way to make request from the third parties instead of personal data owners. In any case that a third party make request instead of personal data owner, there should be a special warranty of attorney which should be prepared especially relative to the subject. Personal data owners will fill 
 
-**CHOICE**
+_the form in accordance with the Law numbered 6698 Protection of Personal Data,_
 
-We will give you the opportunity to “opt out” of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Privacy Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. 
+the application form related to the applications to be made by the Person (Personal Data Holder). In this form, the application method is also explained clearly. 
 
-**PUBLIC POSTS**
+The Applicant agrees that the information in this Policy is complete, correct and up-to-date and will be updated immediately if there is any change in this information. If the applicant does not have up-to-date information, the Company will not have any responsibility. 
 
-The Site may allow you to post or share content to a public area of the Site such as a public profile, group, community or other public area. You should be aware that any content or information you choose to disclose in these areas can be read, collected and used by other users, the general public and other sites (including search engines). We are not responsible for, and this Privacy Policy does not apply to, information you may choose to post in these areas.
+**Storage Time Of Personal Data**  
+The Company would move in accordance with the article 5 of the Regulation on Delete, Destroy or Making Anonym of the Personal Data. Also, the Company would move in accordance with the article 6 of the storage and destroy policy of personal data.
 
-**ACCESS**
+The Company reserves the right to use personal data provided by Users and Members for the benefit of Users from the Site and for the benefit of Members to use the Services in accordance with this Policy, Terms of Use, and the obligations arising from the nature of the Services, and shall destroy personal data in the first periodic destruction following the date on which the obligation to destroy personal data in accordance with Article 11 of the Regulation on Deletion, Destruction or Anonymization of Personal Data has been established. The period of time during which periodic improvement will be determined by the Company in the policy of personal data storage and destruction. 
 
-You may correct, amend, or delete your Personally Identifiable Information by editing your profile on the Site or emailing us at info@sinemia.com.
+The Company will fulfill its obligations arising from Article 12 of the Regulation on the Deletion, Destruction or Anonymization of Personal Data against Users or Members who demand the destruction of personal data in accordance with Article 13 of the Law. 
 
-**SECURITY**
+**Communication Permit**  
+Your personal data as set forth in this Policy and which you have consented to be shared with us by clear consent texts may be used to provide you various advantages and to send you specific advertising, sales, marketing, questionnaires, reservations and all kinds of electronic communications for similar purposes and other communication messages; storage, processing, use, transfer of information. These personal data are used for the same purposes; The Company and all its subsidiaries and affiliates shall be shared with the third parties in the domestic and / or foreign countries in which we are in a contractual relationship. The Members and Users declare that the personal data can be used and stored by the Company for these purposes. The company takes all the precautions according to the article 12 of the Law which indicates the safety storage of the data and avoiding unlawfully data process. 
 
-We are committed to protecting Personally Identifiable Information from loss, misuse, disclosure, alteration, unauthorized access, and destruction. Sinemia takes reasonable precautions to safeguard the confidentiality of Personally Identifiable Information. We protect the security of your Personally Identifiable Information during transmission to us by using Secure Sockets Layer (SSL) software, which encrypts the information you input.
+**Amendments in the Policy**  
+The Company can change the provisions of this Policy by publishing from the Site any time it wants. The Policy amendments made by the Company enter into force on the date of publication. For the future amendments of the Policy, the necessary informing will be done to the members. 
 
-**THIRD PARTY SITES**
-
-The Site may contain links to other sites. Sinemia is not responsible for the privacy practices of such other sites. We encourage our users to be aware when leaving the Site to read the privacy statements of each site that collects Personally Identifiable Information.
-
-**COOKIES**
-
-We use cookies and other similar technologies (such as actions tags, also known as beacons, or pixels tags) for a number of purposes including to remember preferences, track conversions, conduct marketing and promotional efforts, analyze site traffic and trends, and generally understand the online behaviors and interests of people who interact with our Site.
-
-We use third-party advertising companies to serve advertisements on our behalf or to provide advertising-related services. These companies may use a cookie or an action tag, to tailor the advertisements you see on this Website and other sites, to track your response to their advertisement, to determine whether advertising has been served and to measure the effectiveness of their advertising or to award incentives or points to their members who respond to their advertisements. The cookies, action tags or similar files do not contain any Personal Information.
-
-**SOCIAL MEDIA FEATURES AND WIDGETS**
-
-Our Site may integrate with social sharing features or other related tools which let you share actions you take on our Site with other apps, sites or media, and vice versa. These features may enable the sharing of information with your friends or the public, depending on the settings you establish with the social sharing service. These features may also collect your IP address and which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Your interaction with these features are governed by the privacy policy of the relevant platform. Please refer to the privacy policies of those social sharing services for more information.
-
-**YOUR CONSENT TO THIS PRIVACY POLICY**
-
-By using this Site, you agree to this Privacy Policy. We may occasionally update this Privacy Policy. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on Sinemia.com. If we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on Sinemia.com. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personally Identifiable Information we collect. Your continued use of this Site constitutes your agreement to this Privacy Policy and any updates.
-
-Last updated: January 18, 2017 
+**Dispute Resolution**  
+This Policy is subject the Laws of Republic of Turkey. Any dispute arising out of or relating to this contract will be finally settled by arbitration in accordance with the Arbitration Rules of the Istanbul Arbitration Center. 
