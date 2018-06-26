@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seetickets.us privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009003841id_/http%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seetickets.us privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626120558id_/https%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
 
 # Privacy : See Tickets
 
@@ -8,7 +8,7 @@ _Effective Date: 05/26/2016_
 
 See Tickets US (“We”) are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our [terms and conditions](http://info.seetickets.us/terms) and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
+This privacy policy (together with our [terms and conditions](https://info.seetickets.us/terms) and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
 BY VISITING THIS WEBSITE (THE “SITE”) YOU ARE ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS POLICY (INCLUDING AS UPDATED OR AMENDED FROM TIME TO TIME).
 
@@ -120,7 +120,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * If this Site or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](http://info.seetickets.us/terms) and other agreements; or to protect the rights, property, or safety of Vivendi Companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction;
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://info.seetickets.us/terms) and other agreements; or to protect the rights, property, or safety of Vivendi Companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction;
   * To any other third party with your prior consent to do so.
 
 
