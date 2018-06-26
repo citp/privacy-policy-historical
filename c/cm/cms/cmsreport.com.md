@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110032231id_/https%3A//cmsreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626105316id_/https%3A//www.socpub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CMS Report
+# Privacy Policy - socPub
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -20,11 +20,11 @@ We are committed to conducting our business in accordance with these principles 
 
 Like most website operators, Dakota Imagery Group collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Dakota Imagery Group’s purpose in collecting non-personally identifying information is to better understand how Dakota Imagery Group’s visitors use its website. From time to time, Dakota Imagery Group may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Dakota Imagery Group also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on CMSReport.com articles. Dakota Imagery Group only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+Dakota Imagery Group also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on socpub.com articles. Dakota Imagery Group only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Dakota Imagery Group’s websites choose to interact with Dakota Imagery Group in ways that require Dakota Imagery Group to gather personally-identifying information. The amount and type of information that Dakota Imagery Group gathers depends on the nature of the interaction. For example, we ask article contributors who sign up to post an article at [CMSReport.com](https://cmsreport.com/) to provide a username and email address. In each case, Dakota Imagery Group collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Dakota Imagery Group. Dakota Imagery Group does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Dakota Imagery Group’s websites choose to interact with Dakota Imagery Group in ways that require Dakota Imagery Group to gather personally-identifying information. The amount and type of information that Dakota Imagery Group gathers depends on the nature of the interaction. For example, we ask article contributors who sign up to post an article at socpub.com to provide a username and email address. In each case, Dakota Imagery Group collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Dakota Imagery Group. Dakota Imagery Group does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -36,11 +36,11 @@ Dakota Imagery Group discloses potentially personally-identifying and personally
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Dakota Imagery Group uses cookies to help CMSReport.com identify and track visitors, their usage of the website, and their website access preferences. CMSReport.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Dakota Imagery Group’s websites, with the drawback that certain features of Dakota Imagery Group’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Dakota Imagery Group uses cookies to help socpub.com identify and track visitors, their usage of the website, and their website access preferences. socpub.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Dakota Imagery Group’s websites, with the drawback that certain features of Dakota Imagery Group’s websites may not function properly without the aid of cookies.
 
 ### Business Transfers
 
-If CMSReport.com, or substantially all of its assets, were acquired, or in the unlikely event that Dakota Imagery Group goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of CMSReport.com may continue to use your personal information as set forth in this policy.
+If socpub.com, or substantially all of its assets, were acquired, or in the unlikely event that Dakota Imagery Group goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of socpub.com may continue to use your personal information as set forth in this policy.
 
 ### Ads
 
@@ -48,4 +48,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Dakota Imagery Group may change its Privacy Policy from time to time, and in Dakota Imagery Group’s sole discretion. Dakota Imagery Group encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a CMSReport.com account, you should also check the site's privacy page for these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Dakota Imagery Group may change its Privacy Policy from time to time, and in Dakota Imagery Group’s sole discretion. Dakota Imagery Group encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a socpub.com account, you should also check the site's privacy page for these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
