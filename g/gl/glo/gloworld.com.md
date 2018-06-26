@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloworld.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213109id_/http%3A//www.gloworld.com/ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloworld.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626035603id_/http%3A//www.gloworld.com/ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glo Nigeria | Unlimited
 
