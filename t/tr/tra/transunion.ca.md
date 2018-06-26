@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911083250id_/https%3A//transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626232443id_/https%3A//www.transunion.ca/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TransUnion Canada
 
@@ -87,9 +87,9 @@ In this Privacy Policy, we will use the following terms:
 
   * “Cookies” are small text files offered to a user's computer by web servers in order to keep track of the user's browser as a website is navigated.
   * “Personal information” means any information about an identifiable individual.
-  * “Principals” means individuals that own and/or are involved in the management of a business. 
-  * “Us”, “we”, “our” and “TransUnion” means Trans Union of Canada, Inc. 
-  * “Website” means the website operated by TransUnion and located at [http://www.transunion.ca](http://www.transunion.ca/) and, for clarity, does not include the websites hosted and operated by TransUnion Interactive, Inc. or Trans Union LLC. 
+  * “Principals” means individuals that own and/or are involved in the management of a business.
+  * “Us”, “we”, “our” and “TransUnion” means Trans Union of Canada, Inc.
+  * “Website” means the website operated by TransUnion and located at [http://www.transunion.ca](http://www.transunion.ca/) and, for clarity, does not include the websites hosted and operated by TransUnion Interactive, Inc. or Trans Union LLC.
 
 
 
@@ -239,8 +239,7 @@ Telephone:  (877) 713-3393 or (514) 335-0374
 Laval, PQ H7N 1A1
 
 Hours of operation:  
-8:30 a.m.-5:00 p.m. ET (Monday -Thursday)  
-8:30 a.m. - 4:30 p.m. ET (Friday)
+8:30 a.m.-5:00 p.m. ET (Monday - Friday)
 
 For service in English:
 
@@ -250,7 +249,8 @@ PO Box 338 LCD1,
 E-mail: [privacy@transunion.ca](mailto:privacy@transunion.ca "Email privacy@transunion.ca")   
 Hamilton, ON L8L 7W2
 
-Hours of Operation: 8:00 a.m.- 8:00 p.m. ET
+Hours of operation:  
+8:30 a.m.-5:00 p.m. ET (Monday - Friday)
 
 ### Adverse Action
 
