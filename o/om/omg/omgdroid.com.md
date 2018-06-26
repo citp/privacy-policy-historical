@@ -1,36 +1,39 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908204913id_/https%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626030825id_/https%3A//www.androidheadlines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Androidheadlines.com
 
 **What information do we collect?**
 
-We collect information from you when you place an order.
+[Androidheadlines.com](https://www.androidheadlines.com/) does not collect ANY personal private data and respect your data, only cookies for your web browser and do not share that cookie data or use it in any shape other then viewing our website.We use the latest HTTPS2 encryption to ensure your safe browsing of our property.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+_We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take your information for profiling and personalizing ads on other sites._
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+_Please review the following for a full list of partners and purposes and is GDPR compliant:_
 
-We may use third-party advertising companies to serve ads when you visit Androidheadlines. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [the Network Advertising Initiative’s consumer web site](http://optout.networkadvertising.org/#%21/).
+  * [ZiffDavis Privacy Policy – ZD will not to not track, tag or cookie any visitor from the EU](https://www.ziffdavis.com/privacy-policy)
+  * _[PubGalaxy (Titan Gate AD)](https://www.pubgalaxy.com/privacy-policy.html)_
+  * [Rubicon](http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/?mkt_tok=eyJpIjoiWWpVME9USTRPVFkwTnpneSIsInQiOiJwZ2ZaTG1cL3FhSVdFMjZSbVliaFlXbXUxUzliWW1hK0RJODZUdmdwSW10K0dVbWY5eFp4U3Q3UmV4QlBsOWMrYTV3a1ExV3doTmRYSGFIM09hKzB5Zzl2dUd1WlFTZWlab0o5WDhKKzhKbUUycEw1TlwvRUVUNE9pT0ZVbHFRQTBkIn0%3D)
+  * [Conversant / Commission Junction](https://www.conversantmedia.com/legal/privacy)
+  * [IDG](https://www.idg.com/idg-privacy-policy/)
+  * [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
+  * [Google](https://policies.google.com/technologies/partner-sites)
+  * [Samsung](https://www.samsung.com/us/account/privacy-policy/)
+  * [HTC](https://www.htc.com/us/terms/privacy/)
+  * [Motorola](https://www.motorola.com/us/legal/privacy-policy)
+  * [Verizon](http://www.verizon.com/about/privacy/privacy-policy-summary)
+  * [Sprint](http://goodworks.sprint.com/people/customers/privacy?INTNAV=Footer:Privacy)
+  * [T-Mobile](https://www.t-mobile.com/company/website/privacypolicy.aspx)
+  * [ATT](http://about.att.com/sites/privacy_policy)
+  * [Mailchimp](https://mailchimp.com/legal/privacy/?utm_source=MailChimp+System+Alerts&utm_campaign=ea3c8d632d-EMAIL_CAMPAIGN_2018_05_14&utm_medium=email&utm_term=0_21eda42079-ea3c8d632d-114966297&mc_cid=ea3c8d632d&mc_eid=162ad80fac)
+  * [Rakuten](http://rakutenmarketing.com/)
+  * [Newegg](https://kb.newegg.com/Article/Index/12/3?id=1166)
+  * [bhphotovideo](https://www.bhphotovideo.com/find/HelpCenter/Policies.jsp#privacySecurity)
+  * [Viralsweep](https://www.viralsweep.com/privacy)
+  * [Gearbest.com](https://www.gearbest.com/about/privacy-policy.html)
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
 
-; To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
+> **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
