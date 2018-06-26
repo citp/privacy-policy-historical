@@ -1,47 +1,55 @@
-> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408065940id_/http%3A//www.sourceknowledge.com/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626061338id_/http%3A//www.sourceknowledge.com/privacy) for the most accurate reproduction.*
 
-# SourceKnowledge. The marketplace for video advertising. | SourceKnowledge
+# Privacy Policy | SourceKnowledge
 
-SoKno Media, Inc. (SourceKnowledge) respects your privacy and is committed to protecting your personal information when you are on our site. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
+_Last updated April 18th, 2018_
 
-#### Information Collection:
+_**Addendum**_
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, title, occupation, industry, and other information when needed to provide a service you requested.
+**GDPR COMPLIANCE**
 
-We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend there. But we do not link your IP address to any personal information. Like many other Websites, the SourceKnowledge Website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Technology" below for more information.
+The GDPR is a new legal framework from the EU that takes effect on May 25, 2018. It’s an updated version of the Data Protection Directive.
 
-SourceKnowledge collects personal information when you register with SourceKnowledge for a SourceKnowledge client account, when you use certain SourceKnowledge products or services, when you register to participate in an online survey, when you ask to be included in an email or other mailing list, or when you submit your personal information to SourceKnowledge for any other reason.
+SourceKnowledge does not itself or with third parties collect, share, use, store any personally identifiable information (PII) on EU users. Personal data encompases location data, cookie ID’s IP addresses, advertising ID’s or another other identifiable or pseudonymous information.
 
-#### Notice:
+It is SourceKnowledge’s policy to respect your privacy regarding any information we may collect while operating our websites. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-When personal information is collected, we will inform you at the point of collection the purpose for the collection. SourceKnowledge will not transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "How We Use Information Collected" below.
+**ABOUT SOURCEKNOWLEDGE’S SERVICES**
 
-If you choose to provide us with your personal information, we may only transfer that information, within SourceKnowledge or to SourceKnowledge's third party service providers with your permission. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+SourceKnowledge provides targeted advertising services for our advertiser clients (“Advertisers”). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in the SourceKnowledge Service Privacy Notice. Our platform uses that data as well as other data described below to help Advertisers provide ads to you that are more relevant to you.
 
-#### Cookies and Tracking Technology:
+**WHAT DATA WE COLLECT AND HOW WE USE IT**
 
-Some areas of SourceKnowledge's Website use cookies to track user traffic patterns. We do this in order to determine the usefulness of our Website information to our users and to see how effective our navigational structure is in helping users reach that information. We also use cookies to verify the efficacy of our advertising and online marketing programs, using 3rd party software to analyze the tracking results. The information is viewed in aggregate, meaning your personal information is not used or displayed.
+We may collect the following categories of information for the purposes explained below. Advertiser website activity: This is data about your browsing activity on the Advertiser’s website. For example, which pages you visited and when, and what items you placed into your online shopping cart. Device and browser information: This is technical information about the device or browser you use to access the Advertiser’s website. For example, your device’s IP address, cookie string data and (in the case of mobile devices) your device type and mobile device’s unique identifier such as the Apple IDFA or Android Advertising ID. Ad data: This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad. Data from Advertising Partners: This is data that we receive from other digital advertising companies that we work with (“Advertising Partners”) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers that some Advertisers or other third party ad platforms choose to share with us, such as your “Customer ID” with an Advertiser We may work with these Advertising Partners to synchronize their unique, anonymous identifiers to our own to enhance data points about a particular unique browser or device. We also use this data to operate, improve and enhance our services including enhancing the data points we or our Advertising Partners have about a particular user, browser, or device, or to target, optimize, cap, or synchronize advertising.
 
-If you prefer not to receive cookies while browsing our Website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of SourceKnowledge's Website if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our Website. You do not need to have cookies turned on, however, to use/navigate through many parts of our Website, except access to certain of SourceKnowledge's Web pages may require a login and password.
+**DATA SHARING**
 
-#### How We Use Information Collected:
+We may disclose information about you: With an Advertiser whose site you have visited: We may share information about how you have interacted with that Advertiser’s site or its Ads. With our service providers: We contract with companies who help with parts of our business operations. We require that our service providers only use your information in connection with the services they perform for us. With service providers to our Advertisers: Our Advertisers may contract with companies who handle data (such as Advertisers’ customer lists) for them. With our subsidiaries and related companies. In connection with legal proceedings: When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of SourceKnowledge, our Advertisers or any other third party. In connection with a sale of our business: If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale. We also share technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you. Finally, we may disclose aggregated, anonymized information with other third parties.
 
-SourceKnowledge uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience in secured areas of our Website, to keep you up to date on the latest news and trends, special offers or other information we think you'd like to hear about, and to better understand your needs and provide you with better services.
+**COOKIES AND RELATED TECHNOLOGIES**
 
-Your personal information is never shared outside SourceKnowledge without your permission, except under conditions explained below. Inside SourceKnowledge, data is stored in controlled servers with limited access.
+The SourceKnowledge platforms uses cookies, tracking pixels and related technologies to provide our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device. They enable us to identify your device when you move between different websites and applications, so that we can serve targeted advertising to you. Specifically, the SourceKnowledge cookie we serve through the SourceKnowledge platform is named “ProvenPixel universal pixel (upx)”. We may also drop an additional SourceKnowledge opt-out cookie if you opt-out as described below. We may also drop cookies from our Advertising Partners for the purposes described above. The Advertising Partner cookies dropped vary by Advertiser implementation.
 
-SourceKnowledge may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of SourceKnowledge to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest news and trends, special offers or other information we think you'd like to hear about either from us (unless you have opted out of these types of communications). We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our Websites.
+**SOURCEKNOWLEDGE AND ADVERTISING STANDARDS**
 
-#### Ad Serving and Third Party Sites:
+We at SourceKnowledge comply with the Digital Advertising Alliance of Canada’s (DAAC) Self-Regulatory Principles for Online Behavioral Advertising. You can learn more about the DAAC program and opt out of interest-based advertising by visiting the DAAC’s website [here](https://youradchoices.ca/).
 
-The SourceKnowledge website contains links to other sites. SourceKnowledge does not share your personal information with those Websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Our Website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a SourceKnowledge logo, even though they are not operated or maintained by SourceKnowledge. Although we choose our business partners carefully, SourceKnowledge is not responsible for the privacy practices of websites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+You may have noticed the AdChoices icon  which appears on ads shown by any ad network participating in the Digital Advertising Alliance across the globe. You can access the opt out platforms by toggling “ON” via the switch below.
 
-We use our own proprietary ad server, [ProvenPixel](http://www.provenpixel.com/) as well as third-party advertising companies and networks to serve ads. SourceKnowledge as well as these third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of webpages to determine or predict the characteristics and preferences of their audience. We do not and out partners do not store any personally identifiable information such as name, address, telephone number, social security number or e-mail. As a result, we have no way of tying any of the information we collect back to a particular user. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: [networkadvertising.org](http://networkadvertising.org/consumer/opt_out.asp).
+_Please note if you express your choice through the above platforms: when your browser blocks  third party cookies by default, you may have to first activate all cookies as explained by said platforms._
 
-#### Changes to this Privacy Policy:
+**DATA RETENTION**
 
-SourceKnowledge will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
+Identifiable information about you is held no longer than necessary for our business purposes or to meet legal requirements.
 
-#### Questions or Suggestions:
+**SECURITY**
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us using our contact form.
+We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
+
+**CHANGES TO THIS PRIVACY NOTICE**
+
+Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
+
+**CONTACT US ABOUT QUESTIONS OR CONCERNS**
+
+If you have any questions about this Privacy Notice, our privacy practices, or with SourceKnowledge generally, you can contact info@sourceknowledge.com or write to us at the following address: SourceKnowledge, 1001 Boulevard de Maisonneuve West, Suite 1510 Montreal, Quebec, Canada H3A 3C8
