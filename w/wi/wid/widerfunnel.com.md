@@ -1,67 +1,107 @@
-> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930094224id_/https%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widerfunnel.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626093514id_/https%3A//www.widerfunnel.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - WiderFunnel Conversion Optimization
+# Privacy Statement - WiderFunnel Conversion Optimization
 
-Reading Time: 4 minutes
+Reading Time: 1
 
-WiderFunnel Marketing Inc. recognizes the privacy and security needs of its web visitors and that protecting personal information is vitally important.
+**Last updated: June 15, 2018**
 
-Please read the following Privacy Policy to understand how we handle the collection, use and disclosure of your personal information.
+**WiderFunnel Marketing Inc.** (from here on out, WiderFunnel) recognizes that protecting personal information is vitally important. We are committed to ensuring that we comply with British Columbia’s Personal Information Protection Act (“PIPA”) and other applicable legislation. We also look to international best practices when it comes to protecting the personal information that we collect, use and disclose during the course of business.
 
-Our policy is guided by the provincial and federal privacy laws applicable in British Columbia, Canada. This Privacy Policy is not exhaustive and WiderFunnel Marketing Inc. reserves the right to modify this Privacy Policy at any time, effective upon posting of the modified Privacy Policy to [www.WiderFunnel.com](https://widerfunnel.com/). Changes to this Privacy Policy are deemed to be communicated to users upon their posting on this website.
+This Privacy Statement is designed to provide transparency regarding our privacy practices. Please read it to ensure you understand how we handle the collection, use and disclosure of your personal information. If you don’t want us to use your personal information in the ways identified here, you should not use our website or services (referred to together from now on as our “Services”).
 
-## Collected information
+If you have any questions about our privacy practices or this Privacy Statement, please contact our Privacy Officer at [privacy@widerfunnel.com](mailto:privacy@widerfunnel.com).  
 
-WiderFunnel Marketing Inc. requires users of its Services to provide contact and other information that can be used to identify or contact a specific individual, such as a name, address, telephone number or email address, as displayed in the Registration Information forms.
 
-WiderFunnel Marketing Inc. may also collect certain information from visitors, such as name, address, phone number, Internet address, user IDs and passwords and contact preferences. This information is logged to improve the quality of the services we deliver. WiderFunnel Marketing Inc. may also track and analyze non-identifying and aggregate usage and volume statistical information from its visitors.
+WiderFunnel may collect personal information that can be used to identify you as an individual, such as a name, address, telephone number or email address, through the Registration Information forms.We may also collect certain information from website visitors, such as Internet address, user IDs and passwords and contact preferences. Where this information can be used to identify you personally, we will treat it as personal information.
 
-In some cases, WiderFunnel Marketing Inc. may ask for additional information, in order to provide technical support. Any such additional information would be of a technical nature and remain confidential.
+### Disclosure
 
-## Disclosure
+WiderFunnel will not sell, rent, trade or otherwise disclose personal information to any third parties or outside companies for any reasons other than those specified below unless we obtain your consent to do so.
 
-WiderFunnel Marketing Inc. maintains information about its web visitors and may use this data for internal business purposes, or disclose Customer Data in aggregate form (i.e., not individually attributable to Customer) for marketing or other promotional purposes.
+Where requests for information about our Services come from outside North America, we may share your personal information with third parties. For example, WiderFunnel does not offer goods and services in the EU. Where requests come from the EU, we will forward personal information (name, email address, phone number) to our global partners who can provide full-service marketing experimentation consulting. Please see [Global Optimization Group](https://www.globaloptimizationgroup.com/) site for more information.
 
-WiderFunnel Marketing Inc. may also share your personal information with third parties in responding to your requests for products or services or product evaluations. WiderFunnel Marketing Inc. will not sell, rent, trade or otherwise disclose individual web visitor information to any third parties or outside companies for any reasons other than those specified below.
+If you are requesting information from outside North America, you understand and consent to WiderFunnel disclosing your personal information to our global partners.  
+WiderFunnel may also disclose personal information to comply with any laws, regulations, court orders, subpoenas, or other legal process or investigation and to protect ourselves and other individuals from harm.
 
-WiderFunnel Marketing Inc. may disclose Customer Data if WiderFunnel Marketing Inc. believes that such action is reasonably necessary: (a) to comply with the law; (b) to comply with legal process; (c) to enforce its agreements; (d) to respond to claims that the Customer uses the Services to support activities that violate the law or the rights of third parties; or (e) to exculpate WiderFunnel Marketing Inc. from charges of wrongdoing. However, WiderFunnel Marketing Inc. does not have a duty to make any such disclosures.
+We may disclose your information to other third parties in relation to a merger, acquisition, or any form of sale of some or all our assets or business. Your information may be provided to the entities and advisors involved, for the purposes of determining whether to proceed with the transaction and, where applicable, to conclude the transaction. Your information may be transferred to a successor or assign of all or part of our assets or business that may use and disclose the information for the purposes described in this Privacy Statement.
 
-Neither WiderFunnel Marketing Inc. nor any party it contracts with will disclose Customer Data or Confidential Information to any other person unless such disclosure is required or authorized by law, or with prior written consent of the other party. In the event that a party is legally compelled, through whatever means, to provide access to Customer Data or Confidential Information, then the disclosing party will provide the other party with Notification of such an event as soon as it is reasonably practical to do so as to afford the opportunity to limit or prevent such disclosure.
+### Use of information
 
-## Use of information
+WiderFunnel uses contact information, including email addresses and phone numbers, to:
 
-WiderFunnel Marketing Inc. may use email addresses to provide its Users with informative newsletters and other relevant information.
+  * To respond to your requests for information.
+  * To establish customer accounts.
+  * To contact you with updates, newsletters and notifications regarding our Services, where we have your consent to do so.
 
-WiderFunnel Marketing Inc. likes to keep its Prospects and Customers informed via email and other means. WiderFunnel Marketing Inc. may also use demographic information to gather general interest in its products, to help in the analysis of product usage, purchasing, and target markets.
 
-## Consent
 
-WiderFunnel Marketing Inc. does not require that you provide us with personal information. It is a voluntary decision to provide personal information; however, if you do not wish to provide the personal information requested, we may not be able to service you properly or receive the benefit for which the personal information is being requested. Except as expressly stated otherwise in this Privacy Policy, you may opt out of having WiderFunnel Marketing Inc. share personal information with third parties as described in this Privacy Policy by notifying WiderFunnel Marketing Inc. in writing of your desire to do so.
+We may also collect “de-identified data”, data that does not identify an individual, including demographic data. We use this de-identified data to:
 
-We will obtain your consent prior to the collection, use or disclosure of your information. Consent may be expressed or implied. Implied consent means that you provide the information to us and the purpose of providing such information would be clear to you, even if we did not state it.
+  * Gather information on general interest in products and analyze product usage, purchasing and target markets.
+  * Monitor system usage, server and software performance, to improve system design, to create benchmarks and to conduct trend analyses.
+  * Perform statistical analyses and generate data related to how you use our website.
 
-## Security of data
 
-The Internet is not an absolutely secure medium of communication and WiderFunnel Marketing Inc. cannot guarantee the security and privacy of the Customer Data sent over the Internet or stored on its Systems. The Company will use commercially reasonable efforts consistent with the standards of practice in the industry to prevent unauthorized access to and disclosure of the Customer Data exercising the same degree of care that a reasonable and careful Person would exercise with similar data.
 
-## Cookies
+We may use this de-identified data internally or share it with our partners, for example, service providers, but the information will not identify you specifically. For example, we may share it in aggregate form for marketing and other promotional purposes.
 
-WiderFunnel Marketing Inc. is committed to continually improving the experience for its Customers as they visit its website. Accordingly, some information gathered on www.WiderFunnel.com is stored in the form of ‘cookies’. Cookies are the most effective way to identify a unique user and understand their navigation during a visit. WiderFunnel Marketing Inc. may use cookies to store user identifications, and personalize its site and offer secure Services for each account holder.
+### Consent
 
-## Remarketing
+WiderFunnel will obtain your consent prior to the collection, use or disclosure of your personal information. We do not require you to provide us with personal information, the decision to do so it is voluntary. If you do not wish to provide personal information, we may not be able to provide you with Services and you may not receive the benefits associated with providing personal information.
 
-We use Google AdWords and AdRoll remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising about our services in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the [Network Advertising Initiative opt-out page](http://networkadvertising.org/choices.).
+At any time and without penalty, you can withdraw your consent to the use and disclosure of your personal information as set out in this Privacy Statement by contacting us at [privacy@widerfunnel.com](mailto:privacy@widerfunnel.com) or, in the case of marketing emails, by clicking on the unsubscribe link found in each email message.
 
-## Third-party sites
+### Retaining Personal Information
 
-WiderFunnel Marketing Inc. website contains hypertext links to other sites as a convenience to users. WiderFunnel Marketing Inc. is not responsible for the privacy practices or contents of any information provided by outside sites through these links. Customers and visitors will need to check the policy statement of these other sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the Customer to keep such information private and confidential.
+We will retain personal information only as long as necessary to fulfill the identified purposes or as permitted or required by law. Contact information that you provide to us for communications purposes will be retained until you unsubscribe or request to be removed from our database.
 
-## Access to and accuracy of your information
+We do not retain your personal information when we forward contact requests to global partners.
 
-WiderFunnel Marketing Inc. will try to keep your personal information accurate. We will provide you with access to your information and the opportunity to change your information.
+### Security of data
 
-## Questions or comments
+We maintain appropriate processing practices and security measures to protect your personal information from unauthorized access, collection, use, disclosure, copying, modification or disposal or destruction. We train our team to follow privacy and security practices and use contracts to ensure that third parties acting on our behalf also maintain reasonable and appropriate safeguards.
 
-If there are any questions or concerns about this Privacy Policy, or if you believe that the privacy of your personal information has not been respected, please email us: [info@widerfunnel.com](mailto:info@widerfunnel.com).
+Even so, it is important to remember that the Internet is not an absolutely secure medium of communication and no system can be guaranteed 100% secure, not even WiderFunnel’s.
 
-These Terms of Use were last revised August 2016
+### Cookies
+
+We use functional cookies on our website to deliver the desired functionality and user experience, analytics cookies to collect and analyze aggregate visitor behavior data in an effort to improve our website. Finally, we use marketing cookies to grow our audience and reach previous visitors with new content.
+
+For more information about cookies and to opt-out from our cookies, please go to our [Cookie Policy](https://www.widerfunnel.com/cookie-policy/).
+
+### Remarketing
+
+We use Google AdWords, Facebook, LinkedIn and Quora remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising about our services and content in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [Network Advertising Initiative Opt-Out Tool](http://optout.networkadvertising.org/) or the [Digital Advertising Alliance Opt-Out Tool](http://www.aboutads.info/choices/).
+
+To learn more about remarketing use of cookies, please check our [Cookie Policy](https://www.widerfunnel.com/cookie-policy/).
+
+### Third-party sites
+
+WiderFunnel website may link to other sites as a convenience to users. This Privacy Statement does not govern those other sites and we are not responsible for their privacy practices or website contents. While we do our best to research and link to the most trustworthy sites that we visit ourselves, you should read their privacy statements and make an informed decision about whether you want to use those websites or their services or provide them with your personal information.
+
+### Location of Services
+
+WiderFunnel processes and stores data in the U.S. and Canada.
+
+### Access to and accuracy of your information
+
+It is your responsibility to ensure that information you provide to WiderFunnel is accurate. You may request access to, make corrections to, or delete the personal information we hold about you at any time, subject to limited exceptions.
+
+Upon written request, we will provide you with a list of entities (e.g. affiliate partners and third party service providers) to whom we have disclosed your personal information, if applicable.
+
+### Changes to this Privacy Statement
+
+WiderFunnel may amend this Privacy Statement from time to time. We will post the date of the most recent changes and provide previous versions upon request. If we make significant changes, we will provide a more prominent notice (including email notification if appropriate).
+
+### Questions or comments
+
+You may send your privacy-related questions, concerns or complaints to our Privacy Officer, who is responsible for ensuring our compliance with this statement and privacy legislation.
+
+Privacy Officer  
+Suite 1480, 333 Seymour Street  
+Vancouver, BC V6B 5A6  
+Canada  
+Email: [privacy@widerfunnel.com](mailto:privacy@widerfunnel.com)
+
+If our Privacy Officer is unable to resolve the concern, you may also write to the [Information and Privacy Commissioner of British Columbia](https://www.oipc.bc.ca/).
