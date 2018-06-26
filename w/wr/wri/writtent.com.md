@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the writtent.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224050012id_/http%3A//writtent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writtent.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626124433id_/https%3A//writtent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Writtent
 
-YOUR PRIVACY
-
 At Writtent.com, we are committed to protecting your privacy as an online visitor to our website. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you. Please read our privacy policy below carefully. You may change your details at any time by advising us in writing via email. All information we receive from our customers is protected by our secure server. Writtent.com’s secure server software encrypts all customer information before it is sent to us. Furthermore, all customer data collected is secured against unauthorized use or access. Credit card information is not stored by us on our servers.
 
-STORAGE AND SECURITY OF YOUR INFORMATION
+### Storage and security of your information
 
 We receive and store information you enter on our website or give us in any other way from time to time. You may provide basic contact information such as your name, phone number, address, and email address to enable us to send information or process your product order and we may also collect additional information at other times, including but not limited to, when you provide feedback, change your content or email preferences, respond to a survey, or communicate with our customer support.
 
@@ -20,34 +18,40 @@ We will use all reasonable means to protect the confidentiality of your Personal
 
 Any non-personal information, communications and material you send to this website or to us by email, or which we obtain from third parties without promises of confidentiality, may be kept, used and disclosed by us on a non-confidential basis. We are free to use and reproduce any such information freely, and for any purpose whatsoever. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products.
 
-COOKIES
+### Cookies
+
+We receive and store information you enter on our website or give us in any other way from time to time. You may provide basic contact information such as your name, phone number, address, and email address to enable us to send information or process your product order and we may also collect additional information at other times, including but not limited to, when you provide feedback, change your content or email preferences, respond to a survey, or communicate with our customer support.
 
 A cookie is a small file placed in your web browser that collects information about your web browsing behaviour. Use of cookies allows a website to tailor its configuration to your needs and preferences. Cookies do not access information stored on your computer or any personal information (e.g. name, address, email address or telephone number). Most web browsers automatically accept cookies but you can choose to reject cookies by changing your browser settings. This may, however, prevent you from taking full advantage of our website. Our website uses cookies to analyse website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant ads to website visitors through third party services such as Google Adwords. These ads may appear on this website or other websites you visit.
 
-DISCLOSURE OF YOUR INFORMATION
+### Disclosure of your information
 
 We may from time to time need to disclose certain information, which may include your Personal Data, to comply with a legal requirement, such as a law, regulation, court order, subpoena, warrant, in the course of a legal proceeding or in response to a law enforcement agency request. Also, we may use your Personal Data to protect the rights, property or safety of PaleoYums.com, our customers or third parties.
 
 If there is a change of control in one of our businesses (whether by merger, sale, transfer of assets or otherwise) customer information, which may include your Personal Data, could be disclosed to a potential purchaser under a confidentiality agreement. We would only disclose your information in good faith and where required by any of the above circumstances.
 
-THIRD PARTIES
+### Third parties
 
 We do not and will not sell or deal in personal or customer information. We will never disclose your personal details to a third party except the necessary information required by providers of products or services you have purchased or to protect the rights, property or safety of PaleoYums.com, our customers or third parties or if required by law.
 
 We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may use the information that you provide to improve our website and services but not for any other use.
 
-SECURITY
+### Security
 
 We strive to ensure the security, integrity and privacy of personal information submitted to our website, and we periodically update our security measures in light of current technologies.
 
-LINKS
+### Links
 
 This website may contain links to other websites. These links are meant for your convenience only. Links to third party websites do not constitute sponsorship or endorsement or approval of these websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this website.
 
-CHANGE IN PRIVACY POLICY
+### Change in privacy policy
 
 As we plan to ensure our privacy policy remains current, this policy is subject to change. We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this website. Please return periodically to review our privacy policy.
 
 If you have any questions or concerns at any time about our privacy policy or the use of your personal information, please contact us at [care@writtent.com](mailto:care@writtent.com) and we will respond within 48 hours. To browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy and website disclaimer, govern Writtent.com relationship with you in relation to your use of this website.
 
 By using this website, you signify your acceptance of these terms and conditions of use. For the purposes of these terms and conditions, “Us”, “Our” and “We” refers to PaleoYums.com and “You” and “Your” refers to you, the client, visitor, website user or person using our website.
+
+Unfortunately, your browser is too old to work on this site.
+
+Please upgrade your browser to improve your experience.
