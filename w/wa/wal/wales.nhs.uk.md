@@ -1,59 +1,90 @@
-> *The following text is extracted and transformed from the wales.nhs.uk privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810184826id_/http%3A//www.wales.nhs.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wales.nhs.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627003853id_/http%3A//www.wales.nhs.uk/privacystatement) for the most accurate reproduction.*
 
 # Health in Wales | Privacy Statement
 
-## Purpose
+The purpose of this notice is to inform you of why and how we process your personal data.
 
-This statement applies to all information collected or submitted on Health in Wales website. It details what information we collect, how and why we collect them. If you have any comment or query, please submit your request via the ‘Feedback Form’ quoting 'privacy statement'.
+Public Health Wales NHS Trust is the national public health agency for Wales. We exist with the aim of protecting and improving health and wellbeing and reducing health inequalities for people in Wales. We were established in 2009 by an Act of Parliament which means that we are legally required to carry out certain functions. We call these our statutory functions. To enable us to carry out these functions, we need to process elements of your personal data, and the purpose of this notice is to inform you what data we process, how we process it and why. Because we process your personal data, we are a Data Controller and so are required to comply with relevant Data Protection law.
 
-As described within the provisions of the [UK Data Protection Act 1998](http://www.opsi.gov.uk/acts/acts1998/ukpga_19980029_en_1), we take appropriate measures to maintain the security of your data on our website. Information collected is governed by this privacy statement and use of this website signifies your agreement.
+Your personal data means any information relating to you, and by which you can be identified. In order to carry out our functions, we will process a wide variety of your personal data, including (but not limited to) the following:
 
-## Information We Collect
+  * Name, address and contact details (including email and telephone numbers)
+  * Date of birth
+  * Information regarding your physical and mental health
+  * Photographs that you have consented to be taken
 
-### Personal Information
 
-We do not collect personal information about site users. When you voluntarily submit identifiable data on this website (this includes submission of feedback forms, subscriptions or questionnaires), the information submitted is used solely to respond to your queries and for its intended purpose. We do not share web user information with third parties.
 
-### User Tracking
+We do not collect or process all of this personal data for all people all of the time. We only collect and process the personal data that is necessary for the particular task that we are carrying out.
 
-We monitor user activity to enhance content provided on the site. [Google Analytics](http://www.google.com/analytics/index.html) (GA) is a free service provided by [Google](http://www.google.com/about.html) that generates detailed statistics about the visitors to a website.
+We collect your personal data from a variety of sources, including
 
-Information collected includes referring / exit web pages, click patterns, most / least viewed web pages, session duration, number of visitors, browser type, operating system, etc. Information is collected by using cookies. 
+  * Information provided directly to us by yourself
+  * Information provided by other NHS organisations (e.g. Health Boards)
+  * Surveys and research
 
-## How We Collect Information
 
-### Google Analytics
 
-This website uses [Google Analytics](http://www.google.com/analytics/index.html), a web analytics service provided by Google Inc. ('Google').  Google Analytics uses 'cookies' and JavaScript code to help analyse user activity on websites. The information generated about your use of the website (including your IP address) will be transmitted to and stored on Google servers in the 
+We want you and your family to enjoy the best possible healthcare in Wales and we process the personal data that we require to help us achieve this. We only process the minimum amount of personal data that we need to perform the task that we are carrying out.
 
-United States
+In the main, we process your personal data for purposes directly connected with ensuring that you receive high quality healthcare through the NHS. We do however process it for other general reasons, such as:
 
-.
+  * Providing you with information you have requested
+  * Handling your enquiries
+  * Providing access to certain areas of our websites
+  * Informing you of services which may be relevant to you
+  * If you apply to work for us
+  * Auditing use of our systems and websites
+  * Handling of complaints and concerns
 
-Google will use this information to produce user activity reports for this website.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
 
-Google will not associate your IP address with any other data previously held.  You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note that if cookies are disabled, you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-### What are Cookies?
+In the majority of cases, we process your personal data to directly carry out our statutory functions. This means that because we are established by Act of Parliament and are required by law to carry out these functions, under Data Protection law we are allowed to process your personal data because the processing is _‘necessary for performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.’_
 
-Cookies are small files that websites put on your computer hard disk drive when you visit. Cookies pass information back to websites each time you visit. They are used to uniquely identify web browsers, track user trends and store information about user preferences. You can restrict / disable cookies on your browser; please note that some website features may not function properly without cookies. 
+We have to be able to process your personal data in order to deliver the service you require. We do not ask for your consent to process your information to enable us to carry out our statutory functions because if you refused we would be unable to provide you with a proper healthcare service.
 
-### How to Disable Cookies
+In some cases we will want to process your personal data for reasons beyond our statutory functions. When we want to do this, we will ask for your consent to process the personal data that we need (e.g. if we want to take and use your photograph in our marketing materials, or you wish to subscribe to a newsletter). In these cases when you give your consent you will be told how your personal data will be processed. You will also be told how you can withdraw that consent and opt out of further processing.
+
+Under the Data Protection Act, you have the right to know if we hold personal data relating to you, and if so what personal data we hold and why. You also have the right (with certain exceptions) to a copy of any personal data that we hold in order that you can be sure that it is accurate and up to date. You can get more information on what personal data we hold about you by contacting the Data Protection Officer (details shown at the end of this notice).
+
+We sometimes share your personal data with other organisations. We only do this when there is a clear legal basis for doing so. Sometimes we share your personal data because it is in your best interests that we do, and on other occasions we will share your personal data because we are legally obliged to do so. We do not share your personal data for marketing or commercial purposes.
+
+When we decide it is necessary to share personal data, we will enter into a ‘Data Sharing Agreement’ (DSA) with the people we are going to share it with. DSAs are drawn up in line with the Wales Accord on Sharing of Personal Information (WASPI). More details about DSAs can be found at the WASPI website,
+
+We also share your personal data from time to time with third party contractors, who we engage to undertake certain processing activities for us. We do this because it is often more efficient and cost effective to use a contractor and we have judged it to be the best value. When we engage a contractor they become a Data Processor, and they are then bound by the law in the same way that we are and so are subject to strict rules on processing. They can only process your personal data in the manner that we specifically tell them to and must not share your personal data with anyone else without our express permission. Before engaging a contractor we make sure that they have appropriate measures in place to secure your personal data
+
+Public Health Wales recognises that your personal data is very valuable, and so we take its security very seriously.
+
+We employ robust technical measures to secure your personal data and access to it is restricted to people who have a need to process it in line with their work.
+
+All Public Health Wales staff are bound by contracts which include clear responsibilities in relation to confidentiality. All of our non-medical staff have the same duty of confidentiality as healthcare professionals such as Doctors and Nurses.
+
+All of our staff must attend training in what we call Information Governance. Amongst other things, this training makes them understand the importance of confidentiality and security of your personal data and makes clear that they are personally responsible for the security of any information which they are processing. They must attend this training at least once every two years and must pass a test to demonstrate that they have understood it. The expectations we have on our staff are set out in the Information Governance Policy. Failing to comply with this policy is a disciplinary offence.
+
+We regularly audit access to personal data to ensure that it is being processed appropriately.
+
+NHS Wales Informatics Service (NWIS) provides some of the IT services within NHS Wales including our website.  IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by NWIS so that data (such as the web pages you request) can be sent to you.  NWIS will collect other anonymised statistical information about use of the website so that the service can be maintained and improved.
+
+Cookies are small files that websites put on your computer hard disk drive when you visit. Cookies pass information back to websites each time you visit. They are used to uniquely identify web browsers, track user trends and store information about user preferences. You can restrict/disable cookies on your browser; please note that some website features may not function properly without cookies.
+
+**How to Disable Cookies**
 
 To change your cookie settings:
 
-  * **Internet Explorer** : Go to ‘Tools’ on the menu bar > Select ‘Internet Options’ > Select ‘Privacy’ > Disable / restrict cookies
-  * **Firefox** : Go to ‘Tools’ on the menu bar > Select ‘Options’ > Select ‘Privacy’ > Disable / restrict cookies
-  * **Opera** : Go to ‘Tools’ on the menu bar > Select ‘Preferences’ > Select ‘Privacy / Advanced’ > Disable / restrict cookies
+If you have any queries about this notice, or the processing of your personal data you should contact me as per the details below.
 
+Please note that mail to either of these addresses may not be opened by me and so are not appropriate for confidential communications. If you have something that you need to discuss personally with me in confidence, please contact me in the first instance by telephone.
 
+The Data Protection Officer
 
-* Please note that the above settings may differ depending on the browser version. 
+Public Health Wales NHS Trust,
 
-## Why We Collect User Statistics
+Capital Quarter 2,
 
-By understanding user behaviour and preferences, we are able to improve our website's content to meet user expectations and needs. 
+Tyndall Street,
 
-## External Websites
+Cardiff
 
-This privacy statement does not apply to external links; collection of information by such sites is subject to relevant privacy policies. We are not responsible or liable for the privacy practices of external websites and use of such websites is at your discretion.
+CF10 4BZ
+
+Tel: 02920 104307
