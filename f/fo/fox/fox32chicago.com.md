@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox32chicago.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120145042id_/http%3A//www.fox32chicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox32chicago.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626105817id_/http%3A//www.fox32chicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WFLD
 
