@@ -1,70 +1,86 @@
-> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908152122id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115933id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Introduction**
 
-Global Citizen (the "Platform") is a platform run by Global Poverty Project, Inc. ("GPP"), the parent of the wholly-owned subsidiary Global Citizen Data, Inc. Global Citizen Data, Inc. ("we" or "us") takes privacy and data protection issues seriously. 
+Global Citizen (the "Platform") is a platform run by Global Poverty Project, Inc. d/b/a Global Citizen ("GC", “we”, or “us”). We take privacy and data protection issues seriously. 
 
 We have established this Privacy Policy (the "Policy") to explain how we handle personally identifiable information collected from users of the Platform.
 
 By accessing and using the Platform, you agree that you have read and understand this Policy and you accept and consent to the privacy practices (and any uses and disclosures of information) that are described in this Policy.
 
-This policy sets out Global Citizen Data, Inc.'s personal information management practices. It covers the following areas: 
+This policy sets out GC’s personal information management practices. It covers the following areas: 
 
-·       application of policy; 
+  * application of policy;
+  * personal information collected;
+  * your rights
+  * use and disclosure of personal information;
+  * use of the Platform; 
+  * accessing and updating personal information; 
+  * security of personal information; 
+  * data tracking; 
+  * external links; 
+  * changes to this privacy policy; and 
+  * contact details. 
 
-·       personal information collected; 
 
-·       use and disclosure of personal information;
-
-·       use of the Platform; 
-
-·       accessing and updating personal information; 
-
-·       security of personal information; 
-
-·       data tracking; 
-
-·       external links; 
-
-·       changes to this privacy policy; and 
-
-·       contact details. 
 
  **Application of Policy**
 
-This policy applies to all our personnel, including volunteers and other individuals with whom we do business.
+This policy applies to all our personnel, including volunteers and other individuals with whom we do business. 
 
  **Responsibilities of Personnel**
 
 It is the responsibility of all personnel to: 
 
-·       be familiar with this policy; and 
+  * be familiar with this policy; and 
+  * comply with this policy. 
 
-·       comply with this policy. 
+
 
  **Personal Information Collected**
 
-Global Citizen Data, Inc. only collects personal information that is necessary for the Platform's functions and activities. This includes personal information collected when you give your information on third party websites to sign up to Global Citizen (E.g., [gatesletter.com](http://gatesletter.com/)). This information will only be collected with the consent of the individual or otherwise in accordance with the law.
+GC only collects personal information that is necessary for the Platform's functions and activities. This includes personal information collected when you sign up for the Platform via third party websites. This information will only be collected with the consent of the individual or otherwise in accordance with the law.
 
-As with many other websites, the web servers used to operate the Platform may collect certain non-personal data pertaining to users of the Platform and the equipment and communications method that they use to access the Internet and the Platform. Without combining these data with other sources of information, they do not readily or personally identify individuals. They may reveal such things as the Internet protocol ("IP") address assigned to an individual's computer, specific pages that an individual accessed on the Platform or immediately prior to visiting the Platform, and the length of time spent in a visit to the Platform. The purposes for which this information is collected and used include facilitating Platform operation and system administration, the generating of aggregate, non-identifiable statistical information, monitoring and analyzing Platform traffic and usage patterns, and improving the content and content delivery with regard to the Platform and the content, materials, opportunities, and services that we describe or make available on the Platform.
+As with many other websites, the web servers used to operate the Platform may collect certain non-personal data pertaining to users of the Platform and the equipment and communications method that they use to access the Internet and the Platform. Without combining this data with other sources of information, they do not readily or personally identify individuals. They may reveal such things as the Internet protocol ("IP") address assigned to an individual's computer, specific pages that an individual accessed on the Platform or immediately prior to visiting the Platform, and the length of time spent in a visit to the Platform. The purposes for which this information is collected and used include facilitating Platform operation and system administration, the generating of aggregate, non-identifiable statistical information, monitoring and analyzing Platform traffic and usage patterns, and improving the content and content delivery with regard to the Platform and the content, materials, opportunities, and services that we describe or make available on the Platform.
 
-You will receive regular updates from the Global Citizen Data, Inc. on actions to take. If at any time you would like to unsubscribe from our email list, you may do so by clicking the unsubscribe link in the email.
+You may receive regular updates from GC on actions to take. If at any time you would like to unsubscribe from our email list, you may do so by clicking the unsubscribe link in the email.
 
 We may also use "cookies" (small text files stored on users' computers) to help track and customize access and use of the Platform. Cookies store and retain information that helps us recognize individuals when they return to the Platform following a previous visit. Most popular Internet browser packages allow one to configure the browser so as not to accept cookies. However, setting your browser to reject cookies may, in certain instances, prevent you from taking full advantage of the Platform and the materials, products, and services that we make available on the Platform.
 
+ **Your rights and preferences**
+
+In line with the European Union’s General Data Protection Regulation ("GDPR"), GDPR gives certain rights to individuals in relation to their personal data and as we have made available a number of tools for you to exercise these rights. As available and except as limited under applicable law, the rights afforded to individuals are:
+
+  *  **Right of Access** \- the right to be informed of and request access to the personal data we process about you;
+  *  **Right to Rectification** \- the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+  *  **Right to Erasure** \- the right to request that we delete your personal data (commonly know as the "Right to be Forgotten");
+  *  **Right to Restrict** \- the right to request that we temporarily or permanently stop processing all or some of your personal data;
+  *  **Right to Object** \- the right to object to your personal data being processed for direct marketing purposes;
+  *  **Right to Data Portability** \- the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
+  *  **Right not to be subject to Automated Decision-making** \- the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+
+
+
+You are able to exercise your rights through your [account settings](https://web.archive.org/account/settings/) page when logged in to the site which gives you options to update your personal information, contact preferences, data processing preferences and to suspend your account. You can request a copy of your data by emailing us at [data@globalcitizen.org](mailto:data@globalcitizen.org).
+
+ **Storage and processing of your personal data**
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (”EEA”).  We take reasonable steps to ensure that cross-border data transfers comply with existing data protection laws, such as working with third party processors certified in the EU-US Privacy Shield framework or with those that use standard contractual clauses that bind parties to protect the privacy and security of data.
+
  **Use and Disclosure of Personal Information**
 
-We will generally use and disclose personal information for purposes related to the main purpose for which the information was collected, or where the individual has consented to the use or disclosure. We may also use personal information to send you email communication promoting messages, content or actions on behalf of other organizations. These emails will always come from the Platform's email address. In addition, we may disclose personal information to third party service providers who assist us in providing our services. These may include companies which assist with data processing and analysis, research, mail services or maintenance. These third parties may also include organizations that cross-check the information you provide to us with information about you in other databases, which we will include in our records. We obtain this data with assurance from these providers that you have consented to the collecting and sharing of this data. We do not actively collect sensitive personal data such as medical data. Personal information will only be disclosed to those third party service providers on a confidential basis so that the service provider can effectively provide those services. Specifically, LBL uses PayPal (Europe) S.?.r.l. & CIE, S.C.A ("PayPal") to process payments.
+We will generally use and disclose personal information for purposes related to the main purpose for which the information was collected, or where the individual has consented to the use or disclosure. We may also use personal information to send you email communications promoting messages, content or actions on behalf of other organizations. These emails will always come from the Platform's email address. In addition, we may disclose personal information to third party service providers who assist us in providing our services. These may include companies which assist with data processing and analysis, research, mail services or maintenance. These third parties may also include organizations that cross-check the information you provide to us with information about you in other databases, which we will include in our records. We obtain this data with assurance from these providers that you have consented to the collecting and sharing of this data. We do not actively collect sensitive personal data such as medical data.
 
-PayPal uses the payment-related information that it receives as necessary and appropriate to fulfil requests to process payment transactions, to facilitate billing, and to otherwise deliver payment services. Personally identifiable information about consumers is used by PayPal to process payment transactions and for no other purpose. PayPal's full privacy policy can be viewed [here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
+Personal information will only be disclosed to those third party service providers on a confidential basis so that the service provider can effectively provide those services.
 
-In addition, with your explicit permission, we pass along certain of your information to the following groups: 
+In addition, with your explicit permission, we pass along certain of your information to the following groups:
 
-·       World leaders, news publications and other targets when you choose to use our email tool to send them messages. 
+  * World leaders, news publications and other targets when you choose to use our email tool to send them messages. 
+  * World leaders, news publications, and the general public when you sign petitions or complete surveys. 
 
-·       World leaders, news publications, and the general public when you sign petitions or complete surveys. 
+
 
 Under circumstances where we determine that members may be misusing our systems for malicious purposes (for example, using the numbers we provide to make harassing phone calls), such activities may be reported to law enforcement agencies. In such cases, we may release personally identifiable information, including name and address, to those agencies.
 
@@ -76,23 +92,19 @@ We may otherwise use or disclose personal information where required or authoriz
 
  **Disclosure to Partner NGOs**
 
-From time to time we will feature actions including, but not limited to petitions and email campaigns, supplied by partner organizations on the Platform. These actions may be subject to data sharing agreements between us and these partner organizations. Where such agreements are in place, this will be clearly noted on the pages associated with the action. By taking these actions, you are agreeing to further contact from the partner organization(s) associated with that action. You will be provided with an express opt-in before we share your information with the partner organization(s).
+From time to time we will feature actions including, but not limited to petitions and email campaigns, supplied by partner organizations on the Platform. These actions may be subject to data sharing agreements between us and these partner organizations. Where such agreements are in place, this will be clearly noted on the pages associated with the action. You will be provided with an express opt-in before we share your information with the partner organization(s). You acknowledge that GC has no control over the content, frequency and/or any other aspect of such communications.
 
-You acknowledge that Global Citizen Data, Inc. has no control over the content, frequency and/or any other aspect of such communications.
+From time to time we will feature rewards, supplied by partner organizations on the Platform. These actions may be subject to data sharing agreements between us and these partner organizations. Where such agreements are in place, this will be clearly noted on the pages associated with the reward and at the point of entry. By entering the reward, you are agreeing to further contact from the partner organization(s) associated with that reward.  You acknowledge that GC has no control over the content, frequency and/or any other aspect of such communications.
 
  **Access to Database/Mailing Lists**
 
-We will not allow access to our database or mailing lists to any organization or individual, except as expressly permitted by the user. However, if the material another organization or individual wishes to circulate through our database is sympathetic with our core values and is within the use anticipated by those on the mailing list, we will take responsibility for the circulation and will ask that the organization/individual to provide us with a letter explaining their request.
+We will not allow access to our database or mailing lists to any organization or individual, except as expressly permitted by the user. However, if the material another organization or individual wishes to circulate through our database aligns with our core values and is within the use anticipated by those on the mailing list, we will take responsibility for the circulation and will ask that the organization/individual provide us with a letter explaining their request.
 
  **Credit Card Security**
 
-On the Platform, GPP uses PayPal to process and accept transactions. We do not store any credit card information.
+On the Platform, GC may use PayPal or another third party to process and accept transactions. We do not store any credit card information.
 
-PayPal adheres to international PCI (payment card industry) compliance standards for data security.
-
-Payment Card Industry Data Security Standard (PCI DSS) is a set of 12 requirements that all businesses who handle credit or debit card payments must comply with. The PCI Security Standards require all merchants, regardless of size or number of transactions, who accept, store, transmit or process any cardholder data to comply with PCI DSS. You can find out more about PCI [here](https://www.pcisecuritystandards.org/).
-
-PayPal's PCI Compliance can be validated [here](http://usa.visa.com/merchants/risk_management/cisp.html?ep=v_sym_cisp).
+PayPal adheres to international PCI (payment card industry) compliance standards for data security. Payment Card Industry Data Security Standard (PCI DSS) is a set of 12 requirements that all businesses who handle credit or debit card payments must comply with. The PCI Security Standards require all merchants, regardless of size or number of transactions, who accept, store, transmit or process any cardholder data to comply with PCI DSS. You can find out more about PCI [here](https://www.pcisecuritystandards.org/). PayPal's PCI Compliance can be validated [here](http://usa.visa.com/merchants/risk_management/cisp.html?ep=v_sym_cisp).
 
  **Petitions and Surveys**
 
@@ -104,13 +116,11 @@ In certain cases, we enable you to send individual e-mails to world leaders as w
 
  **Accessing and Updating Your Personal Information**
 
-We take reasonable steps to make sure that the personal information collected, used and disclosed is accurate, complete and up-to-date. Individuals who need to access or correct any personal information held by us about them are asked to send a request to [globalcitizen@globalpovertyproject.com](mailto:globalcitizen@globalpovertyproject.com). As much detail as possible should be provided by the individual about the particular information sought, in order to enable us to retrieve it. An access fee may be charged to cover the costs of providing that information.
-
-In certain circumstances, we may not be required by law to provide the individual with access to, or to correct, personal information. If this is the case, reasons will be given for that decision.
+We take reasonable steps to make sure that the personal information collected, used and disclosed is accurate, complete and up-to-date. Individuals who need to access or correct any personal information held by us about them are asked to send a request to [data@globalcitizen.org](mailto:data@globalcitizen.org). As much detail as possible should be provided by the individual about the particular information sought, in order to enable us to retrieve it. In certain circumstances, we may not be required by law to provide the individual with access to, or to correct, personal information. If this is the case, reasons will be given for that decision.
 
  **Security of Personal Information**
 
-We take reasonable steps to protect all of the personal information it holds from misuse and loss and from unauthorized access, modification or disclosure. This protection applies in relation to information stored in both electronic and hard copy form.
+We take reasonable steps to protect all of the personal information GC holds from misuse and loss and from unauthorized access, modification or disclosure. This protection applies in relation to information stored in both electronic and hard copy form.
 
  **Information Security**
 
@@ -120,9 +130,9 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
  **Data Tracking**
 
-In order to better serve our members, we use cookies and periodically analyze web logs. We may collect IP addresses to better understand where our traffic is coming from, and to provide customized services to members. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Global Citizen users.
+In order to better serve our members, we use cookies and periodically analyze web logs. We may collect IP addresses to better understand where our traffic is coming from, and to provide customized services to members. We may also use third-party services, including, without limitation, Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to GC users.
 
-URLs contained in emails may contain an ID that enables us to correctly identify the person who takes an action using a web page. We use these URLs to simplify the process of signing petitions and filling out surveys. We may occasionally present a shortened URL that references a longer URL which contains an id—we do this to simplify the display, to prevent links from becoming broken when copied, and to ensure compatibility with email programs which do not handle long URLs. When a shortened URL is displayed in an email, you will see the full URL in the browser's address bar when you access the page.
+URLs contained in emails may contain an ID that enables us to correctly identify the person who takes an action using a web page. We use these URLs to simplify the process of signing petitions and filling out surveys. We may occasionally present a shortened URL that references a longer URL which contains an ID—we do this to simplify the display, to prevent links from becoming broken when copied, and to ensure compatibility with email programs which do not handle long URLs. When a shortened URL is displayed in an email, you will see the full URL in the browser's address bar when you access the page.
 
  **Links to Other Websites**
 
@@ -134,4 +144,12 @@ We may revise or amend this policy at any time at our sole discretion. If we mak
 
  **Contact**
 
-If you have any questions about this privacy statement, your personal information, or the practices of the Platform, you can contact [globalcitizen@globalpovertyproject.com](mailto:globalcitizen@globalpovertyproject.com).
+If you have any questions about this privacy statement, your personal information, or the practices of the Platform, you can contact us via email at [globalcitizen@globalpovertyproject.com](mailto:globalcitizen@globalpovertyproject.com) or by writing to us at
+
+Global Citizen  
+Suite 207  
+594 Broadway  
+New York, NY 10012  
+United States
+
+Global Poverty Project, Inc. is the data controller for the purposes of the personal data processed under this Policy.
