@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the litographs.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002060142id_/http%3A//www.litographs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litographs.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075008id_/https%3A//www.litographs.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Litographs
+# Litographs | Privacy Policy
 
 ### Website Visitors
 
@@ -16,7 +16,37 @@ Litographs may collect statistics about the behavior of visitors to its websites
 
 ### Protection of Certain Personally-Identifying Information
 
-Litographs discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Litographs’s behalf or to provide services available at Litographs’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Litographs’s websites, you consent to the transfer of such information to them. Litographs will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Litographs discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Litographs believes in good faith that disclosure is reasonably necessary to protect the property or rights of Litographs, third parties or the public at large. If you are a registered user of an Litographs website and have supplied your email address, Litographs may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Litographs and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. Litographs takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Litographs discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Litographs’s behalf or to provide services available at Litographs’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Litographs’s websites, you consent to the transfer of such information to them. Litographs will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Litographs discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Litographs believes in good faith that disclosure is reasonably necessary to protect the property or rights of Litographs, third parties or the public at large. If you are a registered user of an Litographs website and have supplied your email address, Litographs may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Litographs and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. Litographs takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of personally-identifying information.
+
+### Accounting, Rectification, and Deletion of Personal Information
+
+You have the right to request an accounting of all personal information that we possess that pertains to you in an electronically portable format (e.g., electronic copies of information attached to an email).
+
+You have the right to withdraw your consent to our processing of your personal information at any time. Note that if we require personal information to deliver the service you have requested, we will be unable to deliver the service without your consent.
+
+You have the right to request that we change any personal information that pertains to you.
+
+You have the right to request that we delete any personal information that pertains to you.
+
+To request an accounting of your personal information, a change to your personal information, or deletion of your personal information, contact support@litographs.com.
+
+If you are a resident of the European Union and have a complaint about our use or processing of your personal information, you have a right to lodge a complaint with a national Data Protection Authority. Each European Union member nation has established its own Data Protection Authority; you can find out about the Data Protection Authority in your country here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+### Geographic Location
+
+We offer the service in several geographic regions. We define a geographical region as the location where a user is located.
+
+#### Processing Within the United States
+
+For users within the United States, we process data solely in data centers located in the United States. We have adopted reasonable physical, technical, and organizational safeguards against accidental, unauthorized, or unlawful destruction, loss, alteration, disclosure, access, use, or processing of user data in our possession. We comply with state and federal laws governing the protection of personal information.
+
+#### Processing Within the European Union
+
+For users within the European Union, data from the European Union is transferred to data centers located in the United States for processing. Such processing is performed in accordance with Regulation 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and free movement of such data, known as the General Data Protection Regulation (“GDPR”). This includes the imposition of required safeguards with respect to accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of data. Transfers of European Union user data to processors in the United States are made in accordance with the Standard Contractual Clauses applicable pursuant to the GDPR.
+
+#### Processing in Other Regions
+
+For users not within the United States or the European Union, data is transferred to data centers located in the United States for processing. For such users we have adopted reasonable physical, technical, and organizational safeguards against accidental, unauthorized, or unlawful destruction, loss, alteration, disclosure, access, use, or processing of user data in our possession that substantially mirror protections available to users located within the United States.
 
 ### Cookies
 
