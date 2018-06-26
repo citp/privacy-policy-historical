@@ -1,52 +1,65 @@
-> *The following text is extracted and transformed from the optibux.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084633id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optibux.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626174530id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
 
-# EasyCloud - Easy PHP Cloud Hosting » Pages » Privacy Policy
+# Privacy Policy
 
-Our Privacy Policy was last revised on October 20, 2011.
+### Privacy Policy
 
-EasyCloud ("we" or "us") is concerned about privacy and security of our customers. We know that you care how your personal information is used and shared. We respect your privacy and are committed to maintaining the confidentiality of personal data we collect.
+This privacy policy has been compiled to provide a clear understanding of how Brandroot.com collect's, uses, protects or otherwise handles your Personally Identifiable Information.
 
-This document explains what information of yours will be collected by EasyCloud when you use the EasyCloud services, how the information will be used, and how you can control the collection, correction and/or deletion of information.
+#### What personal information does Brandroot collect from visitors on our website?
 
-We won't spam you or sell your personal information to others.
+When purchasing a domain name on our site, as appropriate, you may be asked to enter your personal information, such as, your name, email address, mailing address, phone number, credit card information and other details to help us complete your purchase as securely as possible.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+#### When does Brandroot collect personal information?
 
-We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us a permission to do.
+We collect information from you when you make a purchase on our site, register for an account, subscribe to a newsletter, or fill out a contact form.
 
-#### What Do We Collect
+#### How does Brandroot use your personal information?
 
-###### Information Provided by a Customer
+We may use your personal information when you make a purchase on our site, register for an account, subscribe to a newsletter, fill out a contact form or browse our website by visiting the various pages that we offer. We may use your personal information in the following ways:
 
-You provide us information about yourself, such as your name and e-mail address, when you register for an account with EasyCloud. You also provide us information in the content you post to be hosted at our service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+  * To personalize your experience on our site and to allow us to deliver the type of products in which you show interest.
+  * To improve our website.
+  * To serve you in responding to your customer service inquiries and requests.
+  * To process transactions that you make on our website.
+  * To send emails regarding your order or other product and service offerings.
 
-###### Cookies
 
-We may place a cookie on your hard drive during the web visit. A cookie is a unique alphanumeric identifier that we use to help us identify the number of unique visitors to our Website, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
 
-###### Log Files
+We only collect your email address in order to:
 
-When you use our website, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring or exit pages and their URLs, number of clicks, landing pages, pages viewed, and other such information.
+  * Respond to your inquiries, and/or other requests and questions.
+  * Process orders and to send information pertaining to your purchases.
+  * Add you to our mailing list or continue to send emails to you after a transaction has been made.
 
-###### Web Beacons
 
-A web beacon, also known as clear gif image, is a small graphic (usually 1 pixel x 1 pixel), that may be embedded in a web advertisement, email, or page on our web site, but is invisible to you. When you view a page on our web site, an email or an advertisement your web browser may request the web beacon from a web server, which in turn will set a cookie in your web browser containing a unique identifier. This unique identifier will be linked to log information that is used to track your movements on our web site in order to determine the effectiveness of content and advertising campaigns. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make EasyCloud better for our users. No personally identifiable information from your EasyCloud account is collected using thee web beacons. 
 
-#### How We Use The Collected Information
+If you would like to unsubscribe from receiving emails from us, you can follow the instructions at the bottom of the email.
 
-###### Personal Information
+#### How do we protect our visitor information?
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of our service. We may use your information to process your service requests, handle orders, deliver products and services, process payments, communicate with you about orders, provide access to secure areas of the Website, recommend merchandise and services that might be of interest to you, to personalize your visit to our Website, and to enable us to review develop and continually improve the products services and offers we provide on-line. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
+Your personal information is protected behind secured networks. In addition, all sensitive information you supply is encrypted via the updated security technology TLS (Transport Layer Security). We implement a variety of security protocols when a user places an order to maintain the security of our visitor's personal information. All purchases are processed through a gateway provider and are never stored on our servers.
 
-###### Web Visit Information
+#### Does Brandroot use cookies?
 
-We use the **visitors' IP address** to diagnose and/or fix technology problems reported by our users or engineers that are associated with certain IP addresses. We use **log files** to analyze websites' statistic information and identify issues with our servers and our customers' websites. We use **cookies** to help us recognize visitors as unique visitors when they return to our websites. We use **web beacons** to count the number of times that our advertisements and web-based email content are viewed. We combine web beacon information with cookies to track activity on our website originating from advertisements and web-based email content.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the products in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize our website, Brandroot.com. Also, cookies may be used to target ads to you on other websites.
 
-#### Security of Collected Information
+We use cookies to:
 
-EasyCloud is committed to industry's best practices approaches concerning security measures to prevent the loss, misuse and alteration of the information in our possession. We use various security measures to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls.
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. You can choose to turn off all cookies. You do this through your browser settings. If you disable cookies, some features on our site may be disabled.
 
-#### Changes to Our Privacy Policy
 
-Our business changes constantly and our Privacy Policy may also change from time to time. You should check our website frequently to see recent changes, however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. Changes to this Privacy Policy are effective when they are posted on this page.  
 
+#### Third Party Disclosure
+
+We do not sell, trade, nor transfer your personal information to outside parties. This does not include our website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing our visitors and customers. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our rights, property, or safety.
+
+Information that we collect may include IP addresses, cookie identifiers and website activity.
+
+#### How do I contact Brandroot?
+
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a63646c654a68786b646e7865657e24696567)
+
+This content was lat edited on May 23, 2018.
