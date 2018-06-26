@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120074832id_/https%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626215230id_/https%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
 
-# Privacy, disclosure & Giveaway Policy - Tales of a Ranting Ginger
+# Privacy, disclosure & Giveaway Policy | Tales of a Ranting Ginger
 
 Thank you for entering a giveaway on **Tales of a Ranting Ginger**. Giveaways are a great way for companies to help promote a product or campaign. All opinions expressed are honest and of my own. Any information taken from a second source is quoted or referenced. As a Canadian mom blogger I try my best to always keep my readers I mind when accepting giveaways. So most often they are open to Canada 
 
