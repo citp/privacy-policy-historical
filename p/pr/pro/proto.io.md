@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515045043id_/https%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626161617id_/https%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Proto.io
 
-**Last Revised: November 12, 2013**
+**Last Updated: May 15, 2018**
 
-This Privacy Policy explains how information about you is collected, used and disclosed by PROTOIO Inc. and its affiliates (collectively, " **Proto.io** ", " **we** " or " **us** "). This Privacy Policy applies to information we collect when you use our website, and other online products and services (collectively, the " **Services** ") or when you otherwise interact with us. 
+This Privacy Policy explains how information about you is collected, used and disclosed by PROTOIO Inc. and its affiliates (collectively, " **Proto.io** ", " **we** " or " **us** "). This Privacy Policy applies to information we collect when you use our website, and other products and services (collectively, the " **Services** ") or when you otherwise interact with us. 
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the choices available to you.
 
 ### COLLECTION OF INFORMATION
 
 #### Information You Provide to Us
 
-We collect information you provide directly to us. For example, we collect information when you create an account, request customer support or otherwise communicate with us. The types of information we may collect include basis user information (such as your name, email address and photograph), company information and financial information (such as your payment card number, expiration date and security code) and any other information you choose to provide. 
+We collect information you provide directly to us. For example, we collect information when you create an account, request customer support or otherwise communicate with us. The types of information we may collect include basic user information (such as your name, email address and photograph), company information, financial information (such as your payment card number, expiration date and security code) and any other information you choose to provide. 
 
 #### Information We Collect Automatically When You Use the Services 
 
@@ -25,22 +25,17 @@ When you access or use our Services, we automatically collect information about 
 
 ### USE OF INFORMATION
 
-We may use information about you for various purposes, including to do the following:
+We use information about you to provide, maintain, and improve our Services, such as to process transactions and send you related information, including confirmations and invoices. We may also use the information we collect to do the following:
 
-  * Provide, maintain and improve our Services;
-  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices; 
   * Send you technical notices, updates, security alerts and support and administrative messages;
   * Respond to your comments, questions and requests and provide customer service;
   * Communicate with you about products, services, offers, promotions, rewards, and events offered by Proto.io and others, and provide news and information we think will be of interest to you;
   * Monitor and analyze trends, usage and activities in connection with our Services; 
   * Personalize and improve the Services and provide content or features that match user profiles or interests;
-  * Process and deliver contest entries and rewards;
-  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
-  * Carry out any other purpose for which the information was collected.
+  * Process and deliver contest entries and rewards; and
+  * Carry out any other purpose described to you at the time the information was collected.
 
 
-
-Proto.io is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the United States and other countries.
 
 ### SHARING OF INFORMATION
 
@@ -62,11 +57,19 @@ The Services may offer social sharing features and other integrated tools, which
 
 ### ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Proto.io and others to, among other things, analyze and track data, determine the popularity of certain content, delivery advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Proto.io and others to, among other things, analyze and track data, determine the popularity of certain content, delivery advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). Customers in the EU may visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 ### SECURITY
 
 Proto.io takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+### DATA RETENTION
+
+We store the information we collect for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
+
+### INTERNATIONAL DATA TRANSFERS
+
+Proto.io is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, storage and transfer of information in and to the United States and other countries where you may not have the same rights and protections as you do under local law.
 
 ### YOUR CHOICES
 
@@ -78,9 +81,37 @@ You may update, correct or delete information about you at any time by logging i
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
+You can consult our [Cookie Statement](https://web.archive.org/en/cookie-statement/) for more details on the services that use cookies.
+
 #### Promotional Communications
 
-You may opt out of receiving promotional communications from Proto.io by following the instructions in those communications or by emailing us at [unsubscribe@proto.io](mailto:unsubscribe@proto.io). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional communications from Proto.io by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+### RESIDENTS OF THE EUROPEAN ECONOMIC AREA
+
+If you are a resident of the European Economic Area (EEA), you have certain additional rights and protections under the law regarding the processing of your personal data.
+
+#### Legal Basis for Processing
+
+If you are a resident of the EEA, we will only process your personal data:
+
+  * To perform our responsibilities under our contract with you (e.g. processing payments for and providing the Services you have requested);
+  * When we have a legitimate interest in processing your personal data (e.g. to communicate with you about changes to our Services, to advertise our Services, and to provide, secure, and improve our Services); or
+  * To comply with our legal or regulatory obligations.
+
+
+
+#### Data Subject Requests
+
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to have certain personal data corrected or erased. You may also have the right to restrict certain processing of your data.
+
+To make any of these requests please email [dpo@proto.io](mailto:dpo@proto.io). We will respond as soon as practicable and no later than one month after receipt of your request. We may request proof of identification to verify your request.
+
+We may deny or restrict fulfillment of your request in some cases, such as when your access to data places another individual's privacy rights at risk, or the continued processing of your data is necessary to comply with a legal obligation. If so, we will notify you of the reason(s) for this denial.
+
+#### Questions or Complaints
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
 
 ### CONTACT US
 
