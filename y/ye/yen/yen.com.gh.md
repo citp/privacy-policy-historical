@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yen.com.gh privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916115512id_/https%3A//yen.com.gh/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yen.com.gh privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626185524id_/https%3A//yen.com.gh/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -69,7 +69,7 @@ Personalized Advertising. You may be able to opt out of receiving personalized a
 
 
 
-You may opt out of personalized ads from AdCash at <https://www.adcash.com/en/legal.php#tc_5_5>.
+You may opt out of personalized ads from AdCash at <https://www.adcash.com/legal-info/#h.ew5sib19a7w8>.
 
 When you opt out of personalized advertising, you may continue to see online advertising on the Service and/or our ads on other Internet websites and online services.
 
