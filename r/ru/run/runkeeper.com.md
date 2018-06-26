@@ -1,230 +1,199 @@
-> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916070814id_/https%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627001355id_/https%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
 
 # Runkeeper | Privacy Policy - Runkeeper
 
-Last updated March 1, 2017; effective April 1, 2017 ( [Previous policy](https://web.archive.org/privacypolicy?showUpdatedPolicy=false) )
+#### ASICS PRIVACY POLICY
 
-Interest-Based Ads Disclosure
+Effective: 25 May 2018
 
-#### Our Policy
+We value the trust that you place in us by sharing your personal data with us. ASICS takes your privacy seriously and is committed to handling your personal data in a way that is fair and worthy of that trust. ASICS will take all reasonable steps to protect your information from misuse and keep it secure. We believe it is important to inform you about how we will use your personal data. Therefore, we encourage you to read this privacy policy carefully.
 
-FitnessKeeper, Inc. (" **FitnessKeeper** ", " **us** ", " **we** ", or " **our** ") provides users with information, services, and tools through the Runkeeper.com website, the Runkeeper mobile applications (" **Apps** "), the HealthGraph application programming interface (" **API** "), and other websites, apps, and online services that link to this Privacy Policy (collectively, the " **Services** "). This Privacy Policy sets forth our policies with respect to how we collect, use, and share information through the Services. This Privacy Policy is incorporated by reference in the Runkeeper.com End User [Terms of Use](https://runkeeper.com/termsofservice), which govern your use of the Services. 
+#### SUMMARY
 
-By voluntarily providing us with Personal Data, as defined below, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data through the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to our offices and servers, or those of our affiliates or contractors, located in the United States and other countries. Those countries may have data protection laws that are different from those in your country of residence. If you would like us to cease using your Personal Data, you may delete your account by following the instructions provided in the "Data Retention and Deletion" section below or exercise the choices described in the "Your Choices and Access to Information" section below. 
+This privacy policy explains the types of personal data we collect and how we use and protect that information:
 
-**Information We Collect**
+  * Scope
+  * Who We Are
+  * Personal Data We Collect
+  * What We Do With Your Personal Data
+  * How We Share Your Data
+  * Cookies, Analytics and Personalization
+  * Social Media
+  * If You are Under 16 Years of Age
+  * International Transfers of Data
+  * Security
+  * Data Retention
+  * Your Rights
+  * Other Websites
+  * Changes to the Policy
+  * Data Protection Officer - Contact and Queries
 
-We collect both Personal Data and Other Information in connection with the Services. " **Personal Data** " is information that relates to an identified or identifiable natural person, such as your name, email address, and similar information associated with your Runkeeper account. " **Other Information** " is any information that is not Personal Data, such as information about usage of the Services that does not identify you personally. If we combine Other Information with Personal Data, we will treat the combined information as Personal Data in accordance with this Privacy Policy. 
 
-We collect various types of **Personal Data** through our Services, including: 
 
-  * **_Personal Data That You Provide Directly to Us_** _:_ We collect Personal Data when you voluntarily choose to provide such information directly to us, such as when you register for access to the Services, contact us with inquiries, make a purchase through the Runkeeper Store, respond to one of our surveys, participate in a promotion, claim a third-party reward or offer, or invite a friend to use the Services. Such information may include, among other things: 
-    * Name 
-    * Email address 
-    * Username and password 
-    * Mailing address 
-    * Phone number 
-    * Gender 
-    * Birth date 
-    * Photograph 
-    * Personal characteristics, such as weight and height 
-    * Payment card information 
+#### SCOPE
 
+This privacy policy applies to all personal data that is collected and used by us when you create an ASICS ID account or another ASICS account, when you visit or use the websites, applications, web shops, online, mobile, instore or other services of ASICS (‘Services’), when you purchase our products in our stores, participate in events or contests of ASICS or interact with us through social media or otherwise. For purposes of this privacy policy, ‘personal data’ means any information through which we can identify you, as further described below in ‘Personal Data We Collect’.
 
-  * **_Activity Data_** _:_ We collect information about your use of the Services and your fitness activities through our Apps and through the wearable devices or online services that you associate with our Apps (including via our HealthGraph API). Such information may include, for example: 
-    * Type, duration, and frequency of fitness activities (including certain background activities if you permit us to do so by turning on "Pocket Track" or similar features) 
-    * Distance, speed, pace, and step count 
-    * Heart rate 
-    * Calories burned 
-    * Steps taken 
-    * Nutritional information 
-    * Sleep activities 
-    * Training goals 
-    * Achievements 
-    * Health-related information that you provide to us 
+#### WHO WE ARE
 
+ASICS is an international athletic equipment company, with headquarters in Japan and establishments worldwide. Our name is an acronym for the Latin phrase _Anima Sana In Corpore Sano_ (sound mind and sound body). ASICS was founded on the belief that sports is the best way to create sound mind and body. Our brands include ASICS, ASICS Tiger, Onitsuka Tiger, Haglöfs and Runkeeper.
 
-  * **_Location Data_** _:_ The Services include various location-based features, such as mapping your outdoor fitness activities and providing information, offers, and advertising based on your location. We also may partner with third parties to analyze the location data that we collect in order to develop new products and services (such as identifying nearby or recommended running routes). To provide these location-based features and engage in such analysis, FitnessKeeper and our affiliates, partners, and licensees may collect, use, and share location data, including the real-time, precise geographic location of your mobile device. 
+ASICS Corporation, 7-1-1, Minatojima-Nakamachi, Chuo-ku, Kobe 650-8555 Japan is responsible for using your personal data, together with other ASICS companies, such depending on where you live and which of our products you are purchasing or which of our Services you are using. An overview of the applicable responsible ASICS companies as well as their representatives and when they will be using your personal data can be found [here](https://web.archive.org/privacypolicy?annex1=). ASICS Corporation and the applicable responsible ASICS company will be referred to hereafter as ‘ **ASICS** ’ or ‘ **we** ’.
 
+#### PERSONAL DATA WE COLLECT
 
+The information we collect about you when you buy our products or use our Services may include the following (jointly referred to as: ‘personal data’). 
 
-To learn more about how we use and share location data, please see "Our Use of Your Personal Data and Other Information" and "Our Disclosure of Your Personal Data and Other Information" below. If you would like to stop the collection of precise location information through our Apps, you can adjust your mobile device settings by following the instructions [here](https://support.apple.com/en-us/HT203033) for iOS 8 and later and [ here ](https://support.google.com/googleplay/answer/6270602?hl=en) for Android 6.0 and later. 
+##### General :
 
-  * **_Contacts_** _: ****_ We may collect information about contacts stored on your device, as well as friends you invite to the app, if you choose to share such information with us. We use this information to find, invite, and connect you with friends on the Services. 
-  * **_Social Media or Third-Party Account Information_ ** _:_ We may receive Personal Data from your social media or other third-party account provider (such as Facebook, Google, Twitter, or Yahoo) if you log into our Services using your social media account or link your social media or other account to the Services. In those circumstances, we may receive information from the third party, such as your email, username, profile picture, and friends list. 
-  * **_User-Generated Content_** _:_ We collect information when you submit comments, photos, reviews, messages, or otherwise post content to the Services. __
+  * _Your contact details_. Your name, postal address and other contact details, such as your telephone number and e-mail address.
+  * _Your account data and electronic identification data (including data added thereto)_. Your ASICS ID account or other ASICS account (if you have made such an account with us) and other electronic identification data (such as IDFA, GAID, IP address, MAC address) and the data you add to your ASICS ID account or other ASICS account, such as your password, your date of birth, your gender, your language of preference, the time zone you live in, your picture and other information you may share with us.
+  * _Information regarding your use of our online Services_. This may include data regarding the pages you visit, the products and services you like and the content of your abandoned shopping cart. 
+  * _Your purchases in our stores and online_. The data we collect if you purchase a product or use a Service in one of our stores or online, such as the amount and date of your purchase, the product you purchase or Service you use, location of the store, the website or app through which you make your purchase, payment method, payment status, discount, delivery method and delivery address.
+  * _Your leisure activities, interest and events_. This includes information regarding events we organize or sponsor, including your interest in and registration to those events (including the date and place of the event and your personal targets), as well as your reason for running and other fitness activities, whether you prefer to run alone or with friends and what other sports you enjoy.
+  * _Your training and running data_. The training and running data that you fill out on or generate through the use of our Services or that you import from other apps or services from our partners or third parties, including your running experience and current running abilities (the distance you can run and the time that you can run it in), your training goal (aimed distance and race time), performance (distance and race time, records), training schedule (date, duration and type), your type of running (trail running, natural running or speed running) and your  fitness activities.
+  * _Your details regarding contests_. The data we collect if you participate in a contest.
+  * _Your reviews_. The opinions, experiences, preferences and interests, and product or event reviews that you publish on our websites or share with us online or through social media, such as your experiences and tips regarding gear, your race day and your training schedule..
+  * _You_ _r_ _communication data_. Your requests, any complaints you may have and any other data that we receive if we communicate with you via e-mail, online or via social media.
 
 
-  * **_Information from Affiliates_** _:_ We may receive information about you from our corporate affiliates, including Such information may include online and offline purchase information, information associated with your MYASICS or other online accounts, and information collected through the websites, apps, and online services operated by our affiliates. We may use and combine this information with additional information that we collect for the purposes described in this privacy policy. ** __**
 
+##### Special categories of personal data :
 
+We also collect information you voluntarily provide to us in relation to your physique, condition or nutrition in order to customize and enhance your experience when using our products and Services. These personal data may – by itself or in combination – reveal information about your (physical) **health**. The special categories of personal data include:
 
-We also collect **Other Information** through our Services. Such information may be collected passively using various technologies, or via submission of data by fitness devices you have configured to work with the Services. We may store such information ourselves, or it may be included in databases owned and maintained by our affiliates, agents, or service providers. We may use such information and pool it with additional information to track, for example, the total number of visitors to the Services, the number of visitors to each page of the Services, and the domain names of our visitors' Internet service providers. Other Information may be collected in the following ways: 
+  * _Activity data and other information you provide when using the Services_. Your foot and clothes size and other personal measurement information and activity data that you voluntarily share with us through the use of the Services, such as weight, height, heartrate, calories burned, steps taken, nutritional information, sleep activities, other activity data (type, duration and frequency of fitness activities, distance, speed, pace, step count) and injuries.
+  * _Your running specifics_. Your current running shoe, which running type you are and the level of your running.
+  * _Your test and measurement results_. Measurement data we collect if you participate in one of our tests or measurement programs, such as Foot ID, Motion ID, Running Lab, 3D foot shape measurement, leg alignment measurement, body composition measurement, leg strength test, running form test, aerobic test and similar measurement programs and tests. Measurement data that we collect during our tests may also include heartrate, blood pressure, oxygen level in blood, fat and muscle mass weight and percentage, BMI, BMR, strength and endurance. 
 
-  * **_Log Data_** _:_ When you use the Services, we automatically receive and record certain information from your computer, mobile phone, tablet, or other device. This may include data such as your IP address, the pages you visit or features you use within the Services, the date and time of your activities on the Services, the URLs from the websites you visit before and after navigating to the Services, your software and hardware attributes (including operating system type and version, App version, device type, and device identifiers, including IDFA and/or Advertising IDs), your browser type and version, and your general geographic location derived through your IP address ( _e.g._ , your city, state, or metropolitan region). To obtain such information, we may use web logs or applications that recognize your device and gather information about its online activity. 
 
 
-  * **_Cookies_** _:_ In providing the Services, we may use cookies. Cookies are small files that are stored on your computer, mobile phone, or other device by your web browser. Our cookies help provide additional functionality to the Services and help us analyze usage of the Services more accurately. For instance, our Services may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site. Cookies also can be used to collect information about your use of the Services during your current session and over time (including the web pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before the Services, and the link you used to leave the Services. In addition to cookies used by FitnessKeeper, we permit third parties to set cookies, too (see below). On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to refuse some or all cookies, or to delete existing cookies from your device. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Services' features. 
+In addition, when using our Services, we may also collect and use exact information regarding **your location** , such as GPS, accelerometer, your running route (including precise location data that shows your geographical position).
 
+We will only use health and location data you voluntarily provide us and such only with your prior consent or under your direction to do so and only for the purposes set out in this Privacy Policy. You may refuse or revoke your consent at any time, as set out below (see ‘Your Rights’).
 
-  * **_Web Beacons_** _:_ The Services or the emails that you receive from us may use an application known as a "web beacon" (also known as a "clear gif" or "pixel tag"). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to set or access cookies or transmit information, which could include Personal Data. For example, it allows an email sender to determine whether a user has opened a particular email. In addition to web beacons used by FitnessKeeper, we permit third parties to use web beacons, too (see below). 
+#### WHAT WE DO WITH YOUR PERSONAL DATA
 
+ASICS collects and uses your personal data for the purposes set out below. Please be informed that insofar ASICS already holds information about you, ASICS may use that information for the same purposes.
 
-  * **_Collaboration with Third-Party Data Collectors_** _:_ We also may partner with certain third parties to collect, analyze, and use some of the information described in this section. For example, we may allow third parties to set cookies or use web beacons or other tracking mechanisms (such as tags or scripts) on the Services or in email communications from us, or we may allow third parties to use an application software development kit (SDK) or a server-to-server connection to collect information, including device identifiers such as IDFA and Advertising ID. An SDK is a section of code that we embed in our Apps to allow third parties to collect information about how users interact with the app, and a server-to-server connection enables us to exchange data with third parties when an SDK integration is not feasible or practical. The information collected by third parties using these technologies may be used for a variety of purposes, including analytics and targeted interest-based advertising, as discussed below (see the section entitled "Our Disclosure of Your Personal Data and Other Information"). 
+##### For the performance of our agreement with you:
 
+In order to manage and handle your purchases (online and in our stores) and to provide you with the Services you requested from us, including handling your requests, we use your contact details, your account and electronic identification data, information regarding your purchases in our stores and online, information regarding your leisure activities, interest and events, information regarding your training and running data (including your fitness activities), your Contest data, your communication data and – after your consent thereto – information regarding your Personal measurement, your running specifics, your tests, measurement results, and your location data.
 
-  * **_Demographic or Inferred-Interest Data._** We may supplement the information that we collect with additional information that we receive from third parties, such as demographic or inferred-interest data. 
+##### To comply with a legal obligation to which ASICS is subject: 
 
+Any information referred to above in the section ‘Personal Data We Collect’ may be used to maintain appropriate business records, to comply with lawful requests by public authorities and to comply with applicable laws and regulations or as otherwise required by law.
 
-  * **_De-Identified or Aggregated Information_** _:_ In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our end users' demographics, interests, and behavior based on the Personal Data and other information provided to us. This research does not identify you personally. We may share this de-identified data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics (which also do not identify you) in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
+##### For our legitimate commercial interests: 
 
+We will use your contact details to send you newsletters or general marketing materials as well as surveys about Products and Services you have purchased. At any time, you may opt out of receiving such marketing materials by following the instructions in any communication you receive from us. You can also control these preferences in your profile settings and device. 
 
+We will use the personal data referred to above in the section ‘Personal Data We Collect’ in order to improve our products and Services as well as to understand our customers both on an aggregated and on an individual basis. In order to do so, we may combine the data we have obtained about you from the different ASICS entities that have collected your personal data (if applicable). This also means that we analyse your use of our products and Services and we use this information to improve our products and Services and to give you a better user experience (e.g., we analyse what web pages you visit, which products and Services you use and like, how you use these products and Services, which enables us to create personal profiles and to assess what may be interesting to you, which recommendations we can give you when you purchase our products or use our Services (such based for example on your previous purchases and use of our Services)). Creating such personal profiles of our customers, also enables us to send you marketing materials that directly relate to your use of our products and Services, if you have chosen to receive such materials.
 
-**Our Use of Personal Data and Other Information**
+We may also enrich your personal data with data from other third party sources, such as weather forecasts based on your location (expected temperature, humidity, wind) and traffic forecasts (chance of air pollution), for example to further customize your training plan, allow you to adjust a specific run to the concrete circumstances or provide you with more detailed information about your runs.
 
-We use the Personal Data and Other Information we collect for various purposes, including: 
+The personal data referred to above in the section ‘Personal Data We Collect’ may also be used by ASICS:
 
-  * To track your fitness activities and information, manage your goals and achievements, evaluate your progress, plan routes, and set challenges. 
-  * To provide you with location-based features, such as mapping your fitness activities and providing information, offers, and advertising to you based on your location. We also may partner with third parties to analyze the location data that we collect in order to develop new products and services (such as identifying nearby or recommended running routes). 
-  * To provide the Services, create and manage user accounts, process payments and orders, respond to your questions and requests, resolve complaints, and otherwise complete a transaction that you initiate or fulfill the terms of any agreement you have with us. 
-  * To communicate with you through email and notices posted via the Services. These communications may include a series of welcome emails that help inform you about various features of the Services. Please be aware that you will always receive certain emails from us related to the proper functioning of your account. 
-  * To send you promotional emails and newsletters, in a manner consistent with your email preferences and applicable laws. If you wish to opt out of receiving promotional emails at any time, please click the "unsubscribe" link at the bottom of the email. Please note that if you unsubscribe from promotional emails, you will continue to receive non-promotional emails with information relevant to your account and the operation of the Services. 
-  * To deliver offers and advertising about products and services we believe will interest you, including through online interest-based ads, targeted offers, location-based ads, and workout rewards. 
-  * To create a custom experience for our users and tailor our products and Services to your interests and preferences. 
-  * To enable social-sharing functionality, to find your friends on the Services, and to provide other features that allow you to communicate and interact with other users of the Services or users of third-party services that you connect to your account (such as Facebook or Twitter). 
-  * To conduct health and fitness-related research and collaborate with third parties for such research purposes.
-  * To operate our business, prevent fraud, analyze the use of our Services, improve the content and functionality of the Services, and better understand our users. 
-  * To comply with legal or regulatory requirements and to defend or enforce our rights, including as described in the "Our Disclosure of Your Personal Data and Other Information" section below. 
-  * To compile and share aggregate and de-identified information. 
+  * to generate aggregated statistics about the users of our products and Services;
+  * to assist in security and fraud prevention;
+  * for system integrity purposes (preventing hacking, cheats, spamming, etc.);
+  * to remind you per email of your abandoned cart or send you an order confirmation;
+  * to facilitate our business operations, to operate company policies and procedures;
+  * to enable us to merge, sell, acquire, or transfer assets; and 
+  * for other legitimate business purposes permitted by applicable law.
 
 
 
-**Our Disclosure of Personal Data and Other Information**
+##### Use of information based on your consent: __
 
-We may share your Personal Data and Other Information with third parties in the following circumstances: 
+We may use the personal data referred to above in the subsection ‘Special Categories of Personal Data’ (i.e. health data and location data) for the purposes set out in this ASICS Privacy Policy but we will only do so after we have received your consent thereto.
 
-  * **_Affiliates_** _:_ We may share information with our corporate affiliates, including , for the purposes described in this Privacy Policy. 
-  * **_Service Providers, Agents, and Related Third Parties_ ** _:_ We sometimes hire other companies to perform certain business-related functions. Examples include mailing information, email marketing, maintaining databases, and processing payments. When we use another company to perform a function of this nature, we may need to provide them with access to certain Personal Data or Other Information. We also partner with third parties to engage in analytics and interest-based advertising services, as described below in the "Third-Party Analytics and Interest-Based Advertising" section. 
+We may use your personal data referred to above in the section ‘Personal data we collect’ for marketing purposes based on your profiles via email, SMS, other electronic means or otherwise, but we will only do so after we have received your consent to do so. 
 
+We also use your personal data referred to above in the section ‘Personal data we collect’ based on your consent, if you subscribe to receiving our newsletters or participating to our surveys.
 
-  * **_Location Sharing_** . We share location information automatically with some third-party partners, such as Google Maps, in order to provide the Services to you. We also share location information with other third parties with your explicit permission; when you choose to share it directly with other users, such as through the HealthGraph API and Facebook; if the data is in a de-identified or aggregated form; and to help us analyze location data or deliver relevant offers or advertising to you based on your location. ****
+You can withdraw your consent at any time; see the section Your Rights below.
 
+We may share your personal data with the following parties:
 
-  * **_Your Sharing of Information through the Services or Third-Party Services_** _:_ We allow you to share information about your fitness activities and other actions with other users of the Services. We also enable you to share such information with users of third-party services, such as through your social media accounts or through the HealthGraph API. Please note that any Personal Data you provide to be displayed in your publicly-available online profile will be displayed for others to see. We cannot and will not be responsible for what third parties do with any Personal Data that you choose to make publicly available. As such, we advise that you exercise great care in determining what information you choose to make publicly available through the Services or on third-party services. Please see the "Your Choices and Access to Information" section below to learn how to adjust your sharing preferences through the Services. 
+  * _Data controllers within the ASICS Group._ Your personal data will be shared between the responsible ASICS companies that may use your personal data as described in this Privacy Policy. An overview of the relevant responsible ASICS companies can be found [here](https://web.archive.org/privacypolicy?annex1=)
+  * _Service Providers and Processor._ We engage third party vendors, agents, service providers, and affiliated entities to provide services to us on our behalf, such as support for the internal operations of our websites, online stores (including payment processors and third parties we use of sending your orders to your home address), Services (e.g., technical support processing), as well as related offline product support services, data storage and other services.
 
 
-  * **_Facebook Custom Audiences and Similar Programs._ ** We may partner with Facebook and other social media partners to deliver advertisements to our users via the Facebook Custom Audiences program or a similar third-party program. In order to identify and reach our users on Facebook or another third-party service, we may share information such as an email address or phone number with Facebook or the other third-party service. If you would like to opt out of receiving advertisements from us through such programs based on your email address or phone number, please send us an email at [info@runkeeper.com](mailto:info@runkeeper.com). For more information about custom audience targeting and how to adjust your social media advertising preferences, please review the privacy policy of your social media provider. ****
-  * **_Legal Requirements_** _:_ We may also disclose your Personal Data or Other Information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation such as a judicial or governmental subpoena or warrant, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to investigate or protect the personal safety of users of the Services or the public, or (iv) protect against legal liability, prevent suspected fraud, or establish, protect, or exercise our legal rights. 
 
+In providing their services, they can access, receive, maintain or otherwise process personal data on our behalf. Our contracts with these service providers do not permit use of your information for their own (marketing) purposes. Consistent with applicable legal requirements, we take commercially reasonable steps to require third parties to adequately safeguard your personal data and only process it in accordance with our instructions.
 
-  * **_Financing, Business Transfers, and Similar Transactions_ ** _:_ As we develop our business, we might sell or buy businesses or assets. In the event of a sale, merger, reorganization, dissolution or similar event relating to all or a portion of our business or assets, Personal Data or Other Information may be part of the transferred assets. We also may share Personal Data or Other Information to facilitate the potential or actual financing, securitization, insuring, merger, acquisition, sale, assignment, bankruptcy, or other disposal of all or part of our business or assets. 
-  * **_De-Identified or Aggregated Information_** _:_ We may disclose aggregate or de-identified information to third parties. 
+  * _Partners_. Sometimes ASICS offers you a service or application in co-operation with partners. We may also disclose your personal data to those partners, but only where you have consented or requested that we do so. If you win a contest or sweepstake, we may disclose the names of winners online. We may also share your information with third party partners and co-sponsors, where relevant; in such cases, we will clearly notify you of the sharing, and you will have the choice not to participate or to otherwise object to such sharing.
+  * _Third parties in case of legal requirement.   _We may also disclose your  personal data  if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; when we believe necessary or appropriate to disclose personal data to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Policy; to respond to any claims against us; and, to protect the rights, property, or personal safety of ASICS, our customers, or the public.
+  * _Corporate Transaction._ In addition, information about our customers, including personal data, may be disclosed as part of any merger, sale, transfer of ASICS’ assets, acquisition, bankruptcy, or similar event.
+  * _With Consent._ We may also disclose information about you, including personal data to any other third parties, where you have consented or requested that we do so. 
 
 
 
-**Third-Party Analytics and Interest-Based Advertising**
+Notwithstanding anything else in this Privacy Policy, we may share aggregate or de-identified information with third parties for research, marketing, analytics and other purposes, provided such information does not identify a particular individual.
 
-**_Analytics_** _:_ We partner with certain third parties to collect information for the purpose of engaging in analysis, auditing, research, and reporting on the Services and to understand the effectiveness of our advertising and email marketing. These third parties may use web logs or web beacons, and they may set and access cookies or use similar tracking technologies on your computer or other device. They also may use SDKs and device identifiers, such as IDFA or Advertising ID, to collect information about your use of the Apps. In particular, our Services use Google Analytics and Localytics to help collect and analyze certain information for the purposes discussed above. Information about these services and how you may opt out of certain activities is available [here](https://tools.google.com/dlpage/gaoptout/) for Google Analytics and [here](https://www.google.com/url?q=https://www.localytics.com/privacy-policy/&sa=D&ust=1456967327924000&usg=AFQjCNHvwl0Z9eTd3jX7IT7wQcI8EEBORw)for Localytics. 
+#### Cookies, analytics and personalization 
 
-**_Online Interest-Based Advertising_** _:_ The Services also enable third parties to collect information through cookies, web beacons, and device identifiers, such as IDFA or Advertising ID, for use in online interest-based advertising. For example, third parties may use the fact that you visited our website or used our Apps to target online ads for FitnessKeeper services to you on non-FitnessKeeper websites or mobile apps. In addition, we or our third-party advertising networks might use information about your use of the Services to help target non-FitnessKeeper advertisements to you on unaffiliated websites or mobile apps based on your online activity in general. For information about interest-based advertising practices, including privacy and confidentiality, visit the [Network Advertising Initiative website ](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) or the [Digital Advertising Alliance website](http://www.aboutads.info/). 
+We and our third party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your browsing activities, and use of the Services. We may combine this “activity information” with other personal data we collect about you. _  ****_
 
-We and our third-party providers may use collected information to establish connections among related web browsers and devices (such as smartphones, tablets, and computers) for advertising, analytics, attribution, and reporting purposes. We may match your browsers or devices if you log into the same online service on multiple devices or if your devices share similar attributes that support an inference that they are used by the same person or household. This means that information about your activity on websites or apps on your current browser or device may be combined and used with information collected from your other browsers or devices. For example, we or our third-party providers may use this information to deliver the same ad on multiple devices, to limit the number of times you see an ad across your devices, and to help measure the effectiveness of advertising campaigns across devices. 
+Generally, we use this activity information to understand how our Services are used, track bugs and errors, improve our Services, verify account credentials, allow logins, track sessions, prevent fraud, and protect our Services, as well as for targeted marketing and advertising, to personalize content and for analytics purposes.  For more detailed information about these mechanisms and how we collect activity information, see our [Cookie Policy](https://web.archive.org/privacypolicy?cookiePolicy=)
 
-You may opt out of our third-party service providers' interest-based advertising practices and cross-device technologies in web browsers and mobile apps by following the instructions below. Please note that the opt-out will apply only to the specific browser or device from which you opt out, and therefore you will need to opt out separately on all of your browsers and devices. If you delete or reset your cookies or mobile identifiers, change browsers, or use a different device, any opt-out cookie or tool may no longer work and you will have to opt out again. 
+  * _Do-Not-Track._ Please note we do not respond to browser do-not-track requests. You may, however, disable certain tracking as discussed in the applicable Cookie Policy.
 
-  * **Web Browser Opt-Out.** To opt out in web browsers, please visit: 
 
 
-    * Network Advertising Initiative Consumer Opt-Out Page at [ www.networkadvertising.org/choices ](http://www.networkadvertising.org/choices)
+When you participate in various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram, LinkedIn, etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the personal data in your social media profile(s).
 
+ASICS is bound by the privacy practices or policies of these third parties, so we encourage you to read the applicable privacy notices, terms of use and related information about how your personal data is used in these social media environments.
 
-    * Digital Advertising Alliance Consumer Choice page at [ www.aboutads.info/choices ](http://www.aboutads.info/choices)
+Also, depending on the choices you have made regarding your settings on various social media sites (and/or in combination with your settings on the ASICS pages), certain personal data may be shared with ASICS about your online activities and social media profiles (e.g. interests, marital status, gender, user name, photo, comments and content you have posted/shared etc.).
 
+#### IF YOU ARE UNDER 16 YEARS OF AGE
 
-    * Digital Advertising Alliance of Canada Consumer Choice page at __ [ www.youradchoices.ca/choices ](http://www.youradchoices.ca/choices)
+Our online Services are not directed to children under 13 years of age.  If you believe we have collected information about a child under the age of 13, please contact us (see ‘Data Protection Officer - Contact and Queries’ below) so that we may take appropriate steps to delete such information.
 
+If you are at least 13 but under 16 years of age, please get the consent of your parent or legal guardian before you give us any personal data about yourself. Your parent or guardian should contact the ASICS company responsible for using your personal data – the overview of the applicable ASICS companies can be found [here](https://web.archive.org/privacypolicy?annex1=) and provide us with their name, e-mail address and any other identifying information that we may request. ASICS needs this information in order to verify that they have provided the necessary consent. We may follow up by phone or other means in some circumstances. If you are at least 13 but under 16 years of age, do not contact us or provide us with any personal data until after your parent or guardian has sent us an e-mail consenting to your contact and provision of such information.
 
-    * European Interactive Digital Advertising Alliance Choice page at [ www.youronlinechoices.eu ](http://www.youronlinechoices.eu/) . 
+#### INTERNATIONAL TRANSFERS OF YOUR PERSONAL DATA
 
+Please be informed that we transfer and process any personal data you provide to us to countries other than your country of residence. The laws of these countries may not afford the same level of protection to your personal data. ASICS will therefore seek to ensure that all adequate safeguards are in place and that all applicable laws and regulations are complied with in connection with such transfer. More in particular for data transferred from the EU to countries outside the EU, ASICS is using Intra Group Data Transfer Agreements based on EU Model Clauses.
 
-  * **Mobile Application Opt-Out.** To opt out in mobile apps, please download and follow the instructions provided in the Digital Advertising Alliance's AppChoices tool at [ www.aboutads.info/appchoices ](http://www.aboutads.info/appchoices) . In addition, some mobile operating systems allow you to opt out by adjusting the advertising preferences on your mobile device. For example: 
+#### SECURITY
 
+ASICS will take reasonable steps to ensure that your personal data are properly secured using appropriate technical, physical, and organizational measures, so that they are protected against unauthorised or unlawful use, alteration, unauthorised access or disclosure, accidental or wrongful destruction, and loss. Your personal data will be retained for as long as required for the above purposes or in so far as such is necessary for compliance with statutory obligations and for solving any disputes.
 
+#### DATA RETENTION
 
-o In iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking. 
+ASICS retains your personal data for as long as required to satisfy the purpose for which they were collected and used (for example, for the time necessary for us to send you the newsletters you subscribed to, to provide you with customer service, answer queries or resolve technical problems, etc.), unless a longer period is necessary for our legal obligations or to defend a legal claim.
 
-o In Android, visit Settings > Google > Ads > Opt out of interest-based ads. 
+If you have created an ASICS ID account or another ASICS account with us, we will delete that account and your personal data upon your request or 30 days after it has become inactive. We will consider your account ‘inactive’ when you haven’t used your ASICS ID account or another ASICS account for a period of 2 years. Before your account becomes inactive, we will notify you to use your ASICS ID or another ASICS account to prevent your account from being inactive. When we cancel your account, your personal data will be deleted, such with the exception of your account data and your training and running data in case you are using the RunKeeper app, which data will be stored for an additional 4 years after your account becomes inactive (unless you ask us to delete your data earlier). Also, if we need to store certain types of your personal data for a longer period due to legal requirements, we will store such data in accordance with the mandatory periods.
 
-The use of online tracking mechanisms by third parties is subject to those third parties' own privacy policies. If you prefer to prevent third parties from setting and accessing cookies on your computer or other device, you also may set your browser to block cookies. In the case of DoubleClick and DoubleClick Floodlight (which are owned by Google), you can adjust Google's use of cookies using [ Google's Ads Settings ](https://www.google.com/url?q=https://www.google.com/settings/u/0/ads?hl%3Den%26sig%3DACi0TCg3q6nWrptKQOgFAbwaLSi1XeiVNul6p0o5bdZjlvDDdi37UUCrgxfMpkwuQ3UCLqlvJFBPpmq0k0Soxz6sTYAqZGZtPdDkghUecmY5uYSrin3ABJvayxJjzp1QnvNc5k-HWkJn_HBWy-NgkrMdAy_eC1Gno1zRoOnKsyta43q3sIm85-0&sa=D&ust=1456967327929000&usg=AFQjCNGft1LGEw-x8z4pEhS6cZfgzsk3OA) . You may also permanently [ opt-out ](https://www.google.com/url?q=https://www.google.com/settings/u/0/ads/plugin?hl%3Den%26sig%3Daci0tcioexdospa8ijfdovmgxr52z5_ciapdi9abwf0np4jqpppy2byj0if3-9zv8zklxemicvwx7l3h5apqjk02fg-gqja3lbq-u7bxyovk29_py_6rvccjpcevv0inurfbuoykw-5oskzre8nh3rngvmefp2yklwnh0yhsrc9tqvgm&sa=D&ust=1456967327930000&usg=AFQjCNH6Lo215nW9-xmMatl2nNEUGX_GAQ) of the DoubleClick cookie. Although our Services currently do not respond to "do not track" browser headers, you can limit tracking by taking the steps discussed above. 
+#### YOUR RIGHTS
 
-**Your Choices and Access to Information**
+You have the following rights concerning your personal data: right of access, right of rectification, right to erasure, right to restrict data processing, right to object against profiling and your right to data portability. If you would like to contact us regarding any of these rights please click [here](https://www.asics.com/privacy/)
 
-We provide users with a variety of choices regarding how we or third parties collect, use, and share information, including as follows: 
+To the extent that we are relying on our legitimate interests to use your personal data, you also have the right to object to such use (unless we can either demonstrate compelling legitimate grounds for the use that override your interests, rights and freedoms or where we need to process the data for the establishment, exercise or defence of legal claims). 
 
-  * **You can update or change certain information associated with your account through the Settings page within our Apps or by logging into your account on** [ **www.runkeeper.com** ](http://www.runkeeper.com/) **.**
+Without undue delay and not later than within a month, we will respond to your request to invoke your rights consistent with applicable law. 
 
+You may revoke your consent for receiving marketing communications at any time, free of charge by following the instructions in any marketing communication. You can also control these preferences in your profile settings. ASICS will then stop applying the research results to you at an individual level and will stop sending you marketing communications.
 
-  * **You can adjust your email and push notification settings, including alerts about activities on the Services, by visiting the "Notifications" tab in your account settings on** [ **www.runkeeper.com** ](http://www.runkeeper.com/) **. You may also opt out of receiving promotional emails by clicking the "unsubscribe" link provided at the bottom of each message. Please note that if you unsubscribe from promotional emails, you will continue to receive non-promotional emails with information relevant to the operation of the Services.**
+In case you wish to revoke your consent to ASICS using your health data or location data, you can send an email to the ASICS company responsible for using your personal data (an overview can be found [here](https://web.archive.org/privacypolicy?annex1=)). You can also control these preferences in your profile settings and device.  
 
+In case you may have a question or complaint about how we process your personal data, you can send an email to the ASICS company responsible for using your personal data (an overview can be found [here](https://web.archive.org/privacypolicy?annex1=). Alternatively, you may consider lodging a complaint with a supervisory data protection authority.
 
-  * **You can adjust the default sharing preferences for future activities (e.g., whether an activity is viewable only by you, friends, or the public) by changing the "Activities Viewable By" and "Maps Viewable By" settings from the Settings page within our Apps. If you would like to change the sharing preferences for individual activities, you may change the "Maps Viewable By" setting when saving individual activities for the first time, and you may change the sharing preferences for saved activities by logging into your account on** [ **www.runkeeper.com** ](http://www.runkeeper.com/) **.**
+##### Local deviations:
 
+In certain jurisdictions, additional or deviating rules and rights apply to those set out in the section Your Rights above. This is applicable in the following jurisdictions: [US](https://web.archive.org/privacypolicy?annex2=#special-information-for-us-users), [Japan](https://web.archive.org/privacypolicy?annex2=#special-information-for-japan-users), [South Korea](https://web.archive.org/privacypolicy?annex2=#special-information-for-south-korea-users). You can click on your jurisdiction to see what the relevant rules are.
 
-  * **You can manage the third-party apps and services that are connected to your Runkeeper account by visiting the "Apps, Services, and Devices" settings from the Settings page within our Apps. In addition, you may be able to withdraw FitnessKeeper's access permissions directly through the third-party apps or services that are connected to your Runkeeper account. Please review the privacy policies of those third-party apps and services to understand how to change the sharing settings associated with those accounts.**
+#### OTHER WEBSITES
 
+Our websites and mobile applications contain links to third-party websites; if you follow these links, you will exit our websites and mobile applications. While these third-party websites are selected with care, ASICS cannot accept liability for the use of your personal data by these organizations. For more information, please consult the privacy statement of the website you are visiting (if such a statement is provided).
 
-  * **You can opt out of online interest-based advertising and certain types of analytics by following the instructions provided in the "Third-Party Analytics and Interest-Based Advertising" section above.**
-  * **You can export the information that we have stored about you by following the instructions** [**here** **.** ](https://support.runkeeper.com/hc/en-us/articles/201109886-How-to-Export-your-Runkeeper-data)
-[ ](https://support.runkeeper.com/hc/en-us/articles/201109886-How-to-Export-your-Runkeeper-data)
-  * [ **You can merge or delete duplicate accounts by following the instructions** ](https://support.runkeeper.com/hc/en-us/articles/201109886-How-to-Export-your-Runkeeper-data)[ **here** ](https://support.runkeeper.com/hc/en-us/articles/201109866-How-To-Merge-Delete-A-Duplicate-Account) **. To delete your main Runkeeper account, please see the "Data Retention and Deletion" section below.**
+#### CHANGES TO THE POLICY
 
+We may change this privacy policy from time to time by posting the updated version of the privacy policy on our websites and applications. We will give you reasonable notice on our websites of any material change. The “effective date” at the top of this policy indicates when such changes will take effect. We encourage you to visit frequently to stay informed about how we use your personal data.
 
+#### Data protection officer - Contact and Queries
 
-If you are a California resident under 18 years of age and a registered user of our Services, you may request that we remove content and information that you post on our Services. To obtain removal of such content and information, please send us an email at [info@runkeeper.com](mailto:info@runkeeper.com) with a short description of the content or information you would like to have removed. Please note that such a request does not necessarily ensure complete or comprehensive removal of content posted by you, since the content and information may remain in our databases, may remain visible in a manner that does not identify you, or may have been re-posted by another user. 
-
-Users may have additional rights to access, review, correct, delete, or inquire about information that we hold about them. To make such a request, please send us an email at [info@runkeeper.com](mailto:info@runkeeper.com). Please note that we may need to verify your identity or request additional information from you before we are able to comply with your request. 
-
-**Data Retention and Deletion**
-
-We retain information for as long as reasonably necessary to deliver our Services to you or to fulfill the purposes described in this Policy. For example, we may retain your profile information and information about your fitness activities for as long as you maintain your Runkeeper account. This provides you with the ability to review your activities over time, track your progress toward personal goals and challenges, and remember your past achievements and milestones (for example, your first run, 5K, marathon, or other personal achievements). 
-
-Because our users may take extended breaks from fitness activities and may use our Apps on various devices, we do not delete information automatically based on account inactivity or when you uninstall our Apps from one of your devices. However, we provide you with the ability to delete information associated with your account, as follows: 
-
-  * **You may remove a specific fitness activity from your account, such as a walk, run, or other activity on a specific date and time, by following the instructions** **** [ **here** ](https://support.runkeeper.com/hc/en-us/articles/201654876-How-To-Delete-An-Activity) **.**
-
-
-  * **You may delete your Runkeeper account, and information associated with your account, by following the instructions** [**here**](https://support.runkeeper.com/hc/en-us/articles/201109826-How-to-delete-your-Runkeeper-Account) **.**
-
-
-
-If you choose to delete your Runkeeper account, we will make our best effort to delete all information associated with your account, including your profile information, historical fitness activities, historical location information, and third-party authorizations for services connected to your account (e.g., Facebook, Twitter, Fitbit, and Garmin). However, please note that certain information may be retained in backup databases or for analytics purposes. 
-
-In limited circumstances, we may retain information for a longer period of time as required by law. 
-
-**Security**
-
-We implement reasonable administrative, technical, and physical measures to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. Therefore, you should take special care in deciding what information you send to us via e-mail or the Internet. 
-
-**Data Integrity**
-
-We process Personal Data for our legitimate business purposes and in accordance with this Policy or any applicable service-specific privacy notice. We take reasonable steps to ensure that the Personal Data we process is accurate, complete, and current, but we depend on our users to update or correct their Personal Data whenever necessary. 
-
-**Health Information**
-
-We do not use information collected through the Services to infer health information that we consider sensitive, such as a user's past, present or potential future health or medical condition or treatment, including but not limited to genetic, genomic, and family medical history. We may, however, infer a user's potential interest in certain non-sensitive health and wellness categories, such as exercise and fitness activities, endurance activities, distance running, diet and weight loss, nutrition, healthy living, or physical and massage therapy. We may use this non-sensitive health and wellness information for the purpose of delivering more relevant content, services, offers, and advertising to our users. 
-
-**Children**
-
-We do not knowingly collect Personal Data from children under the age of 13 and do not target our Services to children under 13. If you are under 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data through any of our Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us, please contact us, and we will endeavor to delete that information from our databases. 
-
-**Links to Other Websites or Services**
-
-This Privacy Policy applies only to information collected through the Services. The Services may contain references or links to other websites or services not operated or controlled by us (the "Third Party Services"). The policies and procedures we described here do not apply to the Third Party Services. The links from the Services do not imply our review or endorsement of the Third Party Services. We suggest contacting those sites directly for information on their privacy policies. 
-
-**Changes to Our Privacy Policy**
-
-Our Services may change from time to time. As a result, we may need to change this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. We will post any revised Privacy Policy on our website with an "effective date" indicating when the changes will take effect. We encourage you to review this Privacy Policy periodically, and especially before you provide any Personal Data. Your continued use of the Services after a revised Privacy Policy becomes effective shall indicate your agreement with the terms of such revised Privacy Policy. 
-
-**Contacting Us**
-
-If you have any questions or concerns about this Privacy Policy or our information collection, use, and sharing practices, please feel free to contact us at any time at [info@runkeeper.com](mailto:info@runkeeper.com). 
+If you have any questions regarding the processing of your personal data or this privacy policy, please contact the ASICS Data Protection Officer, or the ASICS company responsible for using your personal data. An overview of all contact details can be found [here](https://web.archive.org/privacypolicy?annex1=).
