@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003193638id_/https%3A//www.proz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626112958id_/https%3A//www.proz.com/privacy) for the most accurate reproduction.*
 
 # ProZ.com privacy policy
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=367db920-c6ec-43ce-b0ad-7268aa90b832 "TRUSTe Privacy Certification")
+Date effective: 8 May 2018 ([view past versions](https://web.archive.org/privacy?version=past)) 
 
-Date effective: 9 November 2016 ([view past versions](https://web.archive.org/privacy?version=past)) 
+ProZ.com complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. ProZ.com has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
-This privacy policy describes the way that ProZ.com treats personal information that it collects. Personal information is information about an individual that is personal such as name, address, email address, or phone number. This policy covers the entire ProZ.com site. 
+ProZ.com commits to subject to the Privacy Shields' principles all personal data received by ProZ.com in the U.S. from European Union member countries and Switzerland in reliance on the respective Privacy Shield framework. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
+ProZ.com is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks. 
 
-Some ProZ.com services may contain links to other websites. ProZ.com is not responsible for the information practices or the content of such other websites. If you submit personal information to any of those sites, your information is governed by their privacy policies. Users are encouraged to review the privacy policies of other websites to understand their information practices.
+This privacy policy describes the principles that ProZ.com follows when processing personal data. It applies to the entire ProZ.com site, the ProZ.com Mobile application, and TM-Town.com. 
+
+Some ProZ.com services may contain links to other websites. Other than TM-Town.com, ProZ.com is not responsible for the information practices or the content of such other websites. If you submit personal information to any of those sites, your information is governed by their privacy policies. Users are encouraged to review the privacy policies of other websites to understand their information practices.
 
   
 
@@ -21,7 +23,9 @@ Some ProZ.com services require registration. In order to register with ProZ.com,
 
 Some ProZ.com services, such as job postings, do not require registration, but still require the user to submit contact information. This information can be hidden from public view, but may be used by ProZ.com or its agents to contact the job poster in the event of a dispute or other problem. 
 
-ProZ.com provides a number of other services to help individuals and companies connect and collaborate with one another, such as forums, member directory, the KudoZ term help network, article knowledge base, etc. which are publicly accessible. Any personal information a user chooses to post to such a service may be read, collected, or used by others who access these services, and may be used to send them unsolicited messages. Users are able to update or remove the content of these posts, either via an interface provided for that purpose or with the assistance of ProZ.com staff by submitting a support request or by contacting us at privacy@proz.com. 
+ProZ.com provides a number of other services to help individuals and companies connect and collaborate with one another, such as forums, member directory, the KudoZ term help network, article knowledge base, etc. which are publicly accessible. Any personal information a user chooses to post to such a service may be read, collected, or used by others who access these services, and may be used to send them unsolicited messages. 
+
+ProZ.com acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to privacy@proz.com. If requested to remove data, we will respond within a reasonable timeframe. 
 
 In some cases for forums, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
@@ -79,7 +83,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ### Children
 
-Protecting the privacy of the very young is especially important. ProZ.com never collects or maintains information from those actually known to be under 13, and no part of the ProZ.com website is structured to attract anyone under 13. 
+Protecting the privacy of the very young is especially important. ProZ.com never collects or maintains information from those actually known to be under 16, and no part of the ProZ.com website is structured to attract anyone under 16. 
 
 ### Communications from ProZ.com
 
@@ -108,6 +112,10 @@ If ProZ.com proposes to use personal information for any purposes other than tho
 
 Users can decline to submit personal information to any ProZ.com services, in which case ProZ.com may not be able to provide those services to them. 
 
+We will also provide EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than for which it was originally collected or subsequently authorized. 
+
+To limit the use and disclosure of your personal information, please submit a written request to privacy@proz.com. 
+
 ProZ.com does not share, sell, rent, or trade personal information with third parties for their promotional purposes.
 
 ProZ.com shares personal information with third parties outside of ProZ.com only in the following limited circumstances: 
@@ -135,6 +143,8 @@ When you visit the profile page of a ProZ.com member, a log of your visit may be
 
 In addition, ProZ.com users may create custom profile pages with dynamic content ("dynamic profile content"), including javascript, iframes, or CSS. When you access a profile page that ProZ.com has identified as containing dynamic content, you will be prompted whether to allow the dynamic content to run in your web browser. If you choose to allow the dynamic content to run, and if the dynamic content has been configured to do so, the profile holder may have access to certain personal information provided by your web browser, such as your IP address or cookies. Please note that ProZ.com does not screen or approve dynamic profile content and cannot control how such profile holders use any personal information that they may obtain in connection with dynamic profile content. You can report any suspected misuse of information to ProZ.com and the claim will be investigated and appropriate action taken against the profile holder, up to and including terminating their participation at ProZ.com and/or other formal legal action. 
 
+In cases of onward transfer to third parties for data of EU or Swiss individuals received pursuant to the Privacy Shield Frameworks, ProZ.com is potentially liable should any issues or concerns arise. 
+
 ProZ.com processes personal information only for the purposes for which it was collected or subsequently authorized by the individual, and in accordance with this privacy policy. ProZ.com reviews its data collection, storage and processing practices to ensure that it only collects, stores and processes the personal information needed to provide or improve ProZ.com services. Reasonable steps are taken to ensure that the personal information ProZ.com processes is accurate, complete, and current, but it depends on ProZ.com users to update or correct their personal information whenever necessary. 
 
 ProZ.com makes good faith efforts to provide users of its services with access to their personal information and either to correct this data if it is inaccurate or to delete such data at their request if it is not otherwise required to be retained by law or for legitimate business purposes. ProZ.com asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), where the rights of persons other than the individual would be violated, or for which access is not otherwise required. In any case where ProZ.com provides information access and correction, this service is performed free of charge, except if doing so would require a disproportionate effort. 
@@ -152,5 +162,11 @@ ProZ.com
 Syracuse, NY 13202 USA 
 
 ProZ.com will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this privacy policy. 
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, ProZ.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jason Grimes at ProZ.com at privacyshield@proz.com, or by mail at ProZ.com, 235 Harrison Street, Syracuse, NY 13202, USA. 
+
+ProZ.com has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint. The services of BBB EU PRIVACY SHIELD are provided at no cost to you. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
 Please note that this privacy policy may change from time to time. Individuals' rights under this privacy policy will not be reduced without their explicit consent, and most such changes are expected to be minor. Regardless, any privacy policy changes will be posted on this page and, if the changes are significant, a more prominent notice will be provided (for example, on the ProZ.com home page, or by email notification) prior to the change becoming effective. Each version of this privacy policy will be identified at the top of the page by its effective date, and prior versions of this privacy policy will be kept in an archive for review. 
