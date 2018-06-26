@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the androidauthority.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234956id_/https%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidauthority.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626050437id_/https%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Authority
 
-_This policy was last updated February 2, 2017._
+_This policy was last updated May 24, 2018._
 
 At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).
 
@@ -20,7 +20,7 @@ We collect two basic types of information from you in conjunction with your use 
 
 **Personally Identifiable Information**
 
-As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
+As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at Android Authority.
 
 **Non-Personally Identifiable Information**
 
@@ -74,8 +74,8 @@ Google may use the Data collected to contextualize and personalize the ads of it
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
-_**Spot.IM Commenting  
-**_SpotIM is commenting software. [Privacy Policy](https://www.spot.im/privacy/)
+_**Disqus Commenting  
+**_Disqus is commenting software. [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
 
 _**Facebook Analytics for Apps (Facebook, Inc.)**_  
 Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
@@ -101,6 +101,10 @@ _**YouTube video widget (Google Inc.)**_
 YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.  
 Personal Data collected: Cookies and Usage Data.  
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+**Drip newsletter marketing.**  
+Drip is a newsletter marketing platform.  
+Place of processing: US – [Privacy Policy](https://www.drip.com/privacy)
 
 _**Google Analytics for Firebase (Google Inc.)**_  
 Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.  
@@ -174,11 +178,29 @@ All personally identifiable information is provided on a voluntary basis. If you
 
 You may always opt-out of receiving future e-mail marketing messages and newsletters from Android Authority by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.
 
-**Governing Law & Notice to Non-U.S. Users**
+**Governing Law**
 
-These Sites are published in the United States. We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to Android Authority’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Android Authority.
+We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to Android Authority’s services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Android Authority.
 
-If you are located outside the United States of America, you should be aware that information about you will be transferred to the United States of America. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+If you are located outside Canada, you should be aware that information about you will be transferred to Canada. If you are located in a country outside of Canada and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, Canada.
+
+## GDPR Compliance for European Territories
+
+In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), Android Authority provides specific additional rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure outband blockage. More specifically:
+
+  * The right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+  * Under certain circumstances, the right to request that personal data should be deleted.
+  * Under certain circumstances, the right to demand that the processing of personal data should be restricted.
+  * Withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+  * Have the right to obtain your personal data in a common, structured and mechanically readable format.
+  * Contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+  * The right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+
+
+
+In addition to the above, we reference certain rights for European Territory citizens throughout this Privacy Policy. Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA) and Switzerland. For the purpose of this Privacy Policy, the term “European Territories” shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.
+
+Please email admin[at]androidauthority[dot]com with the subject line “GDPR Request” for any questions about exercising any of the above rights.
 
 ## Other Important Information 
 
@@ -194,9 +216,9 @@ When we run a contest or giveaway or game relating to our Sites, it will be acco
 
 **Children’s Information**
 
-The Sites are not intended for children under 13 years of age. Android Authority does not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not provide personal information to Android Authority without providing us with consent from your parents. If Android Authority discovers that a child under the age of 13 has provided Android Authority with personal information and we do not have parental consent, Android Authority will immediately delete that child’s information from the Sites. 
+The Sites are not intended for children under 16 years of age. Android Authority does not knowingly collect personal information from children under 16 years of age. If you are under 16 years of age, do not provide personal information to Android Authority without providing us with consent from your parents. If Android Authority discovers that a child under the age of 16 has provided Android Authority with personal information and we do not have parental consent, Android Authority will immediately delete that child’s information from the Sites. 
 
-If you believe that company has been provided with the personal information of a child under the age of 13 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.
+If you believe that company has been provided with the personal information of a child under the age of 16 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.
 
 **Your California Privacy Rights**
 
