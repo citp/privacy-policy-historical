@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hulkload.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119050900id_/http%3A//hulkload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkload.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626170930id_/http%3A//hulkload.com/privacy.html) for the most accurate reproduction.*
 
-# HulkLoad
-
-### Privacy Policy 
+# HulkLoad - Where Your Files Last Forever
 
 **Personal identification information**  
 We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
