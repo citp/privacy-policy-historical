@@ -1,30 +1,106 @@
-> *The following text is extracted and transformed from the petitions24.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417143550id_/https%3A//www.petitions24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitions24.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627010527id_/https%3A//www.petitions24.com/privacy.php) for the most accurate reproduction.*
 
 # Petitions24.com
 
-When you sign or create a petition we ask for your name, email address and place of residence.
+## What information do you collect about me?
 
-Your email address will not be published on our site. However, the author of the petition will see all the information you provide when you sign a petition. 
+  * Your name 
+  * City 
+  * Country 
+  * Email address 
+  * Phone number 
+  * Facebook ID 
+  * Browser name and version number 
+  * Operating system name and version number 
+  * Screen resolution 
+  * Device fingerprint (hash calculated of the information that your browser provides us) 
+  * Pages you view 
+  * Petitions you view
+  * Petitions you sign 
+  * Petitions you create 
+  * Announcements you publish 
+  * Purchases you make 
+  * Payments you make 
+  * Comments you write 
+  * Messages you send 
+  * Links you click
 
-We won't sell your information and we won't email you about anything apart from the petitions you create or sign.
-
-We use Security Sockets Layer (SSL) encryption technology to encrypt all the data before it travels over the internet. 
-
-The information we collect is used to improve the content of our Website, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
-
-We have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-https://www.google.com/policies/technologies/ads/  
 
 
-Upon request we provide site visitors with access to all information that we maintain about them Users can access this information by sending us a message using our [contact form](https://web.archive.org/contact.php). Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+## How do you collect this information?
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+  * When you create or edit an user account.
+  * When you view, sign and create petitions, comments and announcements.
+  * When you view pages
+  * When you click links
+  * When you order extra visibility for a petition.
+  * Send us email. 
+  * Login with Facebook. Facebook will provide us your Facebook ID, first name, last name, country and email address. 
+  * Make us a payment through PayPal. PayPal will provide us your first name, last name, residence country and your email address. 
 
-We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-We use Google Analytics to collect information about how you use the service. This information helps us to improve the service. The Google analytics cookie collects and stores information about: unique users, informing referring sites, vistor and session counts. Google isn’t allowed to use or share our analytics data with anyone, but you can opt out of Google Analytics cookies.
 
-Our servers are located in France and our head office is located in Finland.
+## How do you use this information?
+
+  * If you sign a petition and check "Show my signature publicly" then we will show your signature in the signatures page. We have asked search engines not to index the signatures page. If you uncheck "Show my signature publicly" then your signature will be visible in the signatures page just for the author of the petition and for the administrators (our employees). 
+  * If you have logged in using Facebook then we will show your Facebook profile picture next to your name in the signatures page and we link from your name to your Facebook profile page. 
+  * After you sign a petition, we send a message to your email address to make sure that the email address is valid and belongs to you.
+  * If you check "Keep me updated on this petition" when signing a petition, we will send you an email message when the author of the petition publishes an announcement. You can unsubscribe with one click.
+  * Facebook remarketing
+  * Google AdWords remarketing
+  * To target petition ads better
+  * Recognize your repeat visits and preferences
+  * Measure the effectiveness of ad campaigns
+  * To personalize user's experience
+  * To improve the website
+  * To improve the customer service
+  * To analyze user behaviour
+
+
+
+## How is this information shared?
+
+  * The author of a petition will receive the information you provide in the signature form when you sign her/his petition. 
+  * We might need to share some information with a police to prevent or solve a crime. Normally we ask a police to contact Finnish Police because our company is located in Finland. 
+
+
+
+## How do you keep my information safe?
+
+  * We use Security Sockets Layer (SSL) encryption technology to encrypt all the data before it travels over the internet.
+  * We store your information on secure computers or at data centers. Only authorized personnel can access the information on these computers.
+  * Our servers are located in France and our head office is located in Finland.
+  * Passwords are not saved in clear text. We calculate hash sums of the passwords and use salts. 
+
+
+
+## How can I view, edit and remove my information?
+
+  * To manage petitions you have created, then [log in](https://web.archive.org/login.php) using the email address you used when you created the petition.
+  * You can manage your signatures through page "[Manage signatures](https://web.archive.org/manage_signatures.php)". If you have signed a petition without providing an email address or your email doesn't anymore work, then contact the author of the petition or send us a message using our [contact form](https://web.archive.org/contact.php).
+  * To access other information, please send us a message using our [contact form](https://web.archive.org/contact.php). Upon request we offer visitors the ability to have inaccuracies corrected or your information removed completely.
+
+
+
+## Web browser cookies
+
+  * Our Site uses "cookies" and local storage to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+
+
+## 3rd party services
+
+  * We use Google Analytics to analyze our traffic. (Check [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout))
+  * We use Google Adsense to show advertisement to our visitors. 
+  * We use Google Adwords to advertise our site.
+  * We Facebook to show Like and Share buttons and Facebook Login feature. 
+  * We use PayPal to handle payments. 
+
+
+
+You can read more about how Google collects and protects data by clicking [here](https://policies.google.com/technologies/partner-sites). 
+
+## Company info
 
 Petitions24 Oy  
 Torikatu 16 B 22  
