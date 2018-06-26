@@ -1,75 +1,152 @@
-> *The following text is extracted and transformed from the shelterbox.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910024939id_/https%3A//www.shelterbox.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelterbox.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626170540id_/https%3A//www.shelterbox.org/privacy) for the most accurate reproduction.*
 
 # Privacy | ShelterBox
 
-ShelterBox Trust (We) are committed to protecting and respecting your privacy.
+## 1\. Information we collect about you
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+* * *
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is ShelterBox Trust and our registration number is Z928330X.
+Personal information is collected directly from you when you interact with ShelterBox, for example making a donation, sending or receiving an email, making an enquiry, visiting our websites, applying for a role with us, participating in an event or when signing up for our newsletter. Information may be collected in person, over the phone, through our websites, social media or from something you’ve posted to us. Some information is vital in order for us to process a donation and is legally required, other information will be used to ensure we communicate with you in the right way.
 
-### Information we may collect from you
+The information we hold will typically include some of, or all of, your name, postal and email addresses, your phone number, and may include information like your date of birth and your bank details if you are supporting us financially, for example through a regular monthly donation. We may on occasion also research information about you from other sources (including public sources). This is explained in the ‘How we might use your information’ section below.
 
-We may collect and process the following data about you:
+### Our legal basis for contacting you and using your personal information
 
-  * information that you provide by filling in forms on our site www.shelterbox.org (our site). This includes information provided at the time you sign up for our newsletter. We may also ask you for information when you report a problem with our site;
-  * if you contact us, we may keep a record of that correspondence; and
-  * details of your visits to our site and the resources that you access.
+When we collect and use your personal information, we will make sure this is only done in accordance with at least one of the legal grounds available to us under Data Protection law.
 
+One of these is where we have obtained your specific consent to use your information for a previously notified purpose, such as to send you email/text marketing or to provide you with a product, service or information at your request.
 
+Another is where we have a legal obligation to use or disclose information about you – for instance, where we are ordered by a court or regulatory authority or we are legally required to hold donor transaction details for Gift Aid or accounting/tax purposes.
 
-### IP addresses and cookies
+In certain instances, we may collect and use personal information where this is necessary in our legitimate interest as a charity, this includes being able to:
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
-
-  * to estimate our audience size and usage pattern.
-  * to store information about your preferences, and so allow us to customise our site according to your individual interests; and
-  * to recognise you when you return to our site.
+  * send direct marketing material to supporters by post or contacting them by telephone for fundraising purposes (subject to checking against the Telephone Preference Service and any existing marketing preferences).
+  * conduct research to better understand who our supporters are and better target our fundraising activity to ensure resources are used in the most cost effective way.
+  * monitor who we deal with to protect our charity against fraud, money laundering and other risks;
+  * maintain and administer our donor database and systems for audit trail purposes and to ensure we are communicating with you in your preferred way.
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+In all cases, we carefully consider your rights as an individual and make sure we only use personal information in a way or for a purpose that you would reasonably expect in accordance with this Policy and that does not intrude on your privacy or previously expressed marketing preferences. We always carefully balance our legitimate interests against your rights as an individual, to ensure the best possible outcome for the families who need our support.
 
-### Where we store your personal data
+### Marketing Materials
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who may provide services to us. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+We want to ensure you receive the level of information about ShelterBox that is right for you, and will ensure that we honour your communication preferences.
 
-### Uses made of the information
+**Email/text marketing**
 
-We use information held about you in the following ways:
+If you actively provide your consent to us along with your email address and/or mobile phone number, we may contact you for marketing purposes by email or text message. By subscribing to ShelterBox emails or opting in to email communication from ShelterBox, you grant us the right to use the email for both email marketing purposes and advertisement targeting.
 
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer;
-  * to notify you about changes.
+**Post/telephone marketing**
+
+If you have provided us with your postal address or telephone number we may send you direct mail or telephone you about our work unless you have told us that you would prefer not to receive such information in this way. We also actively check telephone numbers against the Telephone Preference Service. We will only make telephone calls to you where your telephone number is listed on the TPS if you have specifically told us that you do not object to such calls and have consented to receive them.
+
+We will only write to your postal address if you have provided your address and not opted out of receiving communications, or if we judge it to be in your legitimate interest to be written to, for example to provide a receipt for your donation. You can up-date your preferences and opt out of receiving communication to your postal address at any time, see Contacting us section above.
+
+**Your choice**
+
+It is always your choice as to whether you want to receive information about our work, how we raise funds and the ways you can get involved. If you do not want us to use your personal information in these ways please indicate your preferences on the form on which we collect your data.
+
+You can let us know at any time if you’d prefer to change how we share this information with you or stop it altogether. Simply use the details we’ve provided in the ‘Contacting us’ section to let us know your preferences. If you receive our e-newsletters, you can also use the unsubscribe link in the emails we send.
+
+We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted by us for such purposes. However, we will retain your details on an unsubscribe list to help ensure that we do not continue to contact you.
+
+### How we might use your information if you are a supporter who receives marketing materials or makes donations
+
+We may use your information for administration purposes.
+
+When you make a donation or other payment to ShelterBox, we will use your payment and contact details, payment amount, date and time of payment; to process that payment and take any follow-up administrative action needed (for example, sending a receipt).
+
+If you choose to include Gift Aid with a donation to us, then we will also ask for your address and UK taxpayer status as this information is required by law. You can read more about how Gift Aid works here. This information is needed for us to fulfil our obligations under tax (sections 413 to 430 Income Tax Act 2007) and charity law. Information associated with Gift Aid declarations must be retained for 7 years. This information will be shared with HMRC for tax regulation purposes and may also be shared with the Fundraising Regulator and the Charity Commission in the event of an enquiry or investigation.
+
+**Responding to** **enquiries** ****
+
+Conversations with you matter to us. If you contact us with a question, comment, compliment or complaint then we will keep a record of this correspondence and any associated documents so that we have the information available in the event of a follow-up, dispute or investigation, and so that we can be as helpful as possible in quickly and efficiently providing you with any information you might be seeking.
+
+**Notifying you of changes to policies**
+
+If we make significant changes to our policies which may affect you, we will use your contact details to inform you of the changes.
+
+**Requesting information if you are attending our events**
+
+If you participate in an event that we have organised, we may ask you to provide information to make sure we can manage the event safely and efficiently. We may also ask you for details of any accessibility need which you may have, so that we ensure our event is inclusive (in line with the provisions of the Equality Act 2010).
+
+If you participate in an event organised by an external party or make a donation through a processor like JustGiving, then your information may be passed to us by the processor. We would only use it for marketing purposes if you have given your consent for this.
+
+We may use your information to invite you to become involved with us in new ways, raise funds and grow our supporter base.
+
+### Targeting our communications and researching our supporters
+
+We are committed to spending your donations wisely, and that means being as informed and targeted with our decisions as possible. We want to send the most effective messages that we can in the most efficient way possible. In order to do this, we may carry out the following activities:
+
+**Email or SMS marketing**
+
+If you have opted in to receive email updates from us, we will contact you from time to time to share information with you about where we’re working, who you’re helping, and how you can get involved. If you change your mind and no longer wish to receive our marketing emails, you can click the ‘unsubscribe’ link at the end of our marketing emails at any time. You can also contact our Supporter Care team on [hello@shelterbox.org](mailto:hello@shelterbox.org), or by calling 01872 302600.
+
+We will not market to you via SMS without your consent. You are able to unsubscribe at any time by replying to the message with the word STOP or contacting our Supporter Care team on [hello@shelterbox.org](mailto:hello@shelterbox.org), or 01872 302600.
+
+**Analysing how emails are opened and read**
+
+We track emails which we have sent to you to see which messages have the highest response rates and whether there are messages that resonate with particular groups of people. We do this by logging whether emails we send have been opened, deleted and interacted with (for example, by clicking on links within the emails). Although we only use this information to look at general patterns, it is still personal information because it is linked to your email address.
+
+**Segmentation**
+
+This is where we analyse information such as postcodes of supporters, and whether donations have been given regularly. This helps us to tailor appropriate communications to you, as well as improve your experience as a ShelterBox supporter. For example, if we see that you have only ever donated to us at a time of major disaster, we may only contact you in future in the event of another major disaster, rather than including you in updates about other aspects of our work.
+
+**Digital advertising**
+
+Where you have agreed to receive email or SMS marketing communications from us, we may provide your email address or mobile phone number in an encrypted format to:
+
+  * social media companies, such as Facebook, Instagram, Twitter or YouTube, or
+  * digital advertising networks that are providing services to us by displaying our advertising to you on those social media platforms and other websites, as well as identifying audiences with interests similar to yours.
 
 
 
-We may also use your data to provide you with information by post when requested by you. We will only contact you by electronic means (e-mail or text) with information requested by you. If you do not want us to use your data in this way please tick the relevant box situated on the form on which we collect your data.  
- 
+You can opt out of your data being used to display advertising to you by contacting our Supporter Care Team at [hello@shelterbox.org](mailto:hello@shelterbox.org), or by calling 01872 302600. However, this will not prevent our advertisements being shown to you on a randomised basis or based on cookie data.
 
-### Disclosure of your information
+**Analysing our supporter base to send different communications to people who might give higher amounts or in different ways**
 
-We may disclose your personal information to third parties:
+We undertake research to help us identify people who may give higher amounts or in other ways, for example by leaving a gift in a will. Most of that research is conducted in-house but we may also use research from external organisations like [Experian](http://www.experian.co.uk/marketing-services/products/mosaic-uk.html) or [Factary](https://factary.com/). Whether done in-house or with the help of trusted third parties, our goal is to communicate with you in the most interesting, relevant and effective way.
 
-  * in the event that we dispose of, acquire or merge with another charity in which case we may disclose your personal data;
-  * if ShelterBox Trust is acquired by a third party, in which case personal data held by us about our site users and donors will be transferred; and
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or to protect the rights, property, or safety of ShelterBox Trust or our site users and donors.
+Examples of sources we might use:
+
+  * Public registers (such as the Electoral roll, Companies House, and Charity Commission) and aggregators that collate info from same sources (Duedil, 192.com and Directory Enquiries for example)
+  * Subscription services (Directory for Social Change and Trustfunding.org are two examples.)
+  * Public records of other charities or organisations you might support, for example, if you are patrons of the British Museum.
+  * Professional registers, posts on professional networking sites like LinkedIn, and company websites and annual reports.
+  * Articles about you in newspapers or magazines
+  * Internet search engine results
 
 
 
-### Your rights
+**Finding other people like you who might like to hear from us**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@shelterbox.org. Our site may, from time to time, contain links to other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We may use the email address you give us to help find more people like you, so that we can grow our supporter base through our online channels. We use third party services to do this which you are likely to be familiar with, including Google, Facebook and Twitter.
 
-### Access to information
+We may also use publicly available information about you to help find other likeminded people who may be interested in supporting ShelterBox. These sources provide broad demographic information based on where you live, for example geographic location, type of household, media consumption, likely interests and hobbies. If we understand these common interests we can invest our resources more efficiently to reach people who are more likely to be interested in supporting our work.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+### When might we add information to your record that you may not have given to us directly?
 
-### Changes to our privacy policy
+We may also add information or update your record with us, from publicly available sources. This may include address related information, information from death registers, age or the information mentioned in the section above ‘Targeting our communications and researching our supporters’. We use this information to tailor our communications with you and send you more appropriate information and be as efficient as possible. For example, if you have moved house but forgotten to tell us, we may add this information from external publicly available sources to avoid sending mail to the wrong address.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+These activities form a vital part of keeping support for our work going. You can request more information on these activities, or change your preferences, by using the information in the ‘Contacting us’ section at the beginning of this document.
 
-### Contact
+### We may use your information to enforce and comply with the law
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@shelterbox.org](mailto:info@shelterbox.org)
+As with all charities, we ensure that our activities comply with the law. Therefore, we may need to share or use your personal information if we are required to do so by law (for example, in response to a warrant or court order) and we may use information from other sources for the purposes of fraud prevention, for example to comply with money laundering regulations, or to protect people’s rights, property or safety.
+
+If certain levels of donation are made, the Fundraising Regulator’s Code of Fundraising Practice requires us, and all charities in the UK, to perform checks. More details can be found at [www.fundraisingregulator.org.uk](https://www.fundraisingregulator.org.uk/)
+
+### Your debit and credit card information
+
+If you use your credit or debit card to donate to us, or pay for a registration online or over the phone, we will ensure that this is done securely and in accordance with the
+
+Payment Card Industry Data Security Standard. You can find our more information about PCI DSS here - <https://www.pcisecuritystandards.org/security_standards/index.php>
+
+We do not store your credit or debit card details at all, following the completion of your transaction. All card details and validation codes are securely destroyed once the payment or donation has been processed. Only staff authorised and trained to process payments will be able to see your card details.
+
+If we receive an email containing any credit or debit card details, it will be immediately deleted, no payment will be taken and you will be notified about this.
+
+### How we use social media
+
+We operate a number of social media pages (including Facebook, Twitter, LinkedIn, Instagram and YouTube). This policy covers how we will use any data collected from those pages. It does not cover how the providers of social media websites will use your information. Please ensure you read the privacy policy of the social media website before sharing data and make use of the privacy settings and reporting mechanisms to control how your data is used.
