@@ -1,78 +1,98 @@
-> *The following text is extracted and transformed from the mybizcard.co privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209185702id_/https%3A//mybizcard.co/spage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybizcard.co privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626090022id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Business Cards | Privacy
+# Privacy | Neustar
 
-#### Privacy Policy
+**Highlights of the Neustar Privacy Policy**
 
-* * *
+_Updated: May 18, 2018_
 
-_Last Updated April 2013_
+Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles)
 
-**OVERVIEW** At MyBizCard, protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it. 
+### Our Commitment – Privacy by Design
 
-**INFORMATION ABOUT YOU**  
-Information Gathered From All Visitors
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principle of Privacy by Design, to design, build, and deliver products and services that respect your privacy.
 
-**Aggregate Data** We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users. 
+### Personal Information Collection, Use, and Disclosure
 
-**3rd-Party Login Systems** We use 3rd-Party Login & Authentication systems to validate user accounts on site. These include the Linkedin API, the Facebook API and others. In each case, we abide by the terms of service of each 3rd-Party API. We do not collect usernames and passwords for these services, or any information that is not allowed under the API terms of service. By using our site and authenticating via any such 3rd-Party Login API, you are granting us access to your profile information contained within that 3rd-Party site. You are also agreeing to abide by the privacy policy and terms of service of that 3rd-Party site. For more information, please consult the policies of the 3rd-Party API service that you used to login to our site. 
+We collect [Personal Information](https://web.archive.org/privacy/privacy-policy#personal-info) from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy-policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and/or [Aggregate Knowledge Cookies](https://web.archive.org/privacy/privacy-policy#cookies), which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.
 
-**Cookies** We use a technology nicknamed "cookies" on our web site. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use cookies to make your visit to our web site easier. For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit. Cookies also allow us to count the number of unique and return visitors who use our site. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies. 
+Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the Personal Information we collect and how we use it:
 
-**Activity on the Site** We are using Google Analytics service to gain insight into our customers' use of the site. Google Analytics may record mouse clicks, mouse movements, and scrolling activity on this website. Google Analytics does not collect personally identifiable information from this website. 
+  * [Data Collected On Our Websites](https://web.archive.org/privacy/privacy-policy#info-you-provide)
+  * [Data Collected and Used to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#data_in_products_services)
+  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#other-use)
 
-**IP Addresses** We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message. We may be required to do this if compelled by law or to investigate abuse of our service. 
 
-**Information Gathered From Members** If you elect to upgrade your account and purchase a Premium Membership or redeem a promotional membership on MyBizCard, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). We do not collect or store any credit card-related information. This is done by our third-party payment processor, in compliance with PCI rules. Additional data may be collected from Members based upon certain services they elect to utilize on our web site. 
 
-**WHEN YOU SHARE YOUR BUSINESS CARD**
+### Cookies, Advertising IDs and Other Technologies
 
-If you use our web site to share your business card, such as attaching it to your email signature, or any other content, we collect your e-mail address, your name, your 3rd-Party profile information and your list of contacts. Your card or content will typically be delivered via the messaging functionality available to us by the 3rd-Party Login service that you have used (such as Facebook, Linkedin, Google etc). This information is necessary to send the content and provide confirmation that it has been received. We may also use your e-mail address to contact you if you have chosen to receive communications from MyBizCard or its Partners. Information on your recipient list is not stored on our servers, and will be fetched again each time you send a greeting or content to your list. 
+Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://www.marketing.neustar/identity-data-management-platform) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
 
-**COMMUNICATIONS FROM US**
+Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the technologies we use:
 
-We send to all of our users our exclusive MyBizCard Newsletter, which alerts you to new features, content, and services, premiums available on our site. From time to time, we will also send you invitations to enhance your MyBizCard membership, offers for new products and services from MyBizCard, special "Members Only" premiums, or special offers from our affiliates and sponsors. These communications are sent to you directly by MyBizCard. We do not share your personally identifiable information with any third parties in connection with the Newsletter. You can always decline the Newsletter by configuring your account settings on the site. 
+  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#cookies)
+  * [Analytics and Segmentation Cookies](https://web.archive.org/privacy/privacy-policy#segment-codes)
+  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#mobile-advertising-id)
 
-**Mandatory Communications** MyBizCard reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our Terms of Service. These communications are mandatory. 
 
-**MyBizCard'S USES OF PERSONAL INFORMATION** If you have provided us your consent, we will use the information we have collected about you in five ways: To send personalized, targeted information that we think our users will find relevant from MyBizCard; 
 
-  * To include targeted advertising within such messages
-  * To send promotions and coupons based on the user's interests;
-  * To contact the user for feedback and surveys; and
-  * To send the user other information about MyBizCard.
+### Transparency and Choice; Privacy Choices
 
-  
-**Email Plug-ins** You may choose to install email extensions, add-ons or plug-ins for certain email services that we support such as Gmail. These are offered as lightweight browser extensions for Internet Explorer, Chrome, Firefox and others. These are provided as-is, with no warranty that the software will behave as intended. You bear risk of failure or loss. If you install such additional software from us in your browser, you give us consent to collect, store or process additional information: 
+##### Cookies
 
-  * Add email tracking codes to each email you send
-  * Store the IP and email address of who opens your email, and report this back to you
-  * Add your rating information to your email signature
-  * Modify other parts of your email DOM to display your rating info within your email account
-  * WE DO NOT: access the contents of any of your emails.
-  * WE DO NOT: access your email contacts.
-  * WE DO NOT: know or ask for your account password.
+  * You can opt-out of the use of [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and [AK Cookies](https://web.archive.org/privacy/privacy-policy#cookies) for Neustar Marketing Services on the [Privacy Choices page](https://web.archive.org/privacy/opt-out) of our website.
+  * You can also opt-out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <http://www.aboutads.info/choices/> page.
+  * You can opt-out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <http://aboutads.info/choices>.
 
-  
-**Disclosure Exceptions** Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary: 
 
-  * To comply with legal process such as a search warrant, subpoena or court order;
-  * To protect the company's rights and property;
-  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-  * To protect against misuse or unauthorized use of our web site and/or the MyBizCard service; or 
-  * During emergencies, such as when we believe someone's physical safety is at risk.
-  * Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.
 
-  
-**YOUR CONTROL OVER YOUR PERSONAL INFORMATION**
+##### Mobile Advertising IDs
 
-At any time, you can change choices you have previously made as to the use of your personal information. Every communication MyBizCard sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Please allow five to seven days for processing. If you are a registered member, you have the ability to review and correct your personally identifiable information at any time. Simply sign into the site and click on account settings. 
+  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
+  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
 
-  
-**Protection For Children - COPPA Compliance** We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13. The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, please visit the Federal Trade Commission COPPA Web Site.
 
-**Sale of Assets** In the event that MyBizCard and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring MyBizCard's assets. In the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information as to how you can change your privacy preferences. 
 
-**Data Security** When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. In addition to our online security efforts, we take steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer support representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment using industry-standard protections. 
+Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
 
-**Changes to the Privacy Policy** MyBizCard will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When MyBizCard posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of MyBizCard Sites. As always, if you have any questions, please feel free to contact us using the form on the site.
+Your choice to opt-out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.
+
+We comply with privacy choice requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, a privacy choice request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
+
+### Accountability
+
+Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (“NAI”) and the [Digital Advertising Alliance](http://www.aboutads.info/) (“DAA”) and adheres to each organization’s Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
+
+Aggregate Knowledge adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. You may learn more about our participation in the EDAA’s program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67 "TRUSTe Privacy")
+
+### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Neustar, Inc. and its subsidiaries (i.e., Neustar Information Services, Inc., Aggregate Knowledge, Inc., MarketShare Holdings, Inc., Registry Services, LLC, Data Solutions Services, LLC, and Security Services, LLC, together, “Neustar”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+Neustar is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Neustar complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website here, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+European residents may also opt-out of the use of AK Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+### TRUSTe Certification
+
+Neustar, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+The TRUSTe program covers only information that is collected through this Web site, and the, IP Intelligence, PlatformOne, and UltraDNS platforms.
+
+### The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+### Questions? Comments?
+
+Send us an email at: [privacy@team.neustar](mailto:privacy@team.neustar)
