@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivri.nic.in privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221063831id_/http%3A//ivri.nic.in/OtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivri.nic.in privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626075613id_/http%3A//ivri.nic.in/OtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Official Website:: Indian Veterinary Research Institute
 
