@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adagio.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215223515id_/http%3A//www.adagio.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adagio.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627005935id_/http%3A//www.adagio.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Adagio Teas - Privacy Policy
 
