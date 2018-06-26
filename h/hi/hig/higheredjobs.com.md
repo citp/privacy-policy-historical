@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904211148id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626023418id_/https%3A//www.higheredjobs.com/company/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs
 
@@ -14,7 +14,7 @@ Internet Employment Linkage Inc., publisher of HigherEdJobs.com, has created thi
 
 ## THE INFORMATION WE COLLECT AND HOW WE USE IT
 
-A. Anonymous Information. You can always browse the Public Site and search for posted positions without providing any personally identifiable information to HigherEdJobs.com. We gather general information about the number of users browsing the website, the number of users who view certain posted positions, and how users navigate through our Web Site. This information is collected anonymously and only in the aggregate. We use this information to provide aggregated statistical feedback to the institutions posting positions on our website, to publicize our website and to further develop our website to maximize the benefits realized by our users.
+A. Aggregate Information. You can always browse the Public Site and search for posted positions without providing any personally identifiable information to HigherEdJobs.com. We gather general information about the number of users browsing the website, the number of users who view certain posted positions, and how users navigate through our Web Site. This information is collected only in the aggregate. We use this information to provide aggregated statistical feedback to the institutions posting positions on our website, to publicize our website and to further develop our website to maximize the benefits realized by our users.
 
 B. Personally Identifiable Information. HigherEdJobs.com collects personally identifiable information when you register for a personal account through HigherEdJobs.com, create a Resume Profile and when you elect to receive information from us through Insider Update or other similar "opt-in" services we may provide. "Opt-in" services are only offered when the user purposefully checks a box or another method of indicating their specific intention of being included for the service so provided. When you create a user ID and password, we collect your name, e-mail address, state and country of residence, academic/administrative focus, years in higher education and years of work experience. We may also request other information such as your ZIP Code, career level, highest degree earned, salary level and professional affiliations. Any information you provide to HigherEdJobs.com when registering for a personal account is maintained and accessible only by HigherEdJobs.com. We use this information in the aggregate for demographic purposes. We may use that information to e-mail you information about maintenance schedules, new institutional subscribers information, as well as special promotions and other general updates from HigherEdJobs.com or third parties that may be relevant to you and your search for a position in higher education. HigherEdJobs.com provides you with the opportunity to opt-out of these types of communications. If you choose to receive these types of communications at the time of registration or by opting in for a particular service, and later decide you no longer want to receive them, simply follow the opt-out procedures contained on the website. WE DO NOT SELL OR OTHERWISE SHARE ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH ANY THIRD PARTY OTHER THAN IS OUTLINED IN THIS PRIVACY POLICY.
 
@@ -41,13 +41,11 @@ G. Third Party Advertisers. The ads appearing on this website are delivered to u
 
 Our third party advertisers use cookies, which allow it to recognize a user's cookie when a user visits this site. The information that our ad server collects and shares through this technology is not personally identifiable.
 
-If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
 H. Blogs. Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [jobseeker@higheredjobs.com](mailto:jobseeker@higheredjobs.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
 ## DISCLOSURE OF INFORMATION
 
-In certain situations, Internet Employment Linkage may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+In certain situations, Internet Employment Linkage may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements. 
 
 Except as described in this Privacy Policy, we do not disclose information about your individual visits to our site, or personally identifiable information that you provide, such as your name, e-mail address, faculty area, or professional associations to any outside parties. (We may disclose your personally identifiable information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request). 
 
@@ -93,7 +91,7 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 1/05/2017
+Last Updated: 11/17/2017
 
 ## CONTACT US
 
