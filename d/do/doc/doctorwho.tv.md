@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorwho.tv privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164515id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwho.tv privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626023741id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
