@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120023630id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626184721id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
             <base href="http://www.freePRnow.com/">
  
         
         <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from freePRnow.com" href="http://www.freePRnow.com/rss.xml"> <!-- for blogs et al to know where rss file is -->
-        <link rel="image_src" href="http://www.freePRnow.com/Images/logofprn1.png">   <!-- For Facebook -->
+        <link rel="image_src" href="/Images/logofprn1.png">   <!-- For Facebook -->
 
         <title>Online Free Press Release PR Distribution Submission Service Websites</title> 
         <meta name="description" content="freePRnow – Submit news on free press releases submission websites by our online PR distribution service sites to make your news available to journalists, new sites for maximum exposure."> 
@@ -20,8 +20,8 @@
 
         
 
-        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="http://www.freePRnow.com/BWStyles.css">    <!-- http://stackoverflow.com/questions/1634449/relative-urls-in-sharepoint-master-page/3898034#3898034 -->
-        <link id="ctl00_Link2" rel="shortcut icon" href="http://www.freePRnow.com/Images/favicon.ico">
+        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="/BWStyles.css">    <!-- http://stackoverflow.com/questions/1634449/relative-urls-in-sharepoint-master-page/3898034#3898034 -->
+        <link id="ctl00_Link2" rel="shortcut icon" href="/Images/favicon.ico">
 
         <script type="text/javascript" language="Javascript1.2">
             <!--
@@ -119,6 +119,7 @@
             function objCount(objThis, objID, objMax) {
                 objObj = createObject(objID);
                 objVal = objThis.value;
+                //if (objVal) objVal = objVal.replace(/(\r\n)/g, '\n');   // USE objVal.replace(/(\r\n)/g, '\n') OR objVal.replace('\r\n', '\n')
 	            if (objVal.length > objMax) objVal = objVal.substring(0, objMax);
 	            //if (objObj) objObj.innerText = objMax - objVal.length;
 	            if (objObj) objObj.innerHTML = objMax - objVal.length;
@@ -151,37 +152,79 @@
         <!-- ENDDFP -->
     </head>
     <body>
-        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjQ5ODA0NjkPZBYCZg9kFgYCAw8WAh4EVGV4dAVUPHRpdGxlPk9ubGluZSBGcmVlIFByZXNzIFJlbGVhc2UgUFIgRGlzdHJpYnV0aW9uIFN1Ym1pc3Npb24gU2VydmljZSBXZWJzaXRlczwvdGl0bGU+ZAIFDxYCHwAF4gE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iZnJlZVBSbm93IOKAkyBTdWJtaXQgbmV3cyBvbiBmcmVlIHByZXNzIHJlbGVhc2VzIHN1Ym1pc3Npb24gd2Vic2l0ZXMgYnkgb3VyIG9ubGluZSBQUiBkaXN0cmlidXRpb24gc2VydmljZSBzaXRlcyB0byBtYWtlIHlvdXIgbmV3cyBhdmFpbGFibGUgdG8gam91cm5hbGlzdHMsIG5ldyBzaXRlcyBmb3IgbWF4aW11bSBleHBvc3VyZS4iIC8+ZAIHDxYCHwAFjAI8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iRnJlZSBQUiBXZWJzaXRlcywgUHJlc3MgUmVsZWFzZSBTaXRlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFdlYnNpdGVzLCBTdWJtaXQgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgU3VibWlzc2lvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIERpc3RyaWJ1dGlvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIFNlcnZpY2UiIC8+ZGT2vb12bYSpwLFdHEPrKKUX1tAyfw==">
+        <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjQ5ODA0NjkPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgYCAw8WAh4EVGV4dAVUPHRpdGxlPk9ubGluZSBGcmVlIFByZXNzIFJlbGVhc2UgUFIgRGlzdHJpYnV0aW9uIFN1Ym1pc3Npb24gU2VydmljZSBXZWJzaXRlczwvdGl0bGU+ZAIFDxYCHwEF4gE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iZnJlZVBSbm93IOKAkyBTdWJtaXQgbmV3cyBvbiBmcmVlIHByZXNzIHJlbGVhc2VzIHN1Ym1pc3Npb24gd2Vic2l0ZXMgYnkgb3VyIG9ubGluZSBQUiBkaXN0cmlidXRpb24gc2VydmljZSBzaXRlcyB0byBtYWtlIHlvdXIgbmV3cyBhdmFpbGFibGUgdG8gam91cm5hbGlzdHMsIG5ldyBzaXRlcyBmb3IgbWF4aW11bSBleHBvc3VyZS4iIC8+ZAIHDxYCHwEFjAI8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iRnJlZSBQUiBXZWJzaXRlcywgUHJlc3MgUmVsZWFzZSBTaXRlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFdlYnNpdGVzLCBTdWJtaXQgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgU3VibWlzc2lvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIERpc3RyaWJ1dGlvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIFNlcnZpY2UiIC8+ZGQ2mSTOZ849ZLHrJW0gx5oHrnXCLmRK11Mfbk8SZVQwjg==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=f8Fojdh1Sx1-YPHhHxk7TeYAcn34OVUUFtrK26Usuu09stIN570a8r2HFR2c8x0HsqVhDgqcEwFTeXNgX9DA1afbug5R9oQ67k_1HpU78X2SFP_JsrPXrRqSBqKIR6uKjL8YopeC0WHR-iTV2pw9Xw-wP6U1&amp;t=ffffffffbcb9b94a" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-            
+<script src="/WebResource.axd?d=HK7vYakE2K3UR2Uc2ex04qIGdzjaFXlaTcuj4QjeevUkroqN9U5X_HqaUDcUoMIjSX0dvQn6hSQJt0rDXAEfkfGXc2J2m-LbOj2y2mTs4Ww1&amp;t=636426804960000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=Dike2-osNwNAmSEbYb_qKl4m2unx2TiDncUTv5zkGrRxw8q0eguGpM0ISy0fb16rfeCFRKpB_a178TuGNB68ZfDCI9TKKGOlkezwcS7vWNfdHazqlHCTOKmPpLrpowehkWBHZr_jtWuo1Pxqzms4mQps9FNVsnzNg0pXBo4JNo2r8C4ZDhh8YwdMQlw7SrHP0&amp;t=72fc8ae3" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=egRnzD8jTKx6k1nBm0l61yB84OrJM9ANHv9drLcx_7jp6ppseMJ2tRE9_pzHs4AQ3XpazDYlXsPlyk3A14EEDtqPMNDSEQzbWsDdUj6NbwLN1caQtgJP7WtTJJ5ko4AiULlicF-CvIa34BNRtbSq5pIsmCVtk2kg8ugyl6q0LZlsa_7HRGxV9X7QDoOK6w9O0&amp;t=72fc8ae3" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+</div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
             <!-- NAVTOP -->
             <table class="NavTop_Table" width="900" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                 <td class="mainHeader" align="left" bgcolor="#D3E6FF" valign="top">
-                    <img id="ctl00_Image1" alt="" border="0" src="http://www.freePRnow.com/Images/NavTop_left.png" height="100" width="10">
-                    <a href="http://www.freePRnow.com" class="logoLink"><img id="ctl00_Image2" title="freePRnow.com" alt="freePRnow.com" border="0" src="http://www.freePRnow.com/Images/logo.png" height="100" width="250"></a>
+                    <img id="ctl00_Image1" alt="" border="0" src="http://www.freePRnow.com/Images/NavTop_left.png" style="height:100px;width:10px;border-width:0px;">
+                    <a href="http://www.freePRnow.com" class="logoLink"><img id="ctl00_Image2" title="freePRnow.com" alt="freePRnow.com" border="0" src="http://www.freePRnow.com/Images/logo.png" style="height:100px;width:250px;border-width:0px;"></a>
                 </td>
                 <td class="mainHeader" align="right" bgcolor="#D3E6FF" valign="top">
-                    <a id="ctl00_join" href="http://www.freePRnow.com/Join.aspx">Join</a>&nbsp;|
-                        <a id="ctl00_login" href="http://www.freePRnow.com/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                    <img id="ctl00_Image3" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/NavTop_right.png" height="100" width="10">
+                    <a id="ctl00_plans1" href="/plans.aspx">Plans</a>&nbsp;|
+                        <a id="ctl00_login" href="/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                    
+                </td>
+                <td class="mainHeader" align="right" bgcolor="#D3E6FF" valign="top">
+                    <img id="ctl00_Image3" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/NavTop_right.png" style="height:100px;width:10px;border-width:0px;">
                 </td>
                 </tr>
 
                 <tr>
-                <td colspan="2">
-                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image4" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Left.png" height="32" width="51"></div>
-                    <div class="NavTop_Link1"><a id="ctl00_NavTop_L1" href="http://www.freePRnow.com/submitPR.aspx"></a></div>
-                    <div class="NavTop_Link2"><a id="ctl00_NavTop_L2" href="http://www.freePRnow.com/Directory.aspx"></a></div>
-                    <div class="NavTop_Link3"><a id="ctl00_NavTop_L3" href="http://www.freePRnow.com/SEO.aspx"></a></div>
-                    <div class="NavTop_Link4"><a id="ctl00_NavTop_L4" href="http://www.freePRnow.com/RSS.aspx"></a></div>
-                    <div class="NavTop_Link5"><a id="ctl00_NavTop_L5" href="http://www.freePRnow.com/FAQs.aspx"></a></div>
-                    <div class="NavTop_Link6"><a id="ctl00_NavTop_L6" href="http://www.freePRnow.com/Contact.aspx"></a></div>
-                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image5" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Right.png" height="32" width="49"></div>
+                <td colspan="3">
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image4" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Left.png" style="height:32px;width:51px;border-width:0px;"></div>
+                    <div class="NavTop_Link1"><a id="ctl00_NavTop_L1" href="/submitPR.aspx"></a></div>
+                    <div class="NavTop_Link2"><a id="ctl00_NavTop_L2" href="/directory.aspx"></a></div>
+                    <div class="NavTop_Link3"><a id="ctl00_NavTop_L3" href="/SEO.aspx"></a></div>
+                    <div class="NavTop_Link4"><a id="ctl00_NavTop_L4" href="/rss.aspx"></a></div>
+                    <div class="NavTop_Link5"><a id="ctl00_NavTop_L5" href="/FAQs.aspx"></a></div>
+                    <div class="NavTop_Link6"><a id="ctl00_NavTop_L6" href="/Contact.aspx"></a></div>
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image5" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Right.png" style="height:32px;width:49px;border-width:0px;"></div>
                 </td>
                 </tr>
             </tbody></table>
@@ -274,9 +317,9 @@
                 </tr>
             
                 <tr> 
-                <td height="15"><img id="ctl00_Image6" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
+                <td height="15"><img id="ctl00_Image6" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BL.gif" style="height:15px;width:15px;border-width:0px;"></td>
                 <td style="background-image:url(Images/mod_CCCCCC_BM.gif); background-repeat: repeat-x;"></td>
-                <td height="15"><img id="ctl00_Image7" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
+                <td height="15"><img id="ctl00_Image7" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BR.gif" style="height:15px;width:15px;border-width:0px;"></td>
                 </tr>
             </tbody></table>
             <!-- end MOD WRAPPER -->
@@ -284,17 +327,9 @@
             <table class="NavTop_Table" width="900" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr><td>
                     <table width="100%" cellpadding="2" cellspacing="0" style="text-align:center">
-                        <tbody><tr><td class="ContentXSmall">&nbsp;</td></tr>        
-                        <tr>
+                        <tbody><tr>
                         <td style="text-align:center">
-                            <a id="ctl00_HyperLink1" href="http://www.freePRnow.com">Free Press Releases</a>&nbsp;|
-                            <a id="ctl00_HyperLink2" href="http://www.freePRnow.com">Online Press Release Distribution</a>&nbsp;|
-                            <a id="ctl00_HyperLink3" href="http://www.freePRnow.com">Submit Free Press Releases</a>&nbsp;|
-                            <a id="ctl00_HyperLink4" href="http://www.freePRnow.com">Free PR Websites</a>
-                        </td>
-                        </tr>
-                        <tr>
-                        <td style="text-align:center">
+                            <a id="ctl00_plans" href="http://www.freePRnow.com/plans.aspx">Plans</a>&nbsp;|
                             <a id="ctl00_faqs" href="http://www.freePRnow.com/FAQs.aspx">FAQs</a>&nbsp;|
                             <a id="ctl00_contact" href="http://www.freePRnow.com/Contact.aspx">Contact Us</a>&nbsp;|
                             <a id="ctl00_tnc" href="http://www.freePRnow.com/TnC.aspx">Terms &amp; Conditions</a>&nbsp;|
@@ -305,14 +340,15 @@
                     </tbody></table>
                 </td></tr>
             </tbody></table>
-        
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
+
+          <!--Spinner-->
+          <div id="loader">
+            <div class="loadingmessage">
+              <img class="spinner" src="/Images/spinner.gif">
+            </div>
+          </div>
+        </form>
 
         <!-- For Google Analytics -->
         <script type="text/javascript">
