@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128110448id_/https%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626170103id_/https%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
 
 # ClickTheCity Privacy Policy
 
-This privacy policy sets out how Surf Shop uses and protects any information that you give Surf Shop when you use this website.
+This privacy policy sets out how ClickTheCity uses and protects any information that you give ClickTheCity when you use this website.
 
-Surf Shop is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+ClickTheCity is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Surf Shop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 24, 2015.
+ClickTheCity may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 1, 2017.
 
 ##### What we collect
 
@@ -41,13 +41,17 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ##### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+ClickTheCity uses industry standard analytics which gathers limited information on visitors automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, the operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as to help us analyze data and improve the website in order to tailor fit it to customer needs.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Additionally, cookies may be used to provide easier and faster access to ClickTheCity features such as logins and/or repeat visits. A cookie is a small file placed on your computer's hard drive. The file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. But this may prevent you from taking full advantage of the website.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+##### Third-party Advertising Companies
+
+We use third-party advertising companies to serve ads when you visit ClickTheCity. These companies may use information (not including your name, address email address or telephone number) about your visits to ClickTheCity and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+We also use third party cookies to store and collect information when you visit ClickTheCity for tracking purposes. The companies may use information (not including your name, address or telephone number) about your visits to ClickTheCity. We use this data to optimize the performance and experience you’ll have on ClickTheCity.
 
 ##### Links to other websites
 
