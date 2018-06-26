@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222202316id_/http%3A//www.kctv5.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626090302id_/http%3A//www.kctv5.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - KCTV5
+# This Web Site’s Privacy Policy - KCTV5 News
 
 We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site.  Because the success of the Services is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services.  Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
