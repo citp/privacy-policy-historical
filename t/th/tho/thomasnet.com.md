@@ -1,103 +1,254 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107215316id_/https%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626023756id_/https%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
 
-# ThomasNet® - Privacy Statement
+# Thomas Privacy Statement
 
-So that you can better protect your privacy, Thomas Industrial Network Inc. ("THOMAS") provides this Privacy Statement explaining our online information practices and the choices you can make about the way your personal information is collected and used. By using this website, you accept the practices that are described in this Privacy Statement, which is part of the [Terms and Conditions](https://www.thomasnet.com/terms.html) governing the use of this website and the terms and conditions governing any other THOMAS service you use. If, however, any area within or feature offered by this website or other THOMAS website or service sets forth a separate or additional privacy statement, terms and conditions or other policy, then that separate privacy statement, terms and conditions or other policy shall apply in connection with that area, feature, website or service. This Privacy Statement does not apply to personal information that is collected through the websites or other services of THOMAS or its affiliates based outside the United States of America or through any services offered by THOMAS or its affiliates outside the United States of America. 
+Effective as of June 5, 2018
 
-If you do not agree with the practices explained in this Privacy Statement, do not complete the Sign-Up for MyThomas form, create a MyThomas profile, contact us using the "Contact ThomasNet" link on this website or submit any personal information through this website or other THOMAS service. 
+## Purpose
 
-NOTE: Without signing up for MyThomas, you cannot access certain features of this website. 
+Thomas Publishing LLC, including its subsidiaries and affiliates (collectively, “Thomas”, “we” or “us”) respects the privacy of its customers, business partners, and website visitors (collectively “you”). The Thomas Privacy Statement (the “Privacy Statement”) describes the information that we collect, how we obtain the information, and how we may use or disclose that information. This Privacy Statement also describes the measures we take to protect the security of the information and how individuals can contact us about our privacy practices.
 
-**PERSONAL INFORMATION**
+Thomas complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Thomas has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>.
 
-At times, you may voluntarily give us or THOMAS will ask you to provide personal information. For example, you will be prompted to supply us with personal information when signing up to use MyThomas, accessing certain features of this website or other THOMAS services or initiating communication through this website or other THOMAS services. We will use your personal information to, among other things, help customize your site experience, enhance our services and facilitate communications with you or between you and the companies that are a part of THOMAS' database of companies and are listed on this website ("Suppliers") and any other third parties that advertise on this website or provide services, features or information in connection with this website or to THOMAS ("Providers"). 
+## Scope
 
-**Sign Up - MyThomas**
+This Privacy Statement covers our privacy practices with respect to the collection, use, and disclosure of personal information obtained through:
 
-While you do not need to sign up to use this website, you do need to sign up for a MyThomas account to access certain features of it. In those instances, you may be asked for personal and demographic information, including your Name, E-mail Address and Company Name, and you also will be required to choose a username and password that will be used to gain access on subsequent visits to MyThomas. This information will constitute your user profile. While most of your user profile is used internally for site analysis and improvement and other business purposes, some of it is used in compiling reports (see "Reporting" below) for Suppliers, Providers and our affiliates, agents and contractors and in connection with other THOMAS services. However, except as provided or permitted in this Privacy Statement, THOMAS will not disclose, without your consent, or associate with your site usage, any of your personal contact information provided through your MyThomas account. You may edit or change your user profile at any time by logging into MyThomas. If you wish to delete your user profile, use the "Contact ThomasNet" link and ask that your MyThomas account be deleted. 
+  1. Interaction with all Thomas website properties. In addition to its websites, Thomas provides web-based tools which require individuals to log-in to retrieve data or to update product information. These web-based tools and the Thomas website properties, collectively, are referred to as the Thomas Websites (the “Thomas Websites”). 
+  2. Product data management tools and services which include access to CAD and BIM models, product configurators and e-commerce capability, collectively, The Thomas Product Data Solutions (the “Thomas Product Data Solutions”). 
+  3. Marketing services provided to Customers including but not limited to website design & development and inbound marketing services, collectively, the Thomas Marketing Services (the “Thomas Marketing Services”).
 
-**Control of Your Password**
 
-You are responsible for all actions taken with your MyThomas username and password. Therefore, we do not recommend that you disclose your password to any third parties. If you choose to share your username and password with third parties, you are responsible for all actions taken with your MyThomas account. If you lose control of your password, you may lose control over your information (including, but not limited to, information provided when signing up for a MyThomas account or requesting quotes), data, text, software, music, sound, photographs, images, graphics, videos, messages, logos or other materials (collectively, "Content"), whether publicly posted on (including any forums or other public areas) or privately transmitted through (whether to us, other users, Suppliers or Providers) this website, and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
 
-**Communicating With Suppliers and Providers**
+In this Privacy Statement, the Thomas Websites, Thomas Product Data Solutions and Thomas Marketing Services are collectively referred to as the “Service” or “Services”.
 
-When you use the communication features and software applications on this website to initiate contact with Suppliers or Providers, you may be asked to supply contact information required by these companies to respond to your request to contact you. Depending on how you wish the Supplier or Provider to respond to your request, you may be asked to provide certain personal information, including one or more of the following: Name, Telephone Number, Fax Number, Mailing Address and E-mail Address. We will only forward a Supplier or Provider the contact information you provide. 
+You should review this Privacy Statement carefully, because if you do not agree with our practices, you should not use the Thomas Websites. By using the Thomas Websites, you accept and agree to our privacy practices. 
 
-If you choose to call the phone number listed on this website for a Supplier, your phone contact information, including such information as your Phone Number and your Name and Location, may be collected and provided to the Supplier. Additionally, the call may be monitored or recorded if a recorded message or other notification is provided at the beginning of the call to this effect, and the recording made available to the Supplier. THOMAS and its affiliates, agents, contractors or service providers may also monitor, store, review and access such information and call recordings and use them in connection with the provision of services to Suppliers or for business and marketing purposes. 
+## Definitions
 
-Additionally, many Suppliers and Providers may make certain services, information and software applications, such as CAD Drawings or White Papers, available to the users of this website free of charge. Some of these Suppliers and Providers may require that you provide your contact and personal information in exchange for access to these services, information and applications. If you do not provide the required information, you will not be able to access these services, information and applications. Once information has been provided to a Supplier or Provider, it is out of the control of THOMAS and subject to the policies of that Supplier or Provider. 
+For the purposes of this Privacy Statement, where not otherwise defined, the following terms have the meanings set forth:
 
-**Communications from THOMAS**
+**“Customer”** means any entity that purchases Thomas Product Data Solutions or Thomas Marketing Services from Thomas. 
 
-By signing up for a MyThomas account and providing us with your e-mail address, you agree that THOMAS may communicate with you via e-mail concerning the services and operations of THOMAS and this website, including, but not limited to, confirmation, additions or deletions to services, notifications of product enhancements, notifications of service interruption and changes to this Privacy Statement, this website's [Terms and Conditions](https://www.thomasnet.com/terms.html) or other THOMAS policies. By default, users who sign up are "Opted Out" of and will not receive other communications from THOMAS unless they choose to. As part of the MyThomas sign up process, and at any time thereafter, you will have the opportunity to opt in to receive other communications, including newsletters and announcements, from THOMAS, its affiliates, Suppliers or Providers via e-mail by checking the appropriate boxes on the Sign Up/Update Form. All such communications from THOMAS will contain a link or instructions for opting out of future communications. Please Note: To comply with the United States CAN-SPAM act, opting out from future communications from a company or entity will require that your e-mail address be given to that company or entity so that it may be added to the company's or entity's "do not mail" list. 
+**“Providers”** means third parties that advertise on Thomas Websites or provide services, features or information in connection with Thomas Websites.
 
-**Communications from Other Users**
+**“Suppliers”** means companies that are a part of Thomas' database of companies.
 
-You agree that other users may use your Content posted on this website or other THOMAS services (whether on forums or other public areas) or obtained through a related communication or transaction to communicate with you in accordance with this Privacy Statement. 
+## How We Collect Information
 
-**Third Party Services**
+As further described below, we collect information from visitors to the Thomas Websites and users of the Thomas Services from several sources: 
 
-This website may offer services from or in conjunction with other websites, Suppliers or Providers that we feel provide valuable services to our users. Some of these services require registration. As a time saving tool, to save our users unnecessary data entry and to enhance the services offered, we offer to pass certain of your information, including your user profile, to these other websites, Suppliers and Providers. In addition, your use of any software applications, purchasing tools or other services labeled on this website as "Powered by" an entity other than THOMAS will constitute your consent to our sharing of information about you, including your personal information and user profile, with that entity. Once information has been shared with a particular website, Supplier or Provider, it is out of the control of THOMAS and subject to the policies of that website, Supplier or Provider. 
+We collect information you provide to us when you:
 
-**COOKIES**
+  * register for a Thomas Website;
+  * fill out forms on a Thomas Website;
+  * submit data and content via a Thomas Website, participate in bulletin boards, engage in a chat, post a comment, participate in forums or other interactive features of a Thomas Website or request further information or services from us, one of our Customers or other Suppliers listed on the site;
+  * enter a contest or promotion we sponsor;
+  * report a problem with a Thomas Website;
+  * contact us;
+  * complete our surveys; or 
+  * subscribe to our email newsletters.
 
-This website may set cookies on your computer. A cookie is a text file that is placed on your computer by our web server and helps recall your use of this website. Cookies are uniquely generated and assigned to you. The primary purposes of cookies used by this website are to provide convenience, save you time and provide an enhanced experience. For example, we may use cookies to automate login, enable personalization or facilitate your movement through this website and measure site usage. 
 
-However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within and after you visit our website. These companies can send their own cookies to your cookie file. Please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. These third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt-out (if they offer this capability). Currently, we have relationships with AdRoll Advertising Limited. If you would like to be opted-out of AdRoll ad delivery, audience management and behavioral targeting cookies, please [click here](https://app.adroll.com/optout/safari). 
 
-Additionally, You have the ability to control any website's ability to set cookies on your computer through your web browser's (i.e. Firefox or Internet Explorer) privacy settings. Consult the documentation or help files for your web browser for instructions on setting cookie preferences. However, if you do not accept cookies you will not be able to customize your experience on this website. 
+We collect information from third parties as follows:
 
-**OTHER INFORMATION WE COLLECT**
+Thomas may collect reporting and analytics information from third parties in connection with your use of the Services. We automatically collect information from you as you navigate through the Thomas Websites. 
 
-Additionally, THOMAS may keep track of technical information about your computer or mobile device, such as the browser type and version, browser plug-in types and versions and operating system of your computer; the Internet Service Provider (ISP) or other provider you use to access this website, links on this website and certain of our services; and your internet protocol (IP) address, location and time zone setting. To help us understand the use of this website by users, improve your site experience and aid us in marketing and managing this website and our services, we may also collect information as to how you were directed to this website and our services, how you navigate around them, what products or suppliers you browse, which external websites or links you access from this website and details regarding the Suppliers or Providers you contact through this website. This information may be used, among other things, in the reporting, marketing and analysis of this website and its services and features and may be shared with our affiliates, Suppliers, Providers and/or their and our respective agents and contractors. 
+We use cookies to collect information. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to the Thomas Websites. You may refuse to accept cookies by activating the appropriate setting on your browser. You may also set your browser to alert you when cookies are being sent. However, if you do so, please note that some parts of the Thomas Websites may then be inaccessible or function improperly. See more detailed information about what cookies are and how we use them under “Cookies and Other Forms of Automated Collection” below.
 
-**LOGGING**
+Thomas collects personal information on behalf of our Customers from visitors/users who:
 
-We make extensive use of web logging to, among other things, understand the usage of our services, diagnose problems and identify future enhancements to this website. In addition to logging the pages viewed and features used, our logs will also collect referring IP addresses or domain names of users. This information is used, among other things, in the reporting, marketing and analysis of this website and its services and features and may be shared with our affiliates, Suppliers, Providers and/or their and our respective agents and contractors. 
+  * engage in e-commerce transactions via the Services;
+  * submit informational requests and requests for pricing or quotations from Customers.
+  * submit forms that may be required to download CAD or BIM sales drawings or other product information requests.
 
-**WEB BEACONS**
 
-Pages on this website may contain web beacons, sometimes called single-pixel gifs, that allow us to count users who have visited certain pages. Web beacons may be used in conjunction with such features as promotional e-mail messages, online advertising and newsletters. Web beacons collect only a limited set of information and are not used to access your personal information on this website. 
 
-**REPORTING OF INFORMATION**
+Customers, not Thomas, are obligated to obtain consent from Users to collect personal information for these purposes.
 
-THOMAS is able to offer this website for free on the Internet as a direct result of the paid support of the Suppliers and Providers who provide information, applications and other services and advertise on this website. As a result, we provide these Suppliers and Providers with personal information as described above as well as aggregate information; we also provide them with reports of non-personally identifiable information collected on the usage of this website and various features, and information provided during the MyThomas sign up process, which may include information such as your company name, job function, industry or city. 
+## Information We Collect
 
-**OTHER WAYS WE MAY SHARE INFORMATION**
+We collect personal information including, without limitation, company name and address, mailing address, email address, IP address and telephone number. 
 
-It is possible that THOMAS, part of its business or one of its affiliates could merge with, acquire or be acquired by another business entity and your personal information could be among the assets transferred. If this occurs, you will be notified of the change by e-mail, notice on this website or one of our other services. 
+We collect details about your website visits, including, but not limited to, your IP address, usage patterns, traffic data, location data, logs and other communication data and the resources that you access, as well as information about your computer and internet connection, including your operating system and browser type.
 
-We reserve the right to share personal information about you with our affiliates in the course of our business operations. We also reserve the right to share personal information about you when we believe this to be appropriate to comply with the law or in cooperation with legal authorities, to enforce the [Terms and Conditions](https://www.thomasnet.com/terms.html) governing use of this website and the terms and conditions governing the use of our other services, or to protect the rights, property, safety or other interests of THOMAS, its affiliates or its customers. 
+Via persistent cookies we may track your behavior at other websites, including what sites you visit and how long you spend there.
 
-We may share non-personal, non-individually identifiable information about our users with the group of people with whom we share personal information, as well as with other third parties such as agents, contractors, consultants, advertisers and marketing firms. 
+In addition to the foregoing, Thomas may collect information on behalf of Customers who have provided forms residing within the Services, namely 
 
-**DATA SECURITY**
+  * Company name and address.
+  * User’s contact information including, first name, last name, phone number and email address.
+  * Payment information (credit/debit card information) in connection with an ecommerce transaction.
+  * Informational requests and requests for pricing or quotes.
+  * Transactional information about the user’s movements throughout the site.
+  * Demographic information about the user base as a whole.
 
-We use reasonable precautions to keep user information disclosed to us secure. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place commercially reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect. 
 
-We may disclose information we collect to third parties, under contract to us, as required to operate this website, provide certain services or features offered by this website or THOMAS or to perform business functions on our behalf. We will only release this information to those companies that we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties who receive the information. Also, once information has been provided to a third party, it is out of the control of THOMAS and subject to the policies of that third party. 
 
-We also link to a wide variety of other websites. We are not responsible for their terms and conditions or privacy policies or how they collect or treat information about their users. In addition, we are not responsible for the terms and conditions or privacy or information collection policies or practices of the websites from which you access this website or other THOMAS service or of any websites that are linked to this website or other THOMAS service. 
+## How We Use Information Collected
 
-**CHILDREN**
+We use information that we collect about visitors to the Thomas Websites for the following purposes:
 
-This website and its related features are not intended for use by children, and the terms and conditions governing the use of this website and its features require that you must be at least 18 years old to use them. 
+  * To present Thomas Websites and Customer websites and catalogs and their contents in a suitable and effective manner for you and for your computer or mobile device.
+  * To diagnose and resolve technical problems with a Thomas Website and Customer websites and catalogs.
+  * To improve Thomas Websites and Customer websites and catalogs.
+  * To provide you with information, products or services that you request from us or our Customers.
+  * To provide usage reports to Customers who advertise or provide other services on Thomas Websites.
+  * To provide reporting to Customers who provide information, applications and other services.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and Thomas, including without limitation, [Thomas Website Terms and Conditions](https://web.archive.org/terms.html).
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between Thomas and our Customers, including without limitation, [Thomas Website Terms and Conditions](https://web.archive.org/terms.html).
+  * To notify you about changes to a Thomas Website or obtain any required consent.
+  * To allow you to participate in interactive features of a Thomas Website and Customers’ websites and catalogs, when you choose to do so.
+  * For industry analysis, benchmarking, analytics, marketing, and other business purposes.
+  * To track your browsing behavior, such as the pages you visited over time.
+  * To improve your content experience as a newsletter subscriber.
+  * To improve your Thomas Website experience.
 
-**CHANGES TO THIS STATEMENT**
 
-We reserve the right to modify or add to this Privacy Statement from time to time without notice. Such modifications and additions shall be effective immediately upon notice thereof, which may be given by any means, including without limitation by email to the e-mail address of record in your MyThomas user profile or by posting the revised Privacy Statement on this website. You agree that it shall be your responsibility to review any email you may receive from us and notify us promptly in the event you change email accounts or if you would prefer to receive notices from us at a different account from the one you have provided us. All users of this website or other THOMAS service should review this Privacy Statement periodically and prior to any use. YOUR ACCESS OR USE OF THIS WEBSITE OR OTHER THOMAS SERVICE AFTER NOTICE OF MODIFICATIONS OR ADDITIONS TO THIS PRIVACY STATEMENT SHALL CONSTITUTE AND BE DEEMED TO BE YOUR KNOWLEDGE AND ACCEPTANCE OF THOSE MODIFICATIONS AND ADDITIONS (I.E., THAT THE MODIFICATIONS AND ADDITIONS MAY BE APPLIED TO THE INFORMATION WE COLLECT FROM AND ABOUT YOU). No modification to this Privacy Statement by any party other than THOMAS shall be valid or enforceable against THOMAS unless expressly agreed to by THOMAS in a writing signed by a duly authorized officer of THOMAS. 
 
-**CONTACTING THOMAS**
+For example, Thomas uses a third party for reporting and analytics to measure the effectiveness of our Thomas Websites, marketing efforts for the Thomas Websites (for example, the effectiveness of email promotions) and to identify areas for improvement.
 
-If you have any questions regarding this Privacy Statement or wish to change or update any of your information, please contact us via e-mail by clicking [here](https://www.thomasnet.com/contact-privacy.html). 
+### Cookies and Other Forms of Automated Collection 
 
-Or write to us at:
+We use “cookies” to help us improve the Thomas Websites. A cookie is a small piece of data sent from a website and stored on a visitor’s computer by the visitor’s web browser. We use session cookies while you are visiting to obtain information about your general Internet usage and to: 
 
-Privacy Manager  
-ThomasNet  
-Thomas Industrial Network Inc.  
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Thomas Websites.
+  * Speed up your searches.
+  * Authenticate your access to various areas of a Thomas Website.
+  * Recognize you when you return to a Thomas Website.
+  * Track when you respond to surveys.
+
+
+
+We also use cookies on behalf of Customers whose websites and catalogs are hosted by Thomas to: 
+
+  * Track session and identify users. 
+  * Authenticate a user’s access to the Service.
+  * Recognize the user when returning to the Service.
+  * Track session state in the Service. 
+  * Route a browser request to a specific node when multiple nodes are assigned. 
+  * Identify the IP address of the user’s device
+  * Identify the user’s browser type
+  * Identify Web pages the user visited before coming to the website Google vs Email vs Social Media
+  * Recognize the user when returning to the Service. 
+  * Identify what kind of device being used to provide the best user experience. 
+
+
+
+We use third-party ad servers or ad networks, to serve advertisements within and after you visit our website. These companies can also send their own cookies. Please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. These third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt-out (if they offer this capability). Currently, we have relationships with AdRoll Advertising Limited, Optimizely and Tealium. If you would like to be opted-out of these, audience management and behavioral targeting cookies, please visit the individual ad network at the link provided: Ad Roll: <https://app.adroll.com/optout/safari>, Optimizely: [https://www.optimizely.com/legal/opt-out/](https://www.optimizely.com/legal/opt-out), Tealium: <https://tealium.com/privacy/>.
+
+## Sharing of Information We Collect
+
+As set forth more fully above, we collect certain data when you use the Services. We do not share, sell, rent or trade information collected through the Services with third parties for their promotional purposes except as expressly set forth herein, or with your explicit consent.
+
+We may disclose personal information that you provide to us via the Services to the following third parties:
+
+  * Our subsidiaries and affiliates (including those located outside the European Economic Area and Switzerland).
+  * Contractors, business partners and service providers we use to support our business or who provide services on our behalf. Personal information is shared only to the extent necessary for the third party to provide specific services or functions. These third parties (and any subcontractors) are subject to strict data processing requirements and are restricted from utilizing, sharing or retaining your personal information for any other purpose. 
+  * In the event of merger, acquisition, or any form of sale or transfer of some or all of our assets (including in the event of a reorganization, dissolution or liquidation), in which case personal information held by us about our website visitors will be among the assets transferred to the buyer or acquirer.
+  * Our Customers when we provide you with their products and services you have requested.
+  * Customers to enable them to provide their website users with information, products or services that such users request.
+  * If you ask us to contact you about goods and services that may be of interest to you, we may use your personal information or permit selected third parties to use your personal information to provide you with such services.
+
+
+
+We may also disclose your personal information to third parties to:
+
+  * Facilitate communications with you or between you and the companies that appear on the Thomas Websites or newsletters.
+  * Comply with any court order or other legal obligation.
+  * Government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests)
+  * Enforce or apply our Website Terms and Conditions or terms of any other agreement, including agreement between Customer and Thomas pursuant to which the Customer purchased access to the Service.
+  * Protect the rights, property, or safety of Thomas, our Customers, and our Customer’s website visitors or others.
+  * Prevent or stop activity we consider to be illegal or unethical. 
+
+
+
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. 
+
+Solely with regard to the Thomas Websites, we aggregate information we collect to provide usage reports to Customers who advertise or provide other services on Thomas Websites. 
+
+Users may withdraw consent at any time by clicking on the “unsubscribe” link located in the emails sent by Thomas or via your user preference settings. For more information, see the section; Communication Preferences and Choices below.
+
+## Communicating With Suppliers and Providers
+
+When you use the communication features and software applications on Thomas Websites to initiate contact with Suppliers or Providers, you may be asked to supply contact information required by these companies to respond to your request to contact you. Depending on how you wish the Supplier or Provider to respond to your request, you may be asked to provide certain personal information, including one or more of the following: name, telephone number, fax number, postal address and email address. We will only forward a Supplier or Provider the contact information you provide.
+
+If you choose to call a phone number listed on the Thomas Websites for a Supplier or Provider, your phone contact information, including such information as your phone number, name and location, may be collected and provided to the Supplier or Provider. Additionally, the phone call may be monitored or recorded if a recorded message or other notification is provided at the beginning of the call to this effect, and the recording will be made available to the Supplier or Provider. Thomas and its affiliates, agents, contractors or service providers may also monitor, store, review and access such information and call recordings and use them in connection with the provision of services to Suppliers or Providers for business and marketing purposes. 
+
+Additionally, many Suppliers or Providers may make certain services, information and software applications, such as CAD drawings or white papers, available to the users of Services free of charge. Some of these Suppliers or Providers may require that you provide your contact and personal information in exchange for access to these services, information and applications. If you do not provide the required information, you will not be able to access these services, information and applications. Once information has been provided to a Supplier or Provider, it is out of the control of Thomas and subject to the policies of that Supplier or Provider. 
+
+## Public Forums and Comments 
+
+Your contributions in public forums, including comment threads, are posted on and transmitted to other visitors of the Thomas Websites at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other visitors of the Thomas Websites with whom you may choose to share your contributions. Therefore, we cannot and do not guarantee that your contributions will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Thomas Websites. You understand and acknowledge that, even after removal, copies of your contributions may remain viewable in cached and archived pages, or might have been copied or stored by other websites. Proper access and use of information provided on the Thomas Websites, including your contributions, is governed by the [Thomas Website Terms and Conditions](https://www.thomasnet.com/terms.html) and known or suspected violations should be reported to our Privacy Officer via email at [privacy@thomasnet.com](mailto:privacy@thomasnet.com). We recommend that you do not share personal information in your contributions.
+
+## International Transfer of Data 
+
+Thomas may store and process any information collected in connection with the Thomas Websites in any country where we have facilities or in which we engage service providers. A list of Thomas’ global offices is provided below. By using Thomas Websites, you consent to the collection, storage, transfer and processing of information outside of your country of residence, including in the United States.
+
+Thomas Publishing Company  
+5 Penn Plaza  
+New York, NY 10001  
+USA
+
+Genicad, s.r.o.  
+Voctarova 2449/5  
+Budova DOCK1  
+Praha 8 - Liben  
+180 00  
+Czech Republic
+
+Thomas Industrial Network Germany GmbH  
+Bahnhofstrasse 18  
+92224 Amberg  
+Germany
+
+## General
+
+If you ask us to contact you about goods and services that may be of interest to you, we may use your personal information or permit selected third parties to use your personal information to provide you with such services. Users may withdraw consent at any time by clicking on the “unsubscribe” link located in the emails sent by Thomas or via your user preference settings. For more information, see the section; Communication Preferences and Choices below.
+
+### Transfers of Personal Data 
+
+Thomas complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Economic Area and Switzerland to the United States. To learn more about the Privacy Shield Framework and the scope of Thomas’ participation, please visit the Department of Commerce’s website, located [here](https://www.privacyshield.gov/). With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Thomas is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. 
+
+### Data Integrity and Purpose Limitation
+
+Thomas limits collection of personal information to the information that is relevant for the purposes of processing and we will not process such personal information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by you. To the extent necessary for those purposes, we will also take reasonable steps to ensure that personal information is reliable for its intended use, accurate, complete and current. 
+
+### Security Statement 
+
+Thomas maintains reasonable and appropriate measures to protect the personal information obtained through the Service from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+### Accessing and Correcting Your Personal Information 
+
+You may send us an email at [privacy@thomasnet.com](mailto:privacy@thomasnet.com) to request access to, correct or delete any personal information that you have provided to us in connection with the Website. We will make reasonable efforts to respond to such requests, but reserve the right to enforce reasonable limits in cases where the legitimate rights of persons other than the individual would be violated or where the burden or cost of providing access would be disproportionate to the risks to the individual's privacy.
+
+### Customer End-User Data 
+
+Since each Customer is in control of what information, including any personal information, it collects from its users, how that information is used and disclosed, and how that information can be changed, users of the Service must contact the applicable Customer administrator identified within the Customers privacy policy with any inquiries about how the Customer uses and discloses personal information and how to access or correct personal information contained in Customer data.
+
+### Communication Preferences and Choices 
+
+We provide certain choices regarding the information website visitors provide to us. We have created mechanisms to provide you with the following control over your information when using the Thomas Websites. If you do not wish to have your email address used for promotional purposes by Thomas, you may withdraw consent at any time by clicking on the “unsubscribe” link located in the emails sent by Thomas or by contacting the data controller at: [privacy@thomasnet.com](mailto:privacy@thomasnet.com).
+
+### Third Party Websites and Applications 
+
+This Website may link to websites that are not owned or controlled by Thomas. As such, this Privacy Statement does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. In addition, Customers and other third parties, including our business partners and consultants, may develop applications or provide services to you or other third parties using our Service. This Privacy Statement does not apply to information collected by Customers, our business partners and other third parties or third-party applications or services, even if this information is collected using our Websites or Services. 
+
+### Changes to Our Privacy Statement 
+
+Thomas reserves the right to update or change this Privacy Statement from time to time. If we make material changes to this Privacy Statement, we will notify you through an appropriate online notice (and obtain your consent where required by applicable law). Your continued use of the Website or Service is deemed to be acceptance of any updates or changes we make to this Privacy Statement and as such, we ask that you review the Privacy Statement periodically for any updates or changes that we may have made.
+
+### Contact Information 
+
+To ask questions or comment about this Privacy Statement and our privacy practices or if you need to update, change or remove your information, contact us at: [privacy@thomasnet.com](mailto:privacy@thomasnet.com), or
+
+Thomas Publishing LLC  
+Attn: Privacy  
 5 Penn Plaza  
 New York, NY 10001
 
-Revised: September 17, 2015 
+### Independent Recourse Mechanism
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at <http://go.adr.org/privacyshield.html>. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
