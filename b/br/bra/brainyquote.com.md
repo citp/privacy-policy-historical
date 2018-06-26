@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231000939id_/https%3A//www.brainyquote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626124325id_/https%3A//www.brainyquote.com/about/privacy) for the most accurate reproduction.*
 
 # BrainyQuote - Privacy Policy
 
 ## 1\. Introduction
 
-Thank you for visiting BrainyQuote.com, a site designed to inform, inspire, educate and entertain users all around the globe. The website, the corresponding mobile website, and any other websites, webpages or apps operated by us that link to this Privacy Policy (collectively, the "Site") are created by Xplore, Inc., a corporation doing business in the Lone Star State. This Privacy Policy is written to better explain how we collect and use your information, and to cover our caboose in case you plan to sue us because you don't like how we use information, or you're a person who just doesn't like quotes.
+Thank you for visiting BrainyQuote.com, a site designed to inform, inspire, educate and entertain users all around the globe. The website, the corresponding mobile website, and any other websites, webpages or apps operated by us that link to this Privacy Policy (collectively, the "Site") are created by BrainyQuote, Inc., a corporation doing business in the Emerald State State. This Privacy Policy is written to better explain how we collect and use your information, and to cover our caboose in case you plan to sue us because you don't like how we use information, or you're a person who just doesn't like quotes.
 
 BY ACCESSING, USING AND/OR DOWNLOADING THE SITE, YOU SIGNIFY YOUR CONSENT TO THIS PRIVACY POLICY, AND ALSO SIGNIFY YOUR ACCEPTANCE OF OUR [TERMS OF SERVICE](https://web.archive.org/about/terms). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS, DOWNLOAD AND/OR USE THE SITE. We encourage you to review this Privacy Policy frequently, as it may change from time to time. If you do not agree with our policies and practices, your choice is not to use the Site.
 
@@ -130,7 +130,7 @@ We make no guarantees as to the security or privacy of your information. It is i
 
 ## 13\. California Online Privacy Protection Act
 
-Under Section 1798.83 of the California Civil Code, California residents that have an existing business relationship with us may request information about our disclosure of certain categories of personal information to third parties for the third parties' direct marketing purposes. To make such a request, [email us](mailto:service2b@brainyquote.com?subject=California%C2%A0Privacy%C2%A0Rights) with the subject heading "California Privacy Rights." In your request, please confirm that you are a California resident and provide a current California address for our response.
+Under Section 1798.83 of the California Civil Code, California residents that have an existing business relationship with us may request information about our disclosure of certain categories of personal information to third parties for the third parties' direct marketing purposes. To make such a request, [email us](https://web.archive.org/cdn-cgi/l/email-protection#c3b0a6b1b5aaa0a6f1a183a1b1a2aaadbab2b6acb7a6eda0acaefcb0b6a1a9a6a0b7fe80a2afaaa5acb1adaaa2e5ada1b0b3f893b1aab5a2a0bae5ada1b0b3f891aaa4abb7b0) with the subject heading "California Privacy Rights." In your request, please confirm that you are a California resident and provide a current California address for our response.
 
 Please be aware that not all information sharing is covered by the California privacy rights requirements and only information on covered sharing will be included in our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted to addresses other than the email address specified in this section.
 
@@ -146,11 +146,11 @@ This Site is hosted and operated in the United States. However, we and our third
 
 We encourage parents and guardians to spend time discussing with minors their online activity, so as to be fully familiar with the websites they visit and the apps they use. Our Site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Site. If you are under 13, do not use this Site, register an Account, or provide any information about yourself to us, including your name, email address, user name, or password.
 
-It is possible, through fraud or deception, that we may receive personal information from an individual under the age of 13. If we are notified or otherwise become aware of this, we will take reasonable steps to delete that information in accordance with applicable law. If you are the parent or guardian of a child under the age of 13 and you believe your child has provided personal information on our Site without your consent that you would like us to delete, please [email us](mailto:service2b@brainyquote.com?subject=Suggestion).
+It is possible, through fraud or deception, that we may receive personal information from an individual under the age of 13. If we are notified or otherwise become aware of this, we will take reasonable steps to delete that information in accordance with applicable law. If you are the parent or guardian of a child under the age of 13 and you believe your child has provided personal information on our Site without your consent that you would like us to delete, please [email us](https://web.archive.org/cdn-cgi/l/email-protection#dfacbaada9b6bcbaedbd9fbdadbeb6b1a6aeaab0abbaf1bcb0b2e0acaabdb5babcabe28caab8b8baacabb6b0b1).
 
 ## 17\. Contact
 
-Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, please [email us](mailto:service2b@brainyquote.com?subject=Suggestion). 
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, please [email us](https://web.archive.org/cdn-cgi/l/email-protection#8bf8eef9fde2e8eeb9e9cbe9f9eae2e5f2fafee4ffeea5e8e4e6b4f8fee9e1eee8ffb6d8feececeef8ffe2e4e5). 
 
 ## 18\. Terms of Service
 
@@ -160,8 +160,8 @@ To review the BrainyQuote Terms of Service, please click [here](https://web.arch
 
 We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure why you have so much time on your hands, but congratulations on your life of leisure. Quiz coming soon!
 
-**Last updated:** May 30, 2017
+**Last updated:** February 27, 2018
 
-Copyright 2001 - 2017 BrainyQuote.com All Rights Reserved.
+Copyright 2001 - 2018 BrainyQuote.com All Rights Reserved.
 
 Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!
