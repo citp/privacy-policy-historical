@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914134130id_/https%3A//www.endclothing.com/gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endclothing.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626153043id_/https%3A//www.endclothing.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
