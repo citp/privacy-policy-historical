@@ -1,39 +1,22 @@
-> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829223825id_/https%3A//lawnewz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626205720id_/https%3A//lawandcrime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Law News
+# Privacy Policy | Law & Crime
 
 ### Privacy Policy
 
+Updated: 5/24/18
+
+**What’s New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
+
 **INTRODUCTION**
 
-Welcome! The following privacy policy (the “Privacy Policy”) outlines the types of personal information that LawNewz, LLC (“we,” “our,” or “us”) collects when operating services through our website [http://www.lawnewz.com](http://www.lawnewz.com/) the “Site” or “LawNewz”).
+Welcome! The following privacy policy (the “Privacy Policy”) outlines the types of information that LawNewz, Inc. (“we,” “our,” or “us”) collects when operating services through our website [https://lawandcrime.com](https://lawandcrime.com/) the “Site” or “Law & Crime”).
 
-We try to collect as little information as possible while still providing you with a quality service. Your privacy is important to us, and we do our best to protect your personal information and ensure that information is kept private and secure. If you have any questions, please contact us at [office@lawnewz.com](mailto:office@lawnewz.com).
-
-**OVERVIEW**
-
-This section is a user-friendly guide to help you understand our Privacy Policy. It is in no way a replacement, and may not be thought of as the full policy. Know that when you accept this agreement, you are accepting the full LawNewz Privacy Policy.
-
-  * Any time you go on LawNewz or log into your account, you are allowing us to collect information according to this policy. Your use is your consent.
-  * When you visit or use LawNewz, we collect personal information, such as your name, email address, IP address, password, and any other information you provide to us. We do our best to protect this information and generally only use it to make the Site available to you.
-  * We work with third-party services to make LawNewz simpler to use. If you use a third-party service through LawNewz you are also consenting to their privacy policies, so be sure to read those policies as well.
-  * We may place cookies on your computing device to identify you when you visit the Site. You are not required to accept any cookies, but may want to in order to better utilize the full functionality of LawNewz.
-  * We do not sell, rent, or trade any information that you provide us or share any of your information with any third-parties, except: 
-    * When legally necessary;
-    * To provide this information to our partners; or
-    * To protect the safety of our users.
-  * We take reasonable steps to protect your information, but, as a user, you must also protect your username and password from falling into the wrong hands.
-  * We may change parts of this policy from time to time, so it is important to check it frequently. If significant changes are made we will do our best to notify you.
-
-
-
-**HOW YOU ACCEPT THIS POLICY**
-
-When you visit LawNewz, sign up for an account, or otherwise provide us with any personal information you consent to the terms and conditions of this Privacy Policy.
+We try to collect as little information as possible while still providing you with a quality service. Your privacy is important to us, and we do our best to protect your information and ensure that information is kept private and secure. If you have any questions, please contact us at [office@lawnewz.com](mailto:office@lawnewz.com).
 
 **INFORMATION WE COLLECT AND WHY**
 
-In order to provide you with a high quality service and verify your identity, we collect various types of information when you visit LawNewz.
+In order to provide you with a high quality service and verify your identity, we collect various types of information when you visit Law & Crime.
 
 _As a Visitor_
 
@@ -43,40 +26,66 @@ _For Newsletter_
 
 When you create a user account to access our newsletter, we will also collect certain personal information, such as your first, last name, and email address.
 
-Please keep in mind that we may from time to time collect various other types of personal information related to your use of Law. For example, we may ask for additional information if you contact us for technical support. We may collect hardware addresses or unique user identifier numbers. Or, we may collect personal information if we run a promotion or other advertising or marketing event.
+Please keep in mind that we may from time to time collect various other types of personal information related to your use of Law & Crime. For example, we may ask for additional information if you contact us for technical support. We may collect hardware addresses or unique user identifier numbers. Or, we may collect personal information if we run a promotion or other advertising or marketing event.
 
-We use this information to validate your identity, make it easier for you to use the Site, and ensure that you receive important information generated by LawNewz. We also use it in for marketing, advertising, and to improve the Site.
+We use this information to validate your identity, make it easier for you to use the Site, and ensure that you receive important information generated by Law & Crime. We also use it in for marketing, advertising, and to improve the Site.
 
 _Third-Party Services_
 
-We haven’t built every single part of LawNewz from scratch. To run the Site, we utilize various third-party services to maintain LawNewz (collectively “Third-Party Services”). If you authorize us to connect with these Third-Party Services, you grant us the permission to collect certain personal information, such as your name, email address, and any other information that the third-party service makes available to us. Your use of these Third-Party Services is governed by their Terms of Service and Privacy Policies. We will use and disclose such information in accordance with this Privacy Policy.
+We haven’t built every single part of Law & Crime from scratch. To run the Site, we utilize various third-party services to maintain Law & Crime (collectively “Third-Party Services”). If you authorize us to connect with these Third-Party Services, you grant us the permission to collect certain personal information, such as your name, email address, and any other information that the third-party service makes available to us. Your use of these Third-Party Services is governed by their Terms of Service and Privacy Policies. We will use and disclose such information in accordance with this Privacy Policy.
 
-_Cookies_
-
-Like many websites and online services, we may set and access “cookies” on your device when you use our Site. A “cookie” is a small file containing a string of characters that is sent to your computer and stored on your device when you visit a website.
-
-When logging into LawNewz, a cookie is sent to your device that identifies your user account and allows you to successfully access the Site. You are not required to accept any cookies; however if cookies are impaired or disabled, you may not be able to login successfully or some features of LawNewz may not function properly.
+Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
 
 _Analytics_
 
-We use analytics tools, such as Google Analytics, to collect information about your usage of LawNewz (collectively “Analytics Tools”). These Analytics Tools collect information such as how often you visit the Site, what areas of the Site you visit, and what other sites or services you used prior to using LawNewz.
+We use analytics tools, such as Google Analytics, to collect information about your usage of Law& Crime (collectively “Analytics Tools”). These Analytics Tools collect information such as how often you visit the Site, what areas of the Site you visit, and what other sites or services you used prior to using Law & Crime.
 
-Analytics Tools all operate differently. For example, Google Analytics only collects the IP address assigned to you on the date you visit LawNewz, not your name or other identifying information. Although Google Analytics plants a permanent cookie on your computer to identify you as a unique user the next time you visit, the cookie cannot be used by anyone but Google.
+Analytics Tools all operate differently. For example, Google Analytics only collects the IP address assigned to you on the date you visit Law & Crime, not your name or other identifying information. Although Google Analytics plants a permanent cookie on your computer to identify you as a unique user the next time you visit, the cookie cannot be used by anyone but Google.
 
 As of right now, we only use the information we get from Analytics Tools to improve the Site and do not combine the information collected through the use of Analytics tools with personally identifiable information. However, we reserve the right to do so in the future.
 
-Google’s ability to use and share information collected by Google Analytics about your use of LawNewz is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html).
+Google’s ability to use and share information collected by Google Analytics about your use of Law & Crime is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html).
 
-You can prevent Google Analytics from recognizing you on return visits to LawNewz disabling cookies on your browser. You also can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on [here](https://tools.google.com/dlpage/gaoptout).
+You can prevent Google Analytics from recognizing you on return visits to Law & Crime disabling cookies on your browser. You also can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on [here](https://tools.google.com/dlpage/gaoptout).
 
-**HOW WE USE YOUR PERSONAL INFORMATION**
+_Mobile/OTT Apps_
 
-Your personal information is primarily used for the creation of a LawNewz user account profile. As set forth above and in this section, we also use your personal information to:
+Maz Systems operates our mobile and OTT apps. For information on data being collected on those platforms, please see the Maz Systems [Privacy Policy](https://www.mazsystems.com/privacy/).
+
+**Advertising Privacy Statement**
+
+This snippet describes how AdThrive uses data to provide ads to customers inside and outside the EU. Please make sure this snippet is inserted into your privacy policy so it can be fully GDPR-compliant and correctly describe how we use the data of your users.
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+_RevContent_
+
+We use a third-party platform on our site called RevContent to serve recommended content to users. In order to help provide recommendations and promoted content that is relevant to your interests, RevContent automatically collects certain information when you access websites and mobile applications that incorporate the Services. This information reflects information about the websites you visit, the mobile applications you use, and how you interact with our Services.
+
+Browser and Device Information: RevContent collects information about your browser and device, including your browser type, device type, IP address, user agent string, operating system, mobile carrier, and identifiers assigned to your browser or device.
+
+Usage Data: RevContent collects information about the websites and mobile applications you visit that integrate our Services and about the websites that you visit immediately prior to visiting a website that integrates our Services, including the date and time your browser or device accesses such websites and the specific pages accessed.
+
+Click Data: RevContent collect information about the content and ads that you click on within the Services.
+
+If you’d like to learn more about the information RevContent collects, or opt-out, please see their [Privacy Policy](https://faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy).
+
+**HOW WE USE YOUR INFORMATION**
+
+Your information is primarily used to:
 
   * Provide information that you request through the Site and respond to correspondence that we receive from you;
   * Provide, maintain, administer, or expand the Site;
-  * Perform business analyses to improve, or enhance our business, LawNewz and other products and services we offer;
-  * Send you information about LawNewz;
+  * Perform business analyses to improve, or enhance our business, Law & Crime and other products and services we offer;
+  * Send you information about Law & Crime;
   * Contact you when necessary or requested;
   * Customize and tailor your experience of the Site;
   * Send emails and other communications that display content that we think will interest you according to your preferences; or
@@ -84,25 +93,49 @@ Your personal information is primarily used for the creation of a LawNewz user a
 
 
 
-As part of this process, we may aggregate some of your personal information in certain data analyses, and may display this information publicly or provide it to others. When aggregating personal information, we do our best to ensure that the information is not identifiable to any particular user.
+As part of this process, we may aggregate some of your information in certain data analyses, and may display this information publicly or provide it to others. When aggregating information, we do our best to ensure that the information is not identifiable to any particular user.
 
-**WHEN DO WE SHARE YOUR PERSONAL INFORMATION**
+**Cookies  and Other User and Ad-Targeting Technologies**
+
+Like many websites and online services, we may set and access “cookies”, web beacons, or other tracking technologies on your device when you use our Site. A “cookie” is a small file containing a string of characters that is sent to your computer and stored on your device when you visit a website.
+
+When logging into Law & Crime, a cookie is sent to your device that identifies your user account and allows you to successfully access the Site. You are not required to accept any cookies; however if cookies are impaired or disabled, you may not be able to login successfully or some features of Law & Crime may not function properly.
+
+_Disabling Cookies_
+
+Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
+
+We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA’s opt-out program, please go to [http://www.aboutads.info](http://www.aboutads.info/).
+
+_Web Beacons_
+
+We and our Partners may also use “web beacons” or clear GIFs, or similar technologies, which are small pieces of code placed on a Service or in an email, to monitor the behavior and collect data about the visitors viewing a Service or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Service. Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).
+
+_Mobile Device Identifiers and SDKs_
+
+We also sometimes use, or partner with publishers, publisher-facing, or app developer platforms that use mobile Software Development Kits (“SDKs”), or use an SDK with a mobile app that we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and Information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is the mobile app version of a web beacon (see “Web Beacons” above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our Partners deliver certain advertising through mobile applications and browsers based on information associated with your mobile device.
+
+By visiting the Service, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Service through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
+
+Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.
+
+**WHEN DO WE SHARE YOUR INFORMATION**
 
 We do not sell, rent, or trade any information that you provide us or share any of your information with any third parties, except as provided below.
 
-We may disclose personal information in response to service of legal process, such as a court order, summons, subpoenas, or as permitted or required by law when we reasonably believe it is necessary or appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service, which can be found here lawnewz.com/terms.
+We may disclose information in response to service of legal process, such as a court order, summons, subpoenas, or as permitted or required by law when we reasonably believe it is necessary or appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service, which can be found here lawandcrime.com/terms.
 
-We may share aggregated information with third parties, such as demographic and geographic information, and when doing so will attempt to remove your personally identifiable information. We may also disclose potentially personally-identifying information to employees, independent contractors, vendors, and affiliated organizations that: (i) need to know your personal information in order to provide services available on LawNewz; and (ii) have agreed not to disclose your information to others. Some of these employees, contractors, or affiliated organizations may be located outside of your home country. By using LawNewz, you consent to the transfer of such information to them.
+We may share aggregated information with third parties, such as demographic and geographic information, and when doing so will attempt to remove your personally identifiable information. We may also disclose potentially personally-identifying information to employees, independent contractors, vendors, and affiliated organizations that: (i) need to know your personal information in order to provide services available on Law & Crime; and (ii) have agreed not to disclose your information to others. Some of these employees, contractors, or affiliated organizations may be located outside of your home country. By using Law & Crime, you consent to the transfer of such information to them.
 
 Information about our users, including personal information, may be disclosed or transferred to entities, now or in the future, affiliated with us or as part of any merger, acquisition, change of control, debt financing, insolvency, bankruptcy or sale of our assets. Such information may be used in the businesses of any entity so receiving it and you consent to any such transfer.
 
 **DATA RETENTION**
 
-We will retain your data for the life of the Site. If you delete your account, we may retain some personal information that you have provided to us in order to maintain the Site for other users or to comply with relevant laws.
+We will retain your data for the life of the Site. If you delete your account, we may retain some information that you have provided to us in order to maintain the Site for other users or to comply with relevant laws.
 
 **CHILDREN**
 
-LawNewz is intended to be used by adults, not children. We do not knowingly collect information from children under the age of 18 and we do not target our Site to children under the age of 13. If you learn that a child under the age of 18 has used the Site, created a user account, or provided us with personally identifiable information, please contact us at _office@lawnewz.com_
+Law & Crime is intended to be used by adults, not children. We do not knowingly collect information from children under the age of 18 and we do not target our Site to children under the age of 13. If you learn that a child under the age of 18 has used the Site, created a user account, or provided us with personally identifiable information, please contact us at _office@lawnewz.com_
 
 **PROTECTION OF PERSONAL INFORMATION**
 
@@ -114,7 +147,7 @@ Even with all these precautions, we cannot fully guarantee against the access, d
 
 **ONLINE TRACKING AND HOW WE RESPOND TO DO NOT TRACK SIGNALS**
 
-Online tracking is the collection of data about an individual’s internet activity used to deliver targeted advertisements and for other purposes. Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a “Do Not Track” (DNT) or similar feature that signals to websites that a visitor does not want to have his or her online activity and behavior tracked. If an online service elects to respond to a particular DNT signal, the service may refrain from collecting certain personal information about the browser’s user. Not all browsers offer a DNT option and there is currently no industry consensus as to what constitutes a DNT signal. For these reasons, many website operators, including LawNewz, do not take action to respond to DNT signals. For more information about DNT signals, visit _ht_[tp://allaboutdnt.com](http://allaboutdnt.com/).
+Online tracking is the collection of data about an individual’s internet activity used to deliver targeted advertisements and for other purposes. Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a “Do Not Track” (DNT) or similar feature that signals to websites that a visitor does not want to have his or her online activity and behavior tracked. If an online service elects to respond to a particular DNT signal, the service may refrain from collecting certain personal information about the browser’s user.  For more information about DNT signals, visit _ht_[tp://allaboutdnt.com](http://allaboutdnt.com/).
 
 **CHANGES TO THIS POLICY**
 
@@ -126,7 +159,7 @@ Residents of California have the right to request from us certain information wi
 
 **INTERNATIONAL USERS AND VISITORS**
 
-LawNewz is hosted in the United States. Because the Internet is global, you should note that by providing your personal information as an international visitor or user, you are: (i) permitting the transfer of your personal information to the United States which may not have the same data protection laws as the country in which you reside; and (ii) permitting the use of your personal information in accordance with this Privacy Policy.
+Law & Crime is hosted in the United States. Because the Internet is global, you should note that by providing your information as an international visitor or user, you are: (i) permitting the transfer of your information to the United States which may not have the same data protection laws as the country in which you reside; and (ii) permitting the use of your information in accordance with this Privacy Policy.
 
 **QUESTIONS:**
 
@@ -136,7 +169,7 @@ LawNewz is hosted in the United States. Because the Internet is global, you shou
 
 **MAILING ADDRESS**
 
-LawNewz, LLC
+LawNewz, Inc.
 
 1261 Broadway Ave., Suite 508
 
