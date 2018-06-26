@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funcom.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210030357id_/https%3A//www.funcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcom.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626095550id_/https%3A//www.funcom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funcom
 
@@ -65,10 +65,9 @@ In the event Funcom decides to change the Privacy Policy you will receive notice
 
 **_How to access and rectify my information?_**
 
-If you wish to access or rectify the information which Funcom has stored about you, please contact:
+You may Download the Data request form [HERE](https://www.funcom.com/wp-content/uploads/sites/3/2018/05/GDPR_DataRequestForm_Final.docx) Return completed forms to:
 
-Funcom Privacy
-
-Kirkegata 15  
-N-0153 Oslo  
-Norway
+**Funcom Privacy**  
+**Kirkegata 15**  
+**N-0153 Oslo**  
+**Norway**
