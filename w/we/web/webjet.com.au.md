@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629100619id_/https%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626124959id_/https%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet
 
@@ -47,7 +47,7 @@ This allows us to report on demographics for understanding our site’s audience
 
 If you would like to opt-out of customised Google Display Network ads and Google Analytics for Display Advertising you can use [Ad Settings](https://www.google.com/settings/).
 
-Persistent cookies may be used to identify the sites you visit on the Webjet Network and to personalise the advertising that you see when you make future visits to that site or other sites.
+Persistent cookies may be used to identify you when using Webjet websites or make use of our services, to personalise the advertising that you see when you make future visits to that site or other sites.
 
 This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
 
@@ -85,4 +85,4 @@ If at any time you have any concerns or complaints in relation to privacy or the
 
 Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s web site at <http://www.privacy.gov.au/>.
 
-_Last updated 24 November 2015_
+_Last updated 26 July 2017_
