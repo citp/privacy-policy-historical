@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202233755id_/http%3A//www.totalrewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626220017id_/http%3A//caesarscorporate.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Caesars Entertainment Corporation
 
@@ -20,7 +20,7 @@
 
  **CORPORATE PRIVACY POLICY**
 
-We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as “us” “we” and/or “our” refer to Caesars Entertainment Corporation and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at[www.totalrewards.com/our-casinos](http://www.totalrewards.com/our-casinos)) (“Total Rewards Casinos,”), Bill’s Gamblin’ Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill’s Gamblin’ Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term “Total Rewards” refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the [Caesars Windsor Privacy Policy](https://www.caesars.com/caesars-windsor/privacy).
+We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as “us” “we” and/or “our” refer to Caesars Entertainment Corporation and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at [www.totalrewards.com/our-casinos](http://www.totalrewards.com/our-casinos)) (“Total Rewards Casinos,”), Bill’s Gamblin’ Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill’s Gamblin’ Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term “Total Rewards” refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the [Caesars Windsor Privacy Policy](https://www.caesars.com/caesars-windsor/privacy).
 
  **Our Privacy Principles**
 
@@ -88,7 +88,7 @@ We may also disclose your Personal Information to third parties for the followin
 
 If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set.
 
-If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf)([PDF](http://get.adobe.com/reader/)), complete it and mail it to:
+If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf)([PDF](http://get.adobe.com/reader/)), complete it and mail it to:
 
 Caesars Operating Company, Inc.  
 ATTN: Loyalty Marketing  
@@ -140,9 +140,7 @@ We may from time to time send promotional materials to you by direct mail. If yo
 
  **YOUR CHOICE TO SHARE INFORMATION**
 
-If you are an Action Club customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please[click here](http://app.harrahs-marketing.com/glba/unsub/unsub.cfm?s=GLBA)‚ and follow the instructions provided.
-
-If you are not an Action Club customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please[click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and mail it to:
+If you are not an Action Club customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf), complete it and mail it to:
 
 Caesars Operating Company, Inc. ATTN: Loyalty Marketing P.O. Box 98905 Las Vegas, NV 89193
 
