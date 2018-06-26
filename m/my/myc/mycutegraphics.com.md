@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904112532id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627003039id_/https%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ####  Privacy Statement for MyCuteGraphics.com 
 
-**MyCuteGraphics.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [MyCuteGraphics.com](http://www.mycutegraphics.com/)
+**MyCuteGraphics.com ( owned and operated by Whimsy Clips L.L.C.)** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [MyCuteGraphics.com](https://www.mycutegraphics.com/)
 
 **Use of the MyCuteGraphics.com website indicates your agreement to our terms set forth in this privacy policy.**
 
@@ -14,7 +14,7 @@ Once you've entered any page on the site your IP address is automatically logged
 
 ####  Advertisers 
 
-Our Current Advertisers Are: Valueclick Media, Google Adsense, Gigya and Burst Media.  
+Our Current Advertisers Are: Valueclick Media, Google Adsense.  
 
 
 ####  Cookies and Web Beacons 
@@ -31,14 +31,10 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Additionaly, MyCuteGraphics.com uses Valueclick Media as one of it's main advertisers. ValueClick may monitor certain pages for the purpose of reporting website traffic, statistics, advertisement 'Click-throughs' and/or other activities on our website. Valueclick may use cookies, web beacons and/or other monitoring technologies to compile "non personally identifiable" statistics about our vistors. For more information about how the information is collected and used by ValueClick please see ValuClick's privacy policy at: <http://www.valueclickmedia.com/member_privacy.shtml>
 
-####  Burst Media 
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact me:   
-graphicsgirl at mycutegraphics.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the site   
+[here](https://www.mycutegraphics.com/feedback.html)
 
   
 
