@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126122315id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627002746id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
 
-# National Institute for the Clinical Application of Behavioral Medicine: Privacy Policy - NICABM
+# Privacy Policy - nicabm
 
 ****(Last Revised: February 11, 2015)****
 
