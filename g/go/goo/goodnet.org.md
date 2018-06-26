@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goodnet.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001144603id_/http%3A//www.goodnet.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnet.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626154312id_/https%3A//www.goodnet.org/pages/privacy_policy) for the most accurate reproduction.*
 
 # Goodnet | Gateway to doing good
-
-GOODNET PRIVACY POLICY
 
 IMPORTANT: BY USING WWW.GOODNET.ORG AND THE SERVICES PROVIDED THEREIN YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY THE COMPANY IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY. 
 
