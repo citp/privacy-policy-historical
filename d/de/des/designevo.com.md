@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the designevo.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004003846id_/https%3A//www.designevo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designevo.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626195758id_/https%3A//www.designevo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### What We May Collect
 
   * Registration Information: the users may be required to register and create an account on the App/website for using certain features on our Site and Services.When you submit your personal information to create an account or otherwise enter into any contractual arrangement in relation to the Services being offered on/through DesignEvo, PearlMountain Limited may collect and retain your name, contact number, email address, profile pictures, and other details of your personal, professional, or demographic profile. Your contact information may be used to communicate with you and we may also maintain the records of such communication.
+  * Payment Information: when you purchase a paid package of our services or otherwise make any transaction on/through DesignEvo, PearlMountain Limited may collect your credit card number, or the details of your other payment instruments that is required in relation to such transactions or your use of the Services. Please acknowledge that we do not retain your credit card number and other sensitive details of your payment instrument. Instead, your credit card details are directly passed to our payment processor. The services of third party payment processor are subject to their own privacy policy, but any payment information that we may receive from our payment processor will be handled according to this Privacy Policy.
   * Usage Information: when you use our Site and Services, PearlMountain Limited may collect your device information, browsing behavior, preferences, requirements, most liked/used image editing tools or services, defaults, disputes, violations, arbitrations, and other details or metadata related to your use of DesignEvo. We may also your personal information or response in relation to any promotional offer or events being organized on DesignEvo.
   * Received Information: Please acknowledge that third party services like Facebook, Pinterest, Twitter, Google Analytics, AdMob, and other marketing, analytics, or social media services may have acertain level of integration with our Site and Services. When you decide to use these integrated services, we may receive some of your personal information from third party services. Any information that we may receive from such third parties will be handled according to this Privacy Policy.
 
@@ -12,7 +13,7 @@
 
 ### Use of Cookies
 
-PearlMountain Limited will never use any kinds of cookies or automated technologies to collect your personally identifiable information on the Site and Services. Any information that can be used or combined with other data to uniquely identify or contact you will be collected only when you voluntarily submit or share that information to create an account, subscribe to newsletters or other services, respond to any promotional offer, submit your feedback, or otherwise use the Site and Services.
+PearlMountain Limited will never use any kinds of cookies or automated technologies to collect your personally identifiable information on the Site and Services. Any information that can be used or combined with other data to uniquely identify or contact you will be collected only when you voluntarily submit or share that information to create an account, subscribe to newsletters or other services, make a transaction, respond to any promotional offer, submit your feedback, or otherwise use the Site and Services.
 
 However, we may use cookies, identifiers, and other automated tools and techniques to collect certain statistical information on the Site and Services. Cookies are small text files that store information related to your device and usage of the Services. Cookies enable certain functionalities, monitor and analyze the performance, and provide a very instrumental role in improving the effectiveness of our Site and Services. PearlMountain Limited may use cookies to:
 
@@ -28,17 +29,19 @@ However, we may use cookies, identifiers, and other automated tools and techniqu
 
 PearlMountain Limited may use the services of Google Analytics, AdSense, AdMob, Facebook, and/or other third party marketing platforms/services to analyze traffic, understanding the demographic profile of the users, target advertisements, and monitor or improve certain features on our Site and Services.These third parties may be using their own cookies and identifiers to collect your personal information in relation to their services or ad serving on this website. For example, Google uses DoubleClick DART cookies to serve ads on the basis of your interests. These DART cookies reside on your device even when your DesignEvo session has ended and are successfully logged out.
 
-### What if not comfortable with the use of cookies?
+### What If Not Comfortable with the Use of Cookies
 
 If you are not comfortable with the use of cookies and automated tools, you can reject our or third party cookies by changing the configuration preferences of your device, browser, and the App. You may also use any third party software that block cookies and tracking tools. For disabling DoubleClick DART cookies, please visit the respective opt-out pages of Google Analytics and AdSense. However, you should acknowledge that certain functionality or performance cookies may be necessary or required for the proper functioning of our Site and Services, and if you disable such cookies may prevent you from using DesignEvo or negatively affect your experience on the Services.
 
-### How we use your Information
+For more details, please read our [Cookie Policy](https://www.designevo.com/cookie_policy.html).
+
+### How We Use Your Information
 
 PearlMountain Limited may use your personal information to:
 
   * Uniquely identify you on the Site and Services
-  * Help you create an account, and use DesignEvo/Services in a hassle-free manner.
-  * Pursue/follow up your requests to ensure that our service providers take your requests seriously.
+  * Help you create an account, make transactions, and use DesignEvo/Services in a hassle-free manner.
+  * Pursue/follow up your requests/transactions to ensure that our service providers take your requests seriously.
   * Facilitate third parties to offer relevant ads and deals on products and services in case you consent to receive such offers.
   * Send newsletters and information about new features, services, and technologies to inform how they are different or more advanced than what you have already used or familiar with.
   * Send notifications regarding your account status, use of the Services or the changes in our terms and conditions, including this Privacy Policy.
@@ -52,7 +55,7 @@ PearlMountain Limited may use your personal information to:
 
 PearlMountain Limited will never sell, rent, lease, share, or disclose your personal information to third parties for direct marketing purposes unless you have given your explicit consent to receive promotional offers and exclusive deals from third party marketing companies, service providers or other business entities. You can revoke your consent at any time as mentioned in this Privacy Policy.
 
-However, we reserve a right to share your personal information with our trusted partners, service providers, and other third parties who perform your requests on our behalf and make it possible to run our Site and Services. For example, we may share your personal information with our service providers for account authentication, database management, service delivery, business promotion, or any other aspect of the Services being offered on the App/website.
+However, we reserve a right to share your personal information with our trusted partners, service providers, and other third parties who perform your requests on our behalf and make it possible to run our Site and Services. For example, we may share your personal information with our service providers for account authentication, database management, service delivery, business promotion, or any other aspect of the Services being offered on the App/website. For example, we may share your credit card details with our payment processor so that you can purchase a paid package or make a transaction on/through DesignEvo a hassle-free manner. Similarly, we may share your personal information with our service providers for account authentication, database management, service delivery, business promotion, or any other aspect of the Services being offered on the App/website.
 
 When sharing your personal information with our service providers or other third parties, no additional information will be shared except what may be necessary or required by them to perform or deliver your requested services. All such third parties who may have access to or with whom we have shared your personal information will be obligated to maintain the security and confidentiality of your personal information. However, PearlMountain Limited will not be liable for any subsequent violation of your privacy rights by such third parties.
 
@@ -84,7 +87,7 @@ You can use the following options to manage your privacy on our Site and Service
 
 Your privacy on our Site and Services is very important to us. We have implemented internationally accepted standards and safeguards, including the physical, electronic and procedural security measures to ensure that your personal information on DesignEvo or this website is never compromised, misused, altered, deleted, or lost.
 
-Please acknowledge that your use of third party services is subject to your consent to the terms and privacy policies of the respective service providers. Any information that we may receive from such third parties will be handled according to this Privacy Policy.
+We will never store your payment information on our servers. Your payment details will be encrypted and directly passed to the third party payment processor. Please acknowledge that your use of third party services is subject to your consent to the terms and privacy policies of the respective service providers. Any information that we may receive from such third parties will be handled according to this Privacy Policy. However, we may receive some of your payment details from our payment processor. Any information that we may receive from such third parties will be handled according to this Privacy Policy.
 
 It shall be your responsibility to ensure that your device and login passwords remain confidential and you are not accessing our Site and Services from any device with compromised or vulnerable run-time environment. You should also ensure that your device does not have any non-enterprise application with permissions to access the data on your device.
 
@@ -92,7 +95,7 @@ Please acknowledge that the Services involve the international transmission of d
 
 We will take every commercially reasonable security measures to handle your personal information in accordance with this Privacy Policy, but PearlMountain Limited shall not be liable for any breach of data transmissions or encryption algorithms, security vulnerabilities or hacking of DesignEvo, unauthorized access, alteration, deletion, loss, or misuse of your personal information and/or images on our Site and Services. You shall use the App/Services at your own risks and discretion.
 
-### Links to third party websites
+### Links to Third Party Websites
 
 This App/website may contain links or ads to third party websites, services, or content. Such links may be included to provide useful information related to photo editing and graphic design so that you can handle your photo imaging projects like a true professional. However, third-party websites are subject to the terms and policies of the respective providers and we do not control any product, service, or content, including the views, reviews, testimonials, information, advice, suggestions, or recommendations being featured or made available on the third party websites.
 
