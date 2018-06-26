@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214011757id_/http%3A//www.red.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626021106id_/http%3A//www.red.com/legal) for the most accurate reproduction.*
 
 # RED Digital Cinema - Privacy Policy
 
 ## Privacy Policy
 
 RED’s privacy and security measures are designed with the strictest security in mind, so any personal information that you provide to RED is used for the purpose of receiving RED communications and for personalizing and enhancing your web experience with RED. RED’s privacy policy is outlined below and tells you how we collect personal information, what information we collect, how we use it, to whom we will disclose it and how you can access, change and remove your information.
+
+If you are in the European Union, please click [here](http://eu.red.com/legal) to read our EU PRIVACY POLICY.
 
   
 
@@ -34,7 +36,7 @@ All personal information that we obtain about you will be recorded, used and pro
 
 
 
-The information we ask for when you order on-line is used only to completethe order, to confirm the order and to confirm shipment of the order. Youmay, upon placement of an order, opt to allow RED to save the informationfor a speedier checkout processthe next time. This information is thenstored only for the purposes of faster checkout and is not used for anyother purpose.
+The information we ask for when you order on-line is used only to complete the order, to confirm the order and to confirm shipment of the order. You may, upon placement of an order, opt to allow RED to save the information for a speedier checkout process the next time. This information is then stored only for the purposes of faster checkout and is not used for any other purpose.
 
 #### COOKIES
 
@@ -97,9 +99,6 @@ Our website’s bunker security system is armed with a sentry system to monitor 
 
 You may request to stop receiving communications from RED at any time. You can choose to cancel emails only, snail mail only or both by calling our customer service department at (949) 206-7900. Also, all emails you receive will provide you with information as to how to get off the email mailing list if you so desire. It takes some time to put opt-outs in effect so you may still receive catalogs or emails from RED for several weeks after your request is received. You may also request to opt-out of RED retaining your personal data by calling our customer service department at (949) 206-7900.
 
-  
-
-
 #### UPDATES TO PRIVACY INFORMATION
 
-Please review the site periodically to see any updates to the information provided here. This privacy policy was last updated on July 29, 2013.
+Please review the site periodically to see any updates to the information provided here. This privacy policy was last updated on May 25, 2018.
