@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071528id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626035840id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## UNDERSTOOD.ORG PRIVACY POLICY HIGHLIGHTS
 
-Last updated: April 11, 2017
+Last updated: May 18, 2018
 
 _This summary provides highlights of our full Privacy Policy. We encourage you to read the full Privacy Policy availablehere. It contains helpful information and guidelines about using Understood.org and protecting your privacy._
 
 We take your privacy very seriously. This policy describes how we use the information you provide when you use Understood.org. By using Understood.org, you consent to the collection and use of your information as described below.
 
 **Understood.org is not intended to be used by children under age 13. If you are under age 13, please do not use Understood.org or provide us with any information.**
+
+**Understood.org currently does not market to or offer services to individuals in the European Union (EU).**
 
 Understood respects your privacy. We are committed to protecting your and your child’s information. Except as we describe below, we will not share it with other parties. We will not sell or lease your personal information.
 
@@ -70,7 +72,7 @@ If you choose to use Understood.org, you understand that:
 
 ## UNDERSTOOD.ORG PRIVACY POLICY
 
-Last updated: April 11, 2017
+Last updated: May 18, 2018
 
 We take your privacy very seriously. This policy describes how we use the information that you provide when using our website, Understood.org. By using Understood.org, you agree to and consent to the collection and use of your information as described below.
 
@@ -93,6 +95,14 @@ If you wish to access the Understood.org community features, you will be require
 Understood.org may also offer you the opportunity to create a full profile. If you decide to create this full profile, we will ask you to identify your child’s specific issue(s)/diagnosis. We’ll ask whether your child has an IEP or a 504 plan. Whether you provide this information is your choice. You may also provide information about your own interests as a parent with respect to information and support available on Understood.org. We will not disclose the information you provide to us in creating your full profile. We may use it to enhance your experience on Understood.org and to improve the information and services available to you on and through Understood.org.
 
 We may also collect your information if you sign up for newsletters or for customized information that we may deliver via emails, if you participate in any surveys we offer as part of our services on Understood.org, or if you post information in a public area (for example you post a question in a public portion of Understood.org).
+
+**European Union**
+
+Understood.org is a U.S.-based site and currently does not market to or offer services to individuals in the European Union (EU).
+
+**If you are located or reside within the EU, please do not sign up for emails, create an account, or provide Understood.org with any personal information.**
+
+In the future, we hope to offer services in the EU. We are working on a plan to comply with the EU’s data privacy laws, including GDPR.
 
 **Children**  
 Understood.org is designed for and intended for use by parents (or guardians) of children who have known or suspected learning and attention issues. It is not designed for or intended for use by children.
