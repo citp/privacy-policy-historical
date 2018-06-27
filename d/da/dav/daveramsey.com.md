@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011172816id_/https%3A//www.daveramsey.com/company/privacy-policy%3Fsnid%3Dfooter.company.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628004852id_/https%3A//www.daveramsey.com/company/privacy-policy%3Fsnid%3Dfooter.company.privacy) for the most accurate reproduction.*
 
 # DaveRamsey.com
 
@@ -107,8 +107,9 @@ Minors under 18 years of age may have the Personal Information that they provide
 
 Please contact us if you have any questions or concerns about our privacy policy. You are welcome to call our Customer Care Center at  **888.22.PEACE**  between 8:30 a.m. and 5:30 p.m. CST to speak with a customer service representative. You may also contact us by e-mail at [privacy@daveramsey.com](mailto:privacy@daveramsey.com).
 
-The Lampo Group  
+### The Lampo Group
+
 1749 Mallory Lane  
-Brentwood, TN 37027
+Brentwood, TN 37027 
 
 Effective Date: May 12, 2017
