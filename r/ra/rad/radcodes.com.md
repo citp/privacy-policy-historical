@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radcodes.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021082049id_/http%3A//www.radcodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radcodes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627144227id_/http%3A//www.radcodes.com/privacy) for the most accurate reproduction.*
 
 # Radcodes | Web Development for SocialEngine Plugins
 
