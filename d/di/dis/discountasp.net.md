@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722154816id_/https%3A//discountasp.net/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627082936id_/https%3A//discountasp.net/policies/privacy) for the most accurate reproduction.*
 
 # DiscountASP.NET policies
 
@@ -12,7 +12,7 @@ This Privacy Policy covers our collection, use and disclosure of information we 
 
 DiscountASP.NET and its parent company Host Collective, Inc. and subsidiary company, Everleap, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-DiscountASP.NET is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DiscountASP.NET complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+DiscountASP.NET is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. DiscountASP.NET complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DiscountASP.NET is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DiscountASP.NET may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -31,6 +31,12 @@ We collect information under the direction of its Clients, and has no direct rel
 We use this information for billing purposes and to fill your orders, to market new products and services to you, and to send you general information (like newsletters) that we think you will be interested in. This Order Information may be aggregated to create an administrative record that includes information related to the products and services provided to you, how you use those services, problems related to the services and notations from our staff about our relationship with you, among other things. 
 
 If we have trouble processing an order, we will use this information to contact you. 
+
+**User Data Supplementation**
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products
 
 **Secure Registration Information Collection**
 
@@ -152,6 +158,6 @@ DiscountASP.NET
 417 East Huntington Drive  
 Suite 200  
 Monrovia, CA 91016  
-[Contact Form](https://web.archive.org/about-us/contact/)
+[Contact Form](https://discountasp.net/about-us/contact/)
 
-Last Update: May 8, 2017
+Last Update: March 20, 2018
