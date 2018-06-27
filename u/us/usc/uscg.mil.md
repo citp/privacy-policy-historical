@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515055939id_/https%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628010238id_/http%3A//www.overview.uscg.mil/Disclaim) for the most accurate reproduction.*
 
-# USCG: Privacy Policy
+# United States Coast Guard > Disclaim
+
+**Web Site Privacy & Security Policy**
 
 **Disclaimer and limitation of liability** This web site and the information it contains is provided as a public service by the U.S. Coast Guard. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution. 
 
@@ -12,7 +14,7 @@
 
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website. 
 
-**What We Collect and Store Automatically**
+**What We Collect and Store Automatically **
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
 
@@ -26,7 +28,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you. 
 
-**If You Send Us E-mail**
+**If You Send Us E-mail **
 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations. 
 
@@ -34,7 +36,7 @@ You may choose to provide us with personal information, as in e-mail with a comm
 
 "Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). This Web site does not use persistent cookies or any other persistent tracking technology. One or more of our component sites may use session cookies to provide streamlined navigation. These session cookies are deleted from the component's server after your session ends and information from them is not collected or saved. 
 
-**Information Protection**
+**Information Protection **
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law. 
 
@@ -56,11 +58,10 @@ United States Coast Guard links to many websites created and maintained by other
 
 
 
-**Retention of Information**
+**Retention of Information **
 
 We destroy the information we collect when the purpose for which it was provided has been fulfilled unless we are required to keep it longer by statute or official policy. Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration and in some cases information submitted to us may become an agency record and therefore might be subject to a Freedom of Information Act request. 
 
-**Notice of Monitoring**
+**Notice of Monitoring **
 
-You are entering an Official United States Government System, which may be used only for authorized purposes. The Government may monitor and audit usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing. Unauthorized attempts to upload information and/or change information on these web sites are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and 18 U.S.C. §§1001 and 1030.  
-
+You are entering an Official United States Government System, which may be used only for authorized purposes. The Government may monitor and audit usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing. Unauthorized attempts to upload information and/or change information on these web sites are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and 18 U.S.C. §§1001 and 1030.
