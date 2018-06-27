@@ -1,111 +1,364 @@
-> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920172811id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627120254id_/https%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms of Use - aescripts + aeplugins - aescripts.com
+# Privacy Policy - aescripts + aeplugins - aescripts.com
 
-**Shipping & Delivery \- Last Updated Feb 12, 2013**
+Effective date: May 25, 2018
 
-All items are delivered electronically via software download immediately after successful checkout.   
-You can find all your downloads and licenses in the '[My Downloads & Licenses](https://web.archive.org/downloadable/customer/products/ "My Downloads & Licenses")' section of your user account. 
+Aescripts, Inc ("us", "we", or "our") operates the https://aescripts.com/ website (the "Service").
 
-**Refund Policy \- Last Updated Feb 12, 2013**
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Purchases are non-refundable.  We offer free trial versions for you to be able to evaluate the products before purchase. If a defect is found after purchase please [contact support](https://web.archive.org/contact "Contact") and a refund will be issued if the problem cannot be resolved.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://aescripts.com/
 
-**Privacy Policy \- Last Updated Aug 8, 2017**
+## **Definitions**
 
-  1. **We strive to preserve the privacy of Users of the Site.  ** This privacy policy (“Privacy Policy”) describes the limited information that we may collect from you and how it may be used with respect to the Site. We may modify the Privacy Policy at any time, with or without notice. Please check the Privacy Policy regularly for any updates. By accessing and using aescripts.com (“the Site”), any of the apps, scripts, plugins or tools we offer ("Apps") or services ("Services), you indicate that you understand and agree to the Privacy Policy and any subsequent changes to the Privacy Policy.
-  2. **Anonymous Analytics.**  We collect anonymous analytics to help us better understand how our audience uses our Site, Apps and Services. This includes information about the User's device such as operating system version, screen resolution, device make and model, coarse location and usage information. We  **do not collect any personal information**  for analytics. The purpose of analytics is to be able to continuously improve our Site, Apps and Services and the experience for our Users.  
-  3. **Information Collected from Regular Browsing.**
+  * **Service**
 
-a. Even if you do not log into the Site, some of your information will be automatically recorded in our server access log.  Whenever you browse or access the Site, we will record information including, but not limited to, your IP address, browser type, web page and/or product/trial accessed, and the date and time of your request. Administrators will also be able to observe this information within their portals. For more details and the exhaustive list of cookies we collect see the How we use cookies section.
+Service is the https://aescripts.com/ website operated by Aescripts, Inc
 
-b. We use this information to observe traffic on the Site and to improve the services and functionality of the Site. We also analyze aggregate User activity on the Site using Google Analytics, which is subject to the privacy policy of Google, Inc. (available on Google’s website).
+  * **Personal Data**
 
-  4. **Information You Provide.**
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-a. When you register for a Member account, we may request basic information about you including, but not limited to, your name, email address, city, state, zip code, country, your Member login name, and your Member password. Please note that we will be able to link your IP address to your Member account. We may use your data to help us deliver better services on the Site when you log into your account.  You may receive personal emails from the the Site regarding new items or versions of products you purchase, including, but not limited to, communications confirming your account status and licensing instructions.
+  * **Usage Data**
 
-b. Please be aware that any personal information that you post in a comment or discussion on the Site can be viewed by the public.  We are not responsible for information that you post in publicly viewable areas.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-  5. **Disclosure of Information.**
+  * **Cookies**
 
-a. Except for your password, all information that we collect from you and any information that you provide can be accessed by our system administrators. 
+  * Cookies are small pieces of data stored on your device (computer or mobile device).
 
-b. We will not share your information with any other parties, but we may be legally required to disclose your information to local law enforcement authorities or other parties in response to warrants, subpoenas, or other valid legal process.
+  * **Data Controller**
 
-  6. **Changing your information.**
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-a. You may log into your account to change any personal information that you had previously submitted to the Site.  Such changes will be reflected promptly on our server.
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-b. When you register for a Member account, you may receive email notifications from the Site.  If you do not want to receive these emails, you may unsubscribe from the email list (either directly from the email or from your Member account on the Site), and the list will be updated immediately to reflect your change.
+  * **Data Processors (or Service Providers)**
 
-  7. **De-activating your account.**
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-a. You may de-activate your Member account by contacting [Support](http://aescripts.com/contact "Contact").
+We may use the services of various Service Providers in order to process your data more effectively.
 
-  8. **Links to Independent Websites.**
+  * **Data Subject (or User)**
 
-a. The Site may display links to independent, third-party websites, including those independent websites administered by Authors or their affiliates.  We are not responsible for any information that third-party websites collect from you.
-
-  9. **Minors.**
-
-a. This website is intended for adults only, and we will not knowingly collect personal information from minors under thirteen (13) years of age. If you are a parent or legal guardian of a minor under age thirteen (13) who you believe has submitted personal information to this site, please contact us immediately.
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
 
 
 
-**Terms of Use \- Last Updated Sep 22, 2016**
+## **Information Collection and Use**
 
-These terms govern your use of our website or software including any plugins, scripts, applications, subscriptions, instruction manuals, and any related documentation (collectively “ **Software** ”). By using the Software, you agree to these terms. 
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-  1. **Eligibility** \- You must be at least 13 years old to use the Software. You may not use the Software for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the Software and your Content created using the Software, including but not limited to, copyright laws.
-  2. **Rights** \- You retain all rights and ownership of your content. We do not claim ownership of any content that you create using the Software.
-  3. **Privacy** \- The Privacy Policy above governs any personal information you provide to us. By using the Software you agree to the terms of the Privacy Policy.
-  4. **Availability** \- Pages describing the Software are accessible worldwide but this does not mean all Software or Software features are always available. We may block access to certain Software (or certain Software features or content) if these terms of use are violated or abused, in our sole discretion. Software is not available in all languages.
-  5. ******Additional Terms** \- Individual products are also subject to the additional terms  “License Terms” which are linked on each product page directly under the price. Any content that we provide to you (such as Software, documentation, sample projects, etc.) are licensed, not sold, to you, and may be subject to Additional Terms. New Additional Terms may be added from time to time.
+### Types of Data Collected 
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Phone number
+  * Billing address, state or province, zip or postal code, city
+  * Cookies and usage data
+  * Browser information and IP address
 
 
 
-**Your acceptance of these terms  \- Last Updated Aug 1, 2017**
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link in any email we send or in your user account [here](https://aescripts.com/monkey/customer_account/index/).
 
-By using our Website, Apps and Service you signify your acceptance of this policy. If you do not agree to this policy, please do not use them. Our privacy policy may change from time to time. Your continued use following the posting of changes to this policy will be deemed your acceptance of those changes.
+#### Usage Data
 
-#### How we use cookies
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+#### Tracking & Cookies Data
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Please see our full Cookie policy below.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-#### List of cookies we collect
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-The table below lists the cookies we collect and what information they store.
+Examples of Cookies we use:
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+We also use log files to track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+
+We also use web beacons. Web beacons (also known as tags or pixels) are electronic files used to record information about how you browse the Site. Web beacons differ from cookies in that the information is not stored on your hard drive, but invisibly embedded on web pages or in email.  Web beacons permit us to track online movements of web users, for example: to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).  This enables us to provide a website experience more tailored to our users’ preferences and interests.
+
+## **Use of Data**
+
+Aescripts, Inc uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## **Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)**
+
+If you are from the European Economic Area (EEA), Aescripts, Inc legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Aescripts, Inc may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## **Retention of Data**
+
+Aescripts, Inc will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Aescripts, Inc will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## **Transfer of Data**
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Aescripts, Inc will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## **Disclosure of Data**
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Aescripts, Inc may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Aescripts, Inc may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Aescripts, Inc
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## **Security of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## **Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Aescripts, Inc aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. In [your user account](https://aescripts.com/customer/account/) you will find tools to download all the data we hold about you as well as delete your account and have all your data anonymized. If you are unable to perform these actions yourself, please [contact us](https://aescripts.com/contact/?direct=1) to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format. 
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Aescripts, Inc relied on your consent to process your personal information. 
+
+
+
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## **Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/> 
+
+
+
+
+### Email
+
+We may use third-party Service Providers to send transactional and marketing emails related to our Service. 
+
+  * **MailChimp**
+
+MailChimp is a email sending service offered by The Rocket Science Group, LLC that allows us to send you transactional and marketing emails. 
+
+For more information on the privacy practices of MailChimp, please visit their privacy policy here: <http://mailchimp.com/legal/privacy>
+
+
+
+
+### Behavioral Remarketing
+
+Aescripts, Inc uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **PayPal**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+  * **Authorize.net**
+
+Their Privacy Policy can be viewed at <https://www.authorize.net/company/privacy/>
+
+
+
+
+## **Links to Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## **Children's Privacy**
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## **Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## **Contact Us**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, or reach our data protection officer, please contact us:
+
+  * By visiting this page on our website: [https://aescripts.com/contact](https://aescripts.com/contact/?direct=1)
+  * Sending a written request to: Aescripts, Inc. Attn: Data protection officer, 18 Francis St, Sleepy Hollow, NY, 10591, United States
+
+
+
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
+
+## **What are cookies**
+
+Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
+
+Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
+
+## **How Aescripts, Inc uses cookies**
+
+When you use and access the Service, we may place a number of cookies files in your web browser.
+
+We use cookies for the following purposes:
+
+  * To enable certain functions of the Service
+
+  * To provide analytics
+
+  * To store your preferences
+
+
+
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
+
+  * Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service.
+
+  * Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality.
+
+  * Analytics cookies. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
+
+
+
+
+## **Third-party cookies**
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+
+## **What are your choices regarding cookies**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+  * For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
+
+  * For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+
+  * For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+  * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
+
+  * For any other web browser, please visit your web browser's official web pages.
+
+
+
+
+## **Where can you find more information about cookies**
+
+You can learn more about cookies and the following third-party websites:
+
+  * AllAboutCookies: <http://www.allaboutcookies.org/>
+
+  * Network Advertising Initiative: <http://www.networkadvertising.org/>
+
+
+
