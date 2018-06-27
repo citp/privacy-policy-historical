@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004459id_/http%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023822id_/https%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
 
-# InMobi | Monetization | Advertising | Remarketing | Video
+# InMobi | Monetization | Advertising | Remarketing | Video | Research Panel
 
 ## Privacy Policy
 
@@ -94,11 +94,11 @@ We use cookies and beacons to help us collect some of the information we have de
 
 We may also use cookies to provide website functionality and advertising to you, and to save you having to provide the information you have already given us on subsequent visits to our site.
 
-For more detailed information about the technologies we use and your ability to control those cookies, please visit our [cookie policy](http://www.inmobi.com/cookie-policy/). We recommend that you review the privacy policies the third party apps, services or sites that you directly interact with to learn how those third parties use cookies.
+For more detailed information about the technologies we use and your ability to control those cookies, please visit our [cookie policy](https://www.inmobi.com/cookie-policy/). We recommend that you review the privacy policies the third party apps, services or sites that you directly interact with to learn how those third parties use cookies.
 
 ### 6\. WHAT ABOUT CHILDREN?
 
-InMobi complies with the Children's Online Privacy Protection Act (COPPA) in the U.S. and does not knowingly collect personal information about users of sites directed to children under the age of thirteen (13). For more detailed information please visit our [COPPA](http://www.inmobi.com/coppa-terms/) policy.
+InMobi complies with the Children's Online Privacy Protection Act (COPPA) in the U.S. and does not knowingly collect personal information about users of sites directed to children under the age of thirteen (13). For more detailed information please visit our [COPPA](https://www.inmobi.com/coppa-terms/) policy.
 
 ### 7\. WHAT ABOUT OTHER WEBSITES?
 
@@ -142,7 +142,7 @@ In addition to the personal information described above, we also collect certain
 
 6.Information about how you leave our site (e.g. which website you visit immediately after visiting our site).
 
-We may use cookies to help us collect and store this information, as described in more detail in our [cookie policy](http://www.inmobi.com/cookie-policy/).
+We may use cookies to help us collect and store this information, as described in more detail in our [cookie policy](https://www.inmobi.com/cookie-policy/).
 
 10.3 HOW DO WE USE THE INFO WE COLLECT?
 
