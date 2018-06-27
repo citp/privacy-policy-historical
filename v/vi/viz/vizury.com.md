@@ -1,61 +1,167 @@
-> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523003926id_/http%3A//web.vizury.com/website/in/vizury-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023835id_/https%3A//www1.vizury.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Vizury - Privacy Policy
+# Privacy Policy | Vizury
 
-## Our Commitment
+### 1\. Introduction
 
-The following describes the overall company Privacy Policy of Vizury Interactive Solutions Private Limited (referred to as "Vizury", "we", "us" and "our"). We understand how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. This Privacy Policy was created to inform you what information we collect when you visit Vizury.com as well as our customer's (referred to as "Advertisers") websites; and then how that information is collected and used by companies that display advertisements(referred to as "Partners"). Those who visit our Advertisers' websites are referred to as "Prospects" throughout this policy. Because our Privacy Policy may be updated periodically, we encourage you to review these pages on a regular basis.
+Vizury provides the following offerings to its clients **(“Advertisers”)** :
 
-Personally Identifiable Information ("PII") is data about you that is personally identifiable; like your name, email address, credit card number or any other information that is not otherwise publicly available. The PII that Vizury collects from you is information you supply to us; such as your name, email address, credit card number.
+a. **Retargeting services** wherein Vizury uses User’s behavioral data collected through Advertiser’s desktop or mobile website or mobile application to display personalized ads on its publishers’ desktop or mobile website or mobile application **(“Partners”)**
 
-Non-Personally Identifiable Information ("NPII") data is collected by Vizury and Vizury's Partners, and is used by Vizury for the purpose of online Retargeting. NPII data collected by Vizury for advertising purposes is completely anonymous, and only includes information such as the Prospect's IP address, date and time of visit, domain type, and their activity on our Advertiser's and Partner's websites. None of this information, individually or grouped together, can be traced back to a specific individual. We use your personal information to get in touch with you when necessary or to provide the services requested by you. We sometimes use this information internally to direct our efforts for product improvement or contact you as a survey respondent. Please be informed that by giving us this information, you are giving us permission to share such information with any other third party service providers and be contacted by them to provide products or services you've requested. We will send information about you to other companies or people only when we need to share your information to provide the product or service you have requested to enable them to contact you or we have your consent from you to share the information. 
+b. **Push notification services** wherein Vizury uses User’s behavioral data collected through Advertiser’s desktop or mobile website or mobile application to display personalized notifications on such Advertiser’s desktop or mobile website or mobile application
 
-We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.
+Together Retargeting services and Push notification services shall be referred to as the **(“Services”)**
 
-We use the contact information that you have provide to offer you details of products, programs or services that we believe may be of interest to you, including but not limited to newsletters from Vizury. You can easily opt out of a newsletter by clicking the unsubscribe link at the bottom of this e-mail. 
+Vizury considers the privacy and security of Users as critical and is committed to protecting the same. **(“User”)** means a visitor to the Advertiser’s desktop or mobile website or mobile application. 
 
-We may also combine different types of information supplied or collected by us.
+This Privacy Policy explains how Vizury processes information pertaining to a User collected while providing Services to Advertisers ( **“Data”** as further explained below).
 
-**We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes, unless you authorize us to do so.  
-**In computer language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. Vizury uses it's cookies to provide a service known as Retargeting (details explaining Retargeting found below.) A Prospect receives a cookie from Vizury and Vizury's Partners when they visit Vizury.com, and / or when they visit one of Vizury's Advertiser's websites. Vizury has no access to or control over Partner cookies but requires that each Partner only collect NPII information for the use of serving retargeted ads. Any Partner found in violation of this policy will immediately be removed.   
-Vizury's technology utilizes cookies in the delivery of advertisements to our Advertiser's Prospects on our Partner's websites across the internet. This form of marketing is called Retargeting; and it enhances the web surfing experience by showing advertisements to the Prospect that are of interest to them. When a Prospect visits one of Vizury's Advertiser's websites, a Vizury pixel on that site sets a Vizury cookie on the hard drive of the Prospect. When that Prospect visits one of Vizury's Partners' websites; our Partner's website will identify the cookie on hard drive of the Prospect and recognize that they previously visited our Advertiser's website. The Prospect will then be shown an advertisement from that Advertiser. In this instance, Vizury will know that the Prospect first visited our Advertiser's website, and then our Partner's website. We will know the Prospect viewed the Ad on our Partner's website, and wither or not the Prospect clicked on that Ad. This type information is what Vizury uses in reporting; and in no way can be used to identify who that Prospect is, or any other online activities of the Prospect outside of Vizury's Advertisers and Partner's websites. 
+### 2\. Nature of data collected
 
-The NPII data collected by Vizury in the above outlined process of Retargeting will be kept by Vizury for a period not exceeding 20 years; and maintained and archived in our secured servers. This information is used strictly for reporting purposes and is not tied to personal information.   
-At any time you may Opt-Out of Vizury's services; however please note that by Opting-Out, you will not be able to take full advantage of Retargeted advertising. You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set - simply check your browser settings to do so. By deleting your cookies in this manner, you will disable Vizury and it's Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit Vizury.com or one of our Advertiser's websites to ensure you are not receiving Retargeted advertisements.
+#### A. Retargeting
 
-“Another way to Opt-Out:  
-Please [CLICK THIS LINK](javascript:newPopup\('http://www.vizury.com/website/optout.html'\);) to Opt Out  
-Please [CLICK THIS LINK ](http://www.vizury.com/website/optin.php)if you had opted out earlier, but now want to Opt back intoVizury 1:1 Marketing"
+Vizury collects the following types of **“Performance Data”** pertaining to the Users:
 
-When you Opt-Out of Vizury's services in this manner, a cookie will be set on your browser. Vizury must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.  
+a. The type of browser and its settings
 
+b. Information about the device’s operating system and type of device including pseudonymous identifiers assigned with the device, such as Apple’s Identifier for Advertisers (IDFA) and Google’s Advertising ID for Android devices (AAID)
 
-  * Vizury will take all reasonable steps to protect the information Vizury collects from unauthorised access, use and disclosure.  However, Vizury cannot guarantee that our systems will be completely free from third party interception or are incorruptible from viruses.
-  * Vizury use secure systems to encrypt transmission of information to us. However, as no transmission over the internet can be guaranteed to be 100% secure, you provide information to us at your own risk.
+c. Cookie information 
 
+d. The IP address from which the device accesses Advertisers’ websites or apps
 
+e. In connection with receiving requests to show ads to a device or requests initiated by Advertisers to track activity or place users into interest-based segments, information about the user’s activity on that device, including web pages and apps visited or used and the time those web pages and apps were visited or used
 
-Personal Information 
+f. Information about the geographic location of the device when it accesses a website or app (only if Advertisers have informed a User that this information will be shared with Vizury or another third party and the user hasn’t disabled the location services settings and/or consented to this information being shared)
 
-**Vizury does not sell, trade, rent, or release your personal information to third parties in ways that are not disclosed in the privacy statement. If we were to ever do so, you will have the opportunity to Opt-Out beforehand.**
+g. Inferences or information about users’ interests that are used by Advertisers (commonly known as “interest-based segments” or “segment data”) to target ads/impressions to users.
 
-If Vizury is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice by way of an update to the privacy policy before personal information is transferred or becomes subject to a different policy.  
-Vizury transactional information such as traffic patterns, sales, aggregate data regarding general shopping patterns, and other site information may be shared with vendors and other reputable third parties. This data will never contain any PII of Vizury Users. For example, we might share statistics on how many customers purchased a specific product, but we will not specifically disclose who purchased the product. 
+#### B. Push Notification
 
-We will share personal information with companies, organizations or individuals outside of Vizury if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+a. In addition to Performance Data, Vizury also collects username of Users (only if Advertisers share the same with Vizury) ( **“Push Notification Data”** )
 
-  * meet any applicable law, regulation, legal process or enforceable governmental request. 
-  * enforce applicable Terms of Service, including investigation of potential violations. 
-  * detect, prevent, or otherwise address fraud, security or technical issues. 
+Together, Performance Data and Push Notification Data shall be referred to as **“Data”**
 
+### 3\. Collection
 
+a. Vizury’s platform uses cookies, beacons, tags, mobile SDKs, third party mobile measurement partners engaged by the Advertisers and in some cases non-cookie technologies, to collect Data associated with particular web browsers or devices. 
 
-protect against harm to the rights, property or safety of Vizury, our users or the public as required or permitted by law.  
-Vizury has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on Vizury.com, or the cookies these sites might deposit on your hard drive. Your Consent   
-By visiting the Vizury website, you consent to the collection, storage, and dissemination of personal data as described above. 
+b. Vizury may also receive Data of Users from its third party Adexchanges.
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page. We will also keep prior versions of this Privacy Policy in an archive for your review. 
+### 4\. Usage
 
-This policy was updated on September 05, 2012  
-If you have any questions regarding our privacy policy please contact [support@vizury.com ](mailto:support@vizury.com)  
+Vizury uses the Data to provide Services to Advertisers by showing Users product recommendations by doing the below:
 
+a. Interest-based advertising/notifications 
+
+b. Limiting the frequency a user sees a particular ads/notifications
+
+c. Displaying ads/notifications in a specific sequence 
+
+d. Customizing ads/notifications to a specific location
+
+e. Determining how users respond or may respond to ads/notifications
+
+f. Reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns
+
+g. Our platform may use Data for cross-device mapping in order to serve or measure advertising on related devices on behalf of Advertisers.
+
+### 5\. Duration, location of storage and security of Data 
+
+a. Vizury keeps the Data for up to 750 days
+
+b. The Data is stored in a Vizury owned AWS account located across US/Singapore/India/Japan
+
+c. Vizury has a robust business continuity policy in place which covers its backup practices
+
+d. Vizury has secure systems to encrypt the transmission of Performance Data from the websites or mobile applications to Vizury servers where supported by Advertisers or Partners with whom Performance Data is exchanged. 
+
+e. Vizury has commercially reasonable safeguards in place to ensure that all the Data collected and stored by Vizury is safe from unauthorized access, use or disclosure. 
+
+f. Vizury works towards continually improving its security practices in order to secure the Data.
+
+### 6\. Third Party Transfer and Access
+
+In case of Facebook DPA based retargeting- Vizury shares information about the User’s activity on that device, including web pages and mobile apps that are visited or used. Vizury also shares the Device ID and cookie with some of its Partners to provide the Services.
+
+The Data will also pass through our infrastructure provider systems – AWS and in case of Retargeting Services, Performance Data will be accessed by Partners to enable the provision of Retargeting Services
+
+Apart from the above Service related transfer and access; Vizury will not share Data with organizations or individuals external to Vizury unless it is essential to meet:
+
+a. Applicable laws, regulations, legal processes or enforceable governmental request.
+
+b. Enforce applicable terms of service, including investigation of potential violations.
+
+c. Detect, prevent or address fraud, security or technical issues.
+
+d. Protect against harm to the rights, property or safety of Vizury, users or the public as required or permitted by law.
+
+### 7\. Legal Basis
+
+With respect to Retargeting Services, Vizury acts as an intermediary between Advertisers and Partners and with respect to Push Notification Services, Vizury acts as a vendor. Hence, in both cases, Vizury is not facing the User. Therefore, Vizury considers unambiguous consent as the most applicable basis for its’ Advertisers and Partners who collect Data, including technical identifiers. 
+
+Under GDPR, with respect to Performance Data, Vizury acts as a co-data controller with Advertisers and Publishers. 
+
+Under GDPR, with respect to Push Notification Data, Vizury acts as a processor and the Advertiser acts as the controller.
+
+### 8\. Rights of User
+
+a. Correction and Deletion
+
+With respect to Retargeting Services, because Performance Data processed is pseudonymized data, it is generally not feasible for Vizury to provide Users information that is associated with their identities. 
+
+In relation to the Services, if the User believes that Vizury holds information that would allow Vizury to correct, amend or delete inaccurate information about the User, User may contact Vizury as mentioned below. Vizury will undertake reasonable efforts to provide access to such data within a reasonable time.
+
+b. Limit usage
+
+The User may also have the right to restrict the processing of the User’s Data. To make a request, or if the User needs assistance with this process, User may write to [privacy@vizury.com](mailto:privacy@vizury.com) . 
+
+### 9\. Opt-out
+
+#### A. Retargeting
+
+For desktop and mobile web browser, the User may [CLICK HERE](http://www.vizury.com/website/optout.html) to opt out of (disable) re-targeting ads displayed by Vizury through his computer or mobile device. 
+
+Opting out of Vizury services through this link from User’s browser inserts a cookie on the User’s browser. Vizury relies on this cookie to identify an opted-out user. Vizury will not be able to identify an opted out User, if the User 
+
+a. Clears the cookie from his/her browser,
+
+b. Uses a different browser 
+
+c. Uses a different computer
+
+For mobile applications, the User may disable re-targeting ads by activating the “opt-out” options through the settings on their mobile devices or by sending a mail to [privacy@vizury.com](mailto:privacy@vizury.com) with a request for opting out and mentioning the device identifier of their mobile device.
+
+Opting out of Vizury services from User’s mobile device enables Vizury to identify an opted-out user. Vizury will not be able to identify an opted out User, if the User 
+
+a. Resets the device identifier of User’s mobile device,
+
+b. Uses a different mobile device 
+
+Vizury will discontinue re-targeting activities for an opted out User within a reasonable time after opt-out. This means that Vizury will not track an opted out User’s behaviour or display customized ads to the User. However, an opted out User may be able to view generic Vizury ads which are not customized based on the User behaviour.
+
+#### B. Push Notification
+
+To opt out of push notification, User needs to disable the notification setting on his/her browser and mobile application. 
+
+Additionally, User may write to [privacy@vizury.com](mailto:privacy@vizury.com) for any such requests.
+
+Once disabled, User will stop receiving notifications immediately.
+
+### 10\. Opt-in
+
+To enable the Retargeting Services, CLICK HERE (if a User had Opted-out earlier).
+
+To enable the Push Notification Services, User needs to re-enable the notification setting on his/her browser and/or mobile application. 
+
+### 11\. Contact Information
+
+In case of any requests, queries, complaints, please contact Vizury by writing to [privacy@vizury.com](mailto:privacy@vizury.com). 
+
+### 12\. Update to Privacy Policy
+
+Vizury’s User Privacy Policy is updated periodically and the same can be found on this link
+
+### 13\. Third parties
+
+Vizury does not control the privacy policies, content or cookies of the Advertisers or Partners.
