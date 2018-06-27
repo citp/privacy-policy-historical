@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vamachina.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222010154id_/http%3A//www.vamachina.com/site-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vamachina.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627124734id_/http%3A//www.vamachina.com/site-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | VAMA China
 
@@ -24,7 +24,7 @@ Address: No. 88, North Ji Xing Road, Loudi Economic Development Zone, Loudi, Hun
 
 Tel: (+86) 738 8688 010 
 
-Email: [contactus@vamachina.com](mailto:contactus@vamachina.com)
+Email: [contactus@vamachina.com](mailto:contactus@vamachina.com "Contact VAMA")
 
 Fax: (+86) 738 8688 010 
 
@@ -50,7 +50,7 @@ Security for all personally identifiable information is extremely important to u
 
 **6\. Contact:**
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: VAMA [contactus@vamachina.com](mailtoa: contactus@vamachina.com). 
+If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: VAMA [contactus@vamachina.com](mailtoa: contactus@vamachina.com "Contact VAMA"). 
 
 Information provided by you via general e-mail inquiries to VAMA such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. 
 
