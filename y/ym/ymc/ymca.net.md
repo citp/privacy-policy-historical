@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207043037id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627071907id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
 
 # the Y : Privacy Policy
 
@@ -117,7 +117,11 @@ You may contact The Y with inquiries or complaints regarding the use of informat
 
 ## 2.0 SECURITY
 
-YMCAs take appropriate administrative, technical, and physical measures to safeguard against unauthorized processing of personal information, and against the accidental loss of, or damage to, personal data. However, The Y cannot provide an absolute guarantee of the security of any of our websites or any other site on the Internet. 
+The Y takes appropriate administrative, technical and physical measures to safeguard against unauthorized processing of personal information, and against the accidental loss of, or damage to, personal data. We maintain appropriate physical, electronic and procedural safeguards to protect your personal information collected via the website. Access to information is restricted to employees who need to know information in the course of providing operations or services. However, The Y cannot provide an absolute guarantee of the security of any of our websites or any other site on the Internet.
+
+Donations received online by YMCA of the USA are processed by Blackbaud Merchant Services, a third-party processor who ensures information security by not saving credit card information and by being PCI compliant. Blackbaud’s PCI Compliance standards may be viewed _[here __Opens a new window](https://www.blackbaud.com/security/pci-compliance)._
+
+Donor data is stored by Blackbaud, a third-party vendor, in a password-protected database accessible only to staff identified as having business needs for access by YMCA of the USA's single site administrator. Blackbaud’s privacy policy is accessible via this _[link __Opens a new window](https://www.blackbaud.com/privacy-policy.aspx)._
 
 **Consent to Transfer**
 
@@ -133,4 +137,4 @@ You can update your personal information by emailing us at [digital@ymca.net](ma
 
 ## 3.0 Community Guidelines
 
-Guidelines for participants in our social media, blogs and forums are available at [](http://www.ymca.net/community-guidelines)<http://www.ymca.net/community-guidelines>
+Guidelines for participants in our social media, blogs and forums are available at <http://www.ymca.net/community-guidelines>
