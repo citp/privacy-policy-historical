@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the lavendos.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925091220id_/http%3A//lavendos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavendos.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627102321id_/http%3A//www.lavendos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lavendos
+# Privacy policy « Lavendos – Video Game News, Reviews, Originals and More
 
-Privacy Policy
+[ ](http://www.lavendos.com/privacy-policy/)
 
-Privacy has become a major concern on the Internet. this website knows that you care how information about you is used and shared. This privacy statement describes how this website deals with your information. By visiting this website, you are accepting the practices described in this privacy statement.
+**1\. Collection of Data**  
+Personal information is collected only by third-party transaction entities necessary for any charges that may occur. We do not collect any personal identifiable information on this web site intentionally or unintentionally. As on many web sites, the web server may automatically receive general information that is contained in server log files, such as your IP address, and cookie information.
 
-**Personal Information**
+**2\. Use of Data**
 
-this website does not require you to disclose personal information anywhere on the site. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. this website does not sell, rent, or trade your personal information with any third parties.
+General data may be used to customize and improve your user experience on this site. Efforts will be made to prevent your data being made available to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) your consent is obtained, such as when you choose to opt-in or opt-out for the sharing of data; (iii) a service provided on our site requires interaction with a third party, or is provided by a third party, such as an application service provider; (iv) pursuant to legal action or law enforcement; (v) it is found that your use of this site violates the site policy, terms of service, or other usage guidelines, or if it is deemed reasonably necessary by the site to protect the site’s legal rights and/or property; or (vi) this site is purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this policy. In the event you choose to use links displayed on this web site to visit other web sites, you are advised to read the privacy policies published on those sites.
 
-**Cookies**
+**3\. Cookies**  
+Like many web sites, this web site may set and uses cookies to enhance your user experience and for proper merchant tracking. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site’s cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice and to learn about your options.
 
-Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. this website uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**4\. Minors**  
+You must be a legal adult, or acting legal entity in your jurisdiction to download and/or use any of the products offered on this site.
 
-**Advertisers**
-
-We use third-party advertising companies to serve ads when you visit this website. These companies may use information about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The advertisements may contain cookies. The advertisements are necessary to finance the costs of keeping this site online.
-
-**Contact**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you are welcome to contact us.
-
-All material is copyright to their respectful owners and no copyright infringement is intended.   
-Lavendos © 2016 **Video Downloader**
+**6\. Changes to this Privacy Policy**  
+Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy by the posting of a prominent announcement on the site.
