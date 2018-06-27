@@ -1,137 +1,190 @@
-> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207201527id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628003706id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
 
-Your privacy is important to us and we undertake to respect and honor your concerns about maintaining strict privacy.
+At SANDOW, the privacy of your personal information is important to us. We are committed to providing you with an experience on all of our sites and services that is safe, secure and trustworthy. 
 
-This Privacy Statement (“Privacy Statement”) applies to information collected by and from SANDOW (“SANDOW,” “we,” or “us”) websites, mobile websites, apps and the like (the “SANDOW Properties”). SANDOW is committed to protecting the privacy of its users (“Users,” or “you”). We have created the following Privacy Statement to give you an overview of the type of information we collect, how the information is used and how the information we collect is safeguarded. Information is collected from Users by SANDOW through the use of the SANDOW Properties. This privacy statement applies solely to information collected by SANDOW.
+We work hard to be transparent about what Personal Information we collect and process, while striving to use clear and direct language to describe our privacy practices to help you make informed decisions. 
 
-**By visiting and/or using any of the SANDOW Properties, you consent to the practices described in this Privacy Statement.** If you have questions or concerns regarding this statement, you should contact SANDOW by e-mail at [privacy@sandow.com](mailto:privacy@sandow.com).
+In order to personalize and improve your experience, SANDOW collects, processes and stores your Personal Information as you use our websites, mobile apps, social media pages and services and those of our brands that link to this policy (collectively, the “SANDOW Properties”). “Personal Information” is information that can identify you, such as your name, email or street address, or it may be information that could reasonably be linked back to you. 
 
-### 1\. WHAT INFORMATION IS COLLECTED?
+This Privacy Statement describes our practices for collecting, storing and processing your Personal Information and the controls we provide you to manage it within our Services. 
 
-In order to personalize and improve your experience throughout the SANDOW Properties, we collect information about our Users in a variety of ways. In some cases, SANDOW asks Users directly for information in order for them to purchase products or use our services, and, in other cases, information is collected automatically as Users use the tools, features and applications provided throughout SANDOW Properties. You may choose not to provide certain information, but then you may not be able to purchase products or take advantage of certain features and services we offer.
+By visiting and/or using any of the SANDOW Properties, you consent to the practices described in this Privacy Statement . If you have questions or concerns regarding this statement, you should contact SANDOW by e-mail at [privacy@sandow.com](mailto:privacy@sandow.com). 
 
-The following is a summary of the kinds of information we collect:
+1\. What information does SANDOW collect from you? 
 
-A. Active Collection.
+The below describes the information we collect from you for our SANDOW Properties. In this Privacy Statement, we refer to this as your “Personal Information”. 
 
-SANDOW collects certain information either voluntarily or as required in order to register with SANDOW or use certain SANDOW services or features. This type of information includes:
+Information Category |  Use Description   
+---|---  
+Account Information  |  -Your name, title, business/company  
+-Email address and/or mailing address  
+-Password that you provide when you create an account  
+-Mobile or other phone number that you provide  
+-Demographic information  
+-Shipping or transactional information   
+Credit Card/Payment Information  |  -Payment information such as your credit card number and your billing and shipping addresses when you purchase something from SANDOW Properties   
+Profile Information  |  -We collect the information you provide when you voluntarily create a user profile  
+-Additional personal details that you provide in your profile (for example, image, name, age, location)   
+User Provided Content  |  -Information you provide about yourself when you voluntarily contribute to SANDOW Properties, or participate in community discussions.   
+Social Media Information  |  -If you use Facebook to log into the SANDOW Properties, we collect information from your Facebook profile that you choose to provide to us (for example, your Facebook profile information)   
+Additional User Information  |  -Information that you provide to us when you answer email surveys or online questionnaires offered through SANDOW Properties (for example, user names, e-mail addresses and mailing addresses for select mailings from third parties, as well as opinions and preferences)   
+Contests and Promotions  |  -Personal Information when you voluntarily participate in contests and special promotions we run through any of our SANDOW Properties   
+  
+2\. What information does SANDOW collect through your use of the Services? 
 
-  * Contact information, such as name, company name, mailing address, e-mail address, phone and facsimile numbers.
-  * Shipping or transaction information, such as billing address and financial information (credit card number and expiration date) if you choose to purchase products offered for sale on one or more of the SANDOW Properties.
-  * Demographic information about the User and/or the User’s company/institution.
-  * Information you enter in forms and optional surveys or contests, such as name and e-mail address.
-  * Information provided in connection with discussions on bulletin boards, in chat rooms, and in messaging or other interactive services.
-  * Information provided in e-mail requests and communications.
-  * Information from other sources. In order to personalize our services by providing better product recommendations or special offers we may think will interest you, we may request and receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. In addition, we may acquire User names, e-mail addresses and mailing addresses for select mailings from third parties.
+Information Category |  Use Description   
+---|---  
+Computer and Mobile Device Information  |  -Information about how you access any of our SANDOW Properties, including the website you visited before and after a SANDOW site  
+-The Internet Protocol (“IP”) address of your computer, mobile device, or proxy server you use to access the Internet, in addition to other information such as: 
 
+>Computer operating system  
+>Web browser  
+>Mobile device identifier provided by your mobile device operating system and your mobile operating system  
+>Name of your internet service provider or mobile carrier   
+  
+Information from Cookies and similar technologies  |  -Cookies and similar technologies as described in our Cookie Policy. Please refer to our Cookie Policy to learn about our practices and the controls we provide you   
+Information shared through social media features  |  -If you interact with social media through SANDOW Properties such as our Facebook, Twitter, Pinterest, Instagram and LinkedIn pages, SANDOW will collect these interactions and whatever account information these sites make available to us  
+-Your interaction with these features are governed by the privacy statement of the applicable third-party company   
+Information from your use of the Services  |  -Information about your use of any of our SANDOW Properties such as when you search, which pages you view or links you click on, or when you save/share content, etc.   
+  
+3\. Information we collect from other sources 
 
+Information Category |  Use Description   
+---|---  
+Information from third parties  |  -We may also receive information about you from third parties, such as supplemental data we collect with demographic information which are licensed from third parties to personalize any of our SANDOW Properties and our offers to you  
+-If you purchase a gift subscription, we will collect Personal Information to complete the gift and notify the recipient   
+  
+4\. How do we use your Personal Information? 
 
-If you send us correspondence, such as an email, letter or survey, we may collect such information into a file specific to you. All correspondence, either provided to us or if contained within a customer survey, is deemed the property of SANDOW upon receipt.
+Information Category |  Use Description   
+---|---  
+Personal Information (generally)  |  -We use your Personal Information to provide, personalize, improve and expand any of our SANDOW Properties. This includes: 
 
-In addition to the foregoing, as SANDOW seeks to increasingly personalize its services by providing better product recommendations or special offers that may be of interest to you, SANDOW may request and receive information about you from other sources and add it to our account information/user databases. This information includes the forms of personally identifiable information listed herein. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. In addition, we may acquire User names, e-mail addresses and mailing addresses for select mailings from third parties. Following any termination / cessation of your use of the SANDOW Properties, SANDOW may retain your information, including without limitation, your personally identifiable information.
+>Authenticate your access to SANDOW Properties  
+>Processing your payments for subscriptions, services and other products and features  
+>Building new and improving existing products and services  
+>Issuing surveys and questionnaires to collect Additional User Information for use in the Services, as well as facilitating product development and research initiatives, and publishing or otherwise disclosing aggregated or otherwise anonymized data  
+>Conducting scientific and statistical research  
+>Detecting and protecting against error, fraud or other criminal activity and enforcing our Terms and Conditions   
+  
+Communications  |  -We use our Personal Information to communicate with you about any of our SANDOW Properties such as when we: 
 
-B. Passive Collection
+>Respond to inquiries to any of our SANDOW Properties  
+>Inform you of product changes or new products and services  
+>Ask you to participate in SANDOW Properties media productions or testimonials  
+>Provide you with information or request action in response to technical, security, and other operational issues   
+  
+Market new products and offers from us or our business partners  |  -We may use your Personal Information to market new products and offers from us or our partners. This includes advertising personalized to you based on your interests either on SANDOW Properties sites or through remarketing services so that third-party websites can serve interest-based ads targeting a user after they leave a SANDOW website.   
+  
+5\. When do we share your information and who receives it? 
 
-Some information is collected automatically while you are using SANDOW Properties. It is important to note that SANDOW stores this information to ensure its Users receive optimal service while using any of the SANDOW Properties. This type of information includes:
+Circumstances when sharing may occur |  Description   
+---|---  
+Service Providers  |  -We use other companies to help us provide some products/services to you for any of our SANDOW Properties. As a result, these partners will have some of your information in their systems. Our partners are subject to contractual obligations governing data security and confidentiality as well as applicable laws. However, we will only share such personally identifiable information as we deem necessary for our service providers to carry out their obligations to or on behalf of SANDOW Properties  
+-These service providers may include: 
 
-  * Log Files: Log files information, such as IP addresses, browser type, domain names, number of page views, login frequency, page or section accesses. Log files are used to track user usage and engagement and to gauge the effectiveness of our different services. We use your IP address to help diagnose problems with our server and to administer SANDOW Web sites.
+>Independent contractors  
+>Payment processors  
+>Cloud services infrastructure providers  
+>Vendors for marketing, advertising, data, distribution analytics, scheduling and fraud prevention   
+  
+Legal or regulatory process  |  -We may share your Personal Information if we believe it is necessary to: 
 
+>Comply with valid legal process  
+>Enforce or apply SANDOW Terms and Conditions  
+>Protect the security or integrity of our SANDOW Properties  
+>Protect the rights, property or safety of SANDOW, our employees or users. 
 
-  * Cookies: SANDOW Web sites use cookies to allow us to recognize you when you return to our site and to provide you with customized services and information. Although we do not store personal information in cookies, we do sometimes tie cookies to User member IDs, which is then used to pull personal information out of the database for identification purposes. If Users reject a cookie placed by SANDOW, they may not be able to use some SANDOW Web site services (e.g., purchase products or establish a User Account).
+**Note:** If we are compelled to disclose your Personal Information to law enforcement, we will do our best to provide you with advance notice, unless we are prohibited under law from doing so.  
+  
+If SANDOW is acquired  |  -If SANDOW or any of its businesses or business lines are acquired or transferred, we will share your Personal Information with the acquiring or receiving entity. The promises of this Privacy Statement will continue to apply to your Personal Information that is transferred to the new entity.   
+Aggregated data  |  -SANDOW Properties may disclose user information in an aggregated form as part of the Services or our marketing. We will also share demographic information with independent contractors, service providers, consultants, advertisers and other partners for purposes of research, business initiatives, collaborations, and more. Such disclosures will never include Personal Information.   
+  
+6\. Your choices and access to your personal information. 
 
+Rights that you may have by law, depending on the country in which you live, include (subject to certain exceptions): a right to request access to your Personal Information and to be provided with a copy of certain information you provided in a portable form, as well as to seek to update or correct this information, or to have us delete this information. Details and options for accessing this information are listed below. 
 
-  * SANDOW also uses third parties to provide services to you on behalf of SANDOW, and in doing so they may set cookies on the site for functionality such as Live Chat and web analytic services. If you reject these cookies, you may not be permitted to use these features. Also, we use a third party to provide web analytic services which allows SANDOW to track website usage statistics and checkout information. For additional information regarding the information made available to third parties by SANDOW, see How Does SANDOW Use the Information Collected provided below.
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. To submit any requests, or if you have questions or concerns, you should contact SANDOW Properties at [privacy@sandow.com](mailto:privacy@sandow.com). 
 
+7\. What are SANDOW’s retention practices? 
 
+Category of Information |  Retention Period   
+---|---  
+Account Information  |  -SANDOW Properties will retain the Personal Information you provide while creating your account until such time as you ask us to close it.   
+Credit Card/Payment Information  |  SANDOW Properties may retain Personal Information in connection with previous transactions or activity on the SANDOW Properties   
+Usage Information  |  -In some cases we choose to retain usage information (for example, visits to sites) in a depersonalized or aggregated form. Once aggregated, this information ceases to be personal and will not be subject to user deletion requests.   
+  
+8\. How can I delete my Personal Information? 
 
-For information on how to have your browser disable cookies or provide a warning before accepting a cookie, please refer to the cookie options in your browser’s Options or Preferences menu.
+Information Category |  How to Delete   
+---|---  
+Personal Information  |  If you require assistance deleting Personal Information you provided as part of your profile or subscription, please submit a deletion request (including the exact wording of the information as it appears on the websites, and the URL where the information is found) to our Privacy Policy Team by emailing [privacy@sandow.com](mailto:privacy@sandow.com). 
 
-  * SANDOW employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content across our sites by informing us what content is effective and when. We also use clear gifs in our HTML-based e-mails to let us know which e-mails get opened by their intended recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. In addition, clear gifs may be set by third parties to track sales resulting from Internet advertising campaigns and banner advertisements appearing on other web sites. If Users would like to opt-out of these e-mails, they should see the Opt-out section.
-  * SANDOW uses GoogleAdWords remarketing services to advertise on third party websites (including Google) to previous visitors to our site. For more information about Google’s interest-based ad targeting, click here: <https://www.google.com/policies/technologies/ads/>. For more information regarding your choices for not having this information used to target ads to you, please click here: <http://youradchoices.com/>.
+SANDOW Properties may also retain certain information as reasonably necessary to comply with our legal obligations (including law enforcement requests), resolve disputes, maintain security, prevent fraud and abuse, as well as to comply with tax, payment industry, securities, and clinical regulatory compliance requirements.   
+  
+Credit Card/Payment Information  |  SANDOW Properties may retain Personal Information in connection with previous transactions or activity on the SANDOW Properties   
+Usage Information  |  -In some cases we choose to retain usage information (for example, visits to sites) in a depersonalized or aggregated form. Once aggregated, this information ceases to be personal and will not be subject to user deletion requests.   
+  
+9\. Security 
 
+SANDOW Properties have implemented technical, administrative and physical security measures that are designed to protect User information from unauthorized access, disclosure, use and modification. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. 
 
+SANDOW Properties regularly review our security and privacy practices and enhance them as necessary to help ensure the integrity of our systems and your Personal Information. We only partner with security companies that meet and commit to our security standards. While we cannot guarantee that loss, misuse or alteration of data will not occur, we use reasonable efforts to prevent this. 
 
-### 2\. HOW DOES SANDOW USE THE INFORMATION COLLECTED?
+It is also important for you to guard against unauthorized access to your Personal Information by maintaining strong passwords and protecting against the unauthorized use of your own computer or device. 
 
-SANDOW endeavors to comply with state, local and federal laws regarding the preservation and archiving of information collected. In addition to the uses described elsewhere in this Privacy Statement, SANDOW may use the information you provide in the following ways:
+10\. Data Transfer 
 
-  * To contact you about our products and services or about your use of the SANDOW Properties.
-  * For marketing and promotional purposes (whether used by SANDOW or made available to third parties for specific purposes).
-  * For catalog mailings if you request to receive a catalog.
-  * To respond to your comments or requests or to request feedback regarding our products or services.
-  * For billing purposes, to facilitate transactions and to fill User orders in connection with purchases of products offered by SANDOW.
-  * For internal product development and quality control purposes.
-  * For the specific purpose for which the information was provided.
+SANDOW operates globally so it may be necessary from time to time to transfer your information internationally. In particular, a User’s information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and related laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using the SANDOW Properties, you consent to your information being collected, used and transferred as set forth in this Privacy Statement. 
 
+Lastly, to the extent SANDOW is permitted to do so in accordance with applicable laws and regulations, we reserve the right to rent, sell or otherwise commercialize our Users’ data and registration information. 
 
+11\. Changes to this Privacy Statement 
 
-SANDOW operates globally so it may be necessary from time to time to transfer your information internationally. In particular, a User’s information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and related laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using the SANDOW Properties, you consent to your information being collected, used and transferred as set forth in this Privacy Statement.  
-Lastly, to the extent SANDOW is permitted to do so in accordance with applicable laws and regulations, we reserve the right to rent, sell or otherwise commercialize our Users’ data and registration information.
+SANDOW reserves the right to make changes to the Privacy Statement at any time. If we plan to make material changes to any of our privacy policies or practices with respect to how we use Personal Information, we will provide prominent advance notice of any material changes to this Statement, such as posting a notice through any of our SANDOW Properties, or sending you an email, before they take effect so our Users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Please review our Privacy Statement periodically to see recent changes. 
 
-### 3\. HOW DOES SANDOW COMMUNICATE WITH USERS?
+Your continued use of any of our SANDOW Properties after notice of changes means that you consent to the updated Privacy Statement. 
 
-If you have elected to provide SANDOW with your contact information, we may provide you with product and service related announcements/information by any means from time to time, including email and SMS, concerning the SANDOW Properties, new products/services, promotions/special offers, events, refer-a-friend, your order(s), and your customer service requests or questions. Accordingly, SANDOW generally communicates with its Users when it believes it has information of special interest to you or which you previously requested. Please see the Choice/Opt-Out section below should you desire to cease receiving SANDOW communications.
+12\. Notice to California Residents 
 
-### 4\. WHAT INFORMATION IS SHARED WITH THIRD PARTIES?
+If you are a California resident, California Civil Code Section 1798.83, known as the “Shine the Light” law, permits users who are California residents to request information regarding the disclosure of your personal information by SANDOW Properties to third parties for the third parties’ direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. To make such a request, please send an email to [privacy@sandow.com](mailto:privacy@sandow.com). In your request, please specify the particular product, service and site within the SANDOW Properties to which your request or inquiry pertains 
 
-Information that we collect about our Users is an important aspect of our business. SANDOW discloses information you provide to us with third parties in accordance with applicable laws and as generally described below.
+13\. Privacy and Security Concerns 
 
-  * We will share your information with independent contractors, service providers and other third parties that are engaged to assist us in our business or in providing Users with goods or services that we believe will be of interest to them. However we will only share such personally identifiable information, as we deem necessary for them to carry out their obligations to or on behalf of SANDOW. Third parties are obligated to only use and/or disclose your personally identifiable information for the purpose for which SANDOW disclosed the information to them, and no other purpose.
-  * We share aggregated, non-personally identifiable, demographic information with independent contractors, service providers, consultants, advertisers and other partners for purposes of market research, to advance our initiatives, to establish collaborative undertakings, and more.
-  * SANDOW investors receive reports on the number of Users, items purchased, page views, logins, etc. They do not receive any personally identifiable information.  
-o In the event that SANDOW goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, Users’ personal information generally is one of the transferred business assets. For more information, see our Notification of Changes section below.
-  * SANDOW will disclose personal information if necessary to fulfill our service obligations or if required to do so by law or if, in our good faith judgment, such action is reasonably necessary to comply with a current judicial proceeding, a court order or legal process served on SANDOW, to respond to any claims, or to protect the rights of SANDOW, its Users and the general public.
-
-
-
-In addition to the foregoing, SANDOW shares data, materials and user information with its analytic providers.
-
-### 5\. SECURITY
-
-The security, integrity and confidentiality of your information are extremely important to us. SANDOW has implemented technical, administrative and physical security measures that are designed to protect User information from unauthorized access, disclosure, use and modification. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
-
-### 6\. LINKING
-
-SANDOW may offer links to other Web sites. Please be aware that SANDOW is not responsible for the privacy practices of such linked sites, including sites of our partners. We encourage our Users to be aware of this when they leave any of the SANDOW Properties and to read the privacy statements of each and every Web site that collects personally identifiable information.
-
-### 7\. SURVEYS AND CONTESTS
-
-From time to time, our sites request information from Users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, email address, shipping address, etc.) and demographic information. The same contact information provided will be used to notify the winners (i.e., false information may result in SANDOW’s inability to notify a winner accordingly). Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of SANDOW Web sites.
-
-### 8\. CHILDREN
-
-None of the SANDOW Properties are directed at children, and SANDOW does not sell products or services for purchase by children. We may, however, sell children’s products for purchase by adults. If you are under the age of 18, you may use the SANDOW Properties only with the involvement and authorization of a parent or guardian. Parents, please monitor your children’s use of the Internet.
-
-### 9\. CHOICE/OPT OUT
-
-SANDOW gives Users the ability to opt-out of receiving future communications. To opt-out of email communications, follow the “un-subscribe” links included at the bottom of email communications or send an email to [optout@sandow.com](mailto:optout@sandow.com).
-
-### 10\. NOTIFICATION OF CHANGES
-
-SANDOW reserves the right to make changes to the Privacy Statement at any time. If we plan to make significant and material changes to any of our privacy policies or practices with respect to how we use personally identifiable information, we will post those changes to www.sandow.dev/privacy 30 days before they take effect so our Users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Please review our Privacy Statement periodically to see recent changes.
-
-### 11\. ADDRESSING PRIVACY & SECURITY CONCERNS
-
-If you have any questions about this Privacy Statement, the practices or your dealings with any SANDOW Properties, or if you wish to receive a printed version of this Privacy Statement, please contact us:
+If you have any questions about this Privacy Statement, the practices or your dealings with any SANDOW Properties, or if you wish to receive a printed version of this Privacy Statement, please contact us: 
 
 SANDOW  
-3651 NW 8th Avenue  
-Boca Raton FL 33431  
-Email: [privacy@sandow.com](mailto:privacy@sandow.com "privacy@sandow.com")
+101 Park Avenue, 4th Floor  
+New York, NY 10178   
+Attn: Privacy Policy Team  
+Email: [privacy@sandow.com](mailto:%20privacy@sandow.com)
 
-### 12\. NOTICE TO CALIFORNIA RESIDENTS
+14\. Linking 
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by SANDOW to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to privacy@sandow.com or write us at:
+SANDOW may offer links to other Web sites. Please be aware that SANDOW is not responsible for the privacy practices of such linked sites, including sites of our partners. We encourage our Users to be aware of this when they leave any of the SANDOW Properties and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-SANDOW  
-3651 NW 8th Avenue  
-Boca Raton FL 33431  
-Attention: Peter Fain, Chief Operating Officer
+15\. Children 
 
-In your request, please specify the particular product, service and site within the SANDOW Properties to which your request or inquiry pertains.
+None of the SANDOW Properties are directed at children, and SANDOW does not sell products or services for purchase by children. We may, however, sell children’s products for purchase by adults. If you are under the age of 18, you may use the SANDOW Properties only with the involvement and authorization of a parent or guardian. Parents, please monitor your children’s use of the Internet. 
 
-### 13\. USE OF “DO NOT TRACK SIGNALS”
+16\. Choice/Opt Out 
 
-In order to provide you with an optimal, personalized experience, SANDOW does not respond to pre-set web browser requests signaling a User’s request not to be tracked on the Web Site. Users may follow the opt-out instructions provided herein if they wish not to be tracked, however, SANDOW may not be able to provide the same services and offerings within the SANDOW Properties without tracking.
+SANDOW gives Users the ability to opt-out of receiving future communications. To opt-out of email communications, follow the “un-subscribe” links included at the bottom of email communications or send an email to [optout@sandow.com](mailto:optout@sandow.com). 
+
+17\. Use of “Do Not Track Signals” 
+
+In order to provide you with an optimal, personalized experience, SANDOW does not respond to pre-set web browser requests signaling a User’s request not to be tracked on the Web Site. Users may follow the opt-out instructions provided herein if they wish not to be tracked, however, SANDOW may not be able to provide the same services and offerings within the SANDOW Properties without tracking. 
+
+18\. Legal basis under EU General Data Protection Regulation for processing personal information of EU residents. 
+
+This section shall apply to any personal data collected by SANDOW Properties from EU residents to whom the GDPR applies. 
+
+Where you have consented to data processing, your consent provides the legal basis to process your Personal Information. You have the right to withdraw consent at any time. Please note that your withdrawal of consent to collect and process your Personal Information will not affect the lawfulness of processing your Personal Information based on your consent before you withdrew your consent. 
+
+We may also process your Personal Information on the basis of contractual necessity to perform a contract we have with you. For example, we process your credit card details when you provide them in order to use our Services or to buy our Services as a gift for a third party. 
+
+We may also process your Personal Information on the basis of our legitimate interests, including in providing and improving the Services. For example, SANDOW Properties have a legitimate interest in understanding your login history so we can assess your interaction with our Services. We also have a legitimate interest in providing and developing interesting features to provide to our users. We use your Personal Information to keep our Services safe and secure and we do so as it necessary to pursue your and our legitimate interests in ensuring that our Services are secure, and to protect against fraud, spam and abuse. 
+
+Where we rely on legitimate interests to process your Personal Information, you have the right to object to such processing (meaning that you can ask us to stop). You can use the links referenced above regarding your account at SANDOW Properties, or follow our Cookie Policy, to control certain ways in which we process your data. You can also contact us to object to other forms of processing. 
