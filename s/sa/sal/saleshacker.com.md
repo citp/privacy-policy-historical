@@ -1,50 +1,121 @@
-> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901190435id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627162017id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Hacker
 
-### **Last Edited on 1-26-2015**
+### **Last Edited: May 24, 2018  
+**
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+At Sales Hacker, we appreciate your use of and contributions to our website, our conference websites, our mobile conference apps, our content, and ultimately our greater digital community.
 
-### **What personal information do we collect from the people that visit our blog, website or app?**
+Sales Hacker takes your privacy very seriously and is committed to protecting your personal information.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
+We encourage you to read this privacy policy to understand the information we collect and how we use and disclose it. This policy applies to all of our online properties, including but not limited to conferences, special intimate events, and more.
 
-### **When do we collect information?**
+This privacy policy has been uniquely compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. 
 
-We collect information from you when you fill out a form or enter information on our site.
+PII, as used in U.S. privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
 
-### **How do we use your information?**
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+## **What personal information do we collect from the people that visit our blog, website, conference pages and mobile apps?**
+
+### 1) Information that you provide
+
+When registering on our site, as appropriate, you may be asked to enter the following information and details to help you with your experience:
+
+  * Name
+  * Email address
+  * Phone number
+  * Job title
+  * Company
+
+
+
+This may occur, for example, when you register for a webinar, or download an eBook from our website. Specifically, this happens when you explicitly complete a form on our website to access any type of content.
+
+### 2) Cookies, web beacons, and other tracking technology
+
+We use various technologies to collect information automatically when you access our web properties and consume our content – this is including but not limited to cookies, web beacons and other similar technologies. We may also use trusted third party services that track this information on our behalf.
+
+Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser.
+
+When you access our content, we may place one or more cookies on your computer or other electronic device or use other technologies that provide similar functionality.
+
+The use of cookies helps us improve the quality and relevance of content displayed to you, by identifying information which is most interesting to you, and helps us measure the effectiveness of our advertising.
+
+At any time, you may adjust settings on your browser to refuse cookies according to the instructions related to your browser.
+
+You may also choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Chrome) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies, some features will be disabled, and your site experience is likely to be less efficient as some of our services may not function properly.
+
+### 3) Country data based on your IP
+
+If you register for a webinar or download an eBook, for example, we may collect the location of your device based on your IP address. This helps us delineate where you located in the world, and based on that, we will follow each country’s data compliance regulations to their fullest effect.
+
+## **How do we use your information?**
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To send periodic emails regarding your order or other products and services.
+**1)** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
+**2)** To send periodic emails regarding other offers, products and/or services.
 
+**3)** To send you event related updates, reminders and confirmations.
 
-### **How do we protect visitor information?**
+**4)** To send you technical notices, updates, security alerts and support and administrative messages.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+**5)** To respond to your comments, questions and requests and provide customer service and support.
 
-We use regular Malware Scanning.  
-We do not use an SSL certificate.
+**6)** To communicate with you about products, services, offers, promotions, rewards and events offered by Sales Hacker and our partners, as well as provide news and information we think will be of interest to you.
 
-### **Do we use ‘cookies’?**
+**7)** Monitor and analyze trends, usage and activities in connection with our content and website performance.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**8)** To personalize content and present you with advertising, content or features that we believe will be of interest or useful to you.
 
-### **We use cookies to:**
+**9)** Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards. An example of this might be our Sales Hacker Top 50 Awards.
 
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+### **Email Management**
 
+You may receive email from Sales Hacker for a variety of reasons – for example, if you took an action through our website, you signed up for specialty content, or perhaps you registered for an event or conference.
 
+All Sales Hacker emails will include a link in the footer, where you can select your communication preferences or unsubscribe altogether.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+Also, you can manage your receipt of some types of communication by following the instructions included in the email we send you.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+Please note that, even if you unsubscribe from certain email correspondences, we may still need to email you in the event there is an important transactional or administrative issue we need to resolve with you. An example of this might be processing a refund for an event ticket that you can no longer attend.
 
-However, you can still place orders.
+## **When do we share and disclose your information?**
+
+Your privacy is extremely important to us and we are committed to protecting your information that identifies you personally. We will only share personal information that you provide us under the following circumstances:
+
+### **1) With your consent**
+
+When you explicitly consent or allow Sales Hacker to share your personal information. This happens when you submit your information through many of our content offers, events or services.
+
+For example, if you choose to sign up for an exclusive piece of premium content via a form – your name, phone number, email address, job title, and company will be collected by Sales Hacker.
+
+### **2) Service providers to Sales Hacker**
+
+When Sales Hacker hires a service provider to help operate the Services or our business, we may give access to personal information only as appropriate to perform the service for Sales Hacker, and subject to the terms of this privacy policy.
+
+### **3) Partners with whom we conduct business**
+
+When Sales Hacker partners up with other businesses to offer products and services, we may share information with those business partners only as needed to provide those products and services and only subject to the terms of this privacy policy.
+
+### **4) Legal obligation or protection from harm**
+
+When Sales Hacker has a good faith belief that access, use, preservation or disclosure of information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, (d) support auditing and compliance functions, or (e) protect the rights, property, or safety of Sales Hacker, its users, or the public against harm.
+
+### **5) Business transfers**
+
+If and when Sales Hacker is involved in a merger, acquisition, or any form of transfer or sale of some or all of its business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, we may share your personal information in connection with that transaction.
+
+## **How do we protect visitor information?**
+
+Our website is scanned on a regular basis for security breaches and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning, as well as an SSL certificate.
 
 ### **Third Party Disclosure**
 
@@ -75,31 +146,9 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-### **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-### **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
-  * On our Privacy Policy Page
-
-
-
 ### **How does our site handle do not track signals?**
 
 We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-### **Does our site allow third party behavioral tracking?**
-
-It’s also important to note that we do not allow third party behavioral tracking
 
 ### **COPPA (Children Online Privacy Protection Act)**
 
@@ -113,7 +162,8 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-  * Within 1 Business Day we will notify the users via in site notifications
+  * Within 1 Business Day we will notify the users via email and site notifications:  
+
 
 
 
@@ -130,31 +180,27 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-### **To be in accordance with CANSPAM we agree to the following:**
+### **To be in accordance with CAN-SPAM we agree to the following:**
 
-  * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
-  * Include the physical address of our business or site headquarters
+  * NOT use false, or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
   * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
 
 
-
-### **If at any time you would like to unsubscribe from receiving future emails, you can**
-
-  * Follow the instructions at the bottom of each email.
-
-
-
-and we will promptly remove you from all correspondence.
 
 ### **Contacting Us**
 
 If there are any questions regarding this privacy policy you may **[contact us](https://www.saleshacker.com/contact/)** using the information below.
 
-1350 California St #104  
-San Francisco, CA 94109  
-United States
+Sales Hacker Inc.
 
-[info@saleshackerconference.com](mailto:info@saleshackerconference.com)
+PO Box 503
+
+Armonk, NY 10504
+
+U.S.A.
+
+marketing@saleshacker.com
