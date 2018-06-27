@@ -1,83 +1,75 @@
-> *The following text is extracted and transformed from the extremereach.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127063901id_/http%3A//extremereach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremereach.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023707id_/https%3A//extremereach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Extreme Reach
 
-Effective 07/20/2016
+### **Privacy Policy for **Extreme Reach Website (**[ **www.extremereach.com**](http://www.extremereach.com/) **)****
 
- **Privacy Practices for Extreme Reach Website (www.extremereach.com)**
+Extreme Reach and its subsidiaries and affiliates (collectively “Extreme Reach” “our,” “we” or “us”) are committed to respecting your privacy. This Privacy Policy describes how we collect, use, disclose, store and otherwise process information when you use our website. **  **Extreme Reach respects your privacy and we are fully committed to protecting it.
 
-Extreme Reach respects your privacy and we are fully committed to protecting it whether you are a visitor, using the website without registration (“Visitor”), or a user that has registered an account on our website (“User”). Extreme Reach does not collect any personally-identifying information before, during or after your visit to the ExtremeReach.com website other than what you voluntarily supply (e.g., information submitted through the “Contact Us” form).
+This policy applies only to information collected through the Extreme Reach public website. For information related to use of specific types of personal data, please see the relevant policy posted on [Talent and Crew](https://extremereach.com/privacy-policy-talent-crew/) or [Video Ad Serving and Analytics](https://extremereach.com/privacy-policy-ad-serving-analytics/).
 
-Extreme Reach also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the Extreme Reach site. This data is used to manage the website, track usage and improve website services.
+###### **Information We Collect**
 
- **Additional Information for Users**
+Extreme Reach collects IP addresses from visitors to our website, and also logs non-personally-identifiable information, including aggregate user data, and browser type, from users and visitors to the ExtremeReach.com website. 
 
-As a registered user with an Extreme Reach account, Extreme Reach may collect personally identifiable information you submit, including name, business, mailing address, phone, title, timezone and email address to authenticate account use and to send notifications to those users registering for and participating in the Extreme Reach Network. You can change your information at any time by logging on to the Extreme Reach platform and using the Edit Profile option.
+Extreme Reach collects personal information about you that you voluntarily supply (e.g., information submitted through the “Contact Us” form).  When communicating with Extreme Reach, all communications may be transmitted and stored by us. By visiting our website or using any of our services, you consent to Extreme Reach’s collection, use, and storage of information relating to you as set forth in this privacy policy.
 
-When you do register for an account with us, you may from time to time have an opportunity to receive information about special promotions, incentives, and other programs from Extreme Reach or our clients. We will not trade or sell any information on our users with third parties.
+We do not collect any other personally-identifying information during your visit to the ExtremeReach.com website.
 
-[ER DIGITAL PLATFORM PRIVACY POLICY](http://app.extremereach.com/Home/TermsOfUse#PrivacyPolicyPlatform)
+###### **How Collected Data Is Used**
 
-[T](http://app.extremereach.com/Home/TermsOfUse#PrivacyPolicyPlatform)[he following information applies only to information collected via online advertising campaigns conducted on behalf of Extreme Reach clients.](http://app.extremereach.com/Home/TermsOfUse#PrivacyPolicyPlatform)
+Extreme Reach uses your personal information to recommend products and services that might be of interest to you, to send you marketing and advertising messages such as newsletters, announcements, or special offers or to notify you about our upcoming events. We may also use such information to provide you products and services, such as to fulfill your requests for products or to help us personalize our offerings to you. We also use your personal information to support our business functions, such as fraud prevention or legal functions. 
 
- **Terms**
+Non-personally identifiable information is used to manage the website, track usage and improve website services.
 
-Beacons and Tags: Beacons and tags enable online advertising companies to collect data and serve advertising on web sites by allowing communication between a web browser and an ad server. A beacon (or web beacon) is a small transparent image that is placed on a web page. A tag is a small piece of computer code that is run by the web browser.
+###### **Information Disclosed to Outside Parties**
 
-Cookie: A cookie is a small text file that is stored in a web browser by a website or ad server. By saving information in a cookie, websites and servers can remember preferences or recognize browsers from one visit to another or from one website to another.
+We do not sell, trade, or otherwise transfer collected information to outside parties, unless we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-Personally Identifiable Information (PII) is information that by itself can be used to identify a specific individual. PII includes such things as name, address, phone number, and email address.
+Extreme Reach may also disclose personal information to our third-party vendors and service providers that work with us. We will only share personal information to these vendors and service providers to help us provide a product or service to you.
 
- **What information do we collect?**
+###### **How We Protect Your Information**
 
-From Advertisement Viewers: Beacons and cookies collect non-PII activity data and ad viewership information. None of this information is personally identifiable.
+Security of all information is of the utmost importance for Extreme Reach. We use technical and physical safeguards to protect the security of your personal information from unauthorized disclosure. We also make all attempts to ensure that only necessary people and third parties have access to Personal Information.
 
-From Survey Respondents: All of the above, as well as any brand study related data that is voluntarily shared by the survey responder. None of this information is PII, but some (geographic location, age, etc.) has the potential to become PII if merged with other types of data.
+We require that our third party service providers and channel partners agree to keep all confidential information we share with them and to use the information only to perform their obligations in the agreements we have in place with them. These third party service providers and channel partners are expected to maintain privacy and security protections that are consistent with Extreme Reach’s privacy and information security policies.
 
-Publicly shared information: We collect publicly shared information on social media platforms that directly relates to the advertisements and brands of our customers.
+###### **Transparency and Choice**
 
- **What do we use collected data for?**
+Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all features available through our services. For more information, visit the help page for your web browser.
 
-We generate advertising campaign analysis reports for our customers (advertisers and their agencies) using anonymized aggregated non-personally identifiable information.
+###### EU Residents
 
-We use cookies to determine, based on observed activity around an advertising campaign, whether or not the consumer should be served a survey.
+Extreme Reach is committed to protecting your data in compliance with the  General Data Protection Regulations (GDPR). Extreme Reach is the controller of data collected from our public website and other marketing data. Our Data Privacy Officer can be contacted at privacy@extremereach.com. 
 
-We use audience and brand lift survey responses to generate aggregated anonymized reports on the effectiveness of our customers’ advertising campaigns.
+EU residents can contact privacy@extremereach.com for requests related to rights of erasure, correction, restriction of processing, and portability.
 
-We use publicly available information found on social media platforms to report social sentiment to our customers regarding their advertisements and brands.
+Should you have any issues with how we handle your data, we request that you contact us first so that we can make every effort to address your concerns. You also have the right to lodge a complaint with a supervisory authority.
 
- **How do we protect your information?**
+Your consent is the legal basis for collecting and processing your data. We store and process data in the United States.
 
-Extreme Reach only reports the information that it collects from digital advertising campaigns in the aggregate to our customers in order to provide them with a statistical analysis of ad viewership and related data. Outside of this context, Extreme Reach does not sell any information to third-parties.
+###### **Children**
 
- **Do we disclose any information to outside parties?**
+Extreme Reach recognizes the importance of protecting the privacy and safety of children. Our website and services are primarily directed towards the advertising industry and are not directed towards children. We do not knowingly collect information about children under the age of 13. A parent or guardian of a child may contact us at privacy@extremereach.com to request that we delete such information.
 
-We do not sell, trade, or otherwise transfer our collected information to outside parties, except as discussed above for the limited purposes of Extreme Reach’s ad viewership reporting to our customers. We may also release collected information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+###### Data Retention
 
- **Children’s Online Privacy Protection Act Compliance**
+We retain data we collect from the public website or for marketing purposes. To request that we delete your data, please contact [privacy@extremereach.com](mailto:privacy@extremereach.com).
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the Children’s Online Privacy Protection Act.
+###### International Transfers
 
- **ER Digital Platform Privacy Policy Only**
+We do not transfer any of your personal information submitted via this website across international borders. We store and process data in the United States  
 
-The ER Digital Platform Privacy Policy applies only to information collected through our ER Digital Platform and not to information collected offline or through use of our website.
+###### Changes to This Policy
 
- **Changes to This Policy**
+Extreme Reach reserves the right to change, modify, add or remove portions of this Privacy Policy at any time without notice (except for EU subjects, where we will notify you if we change how we process your data and will obtain your consent for alternate use of your data).
 
-Extreme Reach reserves the right to change, modify, add or remove portions of the ER Digital Platform Privacy Policy at any time without notice. We will post changes to our privacy policy clearly and quickly to keep you aware of what information we collect, how we use it, and where we disclose it.
+###### Opt-in
 
- **Opt-out**
+Visitors opt-in to our communications. We only send you marketing communications if you have chosen to provide us with your contact information.
 
-Extreme Reach logs non-personally-identifiable information including IP address, profile information, aggregate user data and browser type from visitors and users of the Extreme Reach public website and advertising platform. We track and log this information in order to automate functions, continually streamline our client’s workflow, support the latest technologies and provide information that is most relevant to our visitors and clients.
+You can opt-out of marketing emails by contacting Extreme Reach or by clicking the unsubscribe link from a marketing email, which will remove you from our marketing list. 
 
-Extreme Reach also tracks and logs conversion, click and viewing data from the websites of companies for which we serve advertisements (“advertisers”) and the websites and online services on which we serve advertisements (“publishers”). This anonymous data is used to track general advertising impression and response activities, so our clients can understand which ad experiences are most relevant and resonant with audiences.
+For information on options for cookies see the Transparency and Choice section above.
 
-Advertisements within the Extreme Reach Platform are encoded with one or more of the following based on Customer orders and preferences: Closed Captioning, BVS Watermark, Nielsen Watermark, V-Chip and Teletrax. Nielsen encoding enables Nielsen to provide services to clients. In order to opt-out of Nielsen encoding, simply click the “opt-out” checkbox on the Advertiser page within the Platform. Nielsen encoding allows Nielsen to access certain related metadata which they may use to inform their services and provide metadata and services to Extreme Reach and third parties. Nielsen will have no access to that metadata if you click the “opt out” check box.
-
-For some advertising solutions, Extreme Reach occasionally gathers information via cookies to provide clients with aggregated campaign information that enables them to produce and run the most relevant, engaging advertisements for their consumer audience. The cookie data is anonymous, does not contain any information that personally identifies any user and is only used in aggregate.
-
-Consumers can opt-out to suspend ER Digital data collection for the browser in question. The consumer’s ER Digital tracking cookie will be deleted from the consumer’s browser. An ER Digital opt-out cookie will be installed on the browser for the sole purpose of remembering and respecting the consumer’s opt-out status.
-
-Please note that ER Digital will continue to record consumer activity around a campaign, such as impressions and clicks, even after opting out. Opting out suspends the storage of an ER Digital browser-associated consumer profile.
-
-[Click here to opt-out](http://beacons.extremereach.io/optout)
+_last updated: June 1, 2018_
