@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeworldmaps.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120165922id_/http%3A//www.freeworldmaps.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeworldmaps.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627224953id_/http%3A//www.freeworldmaps.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Freeworldmaps.net
 
