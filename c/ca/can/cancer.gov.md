@@ -1,31 +1,26 @@
-> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129235053id_/http%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191706id_/https%3A//www.cancer.gov/policies/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security - National Cancer Institute
 
 NCI complies with requirements for privacy and security established by the Office of Management and Budget (OMB), Department of Health and Human Services (DHHS), and the National Institutes of Health (NIH). This page outlines our privacy and security policy as they apply to our site as well as third party sites and applications that NCI uses (for example, Facebook, YouTube).
 
-###### On This Page
-
-  * Your Visit to the NCI Website
-  * Your Visit to NCI on Third-Party Sites
-
-
+## Types of Information Collected
 
 Your visit to the NCI website is private and secure. When you visit the NCI website, we do not collect any personally identifiable information (PII) about you, unless you choose to explicitly provide it to us. We do, however, collect some data about your visit to our website to help us better understand public use of the site and to make it more useful to visitors. This page describes the information that is automatically collected and stored.
 
-### How NCI Collects Information
+## How NCI Collects Information
 
-When you browse through any website, certain information about your visit can be collected. NCI uses the Adobe Omniture Web Analytics and Google Analytics programs to collect information automatically and continuously. We use this information to measure the number of visitors to our site and its various sections and to distinguish between new and returning visitors to help make our site more useful to visitors. However, no personally identifiable information (PII) is collected.
+When you browse through any website, certain information about your visit can be collected. NCI uses the Adobe Omniture Web Analytics, Google Analytics, and Crazy Egg programs to collect information automatically and continuously. We use this information to measure the number of visitors to our site and its various sections and to distinguish between new and returning visitors to help make our site more useful to visitors. However, no personally identifiable information (PII) is collected.
 
-The NCI staff conducts analyses and reports on the aggregated data from Adobe Omniture and Google Analytics. The reports are only available to NCI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
+The NCI staff conducts analyses and reports on the aggregated data from Adobe Omniture Analytics, Crazy Egg, and Google Analytics. The reports are only available to NCI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
-NCI also uses online surveys to collect opinions and feedback from a random sample of visitors. NCI uses the Foresee Results’ American Customer Satisfaction Index (ACSI) online survey to obtain feedback and data on visitors’ satisfaction with the NCI website. This survey does not collect PII. Participation in the survey is voluntary. If you decline the survey, you will still have access to the identical information and resources on the NCI website as those who take the survey. Answers to the survey help NCI improve its website to make it easier to use and more responsive to the needs of our visitors.
+NCI also uses online surveys to collect opinions and feedback from a random sample of visitors. Cancer.gov uses the Qualtrics online survey tool to obtain feedback and data on visitors’ experiences on the Cancer.gov website. These surveys do not collect PII. Although the survey invitation is presented to a random sample of visitors, it is optional. If you decline the survey, you will still have access to the identical information and resources on Cancer.gov site as those who do not take the survey. The survey reports are available only to Cancer.gov managers, members of the Cancer.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
-NCI retains the data from Adobe Omniture, Google Analytics, and ACSI survey results only as long as required by law or needed to support the mission of the NCI website.
+NCI retains the data from Adobe Analytics, Google Analytics, and Qualtrics as long as needed to support the mission of the Cancer.gov website.
 
-### How NCI Uses Cookies
+## How NCI Uses Cookies
 
-The Office of Management and Budget (OMB) Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) allows Federal agencies to use session and persistent cookies.
+The Office of Management and Budget (OMB) Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. The cookie allows the server to "remember" specific information about your visit while you are connected. The cookie makes it easier for you to use the dynamic features of webpages. Requests to send cookies from NCI’s webpages are designed to collect information about your browser session only; they do not collect personal information about you.
 
@@ -43,31 +38,29 @@ The OMB Memo [M-10-22, Guidance for Online Use of Web Measurement and Customizat
 
 We use persistent cookies to help us recognize new and returning visitors to the NCI website. Persistent cookies remain on your computer between visits to the NCI website until they expire. We do not use this technology to identify you or any other individual website visitor.
 
-NCI is running the American Customer Satisfaction Survey (ACSI) on the website, which uses "persistent" cookies to block repeated invitations to take the ACSI survey.
-
 We also use persistent cookies to enable NCI’s Adobe Omniture Web Analytics and Google Analytics programs to measure how new and returning visitors use the NCI website over time.
 
 The OMB Memo 10-22 Guidance defines our use of persistent cookies as “Usage Tier 2 – Multi-session without Personally Identifiable Information (PII).” The policy says, “This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected.”
 
-### How to Opt Out or Disable Cookies
+## How to Opt Out or Disable Cookies
 
 If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources the NCI website provides.
 
 Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout_instructions.shtml>. Please note that by following the instructions to opt out of cookies, you will disable cookies from all sources, not just those from NCI’s website.
 
-### How Is Personal Information Protected?
+## How Is Personal Information Protected?
 
 You do not have to give us personal information to visit the NCI website.
 
 If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we maintain the information only as long as needed to respond to your question or to fulfill the stated purpose of the communication.
 
-For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426, or visit <http://oma.od.nih.gov/ms/privacy/privacyact.html>.
+For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426, or visit <https://oma.od.nih.gov/DMS/Pages/Privacy-Program.aspx>.
 
-### Disclosure
+## Disclosure
 
 NCI does not disclose, give, sell, or transfer any personal information about our visitors, unless required for law enforcement or by statute.
 
-### Site Security
+## Site Security
 
 NCI's website is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
