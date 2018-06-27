@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231042327id_/https%3A//uk.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023753id_/https%3A//uk.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
-
-Privacy Policy
-
-Print all sections
 
 Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Hotels.com website and/or any Hotels.com application, including the Hotels.com mobile and tablet applications or any application on a social media or other website (each an "App"), each of which are provided by Hotels.com, L.P. 5400 LBJ Freeway, Suite 500, Dallas, Texas 75240, USA (“Hotels.com”, “we”, or “us”).
 
@@ -46,7 +42,7 @@ Please review “Your choices with respect to the collection and use of your inf
 
 With whom we share your information
 
-With your consent, we may share your information with the following entities:
+We may share your information with the following entities:
 
   * Suppliers such as hotel, airline, car rental, and activity providers, who fulfil your travel reservations. All services provided by a third-party supplier are described as such. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this website or any App. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. While we may share anonymous reviews with our hotel suppliers, we will not share reviewer names or contact information unless you have explicitly told us that we may. We are not responsible for the hotel deducing your identity from the content of your review and contacting you directly.
   * Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or our Apps or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. They are also required to follow the same data security practices that we ourselves adhere to. Please note that these third party service providers may be established in countries that might not offer a level of protection for your personal information that is equivalent to the one offered in your country of residence. However, we will endeavor to protect all personal information we collect from you in accordance with strict data protection standards.
@@ -139,4 +135,4 @@ Suite 500
 Dallas, Texas 75240  
 USA
 
-This Privacy Statement is effective as of 10/04/15
+This Privacy Statement is effective as of 28 November 2016
