@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221204524id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627232827id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GMusicPlus.com
 
@@ -14,15 +14,72 @@ Location :: http://www.gmusicplus.com/ is Located in Nigeria, Africa.
 
 **Cookies and Web Beacons**
 
-http://www.gmusicplus.com/ does not use cookies, At-least not as of the time this Documentation was written
+Our site may use cookies to provide a better experience for our users. Your web browser places cookies on your hard drive for record-keeping purposes, as well as for tracking information. You can set your browser to refuse cookies at any time, or alert you when they are being sent.
 
-**Cookies & 3rd Party Advertisements**
+  * **Analytics Cookies**
+
+
+
+These Cookies are used by us or third-party service providers to analyze how the Sites are used and how they are performing. For example, these Cookies track what pages are most frequently visited, and from what locations our visitors come from. If you subscribe to a newsletter or otherwise register with the Sites, these Cookies may be correlated to you. These Cookies include, for example, Google Analytics cookies.
+
+  * **Cookies & Targeting or 3rd Party Advertisements**
+
+
+
+These Cookies collect information about your activities on these and other sites to provide you targeted advertising. We may also allow our third-party service providers to use Cookies on the Sites for the same purposes identified above, including collecting information about your online activities over time and across different websites. The third-party service providers that generate these Cookies, such as Google, Facebook, and Twitter, have their own privacy policies, and may use their Cookies to target advertising to you on other websites, based on your visit to our Sites.
 
 Google, as a third party vendor, uses cookies to serve ads on www.gmusicplus.com. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 [What Are Cookies?](https://en.wikipedia.org/wiki/HTTP_cookie)
+
+**What Information We Collect**
+
+Information you give us may include your name, email address and website address. We only collect this information when you voluntarily give it to us. You can always refuse to offer any information, but it may prevent you from using some aspects of the site.
+
+**Information we collect about you.**
+
+This is information that we collect automatically about your visit during your time on the Site. It typically involves technical information including the browser name, the type of computer, and technical information about User’s means of connection to our Site, such as the operating system, IP Address, and the Internet service providers utilized and other similar information. This type of information is typically collected using small data files called cookies. This information helps us to provide you with a good experience when you browse the Site and also to indicate where the Site requires improvement.
+
+**How We Use Collected Information**
+
+The information http://www.gmusicplus.com/ collects from you, whether personal or technical, may be used by us for the following purposes:
+
+To improve our customer service by responding to your requests more quickly and efficiently;
+
+We may use your information to better understand how our collective customers use our website;
+
+  * To improve our Site
+  * We may use feedback you provide to improve our services;
+  * To send you information you agreed to receive about our daily news updates
+  * To send periodic emails
+
+
+
+We may use your email address to send information and updates. It may also be used to respond to questions or other requests. If you choose to opt in to our mailing list, you’ll receive emails that include Gospel news, updates, and more. You can unsubscribe from our emails at any time by clicking the ‘unsubscribe’ link at the bottom of every email sent.
+
+**Where We Store Your Personal Data**
+
+All information that you provide to us is stored on our secure servers, and we will take reasonable steps to protect your information in accordance with this policy, including (but not limited to):
+
+  * Encrypting data; and
+  * Carrying out regular back-ups.
+
+
+
+**Sharing Your Personal Information**
+
+We may use third-party service providers to help us operate our the Site or administer activities on our behalf, such as sending out newsletters. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Your rights  
+**
+
+The right to request that inaccurate or incomplete information about you is made accurate;  
+The right to request the deletion or removal of your information where there is no further reason for us to use it;  
+The right to restrict the use of your information;  
+The right to obtain and reuse the information that we have about you for your own purposes;  
+The right to refuse certain uses (such as for marketing purposes)
 
 **Children’s Information**
 
