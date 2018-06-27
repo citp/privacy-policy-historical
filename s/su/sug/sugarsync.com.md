@@ -1,142 +1,252 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107202746id_/https%3A//www.sugarsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627052338id_/https%3A//www2.sugarsync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SugarSync
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=fe3b1457-f2b2-425b-a712-9a1cb9b87a88&lang=en "TRUSTe European Safe Harbor certification")
+## A. This Policy
 
-This Privacy Policy applies to all of the products, services and the website [www.sugarsync.com](https://www.sugarsync.com/) (collectively, the "services") offered by KeepItSafe, Inc. and j2 Global Ireland Limited (collectively known herein as "SugarSync, Inc."). This Privacy Policy is designed to assist you in understanding how we collect and use personal information related to the services. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the customer has engaged SugarSync, Inc. We hope that this will help you to make informed decisions when using the services. In this Privacy Policy, references to “SugarSync”, "we," "our" and "us" refer to SugarSync, Inc., while "you" and "your" refer to the SugarSync customer or user.
+This Policy explains how we may Process your Personal Data. This Policy may be amended or updated from time to time, so please check it regularly for updates.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+This Policy is issued by KeepItSafe, Inc. and j2 Global Ireland Limited on behalf of itself, its subsidiaries and its affiliates (including any entity lawfully trading under the SugarSync brand) (together, “ **Company** ”, “ **we** ”, “ **us** ” and “ **our** ”) and is addressed to individuals outside our organisation with whom we interact, including customers, visitors to our Sites, users of our Apps, and other users of our services (together, “ **you** ”). Defined terms used in this Policy are explained in Section (S) below.
 
-## INFORMATION WE COLLECT
+For the purposes of this Policy, Company is the Controller. This Policy covers the information practices relating to Company websites for the SugarSync brand and SugarSync services ("Services") offered now or in the future. Contact details are provided in Section (R) below.
 
-In order to provide the services, we collect the following types of information:
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
 
-### Registration Information
+## B. Collection of Personal Data
 
-When you register with SugarSync or for our community forum in order to create an account, we ask you to provide us with personal information including your name, email address, recipients email address, photo of yourself or a friend (optional), account password, account pin, mailing address and phone number, and depending upon the type of account you create, we may also ask you for billing information (such as credit card number) and the operating system of your computer or device used by you to use and access the services. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
+We may collect or obtain Personal Data about you: directly from you (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make your Personal Data public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Apps; when you visit our Sites; when you register to use any of our Sites, Apps, or services; or when you interact with any third party content or advertising on a Site or in an App. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).
 
-In order to use the services you must be at least thirteen (13) years of age. As children under the age of 13 are not allowed to use the services, this Privacy Policy makes no provision for their use. In the event that a user identifies himself or herself as a child under the age of 13 within the SugarSync website at www.sugarsync.com (our "website"), SugarSync will not collect, store or use any personal information of such user. Further, in the event that SugarSync receives personal information that SugarSync discovers was provided by a child under the age of 13, SugarSync will promptly delete such personal information in a secure manner.
+ **Collection of Personal Data:** We may collect Personal Data about you from the following sources:
 
-### User Communication
+  * Data you provide: We may obtain your Personal Data when you provide it to us (e.g., where you contact us via email or telephone, or by any other means, or when you provide us with your business card).
+  * Relationship data: We may collect or obtain your Personal Data in the ordinary course of our relationship with you (e.g., if you purchase a service from us).
+  * Data you make public: We may collect or obtain your Personal Data that you manifestly choose to make public, including via social media (e.g., we may collect information from your social media profile(s), if you make a public post about us).
+  * App data: We may collect or obtain your Personal Data when you download or use any of our Apps.
+  * Site data: We may collect or obtain your Personal Data when you visit any of our Sites or use any features or resources available on or through a Site. 
+  * Registration details: We may collect or obtain your Personal Data when you use, or register to use, any of our Sites, Apps, or services. 
+  * Content and advertising information: If you choose to interact with any third party content or advertising on a Site or in an App, we may receive Personal Data about you from the relevant third party. 
+  * Third party information: We may collect or obtain your Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.).
 
-We will send you a welcoming email to verify your e-mail address. We will also communicate with you in response to your inquiries, to inform you about the services, to manage your account, and for service-related announcements when it is necessary to do so. For instance, if the service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications. If you send us email or other communications, we may retain the content of your communications together with your email address and our responses.
 
-You have the opportunity to receive an email notification when a recipient accesses a file you sent to them as well as the option to receive a daily summary email for shared folder activities. You may unsubscribe from receiving these types of notifications by logging into your account and making the selections under notifications.
 
-You may ask that we send you emails when there are new forum posts added as well as new comments within a forum that you have already commented on. You may at any time opt-out from receiving these types of communications by logging into your forum account.
+## C. Creation of Personal Data
 
-### Files/Photos
+We may also create Personal Data about you, such as records of your interactions with us, and details of your purchase history for internal administration purposes and analysis.
 
-If you choose to use the services, we may store your electronic files or photos on our servers. Files and photos are encrypted on the SugarSync servers and are encrypted using Secure Socket Layer (SSL) encryption during transmission. If you utilize Web-based or mobile access to your files or photos, you must be sure to properly log off your Internet session to prevent access to your files or photos by someone using the same computer. Your files and photos may be stored for up to 90 days after you have deleted them from your account or after your account has been terminated. If you use the mobile app to upload photos to SugarSync you must be logged into the SugarSync app. The photos you choose to upload from your mobile phone are encrypted using Secure Socket Layer (SSL) encryption.
+## D. Categories of Personal Data we may Process
 
-You are in control of who is able to view your photos. You have the ability to set your albums to private, public or share them with other users. You may change the visibility of your albums at any time by logging into your account.
+We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites and Apps (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.
 
-We provide you the option to share photos on Facebook. If you elect to use that option you are providing us with your permission for access to your basic information, posting to your wall and your Facebook photos and videos. You may at any time revoke your permissions by logging into your Facebook account and removing the SugarSync Facebook app.
+### We may Process the following categories of Personal Data about you: 
 
-You have the option to share links to SugarSync on Facebook and Twitter. If you are already signed into either one of those services you will be prompted to post a link on your wall. If you are not signed in to either service you will be redirected to the applicable site and prompted to login. SugarSync has no access to your Facebook or Twitter account nor do we store your login information.
+  * Personal details: given name(s); preferred name; and photograph.
+  * Demographic information: gender; date of birth/age; nationality; salutation; job title/industry; and language preferences.
+  * Contact details: correspondence address; telephone number; email address; and details of your public social media profile(s).
+  * Consent records: records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
+  * Purchase details: records of purchases and prices.
+  * Payment details: invoice records; payment records; billing address; payment method; bank account number or credit card number; cardholder or accountholder name; card or account security details; card ‘valid from’ date; and card expiry date; BACS details; SWIFT details; IBAN details; payment amount; payment date; and records of cheques.
+  * Data relating to our Sites and Apps: device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; App usage statistics; App settings; dates and times of connecting to an App; location data, and other technical communications information (some of which may constitute Personal Data); username; password; security login details; usage data; aggregate statistical information.
+  * Employer details: where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address) to the extent relevant.
+  * Content and advertising data: records of your interactions with our online advertising and content, records of advertising and content displayed on pages or App screens displayed to you, and any interaction you may have had with such content or advertising (including mouse hover, mouse clicks, any forms you complete (including incomplete forms not submitted) and any touchscreen interactions).
+  * Views and opinions: any views and opinions that you choose to send to us, or publicly post about us on social media platforms.
 
-Our website includes social media features, such as the Facebook "like" button and widgets, the "share this" button, and interactive mini-programs that run on our website. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### Information That You Provide to Others
 
-If you want to share files or photos that are stored on your account with others, you will need to provide email addresses or other contact information for such persons. We will use the information you provide only to enable such persons to view the shared files or photos and to use the services. We will not use this information for any other purpose. Please note that SugarSync may prevent the sharing of certain types of files or photos, depending upon what services you are using.
+## E. Lawful basis for Processing Personal Data
 
-If you wish to add contacts to your account we will collect their name, phone number, email address and a photo (if you wish to upload one for them). This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. You may at any time remove this information from your account. If your contacts wish to be removed from our system for any reason they may contact us at [support.sugarsync.com](https://web.archive.org/web/20171107202746id_/https%3A//www.sugarsync.com/support.sugarsync.com). [support.sugarsync.com](http://support.sugarsync.com/).
+We may Process your Personal Data where: you have given your prior, express consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
 
-You may utilize an import contacts feature to help you keep in touch with your contacts. When using the import contacts feature, we will prompt you for your login information which we do not store or use for any other purpose. You can then access your contacts to share files, folders and public links and to invite people from your email address books to join SugarSync. Emails sent through SugarSync will identify you as the sender.
+In Processing your Personal Data in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances: 
 
-### Website Use Information
+  * Consent: We may Process your Personal Data where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
+  * Contractual necessity: We may Process your Personal Data where the Processing is necessary in connection with any contract that you may enter into with us;
+  * Compliance with applicable law: We may Process your Personal Data where the Processing is required by applicable law;
+  * Vital interests: We may Process your Personal Data where the Processing is necessary to protect the vital interests of any individual; or
+  * Legitimate interests: We may Process your Personal Data where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
 
-When you log onto and browse our website, our website server automatically receives and records information on our website server logs from your browser, which may include your IP address, cookie, browser type, internet service provider (ISP), operating system, clickstream data, page(s) viewed, the files viewed on our site (e.g., HTML pages, graphics, etc.), the date and time of visits, time spent at our website, and websites visited just before and just after our website. We do not link the information we store in cookies to any personal information you submit while on our website.
 
-Technologies such as cookies or similar technologies are used by SugarSync and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember your settings and for authentication purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+## F. Sensitive Personal Data
 
-We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+We do not seek to collect or otherwise Process your Sensitive Personal Data. Where we need to Process your Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.
 
-Certain web browsers may allow you to enable a "do not track" option that sends signals to the websites you visit indicating that you do not want your online activities tracked. This is different than blocking "cookies" as browsers with the "do not track" option selected may still accept "cookies." Right now, there is no industry standard for how companies should respond to "do not track" signals, although one may be adopted in the future. We do not respond to "do not track" signals at this time. If we do so in the future, we will modify this Privacy Policy accordingly. More information about "do not track" is available at [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+We do not seek to collect or otherwise Process your Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to process your Sensitive Personal Data for any reason, we rely on one of the following legal bases:
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * Compliance with applicable law: We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations); 
+  * Detection and prevention of crime: We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud); 
+  * Establishment, exercise or defence of legal rights: We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal rights; or
+  * Consent: We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
 
-We use analytics within our mobile application for visibility purposes, to track how many times the application was opened and the pages viewed within the application. However, we do not link the information we store within the analytics software to any personal information you submit within the mobile application and we do not use your personal information for analytics. We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our mobile application or services. We will only share this information with our mapping provider for the sole purpose of providing you the service. When you download and use the services, we automatically collect information on the type of device you use, the Universal Device Identifier (UDID) and the operating system version. We may occasionally send you push notifications through our mobile applications to send you services related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
-## HOW WE USE THE INFORMATION
 
-We use information which we collect for purposes of: providing the services, auditing, research and analysis in order to maintain, protect and improve the services, ensuring the functioning of our servers, providing customer service, contacting you as described in this Privacy Policy, enabling features of the services, such as to allow you to share photos and files with friends, and developing new products and services for our customers and prospective customers. We may also use the information we collect to notify you about important changes to the services, respond to your support requests, and send you newsletters and special offers which we think you may find valuable. You may notify us at any time if you do not wish to receive these offers by contacting us at support.sugarsync.com, by logging into your account and updating your notifications settings, or by following the unsubscribe instructions included in each communication. Please keep in mind that by using the services, we may need to send you information regarding your account, such as service announcements, so by your use of the services, you authorize us to send you such information and you may not opt out of receiving those messages.
+## G. Purposes for which we may Process your Personal Data
 
-### Data Protection
+We may Process your Personal Data for the following purposes: providing services to you; operating our Sites and Apps; communicating with you; managing our IT systems; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; and improving our Sites, Apps, and services.
 
-SugarSync may transfer certain personal information across geographical borders to United States entities or service providers in other countries working on our behalf in accordance with applicable law. By providing us with your information or using our websites, you consent to the collection, international transfer, storage, and processing of your information. These transfers are governed by European Union (EU) standard contractual clauses or equivalent data transfer agreements to protect the security and confidentiality of personal information.
+The purposes for which we may Process Personal Data, subject to applicable law, include: 
 
-### Referrals
+  * Provision of services to you: providing our Sites, Apps, and services to you; communicating with you in relation to those services, and providing you with promotional items at your request or in connection with those services or similar services. 
+  * Our Sites and Apps: operating and managing our Sites and our Apps; providing content to you; displaying advertising and other information to you; communicating and interacting with you via our Sites and our Apps; identifying issues with our Sites and Apps and planning improvements to or creating new Sites and Apps; and notifying you of changes to any of our Sites, our Apps, or our services.
+  * Communications: communicating with you via any means (including via email, telephone, text message, social media, post or in person) news items and other information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required.
+  * Communications and IT operations: management of our communications systems; operation of IT security systems; and IT security audits.
+  * Health and safety: health and safety assessments and record keeping; and compliance with related legal obligations.
+  * Financial management: sales; finance; corporate audit; and vendor management. 
+  * Surveys: engaging with you for the purposes of obtaining your views on our services.
+  * Security: physical security of our premises (including records of visits to our premises; and CCTV recordings); and electronic security (including login records and access details).
+  * Investigations: detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law. 
+  * Legal proceedings: establishing, exercising and defending legal rights.
+  * Legal compliance: compliance with our legal and regulatory obligations under applicable law.
+  * Improving our Sites, Apps, services: identifying issues with our Sites, our Apps, or our services; planning improvements to our Sites, our Apps, or our services; and creating new Sites, Apps, or services.
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. SugarSync stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [support.sugarsync.com](http://support.sugarsync.com/) to request that we remove this information from our database.
 
-### Public Forums
+## H. Disclosure of Personal Data to third parties
 
-Our website offers publicly accessible blogs, private messages, and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support.sugarsync.com](http://support.sugarsync.com/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may disclose your Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites or our Apps.
 
-The SugarSync community forum is hosted on our third party service provider's platform. All information collected within this area of the website is governed by our Privacy Policy. Our third party service provider is not allowed to use your personal information for any other purpose other than to provide the platform for the use of our clients.
+We may disclose your Personal Data to other entities within the Company group, for legitimate business purposes (including operating our Sites and our Apps, and providing services to you), in accordance with applicable law. In addition, we may disclose your Personal Data to: 
 
-You are in control of who is able to see your profile within the community forum.
+  * legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation; 
+  * outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
+  * third party Processors (such as payment services providers; data centers; etc.), located anywhere in the world, subject to the requirements noted below in this Section (H);
+  * any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal rights;
+  * any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security; 
+  * any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
+  * any relevant third party provider, where our Sites and our Apps use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content.
 
-### Sharing Information With Third Parties
 
-We do not share your files stored on our servers with any third parties unless instructed by you, a court orders us to do so, or as described herein. Your files are not considered "personal information."
 
-SugarSync does not sell or rent your personal information to third parties except that your personal information may be disclosed to third parties in the following circumstances:
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
 
-  * When you have signed up for the services, we may disclose your personal information to our affiliates and subsidiaries to provide the services to you.
-  * We may use third parties to perform services related to our operations such as payment processors, chat personnel, community platform hosting providers, and email service providers. In connection with these business operations, third parties may have access to your personal information including if you are a customer of one of our customers. These third parties will be subject to an agreement to treat your information in accordance with this Privacy Policy.
-  * Your personal information and Files may be disclosed as part of a merger, acquisition, or sale of company assets. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a notice on our website, which will include any choices you may have concerning your personal information and Files. In the unlikely event of an insolvency, bankruptcy or receivership, your personal information and Files may be transferred as a business asset.
-  * In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-  * We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to: (a) conform to the law or comply with legal process; (b) protect and defend our rights and property, the services and/or users of the services; (c) enforce the Terms of Service with respect to the services (including investigation of potential violations thereof); (d) detect, prevent or otherwise address fraud, security or technical issues; or (e) protect the safety of users of the services, us or third parties.
-  * We may share with third parties certain pieces of aggregated, non-personal information, such as the average number of photographs being stored by users. Such information does not identify you individually.
+## I. International transfer of Personal Data
 
+We may transfer your Personal Data to recipients in other countries. Where we transfer Personal Data from the EEA to a recipient outside the EEA that is not in an Adequate Jurisdiction, we do so on the basis of Standard Contractual Clauses.
 
+Because of the international nature of our business, we may need to transfer your Personal Data within the Company group, and to third parties as noted in Section (H) above, in connection with the purposes set out in this Policy. For this reason, we may transfer your Personal Data to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. 
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to www.sugarsync.com.
+Where we transfer your Personal Data from the EEA to recipients located outside the EEA who are not in Adequate Jurisdictions, we do so on the basis of Standard Contractual Clauses. You may request a copy of our Standard Contractual Clauses using the contact details provided in Section (R) below. 
 
-## SECURITY: UPDATING YOUR INFORMATION
+Please note that when you transfer any Personal Data directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. Within SugarSync, we restrict access to personal information to SugarSync employees, contractors and agents who need to know that information in order to operate, develop or improve the services. These persons are bound by confidentiality obligations. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [support.sugarsync.com](http://support.sugarsync.com/).
+## J. Data security
 
-### Email Transmissions
+We implement appropriate technical and organisational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us is sent securely.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private or sensitive information to us by email. Some of the personal information you may enter on our website (e.g., login, reset password, credit card number etc.) will be transmitted securely via Secure Sockets Layer (SSL) server, which encrypts such information.
+We have implemented appropriate technical and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. 
 
-### Links to External Sites
+Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement all reasonable measures to protect your personal data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely. 
 
-We are not responsible for the practices employed by websites linked to or from our website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website.
+## K. Data accuracy
 
-Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+We take every reasonable step to ensure that your Personal Data are kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.
 
-### How to Access and Correct Your Information
+We take every reasonable step to ensure that:
 
-Upon request SugarSync will provide you with information about whether we hold any of your personal information. You may access, delete inaccuracies, and correct your information at any time by logging into your account and changing the necessary information. If you need assistance in doing so, you may contact us at [support.sugarsync.com](http://support.sugarsync.com/). If you cancel your SugarSync account, your identification, billing and contact information may remain in our records for some period of time. We will respond to your request to access within 30 days.
+  * your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+  * any of your Personal Data that we Process that you inform us is inaccurate (having regard to the purposes for which they are Processed) are erased or rectified.
 
-We will retain your or your contacts' information (including geo-location data) for as long as your account is active or as needed to provide you the services unless you elect to remove that information. If you wish to cancel your account, contact us at [support.sugarsync.com](http://support.sugarsync.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## INFORMATION RELATED TO DATA COLLECTED THROUGH THE SERVICES
 
-SugarSync collects information under the direction of its customers, and has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use the services, please contact the customer that you interact with directly. SugarSync acknowledges that you have the right to access your personal information. If you are a customer of one of our customers and seek to access, correct, amend, or delete inaccurate data, please contact the customer (the data controller) that you interact with directly. If requested to remove data we will respond within 30 days.
+## L. Data minimisation
 
-We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
+We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.
 
-We will retain personal data we process on behalf of our customers for as long as needed to provide the services to our customers. We will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to our Apps and Sites. 
 
-## YOUR CONSENT
+## M. Data retention
 
-By using the services you consent to our collection and use of your personal information as described in this Privacy Policy. If we decide to change this Privacy Policy, we will post the updated Privacy Policy to our website and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We take every reasonable step to ensure that your Personal Data are only retained for as long as they are needed.
 
-We reserve the right to modify this Privacy Policy at any time. If we change how we use your or your contacts' personal information, we will notify you here, by email, or by means of a notice on our home page.
+We take every reasonable step to ensure that your Personal Data are only Processed for the minimum period necessary for the purposes set out in this Policy.
 
-## CONTACT US
+The criteria for determining the duration for which we will keep your Personal Data are as follows: we will retain copies of your Personal Data in a form that permits identification only for as long as is necessary in connection with the purposes set out in this Policy, unless applicable law requires a longer retention period. In particular, we may retain your Personal Data for the duration of any period necessary to establish, exercise or defend any legal rights.
 
-If you have any questions about this Privacy Policy, please feel free to contact us at [support@sugarsync.com](mailto:support@sugarsync.com) or write to us at Privacy Concerns, c/o SugarSync, 6922 Hollywood Blvd # 500, Los Angeles, CA 90028. 
+## N. Your legal rights
 
-Last updated January 2, 2017
+Under applicable law, you may have a number of rights, including: the right not to provide your Personal Data to us; the right of access to your Personal Data; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of Processing, of your Personal Data; the right to object to the Processing of your Personal Data; the right to have your Personal Data transferred to another Controller; the right to withdraw consent; and the right to lodge complaints with Data Protection Authorities. We may require proof of your identity before we can give effect to these rights.
+
+Subject to applicable law, you may have a number of rights regarding the Processing of your Relevant Personal Data, including:
+
+  * the right not to provide your Personal Data to us (however, please note that we may be unable to provide you with the full benefit of our Sites, our Apps, or our services, if you do not provide us with your Personal Data – e.g., we may not be able to process your orders without the necessary details);
+  * the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data;
+  * the right to request rectification of any inaccuracies in your Relevant Personal Data;
+  * the right to request, on legitimate grounds:
+    * erasure of your Relevant Personal Data; or
+    * restriction of Processing of your Relevant Personal Data;
+  * the right to object, on legitimate grounds, to the Processing of your Relevant Personal Data by us or on our behalf; 
+  * the right to have certain Relevant Personal Data transferred to another Controller, in a structured, commonly used and machine-readable format, to the extent applicable; 
+  * where we Process your Relevant Personal Data on the basis of your consent, the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Data in reliance upon any other available legal bases); and
+  * the right to lodge complaints with a Data Protection Authority regarding the Processing of your Relevant Personal Data by us or on our behalf.
+
+
+
+This does not affect your statutory rights. 
+
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section (R) below. Please note that: 
+
+  * we may require proof of your identity before we can give effect to these rights; and 
+  * where your request requires the establishment of additional facts (e.g., a determination of whether any Processing is non-compliant with applicable law) we will investigate your request reasonably promptly, before deciding what action to take.
+
+
+
+## O. Cookies and similar technologies (Cookie Policy)
+
+We may Process your Personal Data by placing or reading Cookies and similar technologies. For more information, please see our [Cookie Policy](https://web.archive.org/cookie).
+
+ **Cookie Policy**
+
+When you visit a Site or use an App we may place Cookies onto your device, or read Cookies already on your device, subject always to obtaining your consent, where required, in accordance with applicable law. We use Cookies to record information about your device, your browser and, in some cases, your preferences and browsing habits. We may Process your Personal Data through Cookies and similar technologies, in accordance with our [Cookie Policy](https://web.archive.org/cookie).
+
+## P. Terms of Use
+
+The Terms of Service located on our website will govern all use of our Sites and our Apps.
+
+All use of our Sites, our Apps, or our services is subject to our Terms of Service. We recommend that you review our Terms of Service regularly, in order to review any changes we might make from time to time.
+
+## Q. Direct marketing
+
+We may Process your Personal Data to contact you with information regarding services that may be of interest to you. You may unsubscribe for free at any time.
+
+We may Process your Personal Data to contact you via email, telephone, direct mail or other communication formats to provide you with information regarding services that may be of interest to you. If we provide services to you, we may send information to you regarding our services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law.
+
+You may unsubscribe from our promotional email list at any time by following the unsubscribe instructions included in every promotional email we send. We will not send you promotional emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any services you have requested or from additional lists you have signed up under.
+
+## R. Contact details
+
+ **The Company, or Company affiliate, has appointed a Data Protection Officer who may be contacted at the addresses set out below.**
+
+ **You may contact us about your direct marketing preference by emailing:[removeme@sugarsync.com](mailto:removeme@sugarsync.com)**
+
+If you wish to be taken off our contact list for direct marketing, or if you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of Personal Data carried out by us, or on our behalf, please contact:
+
+  * KeepItSafe, Inc.   
+6922 Hollywood Blvd. Suite 500  
+Hollywood, CA 90028  
+United States of America   
+Attn: Data Protection Officer (Copy to Legal Department)
+  * j2 Global Ireland Limited,   
+Unit 3.1, Woodford Business Park   
+Santry, Dublin 17   
+Ireland  
+Attn: Data Protection Officer (Copy to Legal Department)
+  * E-mail: [removeme@sugarsync.com](mailto:removeme@sugarsync.com)
+
+
+
+## S. Definitions
+
+  * “ **App** ” means any application made available by us (including where we make such applications available via third party stores or marketplaces, or by any other means).
+  * “ **Adequate Jurisdiction** ” a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Data.
+  * “ **Cookie** ” means a small file that is placed on your device when you visit a website (including our Sites). In this Policy, a reference to a “Cookie” includes analogous technologies such as web beacons and clear GIFs.
+  * “ **Controller** ” means the entity that decides how and why Personal Data are Processed. In many jurisdictions, the Controller has primary responsibility for complying with applicable data protection laws.
+  * “ **Data Protection Authority** ” means an independent public authority that is legally tasked with overseeing compliance with applicable data protection laws.
+  * “ **EEA** ” means the European Economic Area.
+  * “ **Personal Data** ” means information that is about any individual, or from which any individual is directly or indirectly identifiable, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that individual.
+  * “ **Process** ”, “ **Processing** ” or “ **Processed** ” means anything that is done with any Personal Data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+  * “ **Processor** ” means any person or entity that Processes Personal Data on behalf of the Controller (other than employees of the Controller).
+  * “ **Relevant Personal Data** ” means Personal Data in respect of which we are the Controller. It expressly does not include Personal Data of which we are not the Controller.
+  * “ **Sensitive Personal Data** ” means Personal Data about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, national identification number, or any other information that may be deemed to be sensitive under applicable law.
+  * “ **Standard Contractual Clauses** ” means template transfer clauses adopted by the European Commission or adopted by a Data Protection Authority and approved by the European Commission.
+  * “ **Site** ” means any website operated, or maintained, by us or on our behalf.
+
+
