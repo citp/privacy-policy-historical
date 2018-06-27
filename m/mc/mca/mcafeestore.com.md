@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201211426id_/http%3A//www.mcafeestore.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628003740id_/http%3A//www.mcafeestore.com/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | McAfee™ Official Store
+# Privacy Policy | McAfee™ Official Store UK
 
 McAfee Privacy Notice
 
