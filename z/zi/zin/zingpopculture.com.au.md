@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingpopculture.com.au privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302063558id_/https%3A//www.zingpopculture.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingpopculture.com.au privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627082548id_/https%3A//www.zingpopculture.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ZiNG Pop Culture
 
