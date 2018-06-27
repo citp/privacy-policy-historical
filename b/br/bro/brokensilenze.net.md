@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the brokensilenze.net privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129023656id_/http%3A//www.brokensilenze.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokensilenze.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627182840id_/http%3A//www.brokensilenze.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BrokenSilenze.net Urban Entertainment Blog
+# Privacy Policy – BrokenSilenze.net
 
-> ****
+> **  
+> **
 > 
-> ###  -Privacy Policy-
+> ### -Privacy Policy-
 > 
 > BrokenSilenze.net only discloses potentially personally-identifying and personally-identifying information in response to a subpoena, court order or other governmental request, or when BrokenSilenze.net believes in good faith that disclosure is reasonably necessary to protect the property or rights of BrokenSilenze.net, third parties or the public at large.
 > 
@@ -18,4 +19,4 @@
 > 
 > Ads appearing on any of our websites may be delivered to users by advertising partners. Cookies allow the ad server to recognize your computer each time they send you an online advertisement. This information allows ad networks to deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by BrokenSilenze.net and does not cover the use of cookies by any advertisers or any other sites that are linked to from BrokenSilenze.net.
 
-### _CONTACT: BrokenSilenze.Contact@gmail.com_
+### _CONTACT: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
