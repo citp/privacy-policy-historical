@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsindot.gov privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115323id_/http%3A//wisconsindot.gov/Pages/global-footer/Privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsindot.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191950id_/http%3A//wisconsindot.gov/Pages/global-footer/Privacy-notice.aspx) for the most accurate reproduction.*
 
 # Wisconsin Department of Transportation Privacy notice
 
@@ -6,7 +6,7 @@
 
 Wisconsin has an "Open Records Law" that allows any member of the public to inspect most records maintained by the state. Both Wisconsin and federal laws identify select records that are confidential or that may be disclosed only for limited purposes. [Wisconsin Department of Transportation Access to Records form](https://web.archive.org/Documents/records-access.pdf)
 
-During your visit to the Wisconsin Department of Transportation (WisDOT) Internet site, information that cannot be directly linked to individuals is automatically collected and stored.This information is used to improve our web services but is open to inspection under the public records law. For more detail on our privacy policy, please see the expanded statement below.
+During your visit to the Wisconsin Department of Transportation (WisDOT) Internet site, information that cannot be directly linked to individuals is automatically collected and stored. This information is used to improve our web services but is open to inspection under the public records law. For more detail on our privacy policy, please see the expanded statement below.
 
 ###  Use of collected information
 
