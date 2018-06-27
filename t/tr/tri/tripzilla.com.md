@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripzilla.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903141646id_/https%3A//www.tripzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripzilla.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627132659id_/https%3A//www.tripzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
