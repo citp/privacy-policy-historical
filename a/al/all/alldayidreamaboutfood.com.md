@@ -1,39 +1,106 @@
-> *The following text is extracted and transformed from the alldayidreamaboutfood.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119040452id_/https%3A//alldayidreamaboutfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldayidreamaboutfood.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627213432id_/https%3A//alldayidreamaboutfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Day I Dream About Food
 
-All Day I Dream About Food is dedicated to maintaining the privacy and protection of your personal information.   This privacy policy tells you about the information we collect on our website and how we use that information. By using the All Day I Dream About Food website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
+[Privacy Tools](https://alldayidreamaboutfood.com/privacy-policy/privacy-tools/)
 
-#### Information We Collect
+All Day I Dream About Food (“Website”) is governed by the following Privacy Policy.
 
-When you leave comments on All Day I Dream About Food, you have the option of providing your name, blog or website url, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site.
+All Day I Dream About Food is dedicated to maintaining the privacy and protection of your personal information.  The purpose of this privacy policy is to inform you about the information we collect on our website and how it may be used. This statement only applies to this Website.
 
-#### Log Files
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Like most standard websites, this website uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use.
+  * **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
+  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+  * **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. Other than the IP address, this information is not linked to anything that is personally identifiable.  IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
-#### Web Cookies and Beacons
 
-Web cookies are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
+**HOW YOUR INFORMATION MAY BE USED**
 
-Web beacons are objects that are embedded in a webpage or email that are invisible to the user, but allow checking that a user has viewed the page or email. Other names are web bug, tracking bug, tag or page tag.
+We may use the information collected in the following ways: 
 
-This website does use cookies. Additionally, some of my business partners (for example, advertisers) may use cookies and web beacons as well. This site has no access to, or control of advertisers’ web cookies or web beacons.
+  * To operate and maintain the Website; 
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings; 
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts; 
+  * To respond to your comments or inquiries; 
+  * To provide you with user support; 
+  * To track and measure advertising on the Website; 
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-If you wish to disable cookies, you may do so through your individual browser options. Please check your browser’s help section for instructions on how to do this.
 
-#### Links
 
-This website contains links to other websites. Please be aware that I am not responsible for the privacy practices of other websites. I encourage you, when you leave this website, to read the privacy policy (or privacy statement) of each and every website you visit, as this particular privacy policy applies solely to this particular website.
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-#### Advertisers
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information. 
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers: 
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-#### Webmaster Contact Information
+Mad Mimi – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. For more information, please see Mad Mimi’s privacy policy. 
 
-If you have any questions or suggestions regarding this privacy policy, please feel free to contact me alldayidreamaboutfood (at) gmail (dot) com.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion. 
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+**ANONYMOUS DATA**
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+**PUBLICLY VISIBLE INFORMATION**
+
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
+
+**COOKIES**
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein. 
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**
+
+**Display Ads  
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads  
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website. 
+
+**Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+**Affiliate Program Participation  
+**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
+
+All Day I Dream About Food is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at alldayidreamaboutfood@gmail.com to be removed from our mailing list. 
+
+**Access** – You may access the personal information we have about you by submitting a request to alldayidreamaboutfood@gmail.com. 
+
+**Amend** – You may contact us at alldayidreamaboutfood@gmail.com to amend or update your personal information. 
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to alldayidreamaboutfood@gmail.com. 
+
+Please note that we may need to retain certain information for record keeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at alldayidreamaboutfood@gmail.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at alldayidreamaboutfood@gmail.com for questions related to this Privacy Policy. 
+
+Last updated: June 8, 2018
