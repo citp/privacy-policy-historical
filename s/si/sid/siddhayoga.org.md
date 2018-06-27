@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121020927id_/http%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225927id_/http%3A//www.siddhayoga.org/privacy) for the most accurate reproduction.*
 
 # SYDA Foundation Privacy Policy
 
-  * SYDA Foundation (SYDA) is committed to protecting the privacy of visitors to our websites,[ www.siddhayoga.org](http://www.siddhayoga.org/); [siddhayogabookstore.org](http://siddhayogabookstore.org/); and the [Siddha Yoga path Online online site](https://cms.sym.org/SYDAOnline/Common/login.aspx?mode=4) (the “Sites”).
+**Privacy Policy posted on 09/20/2016 (Effective Date)**
+
+## Introduction
+
+  * The SYDA Foundation (SYDA) is committed to protecting the privacy of visitors to our websites, [www.siddhayoga.org](https://www.siddhayoga.org/); [siddhayogabookstore.org](https://siddhayogabookstore.org/); and the [Siddha Yoga online site ](https://cms.sym.org/SYDAOnline/Common/login.aspx?mode=4)(the “sites”).
   * Please review the following Privacy Policy so that you understand the practices of SYDA regarding the collection, use, and disclosure of information relating to your use of these sites.
   * By using the websites mentioned above, you agree to comply with and be bound by this Privacy Policy and the [Terms of Use](https://web.archive.org/terms).
   * By using these websites you consent to have personal data that you provide transferred to and processed in the United States for the purposes described below.
@@ -12,12 +16,6 @@
 ## Site Usage Information We Track
 
   * When necessary, SYDA may use your IP address to help diagnose problems with its server and to administer its sites. SYDA also may track, in aggregate, the browser and device types, geographic location, and behavior of visitors to help SYDA understand its visitors' needs related to our site designs.
-
-
-
-## Do Not Track Disclosure
-
-  * Do Not Track ("DNT") is a privacy preference that users can set in their web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. At this time, we do not track our users/visitors over time and across third party websites to provide targeted advertising and therefore do not respond to DNT signals.
 
 
 
@@ -40,14 +38,14 @@
   * These sections contain forms, which require your name and e-mail address, date of birth, country of residence and which may request, but not require, other personally identifiable information, including your postal address or phone number.
   * Also, these sites allow you the option of registering to receive e-mails about new products or other matters of interest regarding the Siddha Yoga Bookstore, Siddha Yoga events, and the SYDA.
   * By entering your data into these forms, you give SYDA permission to use and store your personal information, to contact you via e-mail, to send e-mail messages to you containing information relating to your interest in SYDA, and to share your information with third-party service providers who commit to use reasonable measures to protect the confidentiality of your personal data in a manner consistent with our policies.
-  * The option to "opt-out" of receiving e-mails and mailings is available to you at any time that you request it. You can terminate these by sending an e-mail to [webmaster@syda.org](mailto:Webmaster@syda.org).
-  * If you have any questions about the privacy of any information submitted to SYDA’s sites, please contact SYDA by e-mail at [webmaster@syda.org](mailto:Webmaster@syda.org) or by postal mail at SYDA Foundation Attn: Webmaster, P.O. Box 600, South Fallsburg, NY 12779.
+  * The option to "opt-out" of receiving e-mails and mailings is available to you at any time that you request it. You can terminate these by sending an e-mail to [webmaster@syda.org](mailto:webmaster@syda.org).
+  * If you have any questions about the privacy of any information submitted to SYDA’s sites, please contact SYDA by e-mail at [webmaster@syda.org](mailto:webmaster@syda.org) or by postal mail at SYDA Foundation Attn: Webmaster, P.O. Box 600, South Fallsburg, NY 12779.
 
 
 
 ## Information SYDA Foundation Collects when You Make a Purchase at the Bookstore
 
-  * If you make a purchase at the SYDA Bookstore, [siddhayogabookstore.org](http://siddhayogabookstore.org/), using the online payment system, SYDA requests you provide certain information that is necessary for SYDA's third-party service providers to charge your credit or debit card and fulfill your order.
+  * If you make a purchase at the SYDA Bookstore, [siddhayogabookstore.org](https://siddhayogabookstore.org/), using the online payment system, SYDA requests you provide certain information that is necessary for SYDA's third-party service providers to charge your credit or debit card and fulfill your order.
   * These service providers use an order form that requests certain information about you, such as your e-mail and shipping address, and your credit or debit card information.
   * Your credit or debit card information will not be stored by SYDA. 
     * However, this information will be stored by the third-party card processing service.
@@ -57,7 +55,7 @@
 
 ## Information SYDA Foundation Collects when You Offer Dakshina, or Register for Siddha Yoga Events
 
-  * If you offer dakshina or register for a Siddha Yoga event using the online payment systems, SYDA requests you provide certain information that is necessary for SYDA's third-party service providers to charge your credit or debit card, or charge your bank account.
+  * If you offer _dakshina_ or register for a Siddha Yoga event using the online payment systems, SYDA requests you provide certain information that is necessary for SYDA's third-party service providers to charge your credit or debit card, or charge your bank account.
   * These sites use an online form that requests certain information about you, such as your e-mail and billing addresses, credit or debit card information, or bank account number. 
     * Your card and bank account information will not be stored by SYDA.
     * However, this information will be stored by the third-party transaction processing service. SYDA may use your e-mail and/or address information to contact you.
@@ -98,13 +96,13 @@
 
 ### Business Transition
 
-  * If SYDA goes through a business transition, such as a reorganization, acquisition by another entity, or transfer of all or a substantial portion of our assets, SYDA reserves the right to transfer your personal information to any successor entity in connection with such business transition.
+  * If SYDA goes through a business transition, such as reorganization, acquisition by another entity, or transfer of all or a substantial portion of our assets, SYDA reserves the right to transfer your personal information to any successor entity in connection with such business transition.
 
 
 
-## Links to Other Web Sites
+## Links to Other Websites
 
-  * SYDA is not responsible for the contents, services, privacy policies, or practices of any websites to which SYDA may hyperlink from its websites.
+  * SYDA is not responsible for the contents, services, privacy policies, or practices of any websites to which SYDA may hyperlink from its websites.
   * SYDA encourages you to be aware of this when you leave SYDA websites and to read the privacy statements of each and every website that collects personally identifiable information.
 
 
@@ -127,10 +125,10 @@
 ## Notification of Changes to This Privacy Policy
 
   * SYDA reserves the right to modify this Privacy Policy at any time, so please review it frequently.
-  * Users will be made aware of these changes by the change of the version number and effective date at the top of this policy.
+  * Users will be made aware of these changes by the change of the effective date at the top of this policy.
   * If SYDA makes a change that it reasonably believes may materially affect how it collects, discloses, or otherwise shares your personal information, SYDA will post a separate notice to that effect on its home page with a link to the revised policy.
-  * Any changes made to this Privacy Policy will apply to any personal information that you provide to SYDA on or after the effective date of such changes and any information previously collected from you by SYDA.
-  * If you do not agree with the revised terms of this Privacy Policy, you may terminate your use of these websites and contact SYDA to unsubscribe from any e-mails it sends at [http://www.siddhayoga.org/contact](https://web.archive.org/contact) or by mailing us at SYDA Foundation, 371 Brickman Road, P.O. Box 600, South Fallsburg, NY 12779
+  * Any changes made to this Privacy Policy will apply to any personal information that you provide to SYDA on or after the effective date of such changes and any information previously collected from you by SYDA.
+  * If you do not agree with the revised terms of this Privacy Policy, you may terminate your use of these websites and contact SYDA to unsubscribe from any e-mails it sends at [http://www.siddhayoga.org/contact](https://web.archive.org/contact) or by mailing us at SYDA Foundation, 371 Brickman Road, P.O. Box 600, South Fallsburg, NY 12779.
 
 
 
