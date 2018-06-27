@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107071728id_/https%3A//taiga.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627144822id_/https%3A//taiga.io/privacy-policy.html) for the most accurate reproduction.*
 
-# Taiga.io
+# Privacy Policy - Taiga.io
 
 ## General Information
 
@@ -42,6 +42,24 @@ Taiga adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice
 
 For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Taiga by sending an email to [privacy@taiga.io](mailto:privacy@taiga.io "Send mail to privacy@taiga.io"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
 
+## General Data Protection Regulation (GDPR)
+
+If you are located in the European Union, you are entitled to the following rights with regard to your personal information and data:
+
+  * Right of access to your personal data, to know what information about you we hold
+  * Right to correct any incorrect or incomplete personal data about yourself that we hold
+  * Right to restrict/suspend our processing of your personal data
+  * Right to complain to a supervisory authority if you believe your privacy rights are being violated
+  * Additional rights that may apply to you in certain instances:
+    * Right of data portability (if our processing is based on consent and automated means)
+    * Right to withdraw consent at any time (if processing is based on consent)
+    * Right to object to processing (if processing is based on legitimate interests)
+    * Right to object to processing of personal data for direct marketing purposes
+    * Right of erasure of your personal data from our system (“right to be forgotten”) if certain grounds are met
+    * To exercise your privacy rights, you can email us at the address given below in the ‘Questions’ section of this Privacy Policy
+
+
+
 ## Changes
 
 Taiga may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Taiga primary account holder account or by placing a prominent notice on our site.
@@ -50,4 +68,4 @@ Taiga may periodically update this policy. We will notify you about significant 
 
 Any questions about this Privacy Policy should be addressed to [privacy@taiga.io](mailto:privacy@taiga.io "Send mail to privacy@taiga.io").
 
-iocaine lock promote trash unlock client-requirement project team-requirement add scrum bulk close dashboard discover drag exclamation flag fold-column fold-row graph issues kanban like-empty like question search settings team timeline unfold-column unfold-row unwatch user wiki archive arrow-down arrow-left arrow-right arrow-up attachment briefcase bubble-empty bubble bug capslock check clipboard document documents downvote edit error filters-empty filters github maximize minimize move reload save upload upvote writer watch check-empty task api customize feel-love highly-designed integration lend-hand powerful smiley speak-up gallery list
+iocaine discover issues like team wiki arrow-up watch task api customize feel-love highly-designed integration lend-hand powerful smiley speak-up arrow-up Play Close Close/cancel button check-empty
