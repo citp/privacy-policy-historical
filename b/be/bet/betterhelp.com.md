@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002133847id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627142114id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterHelp
 
@@ -14,7 +14,7 @@ To let us operate the Platform effectively and to let you use the Platform, incl
 
 When you sign up to the Platform, update your account details, provide your billing information, provide your emergency contact information or make other use of our services, we may ask you for personally identifiable information ("Personal Information"). The Personal Information can be used can be used to contact you or identify you and it may include, but not limited to, your name, your email, your phone number, your address and your credit card information. We may use the Personal Information, either by itself or in conjunction with other information, for the following purposes:
 
-    * Create your account at our Platform, let you login into the account, administer your account, monitor your account, provide customer service and contact you with information, alerts and suggestions that are related to your account.
+    * Create your account at our Platform, let you log in to the account, administer your account, monitor your account, provide customer service and contact you with information, alerts and suggestions that are related to your account.
     * Billing-related purposes.
     * Reach out to you, either ourselves or using the appropriate authorities, if either we or a Provider has a good reason to believe that you or any other person may be in danger or may be either the cause or the victim of a criminal act.
     * Let a Provider know your first name so he or she can communicate with you effectively.
