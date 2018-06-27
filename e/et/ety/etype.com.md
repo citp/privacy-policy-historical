@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etype.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118084344id_/http%3A//etype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etype.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627084849id_/http%3A//etype.com/privacy.php) for the most accurate reproduction.*
 
 # eType Privacy Policy
 
 **1\. Your Privacy Policy**  
 1.1. At eType we recognize that privacy is important to you. This Privacy Policy applies to all eType Services.  
-1.2. If you have any questions, comments or concerns regarding this Privacy Policy, please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20171118084344id_/http%3A//etype.com/contact.php).  
+1.2. If you have any questions, comments or concerns regarding this Privacy Policy, please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20180627084849id_/http%3A//etype.com/contact.php).  
 **2\. Definitions**  
 2.1. Any and all terms and definitions used herein shall have the same meaning as set forth in the Terms of Use unless otherwise indicated herein.  
 2.2. In this Privacy Policy the following capitalized definitions are being used, singular as well as plural.  
