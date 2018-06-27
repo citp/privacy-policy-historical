@@ -1,113 +1,76 @@
-> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215072528id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasterarchery.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193308id_/http%3A//www.lancasterarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Lancaster Archery Supply Privacy Policy
 
-This policy applies to www.lancasterarchery.com and www.lancasterarcherydealer.com.
+### Effective Date: 05/24/2018
 
-#### What information do we collect?
+This Privacy Policy describes how Lancaster Archery Supply Inc. (“Lancaster Archery”, “we”, “our”, or “us”) collects, uses, and shares personal information of users of this website, [www.lancasterarchery.com](http://www.lancasterarchery.com/) or [www.lancasterarcherydealer.com](http://www.lancasterarcherydealer.com/) (the “Site”). We periodically update this Privacy Policy and reserve the right to change the provisions of this Policy or our privacy practices at any time. If you subscribe to Lancaster Archery, then you will receive notice when this Privacy Policy is modified. If not, then we encourage you to review this site periodically and we will alert you that changes have been made by updating the Effective Date of the Policy. Your use of the Site constitutes consent to any changes in this Policy as in effect on the date of such use.
 
-We collect information from you when you register on our site, place an order or fill out a form.
+#### Your Rights to Access Your Personal Information
 
-Any data we request that is not required will be specified as voluntary or optional.
+You have the right to access personal information about you that Lancaster Archery has collected through this Site by sending a request for access to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34474144445b46407458555a5755474051465546575c51464d1a575b59). You can also request that we correct or delete any such information by sending an email to the same address. To verify that the request is authentic, we may require that such request be sent from the email address associated with your personal information. While we will comply reasonably and promptly with your request, we may need to retain some of your information for our own record keeping or to fulfill a legal obligation.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+If you are a subscriber to Lancaster Archery, you may correct, update, or remove your information by making the change on your user account settings page, or by emailing our Customer Support Team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b282e2b2b34292f1b373a35383a282f3e293a2938333e292275383436). If you no longer desire our services, please contact us directly.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+#### What is personal information?
 
-#### What do we use your information for?
+Personal information means information that specifically identifies an individual person, such as name, mailing address, email address, phone number, or account number. It may also include other information about you, such as gender, date of birth, or other demographic information, or about your use of the Site, such as IP address or cookies, if that other information is linked to your personal information.
 
-Any of the information we collect from you may be used in one of the following ways:
+#### How your information is collected
 
-**\- To personalize your experience.** Your information helps us to better respond to your individual needs.
+Lancaster Archery collects personal information that you provide to us. For example:
 
-**\- To improve customer service.** Your information helps us to more effectively respond to your customer service requests and support needs.
-
-**\- To process transactions.** Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-
-**\- To send periodic emails.** The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from promotional emails, we include detailed unsubscribe instructions at the bottom of each email. You may also manage your email preferences at any time by visiting [http://www.lancasterarchery.com/preference-center](https://web.archive.org/preference-center).
-
-#### How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
-
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-#### Do we use cookies?
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-#### Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-#### Third Party Links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-#### California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and editing their account information.
-
-#### Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-#### CAN-SPAM Compliance
-
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
-
-#### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-#### Your Consent
-
-By using our site, you consent to our privacy policy.
-
-#### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
-
-This policy was last modified on 9-03-09.
-
-#### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[www.lancasterarchery.com](http://www.lancasterarchery.com/)
-
-2195A Old Philadelphia Pike  
-Lancaster, Lancaster 17602  
-USA  
-carole@lancasterarchery.com  
-(717) 394-7229 
-
-#### Privacy Policy Customer Pledge
-
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
-
-  * Federal Trade Commision Fair
-  * California Online Privacy Protection Act
-  * Childrens Online Privacy Protection Act
-  * Privacy Alliance
-  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
+  * If you sign up for Lancaster Archery’s services, Lancaster Archery may require you to register by providing your name, email address, phone number, and other information. You may be asked to create a username and password to login to our website.
+  * If you apply for a job with Lancaster Archery, we may ask you to provide more detailed and sensitive personal information required for compliance with our hiring and equal opportunity policies and practices.
+  * Our website includes social media features, such as links to our Facebook, YouTube and Twitter pages. Your interactions with these features are governed by the privacy policy of the company providing it.
+  * Our website also includes customer reviews where we may post information with your consent.
 
 
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form.](https://secure.trust-guard.com/disputesystem/disputeresolution.php)
+We also collect some of your information automatically when you visit or log on to this Site. For example, this Site collects your IP address and other online identifiers and records the pages that you visit and other information about your activity on the Site.
 
-Respectfully,
+Like many other websites, we ask you to allow us to use “cookies” to remember information about you and improve your browsing experience on our Site. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited. We may also work with third-party providers who may use cookies on our Site. You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-A. Robert Kaufhold
+#### What we do with your information
 
-President, Lancaster Archery Supply
+Lancaster Archery may use your personal information to:
 
-www.lancasterarchery.com's privacy policy has been verified by [Trust Guard](http://www.trust-guard.com/).
+  * provide products and services;
+  * send requested product or service information;
+  * send marketing communication;
+  * send you emails or otherwise respond to questions, concerns, and customer support inquiries;
+  * create demographic profiles of our subscribers, clients, and visitors to target our email alerts and website marketing; or
+  * improve the services we offer you or the functionality of our Site.
+
+
+
+Lancaster Archery does not sell personal information to third parties and does not transfer or share customers’ personal information. Lancaster Archery will share your personal information only:
+
+With your consent;
+
+  * to fulfill a legal obligation, including:
+\- in response to lawful requests or legal process, including in response to law enforcement requirements; or  
+\- as part of a business transaction, sale or transfer, or bankruptcy proceeding;  
+
+  * for protection of personal or public safety or to prevent illegal activities;
+  * to protect our own rights including enforcing our own policies, contracts, and terms of use.
+
+
+
+Lancaster Archery may also use anonymous or pseudonymous personal information for internal purposes, such as to monitor the performance of its platform, or to track the effectiveness of and improve its products, processes, or services. Lancaster Archery may also share anonymous or pseudonymous data with selected third parties.
+
+Note: We understand our emails may not always be relevant, for your convenience, an unsubscribe link is included at the bottom of each email. You may also manage your email preferences at any time by visiting [http://www.lancasterarchery.com/preference-center](https://web.archive.org/preference-center).
+
+#### How Lancaster Archery Protects Personal Information
+
+Lancaster Archery follows generally accepted standards to protect personal information and information submitted by our customers, both during transmission and once we receive it. Lancaster Archery maintains all customers in carrier-class secure facilities protected by firewalls and other security devices. These measures are designed to protect visitor and customer information from loss, misuse, or unauthorized alteration. Lancaster Archery employs various information security mechanisms and internal policies and procedures to protect information from disclosure to unauthorized third parties. Lancaster Archery routinely audits its practices and policies to meet industry standards for data protection. Lancaster Archery provides an SSL encrypted, password-protected mechanism for logging in, viewing, uploading, and extracting customer data.
+
+Personal information provided to Lancaster Archery by its customers remains the property of its customers.
+
+#### Who to Contact
+
+To report any issues or concerns, or to contact Lancaster Archery with any questions regarding this Privacy Policy, email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#384b4d4848574a4c785459565b594b4c5d4a594a5b505d4a41165b5755), or call 800.829.7408.
+
+You may also contact us as follows:  
+Fax: 717.556.1390  
+Postal Address: Lancaster Archery Supply, 21 Graybill Rd, Leola, PA 17540
