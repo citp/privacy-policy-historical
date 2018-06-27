@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902141842id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195912id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bisnow
+# Privacy Policy
 
 Bisnow, LLC (“Bisnow”) respects your concerns about privacy. This Privacy Policy describes the types of personal information we collect, how we use (and don’t use!) the information and with whom we share it. We also describe, among other things, the measures we take to protect the security of the information and how you can contact us about our privacy practices. We recognize that we must maintain and use your personal information responsibly.
 
@@ -54,6 +54,7 @@ We use the personal information you provide to us in several ways. Some examples
 
   * Register you for membership at our Sites’, and manage and maintain your account on the Sites 
   * Provide products or services you request 
+  * For other event attendees in the form of attendee lists 
   * Validate, confirm, verify, deliver and track your purchases (including contacting you about your orders, including by telephone) 
   * Maintain a record of the purchases you make and the areas you browse on our Sites 
   * Respond to your questions and comments and provide customer support 
@@ -131,7 +132,7 @@ If you choose to provide us with personal information, we may transfer that info
 
 ### CHILDREN’S PRIVACY
 
-These Sites are not intended for children under the age of 13. We will not knowingly collect personally identifiable information from Site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose online. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us via e-mail at the above e-mail address if they would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our databases.
+These Sites are not intended for children under the age of 18. We will not knowingly collect personally identifiable information from Site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose online. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us via e-mail at the above e-mail address if they would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our databases.
 
 ### online tracking
 
@@ -151,8 +152,8 @@ If you have any questions or comments about this Privacy Policy, or if you would
 
 Bisnow, LLC  
 [http://www.bisnow.com](http://www.bisnow.com/)  
-718 7th St NW, 2nd Floor  
-Washington, DC 20001
+123 William Street, Floor 15  
+New York NY 10038
 
 Bisnow cannot be bought.
 
