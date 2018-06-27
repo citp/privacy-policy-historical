@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011095626id_/https%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627185431id_/https%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This document is to explain how we handle data and information collected from you whilest visiting our web site.
+### Privacy Policy for Subscribers:
 
-###  Privacy Policy for Subscribers:
-
-**The following policy applies to subscribers of our services:**  
+ **The following policy applies to subscribers of our services:**  
 To register for our services you will have to provide us with personally identifiable information to enable us to provide you with our services.The information you provide will be entered into our database.
 
 If you register as a subscriber, we do not make your personally identifiable information available to anyone unless required by law to do so.
 
-###  Information Collected from E-mail:
+### Information Collected from E-mail:
 
 When you send us personally identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, information you submit may be viewed by various people within Afrihost. Once received, the information to your email is protected in accordance with law, (e.g. the Privacy Act and the Freedom of Information Act).
 
-###  Privacy Policy for All Visitors
+### Privacy Policy for All Visitors
 
-**This is information Collected and Stored Automatically:**  
+ **This is information Collected and Stored Automatically:**  
 When you visit our web site to read web/html pages or download information, we automatically collect and store the following non-identifying information:
 
   * The Internet protocol (IP) address from which you access our web site. An IP address is a unique number that is automatically assigned to the computer you are using whenever you are surfing the web.
@@ -28,6 +26,6 @@ When you visit our web site to read web/html pages or download information, we a
 
 
 
-###  Security, Intrusion, and Detection:
+### Security, Intrusion, and Detection:
 
 For site security purposes and to ensure that this service remains available to all users, our computer system employs software programs and hardware devices to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
