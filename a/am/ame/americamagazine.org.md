@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929034443id_/https%3A//www.americamagazine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627095014id_/https%3A//www.americamagazine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | America Magazine
 
@@ -83,10 +83,12 @@ BY ACCESSING OR USING THE SERVICE YOU ARE AGREEING TO BE BOUND BY THE TERMS SET 
 
  _26._ _Notice to California Customers – Your California Privacy Rights_. You have the right to opt out of our sharing your information to third parties for the third parties’ direct marketing purposes. If you wish to opt of our sharing of your information for the third parties’ direct marketing purposes, please contact customer service at (800) 627-9533.
 
- _27._ _Links to Other Websites._ SERVICE PROVIDER is not responsible or liable for the practices employed by the owners or users of websites linked to or from the SERVICE. Furthermore, SERVICE PROVIDER is not responsible or liable for the information or content on such third party sites. This Privacy Policy is only in effect for the SERVICE and not for any third party website and you are subject to the terms of use and privacy and other policies of such third party website.
+ _27._ Compliance with EU directives. SERVICE PROVIDER complies with the EU Data Protection Directive 95/46/EC framework as set forth by the European Union regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SERVICE PROVIDER adheres to the requirements of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
- _28._ _Discussion Rooms, Comments, Etc._ Any information posted in a discussion room, group room, comments, blog, or the like is considered publicly accessible and the user should not post any information it wishes to keep confidential.
+ _28\. Links to Other Websites._ SERVICE PROVIDER is not responsible or liable for the practices employed by the owners or users of websites linked to or from the SERVICE. Furthermore, SERVICE PROVIDER is not responsible or liable for the information or content on such third party sites. This Privacy Policy is only in effect for the SERVICE and not for any third party website and you are subject to the terms of use and privacy and other policies of such third party website.
 
- _29._ _Modifications._ SERVICE PROVIDER reserves the right to change this Policy from time to time without notice and in its sole discretion. The modifications will take effect immediately upon posting on the SERVICE website. Continued access of the SERVICE website by you will constitute your acceptance of any modifications or revisions to this Policy.
+ _29._ _Discussion Rooms, Comments, Etc._ Any information posted in a discussion room, group room, comments, blog, or the like is considered publicly accessible and the user should not post any information it wishes to keep confidential.
 
-REVISED June 15, 2017.
+ _30._ _Modifications._ SERVICE PROVIDER reserves the right to change this Policy from time to time without notice and in its sole discretion. The modifications will take effect immediately upon posting on the SERVICE website. Continued access of the SERVICE website by you will constitute your acceptance of any modifications or revisions to this Policy.
+
+REVISED May 24, 2018.
