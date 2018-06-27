@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarehistoricalphotos.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921044526id_/https%3A//rarehistoricalphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarehistoricalphotos.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628000452id_/https%3A//rarehistoricalphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rare Historical Photos
 
@@ -34,6 +34,6 @@ We do not sell, trade, or rent users personal identification information to othe
 RareHistoricalPhotos.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. By using this Site, you signify your acceptance of this policy.
 
 **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here](http://rarehistoricalphotos.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here](https://rarehistoricalphotos.com/contact/).
 
 _This document was last updated on August 19, 2014._
