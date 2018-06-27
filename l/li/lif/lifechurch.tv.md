@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifechurch.tv privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119060713id_/https%3A//www.life.church/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifechurch.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627043731id_/https%3A//www.life.church/privacy) for the most accurate reproduction.*
 
-# Life.Church | Privacy Policy
+# Privacy Policy | Life.Church
 
 ### Posted August 18, 2015
 
