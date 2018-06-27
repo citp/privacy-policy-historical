@@ -1,82 +1,81 @@
-> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302013744id_/https%3A//www.fxempire.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628012421id_/https%3A//www.fxempire.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FXEmpire.com
+# Privacy Policy
 
-FX Empire Inc. (“ **FX Empire** “, “ **we** ” or “ **us** “) respects the privacy of the users of its website at the address <http://www.fxempire.com/> (the “ **Site** “) (“ **User** ” or “ **you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you use our Site and our Service (as such terms are defined in our [Terms of use](http://www.fxempire.com/terms-of-use) at (the “ **TOU** “)) available on the Site.  
+Last Revised: June 01, 2014
+
+FX Empire Inc. (“ **FX Empire** “, “ **we** ” or “ **us** “) respects the privacy of the users of its website at the address [https://www.fxempire.com](https://www.fxempire.com/) (the “ **Site** “) (“ **User** ” or “ **you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you use our Site and our Service (as such terms are defined in our [Terms of use](https://www.fxempire.com/footer/terms-of-use) at (the “ **TOU** “) available on the Site.  
 Capitalized terms which are not defined herein, shall have the meaning ascribed to them in the TOU, which this Privacy Policy is incorporated thereto by reference.
 
-* Your Consent (PLEASE READ CAREFULLY!) 
+  1. Your Consent (PLEASE READ CAREFULLY!) 
 
 BY ENTERING TO, CONNECTING TO, ACCESSING OR USING THE SITE AND/OR SERVICE, AND/OR BY GRANTING US ACCESS TO THE DATA (AS SUCH TERM IS DEFINED IN THE TOU) YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “ **PRIVACY POLICY** “), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE AND/OR SERVICE AND/OR DO NOT GRANT US ACCESS TO THE DATA.
 
-* Which information we may collect on our Users? 
+  2. Which information we may collect on our Users? 
 
 We may collect two types of data and information from our Users:
 
-  1. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from which we have collected Non-personal Information.** Non-Personal Information is any unconcealed information which is available to us while Users are using the Site and/or Service. Non-personal Information which is being gathered consists of technical information and behavioral information, including, but not limited to, the User’s operating system, type of browser, screen resolution, Flash version, the User’s ‘click-stream’ on the Site, the period of time the User visited the Site, etc.
-  2. The second type of information is individually identifiable information (“ **Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature.** Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User.
-  3. Users who are only visiting the Site do not need to provide any Personal Information.
-  4. Users who are interested in receiving our newsletter should provide details via the registration form of the Site, i.e., e-mail address. The User may also provide, at his/her sole discretion, his/her age.
-  5. The User’s IP address.
-
-
+    1. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from which we have collected Non-personal Information.** Non-Personal Information is any unconcealed information which is available to us while Users are using the Site and/or Service. Non-personal Information which is being gathered consists of technical information and behavioral information, including, but not limited to, the User’s operating system, type of browser, screen resolution, Flash version, the User’s ‘click-stream’ on the Site, the period of time the User visited the Site, etc.
+    2. The second type of information is individually identifiable information (“ **Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature.** Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User.
+    3. Users who are only visiting the Site do not need to provide any Personal Information.
+    4. Users who are interested in receiving our newsletter should provide details via the registration form of the Site, i.e., e-mail address. The User may also provide, at his/her sole discretion, his/her age.
+    5. The User’s IP address.
 
 **We will not collect any Personal Information from you without your approval which is obtained, inter alia, through Your active acceptance to the TOU and the Privacy Policy.  
 Your Data is used in order to provide the Service provided in the Site. When we do that, we only use the non-identifiable information relating to your financial Data and not your identifiable information.**
 
-* How Do We Collect Information on Our Users? 
+  3. How Do We Collect Information on Our Users? 
 
 There are two main methods we use:
 
-  1. **We collect Non-personal Information through your use of the Site and/or Service.** In other words, when you are using the Site and/or Service we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below.
-  2. **We collect Personal Information which you provide us voluntarily.** We collect Personal Information required to operate the Service when you to our newsletter by completing the registration form.
+    1. **We collect Non-personal Information through your use of the Site and/or Service.** In other words, when you are using the Site and/or Service we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below.
+    2. **We collect Personal Information which you provide us voluntarily.** We collect Personal Information required to operate the Service when you to our newsletter by completing the registration form.
 
-
-
-* What are the Purposes of the Collection of Information? 
+  4. What are the Purposes of the Collection of Information? 
 
 Non-personal Information is collected in order to: Personal Information is collected in order to:
 
-  * Operate the Service (i.e. allow premium subscription users to follow the portfolios displayed in the site).
-  * Be able to contact Users for the purpose of providing them with technical assistance, reminders and other related information to the Service and collect feedback regarding the Service.
-  * Reply to your online queries made through the Site.
-  * Determine general geolocation information (i.e, country).
+    * Operate the Service (i.e. allow premium subscription users to follow the portfolios displayed in the site).
+    * Be able to contact Users for the purpose of providing them with technical assistance, reminders and other related information to the Service and collect feedback regarding the Service.
+    * Reply to your online queries made through the Site.
+    * Determine general geolocation information (i.e, country).
 
-
-
-* Sharing Information with Third Parties 
+  5. Sharing Information with Third Parties 
 
 FX Empire will not share any Personal Information it collects with any third party. Notwithstanding, FX Empire may disclose Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User’s support requests; (e) respond to claims that any content available on the Site violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of FX Empire, its Users, or the general public; (h) when FX Empire is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold and/or manage your Personal Information through FX Empire’s authorized third party service providers, as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) **to collect your personal Data through the means of a third party service provider who will use your log-in credentials for such purpose** ; or (k) pursuant to your explicit approval prior to the disclosure.  
 For avoidance of doubt, FX Empire may transfer and disclose Non-personal Information to third parties at its own discretion.
 
-* Modification or Deletion of Personal Information 
+  6. Modification or Deletion of Personal Information 
 
 If for any reason you wish to modify or delete your Personal Information you may do so on the Site or by sending us an email to: [info@fxempire.com](mailto:info@fxempire.com), and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we will retain your Personal Information for a period of ninety (90) days.
 
 _However, please note that although your Account and Personal Information related thereto may be removed from our databases, FX Empire will retain the anonymous information contained in the Data you provided, and such information will continue to be used by us for the purpose of operating the Service._
 
-* Cookies & Local Storage 
+  7. Cookies & Local Storage 
 
 When you access or use the Service, Company may use industry-wide technologies such as “cookies” or similar technologies, which stores certain information on your computer (“Local Storage”) and which will allow us to enable automatic activation of certain features, and make your Service experience much more convenient and effortless. The cookies used by the Service are created per session and registration does not include any information about you, other than your session key (removed as your session ends (usually after 24 hours) and the ability to login again quickly (removed after two years). It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
 
-* Direct Marketing & Advertisements 
+  8. Direct Marketing & Advertisements 
 
 You hereby agree that we may use your contact details for the purpose of informing you regarding products and services (offered by FX Empire and/or by third parties) which may interest you, and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided.  
 You may withdraw your consent via sending a written notice to FX Empire by email to the following address: [support@fxempire.com](mailto:support@fxempire.com) [Please Confirm] or on the same manner as the advertising was transmitted to you (e.g. via phone text message). It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties, and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof.  
 We accept advertisements from third party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our Users. Note that if you click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect non-personal and/or personal information about you. We recommend that you review the terms of use and privacy policy for any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
 
-* Security 
+  9. Security 
 
 We take a great care in implementing and maintaining the security of the FX Empire Site and our Users’ Personal Information. fx Empire employs industry standard procedures to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information. However, we do not guarantee that unauthorized access will never occur.
 
-* Third Party Software/Service 
+  10. Third Party Software/Service 
 
 While using the Site and/or Service we may be using third party software and/or service, in order to collect and/or process the information detailed herein such services may include Google analytics which privacy policy is available at: google.com.
 
-* Changes to the Privacy Policy 
+  11. Changes to the Privacy Policy 
 
 The terms of this Privacy Policy will govern the use of the Site and Service and any information collected therein. FX Empire reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you provided in the registration form. Such substantial changes will take effect seven (7) days after such notice was provided on our website or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site and/or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
 
-* Have any Questions? 
+  12. Have any Questions? 
 
 If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us to the following address and we will make an effort to reply within a reasonable time frame:[info@fxempire.com](mailto:info@fxempire.com)
+
+
+
