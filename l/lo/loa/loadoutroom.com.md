@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadoutroom.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119054120id_/https%3A//loadoutroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadoutroom.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627170911id_/https%3A//loadoutroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Loadout Room
 
@@ -80,9 +80,9 @@ The third party analytics companies who collect information on our Sites and/or 
 
 In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Force12 Sites and/or Services and to otherwise collect and use data about your use of Force12 Sites and/or Services. For more information about this practice, please see the “Third Party Advertising Technologies” section below.
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
+Google has additional information available about their [Remarketing Privacy Guidelines](https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
 ## 2\. How We Use Information
 
