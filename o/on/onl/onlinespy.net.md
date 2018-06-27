@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinespy.net privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927082608id_/http%3A//www.onlinespy.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinespy.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628002354id_/http%3A//www.onlinespy.net/policy) for the most accurate reproduction.*
 
-# Privacy Notice | Online Spy
+# Privacy Notice |
 
 **OnlineSpy.net**  recognizes that its customers, visitors, users, and others who use www.onlinespy.net (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Funny or Die Sites. Onlinespy.net provides this Privacy Notice to help you make an informed decision about whether to use or continue using the sites.
 
