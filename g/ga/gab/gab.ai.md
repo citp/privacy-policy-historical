@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gab.ai privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609183913id_/https%3A//gab.ai/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gab.ai privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101500id_/https%3A//gab.ai/about/privacy) for the most accurate reproduction.*
 
-# Privacy. | Gab
+# Gab.ai | Privacy
 
 _Last updated: August 18th, 2016_
 
-Protecting your privacy is important to us. With this in mind, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://gab.ai/about/tos). So, please make sure that you have read and understand our [Terms of Service](https://gab.ai/about/tos). Revisions to this Privacy Policy
+Protecting your privacy is important to us. With this in mind, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://gab.ai/about/tos). So, please make sure that you have read and understand our [Terms of Service](https://gab.ai/about/tos).
 
 Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we'll update the "Last Updated Date" above to indicate when those changes will become effective.
 
@@ -40,7 +40,7 @@ We may share aggregated information and non-identifying information with third p
 
 ### Information Disclosed for Our Protection and the Protection of Others.
 
-We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal or legally actionable activity. 
+We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal or legally actionable activity.
 
 ## Your Choices
 
@@ -52,7 +52,7 @@ We may periodically send you free emails that directly promote our Services. Whe
 
 ## Modifying Your Information.
 
-You can access and modify the information contained in your Profile through the App. If you want us to delete your PII and your Account, please contact us at hello@gab.ai with your request. We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the information contained in your Profile through the App. If you want us to delete your PII and your Account, please contact us at [legal@gab.ai](mailto:legal@gab.ai) with your request. We'll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 ## The Security of Your Information
 
@@ -72,4 +72,4 @@ Our Services are not directed to children under the age of 13 and we do not know
 
 ## Questions?
 
-Please contact us at [hello@gab.ai](mailto:hello@gab.ai) if you have any questions about our Privacy Policy.
+Please contact us at [legal@gab.ai](mailto:legal@gab.ai) if you have any questions about our Privacy Policy.
