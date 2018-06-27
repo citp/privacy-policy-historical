@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210208id_/http%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627100527id_/http%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
 
 # Privacy Policy | Business Insurance
 
@@ -6,7 +6,7 @@ Businessinsurance.com is a news and information service from Business Insurance 
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
-This site uses [Google Analytics](https://www.google.com/policies/privacy/partners/).
+This site uses [Google Analytics](https://www.google.com/policies/privacy/partners/) and [Fullstory](https://www.fullstory.com/legal/privacy).
 
 When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. We may from time to time obtain data from third parties such as business partners or other companies and append it to existing user data to add more detail to the information we have about you.
 
