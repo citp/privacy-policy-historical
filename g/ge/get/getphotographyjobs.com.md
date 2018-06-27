@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getphotographyjobs.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913124000id_/https%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getphotographyjobs.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035301id_/https%3A//www.getphotographyjobs.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy @GetPhotographyJobs.com
+# Privacy Policy @ GetPhotographyJobs.com
 
 Get Photography Jobs has the following Privacy Policy with respect to information gathered on Web pages hosted by Get Photography Jobs. Such information is received by Get Photography Jobs. This privacy policy explains to you how your information is protected, collected and used and may be updated from time to time. Our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. We will provide notice of materially significant changes to this privacy policy by posting notice on the Get Photography Jobs site. We encourage you to check our policy periodically. The terms "we" and "us" refer to Get Photography Jobs. Your use of this website indicates that you accept the terms of this privacy policy. If you do not accept the terms, then do not use this website.
 
-#### The Information We Collect
+## The Information We Collect
 
 Personally Identifiable Information — When visiting Get Photography Jobs and signing up for or using Get Photography Jobs services, you may choose to supply Get Photography Jobs with information that identifies you personally. For End-Users, this information may include, without limitation, your name and contact information, shipping and billing information, credit card numbers and other payment information. For Clients, this information may include, without limitation, the Client's name and contact information, the Client's web site information (including without limitation name, URL), payment information, and user comments.
 
@@ -14,7 +14,7 @@ Non-personally Identifiable Information - You may choose to supply Get Photograp
 
 Information about children: We are concerned about the privacy of young children and we do not knowingly collect any personal information from a child under the age of 13. We do not sell products or services for purchase by children.
 
-#### The Way We Use Information
+## The Way We Use Information
 
 We use the information collected on this website to complete the transaction for which the information is intended. Such transactions may include, without limitation: administering a service, such as search, community, advertising sales, ecommerce; completing an order; replying to support requests; or contacting you if you have granted us permission to do so. We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information about you, including information collected using cookies, in order to provide advertisements about goods and services of interest to you. For more information about this practice, or to opt out of it, [visit this link](https://www.google.com/policies/technologies/ads/). We may share the information with third parties to the extent that is necessary to administer the services we offer our Clients and End-Users or if we are required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We also may disclose information about users to law enforcement officers or others when we have a good faith belief that the disclosure is reasonably necessary to enforce our Terms of Use, respond to claims that any posting or other content violates the rights of third-parties, or protect the rights, property, or personal safety of Get Photography Jobs, its users or the general public. 
 
@@ -22,7 +22,7 @@ From time to time, we also use the information to inform you of additions or imp
 
 Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-#### Our Commitment to Data Security
+## Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online. Personnel who have access to our database are trained to maintain and secure all information.
 
@@ -30,7 +30,7 @@ We store in our database all classified and other postings and they remain in ou
 
 Search engines not affiliated with Get Photography Jobs also may archive or otherwise make available content, including without limitation, postings and resumes, from Get Photography Jobs and we cannot guarantee the security in connection with any such unaffiliated entity in connection with Get Photography Jobs postings, content, or otherwise.
 
-#### How You Can Access or Update Your Information
+## How You Can Access or Update Your Information
 
 Clients can access their personally identifiable information that Get Photography Jobs collects online and maintains by logging in to their password-protected account and selecting "Edit My Profile".
 
@@ -40,6 +40,6 @@ If you wish to remove your personally identifiable information from our newslett
 
 If you have questions or concerns about any of our information collection or handling practices, please contact us at contact@getphotographyjobs.com, write to us at 128 N. Pitt St, Suite 2, Alexandria, VA 22314 or by calling (703) 880-6630.
 
-#### Feedback
+## Feedback
 
 Get Photography Jobs welcomes your feedback on this document by email at contact@getphotographyjobs.com
