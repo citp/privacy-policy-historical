@@ -1,81 +1,73 @@
-> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215151032id_/http%3A//theforce.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627123912id_/http%3A//www.theforce.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # TheForce.net: Privacy Policy
 
-This site is owned and operated by TF.N, LLC. Your privacy on the Internet is of the utmost importance to us. At Theforce.net, we want to make your experience online satisfying and safe.
+PRIVACY POLICY 
 
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+1\. INTRODUCTION TF.N LLC (“TFN” or “we”) owns Theforce.net, which provides a collection of online services, including, without limitation, various communication tools, message boards, social networking features, personalized content and branded programming, and any other features, content or applications offered from time to time by TFN, including when the Services are accessed via the Internet, mobile or other device. 
 
-INFORMATION Theforce.net.com GATHERS AND TRACKS
+As set forth in our Terms of Use the Services are general audience sites, are not targeted to children, and TFN does not knowingly collect personal information from children under 13 years of age 
 
-Theforce.net gathers two types of information about users:
+This Privacy Policy applies to each visitor to and user of the Services (individually “User” and collectively, “Users”), including both those who use some of the Services without being registered (“Visitors”) and those who have registered with one of more of the Services (“Members”) to participate in an activity on the Services. By visiting or using the Services you are agreeing to abide by this Privacy Policy. 
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, registration for collection tracking and from participation in polls, surveys and entering our drawings:
-  * Information Theforce.net gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Theforce.net and Collecting Headquarters, Inc. derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free or low cost to users. 
+This Privacy Policy describes TFN’s collection and use of Users’ personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on the Services. It also describes generally TFN’s practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular User. 
 
-Theforce.net Gathers User Information In The Following Processes:
+2\. USER SUBMITTED INFORMATION A. “Registration Information” is the information that Users provide to TFN: (a) to register for certain Services, for example, creating a profile, participating in forums and contests, or participating in chat rooms; or (b) to purchase products or services from or through the Services. Registration Information may include one or more of the following: date of birth, email address, first name, and time zone. 
 
-Optional Voluntary Information
+B. “Profile Content” consists of information Members may choose to add to their member profile, including a Member’s profile picture or avatar, user name, vanity URL, stated location, gender, online addresses, interests, social media contact information (i.e., facebook name, twitter name, and the like) and free-form content such as a Member’s Bio, friends, photo albums, signature, and similar information. A Member’s Profile Content is always public and available to anyone, including other users, search engines, advertisers, third-party application developers, and anyone else with access to the Services. Profile Content may be displayed in search results both on the Services and on external search engines. 
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:
+C. “Public Site Content” consists of information you disclose in public areas of the Services, such as your Profile Content, message boards, chat rooms and other community areas. Please be aware that Public Site Content is always public and available to anyone, including other users, search engines, advertisers, third-party application developers, and anyone else with access to the Services. Public Site Content may be displayed in search results both on the Services and on external search engines. 
 
-Electronic newsletters
+D. “Correspondence” consists of information you disclose when you contact TFN, for example, for customer service purposes. 
 
-We may offer a free electronic newsletter to users. Theforce.net gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. 
+3\. TFN COLLECTED INFORMATION When users access the Services, we may collect certain non-personally identifiable information about those visits. For example, in order to permit your connection to the Services, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Services from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. We may use these technologies to collect and store information about your usage of the Services, including your actions while using the Services, such as pages you have visited, search queries you have run, advertisements you have seen, as well as other anonymous, non-personally identifiable information. TFN may also use cookies and similar tools to relate your use of the Services to personal information obtained from you or a third party. 
 
-Message boards/forums
+Third parties that support the Services by serving advertisements or providing services, such as allowing users to share content or tracking aggregate site usage statistics, may also use these technologies to collect similar information. TFN does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. 
 
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe’s website. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through the Services. 
 
-Polling
+To improve the quality of the Services, we may supplement the information we collect with information from third parties. If you access the Services through a third-party connection or log-in, we may also collect your user ID and/or user name associated with that third-party service, or any information you have made public in connection with that service or which the third party shares with partner services. 
 
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Theforce.net may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+4\. USE AND DISCLOSURE OF INFORMATION We only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. 
 
-Surveys
+We use the information we collect from and about Users for the following purposes: 
 
-Theforce.net may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+A. To provide and manage the Services. We use the information we collect from and about Users to provide the Services and features to you including to measure and improve those services and features, to personalize your experience by delivering relevant content, advertising and marketing messages, to allow you to participate in message boards, contests or promotions, to enable you to communicate and share with other users, and to provide you with customer support and respond to inquiries. We may use aggregated, anonymous data about use of and activity on the Services to assist us in this regard and such data is not subject to this Privacy Policy. 
 
-Children
+B. To allow third-party service providers to assist us in providing and managing the Services. TFN may make your non-public personal information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the Services. These outside service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to TFN. 
 
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+C. To allow other Users to find you. In order to locate Members that a User may already know in the physical world and/or want to get to know in the online world, TFN allows Users to search for Members using information the User already knows, such as username and identifies users matching that search information. 
 
-Usage tracking
+D. To deliver relevant advertising. We may use the information you provide to us, and information we collect about your use of the Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit the Services. We may work with third-party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Services. As noted above, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. 
 
-Theforce.net tracks user traffic patterns throughout. However, we do not correlate this information with data about individual users. Rebelscum.com may break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+E. To contact you. TFN may periodically send promotional materials (e.g., newsletters) or notifications related to the Services to the email address you provided to us at registration or to your account. If you want to stop receiving promotional materials from TFN, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of as long as you are a Member, such as notifications of changes to the Services or policies. 
 
-Theforce.net may track and catalog the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+F. To protect the rights of TFN and our users. There may be instances when TFN may disclose user information without providing notice or choice, including situations where TFN has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of TFN, our employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the Services or members of the public; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. 
 
-Cookies
+G. To complete a merger or sale of assets. If TFN sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, TFN may transfer your information to the party or parties involved in the transaction as part of that transaction. 
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Theforce.net uses cookies to track user traffic patterns (as described above), to track use of our polling feature, and to save users time when registering for our giveaways. Additionally, our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+5\. INDIVIDUAL RIGHTS IN THE EUROPEAN ECONOMIC AREA If you are located in the European Economic Area, you may seek confirmation regarding whether TFN is processing personal information about you, request access to your personal information and ask that we correct, amend or delete your personal information. Please note that this is in regard to your personal information, not content you have posted to our sites. 
 
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+If applicable law provides you the right to request access to, (receive) port, object to or restrict processing, seek rectification or request erasure of personal information held about you by TFN, you may do so, as applicable, through controls on TFN sites or by contacting TFN directly. To protect your privacy, TFN will endeavor to take commercially reasonable steps to verify your identity before granting access to or making any changes to your personal information. 
 
-USE OF INFORMATION
+6\. MEANS OF NOTICE This Privacy Policy is the primary means by which TFN provides you with notice about its collection and use of your personal information. TFN will not use your personal information in a manner different from what is described in this Privacy Policy without your permission. 
 
-Theforce.net may use any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+7\. PRIVACY POLICY CHANGES AND ACCEPTANCE RSI may change this Privacy Policy at any time and the changes will become effective as noted on the policy. You are responsible for checking periodically for changes and your continued use of the Services after the Effective Date indicates your acceptance of the new Privacy Policy. 
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, forums and drawings. We may send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
+This Privacy Policy was last revised on May 24, 2018. 
 
-Theforce.net creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+The Effective Date of this Privacy Policy is May 25, 2018. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
+8\. LOCATION OF DATA The Services are hosted in the United States. If you are a User located outside the United States, you understand and consent to having any personal information you provide transferred to and processed in the United States. U.S. data protection and other relevant laws may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care. 
 
-SHARING OF THE INFORMATION
+9\. LINKED WEBSITES OR SERVICES The Services may also be linked to sites or services operated by third parties, and may carry advertisements or offer content, functionality, contests, or applications developed and maintained by third parties. TFN is not responsible for the Privacy practices of any such third parties, and once you leave the Services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party site. 
 
-Theforce.net uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We may also share user information to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+10\. SECURITY TFN uses commercially reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification. 
 
-SECURITY
+11\. CONTACT US If you have questions about this Privacy Policy, please contact TFN via email at webmaster@theforce.net or write to us at: 
 
-Theforce.net operates a secure data network protected by industry standard firewall and password protection systems. Our security and privacy policies are reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our visitors.
+Lidji Dorey & Hooper  
+500 N. Akard  
+Suite 3500  
+Dallas, TX 75201  
 
-OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * Opting not to register to receive our electronic newsletters, if any.
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
-
-YOUR CONSENT
-
-By using this site, you consent to the collection and use of this information by Theforce.net. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
