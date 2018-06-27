@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219093621id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110910id_/https%3A//grist.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Grist
 
@@ -6,7 +6,7 @@ Privacy Policy   |   [Terms of Use](https://web.archive.org/about/terms) 
 
 **Last Updated: February 25, 2016**
 
-Grist Magazine, Inc. (“Grist,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [grist.org](http://grist.org/) (“website”). Use of this website is also subject to our [Terms of Use](https://web.archive.org/about/terms).
+Grist Magazine, Inc. (“Grist,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [grist.org](https://grist.org/) (“website”). Use of this website is also subject to our [Terms of Use](https://web.archive.org/about/terms).
 
 This Policy outlines:
 
@@ -99,7 +99,7 @@ You can set preferences for how Google advertises to you using the [Google Ad Pr
 
 **5\. Updating Your Communications Preferences and Personally Identifiable Information**
 
-Visitors who no longer wish to receive promotional communications from us may opt-out by submitting a request to “Website and email help” on our [contact form](http://grist.org/contact/).
+Visitors who no longer wish to receive promotional communications from us may opt-out by submitting a request to “Website and email help” on our [contact form](https://grist.org/contact/).
 
 **Back to Top**
 
