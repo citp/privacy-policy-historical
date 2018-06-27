@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visualping.io privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819185159id_/https%3A//visualping.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualping.io privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627153638id_/https%3A//visualping.io/privacy) for the most accurate reproduction.*
 
-# Website checker, website change detection, monitoring and alerts
+# Visualping: #1 Website change detection, monitoring and alerts
 
 Please read this document carefully. It is the Visualping Privacy Policy (the “Privacy Policy”) and explains how personal information is collected, used and disclosed by Visualping with respect to your access and use of this web site (located at www.visualping.io) (the “Site”).
 
