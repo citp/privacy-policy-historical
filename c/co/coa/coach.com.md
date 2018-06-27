@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221125751id_/http%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627030809id_/https%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
 
 # COACH: Security and Privacy
 
-Thank you for visiting [www.coach.com](http://www.coach.com/) (our “Website”), which is owned and operated by Coach, Inc. and its affiliated companies (collectively “Coach”).
+  1. [Stores & Sites](https://web.archive.org/aboutus?contentObject=stores-sites "Stores & Sites")
+  2. Security & Privacy
+
+
+
+Thank you for visiting [www.coach.com](https://www.coach.com/) (our “Website”), which is owned and operated by Coach, Inc. and its affiliated companies (collectively “Coach”).
 
 This privacy policy explains Coach’s information and data processing practices, as well as the choices you can make about the way your personal information or personally identifiable information (“PII”) is collected in our stores, on our social media platforms and via our Website, as well as the manner in which Coach will use your information.
 
@@ -46,7 +51,7 @@ Coach also works with a third party vendor, Omniture to analyze web user’s bro
 
 We also may use a technology known as clear gifs to help us confirm your receipt of and response to our emails. If you wish to prevent further use of clear gifs in this manner, you can unsubscribe from our mailing list by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at [privacy@coach.com](mailto:privacy@coach.com) with your request to be removed from our email list, or by changing your preferences in your Account. 
 
-**Do Not Track (DNT)**
+Do Not Track (DNT) 
 
 We do not respond to or honor "Do Not Track" (also known as DNT) signals or similar mechanisms transmitted by web browsers. To learn more about browser tracking signals and DNT, please visit http://allaboutdnt.org.
 
@@ -82,7 +87,7 @@ Occasionally we may provide a link to a third party website, which is not owned 
 
 In the unlikely event that Coach or substantially all of its assets are acquired by another company, or due to any merger, reorganization or liquidation, your PII may be one of the transferred assets, however it will remain subject to any pre-existing privacy policy unless you consent otherwise.
 
-[www.coach.com](http://www.coach.com/) is primarily intended for residents of the U.S. If you happen to live in another country and use www.coach.com, any data collected about you with respect to your use of our Website will be transferred to the U.S. Please note that there may be different standards that apply to how your data is used and protected than the standards in place in your country.
+[www.coach.com](https://www.coach.com/) is primarily intended for residents of the U.S. If you happen to live in another country and use www.coach.com, any data collected about you with respect to your use of our Website will be transferred to the U.S. Please note that there may be different standards that apply to how your data is used and protected than the standards in place in your country.
 
 Coach never sells any PII that you provide to us for use by any third party. However, from time to time, we may provide aggregate (statistical) anonymized information about our customers, sales, online traffic patterns and related information to reputable third parties who help us improve our business and services. These statistics do not include PII.
 
@@ -90,9 +95,9 @@ Coach never sells any PII that you provide to us for use by any third party. How
 
 From time to time, Coach may run promotions offering special deals, coupons, discounts, chances to win contests, and other prizes. These promotions may necessitate the involvement of third parties. In order to participate in these promotions, Coach may require certain basic information about you, such as your name, email address, physical address, and age. This and other required information may be stored by Coach in order to help us better understand how we can design and market our products for you and others. This information may also be shared with third-party promotional partners involved in the specific promotion for which you signed-up. Unless otherwise stated in the terms and conditions of the promotion, your participation is not an automatic opt-in to receive marketing materials from Coach.
 
-## Safe Harbor AND PERSONAL INFORMATION TRANSFERS
+## Safe Harbor and Personal Information Transfers
 
-Coach complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. However, on October 6, 2015, the European Court of Justice (ECJ) issued its decision in the case of Maximillian Schrems v. Data Protection Commissioner which found the U.S.-EU Safe Harbor Framework to be invalid, affecting many companies that need to transfer personal data from EU member states to the United States and to other non-EU/EEA countries. While the Company continues to adhere to the Safe Harbor Principles and has certified its compliance, in light of the suspension of the U.S.-EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, Coach has evaluated various other data transfer mechanisms and has decided to authorize these personal data transfers using European Commission-approved Standard Contractual Clauses (also referred to as Model Contracts). To learn more about the Safe Harbor program, and to view the Company's certification, please visit [http://www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
+Coach complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. However, on October 6, 2015, the European Court of Justice (ECJ) issued its decision in the case of Maximillian Schrems v. Data Protection Commissioner which found the U.S.-EU Safe Harbor Framework to be invalid, affecting many companies that need to transfer personal data from EU member states to the United States and to other non-EU/EEA countries. While the Company continues to adhere to the Safe Harbor Principles and has certified its compliance, in light of the suspension of the U.S.-EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, Coach has evaluated various other data transfer mechanisms and has decided to authorize these personal data transfers using European Commission-approved Standard Contractual Clauses (also referred to as Model Contracts). To learn more about the Safe Harbor program, and to view the Company's certification, please visit [https://www.export.gov/safeharbor.](https://www.export.gov/safeharbor)
 
 ## Your Information — Your Rights
 
@@ -148,11 +153,13 @@ The Company reserves the right, at its discretion, to change, modify, add, or re
 
 Updated: August 25, 2016 
 
-  * [Store Locator](http://www.coach.com/stores "Store Locator")
+### Stores & Sites
+
+  * [Store Locator](https://www.coach.com/stores "Store Locator")
   * [International Sites](https://web.archive.org/international-landing.html "International Sites")
   * [Security & Privacy](https://web.archive.org/privacy.html "Security & Privacy")
   * [Terms of Use](https://web.archive.org/terms-of-use.html "Terms of Use")
   * [Counterfeit Education](https://web.archive.org/counterfeit-education.html "Counterfeit Education")
-  * [CALIFORNIA TRANSPARENCY ACT & UK MODERN SLAVERY ACT STATEMENT](https://web.archive.org/california-transparency-act-and-uk-modern-slavery-act-statement.html "CALIFORNIA TRANSPARENCY ACT & UK MODERN SLAVERY ACT STATEMENT")
+  * [California Transparency Act & UK Modern Slavery Act Statement](https://web.archive.org/california-transparency-act-and-uk-modern-slavery-act-statement.html "California Transparency Act & UK Modern Slavery Act Statement")
 
 
