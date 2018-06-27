@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831155347id_/https%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628014934id_/https%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -7,9 +7,9 @@
 
 InboxDollars® reserves the right to modify this Privacy Policy at any time. The date and time of the last update will always appear below, which serves as notice to our Users. All terms not defined in this Privacy Policy are as defined in our Terms and Conditions. This Privacy Policy applies to our provision of the Service Platforms and information collected through the Service Platforms. 
 
-The column on the right provides a short explanation of the privacy policy and is not legally binding.
+The column on the right provides a short explanation of the privacy policy and is not legally binding. 
 
-Last Updated: _February 10, 2016_
+Last Updated: _October 11, 2017_
 
 ## I. INFORMATION COLLECTION
 
@@ -36,12 +36,12 @@ User information is used by InboxDollars® in all of the following ways:
 
     1. E-Mail Address is used to send paid email advertisements and important announcements about InboxDollars® to User 
     2. All contact or similar information regarding you may be used to communicate to you as well as to track and record your activity, including but not limited to email, traditional mail, text, mobile telephone number, traditional / land telephone number, fax, social media account, any messaging / communication service, app, or tool including “push” notifications or similar. You understand and agree that, depending upon your individual arrangement with your telecommunication provider(s), receiving such communications may use data from your data-allowance and/or may result in fees owing by you to your telecommunications provider. 
-    3. Mailing Address is used to send payments earned by User or otherwise communicate with User
+    3. Mailing Address is used to send payments earned by User or otherwise communicate with User 
     4. Demographic information is used to target advertisements to User
     5. Username, E-Mail Address, and Password are used for User protection to restrict access to their account 
     6. User information may be sold or disclosed to third parties as described in Sections II.2 and III below 
     7. Cookies and Recording Tools may be used as described in Section IV below
-    8. Information may be used in additional ways as posted on this Privacy Policy in the future.
+    8. Information may be used in additional ways as posted on this Privacy Policy in the future. 
   2. #### Sharing of Information
 
 InboxDollars® does not rent, sell, or share User information, except in the following circumstances: 
@@ -72,7 +72,7 @@ When a User co-registers for an Offer by checking the co-registration checkbox, 
 
   3. #### Privacy on Other Sites and Within Third Party Frames
 
-The Service Platform may contain links to third party websites, services, or tools. Similarly, the Service Platform may contain framed / webview content from a third party. We provide these links for your convenience. We do not review, control or monitor the privacy practices of websites, services or tools operated by others. We are not responsible for the performance of these sites, services or tools or for your business dealings with them. Your use of other websites, services, or third party tools is subject to the terms and conditions of those third party items, including the privacy policies of those websites, services, and/or/ third party tools. 
+The Service Platform may contain links to third party websites, services, or tools. Similarly, the Service Platform may contain framed / webview content from a third party. We provide these links for your convenience. We do not review, control or monitor the privacy practices of websites, services or tools operated by others. We are not responsible for the performance of these sites, services or tools or for your business dealings with them. Your use of other websites, services, or third party tools is subject to the terms and conditions of those third party items, including the privacy policies of those websites, services, and/or/ third party tools (including, but not limited to [ Outbrain, Inc](https://www.outbrain.com/legal/privacy-713?utm_source=Outbrain&utm_medium=widget&utm_content=)). 
 
 
 
