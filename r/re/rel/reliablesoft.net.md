@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115063938id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627070125id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Revised: May 23, 2018
 
 Reliablesoft.Net is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Reliablesoft.Net Web site and governs data collection and usage. By using the Reliablesoft.Net website, you consent to the data practices described in this statement.
 
@@ -55,6 +57,58 @@ Currently we are using Google Analytics to analyze the audience of the website a
 The personal information collected from the visitors of our website, including their identity, remains confidential. We respect the law(s) on confidentiality applicable to this website (United States) and we will never pass on these data to any third party, unless required by law. Our website does not collect any cookies.
 
 Reliablesoft.Net secures your personal information from unauthorized access, use or disclosure. Reliablesoft.Net secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## What data we collect when you create purchase a product from us
+
+We collect information about you during the checkout process on our store.
+
+What we collect and store  
+While you visit our site, we’ll track:
+
+Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed  
+Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping  
+Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!  
+We’ll also use cookies to keep track of cart contents while you’re browsing our site.
+
+When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:
+
+Send you information about your account and order  
+Respond to your requests, including refunds and complaints  
+Process payments and prevent fraud  
+Set up your account for our store  
+Comply with any legal obligations we have, such as calculating taxes  
+Improve our store offerings  
+Send you marketing messages, if you choose to receive them  
+If you create an account, we will store your name, address, email and phone number, which will be used to populate the checkout for future orders.
+
+We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store order information for 5 years for tax and accounting purposes. This includes your name, email address and billing and shipping addresses.
+
+We will also store comments or reviews, if you choose to leave them.
+
+ **Who on our team has access**  
+Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:
+
+Order information like what was purchased, when it was purchased and where it should be sent, and  
+Customer information like your name, email address, and billing and shipping information.  
+Our team members have access to this information to help fulfill orders, process refunds and support you.
+
+## Payments
+
+We accept payments through PayPal and 2checkout. When processing payments, some of your data will be passed to PayPal and 2checkout, including information required to process or support the payment, such as the purchase total and billing information.
 
 ## Changes to this statement
 
