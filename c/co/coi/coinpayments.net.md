@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinpayments.net privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827181933id_/https%3A//www.coinpayments.net/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinpayments.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627073133id_/https%3A//www.coinpayments.net/help-privacy) for the most accurate reproduction.*
 
 # Help - Privacy Policy - Point of Sale Bitcoin Processors, POS
 
@@ -24,7 +24,7 @@ We do not knowingly contact or collect personal information from children under 
 ** We do not allow advertising companies to collect data through our service for ad targeting. 
 
 **You can ask privacy questions.  
-** If you have any questions or concerns about our privacy policies, please contact us at privacy@coinpayments.net. 
+** If you have any questions or concerns about our privacy policies, please contact us at [[email protected]](https://www.coinpayments.net/cdn-cgi/l/email-protection)
 
 **We take detailed steps to protect personal information.  
 ** We take reasonable administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access or disclosure. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the personal information you input, and storing your information in encrypted form behind a firewall designed to block access from outside our network. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
