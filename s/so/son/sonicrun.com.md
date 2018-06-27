@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the sonicrun.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210134600id_/http%3A//www.sonicrun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicrun.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627080909id_/http%3A//www.sonicrun.com/privacy.html) for the most accurate reproduction.*
 
 # Sonic Run: Internet Search Engine
 
-This Privacy Policy covers the Sonic Run treatment of personal information that is recorded when you submit your site for inclusion in our database. Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the Sonic Run website, nor does it extend to people that Sonic Run does not employ or manage. 
+This Privacy Policy applies where we, GreenWave Online Inc., acts as a data controller or data processor with regard to all individuals including EU individuals under the General Data Protection Regulation ("GDPR"). 
 
-**Information Collection and Use**
+**Data Collection and Usage**
 
-Sonic Run offers free Standard Listings and paid inclusion Featured Listings. The information we collect is dependent on your needs. 
+There are two types of data we collect, information collected automatically "usage data" and information you provide to us "service data". 
 
-For Standard Listings, the only information collected is Name, Email Address, and URL. Additional information is collected for Featured Listings, but these can only be purchased at [ExactSeek.com](http://www.exactseek.com/sonicrun.html). 
+When you visit our websites we collect usage data such as (but not limited to) IP address, geo-location information, device type, operating system and Internet browser type, referral URL and standard web log data. This usage data may be processed for our legitimate interests namely monitoring, and improving our website and services. 
 
-Your use of Sonic Run services (standard or featured listing of your website or sites) constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, Sonic Run reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide you with a free website monitoring account (FreeWebMonitoring), to inform you of additions to the GreenWave Online Network of websites, or to send announcements and carefully screened offers and information from our partners. 
+When you voluntarily use tools or services on our website we may collect service data such as (but not limited to) Name, Email Address and Website URL. This service data may be processed to provide our services, maintain a record of those services, and to communicate with you based on your consent. 
 
-With the exception of auto-response messages which are sent at the time of site submission and which contain important confirmation details regarding your site listing, you may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. In addition, you may cancel your free website monitoring account at anytime. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact: inquiry[at]sonicrun.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
+Sonic Run reserves the right to use the contact information collected with your consent during site submission to deliver notices regarding changes or updates to our service, to provide free sample newsletters, to inform you of additions to the GreenWave Online Network of web sites, or to send announcements and carefully screened offers and information from our partners. 
 
-**Information Sharing and Disclosure**
+With the exception of autoresponse messages which are sent at the time of autosubmission and contain important site submission results, you may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact: inquiry[at]sonicrun.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
 
-Sonic Run maintains your email address and other pertinent personal information, provided at the time of your site submission, on the premises. Sonic Run allows carefully screened vendors the opportunity to send you offers and information that we have deemed may be of value to you. You may opt-in or out of this feature at any time. 
+**Data Sharing**
+
+When you voluntarily use tools or services that involve publication of your information on our website this data may be available via the internet. We cannot prevent the use (or misuse) of such information by others. 
+
+When you voluntarily use tools or services that involve submission of your information to third parties, we act as an agent for you to provide your information to a third party for a specific purpose. Each third party will act as a data controller in that instance. 
+
+Data may be shared if it is required to comply with requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities. 
 
 **Cookies**
 
@@ -25,6 +31,10 @@ At this time, cookies are not used on the Sonic Run site.
 **Security**
 
 Your personal information is stored in a protected directory. Access is restricted to Sonic Run staff. 
+
+**Additional Rights**
+
+You have the right to request the data we have stored, as well as the right to have that data erased and to withdraw consent to further process your data. 
 
 **Changes to this Privacy Policy**
 
