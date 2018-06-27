@@ -1,0 +1,296 @@
+<!--The following is the downloaded HTML source of the 3dprintshow.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627110752id_/http%3A//www.tarsus.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" xml:lang="en" lang="en" dir="ltr"><!--<![endif]--><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="http://www.tarsus.com/sites/tarsus/corporate/files/favicon_1.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="Tarsus is an international business-to-business media group with interests in exhibitions, conferences, publishing and online media.">
+<meta name="abstract" content="Tarsus is an international business-to-business media group with interests in exhibitions, conferences, publishing and online media.">
+<meta name="keywords" content="tarsus group">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://www.tarsus.com/privacy-policy">
+<link rel="shortlink" href="http://www.tarsus.com/node/1047">
+  <title>Privacy policy | Tarsus Group</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/tarsus/corporate/tarsus.com/themes/tarsus_corporate_plain/assets/css/style.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/tarsus/corporate/tarsus.com/themes/tarsus_corporate_plain/assets/css/temp_style.css">
+  <link type="text/css" rel="stylesheet" href="http://www.tarsus.com/sites/tarsus/corporate/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.tarsus.com/sites/tarsus/corporate/files/css/css_SQOkLXYe3AaFogVO-CbqgqirwUMlQ4RTk29BaGXBHkQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.tarsus.com/sites/tarsus/corporate/files/css/css_XyELJoL1qsdMTQdFrViNSLevfcrzPM23hhX_NrpUCh0.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.tarsus.com/sites/tarsus/corporate/files/css/css_-hItoF0GNdM1rgvKJ29G9HmWmInez2P6owReBVzkKNY.css" media="all">
+
+	<!--[if (lt IE 9) ]>
+  	<script src="/sites/tarsus/corporate/tarsus.com/themes/tarsus_corporate_plain/assets/js/ie.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript" src="//use.typekit.net/ooe4esb.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.5/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.5/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.tarsus.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.tarsus.com/misc/drupal.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/waypoints/waypoints.min.js?v=1.0.2"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/colorbox/js/colorbox.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/colorbox/js/colorbox_load.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/colorbox/js/colorbox_inline.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?p9sywr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-108008178-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/tarsus/corporate/tarsus.com/themes/tarsus_corporate_plain/assets/js/plugins.js?p9sywr"></script>
+<script type="text/javascript" src="http://www.tarsus.com/sites/tarsus/corporate/tarsus.com/themes/tarsus_corporate_plain/assets/js/general.js?p9sywr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tarsus_corporate_plain","theme_token":"7tcIv8sXRxcq88my8dM6YZuZ24SJlKbQomPBfNc_jKw","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1},"js":{"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/waypoints\/waypoints.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/tarsus\/corporate\/tarsus.com\/themes\/tarsus_corporate_plain\/assets\/js\/plugins.js":1,"sites\/tarsus\/corporate\/tarsus.com\/themes\/tarsus_corporate_plain\/assets\/js\/general.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\tWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EPlease read our \u003Ca style=\u0022color:#ffffff; text-decoration:underline;\u0022 href=\u0022http:\/\/www.tarsus.com\/privacy-policy\u0022\u003Eupdated cookie and privacy policies\u003C\/a\u003E.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\tThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":0,"popup_position":null,"popup_language":"en","domain":"","cookie_lifetime":"100"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/content":true,"\/privacy-policy":true}});
+//--><!]]>
+</script>
+  <!--<script type="text/javascript" src="/sites/all/libraries/jQuery-Timelinr/js/jquery.timelinr.min.js"></script>-->
+  <!--script type="text/javascript" src="/sites/all/libraries/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script-->
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1047 node-type-page i18n-en">
+
+    
+      
+<!--[if (lt IE 8) ]>
+<div class="container ie-msg">
+  <p class="width-90">
+    We apologize, our site does not support Internet Explorer 6 or 7. Please
+    view our site in a different, standards-adherent browser such as
+    <a href="http://www.mozilla.com/firefox/" rel="nofollow">Firefox</a>,
+    <a href="http://www.apple.com/safari/" rel="nofollow">Safari</a>, or
+    <a href="http://www.google.com/chrome" rel="nofollow">Chrome</a>, or upgrade your
+    Internet Explorer browser to
+    <a href="http://www.microsoft.com/en-us/download/details.aspx?id=43" rel="nofollow">
+    Version 8</a> or
+    <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" rel="nofollow">
+    Version 9</a>. Thank you.
+  </p>
+</div>
+<![endif]-->
+  
+  <div class="container">
+  <!-- Header -->
+  <header role="banner" class="header width-100 group">
+  	<ul class="links top-menu width-40"><li class="menu-1471 first"><a href="/about-us/about-us">About us</a></li>
+<li class="menu-1472 last"><a href="/contact-us">Contact us</a></li>
+</ul>	  <!--<div class="container">-->
+		<div class="mobile-only-search group">
+		  <a href="" id="search-toggle" class="left">Search</a>
+		</div>    	  
+	    <div class="logo">
+	    	<a href="/" title="Home" rel="home">
+	        	          <img src="http://www.tarsus.com/sites/tarsus/corporate/files/logo_2.png" alt="Tarsus Group logo">
+	        	        </a>
+		  </div>
+		<div class="mobile-only group">
+		  <a href="" id="mobile-menu-toggle" class="right">Sections</a>
+		</div>    
+	    <div class="search is-parent">
+		    <ul class="l-rs">
+		      <li><form action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Search the site" placeholder="Search the site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-UcJTo211ltcfZseRbEf1J7QH-WyDc1FR1zjQt4G0Iis">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form></li>
+		    </ul>
+	    </div>	  
+  </header>
+
+	<!--  main Navigation =======================================  -->
+	        <nav role="navigation" class="nav width-100" id="nav">
+        
+  <ul class="menu"><li class="first"><a href="/">Home</a></li>
+<li><a href="/regions">Regions</a></li>
+<li><a href="/market-leading-tarsus-brands">Brands</a></li>
+<li><a href="/news">News</a></li>
+<li class="expanded"><a href="/events-diary">Events</a><ul class="menu"><li class="first"><a href="http://www.tarsus.com/events-diary?category=All">Upcoming Events Diary</a></li>
+<li class="last"><a href="/events-diary/past">Past Event Diary</a></li>
+</ul></li>
+<li class="expanded"><a href="/investor-relations">Investors</a><ul class="menu"><li class="first has-children"><a href="/investor-relations">Investor relations</a></li>
+<li><a href="/investors/strategy">Strategy</a></li>
+<li><a href="/investors/results-and-presentations">Results and presentations</a></li>
+<li class="has-children"><a href="/investor-relations/investor-tools/regulatory-news">Regulatory news</a></li>
+<li><a href="/investors/investor-tools">Financial tools</a></li>
+<li class="last"><a href="/share-holder-documents">Shareholder documents</a></li>
+</ul></li>
+<li class="expanded"><a href="/about-us/about-us" id="about">About us</a><ul class="menu"><li class="first"><a href="/about-us/name-and-logo">Name and logo</a></li>
+<li><a href="/about-us/corporate-governance">Corporate governance</a></li>
+<li><a href="/about-us/board-directors?=boardofdirectors">Board of directors</a></li>
+<li><a href="/about-us/board-directors?=executiveboard">Executive board</a></li>
+<li class="last"><a href="/about-us/careers">Careers</a></li>
+</ul></li>
+<li><a href="/contact-us" id="contact">Contact us</a></li>
+<li class="last"><a href="/about-us/careers">Careers</a></li>
+</ul> 
+      </nav>
+        	  <!--</div>-->
+	
+    <!-- Main content ===========================================   -->
+
+			
+			<!-- region-rows =======================================   -->
+			<section class="main group">
+
+
+	        <article class="width-66" role="main">
+																				<h1>Privacy policy</h1>													
+            
+
+    <div id="block-system-main" class="block block-system">
+
+      <div class="content">
+
+       <div class="clearfix ">
+  
+
+  
+    
+        <!--header-->
+				       	       	  	
+			
+			        <!--</header-->
+
+
+              
+        
+        
+              
+              
+       
+        				
+				<p>This privacy policy explains how Tarsus Group Ltd, its subsidiaries, affiliates and other group companies (Tarsus) will use and protect any personal information we collect about you when you use this website on your computer, laptop, tablet computer or smartphone.</p>
+<p>Before giving us any of your details please read the following information.&nbsp; &nbsp;If you don’t want your personal information to be used in the ways set out here please don’t use the website or give personal data to us through it.</p>
+<p>By browsing or using any part of the Tarsus websites, you agree to be bound by this privacy policy.</p>
+<p><strong>Who are we</strong></p>
+<p>Tarsus Group Ltd is a media group engaged in exhibitions and associated conferences, publishing, education and Internet activities.&nbsp; We are registered in England under number 02000544 and our registered office address is Metro Building, 9<sup>th</sup> Floor, 1 Butterwick, London, W6 8DL, United Kingdom.&nbsp;</p>
+<p>All your personal Information will be used in accordance with the UK Data Protection Act and the EU’s General Data Protection Regulations (“GDPR”).</p>
+<p><strong>The reasons why we collect your personal information</strong></p>
+<p>We must have one or more reasons for using your personal information, they are:</p>
+<ul><li>
+		To fulfil a contract we have with you, if you are a customer, supplier or employee</li>
+<li>
+		When it is our legal duty, such as HMRC or the Police</li>
+<li>
+		When it is in our legitimate interest</li>
+<li>
+		When you consent to it</li>
+</ul><p>A legitimate interest is when we have a business or commercial reason to use your information and it will always be fair and in your best interests.</p>
+<p>These include some or all of the following:</p>
+<ul><li>
+		To identify and prevent fraud</li>
+<li>
+		To enable us to personalise or improve our communications for the benefit of our customers</li>
+<li>
+		To ensure our systems are secure</li>
+<li>
+		To better understand how people interact with our websites</li>
+</ul><p>We will always balance our legitimate interests against your personal data rights.</p>
+<p><strong>How we collect your information</strong></p>
+<p>We will hold and use the personal data we collect via this website, from information posted by you on the website, from online forms, emails and from other ways you may contact us.&nbsp; The information we collect varies depending on how you wish to use the website and our services.</p>
+<p>We only collect the minimum we need to provide the service or products you buy.</p>
+<p><strong>How we use your information</strong></p>
+<p>Tarsus will collect your information to enter into a service contract, to provide products or services and only with your consent for marketing purposes.&nbsp; We collect personal information about you such as your name, job title, email address, telephone, mobile phone number, postal address.&nbsp; We do this for billing and payment purposes, to supply services and products, and to contact you about any changes or additions to the existing services and products we supply. &nbsp;</p>
+<p>Tarsus will also use your information for legitimate business and commercial reasons such as for internal record keeping, analysis, profiling, and market research. Your information may be passed on to third-party data processors acting on our behalf to process your data for these purposes.&nbsp; They will safeguard your data for us under UK legislation.&nbsp; You may object to processing at any time by contacting us at <a href="mailto:privacy@tarsus.com">data@tarsus.com</a>.</p>
+<p>Any feedback you give us is used for the purpose of improving our website or the service we provide.</p>
+<p><strong>Security</strong></p>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access, disclosure or unlawful processing we have put in place the correct physical, electronic and organisational procedures to safeguard and secure the information we collect via the website.</p>
+<p>Tarsus will not rent, sell or exchange your personal information except where necessary in order to process credit/debit card transactions. &nbsp;The bank or card processing agency will need to verify your personal details for&nbsp;authorisation.&nbsp;</p>
+<p>We keep personal information for as long as it is needed to provide our services, for internal record keeping, or until you ask for that information be deleted. &nbsp;You may ask for your personal information to be erased at any time by contacting us at <a href="mailto:privacy@tarsus.com">data@tarsus.com</a>.</p>
+<p><strong>Marketing</strong></p>
+<p>At Tarsus we take your privacy seriously and will only use your personal information to provide the services or products you have asked for.</p>
+<p>You have the right to stop us at any time if you no longer wish to be contacted for marketing purposes.&nbsp; You may object to profiling for direct marketing purposes.&nbsp; Please email us at <a href="mailto:data@tarsus.com">data@tarsus.com</a>.</p>
+<p>We may take photos and record footage at our events for use on our websites and other marketing materials.</p>
+<p><strong>Transfer of your information</strong></p>
+<p>	In order to process credit/debit card transactions, the bank or card processing agency will need to verify your personal details for&nbsp;authorisation&nbsp;outside the&nbsp;European Economic Area (EEA).</p>
+<p>We may transfer your personal data outside the European Economic Area (EEA).&nbsp; Where this happens, the correct steps are taken to safeguard your information. &nbsp;Individuals who have access to the data must maintain its security and confidentiality.&nbsp;</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies are small information files stored on your computer, laptop, tablet or smartphone that help the website remember who you are and information about your visit.&nbsp; They also help the website to function properly.&nbsp; For more information about how we use cookies please go to the Tarsus Cookie Policy.</p>
+<p><strong>Third party links</strong></p>
+<p>Tarsus may include links to third parties on this website. &nbsp;Where we provide a link it does not mean that we endorse or approve that site's policy towards visitor privacy and we can’t be responsible for the protection or privacy they provide you while visiting such sites. &nbsp;You should review their privacy policy before sending them any personal data.&nbsp;</p>
+<p><strong>Access to your information and correction</strong></p>
+<p>You have the right to request a copy of the information that we hold about you. &nbsp;If you would like a copy of some or all of your personal information, please email <a href="mailto:data@tarsus.com">data@tarsus.com</a> or write to us at the following address: &nbsp;&nbsp;Data Protection Officer, Metro Building, 9<sup>th</sup> Floor, 1 Butterwick, London, W6 8DL, United Kingdom</p>
+<p>We want to make sure that your personal information is accurate and up to date. &nbsp;As the information we hold is provided by you, please can you keep it up to date and accurate.&nbsp; You may also ask us to correct, rectify or remove any information you think is inaccurate by emailing us at <a href="mailto:data@tarsus.com">data@tarsus.com</a>.</p>
+<p>If you have any complaints about the way in which Tarsus process your personal information please contact us at the above address.&nbsp; You may also wish to lodge a complaint with the Information Commissioners Office (ICO).&nbsp; They can be contacted at <a href="http://www.ico.org.uk">www.ico.org.uk</a></p>
+<p><strong>Changes to this privacy policy</strong></p>
+<p>We encourage you to review this privacy policy whenever you use the website because we will update it from time to time to reflect our current privacy practices.&nbsp;</p>
+<p>This privacy policy was most recently updated on 21 May 2018.</p>
+<p>&nbsp;</p>
+        
+
+    </div>
+   </div>
+</div>
+
+
+				 	
+					</article>
+
+
+					
+</section>
+
+
+
+  <!-- region-rows  ===========================================   -->
+
+       <!-- region-row tweets feeds -->
+ 
+      <!-- region-row sponsors -->
+ 
+  </div><!-- /end container  ===========================================   -->
+
+  	<!--  Footer =======================================  -->
+       <!-- region-row footer links -->
+ 
+
+        <!-- region-row footer -->
+  <section class="footer">
+	<section class="region-row">
+		
+
+    <div id="block-block-4" class="block">
+
+      <div class="content">
+
+    <p class="copyright">© 2013 Tarsus Group. All rights reserved. &nbsp; &nbsp;&nbsp;<a href="/privacy-policy">Privacy policy</a><a href="/cookie-policy">Cookie policy</a><a href="/sitemap">Site map</a></p>
+<ul><li class="aeo">
+		<a href="http://www.aeo.org.uk">aeo</a></li>
+<li class="facetime">
+		<a href="http://www.facetime.org.uk">facetime</a></li>
+<!--<li class="ufi"><p>		<a href="http://www.ufi.org">ufi</a></li>
+<p>-->
+<li class="siso">
+		<a href="http://www.siso.org/">siso</a></li>
+</ul>  </div>
+</div>
+
+	</section>
+</section>
+ 
+    <script type="text/javascript" src="http://www.tarsus.com/sites/all/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?p9sywr"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"51dabb3755","applicationID":"5525719","transactionName":"Y1AAMkQEVhUEB01fV1oaNxRfSlEIAQFBGEhcRQ==","queueTime":0,"applicationTime":208,"atts":"TxcDRAweRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
