@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416210857id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193331id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
 
 # Bumble - Privacy
+
+## Bumble Privacy Policy
 
 Welcome to the Bumble Privacy Policy ("Policy")! This explains how we collect, store, protect, and share your information, and with whom we share it. We suggest you read this in conjunction with our brilliant [Terms and Conditions of Use](https://web.archive.org/en-us/terms). Whilst you're enjoying the Bumble mobile application ("App"), we collect some information about you. In addition, you may choose to use the App to share information with other Bumblers, including your friends and contacts ("Users"). We may also need to share your information sometimes. 
 
@@ -17,33 +19,39 @@ When you download the App and create an account ("Account"), we may collect cert
   * Name;
   * Username;
   * Email address;
-  * Gender;
+  * Mobile number;
+  * Gender identity;
   * Date of birth;
   * Sexual preference;
-  * Nationality;
   * Photographs;
   * Location; and
-  * Login information and friend lists for social media accounts that you connect to your Bumble Account (this could include, for example, your Google, YouTube, Facebook, Twitter, and Instagram accounts ("Social Media Accounts").
+  * Login information and friend lists for social media accounts that you connect to your Bumble Account (this could include, for example, your Facebook and Instagram accounts ("Social Media Accounts").
 
 
 
-You will also be required to create a username and password in connection with the registration of your Account. Once you register, you will be able to review and change this information at any time!
+You will also be required to create a password in connection with the registration of your Account. Once you register, you will be able to review and change this information at any time by accessing your “Profile” page! You control your user profile and are able to correct or update (other than your email address, mobile number, date of birth, gender and location (which is automatically updated)) your information at any time by just logging in to Bumble. 
 
-This information helps to enhance the App and verify our Users (Robots are not welcome!!). Registration Information such as your name and username may be visible to the public on your profile page.
+The information we collect helps to enhance the App and verify our Users (Robots are not welcome!!). Registration Information such as your name and username may be visible to the public on your profile page. 
 
 ### Additional Information
 
-We may also collect additional information in connection with your use of Bumble, such as comments and posts, or if you use our super cool electronic messaging function. 
+We may ask you to provide your full name, address and email address. You agree that such details may be shared with third parties for purposes relating to, for example, any of our loyalty programs, sending gifts or delivery of merchandise.
+
+We may also collect additional information in connection with your use of Bumble, for example if you use our super cool electronic messaging function.
 
 If you contact our Customer Support team, we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other Users (and from other Users about you).
 
 We recommend and encourage you (and all our members) to think carefully about the information you disclose about yourself. We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers' licence details and other sensitive information on your profile which is open to abuse and misuse.
 
-Please be careful about posting sensitive details about yourself on your profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs that you post on Bumble may reveal information about yourself as well. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing of your information and making this public to other users.
+Please be careful about posting sensitive details about yourself on your profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your profile, including your sexual preferences, there is no requirement to do so. Please remember that photographs that you post on Bumble may reveal information about yourself as well. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing of your information and making this public to other users.
 
 When you post information about yourself or use the messaging function, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Bumble. If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate your Account - we really don't want to have to do this so please play by the rules!
 
- **IF YOU PROVIDE A CELL PHONE NUMBER TO RECEIVE SMS MESSAGES FROM BUMBLE, YOU EXPRESSLY CONSENT TO RECEIVING SMS MESSAGES FROM US PROMOTING OUR SERVICES AND PRODUCTS. ALTHOUGH THERE IS NO FEE ASSOCIATED WITH THIS SERVICE, YOUR CARRIER MAY CHARGE YOU FOR EACH MESSAGE YOU RECEIVE. YOU AGREE THAT WE ARE NOT RESPONSIBLE FOR SUCH CHARGES. IF YOU DO NOT WISH TO CONTINUE TO RECEIVE ANY MESSAGES VIA YOUR MOBILE DEVICE, YOU MAY OPT-OUT AT ANY TIME BY TEXTING "STOP" IN RESPONSE TO A MARKETING SMS MESSAGE.**
+For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts and might ask for your phone number. We want to make sure you are not a robot! And we also want to avoid fake Bumble accounts being created which can be used for malicious activities and cybercrime – they threaten the Bumble network and spoil things for everyone. We use a third party provider for account verification who will keep your phone number for up to 90 days for fraud identification purposes across a range of online platforms and services like Bumble’s. We collect and use your phone number on the basis of our legitimate interests identified above and for the prevention of fraud.
+
+If you decide to purchase any of our premium services, we will process your payment information and retain this securely for the prevention of fraud and for audit/tax purposes. Under data protection law, it is necessary for us to collect and process this payment data to enable us to perform our contract with you and our ongoing retention of this data is justified by our legitimate interests set out above.
+
+Finally, we want to keep in touch with you to make sure you know about the great promotions and offers we have available. If you’ve told us it’s OK, we will use your email address and phone number to send you information on these. You can withdraw this consent at any time via Settings in the app.
 
 ### Data Storage
 
@@ -51,15 +59,28 @@ By using the App, you agree and acknowledge that Bumble is a global app operatin
 
 ### Geolocation Information
 
-If you turn these features on, we may collect your device's geolocation data and save your device's coordinates to offer certain features to you. We may also use your device's geolocation information to personalize the App and make it easier for you to interact with other Users. You can control your location information settings in your Account settings and switch them off if you really want to! Even if you have disabled location services, we may still determine your city, state, and country location based on your IP address (but not your exact location).
+If you turn these features on, when you use your mobile, we will collect information about WiFi access points as well as other location information about your longitude and latitude and may save your device's coordinates to offer certain features to you. This information helps us identify your physical location and we may use it to personalize the App and make it easier for you to interact with other Users, by enabling the information to be displayed and shared with other members choosing to view “nearby” posts.
+
+If you have enabled location services, but wish to turn it off, you can do so by the following methods:
+
+  1. iPhone app — settings, privacy, location services, Bumble
+  2. Android — profile, privacy, off
+
+
 
 ### Log and Usage Data
 
 Our servers automatically record information ("Log and Usage Data") created by your use of the Service, which again helps us to improve our service. Log and Usage Data may include information such as your IP address, browser type, the referring domain, pages visited, access times, your mobile carrier, and search terms. Other actions, such as interactions with Bumble and advertisements, may also be included in Log and Usage Data.
 
+Where you request that your profile is deleted via the app, it is immediately made unavailable and fully deleted within 30 days. Correspondence with our Customer Support team will be retained for longer to allow us to deal with any subsequent queries you may have but will usually be deleted within 6 years if there are no queries.
+
+Anonymised information about activity on Bumble is retained for longer for statistical and product research purposes but this is not attributable to an individual once the profile has been deleted.
+
+Information such as payment information, IP addresses, mobile numbers and email addresses are retained for anti-fraud and anti-spam purposes for as long as they are relevant. This is usually determined by the expiry of the payment method.
+
 ### Device Information
 
-We may collect information about your device when you use the App including the unique device identifier, device model, operating system, and MAC address. In addition, if you permit us to do so, the App may access your device's address book and contact lists in order to offer you certain features of our Services.
+We may collect information about your device when you use the App including the unique device identifier, device model, operating system, and MAC address. In addition, if you permit us to do so, the App may access your device's address book solely in order to add someone to your contacts.
 
 ### Links
 
@@ -67,9 +88,13 @@ We may keep track of how you interact with links available on Bumble including t
 
 ### Cookies
 
-Unlike the chocolate chip kind, these cookies have no calories! They are small data files that are transferred to your computer's hard disk. Like many websites, we use "cookie" technology to collect additional website usage data and to improve Bumble, but we do not require cookies for many parts of our App such as searching and looking at public User profiles or lists. 
+Unlike the chocolate chip kind, these cookies have no calories! They are small data files that are transferred to your computer's hard disk and are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Bumble, and ensures site functionality and enables us to provide the services our members request.
 
-The cookies we collect enable us to learn how people interact with Bumble, which in turn helps us make a better product for you! Cookies store information about your website visits and can recognise you and your preferences each time you visit Bumble. They help us to provide a better service to you! 
+The cookies we collect enable us to learn how people interact with Bumble, which in turn helps us make a better product for you! Cookies store information about your website visits and can recognise you and your preferences each time you visit the Bumble site. They help us to provide a better service to you! 
+
+Bumble’s use of cookies and local storage devices is basically related to the performance of Bumble’s site, such as analytics that help us determine how our site is performing and ensuring a smooth and trouble free experience for our members and visitors.
+
+Below is a table to explain Bumble’s cookie functions and why they’re used.
 
 If for any reason you decide that you do not want all of your Bumble activities to be stored you may set your browser and mobile settings to block cookies and local storage devices, but please remember that if you do so, you may not be able to access all of the features Bumble offers! 
 
@@ -77,19 +102,10 @@ We use the following types of cookies:
 
 **Cookie Functions**|  **Cookie Purposes**  
 ---|---  
-Analytics and research | We use Google Analytics to collect information about how visitors use the App. We use the information to compile reports and to help us improve the App. The cookies collect information in an anonymous form, including the number of visitors to the App, where visitors have come from and the pages they visited. For more information about Google's Privacy Policy, please visit <http://www.google.com/intl/en/policies/>.  
-Authentication | These cookies help us identify our Users so that when you're logged in you can enjoy our offerings, experiences and various features, such as uploading photographs and chatting. You can even localise your experience, such as when you've requested to view the App in your local language or when you ask Bumble to 'remember me'. These cookies also help us to remember who invited you to join Bumble. We also use cookies and other web technologies, such as CAPTCHAs, to help keep Bumble and our members safe and secure.  
-Security and site integrity | We may use persistent cookies, which will help us to ensure we have identified the same device is logging into the correct account. These cookies help us combat the bad guys - they help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised log-in attempts to your Account and accessing any hacked accounts.  
-Site features and services | These cookies and local storage devices provide functionality such as uploading photographs, chat, instant messaging, and using your Account settings. They also help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Bumble and your other favorite social networks. In some cases, we may allow a third party to place cookies or save data to your local storage devices on your mobile device – this is where Bumble's Privacy Policy ends and theirs begin. The third party who places cookies on your device is responsible for how they process their data so you should read their privacy policies and make sure you're okay with them before you start sharing. Examples of such policies are available at the following links:
-
-Twitter: <https://twitter.com/privacy>  
-Facebook: <https://www.facebook.com/policy.php>  
-YouTube: <http://www.google.co.uk/intl/en/policies/privacy/>  
-AddThis: <http://www.addthis.com/privacy>  
+Analytics and research | We use Google Analytics to collect information about how visitors use the site. The cookies collect information in an anonymous form, including the number of visitors to the App, where visitors have come from and the pages they visited. For more information about Google's Privacy Policy, please visit <http://www.google.com/intl/en/policies/>.  
+Performance | We need to use certain cookies and save data to your local storage devices to ensure our members have the best possible experience. They assist with your navigation of our site, ensuring pages load quickly and respond promptly to your requests – no one likes snail pace technology!   
   
-Performance | We need to use certain cookies and save data to your local storage devices to ensure our members have the best possible experience. They assist with your navigation of our App, ensuring pages load quickly and respond promptly to your requests – no one likes snail pace technology!   
-  
-Our use of cookies and local storage devices, including the specific cookie names, may change over time, but will generally fall into the above categories. Please visit this page regularly so that you are aware of any changes.
+Our use of cookies and local storage devices, including the specific cookie names, may change over time, but will generally fall into the above categories. We will notify you of any important changes to our use of cookies and local storage devices. Please visit this page regularly so that you are aware of any changes.
 
 If you would like to know more about these clever and calorie free cookies, including flash cookies/local storage devices, the following websites provide useful information: 
 
@@ -118,19 +134,25 @@ Our policy is to not disclose your Registration Information, except in the limit
 
 **Your Consent** – If you consent, we may share or disclose your Registration Information, such as when you use a third party web client or application to access your Account.
 
-**Service Providers** \- We engage certain trusted third parties to perform functions and provide services to us. We may share your Registration Information with these third parties, but only for the purposes of performing these functions and providing such services.
+**Service Providers** \- We engage certain trusted third parties to perform functions and provide services to us. We may share your Registration Information with these third parties, but only for the purposes of performing these functions and providing such services e.g. information technology companies (hardware and software) which provide services to support our products.
 
- **Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/en-us/terms), we think it is very important that all Bumblers behave whilst using the App. We will cooperate with all third parties to enforce their intellectual property or other rights. We will also cooperate with law enforcement enquiries from within or outside your country of residence. This may include preserving or disclosing any of your information, including your Registration Information, if we believe in good faith that it is necessary to comply with a law or regulation, or when we believe that disclosure is necessary to comply with a judicial proceeding, court order, or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property or those of third parties. In such cases we may raise or waive any legal objection or right available to us.
+**Moderators** – To monitor activity on the apps and approve content.
 
- **Business Transfers** \- In the event that Bumble or any of our affiliates are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+**Payment Processing and Telecommunications Companies** – To facilitate payments for our premium services.
 
-**Non-Private or Non-Personal Information** \- We may share or disclose your non-private, aggregated or otherwise non-personal information with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services and for marketing purposes. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each email.
+ **Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/en-us/terms), we think it is very important that all Bumblers behave whilst using the App. We will cooperate with all third parties to enforce their intellectual property or other rights. We will also cooperate with law enforcement enquiries from within or outside your country of residence where we are required to by law or to protect the vital interests of a person. This may include preserving or disclosing any of your information, including your Registration Information, if we believe in good faith that it is necessary to comply with a law or regulation, or when we believe that disclosure is necessary to comply with a judicial proceeding, court order, or legal request; to protect the safety of any person; to address fraud, security or technical issues e.g. through anti-spam providers to protect the service from criminal activity or to protect our rights or property or those of third parties. In such cases we may raise or waive any legal objection or right available to us.
+
+ **Business Transfers** -In the event that Bumble or any of our affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data.
+
+**Aggregated Information** – We may share aggregated information with third parties that includes your personal data (but which doesn’t identify you directly) together with other information including log data for industry analysis and demographic profiling. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each email.
+
+We ensure these parties must adhere to strict data protection and confidentiality provisions that are consistent with this Policy. Measures are taken to ensure that the data shared is non-attributable to the greatest extent possible.
 
 ## 4\. WHAT OTHERS MAY SEE ABOUT YOU.
 
-We think our Bumblers are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them. If you register or login to the App using your Facebook account, you are authorizing us to access certain Facebook account information, including information you make available via Facebook, your friends list, relationship status, current location and those friends you have in common with other Bumblers. You also understand that your Bumble profile and other information you make available via the App, including information you provide directly or indirectly through Facebook (i.e., your Facebook photos, your name, age, approximate location, friends you have in common with other Bumblers and other profile information), may be viewed and shared by Bumblers with individuals who may or may not be Users or via third party applications in such Bumblers’ discretion. For example, a User may recommend you as a match to his or her Facebook friends by sharing your picture, regardless of whether such friend(s) is also a User of the App. You might share information like the photos and messages you send or upload and any metadata provided with those messages, along with any comments or information you provide in connection with your photos.
+We think our Bumblers are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them. If you register or login to the App using your Facebook account, you are authorizing us to access certain Facebook account information, including information you make available via Facebook, your friends list, current location and those friends you have in common with other Bumblers. You also understand that your Bumble profile and other information you make available via the App, including information you provide directly or indirectly through Facebook (i.e., your Facebook photos, your name, age, approximate location, friends you have in common with other Bumblers and other profile information), may be viewed and shared by Bumblers with individuals who may or may not be Users or via third party applications in such Bumblers’ discretion. For example, a User may recommend you as a match to his or her Facebook friends by sharing your picture, regardless of whether such friend(s) is also a User of the App. You might share information like the photos and messages you send or upload and any metadata provided with those messages, along with any comments or information you provide in connection with your photos.
 
-When using Bumble, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-Users of the App. Before you post this information, be aware that this content may be searchable by search engines – nothing gets past those guys! We want our Bumblers to be careful about posting information that will eventually be made public.
+When using Bumble, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-Users of the App. We want our Bumblers to be careful about posting information that will eventually be made public.
 
 ## 5\. MODIFYING YOUR REGISTRATION INFORMATION.
 
@@ -148,7 +170,7 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough! 
 
-Our policy is to not market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
+Bumble does not knowingly collect any information about or market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
 
 ## 7\. CHANGES TO THIS POLICY.
 
@@ -190,7 +212,50 @@ From time to time we may disclose your contact information to third parties to a
 
 In addition, under California law, operators of online services are required to disclose how they respond to "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party online services, to the extent the operator engages in that collection. At this time, we do not track our Users' personal information over time and across third-party online services. This law also requires operators of online services to disclose whether third parties may collect personal information about their users' online activities over time and across different online services when the users use the operator's service. We do not knowingly permit third parties to collect personal information about an individual User's online activities over time and across different online services when using the App.
 
-## 11\. ABOUT US.
+## 11\. YOUR UK AND EU RIGHTS.
+
+Under UK and EU law, UK and EU users have the right to lodge a complaint with data protection regulators, and the Information Commissioners’ Office (ICO) is the UK’s lead regulator. You can find out how to raise a concern with the ICO by visiting their website at www.ico.org.uk. If you’re within the EU, you may also get in touch with your local Data Protection Regulator who may liaise with the ICO on your behalf.
+
+You have a number of rights under European Data Protection law if you are an EU citizen.
+
+  1. Right to be informed: what personal data an organisation is processing and why (this notice).
+  2. Right of access: you can request a copy of your data.
+  3. Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
+  4. Right to erasure: you have the right to have your data deleted in certain circumstances.
+  5. Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
+  6. Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider.
+  7. Right to object: in certain circumstances (including where data is processed on he basis of legitimate interests or for the purposes of marketing) you may object to that processing.
+  8. Rights related to automated decision making including profiling: there are several rights in this area where processing carried out on a solely automated basis results in a decision which has legal or significant effects for the individual. In these circumstances your rights include the right to ensure that there is human intervention in the decision-making process.
+
+
+
+Bumble has designated a Data Protection Officer and they can be reached by emailing [DPO@team.bumble.com](mailto:DPO@team.bumble.com) or by post at the following address:
+
+The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+
+If you want to exercise any of your rights listed above please visit [Feedback Page](https://bumble.com/contact-us) or email us at [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
+
+**How does Bumble protect my personal data?**
+
+Bumble has implemented appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal data. Our technical experts at Bumble work hard to ensure your secure use of our site.
+
+While we take reasonable precautions against possible security breaches of our website, member database and records no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal data safe (including your password) and to log out of your account after use. If you lose your password or give it out, or another service provider that you use suffers a data breach and you have used the same credentials with that service provider as you have with Bumble, your personal data may be compromised. If that happens, please report it to Support via [Feedback Page](https://bumble.com/contact-us).
+
+**Where is my personal data kept?**
+
+We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, Hong Kong, Czech Republic and Russia. The hardware is located in third-party data centres but is owned by the Bumble group. Data collected by advertising partners may also be held outside the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), US privacy shield certification (more information can be found [here](https://www.privacyshield.gov/welcome)); and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
+
+**Does Bumble collect any other personal data about me?**
+
+If you contact our Customer Support team via [Feedback Page](https://bumble.com/contact-us), we will receive your email address, and may track your IP address, as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you) for 6 years after deletion of your account.
+
+**Does Bumble use my personal data for any other purpose?**
+
+We may use material that you post on the open access areas of Bumble in advertising and promotional materials on our partner sites and partner products. We believe these uses are in line with our legitimate interests in enabling us to improve our site and better tailor your online experience to meet your needs.
+
+We use your personal data to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](https://web.archive.org/en-us/terms).
+
+## 12\. ABOUT US.
 
 Your access to the App, as well as this Privacy Policy are governed and interpreted by the laws of the State of New York, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of New York. By using the App, you are consenting to the exclusive jurisdiction of the courts of the United States and the State of New York. You agree that such courts shall have in personam jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us. In the event there is a discrepancy between this English language version and any translated copies of the Policy, the English version shall prevail.
 
@@ -200,4 +265,4 @@ Thanks for reading, we hope we didn't drone on for too long!
 
 ### Effective date
 
-This Privacy Policy was last updated on 22 September 2016.
+This Privacy Policy was last updated on 24 May 2018.
