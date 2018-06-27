@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ustvnow.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914021944id_/https%3A//support.ustvnow.com/entries/22004208-USTVNOW-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustvnow.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627200444id_/http%3A//watch.ustvnow.com/support/privacy) for the most accurate reproduction.*
 
-# USTVNOW Privacy Policy : USTVnow Support
+# USTVnow Privacy Policy – USTVnow Support
 
 Privacy Policy
 
@@ -80,4 +80,4 @@ Attn: Privacy
 
 New York, NY 10001
 
-[care@ustvnow.com](mailto:care@ustvnow.com)
+care@ustvnow.com
