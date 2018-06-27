@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teemtry.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218232304id_/http%3A//teemtry.com/art/privacy-policy_a0036.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teemtry.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627205147id_/http%3A//teemtry.com/art/privacy-policy_a0036.html) for the most accurate reproduction.*
 
 # Wholesale jewelry by China jewelry manufacturer | Teemtry Fashion jewelry
 
