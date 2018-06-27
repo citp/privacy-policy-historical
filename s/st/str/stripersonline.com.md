@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225205913id_/http%3A//www.stripersonline.com/surftalk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163425id_/http%3A//www.stripersonline.com/surftalk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SurfTalk
 
@@ -6,10 +6,10 @@ At StripersOnline, your privacy is extremely important to us - just like it alwa
 
 Log files are maintained and analyzed of all requests for files on this website's web servers. Log files do not capture personal information but do log IP addresses, file requests, browser type, operating system type and other non personally identifiable information that help us to make sure this is secure, functional and working with various combinations of browsers and operating systems.
 
- **Our Commitment to Children's Privacy**  
+**Our Commitment to Children's Privacy**  
 Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured specifically to attract anyone under 13. We cannot be responsible for people that lie about their age, as kids are likely to do. As a parent, please be aware of your child's participation in any online community and all social media sites. If and when we become aware a person registered here is under 13 years old, they will be removed from the site immediately. If you, as a parent of a child under 13 years old wishes to allow your child to participate on this website, please contact me personally - tims@stripersonline.com - and I will explain how we can do that in a manner that protects this website and your child, legally.
 
- **Cookies**  
+**Cookies**  
 This website does not store any personally identifiable information about users of this service. Any cookies that may be used by this website are used either solely on a per session basis, to maintain user preferences and to help us serve appropriate ads and control the distribution of those ads - again, these cookies contain no personally identifiable information about you.
 
 Google Advertising Cookies may be used as well, depending on whether the page you are viewing is presently showing Google Ads or ads from a non-Google network. Google's description of their "advertising cookie" is: 
