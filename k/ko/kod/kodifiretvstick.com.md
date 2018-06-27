@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kodifiretvstick.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001210724id_/https%3A//kodifiretvstick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kodifiretvstick.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627072747id_/https%3A//www.kodifiretvstick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for KFire TV Data & Other Info | KFire TV
 
@@ -43,11 +43,11 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
 Take 60% off the same VPN I use.
 
   * Simple Internet security
-  * Set it up with [my tutorial videos   __](https://www.youtube.com/playlist?list=PLjJYMYP5oXLz4iKgvC7s4RvV9vzOmDTiw "VPN setup videos for FireStick & Kodi devices")
+  * Set it up with [my tutorial videos __](https://www.youtube.com/playlist?list=PLjJYMYP5oXLz4iKgvC7s4RvV9vzOmDTiw "VPN setup videos for FireStick & Kodi devices")
   * Unblock & hide Kodi streams
 
 
 
 (No-Risk 7-Day Money Back Guarantee)
 
-Or see my video that shows you [how a VPN stops hackers ](https://www.youtube.com/watch?v=NAFDtYVInDM) __.
+Or see my video that shows you [how a VPN stops hackers ](https://www.youtube.com/watch?v=NAFDtYVInDM)__.
