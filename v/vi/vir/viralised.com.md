@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralised.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220174310id_/http%3A//viralised.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralised.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627140428id_/http%3A//viralised.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Viralised
+# Privacy | Viralised.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
