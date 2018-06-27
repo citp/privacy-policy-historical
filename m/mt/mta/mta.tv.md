@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.tv privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206155522id_/http%3A//www.mta.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627150559id_/http%3A//www.mta.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTA
 
@@ -48,49 +48,12 @@ e. make your experience of our website and broadcasting services more efficient 
 
 **Third-party cookies**
 
-15\. We work with third-party suppliers who may also set cookies on our website, for example (specify, eg Facebook, Twitter, YouTube and Adobe Flashplayer which we use to display video content). These third-party suppliers are responsible for the cookies they set on our site. If you want further information please go to the website for the relevant third party. You will find additional information in the table below.
+15\. We work with third-party suppliers who may also set cookies on our website, for example (specify, eg Facebook, Twitter, YouTube and Adobe Flashplayer which we use to display video content). These third-party suppliers are responsible for the cookies they set on our site. If you want further information please go to the website for the relevant third party.
 
-**Description of cookies**
+****  
+How to turn off cookies**  **
 
-16\. The table below is designed to provide more information about the cookies we use and why:
-
-Cookie
-
-| 
-
-Name
-
-| 
-
-Purpose  
-  
----|---|---  
-  
-video player
-
-| 
-
-jwpusr
-
-| 
-
-These cookies are used by our video player to help keep track of which videos are being played.  
-  
-Google analytics
-
-| 
-
-__utma, __utmc, __utmz
-
-| 
-
-These cookies are used to store information, such as what time your current visit occurred, whether you have been to the site before, and what site referred you to the web page.
-
-These cookies contain no personally identifiable information but they will use your computer's IP address to know from where in the world you are accessing the Internet.  
-  
-**How to turn off cookies**  
-
-17\. If you do not want to accept cookies, you can change your browser settings so that cookies are not accepted. If you do this, please be aware that you may lose some of the functionality of this website. For further information about cookies and how to disable them please go to: [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org ](http://www.allaboutcookies.org%20/)
+17\. If you do not want to accept cookies, you can change your browser settings so that cookies are not accepted. If you do this, please be aware that you may lose some of the functionality of this website. For further information about cookies and how to disable them please go to: [www.aboutcookies.org](http://www.aboutcookies.org/)
 
 **Our contact details**
 
@@ -102,7 +65,7 @@ These cookies contain no personally identifiable information but they will use y
 
 This acceptable use policy sets out the terms between you and us under which you may access our website [www.mta.tv](http://www.mta.tv/) (our site). This acceptable use policy applies to all users of, and visitors to, our site.
 
-Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our terms of[ website use](http://www.mta.tv/index.php/term-of-use).
+Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our terms of[ website use](http://www.mta.tv/term-of-use).
 
 [www.mta.tv](http://www.mta.tv/) is a site operated by Al Shirkatul Islamiyyah (we or us). 
 
