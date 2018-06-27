@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217185211id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627202352id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
 
 # artnet - Privacy Policy
 
