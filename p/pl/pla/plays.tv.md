@@ -1,93 +1,149 @@
-> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919051846id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627092658id_/https%3A//plays.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Plays.tv
 
-Welcome to Plays.tv! Plays.tv is committed to respecting the privacy rights and concerns of all users of the Plays.tv Service.
+Last updated on 5/25/2018.
 
-If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. This privacy statement is effective as of August 6, 2010.
+The purpose of our privacy policy is to let you know what data we collect and how we use that data. You should read the privacy policy in full, but we wanted to highlight a few key takeaways:
 
-This privacy policy covers all of the Plays.tv Service, but does not apply to information collected by third parties that Plays.tv does not control.
+Your activity on Plays is public. This includes, but is not limited to, videos you upload, comments you post, videos you like, Plays users you follow, and information you add to your profile. This information is immediately viewable and searchable by anyone in the world. If you bind other accounts like game accounts or social media services to your Plays account, this information is also accessible on your profile.
 
-## Information you provide Plays.tv
+When you use Plays, even if you are just watching content, we receive some personal information from you like the type of device you’re using and your IP address. You can choose to share additional information with us like your email address, username, and a public profile. We use this information for things like keeping your account secure, showing you more relevant content, recommending people to follow, and improving our features.
 
-Plays.tv does not collect personally identifiable information unless our visitors voluntarily provide it to us. We do, however, collect certain types of information and ask for personal information in certain circumstances, such as when you set up an account. The following sections describe what type of information we collect, when we collect it and how we use it.
+We give you control through your [settings](https://plays.tv/settings/profile) to control what information you have on your profile, your notification settings, which game and social accounts you are connected to, and the ability to block other users on the platform.
 
-**Registering an account.** In order to access certain services, content, or features, you may sign up for an account with Plays.tv. When you register and create an account, we require you to provide us your email address as well as a user name that you select. Once you register you can provide other information about yourself, such as your gender, current city, address, and date of birth. You can also provide information about your gaming preferences, such as what games or gaming consoles you own or enjoy playing.
+In addition to information you share with us, we use videos you upload, games you have played, videos you have watched, videos you have liked, users you have followed, and other information to determine what topics you’re interested in and other signals to show you more relevant content. 
 
-## Information collected by Plays.tv
+If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7404061d0215170d340418150d075a0002) at any time.
 
-**Website and cookies.** As with most web sites, your computer sends information that gets logged by a web server when you browse the Plays.tv website. This typically includes your computer's IP address, operating system, browser name/version, the referring web page, requested page, date/time, and sometimes a "cookie" (which can be disabled using your browser preferences) to help the site remember your last visit. If you are logged in, this information is associated with your personal account. The information is also included in anonymous statistics to allow us to understand how visitors use our site.
+## 1\. Information You Share With Us
 
-We may from time to time implement "cookies" or other features to allow us or third parties to collect or share information that will help us improve our Site and the Plays.tv Service, or help us offer new services and features. A cookie is a small amount of data, that often includes an anonymous unique identifier, that is sent to a user's browser from a Web server and stored on a user's computer hard drive. Usage of a cookie is in no way linked to any personal information about you. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our Site or the Plays.tv Service.
+We require certain information to provide our services to you. For example, you must have an account in order to upload or share content on Plays. When you choose to share the information below with us, we collect and use it to operate our services.
 
-**Community & Support.** We provide customer service support through email and feedback forms. In order to provide customer support, we may ask for certain information regarding your account, such as verifying that you are the account owner. Aside from this information, we do not ask for any personal information to provide customer support. We only use information received from customer support requests, including email addresses, for customer support services and we do not transfer or share this information with any third parties. You can also post questions and answer other user questions in our community forums. Our forum and messaging services allow you to participate in our gaming community; to do so, we maintain information, such as your user ID, contact list, and status messages, including what game you are currently playing (if you explicitly choose to enable this option). In addition, these and similar services in the future may require us to maintain your User ID and password.
+## 1.1 Basic Account Information
 
-## Information Collected by Third Parties
+You don’t have to create an account to use some of our service features, such as searching and viewing Plays video content. If you do choose to create an account, you must provide us with some personal data so that we can provide our services to you. On Plays, this includes a username, a password, and an email address. Your username is always public, but you can use a pseudonym.
 
-**Google Analytics.** Our Site uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+## 1.2 Public Information
 
-**Third party downloads.** We, and third parties, may from time to time make software applications available for your use on or through the Plays.tv Service. These applications may separately access, and allow a third party to view, your identifiable information, such as your name, your user ID, your computer's IP Address or other information such as what game you are playing during any given session, and any cookies that you may previously have installed or that were installed for you by a third party software application or website. Additionally, these applications may ask you to provide additional information directly to third parties. Third party products or services provided through these applications are not owned or controlled by Plays.tv. You are encouraged to read the terms and other policies published by such third parties on their websites or otherwise.
+Most activity on Plays is public, including, but not limited to your profile information, videos you upload, people you follow, people who follow you, videos you like, share or react to, and comments you post. Information may be posted about you by other people who use our services and this information is also public. For example, if users tag you in a comment or upload a video where you were a participant, it is publicly available on our site.
 
-**Third party partners.** In an attempt to provide increased value to our visitors, we may choose various third party web sites to link to, and frame within, the Site. We may also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Our third-party ad partner uses non-personally identifiable information to make more intelligent ad decisions using cookies and other data. To check out or even opt-out, visit your Consumer Online Profile.
+You are responsible for videos you post, comments you make and other information you provide through our services, and you should think carefully about what you make public, especially if it is sensitive information.
 
-## Sharing information on Plays.tv
+In addition to providing your public information to the world directly on Plays, we also use technology like application programming interfaces (APIs) and embeds to make that information available to websites, apps, and others for their use. For example, your videos may be shared on platforms like Reddit, Facebook and Twitter. We also have partnerships to share your video content on select YouTube gaming channels and gaming communities. But these individuals and companies are not affiliated with Plays. When you update your video on Plays the updates may not be reflected on these partner platforms.
 
-You should always consider your privacy settings before sharing information on Plays.tv.
+## 1.3 Contact Information
 
-**Your profile.** Plays.tv is designed to make it easy for you to find and connect with other gamers. For this reason, your profile itself is available for viewing by anyone. 
+We use your contact information, such as your email address to authenticate your account and keep it and our services secure, and to help prevent spam, fraud, and abuse. We also use contact information to personalize our services, enable certain account features (for example, for login verification), and to send you information about our services. Plays also uses your contact information to market to you as your country’s laws allow. You can use your [settings](https://plays.tv/settings/notifications) to control notifications you receive from Plays. You can also unsubscribe from a notification by following the instructions contained within the notification.
 
-**Personal information.** Your Personal Info settings control who can see your age, location, and gaming identities. Remember that none of this information is required, and you do not have to share this information with anyone.
+You can sign up for Plays with an account from another service like Twitch, Google, or Facebook, or you can connect your Plays account to these other services. If you do, we will use information from that service, including your email address, friends, or contacts list, to recommend other Plays users or content to you or to recommend your account or content to others.
 
-**Other.** Even after you remove information from your profile or deactivate your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. You understand that information might be reshared or copied by other users. Certain types of communications that you send to other users cannot be removed, such as messages.
+If you email us, or contact us through our support portal, we will keep the content of your message, your email address, and your contact information to respond to your request.
 
-## How do we use the information you provide us?
+## 1.4 Payment Information
 
-We may use the information you provide us in the following manner:
+You may provide us with payment information, including your credit or debit card number, card expiration date, CVV code, and billing address, in order to purchase premium services.
 
-**To manage and customize the Service.** We may use the information we collect to tailor your experience through the Plays.tv Service by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary.
+## 2\. Additional Information We Receive About You
 
-**To contact you.** We may contact you with Service-related announcements from time to time. You may opt out of all communications except essential updates on your Email Notifications page. In order to opt out of receiving email notifications and updates, please access the "Your Profile" area of the website and select the appropriate options.
+We receive certain information when you use our services or other websites or mobile applications that include our content, and from third parties including advertisers. Like the information you share with us, we use the data below to operate our services.
 
-**To make suggestions.** We use your profile information, your gaming information, including the games you own and play, and your friends' gaming information to make suggestions about other games you may like to play. For example, if another user owns the same games as you, and that user obtains a new game, we may suggest that you try that game.
+## 2.1 Location Information
 
-**To help your friends find you.** We allow other users to use contact information they have about you, such as your email address, to find you, including through contact importers and search.
+When you sign up, we get signals about your current location from information such as your IP address or device settings, to securely and reliably set up and maintain your account and to provide our services to you.
 
-**To provide personalized advertising, offers, and to improve the Plays.tv Service.** We may provide aggregated information about our visitors to outside parties from time to time. We will never sell or rent your email address or any of your personal information. Unless we get your explicit approval in advance, we will only share your personal information as we believe is necessary to:
+## 2.2 Links
 
-  * keep you updated, respond to, confirm or fulfill your requests, and notify you of service issues and unusual account actions;
-  * enforce our Terms of Service;
-  * protect personal safety and the rights, property or safety of others;
-  * comply with laws or respond to legal processes;
-  * allow for a change of ownership of Plays.tv and associated transfer of all personal information to the new owner of Plays.tv, in which case your information still remains protected under this Privacy Policy;
-  * allow third party suppliers, vendors, contractors and other parties to provide products and services to us or to you, or to otherwise act on our behalf (this may include, without limitation, us authorizing such third parties to email our users regarding updates, surveys and other inquiries regarding their experience with the Plays.tv service);
-  * allow for advertising and other audits, and surveys to, among other things, validate the size and composition of the gaming audience, and understand its experience with the Plays.tv service. This may require, among other things, disclosing your gaming history and/or disclosing records showing which games were viewed by which IP addresses.
+In order to operate our services, we keep track of how you interact with links across our services. This includes links in emails we send you and links across our platform.
 
+If you click on an external link or ad on our services, that advertiser or website operator might figure out that you came from Plays, along with other information associated with the ad you clicked such as characteristics of the audience it was intended to reach. They may also collect other personal data from you, such as cookie identifiers or your IP address.
 
+## 2.3 Cookies
 
-We will also share statistical and demographic information about our users and their use of the Plays.tv Service with suppliers of advertisements and programming. This would not include anything that could be used to identify you or to discover individual information about you.
+A cookie is a small piece of data that is stored on your computer or mobile device. Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services. Cookies are not required for many parts of our services such as watching videos and looking at public profiles. Although most web browsers automatically accept cookies, many browsers’ settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer. However, some of our services may not function properly if you disable cookies. When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences. We do not support the Do Not Track browser option.
 
-Additionally, you may elect to export your user activity feeds to other communication, social, and gaming networks (such as Facebook, Steam, or Twitter), which may be subscribed to by other users, which may include information regarding your game play, installation of games, connections with other users and other information about your account activity which is published as a feed on the Site.
+## 2.4 Log Data
 
-## How does Plays.tv protect customer information?
+We receive information when you view content on or otherwise interact with our services, which we refer to as “Log Data,” even if you have not created an account. For example, when you visit our websites, sign into our services, interact with our email notifications, use your account to authenticate to a third-party service, or visit a third-party service that includes Plays content, we may receive information about you. This Log Data includes information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), and cookie information. We also receive Log Data when you click on, view, or interact with links on our services, including when you download and use the Plays application. We use Log Data to operate our services and ensure their secure, reliable, and robust performance. For example, we use Log Data to protect the security of accounts and to determine what content is popular on our services. We also use this data to improve the content we show you, including ads.
 
-We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. We continue to store your personal information for so long as it is necessary to provide you our service and currently do not anticipate destroying old personal information. In most cases, we will at a minimum keep one archival copy of your information to allow us to comply with laws or respond to legal processes.
+## 2.5 Plays Embedded Content
 
-## How do you change the information we have for you?
+When you view our content on third-party websites that integrate Plays content such as embedded videos, we may receive Log Data that includes the web page you visited. We use this information to better understand the use of our services, to protect the safety and integrity of our platform, and to show more relevant content, including ads. 
 
-To update, modify or delete the information that we have on file for your account, simply go to the "Your Profile" section of the Site, log in, then modify your details and settings as necessary. Please note that we require at least a valid email address from you in order to maintain your account.
+## 2.6 Advertisers and Other Ad Partners
+
+Advertising revenue allows us to support and improve our services. We use the information described in this Privacy Policy to help make our advertising more relevant to you, to measure its effectiveness, and to help recognize your devices to serve you ads on and off of Plays. Our ad partners and affiliates share information with us such as browser cookie IDs, mobile device IDs, hashed email addresses, demographic or interest data, and content viewed or actions taken on a website or app.
+
+## 2.7 Developers
+
+If you access our APIs or developer portal, we process your personal data to help provide our services. You can update your data by contacting us directly as described in this Privacy Policy.
+
+## 2.8 Other Third Parties and Affiliates
+
+We may receive information about you from third parties who are not our ad partners, including but not limited to partners who help us evaluate the safety and quality of content on our platform and other services you link to your Plays account.
+
+You may choose to connect your Plays account to accounts on another service, and that other service may send us information about your account on that service. We use the information we receive to provide you features like finding other people to follow who also use our service. For integrations that Plays formally supports, you may revoke this permission at any time by reviewing your [connected accounts](https://plays.tv/settings/accounts). For other integrations, please visit the other service you have connected to Plays.
+
+## 2.9 Personalizing Across Your Devices
+
+When you log into Plays on a browser or device, we will associate that browser or device with your account for purposes such as authentication, security, and personalization. Subject to your settings, we may also associate your account with browsers or devices other than those you use to log into Plays (or associate your logged-out device or browser with other browsers or devices). We do this to operate and personalize our services.
+
+## 3\. Information We Share and Disclose
+
+As noted above, Plays is designed as a public platform to share your video content and interact publicly with others on the platform. In the limited circumstances where we disclose your private personal data, we do so because it’s necessary to operate our services, or because it’s required by law.
+
+## 3.1 Sharing That You Control
+
+We share or disclose your personal data with your consent or at your direction, such as when you authorize a third-party web client or application to access your account or when you direct us to share your feedback.
+
+## 3.2 Service Providers
+
+We engage service providers to perform functions and provide services to us in the United States and other countries. For example, we use a variety of third-party services to help operate our services, such as hosting our website, videos, and blogs and to help us understand the use of our services, such as Google Analytics. We may share your private personal data with such service providers subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. We share with advertisers the identifiers of devices that saw their ads, to enable them to measure the effectiveness of our advertising business. We also share device identifiers, along with the interests or other characteristics of a device or the person using it, to help partners decide whether to serve an ad to that device or to enable them to conduct marketing, brand analysis, interest-based advertising, or similar activities. 
+
+We share your payment information with payment services providers to process payments; prevent, detect, and investigate fraud or other prohibited activities; facilitate dispute resolution such as chargebacks or refunds; and for other purposes associated with the acceptance of credit and debit cards.
+
+## 3.3 Law, Harm, and the Public Interest
+
+Notwithstanding anything to the contrary in this Privacy Policy or controls we may otherwise offer to you, we may preserve, use, or disclose your personal data if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services, or to explain why we have removed content or accounts from our services; to address fraud, security, or technical issues; or to protect our rights or property or the rights or property of those who use our services. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your personal data.
+
+## 3.4 Affiliates and Change of Ownership
+
+In the event that we are involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, your personal data may be sold or transferred as part of that transaction. This Privacy Policy will apply to your personal data as transferred to the new entity. We may also disclose personal data about you to our corporate affiliates in order to help operate our services and our affiliates’ services, including the delivery of ads.
+
+## 3.5 Non-Personal Information
+
+We share or disclose non-personal data, such as aggregated information like the total number of times people posted videos or the total likes or comments on a video or reports to advertisers about how many people saw or clicked on their ads.
+
+## 4\. Managing Your Personal Information With Us
+
+We give you control through your [settings](https://plays.tv/settings/profile) to control what information you have on your profile, your notification settings, which game and social accounts you are connect to, and the ability to block other users on the platform.
+
+If you upload videos to Plays, you have the option to delete the videos or set them as unlisted so that only users who have the URL of the video can access them. In addition, you can delete any comment that you previously posted.
 
 If you want to stop using your account you may deactivate it. When you deactivate an account, no user will be able to see it, but it will not be deleted. We save your profile information in case you later decide to reactivate your account. You will still have the ability to reactivate your account and restore your profile in its entirety.
 
-## Other Information
+## 5\. Additional Information or Assistance
 
-**No children under 13.** The Plays.tv Features are not intended for children under the age of 13. We do not knowingly collect or maintain any personal information or non-personally-identifiable information from anyone under the age of 13 nor is any part of our Site or other Plays.tv Service directed to children under the age of 13. We will close any accounts used exclusively by such children and will remove and/or delete any personal information we believe was submitted by any child under the age of 13.
+Thoughts or questions about this Privacy Policy? Please let us know by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0575776c7364667c457569647c762b7173) or writing to us at the address below.
 
-**EU Safe Harbor Compliance.** We adhere to the European Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personally identifiable information collected from citizens of the European Union.
+The data controller responsible for your personal data is located at the following address:
 
-For more information, please visit http://www.export.gov/safeharbor.
+Plays.tv, Inc.
 
-**Notification of changes.** By visiting the Site or using the Plays.tv Features, you consent to the collection and use of information by us as set forth in this privacy statement. If we decide to change our privacy statement, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Attn: Privacy Policy Inquiry
 
-**Contacting us.** If you have any questions about our privacy practices or your dealings with the Plays.tv Features, please do not hesitate to contact privacy@plays.tv or Plays.tv, Inc., 555 Twin Dolphin Dr Ste 630, Redwood City, CA 94065
+555 Twin Dolphin Drive, #630
 
-**Terms and Conditions.** Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Plays.tv Service.
+Redwood City, CA 94065
+
+## 6\. Children and Our Services
+
+Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf). 
+
+## 7\. Changes to This Privacy Policy
+
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at <https://plays.tv/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you on our website or via email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+## 8\. Terms and Conditions.
+
+Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Plays.tv Service. Our Terms of Service can be accessed at <https://plays.tv/tos>.
