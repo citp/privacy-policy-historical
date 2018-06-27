@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226044807id_/http%3A//www.timvandevall.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627185902id_/http%3A//www.timvandevall.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tim's Printables
-
-Post Views:  203
 
 Dutch Renaissance Press LLC is deeply committed to your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure.
 
