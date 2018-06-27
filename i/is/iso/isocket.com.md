@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231012806id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040638id_/https%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard And Opt-out - Rubicon Project
 
