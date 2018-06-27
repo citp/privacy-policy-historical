@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomford.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220114943id_/http%3A//www.tomford.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomford.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627182516id_/https%3A//www.tomford.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TomFord.com
 
@@ -7,7 +7,7 @@ Updated: February 3, 2014
 ## Privacy Policy
 
   
-This Privacy Policy governs the manner in which TOM FORD INTERNATIONAL LLC (together with TOM FORD e-COMMERCE and its other affiliates and subsidiaries, “TOM FORD”), collects, uses, maintains and discloses information collected from users, and applies to your use of our website located at "http://www.tomford.com” (the “site” or the “website”).
+This Privacy Policy governs the manner in which TOM FORD INTERNATIONAL LLC (together with TOM FORD e-COMMERCE and its other affiliates and subsidiaries, “TOM FORD”), collects, uses, maintains and discloses information collected from users, and applies to your use of our website located at "https://www.tomford.com” (the “site” or the “website”).
 
 ## You are bound by this policy.
 
