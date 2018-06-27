@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221021006id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627233112id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: ExactSeek.com
 
 ## Privacy Policy Overview
 
-This Privacy Policy covers the ExactSeek treatment of personal information that is recorded when you submit your site for inclusion in our database or when you purchase one or more of the three site listing and promotion packages offered on our site.
-
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the ExactSeek web site, nor does it extend to people that ExactSeek does not employ or manage.
+This Privacy Policy applies where we, Jayde Online Inc., acts as a data controller or data processor with regard to all individuals including EU individuals under the General Data Protection Regulation ("GDPR").
 
 ## Registration
 
@@ -28,6 +26,10 @@ Your personal information is stored in a protected directory. Access is restrict
 
 ExactSeek does **not** store any credit card information. Purchases made on ExactSeek are processed either by PayPal or Stripe.com.
 
+## Additional Rights
+
+You have the right to request the data we have stored, as well as the right to have that data erased and to withdraw consent to further process your data.
+
 ## Change of Ownership
 
 In the event of a change in ownership, or a direct merger or acquisition of ExactSeek.com with another entity or multiple entities, all (or select aspects) of ExactSeek.com's customer information (including email addresses) may be transferred to a separate entity or entities. All ExactSeek.com subscribers and registered users will be notified of any change in ownership, merger or acquisition of ExactSeek.com's assets by a third party by email announcement or through prominently placed notices on the web site. Subscribers and users may choose to access and modify any of their registration and subscription information at that time.
@@ -36,7 +38,13 @@ In the event of a change in ownership, or a direct merger or acquisition of Exac
 
 ExactSeek may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.
 
-## Information Collection and Use
+## Data Collection and Usage
+
+There are two types of data we collect, information collected automatically "usage data" and information you provide to us "service data".
+
+When you visit our websites we collect usage data such as (but not limited to) IP address, geo-location information, device type, operating system and Internet browser type, referral URL and standard web log data. This usage data may be processed for our legitimate interests namely monitoring, and improving our website and services.
+
+When you voluntarily use tools or services on our website we may collect service data such as (but not limited to) Name, Email Address, IP Address and the date of your submission. This service data may be processed to provide our services, maintain a record of those services, and to communicate with you based on your consent.
 
 ExactSeek offers four types of site listings - Standard, Featured, Paid Inclusion and Local Search. The information collected for each of these services, and how that information is used, is noted below:
 
@@ -52,13 +60,17 @@ ExactSeek Standard listings are free and the information collected is not shared
 
 Membership is required under a valid, verified email address in order for you to submit your website to our free Standard Listing program. Upon the creation of a new member account, and in lieu of a site submission fee, you will be subscribed to one of our newsletter publications, ExactSeek News, or SiteProNews.
 
-Your use of ExactSeek's services constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (ExactSeek News, SiteProNews), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
+ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (ExactSeek News, SiteProNews), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
 
 You may remove yourself from any or all of our newsletter, notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. If you encounter problems in this regard, contact [**abuse [at] exactseek.com**](mailto:abuse@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 1 business day.
 
-## Special Cases
+## Data Sharing
 
-It is ExactSeek.com's policy not to use or share personal information about Visitors or Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, ExactSeek.com may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; or to protect ExactSeek.com and our Members.
+When you voluntarily use tools or services that involve publication of your information on our website this data may be available via the internet. We cannot prevent the use (or misuse) of such information by others.
+
+When you voluntarily use tools or services that involve submission of your information to third parties, we act as an agent for you to provide your information to a third party for a specific purpose. Each third party will act as a data controller in that instance.
+
+Data may be shared if it is required to comply with requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities.
 
 ## Questions or Suggestions
 
