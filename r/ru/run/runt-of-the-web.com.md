@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runt-of-the-web.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217053137id_/http%3A//runt-of-the-web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runt-of-the-web.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627054103id_/http%3A//runt-of-the-web.com/privacy-policy) for the most accurate reproduction.*
 
 # Runt Of The Web's Privacy Policy
 
@@ -41,4 +41,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Should you have other questions or concerns about these privacy policies, please send us an email at pbhnetwork@gmail.com.
