@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcomsecretslabs.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928220303id_/https%3A//clickfunnels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcomsecretslabs.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627221536id_/https%3A//clickfunnels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice - ClickFunnels
 
