@@ -1,234 +1,277 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182537id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627133010id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Topdeck Travel
 
-**PRIVACY POLICY**
+  1. **Background**
 
-This Privacy Policy ("Policy") explains in general terms how Top Deck Tours Pty Ltd ACN 107 934 841 and its subsidiaries and related bodies corporate (collectively referred to in this document as "Topdeck”, "we" "our" or "us") protects the privacy of your personal information.  We are firmly committed to protecting the privacy and confidentiality of personal information and maintain various physical, electronic and procedural safeguards to protect personal information in our care. 
 
-By providing personal information to us (or allowing another person to do so on your behalf), you agree that this Policy will apply to how we handle your personal information and you consent to us collecting, using and disclosing your personal information as detailed in this Policy.  If you do not agree with any part of this Policy, you must not provide your personal information to us and this may affect the services we can provide to you.
 
-In this Policy, where we say “disclose”, this includes to transfer, share, send, or otherwise make available or accessible your personal information to another person or entity.
+This Privacy Notice (“Notice”) sets out how Top Deck Tours Ltd, a company incorporated in the United Kingdom, and its associated bodies corporate and franchisees worldwide (collectively referred to in this document as “Topdeck”, “we” “our” or “us”) protects the privacy of your personal information. 
 
-**What is personal information?** ****
+Top Deck is part of the Flight Centre Travel Group, one of the world's largest travel agency groups. We need to collect, use and disclose personal information in order to perform our business functions and activities, including making and managing travel bookings on behalf of our customers. We are firmly committed to protecting the privacy and confidentiality of personal information and to maintaining various physical, electronic and procedural safeguards to protect personal information in our care.
 
-Personal information is information which relates to a living individual who can be identified from that information, or from that information and other information in a person’s possession, including any expression of opinion, whether true or not, and whether recorded in material form or not, about an identified or reasonably identified individual, and any indication of intention in respect of an individual.
+For the purposes of the General Data Protection Regulation 2016/679 (“GDPR”) we will be either the “data processor” or “data controller” for any personal information you provide to us in connection with our relationship. The precise role we will be assuming is dependent on the context of our relationship with you and the purpose of the processing being undertaken.
 
-**How do we collect personal information?** ****
+For the provision of retail travel services by Top Deck, we will be the data controller and this Notice shall apply. Likewise, for the purpose of all our marketing activities (both business travel/event management and retail travel services) we will be the data controller and this Notice shall apply.
 
-Where practical, we will collect personal information directly from you. Generally, this collection will occur when you deal with us either in person, by telephone, letter, facsimile, email or when you visit our website (including the ‘My Topdeck’ area of our website) or use our mobile application.  We may collect personal information about you when you purchase or make enquiries about travel arrangements or other products and services, when you enter competitions, when you register for promotions, when you subscribe to receive marketing from us (e.g. e-newsletters) or when you request brochures or other information from us. We may also collect your personal information when you complete surveys or provide us with feedback. 
+By providing personal information to us, you agree that this Notice will apply to how we handle your personal information and you consent to us collecting, using and disclosing your personal information as detailed in this Notice. If you do not agree with any part of this Notice, you must not provide your personal information to us. If you do not provide us with your personal information, or if you withdraw a consent that you have given under this Notice, this may affect our ability to provide services to you or negatively impact the services we can provide to you. For example, most travel bookings must be made under the traveller's full name and must include contact details and appropriate identification (e.g. passport details). We cannot make bookings for you without that information.There may be instances where your local data protection laws impose more restrictive information handling practices than the practices set out in this Notice. Where this occurs we will adjust our information handling practices in your jurisdiction to comply with these local data protection laws.
 
-In some circumstances, it may be necessary for us to collect personal information about you from a third party.  This includes where you book a travel arrangement through an agent or where a person makes a travel booking on your behalf which includes travel arrangements to be used by you (e.g. a family or group booking).  Where this occurs, we will assume you have consented to your personal information being collected by us and to us handling it in accordance with this Policy.  You should let us know immediately if you become aware that your personal information has been provided to us by another person without your consent.
+  2. **What personal information do we collect?**
 
-**What personal information do we collect?** ****
 
-Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to arrange travel-related services and products on your behalf. For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, information about your dietary requirements and health issues (if any), and other details relevant to your travel arrangements or required by the relevant travel service providers (e.g. accommodation or activity providers). When you make contact with us for other purposes, we may also collect personal information about you in relation to those purposes.  For example, we may collect your personal information so we can contact you about a competition you have entered (e.g. if you win) or to respond to an enquiry or feedback form you have sent to us, or to respond to or publish reviews or comments you have submitted to us, including via our website or our mobile application. We also collect information that is required for use in the business activities of Topdeck, including for example, financial details necessary in order to process various transactions, and any other relevant personal information you may elect to provide to us.
 
-In some circumstances, we may collect personal information from you which is regarded as sensitive information.  Sensitive information includes types of personal information such as your racial or ethnic origin, religious beliefs or affiliations, trade union membership, criminal record and health information.  We will only collect sensitive information about you with your consent and where reasonably necessary for, or directly related to, one or more of our functions or activities.  Where you provide sensitive information to us, you consent to us using that sensitive information for the purpose for which it was collected. 
+Personal information has the meaning given under your local data protection law, and, where the GDPR applies, the meaning of personal data given under the GDPR. Personal information generally means information which relates to a living individual who can be identified from that information, or from that information and other information in a person’s possession, including any expression of opinion, whether true or not, and whether recorded in material form or not, about an identified or reasonably identifiable individual, and any indication of intention in respect of an individual. 
 
-**How do we use personal information?** ****
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to arrange travel related services and/or products on your behalf.
 
-Where you contact us in relation to a travel booking or query, the primary purpose for which we collect your personal information is generally to provide you with travel advice and/or to assist you with booking travel and/or travel related products and services. However, the purpose for collection may differ depending on the particular circumstances as disclosed in this Policy.
+We therefore typically process the following types of personal information about you:
 
-By providing us, or otherwise allowing us to collect, your personal information, you consent to us using and disclosing your personal information for the purposes for which it was collected, and for related or ancillary purposes, such as any one or more of the following purposes:
+  * contact information (such as name, residential/mailing address, telephone number, email address);
+  * payment account information (credit/debit card details, including card type, card number, security number and expiry date);
+  * passport details;
+  * loyalty program / frequent flyer details;
+  * information about your dietary requirements and health issues (if any); and
+  * other details relevant to your travel arrangements or required by the relevant travel service providers (e.g. airlines and accommodation or tour providers).
 
+
+
+When you make contact with us for other purposes, we may also collect personal information about you in relation to those purposes. For example, we may collect your personal information so we can contact you about a competition you have entered (e.g. if you win) or to respond to an enquiry or feedback you have sent to us. We also collect information that is required for use in the business activities of Topdeck and our related entities, including for example, financial details necessary in order to process various transactions, video surveillance footage used for security purposes, and other relevant personal information you may elect to provide to us.
+
+In some circumstances, we may collect personal information from you which may be regarded as sensitive information under your local data protection laws. Sensitive information may include (without limitation) your racial or ethnic origin, philosophical or religious beliefs or affiliations, sexual preferences or practices, criminal record and the alleged commission of an offence, membership of political, professional or trade associations, biometric and genetic information, passwords and financial information and health information, and (in the USA) any personal information relating to a child under the age of 13. We will only collect sensitive information in compliance with your local data protection laws, with your explicit consent and where it is reasonably necessary for, or directly related to, one or more of our functions or activities (e.g. to make travel arrangements), unless we are otherwise required or authorised to do so by law. To the extent permitted or required under your local data protection laws, you consent to us using and disclosing your sensitive information for the purpose for which it was collected, unless we subsequently receive your consent to use it for another purpose. For example, if you provide health information to us in connection with a travel insurance application you would like to make, you consent to us using and disclosing that health information in connection with arranging that travel insurance on your behalf. A further example is if you disclose your religious beliefs to us because you are interested in, for example, certain holiday packages, in which case you consent to us using and disclosing that information in connection with facilitating your request. We will not use sensitive information for purposes other than those for which it was collected, unless we subsequently receive your consent to use it for another purpose.
+
+  3. **How do we collect personal information?**
+
+
+
+We will only collect personal information in compliance with your local data protection laws. We usually collect your personal information from the information you submit during the course of your relationship with us. We will collect this information directly from you unless it is unreasonable or impracticable to do so.
+
+Generally, this collection will occur:
+
+  * when you deal with us either in person, by telephone, letter, email;
+  * when you visit any of our websites; or
+  * when you connect with us via social media.
+
+
+
+We may collect personal information about you:
+
+  * when you purchase or make enquiries about travel arrangements or other products and services;
+  * when you enter competitions or register for promotions;
+  * when you subscribe to receive marketing from us (e.g. e-newsletters);
+  * when you request brochures or other information from us; or
+  * when you provide information, or use our services, on social media.
+
+
+
+Unless you choose to do so under a pseudonym or anonymously, we may also collect your personal information (other than sensitive information) when you complete surveys or provide us with feedback. 
+
+In some circumstances, it may be necessary for us to collect personal information about you from a third party. This includes where a person makes a travel booking on your behalf which includes travel arrangements to be used by you (e.g. a family or group booking or a travel booking made for you by your employer). Where this occurs, we will rely on the authority of the person making the travel booking to act on behalf of any other traveller on the booking.
+
+Where you make a travel booking on behalf of another person (e.g. a family or group booking or a travel booking made for an employee), you agree you have obtained the consent of the other person for Topdeck to collect, use and disclose the other person's personal information in accordance with this Notice and that you have otherwise made the other person aware of this Notice. 
+
+You should let us know immediately if you become aware that your personal information has been provided to us by another person without your consent or if you did not obtain consent before providing another person's personal information to us.
+
+We make every effort to maintain the accuracy and completeness of your personal information which we store and to ensure all of your personal information is up to date. However, you can assist us with this considerably by promptly contacting us if there are any changes to your personal information or if you become aware that we have inaccurate personal information relating to you (see section 13 below). We will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete personal information that you, or a person acting on your behalf, provide to us.
+
+  4. **How do we use your personal information?**
+
+
+
+We will only process your information, where:
+
+  * you have given your consent to such processing (which you may withdraw at any time, as detailed at section 8 below);
+  * the processing is necessary to provide our services to you;
+  * the processing is necessary for compliance with our legal obligations; and/or
+  * the processing is necessary for our legitimate interests or those of any third party recipients that receive your personal information (as detailed in sections 5 and 6 below).
+
+
+
+In detail: Where you contact us in relation to a travel booking or query, the purpose for which we collect your personal information is generally to provide you with travel advice and/or to assist you with booking travel and/or travel related products and services. However, the purpose for collection may differ depending on the particular circumstances as disclosed in this Notice (e.g. collection of your personal information for the purpose of your participation in a competition, provision of feedback, etc.).
+
+When you book or otherwise arrange travel related products and services through us, we usually act as an agent for the relevant travel service providers (e.g. for a hotel). In this case, we process your personal information as necessary so as to provide the services you requested from us. This usually includes collecting personal information about you both for our internal purposes as described in this Notice and for the travel service provider for whom we act as agent (e.g. to provide you with the booked services). For example, if you book a flight through us, then we use your personal information to enable your flight to be booked and disclose it to the airline to enable the airline to provide the flight service to you.
+
+We may therefore share your information with our travel service providers such as hotel, airline, car rental, or other providers, who fulfill your travel bookings. Please note that these travel service providers also may use your personal information as described in their respective privacy policy and may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or provide you with your requested services. We encourage you to review the privacy policies of any third-party travel service providers whose products you purchase through us. We will provide you with copies of all relevant travel service provider terms, conditions and privacy policies on request. 
+
+We act as agent for or on behalf of many thousands of travel service providers around the world, so it is not possible for us to set out in this Notice all of the travel service providers for whom we act or their locations. For more information about the disclosure of personal information to travel service providers located overseas, please refer to section 6 below.
+
+If you have any concerns regarding the transfer of your personal information to a travel service provider, or you wish to contact us for further information, please refer to the “Feedback / Complaints / Contact” section below (section 13).
+
+The purposes for which we collect personal information further include:
+
+  * providing you with services and tools you choose to use (for example, saving travel preferences on our websites to a wishlist or saving personal information to allow for pre-population of online forms);
   * identification of fraud or error;    
   * regulatory reporting and compliance;    
-  * developing, improving and marketing our products and services;    
-  * servicing our relationship with you by, among other things, providing updates on promotions and services we think may interest you;   
-  * involving you in market research, gauging customer satisfaction and seeking feedback regarding our relationship with you;    
+  * developing and improving our products and services and those of our related entities;    
+  * servicing our relationship with you by, among other things, creating and maintaining a customer profile to enable our brands to service you better or presenting options on our website we think may interest you based on your browsing and preferences;   
+  * involving you in market research, gauging customer satisfaction and seeking feedback regarding our relationship with you and/or the service we have provided;    
   * to facilitate your participation in loyalty programs;    
-  * to analyse trends in sales and travel destinations;    
-  * for marketing activities including but not limited to mail-outs, emails, e-newsletters, SMS notifications, mobile application messaging, notifications and alerts (where relevant), and telephone calls;
-  * internal accounting and administration.
+  * for research and analysis in relation to our business and services, including but not limited to trends and preferences in sales and travel destinations and use of our websites;    
+  * internal accounting and administration;
+  * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel; and
+  * other purposes as authorised or required by law (e.g. to prevent a threat to life, health or safety, or to enforce our legal rights).
 
 
 
-We will only send e-newsletters, mobile application messages/alerts or other promotional materials to you if you have opted in to receive them.  You can subscribe to receive e-newsletters and other promotional materials by following the relevant links on our website, and for mobile application messages/alerts via the application and device settings on your mobile device.
+Where permitted by local data protection laws, we may use your personal information to send you targeted marketing activities relating to our products and services (and those of third parties) that we think may interest you, unless you have requested not to receive such information. These may include, but are not limited to, mail outs, electronic marketing and notifications as described below, and telephone calls). We will only use your personal information to send electronic marketing materials to you (including e-newsletters, email, SMS, MMS and iM) if you have opted-in to receive them. You can subscribe to receive e-newsletters and other electronic promotional/marketing materials by following the relevant links on our website or requesting one of our consultants to do so for you.
 
-We are only allowed to store your personal information for as long as necessary having regard to the purpose for which it was collected or a related or ancillary purpose.  We may therefore delete your personal information after a reasonable period of time and, if you have not used our services for some time, you may have to re-enter or re-supply your personal information to us.
+Should you no longer wish to receive promotional/marketing material from us, participate in market research or receive other types of communication from us, please refer to the “Feedback / Complaints / Contact” section below (section 13). You can unsubscribe from receiving electronic marketing materials by following the unsubscribe prompt in your email, SMS, MMS, iM or other form of electronic marketing. Please also see the “Your rights” section of this Notice to learn about your ability, at any time, to opt out or limit the use of your browsing behaviour for online behavioural advertising purposes (section 8 below).
 
-**Is personal information disclosed to third parties?** ****
+  5. **Is personal information disclosed to third parties?**
 
-  * in each of the circumstances set out in the previous section “How do we use personal information?”;
-  * to other members of your group where you are part of a group booking (specifically, through your group’s shared access to the ‘My Topdeck’ area of our website);
-  * as permitted or required by law;
-  * to various regulatory bodies and law enforcement officials and agencies, including to protect against fraud and for related security purposes;
-  * to third party suppliers of IT based solutions that assist us in providing products and services to you;
-  * to our related entities and brands (including companies based overseas);
-  * to travel service providers such as tour operators, airlines, hotels, activity providers and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
-  * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
-  * to comply with a request from a qualified government department if we are satisfied that they have the authority to make such request;
-  * where we suspect that unlawful activity has been or may be engaged in and the personal information is a necessary part of our investigation or reporting of the matter;
-  * to third parties who may involve you in market research for the purpose of servicing our relationship with you and improving the services we provide; 
-  * to third parties who may engage you regarding customer satisfaction and seeking feedback for the purpose of improving the services we provide (for example, Feefo);
-  * to third parties for the purpose of analysing trends in sales and travel destinations; and 
-  * if a third party acquires some or all of our business or assets, in connection with the sale.
 
 
+We do not and will not sell, rent out or trade your personal information. We will only disclose your personal information to third parties in the ways set out in this Notice and, in particular, as set out below, and in accordance with your local data protection laws. Note that, in this Notice, where we say “disclose”, this includes to transfer, share (including verbally and in writing), send, or otherwise make available or accessible your personal information to another person or entity.
 
-Where we engage travel service providers to perform services for us, those travel service providers may be required to handle your personal information. Where we disclose your personal information to such travel service providers, you agree that we will not be required to ensure their compliance with applicable privacy laws or otherwise be liable or accountable for how they handle your personal information.
+Your personal information may be disclosed to the following types of third parties:
 
-Other than the above, we will not disclose your personal information without your consent unless we reasonably believe that disclosure is necessary to lessen or prevent a threat to life, health or safety or for certain action to be undertaken by an enforcement body (e.g. prevention, detection, investigation, prosecution or punishment of criminal offences), disclosure is authorised or required by law or disclosure is otherwise permitted by applicable privacy laws.
+  * our contractors, suppliers and service providers, including without limitation: 
+    * in each of the circumstances set out in section 4 (“How do we use your personal information?”);
+    * suppliers of IT based solutions that assist us in providing products and services to you (such as any external data hosting providers we may use);
+    * publishers, printers and distributors of marketing material;
+    * event and expo organisers;
+    * marketing, market research, research and analysis and communications agencies;
+    * mailing houses, freight services, courier services; and
+    * external business advisers (such as lawyers, accountants, auditors and recruitment consultants);
+  * our related entities and brands;
+  * travel service providers such as travel wholesalers, tour operators, airlines, hotels, car rental companies, transfer handlers and other related service providers;
+  * any third party to whom we assign or novate any of our rights or obligations;
+  * a person making your travel booking on your behalf, where you are travelling on a booking made on your behalf by another person (for example, a family member, friend or work colleague);
+  * your employer, where you are an employee of one of our corporate, business or government clients and you are participating in an event or travelling for work purposes;
+  * a person who can verify to us that they have a relationship with you (e.g. a family member) where you are not contactable, the person correctly answers our required security questions and the request is, in our opinion, in your interest (for example, where the person is concerned for your welfare or needs to undertake action on your behalf due to unforeseen circumstances);
+  * as required or authorised by applicable law, and to comply with our legal obligations;
+  * customs and immigration to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
+  * government agencies and public authorities to comply with a valid and authorised request, including a court order or other valid legal process;
+  * various regulatory bodies and law enforcement officials and agencies, including to protect against fraud and for related security purposes; and
+  * enforcement agencies where we suspect that unlawful activity has been or may be engaged in and the personal information is a necessary part of our investigation or reporting of the matter.
 
-Companies to whom personal information is disclosed which are registered in the United States may be required to provide information under the USA PATRIOT Act H.R. 3162. 
 
-**Trans-Border data flows** ****
 
-When you provide, or otherwise allow us to collect, your personal information, and by continuing to use our services and/or providing us with your personal information, you consent to your personal information being disclosed to certain overseas recipients, as set out below.  Where we disclose your personal information to an overseas recipient, you agree that we will not be required to ensure the recipient’s compliance with relevant privacy laws or otherwise be liable or accountable for how the recipient handles your personal information.  If you have any objections to your personal information being disclosed to an overseas recipient, please let us know.
+Other than the above, we will not disclose your personal information without your consent unless we reasonably believe that disclosure is necessary to lessen or prevent a threat to life, health or safety of an individual or to public health or safety or for certain action to be undertaken by an enforcement body (e.g. prevention, detection, investigation, prosecution or punishment of criminal offences), or where such disclosure is authorised or required by law (including applicable privacy / data protection laws).
 
-In providing our services to you, it may be necessary for us to disclose personal information to relevant overseas travel service providers.  For instance, where you request travel to be booked with an overseas travel service provider, we will usually need to disclose your personal information to that provider for the purposes of arranging your booking with them.  These travel service providers will in most cases receive your personal information in the country in which they will provide the services to you or in which their business is based.  
+On our websites, you may choose to use certain features that can be accessed through, or for which we partner with, other entities that are not otherwise affiliated with us. These features, which include social networking and geo-location tools, are operated by third parties, including social networks, and are clearly identified as such. These third parties may use or share personal information in accordance with their own privacy policies. We strongly suggest you review the third parties’ privacy policies if you use the relevant features.
 
-We may also disclose your personal information to our overseas related entities and to travel service providers and other third parties who perform services for us overseas.  Generally, we will only disclose your personal information to these overseas recipients in connection with facilitation of your travel arrangement and/or to enable the performance of administrative and technical services by them on our behalf.
+  6. **Is personal information transferred overseas?**
 
-We deal with many different service providers all over the world, so it is not possible for us to set out in this Policy all of the different countries to which we may send your personal information.  However, if you have any specific questions about where or to whom your personal information will be sent, please refer to the “Feedback / Complaints / Contact” section below. 
 
-**Security of information** ****
 
-Topdeck has implemented various physical, electronic and managerial security procedures in order to protect personal information from loss and misuse, and from unauthorized access, modification, disclosure and interference.  
-Topdeck regularly reviews security and encryption technologies and will strive to protect your personal information as fully as we protect our own confidential information.
+We may disclose your personal information to certain overseas recipients, as set out below. We will ensure that any such international transfers are either necessary for the performance of a contract between you and the overseas recipient or are made subject to appropriate or suitable safeguards as required by your local data protection laws (e.g. GDPR). We will provide you with copies of the relevant safeguard documents on request (see section 13 below).
 
-**Access to and correction of personal information** ****
+It is possible that information will be transferred to an overseas recipient (other than any of our overseas related entities) located in a jurisdiction where you will not be able to seek redress under your local data protection laws and that does not have an equivalent level of data protection as in your jurisdiction. To the extent permitted by your local data protection laws, we will not be liable for how these overseas recipients handle, store and process your personal information.
 
-Subject to any exceptions set out in applicable privacy laws, we invite you to access any personal information we may hold about you. Where personal information we hold about you is not accurate, complete, up-to-date or relevant, you may ask us to correct that personal information, and we will respond to your request within a reasonable time. We reserve the right to confirm the identity of the person seeking access or correction to personal information before complying with such a request. If we deny access or correction, we will provide you with the reason for such denial.   If you wish to access or seek correction of any personal information we hold about you, please refer to the “Feedback / Complaints / Contact” section below.
+  * **Our overseas related entities**
 
-You must always provide accurate information and you agree to update it whenever necessary.  You also agree that, in the absence of any update, we can assume that the information submitted to us is correct.
 
-_United Kingdom_
 
-In addition to the above, this section applies in respect of the United Kingdom. 
+Topdeck operates within the global Flight Centre Travel Group business, including operations in Australia, New Zealand, Canada, United States, United Kingdom, South Africa, Hong Kong, India, China, Singapore, the United Arab Emirates, Ireland, the Netherlands, Mexico, Germany, Norway, Sweden, Denmark and Finland. Your personal information may be disclosed to our overseas related entities in connection with facilitation of your travel booking and/or to enable the performance of administrative, advisory and technical services, including the storage and processing of such information.
 
-Under the Data Protection Act you have a right of access to (and to correct) the personal information we hold about you.  If you wish to exercise this right, please send a Data Subject Access Request in writing to:
+  * **Travel service providers located overseas**
 
-Data Protection Manager  
-Topdeck Tours Limited
 
-Level 1, 107 Power Road
 
-Chiswick, London, W4 5PY
+In providing our services to you, it may be necessary for us to disclose personal information to relevant overseas travel service providers. We deal with many different travel service providers all over the world, so the location of a travel service provider relevant to your personal information will depend on the travel services being provided. The relevant travel service providers will in most cases receive your personal information in the country in which they will provide the services to you or in which their business or management is based. 
 
-Requests by telephone, fax, or e-mail cannot be accepted.
+  * **Our third party service providers located overseas**
 
-In accordance with the Data Protection Act, we are not obliged to comply with your request unless the prescribed fee is paid, and sufficient security information is provided to establish the requestor's identity, and we can locate the appropriate information.
 
-Please enclose the following with your request:
 
-  * a postal order or cheque (made payable to Topdeck Tours Limited) for £10;
-  * a photocopy of your passport, or any other official document upon which your signature is present;
-  * details of any purchases you have made from us; and
-  * details of any specific documents you require that contain your personal details (if known).
+We may also disclose your personal information to third parties located overseas for the purpose of performing services for us, including the storage and processing of such information. Generally, we will only disclose your personal information to these overseas recipients in connection with facilitation of your travel booking and/or to enable the performance of administrative and technical services by them on our behalf.
 
+We use key service providers located in India, Hong Kong, USA, United Kingdom, Spain and Australia. We also deal with many different service providers all over the world, so it is not possible for us to set out in this Notice all of the different countries to which we may send your personal information. However, if you have any specific questions about where or to whom your personal information will be sent, please refer to the “Feedback / Complaints / Contact” section below (section 13). 
 
+  7. **Security of information**
 
-You will receive acknowledgement of your request quoting the date by which you will receive your information pack.
 
-Further correspondence regarding your request should only be made in writing to the Data Protection Manager at the above address.  We may recover from you any additional reasonable costs of supplying you with access to this information.  If we deny access, we will provide you with the reason for such denial. 
 
-**User Generated Content**
+We are committed to safeguarding and protecting personal information and will implement and maintain appropriate technical and organisational measures to ensure a level of security appropriate to protect any personal information provided to us from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal information transmitted, stored or otherwise processed. Topdeck has implemented various physical, electronic and managerial security procedures in order to protect the personal information it holds from loss and misuse, and from unauthorised access, modification, disclosure and interference. Topdeck regularly reviews security technologies and will strive to protect your personal information as fully as we protect our own confidential information. Topdeck is not responsible for any third party’s actions or their security controls with respect to information that third parties may collect or process via their websites, services or otherwise.
 
-You agree that, by submitting, posting or otherwise providing any message, blog, data, ****information, recommendations, opinions, reviews, news articles, directories, guides, text, music, sound, photos, video footage, art, illustrations, imagery, design, graphics, logos, audio clips and images, code or other material (“Content”) to or through our website or mobile application (including by using interactive communication facilities such as blogs, discussion groups and other communication forums where individuals may submit or post reviews, plans, comments and other information (“Interactive Facilities”)), you:
+We will destroy or de-identify personal information once we no longer require it for our business purposes, or as required by law.
 
-  * grant to us and our affiliates (including, without limitation, our related entities) a worldwide, nonexclusive, royalty-free, perpetual, transferable, irrevocable and fully sub-licensable right to use, reproduce, modify, adapt, translate, distribute, publish, broadcast, communicate, create derivative works from, publicly display and perform such Content throughout the world in any media, for any purpose whatsoever (“Licence”);
-  * expressly acknowledge that we may sub-license our rights under the Licence to third parties who may make use of the Content consistent with the Licence including, by way of example, on websites, in a written publication, compilation of works, training materials, film, television program, script or screenplay of either ourselves or a third party expressly authorised by us;
-  * grant us and our affiliates and sub-licensees the right to use your name or any other name that you submit in connection with such Content, at our discretion;
-  * waive any entitlement to any moral rights you may have as an author of the Content (and warrant that you have obtained a waiver of moral rights from any person who may have such rights in the Content); and
-  * agree that we are under no obligation to treat the Content as confidential.
+  8. **Your rights in relation to the personal information we collect**
 
 
 
-We reserve the right to disclose any Content as necessary to satisfy any applicable law, regulation or lawful request. 
+If you wish to:
 
-For the avoidance of doubt, this Privacy Policy does not restrict your rights to re-use Content you have posted or otherwise provided to or through the website or mobile application.  However, other terms may apply different conditions to certain Content (e.g. competition terms and conditions).  To the extent of any inconsistency between this Privacy Policy and any of our terms which apply to specific Content, the latter will prevail.
+  * update, modify, delete or obtain a copy of the personal information that we hold on you; or
+  * restrict or stop us from using any of the personal information which we hold on you, including by withdrawing any consent you have previously given to the processing of such information; or
+  * where any personal information has been processed on the basis of your consent or as necessary to perform a contract to which you are a party, request a copy of such personal information in a suitable format
 
-In addition, you understand that we may use statements made by you and other passengers, and/or your or their photographs or videos, may be used in our advertising and publicity material, and you consent to such use of your comments or photographic / video likeness.  If you do not wish for your comments or photographic / video likeness to be used for these purposes, pleaserefer to the“Feedback / Complaints / Contact” section below and let us know.
 
-**Opt-out** ****
 
-Should you no longer wish to receive e-newsletters or other promotional material, participate in market research or receive other types of communication from us, please refer to the“Feedback / Complaints / Contact” section below.
+you can request this by emailing us at the address set out in section 13 below. You will receive acknowledgement of your request and we will advise you of the timeframe within which you will receive your information pack.
 
-**Social Media Integrations**
+We endeavour to respond to such requests within a month or less, although we reserve the right to extend this period for complex requests.
 
-Our website and mobile application may use social media features and widgets (such as “Like” and “Share” buttons/widgets) (“SM Features”).  These are provided and operated by third party companies (e.g. Facebook) and either hosted by a third party or hosted directly on our website or mobile application.  SM Features may collect information such as the page you are visiting on our website/mobile application, your IP address, and may set cookies to enable the SM Feature to function properly. 
+We reserve the right to deny you access for any reason permitted under applicable laws. Such exemptions may include national security, corporate finance and confidential references. If we deny access or correction, we will provide you with written reasons for such denial unless it is unreasonable to do so and, where required by local data protection laws, will note your request and the denial of same in our records. 
 
-If you are logged into your account with the third party company, then the third party may be able to link information about your visit to and use of our website or mobile application to your social media account with them. Similarly, your interactions with the SM Features may be recorded by the third party.  In addition, the third party company may send us information in line with their policies, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available.  You can manage the sharing of information via your privacy settings for the third party social media platform.
+Further correspondence regarding your request should only be made in writing to the Data Protection Officer at the address set out in section 13 below. 
 
-Your interactions with these SM Features are governed by the privacy policy of the third party company providing them.  For more information about the data practices of these third party companies, and to find out more about what data is collected about you and how the third party uses such data, please refer to their privacy policy directly.
+Please note that, if you request that we restrict or stop using personal information we hold on you, or withdraw a consent you have previously given to the processing of such information, this may affect our ability to provide services to you or negatively impact the services we can provide to you. For example, most travel bookings must be made under the traveller's full name and must include contact details and appropriate identification (e.g. passport details). We cannot make bookings for you without that information.
 
-**Mobile Application**
+You must always provide accurate information and you agree to update it whenever necessary.  You also agree that, in the absence of any update, we can assume that the information submitted to us is correct, unless we subsequently become aware that it is not correct.
 
-_Log Data_
+You can at any time tell us not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below (section 13).
 
-We may receive, store and process Log Data, which is information that is automatically recorded by our servers whenever you access or use the mobile application, regardless of whether you are registered with Topdeck or logged in to your My Topdeck account, such as your IP Address, the date and time you access or use the mobile application, the hardware and software you are using, referring and exit pages and URLs, the number of clicks, pages viewed and the order of those pages, and the amount of time spent on particular pages.
+In any of the situations listed above, we may request that you prove your identity by providing us with a copy of a valid means of identification in order for us to comply with our security obligations and to prevent unauthorised disclosure of personal information.
 
-_Data and Location Services_
+We reserve the right to charge you a reasonable administrative fee for any manifestly unfounded or excessive requests concerning your access to your personal information, and for any additional copies of the personal information you request from us.
 
-By using our mobile application, you consent to us collecting and using technical information about your mobile device and related software, hardware and peripherals for services that are internet-based or wireless, to improve our products and to provide any services to you, in accordance with this privacy policy.
+  9. **Social Media Integrations**
 
-Certain services available via the mobile application may make use of location data sent by your mobile device.  You can turn off location services at any time by turning off the location services settings for the mobile application on your mobile device, or for the mobile device as a whole.  If you use the mobile application, you consent to us and our affiliates collecting, transmitting, maintaining, processing and using your location data and queries to provide and improve location-based services.  You may withdraw your consent at any time by turning off the location services settings.
 
-_Notifications and alerts_
 
-By using the mobile application, you acknowledge and agree that you may receive: 
+Our websites and mobile applications may use social media features and widgets (such as “Like” and “Share” buttons/widgets) (“ **SM Features** ”). These are provided and operated by third party companies (e.g. Facebook) and either hosted by a third party or hosted directly on our website or mobile application. SM Features may collect information such as the page you are visiting on our website/mobile application, your IP address, and may set cookies to enable the SM Feature to function properly.
 
-  * push notifications; 
-  * alerts (if requested).
+If you are logged into your account with the third party company, then the third party may be able to link information about your visit to and use of our website or mobile application to your social media account with them. Similarly, your interactions with the SM Features may be recorded by the third party. In addition, the third party company may send us information in line with their policies, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available, and we may share information with the third party company for the purposes of serving targeted marketing to you via the third party social media platform. You can manage the sharing of information and opt out from targeted marketing via your privacy settings for the third party social media platform.
 
+Your interactions with these SM Features are governed by the privacy policy of the third party company providing them. For more information about the data practices of these third party companies, and to find out more about what personal information is collected about you and how the third party uses such personal information, please refer to their privacy policy directly.
 
+  10. **IP addresses**
 
-from us and our affiliates at any time.  You have the option to turn these messages off at any time by turning off the notifications settings for the mobile application on your mobile device.
 
-In order to be able to receive alerts, notifications and messages, you must ensure that your mobile device is switched on and able to receive messages and you are located within a coverage area of your mobile service provider.
 
-_Stored Data_
+When you access our website, use any of our mobile applications or open electronic correspondence or communications from us, our servers may record data regarding your device and the network you are using to connect with us, including your IP address. An IP address is a series of numbers which identify your computer, and which are generally assigned when you access the internet.  
 
-You acknowledge and agree that the mobile application may collect and store information relevant to your use of the mobile application (such as your registration details, and product and usage information), including location information as described above, and will request your mobile device to transmit that data back to our web-server, in order to provide you with the mobile application and associated services, to help us continually improve the mobile application and enhance your user experience when you next use the mobile application. 
+We may use IP addresses for system administration, investigation of security issues and compiling anonymised data regarding usage of our website and/or mobile applications. We may also link IP addresses to other personal information we hold about you and use it for the purposes described above (e.g. to better tailor our marketing and advertising materials, provided you have opted in to receive electronic marketing). 
 
-You can reset the mobile application to remove any stored data.  However, if you do this, you acknowledge that any information stored on your mobile device and/or within the mobile application relating to our services and the mobile application may be lost.
+  11. **Tracking Technologies / Cookies**
 
-**Tracking Technologies / Cookies** ****
 
-_Cookies_
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.    We may link the information we store in cookies to any personal information you submit while on our website.  Cookies save data about individual visitors to the website, such as the visitor's name, password, username, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor.  At Topdeck we use cookies to identify a visitor’s browser, to anonymously track visits or to enhance the experience of the website. 
+We may use third-party web analytics services on our websites and mobile apps, such as those listed in our Cookies Policy. The analytics providers that administer these services use technologies such as cookies and web beacons to help us analyse how visitors use our websites and apps.
 
-We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.  When the visitor revisits the website, we may recognize the visitor by the cookie and customise the visitor's experience accordingly.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+For information regarding our use of cookies and tracking technologies, refer to our Cookies Policy on our website.
 
-If you reject cookies, you may still have access to our website, but your ability to use some areas of our website, such as contests or surveys, will be limited.
+  12. **Linked Sites**
 
-_Third party cookies_
 
-When you visit certain sections of our website and/or use our mobile application, third parties may place cookies on your computer’s browser and/or make use of web beacons to collect information.  This information may include things such as your use of the website or mobile application, device and browser information and ad data. The information generated by the cookies and web beacons about your use of the website is transmitted to those third parties.  This information is then used for the purpose of compiling statistical reports to enable us to measure and analyse the number of visits to the site and its pages, the average time spent on the site and the pages viewed; serving targeted advertising to you (including use to target advertising on other sites or applications based on your online activity); providing us with services and enhancing/improving our website, mobile application and the third party’s technology products and services.  We will not (and will not allow any third party to) use the third party services to track or to collect any personal data of visitors to our website.  We will not associate any data gathered via use of cookies with any personal data from any source as part of our use of these third party services. 
 
-Our current providers, and information regarding their data practices and how to opt out, include the following:
+Our websites may contain links to third party websites over which we have no control. We are not responsible for the privacy practices or the content of such websites. We encourage you to read the privacy policies of any linked third party websites you visit as their privacy policy and practices may differ from ours.
 
-  * Google Analytics is a website analytics service provided by Google, Inc.  For further information about Google Analytics please visitand for details of Google Analytics’ Privacy Policy, please visit[http://www.google.com/intl/en)ALL/privacypolicy.html](http://www.google.com/intl/en\)ALL/privacypolicy.html). Google also publishes details of how it collects and processes data under “How Google uses data when you use our partners' sites or apps”, (located at).You may choose to opt-out of Google Analytics using the Google Analytics Opt-out Browser Add-on which you may access at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
-  * Criteo is a company specialising in targeted advertising.  For further information about Criteo, please visit  and for details of Criteo’s Privacy Policy, please visit .  For information on how to disable Criteo services and/or to opt out of Criteo, you can visit [http://www.criteo.com/privacy/](http://www.criteo.com/privacy/) and use the opt-out feature.
-  * AdRoll is a retargeting company.  For further information about AdRoll, please visit  and for details of AdRoll’s Privacy Policy, please visit [https://www.adroll.com/en-AU/about/privacy](https://www.adroll.com/en-AU/about/privacy).  You may choose to opt out from receiving targeted advertisements from AdRoll by visiting the NAI website opt-out page here: http://www.networkadvertising.org/choices/http://www.aboutads.info/http://youronlinechoices.eu/
+  13. **Feedback / Complaints / Contact**
 
 
 
-_Web Beacons / Gifs_
+If you wish to make a Subject Access Request to inform us of a change or correction to your personal information, request a copy of the information we collect on you, request deletion of your information or would like to restrict the further processing of your data, please use the following link:
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal identifiable information. We may also use web beacons and tracking URLs in our messages to you to determine whether you have opened a certain message or accessed a certain link.
+**Link:**     [SAR Request](https://app-de.onetrust.com/app/#/webform/f9fea24e-ad46-4199-9ca1-f9dacdb95fd3)
 
-_3_ _rd_ __ _Party Tracking_
+We will respond to these requests within a month of receipt.
 
-As contemplated above, the use of cookies by our partners, affiliates, tracking utility company or service providers is not covered by our Privacy Policy.  We do not have access or control over these cookies.  Our Third Party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our website. We do not tie the information gathered to our customers’ or users’ personal identifiable information.
+If you have any enquiries, comments or complaints about this Notice or our handling of your personal information, please contact your consultant or the Data Protection Officer using the details set out below and we will responds as soon as practicable.
 
-_Behavioural Targeting / Re-Targeting_
+**Email:**   [Data.Protection@flightcentre.co.uk](mailto:Data.Protection@flightcentre.co.uk)
 
-As contemplated above, we partner with Third Party ad networks to either display advertising on Our Site or to manage Our advertising on other sites. Our ad network partners use cookies, Web beacons and other technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, then in addition to the methods specified above you may opt-out by clicking[here](http://preferences-mgr.truste.com/)and[here](http://www.networkadvertising.org/choices/#completed). Please note this does not opt you out of being served advertising. You will continue to receive generic ads or targeted ads where third parties do not honour opt-out capabilities.
+**Post:**     Data Protection Officer  
+Flight Centre (UK) Limited  
+Level 6, CI Tower, St George’s Square  
+New Malden, Surrey   
+KT3 4TE
 
-**Linked Sites** ****
+  14. **Changes to our Notice**
 
-Our website may contain links to third party sites over which we have no control. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy policies of any linked sites you visit as their privacy policies and practices may differ from ours.
 
-**Feedback / Complaints / Contact** ****
 
-If you have any enquiries, comments or complaints about this Policy or our handling of your personal information, please [contact us](https://www.topdeck.travel/about-topdeck/contact-us).We will respond to any complaints received as soon as practicable. 
+We may amend this Notice from time to time. If we make a change to the Notice, the revised version will be posted on our website. We will post a prominent notice on our website to notify you of any significant changes to our Notice and indicate at the end of the Notice when it was most recently updated. It is your responsibility, and we encourage you, to check the website from time to time in order to determine whether there have been any changes. If we update our Notice, in certain circumstances, we may seek your consent.
 
-**Changes to our Policy** ****
-
-From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time and for any reason.  If we make a change to the Policy, the revised version will be posted on our website.  We recommend that you check back regularly to ensure you are aware of the most up-to-date version of this Policy.
-
-Last updated 8 July 2016.
+This Privacy Notice was last updated on 24 May 2018.
