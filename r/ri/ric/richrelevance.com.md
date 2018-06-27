@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027093126id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163024id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RichRelevance
 
@@ -9,7 +9,7 @@ _
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=0a58ce25-c908-4d42-a2bb-792ab9869137)
 
-#### EU-U.S. Privacy Shield
+### EU-U.S. and Swiss-U.S. Privacy Shield
 
 RichRelevance, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  RichRelevance is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
@@ -125,16 +125,12 @@ Children under 13 are not eligible to use the Website and so this privacy policy
 
 #### Contact Us
 
-If you have questions or concerns about this privacy policy, please contact us through the information below:
-
-RichRelevance, Inc.
-
-303 Second Street, Suite 350, San Francisco, CA 94107
-
-415 956-1947
-
+If you have questions or concerns about this privacy policy, please contact us through the information below:  
+RichRelevance, Inc.  
+303 Second Street, Suite 350, San Francisco, CA 94107  
+415 956-1947  
 [privacy@richrelevance.com](mailto:privacy@richrelevance.com?subject=RichRelevance%20Privacy%20Policy).
 
-**Effective Date:  May 16, 2017**
+**Effective Date:   June 6, 2018**
 
 RichRelevance products are licensed under U.S. Patent No. 6,330,592.
