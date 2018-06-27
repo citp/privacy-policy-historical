@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceoworld.biz privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201031511id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoworld.biz privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628005714id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CEOWORLD magazine
+# Privacy Policy | CEOWORLD magazine
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by CEOWORLD magazine LTD and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
