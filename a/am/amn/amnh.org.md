@@ -1,113 +1,82 @@
-> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914033443id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627222844id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ###### INTRODUCTION
 
-The American Museum of Natural History (also herein referred to as "AMNH" or "the Museum") is strongly committed to protecting the privacy of its online visitors. We believe that maintaining privacy on the Web is very important, and that informing our visitors about the types of information we collect and how we use it is crucial.
+The American Museum of Natural History (also herein referred to as "the Museum") is committed to protecting the privacy of its online visitors and mobile application users. The Museum believes that maintaining privacy on its website and in its mobile applications (herein referred to as “websites”) is very important, and that it is the Museum’s responsibility to inform its visitors about the types of information it collects and how it uses that information. This privacy policy outlines how the Museum collects information and how it is used online and offline. A link to the Privacy Policy can be found at the bottom of every page on amnh.org.
+
+By using any of the American Museum of Natural History website(s), you signify your acceptance of this Privacy Policy.
+
+Occasionally, the Museum may make changes to this policy. Users of the Museum's websites are encouraged to check this document periodically to stay informed of current Museum privacy guidelines. Your use of any Museum website(s) following the posting of changes to these terms will indicate your acceptance of those changes. 
 
 ###### INFORMATION COLLECTION AND USE
 
-The American Museum of Natural History does not collect any personal information about individuals-such as names and postal or email addresses-except when such information is knowingly provided to the Museum.
+The American Museum of Natural History collects personal information (such as name and postal or email address) provided by individuals who visit our websites in order to meet the needs of our online visitors and mobile app users, including fulfilling online orders, personalizing online experiences, informing visitors about upcoming programs and events, and also to understand users’ behavior on Museum websites and in its apps. Additionally, individuals may transmit personal information to the Museum as part of a form submission or in connection with other activities, services, or resources made available on the Museum’s websites.
 
-Personal information may be obtained from online transactions as detailed below. Additionally, personal information may be transmitted as part of a form submission or in connection with other activities, services, or resources made available on our site. Any personal identification information retrieved by the Museum must be voluntarily submitted by the user.
+The Museum’s collection and use of visitor information varies with the type of visit or transaction, as detailed below. 
 
-###### Ticket Purchase, Museum Membership, and Donations
+###### ONLINE TICKETING, MUSEUM MEMBERSHIP, MUSEUM SHOP PURCHASES, AND DONATIONS
 
-In order to purchase tickets or a Museum membership, or to donate to the Museum at this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as name and email address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to contact you about the Museum services in which you have expressed interest.
+If you purchase a Museum ticket or Membership, donate to the Museum, or purchase an item from the Museum Shop online, you are asked to provide personally identifiable information to process and fulfill your online transaction. This information includes contact information (like name, email and physical addresses) and credit card information. The Museum stores credit card information in a secure, tokenized format and does not store credit card numbers on Museum servers. If the Museum has trouble processing an order or donation, we may use your contact information to reach you.
 
-###### AMNH Shop Orders
+###### EMAIL SUBSCRIPTIONS
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email address, and shipping address) and financial information (such as credit card number and expiration date).
+If you are subscribed to any of the Museum’s email newsletters, the Museum will use your name and email address to send the newsletter to you. You may unsubscribe at any time by clicking the “unsubscribe” link at the bottom of every email, or through the Subscriptions tab in your Profile on amnh.org.
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+###### SURVEYS
 
-###### AMNH Expeditions
+From time to time, the Museum may ask you to participate in surveys. Participation in these surveys is completely voluntary and, unless otherwise stated, anonymous. Some surveys may request personal information, which you may choose not to provide. We use any information obtained from survey responses to improve the experience of visitors to the Museum and the Museum's website.
 
-If you place a deposit for a trip on our site, we require that you provide certain personally identifiable information, including your name, address, phone number, and credit card number. This information is necessary to process your application and to contact you.
+The Museum may use a third-party service provider to host and conduct these surveys. Any such service provider will be strictly prohibited from using survey participants' personally identifiable information for any purpose other than administering and analyzing the survey. Information collected in any Museum survey is never sold or rented, and is only shared with third parties for the purpose of conducting and analyzing the survey.
 
-###### Newsletters
+###### THIRD-PARTY PARTNERS
 
-If you wish to subscribe to our email newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section below.
+The American Museum of Natural History will never sell or rent your personal information. However, the Museum may need to share your personal information with third-party vendors or organizations from time to time. The Museum requires these parties to protect the privacy of the Museum’s online visitors and to keep all information secure and confidential.
 
-###### Surveys
+The Museum partners with reputable third-party vendors in order to provide certain services to its online visitors, including ticketing, membership and online shop purchases, donation processing, and distribution of the Museum’s email newsletters. The Museum may also work with third-party vendors to help better understand the needs and behaviors of its Members and donors. These vendors will not share your personal information.
 
-From time to time, the Museum may provide you the opportunity to participate in surveys. If you participate, we will request certain personal information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information may include household and demographic information (such as marital status and zip code).
-
-We use the information obtained from survey responses to improve the experience of visitors to the Museum and the Museum's Web site. You may be given the opportunity to opt-in for Museum communications after participating in a survey, but this information is not associated with your survey responses.
-
-We may use a third-party service provider to conduct these surveys or contests; that company is prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with third parties unless we give you prior notice and choice.
-
-###### Contact Forms
-
-The information provided to the Museum using the online Contact Us form is used for responding to your comments and inquiries and will not be used for any other purpose without your prior notice and consent.
-
-###### Aggregate Information (Not Personally Identifiable)
-
-The Museum's Web site does collect some anonymous "non-personally identifiable" aggregate information about visitors automatically when pages on our Web site are requested through a browser. This information is used for statistical purposes and to help us monitor how guests navigate our site, allowing us to tailor our services for the majority of visitors. Non-personally identifiable information may refer to information about our visitors' browsers (e.g., Mozilla Firefox or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet Service Providers, and other similar information.
-
-The Museum's Web site collects IP addresses as a component of the non-personally identifiable aggregate information. An IP address is a number assigned to your computer by a Web server when you're on the Internet. This information is used only for non-user-specific purposes such as determining how many users visited a specific area of our site. Such information could, if necessary, be used to identify a user in order to comply with safety and/or security issues or with legal requirements.
-
-Any personal information provided to the American Museum of Natural History is maintained and accessible only by the Museum unless the Museum explicitly states otherwise.
-
-###### INFORMATION SHARING
-
-The Museum will not intentionally disclose any personal information about you as an individual user (such as your name, street address, telephone number, credit card number, or email address) to any third party without having received your prior permission.
-
-###### THIRD PARTY PARTNERS
-
-The American Museum of Natural History has teamed up with reputable third-party vendors in order to provide certain services to its online users, including ticketing, Membership, donation processing, the online shop, and its email newsletters. The Museum has taken precautions to insure that the privacy of its online visitors is protected by our online partners. In cases when users leave the Museum's site to visit one of its partners' sites, users are encouraged to become familiar with the privacy statements of each site they visit.
+The Museum may share personal information, such as name, email or physical address, or records of transactions you have conducted with the Museum, with third-party advertising partners in order to deliver Museum advertisements on other websites. The Museum may additionally share the names and postal addresses of Museum members and donors with other organizations for marketing purposes. You can request that your information is not shared for marketing purposes by emailing [members@amnh.org](mailto:members@amnh.org).
 
 ###### SECURITY
 
-The American Museum of Natural History protects personal and non-personally identifiable information that it receives via the Internet against unauthorized access.
+The American Museum of Natural History has implemented appropriate and reasonable physical, technical, and administrative processes and procedures to protect personal and non-personally identifiable information against unauthorized access.
 
-In addition, the Museum's Web site uses Secure Sockets Layer (SSL) encryption to process online transactions, such as purchases made through the online store and ticketing systems. By using this technology, online customers can feel confident that their personal information is protected from interception by a third party. Sensitive credit card information is not permanently stored on any AMNH Web server and though your order information is retained for our records, this information is not shared with other companies or persons except as needed to process your transaction.
+In addition, the Museum's website uses Secure Sockets Layer (SSL) encryption to process online transactions, such as purchases made through the online store and ticketing systems. Credit card information is not permanently stored on any Museum web server. Further, the Museum has processes in place to maintain conformance with PCI DSS (Payment Card Industry Data Security Standard) and other relevant security standards.
 
-What is a secure connection?   
- When a secure connection is established between your browser and a Web site, any data that is transferred over the connection will be encrypted to prevent it from being viewed by a third party. Secure Sockets Layer (SSL) encryption, the standard for most browsers and servers, makes it very difficult for anyone to intercept or decode messages exchanged over this type of secure connection.
+###### COOKIES & PIXEL TAGS
 
-Browsers such as Mozilla Firefox and Internet Explorer display an image of a locked padlock in their status bar when connected to a secure site. Secure transactions are also indicated when the prefix in the location bar of your browser switches from http:// to https://. If you do not see the padlock at the bottom of your browser's window, if the padlock is unlocked, or the protocol in the location bar is not listed as https://, then any data exchanged with the Web site is potentially visible to others.
+Like most websites, the Museum’s uses cookies and pixel tags. These technologies do not capture or store any personal information. The Museum uses them to better understand its online visitors, to improve its marketing efforts, and to make improvements to website content, navigation, and structure.
 
-Depending on your browser, you may be able to view authentication information about a secure page by double-clicking on the locked padlock in the status bar. For more information on how your software establishes a secure connection, see the help files for your particular browser.
+A cookie is a small text file that is sent to your browser from a website and is stored on your computer's hard drive. A cookie acts as an anonymous tag that identifies your computer or device but not you personally. Cookies can store information about which webpages you’ve viewed, or what you’ve put in your online cart.
 
-###### COOKIES
-
-A cookie is a small text file that is sent to your browser from a Web site and stored on your computer's hard drive. Cookies can't read data from your hard disk or read cookie files that were created by other sites-the Web site that creates a cookie is the only one a browser will permit to access it.
-
-Examples of ways in which the American Museum of Natural History might use cookies would be to control access to certain user features, to customize content areas, or to analyze site activity and user behavior. The Museum also reserves the right to use cookies in the future in conjunction with new content or extended functionality.
+A pixel tag is a small graphical image, embedded on a webpage or in an email. When you access a page or email with a pixel tag, the tag generates a generic notice of that action. Pixel tags usually work in conjunction with cookies, registering when a particular device visits a particular page or opens an email.
 
 If you are concerned about the use of cookies, the Museum suggests that you explore your browser's options to notify you whenever a cookie is set, or to disallow cookies altogether. Users should be aware, however, that prohibiting the use of cookies may restrict users' access to certain types of content or features.
 
+###### AGGREGATE INFORMATION
+
+The Museum also collects some anonymous, non-personal information on an aggregate basis about its website visitors. This information is used for statistical purposes and to help the Museum monitor how visitors navigate our website. Examples of such information include IP address, browser type, and device type.
+
+Additionally, the Museum may collect anonymized location data for WiFi-enabled devices visiting the Museum campus. This data is not correlated to specific users and no personal information is collected – the data is used to understand the flow of visitors through the Museum to improve the visitor experience.
+
 ###### LINKS TO OTHER SITES
 
-Users may find content on the Museum's site that links to the sites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with our site. Although every effort is made to ensure that site referrals are to reputable and relevant sources, the Museum does not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy at all. The Museum maintains a policy against the non-consensual collection or sharing of personal information and encourages visitors to review the privacy policies of any sites they visit to ensure their personal information is being protected.
+Users may find content on the Museum's website that links to the websites and services of our partners, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with the Museum. Although every effort is made to ensure that website referrals are to reputable and relevant sources, the Museum does not control the content or links that appear on these websites. In addition, these websites or services, including their content and links, may change without the Museum’s knowledge. In addition, these websites and services may have their own privacy policies and customer service policies, or no policy at all, and those too may change from time to time, and you are encouraged to review the privacy policies of any websites you visit.
 
-###### CHILDREN
+###### CHILDREN UNDER 13 YEARS OF AGE
 
-The Museum does not knowingly collect personal information from children under 13 years of age. Children should always ask parents for permission before providing personal information to any Web site or purchasing any products or services online. The AMNH urges all parents to participate in their children's exploration of the Internet and to teach them about protecting their personal information while online.
-
-###### CHOICE AND OPT-OUT
-
-If you give us permission, we may use any personal identification information you submit for Museum marketing and promotional purposes. For example, occasionally the Museum may wish to send emails to inform users of new exhibitions or events we think might be of interest to them. You will not receive such communications unless you have willingly provided the personal information required. In some cases, you will be required to "opt-in" by joining a mailing list or creating a registration account with the Web site. If you do opt-in, you will have the option to "opt-out" at any time by "unsubscribing" to that particular list or Web site registration or following the opt-out instructions included in the body of the email message.
-
-If for any reason you do not wish to receive email from the Museum, please follow the instructions for unsubscribing included in the body of the message that was sent to you.
-
-###### POLICY CHANGES
-
-Occasional changes may be made to this document as new services and content are added to our site or to reflect changes in the Museum's policies. Visitors to the Museum's Web site are encouraged to check this document periodically to stay informed of current AMNH privacy guidelines.
-
-###### ACCEPTANCE OF TERMS
-
-By using any of the American Museum of Natural History Web site(s), you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of any AMNH site following the posting of changes to these terms will indicate your acceptance of those changes.
+The Museum does not knowingly collect personal information from children under 13 years of age. If we learn we have collected or received personal information from a child under 13, we will delete that information. 
 
 ###### CONTACT INFORMATION
 
-Web Site  
- American Museum of Natural History  
- 79th Street @ Central Park West  
- New York, New York 10024-5192
+Please contact us with any questions about this policy at:
 
- [webmaster@amnh.org](mailto:webmaster@amnh.org)
+Website
 
-Last reviewed: December 14, 2007
+American Museum of Natural History  
+79th Street @ Central Park West  
+New York, New York 10024-5192  
+[webmaster@amnh.org](mailto:webmaster@amnh.org)
+
+This policy was last updated October 11, 2017.
