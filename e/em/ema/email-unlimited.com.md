@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the email-unlimited.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229084224id_/http%3A//email-unlimited.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the email-unlimited.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627165835id_/http%3A//www.email-unlimited.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
