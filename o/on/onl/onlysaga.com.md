@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlysaga.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019051221id_/http%3A//www.onlysaga.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysaga.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627071652id_/http%3A//www.onlysaga.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cheap sexy lingerie wholesale onlysaga.com
 
