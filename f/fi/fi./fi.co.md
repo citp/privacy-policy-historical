@@ -1,77 +1,295 @@
-> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917121747id_/https%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.co privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627224723id_/https%3A//fi.co/privacy_policy) for the most accurate reproduction.*
 
 # Founder Institute: World's premier idea-stage accelerator and startup launch program.
 
-Welcome to the Founder Institute, Incorporated (“FII”) website and online services (the “FII Site”). FII values the privacy of our subscribers, customers, members, and others who visit and use the FII Site and its associated services (collectively or individually, “You” or “Users”).
+Effective date: May 25, 2018
 
-This Privacy Notice describes what information we gather from you, how we use that information and what we do to protect it. This Privacy Notice is incorporated into and is subject to the FII Terms of Use. Your use of the FII Site and any personal information you provide on the FII Site are subject to the terms of this Privacy Notice and FII’s Terms of Use. By accessing, browsing or using the FII Site, you acknowledge that you have received, read, understood and agree to be bound by this Privacy Notice and any updates.
+Founder Institute, Incorporated (FII) ("us", "we", or "our") operates the website, https://fi.co/ (the “FII Site” or the "Service").
 
-## The Information FII Collects
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-  * User-provided Information: You may provide to FII what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number, billing information and other personal information) when using the FII Site.
-  * “Cookies” Information: When you visit the FII Site, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. FII may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the FII Site. By using these cookies, we can “remember” what you have done on the FII Site before and personalize our site for you. Persistent cookies can be removed. Please review your web browser’s “Help” file to learn the proper way to modify your cookie settings. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available at the FII Site.
-  * “Automatically Collected” Information: When you visit the FII Site or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including “clear gifs” or “web beacons.” This “automatically collected” information may include Internet Protocol address (“IP Address”), web browser type, the web pages or sites that you visit just before or just after the FII Site, the pages you view on the FII Site, and the dates and times that you visit the FII Site.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible from [https://fi.co/terms_of_use](https://fi.co/terms_of_use)
 
+## Definitions
 
+### Personal Data
 
-## The Way FII Uses Information
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-  * FII uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the FII Site. We may use your email address, without further consent, to provide you with updates on the status of any application you may have submitted, to inform you of major updates to FII Site, for customer service and administrative purposes, or to contact you regarding any information or other content that you have posted to the FII Site.
-  * FII uses all of the information that we collect to understand and analyze the usage trends and preferences of our Users, to improve the way the FII Site work and look, and to create new features and functionality.
-  * FII may use certain of your personally identifiable information, such as your name, educational background and professional experience for the purposes of the FII educational program, including but not limited to creating a user profile for you that may be accessed by other participants in the FII educational program.
-  * FII may use “automatically collected” information and “cookies” information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the FII Site; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries and submissions.
-  * FII will not use your email address or other personally identifiable information to send promotional messages without your consent or except.
+### Usage Data
 
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
+### Cookies
 
-## When FII Discloses Information
+Cookies are small pieces of data stored on a User’s device.
 
-  * FII does not share your personally identifiable information with other organizations for their marketing or promotional uses without your express consent. Please be aware, however, that certain personal or personally identifiable information provided to us in connection with your enrollment in the FII educational program will become available to the other participants of the FII educational program and may be collected and used by such participants, subject to certain confidentiality obligations that FII may impose from time to time.
-  * FII may disclose automatically collected and other aggregate non-personally-identifiable information with interested third parties to, among other things, assist such parties in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the FII Site.
-  * FII may disclose User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; conduct data analysis and create reports; offer certain functionality; and assist FII in improving the FII Site and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
-  * FII may also disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without first providing notice to Users.
-  * FII also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect FII from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the FII Site; or to protect the rights, property, or personal safety of FII, our Users, or others.
+### Data Controller
 
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
+For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-## Your Choices
+### Data Processor (or Service Providers)
 
-You may, of course, decline to share your personally-identifiable information with FII, in which case FII will not be able to provide to you some of the features and functionality found on the FII Site. Please note that failure to provide certain personally-identifiable information to FII may result in the termination of your participation in the FII educational program. If you are a Registered User (as defined in the Terms of Use) with a registered account on the FII Site, you may update, correct, or delete your account information and preferences at any time by going to the [insert name of appropriate webpage].
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+### Data Subject
+
+Data Subject is any living individual who is the subject of Personal Data.
+
+### User
+
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+
+## Information Collection And Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected:
+
+### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+Email address
+
+First name and last name
+
+Phone number
+
+Address, State, Province, Country, ZIP/Postal code, Nationality, 
+
+City Cookies and Usage Data
+
+Social Media accounts (LinkedIn, Facebook, Twitter, etc.)
+
+Blogs, Personal Websites, etc.
+
+Program application responses
+
+Biometric test results
+
+Program assignments and ratings 
+
+Program related contracts
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+### Usage Data
+
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+### Location Data
+
+We may use information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
+
+You can enable or disable location services when you use our Service at any time, through your device settings.
+
+### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+**Session Cookies.** We use Session Cookies to operate our Service.
+
+**Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+
+**Security Cookies.** We use Security Cookies for security purposes.
+
+### Use of Data
+
+FII uses the collected data for various purposes:
+
+To provide and maintain our Service
+
+To notify you about changes or updates to our Service
+
+To allow you to participate in interactive features of our Service when you choose to do so
+
+To provide customer support and administrative purposes
+
+To gather analysis or valuable information so that we can improve our Service
+
+To monitor the usage of our Service
+
+To detect, prevent and address technical issues
+
+To provide updates on the status of any application you may have submitted
+
+To contact you regarding any information or other content that you have posted to the FII website
+
+To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+### Your Choice
+
+You may, of course, decline to share your personally-identifiable information with FII, in which case FII will not be able to provide to you some of the features and functionality found on the FII Service. Please note that failure to provide certain personally-identifiable information to FII may result in the termination of your participation in the FII educational program. If you are a Registered User (as defined in the Terms of Use) with a registered account on the FII Service, you may update, correct, or delete your account information and preferences at any time by going to <https://fi.co/>.
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-## Third-Party Advertisers, Links to Other Sites
+### Retention of Data
 
-FII may permit other companies, called third-party ad servers or ad networks, to serve advertisements within the FII Site. These third-party ad servers or ad networks may use technology to send, directly to your browser, some of the advertisements and links that appear on the FII Site. These advertisers may automatically receive your IP address if this happens. These advertisers may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+FII will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The policies contained in FII’s Privacy Notice do not apply to, and we cannot control the activities of, such other advertisers or web sites.
+FII will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
-## Our Commitment to Children’s Privacy
+### Transfer Of Data
 
-Protecting the privacy of young children is especially important. For that reason, FII does not knowingly collect or maintain personally identifiable information on the FII Site from persons under 13 years of age, and no part of the FII Site is directed to persons under 13. If you are under 13 years of age, then please do not use or access THE FII Site at any time or in any manner. Any person who provides their personal information to FII through the FII Site represents that they are 13 years of age or older. If FII learns that personally identifiable information of persons less than 13 years of age has been collected on FII without verifiable parental consent, then FII will take the appropriate steps to delete this information.
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-## Our Commitment to Data Security
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, FII uses commercially reasonable efforts to preserve the integrity and security of your personal information. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-If FII learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the FII Site or providing personal information to us, you agree that we can communicate with you electronically regarding security and privacy issues relating to your use of the FII Site. FII may post a notice on the FII Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us via email at thefunded.spam -at- gmail.com.
+FII will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-## International Visitors
+### Disclosure Of Data 
 
-The FII Site is hosted in the United States and is intended solely for visitors located within the United States. If you nonetheless choose to use the FII Site from the European Union or other regions of the world with laws governing data collection and use that may differ from United States law, then please note that you are transferring your personal data outside of those regions to the United States which does not have the same data protection laws as the European Union and other regions, and by providing your personal data consent to: (i) the use of your personal data for the uses identified above in accordance with the Privacy Notice; and (ii) the transfer of your personal data to the United States as indicated above.
+FII does not share your personally identifiable information with other organizations for their marketing or promotional uses without your express consent. Please be aware, however, that certain personal or personally identifiable information provided to us in connection with your enrollment in the FII educational program will become available to the other participants of the FII educational program and may be collected and used by such participants, subject to certain confidentiality obligations that FII may impose from time to time.
 
-## In the Event of Merger, Sale or Bankruptcy
+FII may disclose automatically collected and other aggregate non-personally-identifiable information with interested third parties to, among other things, assist such parties in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the FII Service.
+
+FII may disclose User information to affiliated companies or other businesses or persons to: provide website hosting, maintenance, and security services; conduct data analysis and create reports; offer certain functionality; and assist FII in improving the FII Service and creating new services features. We require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, FII may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+FII may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+To comply with a legal obligation
+
+To protect and defend the rights or property of Founder Institute, Incorporated (FII)
+
+To prevent or investigate possible wrongdoing in connection with the Service
+
+To protect the personal safety of users of the Service or the public
+
+To protect against legal liability
+
+### Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+If FII learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the FII Service or providing personal information to us, you agree that we can communicate with you electronically regarding security and privacy issues relating to your use of the FII Service. FII may post a notice on the FII Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+### "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+### Your Rights
+
+FII aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the right:
+
+To access and receive a copy of the Personal Data we hold about you
+
+To rectify any Personal Data held about you that is inaccurate 
+
+To request the deletion of Personal Data held about you
+
+You have the right to data portability for the information you provide to FII. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+### Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+##### Google Analytics
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/)
+
+### Behavioral Remarketing
+
+FII uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+##### Google AdWords
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](http://www.google.com/settings/ads)
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/)
+
+##### Facebook
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217)
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca](http://youradchoices.ca/)/ or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+##### Stripe
+
+Their Privacy Policy can be viewed at: [https://stripe.com/us/privacy](https://stripe.com/us/privacy)
+
+##### PayPal or Braintree
+
+Their Privacy Policy can be viewed at: <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+### Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Children's Privacy
+
+Protecting the privacy of young children is especially important. Our Service does not address anyone under the age of 13 ("Children"). For that reason, FII does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the FII Service is directed to persons under 13. If you are under 13 years of age, then please do not use or access the FII Service at any time or in any manner. Any person who provides their personal information to FII through the FII Service represents that they are 13 years of age or older. If FII learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then FII will take the appropriate steps to delete this information from our servers.
+
+### In the Event of Merger, Sale or Bankruptcy
 
 In the event that FII should ever be acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control. In the event of FII’s bankruptcy, insolvency, or assignment for the benefit of creditors, we may not be able to control how information that we have collected from Users is transferred or used.
 
-## Changes and Updates to this Privacy Notice
+### Changes To This Privacy Policy
 
-This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a “last modified” date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the FII Site constitutes your agreement to this Privacy Notice and any future revisions.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-## Effective Date, Date Last Modified
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
 
-This Privacy Notice is effective as of January 20, 2010.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## FII Contact Information
+### Contact Us
 
-Please contact FII with any questions or comments about this Privacy Notice, your personal information, or our third-party disclosure practices at thefunded.spam -at- gmail.com. We will endeavor to respond to your inquiry within a reasonable amount of time.
+If you have any questions about this Privacy Policy, please contact us by email: [mailing@fi.co](mailto:mailing@fi.co)
