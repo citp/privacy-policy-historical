@@ -1,82 +1,255 @@
-> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123150241id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627160738id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Ethical Consumer
 
-## Privacy
+## Privacy Policy
 
-This Privacy Policy explains what we do with the personal information that we collect from site visitors and subscribers. If you have any questions [please contact us](https://web.archive.org/linkclick.aspx?link=181&tabid=162).  
+At Ethical Consumer, we’re committed to protecting and respecting your privacy.
+
+This Privacy Policy explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
+
+We may change this Privacy Policy from time to time, so please check this page occasionally to ensure that you’re happy with any changes.
+
+Any questions regarding this Policy and our privacy practices should be sent:   
+by email to enquiries@ethicalconsumer.org   
+or by writing to Unit 21, 41 Old Birley Street, Manchester, M15 5RF, UK  
+or you can telephone 0161 226 2929.
+
+### 1\. What is Ethical Consumer?
+
+We are an independent, not-for-profit, multi-stakeholder co-operative with open membership, founded in 1989 and based in Manchester.
+
+We produce six magazines a year, plus special content for our website. We host events, including our own annual conference in London. We also provide research and consultancy services to ethically minded businesses.
+
+For nearly 30 years we have been the hub of the ethical consumer movement, helping consumers to shop ethically, campaigners to challenge corporate power and businesses to improve their supply chain.
+
+### 2\. How do we collect information from you?
+
+We collect browsing information on your IP address, what pages are accessed and when. This is done via cookies. For more details on cookies see below.
+
+We also collect personal information such as your name, email address, postal address and phone number when you subscribe to our mailing list or take out a subscription.
+
+If you purchase a subscription using Direct Debit, financial information will be added to our customer relationship management software. This is to enable use to process future Direct Debit payments.
+
+If you purchase a one-off subscription through our website, your card information is not held by us, it is collected by our third party payment processors, Global Payments - https://www.globalpaymentsinc.com/en-gb  and Datacash - http://www.datacash.com/, who specialise in the secure online capture and processing of credit/debit card transactions.
+
+### 3\. How is your information used?
+
+We use your information to:  
+    • Process a subscription or an order that you have made;  
+    • Carry out our obligations arising from any contracts entered into by you and us (e.g. send you copies of the magazine, information about your subscription);  
+    • Notify you of changes to our services;  
+    • Send you weekly email newsletters which include information about content on our website, updates on campaigns, information about events we are hosting, and updates on our associated companies, such as the Fair Tax Mark and Save Our Bank;  
+    • Monitor how you use the website, and how you got to the website;  
+    • Seek your views or comments on the services we provide;  
+    • Deal with entries into any competitions we run.
+
+We review our retention periods for personal information on a regular basis.
+
+We are legally required to hold some types of information to fulfil our statutory obligations.
+
+We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with us.  
  
 
-You signify your consent to our collecting and using your personal information in accordance with this Privacy Policy by your use of this website. We shall keep a regularly updated copy of this Privacy Policy on our site.
+### **4.  **Who has access to your information?
 
-### Site Visitors  
+We will not sell or rent your information to third parties.
+
+We will not share your information with third parties for marketing purposes. We may occasionally share anonymised score customisation data with academic institutions for research purposes.
+
+**  
+4.1 Third Party Service Providers working on our behalf**
+
+We may pass your information to our third party service providers, agents subcontractors and other associated organisations for the purposes of completing tasks and providing services to you on our behalf (for example to process subscriptions and send you mailings).
+
+However, when we use third party service providers, we disclose only the personal information that is necessary to deliver the service and we have a contract in place that requires them to keep your information secure and not to use it for their own direct marketing purposes.
+
+Ethical Consumer uses the following Third Party Service Providers:  
  
 
-If you are simply browsing the site then we do not request any personally identifying information from you.
+_Google Analytics_
 
-However, we do collect a limited amount of non-personally identifying information which your internet browser makes available whenever you visit a website.
+Our website uses Google Analytics, a web analytics service provided by Google, Inc.. Google Analytics uses cookies, which are text files placed on your computer, to help the us to  analyse how visitors use the website. It also send 3rd party requests without cookies
 
-The web server records IP addresses, your browser type and language, the date, time and nature of your query and produces server logs – as all web servers do.
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity to be looked at by Ethical Consumer, and providing other services relating to website activity and internet usage.
 
-This information is used solely for monitoring the volume of traffic the site receives and measuring the number of visitors and the requests they make. 
-
-### Google Analytics  
- 
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc.. Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how visitors use the site.
-
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity to be looked at by ECRA, and providing other services relating to website activity and internet usage.
-
-Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  
- 
-
-### Hotjar 
-
-Hotjar is a tool that aggregates data on how visitors are using our website. 
-
-It uses cookies to collect non-personal information. Examples of the type of information collected include, but is not limited to, pages visited, how pages are used and interacted with, type of device and browser used and the country you are in.
-
-For more information on Hotjar  ollects data, what data it collects please, and how to opt out of it collecting your information please read [Hotjar's own privacy policy](https://www.hotjar.com/privacy).
-
-### Site Cookies
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
   
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+_Hotjar_
 
-This site issues one 'non-session' cookie, for the purpose of flagging whether a visitor has saved their score customisation settings on our product guide pages.  
+Hotjar is a tool that compiles data on how visitors are using our website. It uses cookies to collect non-personal information.
 
-### Subscribers and Sales  
+Examples of the type of information collected include, but is not limited to, pages visited, how pages are used and interacted with, type of device and browser used and the country you are in.
+
+For more information on how Hotjar collects data, what data it collects and how to opt out of it collecting your information, please read Hotjar's own privacy policy - <https://www.hotjar.com/legal/policies/privacy>
+
+_Social Media_
+
+So you can easily 'Like' or share our content on the likes of Facebook and Twitter we have included sharing buttons on our site.
+
+The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
+
+### 5\. Your choices
+
+You can change your marketing preferences at any time by contacting us by email at  shop@ethicalconsumer.org  or by telephone on 0161 226 2929.
+
+You can also opt out of receiving weekly email newsletters at any time using the ‘unsubscribe’ button at the bottom of any such email.
+
+**5.1 How to access and update your information**
+
+The accuracy of your information is important to us.
+
+If you are a subscriber you can update your information by logging into the website and editing your profile.
+
+If you are not a subscriber but wish to update your email address please follow the link at the bottom of every email from us.
+
+Alternatively if you change email address, or any of the other information we hold is inaccurate or out of date, please;
+
+email us at: shop@ethicalconsumer.org   
+or write to us at Unit 21, 41 Old Birley Street, Manchester, M15 5RF, UK  
+or call us on 0161 226 2929.
+
+  
+**5.2 Security precautions in place to protect the loss, misuse or alteration of your information.**
+
+When you give us personal information, we take steps to ensure that it’s treated securely. Any sensitive information (such as credit or debit card details) is encrypted. When you are on a secure page, a lock icon will appear on the bottom of web browsers such as Microsoft Internet Explorer.
+
+Non-sensitive details (your email address etc.) are transmitted normally over the Internet, and this can never be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
+
+Once we receive your information, we make our best effort to ensure its security on our systems.
+
+Where we have given (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential.
+
+We ask you not to share your password with anyone.
+
+### 6\. Cookies
+
+This website uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
+
+  
+Our cookies help us:  
+    • Make our website work as you'd expect   
+    • Save you having to login every time you visit the site   
+    • Remember your settings during and between visits   
+    • Improve the speed/security of the site   
+    • Allow you to share pages with social networks like Facebook   
+    • Continuously improve our website   
+    • Make our marketing more efficient (ultimately helping us to offer the service we do at the price we do)
+
+  
+We do not use cookies to:  
+    • Collect any personally identifiable information (without your express permission)   
+    • Collect any sensitive information (without your express permission)   
+    • Pass personally identifiable data to third parties   
+    • Pay sales commissions
+
+**6.1 Granting us permission to use cookies**
+
+If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this.
+
+Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will likely mean that our site will not work as you would expect.
+
+  
+**6.2 Cookies on this website**
+
+_Our own cookies_
+
+We use these cookies to make our website work including:  
+    • Making our subscription and registration pages work   
+    • Determining if you are logged in or not   
+    • Remembering your customisation settings   
+    • Remembering if you have accepted our terms and conditions
+
+There is no way to prevent these cookies being set other than to not use our site.
+
+ethicalconsumer.org cookies:  
+    • .ASliXANONYMOUS   
+    • ASli.NET_SessionId   
+    • language  
+    • um_isMobile
+
+_Youtube_
+
+Disabling these cookies is likely to break the Youtube videos on this website:
+
+    • VISITOR_INFO1_LIVE  
+    • PREF  
+    • YSC  
+    • GPS
+
+_Google Analytics_
+
+We use Google Analytics to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what page they look at etc.  
+This helps us to continuously improve our website. These so called 'analytics' programs also tell us, on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.  
+Google Analytics Cookies:  
+    • __utma   
+    • __utmb   
+    • __utmc  
+    • __utmt  
+    • __utmz  
+    • _ga  
+    • _gid  
+    • _gat   
  
 
-We require customers personal information, including name, address and and e-mail address in order for us to provide subscription services. Some of the information requested is voluntary; compulsory fields are clearly marked on the sales form.
+**6.3 Turning Cookies Off**
 
-Your credit or debit card details will be obtained when you enter your card details to make your order. These are held on a secure server by DataCash who are responsible for debiting the correct amount from your card.
+You can usually switch cookies off by adjusting your browser settings to stop it from accepting cookies.
 
-This allows your order to be processed and fulfilled and permits us to track your order status. We also ask for your telephone number, which enables us to contact you if there is a problem with your order.
+Doing so however will likely limit the functionality of our's and a large proportion of the world's websites as cookies are a standard part of most modern websites
 
-### Using Your Data  
- 
+It may be that you concerns around cookies relate to so called "spyware". Rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware software.
 
-We never rent, sell or share your personally identifying information with other companies or individuals.
+### 
 
-Using the email addresses you provided at registration or subscription, we reserve the right periodically send emails about developments or changes to our services or the administration of your account.
+7\. Links to other websites
 
-We also  provide a regular email newsletter. Subscribers have the option to opt out of receiving further email newsletters, but Registered Users accept them as part of their free service and cannot opt out. 
+Our website may contain links to websites run by other organisations. This privacy policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.
 
-### Publishing Emails and Letters  
- 
+In addition, if you linked to our website from a third party site, we cannot be responsible for the privacy policies and practices of the owners and operators of that third party site and recommend that you check the policy of that third party site.
 
-We reserve the right to publish emails and letters sent to ECRA.
+###   
+8\. 16 or Under
 
-In some cases, where a company sends a significant comment on a particular abstract or story, we have a policy to publish this response as an abstract itself.
+We are concerned to protect the privacy of children aged 16 or under. If you are aged 16 or under‚ please get your parent/guardian's permission beforehand whenever you provide us with personal information.
 
-Please mark correspondence clearly NOT FOR PUBLICATION if you do not wish us to consider this option.
+### 
 
-If you have any questions relating to this policy please contact us using the following details:
+9\. Your rights
 
-Ethical Consumer Research Association Ltd  
-Unit 21  
-41 Old Birley Street  
-Hulme  
+Under the General Data Protection Regulation (GDPR) and The Data Protection Act 2018 (DPA) you have a number of rights with regard to your personal data.
+
+You have the right to:  
+    1\. Be informed about the collection and use of your personal data  
+    2\. Access to your personal data  
+    3\. Rectification of your personal data  
+    4\. Have the personal data we hold on you erased  
+    5\. Restrict the processing of your personal data  
+    6\. Object to the processing of your personal data  
+    7\. Have your personal data transferred to another controller/processor
+
+###   
+10\. Identity and contact details of controller and data protection contact
+
+Ethical Consumer Research Association is the controller and processor of data for the purposes of the DPA 18 and GDPR.
+
+If you have any concerns as to how your data is processed you can contact:
+
+Joanna Long (Data Protection Contact) at jo [at] ethicalconsumer.org
+
+or you can write to:
+
+Joanna Long  
+Ethical Consumer Research Association  
+Unit 21, 41 Old Birley Street  
 Manchester  
-M15 5RF
+M15 5RF  
+United Kingdom
+
+If you are unhappy with how we are using your information and are unable to resolve the issue with us, you can raise the matter with the Information Commissioners Office by calling 0303 123 1113 or visiting https://ico.org.uk/concerns   
+ 
+
+### 11\. Review of this Policy
+
+We keep this Policy under regular review. This Policy was last updated in May 2018.
