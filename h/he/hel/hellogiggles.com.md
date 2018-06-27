@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellogiggles.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916200724id_/https%3A//hellogiggles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellogiggles.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627185643id_/https%3A//hellogiggles.com/privacy) for the most accurate reproduction.*
 
 # Privacy - HelloGiggles
 
@@ -85,3 +85,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 Questions: Please email us at legal@hellogiggles.com
 
 This Policy was last revised: February 3, 2014.
+
+## Disclaimer
+
+HelloGiggles.com contains strictly opinion-based information. The content of the site is fact-checked to the best of our abilities but will, no doubt, contain errors of typing, spelling, intent, rumor, presumption, but never errors of style (we think). You might disagree with our choices and that’s fine with the editors/owners of HelloGiggles.com.
