@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102349id_/https%3A//www.sparklit.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023637id_/https%3A//www.adbutler.com/agreements.spark%3Fagreement%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# AdButler Ad Server | Privacy Statement
 
 SparkLIT recognizes your right to confidentiality and is committed to protecting your privacy. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. You can expect to be notified of:
 
