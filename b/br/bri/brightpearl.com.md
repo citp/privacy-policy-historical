@@ -1,121 +1,212 @@
-> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628004326id_/https%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628011931id_/https%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brightpearl
 
-1\. About this policy
+This webpage sets out when and how we use your personal information that you or others provide to us.
 
-This is the privacy policy of Brightpearl Limited and the Brightpearl software product (“Brightpearl”). It applies only to personal data as defined in s.1 of the 1998 Data Protection Act (“personal information” or “information”) and not other types of business or general information. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and how we transfer your information outside the European Economic Area (‘EEA’).
+## Who we are
 
-Please read the policy carefully. By accessing or using this web site you are deemed to agree to the terms of this privacy policy, and if you do not agree with it, then you must not send us any personal information.
+We are Brightpearl Limited, a company registered in England and Wales (registered with number 06260621).  
+Our registered address is First Floor, New Bond House, Bond Street, Bristol, BS2 9AG, United Kingdom.
 
-Note that if you follow a link from this site to another site, this policy will no longer apply. We are not responsible for other sites’ information handling practices. Use of your information by the owner of the linked site will normally be governed by that site’s privacy policy, which we encourage you to read.
+Brightpearl is made up of different legal entities, Brightpearl Limited and Brightpearl Inc.
 
-Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [www.ico.org.uk](https://ico.org.uk/).
+If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact us our Data Protection Compliance Officer by email to privacy@brightpearl.com.
 
-2\. Who we are
+## How do you use my data?
 
-We are Brightpearl Limited, a company registered in England and Wales with company registration number 06260621. Our registered office is at First Floor, New Bond House, Bond Street, Bristol, BS2 9AG. Please see our contact section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email[info@thisispearl.com](mailto:info@thisispearl.com) or telephone on 0845 003 8935.
+### When you sign up to our services
 
-3\. How we collect information from you
+When you buy software or services from us, we will use your personal information to fulfil your order, keep you updated on its status, and to provide you with the software or service you have requested. The details we collect from you when you sign up include your name, address, email address, phone number, website URL.
 
-3.1. By the use of “cookies”
+To complete your sign up, we share your personal information with our subcontractors who are involved in the sign up process, such as payment providers, as well as credit reference agencies who we use to assess fraud, credit and/or security risks.
 
-Cookies
+We need to process your personal information in this way to register you and provide the ongoing services and benefits to you, as part of the contract you entered into with us.
 
-3.2. A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are.
+### When you attend one of our online webinars or industry events
 
-3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use the Brightpearl system. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at[http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+When you attend one of our events (such as our online webinars), we will collect the following information from you: name, email address, phone number, website URL.
 
-3.4. We use session cookies (which are temporary cookies) in the products and services and communities sections of our website to verify your identity when you log in, to keep track of which pages you visit and what is in your shopping basket, to personalise our service to you, including sending you or your business any marketing information you have indicated you would be happy to receive and to improve our website. Our session cookies currently contain your client domain name only. Session cookies are deleted when you close your browser (i.e. the software program you use for searching and viewing various kinds of Internet resources such as information on a web site).
+We need to use your personal information in this way to complete the booking contract between us.
 
-3.5. We do not use persistent cookies, i.e. cookies remain on your hard disk until you delete them.
+### When you phone us, contact us by email or use our website chat service
 
-3.6. No cookies on our site are served or used by third parties.
+When you phone us, contact us by email or use our website chat service with general queries, we may also handle your personal information (your name, contact details and the other details you provide to us) in order to provide the customer services you have asked us to. This could be when you ask us to provide more information about our services, or to explain how Brightpearl works.
 
-Web beacons
+If we are providing those customer services to you because it is part of your contract with us, we use the data you provide to us as part of fulfilling that contract between us. In all other cases, we rely on your consent to handle your personal information in this way. If you do not provide us with the personal information we request from you for customer services purposes, we may not be able to fully answer your queries.
 
-3.7. Some of our web pages contain electronic images known as web beacons (sometimes known as web bugs, clear gifs, or trackers) that allow us to count users who have visited these pages after clicking through from an advertisement for our products or services from a third party site. They also tell us whether someone has bought a product from our site and its cost after clicking through from an advertisement, but not in a way that identifies any particular individual. Web beacons collect only limited information which includes a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We do not carry web beacons placed by third party advertisers but we do use a third party to aggregate this data for us.
+### When you have expressed an interest in Brightpearl’s services:
 
-3.8. Because web beacons are the same as any other content request included in the recipe for a web page, it is not possible for you to opt out or refuse them. However, as we use web beacons in conjunction with cookies they can be rendered ineffective by either opting out of cookies or by changing the cookie settings in your browser.
+This section applies if you have opted in to receive marketing communications from us, or have previously expressed an interest in Brightpearl’s services and not opted out.
 
-Further information
+We will handle your personal information (such as your name, email address, postal address, telephone number and sector preferences) to provide you with marketing communications in line with any preferences you have told us about.
 
-3.9. More information on cookies and web beacons can be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+When we send you marketing emails because you have opted-in to receive them, we rely on your consent to contact you for marketing purposes.
 
-3.10. By registration.
+If you have not opted-in and we send you marketing emails, we do this because of our legitimate interest to promote the success of Brightpearl.
 
-3.10.1. We collect information about you that you provide when you register to use the community areas or other restricted areas of our site.
+Every email we send to you for marketing purposes will also contain instructions on how to unsubscribe from receiving them.
 
-3.11. Through completion of online forms.
+You are not under any obligation to provide us with your personal data for marketing purposes.
 
-3.11.1. We collect information about you if complete any of the various forms on our site to contact us, make enquiries, order products and services, apply to us and give us feedback.
+You can tell us that you do not want your personal information to be processed in this way at any time by contacting us at privacy@brightpearl.com or, where relevant, by following the unsubscribe link shown in every marketing communication you receive from us.
 
-3.11.2. We need you to give us certain information, which will be indicated on the form you are required to complete in order to place an order. It would help us if you give us any other information that you think will be relevant but you are under no obligation to do so.
+### To make our site better:
 
-3.12. Through traffic data and site statistics
+We will also use your personal information to provide you with a more effective user experience (such as by displaying links to resources and services we think you will be interested in).
 
-3.12.1. We do keep a record of traffic data which is logged automatically by our server, such as your IP address, the URL you visited before ours, the URL you visit after leaving our site and which pages you visit.
+Our use of your information in this way means that your experience of our site will be more tailored to you, and that the information you see on our site may differ from someone accessing the same site with a different history or browsing habits.
 
-3.12.2. We also collect some site statistics such as page hits and page views.
+We also share your aggregated, anonymous data with third party analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
-3.12.3. We are not readily able to identify any individual from traffic data or site statistics.
+We will also use your personal information for the purposes of making our site more secure, and to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
 
-3.13. By you contacting us by other methods other than the website.
+We process your data for these reasons because we have a legitimate interest to provide you with the best experience we can, and to ensure that our site is kept secure.
 
-3.13.1. The website provides various telephone and fax numbers and email addresses for you to contact us. We will collect information from you that you provide through any of these methods.
+You can prevent us from using your personal information in this way by using the 'do not track' functionality in your internet browser. If you enable do not track functionality, our site may be less tailored to your needs and preferences.
 
-3.13.2. We may also collect other information you supply to us after your initial contact with us.
+### If our business is sold:
 
-4\. Security and storage of information.
+We will transfer your personal information to a third party:
 
-4.1. We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage.
+  * if we sell or buy any business or assets, we will provide your personal information to the seller or buyer (but only to the extent we need to, and always in accordance with data protection legislation); or
+  * if Brightpearl or the majority of its assets are acquired by somebody else, in which case the personal information held by Brightpearl will be transferred to the buyer.
 
-4.2. Please remember that normal Internet email is insecure. We do however, use secure connections for the entire Brightpearl administration system.
 
-4.3. We will store your information at least for the duration of any customer relationship we have with you, or as otherwise required by law (normally up to a maximum of 7 years for legal and tax reasons).
 
-5\. What your information is used for
+We process your personal information for this purpose because we have a legitimate interest to ensure our business can be continued by the buyer. If you object to our use of your personal information in this way, the relevant buyer of our business may not be able to provide services to you.
 
-5.1. If you buy software or services from us, we will use your information to fulfil your order and to provide you with the software or service you have requested.
+In some circumstances we may also need to share your personal information if we are under a duty to disclose or share it to comply with a legal obligation.
 
-5.2. If you register to use one of the community areas or other restricted areas on our website, we will use your information to provide those membership services to you.
+## What about technical data and analytics?
 
-5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at[info@thisispearl.com](mailto:info@thisispearl.com) and establish your preferences.
+### Information we collect about you:
 
-5.4. If you do not object, we will use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website.
+When you visit our site we will automatically collect the following information:
 
-5.5. We may use aggregated data about users of our site, sales patterns and other statistical data to improve our site, but it will not be possible to identify individuals from that aggregated data.
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, screen resolution, operating system and platform; and
+  * information about your visit, including the full Uniform Resource Locators, clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
 
-6\. With whom we may share your information.
 
-6.1. We will not share your information with any other organisation except in the following circumstances.
 
-6.1.1. We will share your information with another organisation to which we transfer, or are in discussions to transfer, our rights and obligations under our agreement with you.
+### Information we receive from other sources:
 
-6.1.2. We may share your information with another organisation that buys our company or our assets, or with another organisation from which we acquire a company or business, and in the course of any preceding negotiations with that organisation, which may or may not lead to a sale.
+We are also working closely with third party advertising networks, analytics providers, hosting providers and search information providers from whom we may also receive general aggregated anonymous information about you.
 
-6.1.3. We may share your information with our funders or potential funders, such as our bank and with our professional advisers who have a reasonable need to see it.
+We will combine the information you provide to us with information we collect about you.
 
-6.1.4. We may share your information with any group companies of ours so that they can provide any products and services to you that you request.
+## Cookies
 
-6.1.5. We may, on occasion share your information with carefully selected businesses so that they can send you details of other software-related products and services. Alternatively, we may on occasion use your information to send you details of the products and services of carefully selected businesses which are complementary to our own products and services. If you do not want the information we hold on you to be used in this manner, you must contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [info@thisispearl.com](mailto:info@thisispearl.com).
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
-6.1.6. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. We only use (and store) non-essential cookies on your computer's browser or hard drive if you provide your consent.
 
-6.1.7. We will give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. Any credit or debit card details are passed to our payment provider and your card issuer.
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services or messaging services) may also use cookies, which we do not have any control over. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-6.1.8. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-7\. Your rights
+Except for essential cookies, all cookies will expire after 2 years.
 
-7.1. You have a right to rectify any errors in information we hold about you, and to change or correct any details you have already given us. Please inform us about changes to your details so that we can keep our records accurate and up to date.
+## Where is my data stored?
 
-7.2. You also have a right to be removed from any mailing list we hold at any time, but you must first contact us either by writing to our Data Protection Compliance Officer, or e-mailing us at [info@thisispearl.com](mailto:info@thisispearl.com).
+Brightpearl’s headquarters is based inside the European Economic Area (EEA), Brightpearl Inc is based outside the EEA. Many of our external third parties are also based outside the EEA so their processing of your personal information will involve a transfer of data outside of the EEA.
 
-7.3. You have a right to see a copy of the information we hold about you on payment of a statutory fee, which is currently £10. Before we agree to this, you must provide with sufficient evidence of your identity and sufficient details of the information you wish to see to enable us to locate it.
+Whenever we transfer your personal information outside of the EEA, we ensure it is protected by making sure at least one of the following safeguards is in place:
 
-8\. Transfers outside Europe
+  * by transferring your personal information to a country that has been deemed to provide an adequate level of protection by the European Commission;
+  * by using specific contracts approved by the European Commission which give your personal information the same protection it has
+  * where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
 
-8.1. We are obliged to satisfy ourselves before transferring your information to a country outside the EEA that it provides adequate protection for your data protection rights. The EEA comprises the EU countries and Norway, Iceland and Liechtenstein. Countries outside the EEA may not give the same level of protection to your information as those within the EEA.
 
-8.2. Our servers are hosted in the UK, London. No company or personal data is stored outside the EEA.
+
+To keep this privacy policy as short and easy to understand as possible, we have not set out the specific circumstances when each of these protection measures are used. You can contact us at privacy@brightpearl.com for the details as to how we protect specific transfer of your data.
+
+All information you provide to us is stored on our secure servers or those of our third party data storage providers.
+
+## How long do we retain your data for?
+
+Where you are a customer of Brightpearl, we will retain your data for a period of 6 years following the termination of your service, to ensure that we are able to assist you should you have any questions, feedback or issues in connection with your service or if any legal issues arise.
+
+We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or legal requirements
+
+To determine the appropriate retention period for the personal information we hold, we consider the amount, nature and sensitivity of the personal information, the risk of harm from unauthorised use or disclosure of your personal information, the reasons why we handle your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances (such as analyses of the retail market) we may anonymise your personal data so that it can no longer be associated with you for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
+
+## Your right to object under data protection laws
+
+You have the right to object to us handling your personal information when:
+
+  * we are handling your personal information based on our legitimate interests (as described in the “How do you use my data” section above). If you ask us to stop handling your personal information in this way, we will stop unless we can show you that we have compelling grounds as to why our use of your personal information should continue; or
+  * for marketing purposes. If you ask us to stop handling your personal information on this basis, we will stop.
+
+
+
+## What are my rights under data protection laws?
+
+You have various rights under the data protection laws, which you can exercise by contacting us. The easiest way to do this is by email at privacy@brightpearl.com.  
+
+### Right of access
+
+You are entitled receive confirmation as to whether your personal information is being processed by us, as well as various other information relating to our use of your personal information.
+
+You also have the right to access your personal information which we are handling.
+
+### Right to rectification
+
+You have the right to require us to rectify any inaccurate personal information we hold about you. You also have the right to have incomplete personal information we hold about you completed, by providing a supplementary statement to us.
+
+### Right to restriction
+
+You can restrict our processing of your personal information where:
+
+  * you think we hold inaccurate personal information about you;
+  * our handling of your personal information breaks the law, but you do not want us to delete it;
+  * we no longer need to process your personal information, but you want us to keep it for legal reasons; or
+  * where we are handling your personal information because we have a legitimate interest (as described in the “How We Use Your Data” section above, and are in the process of objecting to this use of your personal information.
+
+
+
+Where you exercise your right to restrict us from using your personal information, we will then only process your personal information when you agree, except for storage purposes and to handle legal claims.
+
+### Right to data portability
+
+You have the right to receive your personal information in a structured, standard machine readable format and to send this to another organisation controlling your personal information.
+
+This right only applies to your personal information we are handling because you consented to us using it or because there is a contract in place between us.
+
+### Right to erasure
+
+You have the right to require us to erase your personal information which we are handling in the following circumstances:
+
+  * where we no longer need to use your personal information for the reasons we told you we collected it for;
+  * where we needed your consent to use your personal information, you have withdrawn your consent and there is no other lawful way we can continue to use your personal information;
+  * when you object to our use of your personal information and we have no compelling reason to carry on handling it;
+  * if our handling of your personal information has broken the law; and
+  * when we must erase your personal information to comply with a law we are subject to.
+
+
+
+### Right to complain
+
+You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues in England and Wales.
+
+## What about websites we link to?
+
+Our site may, from time to time, contain links to and from the websites of our partner networks and affiliates.  
+
+Our site connects you to different websites.  If you follow a link to any of these websites or use our services, please note that you have left our site and these websites have their own privacy policies.  
+
+We do not accept any responsibility or liability for these policies or websites.  Please check their policies before you submit any personal information to these websites.
+
+## When will you change your privacy policy?
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or post.
+
+Please check back frequently to see any updates or changes to our privacy policy.
+
+## How do I contact you with feedback?
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Brightpearl, First Floor, New Bond House, Bond Street, Bristol, BS2 9AG, United Kingdom, or by email to privacy@brightpearl.com. 
+
+This privacy policy was last updated on 23 May 2018.
