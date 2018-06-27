@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzviral.info privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217235211id_/http%3A//buzzviral.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzviral.info privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627084627id_/http%3A//buzzviral.info/privacy) for the most accurate reproduction.*
 
 # Privacy - Buzz Viral
 
