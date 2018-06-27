@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119043610id_/https%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040932id_/https%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- ScienceDaily
 
 Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, ScienceDaily also collects certain basic information about its visitors.
 
-Please note, however, that ScienceDaily has no interest in personally identifying its users. This would be practically quite difficult, and quite an unnecessary task to accomplish anyway. The only thing that ScienceDaily is interested in is the overall statistics of its readership. Cumulative figures that provide a picture of visitor traffic to our site are vital in our efforts to attract advertisers -- upon whose support the site depends -- and to monitor how well our web server is keeping up with our ever-increasing readership.
+Please note, however, that ScienceDaily has no interest in personally identifying its users. The only thing that ScienceDaily is interested in is the overall statistics of its readership. Cumulative figures that provide a picture of visitor traffic to our site are vital in our efforts to attract advertisers -- upon whose support the site depends -- and to monitor how well our web server is keeping up with our readership.
 
 **Web Traffic Data Collection**
 
 So what information does ScienceDaily collect about its visitors? Each time someone visits the site, our web server logs a number of details -- if they are available -- including the IP address of the visitor's computer and/or Internet service provider, the domain name and country of origin of that computer, its operating system, and the type of web browser being used.
 
-ScienceDaily uses certain third-party web traffic analysis services, such as Google Analytics and Quantcast, which collect similar information. We also participate in certain web traffic services such as comScore, as part of web traffic reporting obligations to certain vendors and partners that may require such data in order to receive their services (e.g., news services that license content according to rates based on the number of visitors to our site).
+ScienceDaily uses certain third-party web traffic analysis services, such as Google Analytics, which collect similar information. You can find out more about Google's data privacy and security at: <https://support.google.com/analytics/answer/6004245>, and you can also opt-out of Google Analytics entirely by using a browser plug-in that Google has developed (<https://tools.google.com/dlpage/gaoptout>). We also may participate in certain web traffic services, as part of web traffic reporting obligations to certain vendors and partners that may require such data in order to receive their services.
 
 **Advertising-Related Data Collection**
 
 In addition, third-party advertising agencies that we work with may also collect certain information through the use of banner ads and other forms of advertising and advertising-related data collection. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-Such information can include certain location data pertaining to a user, if such information is made available from GPS, Wi-FI, or cell phone tower data in accordance with whatever settings may allow for the collection of such data in the user's web browser or cell phone. So, for example, a user may see ads of nearby businesses in the user's locality, if a user's browser has enabled location services and if an advertiser has the ability to target ads to users in certain geographical areas.
+Such information can include certain location data pertaining to a user, if such information is made available from data in accordance with whatever settings may allow for the collection of such data in the user's web browser or mobile device. So, for example, a user may see ads of nearby businesses in the user's locality, if a user's browser has enabled location services and if an advertiser has the ability to target ads to users in certain geographical areas.
 
 **Third-Party Advertising Cookies**
 
