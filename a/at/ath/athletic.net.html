@@ -1,16 +1,119 @@
-<!--The following is the downloaded HTML source of the athletic.net privacy policy that was archived on 2017-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171007131009id_/https%3A//www.athletic.net/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the athletic.net privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627023654id_/https%3A//www.athletic.net/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="html" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+    </script>
+
+    
+    <script>
+        var PREBID_TIMEOUT = 2000;
+
+        googletag.cmd.push(function () {
+            googletag.pubads().disableInitialLoad();
+        });
+
+        var browserWidth = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName("body")[0].clientWidth;
+
+        prebid_bidders_720 = [
+            { bidder: 'appnexus', params: { placementId: (browserWidth < 768) ? '12769519' : '12769520', reserve: 0.40 } },
+            { bidder: 'conversant', params: { site_id: '116164', bidfloor: 0.40 } },
+            { bidder: 'criteo', params: { zoneId: (browserWidth < 768) ? 1144130 : 1143004 } },
+            //{ bidder: 'fidelity', params: { zoneid: (browserWidth < 768) ? '24319' : '24318', floor: 0.40 } },
+            { bidder: 'rubicon', params: { accountId: '18102', siteId: '188796', zoneId: '919942', floor: 0.40 } },
+            { bidder: 'gumgum', params: { inSlot: (browserWidth < 768) ? 7161 : 7162 } },
+            { bidder: 'sovrn', params: { tagid: (browserWidth < 768) ? '539836' : '539833', bidfloor: 0.40 } }
+        ];
+        prebid_bidders_320_300Box = [
+            { bidder: 'appnexus', params: { placementId: (browserWidth < 768) ? '12769519' : '12769518', reserve: 0.40 } },
+            { bidder: 'conversant', params: { site_id: '116164', bidfloor: 0.40 } },
+            { bidder: 'criteo', params: { zoneId: (browserWidth < 768) ? 1144130 : 1143002 } },
+            //{ bidder: 'fidelity', params: { zoneid: (browserWidth < 768) ? '24319' : '24317', floor: 0.40 } },
+            { bidder: 'rubicon', params: { accountId: '18102', siteId: '188796', zoneId: '919942', floor: 0.40 } },
+            { bidder: 'gumgum', params: { inSlot: (browserWidth < 768) ? 7161 : 7160 } },
+            { bidder: 'sovrn', params: { tagid: (browserWidth < 768) ? '539836' : '539834', bidfloor: 0.40 } }
+        ];
+        prebid_bidders_300Box = [
+            { bidder: 'appnexus', params: { placementId: '12769518', reserve: 0.40 } },
+            { bidder: 'conversant', params: { site_id: '116164', bidfloor: 0.40 } },
+            { bidder: 'criteo', params: { zoneId: 1143002 } },
+            //{ bidder: 'fidelity', params: { zoneid: '24317', floor: 0.40 } },
+            { bidder: 'rubicon', params: { accountId: '18102', siteId: '188796', zoneId: '919942', floor: 0.40 } },
+            { bidder: 'gumgum', params: { inSlot: 7160 } },
+            { bidder: 'sovrn', params: { tagid: '539834', bidfloor: 0.40 } }
+        ];
+        prebid_sizes_banner = (browserWidth < 768) ? [[320, 50]] : [[728, 90]];
+        prebid_sizes_300Box = [[300, 250]];
+        prebid_sizes_colapsingBox = (browserWidth < 768) ? [[320, 50]] : [[300, 250]];
+
+        pbjs.que.push(function () {
+            pbjs.setConfig({
+                // enableSendAllBids: true,
+                priceGranularity: { 'buckets': [{ 'min': 0, 'max': 3, 'increment': 0.10 }, { 'min': 3, 'max': 8, 'increment': 0.25 }, { 'min': 8, 'max': 20, 'increment': 1 }] }
+            });
+            pbjs.addAdUnits([{code:'ad_ATF_Banner',sizes:prebid_sizes_banner,bids:prebid_bidders_720},{code:'ad_InPage_Box',sizes:prebid_bidders_300Box,bids:prebid_bidders300Box},{code:'ad_BTF_Banner',sizes:prebid_sizes_banner,bids:prebid_bidders_720}]);
+            pbjs.requestBids({ bidsBackHandler: sendAdserverRequest });
+        });
+
+        function sendAdserverRequest(data) {
+            if (pbjs.adserverRequestSent) return;
+            pbjs.adserverRequestSent = true;
+            googletag.cmd.push(function () {
+                pbjs.que.push(function () {
+                    pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+                    console.log('sendAdserverRequest', browserWidth, data, pbjs.getAdserverTargeting());
+                });
+            });
+        }
+
+        setTimeout(function () {
+            sendAdserverRequest('timeout');
+        }, PREBID_TIMEOUT);
+
+    </script>
+    
+    <script src="/Shared/scripts/prebid/prebid.1.13.0.js?v=1" async=""></script>
+    
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+            var bannerMapping = googletag.sizeMapping().addSize([100, 100], [88, 31]).addSize([320, 400], [[320, 50], [300, 50]]).addSize([768, 200], [728, 90]).addSize([1050, 200], [[728, 90], [970, 90], [1024, 120]]).build();
+            var boxMapping = googletag.sizeMapping().addSize([100, 100], [88, 31]).addSize([320, 320], [[320, 50], [300, 50]]).addSize([900, 550], [300, 250]).build();
+            var skyscraperMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([700, 630], [160, 600]).build();
+            var takeoverMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([1200, 500], [1, 1]).build();
+            var pixleMapping = googletag.sizeMapping().addSize([320, 320], [1, 1]).build();
+             googletag.defineSlot('/1011615/Responsive//ATF_Banner', [728, 90], 'ad_ATF_Banner').defineSizeMapping(bannerMapping).addService(googletag.pubads());
+googletag.defineSlot('/1011615/Responsive//InPage_Box', [300, 250], 'ad_InPage_Box').addService(googletag.pubads());
+googletag.defineSlot('/1011615/Responsive//BTF_Banner', [728, 90], 'ad_BTF_Banner').defineSizeMapping(bannerMapping).addService(googletag.pubads());
+googletag.defineSlot('/1011615/bg_takeover', [1, 1], 'bgTakeover').defineSizeMapping(takeoverMapping).addService(googletag.pubads());
+googletag.defineSlot('/1011615/video1x1', [1, 1], 'video1x1').defineSizeMapping(pixleMapping).addService(googletag.pubads());
+googletag.defineSlot('/1011615/bottom1x1', [1, 1], 'bottom1x1').defineSizeMapping(pixleMapping).addService(googletag.pubads());
+googletag.pubads().setTargeting('Section', 'ROS');
+googletag.pubads().setTargeting('SSupport', '0');
+googletag.pubads().setTargeting('UserRole', 'General');
+googletag.pubads().setTargeting('Tag', 'notag');
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+            //console.log('googletag.enableServices');
+        });
+    </script>
+    
+
     <!-- Quantcast Tag, part 1 - part 2 in footer-->
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://script.crazyegg.com/pages/scripts/0006/9287.js?439015" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+    <script type="text/javascript">
         var _qevents = _qevents || []; (function () { var a = document.createElement("script"); a.src = ("https:" == document.location.protocol ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; a.async = !0; a.type = "text/javascript"; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })();
     </script>
 
     <title>
 	Privacy Policy
 </title><meta name="application-name" content="Athletic.net"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta property="fb:app_id" content="169507956425670"><meta property="og:site_name" content="Athletic.net">
-    <meta property="og:url" content="http://www.athletic.net:8081/Privacy.aspx">
+    <meta property="og:url" content="https://www.athletic.net/Privacy.aspx">
     <meta name="twitter:site" content="@AthleticNet"><link id="Link1" rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="Athletic.net Search">
         <meta id="ogImage" property="og:image" content="https://www.athletic.net/images/Logo/Athletic_net_1200x630.jpg">
         <meta property="og:type" content="website">
@@ -18,7 +121,7 @@
         <meta property="og:description" content="Rankings for middle school, high school, and college athletes. Compare yourself against athletes in your district, your state, or the nation.">
 
         <meta name="twitter:card" content="summary">
-    <link href="https://d3ro7pqwddnpi1.cloudfront.net/css/Bootstrap3-v-1TA2O1DVHBL0CwORVLd9C80uiWIBcuMKctokbors1" rel="stylesheet">
+    <link href="https://d3ro7pqwddnpi1.cloudfront.net/css/Bootstrap3-v-lVD7AwfLIfCYEtjdTv7fjO6A949KsqedGkt_DTAHxM1" rel="stylesheet">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
 
@@ -60,16 +163,16 @@
     
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
     
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular.min.js" crossorigin=""></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.7/angular.min.js" crossorigin=""></script>
     
-    <script src="https://d3ro7pqwddnpi1.cloudfront.net/shared/scripts/raven.3.17.0/raven.min.js"></script>
+    <script src="/shared/scripts/raven.3.24.0/raven.min.js" crossorigin="anonymous"></script>
     <script>
         Raven.config('https://6f84a44ee2be4a479bab10c7197ba110@app.getsentry.com/28772', {
             whitelistUrls: [/athletic\.net/, /cloudfront\.net/],
             ignoreUrls: [/scripts\/raven/],
-            ignoreErrors: [/vp_inpage/, /setSize/, /token format is incorrect/],
+            ignoreErrors: [/vp_inpage/, /setSize/, /token format is incorrect/, /Possibly unhandled rejection/, /processChecks/],
             environment: "production",
-            release: '1.1.6486.29030 production'
+            release: '1.1.6751.24417 production'
         }).install();
 
         
@@ -89,12 +192,10 @@
         function $anetAJAX(a, b, c) { return $.ajax(a, { type: "POST", contentType: "application/json", data: b, dataType: "json", context: c }) };
     </script>
 
-    <script src="https://d3ro7pqwddnpi1.cloudfront.net/MainJS-v-WOewm6Xx4O_iPr8E1hJbd29wWofjli5kKKYTeRtqBI1"></script>
+    <script src="https://d3ro7pqwddnpi1.cloudfront.net/MainJS_NewLo-v-r4oAakCcj1D9hiIHcKJ_xjzNAmtheHQeobul6QFtng1"></script>
 
 
     <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
         (function () {
             var gads = document.createElement('script');
             gads.async = true;
@@ -106,36 +207,11 @@
             node.parentNode.insertBefore(gads, node);
         })();
     </script>
-    
-    <script type="text/javascript">
-        googletag.cmd.push(function () {
-            var bannerMapping = googletag.sizeMapping().addSize([100, 100], [88, 31]).addSize([320, 400], [[320, 50], [300, 50]]).addSize([750, 200], [728, 90]).addSize([1050, 200], [[728, 90], [970, 90], [1024, 120]]).build();
-            var boxMapping = googletag.sizeMapping().addSize([100, 100], [88, 31]).addSize([320, 320], [[320, 50], [300, 50]]).addSize([900, 550], [300, 250]).build();
-            var skyscraperMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([700, 630], [160, 600]).build();
-            var takeoverMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([1200, 500], [1, 1]).build();
-             googletag.defineSlot('/1011615/Responsive//ATF_Banner', [728, 90], 'ad_ATF_Banner').defineSizeMapping(bannerMapping).addService(googletag.pubads());
-googletag.defineSlot('/1011615/Responsive//InPage_Box', [300, 250], 'ad_InPage_Box').addService(googletag.pubads());
-googletag.defineSlot('/1011615/Responsive//BTF_Banner', [728, 90], 'ad_BTF_Banner').defineSizeMapping(bannerMapping).addService(googletag.pubads());
-googletag.defineSlot('/1011615/bg_takeover', [1, 1], 'bgTakeover').defineSizeMapping(takeoverMapping).addService(googletag.pubads());
-googletag.pubads().setTargeting('Section', 'ROS');
-googletag.pubads().setTargeting('SSupport', '0');
-googletag.pubads().setTargeting('UserRole', 'General');
 
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-        });
-    </script>
     
     
 
-    <script type="text/javascript">
-        setTimeout(function () {
-            var a = document.createElement("script");
-            var b = document.getElementsByTagName("script")[0];
-            a.src = document.location.protocol + "//script.crazyegg.com/pages/scripts/0006/9287.js?" + Math.floor(new Date().getTime() / 3600000);
-            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
-        }, 1);
-    </script>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0006/9287.js" async="async"></script>
 </head>
 
 
@@ -150,7 +226,8 @@ googletag.pubads().setTargeting('UserRole', 'General');
 
                 <div id="hLogo">
                     <a href="/">
-                        <img alt="Athletic.net Home" src="/images/Logo/Athletic_net_white.svg">
+                        <img alt="Athletic.net Home" style="margin: 0;" src="/images/Logo/Athletic_net_white.svg">
+                        
                     </a>
                 </div>
 
@@ -177,7 +254,8 @@ googletag.pubads().setTargeting('UserRole', 'General');
         </header>
     
 
-    <div id="Side_menu" class="hidden-print">
+
+    <div id="Side_menu" class="hidden-print d-print-none">
         
         <ul>
             <li>
@@ -205,7 +283,7 @@ googletag.pubads().setTargeting('UserRole', 'General');
 
 
     <main id="anetMain" class="d-flex flex-column">
-        <nav id="anetNav" class="hidden-print">
+        <nav id="anetNav" class="hidden-print d-print-none">
             <ul id="h_tree"><li class="dropdown-header hidden-lg hidden-md hidden-md-up">Site Navigation</li><li><a href="#" data-toggle="dropdown">Track &amp; Field</a><ul class="dropdown-menu" id="nav-TF-dropdown"><li><a class="dropdown-item" href="/TrackAndField/">High School</a></li><li><a class="dropdown-item" href="/TrackAndField/MS/">Middle School</a></li><li><a class="dropdown-item" href="/TrackAndField/Club/">Club</a></li><li><a class="dropdown-item" href="/TrackAndField/College/">Collegiate</a></li></ul></li><li><a href="#" data-toggle="dropdown">Cross Country</a><ul class="dropdown-menu" id="nav-XC-dropdown"><li><a class="dropdown-item" href="/CrossCountry/">High School</a></li><li><a class="dropdown-item" href="/CrossCountry/MS/">Middle School</a></li><li><a class="dropdown-item" href="/CrossCountry/Club/">Club</a></li><li><a class="dropdown-item" href="/CrossCountry/College/">Collegiate</a></li></ul></li></ul>
             <div class="clearfix"></div>
         </nav>
@@ -218,14 +296,14 @@ googletag.pubads().setTargeting('UserRole', 'General');
         
 
 
-        <div class="ad-takeover visible-lg hidden-md-down">
+        <div class="ad-takeover visible-lg hidden-md-down d-none d-lg-block">
             <div class="container">
                 <div id="bgTakeoverLeft"></div>
                 <div id="bgTakeoverRight"></div>
             </div>
         </div>
 
-        <div id="printHeader" class="visible-print-block">
+        <div id="printHeader" class="visible-print-block d-print-block d-none">
             <img width="175" class="mBottom5 mb-1" src="/images/Logo/Athletic_net_red.svg">
             <span class="pull-right mTop10 float-right mt-2">Team Results Management</span>
         </div>
@@ -240,13 +318,12 @@ googletag.pubads().setTargeting('UserRole', 'General');
 
                     <div class="copyLink dropdown" style="display: inline-block">
                         
-                        <button data-toggle="dropdown" class="btn btn-default" type="button">Copy Link <i class="fa fa-link hidden-xs hidden-sm-down"></i></button>
+                        <button data-toggle="dropdown" class="btn btn-default" type="button">Copy Link <i class="fa fa-link hidden-xs hidden-sm-down d-none d-md-inline"></i></button>
                         <div class="dropdown-menu a_multi-click" style="padding: 5px;">
                             <input class="form-control" style="width: 250px;">
                             <small class="text-muted">Use this link to share</small>
                         </div>
                     </div>
-                    
                 </div>
                 <div class="content p-2">
                 </div>
@@ -262,13 +339,15 @@ googletag.pubads().setTargeting('UserRole', 'General');
             </script>
         </div>
 
-
+        <div id="ATF_Remove_Ads" class="small text-center hidden-print d-print-none" style="margin: -5px 0 5px;">
+            <a href="/features/athletes/" style="background: #ededed; border-radius: 2px; padding: 0 7px;">View Athletic.net Ad Free</a>
+        </div>
         
 
         <div id="p_Container" class="container clearfix">
             <form method="post" action="./Privacy.aspx" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="94TxwchsVdwJFqGFvMiMor4MjZfKVTHXlFfv4f6sYAd+BuxfG+GzwOJBvPfH3oCHLZ4b8v4wbvMFSDEY7qS4coql+gGFi1R4D3Te7r3GADha32jsCialiilA+muZiDo8wlI9dLpNCYMJzOHWVXc9fQqxIC/dVPMb3z4aU3p8amM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/pNh0egew0QzQquQQhL9Ilg/2Z3l3UGZ5vB0/WjejPhvB1ahstlhnmj3+57e2XTdYy/YSlLhN4q8jqTXY2vUe+xsmx1GX9TzzSstovSUqfmZLsVkk2uFUZluXR/hCK6V/A9QNq5aD1ioGUERmNkJEmNL9J0jAozESxeUHrXXcGk=">
 </div>
 
 <div class="aspNetHidden">
@@ -356,11 +435,13 @@ googletag.pubads().setTargeting('UserRole', 'General');
             
         </div>
 
+        <div id="video1x1">
+            <script type="text/javascript">googletag.cmd.push(function () { googletag.display('video1x1'); });</script>
+        </div>
+
 
         <div id="ad_BTF_Banner" class="Ad BTF Banner" aria-hidden="true">
-            <script type="text/javascript">
-                googletag.cmd.push(function () { googletag.display('ad_BTF_Banner'); });
-            </script>
+            <script type="text/javascript">googletag.cmd.push(function () { googletag.display('ad_BTF_Banner'); });</script>
         </div>
 
         
@@ -368,93 +449,87 @@ googletag.pubads().setTargeting('UserRole', 'General');
 
 
     
-        <footer id="anetFooter" class="clearfix b3">
-            <div id="footerTop" class="container hidden-print">
-                <div class="row" style="border-bottom: 1px solid rgba(197, 197, 197, 0.32);">
-                    <div class="col-md-3 hidden-xs hidden-sm hidden-md-down" style="padding-top: 12px; padding-bottom: 13px;">
-                        <a href="/">
-                            <img alt="Athletic.net Home" src="/images/Logo/Athletic_net_white.svg" style="width: 140px;">
-                        </a>
-                    </div>
-                    <div class="col-sm-12 col-md-9 pt-3 pb-2 verticalPad15" id="f_Stats">
-                        <div id="f_StatsShowing"><div class="coachmeetStat">42,519 FREE <span>Coach Accounts</span></div><div class="resultsStat">79,158,115<span> Results Posted</span></div><div class="athleteStat">7.9 Million + <span>Athlete Profiles</span></div></div><div id="f_StatsHover"><div class="coachmeetStat">155,387<span> Meets Uploaded</span></div><div class="resultsStat">779<span> Results in Last Hour</span></div><div class="athleteStat">7,948,579<span> Athlete Profiles</span></div></div>
+        <footer id="anetFooter">
+            <div class="footer-top hidden-print d-print-none">
+                <div class="footer-row-1">
+                    <a class="footer-logo" href="/">
+                        <img alt="Athletic.net Home" src="/images/Logo/Athletic_net_white.svg" style="width: 140px; height: auto; max-width: 100%;"></a>
+
+                    <div id="f_Stats">
+                        <div id="f_StatsShowing"><div class="coachmeetStat">50,950 FREE <span>Coach Accounts</span></div><div class="resultsStat">90,897,214<span> Results Posted</span></div><div class="athleteStat">8.7 Million + <span>Athlete Profiles</span></div></div><div id="f_StatsHover"><div class="coachmeetStat">179,500<span> Meets Uploaded</span></div><div class="resultsStat">7,998<span> Results in Last Hour</span></div><div class="athleteStat">8,736,957<span> Athlete Profiles</span></div></div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-7 py-3 verticalPad15">
-                        <div id="p_bottomContainer">
-                            <div id="p_Bottom_SignedOut">
-                                <p>
-                                    <b>Get your free-forever account!</b> Offering team management tools for coaches, meet registration for all, and training tools for athletes.
-                                    <span class="visible-xs-inline hidden-md-up">Ready to start saving time?</span>
-                                </p>
-                                <a class="btn btn-default btn-secondary mTop5 mt-1" href="/account/login/signup">Sign Up
-                                        <span class="hidden-xs hidden-sm-down">and Start Saving Time</span>
-                                    <i class="fa fa-chevron-right"></i></a>
-                            </div>
-                            
-                            
-                        </div>
-                    </div>
-                    <div class="col-md-5 py-3 verticalPad15">
-                        <div class="row">
-                            <div class="col-sm-4 col-xs-6 col-6 f_Links">
-                                <b>Company</b>
-                                <ul>
-                                    <li><a href="/features/">Pricing</a></li>
-                                    <li><a href="/News/Quotes.aspx">Testimonials</a></li>
-                                    <li class="hidden-xs hidden-sm hidden-md-down"><a href="http://cs.athletic.net/blog/b/emm/default.aspx" title="EMMxc">XC Meet Manager</a></li>
-                                    <li class="hidden-md hidden-lg hidden-lg-up"><a href="/Privacy.aspx">Privacy Policy</a></li>
 
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 col-xs-6 col-6 f_Links">
-                                <b>Questions?</b>
-                                <ul>
-                                    <li><a data-url="http://www.screencast.com/t/eyqDKyln" class="pageHelp" data-type="JingVideo" title="How to use Athletic.net Help (36 seconds)" href="#">Get Help</a></li>
-                                    <li><a id="f_ContactUs" class="contactUs" href="/Feedback.aspx" target="_blank">Contact Us</a></li>
-                                    <li><a id="A2" href="/forums/">Coach Forums</a></li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 f_Links hidden-xs hidden-xs-down">
-                                <b>Connect</b>
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/Athletic.net">Facebook</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://google.com/+athleticnet">Google+</a>
-                                    </li>
-                                    <li>
-                                        <a href="http://twitter.com/AthleticDotNet">Twitter</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-xs-12 col-12 visible-xs hidden-sm-up mTop5 mBottom5">
-                                <a class="mRight15" href="https://www.facebook.com/Athletic.net"><i class="fa fa-facebook-square fa-3x"></i></a>
-                                <a class="mRight15" href="https://google.com/+athleticnet"><i class="fa fa-google-plus-square fa-3x"></i></a>
-                                <a href="http://twitter.com/AthleticDotNet"><i class="fa fa-twitter fa-3x"></i></a>
+                <div class="footer-row-2">
+                    <div id="footerMessage_Accounts">
+                        <div id="footerMessage_SignedOut">
+                            <p>
+                                <b>Get your free-forever account!</b> Offering team management tools for coaches, meet registration for all, training tools for athletes, unlimited stats for parents &amp; fans, and much more.
+                            </p>
+                            <a class="btn btn-link" href="/account/login/signup">Sign Up
+                                <span class="hidden-xs hidden-sm-down d-none d-md-inline">and Start Saving Time</span>
+                                <i class="fa fa-chevron-right"></i>
+                            </a>
+                        </div>
+
+                        
+
+                        
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-4 col-xs-6 col-6 f_Links">
+                            <b>Features &amp; Pricing</b>
+                            <ul>
+                                <li><a href="/features/coaches/">For Coaches</a></li>
+                                <li><a href="/features/directors-timers/">Event Directors &amp; Timers</a></li>
+                                <li><a href="/features/athletes/">Athletes, Parents &amp; Fans</a></li>
+                                
+                            </ul>
+                        </div>
+                        <div class="col-sm-4 col-xs-6 col-6 f_Links">
+                            <b>Questions?</b>
+                            <ul>
+                                <li><a data-url="http://www.screencast.com/t/eyqDKyln" class="pageHelp" data-type="JingVideo" title="How to use Athletic.net Help (36 seconds)" href="#">Get Help</a></li>
+                                <li><a id="f_ContactUs" class="contactUs" href="/Feedback.aspx" target="_blank">Contact Us</a></li>
+                                <li><a id="A2" href="/forums/">Coach Forums</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-4 f_Links hidden-xs hidden-xs-down d-none d-sm-block">
+                            <b>Media</b>
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/Athletic.net">Facebook</a>
+                                </li>
+                                <li>
+                                    <a href="http://twitter.com/AthleticDotNet">Twitter</a>
+                                </li>
+                                <li><a href="https://athletic.tv/" target="_blank">
+                                    <img alt="AthleticTV" src="/images/Logo/AthleticTV-white.svg" style="width: 80px; vertical-align: 0px;"></a></li>
+                                <li></li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-12 visible-xs hidden-sm-up d-sm-none" style="margin: 5px 0;">
+                            <a style="margin-right: 15px;" href="https://www.facebook.com/Athletic.net"><i class="fa fa-facebook-square fa-3x"></i></a>
+                            <a href="http://twitter.com/AthleticDotNet"><i class="fa fa-twitter fa-3x"></i></a>
+
+                            <div style="margin-top: 10px;">
+                                <a href="https://athletic.tv/" target="_blank">
+                                    <img alt="AthleticTV" src="/images/Logo/AthleticTV-white.svg" style="width: 100px; vertical-align: 0px;"></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="footerBottom">
-                <div class="container hidden-xs hidden-sm-down">
-                    <div class="row">
-                        <div class="col-sm-7" style="text-align: left;">© 2017 <a href="http://www.runnerspace.com/">RunnerSpace.com</a> - <a href="http://about.runnerspace.com/">About</a> - <a href="http://about.runnerspace.com/">Advertise</a> </div>
-                        <div class="col-sm-5" style="text-align: right;">© 2017 Athletic.net, All rights reserved. <a class="hidden-sm hidden-md-down" href="/Privacy.aspx">Privacy Policy</a></div>
-                    </div>
-                </div>
-                <div class="container visible-xs hidden-md-up" style="padding: 0 10px;">
-                    <div>© 2017 <a href="http://www.runnerspace.com/">RunnerSpace.com</a> - <a href="http://about.runnerspace.com/">About</a> - <a href="http://about.runnerspace.com/">Advertise</a></div>
-                    <div>© 2017 Athletic.net, All rights reserved.</div>
+
+            <div class="footer-row-3">
+                2018 <a href="http://www.runnerspace.com/">RunnerSpace.com</a><span class="hidden-print d-print-none"> - <a href="http://about.runnerspace.com/">About</a> - <a href="http://about.runnerspace.com/">Advertise</a></span>
+                <div class="push-right-on-desktop">
+                    2018 Athletic.net - All rights reserved 
+                        <span class="hidden-print d-print-none">- <a href="/Privacy.aspx">Privacy Policy</a></span>
                 </div>
             </div>
         </footer>
-
-
-        
     
 
     
@@ -468,6 +543,10 @@ googletag.pubads().setTargeting('UserRole', 'General');
             document.getElementById('bgTakeover').innerHTML = '';
         }
     </script>
+    <div id="bottom1x1">
+        
+        <script type="text/javascript">googletag.cmd.push(function () { googletag.display('bottom1x1'); });</script>
+    </div>
     
 
     
@@ -486,7 +565,11 @@ googletag.pubads().setTargeting('UserRole', 'General');
         ga('set', 'dimension1', 'General');
         ga('send', 'pageview');
         
-</script>
+
+        pbjs.que.push(function () {
+            pbjs.enableAnalytics([{ provider: 'ga', options: { enableDistribution: true } }]);
+        });
+    </script>
     <!-- End Google Analytics Tag, part 2 -->
 
     <!-- Begin comScore Tag -->
@@ -510,7 +593,7 @@ googletag.pubads().setTargeting('UserRole', 'General');
     </script>
     <noscript>
         <div style="display: none;">
-            <img src="//pixel.quantserve.com/pixel/p-357yONfRnfd4g.gif" height="1" width="1" alt="Quantcast" />
+            <img src="//pixel.quantserve.com/pixel/p-357yONfRnfd4g.gif" border="0" height="1" width="1" alt="Quantcast" />
             <img src="//pixel.quantserve.com/pixel/p-56TeoNo_KrtZ6.gif" border="0" height="1" width="1" alt="Quantcast"/>
         </div>
     </noscript>
