@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409091247id_/https%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627144723id_/https%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Roost
 
@@ -14,10 +14,16 @@ We will transfer information about you if Notice is acquired by or merged with a
 
 #### INFORMATION GATHERING & USAGE
 
-  * When you register for Notice Software products, including Roost we ask for information such as your name, email address, billing address, credit card information. (Customers who sign up are not required to enter a credit card for use of the free tier.)
-  * When you register to receive pushes through one of our customers we receive a unique identification code that is assigned to your registration profile which also contains elements of your browsing history.
+  * When you register for Notice Software products, including Roost we ask for information such as your name, email address, billing address, credit card information.
+  * When you register to receive pushes through one of our customers we receive a unique identification code that is assigned to your registration profile and collect the current device’s IP address.
   * Notice uses collected information for the following general purposes: products and services provisioning, billing, notification targeting, identification and authentication, services improvement, contact, and research.
   * Notice may use aggregated sets of collected information for the following general purposes: marketing, notification targeting, public relations, and research.
+
+
+  * Notice does not collect additional information other than what is stated in the “INFORMATION GATHERING & USAGE” section of the Privacy Policy
+  * Information is only used as outlined in the “INFORMATION GATHERING & USAGE” section of the Privacy Policy
+  * In compliance with GDPR, we will purge any IP address from our database upon request.
+  * For questions related to Notice & GDPR, or to request your informaiton be removed, send an email to: [support@goroost.com](mailto:support@goroost.com?subject=GDPR%20Request) with your question or IP address if applicapble.
 
 
 
@@ -36,24 +42,6 @@ Notice uses third party vendors and hosting partners to provide the necessary ha
 #### DISCLOSURE
 
 Notice may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://goroost.com/pages/terms).
-
-#### SAFE HARBOR
-
-Notice Software complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Notice Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view Notice Software’s certification, please visit <http://www.export.gov/safeharbor/>
-
-#### SAFE HARBOR DISPUTE RESOLUTION
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Notice Software commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Notice Software at:
-
-Notice Software  
-300 Madison Ave, #270  
-Toledo, OH 43604
-
-OR 
-
-support@goroost.com
-
-Notice Software has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 #### CHANGES
 
