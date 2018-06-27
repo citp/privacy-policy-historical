@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226143012id_/http%3A//www.citypages.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627131322id_/http%3A//www.citypages.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Pages
 
@@ -72,7 +72,7 @@ From time to time, we may post a survey on our Sites or, if we have your contact
 
   1. _In General:_ You have choices about the ways we collect, use and disclose your Personal Information as well as information we automatically collect from your computer or mobile or tablet device. Discussed above are choices you have about delivery of cookies to your computer or mobile or tablet device through our Sites. In addition, we may ask you to indicate your choices at the time we collect your Personal Information. For example, we generally provide to you an opportunity to “opt out” of receiving certain communications from us and/or our business partners. We also include an “unsubscribe” link in each electronic newsletter or promotional email we send you, and you can always text STOP to learn how to stop receiving SMS text messages from us.
 
-  2. _Previously Expressed Preferences:_ You may change previously expressed preferences regarding how we use your Personal Information. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1c7c4c4c5c3c0c2ca849591d2d5c0d3d5d3c8c3d4cfc48fc2cecc9ed2d4c3cbc4c2d59ce2c8d5d8f1c0c6c4d28fc2cecc849391d1d3c8d7c0c2d8849391d1cecdc8c2d8 "Feedback"). Once we have the information we need, we will remove you from our mailing lists as you have requested. Please give us a reasonable amount of time to honor your request.
+  2. _Previously Expressed Preferences:_ You may change previously expressed preferences regarding how we use your Personal Information. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41272424252320222a6475713235203335332823342f246f222e2c7e3234232b2422357c0228353811202624326f222e2c64737131332837202238647371312e2d282238 "Feedback"). Once we have the information we need, we will remove you from our mailing lists as you have requested. Please give us a reasonable amount of time to honor your request.
 
 
 
