@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830033043id_/https%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627194621id_/https%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ringside Collectibles
 
@@ -8,17 +8,21 @@ Ringside Collectibles Inc. and its subsidiaries respect your right to privacy. W
 
 \- All credit card transactions immediately withdraw funds and are processed through a secure third party. Only the last four digits of your credit card number will be filed for reference.
 
-\- When placing an order, your e-mail will be automatically be signed up for our mailing list. E-Mails are generally sent 2-3 times a week updating you on the latest wrestling action figures at Ringside Collectibles. To be removed from the email list, please make sure that you have "Unsubscribe" in the subject line and send your email address to new_figures@wrestlingfigures.com
+\- When placing an order, your e-mail will be automatically be signed up for our mailing list. E-Mails are generally sent 2-3 times a week updating you on the latest wrestling action figures at Ringside Collectibles. To be removed from the email list, please make sure that you have "Unsubscribe" in the subject line and send your email address to [[email protected]](https://www.ringsidecollectibles.com/cdn-cgi/l/email-protection)
 
 \- Absolutely none of your information including and not limited to name, address, credit card or items purchased is sold or given to any commercial third party. Any documents or invoices with customer information are shredded.
 
-\- We recognize the unique privacy concerns regarding children. Pursuant to COPPA guidelines, we do not knowingly collect personally identifiable information or accept orders online from children under the age of 18. If a parent or guardian is made aware that a child under the age of 18 has provided us with personally identifiable information or placed an order without their consent, please contact us at 1-866-993-3448, by e-mail at cs@ringsidecollectibles.net, and we will remove the information and/or cancel the order.
+\- We recognize the unique privacy concerns regarding children. Pursuant to COPPA guidelines, we do not knowingly collect personally identifiable information or accept orders online from children under the age of 18. If a parent or guardian is made aware that a child under the age of 18 has provided us with personally identifiable information or placed an order without their consent, please contact us at 1-866-993-3448, by e-mail at [[email protected]](https://www.ringsidecollectibles.com/cdn-cgi/l/email-protection), and we will remove the information and/or cancel the order.
 
 If you have an questions regarding the Privacy Policy, please **[Contact Us](https://www.ringsidecollectibles.com/mm5/merchant.mvc?Screen=CTUS&Store_Code=rsc)**
 
 Shop Products
 
 Shop By Superstar
+
+Newsletter Signup
+
+Sign up to receive coupons, discounts and product updates.
 
   
 
