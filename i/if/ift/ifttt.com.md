@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624040452id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627090824id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - IFTTT
+# Privacy policy for our Site and Service - IFTTT
 
 As of July 10th, 2013
 
