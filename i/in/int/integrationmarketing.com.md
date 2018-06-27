@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223121411id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627102731id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
