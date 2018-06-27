@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224941id_/https%3A//www.lowes.com/l/privacy-and-security-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074809id_/https%3A//www.lowes.com/l/privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Lowe's Home Improvement U.S. Privacy Statement
 
