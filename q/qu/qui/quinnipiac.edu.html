@@ -1,26 +1,23 @@
-<!--The following is the downloaded HTML source of the quinnipiac.edu privacy policy that was archived on 2017-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170120054827id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quinnipiac.edu privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627233423id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" data-require="log"><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="keywords">
-    <meta name="description" content="Review the Quinnipiac University website security and privacy policy to find information about user privacy and answer common questions.">
+<!DOCTYPE html><html lang="en" data-require="log"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="keywords">
+
     
     
-    
-<link rel="stylesheet" href="/etc/clientlibs/foundation/main.45321c34d87319bc1181501ef7d98f13.css" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.d311399a202bbfe8f6b94a4546a2a025.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.3010ac293e9c3ee5e4d05561c6e817b9.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.b14676fa47cce8b31155c6be3da9e810.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.d7c42e4a257b8b9fe38d1c53dd20d01a.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/main.90e0c09a7181f8d59f4c974d041ad0b4.js"></script>
+<link rel="stylesheet" href="/etc/clientlibs/foundation/main.1d58bea0487d9ba81f934cc20696346c.css" type="text/css">
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.fb50358df4c2bd6aa6e1dd5b0d9b9d29.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.b865d2b414814302a14b06054b028a9c.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.a49068f9d07a3e0a2246180ace35badb.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.d7602973233c4c7f80959aa5a7f2f4af.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.5f853d33eb49b296277f1a5e8d2a25c5.js"></script>
 
 
 
     
     <link href="/etc/designs/qu.css" rel="stylesheet" type="text/css">
 
-    
 
 
 
@@ -28,13 +25,18 @@
 
 
 
-    
 
-    
+
+
+
+
     
         <script src="//assets.adobedtm.com/375a80b699f889da929af897a077c0cec3e9a334/satelliteLib-bbc9524723b29a3e5dc184fe8c1203fb058265e2.js"></script>
     
     
+
+
+    <script src="/etc/designs/qu/bundle/lib/campaignTransformer.js"></script>
 
 
 
@@ -43,6 +45,9 @@
 
 
 <title>Site Security and Privacy Policy | Quinnipiac University</title>
+
+<meta name="description" content="Review the Quinnipiac University website security and privacy policy to find information about user privacy and answer common questions.">
+
 <link rel="canonical" href="https://www.qu.edu/site-security-privacy-policy.html">
 
 
@@ -62,56 +67,167 @@
 <meta name="twitter:image" content="https://www.qu.edu/content/dam/qu/photography/og-image/quinnipiac-homepage-fb-og.jpg">
 
 
+
     
-<link rel="stylesheet" href="/etc/designs/qu/bundle.b8c781792e8b9a24f35767899dd0382e.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/qu/bundle.cc40731957a317d0319434fbf055a041.css" type="text/css">
 
 
 
 
+<script type="text/javascript">
+    var onSubmit = function(token) {
+        //ajax
+        var data = $('#qu-edu-form').serialize();
+        var url = $('.res-path').val();
+        var redirectPage = $('.redirect-path').val();
 
-    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
-    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
-    <title>Site Security and Privacy Policy</title>
+       $.ajax({
+            url:url,
+            type:"POST",
+            data:data
+        }).done(function(res){
+        	//console.log("res = " + res);
+            var resJson = JSON.parse(res);
+            console.log(resJson);
+            if( resJson.success && redirectPage)
+                window.location.href= resJson.redirectPage;
+            if( resJson.error ){
+                console.log(resJson['error-type']);
+                if( resJson['error-type'] === 'captcha-failed' ){
+                    alert('Captcha verification failed!');
+                    console.log('Captcha verification failed!');
+                }else{
+                    console.log("Here - Done AJAX");
+                    alert('Something went wrong please try again after some time!');
+                }
+
+            }
+            grecaptcha.reset();
+        }).fail(function(res){
+                console.log("Here - Fail AJAX");
+                alert('Something went wrong please try again after some time!');
+                grecaptcha.reset();
+        });
+        
+    };
+    var widgetId;
+    var firstCallback = function() {
+        widgetId = grecaptcha.render('recaptcha', {
+            'sitekey' : '6LdtylcUAAAAAGW2EsGV59tUsXW_ELjw3SPTdBOq',
+            'callback' : onSubmit
+        });
+    };
+</script>
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
 </head>
-    <body><header class="header" data-require="header">
-	<button class="left burger-link" aria-expanded="false">
+    <body>
+<header class="header " data-require="header">
+	<button class="left burger-link" aria-expanded="false" aria-label="Navigation Menu Icon" title="Quinnipiac University Menu">
 		<span class="icon-burger" aria-label="Menu"></span>
 	</button>
-	<a class="middle" href="/">
+	<a class="middle " href="/">
 		<img class="logo" src="/etc/designs/qu/bundle/logo.png" alt="Quinnipiac">
 	</a>
-	<button class="right burger-link" aria-expanded="false">
+	<button class="right burger-link" aria-expanded="false" aria-label="Quinnipiac Q Icon" title="Quinnipiac University Schools Menu">
 		<span class="icon-quinn-q" aria-label="Schools"></span>
 	</button>
 	<div class="header-overlay overlay"></div>
 </header>
 
-<div id="site-alert" class="aem-Grid aem-Grid--12" data-require="alerts">
-	<div class="aem-GridColumn aem-GridColumn--default--10 column-center">
-		<h2 class="alert-title b4"></h2>
-		<p class="b4 alert-message"></p>
-		<a class="cta b4 link-white alert-link">
-			<span></span>
-			<i class="icon-schools-arrow"></i>
-		</a>
+
+<div id="site-alert" class="aem-Grid aem-Grid--12 default-alert-theme" data-require="alerts">
+	<div class="aem-Grid aem-Grid--12 aem-GridColumn aem-GridColumn--default--10 column-center">
+		<div class="aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--tablet--9 aem-GridColumn--phone--12 alert-title-column">
+			<h2 class="alert-title b4"><span class="visuallyhidden">Site Alert Title</span></h2>
+		</div>
+		<div class="aem-GridColumn aem-GridColumn--default--2 aem-GridColumn--tablet--3 aem-GridColumn--phone--5 alert-icon-div">
+			<img class="alert-icon" alt="Alert Icon">
+		</div>
+
+		<div class="aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--tablet--9 aem-GridColumn--phone--6 alert-message-div">
+			<p class="b4 alert-message"></p>
+		</div>
+		<div class="aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--tablet--9 aem-GridColumn--phone--12 alert-link-column">
+			<a class="cta b4 link-white alert-link">
+				<span></span>
+				<i class="icon-schools-arrow"></i>
+			</a>
+		</div>
 		<span class="close-alert icon-close"></span>
 	</div>
 </div>
 
 <nav class="navigation" data-require="navigation">
 	<div id="drawer-left" class="navigation-menu" aria-hidden="true" tabindex="0">
-	  <div class="navigation-overlay overlay" aria-hidden="true"></div>
-	  <form action="/search.html" role="search">
-	  	<label for="q" class="icon-search"></label>
-	  	<input type="search" name="q" placeholder="Search Quinnipiac">
-	  	<button type="submit" tabindex="0">
-	  		<a>Search <i class="icon-schools-arrow"></i></a>
-	  	</button>
-	  	<i class="icon-schools-arrow"></i>
-	  </form>
-	  <ul role="navigation">
-	  	<li class="main-links">
-	  		<a class="qu-cta cta " href="/academics/a-quinnipiac-education.html">
+		<div class="navigation-overlay overlay" aria-hidden="true"></div>
+		<div class="search-content">
+
+
+
+
+
+
+<link rel="stylesheet" href="/etc/clientlibs/foundation/searchpromote/themes/default.ff33b720e35b247ab25bbc2915365320.css" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="//content.atomz.com/sp10050f69/stage/autocomplete_styles.css?sp_css_param=6">
+    <div id="qu-search-promote" class="cq-searchpromote-search yui-skin-sam " data-require="search">
+        <div class="qu-search-form">
+            <form method="get" class="aem-Grid aem-Grid--12" id="searchform" name="searchform" action="/search.html">
+                <div class="aem-GridColumn aem-GridColumn--default--1 aem-GridColumn--phone--2 text-center-default icon-wrapper">
+                    <span class="icon-search"><label for="q" class="visuallyhidden">Search Quinnipiac University</label></span>
+                </div>
+                <div class="aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--7 search-input">
+                    <input type="text" id="q" name="q" class="h4" placeholder="Search Quinnipiac" maxlength="2048" autocomplete="off">
+                </div>
+                <div class="aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--phone--3 text-center-phone submit-div">
+                    <input type="submit" id="search-submit" class="link-light" value="Search">
+                    <i class="icon-schools-arrow"></i>
+                </div>
+            </form>
+            <div class="aem-Grid aem-Grid--12">
+                <div id="autocomplete" class="aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--7"></div>
+            </div>
+        </div>
+    </div>
+	 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/datasource/datasource-min.js"></script>
+<script type="text/javascript" src="/etc/designs/qu/bundle/lib/yui-2.8.0r4.autocomplete-min.js"></script>
+<script type="text/javascript" src="//content.atomz.com/sp10050f69/publish/autocomplete_data.js?sp_js_param=6"></script>
+        <script type="text/javascript">
+          (function(){
+            // window.acObj is the YAHOO.widget.AutoComplete that has been defined in the autocomplete.getJavaScript()
+            if(window.acObj){
+
+              // remember the user input whenever an item is about to be selected, as selecting from the autocomplete suggestions overwrites the user input
+              var typedInput;
+              var trackInput = function (type, args) {
+                  typedInput = args[0].getInputEl().value;
+              };
+              window.acObj.itemMouseOverEvent.subscribe(trackInput);
+              window.acObj.itemArrowToEvent.subscribe(trackInput);
+
+              // track the selection of an autocomplete suggestion
+              window.acObj.itemSelectEvent.subscribe(function (type, args) {
+                CQ_Analytics.record({event: 'spAutoCompleteSelected',
+                                     values: {
+                                          'spSelectedSuggestion': args[2].phrase,
+                                          'spTypedInput': typedInput == "" ? args[0].getInputEl().value : typedInput,
+                                          'spCurrentPage': document.location.pathname},
+                                     componentPath: 'qu/components/searchpromote/search'
+                });
+              });
+            }
+          })();
+        </script>
+        
+</div>
+		<ul role="navigation">
+			<li class="main-links">
+				<a href="/academics/a-quinnipiac-education.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -125,14 +241,14 @@
 
 
 
-	  		<i class="icon-schools-arrow"></i>
-	  	</li>
-	  	<li class="main-links">
-			<h4>Academics</h4>
+				<i class="icon-schools-arrow"></i>
+			</li>
+			<li class="main-links">
+				<h4>Academics</h4>
 
-	  		<ul>
-	  			<li>
-	  				<a class="qu-cta cta " href="/academics/undergraduate.html">
+				<ul>
+					<li>
+						<a href="/academics/undergraduate.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -146,11 +262,11 @@
 
 
 
-	  				<i class="icon-schools-arrow"></i>
-	  			</li>
-	  		
-	  			<li>
-	  				<a class="qu-cta cta " href="/academics/graduate.html">
+						<i class="icon-schools-arrow"></i>
+					</li>
+				
+					<li>
+						<a href="/academics/graduate.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -164,11 +280,11 @@
 
 
 
-	  				<i class="icon-schools-arrow"></i>
-	  			</li>
-	  		
-	  			<li>
-	  				<a class="qu-cta cta " href="/schools/medicine.html">
+						<i class="icon-schools-arrow"></i>
+					</li>
+				
+					<li>
+						<a href="/schools/medicine.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -182,11 +298,11 @@
 
 
 
-	  				<i class="icon-schools-arrow"></i>
-	  			</li>
-	  		
-	  			<li>
-	  				<a class="qu-cta cta " href="/schools/law.html">
+						<i class="icon-schools-arrow"></i>
+					</li>
+				
+					<li>
+						<a href="/schools/law.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -200,13 +316,13 @@
 
 
 
-	  				<i class="icon-schools-arrow"></i>
-	  			</li>
-	  		</ul>
-	  	</li>
-	  	<li class="quick-links">
-	  		<ul>
-	  			<li><a class="qu-cta cta " href="/admissions/apply.html">
+						<i class="icon-schools-arrow"></i>
+					</li>
+				</ul>
+			</li>
+			<li class="quick-links">
+				<ul>
+					<li><a href="/admissions/apply.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -220,8 +336,8 @@
 
 
 </li>
-	  		
-	  			<li><a class="qu-cta cta " href="/meet-us/visit-us.html">
+				
+					<li><a href="/meet-us/visit-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -235,23 +351,8 @@
 
 
 </li>
-	  		
-	  			<li><a class="qu-cta cta " href="/meet-us/virtual-tour.html">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span><b>Virtual Tour</b></span>
-</a>
-
-
-</li>
-	  		
-	  			<li><a class="qu-cta cta " href="/contact-us.html">
+				
+					<li><a href="/contact-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -265,13 +366,13 @@
 
 
 </li>
-	  		</ul>
-	  	</li>
-	  	<li class="group-links">
-			<h4>Life at Quinnipiac</h4>
+				</ul>
+			</li>
+			<li class="group-links">
+				<h4>Life at Quinnipiac</h4>
 
-	  		<ul class="aem-Grid aem-Grid--12">
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/life/student.html">
+				<ul class="aem-Grid aem-Grid--12">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/student.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -282,18 +383,18 @@
     
 
 	
-	<span>Student Life</span>
+	<span>Student Experience</span>
 </a>
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/life/now.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/now.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/qnow/graphics/Hackathonsm.jpg" alt="Quinnipiac Now">
+    			<img src="/content/dam/qu/thumbnails/burger-qu-now.jpg" alt="Quinnipiac Now">
     		</picture>
     	
     
@@ -304,8 +405,8 @@
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/life/athletics.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/student/athletics-recreation.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -316,18 +417,18 @@
     
 
 	
-	<span>Athletics</span>
+	<span>Athletics &amp; Recreation</span>
 </a>
 
 
 </li>
-	  		</ul>
-	  	</li>
-	  	<li class="group-links">
-			<h4>Admissions</h4>
+				</ul>
+			</li>
+			<li class="group-links">
+				<h4>Admissions</h4>
 
-	  		<ul class="aem-Grid aem-Grid--12">
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/admissions.html">
+				<ul class="aem-Grid aem-Grid--12">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -343,8 +444,8 @@
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/admissions/apply.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions/apply.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -360,8 +461,8 @@
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/tuition-financial-aid.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/tuition-financial-aid.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -372,18 +473,18 @@
     
 
 	
-	<span>Tuition &amp; Aid</span>
+	<span>Tuition &amp; Financial Aid</span>
 </a>
 
 
 </li>
-	  		</ul>
-	  	</li>
-	  	<li class="group-links">
-			<h4>Meet Us</h4>
+				</ul>
+			</li>
+			<li class="group-links">
+				<h4>Meet Us</h4>
 
-	  		<ul class="aem-Grid aem-Grid--12">
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/meet-us/visit-us.html">
+				<ul class="aem-Grid aem-Grid--12">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/meet-us/visit-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -399,8 +500,8 @@
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/meet-us/virtual-tour.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/meet-us/virtual-tour.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -416,8 +517,8 @@
 
 
 </li>
-	  		
-	  			<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a class="qu-cta cta " href="/contact-us.html">
+				
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/contact-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -433,16 +534,16 @@
 
 
 </li>
-	  		</ul>
-	  	</li>
-	  	<li class="dropdowns">
-	  		<label>
-	  			<input type="checkbox" checked="">
-	  			<i class="icon-arrow-up"></i>
-				<h4>On Campus</h4>
+				</ul>
+			</li>
+			<li class="dropdowns">
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>On Campus</h4>
 
-	  			<ul>
-	  				<li><a class="qu-cta cta " href="/on-campus/maps-directions.html">
+					<ul>
+						<li><a href="/on-campus/maps-directions.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -456,8 +557,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/on-campus/our-campus.html">
+					
+						<li><a href="/on-campus/our-campus.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -471,8 +572,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="https://calendar.quinnipiac.edu/" target="_blank">
+					
+						<li><a href="https://calendar.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -486,8 +587,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/student-resources/directory.html">
+					
+						<li><a href="/student-resources/directory.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -496,20 +597,50 @@
     
 
 	
-	<span>Directory</span>
+	<span>University Directory</span>
 </a>
 
 
 </li>
-	  			</ul>
-	  		</label>
-	  		<label>
-	  			<input type="checkbox" checked="">
-	  			<i class="icon-arrow-up"></i>
-				<h4>Student Resources</h4>
+					
+						<li><a href="/about-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
 
-	  			<ul>
-	  				<li><a class="qu-cta cta " href="/student-resources/academic-calendar.html">
+	
+	<span>About Quinnipiac</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/life/now/videos-live-streams.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Explore Videos</span>
+</a>
+
+
+</li>
+					</ul>
+				</label>
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>Student Resources</h4>
+
+					<ul>
+						<li><a href="/student-resources/academic-calendar.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -523,8 +654,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/student-resources/academic-catalog.html">
+					
+						<li><a href="/student-resources/academic-catalog.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -538,8 +669,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/student-resources/university-policies.html">
+					
+						<li><a href="/student-resources/university-policies.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -553,8 +684,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/student-resources/health-campus-safety.html">
+					
+						<li><a href="/student-resources/health-campus-safety.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -568,8 +699,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/student-resources/course-finder.html">
+					
+						<li><a href="/student-resources/course-finder.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -583,8 +714,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="https://myq.quinnipiac.edu/" target="_blank">
+					
+						<li><a href="https://myq.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -598,30 +729,15 @@
 
 
 </li>
-	  			</ul>
-	  		</label>
-	  		<label>
-	  			<input type="checkbox" checked="">
-	  			<i class="icon-arrow-up"></i>
-				<h4>Other Resources</h4>
+					</ul>
+				</label>
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>Other Resources</h4>
 
-	  			<ul>
-	  				<li><a class="qu-cta cta " href="/info-for/parents.html">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Parents</span>
-</a>
-
-
-</li>
-	  			
-	  				<li><a class="qu-cta cta " href="https://alumni.qu.edu" target="_blank">
+					<ul>
+						<li><a href="https://alumni.qu.edu" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -635,8 +751,23 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/on-campus/institutes-centers.html">
+					
+						<li><a href="/info-for/career-development-office.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Career Development Office</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/on-campus/institutes-centers.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -650,8 +781,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="http://ighm.org/" target="_blank">
+					
+						<li><a href="http://ighm.org/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -665,8 +796,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/tuition-financial-aid/manage-finances.html#bursarsoffice">
+					
+						<li><a href="/tuition-financial-aid/manage-finances.html#billingandpayments" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -680,8 +811,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/info-for/media.html">
+					
+						<li><a href="/info-for/media.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -695,8 +826,23 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/tuition-financial-aid/manage-finances.html#qcardinformation">
+					
+						<li><a href="/info-for/parents.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Parents</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/tuition-financial-aid/manage-finances.html#qcardinformation" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -710,8 +856,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/info-for/quinnipiac-online.html">
+					
+						<li><a href="/info-for/quinnipiac-online.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -725,8 +871,8 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/info-for/media/quinnipiac-university-poll-detail.html">
+					
+						<li><a href="/info-for/media/quinnipiac-university-poll-detail.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -740,8 +886,23 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/info-for/registrar.html#transcriptrequests">
+					
+						<li><a href="https://magazine.qu.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Quinnipiac Magazine</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/info-for/registrar.html#transcriptrequests" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -755,8 +916,23 @@
 
 
 </li>
-	  			
-	  				<li><a class="qu-cta cta " href="/info-for/wqun.html">
+					
+						<li><a href="/about-quinnipiac/student-consumer-information.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Student Consumer Information</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/info-for/wqun.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -770,10 +946,27 @@
 
 
 </li>
-	  			</ul>
-	  		</label>
-	  	</li>
-	  </ul>
+					
+						<li><a href="/working-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Working at Quinnipiac</span>
+</a>
+
+
+</li>
+					</ul>
+				</label>
+				
+				
+			</li>
+		</ul>
 	</div>
 	<div id="drawer-right" class="navigation-menu" aria-hidden="true" tabindex="0">
 		<ul role="navigation">
@@ -781,7 +974,7 @@
 				<h4>Schools</h4>
 				<ul>
 					<li>
-						<a class="qu-cta cta " href="/schools/arts-sciences.html">
+						<a href="/schools/arts-sciences.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -799,7 +992,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/business.html">
+						<a href="/schools/business.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -817,7 +1010,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/communications.html">
+						<a href="/schools/communications.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -835,7 +1028,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/education.html">
+						<a href="/schools/education.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -853,7 +1046,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/engineering.html">
+						<a href="/schools/engineering.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -871,7 +1064,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/health-sciences.html">
+						<a href="/schools/health-sciences.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -889,7 +1082,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/law.html">
+						<a href="/schools/law.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -907,7 +1100,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/medicine.html">
+						<a href="/schools/medicine.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -925,7 +1118,7 @@
 					</li>
 				
 					<li>
-						<a class="qu-cta cta " href="/schools/nursing.html">
+						<a href="/schools/nursing.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -946,7 +1139,7 @@
 			<li class="footer-links">
 				<div class="footer-content">
 					<h4>Looking for a specific program?</h4>
-					<a class="qu-cta cta " href="/academics/program-listings.html">
+					<a href="/academics/program-listing.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -955,11 +1148,27 @@
     
 
 	
-	<span><b>View the Program Listing</b></span>
+	<span><b>Program Listing</b></span>
 </a>
 
 
 
+					<ul>
+						<li><a href="/academics/a-quinnipiac-education/unique-learning-opportunities/dual-degree-programs.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span><b>Dual-Degree Programs</b></span>
+</a>
+
+
+</li>
+					</ul>
 				</div>
 			</li>
 		</ul>
@@ -968,7 +1177,6 @@
 	<button class="close-burger icon-close" aria-label="Close main menu"></button>
 	<button class="close-schools icon-close" aria-label="Close schools menu"></button>
 </nav>
-
 <main class="main" role="main" aria-hidden="false">
 	<div class="content">
 		
@@ -976,20 +1184,20 @@
 		
 		
 
-<div class="cq-placeholder" data-emptytext=""></div>
+
+
 
     
     
-    
-    <div class="parbase hero"><div class="qu-hero parbase aem-Grid aem-Grid--12 grid-gutterless ">
-	<div class="hero-bg-content  aem-GridColumn aem-GridColumn--default--12" data-require="hero">
+    <div class="hero parbase"><div class="qu-hero parbase aem-Grid aem-Grid--12 grid-gutterless " data-require="hero">
+	<div class="hero-bg-content  aem-GridColumn aem-GridColumn--default--12">
 		<div class="hero-img">
 			<picture>
 				<source srcset="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg.transform/mobile/image.jpg" media="(max-width: 767px)">
 				<source srcset="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg.transform/tablet/image.jpg" media="(min-width: 768px) and (max-width: 1023px)">
 				<source srcset="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg.transform/desktop/image.jpg" media="(min-width: 1024px) and (max-width: 1439px)">
 				<source srcset="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg.transform/desktop-large/image.jpg" media="(min-width: 1440px)">
-				<img src="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg" alt="Library School of Law. Copyright Notice: Rich Gilligan @Hello Artists photographed in Spring 2016 for the new branding materials and new EDU website. Usage terms are: Marketing Collateral in perpetuity - e.g.-student guides, annual reports, flyers, brochures, public affairs, web/social media- 3 years paid media.">
+				<img src="/content/dam/qu/galleries/libraries/IMG_8947-_C_RICH_GILLIGAN.jpg" alt="Students studying in the Lynn L. Pantalena Law Library on the North Haven campus.">
 			</picture>
 		</div>
 
@@ -999,8 +1207,7 @@
 	<div class="hero-breadcrumb  aem-GridColumn aem-GridColumn--default--10 column-center-phone">
 		<div class="breadcrumb b4">
 	
-		<a class="cta link-white" href="/content/qu/en_us.html"><span>Home</span></a>
-	
+		<a class="cta link-white" href="/"><span>Home</span></a>
 	
 </div>
 
@@ -1010,7 +1217,7 @@
 
 		<h1 class="h1 hero-title text-center-default">Website Security and Privacy</h1>
 
-		<a class="section-jump icon-carret"></a>
+		<a class="section-jump icon-carret"><span class="visuallyhidden">Carret icon</span></a>
 	</div>
 </div>
 
@@ -1019,31 +1226,25 @@
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters blue-q  " role="region" aria-labelledby="ourpolicy" data-require="section">
-	<h1 class="section-heading " id="ourpolicy">Our Policy</h1>
+	<h2 class="section-heading " id="ourpolicy">Our Policy</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h1 class="h2">Objectives</h1>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Objectives</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>Quinnipiac University (the&nbsp;"university") has created this Website Security and Privacy Policy (this "Policy") to document and communicate its commitment to doing business with high ethical standards and appropriate internal controls.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1051,32 +1252,26 @@
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters darkgray  " role="region" aria-labelledby="privacystatement" data-require="section">
-	<h1 class="section-heading hide-default" id="privacystatement">Privacy Statement</h1>
+	<h2 class="section-heading hide-default" id="privacystatement">Privacy Statement</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Privacy statement</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Privacy statement</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>The university respects the privacy of all website visitors. This Policy is intended to inform you of the ways in which this website collects information, the ways that we mayuse or share that information, and the ways in which we will protect any information you choose to provide us.&nbsp;Notwithstanding anything to the contrary stated herein, we reserve the right under certain circumstances to share the information we collect without your consent, unless prohibited by law.<br>
 </p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1084,17 +1279,14 @@
 
     
     
-    
-    <div class="parbase section">
-<section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters gray  spacing-none" role="region">
-	<h1 class="section-heading hide-default"></h1>
+    <div class="section parbase">
+<section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters gray  spacing-none" role="region" aria-labelledby="photograph">
+	<h4 class="section-heading hide-default" id="photograph">Photograph</h4>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--12 ">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase interstitial aem-GridColumn"><div class="qu-interstitial aemGrid aemGrid-12 grid-gutterless">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="interstitial parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-interstitial aemGrid aemGrid-12 grid-gutterless">
 	<div class="interstitial-wrapper aem-GridColumn aem-GridColumn--default--12 aem-Grid aem-Grid--12 ">
 		<picture>
 			<div class="parbase">
@@ -1108,8 +1300,7 @@
 			<source srcset="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg.transform/tablet/image.jpg" media="(min-width: 768px) and (max-width: 1023px)">
 			<source srcset="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg.transform/desktop/image.jpg" media="(min-width: 1024px) and (max-width: 1439px)">
 			<source srcset="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg.transform/desktop-large/image.jpg" media="(min-width: 1440px)">
-			<img src="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg" alt="Etched glass steps of the Arnold Bernhard Library on the Mount Carmel campus. Copyright Notice: Rich Gilligan @Hello Artists photographed in Spring 2016 for the new branding materials and new EDU website. Usage terms are: Marketing Collateral in perpetuity - e.g.-student guides, annual reports, flyers, brochures, public affairs, web/social media
-In paid media – 3 years license.">
+			<img src="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg" alt="Detailed close-up of the glass windows in the Arnold Bernhard Library engraved with an a-b-c pattern.">
 		</picture>
 	</div>
 
@@ -1123,10 +1314,8 @@ In paid media – 3 years license.">
 </div>
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1134,24 +1323,20 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters gray  " role="region" aria-labelledby="collectioninformation" data-require="section">
-	<h1 class="section-heading hide-default" id="collectioninformation">Collection Information</h1>
+	<h2 class="section-heading hide-default" id="collectioninformation">Collection Information</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Information collection</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Information collection</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>There are&nbsp;four&nbsp;types of information that this site may collect during your visit:</p>
-
 <ul>
 <li>Network traffic logs</li>
 <li>Web visit logs</li>
@@ -1159,13 +1344,10 @@ In paid media – 3 years license.">
 <li>Cookie information</li>
 </ul>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1173,31 +1355,25 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters navy  " role="region" aria-labelledby="networktrafficlogs" data-require="section">
-	<h1 class="section-heading hide-default" id="networktrafficlogs">Network Traffic Logs</h1>
+	<h2 class="section-heading hide-default" id="networktrafficlogs">Network Traffic Logs</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Network traffic logs</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Network traffic logs</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>In the course of ensuring network security and consistent service for all users, the university employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses&nbsp;and other software that might damage university computers or the network, and monitor and tune the performance of the university network. In the course of such&nbsp;monitoring, these programs may detect such information as email headers, addresses from network&nbsp;packets, and other information. Information from these activities is used for the purpose of maintaining and enhancing the security and performance of the university's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1205,31 +1381,25 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters blue  " role="region" aria-labelledby="webvisitlogs" data-require="section">
-	<h1 class="section-heading hide-default" id="webvisitlogs">Web visit logs</h1>
+	<h2 class="section-heading hide-default" id="webvisitlogs">Web visit logs</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Web visit logs</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Web visit logs</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>This website routinely collects and stores information from online visitors to help manage the site and improve service. This information includes the pages visited on thesite,&nbsp;the date and time of the visit, the internet address (URL or IP address) of the referring site, the domain name and IP address from which the access occurred, the version of browser used, the capabilities of the browser, and search terms used on our search&nbsp;engines. This site makes no attempt to identify individual visitors from this information: any personally identifiable information is not released to external parties without your consent.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1237,31 +1407,25 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters gray-q  " role="region" aria-labelledby="voluntaryinformation" data-require="section">
-	<h1 class="section-heading hide-default" id="voluntaryinformation">Voluntary Information</h1>
+	<h2 class="section-heading hide-default" id="voluntaryinformation">Voluntary Information</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Voluntary information</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Voluntary information</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>In the course of using this website, you&nbsp;may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we can send&nbsp;you an application or&nbsp;other material. Any personally&nbsp;identifiable information you send us will be used only for the specific purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar future requests. We will not sell, exchange or otherwise distribute your personally&nbsp;identifiable information without your consent. We do not retain the information longer than necessary for normal&nbsp;operations. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in the manner indicated, you are not required to provide it. Please contact the person listed on the specific page,&nbsp;or listed below, with questions or concerns on the use of personally identifiable information.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1269,31 +1433,25 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters darkgray  " role="region" aria-labelledby="cookieinformation" data-require="section">
-	<h1 class="section-heading hide-default" id="cookieinformation">Cookie Information</h1>
+	<h2 class="section-heading hide-default" id="cookieinformation">Cookie Information</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Cookie information</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Cookie information</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>When you visit this website, a "cookie" is sent to your computer and stored by your web browser. A cookie is a small text file that contains an anonymous string of characters that is unique to your computer. The cookie allows our website to recognize your computer when you visit us again. The cookie does not store or collect your personal information and it does not track your internet browsing, beyond your use of this website. The cookie allows the university to personalize your online experience. The cookie also may be used to deliver advertisements relevant to your interests. You can control whether or not your web browser accepts cookies by altering the settings on your computer.&nbsp;&nbsp;If you direct your web browser not to accept cookies, some parts of this website may not function properly.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1301,32 +1459,26 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters navy  " role="region" aria-labelledby="links" data-require="section">
 	<h2 class="section-heading hide-default" id="links">Links</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Links</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Links</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>This site provides links to other websites or resources. We do not control these&nbsp;sites and resources, we do not endorse them, and we are not responsible for their availability, content or delivery of services. In particular, external sites are not bound by this Policy; they may have their own policies or none at all. You will become subject to the privacy policies of those websites when you leave this site. Often you can tell you are leaving the university's website by noting the URL of the destination site.<br>
 </p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1334,31 +1486,25 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters white-q  " role="region" aria-labelledby="securitymeasures" data-require="section">
-	<h2 class="section-heading hide-default" id="securitymeasures">Security measures</h2>
+	<h2 class="section-heading hide-default" id="securitymeasures">Security Measures</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Security Measures</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Security measures</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>This website is protected with a variety of security&nbsp;measures such as change control procedures, passwords and physical access controls. We also employ a variety of other mechanisms to ensure that data you provide is not lost, misused or altered inappropriately. These controls include data confidentiality&nbsp;policies and regular database backups. However, due to the open nature of the Internet, the university cannot guarantee that any information stored on our servers, or transmitted to or from a user will be free from unauthorized access. The university disclaims any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications.</p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
@@ -1366,50 +1512,50 @@ In paid media – 3 years license.">
 
     
     
-    
-    <div class="parbase section">
+    <div class="section parbase">
 <section class="qu-section aem-Grid aem-Grid--12 grid-bleedingGutters blue  " role="region" aria-labelledby="changestopolicy" data-require="section">
-	<h1 class="section-heading hide-default" id="changestopolicy">Changes to policy</h1>
+	<h2 class="section-heading hide-default" id="changestopolicy">Changes to Policy</h2>
 	<article class="section-content aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--10">
 		<div>
-
-
-
-<div class="aem-Grid aem-Grid--12">
-    <div class="parbase aem-GridColumn title"><div class="qu-title ">
-	<h2 class="h2">Changes to Policy</h2>
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="title parbase aem-GridColumn aem-GridColumn--default--12"><div class="qu-title ">
+	<h3 class="h2">Changes to policy</h3>
 	
 	
 </div></div>
-<div class="parbase aem-GridColumn text">
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
 <p>We will update this Policy to reflect any changes in the manner in which we treat the information collected on&nbsp;this website. We encourage you to periodically review this Policy to be informed of how we are protecting your information.<br>
 </p>
 
-
 </div>
 
-    <div class="section aem-Grid-newComponent cq-placeholder" data-emptytext="Add Components to 3.1 Section Here">
-</div>
-</div>
-</div>
+    
+</div></div>
 	</article>
 </section>
 </div>
+
+
+
+
+
 
 
 
 	</div>
-	<footer class="qu-footer">
+	
+<footer class="qu-footer">
     <div class="secondary-footer-container">
       
     </div>
     <div class="footerContainer">
-      <div class="mainFooter">
+      <div class="mainFooter ">
         <span>
           <a href="/"><img class="logo" alt="Quinnipiac University" src="/etc/designs/qu/bundle/logo-footer.png"></a>
         </span>
         <ul class="footerNav">
-          <li class="navLinks"><a class="qu-cta cta " href="/about-us.html">
+          <li class="navLinks"><a href="/about-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1424,7 +1570,7 @@ In paid media – 3 years license.">
 
 </li>
         
-          <li class="navLinks"><a class="qu-cta cta " href="/working-quinnipiac.html">
+          <li class="navLinks"><a href="https://www.qu.edu/working-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1439,7 +1585,7 @@ In paid media – 3 years license.">
 
 </li>
         
-          <li class="navLinks"><a class="qu-cta cta " href="/emergency-information.html">
+          <li class="navLinks"><a href="https://www.qu.edu/emergency-information.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1454,7 +1600,7 @@ In paid media – 3 years license.">
 
 </li>
         
-          <li class="navLinks"><a class="qu-cta cta " href="/information-request.html">
+          <li class="navLinks"><a href="https://www.qu.edu/information-request.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1469,7 +1615,7 @@ In paid media – 3 years license.">
 
 </li>
         
-          <li class="navLinks"><a class="qu-cta cta " href="/contact-us.html">
+          <li class="navLinks"><a href="https://www.qu.edu/contact-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1484,7 +1630,7 @@ In paid media – 3 years license.">
 
 </li>
         
-          <li class="navLinks"><a class="qu-cta cta " href="https://myq.quinnipiac.edu/" target="_blank">
+          <li class="navLinks"><a href="https://myq.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -1500,34 +1646,41 @@ In paid media – 3 years license.">
 </li>
         </ul>
       </div>
-      <div class="subFooter">
+      <div class="subFooter ">
        
        <span class="social">
-          <a href="https://www.facebook.com/QuinnipiacUniversity" target="_blank">
+           <span class="inner-social-span">
+               <a href="https://www.facebook.com/QuinnipiacUniversity/" target="_blank">
 	<span class="icon icon-facebook"></span>
-	<div>https://www.facebook.com/QuinnipiacUniversity</div>
+	<div>https://www.facebook.com/QuinnipiacUniversity/</div>
 </a>
+           </span>
         
-          <a href="http://twitter.com/quinnipiacu" target="_blank">
+           <span class="inner-social-span">
+               <a href="http://twitter.com/quinnipiacu" target="_blank">
 	<span class="icon icon-twitter"></span>
 	<div>http://twitter.com/quinnipiacu</div>
 </a>
+           </span>
         
-          <a href="https://instagram.com/quinnipiacu" target="_blank">
+           <span class="inner-social-span">
+               <a href="https://instagram.com/quinnipiacu" target="_blank">
 	<span class="icon icon-instagram"></span>
 	<div>https://instagram.com/quinnipiacu</div>
 </a>
+           </span>
         </span>
       
         <span class="copyright">	© 
-<p>2017 Quinnipiac University. All Rights Reserved.<br>
+<p>2018&nbsp;</p>
+<p>Quinnipiac University. All Rights Reserved.<br>
 </p>
-
 
 </span>
         
           <span class="legalLinks">
-            <a class="qu-cta cta " href="/site-security-privacy-policy.html">
+            <span class="inner-legal-span">
+              <a href="/site-security-privacy-policy.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1541,8 +1694,10 @@ In paid media – 3 years license.">
 
 
 
+            </span>
           
-            <a class="qu-cta cta " href="/legal-information.html">
+            <span class="inner-legal-span">
+              <a href="/legal-information.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1556,6 +1711,7 @@ In paid media – 3 years license.">
 
 
 
+            </span>
           </span>
         
       </div>
@@ -1598,7 +1754,7 @@ In paid media – 3 years license.">
 
 
     
-<script type="text/javascript" src="/etc/designs/qu/bundle.daccce8ec5fecc009ac000e1ae1d8231.js"></script>
+<script type="text/javascript" src="/etc/designs/qu/bundle.b3fc69f0398221a6ede5a500b0d9b820.js"></script>
 
 
 
