@@ -1,169 +1,169 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224427id_/https%3A//viantinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023814id_/https%3A//viantinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viant
 
-**This privacy policy was last revised on August 10, 2017.**
+**This privacy policy was last revised on May 23, 2018.**
 
-Viant is a digital media company comprised of a family of companies that includes the [Viant](http://www.viantinc.com/) and [Adelphic](http://adelphic.com/) businesses (collectively, “Viant,” “we,” or “us”). This Privacy Policy explains the information we collect, how we use that information and the choices we offer, including how to opt-out of certain collection and use of that information. The Viant family of companies also includes [Myspace](http://www.myspace.com/). This Privacy Policy does not apply to Myspace. The privacy policy for Myspace is located [here](http://www.myspace.com/pages/privacy).
+Viant is a digital media company comprised of a family of companies that includes the Viant and Adelphic businesses (collectively, “Viant,” “we,” or “us”). Viant is the owner of a cloud based advertising platform and provides services to publishers, advertisers and other companies (our “Clients”) that allow them to plan and execute interest-based digital media campaigns and measure the performance of those campaigns (the “Viant Services”). The Viant Services are no longer offered in the European Economic Area (“EEA”) or European Union (“EU”) and we are in the process of deleting all personal information relating to EEA residents in our databases. We expect the deletion of all EEA data to be complete by the end of 2018.
 
-We take the issue of user privacy on the internet very seriously. The following is intended to be a plain English explanation of our practices.
+This Privacy Policy (“this Policy”) describes Viant’s practices and policies for the information (sometimes referred to as “data”) we collect through our website www.viantinc.com (the “Site”) and from other sources that we make available to our Clients through the Viant Services. This Privacy Policy does not apply to Myspace or Adelphic. The privacy policy and privacy notice for Myspace is located [here](https://myspace.com/pages/privacy) and [here](https://myspace.com/pages/eeaprivacy). The privacy policy for Adelphic is located [here](http://adelphic.com/privacy-policy/).
 
-This Privacy Policy describes key aspects of our privacy practices, including:
+We generally do not collect information about consumers through the Site, but we do collect other online and offline information about consumers’ interests and habits through web tracking technologies, and from our other business partners like data providers, ad exchanges, and mobile app attribution companies (our “Ad Partners”). We use that information to create audience segments that we make available to our Clients to enable them to deliver targeted, interest based advertising and to conduct analytics and research. The Viant Services deliver the targeted advertising messages to consumers (the “Users”) on computers, mobile phones and similar devices and enable us to report back to our Clients about the effectiveness of their advertising campaigns.
 
-  * [The information we collect and how we collect it.](http://www.viantinc.com/privacy-policy/#privacy-collect)
-  * [How we use that information.](http://www.viantinc.com/privacy-policy/#privacy-use)
-  * [How we share information.](http://www.viantinc.com/privacy-policy/#privacy-share)
-  * [The choices we offer, including how to opt-out of interest-based advertising.](http://www.viantinc.com/privacy-policy/#privacy-choices)
+By partnering with us as Client, or visiting the Site and/or otherwise using the Viant Services, you agree to the terms of this Policy.
 
+Please read this entire Privacy Policy carefully. This Policy contains links that you can click on to get further information or exercise the options you have about your information. To make this Policy more reader-friendly, we use everyday words such as use, transfer and storage to describe what we do with your personal information – but this Policy covers all of our data processing activities.
 
+Some of the key topics you may be interested in include:
 
-If you are not familiar with terms like cookies, IP addresses and pixels, we suggest that you read about these and other [key terms](http://www.viantinc.com/privacy-policy/#key-terms) first.
-
-We always welcome comments and questions on our Privacy Policy, so please do not hesitate to contact us with any comments or questions at [privacy@viantinc.com](mailto:privacy@viantinc.com).
-
-Please note that this Privacy Policy does not apply to the practices of third parties that own or operate the websites and other internet connected platforms where any of our advertisements are displayed or that otherwise utilize our services, or any third party websites and platforms that are linked to from our websites or services. Please be aware that we are not responsible for these third party sites and platforms in any way including without limitation, the privacy practices of these websites and platforms (and/or their third party owners or operators). For information about those third parties’ practices, we encourage you to carefully review the privacy policies governing those websites and platforms.
-
-##### I. Information we collect
-
-We receive and collect information in order to provide and improve our services, such as to serve ads or provide content that is more relevant to users.
-
-We collect information in a number of ways, including the following:
-
-  * **Information you give us.** We may collect information that you provide to us yourself through one of our corporate websites, for example, when you sign up to receive our email distributions, inquire about or sign up for one of our services or apply for a job through our websites. Many times, the information you provide includes [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information), like your name, email address, telephone number or credit card.
-  * **Information we get from your use of or interaction with our services.** We receive and collect information when you use our services or otherwise interact with our advertising, analytics and other services. This interaction may occur on websites owned or controlled by us or by third-parties, supported mobile devices, consumer electronics devices, and on other online or technical mechanisms or devices. The information we collect includes: 
-    * **Cookies, pixels, unique identifiers and other web technologies.** We use [cookies](http://www.viantinc.com/privacy-policy/#privacy-cookie), [pixels](http://www.viantinc.com/privacy-policy/#privacy-pixel), [unique identifiers](http://www.viantinc.com/privacy-policy/#privacy-unique-identifier) and other web technologies when you interact with services we offer to our partners, such as our advertising and analytics services. We may also use [web crawlers](http://www.viantinc.com/privacy-policy/#privacy-web-crawler), [embedded scripts](http://www.viantinc.com/privacy-policy/#privacy-embedded-script) and [user panels](http://www.viantinc.com/privacy-policy/#privacy-user-panel) to verify ad execution and to collect other data on ads that you see, including where you see them, how they are displayed and for how long they are displayed. To learn about the choices we offer regarding opting out of some of these technologies, including how to opt-out of interest-based advertising, please click [here](http://www.viantinc.com/privacy-policy/#privacy-choices). Third party advertisers that serve ads on our websites and services and other vendors may also use their own [cookies](http://www.viantinc.com/privacy-policy/#privacy-cookie) and similar web technologies to track your use of our websites and services and those of third parties. We do not control the use of these [cookies](http://www.viantinc.com/privacy-policy/#privacy-cookie) and similar web technologies, or how your data is used by those third parties.
-    * **Request-based information.** Request-based information is passed to us by your computer browser, mobile device or other consumer electronics device automatically each time you interact with websites, platforms, applications or devices that use our advertising, analytics or other services. Request-based information may include: 
-      * browser type (e.g., Microsoft Internet Explorer, Mozilla Firefox, or Apple Safari)
-      * device hardware model, operating system (e.g., whether you are using a device running Microsoft Windows, Android, Mac OS, iOS, etc.) and unique device identifiers
-      * [IP (internet protocol) address](http://www.viantinc.com/privacy-policy/#privacy-ip-address), including whether multiple devices have connected to the internet from the same [IP address](http://www.viantinc.com/privacy-policy/#privacy-ip-address) or a single device has connected to the internet from multiple [IP addresses](http://www.viantinc.com/privacy-policy/#privacy-ip-address)
-    * **Web browsing information.** We collect information about which websites you have interacted with, including the web address of the page where you interact with our advertising or other services and the URL of the webpage that referred you to that page. We also collect information about the subject matter of those websites and other information on your’ interaction with those websites, including the specific content and advertising you consume and interact with on those websites.
-    * **Performance information.** We monitor the sales, signups or visits to certain predetermined pages on our partners’ websites. We reconcile these page ‘hits’ back to the ads that were shown to allow us to manage advertising campaign delivery, and report on this to our partners.
-    * **Session information.** Session information relates to user, campaign, and interest-based history and is used for frequency capping and interest-based delivery of advertising and other content. Session information is gathered in a number of ways, including from the website visited, mobile or other digital platform application, and clicks registered by the ’applicable device.
-    * **Log information.** When you use our services or view our ads or other content provided by us, we may automatically collect and store certain information in [server logs](http://www.viantinc.com/privacy-policy/#privacy-server-log). This may include: 
-      * details of how you used our service, such as your clicks on our ads
-      * [IP address(es)](http://www.viantinc.com/privacy-policy/#privacy-ip-address)
-      * device event information such as hardware settings, browser type, browser language, the date and time of your request and referral URL
-      * [cookies](http://www.viantinc.com/privacy-policy/#privacy-cookie) and [unique identifiers](http://www.viantinc.com/privacy-policy/#privacy-unique-identifier) that may uniquely identify your browser
-  * **Information from affiliates and third parties.**
-    * **Information from affiliates.** We may receive information from our affiliates regarding your use of our services not covered by this Privacy Policy, such as information regarding the contents of your Myspace profile (such as your email address, IP address, age, gender, Myspace connections and location). We may combine data from one service with information from our other services, and with information we receive from our affiliates and third parties.
-    * **Information from third parties.** We partner with third-parties to improve our services and to allow us to provide services through mobile and other consumer electronics devices. These third parties may provide us with certain information, including automatically collected information such as [IP address](http://www.viantinc.com/privacy-policy/#privacy-ip-address), device type, operating system, and, in some cases, a [unique identifier](http://www.viantinc.com/privacy-policy/#privacy-unique-identifier), [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) email address, or [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) mobile ID (e.g., Apple IDFA or Android advertising ID), as well as location-based data such as Wi-Fi, cell tower, GPS or diagnostic location information, contextual information, and demographic information including age, gender and zip code.
-
-
-  * **II. How we use the information we collect**
+  * [The information you share with us](http://www.viantinc.com/privacy-policy/#information-share)
+  * [Additional information we receive about you](http://www.viantinc.com/privacy-policy/#information-additional)
+  * [How we use, share, and disclose information](http://www.viantinc.com/privacy-policy/#information-use)
+  * [EEA Data Subject Rights](http://www.viantinc.com/privacy-policy/#information-EEA)
+  * [Children’s information](http://www.viantinc.com/privacy-policy/information-child)
+  * [How we secure your information](http://www.viantinc.com/privacy-policy/#information-secure)
+  * [How long we keep your information](http://www.viantinc.com/privacy-policy/#information-keep)
+  * [Cross-border transfers of information](http://www.viantinc.com/privacy-policy/#information-cross-border)
+  * [Additional privacy rights for California residents](http://www.viantinc.com/privacy-policy/#information-california)
+  * [This policy may change](http://www.viantinc.com/privacy-policy/#policy-change)
+  * [Contact information](http://www.viantinc.com/privacy-policy/#contact)
 
 
 
-**A.     Personal information you give us**
+**A. Personal information you give us**
 
-[Personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) you provide to us through the use of our corporate websites – for example, in order to sign up for an email distribution, inquire about or sign up for our services or to apply for a job with us – is generally used for the purpose for which it was provided. We may also use your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) in order to send you emails from time to time about our services, respond to your inquiries or in order to provide our vendors and subcontractors your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) in connection with performing services for us. Additionally, we may use your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) for other purposes permitted under this Privacy Policy, such as to protect or comply with legal rights and obligations, to complete a merger or sale of assets or for additional purposes with your consent. We may also collect [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) on behalf of a partner that has been identified to you. In such instances, we will collect and use that information in accordance with the privacy policy that is posted at the point of collection and we will not be liable for usage of that information made by the applicable partner.
+Viant generally does not collect personal information regarding individual Users through the Viant Services, and only collects personal information via the Site when it is provided to us. In most cases, if and/or when we obtain personal information, it relates to our current or prospective clients and business partners. When we say “personal information,” we mean individually identifiable information that would allow us to determine the actual identity of and/or directly contact a specific living person, such as an email address or telephone number.
 
-**B.     Information that we collect through your use of our and our affiliates’ services and the internet or that we otherwise receive from our affiliates and third parties**
+We collect personal information only when we are contacted directly by an individual through the Site and the individual voluntarily provides personal information to us, such as by submitting a question or registering to use the Viant Services. To the extent we receive personal information through our Site, we use personal information only in ways compatible with the purpose for which it was collected, such as to respond to email communications or questions, to facilitate registration for and delivery of the Viant Services, or for billing purposes. By voluntarily providing us with personal information, you are consenting to our use of it in accordance with this Policy.
 
-We use the information we collect to improve our services and to deliver a more personalized web experience. This includes providing advertising and content that we believe is more relevant to you and providing more accurate analytics and reporting to our clients and partners.
+##### **2\. Additional Information We Receive About You**
 
-The information that we collect and receive may be used for purposes including:
+**A. Automatically Collected Information**
 
-  * to operate and improve our services, including to create interest-based and other use-based advertising segments, to provide more personalized advertisements, to more precisely direct advertising to you and to present offers, products and programs to you on our behalf and on behalf of our business partners
-  * to fulfill your requests for products, programs, and services
-  * to communicate with you and respond to your inquiries
-  * to conduct research about and analyze your use of our services
-  * to provide reporting to our partners about the performance of our advertising, analytics and other services
+The Viant Services collect information about your device and the ads that we deliver onto your device. This information, which is collected passively using various technologies, may come from such sources as your web browser or the apps that you use. We also obtain the precise location (e.g., latitude and longitude coordinates) of your device and may use that information to assist our Clients with targeting ads tailored to your interests.
 
+We also combine the information collected across multiple sites and mobile apps in order to create interest segments that help us target future advertisements based upon those inferred interests. This combined information may also include whether you engaged with specific content or ads; and whether you went on to visit an advertiser’s website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. This practice is sometimes referred to as behavioral advertising or interest-based advertising.
 
+We use this information as part of the Viant Services to perform a variety of tasks, such as limiting the number of times a specific advertisement is presented to the same User (frequency capping), providing an advertisement to only certain types of Users, or providing a report to a client on the number of its advertisements that were clicked. We share this information with Clients, Ad Partners, vendors, and other companies that we conduct business with as permitted by law.
 
-Additionally, information we obtain from third parties (including our affiliates) about you may be appended to information that we otherwise have about you for the purposes described in this Privacy Policy. For example, we match [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) versions of mobile IDs to de-identified data that resides in our platform in order to target advertising to users on mobile devices.
+Viant is a member of the Digital Advertising Alliance (DAA) and adheres to the DAA’s Self-Regulatory Program for Online Behavioral Advertising by respecting the DAA’s consumer choice tool for you to opt out of interest-based advertising. The DAA tool is located at [https://optout.aboutads.info](https://optout.aboutads.info/). Viant is also a member of National Advertising Initiative (“NAI”) and respects NAI’s consumer choice tool for you to opt out of interest-based advertising. The NAI tool is located at [https://optout.networkadvertising.org](https://optout.networkadvertising.org/). These tools enable you to opt of from receiving interest based advertising from many of our Clients and Ad Partners.
 
-Moreover, we may use data collected from one or more of your browsers or devices in connection with data collected from your other browsers or devices, where such browsers and/or devices are shown to be linked or related to each other (i.e., cross-device linking), for the purposes described in this Privacy Policy, including providing personalized advertising and ad delivery and reporting.
-
-Because our services continually are evolving, we reserve the right to use the information that we collect for other legal purposes that are consistent with this Privacy Policy, even if not specifically described herein. We retain the right to use and disclose information that is not personal information or combined with personal information for any purpose.
-
-**C. Public Information**
-
-If you choose to submit content to any public area of our websites or services, your content will be considered “public” and will be accessible by anyone, including us, and will not be subject to the privacy protections set forth in this Privacy Policy unless otherwise required by law. We encourage you to exercise caution when making decisions about what information you disclose in such public areas.
-
-**A. To deliver services**
-
-In order to facilitate our delivery of advertising, analytics and other services, we may use and/or share the information we collect, including [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) and user interest profiles containing demographic information, location information, gender, age, interest information and information about your computer, device, or group of devices, including your [IP address](http://www.viantinc.com/privacy-policy/#privacy-ip-address), with our affiliates and third parties, such as our service providers, data processors, business partners and other third parties.
-
-**B. With third party clients and partners**
-
-Our online advertising services are used by advertisers, websites, applications and other companies providing online or internet connected advertising services. We may share information, including the information described in section III.A. above, with our clients and partners to enable them to deliver or facilitate the delivery of online advertising. We strive to ensure that these parties act in accordance with applicable law and industry standards, but we do not have control over these third parties. When you opt-out of our services, we stop sharing your interest-based data with these third parties. Click [here](http://www.viantinc.com/privacy-policy/#privacy-opt-out) for more information on opting out.
-
-**C. To protect or comply with our legal rights and obligations**
-
-In addition to any other uses permitted in this Privacy Policy, there may be instances when we may use and/or disclose information we collect and receive where we have, in our discretion, a good faith belief that such use and/or disclosure is necessary in order to: (i) protect or defend our or your legal rights or property or those of our affiliates, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of members of the public, including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) protect against fraud or for risk management purposes and to investigate potential related issues; or (iv) comply with the law, law enforcement, or legal process or proceedings or requests from public or government authorities.
-
-**D. To complete a merger or sale of assets**
-
-If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, or participate in any other similar business combination (including, without limitation, in connection with any bankruptcy or similar proceeding), we may transfer all or part of our data to the party or parties involved in the transaction as part of that transaction. You acknowledge that such transfers may occur, and that we and any purchaser of our business or assets may continue to collect, use and disclose your information in compliance with this Privacy Policy.
-
-**E. Upon your request**
-
-We may also use and/or share your information, including your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information), upon your request or instruction.
-
-##### IV. Your choices
-
-**A. Interest-based advertising opt-out**
-
-We adhere to the Digital Advertising Alliance (DAA) Principles regarding online behavioral advertising (otherwise known as “interest-based advertising”) (more information [here](http://www.aboutads.info/resource/download/OBA%20Self-Reg%20Implementation%20Guide%20-%20Third%20Party%20Responsibilities.pdf)). Accordingly, we offer an “opt-out cookie” to block the placement of our behavioral advertising cookies on your system for two years from the time you opt out. When we detect our opt-out cookie on your browser, we do not serve you with interest-based advertising on the browser or device from which you have opted-out, or on the browsers or devices that we believe are linked to your opted-out browser or device. However, if you delete your cookies or begin using a new browser or device, you will need to opt out again. Browser settings that block all cookies may prevent the opt-out from operating correctly and certain privacy software may delete the opt-out cookie or cause it to function incorrectly. Furthermore, the opt-out cookie is not effective on devices that do not accept or otherwise support cookies, such as iOS based mobile devices, internet connected televisions and other non-cookie based connected devices and applications.
+We offer an “opt-out cookie” to block the placement of Viant’s behavioral advertising cookies on your system for two years from the time you opt out. When we detect our opt-out cookie on your browser, we do not serve you with interest-based advertising on the browser or device from which you have opted-out, or on the browsers or devices that we believe are linked to your opted-out browser or device. However, if you delete your cookies or begin using a new browser or device, you will need to opt out again. Browser settings that block all cookies may prevent the opt-out from operating correctly and certain privacy software may delete the opt-out cookie or cause it to function incorrectly. Furthermore, the opt-out cookie is not effective on devices that do not accept or otherwise support cookies, such as iOS based mobile devices, internet connected televisions and other non-cookie based connected devices and applications.
 
 You may install our opt-out cookie by clicking the button below:
 
-Please note that if you choose to opt-out of interest-based advertising, it does not mean you will no longer receive advertising on the internet. However, it does mean that the display advertising you see will not be behaviorally targeted by us to your interests or preferences, so long as the opt-out cookie remains in place. Further, except for the specific restrictions noted above, our opt-out cookies do not otherwise prevent us from continuing to collect, maintain or use information as described herein, including for non-personalized advertising purposes (such as ad delivery and reporting) on your opted-out browser or device or on linked browsers and devices.
+**B. Cookies and other Web Technologies**
 
-**B. Platform and App-Based Opt-Out**
+In operating the Viant Services and Site, we use a technology called “cookies,” which are small text files that our Site serves to your browser when you access the Site or that some of our Clients and Ad Partners serve to your browser when you engage with them. Our cookies collect and store audience segments, help provide additional functionality to the Viant Services and Site, and help us analyze usage more accurately.
 
-Opting out of behaviorally targeted advertisements associated with PC, mobile, or other digital platform applications (also referred to as “apps”) and internet connected devices, such as iOS or Android based mobile phones, internet connected televisions and other non-cookie based connected device platforms, requires a different process than opting-out of browser-based behavioral targeting. Opting-out in this context requires you to follow the process implemented by the application owner, platform device manufacturer, or third-party advertising network partners that control the placement of ads on the relevant app, device or other platform. . For example, Apple and Google provide settings in the iOS and Android platforms that allow you to opt-out of interest-based advertising on your mobile device which uses such platforms. Opting out on these apps, devices and platforms is a third-party process, and we take no responsibility for the actions or inactions those third parties with respect to their respective opt-out mechanisms, if any. We encourage you to review your options and exercise your choices on such third party apps, devices and platforms. To learn more about opting out on mobile devices, click [here](http://www.networkadvertising.org/mobile-choices).
+Although most web browsers automatically accept cookies, many browsers’ settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer. However, some of our services may not function properly if you disable cookies. We do not support the Do Not Track browser option.
 
-**C. Unsubscribe Opt-Out**
+We also use an advertising identifier created by your mobile operating system to store information on our servers and later retrieve it to provide the Viant Services. The Android Advertising ID and Apple iOS’ IDFA are examples of advertising identifiers. For more information about advertising identifiers, please check the settings of your mobile device.
 
-If you would like to unsubscribe or opt-out of our use of your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) that you have provided to us, all such unsubscribe or opt-out requests should be sent to us at [privacy@viantinc.com](mailto:privacy@viantinc.com) and we will process your request within a reasonable time after receipt. We are not responsible for removing your [personal information](http://www.viantinc.com/privacy-policy/#privacy-personal-information) from the lists of any third party who has previously been provided your information in accordance with this Privacy Policy or your consent, such as a sponsor. You should contact such third parties directly.
+New technologies that perform similar functions may be developed. If we adopt new technologies that are not already described in this Policy, we will update it to let you know.
 
-**D. Other important information and links**
+You can learn more about how we use cookies and similar technologies [here](http://www.viantinc.com/privacy-policy/#privacy-cookie).
 
-For more information on the products and services covered by this Privacy Policy, please click [here](http://www.viantinc.com/) and [here](http://adelphic.com/). If you are a Myspace user, you may click [here](http://www.myspace.com/settings/privacy) to exercise choices regarding the use of your Myspace information for advertising purposes.
+**C. Log Data**
 
-Viant is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes. The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+We receive information when you view content on or otherwise interact with our Services, which we refer to as “Log Data.” For example, when you visit our websites, sign into our Services, or interact with our email notifications, we may receive information about you. Log Data includes information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We use Log Data to operate our Services and optimize the performance of our Services.
 
-##### V. Security
+**D. Information from Our Clients, Affiliates and Ad Partners**
 
-We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your information. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.
+Our Clients, Ad Partners, and affiliates share information with us such as browser cookie IDs, mobile device IDs, [IP address](http://www.viantinc.com/privacy-policy/#privacy-ip-address), device type, operating system, [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) email address, or [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) mobile ID (e.g., Apple IDFA or Android advertising ID), as well as location-based data such as Wi-Fi, cell tower, GPS or diagnostic location information, contextual information, and demographic information including age, gender and zip code.
 
-##### VI. Health and financial related information
+Information we obtain from these third parties (including our affiliates) about you may be appended to information that we otherwise have about you for the purposes of targeting advertisements. For example, we match [hashed](http://www.viantinc.com/privacy-policy/#privacy-hashed) versions of mobile IDs to data that we have de-identified (made pseudonymous) about you that resides in our platform in order to target advertising to you based on your device activity, inferred interests and location information.
 
-We create non-sensitive health and financial related [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) as part of our services, including  general [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) such as “Health::Medical Centers” and “Finance::Insurance,” and custom [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) such as “Health::Dieting::Acai Berry” and “Health::Contact Lens.” However, we recognize that consumers may have differing opinions regarding which data segments are sensitive. Therefore, we encourage you to click [here](http://www.viantinc.com/privacy-policy/#privacy-segment-list) for a list of our general health and financial related [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments). We do not use [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) to determine credit worthiness or for insurance underwriting or employment eligibility purposes.
+We use your appended data to create interest based segments, including non-sensitive health and financial related [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) as part of our services, including general [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) such as “Health::Medical Centers” and “Finance::Insurance,” and custom [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) such as “Health::Dieting::Acai Berry” and “Health::Contact Lens.” You may click [here](http://www.viantinc.com/privacy-policy/#privacy-segment-list) for a list of our general health and financial related [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments). We do not use [interest-based segments](http://www.viantinc.com/privacy-policy/#privacy-interest-based-segments) to determine credit worthiness or for insurance underwriting or employment eligibility purposes.
 
-##### VII. Children’s privacy
+In the process of serving an advertisement to a device, we, or our partners, may decide to serve an ad based on one or more audience segments associated with that device, and the audience segment we believe may be associated with that device. Where Viant is able to use this and other information to infer that one browser or device likely belongs to the same User or household, the Viant Services may consider those browsers and devices “linked” for purposes of ad serving and interest based advertising. This linking process is sometimes referred to as creating a device graph.
 
-We are very sensitive to the importance of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children. We do not knowingly employ or offer services or target advertising towards or collect information from children under the age of 13. Although we make reasonable efforts to ensure that children do not use our services and are not behaviorally targeted (i.e., we do not knowingly provide targeted advertising to partner websites whose audience is comprised of primarily children under the age of 13), we cannot guarantee that your child will not be exposed to advertising provided by us, or that we have not received information related to your child’s online activities. If you believe your child has provided us with personally identifiable information, or registered at one of our websites, please contact us at [privacy@viantinc.com](mailto:privacy@viantinc.com) to have the data provided by and associated with your child deleted.
+When you use third-party apps, websites or other products integrated with the Viant Services, they may collect information about your activities, subject to their own terms and privacy policies. Those companies’ use of cookies and other data collection technologies are subject to their own privacy policies, and the terms of this Policy do not apply. Like many companies, we may allow cookie matching with select Clients and Ad Partners, but those parties are not authorized to access Viant cookies. Where we share information with such third parties, we only share pseudonymous information that does not include your name, email address, or contact information and we require them to follow privacy and data security principles and practices that are substantially similar to ours.
 
-##### VIII. Storage in the United States
+##### **3\. How We Use, Share, and Disclose Your Information**
 
-This Privacy Policy is governed by the laws of the United States of America. Our servers are maintained in, and we control and operate our services from, the United States of America. Your information may be stored and processed in any country where we have facilities or in which we engage service providers. By using our services, you freely and specifically give us your consent to export your information to countries outside of your country of residence, including the USA, which may have different data protection rules from those of your country. A as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA.
+This section describes how we share, use and disclose personal information in connection with operating the Viant Services and our Site.  We do so with your consent, because it’s necessary to operate the Viant Services or our business, or because it’s required by law.
 
-##### IX. Data retention
+**A. Managing Your Information**
 
-The cookies that store data related to interest-based advertising expire 24 months after the last time that Viant’s ad serving system interacts with your browser or device. We store data collected and received in non-aggregate form, such as IP address and other log-level data, for up to 36 months, unless a longer retention period is required by law or is necessary to comply with regulatory audits, court orders, legal proceedings, or law enforcement requests. We retain aggregated data for longer than 36 months for purposes such as analysis, research, development and improvement of services.
+**Opt out**
 
-##### X. Changes to Privacy Policy
+As described above, Viant uses the pseudonymous information we collect via the Viant Services and the information with combine it with from our Clients, affiliates and Ad Partners to create audience segments that are targeted to Users’ inferred interests. This information is typically associated with the advertising identifier referenced above and is used by us, our Clients and Ad Partners, including advertisers and publishers, to deliver targeted advertising. As described above, you can opt out of receiving targeted advertisements from Viant and many of our Clients and Ad Partners here, [https://optout.aboutads.info](https://optout.aboutads.info/) and [https://optout.networkadvertising.org](https://optout.networkadvertising.org/).
 
-We will continue to evaluate this Privacy Policy in order to keep up with changing user needs, enhanced technologies, and as we develop new service offerings, and we may make changes to the policy accordingly. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the “Effective Date” found at the beginning of this Privacy Policy.
+When you opt-out of interest-based advertising through the Viant Services (as described above), we stop sharing your information with our Clients and Ad Partners. That does not mean you will no longer receive advertising on the internet. However, it does mean that the display advertising you see will not be behaviorally targeted by us to your interests or preferences, so long as the opt-out cookie remains in place. Further, except for the specific restrictions noted above, our opt-out cookies do not otherwise prevent us from continuing to collect, maintain or use information as described herein, including for non-personalized advertising purposes (such as ad delivery and reporting) on your opted-out browser or device or on linked browsers and devices.
 
-If we make any material changes to our privacy practices that may impact you, we will prominently post notice of the changes on our website(s) for a period of at least 30 days. We recommend that you check the Privacy Policy frequently to inform yourself of any changes.
+**B. Service Providers**
 
-##### XI. Specific product practices
+We share your data with our service providers, including our contractors and business partners, who we engage to help us provide and manage the Viant Services, ensure network and information security, provide a more personalized experience, and analyze usage of the Site and the Viant Services. For example, we use Google Analytics, Google Tag Manager, and Yahoo Analytics to help us understand your usage of our services, and partner with Aerospike to help us manage user data. Our service providers are located in the United States and other countries and we share your personal information with them subject to obligations consistent with this Policy, impose other appropriate confidentiality and security measures, and only share your information on the condition that these third parties use your personal information only on our behalf and pursuant to our instructions. We share your information with our service providers to further our legitimate business interests of operating our business, and only do so after considering the potential impact to your individual rights.
 
-Please click [here](http://www.myspace.com/pages/privacy) to review the Myspace privacy policy, or [here](http://www.myspace.com/settings/privacy) to exercise choices regarding the use of your Myspace information for advertising purposes.
+**C. Affiliates and Change of Ownership**
 
-##### XII. Questions and comments
+We share your information within our corporate group, and particularly with our affiliates Viant Technology LLC, Viant US LLC, and Xumo LLC for uses consistent with this Policy, such as to help operate the Viant Services.
 
-Questions and comments about our Privacy Policy should be directed to [privacy@viantinc.com](mailto:privacy@viantinc.com) or mailed to:
+We may share, disclose, or transfer your information if Viant is involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, as permitted by law and/or contract.
 
-Privacy Officer, Viant
+**D. Non-Personal Information**
+
+We share your non-personal information, such as aggregated information (in statistical or summary form that does not include any personal identifiers) with third parties in order operate and improve our service and conduct research about and analyze usage of the Viant Services.
+
+**E. To Respond to Your Requests Based on Your Consent**
+
+If you interact with us on our Site or request information from Viant, we use and/or share your information, including any personal information you provide, to respond to your inquiries. We may also use your personal information to send your updates about the Viant Services or changes to this Policy.
+
+**F. To Protect our Legal Interests**
+
+Additionally, we will use your personal information for other purposes permitted under this Policy, such as to protect or comply with legal rights and obligations.
+
+There may be instances when we will use and/or disclose information we collect and receive where we have, in our discretion, a good faith belief that such use and/or disclosure is necessary in order to: (i) protect or defend our or your legal rights or property or those of our affiliates, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of members of the public, including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) comply with the law, law enforcement, or legal process or proceedings or requests from public or government authorities; (iv) prevent fraud or other liabilities.
+
+##### **4\. EEA Data Subject Rights**
+
+As mentioned above, if you reside in the EEA your personal information that is in our databases is not being used by Viant or shared for any purpose other than preparing it for permanent deletion. Most of it has already been deleted and the rest will be deleted by the end of the year. Nonetheless, under the new Data Protection law we are still obligated to inform you of your rights. You may object to our processing of your data, request that our processing be restricted, review or request changes to your personal data, or request that your personal information be deleted and we erase your data by contacting us at [dpo@viantinc.com](mailto:dpo@viantinc.com).
+
+You may also complain to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available at [ec.europa.eu](http://ec.europa.eu/).
+
+You may exercise any of these rights free of charge. However, we may charge a reasonable fee or refuse to act on a request if the request is manifestly unfounded or excessive, in particular because of its repetitive character.
+
+Your privacy is important to us, so we may ask that you provide sufficient information to verify your identity before we respond to your requests. In some situations, we may refuse to act or impose limitations on your right if, for instance, it is likely to adversely affect the rights and freedoms of others, prejudice the execution or enforcement of the law, or interfere with pending or future litigation.  
+For more information on your rights, please contact [dpo@viantinc.com](mailto:dpo@viantinc.com).
+
+##### **5\. Children’s Information**
+
+We do not knowingly target advertisements to children. If you believe your child has been targeted by Viant with interest based advertising, please contact us at [privacy@viantinc.com](mailto:privacy@viantinc.com) to have the data provided by and associated with your child deleted.
+
+##### **6\. How We Secure Your Information**
+
+Viant is committed to protecting the security of the information we collect. We use a variety of technical and organizational measures to protect information from unauthorized access, use or disclosure, both during transmission and once we receive it. We store your information on secure servers.  However, no digital transmission or form of electronic storage is completely secure. Therefore, we cannot guarantee its absolute security.
+
+##### **7\. How Long We Keep Your Information**
+
+We store personal information such as email address, telephone number or billing details for so long as you continue to have a business relationship with Viant and for a reasonable time thereafter for record keeping purposes. We store pseudonymous identifiers, such as cookie IDs and mobile advertising ID’s collected via our Services, for as long as our systems are able to recognize a particular User, and for 90 days thereafter.  We store log data for 90 days.
+
+##### **8\. Cross-Border Transfer of Information**
+
+We are a growing corporation with operations in multiple countries. We have developed data practices designed to assure information is appropriately protected. While our primary data centers are in the United States, where the laws of your country allow us to do so, you authorize us to transfer, disclose, store and use your personal data in the United States and any other country where we operate or engage service providers to assist us with our services, consistent with this Policy.
+
+For EEA residents, please be aware that the laws of the USA and other countries outside of the EEA may not protect your data to the same level as the laws of the EEA, or give you the same rights that you would have in the EEA (including rights relating to access to personal data by law enforcement or national security/intelligence agencies).  But when we transfer your personal data outside of the EEA, if the receiving country’s data protection laws do not offer the same level of protection as the laws of the EEA, we place contractual obligations (the EU Model Clauses) on the recipients of your personal data to ensure that your personal data is adequately protected.
+
+##### **9\. Additional Privacy Rights for California Residents**
+
+Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at [privacy@viantinc.com](mailto:privacy@viantinc.com). For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you – you need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+##### **10\. This Privacy Policy May Change**
+
+Viant will maintain personal information in accordance with this Policy. If Viant decides to change this Policy, we will post the changes on this page and revise the “Last Updated” date above. Any changes to this Policy will become effective upon our posting of a revised Privacy Policy on this page. Use of the Viant Services or Site following such changes constitutes your acceptance of the revised Privacy Policy that is in effect.
+
+##### 11\. Contact Information
+
+For questions or concerns relating to privacy, please contact us at [info@viantinc.com](mailto:info@viantinc.com).
+
+_Data Controller_ : Viant Technology LLC
 
 4 Park Plaza, Suite 1500
 
 Irvine, CA 92614
+
+_EU Representative for purposes of this policy_ : [dpo@viantinc.com](mailto:dpo@viantinc.com)
 
 ##### Key terms
 
