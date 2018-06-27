@@ -1,88 +1,105 @@
-> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227005747id_/http%3A//blekko.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627054723id_/http%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen) for the most accurate reproduction.*
 
-# blekko's privacy policy | blekko
+# IBM Privacy Statement - United States
 
-**Version 2b, Effective May 27, 2011**
+## This Privacy Statement is effective as of May 2018.
 
-Blekko, Inc. (“blekko,” “we,” or “our”) respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your privacy choices more fully described below.
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-This Privacy Policy only covers the blekko website along with any and all related pages on blekko.com. We are not responsible for the privacy practices on any website other than blekko.com. For example, we do not exercise control over the sites that appear as search results when you use the blekko website. When you leave the blekko website, we encourage you to carefully review the privacy policies on all other websites that you visit.
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
 
-## INFORMATION WE COLLECT FROM YOU
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
-We collect different information from you depending upon how you use blekko as described below.
+## Why and how we collect and use your personal information
 
-When you use **blekko without supplying a login id** (or after logging out of your blekko account), we may collect the following information fields from you: IP Address, your browser user agent string (a user agent string is the automatic information sent to us by your browser so we may properly format blekko.com for your device and browser type), date and time of your login, any third party websites that referred you to us and social media websites. When you search, we collect your search queries organized into sessions that last up to four hours. If you select any websites from your search results, we will collect click tracking data, which is used to compensate us when we drive traffic to other websites and to help us improve our search engine – we do not use this data for marketing purposes. We may also need to verify your birthdate to ensure that we are not collecting information in violation of the Children’s Online Privacy Protection Act; we will discard your birth date once we have verified your age.
+We may collect your personal information as an individual for various purposes, such as the following:
 
-When you use **blekko and you are logged in to your account** , we collect all of the information listed above, as well as your e-mail address, blekko username, uploaded profile photo(s) and blekko password. Then, as a logged in user, you may create public and private slashtags – all public slashtags and any editing or following of these slashtags will be publicly viewable. If you designate a slashtag as public, it (and any edits to it) will be publicly associated with your blekko username. [View](https://web.archive.org/s/theme19/imgs/create-slashtag-screenshot.png) for an example of how you may designate your slashtags as publicly viewable and, if a slashtag is designated as public, please see https://blekko.com/ws/+/view+/blekko/health?tagfeed=1 for an example of what information would be viewable to the general user community on blekko.com. On your blekko account, you may also **interact using your social media account.** On our site, you may import your Facebook profile picture, friends, likes and mobile location check-in information onto our website. In order for us to receive this information from Facebook, you must connect your Facebook account with blekko.com using Facebook’s “Facebook Connect” feature. By default, all Facebook information (other than your Facebook profile picture) is incorporated into your blekko account is designated as ‘private’; it is not viewable to others beyond our blekko support team (except, as described above, the blekko user community may search all status updates, designated as public, on Facebook). We also import your Facebook likes and public comments of your friends to make your searches more personalized to you. If you have not opted out of Facebook comment search, blekko will search Facebook for all public status updates or comments from your Facebook friends related to your search topic. We also offer an interface to assist you with Tweeting your favorite searches and slashtags via Twitter. You must supply to Twitter your Twitter account username and password in order to access this function. Your Tweets will be governed by your privacy settings on twitter.com and we encourage you to review your Twitter privacy settings.
+  * **Access and use of websites or other online services**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
 
-## HOW WE MINIMIZE DATA STORED ABOUT YOU
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
 
-To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user agent string. We also erase the association between your 4-hour search sessions and your blekko username. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed to keep this data secure.
-
-Your slashtags (public or private) are not automatically deleted within 48 hours. Instead, they are kept on our servers until you request deletion of the slashtag.
-
-## HOW WE USE YOUR INFORMATION
-
-Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowdsource your searches (solicit input from others to enhance your web research in the form of public slashtags). The ‘social’ element to blekko requires us to use information in additional ways to provide the enhanced collaborative functionality. Below, we fully describe how we use information provided to us so that you can make the decision of whether or not to use our website and its enhanced functionalities.
-
-Information Forwarded by Us to Improve Your Web Search Functionality: blekko may share information regarding your website search, which is not personally identifiable to you, in order to enhance your search results. For example, we may forward your search queries to one of our vendors to check for misspellings (i.e., “Grand Canyo” may generate a did-you-mean reply of “Grand Canyon”) or additional search terms that could provide more relevant search results. If you do not want your search queries shared in such a fashion, you can opt-out of this feature by selecting our ”No External DYM” privacy preference. We also might forward your search query to one of our vendors to acquire supplemental results. You can also opt-out of this feature by selecting our “No External DYM” privacy preference.
-
-Information Forwarded by Us to Provide Keyword Search Advertising: blekko provides its search services and web-based tools on the web to you for free. We are able to sustain our free web-based content through advertising revenue. All of our advertising partners require that we send them your IP Address, user agent string as well as search keywords in order to deliver search keyword advertising to you. If you do not want us to forward your personal information for advertising purposes, you can opt-out of this sharing by selecting our “No Ads” preference, as described below. Further, blekko will forward your DoNotTrack browser settings, if you are using a browser that has DoNotTrack header functionality.
-
-Information Used by Us for Crowdsourced / Social Searching Functionalities: if you designate your slashtags as public, blekko will make your slashtags available to its user community. Your username will be associated with each public slashtag that you create (and any edits that you may make to that slashtag). Please use caution when creating public slashtags regarding sensitive topics such as health matters or topics of a sexual nature. **WE ASK THAT YOU DO NOT DESIGNATE AS PUBLIC ANY SLASHTAGS THAT COULD CAUSE YOU OR OTHERS HARM, EMBARRASSMENT OR FINANCIAL LOSSES IF SOMEONE ASSOCIATES THE SEARCH WITH YOU. WE ARE NOT RESPONSIBLE FOR ANY PUBLIC SLASHTAGS THAT YOU CREATE.** Please refer to our example at <https://blekko.com/ws/+/view+/blekko/health?tagfeed=1> of a public slashtag if you are uncertain as to what types of information could appear publicly.
-
-Promotion of Public Content or Slashtag "Embedding": If you provide public slashtags to blekko, we may distribute that content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their websites and other media platforms. Additionally, individual blekko users may choose to embed your slashtag on their website and follow all edits to this slashtag. For example, camping enthusiast websites may choose to embed a public slashtag such as /national-parks, which was created by one of our users. For an example of an embedded website link see http://blog.blekko.com/ (right column). blekko may ask that third parties credit you as the source of these contributions, and will provide your user name and profile photo, if any, to them for such purpose
-
-To Improve Our Website: Any of the information we collect, as described above, may be used for the following purposes: to improve our services and products; to develop new services; to ensure and improve the technical functionality of our website and network; to protect your rights, blekko’s rights and the rights of other blekko users; and to assist blekko in providing you with services. 
-
-## YOUR PRIVACY CHOICES
-
-blekko's website offers you, whether you are logged in or not, options to set preferences that enhance privacy:
-
-  * **No Facebook:**. This feature disables all of blekko’s integration with Facebook.
-  * **.No Ads:** This feature disables display of all ads on blekko.com. Also, blekko will not send any information identifiable to you (such as, IP Address, user agent string and search keywords) to a third party for advertising or marketing purposes.
-  * **Always Use HTTPS on blekko.com:**. This feature helps make communications on blekko.com more secure and private, for example making it more difficult for other users to view your blekko.com activity on an unsecured wireless network.
-  * **HTTPS Preferred®:** This feature helps make links to search results on blekko.com more secure. If you have this option selected, and if blekko has determined that the link you are visiting has an https equivalent, blekko will link to the https version of the website. This makes it more difficult for other users to view your network activity on an unsecured wireles network.
-  * **No External DYM:** If you turn on this feature, blekko will not send any of your search strings to our spelling vendor to discern if words were misspelled or if there are other relevant search terms. Even if this privacy feature is not enabled, blekko only sends search string information. As a result, by default, the only way for a search string to be identifiable to you would be if you submitted personal information in your search query (for example, if you searched for your first name and last name).
-  * **SuperPrivacy®:** blekko already has built-in controls to manage personally identifiable data, for example, we delete all IP Addresses within 48 hours of use. This setting goes one step further by helping you manage aggregate and/or anonymous information that may be disclosed regarding your activities on blekko.com. This setting prevents click tracking data from being collected by blekko.com and ensures that no session information is kept regarding your activities on blekko.com. This setting also activates all of the above settings.
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
 
 
 
-Please be advised that all blekko preferences mentioned above operate via browser-based cookies. If you delete blekko cookies regarding your privacy choices, your web browser will not be able to put your privacy preferences into effect.
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
-## OTHER ITEMS OF WHICH YOU SHOULD BE AWARE
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
 
-Cookies: When you visit our website, we may send browser cookies (little files for your browser that identify your browser and your visit). blekko also uses cookies to store your username and log-in status, your user preferences (including your privacy options, mentioned above), and other information. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience on blekko.com as it will not permit you to take advantage of our advanced privacy choices, described above. Please consult the "Help" section of your browser for more information on cookies generally.Children: The blekko website is intended for general audiences and is not directed to children younger than thirteen years of age. We do not knowingly collect personal information from children under the age of thirteen.
+## Sharing of Personal Information
 
-## EXCEPTIONS TO THIS PRIVACY POLICY
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
 
-In certain circumstances, blekko may release the information it collects for the following purposes:
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
 
-  * to respond to your requests for information (by us, our vendors or corporate affiliates)
-; 
-  * to process, bill and ship any of your purchases;
-  * to respond to court orders, subpoenas, or other legal process, or to help blekko in establishing or exercising its legal rights or defend itself against legal claims;
-  * to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of any individual, violations of the blekko Terms of Service or as otherwise required by law;
-  * to investigate or take action with respect to any circumstance that could expose blekko to liability; and
-  * if blekko is acquired by or merges with another company, we may release your information to the other company, but that other company will be bound by the terms of this Privacy Policy.
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
 
-Should any of the above circumstances occur, blekko may permanently retain information (such as IP addresses) which would ordinarily be erased after 48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation or performance issues with blekko's software. blekko may also share non-personal information about you, in the aggregate, to third parties in the event that you have not selected our SuperPrivacy® setting.
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
 
-## QUESTIONS
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
 
-If you have any questions or concerns regarding this Privacy Policy, please write to us at the following address:
+## International Transfers
 
-blekko Inc.  
-Attention: Legal Department‚ Privacy Policy  
-130 Shoreline Drive, Suite 200, Redwood City, CA 94065  
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
 
-
-_Note: This address is provided exclusively for notifying us about the Privacy Policy. Inquiries regarding any other topics, such as technical support requests, reports concerning email abuse, and reports of instances of piracy, will not receive a response through this process._
-
-## CHANGES TO THIS PRIVACY POLICY
-
-blekko may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information by sending a notice to the primary email address you have specified in your blekko account or by placing a prominent notice on the blekko website.
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
 
 
 
+Back to top
+
+## Information Security and Accuracy
+
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+
+## Retention Period
+
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+
+## How to contact us
+
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+
+IBM Corp. is not the controller in situations such as:
+
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+
+
+
+## Your Rights
+
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
+
+## Right to Lodge a Complaint
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
+
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+## Changes to our Privacy Statements
+
+From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+
+Back to top
