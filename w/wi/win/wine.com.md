@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513235919id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627150213id_/https%3A//www.wine.com/content/colophon/privacy-policy) for the most accurate reproduction.*
 
-# Wine.com - Privacy Policy
+# Privacy Policy | Wine.com
 
 This privacy policy applies to www.wine.com owned and operated by Wine.com, Inc. (collectively, “We”, “Us”, “Our” or “Wine.com”). This Privacy Policy describes how Wine.com collects, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information.
 
@@ -19,13 +19,15 @@ Wine.com has agreed to notify users of:
 
 If you feel that our company is not abiding by its posted privacy policy, please contact the Wine.com Compliance Officer by email at [privacy@wine.com](mailto:privacy@wine.com) or by mail at Wine.com, Inc., 222 Sutter Street, Suite 450, San Francisco, CA 94108. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=61a2373b-b6a6-48a2-a373-c0448941f611)
+
 ## Information Collection and Use
 
 Wine.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way that varies from what is disclosed in this statement. Wine.com collects information from our users at several different areas on our site.
 
 You may receive information regarding new features, services and special offers we think you'll find valuable. We may also share information with carefully selected business partners. These businesses may use the information we share to provide valuable opportunities and offers. If you'd like to opt out of future mailings from Wine.com, Inc., follow the procedure outlined in the Choice/Opt-out section below. When we present you with the opportunity to receive marketing opportunities from our business partners we will not automatically subscribe you for these promotions, rather we will provide you with the opportunity to opt-in to these third party marketing programs.
 
-Upon request, Wine.com will provide you with information about whether we hold any of your personal information. You may also access the personally identifiable information you have submitted to Wine.com by selecting “Your Account” and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at [privacy@wine.com](mailto:privacy@wine.com). We will respond to your request within a reasonable time frame. For users of the Community section of Wine.com, please see "Writing Reviews/Community" section below.
+Upon request, Wine.com will provide you with information about whether we hold any of your personal information. You may also access the personally identifiable information you have submitted to Wine.com by selecting “Your Account” and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at privacy@wine.com. We will respond to your request within a reasonable time frame. For users of the Community section of Wine.com, please see "Writing Reviews/Community" section below.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -35,7 +37,7 @@ No registration is required in order to use this website, though a user must cre
 
 ## Tell A Friend
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Wine.com does not store this information. Your friend may contact us at [privacy@wine.com](mailto:privacy@wine.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Wine.com does not store this information. Your friend may contact us at privacy@wine.com to request that we remove this information from our database.
 
 ## Writing Reviews/Community
 
@@ -61,7 +63,7 @@ We use cookies for our shopping cart, to remember users’ settings (e.g. langua
 
 ## Behavioral Advertising
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](https://web.archive.org/web/20170513235919id_/http%3A//www.wine.com/content/preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Log Files
 
@@ -77,13 +79,13 @@ Wine.com will share aggregated demographic information with its partners and adv
 
 We may also share your physical address with carefully selected business partners. These businesses may use the information we share to mail you valuable opportunities and offers. You can opt out of future postal mailings from our business partners by sending an email to [privacy@wine.com](mailto:privacy@wine.com).
 
-We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
 We value your privacy at Wine.com, and will never release any account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so.
 
 ## Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial or bankruptcy proceeding, court order, or legal process served on our Web site. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request and to any other third party with your prior consent to do so.
+We reserve the right to disclose your personally identifiable information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial or bankruptcy proceeding, court order, or legal process served on our Web site. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request and to any other third party with your prior consent to do so.
 
 ## Links
 
@@ -133,11 +135,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Wine.com who are California residents to request certain information regarding its disclosure of personally identifiable to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@wine.com](mailto:privacy@wine.com) or write us:
 
-Privacy Officer  
-Wine.com, Inc.  
-222 Sutter Street Suite 450  
+Privacy Officer   
+Wine.com, Inc.   
+222 Sutter Street Suite 450   
 San Francisco, CA 94108
 
-The Privacy Notice posted on this site was updated on February 28, 2017.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=105b138e-f8b1-4002-adc1-dd48a80991b3)
+The Privacy Notice posted on this site was updated on February 28, 2018.
