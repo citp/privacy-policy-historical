@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119043109id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191523id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -63,14 +63,16 @@ Charisma Media
 600 Rinehart Rd.  
 Lake Mary, FL 32746  
 (407) 333-0600  
-[custsvc@charismamedia.com](mailto:custsvc@charismamedia.com)
+[[email protected]](https://www.charismamag.com/cdn-cgi/l/email-protection#accfd9dfd8dfdacfeccfc4cddec5dfc1cdc1c9c8c5cd82cfc3c1)
 
 ### Your consent
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
 
-_Charisma Readers save[50% OFF](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=article%20end%20text) these select Bibles plus FREE SHIPPING plus a Special Bonus for a limited time! [Show me the Bibles on sale!](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=article%20end%20text)_
+_Deborah, Esther and Anna carried a profound anointing. Become a Godly woman of boldness, power and strength.[Get the Anointing Bundle](https://shop.charismamag.com/products/charisma-subscription-anna-anointing-deborah-anointing-esther-anointing?utm_source=charismanews.com&utm_medium=article%20end%20text)._
 
-_Christmas is coming soon. Get a jump start with these great Spirit-filled bundles. Save up to 70% plus FREE Shipping![Life in the Spirit Gift Boxes](https://shop.charismamag.com/pages/life-in-the-spirit-gift-boxes?utm_source=charismamag.com&utm_medium=article%20end%20text), [Special Book Bundles](https://shop.charismamag.com/collections/monthly-bundled-deals/bookbundles?utm_source=charismamag.com&utm_medium=article%20end%20text), and [Christmas Gift Bundles.](https://shop.charismamag.com/collections/christmas-bundles?utm_source=charismamag.com&utm_medium=article%20end%20text)_
+_The Holy Spirit wants to lead you into a deeper, more intimate experience with God. Everything changes in His presence.[Enter His Presence](https://shop.charismamag.com/collections/life-in-the-spirit/products/copy-of-life-in-the-spirit-holy-spirit-series-solid-rock-series?utm_source=charismanews.com&utm_medium=article%20end%20text)._
+
+_Summer Reading Bundles + FREE GIFTS! These bundles include prophecy, health, prayer, and the supernatural.[Grab your Favorite](https://shop.charismamag.com/collections/christmas-bundles?utm_source=charismanews.com&utm_medium=article%20end%20text)._
 
 Comment Guidelines
