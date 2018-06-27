@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122164739id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195753id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | CaughtOffside
 
