@@ -1,71 +1,237 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021140755id_/http%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627065209id_/https%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-_ Privacy policy last updated: 01 June 2016. _
+Last updated: November 2017
 
-This privacy policy applies only to this website (the “Site”). The Site is operated by Caterer.com Group.
+Caterer.com is part of the [StepStone GmbH](https://www.stepstone.com/privacy-statement) group of companies (the “StepStone Group”). StepStone is a global online job board company that operates online job portals to accurately match candidates with companies.
 
-We are part of the [StepStone GmbH](https://www.stepstone.com/privacy-statement) group of companies (the “StepStone Group”). StepStone is a global online job board company that operates online job portals to accurately match candidates with companies. 
+We take data protection very seriously and understand the importance of protecting your privacy and Personal Information. “Personal Information” is information that identifies you as an individual such as your name, date of birth, email address, IP address and CV.
 
-At Caterer.com we make every effort to comply with our obligations under the Data Protection Act 1998. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.
+**How do we collect information from you?**
 
-You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer.com' account and choosing to close the account.
+We collect and use your Personal Information in accordance with this our Privacy Policy.
 
-By using the Site you consent to the collection and use of information in accordance with this privacy policy. 
+The majority of the Personal Information you provide to us freely when you give us your CV or job cover letter to a job application. ****
 
-Collection of Personal Information 
+**Please do not submit such Personal Information to us if you do not wish us to collect it.**
 
-We collect personal information from you (for example, name, address, telephone number, email address, photo etc) when you make an application, complete registration forms, submit comments to the Site, participate in message boards, blogs or any other user generated content facilities or send emails to us. We may also extract relevant personal information from other data that you provide, for example, from your CV. Please do not submit such personal information to us if you do not wish us to collect it. 
+However, please be aware, some Personal Information may include information you voluntarily, but unintentionally provided to us (for example, if you express preferences regarding searches for jobs related to trade unions).
 
-We may also collect personal information which we have found from other websites that display information about you publically. For example, social media accounts such as Facebook, Twitter and LinkedIn, your online profile on your current employer’s network, any articles about you or any public listing of your profile. 
+We also collect from:
 
-Registration details
+  * our websites (the “Websites”);
+  * the software applications made available by us for use on or through computers and mobile devices (the “Apps”); 
+  * cookies (“Cookies”);
+  * publically available information; and
+  * other tools and applications (our “Online Content”).
 
-Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services.
 
-Profile and CV information
 
-When you complete your Caterer.com profile, including your CV, it can be made available for searching and viewing over the Internet, including other company recruitment sites within the StepStone Group, and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. Caterer.com does not verify the identity or the nature of the business of such organisations.
+**What Personal Information do we collect?**
 
-** IMPORTANT NOTICE: **  Your current employer may be a customer of Caterer.com, or a client of one of our customers. Caterer.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Caterer.com offers you the option of remaining anonymous.
+Personal Information we collect about you _may_ include the following: 
 
-Caterer.com will also use the aggregate data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users.
+  * General identification and contact information: your name; address; email; IP address; telephone details; gender; marital status; family status; date and place of birth; physical attributes including photos
+  * Other sensitive information: trade union membership, religious beliefs, political opinions or racial or ethical origin, and criminal record.
+  * Information enabling us to provide products and services: age, location, whether or not you hold a driving licence that enable identification of job search (for example, post code or job role)
+  * Marketing preferences: enter a contest or prize draw or other sales promotion, or respond to a voluntary customer satisfaction survey
+  * Statistical information: aggregate statistical information about site visitors and users for internal use and for other lawful purposes eg. Salary averages. We provide this information to customers, advertisers, suppliers and other reputable third parties. Where we provide such information we will provide this in an anonymous format and not include any Personal Information.
+  * Information from Apps: submit comments to the Site, participate in message boards, blogs, send us emails or any other user generated content facility
+  * Publically available information in relation to professional history: educational background; employment history; skills and experience; professional licenses and affiliations; educational and professional qualifications
 
-Some of our customers may be located in countries outside the European Economic Area.
 
-When you 'apply online', we store some information about you in your 'My Caterer.com' area, but it is protected by your password and may only be accessed by you. When your profile is searchable your application activity (number of applications, job titles, locations & salaries) will be visible to Caterer.com customers. Caterer.com does not verify the names of organisations you applied to. We will respect the choices you make to limit sharing or visibility settings in your “My Caterer.com” account. You can delete your 'My Caterer.com' account at any time, make your profile anonymous or choose to not make your profile searchable. Your CV can only be viewed by a Caterer.com customer, or customer of the StepStone Group, if you have consented to this within the profile section.
 
-If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.
+**What legal basis do we rely on to process your Personal Information?**
 
-Please note that Caterer.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive.
+  * **Consent**
 
-IP address information
 
-Like many websites, we routinely capture your IP address information to determine your location. An IP address, or 'internet protocol address', is a unique identifying number given to every device connected to the internet. Like a car license plate, an IP address is a special serial number used for identification. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the UK or EU should you wish to apply for a job on Caterer.com. Your country of residence may be used as a basis to determine whether or not job adverts are displayed to you.
 
-Statistical information
+On some occasions, Caterer.com processes your data with your consent. For example, we rely on consent when we send promotional material or when you link your Caterer.com account to your Social Network account. You have the right to withdraw consent at any time.  Where consent is the only legal basis for processing, we will cease to process data after consent is withdrawn.
 
-We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.
+  * **The processing is necessary to fulfil a contract**
 
-Location based services 
 
-If you use the Caterer.com mobile phone app we will ask you if you want to use our geolocation service. This service is provided by Adobe Systems Software Ireland Limited. Based on your mobile phone GPS signal it allows us to identify your location. We will use this information to provide you with job offers close to you and to improve our services. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by changing the app settings to not allow the app to access your location data. However, you will also lose the location supported product functionality as well. For further information about Adobe and their service please visit  <http://www.adobe.com/privacy.html> .
 
-Push notifications
+Caterer.com may process your data when we need to do this to fulfil a contract with you, such as to send your CV to an employer or recruiter for a specific job application.
 
-If you use the Caterer.com website or mobile phone app, you may also consent to push notifications, text messages, alerts, emails or other types of messages directly sent to you outside or inside of the Caterer.com mobile phone app to your mobile device or desktop browser. If you declare your consent to receive such messages a device token will be generated, which will be associated with your device. These device tokens will be stored on our behalf by Notice Software, Inc d.b.a Roost, 234 5th Ave, New York, NY 10001. You can opt out from receiving such messages by changing the settings of your device.”
+  * **Legitimate Interest**
 
-Online Behavioural Advertising
 
-We partner with third-party advertising networks so that we and other advertisers can display advertising which is more relevant to you and your interests on our Web site or on other sites that you visit and assess the performance of that advertising. We and our ad network partners may utilise cookies or web beacons along with other codes such as your Identifier for Advertising (IFA) or Android ID for your phone to better understand your interests from the web pages you interact with [and the search terms you use] on our site to build a picture of the category of interests or preferences you have and to provide advertisements about goods and services that may be of interest to you. Our ad network partners do not collect and do not have access to any information from which you can be directly identified such as your real name or address or email. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to receive tailored advertising by opting out, you can visit either the Network Advertising Initiative at [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) or the European Interactive Digital Advertising Alliance (EDAA) at [www.youronlinechoices.com](http://www.youronlinechoices.com/) or visit the privacy statements of our partners: [Google](http://www.google.co.uk/intl/en/policies/technologies/ads/), [Adobe](http://www.omniture.com/en/privacy) and [Krux](http://www.krux.com/krux_privacy/consumer_choice). You can also learn more about our use of cookies and similar technologies and your choices by reading our [cookies policy](http://www.caterer.com/cookies). Please note that if you opt-out you will continue to receive generic advertising that has not been targeted to you and your interests.
 
-Sharing Your Information 
+Caterer.com also processes your data when it is in our legitimate interests to do this and when these interests are not overridden by your data protection rights. 
 
-Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
+Our legitimate interests include:
 
-Personal data which we collect from both public sources and from yourself may also be shared with other companies within the StepStone Group. This may include your job seeker profile and result in your profile being searchable on other company sites within the StepStone Group. At all times, the StepStone Group companies will ensure that your information is adequately protected. Each member of the StepStone Group may use and share your personal information as set out in this privacy policy. In accordance with the type of services you have registered for, requested, and the functionality you use, we will disclose your personal information for a prospective job. 
+  * ensuring the security and integrity of our Services and in ensuring that our Websites and Apps operate effectively;
+  * selling and supplying goods and services to our customers;
+  * protecting customers, employees and other individuals and maintaining their safety, health and welfare;
+  * promoting, marketing and advertising our products and services;
+  * sending promotional communications which are relevant and tailored to individual customers;
+  * understanding our customers’ behaviour, activities, preferences, and needs;
+  * improving existing products and services and developing new products and services;
+  * handling customer contacts, queries, complaints or disputes; and
+  * fulfilling our duties to our customers, colleagues, shareholders and other stakeholders.
+
+
+  *   **The processing is necessary because of a legal obligation that applies**
+
+
+
+Caterer.com may process your data to comply with our legal and regulatory obligations eg preventing, investigating and detecting crime, fraud or anti-social behaviour and prosecuting offenders, including working with law enforcement agencies
+
+**Who do we share your Personal Information with?**
+
+Caterer.com may make Personal Information available to: 
+
+  * Our group companies 
+
+
+
+We are a member company of Axel Springer GmbH. We may share your personal data with certain members of our group companies, but only for the purposes set out in this Privacy Policy and we remain responsible for the management and security of jointly used Personal Information.  Access to Personal Information within Caterer.com, and our group of companies, is restricted to those individuals who have a need to access the information for our business purposes. 
+
+  * Recruiters and other agents
+
+
+
+In the course of our business to help you search for and get a job, Caterer.com may make Personal Information available to third parties such as recruiters and other intermediaries and agents and other business partners. 
+
+  * Our service providers 
+
+
+
+This includes external third-party service providers, such as accountants, auditors, experts, lawyers and other outside professional advisors; IT systems, support and hosting service providers; printing, advertising, marketing and market research and analysis service providers; document and records management providers; technical engineers; data storage and cloud providers and similar third-party vendors and outsourced service providers that assist us in carrying out business activities. 
+
+  * Governmental authorities and third parties involved in court action 
+
+
+
+Caterer.com may share Personal Information with governmental or other public authorities (including, but not limited to, workers’ compensation boards, courts, law enforcement, tax authorities and criminal investigations agencies); and third-party civil legal process participants and their accountants, auditors, lawyers and other advisors and representatives as we believe to be necessary or appropriate: (a) to comply with applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our group companies; (f) to protect our rights, privacy, safety or property, and that of our group companies, you or others; and (g) to allow us to pursue available remedies or limit our damages. 
+
+  * Other third parties 
+
+
+
+Occasionally, we may share Personal Information with other third parties. We will always do this under contract and in accordance with your instructions. ****
+
+**How we use Personal Information?**
+
+We use Personal Information to do some or all of the following: 
+
+  * Communicate with you as part of our business;
+  * Send you important information regarding changes to our policies, other terms and conditions, the Caterer.com Website and App and other administrative information;
+  * Provide improved quality, training and security and manage other commercial risks;
+  * Carry out market research and analysis, including satisfaction surveys;
+  * Provide marketing information to you (including information about other products and services offered by selected third-party partners) in accordance with preferences you have expressed. Please be aware you can always change these at My Account;
+  * Personalize your experience on the Caterer.com Website and App by presenting information and advertisements tailored to you;
+  * Allow you to participate in contests, prize draws and similar promotions, and to administer these activities. Some of these activities have additional terms and conditions, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these carefully;
+  * Facilitate social media sharing functionality;
+  * Manage our infrastructure and business operations, and comply with internal policies and procedures, including those relating to auditing; finance and accounting; billing and collections; IT systems; data and website hosting; business continuity; and records, document and print management;
+  * Resolve complaints, and handle requests for data access or correction;
+  * Comply with applicable laws and regulatory obligations (including laws outside your country of residence), such as those relating to anti-money laundering and anti-terrorism; comply with legal process; and respond to requests from public and governmental authorities (including those outside your country of residence);
+  * Establish and defend legal rights; protect our operations or those of any of our group companies or insurance business partners, our rights, privacy, safety or property, and/or that of our group companies, you or others; and pursue available remedies or limit our damages.
+
+
+
+**International Transfers of Personal Information**
+
+Personal Information which you supply to us is generally stored and kept inside the European Economic Area. 
+
+However, due to the nature of our global business and the technologies required, your Personal Information may be transferred to third party service providers outside the EEA, in countries where there may be a lower legal level of data protection. In such situations, we transfer the minimum amount of data necessary, anonymise it where possible and enter legal contracts to aim to ensure these third parties handle your Personal Information in accordance with this Privacy Policy and the European levels of data protection.
+
+**How can you manage or delete Personal Information?**
+
+When you access our website online, we store some information about you. This is anonymous and used for statistical purposes.
+
+When you create an account and log-in to your 'My Account' area, it is protected by your password and may only be accessed by you. You can manage the content and information in your Account at any time, by logging in to your “My Account”.
+
+Your CV can be viewed by Caterer.com customers, or customers of the StepStone Group, if you have consented to this within the profile section. This is the default setting. Further, when your profile is searchable your application activity (eg. number of applications, job titles, locations & salaries) will be visible to Caterer.com and Stepstone Group customers. This is also the default setting.
+
+Please note that Caterer.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive. We will respect the choices you make to limit sharing or visibility settings in your “My Account”. 
+
+You can de-activate or delete your account at any time, make your profile anonymous or choose to not make your profile searchable. To de-activate, please go to your “My Account”. 
+
+However, if you would like to permanently delete your account, you can send an email to our Data Protection Officer (DPO) (see below) with the subject line “Permanently delete my information and account”. Please do not forget to tell us who you are.
 
 Security
 
-We take the security of your personal information very seriously and have appropriate technical and organisational measures in place. The site is protected against unauthorised access using the latest security devices and 'firewalls'.
+Caterer.com is committed to keeping your personal data safe and secure from unauthorised access to or unauthorised alterations, disclosure or destruction of information that we hold. 
+
+Our security measures include: -
+
+  * encryption of our services and data;
+  * review our information collection, storage and processing practices, including physical security measures;
+  * restrict access to personal access to personal information to Caterer.com employees, contractors and agents who need to know that information in order to process it for us and who are subject to contractual confidentiality and processing obligations. They may be disciplined or their contract terminated if they fail to meet these obligations; and
+  * internal policies setting out our data security approach and training for employees.
+
+
+
+**Additional Services for Website and App**
+
+Location based services
+
+If you use the Caterer.com App we will ask you if you want to use our geolocation service. This service is provided by Adobe Systems Software Ireland Limited. Based on your mobile phone GPS signal it allows us to identify your location. We will use this information to provide you with job offers close to you and to improve our Products and Services. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by changing the App settings. However, you will also lose the location supported product functionality as well. 
+
+For further information about Adobe and their service please visit: <http://www.adobe.com/privacy.html>.
+
+Push notifications
+
+If you use the Caterer.com Website or App, you may also consent to push notifications, text messages, alerts, emails or other types of messages directly sent to you outside or inside of the Caterer.com App to your mobile device or desktop browser. If you declare your consent to receive such messages a device token will be generated, which will be associated with your device. 
+
+These device tokens will be stored on our behalf by Notice Software, Inc d.b.a Roost, 234 5th Ave, New York, NY 10001. See their Privacy Policy at <https://goroost.com/pages/privacy-policy>. You can opt out from receiving such messages by changing the settings of your device. 
+
+Online drives
+
+If you enable us, we access the following Services for the limited purpose of helping us to upload or otherwise access your CV, cover letters or any other documents you provide us to assist you apply for jobs. The Services we use are:
+
+  * Google Cloud
+  * OneDrive
+  * DropBox
+  * Box
+
+
+
+We will ask for your consent before using information for any purpose other.
+
+**Marketing and Advertising**
+
+Online Behavioural Advertising
+
+We partner with third-party advertising networks so that we and other advertisers can display advertising which is more relevant to you and your interests on our Web site or on other sites that you visit and assess the performance of that advertising. We and our ad network partners may utilise cookies or web beacons along with other codes such as your Identifier for Advertising (IFA) or Android ID for your phone to better understand your interests from the web pages you interact with and the search terms you use on our site to build a picture of the category of interests or preferences you have and to provide advertisements about goods and services that may be of interest to you. Our ad network partners do not collect and do not have access to any information from which you can be directly identified such as your real name or address or email. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to receive tailored advertising by opting out, you can visit either the Network Advertising Initiative at [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) or the European Interactive Digital Advertising Alliance (EDAA) at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) or visit the privacy statements of our partners: [Google](http://www.google.co.uk/intl/en/policies/technologies/ads/), [Adobe](http://www.omniture.com/en/privacy) and [Tealium](https://tealium.com/company/). You can also learn more about our use of cookies and similar technologies and your choices by reading our cookies policy. Please note that if you opt-out you will continue to receive generic advertising that has not been targeted to you and your interests.
+
+**Your Rights**
+
+You have the following rights:
+
+  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10);
+  * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and
+  * (as set out above) the right to opt out of any marketing communications that we may send you.
+
+
+
+If you wish to exercise any of the above rights, please contact us using the contact details set out below.
+
+**Children and minors**
+
+Caterer.com is not directed towards individuals under the age of eighteen (18), however we are aware due to the nature of some of the job offerings, those between 14 and 18 may use the Services.  
+Individuals under the age of thirteen (13) are expressly prohibited from using Caterer.com Website and App, unless parental consent is provided and we are notified.
+
+**Third Party Privacy Practices**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties to which the Caterer.com website and App link. The inclusion of a link on the Website or App does not imply endorsement of the linked site or service by us or by StepStone Group.  Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations or any other software application developer or provider, social media platform, operating system or wireless service provider, or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services. Please be aware your current employer may be a customer of Caterer.com, or a client of one of our jobboards in our group of companies. Although it is a requirement of our Contract and Terms and Conditions of Caterer.com and other jobboards not to use Personal Information for any purpose other than to obtain a job, we cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Caterer.com offers you the option of remaining anonymous.
+
+**Who to contact about your Personal Information**
+
+The data controller responsible for your information is Caterer.com. 
+
+If you have any questions about this policy or our use of your Personal Information you can email: [dataprotectionofficerUK@stepstone.co.uk](mailto:dataprotectionofficerUK@stepstone.co.uk) or write to the Data Protection Officer, Blue Fin Building, 110 Southwark Street, London, SE1 0TA.If you do not think we are handling your Personal Information adequately, you have the right to lodge a complaint with the Information Commissioner’s Office.  Further information, including contact details, are available at https://ico.org.uk.
+
+**Changes to Privacy Policy**
+
+We review this Privacy Policy regularly and reserve the right to make changes at any time to take account of changes in our business and legal requirements. We will place updates on our website.  
+Please take a look at the “LAST UPDATED” date at the top of this Privacy Policy to see when it was last revised.
+
+The Site is operated by Totaljobs Group. Totaljobs Group Limited is registered in England. Registered number: 04269861 Registered address: Blue Fin, 110 Southwark Street, London, SE1 0TA.
