@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynokiablog.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219204701id_/http%3A//mynokiablog.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynokiablog.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627022031id_/http%3A//mynokiablog.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : My Nokia Blog - 200
 
