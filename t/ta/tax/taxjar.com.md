@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403192929id_/https%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628015430id_/https%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxJar
-
-Last Updated on December 8, 2015
 
 Thank you for visiting the TPS Unlimited, Inc. d/b/a TaxJar (“TaxJar”, “us”, “we”, “our”) website and reviewing our privacy policy (the “Privacy Policy”). This privacy policy explains the types of personal information (“Personal Data”) we may collect from and about you, as well as how we may disclose, use and protect that information.
 
@@ -19,7 +17,7 @@ Personal Data That You Provide Through The Services: When you visit the Site or 
 
 
 
-**By voluntarily providing us with your Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of TaxJar and the authorized third parties referred to herein located in the United States.**
+**The website is operated in the United States of America (U.S.) and is only intended for use by individuals accessing it from the U.S. If you are located in another jurisdiction, then please be aware that any Personal Data you elect to supply will be transferred from your current location to the U.S. to our servers, offices or and/or to the third parties mentioned in the circumstances described below, and be subject to U.S. laws regarding data privacy and collection, which may be less stringent than or otherwise different from the laws in effect in the country in which you are located. By using this website or by voluntarily providing us with your Personal Data, you acknowledge and agree with your Personal Data being processed and transferred as described above.**
 
 In order to prepare your relevant sales tax return documentation and history, we collect information about you, such as your name, address, and tax identification number, business information as well as your online transaction history and sales taxes collected, your total previous tax payments, and other information. Collectively, this information is known as “Sales Tax Information”.
 
@@ -83,7 +81,7 @@ This Privacy Policy does not apply to any Personal Data collected by TaxJar othe
 
 ### Security
 
-TaxJar takes reasonable steps to protect the Personal Data provided via our services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from our services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Taxjar via the Internet.
+TaxJar takes reasonable steps to protect the Personal Data provided via our services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from our services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to TaxJar via the Internet.
 
 ### Other Terms and Conditions
 
@@ -95,4 +93,4 @@ If we make a material change to this Privacy Policy, including a material change
 
 ### Communication with us about Privacy
 
-If you have privacy-related questions that are not addressed here, please contact the Privacy Team via email at privacy@taxjar.com.
+If you have privacy-related questions that are not addressed here, please contact the Privacy Team via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
