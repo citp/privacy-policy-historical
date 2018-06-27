@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225004543id_/https%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627111139id_/https%3A//www.criticker.com/privacy) for the most accurate reproduction.*
 
 # Criticker - Privacy Policy
+
+Criticker.com uses [cookies](https://web.archive.org/web/20180627111139id_/https://www.criticker.com/privacy/XXX) to recognize visitors and provide a better experience. Learn more about how we use cookies [in our privacy policy](https://www.criticker.com/privacy/). By continuing to use the site, or by pressing agree, you are giving your consent to our use of cookies.  
+
 
 ## Information Gathering
 
@@ -12,7 +15,7 @@ Criticker.com will not share your email address or any personal information with
 
 ## Emails from Criticker
 
-If you choose not to receive emails from Criticker about movie recommendations and new features, you will not receive any. Criticker may still send you emails when legally required to do so -- such as when there is a change to this privacy policy or information regarding your account.
+If you choose not to receive emails from Criticker about recommendations and new features, you will not receive any. Criticker may still send you emails when legally required to do so -- such as when there is a change to this privacy policy or information regarding your account.
 
 ## Cookies
 
