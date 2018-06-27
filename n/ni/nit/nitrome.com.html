@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nitrome.com privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118094512id_/http%3A//www.nitrome.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nitrome.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627212937id_/http%3A//www.nitrome.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<link rel="dns-prefetch" href="http://cdn.nitrome.com">
@@ -31,7 +31,8 @@ var nitromeAssets = {};
  </script>
 <link rel="stylesheet" type="text/css" href="http://cdn.nitrome.com/styles/nitrome_3.0.0.1.css">
     <link type="text/css" media="screen" rel="stylesheet" href="http://cdn.nitrome.com/styles/privacy_2.5.1.css">
-    <script type="text/javascript" src="http://cdn.nitrome.com/config.js"></script>
+                        <script type="text/javascript" src="http://cdn.nitrome.com/config.js"></script>
+            
 <script type="text/javascript" src="http://cdn.nitrome.com/interchange/dailyhearted/js/"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
@@ -110,10 +111,36 @@ window.fbAsyncInit = function() {
 </script>
 <div id="dense_space"></div>
 <div id="container" style="display:block;">
+<style>
+    .cuboy-login {
+        background-image: url("http://cdn.nitrome.com/images/cuboy-login.png");
+        width: 56px;
+        height: 56px;
+        position: absolute;
+        top: 18px;
+        left: 12px;
+    }
+
+    .learn-more-button {
+        background-image: url(http://cdn.nitrome.com/images/learn-more-pressed.png);
+        width: 69px;
+        height: 56px;
+        z-index: 999;
+        position: absolute;
+        right: 18px;
+        top: 18px;
+        display: block;
+    }
+
+    .learn-more-button:hover {
+        background-position: 0 -56px;
+        cursor: pointer;
+    }
+</style>
 <!--menu bar -->
 <div id="nitrome_logo">
     <h1>
-	<a href="http://www.nitrome.com/">Play Games at Nitrome.com</a>
+	<a href="/">Play Games at Nitrome.com</a>
     </h1>
 </div>
 <div id="menu_shadow">
@@ -122,67 +149,12 @@ window.fbAsyncInit = function() {
 <div id="login_shadow">
 </div>
 <div id="login_bg" class="logged_out">
-    <div id="login_container">
-	<div id="handler_box" class="background_mid" style="display:none;" onclick="return hideHandlerBox();"></div>
-	<form id="login" method="post" action="/loginSub-ie.php">
-	    <input id="top_login_username" class="login_input" type="text" name="username" value="username" onclick="if(this.value == 'username'){this.value = '';}" onblur="javascript: if(this.value==''){ this.value='username'}">
-	    <input id="top_login_password" class="login_input" type="password" name="password" value="password" onclick="if(this.value == 'password'){this.value = '';}" onblur="javascript: if(this.value==''){ this.value='password'}">
-	    <a id="top_login_submit" class="login_input" onclick="return submitLogin();">
-	    </a>
-	    <div id="forgot-password" onmouseover="javascript: cssFillDiv('forgot-password',images_folder+'skin-sprite_2.5.2.png','-1292px', '-92px'); return false;" onmouseout="javascript: cssFillDiv('forgot-password','skin-sprite_2.5.2.png','-1587px','-59px'); return false;">
-		<a href="/forgotten-password/" title="Forgot Password?"><img src="http://cdn.nitrome.com/styles/images/trans.gif" height="100%" width="100%"></a>
-	    </div>
-	    <div id="create-account" onmouseover="javascript: cssFillDiv('create-account',images_folder+'skin-sprite_2.5.2.png','-1391px', '-92px'); return false;" onmouseout="javascript: cssFillDiv('create-account','skin-sprite_2.5.2.png','-1686px', '-59px'); return false;">
-		<a href="/register/" title="Create Account"><img src="http://cdn.nitrome.com/styles/images/trans.gif" height="100%" width="100%"></a>
-	    </div>
-	    <a id="fb-login-1" href="/register-fb.php">
-	    </a>
-	    <a id="remember_me_container" onclick="return toggleCheck();">
-		<input id="remember_user" type="checkbox" name="remember_user" checked="checked">
-	    </a>
-	    <input id="login_submit" type="submit" value="Login" onclick="return submitLogin();">
-	</form>
-    </div>
-    <div class="login_wait_screen"></div>
-    <div id="profile_widget_container" style="display:none;">
-		    <a class="logout_btn" onclick="javascript: submitLogout();" href="javascript: void(0);"><img src="http://cdn.nitrome.com/styles/images/trans.gif" height="100%" width="100%" title="Log Out from Nitrome"></a>
-		<div id="welcome_box">
-	    <div id="top_login_avatar">
-			    </div>
-	    <div id="top_login_username_display">
-	    </div>
-	    <div class="top_login_icons">
-		<div style="display:none" class="count-login avatar-note-count">
-		    <div class="count-left"></div>
-		    <div class="count-center"></div>
-		    <div class="count-right"></div>
-		</div>
-		<div style="display:none" class="count-login comment-note-count">
-		    <div class="count-left"></div>
-		    <div class="count-center"></div>
-		    <div class="count-right"></div>
-		</div>
-		<div style="display:none" class="count-login message-note-count">
-		    <div class="count-left"></div>
-		    <div class="count-center"></div>
-		    <div class="count-right"></div>
-		</div>
-		<div style="display:none" class="count-login user-note-count">
-		    <div class="count-left"></div>
-		    <div class="count-center"></div>
-		    <div class="count-right"></div>
-		</div>
-		<a id="top_login_avatars" class="login_hud_link" title="Change/View Avatars" href="/profile/avatar/"></a>
-		<a id="top_login_comment_replies" class="login_hud_link" title="View Replies" href="/profile/comments/"></a>
-		<a id="top_login_messages" class="login_hud_link" title="Send/View Messages" href="/profile/messages/"></a>
-		<a id="top_login_users" class="login_hud_link" title="View Friends" href="/profile/friends/"></a>
-	    </div>
-	</div>
-    </div>
+    <div class="cuboy-login"></div>
+    <a class="learn-more-button" href="/blog-info-post/"></a>
 </div>
 <!-- login box end -->
-<script type="text/javascript" src="http://www.nitrome.com/ajax/autocomplete.php"></script>
-    <script>var sid = "be2qn4b1e185p7qndfjbm3jll4";</script>
+<script type="text/javascript" src="/ajax/autocomplete.php"></script>
+    <script>var sid = "qn3cib5pnb3v5okafg1dhjq521";</script>
     <script type="text/javascript" src="http://cdn.nitrome.com/scripts/ajax_login_2.5.2.js"></script>
     <div id="menu_box">
     </div>
@@ -206,25 +178,25 @@ window.fbAsyncInit = function() {
     </div>
     <div id="profile_png" class="menu_link">
     </div>
-    <a id="games_link_top" class="menu_link" title="Free Online Games" href="http://www.nitrome.com/all-games/" onmouseover="menuRollover('games')" onmouseout="menuRollout('games');">Free Online Games</a>
+    <a id="games_link_top" class="menu_link" title="Free Online Games" href="/all-games/" onmouseover="menuRollover('games')" onmouseout="menuRollout('games');">Free Online Games</a>
     <div>
     </div>
-    <a id="shop_link_top" class="menu_link" title="Online Shop" href="http://www.nitrome.com/shop/" onmouseover="menuRollover('shop')" onmouseout="menuRollout('shop');">Online Shop</a>
+    <a id="shop_link_top" class="menu_link" title="Online Shop" href="/shop/" onmouseover="menuRollover('shop')" onmouseout="menuRollout('shop');">Online Shop</a>
     <div id="shop_count" class="counter">
 	<div id="shop_new_1" class="new_1"></div>
 	<div id="shop_new_2" class="new_2"></div>
     </div>
-    <a id="blog_link_top" class="menu_link" title="Game Development Blog" href="http://www.nitrome.com/blog/" onmouseover="menuRollover('blog')" onmouseout="menuRollout('blog');">Game Development Blog</a>
+    <a id="blog_link_top" class="menu_link" title="Game Development Blog" href="/blog/" onmouseover="menuRollover('blog')" onmouseout="menuRollout('blog');">Game Development Blog</a>
     <div id="blog_count" class="counter">
 	<div id="blog_new_1" class="new_1"></div>
 	<div id="blog_new_2" class="new_2"></div>
     </div>
-    <a id="skins_link_top" class="menu_link" title="Website Skins" href="http://www.nitrome.com/skins/" onmouseover="menuRollover('skins')" onmouseout="menuRollout('skins');">Website Skins</a>
+    <a id="skins_link_top" class="menu_link" title="Website Skins" href="/skins/" onmouseover="menuRollover('skins')" onmouseout="menuRollout('skins');">Website Skins</a>
     <div id="skins_count" class="counter">
 	<div id="skins_new_1" class="new_1"></div>
 	<div id="skins_new_2" class="new_2"></div>
     </div>
-    <a id="profile_link_top" class="menu_link" title="Nitrome Account" href="javascript: void($j('#container').module('showReg'););" onmouseover="menuRollover('profile')" onmouseout="menuRollout('profile');">Your Account</a>
+    <a id="profile_link_top" class="menu_link" title="Nitrome Account" href="/blog-info-post/" onmouseover="menuRollover('profile')" onmouseout="menuRollout('profile');">Your Account</a>
     <div id="profile_count" class="counter">
 	<div id="profile_new_1" class="new_1"></div>
 	<div id="profile_new_2" class="new_2"></div>
@@ -233,37 +205,29 @@ window.fbAsyncInit = function() {
     </div>
     <div id="iphone_png" class="menu_link">
     </div>
-    <a id="iphone_link_top" class="menu_link" title="Latest Mobile Games" href="http://www.nitrome.com/iphone/" onmouseover="menuRollover('iphone')" onmouseout="menuRollout('iphone');">Latest Mobile Games</a>
+    <a id="iphone_link_top" class="menu_link" title="Latest Mobile Games" href="/iphone/" onmouseover="menuRollover('iphone')" onmouseout="menuRollout('iphone');">Latest Mobile Games</a>
     <div id="iphone_count" class="counter">
 	<div id="iphone_new_1" class="new_1"></div>
 	<div id="iphone_new_2" class="new_2"></div>
     </div>
     <div id="touchy_link" class="menu_link"></div>
-   	<!-- <div id="touchy_png" class="menu_link"></div>
-    <a id="touchy_link_top" class="menu_link" title="Touchy Controller" href="http://www.nitrome.com/touchy/" onmouseover="menuRollover('touchy')" onmouseout="menuRollout('touchy');">Touchy Controller</a>
-    x
-    <div id="touchy_count" class="counter">
-	<div id="touchy_new_1" class="new_1"></div>
-	<div id="touchy_new_2" class="new_2"></div> 
-    </div> -->
     <div id="steam_link" class="menu_link"></div>
     <div id="steam_png" class="menu_link"></div>
-    <a id="steam_link_top" class="menu_link" title="Steam Projects" href="http://www.nitrome.com/steam/flightless/" onmouseover="menuRollover('steam')" onmouseout="menuRollout('steam');">Steam Projects</a>
+    <a id="steam_link_top" class="menu_link" title="Steam Projects" href="/steam/flightless/" onmouseover="menuRollover('steam')" onmouseout="menuRollout('steam');">Steam Projects</a>
     <div id="steam_count" class="counter">
 	<div id="steam_new_1" class="new_1"></div>
 	<div id="steam_new_2" class="new_2"></div>
     </div>
     <div id="search_container">
-	<form name="search" method="get" action="http://www.nitrome.com/search.php">
+	<form name="search" method="get" action="/search.php">
 	    <div id="search_bar">
 		<div class="loading"></div>
 		<input id="main_search_field" type="text" name="id" class="login_input ui-autocomplete-input" value="Search!" onclick="if(this.value == 'Search!'){ this.value = '';} return false;" onblur="javascript: if(this.value==''){ this.value='Search!'}">
 		<input name="search_type" type="hidden" value="default">
 	    </div>
-	    <div id="search_filter_link" onmouseover="javascript: if(!filter_toggle){cssFillDiv('search_filter',images_folder+'skin-sprite_2.5.2.png','-1188px', '-206px');}" onmouseout="javascript: if(!filter_toggle){cssFillDiv('search_filter',images_folder+'skin-sprite_2.5.2.png','-1188px', '-154px');} " onclick="javascript: filter_toggle = toggleFilter(filter_toggle);"><img src="http://cdn.nitrome.com/styles/images/trans.gif" height="100%" width="100%"></div>
+	    <div id="search_filter_link" onmouseover="javascript: if(!filter_toggle){cssFillDiv('search_filter',images_folder+'skin-sprite_2.5.3.png','-1188px', '-206px');}" onmouseout="javascript: if(!filter_toggle){cssFillDiv('search_filter',images_folder+'skin-sprite_2.5.3.png','-1188px', '-154px');} " onclick="javascript: filter_toggle = toggleFilter(filter_toggle);"><img src="http://cdn.nitrome.com/styles/images/trans.gif" height="100%" width="100%"></div>
 	    <div id="search_type_game" onmouseover="javascript: explainIcon('game');" onmouseout="javascript: searchRoll('game');" onclick="javascript: filter_toggle = setSearchType('games');" style="display:none;"></div>
 	    <div id="search_type_blog" onmouseover="javascript: explainIcon('blog');" onmouseout="javascript: searchRoll('blog');" onclick="javascript: filter_toggle = setSearchType('blog');" style="display:none;"></div>
-	    <div id="search_type_user" onmouseover="javascript: explainIcon('user');" onmouseout="javascript: searchRoll('user');" onclick="javascript: filter_toggle = setSearchType('users');" style="display:none;"></div>
 	    <input type="submit" id="search_submit" value="">
 	</form>
     </div>
@@ -302,6 +266,18 @@ window.fbAsyncInit = function() {
 	});
     </script>
     <script src="http://cdn.nitrome.com/scripts/konCode.js"></script><style>
+    ul.privacy-points {
+        font-size: 12px;
+        list-style: disc;
+        text-align: left;
+        padding: 15px;
+    }
+    h4.privacy-subhead {
+        font-size: 12px;
+        text-align: left;
+        padding: 10px;
+        font-weight: bold;
+    }
 h2 {
 font-size: 16px;
 text-align: left;
@@ -351,43 +327,235 @@ font-style: italic;
             <div id="scroll_container">
                 <div id="elastic_band">
 				<h2>Privacy Policy</h2>
-<p>This policy covers Nitrome's use of personal information collected when you use www.nitrome.com. We are careful to only use the information you provide us in the way that you authorize to do so. If you have any queries about the practices then please Contact Us. This privacy policy may be updated online at any time. Please review this page regularly so that you are aware of any changes made.</p>
+                    <p><i>Last Updated: Friday, 25th May 2018</i></p>
+                    <p>This policy covers Nitrome's use of personal information collected when you use Nitrome’s&nbsp;games, websites and related services we here collectively call ‘Services’.</p>
+    <p>We cannot do all the things needed to make and run the Services by ourselves so we share information with third parties collectively called our ‘Partners’.</p>
+                    <h3>This policy covers:</h3>
+                    <ul class="privacy-points">
+                        <li>What data is collect and how it is collect and stored.</li>
+                        <li>What the data is used for.</li>
+                        <li>What you can do.</li>
+                    </ul>
 
-<h3>Collection and Use of Personal Information</h3>
-<p>We collect and store the details provided by you when you choose to fill out a form on the website. Any information stored is used only for the purposes of improving our service. We do not disclose your personal identifiable information to any third parties.</p>
+                    <h3>What data is collect and how it is collect and stored</h3>
 
-<h3>Cookies</h3>
+                    <h4 class="privacy-subhead">Data you enter in</h4>
+                    <p>You can provide us data though our Services:</p>
+                    <ul class="privacy-points">
 
-<p>A cookie is a small mount of data that is sent to your browser from a website and stored on your computer's hard drive. Each website can send it's own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookie it has already sent you, not the cookies sent to you by other websites. Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn more about how to change your cookie preferences. We use cookies on the Nitrome website to save your preferences for the look and feel of the site. We use cookies to store your favourite games. We also use cookies to notify you when there is a new piece of content on the site. We store "keep me logged in" preferences in cookies. Advertisements on Nitrome.com or any sub-sites may also use cookies. We DO NOT store any personally identifiable information in cookies that we set.</p>
+                        <li>Basic Information – things like your name and an account name.</li>
+                        <li>Contact information – such as an email address and Twitter account.</li>
+                        <li>Profile information – including specific images used to identify you in games.</li>
+                    </ul>
 
-<h3>Flash Shared Object</h3>
-<p>We use Flash Shared Objects (sometimes known as Flash Cookies) within all of our games for the purposes of saving your progress or information required by each game. This information is stored on your own computer and is not available to anyone else.</p>
 
-<h3>Advertisements</h3>
-<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These third-party advertising companies may use cookies to serve you advertisements.</p>
+                    <h4 class="privacy-subhead">Data we get automatically</h4>
+                    <p>Nitrome and its Partners collect data from its Services automatically from the device, cookies, the service itself or from other Partner services we use. The data can include:</p>
+                    <ul class="privacy-points">
+                        <li>Basic Information – things like your name and an account name.</li>
+                        <li>Contact information – such as an email address and Twitter account.</li>
+                        <li>Profile information – including specific images used to identify you in games.</li>
+                        <li>Progress – data on your save file and unlocks.</li>
+                        <li>Behaviour – information about how you interact with our Services.</li>
+                        <li>Unique identifiers – this could be identifiers for devices and Advertising IDs.</li>
+                        <li>Configuration – specifics such as browser used, language, general location, precise location (GPS if allowed) device type, version of software and operating system.</li>
+                        <li>Demographic Data – such as your age range and interests, used for advertising and analytic grouping.</li>
+                    </ul>
 
-<h3>Other Websites</h3>
-<p>Our website contains links to other websites which are outside the control of Nitrome Limited and therefore not covered by policies set by Nitrome Limited. If you visit a third-party website using the links provided within Nitrome.com then the operators of those websites may collect information from you in accordance with their own privacy policy.</p>
+                    <h4 class="privacy-subhead">Data from communication</h4>
+                    <p>You may provide data to us for support purposes or when contacting us, in email and through social platforms like Twitter. This helps us communicate with you and sort out issues you may be having. This could be:</p>
+                    <ul class="privacy-points">
+                        <li>Basic Information – things like your name and an account name.</li>
+                        <li>Contact information – such as an email address and Twitter account.</li>
+                        <li>Unique identifiers – this could be identifiers for devices and Advertising IDs.</li>
+                        <li>Configuration – specifics such as browser used, language, general location, precise location (GPS if allowed) device type, version of software and operating system.</li>
+                    </ul>
 
-<h3>Facebook Connect</h3>
-<p>Some services and features on the Nitrome.com website allow you to connect to your Facebook account. We use this feature to enhance the social aspect of Nitrome.com. As Facebook is a third-party website, we advise you to review Facebook's Privacy Policy. By registering via Facebook Connect, you give us express permission to receive data from Facebook including, but not limited to, your name, user ID, gender, location, email address, date of birth and avatar. For Facebook Connect users we store your email address, user ID, date of birth and gender and other information based on your use of our Service.</p>
+                    <h4 class="privacy-subhead">How your data is kept and accessed</h4>
+                    <p>We keep the majority of data in your devices or in secure third-party services that use technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration. Data from communication is secured locally. We also have the following procedures in place:</p>
 
-<h3>Children's Privacy</h3>
-<p>We do not allow any user under the age of 13 to register on Nitrome. If a user chooses to register they must be at least 13 years old. Users are asked for a date of birth upon registering. This is to prevent visitors under the age of 13 from creating accounts.</p>
+                    <ul class="privacy-points">
+                        <li>Limit staff access to data – only giving access to staff that have legitimate business use.</li>
+                        <li>Encrypt data – to make data not identifiable.</li>
+                        <li>Policy Reviews - regular reviews of our data security procedures.</li>
+                    </ul>
 
-<h3>Messages and Comments</h3>
-<p>To help protect your privacy, please do not post any personally identifiable information on the Nitrome.com website.</p>
+                    <p>Our Services work globally and our Partners are also global. Your data can be transferred to anywhere in the world. Because different countries can have different data protection laws, Nitrome and its Partners take steps to ensure safeguards are in place to protect your data when transferring it.
+                    </p>
 
-<h3>IP Addresses</h3>
-<p>Nitrome.com may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the internet</p>
+                    <p>We use Partners with a Privacy Shield certification and have contracts in place to enforce data is handled safely using industry-standard practices such as firewalls, encryption, password protection and access controls.
+                    </p>
 
-<h3>Newsletters</h3>
-<p>If you wish to sign up to our free newsletter service, you will be asked to supply personal information sush as your e-mail address. With your permission, Nitrome.com uses such information to periodically contact you with product information news, special offers and new games that are released.</p>
+                    <p>Whilst we do our best to protect your data, when transmitting data to us, we cannot guarantee the security of that data. Any transmission is at your own risk. We do not actively monitor the security of all Services and need to rely on our Partners to notify us of any data breaches.
+                    </p>
 
-<h3>Opt out</h3>
-<p>If you are receiving e-mails from Ntirome.com (newsletters, special offers, game release notifications) and would like to later opt out. Please click the unsubscribe link from within the newsletter to remove your email from the newsletter mailing list.</p>
+                    <h4 class="privacy-subhead">How long data is kept for
+                    </h4>
+                    <p>We will try to get rid of any data we don’t need and if you want us to remove your data, see the what you can do section.
+                    </p>
 
-<p><i>Last Updated: Thursday, 08 August 2013</i></p>
+                    <p>Data, such as game save files and your profile, that is needed to run the Service will be held for as long as you need our Services. Our Partners may have different policies on how long they keep data so we encourage you to use the links in the what Partners we use section, and review their privacy policies.
+                    </p>
+
+                    <p>Where we can, we aim to keep data for only 26 months unless it is needed to run the Service or if it is needed for “legitimate business interests”. Legitimate business interests means we need it to help with any legal issue that may come up, such as to resolve any issues with our agreements or to provide details of revenue for tax purposes.
+                    </p>
+
+                    <h3>What the data is used for
+                    </h3>
+                    <p>When either ourselves or our Partners use the data, we may group and segment it to make the data more usable. This can be data from different sources and is used to find patterns and trends. To provide great Services to you, we have a legitimate interest to collect and process necessary data.
+                    </p>
+
+                    <p>We may also disclose your data to comply with the law or to protect the rights, property or safety of us, our players or others. We will only disclose information with your consent where we are legally able.
+                    </p>
+                    <h4 class="privacy-subhead">To improve our Services
+                    </h4>
+
+                    <p>We want to make a great product for you and we need data to do that so we may monitor, analyse, profile and segment data to do this. This means we may group data and reference data to see if we can identify patterns. We use this data for things like adjusting the game difficulty, seeing and fixing a crash or to show you events based on your location.
+                    </p>
+
+                    <p>We use data to provide support with the Services in terms of issues specific to you, and answer questions you may have.
+                    </p>
+
+                    <p>We use data to save your status and preferences so the Service is tailored to you, for example, we make sure each time you play it is in the language of your choosing and ensure you can play from where you left off. Sometimes this means we have to make or update an account or profile for you.
+                    </p>
+
+                    <h4 class="privacy-subhead">To make Services more social
+                    </h4>
+                    <p>We believe some Services need to have social elements. Because of this, we may offer and link to other Partners social features to help you communicate with others.
+                    </p>
+                    <p>We may moderate chats either automatically or manually so we may need to monitor the use of the Service and its social features.
+                    </p>
+                    <p>Other users will be able to see things you have shared.
+                    </p>
+
+                    <h4 class="privacy-subhead">To make money</h4>
+                    <p>We need money to keep making games.
+                    </p>
+                    <p>We use data to show adverts that are more relevant to you, which pay more because Advertisers show less of them to get customers. As they pay more, we make more money from these targeted adverts meaning we can make more games and updates, and show less adverts.
+                    </p>
+                    <p>We also get revenue from payments and need to store records of transactions.</p>
+
+                    <h4 class="privacy-subhead">Communicate with you</h4>
+
+                    <p>We use your data to communicate with you according to your preferences, when we think you may need information about the Services we provide such as support messages and important updates.
+                    </p>
+
+                    <h3>What you can do
+                    </h3>
+
+                    <h4 class="privacy-subhead">Child Protection Policy
+                    </h4>
+
+                    <p>We do not knowingly keep or use personally identifiable data of children. If you are legally considered a child, do not provide any of your personal data to us.
+                    </p>
+                    <p>If we have mistakenly collected any data of a child, we will delete this data as soon as we can, so please let us know by emailing <a href="mailto:privacy@nitrome.com">privacy@nitrome.com</a>.
+                    </p>
+                    <p>For parents or guardians, if you want to review or amend your child's information, ask to have it deleted, and/or refuse to allow any further collection or use of your child's information, then please send an email to <a href="mailto:privacy@nitrome.com">privacy@nitrome.com</a>. Please be sure to include your email address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the information that we collect and maintain about your child.
+                    </p>
+
+                    <h4 class="privacy-subhead">Access to your data
+                    </h4>
+                    <p>If you request, we will provide you a copy of your personal data in an electronic format.
+                    </p>
+                    <p>You also have the right to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. You can always withdraw your consent, for example by turning off GPS location sharing in your mobile device settings.
+                    </p>
+                    <p>We will respond to all requests within a reasonable timeframe.</p>
+                    <p>Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements. This may also affect our Services to you, for example, you may not be able to enter any competitions or make any in game purchases.
+                    </p>
+                    <p>Please make all requests to <a href="mailto:privacy@nitrome.com">privacy@nitrome.com</a>.
+                    </p>
+
+                    <h4 class="privacy-subhead">Email Opt-out
+                    </h4>
+                    <p>If you are receiving e-mails from Nitrome.com (newsletters, special offers, game release notifications) and would like to later opt out. Please click the unsubscribe link from within the newsletter to remove your email from the newsletter mailing list.
+                    </p>
+
+                    <h4 class="privacy-subhead">Targeted advertising Opt-Out
+                    </h4>
+                    <p>If you wish to limit behaviourally targeted advertising, you can do so by limiting ad tracking in your device settings. Please note that opt-outs are specific to each browser and device and it may take a little bit of time before the opt-out will take effect.
+                    </p>
+                    <p>For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
+                    </p>
+                    <p>For display advertising on the Web, you can also adjust your browser settings to limit certain tracking by means of cookies, and by visiting the following sites: <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> and <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>.
+                    </p>
+
+                    <h4 class="privacy-subhead">Partner Opt-Out
+                    </h4>
+                    <p>For individual partner opt-outs, please see the relevant privacy policies listed in the <a href="#what_partners">what Partners we use</a> section.
+                    </p>
+                    <p>Note that like us, our Partners may retain your data as necessary for legitimate business interests, such as to comply with legal obligations, resolve disputes, and enforce agreements. Partner Opt-out’s may also affect our Services to you, for example, you may not be able to enter any competitions or make any in game purchases.
+                    </p>
+
+                    <h4 class="privacy-subhead">Questions
+                    </h4>
+                    <p>If you have any questions about the practices in this document, or about data protection, or if you want to resolve issues about your personal data please contact us through our games or by mail or email to <a href="mailto:privacy@nitrome.com">privacy@nitrome.com</a>.
+                    </p>
+                    <p>For all other up to date contact information please see <a href="http://www.nitrome.com/contact/">http://www.nitrome.com/contact/</a>.
+                    </p>
+
+                    <h4 class="privacy-subhead">Complaints
+                    </h4>
+                    <p>If you are not satisfied with the way your query or complaint is handled by Nitrome, please let us know by emailing us at <a href="mailto:privacy@nitrome.com">privacy@nitrome.com</a>. If you are still unhappy, you may refer your complaint to your local data protection regulator. For example, in the United Kingdom this is the Information Commissioner’s Office.
+                    </p>
+
+                    <h4 id="#what_partners" class="privacy-subhead">What Partners we use
+                    </h4>
+                    <p>The Service includes features from our Partners, such as social media interaction tools and in-game advertising. These Partners may access your data and operate under their own privacy policies as either controllers, or processors acting on our behalf. We encourage you to check their privacy policies to learn more about their data processing practices.
+                    </p>
+
+                    <p>See below for a link to their privacy policies:
+                    </p>
+
+                    <ul class="privacy-points">
+                        <li>Adcolony – <a href="https://www.adcolony.com/privacy-policy/">https://www.adcolony.com/privacy-policy/</a></li>
+                        <li>AdMob (Google) - <a href="https://support.google.com/admob/answer/7665968">https://support.google.com/admob/answer/7665968</a></li>
+                        <li>AdWords (Google) - <a href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a></li>
+                        <li>Adx (Google) - <a href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a></li>
+                        <li>Analytics (Google) - <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a></li>
+                        <li>Applovin – <a href="https://www.applovin.com/privacy/">https://www.applovin.com/privacy/</a></li>
+                        <li>Chartboost - <a href="https://answers.chartboost.com/en-us/articles/115001489623">https://answers.chartboost.com/en-us/articles/115001489623</a></li>
+                        <li>Facebook – <a href="https://www.facebook.com/about/privacy">https://www.facebook.com/about/privacy</a></li>
+                        <li>Firebase (Google) - <a href="https://firebase.google.com/support/privacy/">https://firebase.google.com/support/privacy/</a></li>
+                        <li>Fyber – <a href="https://www.fyber.com/legal/privacy-policy/">https://www.fyber.com/legal/privacy-policy/</a></li>
+                        <li>Google - <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></li>
+                        <li>Ironsource - <a href="https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/">https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/</a></li>
+                        <li>MoPub - <a href="https://www.mopub.com/legal/privacy/">https://www.mopub.com/legal/privacy/</a></li>
+                        <li>Twitter - <a href="https://twitter.com/en/privacy">https://twitter.com/en/privacy</a></li>
+                        <li>Unity Technologies - <a href="https://unity3d.com/legal/privacy-policy">https://unity3d.com/legal/privacy-policy</a></li>
+                        <li>Vungle - <a href="http://vungle.com/privacy/">http://vungle.com/privacy/</a></li>
+
+                    </ul>
+
+                    <p>Apple and Google may also collect data when you use their app stores to install our Services.
+                    </p>
+                    <ul class="privacy-points">
+                        <li>Apple – <a href="https://www.apple.com/uk/privacy/">https://www.apple.com/uk/privacy/</a></li>
+                        <li>Google - <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></li>
+                    </ul>
+
+                    <h4 class="privacy-subhead">Other Websites</h4>
+                    <p>Our website contains links to other websites which are outside the control of Nitrome Limited and therefore not covered by policies set by Nitrome Limited. If you visit a third-party website using the links provided within Nitrome.com then the operators of those websites may collect information from you in accordance with their own privacy policy.
+                    </p>
+
+                    <h4 class="privacy-subhead">Identifiers for Devices
+                    </h4>
+                    <p>Our Services and Partners may use persistent identifiers such as IDFA, IDFV, advertising ID, MAC addresses, UDID, IMEI that are specific to a device.
+                    </p>
+                    <p>Nitrome.com may also collect your IP address. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the internet. It is like your computers address.
+                    </p>
+
+                    <h4 class="privacy-subhead">What is a cookie
+                    </h4>
+                    <p>A cookie is a small amount of data that is sent to your browser from a website and stored on your computer's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookie it has already sent you, not the cookies sent to you by other websites. Cookies record information about your online preferences.
+                    </p>
+                    <p>Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn more about how to change your cookie preferences.
+                    </p>
+                    <p>We use Flash Shared Objects (sometimes known as Flash Cookies) within all of our games for the purposes of saving your progress or information required by each game. This information is stored on your own computer and is not available to anyone else.
+                    </p>
+                    <p>You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
+                    </p>
+
+                    <p><b>Thanks for reading, you rock!</b></p>
 				</div>
             </div>
         </div>
@@ -519,7 +687,6 @@ font-style: italic;
 					<a href="https://twitter.com/Nitrome" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @Nitrome</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 				</div>
-                <!--<div class="fb-like-box" data-href="http://www.facebook.com/nitrome" data-width="200" data-show-faces="false" data-stream="false" data-header="false"></div>                -->
                 </div>
                 <div id="fb-icon" class="corners"></div>
             </div>
@@ -599,21 +766,16 @@ font-style: italic;
 	<div id="left_skyscraper_shadow"></div>
 	<div id="mu_3_shadow_ng"></div>
 	<script type="text/javascript" src="http://cdn.nitrome.com/scripts/vars.js"></script>
-	<script type="text/javascript" src="http://cdn.nitrome.com/scripts/globalconfig_3.0.6.js"></script>
+	<script type="text/javascript" src="http://cdn.nitrome.com/scripts/globalconfig_3.0.7.js"></script>
 		<script>
 		$j('#login_bg').change(function(){
 			$j('#profile_link_top').attr('href','/profile/');
-			$j('#profile_link_top').unbind('click',regBind);
 		});
-		$j('#profile_link_top').bind('click',regBind);
 		if(typeof showUserMessage != 'function'){
 		    showUserMessage = function(string){
 				$j('#container').modal('update',string);
 				$j('#container').modal('show');
 		    }
-		}
-		function regBind(){
-			$j('#container').modal('showReg');
 		}
 		$j('#container').modal();
 	</script>
@@ -776,5 +938,5 @@ left: -184px;
 </script>
 
 
-<!-- load: 0.00013494491577148-->
-<!-- date/time: 18, Nov 2017 / 10:14:21--></body></html>
+<!-- load: 0.0001530647277832-->
+<!-- date/time: 27, Jun 2018 / 22:04:59--></body></html>
