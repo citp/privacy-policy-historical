@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126131527id_/http%3A//affiliatesdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627212432id_/http%3A//affiliatesdirectory.com/privacy) for the most accurate reproduction.*
 
 # AffiliatesDirectory.com - The Affiliate Programs Directory: Your Privacy
 
