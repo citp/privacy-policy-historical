@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catholictv.org privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221143212id_/http%3A//www.catholictv.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholictv.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235738id_/http%3A//www.catholictv.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CatholicTV
 
-## Privacy Policy: Boston Catholic Television Center Inc. a.k.a The CatholicTV Network, iCatholic, Your Catholic Broadband Network (CatholicTV)
+## Privacy Policy: Boston Catholic Television Center Inc. a.k.a The CatholicTV Network, iCatholic (Media), Your Catholic Broadband Network, CatholicTV
 
 ### 1\. Protecting your privacy
 
@@ -10,7 +10,7 @@
 
 ### 2\. Data we collect
 
- Your email address is requested for purposes such as providing subscription email services, registering complaints, commendations or feedback on programming, soliciting for advertising by CatholicTV, updates for new events, etc. CatholicTV does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. We may collect personal information if you provide comments or if you contact us directly. Please do not post any personal information on CatholicTV's forums (e.g., [www.iCatholic.com](http://www.icatholic.com/)) or pages that you do not intend to make public. Our web logs collect standard web log entries for each page served, including your IP address, page URL, device and browser used, and timestamp. Web logs help us to diagnose problems with our server, to administer the CatholicTV site, and to otherwise provide our service to you.
+ Your name, address, phone number and email address is requested for purposes such as, but not limited to, providing subscription services, registering complaints, commendations or feedback on programming, soliciting for advertising by CatholicTV, updates for new events, etc. CatholicTV does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. We may collect personal information if you provide comments or if you contact us directly. Please do not post any personal information on CatholicTV's forums (e.g., [www.iCatholic.com](http://www.icatholic.com/)) or pages that you do not intend to make public. Our web logs collect standard web log entries for each page served, including your IP address, page URL, device and browser used, and timestamp. Web logs help us to diagnose problems with our server, to administer the CatholicTV site, and to otherwise provide our service to you.
 
 ### 3\. Data we store
 
@@ -34,4 +34,4 @@ Due to the international dimension of CatholicTV, the data provided by the user 
 
 ### 8\. Feedback
 
-We appreciate your feedback! Please let us know if you have any questions or concerns. 
+We appreciate your feedback! Please [let us know](http://www.catholictv.org/contact-us) if you have any questions or concerns. 
