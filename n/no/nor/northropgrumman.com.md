@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227061147id_/http%3A//www.northropgrumman.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040409id_/http%3A//www.northropgrumman.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Northrop Grumman Online Privacy Notice
 
-_Effective September 27, 2017_
+_Effective January 12, 2018  
+_
 
 We at Northrop Grumman respect your concerns about privacy. This Online Privacy Notice applies to northropgrumman.com and other external Northrop Grumman websites that link to this Notice (the "Sites"). This Notice describes the types of personal information we collect on the Sites, how we use the information, with whom we share it and the choices available to users of our Sites regarding our use of the information. We also describe the measures we take to protect the security of the information and how users can contact us about our privacy practices. Certain of the Sites may provide additional detail about privacy practices specific to those Sites. Internal company policies and procedures govern Northrop Grumman's internal networks and systems and the processing of personal information relating to employees and other authorized Northrop Grumman network users.
 
@@ -98,7 +99,7 @@ We offer you certain choices in connection with the personal information we coll
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Online Privacy Notice.
 
-If you are located in the European Economic Area ("EEA") or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EEA and Switzerland. Northrop Grumman has certified that it complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. [Click here](https://web.archive.org/Documents/PDF/NorthropGrummanEU_US_Swiss_US_Notice.pdf) to view our EU-U.S. and Swiss-U.S. Privacy Shield Privacy Notices. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>. 
+If you are located in the European Economic Area ("EEA") or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EEA and Switzerland. Northrop Grumman has certified that it complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. [Click here](https://web.archive.org/Documents/PDF/NorthropGrummanEU_US_Swiss_US_Notice.pdf) to view our EU-U.S. and Swiss-U.S. Privacy Shield Privacy Notices and our participating U.S. subsidiaries. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>. 
 
 ### How We Protect Personal Information
 
