@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223112652id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627100404id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Tech Maniya
+# Privacy Policy - Tech Maniya
 
-**Tech Maniya**   **Privacy Policy**
+You are here: [Home](http://www.techmaniya.in/) / Privacy Policy
+
+**Tech Maniya  Privacy Policy**
 
 This Privacy Policy was last modified on 26 July 2015.
 
@@ -10,7 +12,7 @@ Tech Maniya operates http://www.techmaniya.in (the “Site”). This page inform
 
  **Information Collection And Use**
 
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include but is not limited to your name (“Personal Information”).
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally, identifiable information may include but is not limited to your name (“Personal Information”).
 
  **Log Data**
 
@@ -30,4 +32,6 @@ Tech Maniya may update this Privacy Policy from time to time. We will notify yo
 
  **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please contact us via email on  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+
+## Reader Interactions
