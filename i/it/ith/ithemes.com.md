@@ -1,81 +1,118 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000048id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220635id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**iThemes Media takes your privacy seriously.** This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+**_ITHEMES PRIVACY POLICY_  
+Effective May 22, 2018**
 
-We take all reasonable precautions to ensure the protection of all such personal information. We use appropriate security measures to protect against the loss, misuse and alteration of data used by our system.
+iThemes is a U.S. based software service provider for WordPress and a wholly owned subsidiary of Liquid Web, a web hosting solution provider. iThemes provides WordPress themes, plugins and software (“Services”).
 
-All information transmitted, printed or otherwise submitted to iThemes.com via this website shall be deemed to be the property of iThemes.com and iThemes.com shall be free to use such information for any lawful purpose as detailed herein.
+iThemes respects the privacy of every individual who visits www.ithemes.com (“Website”) and/or purchases its Services. This Privacy Policy is our commitment to transparency in communicating how iThemes collects, uses, and discloses the information that is collected from you, the visitor of its website and/or customer as well as the choices you have with respect to the information.
 
-This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
+_**SCOPE OF POLICY**_
 
-We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+This Privacy Policy applies to how we collect, use, and disclose information from the following individuals:
 
-### Section 1: Collected Information
-
-We automatically collect and/or track the following:
-
-  * Web page http headers (home server domain names, IP address, type of client computer/mobile device, and type of web browser),
-  * information, user specific or aggregate, on what pages our visitors access; plus anonymous location and demographic information
-  * information knowingly provided by you through our online forms, including registration forms, surveys, and/or other entries
-  * E-mail addresses of visitors that communicate with iThemes.com via e-mail.
+  * **Customers** – individuals who register, on their own or on behalf of an entity, to use iThemes Services with the creation or administration of a iThemes account.
+  * **Event/Marketing Participants** – individuals who provide their information to iThemes when they register for iThemes webinars, subscribe to marketing material, participate in surveys or contests, or attend other iThemes events.
+  * **Website Visitors** – individuals who visit iThemes’ Website and opt to provide contact information including an email address to receive communications from iThemes. For purposes of this Privacy Policy, a Website Visitor does not include an individual who visits a website hosted by Liquid Web but owned and operated by a Liquid Web customer.
 
 
 
-### Section 2: Use of Data Collected
+This Privacy Policy does not apply to a Customer’s website. Our Customers are responsible for the information they or their end users store in our hosting environment as well as compliance with applicable laws and regulations, and Liquid Web’s terms related to the collection and storage or personal information.
 
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information and promotional material about our company and product offerings.
+_**INFORMATION WE COLLECT**_
 
-We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Twitter.com and Facebook.com).
+_Customers_  
+iThemes asks for your account information which includes your name, business name, email address, physical address, phone number, credit card and bank account information (stored directly with a third party processor), and website domain. By voluntarily providing iThemes with your account information, you represent that you own and consent to our use of such personal data.
 
-Information collected by us may be added to our databases and used for future email marketing regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section.
+_Event/Marketing Participants_  
+iThemes may ask for your name, email address, physical address, and phone number. Participation in events, surveys, contents, or subscribing to marketing material is voluntary and you may choose whether or not to participate and therefore disclose this personal data.
 
-### Section 3: Disclosure of Data to Third Parties
+_Website Visitors_  
+At your option, iThemes asks and may collect your name, email address, physical address, and phone number. In addition, we also collect information such as web server logs, internet protocol (IP) addresses, browser type, or other information as part of aggregated data.
 
-We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
+_**COOKIES AND OTHER TRACKING TECHNOLOGIES**_
 
-### Section 4: Your Opt-Out Rights
+iThemes uses cookies, beacons, tags, and other tracking technologies to gather demographic information about you, identify your visits to our Website, other interactions with our Website, and personalize your search experience on our Website. We gather information such as internet protocol (IP) addresses, internet service provider (ISP), operating system, browser type, date/time stamp, and store it in log files. To collect this information, a cookie, a standard feature of a website that allows us to store a small amount of data on your computer to allow our web servers to recognize you, may be set on your computer or device when you visit our Website. We may track your use across different websites and services. In some countries, including those in the European Economic Area (“EEA”), the information in this paragraph may be considered personal information under applicable data protection laws.
 
-You may opt-out of receiving marketing communications from us by clicking on the unsubscribe link in the footer of our emails or by sending your request, in writing, via email to: salesATiThemesDOTcom (Please replace AT with @ and DOT with .)
+You can control how websites use cookies by changing your cookie settings ([www.aboutcookies.org](http://www.aboutcookies.org/)), but your modification may limit your use and functionality of some of the features on our Website. We may also use cookies and other tracking technologies to provide you advertising based on your browsing activities. You may opt out of targeted advertisements by visiting [http://optout.networkadvertising.org](http://optout.networkadvertising.org/), or if located in the EEA, you may opt out by visiting <http://www.youronlinechoices.eu/>.
 
-If you remove your information from our marketing lists, it will no longer be used by us to send promotional correspondence to you.
+_**HOW WE USE YOUR INFORMATION**_
 
-### Section 5: Our Right to Contact You
+iThemes uses the information it collects about you in the following ways:
 
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
-
-### Section 6: Our Right to Change
-
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
-
-### Section 7: Anti Spam Policy. Can-Spam Act Compliance
-
-iThemes.com is committed to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from iThemes.com in the following circumstances:
-
-  * Thanking you for your valued business
-  * Advertisements for our products, services, new product availability, upcoming training, free resources, changes in services;
-  * Correspondence to confirm a transaction and/or reminders of pending transactions;
-  * Notifications about your membership status (including reminders about expirations and product renewals);
-  * Updates/notifications generated by our products and services;
-  * Delivery of email newsletter subscriber incentives such as free ebooks and coupons;
-  * Community/product news including security updates, new products and feature releases, upcoming training webinars/events, free resources and coupons/sales
-  * Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+  * To respond to any requests from you regarding sales and support.
+  * To contact you regarding any agreements or accepted terms that you may have with iThemes for the Services.
+  * To provide you with marketing emails, special offers, advertising campaigns, or newsletters.
+  * To provide you with information logs associated with the use of iThemes’ Services.
+  * To contact you regarding functionality changes to our Services or Website.
+  * To develop new features and functionality to our Services and Website.
+  * To collect payment and bill for our Services.
+  * To help personalize searches.
+  * To diagnose problems.
+  * To find and prevent fraud.
+  * To register your domain and IP address through ARIN (American Registry for Internet Numbers).
+  * To carry out other purposes as disclosed to you through the Website, or found in terms or an agreement between you and iThemes.
+  * Process for other purposes for which we obtain your consent.
 
 
 
-To ensure compliance with the Can-Spam Act, iThemes has implemented the following guidelines for email delivery:
+_**HOW WE SHARE INFORMATION**_
 
-All emails sent to you by iThemes.com will clearly identify iThemes.com as the sender. FROM / SENDER: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (NOTE: The actual sender may alter, but all from addresses will end with @iThemes.com).
+iThemes shares the information it collects about you in the following ways:
 
-Any marketing/promotional email from iThemes.com will include the ability to unsubscribe from future email messages. Unsubscribing will ensure the customer is removed from ALL marketing lists at iThemes.com; this excludes customer service emails regarding the processing and status of transactions, products and membership.
+  * _Third Party Providers_ – iThemes may share your information with third party providers that provide services on our behalf or resellers who provide iThemes Services. These companies may assist with marketing support, processing credit card payments, content delivery, email, providing sales leads, and customer support. Third party providers may only process personal information pursuant to iThemes’ instructions, and in compliance with the Privacy Policy and other applicable regulations.
+  * _Advertising_ – Based on the cookies and other tracking devices, we may work with advertising companies to display ads that may be of interest to you.
+  * _Business Transactions_ – To provide information to a third party in the event of any disposition of all or any portion of our business (e.g. reorganization, sale, assignment, bankruptcy).
+  * _Aggregated or De-identified Data_ – We may disclose or use aggregated or de-identified information with third party providers for research purposes relating to our Services.
+  * _As Required by Law or Similar Investigations_ – To comply with legal obligations (e.g. subpoena) or investigate potential legal violations. Liquid Web may be required to share personal data in response to lawful requests from public authorities including to meet national security and/or law enforcement requirements.
+  * _Safety_ – We may disclose your information to protect and defend the safety of iThemes in connection with investigating and preventing fraud or security issues.
+  * _Consent_ – iThemes may share your information with your consent.
 
-All emails sent to you directly by iThemes.com include valid postal address information in the footer. Emails sent to you directly by iThemes.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
-### Section 8: Our Contact Information
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via
+_**YOUR CHOICES**_
 
-**Email:** salesATiThemesDOTcom (Please replace ?AT? with @ and ?DOT? with .)  
-**Contact Page:** <https://ithemes.com/contact>  
-**Mailing Address:** 1720 S. Kelly Ave. Edmond, OK 73013
+You may unsubscribe from receiving promotional or marketing emails from iThemes at any time by using the “unsubscribe” link in the email received, or by emailing us at privacy@ithemes.com. As outlined in the Section, Information We Collect, you can also control your cookie settings.
+
+With respect to your account information, you may update, correct or delete information that you provided to us by logging into your iThemes account or contacting us at privacy@ithemes.com.
+
+_**DATA RETENTION AND SECURITY**_
+
+When iThemes no longer has a legitimate business need to process your personal information, or no longer has a need to keep your personal information for any legal, tax, or regulatory reason, we will either delete or anonymize it.
+
+iThemes takes all reasonable steps to protect information received from you from loss, misuse or unauthorized access, disclosure, alteration, and/or destruction. We maintain technical, physical, and administrative safeguards to secure your information, and we use industry standard Secure Socket Layer (SSL) encryption for your data that is transferred over the internet. Despite its use of encryption, iThemes cannot guarantee any method of transmission of information over the internet is 100% secure. If you have any questions about the security of your personal information, please contact us at privacy@ithemes.com.
+
+_**LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**_
+
+For individuals in the EEA, iThemes’ legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it. iThemes will process personal information from you where, a) we have your consent to do so, b) where processing is necessary for iThemes to perform Services pursuant to an agreement, or c) where processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information, or may otherwise need the personal information to protect your vital interests or those of another person. At any time, you have the right to withdraw or decline consent. If you do not provide the requested information, iThemes will not be able to perform Services for you. Also, you have the right to object where we rely on our legitimate interests to process your personal information.
+
+_**INTERNATIONAL TRANSFERS**_
+
+iThemes is a US company and stores your information in the U.S. iThemes may transfer your personal information to countries other than the country in which you live. Whenever iThemes transfers personal information originating from the EEA or Switzerland to other countries not deemed adequate under applicable data protection law, it will do so on the basis of the EU Standard Contractual Clauses.
+
+_**DATA SUBJECT RIGHTS**_
+
+Individuals located in the EEA may have additional statutory rights available to them with respect to their personal information, including the right to access your personal information, have it erased, have it corrected, or object to or restrict processing. If you would like to make such a request, please email privacy@ithemes.com and we will respond within thirty (30) days. iThemes will need to verify that the individual is inquiring about his/her own information before we can assist with the request.  
+We will comply with such requests to the extent legally required by applicable law. For EU individuals, you also have the right to lodge a complaint with the supervisory authority.
+
+_**CHILDREN**_
+
+Our Website and/or Services is not directed at children and our services are designed for consumers and businesses. We do not knowingly collect information from or about children under 13 years of age, and use of our services by children under 13 years of age is forbidden.
+
+_**CHANGES TO PRIVACY POLICY**_
+
+iThemes reserves the right to modify this Privacy Policy at any time, however, should we change the Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you disagree with the changes, you may terminate your Services.
+
+_**CONTACT US**_
+
+If you have any questions or concerns over this Privacy Policy, or wish to exercise any of your statutory rights, please contact us at:
+
+iThemes Media, LLC Privacy Matters  
+c/o Liquid Web, LLC  
+Attn: Director of Security  
+2703 Ena Drive  
+Lansing, MI 48917  
+USA  
+Email – privacy@ithemes.com
