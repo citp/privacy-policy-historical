@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romprovider.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021192327id_/http%3A//romprovider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romprovider.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627121053id_/https%3A//romprovider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ROM-Provider
 
@@ -43,9 +43,9 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense and other ad Network Policy-**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at https://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
- **Changes to this privacy policy-**
+**Changes to this privacy policy-**
 
 RomProvider.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -60,4 +60,6 @@ and also check terms [Here](http://romprovider.com/terms-conditions/)
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 RomProvider.com
 
-This document was last updated on May 2017
+Last update changes: added more transparency.
+
+This document was Created on jan 2017. Last updated on May 2018
