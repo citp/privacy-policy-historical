@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711023313id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627225130id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D Magazine
 
@@ -104,4 +104,4 @@ Children’s Online Privacy**
 
 Consistent with the Children’s Online Privacy Protection Act (“COPPA”), this Site is not intended for use by anyone under the age of 13.  _D Magazine_  does not knowingly collect personal information from children through this Site, or any of its Web sites. Minors between the ages of 13 and 17 must obtain the permission of their parents or legal guardians before making purchases of any type on this Site.
 
-If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at feedback@dmagazine.com.
+If you are a parent with concerns about children’s privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
