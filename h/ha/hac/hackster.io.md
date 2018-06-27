@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213201233id_/https%3A//www.hackster.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627175108id_/https%3A//www.hackster.io/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Hackster.io
 
@@ -61,7 +61,6 @@ Because we want to be able to focus on building a great product, we have outsour
   *  **New Relic:** they analyze our servers' performance.
   *  **Sendgrid:** they power our emails.
   *  **Google Analytics:** they store data about traffic and visitors, which allows us to better understand how our site is being used and thus figure out how we could make it better.
-  *  **Keen:** similar to Google Analytics but allows us to track specific events. We use it to fine tune the user experience, and specifically to make it easier to accomplish actions on Hackster.
   *  **Mailchimp:** we send newsletters through them.
   *  **Uservoice:** they power the help and feedback widget in the bottom right corner.
   *  **Gravatar:** they create unique avatars for everyone who hasn't uploaded one.
