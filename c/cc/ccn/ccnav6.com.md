@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ccnav6.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226204620id_/https%3A//ccnav6.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccnav6.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627154544id_/https%3A//ccnav6.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CCNA v6.0 (R&S) Exam Answers 2016 - 2017
+# Privacy Policy
+
+Privacy Policy
+
+3.5 (4) votes 
 
 At **CCNAv6.com** the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by **CCNAv6.com** and how it is used.
 
