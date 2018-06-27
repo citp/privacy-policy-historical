@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003143813id_/https%3A//www.gamedev.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627223259id_/https%3A//www.gamedev.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameDev.net
 
