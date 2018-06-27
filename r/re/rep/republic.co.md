@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928134212id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republic.co privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627192607id_/https%3A//republic.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Republic
 
-Nothing is more important to us than the trust of our users. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how Republic collects, uses and discloses any personal information you provide when using the services, websites, and applications offered by Republic (the “Services”), and the choices available to you regarding our use of your information. This Privacy Policy is subject to our Terms of Service. 
+Nothing is more important to us than the trust of our users. 
 
-* * *
+We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how Republic collects, uses and discloses any personal information you provide when using the services, websites, and applications offered by Republic (the “Services”), and the choices available to you regarding our use of your information. This Privacy Policy is subject to our Terms of Service. 
 
 ##  Information We Collect and How We Use It 
 
@@ -12,9 +12,7 @@ We collect information that may personally identify you (“Personally Identifia
 
 We may automatically collect information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the web browser used to visit the Site, the time the Site is visited, which web pages were visited on the Site, a unique mobile device identified, and other anonymous Site usage data. We may use third party analytics services which provide us with a clearer picture of how you use the Site, such as where you click on the Site, non-sensitive text entered into the Site, and mouse movements. 
 
-We also may use cookies and web beacons. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. If you choose to make an account, we provide private messaging services between users; while we do not monitor these messages, we will periodically select a few to review for compliance and audit purposes 
-
-* * *
+We also may use cookies and web beacons. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. If you choose to make an account, we provide private messaging services between users; while we do not monitor these messages, we will periodically select a few to review for compliance and audit purposes. 
 
 ##  How We Share and Use Your Information 
 
@@ -26,35 +24,26 @@ If you choose to make your investment public through whatever means provided by 
 
 Republic does not sell any customer data to third-party firms, protecting your data is of the highest priority to us. 
 
-* * *
-
 ##  Information Provided in Discussion Forums 
 
 Offerings on Republic all include a publicly accessible discussion forum as well as an “investment reason” forum. Additionally, other pages on the Site allow for public comment and discussion. You should be aware that any information you provide in these forums may be read, collected, and used by the Site’s users and the general public; Information that you disclose in any of these forums is unencrypted, public information, and there is no expectation of privacy or confidentiality there; we reserve the right to use all public posts on the Site for marketing purposes. Please refrain from disclosing any Personally Identifiable Information about yourself or anyone else in these discussion forums. 
 
 Note also that in the ordinary course of Internet activity, certain information may be sent from your browser to third parties such as advertising networks and analytics companies. Republic has no control over the information sent from your browser to those networks or other third parties and recommends that you ensure that your browser settings prevent the disclosure of information you would not like to share. 
 
-* * *
-
 ##  Your Choices About Your Information 
 
-You may, of course, decline to submit Personally Identifiable Information through the Services, in which case Republic may not be able to provide certain Services to you. In addition, you may update or correct your account information and email preferences at any time by logging into your account. If you would like us to remove your Personally Identifiable Information from our database, please send a request to team@republic.co. 
+You may, of course, decline to submit Personally Identifiable Information through the Services, in which case Republic may not be able to provide certain Services to you. In addition, you may update or correct your account information and email preferences at any time by logging into your account. If you would like us to remove your Personally Identifiable Information from our database, please send a request to [team@republic.co](mailto:team@republic.co). 
 
-When you sign up for our Services, we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails or you can contact us at team@republic.co. You may also edit your email preferences 
-
-* * *
+When you sign up for our Services, we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [team@republic.co](mailto:team@republic.co). You may also edit your email preferences [here](https://republic.co/email/preferences). 
 
 ##  Your California Privacy Rights 
 
-California’s “Shine The Light” law permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personally Identifiable Information” (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please email team@republic.co or mail your request to Republic, 524 Broadway, New York, NY 10012. 
-
-* * *
+California’s “Shine The Light” law permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personally Identifiable Information” (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please email [here](https://republic.co/email/preferences) or mail your request to:   
+Republic, 335 Madison Ave, New York, NY 10017. 
 
 ##  Changes to Our Privacy Policy 
 
 We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. Any changes or updates will be effective immediately upon posting to this page. You should review this Privacy Policy regularly for changes. You can determine if changes have been made by checking the Effective Date below. Your continued use of our Site following the posting of any changes to this Privacy Policy means you consent to such changes. 
-
-* * *
 
 ##  Security and Storage of Your Information 
 
@@ -66,13 +55,9 @@ The Services are maintained in the United States of America. Although we welcome
 
 **Opt out of certain cookies tracking:** The Site uses tools to facilitate the collection of information. For example, the Site uses Google Analytics, if you wish to disable Google Analytics from all websites you visit (not limited to this Site), you can follow this [link.](https://tools.google.com/dlpage/gaoptout) You can read the other relevant privacy policies [here](https://fullstory.com/legal/privacy) , [here](https://mixpanel.com/privacy/) , [here](https://www.helpscout.net/company/privacy/) and [here.](https://rollbar.com/privacy/) Please contact us if you wish to opt out of any of the tools we use. Please note, we reserve the right to add more tools or disable tools and will update this Privacy Policy to reflect these changes. 
 
-* * *
-
 ##  How to Contact Us 
 
-If you have any questions about our practices or this Privacy Policy, please contact us at team@republic.co 
-
-* * *
+If you have any questions about our practices or this Privacy Policy, please contact us at [team@republic.co](mailto:team@republic.co)
 
 ##  Effective Date 
 
