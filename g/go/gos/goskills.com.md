@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221232930id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164127id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
 
-# Privacy policy | GoSkills.com
+# Privacy policy | GoSkills
 
 ## Please read our privacy policy, part of our [terms of use](https://web.archive.org/Terms).
 
@@ -16,7 +16,7 @@ We reserve the right to collect any other information at our discretion, and to 
 
 ## Business/Organization access
 
-In the case of services provided on a business/organizational basis, for example where you redeem a coupon issued for your business's/organization’s staff to use, business/organization administrators will have access to your user profiles, course, progress and certificates, regardless of whether those courses were paid for by the business/organization. If you would prefer that your business/organization does not see information about those courses for which the business/organization has not paid, you may use multiple GoSkills accounts, with separate email addresses for different courses. 
+In the case of services provided on a business/organizational basis, for example where you redeem a coupon issued to your business/organization, business/organization administrators will have access to your user profile, courses, progress, certificates and other activity, regardless of whether those courses were paid for by the business/organization. If you would prefer that your business/organization does not see information about those courses for which the business/organization has not paid, you may use multiple GoSkills accounts, with separate email addresses for different courses. 
 
 ## Data storage
 
@@ -45,6 +45,10 @@ We will not use (nor allow third parties to use) such tools to track or collect 
 ## Advertising
 
 We use remarketing services to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example viewing the information page for a course might mean you see an advertisement for the course on a search results page. Third-parties sometimes use cookies to serve ads based on someone’s past visits to the website. Of course, any data collected will be used in accordance with our own privacy policy and the third parties’ privacy policies. Some third parties allow you to set preferences for how they advertise to you, and if you want to you can opt out of interest-based advertising entirely by using cookie settings or permanently by using a browser plugin. 
+
+## General Data Protection Regulation (GDPR)
+
+The EC issued a formal decision recognizing New Zealand’s legal standards as being sufficient for Article 25(2) of European Union (EU) Directive 95/46/EC: that is that New Zealand’s law provides an “adequate level of data protection”. The shorthand often used is that New Zealand has “EU adequacy” or is “an adequate third country”. While GoSkills’ compliance with New Zealand’s privacy legislation is therefore sufficient, it is expected that New Zealand’s privacy legislation will continue to be developed and align more and more closely with the GDPR. GoSkills will continue to improve its alignment with the principles of both New Zealand legislation and the GDPR. 
 
 ## Links to other sites
 
