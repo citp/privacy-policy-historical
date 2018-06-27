@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904034110id_/https%3A//www.extension.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627101607id_/https%3A//www.extension.org/privacy) for the most accurate reproduction.*
 
 # eXtension Privacy Policy – eXtension
 
-_(Updated 1 February 2017)_
+_(Updated 22 May 2018)_
 
-Your privacy is important to eXtension Foundation (“ **eXtension** ”). This privacy policy (“ **Privacy Policy** ”) provides you with information regarding the personal information collected during your visits to the eXtension website (the “ **Site** ”), how it is used, with whom it may be shared and what choices you have regarding collection and distribution of your personal information.
+Your privacy is important to eXtension Foundation (“ **eXtension** ”). This privacy policy (“ **Privacy Policy** ”) provides you with information regarding the personal information collected during your visits to this eXtension website (the “ **Site** ”), how it is used, with whom it may be shared and what choices you have regarding collection and distribution of your personal information. This site is not intended to be used by residents either outside the U.S. or within the EU/UK.
 
 eXtension reserves the right, at any time, to modify this Privacy Policy. If eXtension makes revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy. You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices. We will note the effective date of the latest version of our Privacy Policy at the beginning of this Privacy Policy.
 
