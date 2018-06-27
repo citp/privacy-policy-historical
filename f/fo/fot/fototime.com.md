@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225115418id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627072818id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
 
 # FotoTime - Privacy Statement
 
