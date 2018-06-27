@@ -1,131 +1,114 @@
-> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515082224id_/http%3A//us.rd.yahoo.com/default/%2Ahttp%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627154608id_/http%3A//info.yahoo.com/privacy/us/yahoo/details.html) for the most accurate reproduction.*
 
-# Yahoo! Privacy Policy
+# Welcome to the Oath Privacy Center | Oath Policies
 
-## WHAT THIS PRIVACY POLICY COVERS
+_In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digital and mobile media company and part of[Verizon](http://www.verizon.com/about/privacy/).  We’re now bringing Oath and Yahoo under a single privacy policy.  Some things haven’t changed, like the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the [legacy Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) or [legacy Oath Privacy Policy (for AOL)](http://privacy.aol.com/legacy) still apply to your account.  For Oath products or services that are accessed without signing into an account, this Privacy Policy applies to those products and services starting May 25, 2018.  If you are creating a new account, the terms below apply starting today.  _
 
-### Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+_Last updated: April 2018_
 
-The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
+#### Our Privacy Pledge
 
-### How Yahoo! Uses Your Personal Information
+Our commitment is to put users first.  We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.  This Privacy Policy is meant to help you understand what information Oath, its [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) and its house of global [brands](https://www.oath.com/our-brands/) (“Oath,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to Oath [brands](https://www.oath.com/our-brands/), websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).  Additional privacy practices for certain Services can be found in  Details for Specific Products and Services.
 
-This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+#### Your Controls
 
-### This privacy policy only applies to Yahoo!
+We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at [Privacy Controls](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).  Some of our Services provide additional controls and privacy practices.  (See, Details for Specific Products and Services)
 
-This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
+#### Information Collection and Use - General
 
-### Yahoo!'s participation in the Safe Harbor program
+We may collect and combine information when you interact with Oath Services including:
 
-Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
-
-Return to top
-
-## INFORMATION COLLECTION AND USE
-
-### General
-
-Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://info.yahoo.com/privacy/us/all/), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-
-Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-
-Yahoo! automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
-
-Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-### Children
-
-When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
-
-Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-
-Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
-
-Return to top
-
-## INFORMATION SHARING AND DISCLOSURE
-
-Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * **Information You Provide to Us.   **We may collect the information that you provide to us, such as: 
+    * When you create an account with an Oath Service or brand. (Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.)  Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
+    * When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
+    * Oath analyzes and stores all communications content, including email content from incoming and outgoing mail.  This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
+    * When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Oath software such as plugins.
+    * When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
+  * **Device Information.**  We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.  This information includes device specific identifiers and information such as [IP address](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/ipaddress/index.html), [cookie information](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html), mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.  We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. 
+  * **Location Information.**  We collect location information from a variety of sources.  You can learn more about and manage your location permissions on our [Locations page](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/location/index.html) and by visiting the location settings tool on your devices.  
+  * **Information from Cookies and Other Technologies.**
+    * We collect information when you access content, [advertising](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html), sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath’s data collection technologies (such as [web beacons](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/webbeacons/index.html), development tools, [cookies and other technologies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html), etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
+    * This information also includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
+  * **Information from Others.**  We collect information about you when we receive it from other users, third-parties, and [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html), such as: 
+    * When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
+    * From publicly-available sources.
+    * From advertisers about your experiences or interactions with their offerings.
+    * When we obtain information from third-parties or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/appenddata/index.html), such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us. 
+    * We may also receive information from Verizon and will honor the choices Verizon customers have made about the uses of this information when we receive and use this data.
 
 
 
-Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
+#### How We Use This Information
 
-  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.  We also may use the information we have about you for the following purposes: 
 
-
-
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/yahoo/thirdparties/). 
-
-Return to top
-
-## COOKIES
-
-Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer.
-
-Yahoo! lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies.
-
-Yahoo! uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
-
-### Your Ability to Edit and Delete Your Account Information and Preferences
-
-  
+  * Provide, maintain, improve, and develop relevant features, content, and Services.  
+  * Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/communications/faq/index.html)).  You can review and control certain types of information tied to your Oath account by using [Privacy Controls](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html). 
+  * Fulfill your requests and when authorized by you. 
+  * Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
+  * Match and serve targeted advertising (across devices and both on and off of our Services) and provide [targeted advertising](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/adserving/index.html) based on your device activity, inferred interests and location information.  
+  * Contact you with information about your account or with marketing messages, which [you can also control](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html). 
+  * Associate your activity across our Services and your different devices as well as associate any accounts you may use across Oath Services together.  We may associate activity and accounts under a single user ID. 
+  * Carry out or support [promotions](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/promotions/index.html).
+  * Conduct research and support innovation. 
+  * Create analytics and reports for external parties, including partners, publishers, advertisers, apps, [third-parties](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
+  * Provide location-based Services, advertising, search results, and other content consistent with your [location settings](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).
+  * Combine information we have about you with information we obtain from business partners or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/appenddata/index.html), such as your activities on other sites and apps.
+  * Detect and defend against fraudulent, abusive, or unlawful activity.
 
 
-### General
 
-You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+We provide you with controls to manage your experience with us.  For example, you can review or edit your [account information](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html), manage your [marketing preferences](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html), or [opt out of targeted ads](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/controls/index.html).  If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. 
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+#### How We Share This Information
 
-We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them. 
+Oath shares information within its affiliated brands and companies and with Verizon.  We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with [third-party apps and widgets](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html)).  We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:
 
-You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+  * **With Your Consent.   **We will share information with companies, organizations or individuals outside of Oath when we have your consent. 
+  * **With Verizon.   **As part of Verizon, Oath and its [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) may, to the extent permitted by law and consistent with user controls, share information with Verizon and Verizon affiliates. This information will be used consistent with [Verizon’s privacy policy](http://www.verizon.com/about/privacy/privacy-policy-summary).    
+  * **Within Oath.   **Information may also be shared within Oath, including with other Oath Services and [affiliates](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html).  Oath affiliates may use the information in a manner consistent with their privacy policies.
+  * **With Partners.   **We may share your information with nonaffiliated companies who are: 
+    * **Trusted Partners.   **We provide user information to trusted partners who work on behalf of or with Oath based on our directions and in compliance with appropriate confidentiality measures.  [Learn more](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html). 
+    * **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).   **We may share aggregated or [pseudonymous](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html).  For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.  We do not share information that personally identifies you (personally identifiable information is information like name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps, or [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html).   
+When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.   
+We allow [other companies](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/thirdparties/index.html) that show advertisements on our webpages or apps to collect information from your browsers or devices.  Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.  Like many companies, we may allow cookie matching with select partners.  But, these parties are not authorized to access Oath cookies.  
+  * **For Legal and Other Purposes.**  We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests; (ii) enforcement of the [Terms](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/terms/otos/index.html); (iii) claims that any content violates the rights of third-parties; (iv) requests for customer service; (v) technical issues; (vi) protecting the rights, property or personal safety of Oath, its users or the public; (vii) establishing or exercising our legal rights or defending against legal claims; or (viii) as otherwise required by law. 
+    * This may include responding to lawful governmental requests.  Learn more about how we [evaluate and respond to these requests](https://transparency.yahoo.com/principles). 
+  * **New Ownership.**  If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. 
 
-### Children
 
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://info.yahoo.com/privacy/us/family/details.html). 
 
-If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+#### Details for Specific Products and Services
 
-Return to top
+Additional privacy practices for certain Oath Services are included [here](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/index.html).
 
-## CONFIDENTIALITY AND SECURITY
+**Information Security and Data Retention**  
+Oath has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.      
+To learn more about security, including the steps we have taken and steps you can take, please read [Security at Oath](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/security/index.html).
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+#### Protecting Children’s Privacy
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+Our Services are for a general audience.  We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law.  With parental permission, a child under age 13 might have an Oath Family Account. Visit [Children's Privacy & Family Accounts](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/products/family/index.html) to learn more about children’s privacy at Oath.
 
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/).
+#### Data Processing and Transfers
 
-### CHANGES TO THIS PRIVACY POLICY
+When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.  Some of these countries may not have the same data protection safeguards as the country where you reside. 
 
-Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.  By using our Services, you consent to us transferring information about you to these countries.  For more information, please visit our [Data Transfer](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/topics/datatransfer/index.html) page.
 
-Return to top
+#### Other Important Information
 
-## QUESTIONS AND SUGGESTIONS
+**This Privacy Policy Applies Only to Oath.   **This Privacy Policy does not apply to the practices of companies that Oath does not own or control, or to people that Oath does not employ or manage.  In addition, some [affiliated products](https://web.archive.org/web/20180626060751id_/https://policies.oath.com/us/en/oath/privacy/definitions/index.html) (such as Tumblr) may have different privacy policies and practices that are not subject to this Privacy Policy. 
 
-If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+#### Changes
 
-Yahoo! Inc.  
+We may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.  
+
+#### Questions & Suggestions
+
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
+
+Oath  
 Customer Care - Privacy Policy Issues  
 701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070
-
-If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
-
-Last Updated: October 28, 2008
-
-Return to top
+Sunnyvale, CA 94089
