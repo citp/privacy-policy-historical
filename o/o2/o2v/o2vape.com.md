@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the o2vape.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104102701id_/http%3A//o2vape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2vape.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627112852id_/https%3A//o2vape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - O2VAPE
 
-**DES Products LTD DBA as o2vape Privacy Policy**
+**DES Products LTD DBA as O2VAPE Privacy Policy**
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -133,7 +133,7 @@ We collect your email address in order to:
 To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-contact@o2vapes.com and we will promptly remove you from ALL correspondence.
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
 
  **Online Privacy Policy Only**
 
@@ -147,10 +147,10 @@ By using our site, you consent to our website privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-DES Products LTD DBA as o2vape  
+DES Products LTD DBA as O2VAPE  
 8213 Secor Rd. #583  
 Lambertville MI 48144  
 United States
 
-contact@o2vapes.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 855-978-6518
