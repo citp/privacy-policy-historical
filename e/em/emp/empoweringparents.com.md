@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117163510id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035850id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Empowering Parents
 
-#### _Effective as of August 2015_
+#### _Effective as of May 25, 2018_
 
 We want you to feel secure when visiting the EmpoweringParents.com web site (the “Web Site”) and are committed to maintaining your privacy when doing so. Please take a moment to read this Privacy Policy, which describes the online data collection and usage policies and practices that apply to the Web Site. By using the Web Site, you consent to the policies and practices described in this Privacy Policy. If you do not agree with these policies and practices, please discontinue your use of the Web Site.
 
-This Web Site is made available by the Legacy Publishing Company (“Legacy Publishing”), and all references herein to “we” or “us” refer to Legacy Publishing. All references herein to “you” or “user” refers to any person that accesses and/or uses the Web Site.
+_EmpoweringParents.com currently does not market to or offer services to individuals in the European Union (EU)._
+
+This Web Site is made available by the Advantage Media Group (DBA “EmpoweringParents.com”), and all references herein to “we” or “us” refer to EmpoweringParents.com. All references herein to “you” or “user” refers to any person that accesses and/or uses the Web Site.
 
 We reserve the right, in our sole discretion, to modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Web Site so that you can always find out what information we gather, and how we might use that information. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the personal information we collect. Your continued use of this Web Site after any changes have been posted constitutes your agreement to the changes.
 
@@ -22,7 +24,7 @@ We may disclose personal information to contractors or service providers that he
 
 We may share some or all of your personal information with our subsidiaries and affiliates, joint venturers, or other companies under a common control (collectively, “affiliates”), in which case we will require these affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
-We may disclose personal information to third parties when we reasonably believe we are required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person or violations of Empowering Parent’s Terms of Use.
+We may disclose personal information to third parties when we reasonably believe we are required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person or violations of EmpoweringParents.com’s Terms of Use.
 
 #### Non-Personally-Identifiable Information
 
@@ -32,21 +34,27 @@ We may use non-personally-identifiable information to determine which pages you 
 
 #### California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of Empowering Parents who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding twelve calendar months. If you are a California resident and would like to make such a request, please submit your request in writing to:
+California Civil Code Section 1798.83 permits customers of EmpoweringParents.com who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding twelve calendar months. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
 Empowering Parents  
-10 Speirs Streets  
-Westbrook, ME 04092  
+325 Main Street  
+Suite 114  
+Waterville ME 04901  
 (207) 856-5600  
 service@empoweringparents.com
 
-Empowering Parents may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your personal information in this way, send your request to:
+EmpoweringParents.com may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your personal information in this way, send your request to:
 
 Empowering Parents  
-10 Speirs Streets  
-Westbrook, ME 04092  
+325 Main Street  
+Suite 114  
+Waterville ME 04901  
 (207) 856-5600  
 service@empoweringparents.com
+
+#### European Union Privacy
+
+EmpoweringParents.com is a U.S.-based site and currently does not market to or offer services to individuals in the European Union (EU). If you are located or reside within the EU, please do not sign up for emails, create an account, or provide EmpoweringParents.com with any personal information.
 
 #### Children’s Privacy
 
@@ -85,7 +93,8 @@ To access the personal information that this site has collected about you, to co
 ### CONTACT US
 
 Empowering Parents  
-10 Speirs Streets  
-Westbrook, ME 04092  
+325 Main Street  
+Suite 114  
+Waterville ME 04901  
 (207) 856-5600  
 service@empoweringparents.com
