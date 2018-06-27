@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120033913id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628011034id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
 
-# Sun Basket: Privacy Terms | Sun Basket | Healthy Meals Delivered
-
-## Privacy Policy
+# Privacy Terms | Sun Basket | Healthy Meals Delivered
 
 Last Updated on August 18, 2014
 
@@ -72,8 +70,8 @@ If you believe that Sun Basket has not adhered to this Privacy Policy you may wr
 
 Sun Basket Inc. (care of Cooley LLP)  
 Attn: Privacy Officer  
-1 Clarence Pl, Suite 10  
-San Francisco, CA 94107  
+5215 Hellyer Ave  
+San Jose, CA 95138  
 United States of America  
 [help@sunbasket.com](mailto:help@sunbasket.com?subject=Privacy)
 
