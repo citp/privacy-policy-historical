@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisdaylive.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229091725id_/http%3A//www.thisdaylive.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisdaylive.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627065552id_/http%3A//www.thisdaylive.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | THISDAYLIVE
+# Privacy Policy - THISDAYLIVE
 
 ##  Privacy Policy  
 THISDAY NEWSPAPERS LTD
