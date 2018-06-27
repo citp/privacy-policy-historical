@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212053155id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627150114id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html) for the most accurate reproduction.*
 
 # WorldofVolley ::
 
 **  Introduction**
 
-**Questions.** If you have any questions or concerns about our privacy policy, contact our privacy team through this [Help and FAQ page](https://web.archive.org/FAQ.html). 
+**Questions.** If you have any questions or concerns about our privacy policy, contact our privacy team through this [Help and FAQ page](https://web.archive.org/about-wov/FAQ.html). 
 
 **Scope.** This privacy policy covers all of WorldofVolley. By using or accessing WorldofVolley, you agree to our [Privacy Policy](https://web.archive.org/about-wov/Privacy_Policy.html).
 
-**No information from children under age 13.** If you are under age 13, please do not attempt to register for WorldofVolley or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please C[ontact Us](https://web.archive.org/contact.html).
+**No information from children under age 13.** If you are under age 13, please do not attempt to register for WorldofVolley or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please [Contact Us](https://web.archive.org/about-wov/contact.html).
 
 **Parental participation.** We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
 
@@ -20,13 +20,13 @@ Information About Yourself.
 
 ** When you [Create WoV Account](https://web.archive.org/about-wov/WoV_Account.html) you provide us with your name and email. During the registration process we give you the opportunity to connect with other players, coaches, managers and agencies. You will also be able to add a picture of yourself. In some cases we may ask for additional information for security reasons or to provide specific services to you. Once you register you can provide other information about yourself by connecting with, for example, your current club, national team, personal statistics, videos and much more.  You can also provide your personal information.
 
-**Content.** One of the primary reasons people use WorldofVolley is to share content with others. Examples include when you update your information, upload or take a photo, upload a video, make a comment on BPR, write something on Forum, write a note, or send someone a M[essage](https://web.archive.org/about-wov/WoV_Features.html). If you do not want us to store metadata associated with content you share on WorldofVolley (such as photos), please remove the metadata before uploading the content.
+**Content.** One of the primary reasons people use WorldofVolley is to share content with others. Examples include when you update your information, upload or take a photo, upload a video, make a comment on BPR, write something on Forum, write a note, or send someone a [Message](https://web.archive.org/about-wov/WoV_Features.html). If you do not want us to store metadata associated with content you share on WorldofVolley (such as photos), please remove the metadata before uploading the content.
 
 **Transactional Information.** We may retain the details of transactions or payments you make on WorldofVolley.   
 
 **2\. Information we collect when you interact with WorldofVolley**
 
-**Site activity information.** We keep track of some of the actions you take on WorldofVolley, such as confirming R[equests](https://web.archive.org/FAQ/Requests.html) (including joining a manager/agency), creating a photo album or creating a video album. In some cases you are also taking an action when you provide information or content to us. For example, if you share a video, in addition to storing the actual content you uploaded, we might log the fact that you shared it.
+**Site activity information.** We keep track of some of the actions you take on WorldofVolley, such as confirming [Requests](https://web.archive.org/about-wov/WoV_Features.html) (including joining a manager/agency), creating a photo album or creating a video album. In some cases you are also taking an action when you provide information or content to us. For example, if you share a video, in addition to storing the actual content you uploaded, we might log the fact that you shared it.
 
 **Access Device and Browser Information.** When you access WorldofVolley from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, as well as the pages you visit.
 
@@ -67,7 +67,7 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 **To contact you.** We may contact you with service-related announcements from time to time. You may opt out of all communications except essential updates on your account notifications page. We may include content you see on WorldofVolley in the emails we send to you.
 
-**To serve personalized advertising to you.** We don’t share your information with advertisers without your consent. (An example of consent would be if you asked us to provide your shipping address to an advertiser to receive a free sample.) We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. For example, we might use your interest in soccer to show you ads for soccer equipment, but we do not tell the soccer equipment company who you are. You can see the criteria advertisers may select by visiting our A[dvertising Page](https://web.archive.org/about-wov/advertise.html). Even though we do not share your information with advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may place a cookie in your browser and note that it meets the criteria they selected.
+**To serve personalized advertising to you.** We don’t share your information with advertisers without your consent. (An example of consent would be if you asked us to provide your shipping address to an advertiser to receive a free sample.) We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. For example, we might use your interest in soccer to show you ads for soccer equipment, but we do not tell the soccer equipment company who you are. You can see the criteria advertisers may select by visiting our [Advertising Page](https://web.archive.org/about-wov/advertise.html). Even though we do not share your information with advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may place a cookie in your browser and note that it meets the criteria they selected.
 
 **To serve social ads.** We occasionally pair advertisements we serve with relevant information we have about you and other members to make advertisements more interesting and more tailored to you and others from WoV.
 
@@ -75,7 +75,7 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 **To make suggestions.**   We use your information, including the addresses you import through our contact importers, to make suggestions to you and other users on WorldofVolley. For example, if another user imports the same email address as you do, we may suggest that you add each other as friends.  Similarly, if one of your friends uploads a picture of you, we may suggest that your friend tag you in the picture. We do this by comparing your friend’s pictures to information we’ve put together from the photos you’ve been tagged in.  We may also suggest that you use certain tools and features based on what your friends have used.  You can control whether we suggest that another user add you as a friend through your “search for you on WorldOfVolley” privacy settings. You can control whether we suggest that another user tag you in a photo by clicking customize from your privacy settings.
 
-**Memorializing Accounts.** If we are [contacted](https://web.archive.org/contact.html) that a user is deceased, we may memorialize the user’s account.  We may close an account if we receive a formal request from the user’s next of kin or other proper legal request to do so.
+**Memorializing Accounts.** If we are [contacted](https://web.archive.org/about-wov/contact.html) that a user is deceased, we may memorialize the user’s account.  We may close an account if we receive a formal request from the user’s next of kin or other proper legal request to do so.
 
 **6\. How We Share Information**
 
@@ -105,19 +105,19 @@ WorldofVolley is about sharing information with others — people in your commun
 
 **Deactivating or deleting your account.** If you want to stop using your account you may deactivate it or delete it. When you deactivate an account, no user will be able to see it, but it will not be deleted. We save your profile information (connections, photos, etc.) in case you later decide to reactivate your account. Many users deactivate their accounts for temporary reasons and in doing so are asking us to maintain their information until they return to WorldofVolley. You will still have the ability to reactivate your account and restore your profile in its entirety. When you delete an account, it is permanently deleted from WorldofVolley. You should only delete your account if you are certain you never want to reactivate it. 
 
-**Limitations on removal.** Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your A[ccount Settings](https://web.archive.org/user/settings.html), or it was copied or stored by other users. However, your name will no longer be associated with that information on WorldofVolley.  Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested.
+**Limitations on removal.** Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your [Account Settings](https://web.archive.org/user/settings.html), or it was copied or stored by other users. However, your name will no longer be associated with that information on WorldofVolley.  Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested.
 
 **Backup copies.** Removed and deleted information may persist in backup copies for up to 90 days, but will not be available to others.
 
 **8\. How We Protect Information**
 
-We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on WorldofVolley, visit the WorldofVolley [Security Page](https://web.archive.org/privacy.html).
+We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on WorldofVolley, visit the WorldofVolley [Security Page](https://web.archive.org/about-wov/Privacy_Policy.html).
 
 **Steps we take to keep your information secure.** We keep your account information on a secured server behind a firewall. When you enter sensitive information (such as credit card numbers and passwords), we encrypt that information using secure socket layer technology (SSL). We also use automated and social measures to enhance security, such as analyzing account behavior for fraudulent or otherwise anomalous behavior, may limit use of site features in response to possible signs of abuse, may remove inappropriate content or links to illegal content, and may suspend or disable accounts for violations of our [Statement of Rights and Responsibilities](https://web.archive.org/about-wov/terms/Statement-of-Rights-and-Responsibilities.html).
 
 **Risks inherent in sharing information.** Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on WorldofVolley will not become publicly available. We are not responsible for third party circumvention of any privacy settings or security measures on WorldofVolley. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-**Report Violations.** You should report any security violations to us on this C[ontact Page](https://web.archive.org/contact.html).
+**Report Violations.** You should report any security violations to us on this [Contact Page](https://web.archive.org/about-wov/contact.html).
 
 **9\. Other Terms**
 
