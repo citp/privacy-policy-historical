@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storybundle.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111214702id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybundle.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627230642id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - StoryBundle
 
