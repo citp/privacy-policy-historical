@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livestly.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230823id_/http%3A//livestly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestly.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201753id_/http%3A//livestly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We reserve the right to transfer information (including your Personal Informatio
 
 When you use our Website, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. For information about your choices regarding targeted advertising from third party advertising networks, please see the section below on “Cookies and Automatic Data Collection; Advertising Networks.”
 
-Please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Website. If you ask us to delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.
+Please email us at privacy@livestly.com or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Website. If you ask us to delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.
 
 **COOKIES AND AUTOMATIC DATA COLLECTION; ADVERTISING NETWORKS**
 
@@ -70,7 +70,7 @@ Currently, we do not intend to share your Personal Information with third partie
 
 Please note that whenever you choose to share your Personal Information with a third party or to allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use your Personal Information and other information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-California Customers may request further information about our compliance with California’s privacy law by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address.
+California Customers may request further information about our compliance with California’s privacy law by emailing privacy@livestly.com or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address.
 
 **YOUR CONTENT**
 
@@ -84,4 +84,4 @@ Your continued use of the Website following the effective date of an updated Pri
 
 **CONTACT US**
 
-To ask questions about our Privacy Policy, obtain more information, or to lodge a complaint, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To ask questions about our Privacy Policy, obtain more information, or to lodge a complaint, please contact us at: contact@livestly.com
