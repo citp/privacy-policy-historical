@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the spottedbylocals.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222002701id_/http%3A//www.spottedbylocals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spottedbylocals.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024112id_/http%3A//www.spottedbylocals.com/privacy-policy) for the most accurate reproduction.*
 
 # Cookie & privacy policy | Spotted by Locals blog
 
-_Last updated: October 22, 2017_
+_Last updated: June 19, 2018.  
+_
 
-Spotted by Locals (“us”, “we”, or “our”) operates the Spotted by Locals mobile application (the “Service”).
+This page sets out the cookies used on our sites and **how to opt out of or reject cookies**.
+
+Spotted by Locals (“us”, “we”, or “our”) operates the Spotted by Locals website & mobile application (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -12,15 +15,13 @@ We will not use or share your information with anyone except as described in thi
 
 We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-**Information Collection And Use**
-
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address and name (“Personal Information”).
-
 **Cookies**
 
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
 We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+`Revoke`
 
 **Third Party Cookies**
 
@@ -35,6 +36,12 @@ The **Google AdSense** service we use to serve advertising uses a DoubleClick co
 For more information on Google AdSense see the official [Google AdSense privacy FAQ](https://support.google.com/adsense/answer/3394713?hl=en#1).
 
 The behavioral advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by anonymously tracking your interests and presenting similar things that may be of interest.
+
+**Opt out of behavioral targeting**
+
+You can visit the following sites to opt-out of the ad networks (occasionally) used on our website:  
+1\. [Google Adsense](https://www.google.com/settings/u/0/ads/authenticated)  
+2\. [Facebook](https://www.facebook.com/help/568137493302217)
 
 **Security**
 
@@ -68,4 +75,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](http://www.spottedbylocals.com/contact/).
+If you have any questions about this Privacy Policy, please [contact us](https://www.spottedbylocals.com/contact/).
