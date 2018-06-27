@@ -1,116 +1,250 @@
-> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116071916id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201452id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – TicketSwap
+# Privacy Statement – TicketSwap
 
-Last update: October 2017
+Last update: May 2018
 
-TicketSwap respects your privacy. We comply with the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens) and the Dutch Telecommunications Act (Telecommunicatiewet). In this Privacy Policy you can read what kind of personal data we collect and how we store, protect and use your personal data. Furthermore, you can read for which purposes we will use your personal data and with whom your data will be shared. 
+TicketSwap respects your privacy. We comply with the Dutch Data Protection Act ([Algemene verordening gegevensbescherming](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-nieuwe-europese-privacywetgeving)), the [Dutch Telecommunications Act](http://wetten.overheid.nl/BWBR0009950/2018-05-01) (Telecommunicatiewet) and the [European General Data Protection Regulation](https://www.eugdpr.org/) (“GDPR”). In this Privacy Statement you will learn what kind of personal data we collect and how we store, protect and use your personal data. Furthermore, you will understand for which purposes we will use your personal data and with whom your data will be shared.
 
-## What does this Privacy Policy apply to?
+This Privacy Statement applies to your use of the "Websites" ticketswap.com (related websites such as ticketswap.nl, ticketswap.be, ticketswap.fr, ticketswap.de, ticketswap.it, ticketswap.pt, ticketswap.fi, ticketswap.pl, ticketswap.ch, ticketswap.at) and the mobile application "Apps" offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.
 
-This Privacy Policy applies to your use of the " **Websites** " www.ticketswap.com (related websites such as www.ticketswap.nl, www.ticketswap.be, www.ticketswap.fr, www.ticketswap.de, www.ticketswap.it, www.ticketswap.pt, www.ticketswap.fi, www.ticketswap.pl, www.ticketswap.ch, www.ticketswap.at) and the mobile application " **Apps** " offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.
+Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This statement is intended to help you understand:
 
-## Personal data
+  * What information we collect about you
+  * How we use information we collect
+  * How we share information we collect
+  * How we store and secure information we collect
+  * How we transfer information we collect internationally
+  * How to access and control your information
+  * Other important privacy information
 
-In this Privacy Policy, your " **personal data** " means information or pieces of information that could allow you to be identified.
 
-## Your consent
 
-TicketSwap will not collect, use or disclose your personal data without your consent. Therefore, we ask you to agree to this Privacy Policy before you can use our Websites or Apps.
+### Your consent
 
-## Are you sixteen years or younger?
+TicketSwap will not collect, use or disclose your personal data without your consent. Therefore, we ask you to agree to this Privacy Statement before you can use our Websites or Apps.
 
-If you are sixteen years or younger, you have to obtain permission from your parents or legal guardian to use our Websites and Apps.
+## 1\. What information we collect about you
 
-## Which personal data do we process?
+Your personal data may be collected in several ways, for example when you visit our Websites, register on our Websites, buy or sell a ticket, subscribe to the newsletter, fill out a form, contact us or use our services.
 
-Your personal data may be collected in several ways, for example when you visit our Websites, register on our Websites, place an order, subscribe to the newsletter, fill out a form, contact us or use our services.
+We will ask you to create an account using an email address and password or login with one of your social media accounts (e.g. Facebook or Twitter). In addition, you may be asked to add other personal information (e.g phone number).
 
-We will ask you to create an account via Facebook. By doing so, we ask you to share your public profile, list of friends, email address, date of birth and current residence with us, which data we will process. You may be asked for your phone number, which data we will also process.
+By interacting (visiting website, buying and/or selling tickets, etc.) with our website we collect additional data which is considered to be personal. In this Privacy Statement, your "personal data" means information or pieces of information that could allow you to be identified. At TicketSwap we collect the following personal data:
 
-We also process your IP address, the history of your transactions, payment details, browser language and – if you have given us permission – your geolocation.
+  * General 
+    * Name
+    * Date of birth
+    * Gender
+    * City and country of residence
+    * Telephone number
+    * Email address
+    * Avatar
+  * Payment details 
+    * IBAN
+    * Tokenized payment details
+    * Bank account holder name
+    * PayPal account email address
+  * Social media 
+    * Facebook app specific ID
+    * Twitter ID
+  * Electronic identifiers 
+    * IP address
+    * Cookies
+    * Pixels
 
-In addition we may also process non-personal data whenever you interact with our Websites. This data may include your browser name, the type of your computer and technical information about your means to connect to our Websites (such as the operating system and the utilized internet service providers).
 
-## How do we use your personal data?
+
+### Data retention
+
+Our policy is to only store and process personal data that is is essential in providing you with the best service possible. We do not store or process personal data we don’t use. Our data retention policy can be split between active (based on date of last login) and inactive users.
+
+For active users we store essential personal data (used to identify your location for VAT purposes) for 10 years after the last transaction you made to comply with tax requirements. We use ip address, Facebook country, IBAN country and country given in your profile as measures to locate you. For inactive users and information relating to active users (considered to be non-essential for tax purposes) we store your information for 5 years after your last login.
+
+## 2\. How we use information we collect?
 
 We use and process the personal data you have provided us with for the purposes described below.
 
-  * We use your Facebook profile picture, name, the amount of your Facebook friends and your residence to complete your account. These "Facebook data" will be shown on our Websites when you sell tickets to make the selling and buying of secondhand tickets safer for (potential) buyers. We further use the Facebook Data for audience targeting purposes, namely in order to exclude existing TicketSwap users from our Facebook campaigns.
-  * We use your phone number to check whether it belongs to you and to check whether it is real. When you sell tickets, the check of your phone number (and not the phone number itself) will be shown on our Websites to make the selling and buying of secondhand tickets safer for (potential) buyers.
-  * If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see [this page](https://web.archive.org/faq/buyers/67/wat-is-een-secure-swap).
-  * We use your email address to send you information and updates about your order. We may also send you information about topics that might be interesting for you. You can unsubscribe from these services at any time.
-  * We use the data about your browser language, your IP address and geolocation in order to address you in a language you speak and to show you content that relates to the country you reside in. 
-  * In case of fraud, we will share your personal data with the victim in order to allow this person to file a report with the police. We will not share more data than necessary for the report, and we will notify you in advance when we are about to share your data for this purpose.
+### Facebook data
 
+We use your Facebook ID, avatar, name, Facebook email address and friends and your residence to complete your account. These "Facebook data" will be shown on our Websites and mobile apps when you sell tickets to make the selling and buying of second hand tickets safer for (potential) buyers. We further use Facebook IDs for marketing purposes, which is described further in this privacy policy.
 
+You have the option of removing your Facebook profile from your TicketSwap account, which by doing so removes your Facebook ID. We will keep your avatar, name, (number of) friends, email address and residence as part of your profile with us.
 
-## Who do we share your personal data with?
+### Twitter data
 
-TicketSwap does _not_ sell, trade, or rent personal data to third parties.
+When you connect your Twitter account, we collect your Twitter ID, username, name, location, followers count, friends count, number of status updates protected yes/no, verified yes/no and account creation date.
 
-## Third-party service providers
+### Phone number
 
-In order to render our services, there are data that we will need to share with third-party service providers.These third parties act as Data Processor within the meaning of the relevant privacy legislation. As Data Controller within the meaning of the relevant privacy legislation, the data processing still takes place under our responsibility. By means of Data Processing Agreements, we contractually oblige all the Data Processors we work with, not to process the data for any other purpose than as instructed by us.
+We check your phone number whether it belongs to you and check whether it is real. When you sell tickets, the verification of your phone number (and not the phone number itself) will be shown on our Websites to make the selling and buying of second hand tickets safer for (potential) buyers. Your phone number is also a mean for us to contact you in case we have to urgently reach you.
 
-In particular, we want to inform you about the following third party service providers: 
+### Secure Swap
 
-If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket, cancelling the old ticket or contacting the buyer with relevant info about the event.
+If you make use of our “Secure Swap” service as a buyer, we will share your email address and name to the ticket provider. The ticket provider re-issues the second-hand ticket and provides you with a new authentic ticket. For more information on Secure Swap see this [page](https://www.ticketswap.com/help/item/67).
 
-For payments made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment.
+### Email address
 
-For audience targeting purposes, we make use of the services of Facebook Custom Audience, see [Facebook Business](https://www.facebook.com/business/help/341425252616329) for more information. By means of this service, we exclude existing TicketSwap users from our Facebook campaigns. This means that the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed format. In this respect, Facebook acts as a third party service provider and as a Data Processor. Facebook is contractually obliged not to use said data for any other purpose than to render its audience targeting services. See [here](https://www.facebook.com/ads/manage/customaudiences/tos.php) for the relevant terms.
+We use your email address to send you information and updates about your transaction(s). We may also send you information about topics that might be interesting for you through a newsletter. You can unsubscribe from our newsletters at any time.
 
-## Generic aggregated (non-personal) data
+### Electronic location
 
-We may share generic aggregated data with our business partners, trusted affiliates and advertisers. In such case the data will be fully anonymized.
+We use the data about your browser language, your IP address and geolocation in order to communicate with you in a language you speak and to show you content that relates to the country you reside in.
 
-## How do we protect your personal data?
+### Fraud
 
-We work hard to protect your personal data from unauthorized or unlawful access, alteration, disclosure, use or destruction. We encrypt our services using SSL, the data is only accessible through a secret password and digital signatures, and our employees only have access to your data on a need-to-know basis. We use appropriate data collection, storage and processing practices.
+In case of fraud, we will share your personal data with the victim in order to allow this person to file a report with the police. We will not share more data than necessary for the report, and we will notify you in advance when we are about to share your data for this purpose. In addition, when we are contacted by your bank or credit card company for the suspicion of fraud we will cooperate and share essential personal data to help them prevent fraud and money laundering.
 
-## Cookies
+## 3\. How we share information we collect
 
-We may use cookies to enhance your experience when you use our Websites. A cookie is a small text file, containing a string of characters that can be placed on your device when you visit a website. This text file uniquely identifies your browser or device. When you visit our Websites again, the cookie allows our Websites to recognize your browser or device. You can change your cookie settings in your browser, if you don’t want cookies to be sent to your device. Please note that some Website features or services of our Websites may not function properly without cookies.
+In order to render our services, there is data that we will need to share with third-party service providers. These third parties act as Data Processor within the meaning of the relevant privacy legislation. As Data Controller within the meaning of the relevant privacy legislation, the data processing still takes place under our responsibility. By means of Data Processing Agreements, we contractually obligate all the Data Processors we work with, not to process the data for any other purpose than as instructed by us.
 
-We use the following types of cookies on our Websites:
+In particular, we want to inform you about the following third party services:
 
-_Technical cookies:_ these are cookies that are essential for the operation of our Websites, they enable you to move around our Websites and use our features.
+By using our **Secure Swap service** (which you can recognize by the SecureSwap logo), your email address and name is shared with the ticket provider (e.g. Paylogic). These third parties are contractually obliged to not use your data for any other purpose than providing the buyer with a new ticket, cancelling the old ticket or contacting the buyer with relevant info about the event.
 
-_Analytical/statistical cookies:_ we use these cookies to track visitor statistics. We use these statistics to continuously improve the Websites and mailings, and thus offer you relevant content. These cookies also allow us to recognize and count the number of visitors and to see how visitors navigate when they’re using our Websites. This helps us to improve user navigation and ensure users to find what they need more easily.
+For **payments** made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment. These third parties share your bank account holder name and tokenized payment details with us.
 
-_Tracking cookies:_ these cookies monitor clicking behaviour and surfing habits. By means of these cookies we can see whether and when you view your profile, and whether you click through to our websites.
+For **marketing** , we make use of third parties. We use these third parties to provide you and potential new users with relevant advertisements. We use the services of third by (i) excluding existing TicketSwap users from our acquisition campaigns, (ii) retarget existing users and (iii) create similar audiences based on TicketSwap users.
 
-## Third party websites
+For **mass messaging** we use third parties to send out text messages and emails to verify your account, to notify on completed transactions, to send newsletters and support related matters.
 
-You may find advertising or other content on our Websites that link to the websites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these websites and are not responsible for the practices employed by websites linked to or from our Websites. In addition these websites or services, including their content and links, may be constantly changing. These websites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites that are linked to our Websites, are subject to the terms and policies of that website.
+We use tools for sending out emails and text messages, which are further elaborated in the list of third parties.
 
-## Modifications to this Privacy Policy
+Your personal information is **stored** by highly secured third party cloud storage on servers located in the European Union. Access to this data is secured with the latest available security tools and limited to authorized employees. Some of your personal information is stored at third parties in the United States, which is discussed under 5.
 
-We can update our Privacy Policy from time to time. When we change this Privacy Policy in a significant way, we will post a notification on our Websites along with the updated Privacy Policy. We may also notify you via your email address, and request you to accept the updated Privacy Policy before you can continue your use of our Apps and Websites.
+We may share **generic aggregated data** with our business partners and trusted affiliates. In such case the data will be fully anonymized.
 
-## Your rights and who to contact
+Please note that TicketSwap does not sell, trade, or rent personal data to third parties.
+
+For a full list of third party service providers refer to the following link.
+
+## 4\. How we store and secure information we collect
+
+We work hard to protect your personal data from unauthorized or unlawful access, alteration, disclosure, use or destruction. We encrypt all traffic using Secure Sockets Layer (SSL). In addition, we use appropriate data collection, storage and processing practices.
+
+## 5\. How we transfer information we collect internationally
+
+We collect information globally and primarily store that information in Ireland and the Netherlands. We transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Whenever we transfer your information, we take steps to protect it.
+
+Some of the third parties described in this Privacy Statement, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of customers in the European Economic Area or Switzerland, we make use of the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
+
+To learn more about the Privacy Shield Program, see [here](https://www.privacyshield.gov/welcome).
+
+## 6\. How to access and control your information
 
 You have the right to tell us if you:
 
-  * don't want to be contacted in the future by us;
+  * do not want to be contacted in the future by us;
   * would like a copy of the personal information which we have processed about you;
   * would like us to correct, update or delete your personal information in our records;
-  * wish to report any misuse of your personal information
+  * wish to report any misuse of your personal information.
 
 
 
-If you have any questions, comments or concerns about how we handle your personal data, please contact us .
+**Please note that you can also view, edit or delete your personal data by logging in to your personal account.**
 
-Please note that you can also view, edit or delete your personal data by logging in to your personal account.
+If you have any questions, comments or concerns about how we handle your personal data, please contact us on [privacy@ticketswap.com](mailto:privacy@ticketswap.com). We will do our best to respond to any of the above requests within 30 days.
 
-**TicketSwap B.V.  
+## 7\. Other important privacy information
+
+### 7.1 Cookies
+
+We may use cookies to enhance your experience when you use our Websites. A cookie is a small text file, containing a string of characters that can be placed on your device when you visit a website. This text file uniquely identifies your browser or device. When you visit our Websites again, the cookie allows our Websites to recognize your browser or device. You can change your cookie settings in your browser, if you don’t want cookies to be sent to your device. Please note that some features or services of our Websites and mobile app may not function properly without cookies.
+
+We use the following types of cookies on our Websites:
+
+Technical cookies: these are cookies that are essential for the operation of our Websites, these enable you to move around our Websites and use our features.
+
+Analytical/statistical cookies: we use these cookies to track visitor statistics and behaviour. We use these statistics to continuously improve the Websites, marketing channels, mailings, and thus offer you relevant content. These cookies also allow us to recognize and count the number of visitors and to see how visitors navigate when they’re using our Websites. This helps us to improve user navigation and ensure users to find what they need more easily.
+
+Tracking cookies: these cookies monitor clicking behaviour and surfing habits. By means of these cookies we can see whether and when you view your profile, and whether you click through to our websites.
+
+For more information about cookie tracking used for advertisements customised to your interests and how you can opt out to these cookies by using to [Your Online Choices](http://www.youronlinechoices.eu/) or [Cookiebot](https://www.cookiebot.com/en/).
+
+Click here if you want to opt-out from tracking cookies:
+
+### 7.2 Are you sixteen years or younger?
+
+If you are sixteen years or younger, you are not allowed to register your profile on our website based on stringent parental consent requirements from the General Data Protection Regulation. If you want to register on our website you have to obtain permission from your parents or legal guardian to use our Websites and Apps.
+
+### 7.3 Third party websites
+
+You may find advertising or other content on our Websites that links to the websites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these websites and are not responsible for the practices employed by websites linked to or from our Websites. In addition these websites or services, including their content and links, may be constantly changing. These websites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites that are linked to our Websites, are subject to the terms and policies of that website.
+
+### 7.4 Giving access to your mailbox on the Apps
+
+When you create a listing in our Apps, you have the option to give us access to your mailbox to search for tickets to sell. You give us access by logging in to your Gmail or Outlook (incl. Hotmail and Live), after which we receive a unique access token from Google/Microsoft. We do not store any information from your mailbox nor access your mailbox other than when you are selecting your tickets to sell.
+
+### 7.5 Modifications to this Privacy Statement
+
+We can update our Privacy Statement from time to time. When we change this Privacy Statement in a significant way, we will post a notification on our Websites and Apps along with the updated Privacy Statement. We may also notify before using our services that our Privacy Statement has been updated. You need to agree to the updated privacy statement before you can continue to use our websites and App.
+
+TicketSwap B.V.  
 Rokin 75  
 1012KL Amsterdam  
-The Netherlands  
+The Netherlands
+
 T: 020-3080676  
-Email: info@ticketswap.nl  
+Email: privacy@ticketswap.com  
 KVK: 59084952  
 BTW: NL853310488B01  
-www.ticketswap.com**  
+www.ticketswap.com
 
+## List of third parties
+
+### Payments
+
+#### Stripe
+
+In performing its services, Stripe acts as a Data Processor for TicketSwap. As a payment services provider, Stripe however also has its own obligations with regard to your personal data. Stripe can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations Stripe performs as a data controller, Stripe’s [privacy policy](https://stripe.com/nl/privacy) applies.
+
+When processing payments or payouts we may use Stripe to process payments made to us and to other users. In such event your payment information will be transmitted to Stripe via an encrypted connection. Stripe uses and processes your payment information, such as bank account number in accordance with Stripe’s privacy policy. We only store tokenized data in connection with the processing of payments (incl. last 4 digits credit card number) ourselves.
+
+#### Mollie - only for EUR payments
+
+In performing its services, Mollie acts as a Data Processor for TicketSwap. As a payment services provider, Mollie however also has own obligations with regard to your personal data. Mollie can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations Mollie performs as a data controller, Mollie’s [privacy policy](https://www.mollie.com/en/privacy) applies.
+
+#### Przelewy24 (“P24”) - only for PLN payments
+
+In performing its services, P24 acts as a Data Processor for TicketSwap. As a payment services provider, P24 however also has own obligations with regard to your personal data. P24 can therefore also be regarded as a Data Controller with regard to your personal data. For any data processing operations P24 performs as a data controller, P24 [privacy policy](https://www.przelewy24.pl/eng/privacy-policy) applies.
+
+### Marketing/Analytics
+
+#### Facebook
+
+For Facebook we use the services of Facebook Custom Audiences, see Facebook Business for more information. This means that the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed format. In this respect, Facebook acts as a third party service provider and as a Data Processor. Facebook is contractually obliged not to use said data for any other purpose than to render its audience targeting services. See [here](https://www.facebook.com/business/gdpr) for the relevant terms.
+
+#### Google AdWords
+
+Google AdWords is an online advertising service developed by Google Inc. (“Google”) where advertisers pay to display brief advertising copy, product listings, and video content within the Google ad network to web users (Google Display Network, Google Search, YouTube etc.). For example, you may see certain ads on this website, mobile placements or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts (such as: re-marketing/re-targeting purposes). You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests. See [here](https://adwords.googleblog.com/2018/03/changes-to-our-ad-policies-to-comply-with-the-GDPR.html) for the details and relevant terms.
+
+#### Google Analytics
+
+Google Analytics is a web analysis service provided by Google. Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected are cookies and usage data. See [here](https://privacy.google.com/businesses/compliance/#?modal_active=none) for the details.
+
+#### Firebase
+
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google. In order to understand Google's use of Data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites). Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. This application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.
+
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. See [here](https://firebase.google.com/support/privacy/) for the details. Moreover; We’re also using Firebase for Push Messages. We send notification messages to drive user re-engagement and retention to our mobile apps.
+
+#### Segment
+
+Segment is one place to collect customer data and send it to our tools for analytics (e.g. Google Analytics, Firebase) and marketing purposes (e.g. Google Adwords, Facebook Pixel etc.).
+
+Essentially Segment is a company that helps us process our customer data. We collect personal data and cookies to identify the users and pushing data to Segment to connect with other 3rd party products for analytical and marketing purposes. See [here](https://segment.com/docs/legal/privacy/) for the details.
+
+### Mass messaging
+
+#### Mailgun
+
+We use Mailgun to send emails to our users. We share your different types of personal data with Mailgun depending on what kind of message we send. Whenever we use the services of Mailgun the Mailgun [privacy policy](https://www.mailgun.com/privacy-policy) applies.
+
+#### MessageBird
+
+We use MessageBird to send text messages (SMS) to our users. We share your phone number, and SMS content. The SMS content could contain personal information to directly address you (e.g. name). Whenever we use the services of MessageBird the MessageBird [privacy policy](https://www.messagebird.com/en/privacy) applies.
+
+#### SecureSwap
+
+For our SecureSwap service we have partnered up with various ticket providers. We have entered into data processing agreements with those ticket providers, as to safeguard your personal data as much as possible. Refer to [here](https://www.ticketswap.com/partners) for the full list of partnered ticket providers and organizers.
