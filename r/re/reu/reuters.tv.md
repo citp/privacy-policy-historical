@@ -1,148 +1,103 @@
-> *The following text is extracted and transformed from the reuters.tv privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627090803id_/http%3A//www.reuters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reuters.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174817id_/https%3A//www.reuters.tv/privacy) for the most accurate reproduction.*
 
-# Business & Financial News, Breaking US & International News | Reuters.com
+# Reuters TV - Privacy
 
-Below is the main Privacy Statement for Reuters. There will be additional Privacy Statements that apply to other services connected with this site offered by Thomson Reuters Corporation. Please read these at the time you register or subscribe for these services.
+## SCOPE
 
-At Reuters we collect different types of information about our visitors and consumers for four main reasons:
+Your privacy is important to Thomson Reuters. This Privacy Statement applies to the online collection and sharing of personal and other information via the Reuters TV application operated by Thomson Reuters and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline, through Thomson Reuters websites, or through other Thomson Reuters applications. Reuters TV may contain links to or options for users to integrate with sites and services maintained by third parties such as Facebook, Twitter, and LinkedIn. These third party sites and services are not operated or managed by Thomson Reuters and we have no control over information, content, preferences, etc., you chose to submit to, share with or that is otherwise collected by them. As such, you should refer to those sites’ privacy statements for further information related to their privacy practices.
 
-  1. To provide personalised services unique to individual visitors and consumers.
-  2. To help us to monitor and improve the services we offer to you.
-  3. To sell advertising space on Reuters websites.
-  4. Only with the consent of each consumer, to market our services to individual consumers.
+## DEFINITIONS
 
+In this Privacy Statement
 
+  * the terms "Personal Information" or "Personally Identifiable Information" means your name, address, phone number, email address, payment card information, and/or certain additional categories of information that identify you personally; and 
+  * the terms "Personal Information" and "Personally Identifiable Information" do not include username, technical information (for example, Unique Device Identifier or "UDID," Media Access Control "MAC" address, Apple’s Identifier For Advertising or "IFA," and Internet Protocol or "IP" address), or numbers or alpha-numeric identifiers assigned by us, third-parties, or your computer. 
 
-Please follow the links below for further information.
 
-  * Reuters Principles
-  * How Reuters May Use Your Information
-  * Updating Your Personal Information
-  * Who Reuters May Share Your Information With
-  * Use of Cookies
-  * About Reuters Advertising
-  * Legal Information
-  * How to Contact Reuters About Your Personal Information, and/or this Privacy Statement
-  * Changes to this Privacy Statement
 
+## PERSONAL INFORMATION WE COLLECT
 
+When you register for our services or order products via our site, we ask you to provide certain Personal Information such as your name, address, phone number, email address, payment card information. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) as described in this Statement below. 
 
-#### Reuters Principles
+If you contact us for customer support, we may ask you to provide information about your computer/mobile device or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes. 
 
-  1. Reuters does our utmost to protect your privacy through the appropriate use of security technology. This means: 
-    1. We ensure that we have appropriate physical and technological security measures in place to protect your information. 
-    2. We ensure that when we use other services providers for any processes, these service providers also have appropriate security measures in place to protect your information. 
-  2. Reuters respects your privacy. You should only receive marketing emails from Reuters and/or from Reuters preferred third parties which you have agreed to. It will be made clear to you where you have these choices. For example, by providing check boxes for you to decide whether you wish to receive these offers in marketing. Reuters may, however, email you occasionally with information or questions about your account. 
-  3. Reuters will only collect and use your information where we have legitimate business reasons, and we are legally entitled to do so. 
-  4. Reuters will be transparent about the information we will collect on you and how we will use your information. 
-  5. Reuters will only use your information for the purpose(s) for which they were originally collected and we will ensure any old information is securely disposed of. 
-  6. Reuters is accessible via the internet. This means that any collected information can be accessed from anywhere in the world. 
-  7. If Reuters or our service providers transfer your information outside of your country, or outside the European Economic Area (EEA), all protection required under the law shall remain in place. 
+We don't share any of the Personal Information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
+## WHAT OTHER INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DO WE USE IT?
 
+We collect information about our users, including username, purchased content, network and device information, and usage data, in the following ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web server & application logs, through cookies, beacons, and through the use of local storage, including but not limited to, through local shared objects or "flash cookies," as well as other files. The device or devices on which you use Reuters TV will determine, in part, the exact manner in which we collect or store information. 
 
-#### How Reuters May Use Your Information
+We use the information primarily to provide you with a personalized experience that delivers the information, content, resources, and services that are most relevant and helpful to you. 
 
-##### Personal Information You Share With Us
+### Web Server Logs
 
-“Personal Identifiable Information" is the information that identifies you as an individual, such as name, postal address, telephone number, email address, and/or credit card number.
+When you use the Reuters TV application, we will track information about your use of the application and store that information in web server logs. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
 
-Reuters collects Personal Information (PII) ONLY when you submit it to us, including when you register or subscribe for certain Thomson Reuters products and services, complete a survey, or participate in a forum.
+  * Your Internet protocol address 
+  * A unique identifier we assign to your device (or a unique identifier already associated with your device) 
+  * UDID, MAC address, IFA, or similar identifiers 
+  * Information or text that you enter in the application 
+  * The name of your Internet service provider 
+  * Other technical facts regarding your network access 
+  * The city, state, and country where you are using the application 
+  * The kind of operating system and device you use, including version number 
+  * Other technical facts regarding your device 
+  * Language preferences 
+  * The number of links or buttons you click within the application 
+  * The date and time of your visit 
+  * The content you viewed, purchased, or stored 
+  * Certain searches/queries that you conducted via the application 
 
-The Personal Identifiable Information (PII) that Reuters collects is First Name, Last Name, Email Address, Screen Name, Street Address, Zip/Postal Code/Location, and Country. The only mandatory field above is email address when creating a Reuters account.
 
-We also ask optional profile questions that include, Investing Background, Risk Profile, Job Title, Job Function/Occupation, Industry, and no. of Staff/Company Size. None of which are required.
 
-The Reuters Loyalty Survey is another way we gather information about our users. This survey is only presented to registered users who have logged in 4 times during the last 30 days. The following questions will be presented to the user if they are selected, including what industry to do you work, what is your job title, and what size company do you work for. This survey helps us better understand our audience.
+The information we collect in web server logs helps us administer the applications, analyze their usage, protect the application and its content from inappropriate use, and improve the user's experience. 
 
-##### Account Registration
+### Local Storage (cookies and other technologies)
 
-The minimum information we need to register a consumer is an email address and a password. We will ask further questions for different services, including sales promotions. Unless stated, all registration questions are compulsory.
+If you use Reuters TV on a mobile device, we will also store information locally on the device regarding the content that you purchase, access, and view, as well as your username. This information is stored in order to help the application work. This information is deleted from your device when you delete the application. However, unique identifiers that are persistently associated with your device, including UDID, MAC address, or unique identifiers derived from your device’s technical information, will remain the same after deletion of the Reuters TV application. 
 
-We may also ask some further, voluntary questions during registration for certain services so we can gain a clearer understanding of our visitors and consumers. This also enables us to personalize services for our visitors and consumers.
+### Third Party Services
 
-##### Information we Automatically Collect
+We may use services hosted by third parties to assist in providing our services and to help us understand our customers’ use of our products. These services may collect information sent by your device when you use the application, including IP address, type of device, operating system version, unique or persistent identifiers associated with your device (such as UDID, MAC address, IFA, or identifiers derived from your device’s technical information), network information, technical characteristics of your device or its software, language settings, and usage information relating to your use of the application. If and when these third party services collect information, they do so without collecting Personal Information. 
 
-Reuters automatically collects Non-Personally Identifiable Information (Non-PII) on all visitors and consumers interacting with our online services, including your IP address, browser type, operating geography, and pages visited.
+## HOW DOES THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
 
-If you access our Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device ("UDID").
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of your network communications when you use Reuters TV are protected with Secure Sockets Layer (SSL) technology which protects against eavesdroppers by using encryption. Also, we store Personal Information in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we do not guarantee that unauthorized persons will always be unable to defeat our security measures.**
 
-This information is used to personalize your experience across all Reuters platforms. It also allows us to display relevant content, services and advertising to the appropriate audience.
+Also, please note that we may store and process your personal information in systems located outside of your home country, including countries located outside of the European Union. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement. By using this application you consent to your information being collected, used and transferred as described in this privacy statement. 
 
-#### Updating Your Personal Information
+## WHO HAS ACCESS TO THE PERSONAL INFORMATION?
 
-##### For Reuters Registered Consumers
+We will not sell, rent, or lease mailing lists or your Personal Information to others, and we will not make your Personal Information available to any unaffiliated parties, except as follows:
 
-Reuters offers a My Profile page where you can update your personal information at any time, including resetting your password, email subscriptions, and managing your payment information. When you are logged in, you can get to this page from most pages on the site - simply click on [My Account](https://commerce.us.reuters.com/profile) at the top of the screen.
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
+  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
 
-##### For All Reuters Consumers (registered and non-registered)
 
-Reuters offers a way to update your marketing profile information. Simply click on the AdChoices Icon (us the actual Icon here) at the bottom of most pages. A window will popup and allow you to update your marketing preferences or opt-out of targeted advertising. If you opt-out you will continue to see advertising but it will not be tailored to your interests.
 
-#### Who Reuters May Share Your Information With
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
 
-Reuters will not share your personal information with others for marketing purposes unless you have given your permission. With your permission, we will only share your information with carefully chosen third parties.
+We will not disclose your Personal Information to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. 
 
-Reuters may offer via the site third party services, such as video recommendations, article recommendations, social login, social sharing, social commenting, live news feeds, and surveys. Any information which is collected by Reuters when you access a third party service is processed under this Privacy Statement. Information collected by third party operators themselves will be governed by their own privacy statement.
+We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any Personal Information. 
 
-Reuters may use service providers to help us run this site or services available on the site, some of whom may be based outside your country or the European Economic Area. Any third parties who access your data in the course of providing services on our behalf are subject to strict contractual restrictions to ensure that your data is protected, and in compliance with Data Privacy laws. Reuters may also independently audit these service providers to ensure they meet our standards.
+Your access to some of our services and content may be password protected, such as via OnePass. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe. 
 
-#### Use of Cookies
+## HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION, OR UPDATE MY PREFERENCES?
 
-Reuters use cookies and other similar anonymous tracking technologies for a number of reasons.
+You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
 
-  1. Reuters use anonymous cookies for statistical purposes to track how many unique consumers we have and how often they visit the Reuters sites. Reuters collect data about which of our pages are most frequently visited and by which types of visitors and consumers from which countries. 
-    1. Reuters use registration cookies to track if registered consumers are logged in. This allows you to access services that require registration such as purchasing analyses or commenting on articles. You must enable Reuters to place cookies on your computer to register and use services requiring registration. 
-  2. Reuters use cookies with privacy compliant third parties to collect anonymous user information. These third party cookies (flash and non-flash) and web beacons are used for video recommendations, article recommendations, social sharing and other similar services and collect information such as your IP address, browser type, operating geography, and pages visited.
-  3. Both Reuters and third party advertisers use cookies to collect anonymous statistical advertising data. This may include whether a visitor has seen an advertisement and if so, how long ago, how many have seen the advertisement once and how many have seen it more than once. Further information is available below concerning Online Behavioural Advertising.
-  4. Placing cookies on your computer means Reuters may serve you advertisements possibly more interesting to you, and allows us to control the number of times you see advertisements and measure effectiveness of ad campaigns. Further information is available below in the Online Behavioural Advertising section, including how you can opt out of online behavioural advertising.
+* * *
 
+## QUESTIONS?
 
+If you have any questions or concerns related to this statement and/or our practices, please contact us using the "contact us" link in the application, email us at [ReutersTV_support@reuters.com](mailto:ReutersTV_support@reuters.com) or write to us at at:
 
-You can turn cookies off, but if you do this, you may not be able to use some services on the Reuters site, and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will however still be able to view editorial content.
+**Thomson Reuters**  
+3 Times Square  
+New York, NY 10036  
 
-For more information on managing your cookies, including how to turn them off, please review the “Updating Your Personal Information” section above.
 
-By permitting cookies to be used you are agreeing to the use of cookies as described above.
+## PRIVACY STATEMENT CHANGES
 
-#### About Reuters Advertising
-
-Online Behavioural Advertising (OBA) allows us to deliver targeted advertising to visitors to the Reuters sites. OBA works by showing you advertisements which are based on the type of content you have been reading, and delivering advertisements which we believe may be of interest to you.
-
-As you browse Reuters, one of the cookies placed on your computer will be an advertising cookie so we can better understand what sort of pages you are interested in.
-
-The information collected about your computer enables us to group you with other computers who have shown similar interests. We can then display advertising to you which is based on these interests. For instance if you have been reading a lot of Food and Drink articles we may decide to show you more advertisements based on food and drink.
-
-It's important to remember that none of the OBA techniques we employ requires us to collect or use personally identifiable information like your name, email address, postal address or telephone number.
-
-Behavioural retargeting is another form of OBA which enables us and some of our advertising partners to show you ads based on your online reading away from the Reuters site. For example, if you have visited the website of an online clothing shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This allows companies to advertise to visitors who are interested in their content after they leave their website.
-
-Reuters may also want to share behavioural data with other websites. This may mean that when you are on other websites you are served advertising based on your behaviour on Reuters, and on Reuters you may be served advertising based on your behaviour on other sites.
-
-If you want to opt out of receiving online behavioural advertising this does not mean that you will no longer receive advertising when you are using this website. It just means that the advertising you see will not be customised or relevant to you.
-
-If you would like to manage your advertising profile, interests and learn how to opt out of online behavioural advertising, please review the “Updating Your Personal Information” section above. If you would like to further read about OBA please visit <http://www.iab.net/public_policy/behavioral-advertisingprinciples>.
-
-Please visit <http://bluekai.com/privacypolicy.php> for the privacy statement of our online behavioural targeting technology provider.
-
-##### Other Advertising
-
-Reuters contains contextual affiliate links from which we may earn revenue. Our articles are never influenced by advertisers or affiliates, nor are they written for the purpose of promoting a product, except when clearly branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.
-
-#### Legal Information
-
-Please note that Reuters reserve the right to access and disclose personal data to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our visitors and consumers.
-
-#### How to Contact Thomson Reuters about Your Personal Information, and/or This Privacy Statement
-
-For the purposes of Data Privacy legislation, Thomson Reuters is the Data Controller for data collected through Reuters sites, and services provided. Reuters Limited, a Thomson Reuters company, Thomson Reuters Building, 30 South Colonnade, Canary Wharf, London, E14 5EP.
-
-If you would like to obtain a copy of your information held by Thomson Reuters, or have any queries regarding Thomson Reuters use of your information please contact the Global Privacy Officer at the above address, or by emailing [privacy.enquiries@thomsonreuters.com](mailto:privacy.enquiries@thomsonreuters.com)
-
-#### Changes to the Privacy Statement
-
-Should Reuters elect to change our Privacy Statement, we will post the changes here. Where the changes are significant, we may also choose to email all our registered visitors and consumers with the new details. Where required by law, will we obtain your consent to make these changes.
-
-##### Changes to this Policy
-
-November 2011: The Privacy Statement has been completely updated to include further information on marketing preferences, data collection, data sharing, use of cookies and user control over their own personal information on Reuters websites.
+Our Privacy Statement may change at any time. If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on October 7th 2014.
