@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betterhelp.com privacy policy that was archived on 2017-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002133847id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterhelp.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627142114id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
                         
@@ -11,7 +11,10 @@
         <meta notranslate="" name="description" content="Our privacy policy highlights the fact that your privacy is extremely important to us. Review the following policy related to your privacy when using our services.">
     <meta notranslate="" name="keywords" content="">
                     <meta property="og:type" content="website">
-        <meta property="og:title" content="Privacy policy">
+        <meta property="og:title" content="Privacy Policy | BetterHelp">
+                    <meta property="og:url" content="http://www.betterhelp.com">
+            <meta property="og:description" content="BetterHelp offers private, affordable online counseling when you need it from licensed, board-accredited therapists. Get help, you deserve to be happy!">
+            <meta property="og:image" content="https://dy7glz37jgl0b.cloudfront.net/brand/betterhelp/betterhelp-fb-small.jpg">
                 <link rel="shortcut icon" href="//dy7glz37jgl0b.cloudfront.net/brand/betterhelp/favicon.ico" type="image/x-icon">
     <link rel="icon" href="//dy7glz37jgl0b.cloudfront.net/brand/betterhelp/favicon.ico" type="image/x-icon">
     <!-- Apple Touch Icons for mobile safari -->
@@ -25,7 +28,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="//d1acx114sh5reb.cloudfront.net/css/contrib/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="//d1acx114sh5reb.cloudfront.net/css/contrib/font-awesome-animation/0.0.7/css/font-awesome-animation.min.css">
-        <link rel="stylesheet" href="//d1acx114sh5reb.cloudfront.net/css/betterhelp/bh_style.min.507.css">
+        <link rel="stylesheet" href="//d1acx114sh5reb.cloudfront.net/css/betterhelp/bh_style.min.813.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet" type="text/css">
     
         
@@ -35,7 +38,8 @@
                 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KP7H4QL');</script>
+        })(window,document,'script','dataLayer','GTM-KP7H4QL');
+            </script>
     <!-- End Google Tag Manager -->
 
             <!-- Facebook Pixel Code -->
@@ -59,13 +63,9 @@
         <script>
         mixpanel.register({'is_app': 0});
         mixpanel.register({'is_multi_site': 'true' });
-                        
-        
-        
-            </script>
+                            </script>
 
-
-            <script> mixpanel.register({'is_no_trial_bh_2': 'true' });</script>
+                <script> mixpanel.register({'is_no_trial_bh_2': 'true' });</script>
         <script> mixpanel.register_once({ 'landing page': window.location.pathname.substring(1, window.location.pathname.indexOf("/", 1)) }); </script>
 
     <script>
@@ -96,7 +96,7 @@
         userId: ''
     };
 </script>
-<script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/tracker.js?v=10"></script>
+<script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/tracker.js?v=12"></script>
 <!-- END TRACKJS -->    
         
 
@@ -105,20 +105,48 @@
 </head>
 
 <body id="privacy" class="" cdn="d1acx114sh5reb.cloudfront.net">
+        <script>
+        function remove_url_parameter(url, parameter) {
+            //prefer to use l.search if you have a location/link object
+            var url_parts= url.split('?');
+            if (url_parts.length>=2) {
+                var prefix= encodeURIComponent(parameter)+'=';
+                var pars= url_parts[1].split(/[&;]/g);
+
+                //reverse iteration as may be destructive
+                for (var i= pars.length; i-- > 0;) {
+                    //idiom for string.startsWith
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1) {
+                        pars.splice(i, 1);
+                    }
+                }
+
+                url= url_parts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                return url;
+            } else {
+                return url;
+            }
+        }
+        try {
+            var clean_url = remove_url_parameter(window.location.href, 'email');
+            clean_url = remove_url_parameter(clean_url, 'e');
+            window.history.replaceState('', '', clean_url);
+        }
+        catch (e) {}
+    </script>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KP7H4QL"
                       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <div class="overlay-loading-layer hidden" id="loading_overlay">
+    <!-- End Google Tag Manager (noscript) -->    <div class="overlay-loading-layer hidden" id="loading_overlay">
         <div class="overlay-loading"></div>
     </div>
     <div id="body-container">
         
-            <header class=" ">
+            <header class="">
     
     <!-- Branding -->
-    <a class="brand-logo" href="/"><div class="hidden-sm brand"><img src="//dy7glz37jgl0b.cloudfront.net/brand/tmp/betterhelp/icon-color.png?v=16" alt="BetterHelp logo medium"></div></a>
-    <a class="brand-icon" href="/"><div class="hidden-xs hidden-md hidden-lg brand"><img src="//dy7glz37jgl0b.cloudfront.net/brand/betterhelp/icon-color-md.png?v=16" alt="BetterHelp small logo"></div></a>
+    <a class="brand-logo" href="/"><div class="hidden-sm brand"><img src="//dy7glz37jgl0b.cloudfront.net/brand/tmp/betterhelp/icon-color.png?v=17" alt="BetterHelp logo medium"></div></a>
+    <a class="brand-icon" href="/"><div class="hidden-xs hidden-md hidden-lg brand"><img src="//dy7glz37jgl0b.cloudfront.net/brand/betterhelp/icon-color-md.png?v=17" alt="BetterHelp small logo"></div></a>
             
         <!-- Mobile menu button -->
     <div class="mobilemenu-toggle"><i class="fa fa-bars"></i></div>            <!-- Menu -->
@@ -130,14 +158,14 @@
             
             <!-- Right side menu -->
                             <ul class="right">
-                                                                                <a href="/about/" id="about-nav"><li>About</li></a>
-            <a href="/advice/" id="advice-nav"><li>Advice</li></a>
-        <a href="/faq/" id="faq-nav"><li>FAQ</li></a>
-        <a href="/reviews/" id="reviews-nav"><li>Reviews</li></a>
-        <a href="/counselor_application/" id="counselor-nav"><li>For Counselors</li></a>
+                                                                                    <a href="/about/" id="about-nav"><li>About</li></a>
+                    <a href="/advice/" id="advice-nav"><li>Advice</li></a>
+                        <a href="/faq/" id="faq-nav"><li>FAQ</li></a>
+                <a href="/reviews/" id="reviews-nav"><li>Reviews</li></a>
+        <a href="/counselor_application/" id="counselor-nav"><li>Counselor Jobs</li></a>
         <a href="/contact/" id="support-nav"><li>Contact</li></a>
         <a href="/login/" class="btn btn-info" id="login-nav">Login</a>
-    <a href="/start/" class="btn btn-primary" id="get-started-nav">Get started</a>
+                    <a href="/start/" class="btn btn-primary" id="get-started-nav">Get started</a>
                                                                 </ul>
                     </div>
         
@@ -145,11 +173,11 @@
 <div id="notification"></div>
 
         
-        <div id="content-container">
+        <div id="content-container" class=" ">
             <div class="container">
     <form>
         <h1>Privacy Policy</h1>
-    </form>
+    <input type="hidden" name="nonce" value="logged_out_user:$2y$08$65GIFUHe6J/MnDPd2oZR/ucy9UXlVZUN/j3vCu4eK8Myfo0wVugS2:null:1580439650226"></form>
     <ol id="privacy">
         <li>
             <u>This Privacy Policy</u>
@@ -162,7 +190,7 @@
                 <li>
                     Personally Identifiable Information: <p>When you sign up to the Platform, update your account details, provide your billing information, provide your emergency contact information or make other use of our services, we may ask you for personally identifiable information ("Personal Information"). The Personal Information can be used can be used to contact you or identify you and it may include, but not limited to, your name, your email, your phone number, your address and your credit card information. We may use the Personal Information, either by itself or in conjunction with other information, for the following purposes:</p>
                     <ul>
-                        <li>Create your account at our Platform, let you login into the account, administer your account, monitor your account, provide customer service and contact you with information, alerts and suggestions that are related to your account.</li>
+                        <li>Create your account at our Platform, let you log in to the account, administer your account, monitor your account, provide customer service and contact you with information, alerts and suggestions that are related to your account.</li>
                         <li>Billing-related purposes.</li>
                         <li>Reach out to you, either ourselves or using the appropriate authorities, if either we or a Provider has a good reason to believe that you or any other person may be in danger or may be either the cause or the victim of a criminal act.</li>
                         <li>Let a Provider know your first name so he or she can communicate with you effectively.</li>
@@ -272,20 +300,20 @@
             </div>
         </div>
     </div>
-    <input type="hidden" id="csrf_token" value="$2y$08$8RIF0A9MfNOl77gBTFD7nOjO0/o8l8gmxqrLfoAbbLd.ytNgaeOwi">
-</div>
+    <input type="hidden" id="csrf_token" value="$2y$08$0AOKr45nPsyaaY9qet.CWuLV78FT0s..e1vS.x07n.zPIw79XculC">
+</div>    
 <footer>
     <div id="upperbar">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                                                                        If you are in a crisis or if you or any other person may be in danger - don't use this site. <a href="/gethelpnow/">These resources</a> can provide you with immediate help.
+                                                                        If you are in a crisis or any other person may be in danger - don't use this site. <a href="/gethelpnow/">These resources</a> can provide you with immediate help.
                                                             </div>
                 <div class="col-md-6 right">
-                                        <a href="http://www.mentalhealthamerica.net/" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/mha-badge-3.png?v=16" alt="MHA Logo" id="mha-logo"></a>
-                    <a href="http://www.hhs.gov/ocr/privacy/" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/hipaa.png?v=16" alt="HIPAA Logo"></a>
-                    <a href="https://www.ssllabs.com/ssltest/analyze.html?d=www.betterhelp.com/" target="_blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/ssl-secure-bw-logo.png?v=16" alt="SSL Secure Logo"></a>
-                    <a href="http://www.ismho.org" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/ismho.png?v=16" alt="ISMHO Logo"></a>
+                                        <a href="http://www.mentalhealthamerica.net/" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/mha-badge-3.png?v=17" alt="MHA Logo" id="mha-logo"></a>
+                    <a href="http://www.hhs.gov/ocr/privacy/" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/hipaa.png?v=17" alt="HIPAA Logo"></a>
+                    <a href="https://www.ssllabs.com/ssltest/analyze.html?d=www.betterhelp.com/" target="_blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/ssl-secure-bw-logo.png?v=17" alt="SSL Secure Logo"></a>
+                    <a href="http://www.ismho.org" target="blank"><img src="//dy7glz37jgl0b.cloudfront.net/home/ismho.png?v=17" alt="ISMHO Logo"></a>
                                     </div>
             </div>
         </div>
@@ -304,34 +332,49 @@
                                         <a href="/about/"><li>About</li></a>
                                                             <a href="/faq/"><li>FAQ</li></a>
                                                             <a href="/reviews/" id="footer-reviews"><li>Reviews</li></a>
-                                                            <a href="/advice/"><li>Advice</li></a>
-                                                            <a href="/jobs/" id="footer-jobs"><li>Jobs</li></a>
+                                                                                        <a href="/advice/"><li>Advice</li></a>
+                                                                                    <a href="/jobs/" id="footer-jobs"><li>Jobs</li></a>
                                         <a href="/contact/"><li>Contact</li></a>
                                             <a href="/counselor_application/"><li>For Counselors</li></a>
-                                    </ul>
+                                                        </ul>
                         <ul class="lower">
                                 <a href="/terms/"><li>Terms &amp; Conditions</li></a>
                 <a href="/privacy/"><li>Privacy Policy</li></a>
-                <li notranslate="">© 2017 BetterHelp</li>
-            </ul>
+                <li notranslate="">© 2018 BetterHelp</li>
+                            </ul>
         </div>
     </div>
 </footer>
         
         
-            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/jquery/2.2.2/jquery.min.js?v=10"></script>
-            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/bootstrap/3.3.6/js/bootstrap.min.js?v=10"></script>
+            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/jquery/2.2.2/jquery.min.js?v=12"></script>
+            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/bootstrap/3.3.6/js/bootstrap.min.js?v=12"></script>
             <script>
-                var page_info = {"user_type":"logged_out_user","user_id":"$2y$08$aNe9hxA0WRE5LJqV7DmVH.WVtPe6l06220t9ywxFsNk.CndY3nyVC","template":"privacy","is_mobile":false,"is_app":false,"is_local":false,"features":{"urgent_messages":true,"couples":false,"phone_calls":true,"secret_assign_straights":true,"library":false,"livechat":true,"about":true,"counselor_application":true,"worksheets":true,"left_bar_online_indicator":false,"smart_match_with_categories":true,"groupinars":true,"login_quotes":true,"videosessions":true,"app_supports_videosessions":true,"phq_followup":true,"consent_agreement":true,"gmail_quick_action":true,"scheduling":true,"support_link":true,"has_paypal_always":false,"no_trial":false,"strike_through_cake":true,"dollar_test_charge":true,"groupon":true,"editor_online_indicator":true,"mobgo":true,"mental":true,"funnel_smart_match":true,"funnel_overview":true,"email_verification_always":true,"reviews_page":true,"jobs_page":true,"security_logos_display":true,"social_links_display":true,"counselor-directory":true,"social_signup":true,"language_is_matching_hard_filter":false,"advice":true,"presskit":true,"text_notifications":true,"goals":true,"goals_mobile_main_menu":false,"has_offers":true,"batch_creation":true,"referral_program":true,"ask_language":true,"counselors_page":true},"subdomain":"www","cdn_host_assets":"dy7glz37jgl0b.cloudfront.net","assets_app_version":"?v=16","product_code_name":"betterhelp","use_trackjs":true,"trackjs_api_key":"8e343f2dd24f4a45bf5e416e9c3b37e4","trackjs_user":"","default_language_id":1,"csrf_token":"$2y$08$8RIF0A9MfNOl77gBTFD7nOjO0\/o8l8gmxqrLfoAbbLd.ytNgaeOwi"};
+                var page_info = {"user_type":"logged_out_user","user_id":"$2y$08$65GIFUHe6J\/MnDPd2oZR\/ucy9UXlVZUN\/j3vCu4eK8Myfo0wVugS2","template":"privacy","is_mobile":false,"is_app":false,"is_local":false,"features":{"urgent_messages":true,"couples":false,"phone_calls":true,"secret_assign_straights":true,"library":false,"livechat":true,"about":true,"counselor_application":true,"worksheets":true,"left_bar_online_indicator":false,"smart_match_with_categories":true,"groupinars":true,"login_quotes":true,"videosessions":true,"app_supports_videosessions":true,"phq_followup":true,"consent_agreement":true,"gmail_quick_action":true,"scheduling":true,"support_link":true,"has_paypal_always":false,"no_trial":false,"strike_through_cake":true,"dollar_test_charge":true,"groupon":true,"editor_online_indicator":true,"mobgo":true,"mental":true,"funnel_smart_match":true,"funnel_overview":true,"email_verification_always":true,"reviews_page":true,"jobs_page":true,"security_logos_display":true,"social_links_display":true,"counselor-directory":true,"social_signup":true,"language_is_matching_hard_filter":false,"advice":true,"presskit":true,"press_page":true,"text_notifications":true,"goals":true,"goals_mobile_main_menu":false,"batch_creation":true,"referral_program":true,"ask_language":true,"parent_child_account":false,"hardcoded_testimonials":false,"friendly_funnel":true,"counselors_page":true},"subdomain":"www","cdn_host_assets":"dy7glz37jgl0b.cloudfront.net","assets_app_version":"?v=17","product_code_name":"betterhelp","unix_timestamp":1530109265,"use_trackjs":true,"trackjs_api_key":"8e343f2dd24f4a45bf5e416e9c3b37e4","trackjs_user":"","default_language_id":1,"csrf_token":"$2y$08$0AOKr45nPsyaaY9qet.CWuLV78FT0s..e1vS.x07n.zPIw79XculC","presignup_experiments":[]};
             </script>
 
-            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/everywhere.min.507.js"></script>
+            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/everywhere.min.813.js"></script>
 
                         
             
+                            <script>
+                    // Fix for android app trying to use sockets on pause/resume events without checking whether sockets are available on the given page
+                    var socket = {
+                        on: function() {
+                            return false;
+                        },
+                        disconnect: function () {
+                            return false;
+                        }
+                    };
+
+                    var reconnectSocket = function() {
+                        return false;
+                    }
+                </script>
             
-                        <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/jstz.min.js?v=10"></script>
-            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/loggedout.min.507.js"></script>
+                        <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/contrib/jstz.min.js?v=12"></script>
+            <script crossorigin="anonymous" src="//d1acx114sh5reb.cloudfront.net/js/loggedout.min.813.js"></script>
 
             
             <script>
@@ -347,9 +390,37 @@
         
         
             
+            
         
     </div>
 
+    <script>
+
+        function addFormNonces() {
+            var forms = document.querySelectorAll('form');
+            for (var i = 0; i < forms.length; i++) {
+                addFormNonce(forms[i]);
+            }
+        }
+
+        function addFormNonce(form) {
+            // Nonce unique per user per form with random identifier
+            var nonce = page_info.user_type + ":" + page_info.user_id + ":" + form.getAttribute('id') + ":" + Date.now(),
+                nonce_el = form.querySelector('[name=nonce]');
+
+            if (nonce_el) {
+                nonce_el.value = nonce;
+            } else {
+                nonce_el = document.createElement('input');
+                nonce_el.type = 'hidden';
+                nonce_el.name = 'nonce';
+                nonce_el.value = nonce;
+                form.appendChild(nonce_el);
+            }
+        }
+
+        addFormNonces();
+    </script>
     
 <script>
     if (mixpanel) {
