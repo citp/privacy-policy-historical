@@ -1,36 +1,54 @@
-> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830082904id_/https%3A//www.slantmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slantmagazine.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627084831id_/https%3A//www.slantmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slant Magazine
 
 Slantmagazine.com respects your right to the privacy of the personal information you provide us on our website. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Slantmagazine.com will be known only to two parties: you and Slantmagazine.com. The following policy is intended to explain how your personal information will be treated as you make use of our site and its features. Personal information includes your name, street, and email addresses, click-through activity, and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
-**Traffic Data:**
+**Information we collect:**
 
-Each time a visitor comes to Slantmagazine.com, our server—like most on the Web—collects some basic technical information, including, for example, the visitor’s domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to Slantmagazine.com), and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
+1\. Across our site you will be presented with the opportunity to sign up for our Newsletter. For this we collect your email address. If you would like to unsubscribe from our communications at any time, you may do so by following the instructions in our emails.
 
-We also count, track, and aggregate the visitor’s activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within Slantmagazine.com, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.
+2\. We use cookies and analytics tools across our site to collect information about you. This information can be used to improve the performance of the site, make advertising more relevant, and enhance your user experience. If you wish to manage your cookies, please follow the instructions in the “How to manage cookies” section lower on this page.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+**How we use your personal information:**
 
-**Promotion:**
+Advertising: We use third-party advertising companies (Freestar, Google AdSense) to serve ads when you visit our site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-From time to time, Slantmagazine.com may sponsor sweepstakes, contests, or other events which require the collection, processing, and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. Slantmagazine.com may also co-sponsor these events along with other companies, in which case the user’s individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant’s personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user’s consent, and Slantmagazine.com will request that such named sponsors uphold the privacy of the registrants’ information by not distributing or sharing such information with any other businesses or organizations.
+Cookies: We use cookies to understand how our customers use our site and interact with it. For example, we use technology on our site which records user movements, which pages are most popular, and how navigation options are used. This helps us to identify usability issues and improve the assistance we can provide to users and is also used for aggregated and statistical reporting purposes. We also use cookies to understand what type of device you are using to show you the best version of the site.
 
-**Surveys:**
+**Who we share your personal information with:**
 
-Slantmagazine.com will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals.
+We disclose personal information to the advertising partners listed above, through cookies to collect personal information and serve you with advertisements that we believe are relevant to you and your interests.
 
-**Reader Mail:**
+We disclose your email address to a service provider we engage to manage our newsletter delivery. We do not rent or sell our email lists to anyone.
 
-From time to time, Slantmagazine.com will publish emails received from our readers, which may be edited for length and content. In order to protect your privacy, Slantmagazine.com will not publish your e-mail address nor will we sell, trade, or otherwise disclose your contact information to third parties.
+**Other disclosure of personal information:**
 
-**Other Disclosure of Personal Information:**
+Slantmagazine.com will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order, or as requested by other government or law enforcement authority. This policy does not protect information you post to our site via Disqus or any other public forum within our website.
 
-Slantmagazine.com will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order, or as requested by other government or law enforcement authority. This policy does not protect information you post to any online bulletin board, chat room, newsgroup, or other public forum within our website.
-
-**Other Sites:**
+**Other sites:**
 
 Slantmagazine.com contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other websites.
+
+**How to manage cookies:**
+
+If you wish to manage your cookies, please follow the instructions below. Please remember that if you choose to disable cookies, certain sections of our site may not work properly.
+
+You can opt out of behaviorally targeted advertising through Google [here](http://www.google.com/settings/ads).
+
+We also allow other third parties to target you based on data you have provided to them, to the extent that you have consented to this. To opt out of these cookies, please click [here](http://www.youronlinechoices.eu/) for E.U. or [here](http://optout.aboutads.info/?c=2#!/) for U.S.
+
+By opting out of these types of cookies on each browser and device you use, you will stop receiving advertisements that are targeted specifically to you on our site; however you will still see the same number of advertisements, which may include contextual advertisements that are not targeted based on your personal information.
+
+You can also manage your cookies via your browser settings. For more information, please visit your browser’s help page.
+
+**How long we retain your personal information:**
+
+We keep your information for no longer than necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and/or as required to comply with applicable laws.
+
+**How we protect your data:**
+
+All communications with our site, including submission of your email address for Newsletter subscription, is encrypted using SSL (secure sockets layer).
 
 If you have any further questions or concerns about Slantmagazine.com’s privacy policies and use of personal information, please contact us.
 
