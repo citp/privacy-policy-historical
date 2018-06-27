@@ -1,80 +1,212 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221105335id_/http%3A//mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627090413id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Mintel Group Ltd | Mintel.com
+# Privacy | Mintel.com
 
-**Introduction**  
-This policy covers Mintel Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
+## Mintel Privacy Statement
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name, company name, postal address and email address) in order to receive or use services on our website. Such services include purchasing reports, receiving newsletters, competitions, registering for events, completing questionnaires and submitting questions. By entering your details in the fields requested, you enable Mintel to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information Mintel will act in accordance with current legislation, The Data Protection Act 1998 and aim to meet current Internet best practice.
+Mintel are committed to securing your personal data and respecting the choices you make. “Personal data” is any information from which you could be personally identified. This statement informs you of our collection and privacy practices for personal data.
 
-If you have questions or concerns regarding this statement then please contact The Data Controller at Mintel. Contact details can be found at the end of this Privacy Statement.
+Mintel operate our procedures in line with the EU General Data Protection Regulation and/or local applicable laws. 
 
-**Updates to this Privacy Policy & Notification of Changes**  
-This policy may change without notice from time to time and we will post these chances to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our website for 30 days. Please check this page regularly for updates and changes.
+## Our Principles
 
-**The information collected**  
-We ask for personal information (1) when you subscribe to our marketing promotion or alert services, (2) when you want to view detailed information about our products, (3) when you want to submit a question about our products/services to our customer service staff, (4) when you buy products, and (5) as an authorised user belonging to an organisation that has access to one or more Mintel subscription services. The types of personal information that we may collect on these pages are: name, company name, title, mailing address, business description, e-mail address, phone number and fax number.
+We operate a privacy program within Mintel to meet our data protection obligations and principles. Those principles are as follows:
 
-Registering on Mintel sites as is optional. If you choose not to register or provide personal information, you can still use the public Mintel Websites. However, you will not be able to purchase items or receive email alerts, and you may not be able to access our subscription services. Separately, you may choose to sign-up to receive promotional or marketing information from Mintel by selecting the appropriate option.
+### **Be lawful, fair and transparent**
 
-Mintel views all personal information that it collects as a valuable and confidential asset of which we take great care to ensure its safety
+Where we process the personal data of clients, our employees, third parties or private individuals, our practices should be lawful, fair and clear in purpose. To achieve this we shall ensure that we hold a legal basis, consent, or a balanced legitimate business reason to process personal data in our business practices. 
 
-**What we do with the information collected  
-**When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you when you buy from our site and to gather broad demographic identification that will not be tied to your identity.
+_For Example:_
 
-This site also uses “cookies”, which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your search results so you can go back to them) and to keep track of the number of users accessing our site and the information they access. Our information sites will NOT function correctly if you disable cookies.
+  * **Where you are a Mintel client**. To service our relationship, we shall rely upon performance of a contract to offer you support, service update news, collect usage metrics, record interactions during the duration of the relationship.
+  * **Where you have downloaded Mintel content as an interested party**. We will seek and rely upon your consent to offer newsletters, similar content alerts, etc., and offer you the chance to change your preferences.
+  * **Where we connect with you as a potential business client**. We shall describe who we are, why we are contacting you and shall respect your right to end that communication. We will rely upon legitimate interest to perform this business requirement.
 
-For a more thorough discussion of how cookies are used on Mintel sites, including details of how to opt-out of certain services please see our [Cookie Use on Mintel Websites](http://www.mintel.com/cookie-use) page
 
-As an authorised user of an organisation subscribing to Mintel’s services we may use your personal information and the other information we collect to ensure you have access to all of the services you are entitled to, communicate with you about our services, offer you assistance and to help you comply with our terms of use.
 
-The Inspectlet service records user sessions for play back so that we can assess user journeys on our site. This includes mouse movements and clicks on our pages alongside some identifying information about our visitors, their location and website activity.
+### **Provide clear information & choice**
 
-“If You reside outside the United States, You understand that Your Personal Information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in Your country”.  
-Inspectlet sets the following cookies: __insp_norec_sess; __insp_targlpt ; __insp_targlpu; __insp_ref; __insp_nv; __insp_wid; __insp_slim
+Mintel shall be clear on what we do, providing information and choice when collecting and processing personal data. We shall not use personal data in a way incompatible with these principles, our notices and this privacy statement. 
 
-NB: By default we do not allow Inspectlet to record personal information inputted into our forms. 
+Our clients, staff, job applicants and partners will be provided with reasonable means to review, amend and delete personal data each has shared with Mintel. 
 
-To read more details about the Inspectlet service, how we protect your information and how to opt out of participation please see:
+### **Accurate and limited in purpose**
 
-1\. [Inspectlet Privacy policy](https://www.inspectlet.com/legal#privacy "Inspectlet privacy policy")  
-2\. [Inspectlet Managing Personal data](https://www.inspectlet.com/docs#handling_sensitive_data "Inspectlet privacy policy")  
-3\. [Inspectlet Opt-out.](https://www.inspectlet.com/optout "Inspectlet privacy policy")
+We only use personal data for the described purposes or entirely compatible purposes in accordance with law. We shall take reasonable steps to ensure that personal data remains accurate, complete and current. Mintel respect your data rights.
 
-We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.
+### **Data security**
 
-Mintel Group maintains a strict “no-spam” policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and to keep you informed of Mintel’s commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, please notify us by email at [data.controller@mintel.com](mailto:data.controller@mintel.com) alternatively you can use our opt-out policy which is detailed below.
+Mintel protect all personal data against disclosure or unauthorised access using a variety of technical, physical and administrative measures.
 
-If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way.
+### **Onward transfer**
 
-Mintel will never use your data for anything beyond the reason stated and the permissions you grant us.
+Where we transfer or share personal data with third parties, or in different regions of the world, we shall seek equivalent levels of protection through due diligence and contract.
 
-When you buy something, your information will be stored on our system to complete the buying process. It must be shared with an outside party in order to verify your credit card information. We also record information about your questions to us and your purchases so that we and you can keep track of what you’ve asked about or ordered directly on our site. Additionally, we may need to contact you about your questions and/or your orders.
+Where we transfer EU personal data outside of the EEA, we shall seek and apply adequate safeguards such as:
 
-We use e-mail addresses to send you the alerts, newsletters and marketing promotionsyou’ve requested, to answer the e-mail we receive and to communicate with you about publications, service levels and other areas of Mintel’s range which you have told us you would be interested in hearing about.
+**Privacy Shield** – an assurance scheme between EU and United States entities [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
-**Third Party Use of Your Information**  
-When you buy something, another party must verify your credit card. In addition, the name of your company (but not your name or contact information) may be shared with one of our third party suppliers depending upon the information you bought.
+**Standard Model Clauses** – a legal and contractual agreement describing adequate protection of data in the performance of a contract.
 
-From time to time Mintel may send marketing emails informing you of different products and services relating to Mintel Group, if you do not wish to receive these emails do not check the appropriate box when you register or alternatively you may unsubscribe as detailed below.
+**Explicit Consent** – seeking clear consent from the data subject.
 
-**Access to Your Information / Opt-Out / Unsubscribe**  
-If you no longer wish to receive our updates, newsletters and promotional communications you may opt-out of receiving these communications by following the directions in the email, or forwarding the email to [data.controller@mintel.com](mailto:data.controller@mintel.com), prepending the subject line with the word “UNSUBSCRIBE”.
+For a more detailed description of Mintel’s personal data transfers please contact us at [data.controller@mintel.com](mailto:data.controller@mintel.com)
 
-**Your Legal Data Protection Rights  **  
-In accordance with the Data Protection Act 1998 you, the data subject, can ask to view all data relating to you that we hold at any time. Mintel reserves the right to charge a fee of £10 for this request.
+## Protecting Your Data
 
-**Legal Disclaimer.**  
-Though we make every effort to preserve user privacy, we may in certain circumstances need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Where we collect, store, process or transfer personal data Mintel will use physical, technical and administrative controls to protect that data. Where we are required to process payment or password information, we will protect the information using an enterprise level encryption protocol such as TLS (Transport Layer Security). 
 
-**Security**  
-Mintel is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. In addition, all credit card details submitted to BMS ePDQ are encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. If you prefer, our sales operators are standing by in the UK, GMT 8:00 am – 6.00 pm Monday to Friday on 0207 606 4533 or in the US, CST 8:00 am – 6:00 pm on (312) 932 0400 should you wish to place an order by telephone.
+## How We Use Data
 
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact:
+Mintel collect and use personal data in person, verbally and electronically to manage how we interact and deliver personal experience to you and grow our business. Those purposes include:
 
-**The Data Controller:**  
----  
-email: | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
-postal address: | Mintel Group Ltd, 11 Pilgrim Street, London, EC4V 6RN, UK  
-website url: | [www.mintel.com](http://www.mintel.com/)
+**Customer Experience** :  
+We will utilise your data to deliver customer support, personalise your online experience and create services and opportunities tailored to your preferences. Often we will hold client training and events onsite, online and over the phone.
+
+**Innovation** :  
+To develop our services, create new features and understand our offering, Mintel incorporate some data analysis activities, web analytics and cookies to help us make decisions within the business.
+
+**Marketing & Communication**:  
+To tell you all about services in which you have expressed an interest we will present you with insight and offers/sales opportunities in line with your privacy preferences.
+
+**Business Operations** :  
+To operate our business we use personnel recruitment and training data, integrate security into our websites and our physical locations and collect information to detect crime and remain compliant with applicable laws protecting ourselves, our clients and relevant third parties. We will maintain copies of data for backup and business continuity purposes.
+
+**Administrative Support** :  
+We will use your data to support your requests, assist with ordering of our services and maintain appropriate contact with our people and clients. Mintel will retain some information to resolve disputes as required. 
+
+## Data We Collect
+
+You will not always be required to share the personal data that we request and we will attempt to collect no more than is fit for purpose; however in some circumstances we may be unable to meet your needs without it, our process is likely to depend on the nature of the interaction. 
+
+At Mintel we collect personal data through a variety of sources across the business inclusive of:
+
+**Contact Data** – We may collect personal and/or business contact data including your first name, last name, mailing address, telephone number, fax number, email address and other similar contact information. 
+
+**Account Data** – We collect information such as purchase/sale history and service interest(s) to serve our clients.
+
+**Location Data** – Network IP addressing may allow us to identify a general country or region as part of Mintel’s analytics capability; this data may also be used to provide support and/or protect our computer systems.
+
+**Detailed Location Data** – A more detailed location when you enable location-based services on a device or when you choose to provide location related information during a registration. 
+
+**CCTV images** – At our premises across Mintel, we operate CCTV schemes for the purposes of crime prevention.
+
+**Application Data** – We collect some information related to applications such as location, language, data sharing choices and update details.
+
+**Website Browsing Data** – We collect information about your visits to and your activity on our websites that you view and interact with, the address of the website from which you arrived and other clickstream behaviour such as the pages you view or the links you click. Some of this information is collected using Automatic Data Collection Tools which include cookies, web beacons and embedded web links.
+
+**Anonymous or Aggregated Data** – We may collect anonymous and/or aggregated information during the course of our operations, we may also apply a process of de-identification to your data to making it unlikely to identify you.
+
+**Security Credentials Data** – We collect user IDs, passwords, and similar security information required for authentication to our websites and services. 
+
+**Demographic Data** – We may collect, or obtain from third parties, certain demographic data including country, gender, age and preferred language. 
+
+**Preferences** – We collect information about your preferences and interests as they relate to our services and how you prefer to receive communications from us. 
+
+**Jobseeker Data** – Where you seek employment with Mintel we will collect typical information in line with this process, such as employment history, education, qualifications and identification data.
+
+**Other Unique Identifying Information** – Examples of other unique information that we may collect from you include information you provide when you interact in-person, online or by phone or mail.
+
+### Third-Party information sources
+
+On occasion we may collect information from third party sources, either public or on a commercial basis. Where we do this, we shall conduct diligence on these sources’ integrity and collection models. Primary examples of third party sources are:
+
+LinkedIn Navigator, Dun and Bradstreet insights and EDS.
+
+### Collection of special categories of data
+
+“Special categories of data” is defined by the General Data Protection Regulation (GDPR) as processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.
+
+Mintel do not collect these types of information on our clients, partners or service users. 
+
+These special classes of personal data are only ever collected in the course of seeking or actual employment with Mintel for the purposes of compliance with the law and required business operations.
+
+### Collection of children’s information
+
+Mintel does not knowingly collect, retain or utilise personal data regarding children under 16 years of age. Our services are not marketed or intended to achieve that outcome. Please contact us at data.controller@mintel.com if you have an enquiry on this topic. 
+
+### Collection of data for research purposes
+
+Data collected for research purposes is processed for commercial purposes with no medical intent. All data is collected and processed in accordance with Mintel’s data policies, which data largely will be aggregated and anonymous. Research data is collected for the context of commercial marketing research. Please contact us at [data.controller@mintel.com](mailto:data.controller@mintel.com) if you have an enquiry on this topic. 
+
+## Sharing Your Data
+
+Mintel on occasion shall share your personal data with:
+
+**Companies within the Mintel group**  
+We may transfer your data within the Mintel group of companies for the purposes outlined in this privacy statement. These entities exist globally inclusive of the US and are bound by our privacy requirements and inter-company model clauses in contract.
+
+**Compliance with the Law**  
+Where we have an obligation to comply with law enforcement, the courts or other recognised authorities or to protect Mintel’s legitimate interests in line with law, we may be required to share or reproduce personal data to satisfy those requirements.
+
+**Business Transactions**  
+Where Mintel process online transactions, your payment details are sent via a trusted third party payment gateway. Mintel do not hold or store card details on our systems.
+
+**Service providers**  
+Mintel will utilise select service providers and partners to enhance or manage aspects of our business operations. Our partners are required in contract to safeguard personal data inclusive of data transfer and to process only in a way instructed by us. 
+
+## Mandatory client messaging
+
+To operate our business there are some circumstances where we are obliged to remain in touch. For example:
+
+  * **Contract related** – inclusion or removal of new content within the subscription as part of renewal negotiations.
+  * **Service related** – adjustments to our service model which may impact how users interact with us.
+  * **T &C related** – relevant reminders or changes to the terms and conditions of a customer agreement.
+  * **Legal related** – A result of changing legislation where we are required to communicate to our user community.
+
+
+
+## Respecting Your Privacy Preferences
+
+We shall seek your permission when we collect your personal data regardless of the collection method and give you tools to manage your relationship with us. To assist with selecting your preferences across systems you can:
+
+### Manage your email preferences:
+
+  * Our unsubscribe service found in our emails
+  * Managing an existing account(s) [here](https://portal.mintel.com/portal/user/preferences/)
+  * Registering your preference with us at [data.controller@mintel.com](mailto:data.controller@mintel.com)
+
+
+
+### Manage your cookie preferences:
+
+  * A descriptive of Mintel’s cookie usage inclusive of how to choose, opt out or reject cookies is available [here](http://www.mintel.com/cookie-use)
+  * Select a general setting for cookies from your browser. [www.Allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/) has guidance on how to do this.
+  * Your browser may incorporate the “Do Not Track” feature which sends a request to websites. At this time no industry standard exists and as such our websites may not respect this. As the standard is developed, Mintel will consider how to respond
+
+
+
+### Understand web beacons:
+
+Web beacons are an embedded part of a web page and may not always be straightforward to refuse, although they can be disabled when embedded in email by setting your email client to not download images. 
+
+Web beacons can also be disrupted by opting out of third party cookies in your browser settings.
+
+## Exercising your rights
+
+You have the right to access any personal data that you have provided to us or that we maintain about you. In addition, you have the right to withdraw any consent previously granted or to request correction, amendment, restriction, anonymization or deletion of your personal data and to request an explanation of the processing.
+
+In certain cases, your request may be denied where we have a legitimate reason to do so. You can expect that we will explain our decision if this applies.
+
+This type of request should be received in writing. [Email](mailto:data.controller@mintel.com) or Post is fine.
+
+### Contact us
+
+If you would like to contact us regarding our privacy statement, register a subject access request or just have a question, then please get in touch. All communication will be treated as confidential, and we will respond to you in a timely manner.
+
+_The Data Protection team  
+Mintel Group Ltd.  
+11 Pilgrim Street  
+London, England  
+EC4V 6RN _  
+E: [data.controller@mintel.com](mailto:data.controller@mintel.com)
+
+### I have a complaint
+
+We want to resolve your problems and would like you to give us the opportunity. However, if we are unable to do so, then you have the right to contact the Supervisory Authority regarding a personal data matter. You can contact Mintel or the [Information Commissioner’s Office](https://ico.org.uk/) in the UK for guidance.
+
+## Changes to Our Privacy Statement
+
+From time to time we may be required to revise the content of this privacy statement. If we do so, for example due to material changes to our practices, then we will consider the effect on those on whom we hold personal data and publish here the revised privacy statement.
+
+This statement was reviewed on: **17 May 2018**. 
