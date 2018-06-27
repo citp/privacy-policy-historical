@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiddensecretsofmoney.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001020847id_/https%3A//support.goldsilver.com/hc/en-us/articles/216269187-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddensecretsofmoney.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024913id_/https%3A//support.goldsilver.com/hc/en-us/articles/216269187-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – GoldSilver.com Customer Support
 
