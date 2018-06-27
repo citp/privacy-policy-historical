@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161830id_/http%3A//www.smartwool.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627033532id_/https%3A//www.smartwool.com/customer-service/privacy.html) for the most accurate reproduction.*
 
 # Smartwool® Privacy Policy
 
 Last updated: November 1, 2014
 
-SmartWool recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
+Smartwool recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
 
 This Privacy Policy was lasted updated November 1, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is   
 available on this website.
@@ -61,7 +61,7 @@ Except with your consent or as described in this Privacy Policy, we do not sell,
 We may share your personal information with other brands within the VF Corporation family of brands including: The North Face ®, Vans®, Timberland ®, Nautica ®, Kipling ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®).We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or   
 disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
 
-We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of SmartWool as part of a corporate reorganization, stock sale or other change of control.
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Smartwool as part of a corporate reorganization, stock sale or other change of control.
 
 WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?
 
@@ -93,7 +93,7 @@ HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
-SmartWool   
+Smartwool   
 Attn: Director of eCommerce  
 3495 Airport Circle  
 Steamboat Springs, CO 80487
@@ -102,11 +102,11 @@ WHAT IF I AM A RESIDENT OF CALIFORNIA?
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-SmartWool   
+Smartwool   
 Attn: Director of eCommerce  
 3495 Airport Circle  
 Steamboat Springs, CO 80487
 
 WHAT IF I AM AN INTERNATIONAL USER?
 
-Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow SmartWool to use and collect your personal information in accordance with this Privacy Policy.
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Smartwool to use and collect your personal information in accordance with this Privacy Policy.
