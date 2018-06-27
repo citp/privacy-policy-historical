@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930151436id_/https%3A//www.crisisprevention.com/About-CPI/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627054331id_/http%3A//www.crisisprevention.com/About-CPI/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPI
 
