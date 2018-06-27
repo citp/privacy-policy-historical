@@ -1,44 +1,49 @@
-> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232158id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627051636id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
 
-# Eclipse.org Privacy Policy
+# Eclipse Foundation Website Privacy Policy | The Eclipse Foundation
 
-## Eclipse.org Privacy Practices
+May 24, 2018
 
-May 12, 2016
+The Eclipse Foundation, Inc. ("Eclipse Foundation", "Us" or "We") is a member-supported not-for-profit foundation which acts as the steward of our open source projects, community, and ecosystem. We are committed to our community members’ rights to privacy. We promise to share transparently all aspects of how Eclipse Foundation projects and websites work in regards to privacy, terms, and personal data, and We are in full support of efforts to ensure your protection online. We only collect your personal data with your consent, and collect only as much as We need to provide you the service you request. For example, We need your personal data to register you to one of our conferences. Each time We collect additional personal data from you We will explain what We collect, why We need it, how We use it, how long We keep it, and how We protect it. 
 
-**Privacy**
+You can withdraw consent anytime. We will respect your wishes.
 
-You can visit Eclipse.org without revealing who you are or any information about yourself. There are times, however, when the Eclipse Foundation or its Members ("We" or "Us") may need information from you. You may choose to give personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you. We intend to let you know how such information will be used before it is collected from you on the Internet. If you tell Us that you do not want Us to use this information as a basis for further contact with you, We will respect your wishes.
+## Personal Information on Eclipse Foundation Websites
 
-**Information Security and Quality**
+As a platform for open source innovation and collaboration, personal information on all Eclipse Foundation websites is either meant to be shared, for example records of your contributions to our open source projects, or protected, such as your name and email address when you subscribe to our newsletter. 
 
-We intend to protect the quality and integrity of your personally identifiable information. We have tried to implement appropriate technical and organizational measures, such as using encryption for transmission of certain forms of information, to help keep that information secure, accurate, current, and complete.
+Any personal data you share with Us, We protect according to this Privacy policy.
 
-We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
+## Individual Access to Personal Information
 
-We offer as a service to our community the ability for users of Eclipse software to store data on Eclipse Foundation servers through services including but not limited to the User Storage Service and the Automated Error Reporting Initiative. Any data stored through these services will be publicly available on the Internet in unencrypted form and without access restriction. Therefore you should not use this service to store passwords, any personally identifiable information, any confidential business information, or anything else that you do not want to be generally and publicly available.
+We will respond within 30 days to your requests to have access to your personal information collected by Us. We will promptly correct inaccuracies, as the case may be, and We will delete it and/or anonymize it upon your request. Please contact [privacy@eclipse.org](mailto:privacy@eclipse.org) to make such a request. 
 
-**Clickstream Data and Cookies**
+## Information Security and Quality
 
-We sometimes collect anonymous information from visits to this Web site to help provide better service. For example, We keep track of the domains from which people visit and We also measure visitor activity on Eclipse.org, but in ways that keep the information anonymous. This anonymous information is sometimes known as "clickstream data." We may use this data to analyze trends and statistics and to help us tailor the Web site to better serve Eclipse participants.
+We protect the integrity of your personal information with appropriate technical and organizational measures, such as using encryption for transmission of certain forms of information, to help keep it secure, accurate, current, and complete. 
 
-Also, when personal data is collected from you in connection with a transaction (such as contribution of code or posting to newsgroups) We may extract some information about that transaction in an anonymous format and combine it with other anonymous information such as clickstream data. This anonymous information is used and analyzed only at an aggregate level to help Us understand trends and patterns.
+Your personal information may be stored in Canada, the European Union and the United States, always with our same high security standards. 
 
-Some Eclipse.org pages use cookies to better serve you when you return to the site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of some sites may not function properly.
+One of the primary purposes of the Eclipse Foundation and its websites is to enable collaborative open source software development. Doing so necessarily requires Us to maintain records of authorship related to all contributions. Any personally identifiable information collected by virtue of your contributions will be publicly available on the Internet in unencrypted form and without access restriction. 
 
-To the extent Contributions and other Material (as defined in the Terms of Use) contain personal information about you, including, but not limited to, your name, we have the right to provide that information to others pursuant to the Term of Use.
+We also offer services to our community which provide the ability for users of Eclipse software to store data on Eclipse Foundation servers through services including, but not limited to, the User Storage Service and the Automated Error Reporting Initiative. Any data stored through these services will be publicly available on the Internet in unencrypted form and without access restriction. Therefore, you should not use these services to store passwords, any personally identifiable information, any confidential business information, or anything else that you do not want to be generally and publicly available. 
 
-**Business Relationships**
+## Clickstream Data and Cookies
 
-This Web site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites.
+We sometimes collect anonymous information from visits and contributions to Eclipse Foundation websites to help provide better service. For example, We keep track of the domains from which people visit and We also measure visitor activity on Eclipse Foundation websites, but in ways that keep the information anonymous. This anonymous information is sometimes known as "clickstream data." We may use and aggregate this data to analyze trends and statistics and to help Us tailor our websites to better serve Eclipse participants. 
 
-**Notification of Changes**
+Some Eclipse Foundation website pages use cookies to better serve you when you return to the site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our sites may not function properly. 
 
-This privacy statement was last updated on May 12, 2016. A notice will be posted on this Web site home page for thirty (30) days whenever this privacy statement is changed.
+Our sites may also set a session cookie to enable them to function properly. In such cases, the session cookie will only last for the length of your session, and the only information recorded will be that which is necessary to enable the website to function properly, and no personally identifiable information will be recorded in the session cookie. 
 
-**Questions Regarding This Statement**
+## Business Relationships
 
-Questions regarding this statement should be directed to: [license@eclipse.org](mailto:license@eclipse.org).
+This website contains links to other website. We are not responsible for the privacy practices or the content of such website. 
 
-  
+## Notification of Changes
 
+This privacy statement was last updated on May 24, 2018. A notice will be posted on this website home page for thirty (30) days whenever this privacy statement is changed. 
+
+## Questions Regarding This Policy
+
+Questions regarding this Privacy policy should be directed to: [privacy@eclipse.org](mailto:privacy@eclipse.org).
