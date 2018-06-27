@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madlyodd.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218141606id_/https%3A//madlyodd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madlyodd.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627134349id_/https%3A//madlyodd.com/privacy) for the most accurate reproduction.*
 
-# Privacy • Madly Odd!
+# Privacy ⋆ Madly Odd!
 
 At MadlyOdd.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit MadlyOdd.com, and how we safeguard your information. We never sell your personal information to third parties.
 
