@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230101600id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074552id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
-# Privacy and Security Statement : U.S. Bureau of Labor Statistics
+# Protecting Online Privacy : U.S. Bureau of Labor Statistics
 
-Thank you for visiting the Bureau of Labor Statistics (BLS) website and reviewing our privacy and security statement. The BLS is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, the BLS makes every effort to comply with applicable federal law, including the Privacy Act of 1974, the Paperwork Reduction Act of 1995, the Freedom of Information Act, and other legislation.
+BLS is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, BLS makes every effort to comply with applicable federal law, including the Privacy Act of 1974, the Paperwork Reduction Act of 1995, the Freedom of Information Act, and other legislation.
 
-The BLS does not collect personally identifying information about you when you visit our site unless you choose to provide such information. The information we receive depends on what you do when visiting our site.
+BLS does not collect personally identifying information about you when you visit our site unless you choose to provide such information. The information we receive depends on what you do when visiting our site.
 
 ### If you respond to an online request for personal information
 
-Generally, the information requested by the BLS will be used to respond to your inquiry or to provide you with better service. When BLS requests this information, the reasons for collecting it and the intended use of the information are explained in a customized "Privacy Notice." This Privacy Notice will appear on the webpage collecting the information or be accessible through a link displayed immediately preceding the information request.
+Generally, the information requested by BLS will be used to respond to your inquiry or to provide you with better service. When BLS requests this information, the reasons for collecting it and the intended use of the information are explained in a customized "Privacy Notice." This Privacy Notice will appear on the webpage collecting the information or be accessible through a link displayed immediately preceding the information request.
 
 ### When you visit the BLS website, we collect and store the following information
 
@@ -16,7 +16,7 @@ Generally, the information requested by the BLS will be used to respond to your 
   * The Internet domain name of a computer accessing bls.gov through a domain, such as from a corporation ("xcompany.com") or university ("yourschool.edu")
   * The date, time, and duration of a website visit
   * The URL of a referring page if a visitor to bls.gov accesses the site through a link on a page not on bls.gov
-  * Information about the computer, such as the type and version of web browser (for example, Internet Explorer 8.0, Mozilla Firefox 5.0), operating system (for example, Unix, Mac OS, MS Windows), Java support (yes or no), Flash version (for example, 10.1 r85), screen resolution (for example, 1280x800), and connection speed (for example, DSL, T1)
+  * Information about the computer, such as the type and version of web browser (for example, Chrome, Firefox, Safari) operating system (for example, Unix, Mac OS, MS Windows), Java support (yes or no), Flash version, screen resolution (for example, 1280x800), and connection speed
   * The specific pages a computer accesses when it requests information from bls.gov
   * The amount of data (measured in number of bytes) transmitted from bls.gov to a computer
   * Contents of the persistent tracking cookie (see Cookie Use Notice below)
@@ -35,11 +35,11 @@ Our website has many links to other sites. When you link to these other sites, y
 
 ### Email Filtering Notice
 
-The BLS uses an automated spam filtering system on all email messages entering the BLS network. This filtering process enhances the security of BLS systems and the professionalism of the workplace and enables the BLS staff to serve our customers better. On rare occasions, this filtering process may prevent us from receiving your email or may delay our response. If you do not receive a timely response to your message and suspect it was caught up in our filters, please contact us by telephone (202-691-5200) regarding your inquiry or use our online information request form found at: <https://data.bls.gov/cgi-bin/forms/opb>.
+BLS uses an automated spam filtering system on all email messages entering the BLS network. This filtering process enhances the security of BLS systems and the professionalism of the workplace and enables the BLS staff to serve our customers better. On rare occasions, this filtering process may prevent us from receiving your email or may delay our response. If you do not receive a timely response to your message and suspect it was caught up in our filters, please contact us by telephone (202-691-5200) regarding your inquiry or use our online information request form found at: <https://data.bls.gov/cgi-bin/forms/opb>.
 
 ### Cookie Use Notice
 
-The BLS employs "cookies" to provide better service to our customers. We do not use cookies to collect any personally identifying information from users or to track user activities beyond our website. This means that when you visit a page on bls.gov, the web browser on your computer may download and save a small file from bls.gov so that our website can recognize your specific browser when you use bls.gov in the future.
+BLS employs "cookies" to provide better service to our customers. We do not use cookies to collect any personally identifying information from users or to track user activities beyond our website. This means that when you visit a page on bls.gov, the web browser on your computer may download and save a small file from bls.gov so that our website can recognize your specific browser when you use bls.gov in the future.
 
 Cookies fall into two categories, based on the length of time they remain active:
 
@@ -77,4 +77,4 @@ BLS will block robots that access the website in any way that BLS considers exce
 
 _**NOTE:** Robots using a specific IP address (for example, 146.142.xx.xx) instead of an official BLS URL (such as www.bls.gov or data.bls.gov) are at risk of not receiving data promptly at prescribed times._
 
-**Last Modified Date:** April 2, 2014
+**Last Modified Date:** February 16, 2018
