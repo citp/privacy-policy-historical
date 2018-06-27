@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lchfdiva.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119172817id_/http%3A//lchfdiva.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lchfdiva.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627184204id_/http%3A//lchfdiva.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,3 +66,5 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of LCHFDiva.com and please visit [unsubscribe link](http://us14.list-manage.com/unsubscribe/?u=e7ebb615a812da7a1ebb4628f&id=c85d61fc8d)!
 
 If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](http://lchfdiva.com/contact/).
+
+[](https://www.pinterest.com/pin/create/button/)
