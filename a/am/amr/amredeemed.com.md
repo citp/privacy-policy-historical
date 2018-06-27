@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amredeemed.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105101309id_/https%3A//amredeemed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amredeemed.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627192319id_/https%3A//amredeemed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | am redeemed
 
-This Privacy Policy governs the manner in which amredeemed.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://amredeemed.com](http://amredeemed.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by amredeemed.com.
+This Privacy Policy governs the manner in which amredeemed.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://amredeemed.com](https://amredeemed.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by amredeemed.com.
 
  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-amredeemed.com may collect and use Users personal information for the following purposes:
+Our Site may collect and use Users personal information for the following purposes:
 
   *  _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -70,8 +70,8 @@ amredeemed.com has the discretion to update this privacy policy at any time. Whe
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://amredeemed.com/terms-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://amredeemed.com/terms-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: support@amredeemed.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
