@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaqualitycrafts.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223012837id_/http%3A//www.chinaqualitycrafts.com/static/privacy_policy-2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaqualitycrafts.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627115321id_/http%3A//www.chinaqualitycrafts.com/static/privacy_policy-2283.html) for the most accurate reproduction.*
 
 # Privacy Policy of Our Site - About Us
 
