@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faithpot.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804002408id_/https%3A//www.faithpot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithpot.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627140259id_/https%3A//www.faithpot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FaithPot
+# Privacy Policy – FaithPot
 
 FaithPot.com collects user information to make the site more better and user-friendly. It includes logs, cookies and personal information.
 
