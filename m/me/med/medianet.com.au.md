@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126075920id_/http%3A//www.medianet.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627040439id_/http%3A//www.medianet.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Medianet
+# Privacy Policy | AAP Medianet
 
 Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138.
 
@@ -8,7 +8,7 @@ Our privacy policy below tells you how we collect and manage the personal inform
 
 We respect your rights to privacy under the Privacy Act 1988 (Cth) **(Act)** and we comply with all of the Act’s requirements in respect of the collection, management and disclosure of your personal information.
 
-Medianet is a supplier of communications solutions to public relations firms, government departments, corporate communications and not-for-profit organisations. Medianet’s press release distribution service allows customers to build and distribute their own press releases to Medianet’s database of media contacts, outlets and publishers. Medinet also provides subscription access to our media contacts database which includes list building and activity management tools to our customers.
+Medianet is a supplier of communications solutions to public relations firms, government departments, corporate communications and not-for-profit organisations. Medianet’s press release distribution service allows customers to build and distribute their own press releases to Medianet’s database of media contacts, outlets and publishers (‘Media Contacts Database’). Medianet also provides subscription access to our Media Contacts Database which includes list building and activity management tools to our customers.
 
 For the purposes of this policy, the products and services described in this section will be referred to as **“products and services”**.
 
@@ -52,9 +52,15 @@ We collect your personal information directly from you unless it is unreasonable
 
 – via ‘cookies’ on our website. Cookies are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. If you then register with us we will retain the information we received from your cookie.
 
-We may also collect personal information from third parties including
+We may also collect personal information from third parties including:
 
 – contact details of potential customers and business contacts through Medianet’s own investigations of or via an existing customer or contact;
+
+– from media outlets, such as publishers, who may from time to time provide information about their staff, such as names, job titles, contact details, areas of interest etc;
+
+– from publicly available sources, for example press releases, news reports and online media.
+
+– from other third parties such as users of our Media Contacts Database.
 
 **Cookies**
 
@@ -80,7 +86,9 @@ We collect personal information about you so that we can perform our business ac
 
 We collect, hold, use and disclose your personal information for the following purposes:
 
-– to provide tailored products and services to you and to send communications requested by you;
+– to provide tailored products and services to you, such as to provide access to our Media Contacts Database;
+
+– to send communications requested by you;
 
 – to answer enquiries and provide information or advice about existing and new products or services;
 
@@ -108,6 +116,8 @@ We may disclose your personal information to:
 
 – our employees, related bodies corporate, contractors or service providers for the purposes of operation of our website or our business, fulfilling requests by you, and to otherwise provide products and services to you including, without limitation, web hosting providers, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors and consultants;
 
+– users of our Media Contacts Database, who may contact you directly by, for example, sending you a press release;
+
 – suppliers and other third parties with whom we have commercial relationships, for business, marketing, insurance and related purposes;
 
 – where required by and due to mandatory requirements of law enforcement agencies, government agencies or courts;
@@ -120,9 +130,29 @@ We may combine or share any information that we collect from you with informatio
 
 We may send you direct marketing communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS, and email, in accordance with applicable marketing laws, such as the Spam Act 2003 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. In addition, at any time you may opt-out of receiving marketing communications from us by contacting us (see the details below) or by using opt-out facilities provided in the marketing communications and we will then ensure that your name is removed from our mailing list.
 
+**Do we disclose your personal information to anyone outside Australia?**
+
+We may disclose personal information to our related bodies corporate in Australia and other locations (such as New Zealand and the United Kingdom) and third party suppliers and service providers located overseas for some of the purposes listed above.
+
+On some occasions, personal information collected by us may be stored, disclosed and processed both in Australian and/or overseas, including but not limited to the UK, the US, Singapore and Mauritius. In these circumstances, we will use reasonable endeavours to ensure that the foreign entity to which your personal information is transferred has appropriate measures in place to protect your personal information.
+
+**Security and management of your information**
+
+We understand that the security of your personal information is important.  We take reasonable efforts to use procedures and security features to try to ensure that your personal information is properly protected from misuse or loss, and unauthorised access, modification or disclosure.
+
+**System security** We store information in electronic databases requiring logins and passwords, and also use computer and network security measures such as firewalls, data encryption and virus detection methods.
+
+**Property security** We maintain physical security over our paper and electronic data stores, such as locks and security systems. We engage security personnel and use ID cards to control access to our business premises.
+
+**Staff training** We train our staff to handle your information in accordance with this Privacy Policy and applicable privacy laws.
+
+**Third parties** We impose strict requirements on all third parties as to how they store, handle and deal with personal information.  In all instances, as far as reasonably practicable, we make sure that our relationships with third parties include appropriate protection of your personal information.
+
+**Your role** You can help us to keep your information secure; please remember that any user name or password in relation to our websites is personal to you and should not be made available to any other person. You should stop using your username and password and notify us immediately if you suspect that someone else may be using them.
+
 **How can you access and correct your personal information?**
 
-You may request access to any personal information we hold about you at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a reasonable fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for asking any corrections to your personal information.
+You may request access to any personal information we hold about you, including personal information in our Media Contacts Database, at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a reasonable fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for asking any corrections to your personal information.
 
 There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal.
 
@@ -131,12 +161,6 @@ If you believe that personal information we hold about you is incorrect, incompl
 **What is the process for complaining about a breach of privacy?**
 
 If you believe that your privacy has been breached, please contact us using the contact information below and provide details of the incident so that we can investigate it. Medianet’s policy is to consider any requests for correction in a timely way.
-
-**Do we disclose your personal information to anyone outside Australia?**
-
-We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above.
-
-We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
 
 **Contacting Us**
 
@@ -158,4 +182,4 @@ Rhodes NSW 2138
 
 We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website.
 
-This privacy policy was last updated on 12 March 2014.
+This privacy policy was last updated on **16** April 2018.
