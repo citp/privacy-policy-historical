@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadersmod.net privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225203629id_/http%3A//shadersmod.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadersmod.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627172440id_/http%3A//shadersmod.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,11 +15,9 @@ We use regular Malware Scanning.
 We do not use an SSL certificate  
 • We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
- **Do we use ‚cookies‘?**
+ **Do we use Cookies?**
 
-We do not use cookies for tracking purposes
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+Our Site uses „Cookies“ to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
  **Third Party Disclosure**
 
@@ -51,6 +49,10 @@ Users are not asked to provide any personal information
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
 We do not specifically market to children under 13.
+
+ **Advertisement**
+
+We may use **[third-party advertising companies](http://d2j5u0vfpd7wla.cloudfront.net/pp.html)** to serve ads when you visit our website
 
  **Fair Information Practices**
 
