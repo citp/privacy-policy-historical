@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawayservice.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225065514id_/https%3A//www.giveawayservice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawayservice.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628013540id_/https%3A//www.giveawayservice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giveaway Service
 
@@ -6,7 +6,9 @@ This Privacy Policy describes GiveawayService.com's policies and procedures on t
 
 ### Information Collection and Use
 
-We collect and use your information to provide our Services and improve them over time.
+We value your privacy as much as we do our own, so we’re committed to keeping your personal and business information safe. We’re uncomfortable with the information companies, governments, and other organisations keep on file, so we ask for only the bare minimum from our customers. We’ll never use your personal information for any reason other than why you gave it, and we’ll never give anyone access to it unless we’re forced to by law.
+
+Any information collected via a third party API is public information authorized by you before we can access it. Once access is given all information is accessed via third party secured API’s as long as you authorize access via a secured token or key. The information that is displayed on GiveawayService.com is used by its users to understand if a brand or influencer is a good fit for their campaign. All data accessed by GiveawayService.com is GDPR compliant in accordance withe EU Data Protection rules. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 Information Collected Upon Registration: When you create or reconfigure a GiveawayService.com account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
 
@@ -56,6 +58,12 @@ If you are a registered user of our Services, we provide you with tools to acces
 
 Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
+### How to complain
+
+We take complaints very seriously. If you’ve any reason to complain about the ways we handle your privacy, please contact us by email at support@giveawayservice.com.
+
 ### Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at /privacy-policy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+_This Privacy Policy is effective as of May 24th, 2018._
