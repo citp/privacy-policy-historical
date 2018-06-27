@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitlife.tv privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191036id_/http%3A//fitlife.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitlife.tv privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235726id_/http%3A//fitlife.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,13 +46,13 @@ Only employees who need the information to perform a specific job (for example, 
 
 What Our Clients Say*
 
-During my FitLife transformation, I lost 70 pounds! That's why I signed up for the protocol, but the most exciting result is that I found ME in the process. I had been hiding under a pile of pounds, self-doubt, and grief! FitLife changed my life and I knew I had to share it with others.
+Glenn was in an accident with a hockey puck that made it so his mouth had to be wired shut! While he was going through recovery he found that Organifi Protein sustained him in a healthy way where he was able to maintain his muscle mass while still be able to loose weight. 
 
- **-Lynne, Longwood FL**
+**-Tragedy Turns to Opportunity, Weightloss and Holistic Health**
 
-I started with Fitlife back in 2011-2012…I wrote into Fitlife asking for an extreme amount of help. I was 300 pounds, with high cholesterol, and Drew helped me transform my life. I lost over 130 pounds and I no longer have high cholesterol. Not only did I lose weight, so did my husband, who lost over 70 pounds!
+Glenn was in an accident with a hockey puck that made it so his mouth had to be wired shut! While he was going through recovery he found that Organifi Protein sustained him in a healthy way where he was able to maintain his muscle mass while still be able to loose weight. 
 
- **-Jaclyn, Martinsburg NE**
+**-Tragedy Turns to Opportunity, Weightloss and Holistic Health**
 
 [View More Testimonials](http://fitlife.tv/transformations)
 
