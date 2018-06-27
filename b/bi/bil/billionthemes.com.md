@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billionthemes.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126205006id_/http%3A//billionthemes.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billionthemes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235301id_/http%3A//www.billionthemes.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@
 
 ##### **Overview**
 
-This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [themler.com](http://themler.com/), [billionphotos.com](http://billionphotos.com/), [templates.themler.com](http://templates.themler.com/) and [answers.themler.com](http://answers.themler.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
+This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [themler.io](http://themler.io/), [billionphotos.com](http://billionphotos.com/), [templates.themler.io](http://templates.themler.io/) and [answers.themler.io](http://answers.themler.io/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.themler.io/Topic/Create?term=%5Blicense%5D&private=1).
 
 #####  **Users**
 
-This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
+This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact [BillionDigital Support](http://answers.themler.io/Topic/Create?term=%5Blicense%5D&private=1).
 
 #####  **Collected Information**
 
