@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224104527id_/http%3A//www.pbs.org/about/pbs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627151044id_/http%3A//www.pbs.org/about/pbs-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PBS About
 
-**Effective Date: May 12, 2017  (Update)**
+**Effective Date: May 24, 2018  (Update)**
 
 As a not-for-profit institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS’s [mission](http://www.pbs.org/about/corporate-information/mission/).
 
@@ -130,9 +130,9 @@ You may access third-party content through the Services and navigate to third-pa
 
 Residents of the State of California may request a list of all third parties to whom we have disclosed certain information during the preceding year for the third parties' direct marketing purposes.  If you are a California resident and want such a list, please send an e-mail to the address listed below.  For all requests, you must put the statement "Your California Privacy Rights" in the subject matter of your request and include the name of the website or online service with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code.
 
- ** _International Users_**
+ _ **International  Transfers**_
 
-Information collected through the Services may be stored and processed in the United States or any other country in which we or our service providers maintain facilities.  We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.  By using the Services and providing us with information directly or indirectly, you consent to the transfer of information to the U.S. or to any other country in which our service providers maintain facilities for processing by us in accordance with this Privacy Policy. 
+Information collected through the Services may be stored and processed in the United States or any other country in which we or our service providers maintain facilities.  We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions, some of which may not have the same data protection laws as your jurisdiction.  By using the Services and providing us with information directly or indirectly, you consent to the transfer of information to the U.S. or to any other country in which our service providers maintain facilities for processing by us in accordance with this Privacy Policy.
 
  ** _Changes To This Privacy Policy_**
 
