@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920184137id_/https%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627111048id_/https%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms — Ratatype
 
@@ -56,7 +56,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.ratatype.com/privacy-terms/#term>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.ratatype.com/privacy-terms/#term>.
 
 ## Your Consent
 
@@ -72,7 +72,7 @@ This policy was last modified on 16.01.2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.ratatype.com](http://www.ratatype.com/)  
+[www.ratatype.com](https://www.ratatype.com/)  
 [mail@ratatype.com](mailto:mail@ratatype.com)
 
 The following document outlines the terms of use of the www.ratatype.com website. By using and accessing this website (collectively referred to as the "Site" or "Ratatype" in these Terms of Use), you ("you", "user" or, "end user") agree to these Terms of Use (collectively, the "Terms of Service" or "Agreement").
