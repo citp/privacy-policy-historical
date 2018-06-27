@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christmaslightsetc.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104110643id_/https%3A//www.christmaslightsetc.com/support.asp%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmaslightsetc.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627024316id_/https%3A//www.christmaslightsetc.com/support.asp) for the most accurate reproduction.*
 
 # Support
 
@@ -90,7 +90,7 @@ We may share member information in order to provide you with a more integrated a
 
 **How can you opt-out, remove or modify information you have provided to us?**
 
-You may opt-out from receiving our emails by following the instructions on any commercial email you receive from us. You may also opt-out buy using our [opt-out form](http://www.christmaslightsetc.com//pages/Email-OptOut.htm).
+You may opt-out from receiving our emails by following the instructions on any commercial email you receive from us.
 
 Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. If you have any issues, you can also [contact us](http://www.christmaslightsetc.com/ContactUs.asp).
 
