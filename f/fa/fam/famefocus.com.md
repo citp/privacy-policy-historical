@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famefocus.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912075527id_/https%3A//www.famefocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famefocus.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627124040id_/https%3A//www.famefocus.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Fame Focus
 
@@ -26,6 +26,6 @@ Contact Form
 Blog Comments  
 Subscription for Newsletter
 
- **How We Use Your Personal Information:**
+**How We Use Your Personal Information:**
 
 The information you give us is absolute safe with us. We will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. But we will never rent, sell, share or otherwise disclose your personal information to third parties.
