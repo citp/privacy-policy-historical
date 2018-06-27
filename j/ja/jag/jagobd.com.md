@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagobd.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226011057id_/http%3A//jagobd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagobd.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627105921id_/http%3A//jagobd.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jagobd.com | Jagobd.com
 
@@ -56,9 +56,9 @@ This privacy policy is updated on 30 July 2014.  We reserve the right, at our s
 
 **How to Contact us:**
 
-By e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6b7b2bbbfb8969cb7b1b9b4b2f8b5b9bb)
+By e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8feeebe2e6e1cfc5eee8e0edeba1ece0e2)
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#782b0d0808170c3832191f171a1c561b1715)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f5c7a7f7f607b4f456e68606d6b216c6062)
 
 UAE: Hamdan St. Yousuf Center, Abu Dhabi UAE.
 
