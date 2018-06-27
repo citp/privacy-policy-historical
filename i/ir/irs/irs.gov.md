@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121184024id_/https%3A//www.irs.gov/privacy-disclosure/irs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627030824id_/https%3A//www.irs.gov/privacy-disclosure/irs-privacy-policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy | Internal Revenue Service
 
 **[Access to privacy impact assessments](https://web.archive.org/privacy-disclosure/access-to-privacy-impact-assessments "Access to Privacy Impact Assessments")  
 [Information Automatically Collected and Stored](https://web.archive.org/privacy-disclosure/information-automatically-collected-and-stored "Information Automatically Collected and Stored")  
-[Security at IRS.gov](https://web.archive.org/privacy-disclosure/security-on-the-irsgov-website "Security on the IRS.gov Website")  
+[Security at IRS.gov](https://web.archive.org/privacy-disclosure/security-on-the-irsgov-website "Security on the IRS.gov Website")**  
+ **[Email](https://web.archive.org/privacy-disclosure/irs-privacy-guidance-about-email-contact "IRS Privacy Guidance About Email Contact")  
 [If you send us information online](https://web.archive.org/privacy-disclosure/if-you-send-us-information-online "If You Send Us Information Online")  
 [Customer Satisfaction Surveys](https://web.archive.org/privacy-disclosure/customer-satisfaction-surveys "Customer Satisfaction Surveys")  
 [Cookies](https://web.archive.org/privacy-disclosure/cookies-on-irsgov "Cookies on IRS.gov")  
@@ -57,7 +58,7 @@ Generally, A PCLIA should accomplish these goals:
 
 
 
-Approved PCLIAs are published on the U.S. Department of the Treasury's [Privacy Impact Assessment Webpage](https://web.archive.org/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessments PIA") unless they are classified.
+Approved PCLIAs are published on the IRS's [Privacy Impact Assessment page](https://web.archive.org/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessments - PIA") unless they are classified.
 
 ### System of Records Notice (SORN)
 
@@ -71,13 +72,13 @@ All IRS SORNs published in the Federal Register can be found on the [U.S. Depart
 
 ### Computer Matching Agreements
 
-A computer matching program is required by the Privacy Act for any computerized comparison of two or more automated systems of records, or a system of records with non-federal records, for the purpose of establishing or verifying eligibility or compliance as it relates to cash or in-kind assistance or payments under federal benefit programs.
+A computer matching program is required by the Privacy Act for any computerized comparison of two or more automated systems of records, or a system of records with non-federal records, for establishing or verifying eligibility or compliance as it relates to cash or in-kind assistance or payments under federal benefit programs.
 
-Notices for approved computer matching programs are published in the Federal Register and can be found on the [U.S. Department of the Treasury Computer Matching Programs Webpage](https://www.treasury.gov/privacy/Computer-Matching-Programs/Pages/default.aspx "Computer Matching Programs").
+Notices for approved computer matching programs are published in the Federal Register and can be found on the [U.S. Department of the Treasury Computer Matching Programs Webpage](https://www.treasury.gov/privacy/Computer-Matching-Programs/Pages/default.aspx "Computer Matching Programs"). There are exemptions for computer matching agreements for internal systems used for tax administration purposes.
 
 ### Publicly Available Privacy Reports
 
-In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy.  These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters.  A listing of all publically available privacy reports can be found at the [U.S. Department of the Treasury Privacy Act Annual Reports webpage](https://www.treasury.gov/privacy/annual-reports/Pages/default.aspx).
+In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy. These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters.  A listing of all publicly available privacy reports can be found at the [U.S. Department of the Treasury Privacy Act Annual Reports webpage](https://www.treasury.gov/privacy/annual-reports/Pages/default.aspx).
 
 ### Privacy Act Implementation Rules and Exemptions
 
@@ -99,14 +100,15 @@ To further protect the individual, the Privacy Act requires all records which ar
 
 The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them. 
 
- **NOTE:** Federal tax records are exempt from amendment. To amend a Federal Tax record, taxpayers must file Form 1040X or follow IRS procedures for other changes, such as change of address.
+ **NOTE:** Federal tax records are exempt from access or amendment. To amend a Federal Tax record, taxpayers must file Form 1040X or follow IRS procedures for other changes, such as change of address.
 
-### **How to Write a Privacy Act Request**
+### How to Write a Privacy Act Request
 
-NOTE: IRS offers routine access to other records through procedures designed to make access quick and easy. For more information, use the Routine Access link below.  If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
+**NOTE** : IRS offers routine access to other records through procedures designed to make access quick and easy. For more information, use the Routine Access link below.  If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
 
-[ **Routine Access to IRS Records**](https://web.archive.org/privacy-disclosure/routine-access-to-irs-records "Routine Access to IRS Records")  
-When you make a request for notification of or access to records, it should:
+#### [**Routine Access to IRS Records**](https://web.archive.org/privacy-disclosure/routine-access-to-irs-records "Routine Access to IRS Records")
+
+When you make a request for access to records, it should:
 
   1. Be made in writing and signed by the person making the request, who must be the individual about whom the record is maintained.
   2. State that it is made pursuant to the Privacy Act, 5 U.S.C. 552a, or be marked "Privacy Act Request" on the request.
@@ -120,10 +122,12 @@ When you make a request for notification of or access to records, it should:
 
 
 
-**Verification of Identity**  
+#### Verification of Identity
+
 You must verify your identity before action will be taken on any request. This can be done by providing a copy of a driver's license bearing your signature; or by providing a signed and dated statement that you understand the penalties provided in 5 U.S.C. 552a(i)(3) for requesting access to records under false pretenses, and the statement is subscribed by you as true and correct under penalty of perjury pursuant to 28 U.S.C. 1746.
 
-**Authorization**  
+#### Authorization
+
 Individuals may not get information about someone else under the Privacy Act. If you want the IRS to release information about you to someone else, such as your attorney or other authorized representative, you will need to provide written consent for the release of the information. The written authorization must contain:
 
   1. A description of the record which may be disclosed.
@@ -134,18 +138,17 @@ Individuals may not get information about someone else under the Privacy Act. If
 
 
 
-**Where to Send Your Privacy Act Request**    
+#### Where to Send Your Privacy Act Request 
+
 Access and amendment requests for records maintained in IRS systems should be marked ‘‘Privacy Act Request’’ on the outside and mailed to the following address:
 
-  1. Internal Revenue Service  
+Internal Revenue Service  
 Disclosure Scanning Operation—Stop 93A  
 Post Office Box 621506  
 Atlanta, GA 30362–3006
 
+#### Fees
 
-
-
-**Fees**  
 Fees may be charged only for the cost of duplication, without regard to whether the request was processed under the Privacy Act, the Freedom of Information Act, or both. The first l00 pages will be provided without charge. No fees will be charged if total charges are $25 or less.
 
 * * *
