@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502082039id_/https%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627152517id_/https%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Easil
 
