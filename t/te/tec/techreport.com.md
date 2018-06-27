@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011234852id_/http%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627033934id_/https%3A//techreport.com/privacypolicy.x) for the most accurate reproduction.*
 
 # Privacy policy - The Tech Report
 
 The Tech Report's Privacy Policy  
-The Tech Report has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for http://techreport.com. 
+The Tech Report has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for https://techreport.com. 
 
 The bottom line  
 Personal information (such as your name, address, and email address) that you entrust to The Tech Report will not be shared with any third party without your explicit permission to do so. We do not sell our mailing lists, nor do we rent them to third parties, under any conditions. 
@@ -41,8 +41,8 @@ Contacting us
 If you have any questions about this privacy statement, the practices of this site, or your dealings with The Tech Report, you can contact: 
 
 The Tech Report  
-1322 SE Princeton Drive  
-Lee's Summit, MO 64081  
+16720 Ragsdale Road  
+Kearney, MO 64060  
 USA  
-damage@techreport.com  
+[aeiberger@techreport.com](mailto:aeiberger@techreport.com)  
 
