@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001024712id_/http%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627104205id_/https%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Columbia Sportswear Privacy Policy | Columbia Sportswear
 
-## Columbia Sportswear Privacy Policy
-
-Last Updated: May 3, 2017
+Last Updated: March 21, 2018
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies, including Mountain Hardwear and Sorel ("Columbia" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by Columbia from any source, including information collected through our online services and activities, including this Website and our mobile applications (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -56,7 +54,7 @@ We do not otherwise share your personal information with third parties except as
 
   * in an aggregated or anonymized form that does not directly identify you;
   * with your consent, including if we notify you on the Sites that the information you provide will be shared in a particular manner and you provide such information or when you agree to our sharing of your information with other third parties for their own marketing purposes subject to their separate privacy policies;
-  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us, including assisting us in advertising our products and services on third party websites;
   * to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Columbia our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and
   * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
