@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010622id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627074015id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
@@ -35,17 +35,17 @@ Contacting Us
 
 [Frequently Asked Questions about Cabela's Privacy Policy](https://web.archive.org/custserv/custserv.jsp?pageName=PrivacyPolicyFAQ)
 
-[](https://privacy.truste.com/privacy-seal/Cabela-s,-Inc-/validation?rid=ca181d32-91c0-4159-96f1-b82f9ff0daea "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=1c9a3cff-a43e-40b7-b322-7e1ea5e55c4a)
 
-Last updated September 25, 2017
+Last updated January 17, 2018
 
-This privacy policy applies to [www.cabelas.com](http://www.cabelas.com/) and other technology resources owned and operated by Cabela's Inc. ("Cabela's", "we", "us", "our") such as Cabela's online store, mobile applications, social platforms, chat rooms, and the like ("Tech Resources"), and to information collected when you visit our stores or otherwise communicate or interact with Cabela's outside of the Tech Resources. This privacy policy describes how Cabela's collects and uses the information you provide and the information that we otherwise collect. It also describes the choices available to you regarding our collection and use of your information and how you can access and update this information. 
+This privacy policy applies to [www.cabelas.com](https://www.cabelas.com/) and other technology resources owned and operated by Cabela's LLC ("Cabela's", "we", "us", "our") such as Cabela's online store, mobile applications, social platforms, chat rooms, and the like ("Tech Resources"), and to information collected when you visit our stores or otherwise communicate or interact with Cabela's outside of the Tech Resources. This privacy policy describes how Cabela's collects and uses the information you provide and the information that we otherwise collect. It also describes the choices available to you regarding our collection and use of your information and how you can access and update this information. 
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@cabelas.com or by contacting us by postal mail at the address below.  If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through the web site, www.cabelas.com and not through other means although we apply the same protections explained in this privacy policy. 
 
-**Cabela’s Inc.**  
+**Cabela’s LLC**  
 **Privacy Compliance**  
 **One Cabela Drive**  
 **Sidney, NE 69160**  
@@ -71,7 +71,7 @@ We may enhance your customer profile and combine information you send us with ot
 Automated Online Information Collection  
 For each visitor to our Tech Resources, our web server automatically recognizes where possible the web site or email (and associated email address) referring you to our Tech Resource. In order to monitor and improve our Tech Resources as well as personalize your experience with Cabela's through direct online advertising, our web servers track various other technical details about your visit, such as your computer's Internet protocol (IP) address, operating system, browser information, device type, internet service provider (ISP), date/time stamp, clickstream data and which Cabela's pages you visit. This information is collected and stored using a variety of common technologies such as cookies, web beacons, tags and log files. We use this data to gather analytics and to participate in ad networks. Learn more about our automated online information collection, tracking technologies and how to manage them. 
 
-This website uses Mouseflow, a third-party analytics tools, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at: <http://mouseflow.com/opt-out>.
+This website uses Mouseflow, a third-party analytics tools, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at: <https://mouseflow.com/opt-out>.
 
 TRACKING TECHNOLOGIES AND HOW WE USE THEM
 
@@ -91,7 +91,7 @@ We use third party ad networks (called third-party ad servers or network adverti
 
 If you wish to Opt-out of Conversant please click here: [http://dtmc.cabelas.com/adinfo/choice/prod/?type=fpc&cid=2122&cname=Cabelas&cmagic=abdbeb&clogo=2122.png&loc=us&lang=en-us](http://dtmc.cabelas.com/adinfo/choice/prod/?type=fpc&cid=2122&cname=Cabelas&cmagic=abdbeb&clogo=2122.png&loc=us&lang=en-us)
 
-We encourage you to view the privacy policy of advertisers and ad services to learn more about their cookies and other technologies. If you do not want to receive those kinds of advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising. **You can also visit the website<http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices/> to learn more about interest-based advertising and third party ad networks and to opt-out of receiving ads from ad networks. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.**
+We encourage you to view the privacy policy of advertisers and ad services to learn more about their cookies and other technologies. If you do not want to receive those kinds of advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising. **You can also visit the website<https://www.networkadvertising.org/choices> or <https://www.aboutads.info/choices/> to learn more about interest-based advertising and third party ad networks and to opt-out of receiving ads from ad networks. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.**
 
 SOCIAL MEDIA  
 Our Tech Resources may allow you to connect and share information with various social media platforms, such as Facebook, Instagram, Twitter and Pinterest. These features may require us to implement cookies, plug-ins and/or APIs provided by such social media platforms to facilitate the communications and features. We may share information that you provide us or that we may collect about your use of the Tech Resources with these platforms, which information becomes subject to their privacy and data policies. We encourage you to visit the privacy policies of these platforms for further information: 
@@ -116,7 +116,7 @@ The platform may allow you to disable such interest based advertising, which you
 WEBSITE ANALYTICS  
 Like many websites, we use a number of analytics and optimization vendors. These vendors, such as Google Analytics, Webtrends and Yahoo Analytics, collect information that your web browser automatically sends, such as the web address of the page that you visit and your IP address. These vendors may also set cookies or read preexisting cookies. This information is stored on the vendor's servers and the vendor uses this information to provide us with reports about traffic to our website and your visit to our website (such as the domain from which you access the internet, the web address of the website from which you linked to our site, the time and date of your visit to the web pages that you view and click through). We will use this data to improve our website structure and content.
 
-Google may also use this data in accordance with their Privacy Policy, which can be found at <http://www.google.com/policies/privacy/>. For more detailed information on how Google uses your data through our Site, please visit <http://www.google.com/policies/privacy/partners/>.
+Google may also use this data in accordance with their Privacy Policy, which can be found at <https://www.google.com/policies/privacy/>. For more detailed information on how Google uses your data through our Site, please visit <https://www.google.com/policies/privacy/partners/>.
 
 GOOGLE ANALYTICS ADVERTISING FEATURES  
 We have also enabled the following Google Analytics Advertising Features: Google Display Network Impression Reporting, Remarketing with Google Analytics and Google Analytics Demographics and Interest Reporting. The Google Display Network Impression Reporting uses the Google Analytics cookie to track our ad impressions and your interactions with those impressions, including the effectiveness of those ads, which generates reports for us to help us analyze our advertisements. Remarketing with Google Analytics uses the Google Analytics cookie to serve advertisements to you across the Internet based on your visit to our Web Site. Google Analytics Demographics and Interest Reporting uses a third party cookie to collect information about our website traffic by tracking users across websites and across time, which generates a report for us to better understand our website users.
@@ -159,7 +159,7 @@ BrassRing is our service provider for tracking and processing job applications. 
 
 We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies. We may also make our postal mailing address lists available to non-affiliated parties in order to offer you a Cabela's CLUB® Visa® credit card, and to direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.
 
-If Cabela's Inc. is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.
+If Cabela's is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.
 
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, bankruptcy proceedings, warrant, or other order by a court of competent jurisdiction or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request.
 
@@ -184,14 +184,14 @@ When you download a mobile application from us, we have the ability to use a ser
 
 You may opt-out of our use of Google Analytics by visiting the Google Analytics opt-out page and installing the Google Analytics browser add-on, currently made available by Google at <https://tools.google.com/dlpage/gaoptout>.
 
-You may opt out of Yahoo's collection of analytics information outside of the Yahoo distribution network, by clicking on the following link: [http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html.](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
+You may opt out of Yahoo's collection of analytics information outside of the Yahoo distribution network, by clicking on the following link: [https://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html.](https://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html)
 
-If you choose to opt-out out of our use of your information for direct marketing purposes, this does not remove your information from our data database entirely. We will retain your information to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, if you include your email in an order, you will continue to receive transactional messaging about your order status.
+If you choose to opt-out of our use of your information for direct marketing purposes, this does not remove your information from our data database entirely. We will retain your information to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, if you include your email in an order, you will continue to receive transactional messaging about your order status.
 
 If you are a registered user of the web site, you can manage many aspects of your registration information. If your information changes, you may correct or update the information by making the changes on our member information page. For security reasons, however, some parts of your information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. We will respond to your request within a reasonable timeframe. To request that we no longer use your information to provide our services, the removal of your testimonial, or the removal of your information from a blog or public forum, please contact us via our [Customer Service email address](mailto:https://cabelas.custhelp.com/app/ask;).
 
 INFORMATION ABOUT THE CLUB® Visa® PROGRAM  
-The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card on cabelas.com, we submit your information to Capital One to process your credit application. To view Capital One's privacy notice, please [click here](https://www.capitalone.com/media/doc/corporate/english-privacy-notice.pdf).
+The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card, we submit your information to Capital One. To view Capital One's privacy notice, please [click here](https://www.capitalone.com/media/doc/corporate/english-privacy-notice.pdf). We may also share your information with Capital One or its designated service providers in order to offer you a Cabela's CLUB Visa Credit card. Communications related to these offers are monitored for quality and compliance purposes such that the individuals and vendors monitoring these communications may also receive access to the information shared as part of such offers.
 
 CHANGES TO THIS PRIVACY POLICY  
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
@@ -206,7 +206,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 **This Privacy Policy describes how we may share your information for marketing purposes. You may contact us with any questions and, to the extent applicable, to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose.** CONTACTING US  
 If you have any questions about this Privacy Policy and Cabela's policies and practices with respect to personal information, please contact us at:
 
-Cabela's Inc.  
+Cabela's LLC  
 Privacy Compliance  
 One Cabela Drive  
 Sidney, NE 69160  
