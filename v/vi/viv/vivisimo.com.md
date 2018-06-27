@@ -1,39 +1,105 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116001849id_/http%3A//vivisimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627054723id_/http%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen) for the most accurate reproduction.*
 
-# Privacy Statement | Vivisimo, an IBM Company
+# IBM Privacy Statement - United States
 
-At Vivisimo, an IBM Company, we recognize that privacy is important. The Vivisimo Privacy Policy ("Policy") document outlines information collection and use practices for Vivisimo's web search services offered on Vivisimo.com which are owned and operated by Vivisimo ("Vivisimo Web Search Services").
+## This Privacy Statement is effective as of May 2018.
 
-By using Vivisimo Web Search Services, you consent to the collection and use of your information as described in this Policy, and Vivisimo's Terms of Use. Certain portions of the Vivisimo Web Search Services may be made available by third parties. The collection and use of your information in connection with such services and content may be governed by the privacy policies, terms of use, or other terms and conditions of such third parties.
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-### Data Collection (Absence of Personally Identifiable Information)
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
 
-Vivisimo Web Search Services do not require account registration or provision of any personal information to Vivisimo. In order to provide a full range of services, we may collect the following types of information:
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
-  * Cookies \- We may use cookies to store a user's search preferences. A cookie can be a small amount of data that is sent to a user's browser from a web server and is eventually stored on a user's computer hard drive. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some Vivisimo features and services may not function properly if your cookies are disabled.
-  * Tell a Friend \- Some Vivisimo Web Search Services, such as the "Tell-a-friend" option featured on Vivisimo's www.clusty.com, gives you an easy way to tell friends about such Vivisimo Service by providing your friend's email address to us. Such information will be used for the Vivisimo referral message only.
-  * Log information \- When you use Vivisimo Web Search Services, our server logs may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and cookies. We use such information to process your inquiries, respond to your requests, and improve the Vivisimo Web Search Services. We may also share the non-personally identifiable information with our business partners or clients so that they may improve their services, which may be made available to you through Vivisimo Web Search Services. Specifically, when you click on an "organic" (i.e., non-advertising or non-revenue-generating) search result, Vivisimo Web Search Services are not contacted and do not record any information whatsoever.
-  * Affiliated Sites/Links \- We offer some of our services in connection with other web sites. Affiliated sites may have different privacy practices, and we encourage you to read their privacy policies. Vivisimo may present links to sponsored listings, paid inclusion, and other forms of advertising in a format that lets Vivisimo and affiliated sites and suppliers to track usage in order to prevent fraud and to customize advertising or other forms of content.
-  * Other Sites \- This Policy applies to web sites and services that are owned and operated by Vivisimo. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+## Why and how we collect and use your personal information
+
+We may collect your personal information as an individual for various purposes, such as the following:
+
+  * **Access and use of websites or other online services**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
+
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
+
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
 
 
 
-### Information Sharing and Disclosure
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
-Vivisimo does not rent, sell, or share its server logs with other people or non-affiliated companies except under the following circumstances:
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
 
-  * We provide the information to companies who work on behalf of or with Vivisimo under confidentiality agreements. However, these companies do not have any independent right to share this information.
-  * We may share with third parties certain pieces of aggregated, non-personal information. For example, the number of searches for a particular term, or how many clicks occurred on a particular advertisement.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Vivisimo's terms of use, or as otherwise required by law. When you click on an advertising or revenue-generating search result, Vivisimo Web Search Services are contacted, do record information, and such information may be shared with affiliated sites.
-  * Vivisimo works with vendors, partners, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed product and solution information.
+## Sharing of Personal Information
+
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
+
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
+
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
+
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
+
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
+
+## International Transfers
+
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
+
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
 
 
 
-### Changes to this Policy
+Back to top
 
-Vivisimo constantly strives to provide the best service. As new products and changes to existing products are made, Vivisimo reserves the right to amend this Policy at any time. Any changes to this Policy will be posted on this page so that you are always aware of the current information collection and usage practices associated with Vivisimo Web Search Services. Your use of Vivisimo Web Search Services is also governed by the Terms of Service.
+## Information Security and Accuracy
 
-### Questions
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
 
-If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20130116001849id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
+## Retention Period
+
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+
+## How to contact us
+
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+
+IBM Corp. is not the controller in situations such as:
+
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+
+
+
+## Your Rights
+
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
+
+## Right to Lodge a Complaint
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
+
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+## Changes to our Privacy Statements
+
+From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+
+Back to top
