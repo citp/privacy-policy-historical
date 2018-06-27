@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209165430id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201749id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BirdEye
 
@@ -19,6 +19,12 @@ Using BirdEye’s Services, you will be able to create, upload, store and share 
 **Analytics Information**
 
 As you navigate BirdEye’s website and use our Services, BirdEye may also collect information through the use of frequently used information-gathering tools, such as cookies and Web beacons (“Website Navigational Information”). Website Navigational Information includes standard information from your web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on BirdEye’s website (such as web pages viewed and links clicked). Collectively, this information is referred to as “Analytics Information.”
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+
+Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of personalized advertising by visiting [ Ads Settings](https://www.google.com/settings/ads) or by visiting [www.aboutads.info](https://www.aboutads.info/).
 
 **Geo-Location Information**
 
@@ -112,6 +118,25 @@ We will retain your information for as long as your account is active or as need
 
 
 
+
+### Internal Uses of Your Personally Identifiable Information
+
+If you reside in the European Union (“EU”), United Kingdom, Lichtenstein, Norway, Iceland or Switzerland, you may have additional rights with respect to your personally identifiable information (otherwise known as Personal Data). These rights may include rights under the EU’s General Data Protection Regulation (“GDPR”), if you are a resident of the EU, United Kingdom, Lichtenstein, Norway or Iceland. “Personal Data” is any data that relates to an identified or identifiable natural person. Examples of Personal Data include identifiers such as name, location data, and unique online identifiers.
+
+In addition to the principles, practices and policies set forth above in this Privacy Policy, BirdEye has adopted the following principles to govern its collection and processing of Personal Data:
+
+  1. Personal Data shall be processed lawfully, fairly, and in a transparent manner.
+
+  2. The Personal Data collected will only be those specifically required to fulfill BirdEye’s obligations to deliver the BirdEye Service.
+
+  3. Personal Data shall only be retained for as long as it is required to fulfill contractual requirements.
+
+  4. Personal Data shall be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are collected and/or processed. Personal Data shall be accurate and, where necessary, kept up to date.
+
+
+
+
+The data subject has the right to request from BirdEye access to and rectification or erasure of their Personal Data, to object to or request restriction of processing concerning the data, or to the right to data portability. In each case such a request must be put in writing to BirdEye.
 
 ### Community
 
