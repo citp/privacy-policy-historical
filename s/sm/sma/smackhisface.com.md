@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the smackhisface.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521110001id_/http%3A//smackhisface.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackhisface.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627114247id_/http%3A//smackhisface.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Smack His face
+# Privacy Policy – Smack His Face
 
-**  
-PRIVACY POLICY**
+**PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which [www.smackhisface.com](http://www.smackhisface.com/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.smackhisface.com](http://www.smackhisface.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by [www.smackhisface.com](http://www.smackhisface.com/).
+This Privacy Policy governs the manner in which [www.smackhisface.com](http://www.smackhisface.com/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.smackhisface.com](http://www.smackhisface.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by [www.smackhisface.com](http://www.smackhisface.com/).
 
 **Personal identification information**
 
@@ -59,13 +58,12 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-[www.smackhisface.com](http://www.smackhisface.com/) has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+[www.southlandpost.com](http://www.southlandpost.com/) has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.ewrestlingnews.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.viralpatient.com/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.smackhisface.com](http://www.smackhisface.com/) & [smackhisface@yahoo.com](http://smackhisface@yahoo.com/)  
- ** **
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.smackhisface.com](http://www.smackhisface.com/) & [smackhisface@yahoo.com](http://smackhisface@yahoo.com/)
