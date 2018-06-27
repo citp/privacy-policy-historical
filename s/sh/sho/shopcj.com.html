@@ -1,416 +1,2269 @@
-<!--The following is the downloaded HTML source of the shopcj.com privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopcj.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627051359id_/http%3A//www.shopcj.com/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="Stylesheet" type="text/css" href="http://img2.wsimg.com/fos/css/1/sales_http_20110504ak.css"><title>
-	Legal Agreement
-</title>
-    
-	<script type="text/javascript">
-		function pageLoad(sender, args) {
-			if(typeof Content_pageLoad == 'function')
-				Content_pageLoad(sender, args);
-		}
-	</script>
+<html><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPGT5S"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" src="/shopcj/media/js/scj/common.js"></script>
+<script type="text/javascript" src="/shopcj/media/js/scj/word.js"></script>
+
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="IE=Edge">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="No-Cache">
+<meta http-equiv="Pragma" content="No-Cache">
+<title>Online Shopping in India - Shop @ Lowest Price at Shopcj for Mobiles, Pack of Sarees, hot deals, top picks, Bedsheet</title>
+<link rel="shortcut icon" href="/shopcj/media/images/scj/favicon.ico">
+<meta name="keywords" content="online shopping India, home appliances , kitchen appliances, sarees, mobile phones, electronics, shop, lowest price, health and beauty, hot deals, top picks, Bedsheet, jewellery.">
+<meta name="description" content="ShopCJ.com : Online Shopping Store in India for Mobiles, Pack of Sarees, Home and Kitchen, Appliances, Jewellery, Fashion, Hot Deals, Top Picks, Bedsheet, Health and Beauty @ Lowest Price.">
+<meta property="fb:admins" content="564777065">
+
+<link href="/shopcj/media/css/scj/style_scj.css" type="text/css" rel="stylesheet">
+<link href="/shopcj/media/css/scj/responsive_scj.css" type="text/css" rel="stylesheet">
+<link href="/shopcj/media/css/scj/slick.css" type="text/css" rel="stylesheet">
+<link href="/shopcj/media/css/scj/jquery-ui.css" type="text/css" rel="stylesheet">
+  
+  
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,800" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/shopcj/media/js/scj/jquery-2.1.4.min.js"></script> 
+
 </head>
-<body id="ctl00_PageBody" style="width: 100%; margin: 0px;">
-  
-<script src="http://img3.wsimg.com/AtlantisScripts/jquery/jquery-1.3.1.min.js" type="text/javascript"></script>
-  
-	
-	
-<script type="text/javascript" language="javascript" src="http://img.godaddy.com/JS_Lib/traffic.js"></script>
+<body>
+<!-- Wrapper start here -->
+<img class="onLoadImage" style="display: none;"> 	
+<div id="wrapper"> 
+  <!-- header start here -->
+  <header class="header">
+    <script type="text/javascript"> 
+	function f_DoPost(txId, returnData) {
+		if (txId == "recentItemList") {
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			document.getElementById("hottestOffer").innerHTML = getRecentShowHtml(returnData);
+		}
 
-<img src="http://img.godaddy.com/image.aspx?sitename=www.godaddy.com&amp;server=M1PWCORPWEB152&amp;privatelabelid=1&amp;status=200&amp;rand=0.812901643017727&amp;page=%2fagreements%2fShowDoc.aspx&amp;split=81&amp;querystring=pageid%3dprivacy_parkedpage" alt="" class="traffic">
+		//mcategory start
+		if (txId == "midCategory") {
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			returnDataTotal = returnData.data.total;
 
-    
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
 
-    <form name="aspnetForm" method="post" action="ShowDoc.aspx?pageid=privacy_parkedpage" id="aspnetForm">
-<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxNTAyOTQ1D2QWAmYPZBYCAgMPZBYCAhMPDxYCHgdWaXNpYmxlaGRkZGk0a56o4pyrY7+H3hhxuEuvTcpI">
+			document.getElementById("isLoading").value = false;
+			$("#onload").append(getListShowHtml(returnData));
+		}
+
+		if (txId == "onLoadCategory") {
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			returnDataTotal = returnData.data.total;
+
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+			document.getElementById("isLoading").value = false;
+			$("#showdata").append(getListShowHtml(returnData));
+
+		}
+		// Banner start
+		if (txId == "eventBannerItemList") {
+
+			//alert("inside Banner List");
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			returnDataTotal = returnData.data.total;
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+			document.getElementById("isLoading").value = false;
+
+			var div1 = document.getElementById("bannerItems");
+
+			//div1.innerHTML =  getBannerItemList(returnData);
+			div1.innerHTML += getBannerItemList(returnData);
+
+		}
+		if (txId == "eventBannerFilter") {
+
+			//alert("inside Banner List");
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+
+			returnDataTotal = returnData.data.total;
+
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+			document.getElementById("isLoading").value = false;
+			//getPaging();
+			//alert(returnData.data.results.length);
+			var div1 = document.getElementById("bannerItems");
+
+			//div1.innerHTML =  getBannerItemList(returnData);
+			div1.innerHTML = div1.innerHTML + getBannerItemList(returnData);
+
+		}
+	//Hot offer
+		if (txId == "filters") {
+
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+
+			if (returnData.data.results.length < 20) {
+				isdataempty = true;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+				document.getElementById("isRepeat").value = false;
+			}
+
+			document.getElementById("isLoading").value = false;
+			var div1 = document.getElementById("showWindow");
+			div1.innerHTML = div1.innerHTML + getHotListShowHtml(returnData);
+
+		}
+		if (txId == "onload") {
+
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+
+			if (returnData.data.results.length < 20) {
+				isdataempty = true;
+				document.getElementById("nodata").innerHTML = ' No more data found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+				document.getElementById("isRepeat").value = false;
+			}
+
+			document.getElementById("isLoading").value = false;
+
+			$("#showWindow").append(getHotListShowHtml(returnData));
+
+		}
+	//TV Show Start
+		if (txId == "selectTVShowPagedListFilter")
+	    {
+
+		    if(returnData == null) {  // No Data
+		          alert('<cj:message code="community.txt.W_008" />');
+		          return;
+		    }
+		    returnDataTotal = returnData.data.total;
 
 
-<script src="/ScriptResource.axd?d=07PJCVFyCyUq301XvnZa1A1dhohl3iEi0ZrL4DpsO6fyHoRLkOFrNUL8IQWRL3P7qzX3I54gowvQdrQXAqjcbAMSsmSMfoLa0dRWNZ1XNU-L20j3HfpFYJYZmrBy1BExj1oA-3kW82X-EH8w4f-U2rvi7NxqUvbUYAoer38JjDQaCpyL0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
-        
-		<div>
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('nodata').style.display='block';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+		    document.getElementById("isLoading").value =false;
+		    var div1 = document.getElementById("showdata");
+		   	div1.innerHTML = div1.innerHTML + getListTVShowHtml(returnData);
+	    }
+		if (txId == "onLoadTVShowPage")
+	    {
+		    if(returnData == null) {  // No Data
+		          alert('<cj:message code="community.txt.W_008" />');
+		          return;
+		    }
+		    returnDataTotal = returnData.data.total;
+
+
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+		    document.getElementById("isLoading").value =false;
+		    $("#showdata").append(getListTVShowHtml(returnData));
+
+	  }
+		//TV Show END
+		
+		//Category start
+		if (txId == "categoryFilter") {
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			returnDataTotal = returnData.data.total;
+
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+			document.getElementById("isLoading").value = false;
+			$("#onload").append(getListShowHtml(returnData));
+		}
+
+		if (txId == "onLoadLCategory") {
+			if (returnData == null) { // No Data
+				alert('<cj:message code="community.txt.W_008" />');
+				return;
+			}
+			returnDataTotal = returnData.data.total;
+
+			if (returnData.data.results.length < 20){
+				document.getElementById("isRepeat").value = false;
+				document.getElementById("nodata").innerHTML = ' No More Data Found ';
+				document.getElementById('loadmoredata').style.display = 'none';
+			}
+
+			document.getElementById("isLoading").value = false;
+			$("#showdata").append(getListShowHtml(returnData));
+
+		}
+ 	//Category END
+
+
+		if ( txId == "emailIdDuplChk" ) {
+			try {
+				emailIdResult(returnData);
+			} catch(e) {
+				emailIdResult("-1");
+			}
+		}
+
+		if ( txId == "mobileNumberDuplChk" ) {
+			try {
+				mobileNoResult(returnData);
+			} catch(e) {
+				mobileNoResult("-1");
+			}
+		}
+
+		if ( txId == "pinCodeDetails" ) {
+			try {
+				afterPinCodeCheck(returnData);
+			} catch(e) {
+				afterPinCodeCheck("-1");
+			}
+		}
+
+		if ( txId == "cartList" ) {
+			try {
+				setCart(returnData);
+			} catch(e) {
+				var timeOut = window.setTimeout("setCart(returnData);",1000);
+				clearTimeout(timeOut);
+			}
+		}
+
+		if ( txId == "verifyPincode" ) {
+			verifyPincodeResult(returnData);
+		}
+
+		if ( txId == "getGuestPincode" ) {
+			getGuestPincodeResult(returnData);
+		}
+
+		if ( txId == "getGuestPincodeToDisplay" ) {
+			getGuestPincodeToDisplayResult(returnData);
+		}
+
+		if ( txId == "getDropdownQty" ) {
+			getDropdownQtyToDisplayResult(returnData);
+		}
+
+		if ( txId == "itemAllowedToAddInCart" ) {
+			//	alert("returnData="+returnData);
+				itemAllowedToAddInCart(returnData);
+			}
 			
+			if ( txId == "addItemToCart" ) {
+					addItemToCart(returnData);
+			}
 
+			if ( txId == "selectAreaPinCodeDetails" ) {
+				
+				try {
+					afterAreaPinCodeCheck(returnData);
+				} catch(e) {
+					afterIdCheck("-1");
+				}
+			}
 
+			if ( txId == "addAddressFirst" ) {
+				try {
+					addAddressFirst(returnData);
+				} catch(e) {
+					addAddressFirst("-1");
+				}
+			}
 
-    <style type="text/css">
-        .closeButton
-        {
-            font-variant: small-caps;
-            color: #003366;
-            text-decoration: none;
-            font-size: 12pt;
-            letter-spacing: 4px;
-            font-family: Arial-Narrow, Helvetica, Veranda, Sans;
-        }
-        .main
-        {
-            font-family: Arial, Verdana;
-        }
-        .bodyText
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        .bodyTextBold
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        .footerText
-        {
-            font-family: Arial, Verdana;
-            font-size: 7pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            color: #FFFFFF;
-        }
-        .bodyTextCaps
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            text-transform: uppercase;
-            text-align: justify;
-        }
-        .finePrint
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            margin-right: 25pt;
-            margin-bottom: 10pt;
-            line-height: 10pt;
-            text-align: justify;
-        }
-        A:ACTIVE, A:LINK, A:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: none;
-            color: #FF6600;
-        }
-        A:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        .EULATitle
-        {
-            font-family: Arial, Verdana;
-            font-size: 14pt;
-            margin-right: 5pt;
-            text-transform: uppercase;
-            font-style: italic;
-            font-weight: bold;
-            color: #003366;
-        }
-        .heading1
-        {
-            font-family: Arial, Verdana;
-            font-size: 11pt;
-            font-weight: bold;
-            text-transform: uppercase;
-            color: #666666;
-        }
-        .smallTable p, .smallTable ul, .smallTable ol {
-         margin : 1px;
-        }
+			if ( txId == "itemChange" ) {
+				location.reload();
+		}
 
-        .heading2
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        LI
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-top: 5pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: lower-roman;
-            list-style-position: outside;
-        }
-        OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: upper-alpha;
-            list-style-position: outside;
-        }
-        OL OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: circle;
-            list-style-position: outside;
-        }
-        UL UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: square;
-            list-style-position: outside;
-        }
-        P
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-        }
-        .nav
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            line-height: 0pt;
-        }
-        A.nav:ACTIVE, A.nav:LINK, A.nav:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            color: #003366;
-        }
-        A.nav:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        .top
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-        }
-        A.top:ACTIVE, A.top:LINK, A.top:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        A.top:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        #TableMenu
-        {
-            background-color: #FFFFFF;
-            border: 1px dashed #FFFFFF;
-            padding-bottom: 15pt;
-            padding-left: 10pt;
-            padding-right: 10pt;
-            padding-top: 15pt;
-            width: 125px;
-        }
-        HR
-        {
-            color: Silver;
-            margin-right: 25pt;
-        }
-        body
-        {
-            font-family: Arial,Verdana;
-        }
-         
-         a:active,a:link,a:visited{color:#FF6600;font-family:Arial,Verdana;font-size:10pt;margin-bottom:5pt;margin-right:0;text-decoration:none;}
-        .EULATitle
-        {
-            color: #003366;
-            font-family: Arial,Verdana;
-            font-size: 14pt;
-            font-style: italic;
-            font-weight: bold;
-            margin-right: 5pt;
-            text-transform: uppercase;
-        }
-        
- </style>
+			if ( txId == "setSelectedQtyIndex" ) {
+				location.reload();
+		}
 
-<div class="main">
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr>
-            <td>
-                <a href="Javascript:window.close();" class="closeButton">Close Window</a>
-            </td>
-            <td align="right">
-                <a href="Javascript:window.print();" class="closeButton">Print</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
-    <table>
-        <tbody><tr>
-            <td width="100px">
-            </td>
-            <td>
-                &nbsp;
-            </td>
-            </tr>
-            <tr>
-            <td>
-            </td>
-            <td>
-                
-                <table width="100%">
-<tbody>
-<tr><td width="0"></td><td></td></tr>
-<tr><td></td><td>
-<table>
-<tbody>
-<tr><th align="left" class="EULATitle">
-Go Daddy<br>
-Privacy, Security, Your Information
-</th></tr>
-<tr><td class="bodyText">
-<div style="font-size: 9pt; color: #000000; direction: ltr; font-family: MS Shell Dlg 2;">
-<p><strong>Go Daddy Respects Your Privacy</strong></p>
-<p><strong>This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.</strong></p>
-<p><strong>Please take the time to review the terms of this Policy.&nbsp; By using this Site, you agree to accept the terms provided.</strong></p>
-<p><strong>Other than as described in this Policy, we will not give any information about you to others without your express permission. </strong></p>
-<p><strong>Information Collection and Use </strong></p>
-<p>Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.&nbsp; For example, we may collect this information in the event that you register as a member of&nbsp;this Site, post a comment, sign-up&nbsp;to receive email communications, or submit demographic information as part of a survey.</p>
-<p>We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.</p>
-<p>We may use your information&nbsp;to contact you regarding the information and services available on our Site, functionality changes to our Site,&nbsp;and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.</p>
-<p>We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.</p>
-<p>We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</p>
-<p>Our Site uses cookies to enhance your experience with our Site.&nbsp; Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.&nbsp; We use cookies to identify you so you don't need to log in each time you visit our Site.&nbsp; You may opt-out of the use of cookies by altering settings on your browser.&nbsp; Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..</p>
-<p>This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.</p>
-<p><strong>Security </strong></p>
-<p>This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.</p>
-<p><strong>Updating Your Information </strong></p>
-<p>You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may send an email to <a href="mailto:support@godaddy.com">support@godaddy.com </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may send mail to Go Daddy at the following postal address:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may call us at: (480) 505-8800</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may fax us at: (480) 505-8844</p>
-<p></p>
-<p></p>
-<p><strong>Sending Emails </strong></p>
-<p>We use emails to communicate with you&nbsp;and to send information that you have requested.&nbsp; We also provide email links&nbsp;to allow you to contact us directly. We strive to promptly reply to your messages.</p>
-<p>The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.</p>
-<p><strong>Compliance with Laws and Law Enforcement </strong></p>
-<p>We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.</p>
-<p><strong>Third Party Service Providers </strong></p>
-<p>We may at times provide information about you to third parties to provide various services on our behalf, such as&nbsp;serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.</p>
-<p>In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here. </a></p>
-<p><strong>Supplementation of Information </strong></p>
-<p>In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (<em>e.g., </em>information from our strategic partners, service providers, or the United States Postal Service).&nbsp; We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
-<p><strong>Contests/Surveys </strong></p>
-<p>From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.</p>
-<p>We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-<p></p>
-<p><strong>Tell-A-Friend </strong></p>
-<p>If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com">support@godaddy.com </a>to request the removal of this information from our database.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>What Happens to my Personal Information if I Opt Out? </strong></p>
-<p>If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information&nbsp;in "deactivated" status on our relevant&nbsp;databases. However,&nbsp;you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.</p>
-<p></p>
-<p><strong>Transfer of Data Abroad</strong></p>
-<p>If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information&nbsp;across international boundaries. &nbsp;By visiting this Site and communicating electronically with us, you consent to such transfers.</p>
-<p></p>
-<p><strong>Changes in Our Practices</strong></p>
-<p>We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and&nbsp;any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-<p>If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.</p>
-<p><strong>Contacting Our Site </strong></p>
-<p>If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:</p>
-<hr size="2" noshade="">
-<p>Go Daddy <br>ATTN: Web Team <br>14455 North Hayden Rd. <br>Suite 219 <br>Scottsdale, AZ, 85260, U.S.A.</p>
-</div>
+			if ( txId == "chkGiftItem" ) {
+				chkGiftItemResult(returnData);
+		}
 
-</td></tr>
-<tr><td>
-<br>
-<span class="finePrint">
-Revised: 2/23/2011<br>
-Copyright © 2010-2011 GoDaddy.com, Inc. All Rights Reserved.
-</span>
-</td></tr>
-</tbody>
-</table>
-</td></tr>
-</tbody>
-</table>
-
-            </td>
-        </tr>
-    </tbody></table>
-</div>
-
-		</div>
-    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-
-    
-<script src="http://img3.wsimg.com/fastball/js_lib/FastballLibrary0006.js?version=1" type="text/javascript"></script>
-
-    
-<script src="http://img3.wsimg.com/fos/script/sales16.min.js" type="text/javascript"></script>
-	
-	
-
-<script type="text/javascript" language="javascript">
-  var internal_clicked=true;
-	if(typeof Content_appLoad == 'function')
-	{
-		Content_appLoad();
 	}
+
+	function checkNumber(nos) {
+		var chkNos = isNaN(nos);
+		if (chkNos) {
+			return false;
+		} else {
+			if (nos < 0) {
+				return false;
+			} else {
+				return true;
+			}
+		}
+	}
+
+		function getListTVShowHtml(returnData) {
+		var productHtml = '';
+
+		for (i = 0; i < returnData.data.results.length; i++) {
+			//discount show class
+			var discount = returnData.data.results[i].discountPercentage,
+                            imageUrl = returnData.data.results[i].imageLink;
+			itemCode =   returnData.data.results[i].itemCode.substring(0,6);
+			var itemUrl = "http://www.starcj.com/nmall/disp/itemInfo.htm?itemCode="+itemCode;
+
+			if (discount >= 10) {
+			//	if (discount <= 30) {
+					discount = '<span class="offer offer1 small">' + discount + '%<span>OFF</span></span>';
+			//	} else {
+			//		discount = '<span class="offer offer2 small">' + discount + '%<span>OFF</span></span>';
+			//	}
+			} else {
+				discount = '';
+			}
+
+			//discount show class
+
+			 //discount show class
+			productHtml += '<div class="col large-3 medium-4 small-4 x-small-6" >';
+					productHtml += '<div class="card">';
+		            productHtml += '<div class="productDtl">';
+		            productHtml += '<div class="productOverlay text-center">';
+					if(returnData.data.results[i].youTube != null){
+						productHtml += '<a href="'+returnData.data.results[i].youTube+'" class="btn hollow fancybox-media">View Video</a>';
+					}
+					productHtml += '  </div>';
+		            productHtml += '<div class="card_topHeader">';
+		          	productHtml += '<h3>' + returnData.data.results[i].itemName + ' </span></h3>';
+		          	productHtml += '</div>';
+		          	 productHtml += '<a href="' + itemUrl+'">';
+					productHtml += '<figure> <img class ="backup_picture"  src="' + imageUrl + '"  alt=""  onerror="onImgErrorK(this);" />';
+					productHtml += discount;
+					if(returnData.data.results[i].youTube != null){
+						productHtml += '<a class="lftPnl fancybox-media"  href="'+returnData.data.results[i].youTube+'"> <span class="vdoIcon"> <span class="vdoPlayIcon"></span> </span></a>';
+					}				
+					productHtml += '</figure>';
+					 productHtml += '</a>';
+					productHtml += '</div>';
+					productHtml += '<div class="productPrice">';
+					productHtml += '<div class="productPContr">';
+					if(returnData.data.results[i].rsalePrice != returnData.data.results[i].mrp){
+					productHtml += '<span class="rateTag">Rs</span> <span class="price">'
+							+ numberFormat(returnData.data.results[i].rsalePrice) + '</span> Rs <span class="pricecut">'
+							+ numberFormat(returnData.data.results[i].mrp) + '</span>';
+					}
+					else{
+						productHtml += '<span class="rateTag">Rs</span> <span class="price">'
+							+ numberFormat(returnData.data.results[i].rsalePrice) ;
+					}
+					productHtml += '</div>';
+
+					if (parseInt(returnData.data.results[i].giftYn) !== 0) {
+						productHtml += '<div class="gift"><i class="icon-gift"></i> <span class="giftPrice"><b>Free gifts</b></span> </div>';
+					}
+				 	productHtml += '<span class="addCartBtn" > <a href="' + itemUrl
+							+ '" class="btn sml" id="' + returnData.data.results[i].itemCode + '"  >View Details</a></span>';
+					productHtml += '</div>';
+					productHtml += '</div>';
+                  	productHtml += '</div>';
+
+		}
+
+		return productHtml;
+	}
+
+
+
+function getListShowHtml(returnData) {
+		var productHtml = '';
+
+		for (i = 0; i < returnData.data.results.length; i++) {
+			//discount show class
+			var discount = returnData.data.results[i].discountPercentage,
+                            imageUrl = returnData.data.results[i].imageLink;
+			itemCode =   returnData.data.results[i].itemCode.substring(0,6);
+			var itemUrl = "http://www.starcj.com/nmall/disp/itemInfo.htm?itemCode="+itemCode;
+
+			if (discount >= 10) {
+			//	if (discount <= 30) {
+					discount = '<span class="offer offer1 small">' + discount + '%<span>OFF</span></span>';
+			//	} else {
+			//		discount = '<span class="offer offer2 small">' + discount + '%<span>OFF</span></span>';
+			//	}
+			} else {
+				discount = '';
+			}
+
+			//discount show class
+
+			 //discount show class
+			productHtml += '<div class="col large-3 medium-4 small-4 x-small-6 product-detail-holder" >';
+					productHtml += '<div class="card">';
+		            productHtml += '<div class="productDtl">';
+		            /*productHtml += '<div class="productOverlay text-center"></div>';*/
+		        //    productHtml += '<div class="productOverlay text-center">';
+				//	if(returnData.data.results[i].videoLnk != null && returnData.data.results[i].videoLnk.trim()!=""){						
+				//		productHtml += '<a href="'+returnData.data.results[i].videoLnk+'" class="btn hollow fancybox-media">View Video</a>';
+				//	}
+				//	productHtml += '</div>';
+		            productHtml += '<div class="card_topHeader">';
+		            productHtml += '<a href="' + itemUrl+ '"  >';
+		          	productHtml += '<h3>' + returnData.data.results[i].itemName + ' </span></h3>';
+		          	productHtml += '</a>';
+		          	productHtml += '</div>';
+		          	 productHtml += '<a href="' + itemUrl+'">';
+					productHtml += '<figure> <img class ="backup_picture"  src="' + imageUrl + '"  alt=""  onerror="onImgErrorK(this);" >';
+					productHtml += discount;
+					productHtml += '</figure>';
+					 productHtml += '</a>';
+					productHtml += '</div>';
+					productHtml += '<div class="productPrice">';
+					productHtml += '<div class="productPContr">'
+					if (parseInt(returnData.data.results[i].giftYn) !== 0) {
+						productHtml += '<div class="gift"><i class="icon-gift"></i> <span class="giftPrice"><b>Free gifts</b></span> </div>';
+						};
+						if(returnData.data.results[i].rsalePrice!=returnData.data.results[i].mrp){
+					productHtml += '<span class="rateTag">Rs</span> <span class="price">'
+							+ numberFormat( returnData.data.results[i].rsalePrice)+ '</span> Rs <span class="pricecut">'
+							+ numberFormat(returnData.data.results[i].mrp) + '</span>';}
+						else{
+							productHtml += '<span class="rateTag">Rs</span> <span class="price">'
+								+ numberFormat( returnData.data.results[i].rsalePrice);
+						}
+					productHtml += '</div>';
+					productHtml += '<span class="addCartBtn" > <a href="' + itemUrl
+							+ '" class="btn sml" id="' + returnData.data.results[i].itemCode + '"  >View Details</a></span>';
+					productHtml += '</div>';
+					productHtml += '</div>';
+                  	productHtml += '</div>';
+
+		}
+
+		return productHtml;
+	}
+
+
+function getHotListShowHtml(returnData) {
+	  var productHtml = '';
+	    for (i = 0; i < returnData.data.results.length; i++) {
+	        //discount show class
+	       var discount =   returnData.data.results[i].discount,
+	           imageUrl =   returnData.data.results[i].imageURL,
+             itemCode =   returnData.data.results[i].itemCode.substring(0,6);
+	       var itemUrl = "http://www.starcj.com/nmall/disp/itemInfo.htm?itemCode="+itemCode;
+
+	        if(discount >= 10){
+	      //      if (discount <= 30)
+	      //      {
+	                discount = '<span class="offer offer1 small">' + discount + '%<span>OFF</span></span>';
+	       //     } else {
+	    //            discount = '<span class="offer offer2 small">' + discount + '%<span>OFF</span></span>';
+	       //     }
+	        }else
+	        {
+	           discount = '';
+	        }
+	        //discount show class
+	        productHtml += '<div class="col large-3 medium-4 small-4 x-small-6 product-detail-holder" >';
+	        //productHtml += '<a href="' + itemUrl+'">'
+	        productHtml += '<div class="card">';
+	        productHtml += '<div class="productDtl">';
+	        
+	        productHtml += '<div class="productOverlay text-center">';
+			if(returnData.data.results[i].videoLnk != null){
+				productHtml += '<a href="'+returnData.data.results[i].videoLnk+'" class="btn hollow fancybox-media">View Video</a>';
+			}
+			productHtml += '</div>';
+	        productHtml += '<div class="card_topHeader">';
+	        productHtml += '<h3>' + returnData.data.results[i].itemName + ' </span></h3>';
+	        productHtml += '</div>';
+	        productHtml += '<a href="' + itemUrl+'">';
+	        productHtml += '<figure> <img class ="backup_picture"  src="'+imageUrl+'"  alt=""  onerror="onImgErrorK(this);"> </img>';
+	        productHtml += discount;
+	        productHtml += '</figure>';
+	        productHtml += '</a>'
+	        productHtml += '</div>';
+	        productHtml += '<div class="productPrice">';
+	        productHtml += '<div class="productPContr">';
+	        if(returnData.data.results[i].itemPrice != returnData.data.results[i].mrp){
+	        productHtml += '<span class="rateTag">Rs</span> <span class="price">' + numberFormat(returnData.data.results[i].itemPrice) + '</span> Rs <span class="pricecut">' + numberFormat(returnData.data.results[i].mrp)+ '</span>';
+	        }
+	        else{
+	        	productHtml += '<span class="rateTag">Rs</span> <span class="price">' + numberFormat(returnData.data.results[i].itemPrice) ;
+	        }
+	        productHtml += '</div>';
+
+	        if (parseInt(returnData.data.results[i].giftYn) !== 0)
+	        {
+	            productHtml += '<div class="gift"><i class="icon-gift"></i> <span class="giftPrice"><b>Free gifts</b></span> </div>';
+	        }
+	        productHtml += '<span class="addCartBtn" > <a href="'+itemUrl+'" class="btn sml" id="'+itemCode +'"  >View Details</a></span>';
+	        productHtml += '</div>';
+	        productHtml += '</div>';
+
+      productHtml += ' <div>';
+      productHtml += '</div>';
+      productHtml += '</div>';
+	    }
+
+	return productHtml;
+}
+   function getBannerItemList(returnData){
+              var productHtml = '';
+                for (i = 0; i < returnData.data.results.length; i++) {
+                    //discount show class
+                   var discount =   returnData.data.results[i].discount,
+                       imageUrl =   returnData.data.results[i].imageUrl;
+                   var itemCd = returnData.data.results[i].itemCode;
+					var subStr=  itemCd.substring(-1,6);
+                   var itemUrl = "http://www.starcj.com/nmall/disp/itemInfo.htm?itemCode="+subStr;
+
+                    if(discount >= 10){
+                    //    if (discount <= 30){
+                            discount = '<span class="offer offer1 small">' + discount + '%<span>OFF</span></span>';
+                    //    } else {
+                    //        discount = '<span class="offer offer2 small">' + discount + '%<span>OFF</span></span>';
+                    //    }
+                   }else{
+                       discount = '';
+                    }
+                    //discount show class
+                    productHtml += '<div class="col large-3 medium-4 small-4 x-small-6" >';
+                    productHtml += '<div class="card">';
+                    productHtml += '<div class="productDtl">';
+                    productHtml += '<div class="productOverlay text-center"></div>';
+                    productHtml += '<div class="card_topHeader">';
+                    productHtml += '<h3>' + returnData.data.results[i].itemName.replace(/(\[.*?\])/g, '')+ '</span></h3>';
+
+                    productHtml += '</div>';
+                  productHtml += '<a href="/nmall/disp/itemInfo.htm?itemCode='+subStr+'">'
+                  productHtml += '<a href="' + itemUrl+'">';
+                    productHtml += '<figure> <img class ="backup_picture"  src="'+imageUrl+'"  alt="" onerror="onImgErrorK(this);"> </img>';
+                   // productHtml += '<span class="offer offer1 small">'+discount+'%<span>OFF</span></span>';
+                    productHtml += discount;
+                    productHtml += '</figure>';
+                  productHtml += '</a>';
+                    productHtml += '</div>';
+                    productHtml += '<div class="productPrice">';
+                    productHtml += '<div class="productPContr">';
+                    if(returnData.data.results[i].mrp != returnData.data.results[i].rsalePrice){
+                    productHtml += '<span class="rateTag">Rs</span> <span class="price">' + numberFormat(returnData.data.results[i].rsalePrice)+ '</span> Rs <span class="pricecut">' + numberFormat(returnData.data.results[i].mrp) + '</span>';
+                    }
+                    else{
+                    	productHtml += '<span class="rateTag">Rs</span> <span class="price">' + numberFormat(returnData.data.results[i].rsalePrice);
+                    }
+                    productHtml += '</div>';
+                     if (parseInt(returnData.data.results[i].giftYn) !== 0){
+                        productHtml += '<div class="gift"><i class="icon-gift"></i> <span class="giftPrice"><b>Free gifts</b></span> </div>';
+                    }
+                    productHtml += '<span class="addCartBtn" > <a href="/nmall/disp/itemInfo.htm?itemCode='+subStr+'" class="btn sml" id="'+returnData.data.results[i].itemCode +'"  >View Details</a></span>';
+                    //productHtml += '</p>';
+                    productHtml += '</div>';
+                    productHtml += '</div>';
+                    productHtml += ' <div class="addCompare">';
+                    productHtml += '</div>';
+                    productHtml += '</div>';
+
+                }
+
+            return productHtml;
+      }
+
+	function numberFormat(numstr) {
+
+		return numberFormatNew(numstr, false);
+	}
+
+	//Comma Set
+	function numberFormatNew(numstr, resetYn) {
+
+		if (numstr == "" || numstr == null)
+			return numstr;
+
+		var cValue = "";
+
+		if (resetYn)
+			cValue = numberFormatReset(numstr) + "";
+		else {
+			cValue = numstr + "";
+		}
+
+		var mValue = "";
+		var rValue = "";
+		var subValue = "";
+
+		if (cValue.indexOf(".") != -1) {
+
+			var idx = cValue.indexOf(".");
+			mValue = cValue.substring(idx, cValue.length);
+			cValue = cValue.substring(0, idx);
+			if (".0" == mValue || ".00" == mValue) {
+				mValue = "";
+			}
+
+		}
+
+		if (cValue.length < 3) {
+			return cValue + mValue;
+		}
+
+		for (ii = 0; ii < cValue.length; ii++) {
+
+			subValue = cValue.substring((cValue.length - ii) - 1, cValue.length - ii);
+
+			//India Currency Format #,##,##,##,##,##,###.##
+			if (ii == 3) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 5) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 7) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 9) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 11) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 13) {
+				rValue = subValue + "," + rValue;
+			} else if (ii == 15) {
+				rValue = subValue + "," + rValue;
+			} else {
+				rValue = subValue + rValue;
+			}
+		}
+
+		return rValue + mValue;
+
+	}
+	String.prototype.cut = function(len) {
+		var str = this;
+		var l = 0;
+		for ( var i = 0; i < str.length; i++) {
+			l += (str.charCodeAt(i) > 128) ? 2 : 1;
+			if (l > len)
+				return str.substring(0, i) + "...";
+		}
+		return str;
+	}
+
+	function openCart() {
+		window.location.href = "/shopping-cart";
+
+	}
+
+	function goUnbxdSearch() {
+		var keyword = document.getElementById("autoCompleteKeyword").value;
+		keyword = trim(keyword);
+		var newKeyWord = "";
+		keyword = keyword.replace('+', '$');
+		newKeyWord = keyword.split(' ').join('+');
+
+		var actionVar = "http://search1.shopcj.com?q=" + newKeyWord;
+		document.Headerfrm.action = actionVar;
+		$("#srchBtn").click();
+	}
+
+	function xss_checkFirstStep(obj, message) {
+		var chkval = obj;
+		var msg = message;
+		goUnbxdSearch();
+	}
+	function clearText()
+	{
+		if(window.location.href.indexOf("searchItem.htm") > -1) {
+
+		document.getElementById("autoCompleteKeyword").value="";
+		}
+	}
+ </script>
+
+<script type="text/javascript" language="javascript" src="/shopcj/media/js/scj/common.js"></script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<script type="text/javascript">
+localStorage.setItem('setGoogleAnalytics', 'true');
 </script>
+
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+var checksurveyfilled = localStorage.removeItem("surveyfilled")
+var validNavigation = false;
+var a;
+function wireUpEvents() {
+var dont_confirm_leave = 0; //set dont_confirm_leave to 1 when you want the    user to be able to leave withou confirmation
+ var leave_message = 'ServerThemes.Net Recommend BEST WEB HOSTING at new tab  window. Good things will come to you'
+ function goodbye(e) {
+if (!validNavigation) {
+//console.log("validnavigation")
+//a = setTimeout('window.location.href="/nmall/CJSurvey.htm";',0);
+ //window.location = '/nmall/CJSurvey.htm';
+if(checksurveyfilled==null ||checksurveyfilled==undefined){
+// window.open("/nmall/CJSurvey.htm","_blank");
+}
+return leave_message;
+
+}
+}
+window.onbeforeunload=goodbye;
+
+// Attach the event keypress to exclude the F5 refresh
+$(document).bind('keypress', function(e) {
+if (e.keyCode == 116){
+  validNavigation = true;
+  console.log("in kepress116")
+ }
+ });
+
+// Attach the event click for all links in the page
+$("a").bind("click", function() {
+validNavigation = true;
+console.log("in aclick")
+});
+  // Attach the event submit for all forms in the page
+ $("form").bind("submit", function() {
+ validNavigation = true;
+ console.log("form")
+});
+
+ // Attach the event click for all inputs in the page
+  $("input[type=submit]").bind("click", function() {
+ validNavigation = true;
+ });
+
+ }
+
+  // Wire up the events as soon as the DOM tree is ready
+   $(document).ready(function() {
+   wireUpEvents();
+   });
+   </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--><!--<script>
+
+var url =window.location.href;  
+console.log("url")
+console.log(url)
+
+var currentHost = location.host;
+console.log(currentHost)
+
+if (new URL(redirUrl).host != currentHost)
+    return false;
+
+if (url=="http://192.168.5.123:8080/nmall/index.htm") {
+	window.onbeforeunload = function () {
+	    window.setTimeout(function () {
+	         // escape function context
+	         
+	        window.location = '/nmall/CJSurvey.htm';
+	    }, 0);
+	    window.onbeforeunload = null;   // necessary to prevent infinite loop
+	                                    // that kills your browser
+	    return 'Press "Stay On Page" to go to BBC website!';
+	        // pressing leave will still leave, but the GET may be fired first anyway
+	}
+    }
+else{
+	console.log("dadad")
+}
+
+</script>
+
+
+
+
+
+
+
+--><!--<script>
+window.localLinkClicked = false;
+
+$("a").live("click", function() {
+    var url = $(this).attr("href");
+
+    // check if the link is relative or to your domain
+    //if (! /^https?:\/\/./.test(url) || /https?:\/\/\.com/.test(url)) {
+      //  window.localLinkClicked = true;
+    //}
+    if (! /^https?:\/\/./.test(url) || /https?:\/\/\.com/.test(url)) {
+        window.localLinkClicked = true;
+    }
+});
+//192.168.5.123:8080
+window.onbeforeunload = function() {
+    if (window.localLinkClicked) {
+    	 window.location = '/nmall/CJSurvey.htm';
+    } else {
+        // don't
+    }
+}
+</script>
+
+
+
+-->
+<!--<script>
+var stayonthis = true;
+  var a;
+  function load() {
+   window.onbeforeunload = function(e) {
+        if(stayonthis){
+         a = setTimeout('window.location.href="/nmall/CJSurvey.htm";',0);
+         stayonthis = false;    
+         return "Do you really want to leave now?";
+        }
+        else {
+            clearTimeout(a);
+        }
+
+    };
+    window.onunload = function(e) {
+         clearTimeout(a);
+    };
+  }
+  window.onload = load;
+
+
+</script>
+
+
+-->
+
+<!--<script type="text/javascript" src="http://beeker.io/lab/exit-intent-popup/bioep.min.js"></script>
+    
+    <script type="text/javascript">
+      bioEp.init({
+        width: 394,
+        height: 298,
+        html: '<a href="#YOURURLHERE" title="Claim your discount!"><img src="http://beeker.io/images/posts/2/template2.png" alt="Claim your discount!" /></a>',
+        cookieExp:10
+		//checkCookie:function(){if(0>=this.cookieExp)};
+		
+		
+    });
+    </script>
+
+
+
+
+
+
+
+
+-->
+
+<!--<script>
+window.onbeforeunload = function (event) {
+    var message = 'Important: Please click on \'Save\' button to leave this page.';
+    if (typeof event == 'undefined') {
+        event = window.event;
+       console.log("in undefined")
+    }
+    if (event) {
+        event.returnValue = message;
+        console.log("in defined")
+        console.log(message)
+    }
+    
+    return message;
+};
+
+$(function () {
+    $("a").not('#lnkLogOut').click(function () {
+        console.log("inkout")
+        window.onbeforeunload = null;
+    });
+    $(".btn").click(function () {
+        console.log("outink")
+        window.onbeforeunload = null;
+});
+});
+
+</script>
+
+
+-->
+
+    <div class="row mergeCell">
+<div id="headerBarWithMenu">
+      <div class="col medium-2 small-6 x-small-7 cj-header-left-column"> <i class="icon-hamburgur"></i>
+		<a href="/" class="logo">
+				<img src="/shopcj/media/images/scj/logo_white.png" alt="Logo">
+		</a>
+	  </div>
+      <div class="col medium-5 small-5 x-small-1 srcTop cj-header-middle-column">
+      
+		<form id="frmSearch" name="frmSearch" action="/search:/" onsubmit="return go();">
+			<input type="hidden" name="_csrf" value="de67afcb-81e4-467f-8cd6-27bfaba1ab7e">
+				<input type="hidden" name="searchUrl" id="searchUrl" value="/">
+			<input type="submit" style="display:none;" id="srchBtn">
+	        <div id="globalSrc">
+	          <div class="srcContr">
+	            <div class="srcInput">
+	              <input type="text" name="search" onclick="clearText();" id="q" autocomplete="off" placeholder="What are you shopping for today?" value="" class="textbox" unbxdattr="sq"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+	            </div>
+	          </div>
+					<button id="searchgobutton" type="button" class="do-mall-search" onclick="javascript:void(0);" unbxdattr="sq_bt" style="height: 27px;"><i class="icon-search"></i></button>
+					<button id="mobileSrchOpener" type="button" unbxdattr="sq_bt" onclick=""><i class="icon-search"></i></button>
+	        </div>
+	        <input type="hidden" name="searchAutoSuggestUrl" id="searchAutoSuggestUrl" value="/search/autosuggest/?categoryId=0"> 
+			<input type="hidden" id="getUserNotificationsURL" value="/userNotification/ajax/getNotifications?isNotificationsPage=false">
+			<input type="hidden" id="markNotificationsAsViewedURL" value="/userNotification/ajax/markAsViewed">
+			<input type="hidden" id="markNotificationsAsViewedOnlyURL" value="/userNotification/ajax/markAsViewedOnly">
+			<input type="hidden" id="markNotificationsAsViewedOnlyInPopupURL" value="/userNotification/ajax/markAsViewedOnlyPopup">
+		</form>
+      </div>
+      <div class="col medium-5 small-6 x-small-5 cj-header-right-column">
+        <nav class="menu header-main-menu">
+          <ul>
+            <li><a href="https://play.google.com/store/apps/details?id=com.shopcj.mall&amp;hl=en" target="_blank" class="links-android"><img src="/shopcj/media/images/scj/android.png" width="20px;" height="20px;">Download App</a></li>
+            <li class="contact-us"><a href="/contactUs">Contact Us</a></li>
+			      
+				             
+				  
+				  				
+			<li class="icon-user-holder"><a class="links-android" href="https://play.google.com/store/apps/details?id=com.shopcj.mall&amp;hl=en" target="_blank"><img src="/shopcj/media/images/scj/android.png" width="20px;" height="20px;"></a></li>
+			
+			
+			<li class="web-sign-in-btn">
+			
+				<a href="/login.html">SignIn</a>
+			
+			
+					
+			</li>
+			
+			
+			<li>			
+              <div class="memberPanel user-panel-bar  cj-hide" style="padding: 10px 20px;">
+                <div class="left">
+                  <ul class="memberOptions" style="margin-top: 0px;">
+                    <li style="padding-top: 0px;"><a href="/my-account.html">My Account</a></li>
+                    
+                     
+                  </ul>
+                </div>
+              </div>
+            </li>
+			
+ 			
+ 			
+ 			
+			<li><a href="javascript:openCart();"><i class="icon-trolley" onclick="javascript:openCart();"></i><span class="cart" id="cartCount">0</span></a> </li>
+          </ul>
+        </nav>
+      </div>
+</div>
+<!--  -->
+<div class="floating-cart myCartPopUpShow">
+			<div style="margin: -11px 13px -7px 19px;">
+			<b class="myCartUpdate circleClass" id="myCartUpdateHeader"> </b>
+			</div>
+		</div>
+<!--  -->
+		<!-- input type='text' id='mobileSrchBar' placeholder='Search' class="cj-hide" style="min-height: 55px;padding:0px 40px;"-->
+		<img src="/shopcj/media/images/scj/leftAroSml.png" id="mobileSrchBackBtn" class="cj-hide" style="position: absolute;top: 17px;left: 17px;">
+				<span id="mobileSrchSubmitBtn" class="do-mall-search cj-hide" style="position: absolute;top: 0px;left: auto;right: 0px;font-size: 21px;color: #f07120;display: inline-block;width: 53px;height: 55px;padding: 18px;">
+			  <i class="fa fa-search"></i>
+  		</span>
+    </div>
+
+<div id="blockdiv" style="display:none;width:100%;height:100%;padding-top:20%;position:fixed;top:0px;left:0px;background:url('/shopcj/media/images/scj/over.png') scroll repeat center center transparent;z-index:8888;text-align:center;"><img width="100px" height="100px" src="/shopcj/media/images/scj/process-loader-new.gif"></div>
+
+
+<script>
+$(document).ready(function () {
+	$('body').on('click', '.welcom-sign-btn', toggleUserBar);
+		$('.user-panel-bar').addClass('cj-hide');
+
+	function toggleUserBar(event){
+		if($(event.target).hasClass('signinToggle')){
+			$('.user-panel-bar').toggleClass('cj-hide');
+			if(!localStorage.getItem("isSignedIn")){
+			   localStorage.setItem('isSignedIn', true);
+			}
+		}
+	}
+});
+</script>
+<script type="text/javascript">
+localStorage.setItem('setGoogleAnalytics', 'true');
+$("#autoCompleteKeyword").keypress(function(event){
+	if(event.keyCode == 13){
+		goUnbxdSearch();
+	}
+
+});
+
+
+</script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5278733"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5278733&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+  </header>
+  <!-- header end here --> 
+  <!-- megamenu start here -->
+  <section id="main" class="clearfix viewMegaMenu innerHrdr aboutus remove-top-margin-android-marginstyle=" top="" :="" 0="" !important;"="">
+   	<aside class="row">
+     <div class="viewall">View all categories</div>
+      <nav id="verMM" class="innerNav cj-hide" style="display: none;">
+     <style>
+#verMM ul li.notopbrdr a {color:#0c71b9; background:#fff; border-radius:5px 0 0 5px; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);}
+#verMM ul li.notopbrdr:hover a {color:#e11e2d; background:#fff; border-radius:5px 0 0 5px; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);}
+</style>
+        <ul>
+          <li><a rel="#">Appliances</a>
+            <div class="mmDetailsContr mB0">
+              <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3><a href="/household-appliances/category:3575/" style="margin-bottom: 10px;">Appliances</a></h3>
+                    <h3 class="mobile-header">Appliances</h3>
+                <ul>
+                    <li><a href="/microwaves/kitchen-appliances/categoryid:3598/search:microwaves/inStock:%28%22true%22%29/">Microwaves</a></li>
+                    <li><a href="/juicers-2c-mixers-26-grinders/category:3608/inStock:%28%22true%22%29/">Mixer / Juicers / Grinders</a></li>
+					<li><a href="/gas-stoves-26-hot-plates/category:3604/inStock:%28%22true%22%29/sort:New+Arrivals/">Gas Stoves &amp; Hot Plates</a></li>
+					<li><a href="/geysers/categoryid:3575/search:geysers/inStock:%28%22true%22%29/">Geysers</a></li>					
+					<li><a href="/combos/category:16391/sort:Popularity/">Combo Offers</a></li>					
+					<li><a href="/toasters-2fsandwich-makers/category:3618/inStock:%28%22true%22%29/">Toasters and Sandwich Makers</a></li>               
+                    <li><a href="/home-lighting/category:14955/inStock:%28%22true%22%29/sort:Popularity/">Lamps &amp; Lightning</a></li>
+                    <li><a href="/irons/">Iron</a></li>
+                    <li><a href="/fans/categoryid:3575/search:Fans/inStock:%28%22true%22%29/sort:Relevance/">Fans</a></li>
+                    <li><a href="/water-heaters-2f-geysers/category:3580/inStock:%28%22true%22%29/">Water Heaters / Geysers</a></li>
+                    <li><a href="/food-processors/category:3603/inStock:(" class="link">Food Processers</a></li>
+                  </ul>
+				</div>
+	      </div>
+		  <div class="col large-5 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                  <h3>Top Picks</h3>
+                   <ul>
+                    <li><a href="/kitchen-appliances/category:3598/filter_Brand:%28%22Maharaja+Whiteline%22%29/inStock:%28%22true%22%29/">Maharaja Juicer Mixer Grinders Starting @ 1999</a></li>
+                    <li><a href="/tandoor/categoryid:3575/search:Tandoor/inStock:%28%22true%22%29/">Tandoors starting @Rs. 1199</a></li>
+                    <li><a href="/kitchen-appliance-combos/category:16395/inStock:%28%22true%22%29/">Kitchen appliance Combos upto 63% Off</a></li>
+                    <li><a href="/juicers-2c-mixers-26-grinders/category:3608/inStock:%28%22true%22%29/filter_Type:%28%22Mixer+Grinder%22%29/">Mixers Grinders upto 70% off</a></li>
+                    
+                 </ul>
+            </div>
+            </div>
+            <div class="col large-3 medium-3 small-12 x-small-12">
+			<div class="megamenu" style="height: 300px;">
+                    <h3>Brands</h3>
+                     <ul>
+                        
+                        <li><a href="/kitchen-appliances/category:3598/filter_Brand:%28%22Maharaja+Whiteline%22%29/inStock:%28%22true%22%29/">Maharaja Whiteline</a></li>
+                        <li><a href="/prestige/categoryid:3575/search:Prestige/inStock:%28%22true%22%29/">Prestige</a></li>
+                        <li><a href="/Fabinano/search:Fabinano/categoryid:3575/">Fabiano</a></li>
+                        <li><a href="/kitchen-appliances/category:3598/inStock:%28%22true%22%29/filter_Brand:%28%22Anjalimix%22%29/sort:Customer+Ratings/">Anjalimix</a></li>
+                        <li><a href="/kitchen-appliances/category:3598/inStock:%28%22true%22%29/sort:Customer+Ratings/filter_Brand:%28%22Suryaflame%22%29/">Suryaflame</a></li>
+                   </ul>
+                </div>
+            </div>
+            </div>
+          </li>
+
+			<li><a rel="/kitchen/category:16425/sort:Popularity/">Kitchen</a>
+            <div class="mmDetailsContr mB0">
+              <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                  <h3><a href="/kitchen/category:16425/sort:Popularity/">Kitchen</a></h3>
+                  <h3 class="mobile-header"> Kitchen</h3>
+                  <ul>
+					<li><a href="/induction-cooktops/categoryid:3575/search:Induction+Cooktops/inStock:%28%22true%22%29/">Induction Cooktops</a></li>
+                    <li><a href="/gas-stoves/categoryid:3575/search:Gas+Stoves/inStock:%28%22true%22%29/sort:Customer+Ratings/">Gas Stoves</a></li>
+			            <li><a href="/cookware/categoryid:3503/search:Cookware/inStock:%28%22true%22%29/">Cookware</a></li>
+						<li><a href="/kitchen-appliances/category:3598/inStock:%28%22true%22%29/sort:New+Arrivals/">Appliances</a></li>						
+						<li><a href="/storage/categoryid:3548/search:storage/sort:Popularity/inStock:%28%22true%22%29/">Container &amp; Jars</a></li>
+						<li><a href="/kitchen-dining/categoryid:3503/search:kitchen+and+dining/inStock:%28%22true%22%29/sort:Popularity/">Dinning &amp; Serving</a></li>
+						<li><a href="/tableware/category:15835/">Tableware</a></li>
+						<li><a href="/health-nutrition/categoryid:3471/search:health+nutrition/sort:New+Arrivals/inStock:%28%22true%22%29/">Health Nutrition</a></li>
+                        
+                  </ul>
+	      </div>
+	      </div>
+            <div class="col large-5 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Top Picks</h3>
+                    <ul>
+                        <li><a href="/gas-stoves/categoryid:3575/search:Gas+Stoves/inStock:%28%22true%22%29/sort:Customer+Ratings/category:3575/prc:%5B1499%20TO%206599%5D/searchprc:%5B899%20TO%206599%5D">Gas Stoves starting @ Rs.1499</a></li>
+						<li><a href="/cookware-sets/category:15901/inStock:%28%22true%22%29/">Cookware Set Upto 78% off</a></li>
+						<li><a href="/dinner-sets/categoryid:3503/search:Dinner+sets/filter_Type:%28%22Dinner+Set%22+%22Melamine+Dinner+Set%22+%22Microwave+Dinner+Set%22+%22Opalware+Dinner+Set%22+%22Steel+Dinner+Set%22%29/prc:%5B999+TO+7999%5D/searchprc:%5B335+TO+7999%5D/sort:Relevance/">Dinner set Start @ Rs.999</a></li>
+						<li><a href="/plastic-containers/categoryid:3551/search:storage/">Kitchen Storage upto 75% off</a></li>
+						<li><a href="/casseroles/category:15889/inStock:%28%22true%22%29/sort:New+Arrivals/">Casseroles starting @ Rs. 299</a></li>
+						<li><a href="/cook-26-serve-pots/category:17135/inStock:%28%22true%22%29/">Cook &amp; serware  starts @ Rs. 219</a></li>
+					
+                    </ul>
+                </div>
+            </div>
+            <div class="col large-4 medium-4 small-12 x-small-12"> 
+			<!--<div class="mmImgContr">
+                    <img src="http://image.shopcj.com/images/en/navigation/category/Kitchen.png" alt="Kitchen" class="cj-category-image" style="bottom:-30px"> 
+                </div>                
+		--><div class="megamenu" style="height: 300px;">
+                    <h3>Brands</h3>
+                    <ul>
+							<li><a href="/wonderchef/categoryid:3503/search:Wonderchef/inStock:%28%22true%22%29/category:3503/prc:%5B699%20TO%204499%5D/searchprc:%5B169%20TO%204499%5D">Wonderchef</a></li>
+							<li><a href="/prestige/categoryid:16425/search:Prestige/sort:Customer+Ratings/inStock:%28%22true%22%29/">Prestige</a></li>
+                            <li><a href="/kitchen-dining/categoryid:3503/search:kitchen+and+dining/inStock:%28%22true%22%29/filter_Brand:%28%22Klassic+Vimal%22%29/">Klassic Vimal</a></li>
+							<li><a href="/kitchen/category:16425/filter_Brand:%28%22Mahavir%22%29/">Mahavir</a></li>
+							<li><a href="/milton/categoryid:3503/search:Milton/inStock:%28%22true%22%29/sort:Customer+Ratings/">Milton</a></li>                
+                </ul>
+                </div>
+            </div>
+            </div>
+          </li>
+ <li><a rel="#">Women's Fashion</a>
+                <div class="mmDetailsContr mB0">
+                    <div class="col large-3 medium-3 small-12 x-small-12">
+                        <div class="megamenu">
+                            <h3><a href="/women/category:14969/inStock:%28%22true%22%29/sort:Customer+Ratings/prc:%5B799+TO+2500%5D/searchprc:%5B74+TO+9470%5D/">Women's Fashion</a></h3>
+                            <h3 class="mobile-header">Women's Fashion</h3>
+                            <ul>
+                                <li class="heading">Ethnic Wear</li>
+								<li><a href="/kurtis-26-kurtas/category:15003/sort:New+Arrivals/">Kurtas &amp; Kurtis</a></li>
+								<li><a href="/party-wear-sarees/categoryid:15011/search:party+wear+sarees/sort:Customer+Ratings/">Sarees</a></li>
+								<li><a href="/salwar-suit-combos/category:17017/sort:Customer+Ratings/">Suit combos</a></li>
+								<li><a href="/celebrity-collection/category:17305/inStock:%28%22true%22%29/sort:Popularity/prc:%5B799%20TO%205262%5D/searchprc:%5B74+TO+9470%5D/">Celebrity Collection</a></li>
+								<li><a href="/lehengas/category:16577/inStock:%28%22true%22%29/sort:Customer+Ratings/prc:%5B999+TO+6742%5D/searchprc:%5B349+TO+6742%5D/">Lehengas</a></li>
+								<li><a href="/salwar-suits/category:14999/inStock:%28%22true%22%29/sort:Customer+Ratings/prc:%5B699+TO+2500%5D/searchprc:%5B74+TO+9470%5D/">Salwar Suit</a></li>
+								<li><a href="/leggings/categoryid:16389/search:Leggings/inStock:%28%22true%22%29/sort:Customer+Ratings/">Legging &amp; Salwars</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+      <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Western Wear</h3>
+                    <ul>
+								<li><a href="/tops-26-tunics/category:15019/inStock:%28%22true%22%29/sort:Customer+Ratings/">Tops &amp; Tunics</a></li> 
+								<li><a href="/dresses/category:15001/inStock:%28%22true%22%29/">Dresses</a></li>
+								<li><a href="/nightwear/category:15315/inStock:%28%22true%22%29/sort:Popularity/">Nightwear</a></li>
+								<li><a href="/palazzo/categoryid:3396/search:Palazzo/inStock:%28%22true%22%29/">Palazzo</a></li>
+
+								<li class="heading">Jewelry</li>
+								<li><a href="/fashion-jewellery/category:15143/inStock:true/sort:New+Arrivals/">Fashion Jewellery</a></li>
+								<li><a href="/gold-jewellery/category:15145/inStock:%28%22true%22%29/sort:Popularity/">Precious Jewellery</a></li>
+                                
+								<li><a class="heading" href="/silver-pendants/category:16507/sort:New+Arrivals/inStock:true/">Silver Pendants</a></li>
+                               <li><a href="/jewellery-combos/category:15173/inStock:%28%22true%22%29/" class="link">Wedding Special combos</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col large-3 medium-4 small-12 x-small-12">
+                        <div class="megamenu">
+                            <h3>Top Picks - Saree</h3>
+                            <ul>
+								<li><a href="/kurti-combos/category:17013/">Kurta Combos</a></li>
+								<li><a href="/sarees/category:15011/prc:%5B202+TO+699%5D/searchprc:%5B202+TO+9749%5D/sort:Customer+Ratings/">Sarees Below Rs 699</a></li>
+								<li><a href="/sarees/category:15011/prc:%5B500+TO+1499%5D/searchprc:%5B202+TO+9749%5D/sort:Customer+Ratings/">Sarees Below Rs 1499</a></li>
+
+								<li><a href="/bhagalpuri-saree/categoryid:3396/search:Bhagalpuri+Saree/sort:Discounts/inStock:%28%22true%22%29/">Bhagalpuri Saree</a></li>
+								<!-- <li><a href="http://search1.shopcj.com/?&q=chiffon%20saree&sort=uniqueId%20desc">Chiffon Saree</a></li> -->
+								<li><a href="/sarees/category:15011/filter_Occasion:%28%22Party%22%29/filter_Design:%28%22Embroidered%22%29/sort:Customer+Ratings/inStock:%28%22true%22%29/">Partwear Sarees</a></li>
+								<li><a href="/anarkali/categoryid:3396/search:anarkali/inStock:%28%22true%22%29/">Anarkalis</a></li>
+								<li><a href="/sarees-combos/category:17011/prc:%5B475+TO+999%5D/searchprc:%5B475+TO+5499%5D/inStock:%28%22true%22%29/">Saree combos under 999</a></li>
+								<li><a href="/kurtis-26-kurtas/category:15003/prc:%5B150+TO+499%5D/searchprc:%5B150+TO+4749%5D/sort:Price+High+to+Low/">Kurtis Below Rs 499</a></li>
+								<li><a href="/jeggings/category:15007/inStock:%28%22true%22%29/">Jeggings &amp; Denims</a></li>
+                           </ul>
+                        </div>
+
+                    </div>
+					<!--<div class="mmImgContr">
+                            <img src="http://image.shopcj.com/images/en/navigation/category/womens.png" alt="Image" class="cj-category-image" style="right: -55px; bottom:-20px;"> 
+                        </div> -->
+                        
+                    <div class="col large-3 medium-4 small-12 x-small-12"> 
+					<div class="megamenu" style="height: 300px;">
+                            <h3>Brands</h3>
+                            <ul>
+                               <li><a href="/women/category:14969/filter_Brand:%28%221+Stop+Fashion%22%29/inStock:%28%22true%22%29/sort:Popularity/">1 stop Fashion</a></li>
+								<li><a href="/thankar/categoryid:3396/search:Thankar/inStock:%28%22true%22%29/">Thankar</a></li>
+								<li><a href="/shonaya/categoryid:3396/search:Shonaya/sort:Customer+Ratings/">Shonaya</a></li>
+								<li><a href="/radadiyatrd/categoryid:3396/search:RadadiyaTRD/type:brand/inStock:%28%22true%22%29/sort:Customer+Ratings/">Radadiya</a></li>
+								<li><a href="/lavennder/categoryid:14969/search:Lavennder/sort:Popularity/inStock:%28%22true%22%29/">Lavennder</a></li>
+                                <li><a href="/stylobby/categoryid:3396/search:stylobby/sort:Customer+Ratings/inStock:%28%22true%22%29/">stylobby</a></li>
+                                <li><a href="/clovia/categoryid:3396/search:Clovia/sort:New+Arrivals/">Clovia</a></li>
+   
+                                <li><a href="/ishin/women/categoryid:14969/search:ISHIN/sort:Customer+Ratings/">ISHIN</a></li>
+								<li><a href="/triveni/categoryid:3396/search:Triveni/sort:Customer+Ratings/inStock:%28%22true%22%29/">Triveni</a></li>
+								<li><a href="/miss-chase/categoryid:3396/search:Miss+chase/sort:Customer+Ratings/">Miss chase </a></li>
+								<li><a href="/Indian%20women%20Fashion/search:Indian%20women%20Fashion/categoryid:3396/">Indian women Fashion</a></li>
+								<li><a href="/cozee-shopping/categoryid:3396/search:cozee+shopping/sort:Customer+Ratings/inStock:%28%22true%22%29/">cozee shopping </a></li>
+								<li><a href="/four-seasons/categoryid:3396/search:four+seasons/inStock:%28%22true%22%29/sort:Popularity/">Four season</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+			<li><a rel="/furnishings-home/category:3533/sort:Customer+Ratings/">Home &amp; Living</a>
+            <div class="mmDetailsContr mB0">
+              <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                  <h3><a href="/furnishings-home/category:3533/sort:Customer+Ratings/"> Home &amp; Living</a></h3>
+                  <h3 class="mobile-header">Home &amp; Living</h3>
+                  <ul>
+                    <li><a href="/home-improvement/categoryid:3503/search:HOME+IMPROVEMENT/inStock:%28%22true%22%29/filter_Type:%28%22Cloth+Dryer%22+%22Cleaning+Utilities%22+%22Cloth+Drying+Stand%22+%22Cloth+Hangers+Set%22%29/">Home Utilities</a></li>
+  					<li><a href="/home-improvement/categoryid:3503/search:HOME+IMPROVEMENT/inStock:%28%22true%22%29/filter_Type:%28%22Cloth+Dryer%22+%22Cloth+Drying+Stand%22+%22Cloth+Hangers+Set%22%29/">Cloth Drying Rack</a></li>
+                    <li><a href="/curtains/categoryid:3503/search:Curtains/sort:Customer+Ratings/inStock:%28%22true%22%29/">Curtains</a></li>
+                    <li><a href="/bed-sheets/furnishings-home/categoryid:3533/search:Bed+Sheets/category:3533/prc:%5B799%20TO%201499%5D/searchprc:%5B199%20TO%209999%5D">Bed Sheets</a></li>
+					<li><a href="/blankets-26-quilts/category:15675/inStock:%28%22true%22%29/">Blankets</a></li>
+                    <li><a href="/trolley-bags-26-suitcases/category:17337/inStock:%28%22true%22%29/sort:New+Arrivals/">Bags &amp; Luggage</a></li>
+                    <li><a href="/home-lighting/category:14955/inStock:%28%22true%22%29/">Lamps &amp; Lightings</a></li>
+                    
+					<li><a href="/bath-linen/categoryid:15679/search:bath+linen/sort:Customer+Ratings/inStock:%28%22true%22%29/">Bath Linen</a></li>
+					<li><a href="/health-care/category:3482/sort:Popularity/inStock:true/">Health &amp; Fitness</a></li>                    
+					<li><a href="/cushion/cushions-cushion-covers/categoryid:15663/search:cushion/">Cushions and Covers</a></li>
+                    
+                    <li><a href="/dinnerware/category:3522/sort:Customer+Ratings/inStock:%28%22true%22%29/" class="link">Dinnerware</a></li>
+                  </ul>
+                </div>
+            </div>
+            <div class="col large-5 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Top Picks</h3>
+                    <ul>
+                        <li><a href="/cleaning-mop/categoryid:16427/search:cleaning+Mop/inStock:%28%22true%22%29/">Cleaning Utilities starting@ Rs. 250</a></li>
+                        <li><a href="/kitchen-storage/category:3548/sort:Customer+Ratings/">Kitchen Storage</a></li>
+                        <li><a href="/bed-sheets/category:15649/prc:%5B299+TO+9999%5D/searchprc:%5B199+TO+9999%5D/">Bedsheets Starting @ Rs. 299</a></li>
+                        <li><a href="/bath-linen/towels/categoryid:15707/search:bath+linen/sort:Customer+Ratings/inStock:%28%22true%22%29/category:15707/prc:%5B799%20TO%202059%5D/searchprc:%5B199%20TO%202059%5D">Towel Sets Starting @ 799</a></li>
+                        <li><a href="/home-storage/category:15953/inStock:%28%22true%22%29/">Home Storage starting @ Rs. 199</a></li>
+                    </ul>
+
+                </div>
+            </div>
+                <div class="col large-4 medium-4 small-12 x-small-12">
+			<!-- 	<div class="mmImgContr">
+                            <img src="http://image.shopcj.com/images/en/navigation/category/Home-&-Living.png" alt="Image" class="cj-category-image" style="left: auto;right:-20px; bottom:-20px;"> 
+                        </div>                    
+					--><div class="megamenu" style="height: 300px;">
+                        <h3>Brands</h3>
+                        <ul>
+                            <li><a href="/furnishings-home/category:3533/filter_Brand:%28%22Royal+Decor%22%29/">Royal Decor</a></li>
+                            <li><a href="/jbg/home-kitchen/categoryid:3503/search:JBG/">JBG</a></li>
+                            <li><a href="/kawachi/categoryid:3503/search:Kawachi/">Kawachi</a></li>
+                            <li><a href="/story-home/categoryid:3503/search:story%40+home/sort:Customer+Ratings/">Story @ Home</a></li>
+                            <li><a href="/bed-sheets/category:15649/filter_Brand:%28%22Bianca%22%29/sort:Discounts/">Bianca</a></li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+          </li> 
+            <li><a rel="/gsm-mobile-phones/category:3027/">Mobiles &amp; Tablets</a>
+            <div class="mmDetailsContr mB0">
+              <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3><a href="/gsm-mobile-phones/category:3027/">Mobiles &amp; Tablets</a></h3>
+                    <h3 class="mobile-header">Mobiles &amp; Tablets</h3>
+                  <ul>
+                    <li><a href="/mobiles/gsm-mobile-phones/categoryid:3027/search:Mobiles/">Mobiles</a></li>
+					<li><a href="/tablets/categoryid:8937/search:tablets/inStock:%28%22true%22%29/">Tablets</a></li>
+                    <li><a href="/mobiles/categoryid:17249/search:Mobiles/sort:Popularity/inStock:%28%22true%22%29/">Mobile Combos </a></li>
+                    <li><a href="/gsm-mobile-phones/category:3027/filter_Connectivity:%28%22Featured+Phone%22%29/sort:Price+High+to+Low/">Feature Phones</a></li>
+                    <li><a href="/power-banks/categoryid:3024/search:Power+Banks/inStock:%28%22true%22%29/">Power Banks</a></li>
+                    <li><a href="/smart-watches/categoryid:15197/search:smart+watches/inStock:%28%22true%22%29/">Smart Watches</a></li>
+                    <li><a href="/bulb/categoryid:3503/search:bulb/inStock:%28%22true%22%29/filter_Type:%28%22CFL+Sets%22+%22LED+Bulb%22%29/">LED Bulbs</a></li>
+                    <li><a href="/computer-peripherals/category:3255/inStock:%28%22true%22%29/">Computer Peripherals</a></li>
+					<li><a href="/laptop-skins/category:16305/inStock:%28%22true%22%29/">Laptop Skins</a></li>
+								                    
+					                    
+                    
+                  </ul>
+                
+                </div>
+               </div>
+		<div class="col large-5 medium-4 small-12 x-small-12">
+                    <div class="megamenu">
+                        <h3>Top Picks</h3>
+                        <ul>
+                            <li><a href="/gsm-mobile-phones/category:3027/inStock:%28%22true%22%29/filter_Connectivity:%28%224G%22+%224G+VoLTE%22%29/">4G Mobiles</a></li>
+                            <li><a href="/mobile-phones/category:14569/prc:%5B569+TO+1999%5D/searchprc:%5B569+TO+56900%5D/sort:Customer+Ratings/inStock:%28%22true%22%29/">Mobiles under  Rs. 1999</a></li>
+                            <li><a href="/tablets/categoryid:8937/search:tablets/inStock:%28%22true%22%29/sort:Price+Low+to+High/">Tablets Upto 65% off</a></li>
+                            <li><a href="/mobile-phones/category:14569/prc:%5B1999%20TO%204999%5D/searchprc:%5B569+TO+56900%5D/sort:New+Arrivals/inStock:%28%22true%22%29/">Mobiles under Rs. 4999</a></li>
+                            <li><a href="/smart-watches/categoryid:15197/search:smart+watches/inStock:%28%22true%22%29/">Smart Watches  starting @ Rs.699</a></li>
+                            <li><a href="/laptop-chargers/category:16301/inStock:%28%22true%22%29/">Laptop chargers starting @ Rs.. 819</a></li>
+                            <li><a href="/gsm-mobile-phones/category:3027/filter_Connectivity:%28%22Featured+Phone%22%29/sort:Price+Low+to+High/">Bar Phones starting @ Rs. 499</a></li>
+                            
+                        </ul>
+                        
+                    </div>
+		</div>
+              <div class="col large-4 medium-4 small-12 x-small-12">
+		<!-- 	<div class="mmImgContr">
+                      <img src="http://image.shopcj.com/images/en/navigation/category/Mobile-and-Tablets.png" alt="Image" class="cj-category-image" style="bottom:-60px">
+                  </div>                  
+			--><div class="megamenu" style="height: 300px;">
+                <h3>Brands </h3>
+                  <ul>
+                    <li><a href="/samsung/categoryid:14569/search:samsung/inStock:%28%22true%22%29/">Samsung</a></li>
+                    <li><a href="/micromax/categoryid:3027/search:micromax/inStock:%28%22true%22%29/">Micromax</a></li>
+                    <li><a href="/swipe/categoryid:3024/search:Swipe/inStock:%28%22true%22%29/">Swipe</a></li>
+                    <li><a href="/callmate/categoryid:3024/search:Callmate/sort:Customer+Ratings/">Callmate</a></li>
+                    <li><a href="/lava/categoryid:3024/search:Lava/inStock:%28%22true%22%29/">Lava</a></li>
+                    <li><a href="/gsm-mobile-phones/category:3027/inStock:%28%22true%22%29/filter_Brand:%28%22I+Kall%22%29/sort:Price+High+to+Low/">Ikall</a></li>
+                    <li><a href="/mobile-phones/category:14569/inStock:%28%22true%22%29/filter_Brand:%28%22Karbonn%22%29/">Karbonn</a></li>
+                    <li><a href="/mobile-phones/category:14569/inStock:%28%22true%22%29/filter_Brand:%28%22Rocktel%22%29/sort:Price+High+to+Low/">Rocktel</a></li>
+                    <li><a href="/ziox/categoryid:3024/search:ziox/inStock:%28%22true%22%29/">Ziox</a></li>
+                    
+                  </ul>
+                  
+                </div>
+              </div>
+<!--              <div class="col large-3 medium-4 small-12 x-small-12 mmImgContr"> <img src="images/megamenu_adv.jpg" alt="Image" class="brdrlitGry"> </div>-->
+            </div>
+          </li>
+
+			<li><a rel="#">Beauty &amp; Jewelry</a>
+        <div class="mmDetailsContr mB0">
+            <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Beauty &amp; Jewelry</h3>
+                    <h3 class="mobile-header">Beauty &amp; Jewelry</h3>
+                    <ul>
+						<li class="heading">Beauty</li>
+						<li><a href="/skin-care-combos/category:15557/sort:New+Arrivals/inStock:%28%22true%22%29/">Skin Care</a></li>
+                    	<li><a href="/make-up/category:3495/sort:New+Arrivals/">Beauty Accessories</a></li>
+
+						<li class="heading">Jewelry</li>
+						<li><a href="/fashion-jewellery/category:15143/inStock:true/sort:New+Arrivals/">Fashion Jewellery</a></li>
+						<li><a href="/jewellery-combos/category:15173/sort:Discounts/inStock:%28%22true%22%29/">Jewellery combos</a></li>
+						<li><a href="/bangles/category:15161/sort:Customer+Ratings/">Bangles &amp; Bracelets</a></li>                        
+						<li><a href="/necklace-sets/categoryid:15165/search:Necklace+Sets/inStock:%28%22true%22%29/prc:%5B599+TO+7000%5D/searchprc:%5B129+TO+7000%5D/sort:Popularity/">Earring</a></li>
+                        <li><a href="/necklace-sets/categoryid:15143/search:Necklace+Sets/inStock:%28%22true%22%29/category:15143/prc:%5B599%20TO%207000%5D/searchprc:%5B129%20TO%207000%5D">Necklace Sets</a></li>
+						<li><a href="/gold-jewellery/category:15145/inStock:%28%22true%22%29/sort:Popularity/">Gold Jewellery</a></li>
+						<li><a href="/mangalsutra/categoryid:15143/search:mangalsutra/sort:Customer+Ratings/">Mangalsutra</a></li>
+						<li><a href="/women-watches/category:15201/inStock:%28%22true%22%29/">Women's Watches</a></li>                        
+						<li><a href="/silver-pendants/categoryid:3376/search:Silver+Pendants/inStock:%28%22true%22%29/">Silver Pendants</a></li>
+                        <li><a href="/jewellery-combos/silver-jewellery/categoryid:16501/search:Jewellery+combos/inStock:%28%22true%22%29/sort:New+Arrivals/">Fashion Combos</a></li>
+
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="col large-5 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Top Picks</h3>
+                    <ul>
+                        <li><a href="/fashion-jewellery/category:15143/filter_Brand:%28%22Sanskruti%22%29/inStock:%28%22true%22%29/">Sanskriti Jewellery</a></li>
+                        <li><a href="/health-beauty/skin-care/categoryid:3497/search:health+%26+beauty/prc:%5B300+TO+11395%5D/searchprc:%5B34+TO+11395%5D/inStock:%28%22true%22%29/filter_Brand:%28%22NutriGlow%22+%22Astaberry%22+%22Vedova+Herbals%22+%22Deve+Herbes%22+%22Aryanveda%22+%22Baksons+Homeopathy%22+%22Archies+Fragrances%22+%22Deemark%22%29/sort:Customer+Ratings/">Skincare Upto 86% off</a></li>
+                        <li><a href="/manikya-jewellery/categoryid:3376/search:Manikya+Jewellery/type:brand/inStock:%28%22true%22%29/">Manikya Fashion Jewellery</a></li>
+                        <li><a href="/lotus/categoryid:3471/search:lotus/inStock:%28%22true%22%29/">Lotus skincare &amp; Makeup Upto 62% off</a></li>
+                        <li><a href="/3376/fashion-necklaces/categoryid:17103/search:3376/discount:%5B50+TO+91%5D/searchdiscount:%5B0+TO+91%5D/inStock:%28%22true%22%29/sort:New+Arrivals/">Fashion Jewellery - Flat 50% off</a></li><li>
+                        </li><li><a href="/perfume-28edp-29/category:16561/sort:Discounts/prc:%5B999+TO+6999%5D/searchprc:%5B190+TO+6999%5D/">Fragances starting @ Rs. 999</a></li><li>
+                        </li><li><a href="/gold-earrings/category:15179/inStock:true/sort:New+Arrivals/">Gold Earrings @ Rs.2700</a></li>
+                        <li><a href="/hair-appliances/category:15565/inStock:%28%22true%22%29/">Hair Care</a></li>
+                        <li><a href="/make-up-kits/category:15585/inStock:%28%22true%22%29/category:15585/prc:%5B499%20TO%204099%5D/searchprc:%5B145%20TO%204099%5D">Make up Kits starting Rs.499</a></li>
+                        <li><a href="/anti-ageing/categoryid:3497/search:anti+ageing/inStock:%28%22true%22%29/sort:Customer+Ratings/">Anti ageing Treatment upto 75 % off</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="col large-4 medium-4 small-12 x-small-12">
+		<!-- 	<div class="mmImgContr">
+				<img src="http://image.shopcj.com/images/en/navigation/category/Jewellery.png" alt="Image" class="cj-category-image mmImgContr"  style="bottom:-25px">
+			</div> 
+                --><div class="megamenu" style="height: 300px;">
+                    <h3>Brands</h3>
+                    <ul>
+                        <li><a href="/fashion-jewellery/category:15143/inStock:true/sort:New+Arrivals/filter_Brand:%28%22Luxor+Jewellery%22%29/">Luxor</a></li>
+                        <li><a href="/spargz/categoryid:3376/search:Spargz/sort:New+Arrivals/inStock:%28%22true%22%29/">Sparg</a></li>
+                        <li><a href="/nutriglow/categoryid:3471/search:Nutriglow/inStock:%28%22true%22%29/">Nutriglow</a></li>
+                        <li><a href="/vlcc/categoryid:3471/search:VLCC/sort:New+Arrivals/inStock:%28%22true%22%29/">VLCC</a></li>
+                        <li><a href="/lotus/categoryid:3471/search:Lotus/inStock:%28%22true%22%29/">Lotus</a></li><li>
+                      	</li><li><a href="/skin-care/category:3497/filter_Brand:%28%22Astaberry%22%29/inStock:%28%22true%22%29/">Astaberry</a></li>
+                        <li><a href="/oleva-watches/combo-watches/categoryid:15409/search:Oleva+watches/inStock:%28%22true%22%29/sort:Popularity/">Oleva</a></li>
+                        <li><a href="/skin-care/category:3497/filter_Brand:%28%22Biotique%22%29/inStock:%28%22true%22%29/">Biotique</a></li>
+                   </ul>
+                </div>
+            </div>
+        </div>
+        </li>
+            <li><a rel="#">Men's Fashion</a>
+            <div class="mmDetailsContr mB0">
+            <div class="col large-3 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                   <h3><a href="/men/category:14967/inStock:true/sort:Customer+Ratings/">Men's Fashion</a></h3>
+                   <h3 class="mobile-header">Men's Fashion</h3>
+                    <ul>
+						<li><a href="/trousers/categoryid:14967/search:Trousers/sort:Customer+Ratings/filter_Type:%28%22Casual+Trousers%22+%22Formal+Trousers%22%29/inStock:%28%22true%22%29/">Trouser</a></li>
+                        <li><a href="/casual-26-party-shirts/category:14981/inStock:%28%22true%22%29/">Casual &amp; Party Shirts</a></li>
+						<li><a href="/shirts/categoryid:14985/search:t+shirts/sort:Popularity/prc:%5B399+TO+1551%5D/searchprc:%5B199+TO+2699%5D/inStock:%28%22true%22%29/">T-shirt</a></li>
+						<li><a href="/jeans/category:14987/sort:Customer+Ratings/inStock:%28%22true%22%29/">Denims</a></li>                        
+						<li><a class="heading" href="/mens/categoryid:16657/search:mens/filter_Brand:%28%22Allen+Solly%22+%22Arrow%22+%22Blue+Buddha%22+%22Calvin+Klein%22+%22Clifton%22+%22Donear+NXG%22+%22Duke%22+%22Guess%22+%22Indian+Terrain%22+%22John+Pride%22+%22Mango+Republic%22+%22ONN%22+%22Monteil+and+Munero%22+%22Replay%22+%22Yepme%22%29/inStock:%28%22true%22%29/sort:New+Arrivals/">Branded polo Tshirts</a></li>        
+						<li><a href="/sports-shoes/category:15063/inStock:%28%22true%22%29/">Sports Shoes</a></li>
+						<li><a href="/casual-shoes/category:15061/sort:Discounts/inStock:%28%22true%22%29/">Casual Shoes</a></li>                
+                        <li><a class="heading" href="/combos/category:16801/inStock:%28%22true%22%29/">Men's Footwear combos</a></li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="col large-5 medium-4 small-12 x-small-12">
+                <div class="megamenu">
+                    <h3>Top Picks</h3>
+                    <ul>
+                        <li><a href="/sports-shoes/category:15063/category:15063/prc:%5B399%20TO%20699%5D/searchprc:%5B399%20TO%206999%5D">Sports shoes under Rs.699</a></li>
+                        <li><a href="/sweatshirts/category:14993/inStock:%28%22true%22%29/category:14993/prc:%5B279%20TO%20999%5D/searchprc:%5B279%20TO%202049%5D">Sweatshirts under Rs.999</a></li>
+                        <li><a href="/gift-combos/category:16811/inStock:%28%22true%22%29/">Fashion Accessories</a></li>
+                        <li><a href="/shirts-combos/category:16887/inStock:%28%22true%22%29/prc:%5B599+TO+1499%5D/searchprc:%5B599+TO+2399%5D/sort:Popularity/">Formal shirt combos under Rs.1499</a></li>
+                        <li><a href="/shirts-combos/category:16883/inStock:%28%22true%22%29/sort:Popularity/prc:%5B499+TO+2199%5D/searchprc:%5B249+TO+2199%5D/">Tshirts combo starting @ Rs. 499</a></li>
+                        <li><a href="/casual-shoes/category:15061/category:15061/prc:%5B299%20TO%20599%5D/searchprc:%5B299%20TO%206396%5D">Casual shoes under Rs.599</a></li>
+                        <li><a href="/trousers-combos/category:16889/inStock:%28%22true%22%29/">Pack of 2 Trousers starting at Rs. 799</a></li>
+                    </ul>
+
+                </div>
+            </div>
+                <div class="col large-4 medium-4 small-12 x-small-12">
+			<!-- 		<div class="mmImgContr">
+                        <img src="http://image.shopcj.com/images/en/navigation/category/mens.png" alt="Image" class="cj-category-image" style="right: -60px; bottom:-20px" /> 
+                    </div>                    
+						--><div class="megamenu" style="height: 300px;">
+                        <h3>Brands</h3>
+                        <ul>
+                            <li><a href="/xcross/categoryid:14967/search:Xcross/inStock:%28%22true%22%29/sort:Popularity/">Xcross</a></li>
+                            <li><a href="/red-chief/categoryid:15051/search:Red+chief/sort:Customer+Ratings/">Red chief</a></li>
+                            <li><a href="/men/category:14967/inStock:true/filter_Brand:%28%22TSX%22%29/">TSX</a></li>
+                            <li><a href="/bachini/categoryid:15051/search:Bachini/sort:Popularity/">Bachini</a></li>
+                            <li><a href="/men/category:14967/filter_Brand:%28%22TAB91%22%29/">TAB91</a></li>
+                            <li><a href="/men/category:15053/filter_Brand:%28%22Columbus%22%29/inStock:%28%22true%22%29/">Columbus</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+          </li>
+                      
+		  
+        <li class="last"><a href="/tv-products.html"><i class="iconTv icon-tv"></i>ShopCJ Hindi</a></li>
+		<li class="last"><a href="/tv-products.html?channel=Telugu"><i class="iconTv icon-tv"></i>ShopCJ Telugu</a></li>  
+          
+        <li></li>
+        </ul>
+
+        <script>
+        	function offerZone(){
+        		 window.open('/scj/offer','_blank');
+            	}
+        </script>
+      </nav>
+    </aside>
+	  <section class="innerTopHrdrBG aboutus">
+      <div class="row">
+        <div class="mainContContr catlogSectionTop aboutus">
+          <div class="blankBreadcrumbs"></div>
+          <a href="javascript:void(0);"><i class="icon-nextarrow backTo"></i></a>
+          <h2 class="small-12"></h2>
+        </div>
+      </div>
+    </section>
+  </section>
+  <!-- megamenu end here -->
+  <section>
+    <div class="row clearfix"> 
+      <!-- filter panel start here -->
+      <aside class="filterOuterContr">
+        <div class="lftToc" id="lftPnl">
+          <ul class="toc" id="toc">
+            <li> <a href="/aboutus">About us</a> </li>            
+            <li> <a href="/contactUs">Contact Us</a> </li>
+            <li> <a href="/termsOfUse">Terms &amp; Conditions</a> </li>
+            <li class="sel"> <a href="/privacyPolicy">Privacy policy</a> </li>
+            <li> <a href="/faq">FAQ's</a> </li>
+        	<li> <a href="/career">Career</a> </li> 
+         </ul>
+        </div>
+      </aside>
+      
+
+
+<section class="section mainContContr contContr clearfix aboutus" id="ritPnl">
+<section class="section">
+	<h3>Privacy Policy:</h3>
+<p class="mB0">The personally identifying information that You provide SCN with, for registering Yourself for availing of various services are no more than what would be required by SCN for administrative and management purposes for providing You with efficient and effective services and experience.</p>
+<p class="mB0">SCN respects every individual’s right to privacy and so is committed to protect your privacy. SCN agrees to take every reasonable and due care for keeping such information of yours in strict confidentiality and to use them only for the purposes and in furtherance thereof for which the same has been disclosed by You and for legitimate business purposes. SCN shall not release such information to any outside organizations, except to organization(s) which is a sponsor of the event/service for which such information has been collected. SCN shall be entitled to release the requisite personal information for the provision of services to its third party email service provider for the purposes of sending emails confirming registration, purchases, payments etc. However, SCN reserves the right to disclose such information if and when required by any Court Order or a subpoena or in response to a Law Enforcement and Regulatory Agency’s request.</p>
+</section>
+
+<section class="section">
+	<h3>Personal &amp; Non-Commercial Use:</h3>
+<ul class="bullet">
+<li>
+1	The right to use this SCN website is personal to You and is not transferable to any other person or entity. Each registration is for a single user only. We do not permit you to share your user name and password with any other person nor with multiple users on a network. Furthermore, You shall use this SCN website and services &amp; materials therein strictly for non-commercial purposes only [and not indulge in any business activities].
+</li>
+
+</ul>
+</section>
+
+
+<section class="section">
+	<h3>Personal &amp; Non-Commercial Use:</h3>
+<ul class="bullet">
+<li>
+1 	 You may post reviews, comments, and other content and submit suggestions, ideas, comments, questions or other information, wherever required or permitted, apart from the information you provide to us or SCN Franchisee in the registration and Order Tracking process. "Your Information" is defined to include any information you provide to us or SCN Franchisee in the registration and Order Tracking process, in the feedback area or through any e-mail feature. Solely to enable SCN to use the information you supply us with, so that we are not violating any rights you might have in Your Information, you hereby agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable right to exercise the copyright, publicity, and database rights (but no other rights) you have in Your Information, in any media now or in future known, with respect to Your Information. SCN will only use Your Information in accordance with this User Agreement.
+</li>
+<li>2	You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy, rules and regulations and will not cause injury to any person or entity; and that you will indemnify SCN or its shareholders, affiliates and partners for all claims resulting from content you post or supply to SCN. SCN has the right but not the obligation to monitor and edit or remove any activity or content. SCN takes no responsibility and assumes no liability for any content posted by you or any third party.  It is once again clarified that other than personally identifiable information, which is covered under the Privacy Policy any material you transmit or post to this SCN website will be considered non-confidential and non-proprietary. We will have no obligations with respect to such material.</li>
+<li>3	You are solely responsible for Your Information and Your Information:</li>
+<li>a)	shall not be false, inaccurate or misleading;</li>
+<li>b)	shall not be fraudulent;</li>
+<li>c)	shall not infringe any third party's intellectual property, trade secret or other proprietary rights or rights of publicity or privacy;</li>
+<li>d)	shall not be defamatory, libellous, unlawfully threatening or unlawfully harassing;</li>
+<li>e)	shall not be indecent, obscene or contain pornography or contain an "indecent representation of women" within the meaning of the Indecent Representation of Women (Prohibition) Act, 1986;</li>
+<li>f)	seditious, offensive, abusive, liable to incite racial or religious hatred, discriminatory, menacing, scandalous, inflammatory, blasphemous, in breach of confidence, in breach of privacy or which may cause annoyance or inconvenience;</li>
+<li>g)	which constitutes or encourages conduct that would be considered a criminal offence, give rise to civil liability, or otherwise be contrary to the law; or</li>
+<li>h)	shall not be or include material that is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software or harmful data) or other computer programming routines that may damage, detrimentally interfere with, diminish value of, surreptitiously intercept or expropriate any system, data or personal information;</li>
+<li>i)	shall not create liability for us or cause us to lose (in whole or in part) the services of our ISPs or other suppliers; and</li>
+<li>j)	that is in the nature of political campaigning, commercial solicitation, chain letters, mass mailings or any form of ‘spam’;</li>
+<li>k)	that is illegal in any other way</li>
+<li>SCN reserves the right (but not the obligation) to remove or edit such content but does not regularly review posted content.</li>
+<li>4 	You shall abide by all the notices and all the terms and conditions (updated from time to time) contained and mentioned herein this Agreement, in good faith and with due diligence and care.</li>
+<li>5 	You shall not use this SCN website, services and/or materials therein for any purpose that is unlawful or prohibited by these Terms, Conditions and Notices. You shall not use this SCN website, services and/or materials therein in any manner which could damage, disable, overburden and/or impair this SCN website or any services therein or the network(s) connected to this SCN website and interfere with other User’s use and enjoyment of this SCN website and/or services therein.</li>
+<li>6 	You shall not attempt to gain unauthorized access to any service on this SCN website, other Users’ Account, Computer systems or networks connected to this SCN website through hacking, password mining or any other means. You shall not obtain or attempt to obtain any materials or information through any means not intentionally made available to You through this SCN website.</li>
+<li>7 	We will fully co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or locate anyone posting any material in breach of clauses 6.4 or 6.5 or elsewhere. Please be aware that even if you do not give SCN your real name, your Web browser transmits a unique address to us, which can be used by law enforcement officials to identify you.</li>
+<li>8	Certain elements of this SCN website will contain material submitted by other Users. SCN accepts no responsibility for the content, accuracy, conformity to applicable laws of such material. Part of this SCN website contains advertising/other material submitted to SCN by third parties. Responsibility for ensuring that material submitted for inclusion on this SCN website complies with applicable laws is exclusively on the advertisers and SCN will not be responsible for any claim, error, omission or inaccuracy in advertising material. SCN reserves the right to omit, suspend or change the position of any advertising material submitted for insertion. Acceptance of advertisements on this SCN website will be subject to SCN terms and conditions which are available on request.
+</li>
+
+</ul>
+</section>
+
+
+</section>
+
+
+
+<span class="gray01">User Material and Conduct:</span>
+	
+ 
+   
+    </div>
+    
+    <!-- filter panel end here --> 
+    
+  </section>
+  <!-- footer start here -->
+  <footer id="footer">
+	<span class="scrollup" onclick="scrollBackToTop();">Scroll</span>
+    <div class="footerTop">
+      <div class="row">
+        <div class="medium-up-3 large-up-5 largeFooter">
+          <div class="column">
+            <nav class="footerLink">
+              <a href="/termsOfUse"><h2>Help &amp; Contact</h2></a>
+              <ul>
+                <li><a href="/termsOfUse">Terms &amp; conditions</a></li>
+				<li><a href="/privacyPolicy">Privacy policy</a></li>
+                <li><a href="/faq">FAQ</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="column">
+            <nav class="footerLink">
+              <a href="/aboutus"><h2>About Us</h2></a>
+              <ul>
+                <li><a href="/aboutus">About ShopCJ</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="column">
+            <nav class="footerLink">
+              <h2>Payment Options</h2>
+              <ul>
+                <li><a>Cash on delivery</a></li>
+                <li><a>Net banking</a></li>
+                <li><a>PayUmoney</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="column">
+            <nav class="footerLink">
+              <h2>24/7 Customer Care</h2>
+              <ul class="cc">
+                <li>Call: 1860 500 7008</li>
+                <li>response@shopcj.com</li>
+              </ul>
+            </nav>
+          </div>
+          <div class="column">
+            <nav class="footerLink">
+              <h2>Follow us on</h2>
+              <a href="https://www.facebook.com/shopcjindia" class="socialIcons" target="_new"><i class="fa fa-facebook" style="font-style: normal;"></i></a>
+			<a href="https://twitter.com/shopcjindia" class="socialIcons" target="_new"><i class="fa fa-twitter" style="font-style: normal;"></i></a>
+			 <!-- <a href="javascript:void(0);" class="socialIcons"><i class="icon-in"></i></a> -->
+			 <a href="https://www.youtube.com/user/TheSTARCJAlive" class="socialIcons" target="_new"><i class="fa fa-youtube" style="font-style: normal;"></i></a>
+			<figure class="nortonSecure">
+					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shopcj.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+					<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;" rel="nofollow">ABOUT SSL CERTIFICATES</a>
+				</figure>
+</nav>
+          </div>
+        </div>
+        <div class="smallFooter">
+          <div class="col small-12 text-center cc footerLink"> 1860 500 7008<br>
+            response@shopcj.com </div>
+          <div class="col small-6 x-small-6 footerLink">
+            <h2>Help &amp; Contact</h2>
+            <h2>About Us</h2>
+          </div>
+          <div class="col small-6 x-small-6">
+            <nav class="footerLink">
+              <h2>Follow us on</h2>
+               <a href="https://www.facebook.com/shopcjindia" class="socialIcons"><i class="fa fa-facebook" style="font-style: normal;"></i></a>
+			<a href="https://twitter.com/shopcjindia" class="socialIcons"><i class="fa fa-twitter" style="font-style: normal;"></i></a>
+			 <!-- <a href="javascript:void(0);" class="socialIcons"><i class="icon-in"></i></a> -->
+			 <a href="https://www.youtube.com/user/TheSTARCJAlive" class="socialIcons"><i class="fa fa-youtube" style="font-style: normal;"></i></a>
+			</nav>
+          </div>
+          <div class="col small-6 x-small-6">
+            <nav class="footerLink">
+              <h2>Payment Options</h2>
+              <ul>
+                <li><a>Cash on delivery</a></li>
+                <li><a>Net banking</a></li>
+                <li><a>PayUmoney</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col small-6 x-small-6">
+			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shopcj.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+			<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;" rel="nofollow">ABOUT SSL CERTIFICATES</a>
+		 </div>
+        </div>
+      </div>
+    </div>
+    <div class="footerBottom">
+      <div class="row">
+        <div class="medium-up-12 large-up-12 clearfix">
+          <div class="column">
+            <nav class="footerLink">
+			<p>
+					<span>Appliances: </span>
+                   	<a href="/microwaves/kitchen-appliances/categoryid:3598/search:microwaves/inStock:%28%22true%22%29/">Microwaves</a> |
+                    <a href="/juicers-2c-mixers-26-grinders/category:3608/inStock:%28%22true%22%29/">Mixer / Juicers / Grinders</a> |
+					<a href="/gas-stoves-26-hot-plates/category:3604/inStock:%28%22true%22%29/sort:New+Arrivals/">Gastoves and Hotplates</a> |
+					<a href="/geysers/categoryid:3575/search:geysers/inStock:%28%22true%22%29/">Geysers</a> |
+					<a href="/combos/category:16391/sort:Popularity/">Combo Offers</a> |
+					<a href="/toasters-2fsandwich-makers/category:3618/inStock:%28%22true%22%29/">Toasters and Sandwich Maker s</a> |
+                    
+                    <a href="/iron/categoryid:3575/search:Iron/sort:Customer+Ratings/inStock:%28%22true%22%29/">Iron</a> |
+                    <a href="/fans/categoryid:3575/search:Fans/inStock:%28%22true%22%29/sort:Relevance/">Fans</a> |
+                    <a href="/otg-2foven-toaster-griller/category:14891/inStock:%28%22true%22%29/">OTG/Oven Toaster Griller</a>
+                    
+			</p>
+
+			<p>
+					<span>Kitchen: </span>
+					<a href="/induction-cooktops/categoryid:3575/search:Induction+Cooktops/inStock:%28%22true%22%29/">Induction Cooktops</a> |
+					<a href="/gas-stoves/categoryid:3575/search:Gas+Stoves/inStock:%28%22true%22%29/sort:Customer+Ratings/">Gas Stoves</a> |
+					<a href="/cookware/categoryid:3503/search:Cookware/inStock:%28%22true%22%29/">Cookware</a> |
+					<a href="/kitchen-appliances/category:3598/inStock:%28%22true%22%29/sort:New+Arrivals/">Appliances</a> |
+					<a href="/storage/categoryid:3548/search:storage/sort:Popularity/inStock:%28%22true%22%29/">Container &amp; Jars</a> |
+					<a href="/kitchen-dining/categoryid:3503/search:kitchen+and+dining/inStock:%28%22true%22%29/sort:Popularity/">Dinning &amp; Serving</a> |
+					<a href="/tableware/category:15835/">Tableware</a> |
+					<a href="/health-nutrition/categoryid:3471/search:health+nutrition/sort:New+Arrivals/inStock:%28%22true%22%29/">Health Nutrition</a>
+			</p>
+
+			<p>
+					<span>Women's Fashion: </span>
+						<a href="/kurtis-26-kurtas/category:15003/sort:New+Arrivals/">Kurtas &amp; Kurtis</a> |
+						<a href="/party-wear-sarees/categoryid:15011/search:party+wear+sarees/sort:Customer+Ratings/">Sarees</a> |
+						<a href="/salwar-suit-combos/category:17017/sort:Customer+Ratings/">Suit combos</a> |
+						<a href="/gown/categoryid:14969/search:gown/sort:Customer+Ratings/">Gowns</a> |
+						<a href="/lehengas/category:16577/inStock:%28%22true%22%29/sort:Customer+Ratings/prc:%5B999+TO+6742%5D/searchprc:%5B349+TO+6742%5D/">Lehengas</a> |
+						<a href="/salwar-suits/category:14999/inStock:%28%22true%22%29/sort:Customer+Ratings/prc:%5B699+TO+2500%5D/searchprc:%5B74+TO+9470%5D/">Salwar Suit</a> |
+						<a href="/dress-material-combos/categoryid:14969/search:dress+material+combos/sort:Discounts/">Dress Material</a> |
+						<a href="/tops-26-tunics/category:15019/inStock:%28%22true%22%29/sort:Customer+Ratings/">Tops &amp; Tunics</a> |
+						<a href="/dresses/category:15001/inStock:%28%22true%22%29/">Dresses</a> |
+						<a href="/leggings/categoryid:16389/search:Leggings/inStock:%28%22true%22%29/sort:Customer+Ratings/">Legging &amp; Salwars</a> |
+						<a href="/palazzo/categoryid:3396/search:Palazzo/inStock:%28%22true%22%29/">Palazzo</a> |
+						<a class="heading" href="/women-watches/category:15201/inStock:%28%22true%22%29/sort:New+Arrivals/prc:%5B399+TO+19294%5D/searchprc:%5B190+TO+19294%5D/">Women's Watches</a>
+			</p>
+
+			<p>
+					<span>Home &amp; Living: </span>
+					<a href="/home-improvement/categoryid:3503/search:HOME+IMPROVEMENT/inStock:%28%22true%22%29/filter_Type:%28%22Cloth+Dryer%22+%22Cloth+Drying+Stand%22+%22Cloth+Hangers+Set%22%29/">Cloth Drying Rack</a>|
+	                <a href="/curtains/categoryid:3503/search:Curtains/sort:Customer+Ratings/inStock:%28%22true%22%29/">Curtains</a> |
+	                <a href="/bed-sheets/furnishings-home/categoryid:3533/search:Bed+Sheets/category:3533/prc:%5B799%20TO%201499%5D/searchprc:%5B199%20TO%209999%5D">Bed Sheets</a> |
+					<a href="/blankets-26-quilts/category:15675/inStock:%28%22true%22%29/">Blankets</a> |
+					<a href="/trolley-bags-26-suitcases/category:17337/inStock:%28%22true%22%29/sort:New+Arrivals/">Bags &amp; Luggage</a> |
+	                <a href="/home-improvement/categoryid:3503/search:HOME+IMPROVEMENT/inStock:%28%22true%22%29/filter_Type:%28%22Cloth+Dryer%22+%22Cleaning+Utilities%22+%22Cloth+Drying+Stand%22+%22Cloth+Hangers+Set%22%29/">Home Utilities</a> |
+	                <a href="/bath-linen/categoryid:15679/search:bath+linen/sort:Customer+Ratings/inStock:%28%22true%22%29/">Bath Linen</a> |
+					<a href="/health-care/category:3482/sort:Popularity/inStock:true/">Health &amp; Fitness</a> |
+	                <a href="/cushion/cushions-cushion-covers/categoryid:15663/search:cushion/">Cushions and Covers</a>
+	                
+
+			</p>
+
+			<p>
+					<span>Mobiles &amp; Tablets: </span>
+                    <a href="/mobiles/gsm-mobile-phones/categoryid:3027/search:Mobiles/">Mobiles</a> |
+                    <a href="/tablets/categoryid:8937/search:tablets/inStock:%28%22true%22%29/">Tablets</a> |
+                    <a href="/smart-watches/categoryid:15197/search:smart+watches/inStock:%28%22true%22%29/">Smart Watches </a> |
+                    <a href="/power-banks/categoryid:3024/search:Power+Banks/inStock:%28%22true%22%29/">Power Banks</a> |
+                    <a href="/gsm-mobile-phones/category:3027/filter_Connectivity:%28%22Featured+Phone%22%29/sort:Price+High+to+Low/">Feature Phones </a> |
+					 <a href="/laptop-skins/category:16305/inStock:%28%22true%22%29/">Laptops Skins</a>
+                    <a href="/mobiles/categoryid:17249/search:Mobiles/sort:Popularity/inStock:%28%22true%22%29/">Mobile Combos</a> |
+                    
+                    <a href="/computer-peripherals/category:3255/inStock:%28%22true%22%29/">Computer Peripherals</a> 
+
+			</p>
+
+			<p>
+					<span>Beauty: </span>
+					<a href="/skin-care/category:3497/">Skin Care</a>
+					|<a href="/make-up/category:3495/">MakeUp</a>
+					|<a href="/health-care/category:3482/">HealthCare</a>
+					|<a href="/men-27s-grooming/category:15603/">Men's Grooming</a>
+					|<a href="/women-27s-grooming/category:15587/">Women's Grooming</a>
+					|<a href="/fragrance/category:3475/">Fragrance</a>
+					|<a href="/facial-kits/category:15553/">Facial Kits</a>
+					|<a href="/skin-care-combos/category:15557/">Skin Care Combo</a>
+					|<a href="/make-up-kits/category:15585/">Makeup Kits</a>
+					|<a href="/health-monitors/category:3489/">Health Monitors</a>
+
+			</p>
+
+			<p>
+					<span>Men's Fashion: </span>
+						<a href="/trouser/categoryid:14967/search:Trouser/sort:Popularity/">Trouser</a> |
+						<a href="/formal-shirts/category:14975/">Shirts</a> |
+						<a href="/shirts/categoryid:14967/search:T-shirts/sort:Customer+Ratings/">Tshirt</a> |
+						<a href="/denim/categoryid:14987/search:denim/sort:Customer+Ratings/inStock:%28%22true%22%29/">Denims</a> |
+						<a class="heading" href="/sports-shoes/category:15063/inStock:%28%22true%22%29/sort:Popularity/">Sports Shoes</a> |
+						<a href="/casual-shoes/category:15061/inStock:%28%22true%22%29/sort:Discounts/">Casual Shoes </a> |
+						<a class="heading" href="/formal-shoes/categoryid:15051/search:Formal+Shoes/">Formal Shoes </a> |
+						<a class="heading" href="/watches/categoryid:15199/search:watches/inStock:%28%22true%22%29/">Watches</a>
+			</p>
+			
+			<p>
+					<span>Jewellery: </span>
+						<a href="/fashion-jewellery/category:15143/inStock:true/sort:New+Arrivals/">Fashion Jewellery</a> |
+						<a href="/gold-jewellery/category:15145/inStock:%28%22true%22%29/sort:Popularity/">Precious Jewellery</a> |
+						<a href="/silver-pendants/category:16507/sort:New+Arrivals/inStock:true/">Silver Pendants</a> |
+						<a href="/mangalsutra/categoryid:15143/search:mangalsutra/sort:Customer+Ratings/">Mangalsutra</a> |
+						<a href="/jewellery-combos/category:15173/inStock:%28%22true%22%29/">Wedding Special combos</a> |
+						<a href="/gold-jewellery/category:15145/inStock:true/sort:Discounts/">Gold Jewellery</a> |
+						<a class="heading" href="/necklace-sets/categoryid:15143/search:Necklace+Sets/inStock:%28%22true%22%29/category:15143/prc:%5B599%20TO%207000%5D/searchprc:%5B129%20TO%207000%5D">Necklace Sets</a>
+			</p>
+            </nav>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+    <div class="footerCopyRight">
+      <div class="row"> <span class="col small-12 footerLink">Copyright @2017 shopcj.com. All rights reserved. Designated trademarks, products &amp; brands are the property of their respective owners.</span></div>
+    </div>
+  </footer>
+			
+	<!-- add search JS and CSS file -->
+
+
+
+		<script>
+	/* $(document).ready(function() {
+
+		if((! && false && !true && !isCheckoutInProgress()) ||
+				(isSuccessPage())){
+			if(($.cookie('emailPopUpSkipped')=='null'|| $.cookie('emailPopUpSkipped')==null || (isSuccessPage() && $.cookie('emailPopUpSkipped')=='signUpSkipped')) && !$('#userEmailName').val()){
+				$('.container-popup').css("display","block");
+				$('#msg3').css("display","block");
+				$('.phoneImage').css("display","none");
+				$('.emailImage').css("display","block");
+			}
+
+
+			if(!$('#userMobileNumber').val()){
+				$('.container-popup').css("display","block");
+				$('#msg1').css("display","block");
+				$('.emailImage').css("display","none");
+				$('.phoneImage').css("display","block");
+			}
+
+			if($.cookie('mobilePopUpSkipped')=='mobilePopUpSkipped'){
+				$('.container-popup').css("display","none");
+			}
+
+		}
+	}); */
+
+
+	$('#popUpPhoneNumberBtn,#popUpResendOTP').click(function (){
+		$('#popUpMobileErrMsg').css("display","none");
+		if(validateMobileNum()){
+			$.ajax({
+				  url: "/account/sendOTP",
+				  global: false,
+				  type: "POST",
+				  data : ({
+					  mobileNumber : $('#popUpPhoneNumber').val(),
+					  _csrf : "de67afcb-81e4-467f-8cd6-27bfaba1ab7e"
+						}),
+						dataType : "json",
+				  success: function(data){
+					  $('.popup').css("height","180px");
+					  $('#msg1').css("display","none");
+						$('#msg2').css("display","block");
+						$('#popUpMobileDisplay').html($('#popUpPhoneNumber').val());
+
+				  },
+				  error : function(error){
+
+				  }
+
+				});
+	}
+
+
+
+
+
+	});
+
+
+	$('#resendOTP,#signUpCont').click(function(){
+		$('.message_box').empty().hide();
+		if(validateMobileNum()){
+				$.ajax({
+					  url: "/account/sendOTP",
+					  global: false,
+					  type: "POST",
+					  data : ({
+						  mobileNumber : $('#mobileNumber').val(),
+						  _csrf : "de67afcb-81e4-467f-8cd6-27bfaba1ab7e"
+							}),
+							dataType : "json",
+					  success: function(data){
+
+						  $('#new_user').css("display","block");
+						  $('#signUpCont').css("display","none");
+						  $('#signInHdr_Cont').css("display","none");
+						  $('#mobileNumberField').css("display","none");
+						  $('#otpMsg').css("display","block");
+						  $('#mobileNumAct').html($('#mobileNumber').val());
+
+					  },
+					  error : function(error){
+
+					  }
+
+					});
+		}
+
+
+	});
+
+	$('#resendOTPForgotPwd').click(function(){
+		if(validateMobileNumber()){
+				$.ajax({
+					  url: "/account/sendOTP",
+					  global: false,
+					  type: "POST",
+					  data : ({
+						  mobileNumber : $('#email').val(),
+						  _csrf : "de67afcb-81e4-467f-8cd6-27bfaba1ab7e"
+							}),
+					  success: function(data){
+						  $('#mobileNumberField').css("display","none");
+						  $('#otpMsg').css("display","block");
+						  $('#mobileNumAct').html($('#email').val());
+					  },
+					  error : function(error){
+
+					  }
+
+					});
+		}
+
+
+	});
+
+
+
+
+	$('#popUpPhoneSubmit').click(function (){
+
+		$('#popUpOtpErrMsg').css("display","none");
+			var token = $("meta[name='_csrf']").attr("content");
+		 var header = $("meta[name='_csrf_header']").attr("content");
+
+			$.ajax({
+				  url: "/account/addDefaultPhone",
+				  global: false,
+				  type: "POST",
+				  data : ({
+					  mobileNumber : $('#popUpPhoneNumber').val(),
+					  otp : $('#popUpOTP').val(),
+					  _csrf : "de67afcb-81e4-467f-8cd6-27bfaba1ab7e"
+						}),
+						dataType : "json",
+				  success: function(data){
+					  console.log(data);
+					  if(data.responseStatus){
+						  $('.popup').css("height","100px");
+						  $('#msg1').css("display","none");
+						  $('#msg2').css("display","none");
+						  $('#msg3').css("display","none");
+						  $('#msg4').css("display","block");
+						  $('#popUpSuccessMsg').html('Phone number updated successfully')
+						  setTimeout(clearPopUp,2000);
+					  }else{
+						  $('#popUpOtpErrMsg').css("display","block");
+						  $('#popUpOtpErrMsg').html(data.message);
+						  $('#popUpOTP').val('');
+						  $('#popUpOTP').focus();
+					  }
+
+
+				  },
+				  error : function(error){
+					$('#popUpOTP').val('');
+					$('#popUpOTP').focus();
+					console.log(error);
+
+				  }
+
+				});
+
+	});
+
+
+
+	$('#popUpEmailBtn').click(function (){
+
+		if(validateEmailId()){
+
+		var token = $("meta[name='_csrf']").attr("content");
+	 var header = $("meta[name='_csrf_header']").attr("content");
+
+		$.ajax({
+			  url: "/account/updateEmail",
+			  global: false,
+			  type: "POST",
+			  data : ({
+				  email : $('#popUpEmailId').val(),
+				  _csrf : "de67afcb-81e4-467f-8cd6-27bfaba1ab7e"
+					}),
+					dataType : "json",
+			  success: function(data){
+				  console.log(data);
+				  if(data.responseStatus){
+					  $('.popup').css("height","100px");
+					  $('#msg1').css("display","none");
+					  $('#msg2').css("display","none");
+					  $('#msg3').css("display","none");
+					  $('#msg4').css("display","block");
+					  $('#popUpSuccessMsg').html('Email updated successfully')
+					  setTimeout(clearPopUp,2000);
+				  }else{
+					  $('#popUpEmailErrMsg').css("display","block");
+					  $('#popUpEmailErrMsg').html(data.message);
+					  $('#popUpEmailId').val('');
+					  $('#popUpEmailId').focus();
+				  }
+
+			  },
+			  error : function(error){
+
+			  }
+
+			});
+		}
+
+});
+
+	function clearPopUp(){
+		$('.container-popup').css("display","none");
+	}
+
+
+	$('#popUpSkip').click(function(){
+
+		$.cookie("emailPopUpSkipped", 'popupSkipped', { path :'/' });
+		$('.container-popup').css("display","none");
+
+	});
+
+	$('#mobilePopUpSkip').click(function(){
+
+		$.cookie("mobilePopUpSkipped", 'mobilePopUpSkipped', { path :'/' });
+		$('.container-popup').css("display","none");
+
+	});
+
+	function validateEmailId(){
+		var status = true;
+		var email=$('#popUpEmailId');
+		if(checkNullField(email) || checkEmail(email)){
+			status=false;
+		}
+
+		if(!status){
+			$('#popUpEmailErrMsg').html("Incorrect email");
+			$('#popUpEmailErrMsg').css("display","block");
+			return false;
+		}else{
+			return true;
+		}
+	}
+
+	function isValidMobileNumber(mobileNumber) {
+
+			var status = false;
+			if (!checkNullField(mobileNumber) && checkIntegerField(mobileNumber)) {
+					var numberToString = mobileNumber.val().toString();
+					var firstDigit = numberToString[0];
+					if(mobileNumber.val().length == 10 && firstDigit !=0) {
+							status = true;
+						}
+				}
+			return status;
+		}
+
+
+	function validateMobileNum(){
+		var status = true;
+		var mobileNumber=$('#popUpPhoneNumber');
+		if(checkNullField(mobileNumber) || !checkIntegerField(mobileNumber) || mobileNumber.val().length!=10){
+			status=false;
+		}
+		if(!isValidMobileNumber(mobileNumber)) {
+			status=false;
+		}
+
+
+		if(!status){
+			$('#popUpMobileErrMsg').html("Incorrect mobile number");
+			$('#popUpMobileErrMsg').css("display","block");
+			return false;
+		}else{
+			return true;
+		}
+
+	}
+
+	function isCheckoutInProgress(){
+	 if(window.location.href.indexOf("checkout") > -1 || window.location.href.indexOf("cart") > -1 ) {
+	       return true
+	    }
+	 return false;
+	}
+
+	function isSuccessPage(){
+		 if(window.location.href.indexOf("checkout/success") > -1 ) {
+		       return true
+		    }
+		 return false
+
+	}
+
+	$(document).ready(function() {
+		$('.viewall').click(function(){
+		if(!$('#verMM').attr('style')){
+			$('#verMM').toggleClass('cj-hide');
+		}else{
+			$('#verMM').removeAttr('style');
+		}
+	})
+	
+	$( "#signOutHeaderLink" ).click(function() {
+		  $( "#logoutForm" ).submit();
+		});
+	});
+
+	</script>
+  <!-- footer end here --> 
+</div>
+<!-- Wrapper end here --> 
+
+
+<script type="text/javascript" src="/shopcj/media/js/scj/slick.min.js"></script> 
+<script type="text/javascript" src="/shopcj/media/js/scj/jquery.ui.touch-punch.min.js"></script> 
+<script type="text/javascript" src="/shopcj/media/js/scj/script.js"></script>
+<script type="text/javascript" src="/shopcj/media/js/scj/jquery-ui.min.js"></script> 
+<script type="text/javascript">
+$(window).load(function(){
+	$('.innerNav').hide();	
+})
+
+if($(window).width()<=767){
+	$('.videoThumb').addClass('slider4');
+}
+else{
+	$('.videoThumb').removeClass('slider4');
+}
+
+
+if($(window).width()<=767){
+	$('#toc').addClass('slider4');
+}
+else{
+	$('#toc').removeClass('slider4');
+}
+
+$('.slider4').slick({
+  dots: false,
+  infinite: false,
+  arrows:false,
+  speed: 300,
+  slidesToShow: 1,
+  centerMode: false,
+  variableWidth: true
+  
+});
+$(function () {
+	var msie6 = $.browser == 'msie' && $.browser.version < 7;
+  	if (!msie6 && $('#verMM').offset()!=null) {
+    var top = $('#verMM').offset().top - parseFloat($('#verMM').css('margin-top').replace(/auto/, 0));
+	var height = $('#verMM').height();
+	var winHeight = $(window).height();	
+	var footerTop = $('#footer').offset().top - parseFloat($('#footer').css('margin-top').replace(/auto/, 0));
+	var gap = -104;
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      
+      // whether that's below the form
+      if (y+winHeight >= top+ height+gap && y+winHeight<=footerTop) {
+        // if so, ad the fixed class
+        $('#verMM').addClass('leftsidebarfixed').css('top',winHeight-height-gap +'px');
+      } 
+	  else if (y+winHeight>footerTop) {
+        // if so, ad the fixed class
+       $('#verMM').addClass('leftsidebarfixed').css('top',footerTop-height-y-gap+'px');
+      } 
+	  else 	  
+	  {
+        // otherwise remove it
+        $('#verMM').removeClass('leftsidebarfixed').css('top','104px');
+      }
+    });
+  }  
+});
+
+if($(window).width() >=768){
+	$(function () {
+	var msie6 = $.browser == 'msie' && $.browser.version < 7;
+  	if (!msie6 && $('#lftPnl').offset()!=null) {
+    var top = $('#lftPnl').offset().top - parseFloat($('#lftPnl').css('margin-top').replace(/auto/, 0));
+	var height = $('#lftPnl').height();
+	var winHeight = $(window).height();	
+	var footerTop = $('#footer').offset().top - parseFloat($('#footer').css('margin-top').replace(/auto/, 0));
+	var gap = -104;
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      
+      // whether that's below the form
+      if (y+winHeight >= top+ height+gap && y+winHeight<=footerTop) {
+        // if so, ad the fixed class
+        $('#lftPnl').addClass('leftsidebarfixed').css('top',winHeight-height-gap +'px');
+      } 
+	  else if (y+winHeight>footerTop) {
+        // if so, ad the fixed class
+       $('#lftPnl').addClass('leftsidebarfixed').css('top',footerTop-height-y-gap+'px');
+      } 
+	  else 	  
+	  {
+        // otherwise remove it
+        $('#lftPnl').removeClass('leftsidebarfixed').css('top','190px');
+      }
+    });
+  }  
+});	
+}
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPGT5S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MPGT5S');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 919915683;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/919915683/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing Tag -->
+
 
 </body></html>
