@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exeideas.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126213607id_/http%3A//www.exeideas.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeideas.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627140015id_/http%3A//www.exeideas.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EXEIdeas – Let's Your Mind Rock
 
-The privacy of my visitors to [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock") is important to me. At [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), I recognize that privacy of your personal information is important. Here is information on what types of personal information I receive and collect when you use visit [www.exeideas.com](http://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), and how I safeguard your information.I never sell any kind of personal information to third parties or use this data for any illegal activities.
+The privacy of my visitors to [www.exeideas.com](https://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock") is important to me. At [www.exeideas.com](https://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), I recognize that privacy of your personal information is important. Here is information on what types of personal information I receive and collect when you use visit [www.exeideas.com](https://www.exeideas.com/ "EXEIdeas - Let's Your Mind Rock"), and how I safeguard your information.I never sell any kind of personal information to third parties or use this data for any illegal activities.
 
 ## Log Files:
 
@@ -32,4 +32,4 @@ The Google’s AdSense program uses the [DoubleClick DART cookie](http://www.dou
 
 ## Email Addresses:
 
-Should you [Contact Us](http://www.exeideas.com/p/contact-us.html "Contact EXEIdeas Support") me or subscribe to any of my information services via email, I will never sell or give away your email address.
+Should you [Contact Us](https://www.exeideas.com/p/contact-us.html "Contact EXEIdeas Support") me or subscribe to any of my information services via email, I will never sell or give away your email address.
