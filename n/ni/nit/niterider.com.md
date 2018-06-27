@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220225324id_/https%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627073452id_/https%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
 
-# NiteRider Bike Lights
+# NiteRider Technical LightingPrivacy - NiteRider Lighting Systems
 
 NiteRider Lighting Systems is committed to protecting the privacy of individuals’ personal information.
 
