@@ -1,59 +1,108 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319235631id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627201756id_/https%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
-# Clean Eating Recipes
+# Privacy Policy Statement | The Gracious Pantry | Your Information
 
-This is the web site of The Gracious Pantry®.
+### The Gracious Pantry® (“Website”) is governed by the following Privacy Policy. 
 
-**Contact**  
-Tiffany McCauley can be reached via e-mail at thegraciouspantry[at]gmail.com  
-or by US Postal mail at: P.O. Box 6736 Santa Rosa, CA 95406
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. 
 
-**What Information Is Collected**
+#### WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-****The domain name and e-mail address of visitors to this Web site are collected when they leave a comment Additional collected information is the e-mail addresses of those who communicate with Tiffany McCauley via e-mail, the e-mail addresses of those who make postings to the comment areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number and payment information (e.g., credit card number and billing address). But most of the information collected is via comments left on this site. No information list is kept of your information unless you have purchased from this web site. A record is then kept of your name, address, email and phone (if provided).
+  *  **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
+  *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  *  **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+  *  **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-The information collected is used for internal review and is then typically discarded, used to improve the content of this Web page, used to customize the content and/or layout of a page for each individual visitor, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing this Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-**With respect to cookies:**  
-Cookies are used to help keep track of the pages you visit so that improvements can be made in featuring items you enjoy viewing.
 
-**Shared information**  
-Information collected directly by The Gracious Pantry® will NEVER be shared with any entity for any reason unless legally required to do so.
+#### HOW YOUR INFORMATION MAY BE USED
 
-**Use of   information** **collected**  
-If you supply your postal address on-line you may receive periodic mailings from The Gracious Pantry® with information on new products and services or upcoming events. If you do not wish to receive such mailings, please make this clear by contacting Tiffany McCauley at the address provided above or e-mailing at the above email address.
+We may use the information collected in the following ways: 
 
-Please provide your exact name and address and your name and information will be removed from the list.
+  * To operate and maintain the Website; 
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings; 
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts; 
+  * To respond to your comments or inquiries; 
+  * To provide you with user support; 
+  * To track and measure advertising on the Website; 
+  * To process payment for purchases you make through the Website; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-Persons who supply their telephone numbers on-line will only receive telephone contact from The Gracious pantry with information regarding orders they have placed on-line. **The Gracious Pantry will only call you if there is a problem with your order.** We will NEVER call you to sell you a product.
 
-Persons who supply The Gracious Pantry® with their telephone numbers on-line can change their number or have their number removed from the list by sending an e-mail at the above address or calling at the above telephone number.
 
-Please provide  your exact name and phone number.Your number will be either updated or removed from the list.
+#### THIRD-PARTY USE OF PERSONAL INFORMATION
 
-**With respect to Ad Servers:**  
-To try and bring you offers that are of interest to you, The Gracious Pantry® has relationships with third parties (including but not limited to Blogher, Google Adsense and Commission Junction) that may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. As a result of your visit to this site, ad server companies may collect information such as your domain type, your IP address and clickstream information. To stop this information from being collected, follow the steps found in this article: <http://www.ehow.com/how_5872073_stop-cookies-coming-computer.html>
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**Additional Statement on Ad Servers**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
 
-The Gracious Pantry allows third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit<http://www.aboutads.info/choices>.
+  *  **Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. 
+  *  **Payment Processing (PayPal)** – this service is used to serve our ecommerce platform. At no time is your banking information passed to the Website. We receive only information used for order fulfillment.
+  *  **Mad Mimi** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
 
-From time to time, The Gracious Pantry® may use customer information for new, unanticipated uses not previously disclosed in this privacy notice. If these information practices change at some time in the future they will be posted in this privacy statement to notify you of these changes and will be used for these new purposes only, and will include data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back with this privacy statement periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing The Gracious Pantry at the above address or calling at the above telephone number.
 
-**Accessing your information**  
-Upon request The Gracious Pantry® provides site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, or a description of information that we maintain about them.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion. 
 
-Consumers can access this information by e-mailing The Gracious Pantry® at the above address.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-Consumers can have this information corrected by sending The Gracious Pantry® e-mail at the above address.
+#### ANONYMOUS DATA
 
-**With respect to security:**  
-When The Gracious Pantry® transfers and receives certain types of sensitive information such as financial information, we redirect visitors to a secure server via our shopping cart, or by redirecting you to Amazon.com (our affiliate account) or PayPal.com (for direct payments).
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-If you feel that this site is not following its stated information policy, you may contact The Gracious Pantry® at the above email or mailing address.
+#### PUBLICLY VISIBLE INFORMATION
 
-**Amazon Affiliate Links:**  
-Tiffany McCauley is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+If you leave a comment on the Website, certain information may be publicly visible.
+
+#### COOKIES
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+#### ADVERTISING
+
+ **Display Ads**  
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+ **Retargeting Ads**  
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+ **Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+ **Affiliate Program Participation**  
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+The Gracious Pantry is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+ **Newsletters**  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+#### RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+ **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at thegraciouspantry@gmail.com to be removed from our mailing list.
+
+ **Access** – You may access the personal information we have about you by submitting a request to thegraciouspantry@gmail.com.
+
+ **Amend** – You may contact us at thegraciouspantry@gmail.com to amend or update your personal information.
+
+ **Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to thegraciouspantry@gmail.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+#### SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+#### CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at thegraciouspantry@gmail.com and we will use our best efforts to promptly remove such information from our records.
+
+#### CONTACT INFORMATION
+
+At any time, please contact us at thegraciouspantry@gmail.com for questions related to this Privacy Policy. 
+
+Last updated: 5/16/2018
+
+#### [Please See Terms Of Use (Service) here.](https://www.thegraciouspantry.com/terms-of-use/)
