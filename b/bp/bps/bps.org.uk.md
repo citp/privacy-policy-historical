@@ -1,148 +1,175 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204141606id_/http%3A//www1.bps.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173311id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | BPS
+# British Psychological Society Privacy Notice | BPS
 
-## [1\. What information do we collect?]()
+The British Psychological Society is committed to ensuring your personal information is secure at all times and that you have a clear understanding of how and why we use your personal data.
 
-We may collect, store and process the following kinds of personal information: 
+This privacy notice tells you how we use personal information we collect about you for a number of key business purposes.
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation);
+You can find out more about your rights under the new General Data Protection Regulation (GDPR) [here](https://ico.org.uk/).
 
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
+We are currently updating the Society's Privacy and Data Protection Policy in line with the changes in GDPR.
 
-(c) information that you provide to us for the purpose of registering with us;
+If you have any queries in the interim please contact us on [dataprotection@bps.org.uk](mailto:dataprotection@bps.org.uk) or write to:
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
+British Psychological Society  
+St Andrews House  
+48 Princess East  
+Leicester  
+LE1 7DR  
+ 
 
-(e) any information that you provide through present or future membership, education or other services, whether accessed electronically or via manual processes;
+## How we use your information
 
-(f) any other information that you choose to send to us.
+This varies, dependent on your reason for engaging with the Society. Please select the relevant heading for more information (more than one of these may apply to you):
 
-## [2\. Cookies]()
+## [Visitors to the Society's websites]()
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+When someone visits any of our websites we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behaviour patterns.
 
-We may use both “session” cookies and “persistent” cookies on the website.  We will use the session cookies to: keep track of you whilst you navigate the website; and we will use the persistent cookies to: enable our website to recognise you when you visit.
+We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+[Click here to read about how we use cookies on our website](https://www.bps.org.uk/cookie-information).
 
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information. More information is available at [Google's privacy policy.](http://www.google.com/policies/privacy/)
+## [Enquirers and complainants]()
 
-Our advertisers/payment services providers may also send you cookies.
+### Contacting us by email
 
-Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
+The Society stores emails on our serviers so we can refer back to them to help resolve your enquiry. We will ensure any personal data is kept to a minimum. 
 
-We may publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using [Google's Ads Preference Manager](http://www.google.com/settings/ads/authenticated). You can also opt out of other forms of Google tracking through its [Take Control](http://privacy.google.com/intl/en-GB/take-control.html) pages
+### Calling us
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however this will have a negative impact upon the usability of many websites, including this one.
+If you call the Society we collect Call Line Identification (CLI) information, if your service provider allows this.
 
-[More information about the cookies we use](https://web.archive.org/cookie-information)
+This information helps us monitor the efficiency of our services. We do not record telephone calls.
 
-## [3\. Using your personal information]()
+Any messages left on our voicemail system are responded to and then deleted from our servers after 30 days.
 
-Personal information submitted to us will be used for the purposes specified in this privacy policy or in relevant parts of the website(s) and other Society services. 
+### Complaints about the Society
 
-We may use your personal information to:
+Any complaints submitted about the Society will be kept for a maximum of 6 years after they are resolved, dependent on the nature of the complaint.
 
-(a) administer the website;
+### Complaints about Members
 
-(b) improve your browsing experience by personalising the website;
+You can find information about the complaints process on [our website](mailto:https://www.bps.org.uk/submitting-complaint)
 
-(c) enable your use of the services available on the website;
+## [Non-members that use our online services]()
 
-(d) send to you goods purchased via the website, and supply to you services purchased via the website;
+If you are a non-member and use any of our online services, we will ask you to create a website account in order for us to provide these services to you securely.
 
-(e) send statements and invoices to you, and collect payments from you;
+We will ask you to provide your name and email address. Your IP address will also be collected.
 
-(f) send you general (non-marketing) commercial communications;
+The services we currently provide online are:
 
-(g) send you email notifications which you have specifically requested;
+### Website user account
 
-(h) send to you our newsletter and other communications relating to The British Psychological Society (“Society”) or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology. You can inform us at any time if you no longer require marketing communications;
+You can use your website user account to opt in and out of receiving email communications from the Society and to update your personal information.
 
-(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+If you would like to delete your website account, please [contact us](mailto:enquiries@bps.org.uk).
 
-(j) deal with enquiries and complaints made by or about you;
+Your account is automatically deleted after two years of inactivity.
 
-(k) to update central back office Society member database systems where provided by the user;
+### Purchases through the website
 
-(l) maintain and display Society membership directories and registers in public and secure areas of the website as prescribed and authorised by the governance policies and rules of the Society and only where Society member users have consented or subscribed in advance; and
+We will need your payment card details and billing address if you make any purchases, in order to take payment and perform refunds if necessary. We do not keep your card number.
 
-(m) administer and support members of the Society as required from time to time.
+Order confirmations will be sent by email.
 
-Where you submit personal information for publication on our website or any other Society managed media, we will publish and otherwise use that information in accordance with the licence you grant to us.
+### Email subscriptions and newsletters
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+We will use your name and email address to provide you with emails and newsletters you have chosen to receive. You will be able to unsubscribe from these at any time by clicking on the link in the email or [contacting the society](mailto:enquiries@bps.org.uk).
 
-All our website financial transactions are handled through our payment services provider, SagePay, Secure Trading and PayPal.  You can review the privacy policies of these providers as follows:
+Our online services should only be used by individuals aged 13 and over.
 
-  * [SagePay](http://www.sagepay.com/privacy_policy)
-  * [PayPal](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full)
+## [Members Services]()
 
+## [Job applicants]()
 
+If you apply for a job at the Society, we will ask you to provide your CV and covering letter.
 
-We will share information with  SagePay, Secure Trading and PayPal as appropriate to the transaction been carried out only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+You need only include your name, telephone number and email address, in order for us to contact you. We request that you do not include any additional personal data at this stage.
 
-We do not store card payment information on Society systems. All transactions are fulfilled by our payment service providers.
+We will keep your application as long as you are part of the selection process for the vacant position.
 
-## [4\. Disclosures]()
+Unsuccessful applications will be contacted at the appropriate stage in the recruitment process and more detailed information regarding how we handle your data will be provided.
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy. 
+For further information please contact [personnel@bps.org.uk](mailto:personnel@bps.org.uk)
 
-In addition, we may disclose your personal information:
+## [Sharing your information]()
 
-(a) to the extent that we are required to do so by law;
+We will only share data with companies or other organisations that are an essential part of providing services to you.
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+We ensure all providers have bases in EU and that any data they hold is kept within the EU.
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+We will also ensure these organisations keep your information as safe as we do. These can include, but is not limited to, the following categories of organisations:
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+### ICT Support Services
 
-## [5\. Security of your personal information]()
+Companies that support and develop our ICT Systems, such as our database and website.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+### Outsourced Services
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions containing personal details that you make to or receive from us will be encrypted using SSL technology.
+This currently includes processing subscription payments and some conference and events management.
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+### Other Operational Services
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website or any other Society owned online service).
+Payment service providers, offsite storage, confidential waste processors and mailing houses.
 
-## [6\. Policy amendments]()
+### External System Providers
 
-We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes. 
+These are currently E Learning courses, Psych Source services and some conference and event bookings.
 
-We may also notify you of changes to our privacy policy by email.
+### Volunteers
 
-## **[7\. Your rights]()**
+Members of the Society that carry out work on behalf of the Society.
 
-You may instruct us to provide you with any personal information we hold about you – Subject Access Rights.  Provision of such information will be subject to: 
+## **[Your rights]()**
 
-(a) the payment of a fee (currently fixed at £10.00); and
+You have a number of rights with regards to your personal data:
 
-(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address or confirmation of a Society Members address and membership number on our central members database).
+  * ### You have the right to be given information about how your data is processed and why
 
-We may withhold such personal information to the extent permitted by law.
+  * ### You have a right to access the personal data we hold about you
 
-You may instruct us not to process your personal information for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-in to the use of your personal information for marketing purposes.
+  * ### You have the right to ensure the information we hold about you is accurate and complete
 
-## **[8\. Third party websites]()**
+  * ### You have the right to have your personal data deleted
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+  * ### You have the right to ask the Society to restrict processing your personal data
 
-## **[9\. Updating your information]()**
+  * ### You have the right to ask us to transfer your personal data
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated. We may also from time to time require you to confirm or update information to ensure that this remains accurate on our central members database.
+  * ### You have the right to object to the Society processing your data
 
-## **[10\. Contact us]()**
+  * ### You have the right to withdraw consent to the Society sending you information by email
 
-If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](https://web.archive.org/cdn-cgi/l/email-protection#f094809fb0928083de9f8297de859b) or post to: Data Protection Officer, The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR. 
+  * ### You have rights in relation to automated decision making and profiling
 
-(11) Data controller
 
-The data controller responsible in respect of information collected by all Society services (electronic or manual) is The British Psychological Society. 
 
-Our data protection registration number is Z5958155.
 
-****Version: October 2016****
+## [How to contact us]()
+
+The British Psychological Society is responsible for ensuring your personal information is managed correctly.
+
+We are the ‘Data Controller’ registered with the Information Commissioners Office and our registration number is Z5958155.
+
+If you would like any further information about our privacy policy, or if you would like to exercise any of the rights listed above, please contact us on [dataprotection@bps.org.uk](mailto:dataprotection@bps.org.uk) or write to:
+
+The British Psychological Society  
+St Andrews House  
+48 Princess Road East  
+Leicester  
+LE1 7DR
+
+## **[How to complain]()**
+
+If you have contacted the Society with regards to the use of your personal data and are not satisfied with the response you have received, or are concerned about how the Society has processed your personal data, you can complain to the Information Commissioners Office (ICO).
+
+You can submit your concern via their website:[www.ico.org.uk](http://www.ico.org.uk/), or by telephone: 0303 123 1113.
+
+## [Changes to this policy]()
+
+If we change the way we process your personal data, we will update this policy.
+
+If we make significant changes, we will contact you as soon as possible to let you know.
