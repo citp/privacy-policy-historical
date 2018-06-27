@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231085832id_/http%3A//www.kmart.com/csprivacy/nb-100000000000006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163315id_/http%3A//www.kmart.com/csprivacy/nb-100000000000006) for the most accurate reproduction.*
 
 # Privacy Policy - Kmart
 
