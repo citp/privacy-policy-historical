@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the millionmilesecrets.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912063424id_/https%3A//millionmilesecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionmilesecrets.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627120029id_/https%3A//millionmilesecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Million Mile Secrets
-
-Many of the credit card offers that appear on this site are from credit card issuers from which MillionMileSecrets.com receives compensation. Compensation does not impact the placement of cards on Million Mile Secrets other than in banner advertising. MillionMileSecrets.com does not include all credit card offers that might be available to consumers in the marketplace. 
 
 _Last updated: February 13, 2017_
 
@@ -19,7 +17,7 @@ For purposes of this Privacy Policy, “Your Information” means information ab
 
 
 
-In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://millionmilesecrets.com/tos.html) and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
+In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://millionmilesecrets.com/terms-of-use/) and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
 
 Information We Collect and Receive About You
 
