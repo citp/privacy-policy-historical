@@ -1,243 +1,1461 @@
-<!--The following is the downloaded HTML source of the gundigest.com privacy policy that was archived on 2017-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214053902id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gundigest.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627090140id_/https%3A//gundigest.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-<meta name="viewport" content="width=device-width">
-<title>Privacy | F+W</title>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://www.fwcommunity.com/xmlrpc.php">
-<!--[if lt IE 9]>
-<script src="http://wwwcdn.fwcommunity.com/wp-content/themes/fw-twentytwelve/js/html5.js" type="text/javascript"></script>
-<![endif]-->
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome async-hide"><!--<![endif]--><head>  <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://gundigest.api.oneall.com/socialize/library.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M97ZHJK"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M97ZHJK');</script>  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script>(adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-8654482119094793",
+        enable_page_level_ads: true
+      });</script> <link type="text/css" media="all" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/css/autoptimize_32a8dcaa45ea2933a9718b7718b60fe4.css" rel="stylesheet"><title>Privacy | Gun Digest</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="yandex-verification" content="d1074287196cdb92"><link rel="pingback" href="https://gundigest.com/xmlrpc.php"><link rel="icon" type="image/png" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/favIcon.png"> <link rel="canonical" href="https://gundigest.com/privacy"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy | Gun Digest"><meta property="og:description" content="Privacy Privacy Policy Click here to view our Terms of Use Policy, Updated November 20th, 2017 SUMMARY This web site is owned by GUN DIGEST MEDIA (“GUN DIGEST MEDIA”). At GUN DIGEST MEDIA, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for …"><meta property="og:url" content="https://gundigest.com/privacy"><meta property="og:site_name" content="Gun Digest"><meta property="article:publisher" content="https://www.facebook.com/gundigest"><meta name="twitter:card" content="summary"><meta name="twitter:description" content="Privacy Privacy Policy Click here to view our Terms of Use Policy, Updated November 20th, 2017 SUMMARY This web site is owned by GUN DIGEST MEDIA (“GUN DIGEST MEDIA”). At GUN DIGEST MEDIA, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for […]"><meta name="twitter:title" content="Privacy | Gun Digest"><meta name="twitter:site" content="@gunDigest"><meta name="twitter:image" content="https://gundigest.com/wp-content/uploads/logo-gun-digest.jpg"><meta name="twitter:creator" content="@gunDigest"> <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/gundigest.com\/","sameAs":["https:\/\/www.facebook.com\/gundigest","https:\/\/www.youtube.com\/user\/GunDigestTV","https:\/\/pinterest.com\/gundigest\/","https:\/\/twitter.com\/gunDigest"],"@id":"https:\/\/gundigest.com\/#organization","name":"Gun Digest","logo":"https:\/\/gundigest.com\/wp-content\/uploads\/gd_logo_main-1.png"}</script> <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="alternate" type="application/rss+xml" title="Gun Digest » Feed" href="https://gundigest.com/feed"><link rel="alternate" type="application/rss+xml" title="Gun Digest » Comments Feed" href="https://gundigest.com/comments/feed"><link rel="stylesheet" id="google-font-override-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700%7CRoboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300%7CRoboto+Slab%3A400%2C700" type="text/css" media="all"><link rel="stylesheet" id="dashicons-css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css" type="text/css" media="all"><style id="rs-plugin-settings-inline-css" type="text/css">#rs-demo-id {}</style><link rel="stylesheet" id="td-plugin-multi-purpose-css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/td-multi-purpose/style.css" type="text/css" media="all"><link rel="stylesheet" id="google-fonts-style-css" href="https://fonts.googleapis.com/css?family=Roboto+Slab%3A400%7COpen+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900" type="text/css" media="all"><link rel="stylesheet" id="js_composer_front-css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css" type="text/css" media="all"><link rel="stylesheet" id="td-theme-css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/gun-digest/style.css" type="text/css" media="all"><link rel="stylesheet" id="td-theme-demo-style-css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/Newspaper/includes/demos/politics/demo_style.css" type="text/css" media="all"> <script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js"></script> <script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js"></script> <script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js"></script> <script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js"></script> <script type="text/javascript">var pys_fb_pixel_options = {"woo":{"addtocart_enabled":false,"product_data":""}};
+var pys_events = [{"type":"init","name":"1874030326167372","params":[]},{"type":"track","name":"PageView","params":{"domain":"gundigest.com"},"delay":0},{"type":"trackCustom","name":"GeneralEvent","params":{"post_type":"page","content_name":"Privacy","post_id":246887,"domain":"gundigest.com"},"delay":0}];</script> <script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite/js/public.js"></script> <link rel="https://api.w.org/" href="https://gundigest.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gundigest.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gundigest.com/wp-includes/wlwmanifest.xml"><link rel="shortlink" href="https://gundigest.com/?p=246887"><link rel="alternate" type="application/json+oembed" href="https://gundigest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgundigest.com%2Fprivacy"><link rel="alternate" type="text/xml+oembed" href="https://gundigest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgundigest.com%2Fprivacy&amp;format=xml">   <script data-cfasync="false" type="text/javascript">(function() {
+  var oa = document.createElement('script'); oa.type = 'text/javascript';
+  oa.async = true; oa.src = 'https://gundigest.api.oneall.com/socialize/library.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oa, s);
+ })();</script>   <script>window.tdwGlobal = {"adminUrl":"https:\/\/gundigest.com\/wp-admin\/","wpRestNonce":"0f501aed13","wpRestUrl":"https:\/\/gundigest.com\/wp-json\/","permalinkStructure":"\/%category%\/%postname%"};</script> <!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."> <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.3.0.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">  <script>var tdBlocksArray = []; //here we store all the items for the current page
 
-<script type="text/javascript">
-var dataLayer = [];
-</script>
-<script type="text/javascript" src="//assets.adobedtm.com/eeabfecf1ea8efeee8089b11ad6abf60b1923718/satelliteLib-75ece947334e84857cbf24e6f743caf4de53db34.js"></script>
-<meta name="adobe-dtm-wordpress" content="true"><link rel="dns-prefetch" href="//www.fwcommunity.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="F+W » Feed" href="http://www.fwcommunity.com/feed">
-<link rel="alternate" type="application/rss+xml" title="F+W » Comments Feed" href="http://www.fwcommunity.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="F+W » Privacy Comments Feed" href="http://www.fwcommunity.com/privacy/feed">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wwwcdn.fwcommunity.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://wwwcdn.fwcommunity.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="theme-my-login-css" href="http://wwwcdn.fwcommunity.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://wwwcdn.fwcommunity.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="st-widget-css" href="http://wwwcdn.fwcommunity.com/wp-content/plugins/share-this/css/style.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="twentytwelve-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="twentytwelve-style-css" href="http://wwwcdn.fwcommunity.com/wp-content/themes/fw-twentytwelve/style.css?ver=4.8.2" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://wwwcdn.fwcommunity.com/wp-content/themes/fw-twentytwelve/ie.css?ver=20121010' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="lightboxStyle-css" href="http://wwwcdn.fwcommunity.com/wp-content/plugins/lightbox-plus/css/dark/colorbox.css?ver=2.7" type="text/css" media="screen">
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4"></script>
-<link rel="https://api.w.org/" href="http://www.fwcommunity.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fwcommunity.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wwwcdn.fwcommunity.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.2">
-<link rel="canonical" href="http://www.fwcommunity.com/privacy">
-<link rel="shortlink" href="http://www.fwcommunity.com/?p=4351">
-<link rel="alternate" type="application/json+oembed" href="http://www.fwcommunity.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fwcommunity.com%2Fprivacy">
-<link rel="alternate" type="text/xml+oembed" href="http://www.fwcommunity.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fwcommunity.com%2Fprivacy&amp;format=xml">
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
 
-<!-- platinum seo pack 1.3.8 -->
-<meta name="robots" content="index,follow,noodp,noydir">
-<meta name="description" content="F+W Media Privacy Policy - how to contact us regarding privacy, information we collect, how we may share your information, opt out, information access, security">
-<link rel="canonical" href="http://www.fwcommunity.com/privacy">
-<!-- /platinum one seo pack -->
-<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.344a7771-48ed-43c3-ab84-69b1b7f6182e', onhover: false});var st_type='wordpress3.2.1';</script><!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
-<script type="text/javascript">
-    var analyticsFileTypes = [''];
-    var analyticsSnippet = 'disabled';
-    var analyticsEventTracking = 'enabled';
-</script>
-<script type="text/javascript">
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-5522798-2', 'auto');
- 
-	_gaq.push(['_setDomainName','.fwcommunity.com']);
-	ga('send', 'pageview');
-</script>
-<link rel="stylesheet" type="text/css" href="http://wwwcdn.fwcommunity.com/wp-content/themes/fw-twentytwelve/menu.css">
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
 
 
 
 
-</head>
+        var tdLocalCache = {};
 
-<body class="page-template-default page page-id-4351 full-width custom-font-enabled single-author">
+        ( function () {
+            "use strict";
 
-	<header id="masthead" class="site-header" role="banner">
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
 
-		<div class="main-menu">
-    <div class="social-content">
-    		<div class="social-media">
-                <a href="https://www.facebook.com/fwmedia">
-                <img src="http://wwwcdn.fwcommunity.com/wp-content/uploads/facebook-logo.png">
-                </a>
-                
-                <a href="https://www.twitter.com/fwmedia">
-                <img src="http://wwwcdn.fwcommunity.com/wp-content/uploads/twitter-logo.png">
-                </a>
-                
-                <a href="http://feeds.feedburner.com/fwmedia">
-                <img src="http://wwwcdn.fwcommunity.com/wp-content/uploads/rss-logo.png">
-                </a>
-                
-                 <a href="https://www.linkedin.com/company/15722">
-                <img src="http://wwwcdn.fwcommunity.com/wp-content/uploads/linkedin-logo.png">
-                </a>
-                
-                 <a href="https://plus.google.com/b/111105741932842100624">
-                <img src="http://wwwcdn.fwcommunity.com/wp-content/uploads/googleplus-logo.png">
-                </a>
-            </div>
-    </div>
-	<!-- Navigation -->
-	<h3 class="menu-toggle toggleMenu">Navigate</h3>
-        <div class="menu-navigation-menu-container"><ul id="nav-menu" class="nav"><li id="menu-item-23431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23431"><a href="/#arts-crafts">Arts &amp; Crafts</a></li>
-<li id="menu-item-23432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23432"><a href="/#creative-expression">Creative Expression</a></li>
-<li id="menu-item-23433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23433"><a href="/#outdoors">Outdoors</a></li>
-<li id="menu-item-23434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23434"><a href="/#collectibles">Collectibles</a></li>
-<li id="menu-item-23435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23435"><a href="/#lifestyle">Lifestyle</a></li>
-<li id="menu-item-23436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23436"><a href="/#fw-culture">F+W Culture</a></li>
-</ul></div>        
-        </div>
-          <div class="logo-content">
-   	    <a href="http://www.fwcommunity.com"> <div class="site-logo"></div>	</a>
-			</div>
-	</header><!-- #masthead -->
     
-<div id="site-wrapper">
+    
+var tds_login_sing_in_widget="show";
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
+var td_ajax_url="https:\/\/gundigest.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.7.3";
+var td_get_template_directory_uri="https:\/\/gundigest.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="5";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=600;
+var tds_theme_color_site_wide="#8c312b";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";</script> <style>.async-hide { opacity: 0 !important}</style> <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-NNXSQ66':true});</script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-445948-3', 'auto');
+  ga('require', 'GTM-NNXSQ66');
+  ga('send', 'pageview');</script><script type="application/ld+json">{
+                            "@context": "http://schema.org",
+                            "@type": "BreadcrumbList",
+                            "itemListElement": [{
+                            "@type": "ListItem",
+                            "position": 1,
+                                "item": {
+                                "@type": "WebSite",
+                                "@id": "https://gundigest.com/",
+                                "name": "Home"                                               
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 2,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://gundigest.com/privacy",
+                                "name": "Privacy"
+                            }
+                        }    ]
+                        }</script><link rel="icon" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/cropped-GDLogoIcon-2-32x32.png" sizes="32x32"><link rel="icon" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/cropped-GDLogoIcon-2-192x192.png" sizes="192x192"><link rel="apple-touch-icon-precomposed" href="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/cropped-GDLogoIcon-2-180x180.png"><meta name="msapplication-TileImage" content="https://gundigest.com/wp-content/uploads/cropped-GDLogoIcon-2-270x270.png"> <style>.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+                .tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,
+                .tds-button2 .tdm-btn-text,
+                .tds-button2 i,
+                .tds-button5:hover .tdm-btn-text,
+                .tds-button5:hover i,
+                .tds-button6 .tdm-btn-text,
+                .tds-button6 i,
+                .tdm_block_list .tdm-list-item i,
+                .tdm_block_pricing .tdm-pricing-feature i,
+                .tdm-social-item i {
+                  color: #8c312b;
+                }
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a,
+                .tds-button1,
+                .tds-button6:after,
+                .tds-title2 .tdm-title-line:after,
+                .tds-title3 .tdm-title-line:after,
+                .tdm_block_pricing.tdm-pricing-featured:before,
+                .tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,
+                .tds-progress-bar1 .tdm-progress-bar:after,
+                .tds-progress-bar2 .tdm-progress-bar:after,
+                .tds-social3 .tdm-social-item {
+                  background-color: #8c312b;
+                }
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a,
+                .tds-button2:before,
+                .tds-button6:before,
+                .tds-progress-bar3 .tdm-progress-bar:after {
+                  border-color: #8c312b;
+                }
+                .tdm-btn-style1 {
+					background-color: #8c312b;
+				}
+				.tdm-btn-style2:before {
+				    border-color: #8c312b;
+				}
+				.tdm-btn-style2 {
+				    color: #8c312b;
+				}
+				.tdm-btn-style3 {
+				    -webkit-box-shadow: 0 2px 16px #8c312b;
+                    -moz-box-shadow: 0 2px 16px #8c312b;
+                    box-shadow: 0 2px 16px #8c312b;
+				}
+				.tdm-btn-style3:hover {
+				    -webkit-box-shadow: 0 4px 26px #8c312b;
+                    -moz-box-shadow: 0 4px 26px #8c312b;
+                    box-shadow: 0 4px 26px #8c312b;
+				}
+				
+				
+                .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu{
+                    background-color: #111111;
+                }
+				
+				
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
+                  color: #8b0e04;
+                }
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+                  border-color: #8b0e04;
+                }
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .sfHover > a {
+                  background-color: #8b0e04;
+                }</style><noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css">.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}</style><style id="tdw-css-placeholder"></style><style type="text/css">/* START ################################# Advertising top banner */
+.td-banner-wrap-full {
+    background-color: #8b0b04;
+}
+/* Gets rid of extra bottom margin on category pages */
+@media (min-width: 767px){
+  .td_category_template_2 .td-header-style-5 .td-a-rec-id-header > div{
+    margin-bottom:0 !important;
+  }
+}
+@media (max-width: 767px){
+.td-banner-wrap-full a.button{
+   float:left; 
+   display:block;
+   width:100%;
+   text-align:center;
+   padding:8px;
+   margin:4px 0;
+}
+}
 
-<div id="page" class="hfeed site">
-
-<div id="main" class="wrapper">
-
-	<div id="primary" class="site-content">
-		<div id="content" role="main">
-
-							
-	<article id="post-4351" class="post-4351 page type-page status-publish hentry">
-   		<header class="entry-header">
-			<h1 class="entry-title">Privacy</h1>
-		</header>
-
-		<div class="entry-content">
-			<p>Privacy Policy</p>
-<p><span style="text-decoration: underline;"><a href="http://www.fwcommunity.com/termsofuse">Click here to view our Terms of Use Policy, Updated April 22, 2015</a></span></p>
-<p>SUMMARY<br> This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.</p>
-<p>GENERAL CONTACT INFORMATION<br> Our postal address is:<br> F+W Media, Inc.<br> 10151 Carver Road Suite #200<br> Blue Ash, OH 45242<br> 513.531.2690</p>
-<p>To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).</p>
-<p>INFORMATION WE COLLECT<br> Information about your computer hardware and software<br> For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form.</p>
-<p>We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages.</p>
-<p>We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies.</p>
-<p>Email address, postal address, telephone number</p>
-<p>If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site.<br> If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services.</p>
-<p>Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.</p>
-<p>Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.</p>
-<p>HOW WE MAY SHARE YOUR INFORMATION<br> We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.</p>
-<p>California Privacy Rights<br> Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.</p>
-<p>OPT OUT PROCEDURES<br> If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@fwpubs.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.</p>
-<p>Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).</p>
-<p>If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.</p>
-<p>If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.</p>
-<p>AD SERVERS<br> To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:</p>
-<p>Burst Media: http://www.burstmedia.com/isl/index.asp?page=privacy<br> Google Inc. http://www.google.com/intl/en/privacy.html</p>
-<p>ANALYTICS<br> To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:</p>
-<p>Google Inc. http://www.google.com/intl/en/privacy.html<br> Omniture, Inc. http://www.omniture.com/privacy/product</p>
-<p>THIRD PARTY ADVERTISING TECHNOLOGIES<br>We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.</p>
-<p>REMARKETING<br>F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.</p>
-<p>The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.</p>
-<p>Google has additional information available about their <a href="http://support.google.com/adwordspolicy/answer/143465?rd=3" target="_blank">Remarketing Privacy Guidelines</a> and <a href="http://support.google.com/adwords/answer/2549116?hl=en&amp;from=178363&amp;rd=1" target="_blank">Policies </a></p>
-<p>OPT-OUT</p>
-<p>You may opt out of the DoubleClick cookie by visiting the Google <a href="http://www.google.com/policies/technologies/ads/" target="_blank">advertising opt-out page</a> or you may opt out of Google Analytics by visiting the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics opt-out page</a>.</p>
-<p>DOUBLECLICK’S REMARKETING PIXELS<br>You may opt out of DoubleClick’s remarketing pixels, by visiting the <a href="https://www.google.com/settings/ads/onweb#display_optout" target="_blank">DoubleClick opt-out page</a>&nbsp; or the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative opt-out page</a>.</p>
-<p>INFORMATION ACCESS<br> Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.</p>
-<p>You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.</p>
-<p>Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.</p>
-<p>SECURITY<br> We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.</p>
-<p>CHANGES TO THIS POLICY<br> From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.</p>
-<p>If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.</p>
-<p>The effective date of this Policy is March 12, 2008.</p>
-					</div><!-- .entry-content -->
-		<footer class="entry-meta">
-					</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-			
-		</div><!-- #content -->
-	</div><!-- #primary -->
-
-<div id="sidebar">
-
-		<div id="secondary" class="" role="complementary">
-
-			
-
-		</div><!-- #secondary --></div>
-	</div><!-- main wrapper -->
-
-	<footer id="colophon" role="contentinfo">
-		<div class="menu-navigation-menu-2-container"><ul id="nav-menu" class="nav nav-bottom"><li id="menu-item-23702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23702"><a href="#">Communities</a>
-<ul class="sub-menu">
-	<li id="menu-item-23703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23703"><a href="/arts-crafts-community">Arts &amp; Crafts</a></li>
-	<li id="menu-item-23704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23704"><a href="/outdoors-community">Outdoors</a></li>
-	<li id="menu-item-23705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23705"><a href="/collectibles-community">Collectibles</a></li>
-	<li id="menu-item-23727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23727"><a href="/writing-design-communities">Writing &amp; Design</a></li>
-	<li id="menu-item-23728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23728"><a href="/lifestyle-communities">Lifestyle</a></li>
-</ul>
-</li>
-<li id="menu-item-23729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23729"><a href="/about-us">About Us</a></li>
-<li id="menu-item-23730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23730"><a href="/company/our-executive-committee">Executive Team</a></li>
-<li id="menu-item-23731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23731"><a href="/press-room">News</a></li>
-<li id="menu-item-23732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23732"><a href="/careers">Careers</a></li>
-<li id="menu-item-23733" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23733"><a href="/contactus">Contact Us</a></li>
-<li id="menu-item-23734" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-23734"><a href="/privacy">Privacy Policy</a></li>
-</ul></div>	</footer><!-- #colophon -->
-</div><!-- page -->
-</div><!-- site wrapper -->
-<!-- Lightbox Plus Colorbox v2.7/1.5.9 - 2013.01.24 - Message: 0-->
-<script type="text/javascript">
-jQuery(document).ready(function($){
-  $("a[rel*=lightbox]").colorbox({transition:"fade",speed:0,width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,maxWidth:false,maxHeight:false,scalePhotos:false,opacity:0.35,current:" {current}  {total}",previous:"Previous",next:"Next",close:"",scrolling:false,escKey:false,top:false,right:false,bottom:false,left:false});
+.td-banner-wrap-full a.button{
+    background-color:rgba(21,150,78,1);
+    color:#fff;
+    padding:4px 8px;
+    font-weight:700;
+    margin:0 4px;
+    display: block;
+    margin-top: 4px;
+}
+.td-banner-wrap-full a.button:hover{  
+	background-color:#fff;
+    color:#8b0b04;
+}
+/* END ################################# Advertising top banner */
+/* START ################################# Red Banner header */
+.td-header-style-5 .td-a-rec-id-header > div{ 
+    background:url('https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/GiftsSmall.png') left bottom no-repeat;
+    padding-bottom: 10px;
+    text-align:center;
+    margin: 0px auto 0 auto !important;  
+    padding-left:170px; 
+}
+@media (max-width: 767px){
+.td-header-style-5 .td-a-rec-id-header > div{
+  margin: 0 10px !important; 
+  line-height:1.5em;
+  background:url('https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/GiftsSmall.png') center top no-repeat;
+  padding-left:0px;
+  padding-top:100px;
+  min-height:138px;
+ }
+}
+@media (max-width: 400px){
+.td-header-style-5 .td-a-rec-id-header > div{
+  margin: 0 10px !important; 
+  line-height:1.5em;
+  background:url('https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/GiftsSmall.png') center top no-repeat;
+  padding-left:0px;
+  padding-top:100px;
+ }
+}
+/* END ################################# Red Banner header */
+/* Prev/Next buttons */
+.td-post-next-prev-content span {
+    color: #fff;
+    padding: 12px 12px;
+    border-width: 0px;
+    text-align: left;
+}
+.td-post-next-prev-content span.link {
+width:calc(100% - 15px);
+float:left;
+    padding: 4px 20px;
+}
+.td-post-next-prev-content span.bracket {
+width:10px;
+font-size:3em;
+float:left;
+    padding: 10px 0;
+}
+.td-block-span6.td-post-prev-post.td-read-more a,.td-block-span6.td-post-next-post.td-read-more a{
+padding-bottom: 0;
+}</style> <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script> <script>jQuery( document ).ready(function() {
+//Creates cookie for Google Optimize Vars
+var variant_cookie = readCookie('variant');
+if (!variant_cookie) {//if cookie does not exist yet, create cookie
+	var vari = getParameterByName('vari');
+	if(vari){//vari has a value
+		createCookie('variant',vari,30);
+	}else createCookie('variant','1',30);
+}
+//Attaches tracking to specific Newspaper blocks
+$(".td_module_related_posts a").click(function() {
+  link=$(this).attr("href");
+  page=link.substr(link.lastIndexOf('/') + 1);
+  ga('send', 'pageview', '/internal/rel-posts-footer/' + page);
 });
-</script>
-<script type="text/javascript">
+$(".td_block_1 a").click(function() {
+  link=$(this).attr("href");
+  page=link.substr(link.lastIndexOf('/') + 1);
+  ga('send', 'pageview', '/internal/video-sidebar/' + page);
+});
+$(".td_block_2 a").click(function() {
+  link=$(this).attr("href");
+  page=link.substr(link.lastIndexOf('/') + 1);
+  ga('send', 'pageview', '/internal/must-read-sidebar/' + page);
+});
+//Sets up Captchas
+       jQuery('#gd-footer-email').focusin(function () {
+           jQuery('#newsletter-footer .g-recaptcha').show();
+        });
+       jQuery('#emailCC').focusin(function () {
+           jQuery('#newsletter-concealed .g-recaptcha').show();
+        });
+	jQuery('#emailPop').focusin(function () {
+           jQuery('#newsletter-popup .g-recaptcha').show();
+        });
+     });
+      function onSubmit() {	
+        event.preventDefault();	
+        var postData = $( '#newsletter-footer' ).serialize();
+        jQuery.post( '/wp-content/themes/gun-digest/reCaptchaProcessing.php', postData, function( data ) {
+           if (data=="Success"){
+            document.getElementById("newsletter-footer").submit();
+           }else $('.gd-footer-bar #error').show();
+        });     
+         //
+       }
+function onSubmitFree() {	
+        event.preventDefault();	
+        var postData = jQuery( '#free-download' ).serialize();
+        jQuery.post( '/wp-content/themes/gun-digest/reCaptchaProcessing.php', postData, function( data ) {
+           if (data=="Success"){
+            document.getElementById("free-download").submit();
+           }else jQuery('.gd-footer-bar #error').show();
+        });     
+         //
+       }
+function onSubmitFree2() {	
+        event.preventDefault();	
+        var postData = jQuery( '#free-download2' ).serialize();
+        jQuery.post( '/wp-content/themes/gun-digest/reCaptchaProcessing.php', postData, function( data ) {
+           if (data=="Success"){
+            document.getElementById("free-download2").submit();
+           }else jQuery('.gd-footer-bar #error').show();
+        });     
+         //
+       }
+function onSubmitCC() {	
+        event.preventDefault();	
+        var postData = $( '#newsletter-concealed' ).serialize();
+        jQuery.post( '/wp-content/themes/gun-digest/reCaptchaProcessing.php', postData, function( data ) {
+           if (data=="Success"){
+            document.getElementById("newsletter-concealed").submit();
+           }else $('#newsletter-concealed #error').show();
+        });     
+         //
+       }
+function onSubmitPop() {	
+        event.preventDefault();	
+        var postData = $( '#newsletter-popup' ).serialize();
+        jQuery.post( '/wp-content/themes/gun-digest/reCaptchaProcessing.php', postData, function( data ) {
+           if (data=="Success"){
+            document.getElementById("newsletter-popup").submit();
+           }else $('#newsletter-popup #error').show();
+        });     
+         //
+       }
+function createCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + value + expires + "; path=/";
+}
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}</script> <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script> <script>var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];</script> <script>googletag.cmd.push(function() {
+   //Define mappings
+	var banner_mapping_top = googletag.sizeMapping().addSize([980, 690], [728, 90]).addSize([640, 480], [468, 60]).addSize([0, 0], [320, 50]).build();
+	var banner_mapping = googletag.sizeMapping().addSize([980, 690], [728, 90]).addSize([640, 480], [468, 60]).addSize([0, 0], [300, 250]).build();
+    googletag.defineSlot('/205002847/GD_AMP_In-Article', [[320, 50], [300, 250]], 'div-gpt-ad-1496816855619-0').addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_AMP_Top', [320, 50], 'div-gpt-ad-1496816855619-1').addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_Footer_728x90', [728, 90], 'div-gpt-ad-1496816855619-2').addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_In-Article_Par10', [[468, 60], [728, 90], [320, 50]], 'div-gpt-ad-1496816855619-3').defineSizeMapping(banner_mapping).addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_In-Article_Par2', [[728, 90], [468, 60], [320, 50]] , 'div-gpt-ad-1496816855619-4').defineSizeMapping(banner_mapping).addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_In-Article_Par', [[468, 60], [728, 90], [320, 50]], 'div-gpt-ad-1496816855619-5').defineSizeMapping(banner_mapping).addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_Sidebar_Top', [[300, 600], [300, 250]], 'div-gpt-ad-1496816855619-6').addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_article_atf_728x90_dt', [[728, 90], [468, 60], [320, 50]], 'div-gpt-ad-1497644981715-0').defineSizeMapping(banner_mapping_top).addService(googletag.pubads());
+    //googletag.defineSlot('/205002847/GD_article_atf_300x50_mobile', [320, 50], 'div-gpt-ad-1497659276853-0').addService(googletag.pubads());
+    //googletag.defineSlot('/205002847/GD_in-article_20perc_300x50_mobile', [[320, 50], [300, 250]], 'div-gpt-ad-1501201856043-0').addService(googletag.pubads());
+    //googletag.defineSlot('/205002847/GD_in-article_50perc_Mobile', [[320, 50], [300, 250]], 'div-gpt-ad-1497659999418-0').addService(googletag.pubads());
+    //googletag.defineSlot('/205002847/GD_in-article_70perc_Mobile', [[320, 50], [300, 250]], 'div-gpt-ad-1497660231325-0').addService(googletag.pubads());
+    googletag.defineSlot('/205002847/GD_Sidebar_ATF_300x250_DT', [300, 250], 'div-gpt-ad-1497661354030-0').addService(googletag.pubads());
+	googletag.defineSlot('/205002847/GD_In-Article_Par4_Desktop_Native', ['fluid'], 'div-gpt-ad-1504132311634-0').addService(googletag.pubads());
+	googletag.defineSlot('/205002847/GD_Sidebar_BTF1_300x250', [300, 250], 'div-gpt-ad-1509052555203-0').addService(googletag.pubads());
+ 	googletag.defineSlot('/205002847/GD_Sidebar_BTF3_300x250', [300, 250], 'div-gpt-ad-1509053334139-0').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });</script> </head><body class="page-template-default page page-id-246887 privacy global-block-template-1 td-politics wpb-js-composer js-comp-ver-5.4.7 vc_responsive td-animation-stack-type0 td-boxed-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">   <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div><div class="td-menu-background"></div><div id="td-mobile-nav"><div class="td-mobile-container"> <div class="td-menu-socials-wrap"> <div class="td-menu-socials"> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/gundigest" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.instagram.com/gun.digest/" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://pinterest.com/gundigest/" title="Pinterest"> <i class="td-icon-font td-icon-pinterest"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/gunDigest" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.youtube.com/user/GunDigestTV" title="Youtube"> <i class="td-icon-font td-icon-youtube"></i> </a> </span></div> <div class="td-mobile-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div></div> <div class="td-menu-login-section"><div class="td-guest-wrap"><div class="td-menu-avatar"><div class="td-avatar-container"><img src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/GDLogoIcon-3-113x113.png" width="80" height="80" alt="" class="avatar avatar-80 wp-user-avatar wp-user-avatar-80 photo avatar-default"></div></div><div class="td-menu-login"><a id="login-link-mob">Sign in</a> <span></span><a href="/register">Join</a></div></div></div> <div class="td-mobile-content"><div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu" class="td-mobile-main-menu"><li id="menu-item-224872" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children menu-item-224872"><a href="https://gundigest.com/reviews">Reviews<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li id="menu-item-0" class="menu-item-0"><a href="https://gundigest.com/reviews/accessories-reviews">Accessories</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/handguns-reviews">Handguns</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/military-firearms-reviews">Military Firearms</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/muzzleloaders-reviews">Muzzleloaders</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/optics-reviews">Optics</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/rifles-reviews">Rifles</a></li><li class="menu-item-0"><a href="https://gundigest.com/reviews/shotguns">Shotguns</a></li></ul></li><li id="menu-item-227872" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-227872"><a href="https://gundigest.com/handguns">Handguns<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/handguns/concealed-carry">Concealed Carry</a></li><li class="menu-item-0"><a href="https://gundigest.com/handguns/hunting-handguns">Hunting</a></li><li class="menu-item-0"><a href="https://gundigest.com/handguns/personal-defense">Personal Defense</a></li></ul></li><li id="menu-item-227873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-227873"><a href="https://gundigest.com/rifles">Rifles<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/rifles/ars-rifles">ARs</a></li><li class="menu-item-0"><a href="https://gundigest.com/rifles/hunting-rifles">Hunting</a></li><li class="menu-item-0"><a href="https://gundigest.com/rifles/tactical-rifles">Tactical</a></li></ul></li><li id="menu-item-227874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-227874"><a href="https://gundigest.com/gear-ammo">Gear &amp; Ammo<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/gear-ammo/accessories">Accessories</a></li><li class="menu-item-0"><a href="https://gundigest.com/gear-ammo/ammunition">Ammunition</a></li><li class="menu-item-0"><a href="https://gundigest.com/gear-ammo/optics">Optics</a></li><li class="menu-item-0"><a href="https://gundigest.com/gear-ammo/reloading">Reloading</a></li><li class="menu-item-0"><a href="https://gundigest.com/gear-ammo/suppressors">Suppressors</a></li></ul></li><li id="menu-item-264200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264200"><a href="https://gundigest.com/concealed-carry">Concealed Carry</a></li><li id="menu-item-227875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-227875"><a href="https://gundigest.com/gun-videos">Videos<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/gun-videos/gundigest-tv">GunDigest TV</a></li><li class="menu-item-0"><a href="https://gundigest.com/gun-videos/modern-shooter">Modern Shooter</a></li></ul></li><li id="menu-item-224874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-224874"><a href="https://gundigest.com/shop">Shop<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/shop/books">Books</a></li><li class="menu-item-0"><a href="https://gundigest.com/shop/magazines">Magazines</a></li></ul></li><li id="menu-item-244311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244311"><a href="https://gundigest.com/free">Free</a></li><li id="menu-item-224875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-224875"><a href="https://gundigest.com/more">More<i class="td-icon-menu-right td-element-after"></i></a><ul class="sub-menu"><li class="menu-item-0"><a href="https://gundigest.com/more/classic-guns">Classic Guns</a></li><li class="menu-item-0"><a href="https://gundigest.com/more/gun-values">Gun Values</a></li><li class="menu-item-0"><a href="https://gundigest.com/more/how-to">How To</a></li><li class="menu-item-0"><a href="https://gundigest.com/more/how-to/gunsmithing">Gunsmithing</a></li><li class="menu-item-0"><a href="https://gundigest.com/more/how-to/training">Training</a></li></ul></li></ul></div></div></div> <div id="login-form-mobile" class="td-register-section"><div id="td-login-mob" class="td-login-animation td-login-hide-mob"> <div class="td-login-close"> <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a><div class="td-login-title">Sign in</div> <div class="td-mobile-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div></div><div class="td-login-form-wrap"><div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div><div class="td_display_err"></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required=""><label>your username</label></div><div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required=""><label>your password</label></div> <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN"><div class="td-login-info-text"><a href="#" id="forgot-pass-link-mob">Forgot your password?</a></div></div></div><div id="td-register-mob" class="td-login-animation td-login-hide-mob"> <div class="td-register-close"> <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a><div class="td-login-title">Sign up</div> <div class="td-mobile-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div></div><div class="td-login-panel-title"><span>Welcome!</span>Register for an account</div><div class="td-login-form-wrap"><div class="td_display_err"></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="register_email" id="register_email-mob" value="" required=""><label>your email</label></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="register_user" id="register_user-mob" value="" required=""><label>your username</label></div> <input type="button" name="register_button" id="register_button-mob" class="td-login-button" value="REGISTER"><div class="td-login-info-text">A password will be e-mailed to you.</div></div></div><div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob"> <div class="td-forgot-pass-close"> <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a><div class="td-login-title">Password recovery</div></div><div class="td-login-form-wrap"><div class="td-login-panel-title">Recover your password</div><div class="td_display_err"></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required=""><label>your email</label></div> <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass"></div></div></div></div><div class="td-search-background"></div><div class="td-search-wrap-mob"><div class="td-drop-down-search" aria-labelledby="td-header-search-button"><form method="get" class="td-search-form" action="https://gundigest.com/"> <div class="td-search-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div><div role="search" class="td-search-input"> <span>Search</span> <input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off"></div></form><div id="td-aj-search-mob"></div></div></div><div id="td-outer-wrap"> <div class="td-header-wrap td-header-style-5"><div class="td-header-top-menu-full"><div class="td-container td-header-row td-header-top-menu"><div class="top-bar-style-1"><div class="td-header-sp-top-menu"><ul class="top-header-menu td_ul_login"><li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul></div><div class="td-header-sp-top-widget"> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/gundigest" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.instagram.com/gun.digest/" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://pinterest.com/gundigest/" title="Pinterest"> <i class="td-icon-font td-icon-pinterest"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/gunDigest" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.youtube.com/user/GunDigestTV" title="Youtube"> <i class="td-icon-font td-icon-youtube"></i> </a> </span></div></div> <div id="login-form" class="white-popup-block mfp-hide mfp-with-anim"><div class="td-login-wrap"> <a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a><div id="td-login-div" class="td-login-form-div td-display-block"><div class="td-login-panel-title"><img src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gd_logo_main.png"></div> <div class="td-login-panel-descr">Welcome! Log into your account</div><div class="td_display_err"></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required=""><label>your username</label></div><div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required=""><label>your password</label></div> <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login"> <div class="oneall_social_login"><div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Or Click the Logo to Login with:</label></div><div class="oneall_social_login_providers" id="oneall_social_login_providers_4228639"></div> <script data-cfasync="false" type="text/javascript">var _oneall = _oneall || [];
+  _oneall.push(['social_login', 'set_providers', ['facebook']]);
+  _oneall.push(['social_login', 'set_callback_uri', (window.location.href + ((window.location.href.split('?')[1] ? '&amp;': '?') + "oa_social_login_source=custom"))]);
+  _oneall.push(['social_login', 'set_custom_css_uri', 'https://secure.oneallcdn.com/css/api/socialize/themes/wordpress/modern.css']);
+  _oneall.push(['social_login', 'do_render_ui', 'oneall_social_login_providers_4228639']);</script> </div><div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div> <a class="td-register-modal-button" href="/register">Create an account</a></div><div id="td-forgot-pass-div" class="td-login-form-div td-display-none"><div class="td-login-panel-title">Password recovery</div><div class="td-login-panel-descr">Recover your password</div><div class="td_display_err"></div><div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required=""><label>your email</label></div> <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password"><div class="td-login-info-text">A password will be e-mailed to you.</div></div></div></div></div></div><div class="td-banner-wrap-full"><div class="td-header-container td-header-row td-header-header"><div class="td-header-sp-recs"><div class="td-header-rec-wrap"></div></div></div></div><div class="td-header-menu-wrap-full"><div class="td-header-menu-wrap"><div class="td-container td-header-row td-header-main-menu black-menu"><div id="td-header-menu" role="navigation"><div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div><div class="td-main-menu-logo td-logo-in-menu"> <a class="td-main-logo" href="https://gundigest.com/"> <img class="td-retina-data" data-retina="https://gundigest.com/wp-content/uploads/gd_logo_main@2x.png" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gd_logo_main.png" alt="GUN DIGEST" title="GUN DIGEST"> <span class="td-visual-hidden">Gun Digest</span> </a></div><div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-mega-menu menu-item-224872"><a href="https://gundigest.com/reviews">Reviews</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_2_5b335273dee29_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_2_5b335273dee29"><script>var block_td_uid_2_5b335273dee29 = new tdBlock();
+block_td_uid_2_5b335273dee29.id = "td_uid_2_5b335273dee29";
+block_td_uid_2_5b335273dee29.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15785","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_2_5b335273dee29_rand","tdc_css_class":"td_uid_2_5b335273dee29_rand","tdc_css_class_style":"td_uid_2_5b335273dee29_rand_style"}';
+block_td_uid_2_5b335273dee29.td_column_number = "3";
+block_td_uid_2_5b335273dee29.block_type = "td_block_mega_menu";
+block_td_uid_2_5b335273dee29.post_count = "4";
+block_td_uid_2_5b335273dee29.found_posts = "2981";
+block_td_uid_2_5b335273dee29.header_color = "";
+block_td_uid_2_5b335273dee29.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5b335273dee29.max_num_pages = "746";
+tdBlocksArray.push(block_td_uid_2_5b335273dee29);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_3_5b335273e62e3" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="" href="https://gundigest.com/reviews">All</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_4_5b335273e644a" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15786" href="https://gundigest.com/reviews/accessories-reviews">Accessories</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_5_5b335273e6565" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15787" href="https://gundigest.com/reviews/handguns-reviews">Handguns</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_6_5b335273e6678" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15788" href="https://gundigest.com/reviews/military-firearms-reviews">Military Firearms</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_7_5b335273e67a6" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15789" href="https://gundigest.com/reviews/muzzleloaders-reviews">Muzzleloaders</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_8_5b335273e68df" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15790" href="https://gundigest.com/reviews/optics-reviews">Optics</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_9_5b335273e69e8" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15791" href="https://gundigest.com/reviews/rifles-reviews">Rifles</a><a class="mega-menu-sub-cat-td_uid_2_5b335273dee29" id="td_uid_10_5b335273e6afd" data-td_block_id="td_uid_2_5b335273dee29" data-td_filter_value="15792" href="https://gundigest.com/reviews/shotguns">Shotguns</a></div></div><div id="td_uid_2_5b335273dee29" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" class="td-image-wrap" title="4 New Range Bag Essentials For 2018"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Range-Bag-Feat-2" title="4 New Range Bag Essentials For 2018"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" title="4 New Range Bag Essentials For 2018">4 New Range Bag Essentials For 2018</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/reviews/rifles-reviews/gun-review-browning-x-bolt-pro-proves-no-lightweight" rel="bookmark" class="td-image-wrap" title="Gun Review: Browning’s X-Bolt Pro Proves No Lightweight"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/x-bolt-pro-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/x-bolt-pro-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/x-bolt-pro-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="x-bolt-pro-feat" title="Gun Review: Browning’s X-Bolt Pro Proves No Lightweight"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/reviews/rifles-reviews/gun-review-browning-x-bolt-pro-proves-no-lightweight" rel="bookmark" title="Gun Review: Browning’s X-Bolt Pro Proves No Lightweight">Gun Review: Browning’s X-Bolt Pro Proves No Lightweight</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/article/gun-review-dead-accurate-rock-rock-river-arms-bt-3" rel="bookmark" class="td-image-wrap" title="Gun Review: Dead Accurate Rock River Arms’ BT-3"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/BT-3_Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/BT-3_Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/BT-3_Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="BT-3_Feat" title="Gun Review: Dead Accurate Rock River Arms’ BT-3"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/article/gun-review-dead-accurate-rock-rock-river-arms-bt-3" rel="bookmark" title="Gun Review: Dead Accurate Rock River Arms’ BT-3">Gun Review: Dead Accurate Rock River Arms’ BT-3</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/reviews/shotguns/new-gun-citadels-wicked-rs-s1-shotgun" rel="bookmark" class="td-image-wrap" title="New Gun: Citadel’s Wicked RS-S1 Shotgun"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/RSS1-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/RSS1-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/RSS1-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="RSS1-feat" title="New Gun: Citadel’s Wicked RS-S1 Shotgun"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/reviews/shotguns/new-gun-citadels-wicked-rs-s1-shotgun" rel="bookmark" title="New Gun: Citadel’s Wicked RS-S1 Shotgun">New Gun: Citadel’s Wicked RS-S1 Shotgun</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_5b335273dee29" data-td_block_id="td_uid_2_5b335273dee29"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_2_5b335273dee29" data-td_block_id="td_uid_2_5b335273dee29"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-227872"><a href="https://gundigest.com/handguns">Handguns</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_11_5b335273e9cf0_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_11_5b335273e9cf0"><script>var block_td_uid_11_5b335273e9cf0 = new tdBlock();
+block_td_uid_11_5b335273e9cf0.id = "td_uid_11_5b335273e9cf0";
+block_td_uid_11_5b335273e9cf0.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15907","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_11_5b335273e9cf0_rand","tdc_css_class":"td_uid_11_5b335273e9cf0_rand","tdc_css_class_style":"td_uid_11_5b335273e9cf0_rand_style"}';
+block_td_uid_11_5b335273e9cf0.td_column_number = "3";
+block_td_uid_11_5b335273e9cf0.block_type = "td_block_mega_menu";
+block_td_uid_11_5b335273e9cf0.post_count = "4";
+block_td_uid_11_5b335273e9cf0.found_posts = "1425";
+block_td_uid_11_5b335273e9cf0.header_color = "";
+block_td_uid_11_5b335273e9cf0.ajax_pagination_infinite_stop = "";
+block_td_uid_11_5b335273e9cf0.max_num_pages = "357";
+tdBlocksArray.push(block_td_uid_11_5b335273e9cf0);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_11_5b335273e9cf0" id="td_uid_12_5b335273ede6a" data-td_block_id="td_uid_11_5b335273e9cf0" data-td_filter_value="" href="https://gundigest.com/handguns">All</a><a class="mega-menu-sub-cat-td_uid_11_5b335273e9cf0" id="td_uid_13_5b335273edf82" data-td_block_id="td_uid_11_5b335273e9cf0" data-td_filter_value="15776" href="https://gundigest.com/handguns/concealed-carry">Concealed Carry</a><a class="mega-menu-sub-cat-td_uid_11_5b335273e9cf0" id="td_uid_14_5b335273ee088" data-td_block_id="td_uid_11_5b335273e9cf0" data-td_filter_value="15909" href="https://gundigest.com/handguns/hunting-handguns">Hunting</a><a class="mega-menu-sub-cat-td_uid_11_5b335273e9cf0" id="td_uid_15_5b335273ee19c" data-td_block_id="td_uid_11_5b335273e9cf0" data-td_filter_value="15911" href="https://gundigest.com/handguns/personal-defense">Personal Defense</a></div></div><div id="td_uid_11_5b335273e9cf0" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/handguns/concealed-carry/6-hot-micro-9mm-handguns-for-everyday-carry" rel="bookmark" class="td-image-wrap" title="6 Hot Micro 9mm Handguns For Everyday Carry"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Micro-9mm-Glock-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Micro-9mm-Glock-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Micro-9mm-Glock-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Micro-9mm-Glock" title="6 Hot Micro 9mm Handguns For Everyday Carry"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/handguns/concealed-carry/6-hot-micro-9mm-handguns-for-everyday-carry" rel="bookmark" title="6 Hot Micro 9mm Handguns For Everyday Carry">6 Hot Micro 9mm Handguns For Everyday Carry</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/article/new-gear-alien-gear-shapeshift-shoulder-holster" rel="bookmark" class="td-image-wrap" title="New Gear: Alien Gear ShapeShift Shoulder Holster"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ShapeShift-Shoulder-Holster-Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ShapeShift-Shoulder-Holster-Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ShapeShift-Shoulder-Holster-Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="ShapeShift-Shoulder-Holster-Feat" title="New Gear: Alien Gear ShapeShift Shoulder Holster"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/article/new-gear-alien-gear-shapeshift-shoulder-holster" rel="bookmark" title="New Gear: Alien Gear ShapeShift Shoulder Holster">New Gear: Alien Gear ShapeShift Shoulder Holster</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-brief-americas-new-favorite-9mm-luger" rel="bookmark" class="td-image-wrap" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="9mm-feat" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-brief-americas-new-favorite-9mm-luger" rel="bookmark" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger">Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" class="td-image-wrap" title="4 New Range Bag Essentials For 2018"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Range-Bag-Feat-2" title="4 New Range Bag Essentials For 2018"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" title="4 New Range Bag Essentials For 2018">4 New Range Bag Essentials For 2018</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_11_5b335273e9cf0" data-td_block_id="td_uid_11_5b335273e9cf0"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_11_5b335273e9cf0" data-td_block_id="td_uid_11_5b335273e9cf0"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-227873"><a href="https://gundigest.com/rifles">Rifles</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_16_5b335273f1309_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_16_5b335273f1309"><script>var block_td_uid_16_5b335273f1309 = new tdBlock();
+block_td_uid_16_5b335273f1309.id = "td_uid_16_5b335273f1309";
+block_td_uid_16_5b335273f1309.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15804","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_16_5b335273f1309_rand","tdc_css_class":"td_uid_16_5b335273f1309_rand","tdc_css_class_style":"td_uid_16_5b335273f1309_rand_style"}';
+block_td_uid_16_5b335273f1309.td_column_number = "3";
+block_td_uid_16_5b335273f1309.block_type = "td_block_mega_menu";
+block_td_uid_16_5b335273f1309.post_count = "4";
+block_td_uid_16_5b335273f1309.found_posts = "448";
+block_td_uid_16_5b335273f1309.header_color = "";
+block_td_uid_16_5b335273f1309.ajax_pagination_infinite_stop = "";
+block_td_uid_16_5b335273f1309.max_num_pages = "112";
+tdBlocksArray.push(block_td_uid_16_5b335273f1309);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_16_5b335273f1309" id="td_uid_17_5b335274005e1" data-td_block_id="td_uid_16_5b335273f1309" data-td_filter_value="" href="https://gundigest.com/rifles">All</a><a class="mega-menu-sub-cat-td_uid_16_5b335273f1309" id="td_uid_18_5b3352740070c" data-td_block_id="td_uid_16_5b335273f1309" data-td_filter_value="15912" href="https://gundigest.com/rifles/ars-rifles">ARs</a><a class="mega-menu-sub-cat-td_uid_16_5b335273f1309" id="td_uid_19_5b33527400829" data-td_block_id="td_uid_16_5b335273f1309" data-td_filter_value="15910" href="https://gundigest.com/rifles/hunting-rifles">Hunting</a><a class="mega-menu-sub-cat-td_uid_16_5b335273f1309" id="td_uid_20_5b3352740092d" data-td_block_id="td_uid_16_5b335273f1309" data-td_filter_value="15917" href="https://gundigest.com/rifles/tactical-rifles">Tactical</a></div></div><div id="td_uid_16_5b335273f1309" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/rifles/ars-rifles/tips-for-getting-the-best-ar-15-for-your-buck" rel="bookmark" class="td-image-wrap" title="Tips For Getting The Best AR-15 For Your Buck"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Best-AR-15-Feat-1-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Best-AR-15-Feat-1-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Best-AR-15-Feat-1-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Best-AR-15-Feat" title="Tips For Getting The Best AR-15 For Your Buck"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/rifles/ars-rifles/tips-for-getting-the-best-ar-15-for-your-buck" rel="bookmark" title="Tips For Getting The Best AR-15 For Your Buck">Tips For Getting The Best AR-15 For Your Buck</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/rifles/ars-rifles/5-affordable-ar-15-options-that-will-get-you-on-target" rel="bookmark" class="td-image-wrap" title="5 Affordable AR-15 Options That Will Get You On Target"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Affordable-AR-15-feat-new-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Affordable-AR-15-feat-new-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Affordable-AR-15-feat-new-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Affordable-AR-15-feat-new" title="5 Affordable AR-15 Options That Will Get You On Target"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/rifles/ars-rifles/5-affordable-ar-15-options-that-will-get-you-on-target" rel="bookmark" title="5 Affordable AR-15 Options That Will Get You On Target">5 Affordable AR-15 Options That Will Get You On Target</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" class="td-image-wrap" title="4 New Range Bag Essentials For 2018"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Range-Bag-Feat-2" title="4 New Range Bag Essentials For 2018"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" title="4 New Range Bag Essentials For 2018">4 New Range Bag Essentials For 2018</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/article/why-an-ar-15-for-home-defense-is-the-best-choice" rel="bookmark" class="td-image-wrap" title="Why An AR-15 For Home Defense Is The Best Choice"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/AR-15-For-Home-Defense-Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/AR-15-For-Home-Defense-Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/AR-15-For-Home-Defense-Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="AR-15-For-Home-Defense-Feat" title="Why An AR-15 For Home Defense Is The Best Choice"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/article/why-an-ar-15-for-home-defense-is-the-best-choice" rel="bookmark" title="Why An AR-15 For Home Defense Is The Best Choice">Why An AR-15 For Home Defense Is The Best Choice</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_16_5b335273f1309" data-td_block_id="td_uid_16_5b335273f1309"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_16_5b335273f1309" data-td_block_id="td_uid_16_5b335273f1309"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-227874"><a href="https://gundigest.com/gear-ammo">Gear &amp; Ammo</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_21_5b3352740373b_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_21_5b3352740373b"><script>var block_td_uid_21_5b3352740373b = new tdBlock();
+block_td_uid_21_5b3352740373b.id = "td_uid_21_5b3352740373b";
+block_td_uid_21_5b3352740373b.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15916","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_21_5b3352740373b_rand","tdc_css_class":"td_uid_21_5b3352740373b_rand","tdc_css_class_style":"td_uid_21_5b3352740373b_rand_style"}';
+block_td_uid_21_5b3352740373b.td_column_number = "3";
+block_td_uid_21_5b3352740373b.block_type = "td_block_mega_menu";
+block_td_uid_21_5b3352740373b.post_count = "4";
+block_td_uid_21_5b3352740373b.found_posts = "898";
+block_td_uid_21_5b3352740373b.header_color = "";
+block_td_uid_21_5b3352740373b.ajax_pagination_infinite_stop = "";
+block_td_uid_21_5b3352740373b.max_num_pages = "225";
+tdBlocksArray.push(block_td_uid_21_5b3352740373b);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_22_5b33527407568" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="" href="https://gundigest.com/gear-ammo">All</a><a class="mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_23_5b335274076c4" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="15840" href="https://gundigest.com/gear-ammo/accessories">Accessories</a><a class="mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_24_5b3352740780a" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="15820" href="https://gundigest.com/gear-ammo/ammunition">Ammunition</a><a class="mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_25_5b3352740790d" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="15842" href="https://gundigest.com/gear-ammo/optics">Optics</a><a class="mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_26_5b33527407a1d" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="15783" href="https://gundigest.com/gear-ammo/reloading">Reloading</a><a class="mega-menu-sub-cat-td_uid_21_5b3352740373b" id="td_uid_27_5b33527407b18" data-td_block_id="td_uid_21_5b3352740373b" data-td_filter_value="15913" href="https://gundigest.com/gear-ammo/suppressors">Suppressors</a></div></div><div id="td_uid_21_5b3352740373b" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-brief-americas-new-favorite-9mm-luger" rel="bookmark" class="td-image-wrap" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/9mm-feat-1-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="9mm-feat" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-brief-americas-new-favorite-9mm-luger" rel="bookmark" title="Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger">Ammo Brief: America’s ‘New’ Favorite’ — 9mm Luger</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" class="td-image-wrap" title="4 New Range Bag Essentials For 2018"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Range-Bag-Feat-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Range-Bag-Feat-2" title="4 New Range Bag Essentials For 2018"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/accessories/4-new-range-bag-essentials-for-2018" rel="bookmark" title="4 New Range Bag Essentials For 2018">4 New Range Bag Essentials For 2018</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/optics/new-optic-aimpoint-acro-p-1" rel="bookmark" class="td-image-wrap" title="New Optic: Aimpoint ACRO P-1"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ACRO-P-1-Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ACRO-P-1-Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/ACRO-P-1-Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="ACRO-P-1-Feat" title="New Optic: Aimpoint ACRO P-1"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/optics/new-optic-aimpoint-acro-p-1" rel="bookmark" title="New Optic: Aimpoint ACRO P-1">New Optic: Aimpoint ACRO P-1</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/accessories/holster-making-the-rounds-with-galcos-wheelgunner" rel="bookmark" class="td-image-wrap" title="Holster: Making The Rounds With Galco’s Wheelgunner"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Holster-first-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Holster-first-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Holster-first-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="A packing holster for a handgun is one you use in a general-purpose manner. The high-riding, versatile and ambidextrous Glaco Wheelgunner is one of the best for a revolver." title="Holster: Making The Rounds With Galco’s Wheelgunner"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/accessories/holster-making-the-rounds-with-galcos-wheelgunner" rel="bookmark" title="Holster: Making The Rounds With Galco’s Wheelgunner">Holster: Making The Rounds With Galco’s Wheelgunner</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_5b3352740373b" data-td_block_id="td_uid_21_5b3352740373b"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_21_5b3352740373b" data-td_block_id="td_uid_21_5b3352740373b"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-264200"><a href="https://gundigest.com/concealed-carry">Concealed Carry</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-227875"><a href="https://gundigest.com/gun-videos">Videos</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_28_5b3352740a940_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_28_5b3352740a940"><script>var block_td_uid_28_5b3352740a940 = new tdBlock();
+block_td_uid_28_5b3352740a940.id = "td_uid_28_5b3352740a940";
+block_td_uid_28_5b3352740a940.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15895","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_28_5b3352740a940_rand","tdc_css_class":"td_uid_28_5b3352740a940_rand","tdc_css_class_style":"td_uid_28_5b3352740a940_rand_style"}';
+block_td_uid_28_5b3352740a940.td_column_number = "3";
+block_td_uid_28_5b3352740a940.block_type = "td_block_mega_menu";
+block_td_uid_28_5b3352740a940.post_count = "4";
+block_td_uid_28_5b3352740a940.found_posts = "381";
+block_td_uid_28_5b3352740a940.header_color = "";
+block_td_uid_28_5b3352740a940.ajax_pagination_infinite_stop = "";
+block_td_uid_28_5b3352740a940.max_num_pages = "96";
+tdBlocksArray.push(block_td_uid_28_5b3352740a940);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_28_5b3352740a940" id="td_uid_29_5b3352740dbf6" data-td_block_id="td_uid_28_5b3352740a940" data-td_filter_value="" href="https://gundigest.com/gun-videos">All</a><a class="mega-menu-sub-cat-td_uid_28_5b3352740a940" id="td_uid_30_5b3352740dd11" data-td_block_id="td_uid_28_5b3352740a940" data-td_filter_value="15781" href="https://gundigest.com/gun-videos/gundigest-tv">GunDigest TV</a><a class="mega-menu-sub-cat-td_uid_28_5b3352740a940" id="td_uid_31_5b3352740de24" data-td_block_id="td_uid_28_5b3352740a940" data-td_filter_value="15875" href="https://gundigest.com/gun-videos/modern-shooter">Modern Shooter</a></div></div><div id="td_uid_28_5b3352740a940" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-gaining-an-edge-in-competitive-shooting" rel="bookmark" class="td-image-wrap" title="Modern Shooter: Gaining An Edge In Competitive Shooting"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-129-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-129-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-129-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="264667" title="Modern Shooter: Gaining An Edge In Competitive Shooting"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-gaining-an-edge-in-competitive-shooting" rel="bookmark" title="Modern Shooter: Gaining An Edge In Competitive Shooting">Modern Shooter: Gaining An Edge In Competitive Shooting</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-dave-millers-secrets-to-breaking-more-clay" rel="bookmark" class="td-image-wrap" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="264575" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-dave-millers-secrets-to-breaking-more-clay" rel="bookmark" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay">Modern Shooter: Dave Miller’s Secrets To Breaking More Clay</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gun-videos/gundigest-tv/video-up-close-with-the-colt-combat-elite-family" rel="bookmark" class="td-image-wrap" title="Video: Up Close With The Colt Combat Elite Family"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-127-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-127-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-127-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="264551" title="Video: Up Close With The Colt Combat Elite Family"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gun-videos/gundigest-tv/video-up-close-with-the-colt-combat-elite-family" rel="bookmark" title="Video: Up Close With The Colt Combat Elite Family">Video: Up Close With The Colt Combat Elite Family</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gun-videos/gundigest-tv/video-the-extreme-adaptability-of-the-agile-gun-safe" rel="bookmark" class="td-image-wrap" title="Video: The Extreme Adaptability Of The Agile Gun Safe"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-126-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-126-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-126-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="264367" title="Video: The Extreme Adaptability Of The Agile Gun Safe"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gun-videos/gundigest-tv/video-the-extreme-adaptability-of-the-agile-gun-safe" rel="bookmark" title="Video: The Extreme Adaptability Of The Agile Gun Safe">Video: The Extreme Adaptability Of The Agile Gun Safe</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_28_5b3352740a940" data-td_block_id="td_uid_28_5b3352740a940"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_28_5b3352740a940" data-td_block_id="td_uid_28_5b3352740a940"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-224874"><a href="https://gundigest.com/shop">Shop</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_32_5b33527410c4e_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_32_5b33527410c4e"><script>var block_td_uid_32_5b33527410c4e = new tdBlock();
+block_td_uid_32_5b33527410c4e.id = "td_uid_32_5b33527410c4e";
+block_td_uid_32_5b33527410c4e.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15793","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_32_5b33527410c4e_rand","tdc_css_class":"td_uid_32_5b33527410c4e_rand","tdc_css_class_style":"td_uid_32_5b33527410c4e_rand_style"}';
+block_td_uid_32_5b33527410c4e.td_column_number = "3";
+block_td_uid_32_5b33527410c4e.block_type = "td_block_mega_menu";
+block_td_uid_32_5b33527410c4e.post_count = "4";
+block_td_uid_32_5b33527410c4e.found_posts = "517";
+block_td_uid_32_5b33527410c4e.header_color = "";
+block_td_uid_32_5b33527410c4e.ajax_pagination_infinite_stop = "";
+block_td_uid_32_5b33527410c4e.max_num_pages = "130";
+tdBlocksArray.push(block_td_uid_32_5b33527410c4e);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_32_5b33527410c4e" id="td_uid_33_5b33527414100" data-td_block_id="td_uid_32_5b33527410c4e" data-td_filter_value="" href="https://gundigest.com/shop">All</a><a class="mega-menu-sub-cat-td_uid_32_5b33527410c4e" id="td_uid_34_5b33527414236" data-td_block_id="td_uid_32_5b33527410c4e" data-td_filter_value="15850" href="https://gundigest.com/shop/books">Books</a><a class="mega-menu-sub-cat-td_uid_32_5b33527410c4e" id="td_uid_35_5b33527414341" data-td_block_id="td_uid_32_5b33527410c4e" data-td_filter_value="15857" href="https://gundigest.com/shop/magazines">Magazines</a></div></div><div id="td_uid_32_5b33527410c4e" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/reviews/rifles-reviews/gun-review-the-big-shot-wilson-combats-458-hamr" rel="bookmark" class="td-image-wrap" title="Gun Review: The Big Shot — Wilson Combat’s .458 HAM’R"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/458-HAMR-Ultimate-Hunter-Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/458-HAMR-Ultimate-Hunter-Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/458-HAMR-Ultimate-Hunter-Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="458-HAM’R-Ultimate-Hunter-Feat" title="Gun Review: The Big Shot — Wilson Combat’s .458 HAM’R"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/reviews/rifles-reviews/gun-review-the-big-shot-wilson-combats-458-hamr" rel="bookmark" title="Gun Review: The Big Shot — Wilson Combat’s .458 HAM’R">Gun Review: The Big Shot — Wilson Combat’s .458 HAM’R</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/ammunition/the-6-5-creedmoor-continues-to-hit-the-mark" rel="bookmark" class="td-image-wrap" title="The Rise Of The 6.5 Creedmoor"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/6-5-Creedmoor-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/6-5-Creedmoor-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/6-5-Creedmoor-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="6-5-Creedmoor-feat" title="The Rise Of The 6.5 Creedmoor"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/ammunition/the-6-5-creedmoor-continues-to-hit-the-mark" rel="bookmark" title="The Rise Of The 6.5 Creedmoor">The Rise Of The 6.5 Creedmoor</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/article/new-22-rimfire-guns-shooters" rel="bookmark" class="td-image-wrap" title="10 Great New .22 Rimfire Guns To Satisfy Any Shooter"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/rimfire-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/rimfire-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/rimfire-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="rimfire-feat" title="10 Great New .22 Rimfire Guns To Satisfy Any Shooter"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/article/new-22-rimfire-guns-shooters" rel="bookmark" title="10 Great New .22 Rimfire Guns To Satisfy Any Shooter">10 Great New .22 Rimfire Guns To Satisfy Any Shooter</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-case-shape-matter" rel="bookmark" class="td-image-wrap" title="Ammo: Does Case Shape Really Matter?"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/PO-Ackley-Cases-kd-bullets-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/PO-Ackley-Cases-kd-bullets-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/PO-Ackley-Cases-kd-bullets-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="PO-Ackley-Cases-kd-bullets" title="Ammo: Does Case Shape Really Matter?"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gear-ammo/ammunition/ammo-case-shape-matter" rel="bookmark" title="Ammo: Does Case Shape Really Matter?">Ammo: Does Case Shape Really Matter?</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_32_5b33527410c4e" data-td_block_id="td_uid_32_5b33527410c4e"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_32_5b33527410c4e" data-td_block_id="td_uid_32_5b33527410c4e"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-244311"><a href="https://gundigest.com/free">Free</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-224875"><a href="https://gundigest.com/more">More</a><ul class="sub-menu"><li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_36_5b33527417407_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_36_5b33527417407"><script>var block_td_uid_36_5b33527417407 = new tdBlock();
+block_td_uid_36_5b33527417407.id = "td_uid_36_5b33527417407";
+block_td_uid_36_5b33527417407.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"15779","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_36_5b33527417407_rand","tdc_css_class":"td_uid_36_5b33527417407_rand","tdc_css_class_style":"td_uid_36_5b33527417407_rand_style"}';
+block_td_uid_36_5b33527417407.td_column_number = "3";
+block_td_uid_36_5b33527417407.block_type = "td_block_mega_menu";
+block_td_uid_36_5b33527417407.post_count = "4";
+block_td_uid_36_5b33527417407.found_posts = "1972";
+block_td_uid_36_5b33527417407.header_color = "";
+block_td_uid_36_5b33527417407.ajax_pagination_infinite_stop = "";
+block_td_uid_36_5b33527417407.max_num_pages = "493";
+tdBlocksArray.push(block_td_uid_36_5b33527417407);</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_37_5b3352741bf5a" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="" href="https://gundigest.com/more">All</a><a class="mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_38_5b3352741c089" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="15774" href="https://gundigest.com/more/classic-guns">Classic Guns</a><a class="mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_39_5b3352741c1a6" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="15904" href="https://gundigest.com/more/gun-values">Gun Values</a><a class="mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_40_5b3352741c2a7" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="15777" href="https://gundigest.com/more/how-to">How To</a><a class="mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_41_5b3352741c3a1" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="15778" href="https://gundigest.com/more/how-to/gunsmithing">Gunsmithing</a><a class="mega-menu-sub-cat-td_uid_36_5b33527417407" id="td_uid_42_5b3352741c4f0" data-td_block_id="td_uid_36_5b33527417407" data-td_filter_value="15918" href="https://gundigest.com/more/how-to/training">Training</a></div></div><div id="td_uid_36_5b33527417407" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/rifles/ars-rifles/ar-basics-issues-that-mimic-ar-gas-system-problems" rel="bookmark" class="td-image-wrap" title="AR Basics: Issues That Mimic AR Gas System Problems"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/drift-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/drift-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/drift-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="drift-feat" title="AR Basics: Issues That Mimic AR Gas System Problems"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/rifles/ars-rifles/ar-basics-issues-that-mimic-ar-gas-system-problems" rel="bookmark" title="AR Basics: Issues That Mimic AR Gas System Problems">AR Basics: Issues That Mimic AR Gas System Problems</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/handguns/handguns-how-much-lubrication-do-i-need" rel="bookmark" class="td-image-wrap" title="Handguns: How Much Lubrication Do I Need?"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Handgun-Lubrication-Feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Handgun-Lubrication-Feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/Handgun-Lubrication-Feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Handgun-Lubrication-Feat" title="Handguns: How Much Lubrication Do I Need?"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/handguns/handguns-how-much-lubrication-do-i-need" rel="bookmark" title="Handguns: How Much Lubrication Do I Need?">Handguns: How Much Lubrication Do I Need?</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/rifles/ars-rifles/ar-basics-initial-diagnosis-of-ar-gas-system-issues" rel="bookmark" class="td-image-wrap" title="AR Basics: Initial Diagnosis Of AR Gas System Issues"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gas-feat-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gas-feat-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gas-feat-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="gas-feat" title="AR Basics: Initial Diagnosis Of AR Gas System Issues"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/rifles/ars-rifles/ar-basics-initial-diagnosis-of-ar-gas-system-issues" rel="bookmark" title="AR Basics: Initial Diagnosis Of AR Gas System Issues">AR Basics: Initial Diagnosis Of AR Gas System Issues</a></h3></div></div></div><div class="td-mega-span"><div class="td_module_mega_menu td_mod_mega_menu"><div class="td-module-image"><div class="td-module-thumb"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-dave-millers-secrets-to-breaking-more-clay" rel="bookmark" class="td-image-wrap" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay"><img width="218" height="150" class="entry-thumb" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-218x150.jpg" srcset="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-218x150.jpg 218w, https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/maxresdefault-128-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="264575" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay"></a></div></div><div class="item-details"><h3 class="entry-title td-module-title"><a href="https://gundigest.com/gun-videos/modern-shooter/modern-shooter-dave-millers-secrets-to-breaking-more-clay" rel="bookmark" title="Modern Shooter: Dave Miller’s Secrets To Breaking More Clay">Modern Shooter: Dave Miller’s Secrets To Breaking More Clay</a></h3></div></div></div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_36_5b33527417407" data-td_block_id="td_uid_36_5b33527417407"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_36_5b33527417407" data-td_block_id="td_uid_36_5b33527417407"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> </div></div></li></ul></li></ul></div></div><div class="header-search-wrap"><div class="td-search-btns-wrap"> <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a> <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a></div><div class="td-drop-down-search" aria-labelledby="td-header-search-button"><form method="get" class="td-search-form" action="https://gundigest.com/"><div role="search" class="td-head-form-search-wrap"> <input id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search"></div></form><div id="td-aj-search"></div></div></div></div></div></div></div><div class="td-main-content-wrap td-container-wrap"><div class="td-container tdc-content-wrap "><div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://gundigest.com/">Home</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Privacy</span></div></div><div class="td-pb-row"><div class="td-pb-span12 td-main-content" role="main"><div class="td-page-header"><h1 class="entry-title td-page-title"> <span>Privacy</span></h1></div><div class="td-page-content"><p><strong>Privacy</strong></p><p><strong>Privacy Policy</strong></p><p><a href="http://www.gundigest.com/termsofuse">Click here to view our Terms of Use Policy, Updated November 20<sup>th</sup>, 2017</a></p><p><strong>SUMMARY</strong><br> This web site is owned by GUN DIGEST MEDIA (“GUN DIGEST MEDIA”). At GUN DIGEST MEDIA, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.</p><p><strong>GENERAL CONTACT INFORMATION</strong><br> Our postal address is:</p><p>GUN DIGEST MEDIA</p><p>PO BOX 12219</p><p>Zephyr Cove, NV 89448</p><p>To ensure that your communications are properly routed, we ask that you identify the GUN DIGEST MEDIA products or services (web site, magazine, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).</p><p><strong>INFORMATION WE COLLECT</strong><br> Information about your computer hardware and software<br> For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form.</p><p>We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages.</p><p>We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies.</p><p>Email address, postal address, telephone number</p><p>If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site.<br> If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services.</p><p>Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.</p><p>Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.</p><p><strong>HOW WE MAY SHARE YOUR INFORMATION</strong><br> We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.</p><p>California Privacy Rights<br> Pursuant to California Civil Code Section 1798.83, GUN DIGEST MEDIA customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to GUN DIGEST MEDIA Attention: Privacy, PO BOX 12219 Zephyr Cove, NV 89448. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the GUN DIGEST MEDIA products or services (website, magazine, etc.) you have used.</p><p><strong>OPT OUT PROCEDURES</strong><br> If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ed9d9f849b8c8e94ad8a988389848a889e99c38e8280c3">[email&nbsp;protected]</a> To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the GUN DIGEST MEDIA products or services (web site, magazine, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all GUN DIGEST MEDIA emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.</p><p>Note that, although you can opt not to receive promotional emails, GUN DIGEST MEDIA retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).</p><p>If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: GUN DIGEST MEDIA, Attention: List Manager, PO Box 12219 Zephyr Cove, NV 89448 or by email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="21515348574042586146544f4548464452550f424e4c0f">[email&nbsp;protected]</a> To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the GUN DIGEST MEDIA products or services (web site, magazine, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all GUN DIGEST MEDIA contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.</p><p>If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: GUN DIGEST MEDIA, Attention: List Manager, PO Box 12219 Zephyr Cove, NV 89448 &nbsp;or by email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cfbfbda6b9aeacb68fa8baa1aba6a8aabcbbe1aca0a2e1">[email&nbsp;protected]</a> To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the GUN DIGEST MEDIA products or services (web site, magazine, etc.) you have used. Please allow a reasonable time for us to process your request.</p><p><strong>AD SERVERS</strong><br> To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:</p><p>Google Inc. http://www.google.com/intl/en/privacy.html</p><p><strong>ANALYTICS</strong><br> To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:</p><p>Google Inc. http://www.google.com/intl/en/privacy.html<br> <strong>THIRD PARTY ADVERTISING TECHNOLOGIES</strong><br> We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.</p><p><strong>REMARKETING</strong><br> GUN DIGEST MEDIA Media, Inc. (“GUN DIGEST MEDIA”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.</p><p>The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.</p><p>Google has additional information available about their&nbsp;<a href="https://support.google.com/adwordspolicy/answer/143465?rd=3">Remarketing Privacy Guidelines</a>&nbsp;and&nbsp;<a href="https://support.google.com/adwords/answer/2549116?hl=en&amp;from=178363&amp;rd=1">Policies</a></p><p><strong>OPT-OUT</strong></p><p>You may opt out of the DoubleClick cookie by visiting the Google&nbsp;<a href="https://www.google.com/policies/technologies/ads/">advertising opt-out page</a>&nbsp;or you may opt out of Google Analytics by visiting the&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">Google Analytics opt-out page</a>.</p><p><strong>DOUBLECLICK’S REMARKETING PIXELS</strong><br> You may opt out of DoubleClick’s remarketing pixels, by visiting the&nbsp;<a href="https://www.google.com/settings/ads/onweb#display_optout">DoubleClick opt-out page</a>&nbsp; or the&nbsp;<a href="https://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a>.</p><p><strong>INFORMATION ACCESS</strong><br> Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.</p><p>You can access this information by sending your request to: GUN DIGEST MEDIA, Attention: List Manager, PO Box 12219 Zephyr Cove, NV 89448 or by email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="70000219061113093017051e1419171503045e131f1d5e">[email&nbsp;protected]</a> To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the GUN DIGEST MEDIA products or services (website, magazine, etc.) you have used.</p><p>Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: GUN DIGEST MEDIA, Attention: List Manager, PO Box 12219 Zephyr Cove, NV 89448 &nbsp;or by email to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="70000219061113093017051e1419171503045e131f1d5e">[email&nbsp;protected]</a> To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the GUN DIGEST MEDIA products or services (website, magazine, etc.) you have used.</p><p><strong>SECURITY</strong><br> We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.</p><p><strong>CHANGES TO THIS POLICY</strong><br> From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.</p><p>If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4d202a2221292f283f2a283f0d3925286029202c63223f2a">[email&nbsp;protected]</a>, or state or local chapters of the Better Business Bureau.</p><p>&nbsp;</p></div></div></div> </div> </div>   <div class="gd-footer-bar"><div class="gd-slot-one"><h4>Get The</h4><h4><strong>Magazine</strong></h4><p>Get 16 Issues a year of the country's best firearms writing.</p> <a href="https://gundigest.com/subscribe-gun-digest-magazine" onclick="javascript: ga('send', 'pageview', '/internal/subscribe-zine-footer/subscribe-gun-digest-magazine');">Subscribe Now</a></div><div class="gd-slot-two"><h4>Get The</h4><h4><strong>Newsletter</strong></h4><p>Get the latest news and reviews from Gundigest.com.</p><form action="/wp-content/themes/gun-digest/nl_subscribe.php" method="POST" id="newsletter-footer" onsubmit="return onSubmit()"> <input type="hidden" name="thx" value="/thank-you-for-subscribing-2?src=f"> <input type="hidden" name="err" value="/newsletter-error"><div id="error">There has been an error with your submission.</div> <input id="gd-footer-email" type="email" name="email" placeholder="Enter your email"> <input type="submit" value="Sign Up"><div class="g-recaptcha" data-theme="dark" data-sitekey="6LdYwR8UAAAAABLNrx0I7RIk5Ar1kEBZhMswyqoE"></div></form></div><div class="gd-slot-three"><h4>Get The</h4><h4><strong>Book</strong></h4><p>Get the 72nd edition of the World's Greatest Gun Book.</p> <a href="https://gundigeststore.com/product/gun-digest-2018-72nd-edition-2/?utm_source=gdsite&amp;utm_campaign=2018Book&amp;utm_content=footer">Buy Now</a></div></div> <div class="td-footer-wrapper td-container-wrap td-footer-template-4 "><div class="td-container"><div class="td-pb-row"><div class="td-pb-span12"><div class="td-a-rec td-a-rec-id-footer_top  td-rec-hide-on-tp td-rec-hide-on-p td_uid_43_5b335274212c4_rand td_block_template_1"><div id="div-gpt-ad-1496816855619-2"> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1496816855619-2'); });</script> </div></div></div></div><div class="td-pb-row"><div class="td-pb-span12"><div class="td-footer-info"><div class="footer-logo-wrap"><a href="https://gundigest.com/"><img class="td-retina-data" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/uploads/gd_logo_footer_main.png" data-retina="/wp-content/uploads/gd_logo_footer_main@2x.png" alt="Gun Digest" title="Gun Digest" width=""></a></div><div class="footer-text-wrap"><div class="footer-col"> <span>Information</span> <a href="/about-us">About Us </a> <a href="/contact-us">Contact Us </a></div><div class="footer-col"> <span>Subscriptions</span> <a href="/subscribe-gun-digest-magazine">Subscribe to Gun Digest</a> <a href="https://www.gundigeststore.com/?cid=gdfooter" target="_blank">Gun Digest Store </a><h2><a href="https://gundigest.com/email-preferences">Email Preferences</a></h2></div><div class="footer-col"> <span>More</span> <a href="https://gundigest.com/firearmvalues">Firearm Values</a> <a href="https://gunvalues.gundigest.com">Gun Values By Gun Digest</a> <a href="https://www.gundigeststore.com/gun-digest-assembly-disassembly-book-collection-1" target="_blank">Assembly/Disassembly</a> <a href="/gun-shows">Gun Shows</a> <a href="https://gunshows.gundigestmedia.com" target="_blank">Add a Gun Show</a></div><div class="footer-col"> <span>Business</span> <a href="/advertise">Advertisers</a> <a href="/make-money-gun-digest-affiliate-program">Affiliates</a></div><div class="clearfix"></div><div class="footer-email-wrap">Contact us: <a href="/cdn-cgi/l/email-protection#04676b6a706567704463716a606d636177702a676b69"><span class="__cf_email__" data-cfemail="b6d5d9d8c2d7d5c2f6d1c3d8d2dfd1d3c5c298d5d9db">[email&nbsp;protected]</span></a></div></div><div class="footer-social-wrap td-social-style-2"> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/gundigest" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.instagram.com/gun.digest/" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://pinterest.com/gundigest/" title="Pinterest"> <i class="td-icon-font td-icon-pinterest"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/gunDigest" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.youtube.com/user/GunDigestTV" title="Youtube"> <i class="td-icon-font td-icon-youtube"></i> </a> </span></div></div></div></div></div></div> <div class="td-sub-footer-container"><div class="td-container"><div class="td-pb-row"><div class="td-pb-span7 td-sub-footer-menu"><div class="menu-td-demo-footer-menu-container"><ul id="menu-td-demo-footer-menu" class="td-subfooter-menu"><li id="menu-item-246900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-246900"><a href="https://gundigest.com/termsofuse">Terms of Use</a></li><li id="menu-item-246901" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-246887 current_page_item td-menu-item td-normal-menu menu-item-246901"><a href="https://gundigest.com/privacy">Privacy</a></li></ul></div></div><div class="td-pb-span5 td-sub-footer-copy"> © Copyright <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Gun Digest Media All rights reserved.</div></div></div></div></div> <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/www.fwcommunity.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+var ajax_request = {"ajax_url":"https:\/\/gundigest.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1"></script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-content/themes/fw-twentytwelve/js/navigation.js?ver=1.0"></script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9"></script>
-<script type="text/javascript" src="http://wwwcdn.fwcommunity.com/wp-includes/js/wp-embed.min.js?ver=4.8.2"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/plugins/forms-for-campaign-monitor/forms/views/public/js/app.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.8/vue.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.0.3/vue-resource.min.js"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/gun-digest/js/gun_shows_widget.js"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/gun-digest/js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript">//jQuery(document).ready(function($) {
+                jQuery(document).ready(function ($) {
+                    var count = 0;
+                    var pathname = window.location.pathname; // Returns path only
+                    var url = window.location.href;
+                    var pdf;
 
-<script type="text/javascript">
-if(typeof _satellite !== "undefined"){
-  _satellite.pageBottom();
+                    $("a").each(function () {
+
+
+                        if (($(this).attr('href') !== '#') && ($(this).attr('href') != null)) {
+
+                            var url = $(this).attr('href');
+
+							
+                        }
+
+                    }); //each
+
+
+                });</script> <noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=1874030326167372&ev=PageView&noscript=1&cd[domain]=gundigest.com' alt='facebook_pixel'></noscript><noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=1874030326167372&ev=GeneralEvent&noscript=1&cd[post_type]=page&cd[content_name]=Privacy&cd[post_id]=246887&cd[domain]=gundigest.com' alt='facebook_pixel'></noscript> <script type="text/javascript">var pys_edd_ajax_events = [];</script>  <script type="text/javascript">(function(d,w) {
+w._hsq = w._hsq || [];
+w._hsq.push(["setContentType", "standard-page"]);
+})(document, window);</script>   <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/3386696.js"></script>   <style type="text/css" media="screen">/* custom css theme panel */
+#div-gpt-ad-1497661354030-0{height:250px; width:300px;}
+#div-gpt-ad-1496816855619-2{height:90px; width:728px;}
+.gun_shows_detail{margin-bottom: 10px !important; display: inline-block !important;}
+.cust_search{color: #fff !important; cursor: pointer !important;}
+#empty_space{height:40px;}
+.headingFont{font-size:22px;}
+.abtImg{width:221; height:300;}
+ .td-login-panel-title > img{width:180px;}
+ .oneall_social_login_label{margin-bottom: 3px;}
+ #gun_shows_zip{display: none;}
+ #custIfram{height:0; width:0; display:none;visibility:hidden;}
+
+
+.footer-col h2 {
+  color: #eeeeee;
+  font-family: "Roboto Slab";
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  margin-top: 0;
+
 }
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7c6878bca9","applicationID":"43315454","transactionName":"YwFSYBBQXhdVUkRYWlpLcVcWWF8KG0FRVlA=","queueTime":0,"applicationTime":88,"atts":"T0ZRFlhKTRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+.postInline img{border: 0pt none; margin: 5px 10px;}
+.postInline h2{font-size:15px;}
+.postInline span{ font-weight: bold;}
+.underlineCust{text-decoration: underline;}
+.floatRisghtCust{float: left; margin: 0px 10px 10px 0px;}
+.aligncenterCust{text-align: center;}
+.alsoCheck{width: 300px; height: 200px; border: 1px solid #000; float: right; padding: 20;}
+.alignLeftCust{text-align: left;}
+.listBelow{font-size:15px;}
+.arBarrel{width: 95%; margin: 0 auto;}
+.marginLeft{margin-left: 10px; margin-right: 10px;}
+.suppliesCust{width: 100%; overflow-x: scroll;}
+.mainCheckdiv{width: 300px; height: 200px; border: 1px solid #000; float: right; padding: 20;}
+.taketour{width: 100%; text-align: center; display: block;}
+.survey{text-decoration: none; padding: 10px; margin: 12px 5% 12px 3%; width: 90%; background-color: #8b0e04; color: #ffffff; font-family: Arial, 'Helvetica',sans-serif; font-size: 24px; font-weight: 900; border: 1px #fff solid; display: block; text-align: center;}
+.marginAuto{margin: 0 auto;}
+.fullwidth{width:100%;}
+.postInline img{border: 1px solid black;}
+.marginBottom{margin-bottom: 25px;}
+.hearSneak{text-align: left; font-size: 18px;}
+.findBest{text-align: center; font-size: 18px;}
+.sorry{width: 100%; background: red; border: 1px black; padding-top: 10px; padding-bottom: 10px; color: #fff; text-align: center; font-weight: bold; font-size: 18px;}
+.sorry a{color: #fff;}
+.choose_gun{margin-top: 10px; margin-right: 20px; margin-left: 10px; font-size: 12px; color: #000000; font-family: verdana; background-color: #ffffff;}
+.widthFull{width: 100%;}
+.exclusive_feature{height: 217px; border:0; cellspacing:5; cellpadding:5; width:600; bgcolor:#cccc99;}
+.alignRightCust{text-align: right;}
+.exclusiveFeaturePage{border:0; cellspacing:5; cellpadding:5; width:600; bgcolor:#cccc99;}
+.ultraCarry{text-align: left; width: 496px; height: 435px; border:0; cellpadding:2; cellspacing:2;}
+.weLOve{text-align: left; width: 156px; height: 350px;}
+.youSave{color: #800000;}
+.insideNation{border: 0pt none; margin: 5px 10px;}
+.paddingLeft{padding-left: 30px;}
+.blackColor{color: #000000;}
+.floatRight{float: right;}
+.zeroborder{border: 0pt none;}
+.imgPadding{padding: 5px;}
+.bold{font-weight: bold;}
+.tractical{text-align: left; width: 488px; height: 496px;}
+.digital{text-align: left; width: 156px; height: 350px;}
+.longLine{line-height: 1.714285714; font-size: 1rem;}
+.frreDownup{width: 600px; height: 226px;}
+.wantAtop img {
+  height: 196px;
+}
+.wantAtop_last{width:100%;float:left;}
+.wantAtop > h2 {
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-weight: bold;
+  font-size: 24px;
+}
+.wantAtop {
+  float: left;
+  width: 100%;
+}
+.fontSize{font-size: 13px; color: #000000;font-size: medium;font-family: Arial;}
+.browseHere{margin-top: 5px; width: 300px; margin-right: 5px; margin-left: 5px; font-size: 12px; color: #000000; font-family: verdana; background-color: #ffffff;}</style>  <script>(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://gundigest.com/wp-content/themes/gun-digest/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://gundigest.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();</script> <style>body {
+	background-color:#ffffff;
+}
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before,
+    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
+        background-color: #8c312b;
+    }
+
+    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #8c312b transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #8c312b !important;
+    }
+    
+    
+    .td_block_template_4 .td-related-title .td-cur-simple-item,
+    .td_block_template_3 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title:after {
+        background-color: #8c312b;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #8c312b;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #8c312b !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
+    .td-header-top-menu .td-icon-search:hover,
+    .td-header-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .td_block_template_2 .td-related-title .td-cur-simple-item,
+    .td_block_template_5 .td-related-title .td-cur-simple-item,
+    .td_block_template_6 .td-related-title .td-cur-simple-item,
+    .td_block_template_7 .td-related-title .td-cur-simple-item,
+    .td_block_template_8 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title .td-cur-simple-item,
+    .td_block_template_10 .td-related-title .td-cur-simple-item,
+    .td_block_template_11 .td-related-title .td-cur-simple-item,
+    .td_block_template_12 .td-related-title .td-cur-simple-item,
+    .td_block_template_13 .td-related-title .td-cur-simple-item,
+    .td_block_template_14 .td-related-title .td-cur-simple-item,
+    .td_block_template_15 .td-related-title .td-cur-simple-item,
+    .td_block_template_16 .td-related-title .td-cur-simple-item,
+    .td_block_template_17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .td_outlined_btn {
+        color: #8c312b;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #8c312b !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+    .td_outlined_btn {
+        border-color: #8c312b;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #8c312b !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #8c312b transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+    .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #8c312b;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #8c312b !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #8c312b;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #8c312b;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(140, 49, 43, 0.7);
+    }
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #111111;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #111111;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #111111;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #111111 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+    
+    
+    
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
+        background-color: #8b0e04;
+    }
+
+
+    .td_block_mega_menu .td-next-prev-wrap a:hover {
+        border-color: #8b0e04;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #8b0e04 transparent;
+    }
+
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a {
+        color: #8b0e04;
+    }
+    
+    
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: #222222;
+        background: -moz-linear-gradient(top, #222222 0%, #222222 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, #222222), color-stop(100%, #222222));
+        background: -webkit-linear-gradient(top, #222222 0%, #222222 100%);
+        background: -o-linear-gradient(top, #222222 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, #222222 0%, #222222 100%);
+        background: linear-gradient(to bottom, #222222 0%, #222222 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#222222', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #8b0e04;
+    }
+
+    
+    .mfp-content .td-login-button {
+        background-color: #8b0e04;
+    }
+    
+    .mfp-content .td-login-button {
+        color: #ffffff;
+    }
+    
+    .mfp-content .td-login-button:active,
+    .mfp-content .td-login-button:hover {
+        background-color: #630000;
+    }
+    
+    .mfp-content .td-login-button:active,
+    .mfp-content .td-login-button:hover {
+        color: #ffffff;
+    }
+    
+    .white-popup-block:after {
+        background: #222222;
+        background: -moz-linear-gradient(45deg, #222222 0%, #222222 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, #222222), color-stop(100%, #222222));
+        background: -webkit-linear-gradient(45deg, #222222 0%, #222222 100%);
+        background: -o-linear-gradient(45deg, #222222 0%, #222222 100%);
+        background: -ms-linear-gradient(45deg, #222222 0%, #222222 100%);
+        background: linear-gradient(45deg, #222222 0%, #222222 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#222222', GradientType=0 );
+    }
+
+
+    
+    .post .td-post-header .entry-title {
+        color: #ffffff;
+    }
+    .td_module_15 .entry-title a {
+        color: #ffffff;
+    }
+
+    
+    .td-module-meta-info .td-post-author-name a {
+    	color: #ffffff;
+    }
+
+    
+    .td-post-content,
+    .td-post-content p {
+    	color: #111111;
+    }
+
+    
+    .td-post-content h1,
+    .td-post-content h2,
+    .td-post-content h3,
+    .td-post-content h4,
+    .td-post-content h5,
+    .td-post-content h6 {
+    	color: #000000;
+    }
+
+    
+    .post blockquote p,
+    .page blockquote p {
+    	color: #666666;
+    }
+    .post .td_quote_box,
+    .page .td_quote_box {
+        border-color: #666666;
+    }
+
+
+    
+    .td-page-header h1,
+    .td-page-title,
+    .woocommerce-page .page-title {
+    	color: #000000;
+    }
+
+    
+    .td-page-content p,
+    .td-page-content .td_block_text_with_title,
+    .woocommerce-page .page-description > p {
+    	color: #111111;
+    }
+
+    
+    .td-page-content h1,
+    .td-page-content h2,
+    .td-page-content h3,
+    .td-page-content h4,
+    .td-page-content h5,
+    .td-page-content h6 {
+    	color: #000000;
+    }
+
+    .td-page-content .widgettitle {
+        color: #fff;
+    }
+
+
+
+    
+    .td-footer-wrapper::before {
+        background-size: 100% auto;
+    }
+
+    
+    ul.sf-menu > .td-menu-item > a,
+    .td-theme-wrap .td-header-menu-social {
+        font-family:"Roboto Slab";
+	font-size:13px;
+	font-weight:normal;
+	
+    }
+    
+    .td_mod_mega_menu .item-details a {
+        font-size:15px;
+	
+    }
+    
+    .td_mega_menu_sub_cats .block-mega-child-cats a {
+        font-family:"Roboto Slab";
+	font-size:15px;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:"Roboto Slab";
+	font-size:16px;
+	
+    }
+    
+	.td_module_wrap .td-module-title {
+		font-family:"Roboto Slab";
+	
+	}
+     
+	.td_block_trending_now .entry-title,
+	.td-theme-slider .td-module-title,
+    .td-big-grid-post .entry-title {
+		font-family:"Roboto Slab";
+	
+	}
+    
+	#td-mobile-nav,
+	#td-mobile-nav .wpb_button,
+	.td-search-wrap-mob {
+		font-family:"Roboto Slab";
+	
+	}
+
+
+	
+	.post .td-post-header .entry-title {
+		font-family:"Roboto Slab";
+	
+	}
+    
+    .td-page-title,
+    .woocommerce-page .page-title,
+    .td-category-title-holder .td-page-title {
+    	font-family:"Roboto Slab";
+	
+    }
+    
+    .widget_archive a,
+    .widget_calendar,
+    .widget_categories a,
+    .widget_nav_menu a,
+    .widget_meta a,
+    .widget_pages a,
+    .widget_recent_comments a,
+    .widget_recent_entries a,
+    .widget_text .textwidget,
+    .widget_tag_cloud a,
+    .widget_search input,
+    .woocommerce .product-categories a,
+    .widget_display_forums a,
+    .widget_display_replies a,
+    .widget_display_topics a,
+    .widget_display_views a,
+    .widget_display_stats {
+    	font-family:"Roboto Slab";
+	font-size:16px;
+	
+    }
+
+
+
+/* Style generated by theme for demo: politics */
+
+.td-politics .td-header-style-11 .sf-menu > li > a:hover,
+	    .td-politics .td-header-style-11 .sf-menu > .sfHover > a,
+	    .td-politics .td-header-style-11 .sf-menu > .current-menu-item > a,
+	    .td-politics .td-header-style-11 .sf-menu > .current-menu-ancestor > a,
+	    .td-politics .td-header-style-11 .sf-menu > .current-category-ancestor > a {
+	        background-color: #8b0e04;
+	    }</style><div id="tdw-css-writer" style="display: none" class="tdw-drag-dialog tdc-window-sidebar"><header> <a title="Editor" class="tdw-tab tdc-tab-active" href="#" data-tab-content="tdw-tab-editor">Edit with Live CSS</a><div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div></header><div class="tdw-content"><div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active"> <script>(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);</script> <textarea class="tdw-css-writer-editor td_live_css_uid_1_5b3352742dd27"></textarea><div id="td_live_css_uid_1_5b3352742dd27" class="td-code-editor"></div> <script>jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_5b3352742dd27');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_5b3352742dd27");
+
+									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});</script> </div></div><footer> <a href="#" class="tdw-save-css">Save</a><div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div><div class="tdw-resize"></div></footer></div> <script type="text/javascript" defer="" src="https://1s18w12tqveh1xfywp1ulx42-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_8358ca7395ccb65b2749a672a114a63f.js"></script></body></html>
