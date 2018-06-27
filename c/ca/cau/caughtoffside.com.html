@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2017-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171122164739id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627195753id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="utf-8">
@@ -12,8 +12,7 @@
 <meta property="fb:pages" content="86922614981">
 <link rel="alternate" href="http://www.caughtoffside.com/privacy-policy/" hreflang="en-gb">
 
-<link rel="prev" href="http://www.caughtoffside.com/privacy-policy/"><link rel="next" href="http://www.caughtoffside.com/privacy-policy/page/2/">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="fnmb-jssdk" src="https://www.fanmob.us//assets/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="fnmb-jssdk" src="https://www.fanmob.us//assets/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">
 //setup our object which our library will load in to later
 var fanatix = {
 	params:{},//stuff that'll come down from wordpress' built in "pass stuff from php to js" mechanisms will live here
@@ -47,9 +46,9 @@ fanatix.lib = {
 		var node = document.getElementsByTagName('script')[0];
 		node.parentNode.insertBefore(script, node);
 	},
-	detectDevice:function() {
+	detectDevice:function(force_param) {
 		var type = '';
-		var force = fanatix.fragment.parse('device');
+		var force = force_param?force_param:fanatix.fragment.parse('device');
 		if(force)
 			type = force;
 		else {
@@ -204,7 +203,7 @@ fanatix.ads.fb = {
 			FB.init({
 				appId      : '100810056717426',
 				xfbml      : true,
-				version    : 'v2.7'
+				version    : 'v2.11'
 			});
 			if(fanatix.ads.fb.enabled) {
 				FB.Event.subscribe('ad.loaded', function(placementId) {
@@ -228,7 +227,7 @@ fanatix.ads.fb = {
 			var js, fjs = d.getElementsByTagName(s)[0];
 			if (d.getElementById(id)) {return;}
 			js = d.createElement(s); js.id = id;
-			js.src = "//connect.facebook.net/en_US/sdk/xfbml.ad.js";
+			js.src = "//connect.facebook.net/en_US/sdk.js";
 			fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 	}
@@ -240,24 +239,55 @@ fanatix.cookie.test();
 
 fanatix.runtime.device = fanatix.lib.detectDevice();
 fanatix.lib.debug('Device: '+fanatix.runtime.device);
-if(fanatix.cookie.allowed && true && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone')) {
-	fanatix.lib.debug('Interstitial: checking session...');
-	var session = fanatix.lib.getAppSession();
-	var referrer_domain = document.referrer?document.referrer.split('/')[2]:'';
-	if(referrer_domain.indexOf('caughtoffside.com')>-1) {
-		if(!session.seen_download_app_interstitial_modern || true==='force') {
-			fanatix.lib.debug('Interstitial: redirecting!');
-			fanatix.runtime.redirecting = true;
-			window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+if(fanatix.cookie.allowed) {
+	if(true && fanatix.runtime.device=='iphone') {
+		var active = false;
+		var active_dates = [[1512086400, 1512345540], [1512691200, 1512950340], [1513296000, 1513555140], [1513900800, 1514159940], [1514505600, 1514764740]];
+		var now = Math.floor(Date.now()/1000);
+		for(var i in active_dates)
+			if(active_dates[i][0] <= now && now <= active_dates[i][1])
+				active = true;
+		if(active) {
+			fanatix.lib.debug('Interstitial (Dribble): inside active date range; checking session...');
+			var session = fanatix.lib.getAppSession();
+//			var referrer_domain = document.referrer?document.referrer.split('/')[2]:'';
+//			if(referrer_domain.indexOf('caughtoffside.com')>-1) {
+				if(!session.seen_dribble_interstitial || true==='force') {
+					fanatix.lib.debug('Interstitial (Dribble): redirecting!');
+					fanatix.runtime.redirecting = true;
+					window.location = 'http://www.caughtoffside.com/interstitial-dribble.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+				}
+				else {
+					fanatix.lib.debug('Interstitial (Dribble): NOT redirecting (cookie indicates it\'s already been seen)!');
+				}
+//			}
+//			else {
+//				fanatix.lib.debug('Interstitial (Dribble): NOT checking due to non-self referrer ['+referrer_domain+']!');
+//			}
 		}
 		else {
-			fanatix.lib.debug('Interstitial: NOT redirecting!');
+			fanatix.lib.debug('Interstitial (Dribble): NOT checking due to outside active date ranges!');
 		}
 	}
-	else {
-		fanatix.lib.debug('Interstitial: NOT checking due to non-self referrer!');
+	else if(true && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone')) {
+		fanatix.lib.debug('Interstitial (DownloadApp): checking session...');
+		var session = fanatix.lib.getAppSession();
+		var referrer_domain = document.referrer?document.referrer.split('/')[2]:'';
+		if(referrer_domain.indexOf('caughtoffside.com')>-1) {
+			if((!session.seen_download_app_interstitial_modern && !session.seen_dribble_interstitial) || true==='force') {
+				fanatix.lib.debug('Interstitial (DownloadApp): redirecting!');
+				fanatix.runtime.redirecting = true;
+				window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+			}
+			else {
+				fanatix.lib.debug('Interstitial (DownloadApp): NOT redirecting!');
+			}
+		}
+		else {
+			fanatix.lib.debug('Interstitial (DownloadApp): NOT checking due to non-self referrer!');
+		}
 	}
-}
+}//if(fanatix.cookie.allowed)
 </script>
 
 <title>
@@ -266,6 +296,16 @@ Privacy Policy &amp; Cookies | CaughtOffside</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.caughtoffside.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy &amp; Cookies | CaughtOffside">
+<meta property="og:description" content="fanatix Privacy Policy This Privacy Policy describes how and when fanatix collects, uses, and shares your information when you use fanatix, including our mobile applications and websites (the “Services”). fanatix receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to …">
+<meta property="og:url" content="http://www.caughtoffside.com/privacy-policy/">
+<meta property="og:site_name" content="CaughtOffside">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="fanatix Privacy Policy This Privacy Policy describes how and when fanatix collects, uses, and shares your information when you use fanatix, including our mobile applications and websites (the “Services”). fanatix receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to […]">
+<meta name="twitter:title" content="Privacy Policy &amp; Cookies | CaughtOffside">
+<meta name="twitter:domain" content="CaughtOffside">
 <!-- / Yoast SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="CaughtOffside » Feed" href="http://www.caughtoffside.com/feed/">
@@ -340,8 +380,8 @@ oneSignal_options['promptOptions'] = { };
 <meta name="shareaholic:site_name" content="CaughtOffside">
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://www.caughtoffside.com/privacy-policy/">
-<meta name="shareaholic:article_published_time" content="2012-07-14T12:54:41+00:00">
-<meta name="shareaholic:article_modified_time" content="2017-11-22T16:24:37+00:00">
+<meta name="shareaholic:article_published_time" content="2012-07-14T12:54:41+01:00">
+<meta name="shareaholic:article_modified_time" content="2018-06-26T15:49:22+01:00">
 <meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="peterbevan">
 <meta name="shareaholic:site_id" content="00da940b834d3c0f8608a9d1cccbe331">
@@ -368,7 +408,7 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="toc-screen-css" href="http://cdn.caughtoffside.com/wp-content/plugins/table-of-contents-plus/screen.css?ver=1404" type="text/css" media="all">
 <link rel="stylesheet" id="wpProQuiz_front_style-css" href="http://cdn.caughtoffside.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.34" type="text/css" media="all">
-<link rel="stylesheet" id="published-css" href="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/css/style.57.min.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="published-css" href="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/css/style.78.min.css?ver=4.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="jetpack_css-css" href="http://cdn.caughtoffside.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" type="text/css" media="all">
 <!-- This site uses the Google Analytics by Yoast plugin v5.4.5 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
 <script type="text/javascript">
@@ -379,6 +419,7 @@ img.emoji {
 
 	__gaTracker('create', 'UA-60715907-1', 'auto');
 	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('set', 'anonymizeIp', true);
 	__gaTracker('send','pageview');
 
 </script>
@@ -391,21 +432,7 @@ img.emoji {
 <link rel="shortlink" href="http://wp.me/PeFS8-tVG">
 <link rel="alternate" type="application/json+oembed" href="http://www.caughtoffside.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.caughtoffside.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.caughtoffside.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.caughtoffside.com%2Fprivacy-policy%2F&amp;format=xml">
-			<meta property="fb:pages" content="86922614981">
-			<style type="text/css">img#wpstats{display:none}</style>
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy &amp; Cookies">
-<meta property="og:url" content="http://www.caughtoffside.com/privacy-policy/">
-<meta property="og:description" content="fanatix Privacy Policy This Privacy Policy describes how and when fanatix collects, uses, and shares your information when you use fanatix, including our mobile applications and websites (the &quot;Serv...">
-<meta property="article:published_time" content="2012-07-14T12:54:41+00:00">
-<meta property="article:modified_time" content="2015-07-30T10:53:58+00:00">
-<meta property="article:author" content="http://www.caughtoffside.com/author/peterbevan/">
-<meta property="og:site_name" content="CaughtOffside">
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
-<meta name="twitter:site" content="@jetpack">
-<meta name="twitter:card" content="summary">
-
+<style type="text/css">img#wpstats{display:none}</style>
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 <script type="text/javascript">
 window.cookieconsent_options = {
@@ -477,160 +504,264 @@ window.cookieconsent_options = {
       <section class="top-bar-section">
 <!-- C-MENU BEGINS -->
 <ul id="menu-main-menu" class="left">
-    <li class="divider"></li>
-    <li id="menu-item-423444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-423444"><a href="/">Home</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423454"><a href="/tags/transfer-rumours/">Transfer Rumours</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423464" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-423464"><a href="/tags/premier-league/">Premier League</a>
-        <ul class="sub-menu dropdown two-col">
-            <li id="menu-item-423474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423474"><a href="/tags/premier-league/arsenal/">Arsenal FC</a></li>
-            <li id="menu-item-423564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423564"><a href="/tags/premier-league/aston-villa/">Aston Villa FC</a></li>
-            <li id="menu-item-423574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423574"><a href="/tags/premier-league/bournemouth/">Bournemouth AFC</a></li>
-            <li id="menu-item-423584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423584"><a href="/tags/premier-league/chelsea/">Chelsea FC</a></li>
-            <li id="menu-item-423594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423594"><a href="/tags/premier-league/crystal-palace/">Crystal Palace FC</a></li>
-            <li id="menu-item-423604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423604"><a href="/tags/premier-league/everton/">Everton FC</a></li>
-            <li id="menu-item-423504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423504"><a href="/tags/premier-league/leicester-city/">Leicester City FC</a></li>
-            <li id="menu-item-423514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423514"><a href="/tags/premier-league/liverpool/">Liverpool FC</a></li>
-            <li id="menu-item-423524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423524"><a href="/tags/premier-league/manchester-city/">Manchester City FC</a></li>
-            <li id="menu-item-423534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423534"><a href="/tags/premier-league/manchester-united/">Manchester United FC</a></li>
-            <li id="menu-item-423544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423544"><a href="/tags/premier-league/newcastle-united/">Newcastle United FC</a></li>
-            <li id="menu-item-423554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423554"><a href="/tags/premier-league/norwich-city/">Norwich FC</a></li>
-            <li id="menu-item-423614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423614"><a href="/tags/premier-league/southampton/">Southampton FC</a></li>
-            <li id="menu-item-423624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423624"><a href="/tags/premier-league/stoke-city/">Stoke City FC</a></li>
-            <li id="menu-item-423634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423634"><a href="/tags/premier-league/sunderland/">Sunderland AFC</a></li>
-            <li id="menu-item-423644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423644"><a href="/tags/premier-league/swansea-city/">Swansea City AFC</a></li>
-            <li id="menu-item-423654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423654"><a href="/tags/premier-league/tottenham-hotspur/">Tottenham FC</a></li>
-            <li id="menu-item-423660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423660"><a href="/tags/premier-league/watford/">Watford FC</a></li>
-            <li id="menu-item-423664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423664"><a href="/tags/premier-league/west-bromwich-albion/">West Bromwich Albion FC</a></li>
-            <li id="menu-item-423674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423674"><a href="/tags/premier-league/west-ham/">West Ham FC</a></li>
-        </ul>
-    </li>
-    <li class="divider"></li>
-    <li id="menu-item-523684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-523684"><a href="/tags/football-manager/">Football Manager</a></li>
-    <li class="divider"></li>
-    <!-- Football Section no PL --> 
-    <li id="menu-item-x1234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-x1234"><a href="#">Football</a>
-        <ul class="sub-menu dropdown">
-            <li id="menu-item-111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-111"><a href="/tags/championship/">Championship</a>
-                <ul class="sub-menu dropdown two-col">
-                    <li id="menu-item-134110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134110"><a href="/tags/championship/birmingham/">Birmingham City FC</a></li>
-                    <li id="menu-item-134120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134120"><a href="/tags/championship/blackburn/">Blackburn Rovers FC</a></li>
-                    <li id="menu-item-134130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134130"><a href="/tags/championship/bolton/">Bolton Wanderers FC</a></li>
-                    <li id="menu-item-134140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134140"><a href="/tags/championship/brentford/">Brentford FC</a></li>
-                    <li id="menu-item-134150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134150"><a href="/tags/championship/brighton/">Brighton and Hove Albion FC</a></li>
-                    <li id="menu-item-134160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134160"><a href="/tags/championship/bristol-city/">Bristol City FC</a></li>
-                    <li id="menu-item-134170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134170"><a href="/tags/championship/burnley/">Burnley FC</a></li>
-                    <li id="menu-item-134180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134180"><a href="/tags/championship/cardiff-city/">Cardiff City FC</a></li>
-                    <li id="menu-item-134190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134190"><a href="/tags/championship/charlton/">Charlton Athletic FC</a></li>
-                    <li id="menu-item-134200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134200"><a href="/tags/championship/derby-county/">Derby County FC</a></li>
-                    <li id="menu-item-134210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134210"><a href="/tags/championship/fulham/">Fulham FC</a></li>
-                    <li id="menu-item-134220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134220"><a href="/tags/championship/huddersfield/">Huddersfield Town AFC</a></li>
-                    <li id="menu-item-134230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134230"><a href="/tags/championship/hull-city/">Hull City AFC</a></li>
-                    <li id="menu-item-134240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134240"><a href="/tags/championship/ipswich-town/">Ipswich Town FC</a></li>
-                    <li id="menu-item-134250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134250"><a href="/tags/championship/leeds/">Leeds United FC</a></li>
-                    <li id="menu-item-134260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134260"><a href="/tags/championship/mk-dons/">MK Dons FC</a></li>
-                    <li id="menu-item-134270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134270"><a href="/tags/championship/middlesbrough/">Middlesbrough FC</a></li>
-                    <li id="menu-item-134280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134280"><a href="/tags/championship/nottingham-forest/">Nottingham Forest FC</a></li>
-                    <li id="menu-item-134290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134290"><a href="/tags/championship/preston-north-end/">Preston North End FC</a></li>
-                    <li id="menu-item-134300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134300"><a href="/tags/championship/queens-park-rangers/">Queens Park Rangers FC</a></li>
-                    <li id="menu-item-134310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134310"><a href="/tags/championship/reading/">Reading FC</a></li>
-                    <li id="menu-item-134320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134320"><a href="/tags/championship/rotherham/">Rotherham United FC</a></li>
-                    <li id="menu-item-134330" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134330"><a href="/tags/championship/sheffield-wednesday/">Sheffield Wednesday FC</a></li>
-                    <li id="menu-item-134340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134340"><a href="/tags/championship/wolverhampton-wanderers/">Wolverhampton Wanderers FC</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103611"><a href="/tags/german-bundesliga/">German Bundesliga</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-143610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143610"><a href="/tags/german-bundesliga/bayern-munich/">Bayern Munich</a></li>
-                    <li id="menu-item-143620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143620"><a href="/tags/german-bundesliga/borussia-dortmund/">Borussia Dortmund</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103608"><a href="/tags/la-liga/">La Liga</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-152000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152000"><a href="/tags/la-liga/atletico-madrid/">Atletico Madrid</a></li>
-                    <li id="menu-item-152010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152010"><a href="/tags/la-liga/barcelona/">Barcelona</a></li>
-                    <li id="menu-item-152020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152020"><a href="/tags/la-liga/real-madrid/">Real Madrid</a></li>
-                    <li id="menu-item-152030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152030"><a href="/tags/la-liga/valencia/">Valencia</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103614"><a href="/tags/serie-a/">Serie A</a>
-                <ul class="sub-menu dropdown two-col">
-                    <li id="menu-item-161010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161010"><a href="/tags/serie-a/ac-milan/">AC Milan</a></li>
-                    <li id="menu-item-161020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161020"><a href="/tags/serie-a/atalanta/">Atalanta</a></li>
-                    <li id="menu-item-161030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161030"><a href="/tags/serie-a/bologna/">Bologna</a></li>
-                    <li id="menu-item-161040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161040"><a href="/tags/serie-a/carpi/">Carpi</a></li>
-                    <li id="menu-item-161050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161050"><a href="/tags/serie-a/chievo/">Chievo</a></li>
-                    <li id="menu-item-161060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161060"><a href="/tags/serie-a/empoli/">Empoli</a></li>
-                    <li id="menu-item-161070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161070"><a href="/tags/serie-a/fiorentina/">Fiorentina</a></li>
-                    <li id="menu-item-161080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161080"><a href="/tags/serie-a/frosinone/">Frosinone Calcio</a></li>
-                    <li id="menu-item-161090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161090"><a href="/tags/serie-a/genoa/">Genoa</a></li>
-                    <li id="menu-item-161100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161100"><a href="/tags/serie-a/inter-milan/">Inter Milan</a></li>
-                    <li id="menu-item-161110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161110"><a href="/tags/serie-a/juventus/">Juventus</a></li>
-                    <li id="menu-item-161120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161120"><a href="/tags/serie-a/lazio/">Lazio</a></li>
-                    <li id="menu-item-161130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161130"><a href="/tags/serie-a/napoli/">Napoli</a></li>
-                    <li id="menu-item-161140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161140"><a href="/tags/serie-a/palermo/">Palermo</a></li>
-                    <li id="menu-item-161150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161150"><a href="/tags/serie-a/roma/">Roma</a></li>
-                    <li id="menu-item-161160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161160"><a href="/tags/serie-a/sampdoria/">Sampdoria</a></li>
-                    <li id="menu-item-161170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161170"><a href="/tags/serie-a/sassuolo/">Sassuolo</a></li>
-                    <li id="menu-item-161180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161180"><a href="/tags/serie-a/torino/">Torino</a></li>
-                    <li id="menu-item-161190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161190"><a href="/tags/serie-a/udinese/">Udinese</a></li>
-                    <li id="menu-item-161200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161200"><a href="/tags/serie-a/verona/">Verona</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103620"><a href="/tags/french-ligue-1/">French Ligue 1</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-171010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171010"><a href="/tags/french-ligue-1/ajaccio/">Ajaccio</a></li>
-                    <li id="menu-item-171020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171020"><a href="/tags/french-ligue-1/angers/">Angers</a></li>
-                    <li id="menu-item-171030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171030"><a href="/tags/french-ligue-1/bastia/">Bastia</a></li>
-                    <li id="menu-item-171040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171040"><a href="/tags/french-ligue-1/bordeaux/">Bordeaux</a></li>
-                    <li id="menu-item-171050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171050"><a href="/tags/french-ligue-1/caen/">Caen</a></li>
-                    <li id="menu-item-171060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171060"><a href="/tags/french-ligue-1/guingamp/">Guingamp</a></li>
-                    <li id="menu-item-171070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171070"><a href="/tags/french-ligue-1/lille/">Lille</a></li>
-                    <li id="menu-item-171080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171080"><a href="/tags/french-ligue-1/lorient/">Lorient</a></li>
-                    <li id="menu-item-171090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171090"><a href="/tags/french-ligue-1/lyon/">Lyon</a></li>
-                    <li id="menu-item-171100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171100"><a href="/tags/french-ligue-1/marseille/">Marseille</a></li>
-                    <li id="menu-item-171110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171110"><a href="/tags/french-ligue-1/monaco/">Monaco</a></li>
-                    <li id="menu-item-171120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171120"><a href="/tags/french-ligue-1/montpellier/">Montpellier</a></li>
-                    <li id="menu-item-171130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171130"><a href="/tags/french-ligue-1/nantes/">Nantes</a></li>
-                    <li id="menu-item-171140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171140"><a href="/tags/french-ligue-1/nice/">Nice</a></li>
-                    <li id="menu-item-171150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171150"><a href="/tags/french-ligue-1/psg/">Paris Saint-Germain</a></li>
-                    <li id="menu-item-171160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171160"><a href="/tags/french-ligue-1/reims/">Reims</a></li>
-                    <li id="menu-item-171170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171170"><a href="/tags/french-ligue-1/rennais/">Rennes</a></li>
-                    <li id="menu-item-171180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171180"><a href="/tags/french-ligue-1/saint-etienne/">Saint-Etienne</a></li>
-                    <li id="menu-item-171190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171190"><a href="/tags/french-ligue-1/toulouse/">Toulouse</a></li>
-                    <li id="menu-item-171200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171200"><a href="/tags/french-ligue-1/troyes/">Troyes</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-x1212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-x1212"><a href="/tags/scottish-football/">Scottish Football</a>
-                <ul class="sub-menu dropdown">
-					<li id="menu-item-182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182"><a href="/tags/scottish-football/celtic/">Celtic FC</a></li>
-					<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185"><a href="/tags/scottish-football/rangers/">Rangers FC</a></li>
-                </ul>
-            </li>
-            <li><a href="/tags/general-football-and-soccer/champions-league/">Champions League</a></li>
-            <li><a href="/tags/concacaf/">CONCACAF</a></li>
-            <li><a href="/tags/conmebol/">CONMEBOL</a></li>
-        </ul>
-    </li>
-    <!-- end -->
-    <li class="divider"></li>
-    <li id="menu-item-423684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423684"><a href="/tags/video-loving/">Video</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423894"><a href="/tags/nutmegs/">Nutmegs</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423694"><a href="/tags/wags/">WAGS</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-423834"><a href="#">About</a>
-        <ul class="sub-menu dropdown">
-            <li id="menu-item-423844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423844"><a href="/give-us-a-shout/">About CaughtOffside</a></li>
-            <li id="menu-item-423854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423854"><a href="/give-us-a-shout/contact-us/">Contact us</a></li>
-            <li id="menu-item-423904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423904"><a href="/authors/">Authors</a></li>
-            <li id="menu-item-833324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833324"><a href="/terms-of-service/">Terms of service</a></li>
-            <li id="menu-item-423864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423864"><a href="/privacy-policy/">Privacy Policy &amp; Cookies</a></li>
-            <li id="menu-item-423874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423874"><a href="/the-team/">Write For Us</a></li>
-        </ul>
-    </li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/">Home</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/general-football-and-soccer/world-cup/">World Cup 2018</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/transfer-rumours/">Transfer Rumours</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/premier-league/">Premier League</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-134286"><a href="/tags/premier-league/bournemouth/">AFC Bournemouth</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="/tags/premier-league/arsenal/">Arsenal FC</a>
+</li>
+	<li class="cat-item cat-item-132573"><a href="/tags/premier-league/brighton/">Brighton and Hove Albion</a>
+</li>
+	<li class="cat-item cat-item-167574"><a href="/tags/premier-league/burnley-fc/">Burnley FC</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="/tags/premier-league/chelsea/" title="Caughtoffside.com - A Leading Football blog for all Chelsea FC fans. offering Chelsea news and Chelsea articles. Get latest Chelsea transfer rumours and Chelsea gossip.">Chelsea FC</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="/tags/premier-league/crystal-palace/">Crystal Palace FC</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="/tags/premier-league/everton/" title="Caughtoffside.com – The leading Football blog for all Everton FC fans. Containing Everton transfer rumours, Everton gossip, Everton fans comments, Different Everton articles and updated Everton news.">Everton FC</a>
+</li>
+	<li class="cat-item cat-item-157144"><a href="/tags/premier-league/huddersfield/">Huddersfield Town FC</a>
+</li>
+	<li class="cat-item cat-item-166"><a href="/tags/premier-league/leicester-city/">Leicester City FC</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="/tags/premier-league/liverpool/" title="Caughtoffside.com is the Football blog for all liverpool FC fans, containing liverpool news, liverpool articles, liverpool gossip and liverpool rumors.">Liverpool FC</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="/tags/premier-league/manchester-city/">Manchester City</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="/tags/premier-league/manchester-united/" title="Caughtoffside.com – The leading Football blog for all Manchester United FC fans. Containing Man UTD transfer rumours, Manchester United gossip, Manchester United fc updates and Manchester United news.">Manchester United FC</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="/tags/premier-league/newcastle-united/" title="Caughtoffside.com – The leading Football blog for all Newcastle FC fans. Containing Newcastle transfer rumours, Newcastle gossip, Newcastle fc updates, Different Newcastle articles and updated Newcastle news.">Newcastle United FC</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="/tags/premier-league/southampton/">Southampton FC</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="/tags/premier-league/stoke-city/">Stoke City FC</a>
+</li>
+	<li class="cat-item cat-item-1997"><a href="/tags/premier-league/swansea-city/">Swansea City AFC</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="/tags/premier-league/tottenham-hotspur/" title="Caughtoffside.com is the leading Football blog for all Tottenham FC fans, containing information about: Tottenham news, Tottenham articles, Tottenham gossip and Tottenham rumors.">Tottenham FC</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="/tags/premier-league/watford/">Watford FC</a>
+</li>
+	<li class="cat-item cat-item-150"><a href="/tags/premier-league/west-bromwich-albion/">West Bromwich Albion FC</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="/tags/premier-league/west-ham/">West Ham FC</a>
+</li>
+</ul></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/football-manager/">Football Manager</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="#">Football</a><ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/championship/">Championship</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-15"><a href="/tags/championship/aston-villa/">Aston Villa FC</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="/tags/championship/barnsley/" title="Caughtoffside.com is the leading Football blog for all Barnsley fans, containing information about all Barnsley games &amp; players: Barnsley news, Barnsley articles, Barnsley gossip and Barnsley rumors.">Barnsley FC</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="/tags/championship/birmingham/">Birmingham FC</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="/tags/championship/blackburn/">Blackburn FC</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="/tags/championship/bolton/">Bolton FC</a>
+</li>
+	<li class="cat-item cat-item-157124"><a href="/tags/championship/brentford/">Brentford FC</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="/tags/championship/bristol-city/">Bristol City FC</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="/tags/championship/burnley/">Burnley FC</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="/tags/championship/cardiff-city/">Cardiff City FC</a>
+</li>
+	<li class="cat-item cat-item-157134"><a href="/tags/championship/charlton/">Charlton Athletic FC</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="/tags/championship/coventry-city/">Coventry City FC</a>
+</li>
+	<li class="cat-item cat-item-137"><a href="/tags/championship/derby-county/">Derby County FC</a>
+</li>
+	<li class="cat-item cat-item-1996"><a href="/tags/championship/doncaster-rovers/">Doncaster Rovers FC</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="/tags/championship/fulham/">Fulham FC</a>
+</li>
+	<li class="cat-item cat-item-163"><a href="/tags/championship/hull-city/">Hull City FC</a>
+</li>
+	<li class="cat-item cat-item-157"><a href="/tags/championship/ipswich-town/">Ipswich Town FC</a>
+</li>
+	<li class="cat-item cat-item-170"><a href="/tags/championship/leeds/">Leeds United FC</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="/tags/championship/middlesbrough/">Middlesbrough FC</a>
+</li>
+	<li class="cat-item cat-item-167584"><a href="/tags/championship/middlesbrough-fc/">Middlesbrough FC</a>
+</li>
+	<li class="cat-item cat-item-157104"><a href="/tags/championship/mk-dons/">MK Dons FC</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="/tags/championship/norwich-city/">Norwich City FC</a>
+</li>
+	<li class="cat-item cat-item-1995"><a href="/tags/championship/nottingham-forest/">Nottingham Forest FC</a>
+</li>
+	<li class="cat-item cat-item-99899"><a href="/tags/championship/peteborough-united/">Peterborough United</a>
+</li>
+	<li class="cat-item cat-item-160"><a href="/tags/championship/plymouth-argyle/">Plymouth Argyle FC</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="/tags/championship/portsmouth/">Portsmouth FC</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="/tags/championship/preston-north-end/">Preston North End FC</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="/tags/championship/queens-park-rangers/">Queens Park Rangers FC</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="/tags/championship/reading/">Reading FC</a>
+</li>
+	<li class="cat-item cat-item-157154"><a href="/tags/championship/rotherham/">Rotherham United FC</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="/tags/championship/scunthorpe-united/">Scunthorpe United FC</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="/tags/championship/sheffield-united/">Sheffield United FC</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="/tags/championship/sheffield-wednesday/">Sheffield Wednesday FC</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="/tags/championship/sunderland/">Sunderland AFC</a>
+</li>
+	<li class="cat-item cat-item-158"><a href="/tags/championship/wolverhampton-wanderers/">Wolverhampton Wanderers FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/german-bundesliga/">German Bundesliga</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-301"><a href="/tags/german-bundesliga/bayern-munich/">Bayern Munich</a>
+</li>
+	<li class="cat-item cat-item-323"><a href="/tags/german-bundesliga/borussia-dortmund/">Borussia Dortmund</a>
+</li>
+	<li class="cat-item cat-item-171313"><a href="/tags/german-bundesliga/schalke/">FC Schalke 04</a>
+</li>
+	<li class="cat-item cat-item-171314"><a href="/tags/german-bundesliga/rb-leipzig/">RB Leipzig</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/la-liga/">La Liga</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-521"><a href="/tags/la-liga/atletico-madrid/">Atletico Madrid</a>
+</li>
+	<li class="cat-item cat-item-101189"><a href="/tags/la-liga/barcelona/">FC Barcelona</a>
+</li>
+	<li class="cat-item cat-item-101188"><a href="/tags/la-liga/real-madrid/">Real Madrid CF</a>
+</li>
+	<li class="cat-item cat-item-171315"><a href="/tags/la-liga/sevilla/">Sevilla FC</a>
+</li>
+	<li class="cat-item cat-item-132493"><a href="/tags/la-liga/valencia/">Valencia CF</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/serie-a/">Serie A</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-128973"><a href="/tags/serie-a/ac-milan/">AC Milan</a>
+</li>
+	<li class="cat-item cat-item-100494"><a href="/tags/serie-a/atalanta/">Atalanta</a>
+</li>
+	<li class="cat-item cat-item-157734"><a href="/tags/serie-a/bologna/">Bologna FC 1909</a>
+</li>
+	<li class="cat-item cat-item-102085"><a href="/tags/serie-a/cagliari/">Cagliari</a>
+</li>
+	<li class="cat-item cat-item-157164"><a href="/tags/serie-a/carpi/">Carpi FC</a>
+</li>
+	<li class="cat-item cat-item-128606"><a href="/tags/serie-a/cesena/">Cesena</a>
+</li>
+	<li class="cat-item cat-item-107032"><a href="/tags/serie-a/chievo/">Chievo</a>
+</li>
+	<li class="cat-item cat-item-139144"><a href="/tags/serie-a/empoli/">Empoli</a>
+</li>
+	<li class="cat-item cat-item-754"><a href="/tags/serie-a/fiorentina/">Fiorentina</a>
+</li>
+	<li class="cat-item cat-item-157174"><a href="/tags/serie-a/frosinone/">Frosinone Calcio</a>
+</li>
+	<li class="cat-item cat-item-745"><a href="/tags/serie-a/genoa/">Genoa</a>
+</li>
+	<li class="cat-item cat-item-316"><a href="/tags/serie-a/inter-milan/">Inter Milan</a>
+</li>
+	<li class="cat-item cat-item-312"><a href="/tags/serie-a/juventus/">Juventus</a>
+</li>
+	<li class="cat-item cat-item-139154"><a href="/tags/serie-a/lazio/">Lazio</a>
+</li>
+	<li class="cat-item cat-item-409"><a href="/tags/serie-a/napoli/">Napoli</a>
+</li>
+	<li class="cat-item cat-item-450"><a href="/tags/serie-a/palermo/">Palermo</a>
+</li>
+	<li class="cat-item cat-item-102043"><a href="/tags/serie-a/parma/">Parma</a>
+</li>
+	<li class="cat-item cat-item-383"><a href="/tags/serie-a/roma/">Roma</a>
+</li>
+	<li class="cat-item cat-item-528"><a href="/tags/serie-a/sampdoria/">Sampdoria</a>
+</li>
+	<li class="cat-item cat-item-134908"><a href="/tags/serie-a/sassuolo/">Sassuolo</a>
+</li>
+	<li class="cat-item cat-item-403"><a href="/tags/serie-a/torino/">Torino</a>
+</li>
+	<li class="cat-item cat-item-132399"><a href="/tags/serie-a/udinese/">Udinese</a>
+</li>
+	<li class="cat-item cat-item-130429"><a href="/tags/serie-a/verona/">Verona</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/french-ligue-1/">French Ligue 1</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-157204"><a href="/tags/french-ligue-1/ajaccio/">AC Ajaccio</a>
+</li>
+	<li class="cat-item cat-item-157214"><a href="/tags/french-ligue-1/angers/">Angers SCO</a>
+</li>
+	<li class="cat-item cat-item-324"><a href="/tags/french-ligue-1/monaco/">AS Monaco</a>
+</li>
+	<li class="cat-item cat-item-152634"><a href="/tags/french-ligue-1/saint-etienne/">AS Saint-Etienne</a>
+</li>
+	<li class="cat-item cat-item-126123"><a href="/tags/french-ligue-1/bastia/">Bastia</a>
+</li>
+	<li class="cat-item cat-item-422"><a href="/tags/french-ligue-1/bordeaux/">Bordeaux</a>
+</li>
+	<li class="cat-item cat-item-157234"><a href="/tags/french-ligue-1/troyes/">ESTAC Troyes</a>
+</li>
+	<li class="cat-item cat-item-152604"><a href="/tags/french-ligue-1/evian-tg/">Evian TG</a>
+</li>
+	<li class="cat-item cat-item-137734"><a href="/tags/french-ligue-1/fc-metz/">FC Metz</a>
+</li>
+	<li class="cat-item cat-item-142644"><a href="/tags/french-ligue-1/nantes/">FC Nantes</a>
+</li>
+	<li class="cat-item cat-item-135164"><a href="/tags/french-ligue-1/guingamp/">Guingamp</a>
+</li>
+	<li class="cat-item cat-item-836"><a href="/tags/french-ligue-1/lille/">Lille</a>
+</li>
+	<li class="cat-item cat-item-117116"><a href="/tags/french-ligue-1/lorient/">Lorient</a>
+</li>
+	<li class="cat-item cat-item-116450"><a href="/tags/french-ligue-1/montpellier/">Montpellier</a>
+</li>
+	<li class="cat-item cat-item-563"><a href="/tags/french-ligue-1/nice/">Nice</a>
+</li>
+	<li class="cat-item cat-item-447"><a href="/tags/french-ligue-1/lyon/">Olympique Lyonnais</a>
+</li>
+	<li class="cat-item cat-item-746"><a href="/tags/french-ligue-1/marseille/">Olympique Marseille</a>
+</li>
+	<li class="cat-item cat-item-595"><a href="/tags/french-ligue-1/psg/">Paris Saint-Germain</a>
+</li>
+	<li class="cat-item cat-item-101342"><a href="/tags/french-ligue-1/rc-lens/">RC Lens</a>
+</li>
+	<li class="cat-item cat-item-152654"><a href="/tags/french-ligue-1/caen/">SM Caen</a>
+</li>
+	<li class="cat-item cat-item-131265"><a href="/tags/french-ligue-1/reims/">Stade de Reims</a>
+</li>
+	<li class="cat-item cat-item-152624"><a href="/tags/french-ligue-1/rennais/">Stade Rennais</a>
+</li>
+	<li class="cat-item cat-item-142694"><a href="/tags/french-ligue-1/toulouse/">Toulouse FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/scottish-football/">Scottish Football</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-182"><a href="/tags/scottish-football/celtic/">Celtic FC</a>
+</li>
+	<li class="cat-item cat-item-185"><a href="/tags/scottish-football/rangers/">Rangers FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/general-football-and-soccer/champions-league/">Champions League</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/concacaf/">CONCACAF</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/conmebol/">CONMEBOL</a></li>
+</ul></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/video-loving/">Video</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/nutmegs/">Nutmegs</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/wags/">WAGS</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="#">About</a><ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/give-us-a-shout/">About CaughtOffside</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/give-us-a-shout/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/authors/">Authors</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/terms-of-service/">Terms of Service</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/privacy-policy/">Privacy Policy &amp; Cookies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/the-team/">Write For Us</a></li>
+</ul></li>
 </ul>
 
 <!-- MENU ENDS -->           <div class="search-wrap">
@@ -662,160 +793,264 @@ window.cookieconsent_options = {
 
 <!-- C-MENU BEGINS -->
 <ul id="menu-main-menu-1" class="off-can-nav off-canvas-list"><li><label><div class="logo logo-mobile-nav" title="fanatix"></div></label></li>
-    <li class="divider"></li>
-    <li id="menu-item-423444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-423444"><a href="/">Home</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423454"><a href="/tags/transfer-rumours/">Transfer Rumours</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423464" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-423464"><a href="/tags/premier-league/">Premier League</a>
-        <ul class="sub-menu dropdown two-col">
-            <li id="menu-item-423474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423474"><a href="/tags/premier-league/arsenal/">Arsenal FC</a></li>
-            <li id="menu-item-423564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423564"><a href="/tags/premier-league/aston-villa/">Aston Villa FC</a></li>
-            <li id="menu-item-423574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423574"><a href="/tags/premier-league/bournemouth/">Bournemouth AFC</a></li>
-            <li id="menu-item-423584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423584"><a href="/tags/premier-league/chelsea/">Chelsea FC</a></li>
-            <li id="menu-item-423594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423594"><a href="/tags/premier-league/crystal-palace/">Crystal Palace FC</a></li>
-            <li id="menu-item-423604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423604"><a href="/tags/premier-league/everton/">Everton FC</a></li>
-            <li id="menu-item-423504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423504"><a href="/tags/premier-league/leicester-city/">Leicester City FC</a></li>
-            <li id="menu-item-423514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423514"><a href="/tags/premier-league/liverpool/">Liverpool FC</a></li>
-            <li id="menu-item-423524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423524"><a href="/tags/premier-league/manchester-city/">Manchester City FC</a></li>
-            <li id="menu-item-423534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423534"><a href="/tags/premier-league/manchester-united/">Manchester United FC</a></li>
-            <li id="menu-item-423544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423544"><a href="/tags/premier-league/newcastle-united/">Newcastle United FC</a></li>
-            <li id="menu-item-423554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423554"><a href="/tags/premier-league/norwich-city/">Norwich FC</a></li>
-            <li id="menu-item-423614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423614"><a href="/tags/premier-league/southampton/">Southampton FC</a></li>
-            <li id="menu-item-423624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423624"><a href="/tags/premier-league/stoke-city/">Stoke City FC</a></li>
-            <li id="menu-item-423634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423634"><a href="/tags/premier-league/sunderland/">Sunderland AFC</a></li>
-            <li id="menu-item-423644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423644"><a href="/tags/premier-league/swansea-city/">Swansea City AFC</a></li>
-            <li id="menu-item-423654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423654"><a href="/tags/premier-league/tottenham-hotspur/">Tottenham FC</a></li>
-            <li id="menu-item-423660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423660"><a href="/tags/premier-league/watford/">Watford FC</a></li>
-            <li id="menu-item-423664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423664"><a href="/tags/premier-league/west-bromwich-albion/">West Bromwich Albion FC</a></li>
-            <li id="menu-item-423674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423674"><a href="/tags/premier-league/west-ham/">West Ham FC</a></li>
-        </ul>
-    </li>
-    <li class="divider"></li>
-    <li id="menu-item-523684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-523684"><a href="/tags/football-manager/">Football Manager</a></li>
-    <li class="divider"></li>
-    <!-- Football Section no PL --> 
-    <li id="menu-item-x1234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-x1234"><a href="#">Football</a>
-        <ul class="sub-menu dropdown">
-            <li id="menu-item-111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-111"><a href="/tags/championship/">Championship</a>
-                <ul class="sub-menu dropdown two-col">
-                    <li id="menu-item-134110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134110"><a href="/tags/championship/birmingham/">Birmingham City FC</a></li>
-                    <li id="menu-item-134120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134120"><a href="/tags/championship/blackburn/">Blackburn Rovers FC</a></li>
-                    <li id="menu-item-134130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134130"><a href="/tags/championship/bolton/">Bolton Wanderers FC</a></li>
-                    <li id="menu-item-134140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134140"><a href="/tags/championship/brentford/">Brentford FC</a></li>
-                    <li id="menu-item-134150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134150"><a href="/tags/championship/brighton/">Brighton and Hove Albion FC</a></li>
-                    <li id="menu-item-134160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134160"><a href="/tags/championship/bristol-city/">Bristol City FC</a></li>
-                    <li id="menu-item-134170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134170"><a href="/tags/championship/burnley/">Burnley FC</a></li>
-                    <li id="menu-item-134180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134180"><a href="/tags/championship/cardiff-city/">Cardiff City FC</a></li>
-                    <li id="menu-item-134190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134190"><a href="/tags/championship/charlton/">Charlton Athletic FC</a></li>
-                    <li id="menu-item-134200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134200"><a href="/tags/championship/derby-county/">Derby County FC</a></li>
-                    <li id="menu-item-134210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134210"><a href="/tags/championship/fulham/">Fulham FC</a></li>
-                    <li id="menu-item-134220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134220"><a href="/tags/championship/huddersfield/">Huddersfield Town AFC</a></li>
-                    <li id="menu-item-134230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134230"><a href="/tags/championship/hull-city/">Hull City AFC</a></li>
-                    <li id="menu-item-134240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134240"><a href="/tags/championship/ipswich-town/">Ipswich Town FC</a></li>
-                    <li id="menu-item-134250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134250"><a href="/tags/championship/leeds/">Leeds United FC</a></li>
-                    <li id="menu-item-134260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134260"><a href="/tags/championship/mk-dons/">MK Dons FC</a></li>
-                    <li id="menu-item-134270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134270"><a href="/tags/championship/middlesbrough/">Middlesbrough FC</a></li>
-                    <li id="menu-item-134280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134280"><a href="/tags/championship/nottingham-forest/">Nottingham Forest FC</a></li>
-                    <li id="menu-item-134290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134290"><a href="/tags/championship/preston-north-end/">Preston North End FC</a></li>
-                    <li id="menu-item-134300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134300"><a href="/tags/championship/queens-park-rangers/">Queens Park Rangers FC</a></li>
-                    <li id="menu-item-134310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134310"><a href="/tags/championship/reading/">Reading FC</a></li>
-                    <li id="menu-item-134320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134320"><a href="/tags/championship/rotherham/">Rotherham United FC</a></li>
-                    <li id="menu-item-134330" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134330"><a href="/tags/championship/sheffield-wednesday/">Sheffield Wednesday FC</a></li>
-                    <li id="menu-item-134340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134340"><a href="/tags/championship/wolverhampton-wanderers/">Wolverhampton Wanderers FC</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103611"><a href="/tags/german-bundesliga/">German Bundesliga</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-143610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143610"><a href="/tags/german-bundesliga/bayern-munich/">Bayern Munich</a></li>
-                    <li id="menu-item-143620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143620"><a href="/tags/german-bundesliga/borussia-dortmund/">Borussia Dortmund</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103608"><a href="/tags/la-liga/">La Liga</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-152000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152000"><a href="/tags/la-liga/atletico-madrid/">Atletico Madrid</a></li>
-                    <li id="menu-item-152010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152010"><a href="/tags/la-liga/barcelona/">Barcelona</a></li>
-                    <li id="menu-item-152020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152020"><a href="/tags/la-liga/real-madrid/">Real Madrid</a></li>
-                    <li id="menu-item-152030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152030"><a href="/tags/la-liga/valencia/">Valencia</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103614"><a href="/tags/serie-a/">Serie A</a>
-                <ul class="sub-menu dropdown two-col">
-                    <li id="menu-item-161010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161010"><a href="/tags/serie-a/ac-milan/">AC Milan</a></li>
-                    <li id="menu-item-161020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161020"><a href="/tags/serie-a/atalanta/">Atalanta</a></li>
-                    <li id="menu-item-161030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161030"><a href="/tags/serie-a/bologna/">Bologna</a></li>
-                    <li id="menu-item-161040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161040"><a href="/tags/serie-a/carpi/">Carpi</a></li>
-                    <li id="menu-item-161050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161050"><a href="/tags/serie-a/chievo/">Chievo</a></li>
-                    <li id="menu-item-161060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161060"><a href="/tags/serie-a/empoli/">Empoli</a></li>
-                    <li id="menu-item-161070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161070"><a href="/tags/serie-a/fiorentina/">Fiorentina</a></li>
-                    <li id="menu-item-161080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161080"><a href="/tags/serie-a/frosinone/">Frosinone Calcio</a></li>
-                    <li id="menu-item-161090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161090"><a href="/tags/serie-a/genoa/">Genoa</a></li>
-                    <li id="menu-item-161100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161100"><a href="/tags/serie-a/inter-milan/">Inter Milan</a></li>
-                    <li id="menu-item-161110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161110"><a href="/tags/serie-a/juventus/">Juventus</a></li>
-                    <li id="menu-item-161120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161120"><a href="/tags/serie-a/lazio/">Lazio</a></li>
-                    <li id="menu-item-161130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161130"><a href="/tags/serie-a/napoli/">Napoli</a></li>
-                    <li id="menu-item-161140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161140"><a href="/tags/serie-a/palermo/">Palermo</a></li>
-                    <li id="menu-item-161150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161150"><a href="/tags/serie-a/roma/">Roma</a></li>
-                    <li id="menu-item-161160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161160"><a href="/tags/serie-a/sampdoria/">Sampdoria</a></li>
-                    <li id="menu-item-161170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161170"><a href="/tags/serie-a/sassuolo/">Sassuolo</a></li>
-                    <li id="menu-item-161180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161180"><a href="/tags/serie-a/torino/">Torino</a></li>
-                    <li id="menu-item-161190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161190"><a href="/tags/serie-a/udinese/">Udinese</a></li>
-                    <li id="menu-item-161200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161200"><a href="/tags/serie-a/verona/">Verona</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-103620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-103620"><a href="/tags/french-ligue-1/">French Ligue 1</a>
-                <ul class="sub-menu dropdown">
-                    <li id="menu-item-171010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171010"><a href="/tags/french-ligue-1/ajaccio/">Ajaccio</a></li>
-                    <li id="menu-item-171020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171020"><a href="/tags/french-ligue-1/angers/">Angers</a></li>
-                    <li id="menu-item-171030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171030"><a href="/tags/french-ligue-1/bastia/">Bastia</a></li>
-                    <li id="menu-item-171040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171040"><a href="/tags/french-ligue-1/bordeaux/">Bordeaux</a></li>
-                    <li id="menu-item-171050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171050"><a href="/tags/french-ligue-1/caen/">Caen</a></li>
-                    <li id="menu-item-171060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171060"><a href="/tags/french-ligue-1/guingamp/">Guingamp</a></li>
-                    <li id="menu-item-171070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171070"><a href="/tags/french-ligue-1/lille/">Lille</a></li>
-                    <li id="menu-item-171080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171080"><a href="/tags/french-ligue-1/lorient/">Lorient</a></li>
-                    <li id="menu-item-171090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171090"><a href="/tags/french-ligue-1/lyon/">Lyon</a></li>
-                    <li id="menu-item-171100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171100"><a href="/tags/french-ligue-1/marseille/">Marseille</a></li>
-                    <li id="menu-item-171110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171110"><a href="/tags/french-ligue-1/monaco/">Monaco</a></li>
-                    <li id="menu-item-171120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171120"><a href="/tags/french-ligue-1/montpellier/">Montpellier</a></li>
-                    <li id="menu-item-171130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171130"><a href="/tags/french-ligue-1/nantes/">Nantes</a></li>
-                    <li id="menu-item-171140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171140"><a href="/tags/french-ligue-1/nice/">Nice</a></li>
-                    <li id="menu-item-171150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171150"><a href="/tags/french-ligue-1/psg/">Paris Saint-Germain</a></li>
-                    <li id="menu-item-171160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171160"><a href="/tags/french-ligue-1/reims/">Reims</a></li>
-                    <li id="menu-item-171170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171170"><a href="/tags/french-ligue-1/rennais/">Rennes</a></li>
-                    <li id="menu-item-171180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171180"><a href="/tags/french-ligue-1/saint-etienne/">Saint-Etienne</a></li>
-                    <li id="menu-item-171190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171190"><a href="/tags/french-ligue-1/toulouse/">Toulouse</a></li>
-                    <li id="menu-item-171200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171200"><a href="/tags/french-ligue-1/troyes/">Troyes</a></li>
-                </ul>
-            </li>
-            <li id="menu-item-x1212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-x1212"><a href="/tags/scottish-football/">Scottish Football</a>
-                <ul class="sub-menu dropdown">
-					<li id="menu-item-182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182"><a href="/tags/scottish-football/celtic/">Celtic FC</a></li>
-					<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185"><a href="/tags/scottish-football/rangers/">Rangers FC</a></li>
-                </ul>
-            </li>
-            <li><a href="/tags/general-football-and-soccer/champions-league/">Champions League</a></li>
-            <li><a href="/tags/concacaf/">CONCACAF</a></li>
-            <li><a href="/tags/conmebol/">CONMEBOL</a></li>
-        </ul>
-    </li>
-    <!-- end -->
-    <li class="divider"></li>
-    <li id="menu-item-423684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423684"><a href="/tags/video-loving/">Video</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423894"><a href="/tags/nutmegs/">Nutmegs</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-423694"><a href="/tags/wags/">WAGS</a></li>
-    <li class="divider"></li>
-    <li id="menu-item-423834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-423834"><a href="#">About</a>
-        <ul class="sub-menu dropdown">
-            <li id="menu-item-423844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423844"><a href="/give-us-a-shout/">About CaughtOffside</a></li>
-            <li id="menu-item-423854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423854"><a href="/give-us-a-shout/contact-us/">Contact us</a></li>
-            <li id="menu-item-423904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423904"><a href="/authors/">Authors</a></li>
-            <li id="menu-item-833324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833324"><a href="/terms-of-service/">Terms of service</a></li>
-            <li id="menu-item-423864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423864"><a href="/privacy-policy/">Privacy Policy &amp; Cookies</a></li>
-            <li id="menu-item-423874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423874"><a href="/the-team/">Write For Us</a></li>
-        </ul>
-    </li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/">Home</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/general-football-and-soccer/world-cup/">World Cup 2018</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/transfer-rumours/">Transfer Rumours</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/premier-league/">Premier League</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-134286"><a href="/tags/premier-league/bournemouth/">AFC Bournemouth</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="/tags/premier-league/arsenal/">Arsenal FC</a>
+</li>
+	<li class="cat-item cat-item-132573"><a href="/tags/premier-league/brighton/">Brighton and Hove Albion</a>
+</li>
+	<li class="cat-item cat-item-167574"><a href="/tags/premier-league/burnley-fc/">Burnley FC</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="/tags/premier-league/chelsea/" title="Caughtoffside.com - A Leading Football blog for all Chelsea FC fans. offering Chelsea news and Chelsea articles. Get latest Chelsea transfer rumours and Chelsea gossip.">Chelsea FC</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="/tags/premier-league/crystal-palace/">Crystal Palace FC</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="/tags/premier-league/everton/" title="Caughtoffside.com – The leading Football blog for all Everton FC fans. Containing Everton transfer rumours, Everton gossip, Everton fans comments, Different Everton articles and updated Everton news.">Everton FC</a>
+</li>
+	<li class="cat-item cat-item-157144"><a href="/tags/premier-league/huddersfield/">Huddersfield Town FC</a>
+</li>
+	<li class="cat-item cat-item-166"><a href="/tags/premier-league/leicester-city/">Leicester City FC</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="/tags/premier-league/liverpool/" title="Caughtoffside.com is the Football blog for all liverpool FC fans, containing liverpool news, liverpool articles, liverpool gossip and liverpool rumors.">Liverpool FC</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="/tags/premier-league/manchester-city/">Manchester City</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="/tags/premier-league/manchester-united/" title="Caughtoffside.com – The leading Football blog for all Manchester United FC fans. Containing Man UTD transfer rumours, Manchester United gossip, Manchester United fc updates and Manchester United news.">Manchester United FC</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="/tags/premier-league/newcastle-united/" title="Caughtoffside.com – The leading Football blog for all Newcastle FC fans. Containing Newcastle transfer rumours, Newcastle gossip, Newcastle fc updates, Different Newcastle articles and updated Newcastle news.">Newcastle United FC</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="/tags/premier-league/southampton/">Southampton FC</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="/tags/premier-league/stoke-city/">Stoke City FC</a>
+</li>
+	<li class="cat-item cat-item-1997"><a href="/tags/premier-league/swansea-city/">Swansea City AFC</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="/tags/premier-league/tottenham-hotspur/" title="Caughtoffside.com is the leading Football blog for all Tottenham FC fans, containing information about: Tottenham news, Tottenham articles, Tottenham gossip and Tottenham rumors.">Tottenham FC</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="/tags/premier-league/watford/">Watford FC</a>
+</li>
+	<li class="cat-item cat-item-150"><a href="/tags/premier-league/west-bromwich-albion/">West Bromwich Albion FC</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="/tags/premier-league/west-ham/">West Ham FC</a>
+</li>
+</ul></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/football-manager/">Football Manager</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="#">Football</a><ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/championship/">Championship</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-15"><a href="/tags/championship/aston-villa/">Aston Villa FC</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="/tags/championship/barnsley/" title="Caughtoffside.com is the leading Football blog for all Barnsley fans, containing information about all Barnsley games &amp; players: Barnsley news, Barnsley articles, Barnsley gossip and Barnsley rumors.">Barnsley FC</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="/tags/championship/birmingham/">Birmingham FC</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="/tags/championship/blackburn/">Blackburn FC</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="/tags/championship/bolton/">Bolton FC</a>
+</li>
+	<li class="cat-item cat-item-157124"><a href="/tags/championship/brentford/">Brentford FC</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="/tags/championship/bristol-city/">Bristol City FC</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="/tags/championship/burnley/">Burnley FC</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="/tags/championship/cardiff-city/">Cardiff City FC</a>
+</li>
+	<li class="cat-item cat-item-157134"><a href="/tags/championship/charlton/">Charlton Athletic FC</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="/tags/championship/coventry-city/">Coventry City FC</a>
+</li>
+	<li class="cat-item cat-item-137"><a href="/tags/championship/derby-county/">Derby County FC</a>
+</li>
+	<li class="cat-item cat-item-1996"><a href="/tags/championship/doncaster-rovers/">Doncaster Rovers FC</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="/tags/championship/fulham/">Fulham FC</a>
+</li>
+	<li class="cat-item cat-item-163"><a href="/tags/championship/hull-city/">Hull City FC</a>
+</li>
+	<li class="cat-item cat-item-157"><a href="/tags/championship/ipswich-town/">Ipswich Town FC</a>
+</li>
+	<li class="cat-item cat-item-170"><a href="/tags/championship/leeds/">Leeds United FC</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="/tags/championship/middlesbrough/">Middlesbrough FC</a>
+</li>
+	<li class="cat-item cat-item-167584"><a href="/tags/championship/middlesbrough-fc/">Middlesbrough FC</a>
+</li>
+	<li class="cat-item cat-item-157104"><a href="/tags/championship/mk-dons/">MK Dons FC</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="/tags/championship/norwich-city/">Norwich City FC</a>
+</li>
+	<li class="cat-item cat-item-1995"><a href="/tags/championship/nottingham-forest/">Nottingham Forest FC</a>
+</li>
+	<li class="cat-item cat-item-99899"><a href="/tags/championship/peteborough-united/">Peterborough United</a>
+</li>
+	<li class="cat-item cat-item-160"><a href="/tags/championship/plymouth-argyle/">Plymouth Argyle FC</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="/tags/championship/portsmouth/">Portsmouth FC</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="/tags/championship/preston-north-end/">Preston North End FC</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="/tags/championship/queens-park-rangers/">Queens Park Rangers FC</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="/tags/championship/reading/">Reading FC</a>
+</li>
+	<li class="cat-item cat-item-157154"><a href="/tags/championship/rotherham/">Rotherham United FC</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="/tags/championship/scunthorpe-united/">Scunthorpe United FC</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="/tags/championship/sheffield-united/">Sheffield United FC</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="/tags/championship/sheffield-wednesday/">Sheffield Wednesday FC</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="/tags/championship/sunderland/">Sunderland AFC</a>
+</li>
+	<li class="cat-item cat-item-158"><a href="/tags/championship/wolverhampton-wanderers/">Wolverhampton Wanderers FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/german-bundesliga/">German Bundesliga</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-301"><a href="/tags/german-bundesliga/bayern-munich/">Bayern Munich</a>
+</li>
+	<li class="cat-item cat-item-323"><a href="/tags/german-bundesliga/borussia-dortmund/">Borussia Dortmund</a>
+</li>
+	<li class="cat-item cat-item-171313"><a href="/tags/german-bundesliga/schalke/">FC Schalke 04</a>
+</li>
+	<li class="cat-item cat-item-171314"><a href="/tags/german-bundesliga/rb-leipzig/">RB Leipzig</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/la-liga/">La Liga</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-521"><a href="/tags/la-liga/atletico-madrid/">Atletico Madrid</a>
+</li>
+	<li class="cat-item cat-item-101189"><a href="/tags/la-liga/barcelona/">FC Barcelona</a>
+</li>
+	<li class="cat-item cat-item-101188"><a href="/tags/la-liga/real-madrid/">Real Madrid CF</a>
+</li>
+	<li class="cat-item cat-item-171315"><a href="/tags/la-liga/sevilla/">Sevilla FC</a>
+</li>
+	<li class="cat-item cat-item-132493"><a href="/tags/la-liga/valencia/">Valencia CF</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/serie-a/">Serie A</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-128973"><a href="/tags/serie-a/ac-milan/">AC Milan</a>
+</li>
+	<li class="cat-item cat-item-100494"><a href="/tags/serie-a/atalanta/">Atalanta</a>
+</li>
+	<li class="cat-item cat-item-157734"><a href="/tags/serie-a/bologna/">Bologna FC 1909</a>
+</li>
+	<li class="cat-item cat-item-102085"><a href="/tags/serie-a/cagliari/">Cagliari</a>
+</li>
+	<li class="cat-item cat-item-157164"><a href="/tags/serie-a/carpi/">Carpi FC</a>
+</li>
+	<li class="cat-item cat-item-128606"><a href="/tags/serie-a/cesena/">Cesena</a>
+</li>
+	<li class="cat-item cat-item-107032"><a href="/tags/serie-a/chievo/">Chievo</a>
+</li>
+	<li class="cat-item cat-item-139144"><a href="/tags/serie-a/empoli/">Empoli</a>
+</li>
+	<li class="cat-item cat-item-754"><a href="/tags/serie-a/fiorentina/">Fiorentina</a>
+</li>
+	<li class="cat-item cat-item-157174"><a href="/tags/serie-a/frosinone/">Frosinone Calcio</a>
+</li>
+	<li class="cat-item cat-item-745"><a href="/tags/serie-a/genoa/">Genoa</a>
+</li>
+	<li class="cat-item cat-item-316"><a href="/tags/serie-a/inter-milan/">Inter Milan</a>
+</li>
+	<li class="cat-item cat-item-312"><a href="/tags/serie-a/juventus/">Juventus</a>
+</li>
+	<li class="cat-item cat-item-139154"><a href="/tags/serie-a/lazio/">Lazio</a>
+</li>
+	<li class="cat-item cat-item-409"><a href="/tags/serie-a/napoli/">Napoli</a>
+</li>
+	<li class="cat-item cat-item-450"><a href="/tags/serie-a/palermo/">Palermo</a>
+</li>
+	<li class="cat-item cat-item-102043"><a href="/tags/serie-a/parma/">Parma</a>
+</li>
+	<li class="cat-item cat-item-383"><a href="/tags/serie-a/roma/">Roma</a>
+</li>
+	<li class="cat-item cat-item-528"><a href="/tags/serie-a/sampdoria/">Sampdoria</a>
+</li>
+	<li class="cat-item cat-item-134908"><a href="/tags/serie-a/sassuolo/">Sassuolo</a>
+</li>
+	<li class="cat-item cat-item-403"><a href="/tags/serie-a/torino/">Torino</a>
+</li>
+	<li class="cat-item cat-item-132399"><a href="/tags/serie-a/udinese/">Udinese</a>
+</li>
+	<li class="cat-item cat-item-130429"><a href="/tags/serie-a/verona/">Verona</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/french-ligue-1/">French Ligue 1</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-157204"><a href="/tags/french-ligue-1/ajaccio/">AC Ajaccio</a>
+</li>
+	<li class="cat-item cat-item-157214"><a href="/tags/french-ligue-1/angers/">Angers SCO</a>
+</li>
+	<li class="cat-item cat-item-324"><a href="/tags/french-ligue-1/monaco/">AS Monaco</a>
+</li>
+	<li class="cat-item cat-item-152634"><a href="/tags/french-ligue-1/saint-etienne/">AS Saint-Etienne</a>
+</li>
+	<li class="cat-item cat-item-126123"><a href="/tags/french-ligue-1/bastia/">Bastia</a>
+</li>
+	<li class="cat-item cat-item-422"><a href="/tags/french-ligue-1/bordeaux/">Bordeaux</a>
+</li>
+	<li class="cat-item cat-item-157234"><a href="/tags/french-ligue-1/troyes/">ESTAC Troyes</a>
+</li>
+	<li class="cat-item cat-item-152604"><a href="/tags/french-ligue-1/evian-tg/">Evian TG</a>
+</li>
+	<li class="cat-item cat-item-137734"><a href="/tags/french-ligue-1/fc-metz/">FC Metz</a>
+</li>
+	<li class="cat-item cat-item-142644"><a href="/tags/french-ligue-1/nantes/">FC Nantes</a>
+</li>
+	<li class="cat-item cat-item-135164"><a href="/tags/french-ligue-1/guingamp/">Guingamp</a>
+</li>
+	<li class="cat-item cat-item-836"><a href="/tags/french-ligue-1/lille/">Lille</a>
+</li>
+	<li class="cat-item cat-item-117116"><a href="/tags/french-ligue-1/lorient/">Lorient</a>
+</li>
+	<li class="cat-item cat-item-116450"><a href="/tags/french-ligue-1/montpellier/">Montpellier</a>
+</li>
+	<li class="cat-item cat-item-563"><a href="/tags/french-ligue-1/nice/">Nice</a>
+</li>
+	<li class="cat-item cat-item-447"><a href="/tags/french-ligue-1/lyon/">Olympique Lyonnais</a>
+</li>
+	<li class="cat-item cat-item-746"><a href="/tags/french-ligue-1/marseille/">Olympique Marseille</a>
+</li>
+	<li class="cat-item cat-item-595"><a href="/tags/french-ligue-1/psg/">Paris Saint-Germain</a>
+</li>
+	<li class="cat-item cat-item-101342"><a href="/tags/french-ligue-1/rc-lens/">RC Lens</a>
+</li>
+	<li class="cat-item cat-item-152654"><a href="/tags/french-ligue-1/caen/">SM Caen</a>
+</li>
+	<li class="cat-item cat-item-131265"><a href="/tags/french-ligue-1/reims/">Stade de Reims</a>
+</li>
+	<li class="cat-item cat-item-152624"><a href="/tags/french-ligue-1/rennais/">Stade Rennais</a>
+</li>
+	<li class="cat-item cat-item-142694"><a href="/tags/french-ligue-1/toulouse/">Toulouse FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="/tags/scottish-football/">Scottish Football</a><ul class="sub-menu dropdown two-col">	<li class="cat-item cat-item-182"><a href="/tags/scottish-football/celtic/">Celtic FC</a>
+</li>
+	<li class="cat-item cat-item-185"><a href="/tags/scottish-football/rangers/">Rangers FC</a>
+</li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/general-football-and-soccer/champions-league/">Champions League</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/concacaf/">CONCACAF</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/conmebol/">CONMEBOL</a></li>
+</ul></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/video-loving/">Video</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/nutmegs/">Nutmegs</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/tags/wags/">WAGS</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown"><a href="#">About</a><ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/give-us-a-shout/">About CaughtOffside</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/give-us-a-shout/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/authors/">Authors</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/terms-of-service/">Terms of Service</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/privacy-policy/">Privacy Policy &amp; Cookies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/the-team/">Write For Us</a></li>
+</ul></li>
 </ul>
 
 <!-- MENU ENDS -->
@@ -877,8 +1112,8 @@ window.cookieconsent_options = {
         <div class="large-7 medium-12 columns">
 
 			
-				
-<article id="post-115052" class="post-115052 page type-page status-publish hentry">
+
+<article id="news-story" class="post-115052 page type-page status-publish hentry">
 	<header class="entry-header">
 		<h1 class="entry-title">Privacy Policy &amp; Cookies</h1> 
 	</header><!-- .entry-header -->
@@ -919,9 +1154,46 @@ window.cookieconsent_options = {
 			
 		</div>
 		<div class="large-3 medium-12 columns">
-				<div id="secondary" class="widget-area" role="complementary">
+                  <aside class="sidebar-container clearfix">
+<article class="post ad-holder">
+	<div id="newsnowlogo" title="Click here for more Football news from NewsNow" style="width: 300px; margin: 0px; padding: 0px; border: 1px solid rgb(204, 204, 204); background: rgb(85, 85, 85); color: rgb(255, 255, 255); font-size: 11px; line-height: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; cursor: pointer;">
+             <div style="margin:0;padding:0;border:1px solid #fff;background:#555;">
+                 <div style="margin:0;padding:0;border:0;width:160px;height:50px;float:left;">
+                     <img src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/img/newsnow_f_ab.gif" alt="As featured on NewsNow: Football news" style="display:block;margin:0;padding:0;border:0;width:160px;height:50px;">
+                 </div>
+                 <div style="padding:0;border:0;margin:0 0 0 160px;text-align:center;">
+                     <span style="margin:0;padding:0;border:0;display:inline-block;vertical-align:middle;text-align:center;width:120px;">
+                         <a id="newsnowlogo_a" rel="nofollow" href="http://www.newsnow.co.uk/h/Sport/Football" target="newsnow" style="color: rgb(255, 255, 255); text-decoration: none; border-bottom: 0px none;">Football News</a> 24/7</span>
+                     <span style="margin:0;padding:0;border:0;display:inline-block;height:50px;width:1px;vertical-align:middle;line-height:50px;font-size:1px;">&nbsp;</span>
+                 </div>
+             </div>
+        </div>
+<script type="text/javascript">
+document.getElementById('newsnowlogo').onclick=function(){ window.open('http://www.newsnow.co.uk/h/Sport/Football','newsnow'); };
+document.getElementById('newsnowlogo').style.cursor='pointer';
+document.getElementById('newsnowlogo_a').style.textDecoration='none';
+document.getElementById('newsnowlogo_a').style.borderBottom='0 none';
+</script>
+
+
+    <div id="cos-transfer">
+        <h2 title="fanatix Network"><span></span></h2>
+        <ul>
+			<li><a href="http://www.empireofthekop.com/" title="Liverpool News"><span></span>Liverpool Blog</a></li>
+			<li><a href="http://www.chelsea-news.co/" title="Chelsea News"><span></span>Chelsea News</a></li>
+        </ul>
+    </div>
+</article>
+<div id="secondary" class="widget-area" role="complementary">
 	<aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
-			<li><a href="http://www.caughtoffside.com/2017/11/">November 2017</a></li>
+			<li><a href="http://www.caughtoffside.com/2018/06/">June 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2018/05/">May 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2018/04/">April 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2018/03/">March 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2018/02/">February 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2018/01/">January 2018</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/12/">December 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/11/">November 2017</a></li>
 	<li><a href="http://www.caughtoffside.com/2017/10/">October 2017</a></li>
 	<li><a href="http://www.caughtoffside.com/2017/09/">September 2017</a></li>
 	<li><a href="http://www.caughtoffside.com/2017/08/">August 2017</a></li>
@@ -1070,6 +1342,7 @@ window.cookieconsent_options = {
 	<li><a href="http://www.caughtoffside.com/2005/09/">September 2005</a></li>
 		</ul>
 		</aside></div><!-- #secondary -->
+                  </aside>
 		</div>
 	</div>
 	</section>
@@ -1097,16 +1370,16 @@ var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"}
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/plugins/table-of-contents-plus/front.js?ver=1404"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201747"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201826"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var fanatix_params = {"news_posts_per_page":"10","featured_posts_per_page":"10","latest_posts_per_page":"10","col1_mode":"featured","col2_mode":"latest","col3_mode":"mostread","fanatixfeed_posts_per_page":"26","replayfeed_posts_per_page":"9","mostread_posts_per_page":"26","site_url":"http:\/\/www.caughtoffside.com","template_url":"http:\/\/www.caughtoffside.com\/wp-content\/themes\/cos-2-0","dfp_adunit_identifier":"CaughtOffside","replayfeed_url":"http:\/\/video.fanatix.com\/","fanatixfeed_api_fetch_direct":"1","fanatixfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.5\/news\/all","fanatixfeed_api_news_config":"caughtoffside-news-web","fanatixfeed_api_app_id":"caughtoffside-news-web","fanatixfeed_api_app_version":"1.0","replayfeed_api_fetch_direct":"1","replayfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.6\/news\/replay","replayfeed_api_app_id":"caughtoffside-news-web","replayfeed_api_app_version":"8.3","replayfeed_autoplay":"visible","replayfeed_api_order":"latest","replayfeed_attraction_id":"","display_slider_categories":"1","config_infinite_scroll_enabled":"1"};
+var fanatix_params = {"news_posts_per_page":"10","featured_posts_per_page":"10","latest_posts_per_page":"10","col1_mode":"featured","col2_mode":"latest","col3_mode":"mostread","fanatixfeed_posts_per_page":"26","replayfeed_posts_per_page":"9","mostread_posts_per_page":"26","site_url":"http:\/\/www.caughtoffside.com","template_url":"http:\/\/www.caughtoffside.com\/wp-content\/themes\/cos-2-0","dfp_adunit_identifier":"CaughtOffside","replayfeed_url":"http:\/\/video.fanatix.com\/","fanatixfeed_api_fetch_direct":"1","fanatixfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.5\/news\/all","fanatixfeed_api_news_config":"caughtoffside-news-web","fanatixfeed_api_app_id":"caughtoffside-news-web","fanatixfeed_api_app_version":"1.0","replayfeed_api_fetch_direct":"1","replayfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.6\/news\/replay","replayfeed_api_app_id":"caughtoffside-news-web","replayfeed_api_app_version":"8.3","replayfeed_autoplay":"visible","replayfeed_api_order":"latest","replayfeed_attraction_id":"","display_slider_categories":"1","config_infinite_scroll_enabled":"1","config_enable_costv_embeds":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/js/script.57.min.js"></script>
+<script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/js/script.78.min.js"></script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
 
-	<script src="http://stats.wp.com/e-201747.js" type="text/javascript"></script>
+	<script src="http://stats.wp.com/e-201826.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:3.3',blog:'3497552',post:'115052',tz:'1'});
 	var load_cmc = function(){linktracker_init(3497552,115052,2);};
@@ -1136,19 +1409,12 @@ if(!fanatix.runtime.redirecting) {
 			});//googletag.pubads().addEventListener('slotRenderEnded', function(event) {
 
 			fanatix.lib.debug('DFP: Starting all the initial on-page defineSlot()s');
-			var ad_unit = '/1101651/Web-All-CaughtOffside-ROS-ResHeader';
+var ad_unit = '/1101651/Web-All-CaughtOffside-ROS-ResHeader';
 if(fanatix.ads.dfp.split_tests['dfp-ros-res-header'])
 	ad_unit = ad_unit.replace('{slot}', fanatix.ads.dfp.split_tests['dfp-ros-res-header'].slot);
 fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-res-header, '+ad_unit+')');
 fanatix.ads.dfp.slots['dfp-ros-res-header'] = googletag.defineSlot(ad_unit, [320, 50], 'dfp-ros-res-header').
 	defineSizeMapping(googletag.sizeMapping().addSize([320, 400], [320, 50]).addSize([480, 200], [468, 60]).addSize([768, 200], [728, 90]).addSize([1000, 200], [[728, 90], [970, 250], [970, 66], [970, 90]]).build()).addService(googletag.pubads());
-
-var ad_unit = '/1101651/Web-All-CaughtOffside-ROS-FullScreen';
-if(fanatix.ads.dfp.split_tests['dfp-ros-fullscreen'])
-	ad_unit = ad_unit.replace('{slot}', fanatix.ads.dfp.split_tests['dfp-ros-fullscreen'].slot);
-fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-fullscreen, '+ad_unit+')');
-fanatix.ads.dfp.slots['dfp-ros-fullscreen'] = googletag.defineSlot(ad_unit, [1, 1], 'dfp-ros-fullscreen').
-	addService(googletag.pubads());
 
 			fanatix.lib.debug('DFP: googletag.pubads().enableSingleRequest()');
 			googletag.pubads().enableSingleRequest();
