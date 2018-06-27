@@ -1,42 +1,40 @@
-> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906002139id_/https%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163026id_/https%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Sexual Violence Resource Center (NSVRC)
 
-This privacy notice discloses the privacy practices of the National Sexual Violence Resource Center and our website, http://www.nsvrc.org. This privacy notice applies solely to information collected by this website, except where stated otherwise.
+This privacy notice discloses the privacy practices of the National Sexual Violence Resource Center and our [website](https://web.archive.org/), as well as other websites we own and manage. This privacy notice applies solely to information collected by these websites, except where stated otherwise.
 
 **Who owns the information we collect?**
 
-We are the sole owners of the information collected on this site. We only have access to or collect information that you voluntarily give us by visiting the website, by email, or other direct contact from you. We will not sell (transfer ownership), rent, or trade this information.
+We are the sole owners of the information collected on this website. We only have access to or collect information that you voluntarily give us by visiting the website, by email, or other direct contact from you. We will not sell (transfer ownership), rent, or trade this information.
 
 **What personal information do we collect from the people that visit our website?**
 
-When registering on our site, as appropriate, you may be asked to enter your name, email address, and other information we use to understand our audience or requested by our funders.
+When registering on our website, as appropriate, you may be asked to enter your name, email address, and other information we use to understand our audience or requested by our funders.
 
 **When do we collect information?**
 
-We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site. We also use Google Analytics to gather information about interactions with our website and produce aggregate reports about our visitors.
+We collect information from you when you register on our website, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site. We also use Google Analytics to gather information about interactions with our website and produce aggregate reports about our visitors.
 
 **How do we use your information?**
 
 We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or other communication, visit the website, or use other site features in the following ways:
 
-•       To improve our website.
+  * To improve our website.
+  * To send periodic emails to you.
+  * To follow up with you after correspondence (email or phone inquiries).
+  * To provide you with information or services described in a form you respond to.
+  * To report on website traffic and activities to our current or future funders.
 
-•       To send periodic emails to you.
 
-•       To follow up with you after correspondence (email or phone inquiries).
-
-•       To provide you with information or services described in a form you respond to.
-
-•       To report on website traffic and activities to our current or future funders.
 
 **How do we protect your information?**
 
-Our website is hosted by [Pantheon](https://pantheon.io/), a company based in San Francisco, California, that employs a number of [security measures](https://pantheon.io/security) to protect the integrity of its web servers from intrusion.
+Our primary website is hosted by [Pantheon](https://pantheon.io/), a company based in San Francisco, California, that employs a number of [security measures](https://pantheon.io/security) to protect the integrity of its web servers from intrusion. Portions of our website may also direct visitors to pages hosted by other companies, including [Blackbaud, Inc.](https://www.blackbaud.com/), and [ClassroomRevolution, LLC](http://classroomrevolution.com/). The privacy policies of these companies can be found on their websites.
 
 **Do we use 'cookies'?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to remember that you have logged into our website. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to remember that you have logged into our website. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
@@ -46,30 +44,30 @@ If you turn cookies off, you will not be able to log into the website. This may 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other websites. We encourage our users to be aware when they leave our website and to read the privacy statements of any other site that collects personally identifiable information.
 
 **California Online Privacy Protection Act (CalOPPA)**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States that operates websites collecting personally identifiable information from California consumers to post a privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States that operates websites collecting personally identifiable information from California consumers to post a privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa>
 
   
 **According to CalOPPA, we agree to the following:**
 
-•       Users can visit our site anonymously.
+  * Users can visit our website anonymously.
+  * Our Privacy Policy link includes the word 'Privacy' and can easily be found on our website.
+  * You will be notified of any Privacy Policy changes on our Privacy Policy page.
+  * Your personal information can be changed by logging in to your account.
 
-•       Our Privacy Policy link includes the word 'Privacy' and can easily be found on our website.
 
-•       You will be notified of any Privacy Policy changes on our Privacy Policy page.
 
-•       Your personal information can be changed by logging in to your account.
-
+  
 **How does our site handle Do Not Track signals?**
 
-Do Not Track (DNT) is a privacy preference that users may be able to set in some web browsers. It allows users to opt out of tracking by websites and online services. Currently, the World Wide Web Consortium (W3C) does not have established universal standards regarding DNT signals, and therefore, the Website does not recognize DNT privacy preferences.
+Do Not Track (DNT) is a privacy preference that users may be able to set in some web browsers. It allows users to opt out of tracking by websites and online services. Currently, the World Wide Web Consortium (W3C) does not have established universal standards regarding DNT signals, and therefore, this website does not recognize DNT privacy preferences.
 
 **COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not produce content, develop materials, or provide services designed for children under the age of 13 years old. Any child-oriented content found on our site is intended for use by adults who work with children.
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not produce content, develop materials, or provide services designed for children under the age of 13 years old. Any child-oriented content found on our website is intended for use by adults who work with children.
 
 **Fair Information Practices**
 
@@ -88,34 +86,35 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **We collect your email address in order to:**
 
-       **•**  Send information, respond to inquiries, and/or other requests or questions
+  * Send information, respond to inquiries, and/or other requests or questions
 
-  
+
+
 **To be in accordance with CAN-SPAM, we agree to the following:**
 
-       **•**  Not use false or misleading subjects or email addresses.
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
 
-       **•**  Identify the message as an advertisement in some reasonable way.
 
-       **•**  Include the physical address of our business or site headquarters.
-
-       **•**  Monitor third-party email marketing services for compliance, if one is used.
-
-       **•**  Honor opt-out/unsubscribe requests quickly.
-
-       **•**  Allow users to unsubscribe by using the link at the bottom of each email.
 
   
-If at any time you would like to unsubscribe from receiving future emails, you can email us at resources@nsvrc.org and we will promptly remove you from all correspondence. You can also follow the instructions at the bottom of any email you receive from us that has been sent through a bulk emailing service.
+If at any time you would like to unsubscribe from receiving future emails, please [contact us](https://web.archive.org/contact) and we will promptly remove you from all correspondence. You can also follow the instructions at the bottom of any email you receive from us that has been sent through a bulk emailing service.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+If there are any questions regarding this privacy policy, you may [contact us through our website](https://web.archive.org/contact) or use the following information:
 
 National Sexual Violence Resource Center  
 2101 N Front Street  
 Governor’s Plaza North, Building #2  
-Harrisburg, PA  17110  
+Harrisburg, PA  17110
+
 (877) 739-3895
 
-_Last Edited on 2017-06-26_
+* * *
+
+Last Edited on 2018-03-09
