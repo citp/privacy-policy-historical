@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the damndelicious.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108092500id_/http%3A//damndelicious.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damndelicious.net privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627064820id_/https%3A//damndelicious.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Damn Delicious
 
-This privacy policy sets out how **Damn Delicious** uses and protects any information that you give while using **http://damndelicious.net**.
+This privacy policy sets out how Damn Delicious uses and protects any information that you give while using [https://damndelicious.net](https://damndelicious.net/).
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
