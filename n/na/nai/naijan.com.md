@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025005250id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174108id_/https%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
-# Privacy - NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa | NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa
-
-## Privacy
+# PrivacyNaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa | NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa
 
 Naijagists.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
