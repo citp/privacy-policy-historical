@@ -1,26 +1,79 @@
-> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001004223id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627025209id_/https%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | FM Scout
-
-Written by   Updated on September 15, 2010 Published on November 7, 2009   79046 views  
+# FM Scout Privacy Policy | FM Scout
 
 Privacy Policy for fmscout.com
 
-_The privacy of our visitors to fmscout.com is important to us._
+_This FM Scout Privacy Policy (“Policy”) outlines the information that fmscout.com (“fmscout”, “we”, “us” or “our website”) gathers, how we use that information, and the options you have to access, correct, or delete such information._
 
-At fmscout.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit fmscout.com, and how we safeguard your information. We never sell your personal information to third parties.
+At fmscout.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our website, and how we safeguard your information. We never sell, rent, share, or otherwise disclose your personal information to third parties.
 
-**Log Files**  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+### INFORMATION WE COLLECT
 
-**Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Members:
 
-We also use third party advertisements on fmscout.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+\- **Your account registration information** (email address and username).   
+By default, your email address is private unless you opt to make it public (via your "Account Settings" area) or if you use your email address as your username (you really shouldn't do that).   
+We require a valid email address to send you a verification message so you can complete your registration. This ensures we avoid getting spam content originating from bots and guest visitors. Member-only generated content drastically improves the chances of getting quality content, while enabling us to better patrol the website from people violating our posting guidelines.
 
-**DoubleClick DART cookies**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+\- **Your settings from the "Account Settings" section** of the website (such as your chosen timezone and communication preferences).   
+There are _additional profile information_ you can fill out (e.g. profile picture, football club you support, country, birth date and gender), which are all optional and can be left empty.  
+Besides _communication preferences_ (which are private and only relate to how you get notified about content you care about), additional profile information can be filled for sharing more details about yourself in public. You can change/remove these at any time.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+\- **Your published fmscout data** (uploaded files, articles, forum posts, comments).   
+This is _user generated content_ that is _publicly accessible_ (to our guests as well). Published fmscout content is not hidden behind a member-only wall and is free for all.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+Customers:
+
+We resell the Football Manager game series through our Nexway store. We also actively support the authors of our exclusive _Football Manager tools_ (Genie Scout and FMS Editor) by promoting the purchase of the premium editions (in the form of a license number or file) via the Fastspring service.
+
+\- Our partner **Nexway** handles payment processing and stores the billing details required to verify your purchase. They provide fmscout with your email address and the game title of choice, which enables us to compare and match member emails in order to reward those members with the relevant "verified buyer" site badge.   
+You may refer to [Nexway's legal notice and policy](https://corporate.nexway.com/legal-notice-privacy/) for more details.
+
+\- **Fastspring** is the payment handler of choice for both authors of our exclusive tools. We do not keep any customer data from that source on fmscout. However, the tool authors and their customer support team can access Fastspring's database whenever a customer needs a license regenerated (in case of loss or computer change).  
+You may refer to [Fastspring's privacy policy](http://fastspring.com/privacy/) for more details.
+
+#### What else?
+
+\- **We collect and use the data contained in log files**. The information in the log files include your device type (desktop, tablet or mobile), your IP address, browser type (such as Edge, Chrome or Firefox), the time you visited our site and which pages you visited throughout our site. We may see your geographic location based on the IP address.   
+Log files are mainly used for analyzing our website's performance and how our users enjoy our content. However, from time to time we have to deal with DDoS attacks (from ill-minded individuals) or naughty abusive activity (from people who don't value their membership). An IP ban/block could come in handy during such unfortunate occasions.
+
+\- **We do use cookies to store information** , such as your personal preferences when you visit our site.   
+This could include only showing you a pop-up box once in your visit, or the ability to login to some of our features (such as the forums), or to keep you signed in to your member account without having to log in every time you access our website.
+
+### THIRD PARTY USE
+
+\- **We use third party tracking services** ( _Google Analytics_ ) that use cookies and page tags.   
+We do this to collect aggregated and anonymized data about our website visitors. The data might include usage and user stats.   
+You may prevent your data from being used by Google Analytics by using [the official GA Opt-Out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+\- **We use third party advertisements on fmscout to support our site**.   
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the _Google AdSense_ program) information including your IP address. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+\- We also may use **DART cookies for ad serving** through _Google's DoubleClick_ , which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests.
+
+#### Dealing with cookies or unwanted ads
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into our forums or your member account.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+You can't stop getting ads online, but you can remove some unwanted ads. You can also stop getting ads that are based on your interests and info (IBA). Please refer to Google's relevant support article on [how to block certain ads](https://support.google.com/ads/answer/2662922?hl=en).
+
+### DATA SUBJECT RIGHTS
+
+\- You have the **right to update** your personal and account information via the Account Settings area.   
+To change your username and/or email address you need to make a request to Stam via private message or live chat message on fmscout.com.
+
+\- You may also **request the deletion** of a certain forum post or topic you no longer want to remain online, as well as request deletion of your member account as a whole. Deleting your account doesn't mean your published content gets removed with it.   
+You may email Stam with any such requests, and we will respond within thirty (30) days (usually within 24 hours). 
+
+\- Customers may request to update or delete their Account Information by contacting the relevant people in charge (Nexway customer service in case of FM purchases, or our software authors in case of GS/FMSE licenses).
+
+### CONTACT INFORMATION
+
+We're FM Scout. A fan site community dedicated to the Football Manager game series. Online since late 2004.
+
+Essentially, fmscout.com is run by Stam throughout the years, the founder and mastermind behind almost everything you see here. There's also a small team of moderators who patrol fmscout for the community, volunteering their time helping out. 
+
+Should you have any questions, please send a private message to _Stam_ or to one of the guys in the moderation team. Alternatively, you may use the contact form or send an email to stam @ fmscout.com. 
