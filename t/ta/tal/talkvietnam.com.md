@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108230227id_/https%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627200511id_/https%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Talk Vietnam
 
@@ -20,7 +20,7 @@ www.talkvietnam.com uses cookies to store information about visitors’ preferen
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.talkvietnam.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://web.archive.org/go?url=aHR0cDovL3d3dy5nb29nbGUuY29tL3ByaXZhY3lfYWRzLmh0bWw=)
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**
 
@@ -43,9 +43,9 @@ www.talkvietnam.com has no access to or control over these cookies that are used
 
 **Third Party Privacy Policies**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.talkvietnam.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](https://web.archive.org/go?url=aHR0cDovL3d3dy5wcml2YWN5cG9saWN5b25saW5lLmNvbS9wcml2YWN5LXBvbGljeS1saW5rcw==).
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.talkvietnam.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](https://web.archive.org/go?url=aHR0cDovL3d3dy5wcml2YWN5cG9saWN5b25saW5lLmNvbS93aGF0LWFyZS1jb29raWVz)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
 **Children’s Information**
 
@@ -63,4 +63,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 This Privacy Policy was last updated on: Mon, February 29th, 2016.
 
-_Should we update, amend or make any changes to our privacy policy, those changes will be[posted here](https://web.archive.org/go?url=aHR0cDovL3ZpZXRuYW1uZXdzLjEyLm1pbmUuZHVuZ25xLmNvbS9jb250YWN0LXVzLw==)._
+_Should we update, amend or make any changes to our privacy policy, those changes will be[posted here](https://web.archive.org/contact-us/)._
