@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229061015id_/http%3A//wsbt.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627110530id_/http%3A//wsbt.com/station/privacy) for the most accurate reproduction.*
 
 # South Bend Privacy | News, Weather, Sports, Breaking News | WSBT
 
