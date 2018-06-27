@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119192149id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627224848id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RUSI
 
@@ -8,15 +8,15 @@ This privacy policy explains what information we collect, how we protect any inf
 
 Personal information may be collected from you in various ways, for example: 
 
-  1. Information about your computer and about your visits to and use of this website (these are; information about your browser, your IP address, your general location as determined from your IP address and provided by your browser, the site from which you come, and the links followed when leaving our site). 
-
-
+Information about your computer and about your visits to and use of this website (these are; information about your browser, your IP address, your general location as determined from your IP address and provided by your browser, the site from which you come, and the links followed when leaving our site). 
 
 This information is also collected through cookies. Cookies are text files stored on your computer, and accessible only to the websites which create them. Our website may from time -to-time use cookies and log files for statistical analysis, to understand user behaviour, to administer the site, to tailor the information presented to a user based on their preferences, and to improve user experience.  Any information gathered by our use of cookies is compiled on an aggregate, anonymous basis.
 
 Most web browsers automatically accept cookies; however you may delete, or disable cookies by following the instructions at [http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).  Please note that you may not be able to take full advantage of our website if you disable cookies and this may impair your experience of the service.
 
 Further information about cookies can be found on the Interactive Advertising Bureau’s website [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+## WHAT INFORMATION DO WE COLLECT?
 
   1. When you conduct activities on our website (for example, purchasing membership or registering for an event) we will collect your name and contact details, details of your subscription to our services, and other additional information regarding your areas of interest.  
 
@@ -51,7 +51,7 @@ Throughout our website, we provide links to other servers which may contain info
 
 ## Use of Text and Images
 
-If you would like to publish information that you find on our website, please send your request to [enquiries@rusi.org](mailto:enquiries@rusi.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
+If you would like to publish information that you find on our website, please send your request to [reception@rusi.org](https://web.archive.org/web/20180627224848id_/https%3A//rusi.org/reception@rusi.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
 ## Disclosure of Your Information
 
@@ -85,4 +85,5 @@ You cannot directly remove yourself entirely from our database. We will always k
 
 ## Questions about our policy
 
- ****If you have any questions about this privacy policy, the practices of this site, or your dealings with this website, you can contact us at  [enquiries@rusi.org](mailto:enquiries@rusi.org)   
+ ****If you have any questions about this privacy policy, the practices of this site, or your dealings with this website, you can contact us at[database@rusi.org](mailto:database@rusi.org)[  
+](mailto:enquiries@rusi.org)
