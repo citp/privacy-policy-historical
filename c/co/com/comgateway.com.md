@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comgateway.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217123130id_/http%3A//www.comgateway.com/about%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comgateway.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627032118id_/https%3A//secure.comgateway.com/about%23privacy) for the most accurate reproduction.*
 
-# About | comGateway
+# Best Shipping Company - About | comGateway
 
-_**Updated 12 August 2014**_
+_**Updated 25 May 2018**_
 
 #####  **1\. Overview**
 
@@ -31,29 +31,62 @@ If you send us correspondence, including e-mails and faxes, we retain such infor
 **Questionnaires, Surveys and Profile Data**  
 From time to time, comGateway offers optional questionnaires and surveys to our Users for such purposes as collecting demographic information or assessing Users' interests and needs. The use of the information collected will be explained in detail in the survey itself. If comGateway collects personally identifiable information from our Users in these questionnaires and surveys, the Users will be given notice of how the information will be used prior to their participation in the survey or questionnaire. 
 
-##### **4\. Our Use and Disclosure of Information**
+##### **4\. Use of Cookies**
 
-**Internal Uses**  
-comGateway collects, stores and processes User's personal information on our servers. comGateway uses the information comGateway collects about User in order 1) to provide our services and process User's transactions, 2) to provide customer service, 3) to determine User's eligibility to receive offers for special features or products. 
+Like most websites, our websites use cookies to collect information. Cookies are small data files that are downloaded to your computer or other devices (such as smartphones or tablets) as you browse comGateway websites. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with this Privacy Policy.
 
-**Disclosure to Third Parties**  
-comGateway will not share any of User's personally identifiable information with third parties except in the limited circumstances described below, or with User's express permission. These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared.
+Cookies are essential for the effective operation of comGateway websites and help you shop and fulfill transactions with us online. They are also used to tailor the products and services offered and advertised to you, both on our websites and elsewhere.
 
-  * comGateway shares information with companies that help us process the transactions User has requested and protects our customers' transactions from fraud, such as sharing User's credit card number with a service that screens for lost and stolen card numbers. comGateway discloses information that comGateway in good faith believes is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement.
-  * comGateway discloses information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.
-  * comGateway shares aggregated statistical data with our business partners or for public relations. For example, comGateway may disclose that a specific percentage of our Users live in Singapore.
-  * comGateway shares your information with our parent, subsidiaries and joint ventures to help coordinate the services comGateway provides to you, enforce our terms of use, and promote trust and safety.
+**How do I disable cookies?**  
+If you want to disable cookies, you need to change your website browser settings to delete or reject them. Depending on the web browser used, further details on how to disable cookies for the most popular browsers are set out below:
+
+Microsoft Internet Explorer:  
+1\. Choose the menu “tools” then “Internet Options”  
+2\. Click on the “privacy” tab  
+3\. Select the setting the appropriate setting
+
+For Google Chrome:  
+1\. Choose Settings> Advanced  
+2\. Under "Privacy and security," click “Content settings”.  
+3\. Click “Cookies”
+
+For Safari:  
+1\. Choose Preferences > Privacy  
+2\. Click on “Remove all Website Data”
+
+For Mozilla Firefox:  
+1\. Choose the menu “tools” then “Options”  
+2\. Click on the icon “privacy”  
+3\. Find the menu “cookie” and select the relevant options
+
+For Opera 6.0 and further:  
+1\. Choose the menu Files”> “Preferences”  
+2\. Privacy
+
+**What happens if I disable cookies?**  
+This depends on which cookies you disable, but in general, this will restrict your use of the website and/or delay or affect the way in which it operates. If you only disable third-party cookies, you will not be prevented from making purchases on our sites. If you disable all cookies, you will be unable to complete a transaction on our websites. Finally, you can also delete any cookies that have been installed in the cookie folder of your browser.
+
+**The Cookies We Set**  
+comGateway uses several types of cookies, and each performs different functions.
+
+  * Account related cookies  
+If you create an account with us, then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out and select the “Do Not Remember me” option.
+  * Login related cookies  
+We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are removed or cleared when you log out. You can continue to access informational pages (e.g. Packages at your U.S. address, tracking your shipments), if you select the “Remember Me” option when you log out. Accessing the transactional pages will require you to log in again. 
+  * Order processing related cookies  
+This site offers payment facilities, and some cookies are essential to ensure that your transaction is remembered between pages so that we can process them correctly. 
 
 
 
-**Our Contacts with comGateway Customers**  
-User's comGateway password and mobile phone PIN are to be used when operating User's comGateway service only. comGateway will never disclose this data to any third parties including User's bank and/ or credit card Company. User should also not disclose User's comGateway password except when operating User's account with comGateway. 
+**Third Party Cookies**  
+In some cases, comGateway also use cookies provided by trusted third parties.
 
-**Our Contacts with comGateway Customers**  
-comGateway communicates with Users on a regular basis via e-mail to provide requested services, and comGateway also communicates by phone to resolve customer complaints or investigate suspicious transactions. comGateway uses User's e-mail address to confirm User's opening of a comGateway account, to send User notice of payments that User sends or receives through comGateway (including referral payments described below), to send information about important changes to our products and services, including the comGateway Periodical newsletter and to send notices and other disclosures required by law. 
+  * This site uses Google Analytics to help us understand how you use the site and ways that we can improve your experience. These cookies may track transactions and connections such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
+  * Service provider cookies allow our affiliate partners to provide any bonus that they may offer you for making a purchase or transaction.
+  * We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work, Facebook, Instagram, Google+ and Twitter will set cookies through our site which may be used to enhance your profile on their site, share or contribute content to their site. Each site hold for various purposes outlined in their respective privacy policies.
 
-**Internet Address Information**  
-comGateway uses IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use. 
+  
+
 
 ##### **5\. Information Security**
 
@@ -67,7 +100,7 @@ User can review the personal information User has provided us with and make any 
 
 ##### **7\. Contacting Us**
 
-If User has any questions about this privacy statement, comGateway's information practices, or User's dealings with comGateway, User can contact us by writing to us at Attn: Legal Dept. comGateway (S) Pte Ltd, 8 Commonwealth Lane #05-01,Commonwealth, Singapore 149555 or send us an email at [biz@comgateway.com](mailto:biz@comgateway.com)
+If User has any questions about this privacy statement, comGateway's information practices, or User's dealings with comGateway, User can contact us by writing to us at Attn: Legal Dept. comGateway (S) Pte Ltd, 8 Commonwealth Lane, #04-03 Singapore 149555 or send us an email at [biz@comgateway.com](mailto:biz@comgateway.com)
 
 #####  **IMPORTANT NOTICE**
 
