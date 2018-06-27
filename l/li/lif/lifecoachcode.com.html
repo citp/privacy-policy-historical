@@ -1,22 +1,20 @@
-<!--The following is the downloaded HTML source of the lifecoachcode.com privacy policy that was archived on 2017-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170914022952id_/https%3A//www.lifecoachcode.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifecoachcode.com privacy policy that was archived on 2018-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627211459id_/https%3A//www.lifecoachcode.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class=" td-md-is-chrome"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome"><!--<![endif]--><head>
     <title>Privacy Policy - Life Coach Code</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="pingback" href="https://www.lifecoachcode.com/xmlrpc.php">
     <link rel="icon" type="image/png" href="https://www.lifecoachcode.com/wp-content/uploads/2013/12/Life-Coach-Code_0001_Ellipse-1-copy-6-600x600.png">
-<!-- This site is optimized with the Yoast SEO plugin v5.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.lifecoachcode.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - Life Coach Code">
 <meta property="og:url" content="https://www.lifecoachcode.com/privacy-policy/">
 <meta property="og:site_name" content="Life Coach Code">
-<meta property="fb:admins" content="1536240744">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.lifecoachcode.com\/","name":"Life Coach Code","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.lifecoachcode.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.lifecoachcode.com\/privacy-policy\/","sameAs":[],"@id":"#organization","name":"Life Coach Code","logo":"https:\/\/www.lifecoachcode.comwp-content\/uploads\/2016\/03\/Life-Coach-Code_0000_Life-Coach-copy-e1457808787303.png"}</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.lifecoachcode.com\/","sameAs":[],"@id":"https:\/\/www.lifecoachcode.com\/#organization","name":"Life Coach Code","logo":"https:\/\/www.lifecoachcode.comwp-content\/uploads\/2016\/03\/Life-Coach-Code_0000_Life-Coach-copy-e1457808787303.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -24,7 +22,7 @@
 <link rel="alternate" type="application/rss+xml" title="Life Coach Code » Feed" href="https://www.lifecoachcode.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Life Coach Code » Comments Feed" href="https://www.lifecoachcode.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.lifecoachcode.com\/wp-includes\/js\/wp-emoji.js?ver=4.8.1","twemoji":"https:\/\/www.lifecoachcode.com\/wp-includes\/js\/twemoji.js?ver=4.8.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.lifecoachcode.com\/wp-includes\/js\/wp-emoji.js?ver=4.9.6","twemoji":"https:\/\/www.lifecoachcode.com\/wp-includes\/js\/twemoji.js?ver=4.9.6"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -36,24 +34,43 @@
 	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
 	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, emoji41, emoji42;
+		var isIdentical;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -72,16 +89,12 @@
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
 				 * the browser doesn't render it correctly ([U] + [N]).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				flag = canvas.toDataURL();
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
 
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				// Add a zero width space between the characters, to force rendering as characters.
-				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				if ( flag !== flag2 ) {
+				if ( isIdentical ) {
 					return false;
 				}
 
@@ -92,35 +105,25 @@
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
 				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
 				 */
-				// Cleanup from previous test.
-				context.clearRect( 0, 0, canvas.width, canvas.height );
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
 
-				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
+				return ! isIdentical;
+			case 'emoji':
 				/*
-				 * Emoji 5 has faries of all genders.
+				 * Emoji allows people of all gender levitate and so does WordPress.
 				 *
-				 * To test for support, try to render a new emoji (fairy, male), then compares
-				 * it to how it would look if the browser doesn't render it correctly
-				 * (fairy + male sign).
+				 * To test for support, try to render a new emoji (woman in business suit levitating),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (person in business suit levitating + female sign).
 				 */
-				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
-				emoji41 = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
-				emoji42 = canvas.toDataURL();
-
-				return emoji41 !== emoji42;
+				isIdentical = emojiSetsRenderIdentically(
+					[55357, 56692, 8205, 9792, 65039],
+					[55357, 56692, 8203, 9792, 65039]
+				);
+				return ! isIdentical;
 		}
 
 		return false;
@@ -134,7 +137,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'flag', 'emoji4' );
+	tests = Array( 'flag', 'emoji' );
 
 	settings.supports = {
 		everything: true,
@@ -186,7 +189,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="https://www.lifecoachcode.com/wp-includes/js/twemoji.js?ver=4.8.1" type="text/javascript" defer=""></script><script src="https://www.lifecoachcode.com/wp-includes/js/wp-emoji.js?ver=4.8.1" type="text/javascript" defer=""></script>
+		</script><script src="https://www.lifecoachcode.com/wp-includes/js/twemoji.js?ver=4.9.6" type="text/javascript" defer=""></script><script src="https://www.lifecoachcode.com/wp-includes/js/wp-emoji.js?ver=4.9.6" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -201,24 +204,19 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="google_font_open_sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&amp;ver=4.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_roboto-css" href="https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&amp;ver=4.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="google-fonts-style-css" href="https://fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700&amp;ver=4.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_open_sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&amp;ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_roboto-css" href="https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&amp;ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-style-css" href="https://fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700&amp;ver=4.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="js_composer_front-css" href="https://www.lifecoachcode.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-css" href="https://www.lifecoachcode.com/wp-content/themes/Newspaper/style.css?ver=7.5c" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-child-css" href="https://www.lifecoachcode.com/wp-content/themes/Newspaper-child/style.css?ver=7.5c" type="text/css" media="all">
-      <script>
-      if (document.location.protocol != "https:") {
-          document.location = document.URL.replace(/^http:/i, "https:");
-      }
-      </script>
-      <script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://www.lifecoachcode.com/wp-content/themes/Newspaper-child/js/app.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://www.lifecoachcode.com/wp-content/themes/Newspaper-child/js/app.js?ver=4.9.6"></script>
 <link rel="https://api.w.org/" href="https://www.lifecoachcode.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lifecoachcode.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.lifecoachcode.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.1">
+<meta name="generator" content="WordPress 4.9.6">
 <link rel="shortlink" href="https://www.lifecoachcode.com/?p=22">
 <link rel="alternate" type="application/json+oembed" href="https://www.lifecoachcode.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lifecoachcode.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.lifecoachcode.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lifecoachcode.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -391,7 +389,7 @@ var tds_more_articles_on_post_enable="";
 var tds_more_articles_on_post_time_to_wait="";
 var tds_more_articles_on_post_pages_distance_from_top=0;
 var tds_theme_color_site_wide="#379fef";
-var tds_smart_sidebar="enabled";
+var tds_smart_sidebar="";
 var tdThemeName="Newspaper";
 var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
 var td_magnific_popup_translation_tNext="Next (Right arrow key)";
@@ -723,7 +721,16 @@ var td_ad_background_click_target="";
   ga('create', 'UA-87791534-1', 'auto');
   ga('send', 'pageview');
 
-</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-2683058935650913",
+enable_page_level_ads: true
+});
+</script>
+
+</head>
 
 <body data-rsssl="1" class="page-template-default page page-id-22 privacy-policy wpb-js-composer js-comp-ver-4.12.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
@@ -922,7 +929,7 @@ Header style 5
                                             </h1>
                                         </div>
                                         <div class="td-page-content">
-                                        <!-- ATOSPP version: 1.8.1, my_privacy_policy --><h2 id="atospp-privacy" class="auto-tos-pp ppheading">Privacy Policy:</h2><p>Dejan Davcevski ("<strong>Dejan</strong>") operates Life Coach Code and may operate other websites. It is Davcevski policy to respect your privacy regarding any information we may collect while operating our websites.</p>
+                                        <!-- ATOSPP version: 1.8.2, my_privacy_policy --><h2 id="atospp-privacy" class="auto-tos-pp ppheading">Privacy Policy:</h2><p>Dejan Davcevski ("<strong>Dejan</strong>") operates Life Coach Code and may operate other websites. It is Davcevski policy to respect your privacy regarding any information we may collect while operating our websites.</p>
 <h3>Website Visitors</h3>
 <p>Like most website operators, Dejan collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Davcevski purpose in collecting non-personally identifying information is to better understand how Davcevski visitors use its website. From time to time, Dejan may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
 <p>Dejan also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Life Coach Code blogs/sites. Dejan only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.</p>
@@ -1044,12 +1051,12 @@ Header style 5
         Version: 7.5 (rara)
         Deploy mode: deploy
         
-        uid: 59b9e36d6983b
+        uid: 5b33fe5354a57
     -->
 
     <script type="text/javascript" src="https://www.lifecoachcode.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.5"></script>
-<script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/comment-reply.js?ver=4.8.1"></script>
-<script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/wp-embed.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/comment-reply.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://www.lifecoachcode.com/wp-includes/js/wp-embed.js?ver=4.9.6"></script>
 
 <!-- JS generated by theme -->
 
@@ -1106,10 +1113,12 @@ Header style 5
 
 
 
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 1341/1358 objects using redis
-Page Caching using redis
-Database Caching 7/13 queries in 0.003 seconds using redis
+Object Caching 35/51 objects using redis
+Page Caching using redis 
+Database Caching 3/9 queries in 0.004 seconds using redis
 
- Served from: www.lifecoachcode.com @ 2017-09-14 04:03:25 by W3 Total Cache --></body></html>
+Served from: www.lifecoachcode.com @ 2018-06-27 23:14:59 by W3 Total Cache
+--></body></html>
