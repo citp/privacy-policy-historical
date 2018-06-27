@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pledge.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120104307id_/http%3A//privacy.scjbrands.com/en-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pledge.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627033915id_/http%3A//privacy.scjbrands.com/en-us) for the most accurate reproduction.*
 
 # Privacy Notice | SC Johnson
 
-Last Updated: 04-10-2017
+Last Updated: 05-25-2018
 
   * What information may be collected and the means of collection  Your information may be collected in several ways, for example, when you provide information to us (such as name, date-of-birth, mailing address, and email address or other personal information); when you use or interact with our website or services, general non-personal information about your use of our website or services may be collected (such as IP addresses) through the use of automated technology like cookies and beacons; and when information is collected from publicly available sources or shared with us by a third party. Click here to read more. 
   * How we use information  We may use information for various purposes, including providing you with information about our company, products, promotions and other special offers, personalizing your website experience, and conducting research and analysis on our website, products, marketing efforts and sales. Click here to read more. 
@@ -22,6 +22,8 @@ Australia
 Argentina
 
 Canada
+
+European Union, European Economic Area and Switzerland
 
 Mexico
 
@@ -206,6 +208,8 @@ Australia
 Argentina
 
 Canada
+
+European Union, European Economic Area and Switzerland
 
 Mexico
 
