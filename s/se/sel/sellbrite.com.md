@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sellbrite.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003033249id_/https%3A//www.sellbrite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellbrite.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627212137id_/https%3A//www.sellbrite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sellbrite
 
-Your privacy is important to Sellbrite. This privacy policy (“Policy”) applies to the Sellbrite Web sites and services and tells you how personal information is collected, used, disclosed, and protected by Sellbrite. This statement includes both Sellbrite’s European Union – U.S. Safe Harbor Privacy Statement and the Website Privacy Statements.
+Your privacy is important to Sellbrite. This privacy policy (“Policy”) applies to the Sellbrite Web sites and services and tells you how personal information is collected, used, disclosed, and protected by Sellbrite.
 
- **Changes to This Policy**
+**Changes to This Policy**
 
 We may change this Policy from time to time. If we make any changes to this Policy, we will change the “last updated” date above. If there are material changes to this Policy, we will notify you more directly. We encourage you to check this Policy whenever you use our Web sites and services to understand how your personal information is used.
 
- **Information Collected**
+**Information Collected**
 
 We collect information from you in various ways when you use our Web sites and services. We may also supplement this information with information from other companies. We collect two general types of information, namely personal information and aggregate data. As used in this Policy, the term “personal information” means information that specifically identifies an individual (such as a name and email address), and demographic and other information when directly linked to information that can identify an individual.
 
@@ -30,7 +30,7 @@ Automatically Collected Information. We automatically receive certain types of i
 
 Cookies and Web Beacons. We may also use certain kinds of technology such as cookies and Web beacons to collect information. Among other things, the use of cookies and Web beacons enables us to improve our Web sites and emails by seeing which areas and features are most popular, to count the number of computers accessing our Web site, to personalize and improve your experience, to record your preferences, and to allow you to visit our Web site without re-entering your member ID and/or password. A cookie is a small amount of data which is sent to your browser from a Web site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. You can modify your browser setting to reject our cookies or to prompt you before accepting a cookie by editing your browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Web site and services may not function properly. For example, you may not be able to sign in and access certain Web page features or services. A Web beacon is an electronic image, also called a “gif,” that may be used on our Web pages to deliver cookies, count visits and compile statistics on usage and campaign effectiveness or in our emails to tell if an email has been opened and acted upon.
 
- **Use of Personal Information**
+**Use of Personal Information**
 
 In general, we use your personal information to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Web site and services and to otherwise serve you and our users. For example, we may use your personal information:
 
@@ -41,9 +41,9 @@ In general, we use your personal information to process your requests or transac
 -to contact you if you win a contest; and  
 -for other purposes about which we notify you.
 
-Sellbrite may store and process personal information in the United States and other countries. Sellbrite adheres to the U.S. Department of Commerce’s Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union. Sellbrite’s Safe Harbor certification can be found at http:/web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/.
+Sellbrite may store and process personal information in the United States and other countries.
 
- **Sharing of Personal Information**
+**Sharing of Personal Information**
 
 Sellbrite reserves the right to share aggregated demographic information about our customers, sales, and traffic to our partners and advertisers. We will not give, sell, rent, share, or trade any of your personal information or any data that you store using our services to any third party except as outlined in this Policy or with your consent. We may disclose information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Sellbrite, agents, customers, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
 
@@ -51,7 +51,25 @@ Sellbrite provides you with opportunities to connect with third party services a
 
 We may share personal information in connection with an acquisition, merger, or sale of all or a substantial portion of our business, with or to another company. In any such event, you will receive notice if your data is transferred and becomes subject to a substantially different privacy policy.
 
- **Network and Information Security**
+**European Union, UK and Switzerland Additional Notice**
+
+We respect your privacy rights and provide you with reasonable access and rights to the Personal Data, as this term is referred to for individuals located in the countries of the EU, UK or Switzerland pursuant to the European Directives 95/46/EC and 2002/58/EC (EU General Data Protection Regulations Legislation, also known as GDPR), that you may have provided through your use of the Services. If you live in the European Economic Area (EEA), and wish to access, amend, delete, or transfer any Personal Data we hold about you, you may contact us as set forth in the “Who We Are; Contacting Us” section below. 
+
+You may update, correct, or delete your Personal Data and preferences at any time by request to us at the email below. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain Personal Data with us, in which case we may not be able to provide to you some of the features and functionality of the Services.  
+At any time, you may object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us at the email below. You also have a right to lodge a complaint with data protection authorities.
+
+**Legal Basis for Processing Personal Data; Retention**
+
+As before, we will only collect and use Personal Data when we have lawful bases for doing so. These lawful bases include when you provide consent, when we have a contractual obligation to collect or process your Personal Data, and when we have a legitimate interest in processing your Personal Data.  
+When we collect Personal Data, we keep it for as long as we need it for the purpose it is being processed for. For example, we will retain your email address information for as long as the Services are active and as needed to provide you the Services; and after that, we will keep the Personal Data for a period which enables us to handle or respond to any complaints, queries or concerns relating to your use of the Services. We will periodically review the Personal Data we hold and delete it securely when there is no longer a legal, business, or consumer need for it to be retained.
+
+**International Transfers**
+
+Where we transfer your Personal Data outside the European Economic Area (EEA), we takes steps to ensure these transfers are conducted in accordance with applicable laws and using adequate and appropriate safeguards. 
+
+**Network and Information Security**
 
 Sellbrite takes reasonable steps to protect information we collect from you to prevent loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, highly confidential personal information such as credit card number and password that we request from you on our Web site is protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.
 
@@ -59,18 +77,18 @@ The servers on which information is stored are kept in a controlled environment 
 
 Your account information and access to our service is accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.
 
- **Updating and Accessing Personal Information**
+**Updating and Accessing Personal Information**
 
 If your personal information changes in any way, we invite you to correct or update your information as soon as possible. You can make updates to your profile information by logging into your account on Sellbrite at any time. You can also request changes or access to your information by emailing privacy@sellbrite.com.
 
- **Choice/Opt-Out**
+**Choice/Opt-Out**
 
 Sellbrite may send you communications or data regarding our Web sites and services, including but not limited to (i) notices about your use of our Web sites and services, including any notices concerning violations of use, (ii) updates, and (iii) promotional information and materials regarding our products and services. You may opt-out of receiving promotional emails from Sellbrite by following the opt-out instructions provided in those emails. Opt-out requests will not apply to transactional service messages, such as security alerts and notices about your current account and services.
 
- **Enforcement**
+**Enforcement**
 
 If you have any questions about this Policy, you should first contact us at privacy@sellbrite.com. If you do not receive a response or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with Sellbrite to resolve your concerns.
 
- **Contacting Us**
+**Who We Are; Contacting Us**
 
-Any questions about this Policy should be addressed to privacy@sellbrite.com.
+Sellbrite, Inc. is a Delaware Corporation with headquarters located at 44 W. Green St., Pasadena, CA 91105. Any questions about this Policy should be addressed to privacy@sellbrite.com.
