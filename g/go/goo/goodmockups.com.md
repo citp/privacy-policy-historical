@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmockups.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223022658id_/http%3A//goodmockups.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmockups.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627115734id_/http%3A//goodmockups.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Good Mockups
 
