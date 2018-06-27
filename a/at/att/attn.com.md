@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902135917id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173846id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATTN:
 
@@ -93,11 +93,9 @@ We respect your rights to:
 
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of the Site, or if you would like to opt out of future communications, please contact us as follows:
 
-Phone:     202-660-1333
+Email:    [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Email:     info@attn.com
-
-Mail:      7521 Melrose Avenue, Los Angeles, CA 90046
+Mail:      729 Seward St, Los Angeles, CA 90038
 
 ## Changes to This Privacy Policy 
 
