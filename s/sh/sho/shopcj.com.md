@@ -1,100 +1,42 @@
-> *The following text is extracted and transformed from the shopcj.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcj.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627051359id_/http%3A//www.shopcj.com/privacyPolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Online Shopping in India - Shop @ Lowest Price at Shopcj for Mobiles, Pack of Sarees, hot deals, top picks, Bedsheet
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy:
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The personally identifying information that You provide SCN with, for registering Yourself for availing of various services are no more than what would be required by SCN for administrative and management purposes for providing You with efficient and effective services and experience.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+SCN respects every individual’s right to privacy and so is committed to protect your privacy. SCN agrees to take every reasonable and due care for keeping such information of yours in strict confidentiality and to use them only for the purposes and in furtherance thereof for which the same has been disclosed by You and for legitimate business purposes. SCN shall not release such information to any outside organizations, except to organization(s) which is a sponsor of the event/service for which such information has been collected. SCN shall be entitled to release the requisite personal information for the provision of services to its third party email service provider for the purposes of sending emails confirming registration, purchases, payments etc. However, SCN reserves the right to disclose such information if and when required by any Court Order or a subpoena or in response to a Law Enforcement and Regulatory Agency’s request.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Personal & Non-Commercial Use:
 
-**Information Collection and Use**
+  * 1 The right to use this SCN website is personal to You and is not transferable to any other person or entity. Each registration is for a single user only. We do not permit you to share your user name and password with any other person nor with multiple users on a network. Furthermore, You shall use this SCN website and services & materials therein strictly for non-commercial purposes only [and not indulge in any business activities]. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Personal & Non-Commercial Use:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * 1 You may post reviews, comments, and other content and submit suggestions, ideas, comments, questions or other information, wherever required or permitted, apart from the information you provide to us or SCN Franchisee in the registration and Order Tracking process. "Your Information" is defined to include any information you provide to us or SCN Franchisee in the registration and Order Tracking process, in the feedback area or through any e-mail feature. Solely to enable SCN to use the information you supply us with, so that we are not violating any rights you might have in Your Information, you hereby agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable right to exercise the copyright, publicity, and database rights (but no other rights) you have in Your Information, in any media now or in future known, with respect to Your Information. SCN will only use Your Information in accordance with this User Agreement. 
+  * 2 You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy, rules and regulations and will not cause injury to any person or entity; and that you will indemnify SCN or its shareholders, affiliates and partners for all claims resulting from content you post or supply to SCN. SCN has the right but not the obligation to monitor and edit or remove any activity or content. SCN takes no responsibility and assumes no liability for any content posted by you or any third party. It is once again clarified that other than personally identifiable information, which is covered under the Privacy Policy any material you transmit or post to this SCN website will be considered non-confidential and non-proprietary. We will have no obligations with respect to such material.
+  * 3 You are solely responsible for Your Information and Your Information:
+  * a) shall not be false, inaccurate or misleading;
+  * b) shall not be fraudulent;
+  * c) shall not infringe any third party's intellectual property, trade secret or other proprietary rights or rights of publicity or privacy;
+  * d) shall not be defamatory, libellous, unlawfully threatening or unlawfully harassing;
+  * e) shall not be indecent, obscene or contain pornography or contain an "indecent representation of women" within the meaning of the Indecent Representation of Women (Prohibition) Act, 1986;
+  * f) seditious, offensive, abusive, liable to incite racial or religious hatred, discriminatory, menacing, scandalous, inflammatory, blasphemous, in breach of confidence, in breach of privacy or which may cause annoyance or inconvenience;
+  * g) which constitutes or encourages conduct that would be considered a criminal offence, give rise to civil liability, or otherwise be contrary to the law; or
+  * h) shall not be or include material that is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software or harmful data) or other computer programming routines that may damage, detrimentally interfere with, diminish value of, surreptitiously intercept or expropriate any system, data or personal information;
+  * i) shall not create liability for us or cause us to lose (in whole or in part) the services of our ISPs or other suppliers; and
+  * j) that is in the nature of political campaigning, commercial solicitation, chain letters, mass mailings or any form of ‘spam’;
+  * k) that is illegal in any other way
+  * SCN reserves the right (but not the obligation) to remove or edit such content but does not regularly review posted content.
+  * 4 You shall abide by all the notices and all the terms and conditions (updated from time to time) contained and mentioned herein this Agreement, in good faith and with due diligence and care.
+  * 5 You shall not use this SCN website, services and/or materials therein for any purpose that is unlawful or prohibited by these Terms, Conditions and Notices. You shall not use this SCN website, services and/or materials therein in any manner which could damage, disable, overburden and/or impair this SCN website or any services therein or the network(s) connected to this SCN website and interfere with other User’s use and enjoyment of this SCN website and/or services therein.
+  * 6 You shall not attempt to gain unauthorized access to any service on this SCN website, other Users’ Account, Computer systems or networks connected to this SCN website through hacking, password mining or any other means. You shall not obtain or attempt to obtain any materials or information through any means not intentionally made available to You through this SCN website.
+  * 7 We will fully co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or locate anyone posting any material in breach of clauses 6.4 or 6.5 or elsewhere. Please be aware that even if you do not give SCN your real name, your Web browser transmits a unique address to us, which can be used by law enforcement officials to identify you.
+  * 8 Certain elements of this SCN website will contain material submitted by other Users. SCN accepts no responsibility for the content, accuracy, conformity to applicable laws of such material. Part of this SCN website contains advertising/other material submitted to SCN by third parties. Responsibility for ensuring that material submitted for inclusion on this SCN website complies with applicable laws is exclusively on the advertisers and SCN will not be responsible for any claim, error, omission or inaccuracy in advertising material. SCN reserves the right to omit, suspend or change the position of any advertising material submitted for insertion. Acceptance of advertisements on this SCN website will be subject to SCN terms and conditions which are available on request. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+User Material and Conduct:
