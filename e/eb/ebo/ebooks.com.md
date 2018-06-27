@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112054850id_/https%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627130523id_/https%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-(Last Updated: February 26, 2017)
+(Last Updated: May 25, 2018)
 
 [](https://privacy.truste.com/privacy-seal/Ebooks-com-Pty-Limited/validation?rid=d4c0906c-5618-4e62-9f3c-8a4fcb313dff "TRUSTe online privacy certification")
 
@@ -69,8 +69,6 @@ We partner with a third party to either display advertising on our website or to
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
-
-We do not link this automatically-collected data to personally identifiable information. 
 
 ## Access to Personally Identifiable Information
 
@@ -152,3 +150,428 @@ privacy@ebooks.com
 Subiaco, WA 6008  
 Australia  
 
+
+The following clauses supplement eBooks.com’s privacy policy (above), in compliance with the European GDPR regulations which came into effect on 25th May 2018. For the avoidance of doubt, in the event that any provision in this GDPR Addendum conflicts with our privacy policy above, such provision of the GDPR Addendum will prevail.
+
+## eBooks.com’s Business
+
+We conduct the following business:
+
+  1. Provide intelligent, helpful reading recommendations to our members.
+  2. Enable our members, through the eBooks.com website and its associated domains and apps (collectively the “Website”), to buy, borrow or otherwise acquire access to, download, store, read, use and manage ebooks for their personal use.
+
+
+
+## The domains and services covered by this privacy policy
+
+  1. ebooks.com
+  2. eb20.com
+  3. Ebook Reader mobile app
+
+
+
+## Reasons/purposes for processing information
+
+We process personal information to enable us to make better, more helpful reading recommendations; to sell goods and services to and to support and advise our members; to promote and advertise our services; maintain our own accounts and records and to support and manage our employees.
+
+In order to perform these tasks well, we need to store information about you and your correspondence with us, and your shopping and browsing activity on the Website.
+
+There are only two lawful reasons that we process and store information about you, and they have formal, legal definitions which you can find [here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/):
+
+  1. **Consent** : You have given clear consent for us to process your personal data for a specific purpose.
+  2. **Legitimate Interests** : The processing is necessary, in order for us to provide the products and services that we offer, or to enable you to benefit most from eBooks.com.
+
+
+
+## The kind of information eBooks.com collects
+
+### Data that we might store when you visit our website, before you sign up as a member of eBooks.com
+
+**Information**
+
+| 
+
+**Purpose**
+
+| 
+
+**Lawful basis**  
+  
+---|---|---  
+  
+**IP address**
+
+We detect and store your IP address [[definition](https://www.techopedia.com/definition/2435/internet-protocol-address-ip-address)] whenever you visit eBooks.com
+
+| 
+
+· Geo-Location customisation
+
+| 
+
+**Legitimate interests.**
+
+ If we know your IP address, we can customise your experience on eBooks.com so that we will display content to you that is relevant to your location. For example, we’ll show you bestseller lists, and offer you topical new titles that are relevant to your location.
+
+Additionally, we are required under many of our supply agreements to take note of visitors’ IP addresses in order to keep promises we’ve made to book publishers that we will restrict the sale of their ebooks so that they are only offered for sale in those territories for which each publisher has permission to sell those ebooks.  
+  
+**Cookie Information**
+
+· Referring URL
+
+· Unique identifier
+
+| 
+
+· Sales referral attribution
+
+· Shopping cart contents
+
+· Customised recommendations
+
+| 
+
+**Legitimate interests**
+
+Cookies enable us to keep track of what you've put in your shopping cart and remember who you are when you return to our site.
+
+Cookies enable us to meet our contractual obligations to make payments to third parties (like Google and Commission Junction) when a product is purchased by someone who was referred to our website from a site operated by those parties.  
+  
+### Further data that we might store after you’ve signed up.
+
+**Information**
+
+| 
+
+**Purpose**
+
+| 
+
+**Lawful basis**  
+  
+---|---|---  
+  
+**Titles of the ebooks that you have bought or shown an interest in, including:**
+
+· Titles you have bought from us
+
+· Titles you have clicked on
+
+· Words or phrases you’ve searched for
+
+· Titles you add to your wish list
+
+· Titles you’ve added to the shopping cart but have not yet bought
+
+· Subject categories of ebooks you’ve bought or shown an interest in
+
+| 
+
+· This enables us to keep a proper record of your ebooks, so they will always be accessible to you after you’ve bought them.
+
+· We keep your wish-list up to date on your behalf.
+
+· And the information helps us to make useful reading suggestions.
+
+| 
+
+**Legitimate interests**
+
+We act as custodians of the ebooks you’ve bought from us and accordingly we maintain your “eBookshelf” and wish list for your future access and use.
+
+In our role as a recommendation service, we use this information to provide you with useful advice about what to read.
+
+If you put an ebook in your shopping cart and then don’t buy it, we might remind you about that next time you visit, or notify you within our apps or via email.  
+  
+**Personal details, including:**
+
+· your name,
+
+· address,
+
+· phone number,
+
+· email address,
+
+· website login password,
+
+· credit card numbers, expiry dates and CVV codes,
+
+· the history of your financial transactions with us, and
+
+· any correspondence you conduct with us.
+
+| 
+
+This information is collected to enable us to protect the security of your eBooks.com account and your credit cards, to quickly process your card payments, and in order to conduct normal day-to-day business with you.
+
+| 
+
+**Legitimate interests**.
+
+It is necessary for us to collect and hold this information to make your experience at eBooks.com simple and efficient, and for us to be able to contact you as our customer in the normal course of business.
+
+Email recommendations  
+  
+**For each browser session when you log in to your account at eBooks.com, we store the following information:**
+
+· Your IP address
+
+· Browser type (Chrome, Firefox, etc.)
+
+· Browser Version number
+
+· Color Depth (a number that describes how colours are displayed on the screen)
+
+· CPU (the central processing unit in your computer or device. Sometimes called the “brains” of the computer.)
+
+· Date and time of your visit
+
+· Device name (E,g., “iPad”)
+
+· Device Type (Whether your device is a computer, tablet or phone)
+
+· Flash Version
+
+· Installed Fonts
+
+· JavaVersion
+
+· MimeTypes
+
+· OS
+
+· OsVersoin
+
+· Installed Browser Plugins
+
+· Screen resolution of your device (dimensions)
+
+· SilverLightVersion
+
+· System Language
+
+· Time zone
+
+· User Agent
+
+· Date and time of any ebook downloads
+
+| 
+
+· To customise your experience at eBooks.com
+
+| 
+
+**Legitimate interests.**
+
+By understanding the hardware and software in your computer or device and your location, we are able to **customise your experience** on eBooks.com so that we display content to you that is relevant to your location, and our system will configure our web pages so that they look and function better for you.
+
+For example, we’ll show you bestseller lists, and offer you topical new titles that are relevant to your location. And knowing the type and dimensions of your device enables us to display our content in a more pleasing way.
+
+We are obliged under our supply agreements with book publishers to take note of visitors’ geographic location in order to keep promises we’ve made to book publishers that we will restrict the sale of their ebooks so that they are only offered for sale in those territories for which each publisher has permission to sell those ebooks.
+
+We are obliged under our supply agreements with book publishers to impose limits on the frequency with which users download a given ebook. Tracking the date and time of your ebook downloads enables us to comply with these obligations.  
+  
+**Each time you access an ebook using our**[ **online reader**](http://about.ebooks.com/ebooks-coms-online-ebook-reader-app/) **app. (That’s a web browser-based reading application. This is different from when you download a whole ebook to your computer or device.)**
+
+The information below is collected in addition to the information we collect whenever you access our Website:
+
+· Your reading progress through the ebook
+
+· Any “annotations” you make; including notes, highlighting and book-marks.
+
+· Length of time each reading session takes.
+
+| 
+
+· Enables the proper functioning of the Online Reader
+
+| 
+
+**Legitimate interests.**
+
+It is necessary for us to retain this information, so that:
+
+· you will be able to resume at the last page you were reading, next time you open to the ebook, and
+
+· You’ll be able to keep your margin notes, book-marks and any highlighting you’ve made within the pages of the ebook.  
+  
+**Your correspondence with us:**
+
+· Email messages you send to eBooks.com,
+
+· Messages you post on our Website such as support queries, comments and product reviews.
+
+| 
+
+· So we can respond helpfully the next time you contact us
+
+| 
+
+**Legitimate interests**
+
+It is necessary for us to retain this correspondence, as is common practice in all well-run businesses.  
+  
+## Sharing your information with third parties
+
+We use your information only as set out in this Policy and will not sell, rent or pass your information on to others for marketing purposes without your consent.
+
+We may however provide aggregate statistics about our customers, sales traffic patterns and related site information to reputable third-party vendors and relevant affiliate partners, but these statistics will include no personally identifying information.
+
+We never pass on information to any third party which would enable the recipient to identify you personally, except:
+
+  1. For the purpose of processing purchase transactions (credit card, PayPal, etc.), and
+  2. Where we believe in good faith that this release is reasonably necessary to comply with the law.
+
+
+
+We may provide information to the following service providers for the reasons set out below. 
+
+**Third Party**
+
+| 
+
+**Information**
+
+| 
+
+**Purpose**
+
+| 
+
+**Lawful basis**  
+  
+---|---|---|---  
+  
+**Payment processing services including PayPal and Stripe**
+
+| 
+
+Personal details, including your name, address, phone number, email address, credit card numbers, expiry dates and CVV codes, and your IP address
+
+| 
+
+Payment processing
+
+| 
+
+**Legitimate interests**.  
+  
+## Where your data is stored
+
+eBooks.com partners with Cogeco Peer1 for the supply of Data Centre services.  
+<https://www.cogecopeer1.com/>
+
+Cogeco Peer1,  
+145 King Street West, 8th floor  
+Toronto, ON  
+M5H 1J8
+
+## Cookies
+
+Our site uses cookies to keep track of your visits to our website. A cookie is a small file that can be stored by your browser on your computer's hard drive. We may use these to do a number of things:
+
+  * We use cookies to deliver content specific to your interest and to save your password so that you don't have to re-enter it every time you visit our site.
+  * Cookies help us to recognise when you next visit our website and note the recommendations displayed to you. This allows us to tailor the service we provide to your preferences.
+
+
+
+You can usually change your browser so that it will not accept cookies. If you'd like to learn more about cookies in general and how to manage them, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+### What Are Cookies?
+
+eBooks.com places tiny text files called cookies onto your computer, tablet or mobile device. This is standard practice for almost all websites.
+
+Cookies are not harmful to your computer and are an essential part of online shopping. They allow us to give you a more efficient customer experience.
+
+### What Are Cookies Used For?
+
+There are two main types of cookie; we call them "first party" and "third party" cookies.
+
+First party cookies are small data files that we use for things such as keeping track of what you've put in your basket and remembering who you are when you return to our site. We don't save personal information such as credit card details in the cookies we create.
+
+Third party cookies are set on our behalf. The most important of these are Google and Commission Junction, who display text or banner adverts on our behalf on a number of other reputable websites or in Internet search results. Commission Junction does not collect personal data from our website. Because our website uses Google Analytics to help us optimise our web pages and better understand the website’s traffic, if you visit us while you’re logged in to your Google account (like Gmail, for example) then some of your browsing activity on our site may be …
+
+<https://www.google.com/policies/technologies/partner-sites/>
+
+Cookies enable us to meet our contractual obligations to make payments to third parties (like Google and Commission Junction) when a product is purchased by someone who has visited our website from a site operated by those parties.
+
+## Email and In-App Marketing
+
+We send three types of timely messages to our members:
+
+**Message type**
+
+| 
+
+**Consent-type**
+
+| 
+
+**Purpose**
+
+| 
+
+**Lawful basis**  
+  
+---|---|---|---  
+  
+**Subject category recommendation newsletters**
+
+| 
+
+Opt-in
+
+| 
+
+Members can sign up to receive occasional, curated reading suggestions from our editors.  
+You can control which newsletters you receive, if any, here.
+
+| 
+
+**Consent**
+
+You will only be enrolled in our newsletter service if you choose to do so.  
+  
+**Critical system, policy or service announcements**
+
+| 
+
+You can’t opt out of these necessary, critical messages, except by closing your account with eBooks.com.
+
+| 
+
+We, very rarely, need to contact our members to advise them of changes to our services or policies, or system updates.
+
+| 
+
+**Legitimate interests**
+
+As with any business relationship it is sometimes necessary for us to contact you.  
+  
+**Reminders and _ad hoc_ alerts.**
+
+| 
+
+Opt-out
+
+| 
+
+In our role as a recommendation service we will occasionally contact you with reading recommendations (like a new ebook from an author you’ve read before); or we might remind you that you left an ebook in your shopping cart – that kind of thing.
+
+You can opt out of these messages here.
+
+| 
+
+**Legitimate interests**
+
+We send reminders and ad hoc alerts to our members as part of our recommendation service.  
+  
+## How can I access the personal information that eBooks.com holds?
+
+Contact our support team and they’ll be glad to help.
+
+## Can I withdraw consent and request the deletion of my information?
+
+Yes – just contact our support team and they’ll be glad to help.
