@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221222438id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627232152id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
@@ -75,7 +75,6 @@ We work with other companies or developers to offer you products and services an
 You have the following choices if you have been receiving marketing communications from us that you no longer wish to receive:
 
   * Click the "unsubscribe" or opt-out link in the email or newsletter you received.
-  * Adjust your preferences in the settings of your account(s).
   * For SMS messages, reply "STOP" or follow the instructions in the message or settings to discontinue the Service.
   * Subject to your control, our mobile applications may send push notifications to your mobile device. If you are receiving push notifications and no longer wish to receive these types of communications, you may turn them off at the device level.
   * You can also change your marketing preferences by sending your request to the mail and/or email addresses below (for Mint users, please contact the Mint Customer Service team [here](http://help.mint.com/953119151/How-do-I-opt-out-of-marketing-materials.htm) instead). Please include the contact information to which you no longer wish to receive marketing communications.
