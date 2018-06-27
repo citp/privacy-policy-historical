@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101121512id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627215930id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
 # PTZtv - Privacy Policy
 
 **What information do we collect?**
 
-You may visit our _free-to-view_ sites anonymously and are not required to register or sign-in. If you choose to register for our PTZtv Premium service, you will be required to provide an email address.
+You may visit our free-to-view sites anonymously and are not required to register or sign-in. If you choose to register for our PTZtv Premium service, you will be required to provide an email address.
 
 If you choose to fill out and submit a contact or "wave request" form, you may be asked to enter your name, e-mail address or phone number.  
  
 
-Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, IP address, browser type, browser language and the date/time of your access.  
+Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, IP address, browser type, browser language and the date/time of your access. These logs are only used internally for debugging technical issues or tracing connection problems. Typically, they are auto-deleted after 7-30 days, depending on server application. In extrememly rare circumstances, logs may be preserved for longer periods when access is requested under subpoena from a law enforcement agency. PTZtv cooperates fully with all legitimate law enforcement inquiries.  
  
 
-Our PTZtv Premium, PTZtv Gallery and PTZtv WebcamWare websites can involve eCommerce transactions if you choose to purchase from them. Those transactions necessitate the sharing of more personal information, including credit card numbers if that payment method is selected.  
+Our PTZtv Premium and PTZtv Gallery websites can involve eCommerce transactions if you choose to purchase from them. Those transactions necessitate the sharing of more personal information, including credit card numbers if that payment method is selected.  
  
 
 PTZtv Premium transactions are handled by Tinypass/Piano and their privacy policy is [here](https://piano.io/privacy/).
 
-PTZtv Gallery transactions are handled by SmugMug, Inc. and their privacy policy is [here](http://www.smugmug.com/aboutus/privacy/).
-
-WebcamWare transactions are handled by CafePress, Inc. and their privacy policy is [here](http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx).
+PTZtv Gallery transactions are handled by SmugMug, Inc. and their privacy policy is [here](https://www.smugmug.com/about/privacy).  
+ 
 
 **How do we use your information?**
 
@@ -28,13 +27,33 @@ Any of the information we collect from you may be used in one of the following w
   * To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.
   * To send periodic emails.
-  * To protect our sites and our business from malicious or tortious interference.
+  * To protect our sites and our business from malicious or tortious interference and copyright theft.
 
 
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-We use your IP address to perform IP geolocation at the country/state of origin level.
+We use your IP address to perform IP geolocation at the country level but do not save or retain this geo data unless access is attempted from a prohibited region. We may also offer different services or no service at all depending on your geolocated origin.
+
+**How do our partners use your information?**
+
+We contract with Google for both advertising and site traffic analytics. How they use the information they collect and how you can control it are explained [here](https://www.google.com/policies/technologies/partner-sites/).
+
+Google Analytics privacy policy is [here](https://www.google.com/analytics/learn/privacy.html). They compile aggregate, non-personal data about site traffic and site interaction so that we can offer better site experiences and features in the future. They are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Data they collect is deleted after 26 months.
+
+We also contract with Sovrn for advertising. How they use information and how you can opt-out are explained [here](https://www.sovrn.com/privacy-policy/).
+
+Users may also opt out of the use of cookies for interest-based advertising by visiting [aboutads.info](http://optout.aboutads.info/). 
+
+We also include social media plug-ins from both Facebook and Twitter. Their policies for information collection and use are explained at the following links :
+
+We include maps from Marine Traffic and Flightradar24 that can include advertising unless removed by separate subscription with the respective supplier. For more information, please consult the Marine Traffic privacy policy [here](https://www.marinetraffic.com/en/p/privacy-policy) and Flightradar24 privacy policy [here](https://www.flightradar24.com/privacy-policy).
+
+We include free clocks from timeanddate.com and their privacy policy is [here](https://www.timeanddate.com/clocks/privacy.html).
+
+We include weather widgets from Weather Underground and their privacy policy is [here](https://www.wunderground.com/company/privacy-policy).
+
+Tinypass/Piano manage our paid content access service known as PTZtv Premium and collect personally identifiable information in order to facilitate payments, manage subscriptions and grant site access. Their privacy policy is linked above.
 
 **What are cookies?  
  **
@@ -43,20 +62,11 @@ Cookies are small files that a site or its service provider transfer to your com
 
  
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our sites.
+PTZtv makes minimal use of cookies for the sole purpose of saving and restoring viewer preferences, options and consent.
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our sites and/or other sites on the Internet.
+Third party vendors -- including Google, Sovrn and other partners listed above -- use cookies on our sites. Cookies enable some of these vendors to serve ads to our users based on their visits to our sites and/or other sites on the Internet. Personalized ads are more effective and help us maintain a free-to-view site strategy.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/) or alternatively,  to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
-
-In addition, our sites use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and features in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
- 
-
-At this time, we contract with Google Analytics to provide site traffic analysis services and their privacy policy is [here](https://www.google.com/analytics/learn/privacy.html).
-
-Tinypass/Piano use cookies as part of their paid content access service which is used by PTZtv Premium. Use of cookies is covered in their privacy policy linked above.
-
-PTZtv does not currently place cookies on any of our webcam websites but may do so in the future for the sole purpose of saving and restoring viewer preferences and options.
+**Starting May 25th, 2018 our advertising partners have been instructed to no longer serve personalized ads to users located in the European Economic Area (EEA).**
 
 **Do we disclose any information to outside parties?**
 
@@ -84,12 +94,12 @@ Please also visit our [Terms and Conditions](http://www.ptztv.com/about-us/terms
 
 **Your Consent**
 
-By using our site, you consent to our privacy policy.
+By using our websites, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on **May 1st, 2016**
+This policy was last modified on **May 11th, 2018**
 
 If you have further questions, please contact us by email to [info@ptztv.com](mailto:info@ptztv.com)
