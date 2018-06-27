@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postwaves.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107152721id_/http%3A//blog.postwaves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postwaves.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627070611id_/http%3A//blog.postwaves.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Postwaves
 
