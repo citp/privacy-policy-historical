@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016173145id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingreviewsonline.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628012730id_/http%3A//shoppingreviewsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Shopping Reviews Online
-
-  * Monday 16 October 2017 / 6:31 pm
-
-
-
-[](http://shoppingreviewsonline.com/the-samsung-gear-s3/)
-
-[](http://shoppingreviewsonline.com/the-samsung-gear-s3/)
-
-### Privacy Policy
 
 E-mail: [admin@shoppingreviewsonline.com](mailto:admin@shoppingreviewsonline.com)
 
@@ -27,3 +17,5 @@ Cookies: We use a feature of Internet web browsers called a “cookie,” which 
 “Classic Cars”, the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you.
 
 Information Sharing: We may share personally identifying information to other companies or individuals in any of the following limited circumstances: If we have your consent. When we provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Shoppingreviewsonline.com’s terms of use, or as otherwise required by law. Shoppingreviewsonline.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Shoppingreviewsonline.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation. Correspondence: If you contact Shoppingreviewsonline.com, we may keep a record of that correspondence and we may collect your email address. Third Party Information Gathering: Shoppingreviewsonline.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to “opt-out”, please refer to such third party advertiser’s privacy policy. Shoppingreviewsonline.com contains links to other sites on the Web. Please be aware that Shoppingreviewsonline.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Shoppingreviewsonline.com Changes to Privacy Policy: We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
+
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, which may differ from the data collection practices described in this Privacy Policy, please visit the end user privacy statements of our 3rd party web search services providers by clicking [here](https://www.codefuel.com/legal/end_user_privacy_policy/) and Bing at <http://go.microsoft.com/fwlink/?LinkId=521839>, both as updated from time to time and at any successor locations
