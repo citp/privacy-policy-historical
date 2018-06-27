@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202063527id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627052505id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -30,10 +30,10 @@ Some of our business partners (for example, advertisers) may also use cookies on
 
 The graphical and text-based ads appearing on this website are delivered to users by several Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
-  * [AvantLink Privacy Policy](http://www.avantlink.com/privacy_policy.php)
-  * [Commission Junction Privacy Policy](http://www.cj.com/privacy.html)
-  * [Google Privacy Policy](http://www.google.com/privacy.html)
-  * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
+  * [AvantLink Privacy Policy](https://www.avantlink.com/privacy_policy.php)
+  * [Commission Junction Privacy Policy](https://www.cj.com/privacy.html)
+  * [Google Privacy Policy](https://www.google.com/privacy.html)
+  * [LinkShare Privacy Policy](https://www.linkshare.com/home/privacy.shtml)
 
 
 
