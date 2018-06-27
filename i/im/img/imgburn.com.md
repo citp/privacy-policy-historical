@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221112713id_/http%3A//www.imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627232007id_/http%3A//www.imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # The Official ImgBurn Website
 
-Last Modified: January 25th, 2013 
+Last Modified: May 13th, 2018 
 
 We are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the website imgburn.com. This policy may change from time to time so please check back periodically. 
 
@@ -32,7 +32,9 @@ Wherever we collect personal information we make an effort to include a link to 
 
 As part of offering and providing customisable and personalised services, the site uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on imgburn.com where you are prompted to login or that are customisable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
 
-We use Google AdSense on this website. Third-party vendors, including Google, use cookies to serve ads based on your website visits. Google�s use of the DART cookie enables it and its partners to serve ads based on your web browsing activity. You may opt out of the use of the DART cookie by visiting <http://www.google.co.uk/policies/privacy/ads/>
+We may use [third-party advertising companies](http://d3tciw3e8t1d98.cloudfront.net/pp.html) to serve ads when you visit our website. 
+
+We use Google AdSense on this website. Third-party vendors, including Google, use cookies to serve ads based on your website visits. Google's use of the DART cookie enables it and its partners to serve ads based on your web browsing activity. You may opt out of the use of the DART cookie by visiting <http://www.google.co.uk/policies/privacy/ads/>
 
 We use Google Analytics on this website. Google Analytics generates statistical information about website use by means of cookies. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.co.uk/policies/privacy/>
 
