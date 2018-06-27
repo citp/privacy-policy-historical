@@ -1,100 +1,236 @@
-> *The following text is extracted and transformed from the tinkercad.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701085818id_/https%3A//tinkercad.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkercad.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628010029id_/https%3A//www.autodesk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy • Tinkercad
+# Privacy Statement English
 
-Last Updated: 07/01/13
+### What information does Autodesk collect about you?
 
-This privacy policy (“Privacy Policy”) tells you (“You”) about the privacy practices of Autodesk, Inc. ("Tinkercad") with regards to data collected in connection with the Tinkercad web services and website available at [http://www.tinkercad.com](http://www.tinkercad.com/) (collectively referred to in this Privacy Policy as the "Service") as well as other communication between You and Tinkercad as specified in this Privacy Policy. Tinkercad respects your privacy. We kindly ask You to carefully read this Privacy Policy before visiting the [www.tinkercad.com](http://www.tinkercad.com/) website and/or using the Service.
+**Information you provide us:**
 
-By logging in to the Service or using the Service, you accept the terms and conditions of this Privacy Policy and give Tinkercad your explicit and informed consent to the processing of your personal data in accordance with this Privacy Policy as well as the transfers of such data in accordance with this Privacy Policy. If you do not accept the processing of personal data in accordance with this Privacy Policy, do not register with the Service and do not log in to or use the Service.
+We collect information that identifies you, including your name, surname, and contact information, such as your address, email address and telephone number, when you:
 
-If you are under 18 years of age or a minor in your country of residence, please ask your legal guardian to complete your registration to the Service for you.
+  * Create an account
+  * Register a product or service
+  * Sign up for one of our events
+  * Contact us
 
-Tinkercad may update this Privacy Policy from time to time. Check the "last updated" section at the top of this Privacy Policy to see the last time the Privacy Policy was changed. If we decide to make changes to our Privacy Policy on a forward going basis, Tinkercad will notify you of substantial amendments via the Service or by e-mail to the address that you have given. You shall be responsible for keeping your contact information up to date. Your continued use of the Service and/or website after such notice shall be deemed as your acceptance of the amendments.
 
-## 1\. How to Contact
 
-If you have questions, concerns or complaints you can contact us by email at [privacy.questions@autodesk.com](mailto:privacy.questions@autodesk.com) or by postal mail to the address below:
-    
-    
-    Autodesk, Inc.
-    The Landmark @ One Market
-    Suite 500
-    San Francisco, CA 94105
-    U.S.A.
-    Email: privacy.questions@autodesk.com
-    		
+We collect additional information to inform your specific use of our applications. This includes your language preferences, the date of your birth, the name of your employer and your job title.
 
-## 2\. Purpose of Processing Personal Data
+After you have created an account or registered for an application, we collect additional information, which may include:
 
-Tinkercad uses personal data that Tinkercad collects to manage and maintain the relationships between Tinkercad and its customers. The personal data is used to identify users of the Service and for the activation, execution, management and invoicing of the Service as well as for the providing of information and notifications to the customers. Furthermore, the personal data may be used for the purposes of direct marketing, provided that You have consented to this, as well as for investigation and follow up in cases of misuse.
+  * Your subscription plans and payment information
+  * Details about the applications that you purchased or have expressed interest in
+  * Training and certification details
+  * Event attendance details
+  * Your communication preferences
+  * Records of our interaction with you, where appropriate, such as service records, correspondence, details of complaints and their resolution
+  * Content you submitted to us, such as comments you posted in our forums
 
-Personal data may also be used for the planning and development of Tinkercad's business and services and to measure the number of customers using the Service. In addition, Tinkercad may use and disclose personal data for purposes (such as direct marketing, distance selling, other direct advertising, opinion polls or marketing research) as permitted in accordance with applicable laws.
 
-## 3\. Contents of the Data File
 
-The personal data file we have about you contains the following information:
+When you make purchases through our websites, we use payment processors ([Digital River](https://www.digitalriver.com/corporate-policies/), [BlueSnap](https://home.bluesnap.com/privacy-policy/), [PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/privacy)) and do not store credit card or other financial information (other than confirmation that payment in a certain amount has been made). We collect contact information from you that we pass through to the payment processor to facilitate the transaction. For more information you can contact our providers as set forth in their privacy notices. ****
 
-Customer information:
+**Information we obtain from your use of our applications:**
 
-First names, last name and e-mail address, billing details, solid model data files submitted to or created within the Service, permissions and prohibitions concerning direct marketing as well as other information that You may have provided to Tinkercad via the Service ("Customer Information").
+We collect information about the applications that you use and how you use them. We use this information to support our legitimate interest in improving your experience, and building better online, mobile, and desktop applications.
 
-Other information:
+This information includes:
 
-Personal information provided by You to Tinkercad by means of e-mail or an equivalent method of communication that logically relates to the Service and is stored by Tinkercad in accordance with this Privacy Policy.
+  * System Information and Usage Data
 
-Traffic data:
+We collect device-specific information, like unique device identifiers, operating system, and the type of device you use.
 
-Your visits to the Service and Your actions and movements within the Service (time, location within the Service and IP address) as well as movements to the Service from another website and movements from the Service to another website as well as computer-specific ID (the ID of the computers on which You have logged in to the Service) and information regarding Your browser type and Your operating system ("Traffic Data").
+We collect information about how you use our applications. This includes your product ID, license information, which applications you use and for how long, your city and country from your IP address, and information about your browser.
 
-## 4\. Collection of Information
 
-Information and content that you disclose:
 
-We collect personal data from You when You register as a user of the Service and when You update Your information or otherwise use the Service. Further, personal data is acquired from You when You contact Tinkercad via e-mail or by another equivalent means of communication.
+  * Social Networking Data
 
-Automatic data collection tools, cookies and similar technologies:
+We have pages on social networking platforms, such as Facebook, LinkedIn, or Twitter, where you can visit and communicate with us.
 
-A "cookie" is a commonly used automated data collection tool. A cookie is a small amount of data that is sent to a browser from a web server and gets saved on the hard drive of the computer that you are using. Cookies and similar tools collect standard information from your browser such as browser type, browser language, and the website address you came from when you visited our website. They may also collect information about your Internet Protocol (IP) address, and clickstream behavior (for example, the pages you view and the links you click), along with the date and time of your visit or request, and one or more cookies that may uniquely identify your browser or your account.
+Our applications also include buttons, tools, or content that links to another company’s services. We collect information about your use of these features through Autodesk Analytics tools and third-party analytics tools.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.
+If you use an Autodesk application that contains plugins, information can be transferred directly from your device to the social networking provider. We have no influence on the data collected by the plugin. If you are logged in to the social network, a link can be established between your user account there and the use of our application.
 
-If you set your browser to reject all cookies, you will be unable to use our website and the parties of our Service that require registration or customization in order to participate. If you choose to accept cookies from us and our service providers, you are granting us and our service providers your consent to set cookies on your computer. To learn more about cookies and other automatic data collection tools, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+If you interact with the plugins, for example by clicking on "Like", "Follow" or "Share", or by writing a comment, this information may automatically appear in your profile on the social network. Even if you are not logged in, the plugins may send your IP address to social network providers. Please note this when using our applications.
 
-Tinkercad may use cookies for the purposes of acquiring personal data. In order to use the Service You need to permit the use of cookies on your web browser. Tinkercad does not however store any personal data on the cookies themselves.
+When you connect to a social networking service on a device that is also used by others, these other users are able to see information that is stored or displayed in connection with your profile on the social networking service page.
 
-## 5\. Regular Disclosures of Personal Data
 
-Tinkercad does not disclose personal data it collects about you to third parties on a regular basis. Personal data may, however, occasionally be disclosed in accordance with this Privacy Policy and the laws of the United States. Furthermore, as noted above, personal data may be disclosed for research and marketing purposes (including direct marketing) provided that You have not expressly prohibited this.
 
-Tinkercad has the right to use subcontractors in connection with the offering and execution of the Service in order to better provide the Service to You. In this context personal data may be transferred to subcontractors or the subcontractors may have access to personal data to the extent that this is necessary for the fulfillment of the services they provide to Tinkercad, such as for the storage of data on a server maintained by a third party for Tinkercad or for the purposes of analyzing Traffic Data in order for Tinkercad to better understand how users interact with the Service.
+  * Error data
 
-We store personal information and data files associated with you on Tinkercad servers and servers of companies we hire to provide services to us. This information may be stored in the United States and in other countries where Tinkercad operates, and in countries where our service providers who help us run our business operate.
+We collect and track data on technical errors that may occur when you use our applications, if you choose to send the relevant report to us in each case. Before the report is sent to us, you will be told what information will be collected and how it will be sent to us.
 
-Tinkercad may transfer Your personal data to its affiliates around the world. This may involve the transfer of data to countries which may not have similar laws governing the privacy and protection of personal data as the jurisdiction in which you reside. Such data transfers will however only be made if they are necessary for and proportionate to the performance of an agreement between You and Tinkercad, or the performance of an agreement in Your interest between Tinkercad and a third party.
 
-If you are in the European Union or other regions with laws governing data collection and use, you agree to the transfer to, and processing and storage of your personal data in the United States and other countries, the privacy laws of which may be considered as being less strict than those of your region. This consent applies in addition to other legal grounds for transfer, processing and storage of your personal data, such as for contract fulfillment purposes.
 
-Tinkercad may transfer Your personal data if it merges with another company or if Tinkercad decides to sell or reorganize some part or all of the Tinkercad business, assets or stock (including if Tinkercad files for bankruptcy or is part of a similar proceeding). You acknowledge that such transfers may occur and that any acquirer of the part of the Tinkercad business, assets or stock affected may continue to use personal data about you as set forth in this Privacy Policy.
+  * Automatic updates
 
-## 6\. Correctness of Data
+We collect information that may identify you to your system administrator in connection with the automatic update process, to help your administrator determine what updates you need. This information includes your user login name, and your computer’s name or description.
 
-We want to be sure the personal data we maintain is accurate, complete and up to date. After registering with the Service, You have the right to view Your Customer Information specified above by logging in to the Service with Your user name and password. You may amend, complement and delete Your Customer Information either while logged in to the Service or by contacting Tinkercad's personnel. Tinkercad does not verify the correctness of the Customer Information and personal data submitted by You. Traffic Data and data other than Customer Information (as specified above) is not at Your disposal via the Service.
 
-The data relating to Your use of the Service is removed from Your identity within the Service when the storage of such data is no longer necessary.
 
-## 7\. Protection of Personal Data File
+  * Cookies and similar technologies
 
-You can log in to the Service only by use of a personal user name and password. The passwords related to the user names are stored in a secure form and they are not revealed to anyone in an unencrypted form.
+Autodesk uses cookies (small text files stored by your web browser when you use websites) and related technologies, such as pixels and beacons (“Cookies”) to collect and store information when you visit our websites and use our applications.
 
-Only persons who need to process data when fulfilling their tasks in accordance our provision of the Services to You and for the purposes of performing technical maintenance, have access to the personal data file. All personal data that we collect about You are protected in accordance with general industry practice.
+We also use Autodesk Analytics programs and third-party analytics tools, such as [Google Analytics](http://www.google.com/policies/privacy), to help us understand how you use our website and applications.
 
-## 8\. Links to Third Party Websites
+To learn more about analytics within our websites and applications, see our [Cookie Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/cookie-policy-english).
 
-The Service may contain links to third party websites. The linked websites are not under the control of Tinkercad and Tinkercad is not responsible for any content on such third party websites or links contained on such third party websites. Third parties (such as social media platforms or other company websites that we link to from our websites and applications) are responsible for their own privacy practices. Be sure to read the privacy policies, supplemental notices, and settings of all websites or platforms that you visit so you can understand their privacy practices and your options. Should You visit a linked website, Tinkercad strongly suggests that You study the privacy policy and other applicable terms and conditions of the third party website in question.
 
-## 9\. Further information
 
-Should You have any questions relating to this Privacy Policy and Tinkercad's information collection practices, please contact us as specified in Section 1 above.
 
-Additional information on the use of the Service is found in our [Terms of Service](https://tinkercad.com/about/tos).
+With the exception of information essential to operate our services as described in our Cookie Statement, whether we collect this data is up to you. You can change your mind at any time by going into your Settings within the application, as well as here. Please keep in mind that you may also need to clear your Cookies on each browser on each device.
+
+We associate any data we collect as set forth above with your personal account.
+
+**Information we collect from other parties:**
+
+To help keep our databases current, and to provide you with more relevant content, experiences and offerings, we combine your personal data, as described above, with information from public sources and other companies (such as our channel partners [resellers], business contact databases, and enrichment service providers), in accordance with applicable law.
+
+These sources can tell us about the company size and industry of our business customers and also help us maintain the accuracy of our databases.
+
+### How does Autodesk use the information it collects about you?
+
+We use your personal data mindfully, and in useful ways, including:
+
+  * To validate your identity, to the extent necessary to perform our contract with you
+  * To deliver you services, products, support, or information you have requested about your application, to the extent necessary to perform our contract with you
+  * To send you important information within the scope of our contract with you
+  * To send you other information you requested, like when someone has “liked” one of your posts, to the extent necessary to perform our contract with you
+  * To send you other special offers, promotions, newsletters, surveys, or other information that you have consented to receive, as long as you want them
+  * To support our legitimate interest in gaining a better understanding of our applications, so we can improve them and your experience
+  * To correct problems in our applications, as necessary to perform the contract we have with you
+  * To support our legitimate interest in making our ads more relevant to your interests
+  * To support our legitimate interest in using automated systems to analyze your data using machine learning and advanced analytics to improve our applications
+  * To pursue our legitimate interest in preventing and reducing fraud and software piracy
+  * As further described in your applications, such as in a supplemental notice, or in our About Boxes (available via Settings in your application)
+
+
+
+Unless otherwise indicated, there is no statutory or contractual requirement for you to provide this data. If you do not provide this data, we might not be able to provide our services to you.
+
+### How does Autodesk disclose your personal data?
+
+To provide you the best services we can, we work with other service providers. These companies are located all over the world, and we require them to protect your privacy. They are not authorized by us to use your personal data for their own purposes. Our service providers include companies we use for:
+
+  * Marketing
+  * Sales
+  * Consulting
+  * Communications
+  * Software Maintenance & Support
+  * Social Media
+  * Market Research
+  * License Compliance
+  * Security
+  * Localization
+
+
+
+We may disclose your data in the following circumstances:
+
+  * When we have your consent to do so
+  * To our service providers for the purposes indicated in this Privacy Statement. We do not disclose your personal data to them for their own purposes.
+  * To our channel partners (resellers), who are not service providers, for the purposes indicated in this Privacy Statement
+  * When we are required to do so by law, such as to respond to a subpoena or a court order
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud or software piracy, defend ourselves against attacks, or protect the rights, property, and safety of Autodesk, our customers, and the public
+  * If we merge with another company, or if we sell or reorganize part of, or all of our business, assets, or stock (including, if we file for bankruptcy). If this happens, your data will likely be transferred to the other company.
+  * When the data can no longer identify you. This can happen through aggregation, where your data is combined with other data to become a statistic.
+
+
+
+### How does Autodesk protect your data?
+
+We use a combination of reasonable physical, administrative, and technological controls to protect your data from unauthorized access or malicious actions. For more information about our security practices, please visit the [Trust Center](https://www.autodesk.com/trust/overview).
+
+We limit the access employees, contractors, and agents of Autodesk have to your personal data to those who need to know this data to perform their assigned functions and develop or improve our products and services.
+
+### How do you access, update, download, and delete your personal data?
+
+We have processes in place to maintain accurate, complete and up to date data. You have the right to access, update, delete, receive a copy of, or restrict our use of your personal data. When we process personal data based on your consent, you have the right to withdraw consent any time.
+
+To perform these actions, log-in to your account to manage your personal data and content using our applications and services. You can also delete your personal data and close your account. We may retain certain data about you for legal and internal business purposes, such as fraud prevention, in accordance with applicable laws.
+
+To request a copy of the personal data in your account, please [submit this form](https://accounts.autodesk.com/profile/download?returnurl=https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement/confirmation-en). When you contact us to assist you, we will ask you to validate your identity before fulfilling your request. If you have any questions, please [contact us](mailto:privacy.questions@autodesk.com).
+
+### What are Autodesk’s storage and data retention practices?
+
+We store your personal data and content on our servers, and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored outside of the United States.
+
+We will retain your personal data for as long as necessary to provide you with the applications you are using, and as needed to comply with our legal obligations.
+
+### Does Autodesk transfer your personal data across national borders?
+
+Because we are a global company, we transfer your personal data across national borders to other countries, in compliance with the laws that apply to that data.
+
+When your data is transferred from one of our entities in the European Economic Area (EEA) to the United States, or another country outside of the EEA, we rely on one or more of the following legal mechanisms which provide appropriate safeguards for the transfers: the EU-U.S. Privacy Shield, Swiss-U.S. Privacy Shield, and Standard Contractual Clauses.
+
+To learn more about Autodesk’s Privacy Shield Certification, please read our [Privacy Shield Notice](https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/legal-notices-&-trademarks/privacy-shield-statement-nov-2017-updated-1.pdf).
+
+### What are Autodesk’s marketing and advertising practices?
+
+**Ad Partners**
+
+Our websites and applications may feature ads for other companies’ products and services, as well as ads for our own applications.
+
+We work with one or more advertising networks, which are our Ad Partners, who use Cookies or other technologies to collect information in order to serve you ads and help us track results. Such information may include the websites you visit, the mobile apps you use, the preferences you may provide us as your application provider, your IP address, your device ID, and information about your browser. This information is used to display appropriate advertising in mobile apps and websites that you visit, to calculate and control the number of unique and repeat views of a given ad, deliver ads that relate to your interests and measure the effectiveness of ad campaigns. This processing is in our legitimate interest.
+
+Our Ad Partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
+
+To opt out of the use of your information by Ad Partners, use the [Digital Advertising Agencies AdChoices Tool](http://optout.aboutads.info/?c=2#!/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool again to renew your opt out choice.
+
+You can also change your marketing preferences for our websites here.
+
+**Do-not-track signals**
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Autodesk currently does not take action in response to these signals.
+
+### How does Autodesk protect children and student data?
+
+At Autodesk, we care deeply about children’s privacy and protecting their data.
+
+Many of our applications, and features are made for the general public, and are designed for adult users. We do not knowingly collect personal data from children in connection with those websites, products, services, and features that are made for the general public.
+
+Other applications and features are appropriate for use by children, and our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english) applies to the personal data collected from those applications. If there is a conflict between our Children’s Privacy Statement and other sections of our Privacy Statement, this Children’s Privacy Statement sets the standard for how we treat children’s personal data.
+
+For more information, please refer to our [Children’s Privacy Statement](https://web.archive.org/company/legal-notices-trademarks/privacy-statement/childrens-privacy-policy-english).
+
+### Is the personal data you give us ever displayed publically?
+
+As always, we urge you to be mindful when deciding to disclose personal data, including on our applications and websites. There are various places within our applications and services that allow you to post content, including comments and “likes.”
+
+In some cases, you can limit who can view or access the information and content you post. In other cases, the information and content might be available to registered members of the application or website, or even to the general public. Your name, user name, profile image, or email address (particularly if this is your user name) may be posted along with any message or other content you post through some of our applications and websites.
+
+If you are posting information you do not want to be disclosed publicly, make sure you are using a website or application that allows you to control who sees information you have posted.
+
+### Will this Privacy Statement change?
+
+If and when the way we treat your personal data changes, we will make sure to let you know by updating this Privacy Statement. When we change it, we will make it clear at the top of our Privacy Statement, and we will tell you when we last updated it. If we have your email address, we will also send you a notice by email regarding the update.
+
+### How to contact us?
+
+If you want to contact us, please use the following contact information. When you do so, please tell us the name of the website or application about which you are contacting us:
+
+By email at:
+
+privacy.questions@autodesk.com
+
+By postal mail to:
+
+> Privacy Questions  
+>  Autodesk, Inc.  
+>  The Landmark @ One Market  
+>  Suite 500  
+>  San Francisco, CA 94105  
+>  U.S.A.  
+> 
+
+**Data protection officer**
+
+To contact our data protection officer, please use the following contact information: [DPO@autodesk.com](mailto:DPO@autodesk.com).
+
+### Who can I contact with questions or concerns?
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have a right to lodge a complaint with the [data protection authority of the United States of America](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc) and/or with a competent European supervisory authority.
