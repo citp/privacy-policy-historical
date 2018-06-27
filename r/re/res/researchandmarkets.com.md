@@ -1,37 +1,88 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712195018id_/https%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627085213id_/https%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Research and Markets
 
-This notice describes our privacy policy. By visiting Research and Markets, you are accepting the practices described in this Privacy Notice. 
+This notice describes our privacy policy. By visiting Research and Markets, you are accepting and consenting to the practices described in this Privacy Policy. 
 
-## What personal information about customers does Research and Markets gather?
+## CONTROLLERS OF PERSONAL INFORMATION
 
-The information we learn from customers helps us personalise and continually improve your delivery of business information. 
+Any personal information provided to or gathered by Research and Markets is controlled by Research and Markets, Guinness Centre, Taylors Lane, Dublin 8, Ireland.
 
-## Here are the types of information we gather:
+## WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES RESEARCH AND MARKETS GATHER? 
 
-_Information You Give Us:_ We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our products, and communicating with you. 
+The information we learn from customers helps us personalise and continually improve the delivery of business information. We use the information to handle orders; deliver products and services; process payments, communicate with you about orders, products, services and promotional offers; as well as update our records and generally maintain your account with us. We also use this information to improve our website, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf. 
 
-_Automatic Information:_ We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies", and we obtain certain types of information when your Web browser accesses Research and Markets. 
+We may record telephone calls for training and verification purposes. 
 
-_Note:_ Your browsing and purchasing patterns for market research information may be commercially sensitive. We recognise this. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalised experience at Research and Markets if we cannot recognise you, we want you to be aware that these tools exist. 
+## HERE ARE THE TYPES OF INFORMATION WE GATHER 
 
-_E-mail Communications:_ To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Research and Markets if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
+**Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. You can select not to provide certain information on our website. However, doing so may restrict the features that we are able to provide you. We use the provided information for such purposes as responding to your requests, communicating with you, customising future shopping for you, and improving our products. 
 
-_Information from Other Sources:_ We might receive information about you or your organisation from other sources and add it to our account information.
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies", and we obtain certain types of information when your web browser accesses Research and Markets. Note: Your browsing and purchasing patterns for market research information may be commercially sensitive. We recognise this. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalised experience at Research and Markets if we cannot recognise you, we want you to be aware that these tools exist. 
 
-## What about Cookies?
+**E-mail Communications:** To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Research and Markets if your computer supports such capabilities. 
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide additional features such personalised information, and storage of items in your Shopping Cart between visits. 
+**Information from Other Sources:** We might receive information about you or your organisation to the extent permitted by law, we obtain (or may obtain) information about you from other third party sources. We combine such third party sourced information with information we have obtained about you from our site, we will treat the combined information in accordance with the practices described under this Privacy Policy, plus any additional restrictions imposed by the source of the data. 
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Research and Markets’ coolest features, and we recommend that you leave them turned on. 
+## DOES RESEARCH AND MARKETS SHARE THE INFORMATION IT RECEIVES? 
 
-## How secure is information about me?
+Information about our customers is an important part of our business and we do not share or sell it to third parties. Research and Markets shares customer information only as described below. 
 
-We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+**Third Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Those can include providing customer service, fulfilling orders, processing credit card payments and analysing data. They have access to personal information needed to perform their functions, and may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Policy and as permitted by applicable data protection laws. 
 
-## Opt-in/Opt-out
+**Business Transfers:** As we continue to develop our business, we might buy or sell subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy unless the customer consents otherwise. 
 
-If you do not want to receive e-mail correspondence from us, please visit click the unsubscribe link provided at the bottom of any of our marketing emails. If you encounter any problem or need additional help, please [contact us](https://web.archive.org/info/contactus.asp). 
+## IS PERSONAL DATA TRANSFERRED OUTSIDE OF THE EU/EEA? 
 
-If you wish to receive e-mail or other mail from us, please visit: [Register Page](https://web.archive.org/register.asp)
+The personal data that we collect from you may be transferred to, and stored outside the European Union (“EU”) and the European Economic Area (“EEA”). It may also be processed by staff operating outside the EU/EEA who work for us or for one of our suppliers, in which case the other country's data protection laws will have been approved as adequate by the European Commission or other applicable safeguards are in place. 
+
+Some of our third party service providers explicitly state that they transfer personal data outside of the EU/EEA. Examples of these service providers and with their legal basis for each transfer are listed below: 
+
+  * Google Analytics – (EU-US Privacy Shield)
+  * Amazon Web Services, Inc.– (EU-US Privacy Shield)
+  * Fastly Inc. – (EU-US Privacy Shield)
+
+
+
+## WHAT ABOUT COOKIES? 
+
+Cookies are identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognise your browser and provide additional features such personalised information, and storage of items in your shopping cart between visits. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Research and Markets' best features, and we recommend that you leave them turned on. 
+
+## HOW SECURE IS INFORMATION ABOUT ME?
+
+Research and Markets takes your privacy seriously and takes every reasonable measure and precaution to protect and secure your personal data. We work hard to protect you and your information from unauthorised access, alteration, disclosure or destruction and have several layers of security measures in place, including secure hosting of our website, virus and malware protections and encryption of data in transit using TSL (Transport Layer Security) certificates. 
+
+We restrict access to personal information to Research and Markets' employees, contractors, agents and suppliers who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations. 
+
+## OPT-IN/OPT-OUT 
+
+If you do not want to receive e-mail correspondence from us, please visit click the unsubscribe link provided at the bottom of any of our marketing emails. If you encounter any problem or need additional help, please [contact us](https://www.researchandmarkets.com/info/contactus.asp). If you wish to receive e-mail or other mail from us, please visit: [Register Page](https://www.researchandmarkets.com/register.asp)
+
+## FOR HOW LONG IS PERSONAL DATA RETAINED? 
+
+Different types of personal data are retained for different periods of time. Personal data is retained for only as long as Research and Markets has a legitimate basis to retain the data. 
+
+  * Personal data you provide when signing up for our email marketing lists is retained until such time as you unsubscribe. After you unsubscribe, we retain minimal information to ensure you stay unsubscribed. 
+  * Personal data provided as part of a contract between us is retained for a period of 7 years after the contract has ended. 
+
+
+
+## YOUR RIGHTS 
+
+Under current data protection laws and under GDPR you have certain rights. These include: 
+
+**Right to Access:** You may request a copy of all personal data held about you by Research and Markets.
+
+**Right to Rectify:** You have the right to ask Research and Markets to correct any inaccuracies in the personal data held about you. 
+
+**Right to Erasure:** You have the right to ask that we erase any personal data we are processing about you. Please note that we may still be legally allowed or obliged to retain your information in instances such as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and defend or establish a legal claim. 
+
+**Right to Restrict:** In certain circumstances, you have the right to request that we restrict the processing of your personal data. 
+
+**Right to object:** In certain circumstances, you have the right to object to our processing of your personal data. 
+
+**Right Not to be Subjected to Automated Decision Making:** You have the right not to be subjected to automated decision making where the decision has legal or significant effects. 
+
+**Right to Withdraw Consent:** Where we are processing your personal data on the basis of your consent, you have the right to withdraw your consent at any time. 
+
+**How to Exercise Your Rights:** Please contact us at dataprotection(at)researchandmarkets.com and provide us with as much information as possible to enable us to complete your request. 
