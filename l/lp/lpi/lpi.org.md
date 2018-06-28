@@ -1,59 +1,173 @@
-> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225195216id_/http%3A//www.lpi.org/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628151348id_/http%3A//www.lpi.org/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Policies | Linux Professional Institute
+# Privacy Statement and Policies | Linux Professional Institute
 
-Please review the policies below. LPI policies are subject to change, please refer to these policies frequently for the most up to date information.
+### Privacy Statement
 
-Privacy Policy
+### Certification Policies
 
-LPI is committed to protecting the privacy of its candidates and community members. We will not collect any personal information that is not volunteered, and LPI is the sole owner of all information collected at this site.
+### Disciplinary Policy/Procedure
 
-**Cookies**
+## LINUX PROFESSIONAL INSTITUTE INC. (LPI)  
+PRIVACY STATEMENT
 
-As done at many other web sites, LPI uses cookies to identify users so they don’t have to re-enter their user ID and passwords when using our web site. Cookies also help LPI to improve our web site’s usability by allowing users to specify preferences such as a choice of language. If you have cookies disabled, you must enter your password each time you access certain areas of the LPI site. Any cookies set by the LPI site are only valid until you log out of the web site or shut down your browser.
+_Last revised: May 22, 2018_
 
-**Official LPI Affiliates**
+At The Linux Professional Institute Inc. (“LPI”), we are committed to protecting your privacy and safeguarding your personal information.
 
-LPI Affiliates are official representatives of LPI that provide regional support of LPI activities and values around the globe. LPI may provide candidate contact information to LPI Affiliates who wish to send candidates in their region information about LPI activities as long as they contact them in full compliance with the communication laws of that region.
+The purpose of this Privacy Statement is to inform you about the types of Personal Information LPI (as follows, “we” or “us”) collects, uses and discloses. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
-LPI may also request that candidates provide information to LPI Affiliates to assist in the verification of their certification status. Compliance with such requests is voluntary, and involves providing the minimal information necessary to obtain a candidate’s status (LPI ID, name, and year of certification).
+We are proud to demonstrate our commitment to your privacy, by complying with the laws and regulations under applicable privacy laws in Canada. This Privacy Statement is designed to meet the standards prescribed by the Personal Information Protection and Electronic Documents Act and the regulations thereunder (“PIPEDA”) as well as applicable provincial privacy legislation and regulations, including, and the Personal Information Protection Act (Alberta), the Personal Information Protection Act (British Columbia), and An Act respecting the protection of personal information in the private sector (Quebec).
 
-**Email**
+From time to time, we may make changes to this Privacy Statement. The Privacy Statement is current as of the “last revised” date which appears at the top of this page. We will treat Personal Information in a manner consistent with the version of the Privacy Statement under which it was collected and our Privacy Policy, unless we have your consent to treat it differently. This Privacy Statement applies to any information we collect or receive about you, from any source.
 
-If you do not wish to receive promotional emails from LPI you may opt-out at any time. All promotional communications sent from LPI Inc. have an unsubscribe link to make this process easy and to be fully compliant with email communications laws. Automatic emails that relate to exam pass/failure, notice of certification and notice of expiration do not feature this unsubscribe option.
+The following topics will be covered in this Privacy Statement:
 
-Email addresses of webinar attendees may be shared with the company or organization providing the webinar to allow them to provide additional information or special offers with the understanding that users have the ability to opt-out of further communication at any time.
+  1. To which companies does this Privacy Statement apply?
+  2. What is Personal Information?
+  3. How do we collect your Personal Information?
+  4. Where do we store your Personal Information?
+  5. How do we use your Personal Information?
+  6. To whom do we provide your Personal Information?
+  7. When and how do we obtain your consent?
+  8. How do we ensure the privacy of your Personal Information when dealing with our partners and other third parties?
+  9. How long will we utilize, disclose or retain your Personal Information?
+  10. How can you review your Personal Information that we have collected, utilized or disclosed?
+  11. How do you know that the Personal Information we have on you is accurate?
+  12. What if the Personal Information we have on you is inaccurate?
+  13. How fast will we respond to your written requests?
+  14. Are there any costs to you for requesting information about your Personal Information or our Privacy Policy or practices?
+  15. How do we know that it is really you requesting your Personal Information?
+  16. What safeguards have we implemented to protect your Personal Information?
+  17. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?
+  18. Cookies
 
-**Pearson VUE**
 
-Candidates who have registered to take LPI exams through the Pearson VUE network may have provided personal information that has been provided to both LPI and Pearson VUE.
 
-[VUE Privacy Policy](http://www.vue.com/legal/privacy/)
+**1\. To which companies does this Privacy Statement apply?**
 
-**Affiliated and linked sites**
+This Privacy Statement applies to the collection, use and disclosure of Personal Information by LPI.
 
-LPI expects its partners and affiliates to respect the privacy of its candidates. Please be aware, however, that third parties, including LPI partners and affiliates and other content providers accessible through its site, may have their own privacy and data collection policies and practices. LPI is not responsible for the actions or policies of such third parties. Please check the applicable privacy policies when providing information to a third party.
+**2\. What is Personal Information?**
 
-Anyone voluntarily disclosing Personally Identifiable Information on message boards, mailing lists or in chat areas, must be aware that such information can be viewed publicly and can be collected and used by third parties without LPI’s knowledge. This may result in unsolicited messages from other individuals or third parties; such activities are beyond the control of LPI and this policy.
+“Personal Information” is any information that is identifiable with you, as an individual. This information may include but is not limited to your name, company, occupation, mailing address, e-mail address, billing address, phone number, credit card information, exam history, certification status, membership status; and event registration status. Personal Information, however, does not include certain business contact information used for the purpose of communicating or facilitating communication with you, as an individual, in relation to your employment, business or profession.
 
-**Security**
+**3\. How do we collect your Personal Information?**
 
-LPI uses reasonable precautions to protect the personal information disclosed by candidates and other community members. LPI is not responsible for the actions or any breach of security by any LPI partners.
+We will always collect your Personal Information by fair and lawful means (for example, when you register with us). We may collect Personal Information from you directly and/or from third parties, where we have obtained your consent to do so or as otherwise required or permitted by law.
 
-**Obtaining Your Consent**
+**4\. Where do we store your Personal Information?**
 
-By using our web site, users of the LPI web site give LPI permission to collect information about the pages served to them (as anonymous users) for the purpose of calculating aggregate site statistics. Registration at the LPI website indicates authorization to LPI to use information provided to personalize the information delivered, and to use such demographic information when calculating aggregate user data. LPI may occasionally amend this policy.
+We will keep the Personal Information that we collect at the LPI offices, LPI-managed co-located hosting facilities; or at the offices of our third party service providers, as applicable. Your Personal Information is stored in Ontario, Canada.
 
-**Children**
+**5\. How do we use your Personal Information?**
 
-LPI does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If LPI discovers it has received any information in violation of this policy, such information will be deleted immediately.
+We identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use. We generally use your Personal Information for the following purposes (the “Purposes”):
 
-**Changes to this policy**
+  * to provide you with the services and deliverables that you may request from LPI, from time to time;
+  * to manage your account with LPI;
+  * to process your orders from LPI;
+  * to schedule and administer examinations;
+  * granting certifications and verifying against certifications granted by LPI;
+  * to provide you with information about conferences and events;
+  * to respond to questions, comments or concerns regarding LPI;
+  * to allow for more meaningful and useful marketing initiatives;
+  * to collect your Personal Information in aggregate form to develop consumer profiles, perform sales analysis and identify marketing opportunities and strategies;
+  * to collect opinions and comments in regard to LPI’s operations;
+  * to recruit for positions in LPI;
+  * to investigate legal claims;
+  * to administer LPI websites and any LPI software applications;
+  * such purposes for which LPI may obtain consent from time to time; and
+  * such other uses as may be permitted or required by applicable law.
 
-LPI reserves the right to change this policy at any time. Please check this page periodically for changes. Continued use of LPI’s site following the posting of changes to these terms indicates acceptance of those changes. Anyone wishing to change information provided to LPI, provide details of any known violations, or offer any comments or questions regarding this Privacy Policy, is asked to contact us.  
- 
 
-Certification Policy
+
+**6\. To whom do we provide your Personal Information?**
+
+We identify to whom, and for what purposes, we disclose your Personal Information, at the time we collect such information from you and obtain your consent to such disclosure.
+
+LPI Regional Partners (as follows, “Regional Partners”) are official partners of LPI that provide regional support of LPI activities and values around the globe.
+
+LPI may disclose your information to LPI Regional Partners. LPI may provide candidate contact information to LPI Regional Partners who wish to send candidates in their region information about LPI activities and marketing communications.
+
+We may transfer your Personal Information to third party service providers with whom we have a contractual agreement that includes appropriate privacy standards, where such third parties are assisting us with the Purposes – such as service providers that provide telephone support or data storage or processing.
+
+In addition, we may send Personal Information outside of the country for the Purposes, including for process and storage by service providers in connection with such Purposes. However, you should note that to the extent that any Personal Information is out of the country, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country.  For written information about our policies and practices regarding service providers outside of Canada, contact our Privacy Information Officer (see question 17 below).
+
+As of the revision date of this Privacy Statement, LPI may share your data outside of Canada to the following jurisdictions for the purposes outlined:
+
+  * United States; for the purposes of physical certificate fulfilment and shipping.
+  * Internationally to our Regional Partners; for the purposes outlined in topic #5.
+
+
+
+**7\. When and how do we obtain your consent?**
+
+We generally obtain your consent prior to collecting, and in any case, prior to using or disclosing your Personal Information for any purpose. You may provide your consent to us either orally, electronically or in writing. The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the Personal Information and the reasonable expectations you might have in the circumstances.
+
+**8\. How do we ensure the privacy of your Personal Information when dealing with our affiliates and other third parties?**
+
+We ensure that all affiliates and other third parties that are engaged to perform services on our behalf and are provided with Personal Information are contractually required to observe the intent of this Privacy Statement and our Privacy Policy and practices.
+
+**9\. How long will we utilize, disclose or retain your Personal Information?**
+
+LPI shall retain records for the period of their immediate or current use, unless longer retention is necessary for historical reference, research, or to comply with contractual or legal requirements. The records of the LPI shall be classified for purposes of retention as follows:
+
+  * Class 1: Permanent Retention. Records that are permanent or essential shall be retained and preserved indefinitely. Examples of permanent records include official minutes of LPI board actions, LPI policies, annual reports, customer service correspondence, as well as records of candidate identification information with their certification status and date of examination, and full record of candidate exam responses are also classified as permanent records.
+  * Class 2: Current Records. Current records are records that for convenience, reference, or other reasons are retained by LPI. Current records will be retained for seven years. Examples of current records include general correspondence, financial records, and records and payment regarding employee or consultant agreements.
+  * Class 3: No Retention Required. Documents and other materials that are not “records” need not be retained. Documents and other materials (including originals and duplicates) that are not otherwise required to be retained, are not necessary to the functioning or continuity of LPI and which have no legal significance may be destroyed when no longer needed. Examples include materials and documents generated for the convenience of the person generating them, draft documents (other than some contracts) and duplicate copies of records that are no longer needed. Specific examples include reminder messages, miscellaneous correspondence not requiring follow-up or action, e-mails that do not need to be retained under this policy as well as chronological files. With limited exceptions, no specific retention requirements are assigned to documents in this category. Instead, it is up to the originator or recipient to determine when the document’s business utility has ended.
+
+
+
+**10\. How can you review your Personal Information that we have collected, utilized or disclosed?**
+
+If you make a written request to review any Personal Information about you that we have collected, utilized or disclosed, we will provide you with any such Personal Information to the extent required by law. We will make such Personal Information available to you in a form that is generally understandable, and will explain any abbreviations or codes.
+
+**11\. How do you know that the Personal Information we have on you is accurate?**
+
+We will ensure that your Personal Information is kept as accurate, complete and up-to-date as possible. We will not routinely update your Personal Information, unless such a process is necessary. We expect you, from time to time, to supply us with written updates to your Personal Information, when required. We encourage you to maintain your personal information and contact information via the LPI Candidate Portal by logging into your account on lpi.org.
+
+**12\. What if the Personal Information we have on you is inaccurate?**
+
+At any time, you can challenge the accuracy or completeness of your Personal Information in our records. If you successfully demonstrate that your Personal Information in our records is inaccurate or incomplete, we will amend the Personal Information as required. Where appropriate, we will transmit the amended information to third parties having access to your Personal Information.
+
+**13\. How fast will we respond to your written requests?**
+
+We will attempt to respond to each of your written requests not later than thirty (30) days after receipt of such requests. We will advise you in writing if we cannot meet your requests within this time limit. You have the right to make a complaint to the Privacy Commissioner of Canada or your applicable provincial privacy commissioner in respect of this time limit.
+
+**14\. Are there any costs to you for requesting information about your Personal Information or our Privacy Policy or practices?**
+
+We will not charge any costs for you to access your Personal Information in our records without first providing you with an estimate of the approximate costs, if any.  
+
+**15\. How do we know that it is really you requesting your Personal Information?**
+
+We may request that you provide sufficient identification to permit access to the existence, use or disclosure of your Personal Information. Any such identifying information shall be used only for this purpose.
+
+**16\. What safeguards have we implemented to protect your Personal Information?**
+
+We have implemented physical, organizational, contractual and technological security measures to protect your Personal Information from loss or theft, unauthorized access, disclosure, copying, use or modification. The only employees, who are granted access to your Personal Information, are those with a business ‘need-to-know’ or whose duties reasonably require such information.
+
+**17\. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?**
+
+All comments, questions, concerns or complaints regarding your Personal Information or our Privacy Policy and practices, should be forwarded to our Privacy Officer as follows:
+
+In writing:
+
+Attn: Kevin Glendenning [Privacy Officer]  
+Linux Professional Institute  
+1 Queen St., Suite 102  
+Cobourg, ON   K9A 1M8  
+Canada
+
+By e-mail:
+
+[info@lpi.org](mailto:info@lpi.org)
+
+**18\. Cookies.**
+
+Our websites may pass cookies, web beacons/pixel tags, and other technologies to collection certain information about visitors to our websites (a string of information that is sent by a website to be resident on your system's hard drive or storage media, and/or temporarily in your computer's memory). You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of our websites.
+
+## Certification Policy
 
 **PC Architecture**
 
@@ -104,11 +218,11 @@ Beginning September 1st, 2009 a single exam towards the LPIC-1 or LPIC-2 certifi
 Revised: 18-November-2010  
 The LPI Board voted on a policy regarding the delay required between re-taking exams:
 
-  * Anyone who takes an LPI exam once must wait one week before re-taking.
-  * Anyone who takes an LPI exam a second (and subsequent) time must wait 30 days before re-taking.
-  * Anyone who passes an LPI exam may not retake that exam for at least two years.
+Anyone who takes an LPI exam once must wait one week before re-taking.
 
+Anyone who takes an LPI exam a second (and subsequent) time must wait 30 days before re-taking.
 
+Anyone who passes an LPI exam may not retake that exam for at least two years.
 
 **Disciplinary Procedure**
 
@@ -151,48 +265,7 @@ Requests for accommodations for either a computer administered or paper-and-penc
 
 
 
-Record Retention Policy
-
-Revised: 19-Apr-2004  
-This policy covers all records and documents, regardless of physical form or characteristics, both paper and electronic, which have been made or received by LPI in connection with the transaction of public business.
-
-**A. RETENTION POLICY**
-
-LPI shall retain records for the period of their immediate or current use, unless longer retention is necessary for historical reference, research, or to comply with contractual or legal requirements. The records of the LPI shall be classified for purposes of retention as follows:
-
-  * Class 1: Permanent Retention. Records that are permanent or essential shall be retained and preserved indefinitely. Examples of permanent records include official minutes of LPI board actions, LPI policies, annual reports, as well as records of candidate identification information with their certification status and date of examination.
-  * Class 2: Current Records. Current records are records that for convenience, reference, or other reasons are retained by LPI. Current records will be retained for three years. Examples of current records include general correspondence, financial records, and records and payment regarding employee or consultant agreements. Research reports (including general statistical reports, item analysis, equating, job analysis and standard setting reports), forms of the exams, candidate application information and the full record of candidate exam responses are also classified as current records.
-  * Class 3: No Retention Required. Documents and other materials that are not “records” need not be retained. Documents and other materials (including originals and duplicates) that are not otherwise required to be retained, are not necessary to the functioning or continuity of LPI and which have no legal significance may be destroyed when no longer needed. Examples include materials and documents generated for the convenience of the person generating them, draft documents (other than some contracts) and duplicate copies of records that are no longer needed. Specific examples include reminder messages, miscellaneous correspondence not requiring follow-up or action, e-mails that do not need to be retained under this policy as well as chronological files. With limited exceptions, no specific retention requirements are assigned to documents in this category. Instead, it is up to the originator or recipient to determine when the document’s business utility has ended.
-
-
-
-**B. RECORDS NOT ADDRESSED IN THE RECORD RETENTION SCHEDULE**
-
-Records and other documents or materials that are not expressly addressed may be destroyed at any time provided that they have been retained for the periods prescribed for substantially similar records.
-
-**C. STORAGE AND SECURITY OF RECORDS**
-
-Records may be stored in the LPI central office space or externally in LPI maintained servers if the records are in active use or are maintained in the office for convenience or ready reference. Examples of active files appropriately maintained in the LPI central office include active chronological files, research and reference files, pending files, administrative files or personnel files. Inactive records, for which use or reference has diminished sufficiently to permit removal from LPI office space or equipment, may be sent to an off-site storage facility.
-
-Certain records require additional security measures to maintain the integrity of the examination process. These records include:
-
-  * Candidate information (certification status, exam date, identifying and application data, and full records of candidate exam responses)
-  * Item analysis with answer key
-  * Forms of the exams
-  * Records related to the content of specific items (item bank)
-
-
-
-For selected candidate information, an individual candidate can make his/her certification status and exam date available to employers (or others) by providing to that person a username and password using secure http processes. No other candidate information is accessible through this process.
-
-For the remaining more detailed candidate information, as well as the above items two through four, security must be maintained at the highest level. In electronic formats, access to individual candidate information records are encrypted and/or password protected on the server and are accessible by the server administrator, the database administrator and the Vice President of Operations. Additionally, records pertaining to item analysis, exam forms and the content of the specific items and the item bank are on the LPI server and accessible by the Director of Exam Development, the Director of Certification and other LPI staff specifically designated by them.
-
-In a physical format, these records are maintained onsite in locked cabinets in a secure office. When transported to exam sites, paper exam booklets are maintained in the possession of LPI staff or the approved designated proctor. Additionally, they may be mailed to the proctor using a delivery service requiring signature. After the paper exams are administered, the used exam booklets are destroyed.
-
-Should a breach of security be discovered, it is incumbent upon staff to act immediately to minimize the effects of the breach. The course of action for the server and database administrators would be to change all passwords, make sure all software is current, identify how the exploit occurred and make the necessary changes to prevent it from happening again. Data would be compared to known secure backups and with the vendor data to verify any tampering and fix any inconsistencies found.  
- 
-
-Disciplinary Policy/Procedure
+## Disciplinary Policy/Procedure
 
 **Standards**
 
