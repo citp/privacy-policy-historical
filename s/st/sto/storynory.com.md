@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616031827id_/http%3A//storynory.com/about-storynory/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629002533id_/https%3A//www.storynory.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - Storynory
 
@@ -6,7 +6,7 @@ This privacy and cookies statement covers the services provided by Storynory Ltd
 
 ### Cookies
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies.
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files are known as cookies.
 
 #### We use our own cookies for the following:
 
@@ -34,7 +34,7 @@ If you subscribe to our stories via iTunes or RSS feed, we have no idea who you 
 
 ### Social Networks
 
-You can follow us by Twitter or Facebook. This is a great way to get in touch with us, and get to know us personally. Social networks are perfect for parents and teachers, grown-up language learners, and other older listeners or young adults. We ask that only people who are thirteen years or older use Social Networks, as we do not think they are safe for children.
+You can follow us by Twitter or Facebook. This is a great way to connect with Storynory. Social networks are perfect for parents and teachers, grown-up language learners, and other older listeners or young adults. We ask that only people who are thirteen years or older use Social Networks, as we do not think they are safe for children.
 
 Our share and social media buttons do not use cookies or javascript.
 
