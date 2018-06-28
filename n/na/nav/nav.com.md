@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nav.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210120616id_/https%3A//www.nav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nav.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628102433id_/https%3A//www.nav.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nav
 
 * * *
+
+_Last Revised: June 18, 2018_
 
 Nav Technologies, Inc., (“we” or “us”) wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the “Policy”) describes our practices in connection with information that we collect through our websites (collectively, the “Site”). Please take a moment to review this Policy and feel free to contact us with any questions at 855-226-8388.
 
@@ -15,6 +17,7 @@ We collect personal information and non-personal information through the Site. P
 Personal information. We may collect the following types of personal information:
 
   * Information provided by you when ordering credit-related products through the Site. For example, you will be required to submit personal information such as your name, address, social security number, date of birth, telephone number and e-mail address.
+  * Information from third-party data providers, including consumer credit information, when fulfilling information requests made by you when ordering credit-related products through the site.
   * When you make a purchase through the Site, we may collect your credit card number or other payment account number, billing address and other information related to such purchase (collectively, “Payment Information”) from you.
   * Other information we collect, such as city of birth and mother’s maiden name, is used to verify your identity in the event you forget your login information required for our online products.
   * Information you provide us through customer service correspondence and general feedback.
@@ -40,7 +43,7 @@ _Personal Information._ We may use personal information we collect in the follow
   * Other Communications. From time to time, we may use personal information to inform you of products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not send such email marketing messages to you, please see the “Your Choices” section below.
   * Purchases. We may use personal information, including Payment Information in order to fulfill your purchase.
   * Internal Business Purposes. We may also use personal information for our internal business purposes, such as data analysis and audits. In addition, we may also use personal information to enhance our information and to aid us in providing our customers with targeted promotions.
-  * Nav Marketing and Joint Marketing. We may share or make available anonymous or aggregate information that cannot be used to identify you with third parties for research, marketing and promotional purposes, and users of our services for purposes of comparison of their business financial situation relative to the broader community. 
+  * Nav Marketing and Joint Marketing. We may share or make available anonymous or aggregate information that cannot be used to identify you with third parties for research, marketing and promotional purposes, and users of our services for purposes of comparison of their business financial situation relative to the broader community.
 
 
 
@@ -55,7 +58,7 @@ We may, along with our affiliates and marketing partners enhance and/or merge pe
 We may disclose information about you to affiliated and non-affiliated third parties.
 
   * Affiliates. We may disclose the information that we collect to our affiliated companies to provide the products you request, to enhance our products to better suit your needs, and from time to time for marketing purposes.
-  * Business Partners. We may partner with other companies to offer you products or services or to fulfill the products or services that you order. We may disclose personal information and/or non-personal or de-identified information collected about you to such third-party partners for the purposes described in this Policy. 
+  * Business Partners. We may partner with other companies to offer you products or services or to fulfill the products or services that you order. We may disclose personal information and/or non-personal or de-identified information collected about you to such third-party partners for the purposes described in this Policy.
   * Service Providers. We work with third parties who provide services including but not limited to data analysis, order fulfillment, list enhancement and other administrative services. We may disclose personal information to such third parties for the purpose of enabling these third parties to provide services to us. Such services may include: marketing distribution, email list management services, advertising, certain product functionalities, customer support, web hosting, customer data management and enhancement, fulfillment services (e.g., companies that fill product orders or coordinate mailings), research and surveys, data analysis and email service.
   * Assignment. We reserve the right to transfer any and all information that we collect from Site users to an affiliate or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
   * Law enforcement; emergencies; compliance; other purposes permitted by law. Notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose personal information to others as we believe appropriate (a) to comply with legal process; (b) to respond to governmental requests; (c) to enforce our Terms of Use; (d) to protect the rights, privacy, safety or property of Nav, Inc., our affiliated companies, you or others; (e) to permit us to pursue available remedies or limit the damages that we may sustain; and (f) for any other purpose permitted by applicable law.
@@ -68,7 +71,7 @@ We may disclose information about you to affiliated and non-affiliated third par
 You have choices when it comes to updating your information, learning about new offers or products offered by us, our partners or affiliates. If you do not wish to receive offers of products from us, our partners or affiliates, here are the methods in which you can opt out:
 
   * Nav Technologies, Inc. Commercial Email. If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at 855-226-8388.
-  * Cookies and ‘Do not Track’ signals. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. At this time we do not respond to ‘do not track’ browser signals. 
+  * Cookies and ‘Do not Track’ signals. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. At this time we do not respond to ‘do not track’ browser signals.
   * Changing information. Corrections or updates to your information including your email address, phone number, mailing address, credit card information or password reminder phrase can be made through the edit profile section of your account on the Site. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 855-226-8388. For your protection, our customer care representatives may request supporting documents before making any changes or updates to your membership information.
 
 
