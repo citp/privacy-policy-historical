@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909224103id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628043122id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
 
 # Privacy | Immigration New Zealand
 
-This privacy statement applies to personal and other information collected on this website.
+This privacy statement applies to collection and security of personal and other information collected on this website and how it is used. You can also find out how you can access your personal information that we hold on you.
 
 ## Registered users
 
@@ -43,7 +43,9 @@ INZ will not disclose your information to any third-party in a form that will id
 
 Please note that INZ is authorised to share information with other government agencies under applicable law.
 
-INZ may also use your information to determine your entitlement to board a flight to New Zealand. Your personal information is not shared with airline check-in agents.  When you check in to board a flight, the check-in agent only sees a boarding instruction based on the information you have provided in any application you submit.
+INZ may also use your information to determine your entitlement to board a flight to New Zealand. Your personal information is not shared with airline check-in agents. When you check in to board a flight, the check-in agent only sees a boarding instruction based on the information you have provided in any application you submit.
+
+INZ may use your information to contact you for research purposes or to advise you on immigration matters.
 
 ## Access to your personal information
 
