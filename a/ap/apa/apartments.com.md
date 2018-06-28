@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207074833id_/https%3A//www.apartments.com/advertise/disclaimers/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014303id_/https%3A//www.apartments.com/advertise/disclaimers/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-  
-
 
 The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Apartments.com and its affiliates (“us” or “we”) in connection with the operation of our websites www.apartments.com, www.apartmenthomeliving.com, and our related mobile applications, (collectively, the “Site”). This Statement applies to the national version of Apartments.com as well as to any other versions or pages of Apartments.com that we operate, including a version of the Site that you may have arrived at from a distribution partner’s website. 
 
@@ -29,13 +26,11 @@ Cookies allow us to recognize you when you visit the Site, to personalize your e
 
 ## Collection of Information by Third Parties
 
-As noted above, Apartments.com distribution partners and other third party vendors may collect information about you when using the Site through the use of cookies and Web beacons. For example, third-party advertising companies, such as Google, use cookies to serve advertisements about goods and services that may be of interest to you across the Internet based on your past visits to the Site and other websites. The Site also uses third-party vendors to collect statistical information regarding Site usage. These third-party vendors, such as Amazon, may note some of the pages you visit on the Site through the use of Web beacons or pixels. Amazon may place and use 3 pixels on the Site to show interest-based ads on websites across the Internet. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique “cookie” on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness. The Google Analytics feature implemented and used on this Site includes remarketing display advertising where Google uses a cookie to remember information about your visit and deliver more relevant ads. In addition, the Site may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other websites. Visitors can opt-out of Google’s use of cookies by visiting Google’s Google’s [Ad Settings ](http://www.google.com/settings/ads?hl=en&sig=ACi0TCjTh3C9OInr5V6CZvr-kt_QIr6iozZk-3TSbax5oR7OmoOwABtv0GNqztY-LXgbZsTGVsapRN1EVSrmi7fcEMu-Nika8vy_Ib8RNF2onqvMSUa4D_g) Visitors can also opt-out of receiving interest-based ads from Amazon by visiting the [Amazon Advertising Preferences page](https://www.amazon.com/adprefs)  or by visiting the [Digital Advertising Alliance’s opt-out page ](http://www.aboutads.info/choices/). 
+As noted above, Apartments.com distribution partners and other third party vendors may collect information about you when using the Site through the use of cookies and Web beacons. For example, third-party advertising companies, such as Google, use cookies to serve advertisements about goods and services that may be of interest to you across the Internet based on your past visits to the Site and other websites. The Site also uses third-party vendors to collect statistical information regarding Site usage. These third-party vendors, such as Amazon, may note some of the pages you visit on the Site through the use of Web beacons or pixels. Amazon may place and use 3 pixels on the Site to show interest-based ads on websites across the Internet. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique “cookie” on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness. The Google Analytics feature implemented and used on this Site includes remarketing display advertising where Google uses a cookie to remember information about your visit and deliver more relevant ads. In addition, the Site may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other websites. Visitors can opt-out of Google’s use of cookies by visiting Google’s Google’s [Ad Settings](https://adssettings.google.com/authenticated?hl=en) Visitors can also opt-out of receiving interest-based ads from Amazon by visiting the [Amazon Advertising Preferences page](https://www.amazon.com/adprefs)  or by visiting the [Digital Advertising Alliance’s opt-out page](http://www.aboutads.info/choices/). 
 
 ## Information Use
 
-Personally Identifiable Information. Personally identifiable information collected by us through your use of the Site may be stored on servers or in a cookie on your computer and may be used by us for any of the following purposes: 
-
-To confirm or fulfill a request that you make (e.g., in order to send you apartment information you have requested, we will share your contact information with a participating Site property owner and/or management company). 
+Personally Identifiable Information. Personally identifiable information collected by us through your use of the Site may be stored on servers or in a cookie on your computer and may be used by us for any of the following purposes: To confirm or fulfill a request that you make (e.g., in order to send you apartment information you have requested, we will share your contact information with a participating Site property owner and/or management company). 
 
 To communicate with you regarding the Site service (e.g., the Site may send you emails or call you to confirm an apartment availability inquiry or to notify you that you have received a lead regarding an apartment you have advertised or to request that you participate in a survey). 
 
@@ -75,9 +70,17 @@ If you elect to use the Site’s Free Listing service to advertise a property, i
 
 If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or update it by emailing us at [support@apartments.com](mailto:support@apartments.com). 
 
-We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at [support@apartments.com](mailto:support@apartments.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at [support@apartments.com](mailto:support@apartments.com).We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-To request removal of your personal information from our blog, contact us at [support@apartments.com](mailto:support@apartments.com). . In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+To request removal of your personal information from our blog, contact us at [support@apartments.com](mailto:support@apartments.com). In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+## Global Privacy Considerations
+
+Personal information collected by us may be stored and processed, if applicable, in the United States or in any other country where CoStar or its affiliates, subsidiaries, or third-party service providers maintain facilities. When you provide personal information to us, you consent to the processing, if applicable, and transfer of your information within the United States. We follow applicable data protection laws when transferring personal information. 
+
+European Privacy Rights
+
+We will process, if applicable, your personal information for our legitimate interests, or, when needed, with your explicit consent. If you have provided consent for the processing of your personal information, you have the right to withdraw consent at any time, which will not affect the lawfulness of the processing before your consent was withdrawn. You have the right to request access to and rectification or erasure of your personal information, as well as the right to restrict processing, object to processing, and under certain circumstances the right to data portability. You may do so by contacting [support@apartments.com](mailto:support@apartments.com;). You have the right to lodge a complaint with a data protection supervisory authority if you believe that we have not complied with the requirements of the General Data Protection Regulation with regard to your personal information. 
 
 ## User Generated Content
 
@@ -103,7 +106,7 @@ The Site believes that it is especially important to protect children’s privac
 
 This Site contains links to other sites. While the Site encourages our business partners to adopt privacy policies and practices that build users’ trust and confidence in the Internet, the Site is not responsible for the privacy policies or practices of third parties or any of the content of Web sites linked to the Site or any third-party products or services offered through the Site. 
 
-If you have any questions about this Privacy Statement, please email us at [support@apartments.com](mailto:support@apartments.com).   
+If you have any questions about this Privacy Statement, please email us [support@apartments.com](mailto:support@apartments.com).   
 ©2017 Apartments, LLC, 1331 L Street, NW, Washington, DC 20005. 
 
-Last updated: August 21, 2017 
+Last updated: June 04, 2018 
