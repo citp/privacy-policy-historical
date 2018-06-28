@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronymsandslang.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216143728id_/http%3A//acronymsandslang.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymsandslang.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628045113id_/http%3A//acronymsandslang.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ Acronymsandslang.com may change or revise this Privacy Policy from time to time 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via our: [Feedback Form](https://web.archive.org/web/20171216143728id_/http%3A//acronymsandslang.com/feedback.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via our: [Feedback Form](https://web.archive.org/web/20180628045113id_/http%3A//acronymsandslang.com/feedback.php)
