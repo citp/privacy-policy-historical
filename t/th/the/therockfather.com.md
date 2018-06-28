@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the therockfather.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130160235id_/http%3A//www.therockfather.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therockfather.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628104254id_/http%3A//www.therockfather.com/about/privacy) for the most accurate reproduction.*
 
 # The Rock Father: Privacy Policy
 
-Updated February 24, 2014
+Updated May 25, 2018
 
 PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF SERVICE CAREFULLY BEFORE USING THIS WEBSITE.
 
 **THE ROCK FATHER™**  respects the privacy concerns of all users. Protection of personal and sensitive information is paramount. This Privacy Policy discloses what type of information is collected, the method used to collect it and how THE ROCK FATHER utilizes the information to better serve all interested parties. Your use of THE ROCK FATHER website constitutes acceptance of this Privacy Policy and any other applicable terms. The Terms of Service for this website are hereby incorporated by reference.
+
+**For European Visitors -  GDPR (General Data Protection Regulation):** The Rock Father Magazine uses [Quantcast Choice](https://www.quantcast.com/gdpr/quantcastchoice/), a consent management tool for publishers and advertisers built on the [IAB Europe Transparency & Consent Framework](https://advertisingconsent.eu/). When visiting this site, periodically you may be presented with a pop-up message inviting you to opt-in for data sharing. 
+
+Quite simply, aside from cookies and limited information that you would voluntarily provide (detailed further below on this page), The Rock Father™ Magazine does not store your personal information and has no interest in doing so. We do not allow user accounts (hence no login needed), currently send no newsletters (we may eventually, which you would opt-in to, should that occur) and only pass-through limited, non-personally-identifiable data to gauge demographics, interests, readership location, etc. That said, many third-parties do collect certain data (advertisers, comment providers like Disqus, contest partners like Rafflecopter, etc.) and each has their own privacy policy and opt-in procedures. When you choose to opt-in via the pop-up box, those will be covered or be able to be excluded thanks to the advanced settings. 
 
 **Children**
 
@@ -43,8 +47,7 @@ The Rock Father does not buy or sell consumer information. We use and disclose i
 
 **Advertising**
 
-THE ROCK FATHER works with third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[ ](http://www.networkadvertising.org/)[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To   
-opt-out of this type of advertising, you can visit[ ](http://www.aboutads.info/choices)<http://www.aboutads.info/choices>.  
+THE ROCK FATHER works with third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[](http://www.networkadvertising.org/)[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit[](http://www.aboutads.info/choices)<http://www.aboutads.info/choices>.  
 
 **Comment Sections  
 **
@@ -57,7 +60,7 @@ Periodically visitors may be asked to participate in surveys and/or polls. Parti
 
 **Sweepstakes/Contests**
 
-The Rock Father may periodically run promotional sweepstakes and/or contests. Participation is completely voluntary. Additional information is generally required for purposes like, including but not limited to, determining eligibility and contacting potential winners. Guidelines explaining The Rock Father’s policies with respect to Sweepstakes/Contests are always posted along with sweepstakes information.
+The Rock Father may periodically run promotional sweepstakes and/or contests. Participation is completely voluntary. Additional information is generally required for purposes like, including but not limited to, determining eligibility and contacting potential winners. By participating in said promotions, you agree that your information be shared with sponsors for shipping purposes should you win. Guidelines explaining The Rock Father’s policies with respect to Sweepstakes/Contests are always posted along with sweepstakes information.
 
 **Revisions to Privacy Policy**
 
