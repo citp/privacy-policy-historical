@@ -1,10 +1,29 @@
-> *The following text is extracted and transformed from the pdfbooksworld.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228113448id_/http%3A//www.pdfbooksworld.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksworld.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628175222id_/http%3A//www.pdfbooksworld.com/Privacy-Policy) for the most accurate reproduction.*
 
 # PDFBooksWorld Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+
+**Membership Registration**
+
+Contents and eBooks in this website may not be suitable for all readers. Only readers above 13 years of age can use our website through membership registration. PDFBooksWorld reserves the right to deny or deactivate memberships anytime now or in future without assigning any reasons.
+
+**Download Limitations For Free Members (2 Books Per Day)**
+
+Excessive download of books are not allowed for free members and if we notice, such user's IP will be blocked permanently from accessing our site.  **  
+**
+
+ **Inactive Accounts**
+
+Accounts without any activity for more than 30 days will be automatically removed by our system.  **  
+**
+
+**Usage of PDF files**
+
+PDF files download from our site is for personal reading only.  Members are not allowed to transfer or store them in any form other than their personal computers or eReaders. **  
+**
 
 **Sharing and Selling Information**  
 
@@ -30,4 +49,4 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-This document was last updated on December 12, 2017
+This document was last updated on January 29, 2018
