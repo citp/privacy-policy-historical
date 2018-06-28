@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsimplified.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224132458id_/http%3A//www.couponsimplified.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsimplified.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628233648id_/http%3A//couponsimplified.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Coupon Simplified
 
@@ -19,7 +19,7 @@ Any time you receive files over the Internet from third parties, regardless of t
   5. **European Union Members – International Transfer of Data**  
 Our Services are international in scope. By using the Services you consent to your Anonymous Information, your Search Data and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws.
   6. **Minors Under Age 18**  
-The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us at: contact.saferbrowser@gmail.com and we will remove it. If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
+The Resources are intended for a general audience, and children and minors under the age of eighteen (18) are not permitted to access or use the Resources, absent express consent from their parents or guardians. We do not intentionally solicit or collect personal information from anyone under the age of 18. If you believe that we might have any information from or about a minor under age 18, please contact us at: support@polarity.com.cy and we will remove it. If you are a parent or guardian who approves of your minor’s use of the Services, please contact us through the same form, and provide to us the age and email address of your minor on whose behalf you are contacting us.
   7. **Changes to this Privacy Policy**  
 Coupon Simplified™ may update this Privacy Policy from time to time in its sole discretion, as reflected in the “Effective as of” date above. As such, you should review this Privacy Policy frequently by clicking on the “Privacy Policy” link at the bottom of couponsimplified, or visiting this link which you can bookmark: [Privacy Policy](http://couponsimplified.com/privacy-policy/). In the event that we make Material Changes to this Privacy Policy, we will notify users by posting a notice on our homepage, couponsimplified and on the web page where our Privacy Policy is posted, [Privacy Policy](http://couponsimplified.com/privacy-policy/).
   8. **Who We Are**  
@@ -31,5 +31,8 @@ For more information about protecting your privacy, you may wish to visit http:/
 
 **Contact Us**
 
-Coupon Simplified™  
-contact.saferbrowser@gmail.com
+Polarity Technologies LTD  
+Nora Court, 3rd floor, office 301  
+Limassol, Cyprus 3040  
+support@polarity.com.cy/p>  
+ 
