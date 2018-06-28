@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youwealthrevolution.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004151003id_/https%3A//www.youwealthrevolution.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwealthrevolution.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628145327id_/https%3A//www.youwealthrevolution.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | You Wealth Revolution
 
-**Effective Date: January 1, 2014**
+**Effective Date: May 22, 2018**
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
@@ -14,7 +14,23 @@ Please read this Privacy Policy carefully. By visiting and using the Site, you a
 
 **Introduction:**
 
-Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services and the communicate upcoming events, customer support and service. We do not share this information with third parties.
+
+Data collected includes name and email address.
+
+Data is kept for a minimum of 10 years.
+
+In the event of a customer purchasing a 1-on-1 support package or physical product, email and name information may be transferred to a person outside of the EU.
+
+You have a right to copy of this data upon request.
+
+EU citizens have the following rights ([click here](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/my-rights/what-are-my-rights_en)).
+
+You have the right to lodge a complaint with a Data Protection Authority (DPA); and may withdraw consent at any time;
+
+You have the right to details on any automated decision-making and the logic involved, including the consequences thereof.
+
+However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
 **Registration:**
 
@@ -107,14 +123,18 @@ If you have any questions about this Privacy Policy or the practices described h
 
 Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
+**Contact Us:**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site,
+
+'DMB Real Estate Enterprises, Inc'  
+dba You Wealth Revolution  
+dba Wealth Creator's Academy
+
+7301 Ranch Road 620 N  
+Suite 155-183  
+Austin Texas 78726
+
+[+1 (866) 499 0261](tel:+1-866-499-0261)
+
 [support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)
-
-***DISCLAIMER:** The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. Financial or life results vary with each individual and we cannot guarantee that you will experience results similar to the testimonials presented on any of our pages or any results at all. These products are not intended to diagnose, treat, cure or prevent any disease. Testimonials are true and correct, and we will verify them upon request and also provide statements of expected typical results (email: [support@youwealthrevolution.com](mailto:support@youwealthrevolution.com)); however, these statements or examples should not be viewed as promises or guarantees of results. Any statements have not been evaluated by the Food and Drug Administration. Results are affected by a number of factors over which we have no control. Please see extended disclaimer at bottom of this page.
-
-**IMPORTANT MEDICAL DISCLAIMER:** The information on this site is NOT INTENDED or IMPLIED to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information purposes only. Please see a medical professional if you need help with depression, illness, or have any concerns whatsoever. WE DO NOT OFFER MEDICAL ADVICE, COURSE OF TREATMENT, DIAGNOSIS OR ANY OTHER OPINION on your conditions or treatment options. SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS WEB SITE are for information purposes only and not offered as medical or psychological advice, guidance or treatment. Results shared are not typical. You may or may not experience anything from our sessions, the services provided by teachers, speakers and guests. Please consult a medical professional if you are experiencing illness, depression, anxiety, mood swings or any concerns whatsoever. These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.
-
-**AFFILIATE COMPENSATION NOTICE:** You should assume that the You Wealth Revolution has an affiliate relationship and/or another material connection to the providers of goods and services mentioned on this page and may be compensated when you purchase from a provider. You should always perform due diligence before buying goods or services from anyone via the Internet or offline.
-
-**REFUND POLICY:** You Wealth Revolution appreciates and values all our listeners and speakers. As a show of our appreciation, we are happy to offer a 30-day Money Back Guarantee to our valued customers to better help them discover if a product will work for them. However, as a way to help show our speakers how much we treasure their knowledge and hard work, a refund can only be offered on one package per customer in a 90-day period. Multiple refunds requested by the same customer within 90 days will not be accepted. Should we notice a pattern of excessive purchases and returns, we reserve the right to remove such person(s) from our mailing list, block future purchases, and/or deny future refunds. Should the speaker's offer involve a personal session, the guarantee will be voided in the event that the session has been used. Should the speaker's offer include digital content, the guarantee will be voided and no refund granted if more than 30% of tracks have been downloaded. We rely on your integrity as a You Wealth listener to honor each speaker's digital assets. Additionally, all requests for refunds should be submitted within the 30-day guarantee period. We appreciate and thank all our listeners for understanding and respecting this guarantee.
-
-***SURVEY OF YOU WEALTH LISTENER RESPONDENTS:** In a survey conducted in August of 2013 listener respondents were asked specifically "Has the You Wealth Revolution Event Helped You Have a Better Life?". Out of 1164 total respondents, 1097 people answered "Yes". Only 67 respondents answered "No". A total of 94.24% percent of respondents said this event helped them have a better life. A copy of this survey and our results can be emailed upon request by emailing [support@youwealthrevolution.com](mailto:support@youwealthrevolution.com).
