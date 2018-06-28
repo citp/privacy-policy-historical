@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therecipecritic.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120041732id_/https%3A//therecipecritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therecipecritic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629001413id_/https%3A//therecipecritic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Recipe Critic
 
@@ -34,7 +34,7 @@ We do use “cookies” on our site. Cookies are small files that a site or its 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-_If users disable cookies in their browser: If you turn cookies off, some of the features that make your site experience more efficient may not function properly._
+ _If users disable cookies in their browser: If you turn cookies off, some of the features that make your site experience more efficient may not function properly._
 
 ## Third-party disclosure
 
