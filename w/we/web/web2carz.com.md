@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930193531id_/https%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628223014id_/https%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Carz
 
@@ -48,7 +48,7 @@ We may combine demographic information supplied by a customer at registration wi
 
 ### WITH WHOM YOUR INFORMATION IS SHARED
 
-Access to the information we obtain about you resulting from loan application submission is restricted to only those service providers who need to know that information for the purpose of purchasing an automobile or obtaining credit. When you leave the box checked stating "Yes, I want to receive information and offers from email-web2carz.com & Web2Carz" - you explicitly authorize us to share your information with Datran Media and other Web2Carz 3rd party marketing partners to contact you via email.
+Access to the information we obtain about you resulting from loan application submission is restricted to only those service providers who need to know that information for the purpose of purchasing an automobile or obtaining credit. When you leave the box checked stating "Yes, I want to receive information and offers from email-web2carz.com & Web2Carz" - you explicitly authorize us to share your information with our preferred mailing partner for the purpose of 3rd party email messages from Web2Carz.
 
 Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential.
 
