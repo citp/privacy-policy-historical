@@ -1,62 +1,81 @@
-> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930142134id_/https%3A//www.vat19.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629012500id_/https%3A//www.vat19.com/privacypolicy) for the most accurate reproduction.*
 
 # Vat19.com: Privacy Policy
 
-## We at Vat19.com ("Vat19") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.vat19.com (the "Site").
 
-Vat19 has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
+## PERSONAL INFORMATION WE COLLECT
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Vat19' Web pages (www.Vat19.com and others) without telling us who you are or revealing any Personal Information about yourself. 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information."
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Vat19 or to Vat19's third-party service providers with the sole intention of delivering you the product you have purchased. 
+We collect Device Information using the following technologies:
 
-Vat19 strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Vat19 intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
-
-## Cookies and Other Tracking Technologies 
-
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect shipping information for an order. If cookies are not enabled, you will not be able to order the product. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
-
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will not be able to order the product. 
-
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
-
-## To protect your privacy, we have adopted the following principles: 
-
-  * Notice 
-  * Choice 
-  * Security 
-  * Access/Accuracy 
+  * "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * "Log files" track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * "Web beacons," "tags," and "pixels" are electronic files used to record information about how you browse the Site.
 
 
 
-## Notice 
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as "Order Information."
 
-Vat19 intends only to collect information pertaining to the purchase of the product. 
+When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-## Choice 
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-You may choose whether or not to provide Personal Information to Vat19. The notice we intend to provide where Vat19 collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Vat19's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-## Security 
+  * Communicate with you;
+  * Screen our orders for potential risk or fraud; and
+  * When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-Wherever your Personal Information may be held within Vat19 or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
 
-## Access/Accuracy 
 
-To the extent that you do provide us with Personal Information, Vat19 wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Vat19 should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information through our [online contact form](https://www.vat19.com/contact/email) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also use Device Information in conjunction with 3rd party companies for the purposes of advertising and retargeting.
 
-## Third Party Services 
+## SHARING YOUR PERSONAL INFORMATION
 
-Third parties provide certain services available on Vat19's behalf. Vat19 may provide information, including Personal Information, that Vat19 collects on the Web to third-party service providers to help us deliver programs, products, information, and services. 
+We share your Personal Information with third parties to help us use your Personal Information, as described above. We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-Vat19 does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Vat19's behalf unless such transfer is legally required. **Similarly, it is against Vat19's policy to sell Personal Information collected online without consent.**
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-## Commitment 
+## BEHAVIOURAL ADVERTISING
 
-Protecting your privacy online is an evolving area, and Vat19's Web sites are constantly evolving to meet these demands. 
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative's ("NAI") educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-If you have any comments or questions regarding our Online Privacy Policy, please [contact](https://www.vat19.com/contact/email) us. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+You can opt out of targeted advertising by:
 
-## Your Consent 
+  * FACEBOOK - https://www.facebook.com/settings/?tab=ads
+  * GOOGLE - https://www.google.com/settings/ads/anonymous
+  * BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to Vat19's processing of Personal Information for the purposes given above as well as those explained where Vat19 collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time. 
+
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: http://optout.aboutads.info/.
+
+## DO NOT TRACK
+
+Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
+
+## YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+## DATA RETENTION
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+## MINORS
+
+The Site is not intended for individuals under the age of 18.
+
+## CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+## CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact using our [contact form](https://www.vat19.com/contact/email) or by mail using the details provided below:
+
+11783 Borman Drive, Saint Louis, MO, 63146, United States
