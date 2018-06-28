@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openspeedtest.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208020133id_/http%3A//openspeedtest.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openspeedtest.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032133id_/http%3A//openspeedtest.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # OpenSpeedtest.com privacy policy
 
@@ -9,7 +9,7 @@
 
 The privacy of the visitors to **OpenSpeedtest.com** is important to us. 
 
-The last update to our Privacy Policy was posted on **July 01, 2016**.  This document governs the privacy policy of our Website, [OpenSpeedtest.com](http://openspeedtest.com/).  Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website. 
+The last update to our Privacy Policy was posted on **Jun 01, 2018**.  This document governs the privacy policy of our Website, [OpenSpeedtest.com](http://openspeedtest.com/).  Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website. 
 
 ### Definitions
 
@@ -70,8 +70,8 @@ We automatically receive information from your web browser or mobile device. Thi
 **OPTIONAL: Google Ad and Content Network Privacy Policy**
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the   
-Google ad and content network privacy policy at the following link:   
-<http://www.google.com/policies/technologies/ads>
+Google ad and content network privacy policy at the following links:   
+<https://policies.google.com/technologies/ads> & <https://policies.google.com/technologies/partner-sites>
 
 ### How Information is Used
 
