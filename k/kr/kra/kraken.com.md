@@ -1,119 +1,346 @@
-> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112073639id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628065213id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH) - Privacy Policy
+# Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH) - Privacy Notice
 
-##  Payward Privacy Policy 
+##  Privacy Notice for Kraken Exchange Services 
 
-Last updated: **November 17th, 2015**
+Dated: **31 May 2018**
 
-This Privacy Policy explains how Payward, Inc., and its wholly owned subsidiaries (collectively, " **Payward** ," " **we** " or " **us** "), collects, uses, discloses and protects your information. This policy applies to information we collect when you access or use Payward's websites and mobile applications (collectively, " **Payward Services** ") or otherwise interact with us as described below. Payward provides the Payward Services through local operating entities that are wholly owned subsidiaries of Payward, Inc. (each, a " **Payward Company** "). To determine which Payward Company collects your information and is responsible for processing your data, please refer to our list of affiliated companies: [/about/payward](https://web.archive.org/about/payward).
+### Scope
 
-We may amend this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some circumstances, we may provide you with additional notice, including, for example, by adding a statement to the homepage of the Payward Services or by sending you an email notification. We strongly encourage you to review the Privacy Policy whenever you access or use Payward Services to stay informed about our information practices and your privacy rights and choices.
+This Privacy Notice explains what you can expect from us and what we need from you in relation to your personal data. Please read this carefully as this Notice is legally binding when you use our Kraken Exchange Services, as defined below.
 
-### COLLECTION OF INFORMATION
+This Privacy Notice applies to any Kraken Exchange Services, as defined below, regardless of how you access or use them, including through mobile devices.
 
-#### Information You Provide To Us
+We may amend this Privacy Notice at any time by posting the amended version on this site including the effective date of the amended version. We will announce any material changes to this Privacy Notice via email.
 
-We collect information you provide directly to us. For example, we collect information about you when you create an online account, complete a transaction, fill out a form, respond to surveys, post messages to our forums or wikis or otherwise communicate with us.
+### Definitions
 
-The types of information we may collect are as follows:
+As used herein, the following terms are defined as follows:
 
-  * Contact information, such as your name, mailing address, telephone number, and email address.
-  * Financial information, such as bank account numbers, credit card numbers and virtual currency account information.
-  * Government identification numbers, such as your social security number or a state-issued identification number.
-  * Biographic or demographic information, such as your date of birth, gender, occupation, employment status and any other information you choose to provide about yourself.
-
-
-
-#### Information We Collect From Other Sources
-
-We may also obtain information from other sources and combine that with information we collect through the Payward Services. For example, we may collect nonpublic personal information about you from third parties, including identity verification services.
-
-#### Information We Collect Automatically
-
-When you access or use the Payward Services, we automatically collect information as follows:
-
-  * **Transaction information:** we collect information about the transaction you complete via the Payward Services, including the amount of funds associated with a trade, the types of trades executed and other transaction information.
-  * **Location information:** with your prior consent, we may collect precise geolocation information from your mobile device when you access or use our mobile applications. For more details, please see "Your Choices" below. 
-  * **Device and Log information:** we collect information about the computer or mobile device you use to access the Payward Services, including device identifiers, mobile network information, type of operating system, and the type of browser used. We also log information about your use of the Payward Services, including access times, pages viewed, IP address, other standard web log data, and the page visited before and after navigating to our websites.
-  * **Cookies and similar tracking technologies:** we may use cookies, pixel tags, web beacons, and other tracking technologies to collect information about you when you interact with the Payward Services, including information about your browsing behavior on our Payward Services. Cookies are small data files sent from our webservers to your computer or mobile device that enable us to, for example, capture how you arrived at the Payward Services, when you return, which pages on the Payward Services you visit, and to recognize that you are already logged on when we receive a page request from your browser.
+  1. “Digital Asset” is a digital representation of value (also referred to as “cryptocurrency,” “virtual currency,” “digital currency,” “crypto token,” “crypto asset,” or “digital commodity”), such as bitcoin, XRP or ether, which is based on the cryptographic protocol of a computer network that may be (i) centralized or decentralized, (ii) closed or open-source, and (iii) used as a medium of exchange and/or store of value.
+  2. “Kraken Account” means a user-accessible account offered via the Kraken Exchange Services where Digital Assets are stored by Payward.
+  3. “Kraken Exchange Services” means Kraken-branded websites, applications, services, or tools operated by Payward group companies.
+  4. “Payward,” “Kraken,” “We,” and “Us” refers to Payward, Inc. and its wholly owned subsidiaries (also referred to collectively as "Payward," "Kraken," "we," or "us").
+  5. “Personal Information” or “Personal Data” or “your data” refers to any information relating to you, as an identified or identifiable natural person, including your name, an identification number, location data, or an online identifier or to one or more factors specific to the physical, economic, cultural or social identity of you as a natural person.
 
 
 
-#### USE OF INFORMATION
+### Your data controller
 
-We may use your information as follows:
+Payward provides the Kraken Exchange Services through local operating entities that are subsidiaries of Payward, Inc.
 
-  * Provide the Payward Services and customer support;
-  * Process transactions and send notices about your transactions;
-  * Manage your account(s) and send technical notices, updates, security alerts and support and administrative messages;
-  * Resolve disputes, collect fees, and troubleshoot problems;
-  * Prevent potentially prohibited or illegal activities and enforce our user agreements;
-  * Personalize, measure and improve the Payward Services; 
-  * Deliver marketing and promotional offers on behalf of Payward and others, including via SMS, voice calls or email;
-  * Link or combine your personal information with information we obtain from others to help understand your needs and provide you with better service; and
-  * Carry out any other purpose for which the information was collected, to the extent such purpose is necessarily contemplated by the collection of such information or as otherwise notified in the Payward Services at the time of collection.
+You are contracting with one Payward group company, as follows:
+
+  * If you reside in a country within the European Union, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
+  * If you reside in Japan, you are contracting with Payward KK, c/o Ark KK, 4-3-5-704 Ebisu, Shibuya-ku, Tokyo 150-0013, Japan
+  * If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
+  * If you reside in the rest of the world, you are contracting with Payward Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988.
 
 
 
-#### PROCESSING OF INFORMATION
+The Payward company you are contracting with is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. The Payward group companies use encryption to protect your information and store decryption keys in separate systems. Data controllers process and retain your personal information on our servers where our data centers are located, including the European Union, Japan, Singapore, the United States of America and elsewhere in the world.
 
-The Payward Company in the U.S. (" **Payward Ventures, Inc.** ") processes data on behalf of all Payward Companies. If you are located in any jurisdiction other than the U.S., your data will be transferred to Payward Ventures, Inc. for processing as directed by Payward Company responsible for your data processing. If the Payward Company responsible for processing your data is Payward Ventures, Inc., then your information will be processed solely by that U.S. entity and your information will not be transferred to any other Payward Company.
+Where we have a legal obligation to do so, we have appointed data protection officers (DPOs) to be responsible for Payward’s privacy program for the respective data controllers. If you have any questions about how we protect or use your Personal Information, you can contact our DPOs by email at [support@kraken.com](mailto:support@kraken.com).
 
-By accessing or using the Payward Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. Please refer to the "U.S. – EU / Swiss Safe Harbor Compliance" section below if you are a resident of the European Union or Switzerland.
+### How do we protect your personal information?
 
-#### DISCLOSURE OF INFORMATION
+We are serious about guarding the privacy of your Personal Information and work hard to protect Payward and you from unauthorized access to, or unauthorized alteration, disclosure, or destruction of Personal Information we collect and store. Measures we take include encryption with SSL; the availability of two-factor authentication at your discretion, and periodic review of our Personal Information collection, storage, and processing practices. We restrict access of your Personal Information only to those Payward employees, affiliates, and subcontractors who have a legitimate business need for accessing such information. We continuously educate and train our employees about the importance of confidentiality and privacy of customer information. We maintain physical, electronic, and procedural safeguards that comply with the relevant laws and regulations to protect your Personal Information from unauthorized access.
 
-We may disclose any information we collect about you, whether you are a current or former customer, including nonpublic personal information and any other information we collect, to Payward Ventures, Inc. in the U.S., which processes information on behalf of all Payward Companies, and with nonaffiliated third parties, which include non-financial companies, such as email service providers and fraud verification services, and others, such as other Payward users with which you engage in transactions. We may make such disclosures:
+Unfortunately, despite best practices and technical safeguards, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Data, we cannot guarantee the security of your Personal Data during transmission, and any acts of transmission are at your own risk.
 
-(1) To service providers that perform marketing services on our behalf; and 
+### Information we may collect about you
 
-(2) For our everyday business purposes, such as to process transactions, maintain accounts, respond to court orders and legal investigations or report to credit bureaus. For example, in connection with our everyday business purposes, we may share information about you as follows:
+Information you give us.
 
-  * With any party you intend to distribute funds to, or that intends to distribute funds to you, via the Payward Services, including information about whether your account is active and whether the account has been verified.
-  * With vendors, consultants and other service providers who need access to your information to carry out work on our behalf. These service providers help with our business operations such as fraud prevention and technology services.
-  * When we believe, in our sole discretion, that the disclosure of your information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of or enforce our user agreements or other policies and agreements.
-  * In connection with, or during negotiations of, any merger, sale of Payward’s assets, financing or acquisition or all or a portion of our business to another company.
-  * With your consent or at your direction.
+When using the Kraken Exchange Services, we may collect and use the following data about you:
 
-
-
-(3) If we are under a duty to disclose or share your information to comply with our legal obligations.
-
-**Other than in connection with a merger, sale of Payward's assets, financing or acquisition, we will not sell or rent any of your information to third parties for their own marketing purposes.**
-
-Please note that third parties that support our customer identification and anti-fraud controls may retain and use information about you to perform services on our behalf and to improve their services. By using our Services, you consent to the retention and use of such information by these providers to improve their services.
-
-We may also share aggregated or de-identified information with our affiliated companies or nonaffiliated third parties, which cannot reasonably be used to identify you.
-
-#### ANALYTICS SERVICES PROVIDED BY OTHERS
-
-We allow other entities to provide analytics services on our behalf. These entities may use cookies, web beacons and other tracking technologies to collect information about your use of the Payward Services, including your IP address, web browser, pages viewed, time spent on pages and links clicked. This information may be used by Payward to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
-
-#### SECURITY
-
-We implement reasonable security practices and procedures to help protect the confidentiality and security of your information, including any nonpublic personal information. We protect your information using reasonable physical, technical and administrative security measures, including by limiting access to your information to employees with a need to know such information.
-
-#### U.S. – EU / SWISS SAFE HARBOR COMPLIANCE
-
-Payward complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Payward has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Payward’s certification, please visit <http://www.export.gov/safeharbor/>
-
-If you have a complaint regarding Payward’s compliance with the U.S.-EU Safe Harbor Framework or the U.S.-Swiss Safe Harbor Framework, first contact us through support at [https://support.kraken.com](https://support.kraken.com/). Payward has elected to use JAMS arbitration as an independent recourse mechanism available to settle unresolved complaints regarding Payward’s Safe Harbor commitments. Please refer to the section titled “Applicable Law; Arbitration” in our Terms of Service <https://www.kraken.com/en-us/legal>
-
-#### YOUR CHOICES
-
-  * **Account Information:** You may access and review or update your online account information at any time by logging into your account and viewing your profile. If you want to close your account, please contact us at [https://support.kraken.com](https://support.kraken.com/). However, please note that if you close your account, we may retain your information as required by law or for our legitimate business purposes, such as to collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud or enforce our user agreements.
-  * **Communications Preferences:** You may opt out of receiving promotional communications from Payward by following the instructions in those communications. You may also opt out of receiving the Kraken newsletter or certain administrative emails by modifying your communications preferences through the settings feature of your online account. If you opt out of receiving promotional communications, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations. 
-  * **Location:** Our mobile applications may collect precise geolocation information from your mobile device with your prior consent. If you initially consent to our collection of location information, you may be able to subsequently stop the collection of this information through your device operating system settings. You may also stop our collection of location information by following the standard uninstall process to remove our mobile applications from your device.
-  * **Cookies:** We use both session and persistent cookies. Session cookies expire when you log out of your account or close your browser. Persistent cookies remain on your computer or mobile device until you erase them or they otherwise expire. Most web browsers are set to accept cookies by default. You are free to decline most of our cookies if your browser or browser add-on permits, but choosing to remove or disable our cookies may interfere with your use and functionality of the Payward Services. Additionally, we may use certain persistent cookies that are not affected by your browser settings, but will use such cookies solely for identity verification and fraud prevention purposes. For more information about cookies and how to block, delete or disable them, please refer to your browser instructions, or contact us at [https://support.kraken.com](https://support.kraken.com/).
-  * **Why can't I opt out of any sharing?** We do not engage in any sharing that would require us to provide you with an ability to opt out of such sharing. For instance, we do not share any information about you with third parties for their own marketing purposes.
+  1. Full legal name;
+  2. Home address, including country of residence;
+  3. Email address;
+  4. Mobile phone number;
+  5. Date of birth;
+  6. Proof of identity (e.g., driver’s license, passport, or government-issued identity card);
+  7. U.S. Social Security Number or any comparable identification number issued by a government;
+  8. Other Personal Information or commercial and/or identification information – Whatever information we, in our sole discretion, deem necessary to comply with our legal obligations under various anti-money laundering (AML) obligations, such as under the European Union’s 4th AML Directive and the U.S. Bank Secrecy Act (BSA).
 
 
 
-#### ACCESS TO INFORMATION
+Information we collect about you automatically.
 
-You have a right to access the information we hold about you. We may ask you to pay a fee before providing you with this information.
+  1. Location Information – Information that is automatically collected via analytics systems providers to determine your location, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform;
+  2. Log Information – Information that is generated by your use of Kraken Exchange Services that is automatically collected and stored in our server logs. This may include, but is not limited to, device-specific information, location information, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
+  3. Account Information – Information that is generated by your Kraken account activity including, but not limited to, instructions regarding funding and disbursement, orders, trades, and account balances;
+  4. Correspondence – Information that you provide to us in written or oral correspondence, including opening a Kraken account, and with respect to ongoing customer support; and logging of phone numbers used to contact us.
 
-#### CONTACT US
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at [https://support.kraken.com](https://support.kraken.com/).
+
+Information we receive about you from other sources.
+
+We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties and may receive information about you from them. For example:
+
+  1. The banks you use to transfer money to us will provide us with your basic personal information, such as your name and address, as well as your financial information such as your bank account details;
+  2. Business partners may provide us with your name and address, as well as financial information;
+  3. Advertising networks, analytics providers and search information providers may provide us with anonymized or de-identified information about you, such as confirming how you found our website;
+  4. Credit reference agencies do not provide us with any personal information about you, but may be used to corroborate the information you have provided to us.
+
+
+
+General Provisions
+
+Personal Information you provide during the registration process may be retained, even if your registration is left incomplete or abandoned. If you are located within the EEA, this Information will not be retained without your consent.
+
+In providing the personal data of any individual (other than yourself) to us during your use of the Kraken Exchange Services, you promise that you have obtained consent from such individual to disclose his/her personal data to us, as well his/her consent to our collection, use and disclosure of such personal data for the purposes set out in this Privacy Notice.
+
+### Uses of Personal Data
+
+Below we set forth in a table format, a description of all the ways we use your personal data as stated above, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are, where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us at [support@kraken.com](mailto:support@kraken.com) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+What we use your personal information for | Type of information | Our reasons | Our legitimate interests  
+---|---|---|---  
+  
+To provide the Kraken Exchange Services:
+
+  1. To carry out our contractual obligations relating to you; including the fulfillment of your orders and trades, the operation of your Kraken account and the provision of our support services.
+
+| 
+
+Submitted Information
+
+| 
+
+Fulfilling contracts
+
+Our legitimate interests
+
+Our legal obligation
+
+| 
+
+Being efficient about how we fulfill our legal and contractual duties.
+
+Our commercial interest in providing you with a good service.
+
+Complying with regulations that apply to us.  
+  
+  1. To comply with legal and/or regulatory requirements; including, but not limited to anti-money laundering requirements.
+
+| 
+
+Submitted Information
+
+Device Information
+
+Third Party Information
+
+| 
+
+Our legitimate interests
+
+Our legal obligation
+
+| 
+
+Complying with regulations that apply to us.  
+  
+To combat against fraud:
+
+  1. To verify your identity to protect against fraud, comply with financial crime laws, and to confirm your eligibility to use our products and services; and
+  2. To help us make better decisions about how we manage your Kraken Account.
+
+| 
+
+Submitted Information
+
+Device Information
+
+Third Party Information
+
+| 
+
+Fulfilling contracts
+
+Our legitimate interests
+
+Our legal obligation
+
+| 
+
+As part of Payward’s efforts to keep our Services safe and secure.  
+  
+To help Payward to market and provide services that interest you:
+
+  1. To provide you with information about new functionality, features, or services we offer related to, or similar to, the Kraken Exchange Services;
+  2. To provide you with information about new functionality, features or services we feel may interest you;
+  3. To make suggestions and recommendations to you and other users of Kraken Exchange Services;
+  4. To process applications for Kraken Accounts services, including making decisions about whether to agree to approve any applications.
+
+| 
+
+Submitted Information
+
+Device Information
+
+Third Party Information
+
+| 
+
+Our legitimate interests
+
+| 
+
+Developing products and services for existing customers and any applicable fees in relation to them.
+
+Defining types of customers for new products or services.
+
+Being efficient about how we fulfil our legal and contractual duties.
+
+Seeking your consent when we need it to contact you.  
+  
+To keep the Kraken Exchange Services available and properly functioning;
+
+To administer internal operations necessary to Kraken Exchange Services, including troubleshooting, data analysis, testing, research, statistical, and survey purposes;
+
+To notify you about changes to our service, changes to our terms and policies, and as part of our efforts to keep the Kraken Exchange Services, safe and secure.
+
+| 
+
+Submitted Information
+
+Device Information
+
+| 
+
+Fulfilling contracts
+
+Our legitimate interests
+
+Our legal obligation
+
+| 
+
+Being efficient about how we fulfill our legal and contractual duties.
+
+Complying with regulations that apply to us.  
+  
+Definitions for Table:
+
+  1. Legitimate Interest: this means an interest of ours as a business to continue to innovate and improve the Kraken Exchange Services and offer the most secure experience possible. We make sure to consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+  2. Fulfilling a Contract: this means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+  3. Our Legal Obligation: this means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+
+
+### Disclosure of your personal information
+
+We may share your personal information with selected third parties including:
+
+  1. Affiliates, operational and business partners, suppliers and sub-contractors for the performance and execution of any contract we enter into with them or you;
+  2. Analytics and search engine providers that assist us in the improvement and optimization of our site; and
+  3. Our group entities or subsidiaries.
+
+
+
+We may disclose your personal information to third parties when:
+
+  1. We sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets in order to continue the services for which you have contracted;
+  2. We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Service](https://web.archive.org/en-us/legal) and other applicable agreements; or to protect the rights, property, or safety of Payward, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction;
+  3. We conduct or cooperate in investigations of fraud or other illegal activity whenever we believe it is reasonable and appropriate to do so;
+  4. We seek to prevent and detect fraud and crime;
+  5. We receive a lawful subpoena, warrant, court order, or as otherwise required by law;
+  6. We seek to protect Payward from financial and insurance risks;
+  7. We seek to recover debt or in relation to your insolvency; and
+  8. We seek information necessary to maintain or develop customer relationships, services and systems.
+
+
+
+We do not maintain a published list of all of the third parties with whom we share your personal information with, as this would be heavily dependent on your specific use of our Services. However, if you would like further information about who we have shared your personal information with, or to be provided with a list specific to you, you can request this by writing to [support@kraken.com](mailto:support@kraken.com).
+
+### Where we store your personal data
+
+Our operations are supported by a network of computers, servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and our third-party service providers store and process your personal data in the European Union, Japan, Singapore, the United States of America, and elsewhere in the world.
+
+### Sharing your data outside of the EEA
+
+In order to provide our Services to you, it is sometimes necessary for us to transfer your data to the third parties outlined in section 7.1 that are based outside of the European Economic Area ("EEA"). In these cases, we ensure that both ourselves and our partners take adequate and appropriate technical, physical, and organizational security measures to protect your data. We also ensure we have appropriate contractual protections in place with these third parties.
+
+By using Payward Services, you consent to your Personal Data being transferred to other countries, including countries that have different data protection rules than your country. In all such transfers, we will protect your personal information as described in this Privacy Notice and in a manner consistent with the principles of the EU-US and Swiss-US Privacy Shield framework. For more information, please contact us at [support@kraken.com](mailto:support@kraken.com).
+
+### Profiling and automated decision making
+
+We may in some instances use your personal data, such as your country of residence and trade history, in order to better address your needs. For example, if you frequently trade in a specific virtual currency, we may use this information to inform you of new product updates or features that may be useful for you. When we do this, we take all necessary measures to ensure that your privacy and security are protected, and we only use anonymous or de-identified data.
+
+We may use Automated Decision Making (ADM) in order to improve your experience, or to help fight financial crime. For example, so that we can provide you with a fast and efficient service, we may use ADM to verify your identity documents, or to confirm the accuracy of the information you have provided to us. None of our ADM processes have a legal effect on you.
+
+### Privacy when using digital assets and blockchains
+
+Your funding of bitcoin, XRP, ether, and other Digital Assets, may be recorded on a public blockchain. Public blockchains are distributed ledgers, intended to immutably record transactions across wide networks of computer systems. Many blockchains are open to forensic analysis which can lead to deanonymization and the unintentional revelation of private financial information, especially when blockchain data is combined with other data.
+
+Because blockchains are decentralized or third-party networks which are not controlled or operated by Payward or its affiliates, we are not able to erase, modify, or alter personal data from such networks.
+
+### Data Retention
+
+As Payward and its affiliates are subject to various legal, compliance and reporting obligations, including BSA or national AML requirements (as defined above), we are required by law to store some of your personal and transactional data beyond the closure of your account with us. Your data is only accessed internally on a need to know basis, and it will only be accessed or processed if absolutely necessary. We will delete data that is no longer required by any relevant law or jurisdiction in which we operate.
+
+### Cookies
+
+When you use Kraken Exchange Services, we may make use of the standard practice of placing tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used to visit Kraken Exchange Services. We use Cookies to (i) help us recognize you as a customer, collect information about your use of Kraken Exchange Services to better customize our services and content for you, and to collect information about your computer or other access devices as part to ensure our compliance with our BSA and AML obligations and (ii) ensure that your account security has not been compromised by detecting irregular or suspicious account activities.
+
+We use both session and persistent Cookies. Session Cookies expire when you log out of your account or close your browser. Persistent Cookies remain on your computer or mobile device until deleted or otherwise expire. Most web browsers are set to accept Cookies by default. You are free to decline most of our session Cookies if your browser or browser add-on permits but choosing to remove or disable our Cookies may interfere with your use and functionality of the Kraken Exchange Services.
+
+### Your choices
+
+  1. Email Communications – Subject to applicable laws and regulations, we may from time to time send communications promoting services, products, facilities, or activities to you using information collected from you. When you create a Kraken Account you are agreeing to opt-in to all communications from us. We will provide you with an opportunity to opt-out of newsletter communications.. We will never provide your Personal Information to third parties for direct marketing or other unrelated purposes without your written consent. Unfortunately, we are unable to allow you to opt-out of the emails we send you for certain legal or administrative purposes.
+  2. Cookies – You may decline session cookies if your browser or browser add-on permits but choosing to remove or disable our cookies may interfere with your use and functionality of the Kraken Exchange Services.
+  3. Right of Rectification– You have the right to correct any personal information We hold on you that is inaccurate, incorrect, or out of date.
+  4. Right of Erasure – You have the right to ask us to delete your data when it is no longer necessary, or no longer subject to a legal obligation to which Payward is subject to.
+  5. Portability – You may have the right to transfer certain of your personal data between data controllers, for example, to move your account details from one online platform to another.
+  6. Location Information – You may be able to stop the collection of location information through your device settings or by following the standard uninstall process to remove our applications from your device; however, because such data is used by us to meet legal requirements, as well as for ongoing fraud and risk monitoring purposes, choosing to remove or disable location services may interfere with your use and functionality of the Kraken Exchange Services.
+
+
+
+### Access to information
+
+Subject to applicable laws, you may have the right to access information we hold about you. Your right of access can be exercised in accordance with the relevant data protection legislation. For further information, please contact [support@kraken.com](mailto:support@kraken.com).
+
+### Changes to this Privacy Notice
+
+Any changes we may make to our Privacy Notice will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our Privacy Notice.
+
+### Protection of Minors
+
+Kraken Exchange Services are not directed to persons under the age of 18, hereinafter “Minors” and we do not knowingly collect personal information from Minors. If we learn that we have inadvertently gathered personal information from a Minor, we will take legally permissible measures to remove that information from our records. Payward will require the user to close his or her account and will not allow the use of Payward Services. If you are a parent or guardian of a Minor, and you become aware that a Minor has provided personal information to Payward, please contact us at [support@kraken.com](mailto:support@kraken.com) and you may request to exercise your applicable access, rectification, cancellation, and/or objection rights.
+
+### Contact
+
+Any questions, comments and requests regarding this Privacy Notice are welcomed and should be addressed to [support@kraken.com](mailto:support@kraken.com).
+
+If you feel that we have not addressed your questions or concerns adequately, you may contact your data controller.
+
+For residents of the European Union (United Kingdom):
+
+The Information Commissioner’s Office   
+Wycliffe House, Water Ln   
+Wilmslow SK9 5AF, UK 
+
+For residents of Japan:
+
+Personal Information Protection Commission   
+Kasumigaseki Common Gate West Tower 32nd Floor,   
+3-2-1, Kasumigaseki, Chiyoda-ku,   
+Tokyo, 100-0013, Japan 
+
+For residents of the United States:
+
+The Federal Trade Commission   
+600 Pennsylvania Avenue, NW   
+Washington, DC 20580 
+
+For residents of the rest of the world (Singapore):
+
+Personal Data Protection Commission   
+10 Pasir Panjang Road,   
+#03-01 Mapletree Business City Singapore 117438   
+
