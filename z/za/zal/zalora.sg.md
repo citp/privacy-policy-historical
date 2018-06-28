@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909235750id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628134342id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
 
 # Zalora Personal Data Protection Policy
 
@@ -147,6 +147,10 @@ As part of the above, Zalora may use Google Analytics features based on Display 
 Zalora also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show Zalora ads on sites across the Internet. Zalora and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to Zalora, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Zalora.
 
 When you log on to the Zalora website, Zalora with the help of Google Analytics may use your browsing behaviour to connect it with any other data that has previously been provided by you, in accordance with this Personal Data Protection Policy.
+
+**Sociomantic**
+
+Zalora uses Sociomantic's services, and Sociomantic's tags are implemented on Zalora's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/
 
 **Contacting Us**
 
