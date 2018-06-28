@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903194635id_/https%3A//www.keepsolid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnunlimitedapp.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628054046id_/https%3A//www.keepsolid.com/privacy) for the most accurate reproduction.*
 
 # KEEPSOLID - Privacy Policy
 
-###  Personal Information Collection 
+##  Personal Information Collection 
 
 KeepSolid Inc. collects some personal information from registered users. During the registrations users have to input a username, password, and a valid email address. 
 
@@ -30,16 +30,16 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 
 Other than as disclosed in this Privacy Policy, KeepSolid Inc. at no time will disclose identifiable personal data to any third parties without your express, written approval. 
 
-###  Passwords and private data 
+##  Passwords and private data 
 
 Your KeepSolid ID information, such as username and password, is encrypted using AES 256 algorithm, so only you will have access to it. The protection of the password, which gives access to the personal private data, is the user's responsibility. The password, which gives you access to the KeepSolid Inc. services and all your personal data, is known only by you. KeepSolid Inc. employees will have neither access to your password nor methods to decrypt it. KeepSolid Inc. or its representative will never ask you about your KeepSolid ID password. Please, notify us about any such attempts by emailing us at [support@keepsolid.com](mailto:support@keepsolid.com). 
 
-###  Cookies 
+##  Cookies 
 
 KeepSolid Inc. uses cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable files with information which are sent to your browser. Thesefiles are created each time you are using KeepSolid Inc. web services. We may use cookies to collect aggregated statistics about user actions on the KeepSolid Inc. websites. We may share the collectedunidentifiable data in its aggregate non-personal form with advertisers, distributors, or other third parties who may advertise on the KeepSolid Inc. websites. 
 
-###  Third Party Links 
+##  Third Party Links 
 
 We may place links to websites and services operated by third parties on the KeepSolid Inc. websites. KeepSolid Inc. makes no representations or warranties about the policies of third party websites that are linked to KeepSolid Inc. or any of its services. We highly recommend you to read the privacy policies posted by those third party websites. 
 
-©2017 KeepSolid Inc. 
+©2018 KeepSolid Inc. 
