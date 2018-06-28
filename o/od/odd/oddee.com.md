@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919081210id_/https%3A//www.oddee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113704id_/https%3A//www.oddee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oddee
 
@@ -10,7 +10,7 @@ A. WAYS WE COLLECT INFORMATION
 Like most standard website servers, ours use log files. The information collected in our log files includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.
 
 **2\. Email Contact**  
-If a user wishes to communicate with us they must supply an email address and name in order to use our [contact us](http://63.134.215.12/ContactUs/) page.
+If a user wishes to communicate with us they must supply an email address and name in order to use our [contact us](https://www.oddee.com/ContactUs/) page.
 
 **3\. Newsletter/RSS Feed**  
 If a user wishes to subscribe to our newsletter or RSS feed, we ask for an email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
@@ -55,6 +55,10 @@ Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics
 **3\. Links**  
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
+**NAI/IAB**
+
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience.
+
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](http://63.134.215.12/ContactUs/).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://www.oddee.com/ContactUs/).
