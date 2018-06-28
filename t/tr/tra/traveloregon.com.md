@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002011553id_/https%3A//traveloregon.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628063540id_/https%3A//traveloregon.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Travel Oregon
 
