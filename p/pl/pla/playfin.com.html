@@ -1,109 +1,8 @@
-<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2017-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171016094239id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629004153id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" class="bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-h"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn1.playfin.com/inc/common.js?_q=18293%40A_0wACAmPnfKeISeaFfceOCKc"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js"></script>
-
-
-<script type="text/javascript">
-(function(){ 
-    "use strict";
-    var LOADED_KEY='bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13',FAIL_KEY='bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-f',
-        RESTORE_KEY='bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-r',
-        FAIL_CLAZZ="bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-h",
-        cache = (function(){
-    var ls=window.localStorage;
-    var pfx="c92486d7-f4c3-43b6-8c8c-190420cd8b13_";
-    return {
-get:function(name,ttl){
-        if(!ls) return;
-        var x=ls.getItem(pfx+name),
-            y=parseInt(ls.getItem(pfx+name+"_ts"));
-        if(ttl && isNaN(y)) return false;
-        if((-new Date().getTime() - y) > ttl*1000) return;
-        return x;
-    },set:function(key,value){
-        if(!ls) return ;  
-        if(value == null){
-            ls.removeItem(pfx+key);
-            ls.removeItem(pfx+key+ "_ts");
-        }else {
-            ls.setItem(pfx + key,value);
-            ls.setItem(pfx + key + "_ts",new Date().getTime());
-        }
-    }
-    }
-})()
-;
-    var seed=cache.get("seed",86400),
-        jsf=cache.get("jsf",120000),
-        abl=cache.get("abl",120000),
-        nextSeed=Math.floor(new Date().getTime() / 86400000),
-        buildParam=function(){
-            var state= seed || nextSeed,
-            ts = state,
-            nextV = function(){ var x=state; x ^= x << 13; x ^= x >> 17; x ^= x >> 5; state=x; return x; },
-            chars="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=".split(""),
-            sz=Math.max(nextV() % 60,25),parts=[ts,"%40"];
-            if(ts ==  nextSeed && seed !== nextSeed)  cache.set("seed",nextSeed);
-            for(var i=0;i<sz;++i){parts.push(chars[nextV() % chars.length])}
-            return parts.join("");
-        },checkLoaded=function(){ 
-            if(!window[LOADED_KEY]){ 
-                var seed=cache.get("seed",86400);
-                if(seed){ cache.set("seed",parseInt(seed)+1); }
-                if(jsf == 1){
-                }else{
-                    cache.set("jsf",1);
-                        cache.set("abl",1);
-                    console.log("JSF-1");
-
-                }
-            }else {
-                cache.set("jsf",null); 
-            }
-            window.clearTimeout(delayCheck);
-        },
-    newQ=buildParam(),
-    initJs="http://cdn1.playfin.com/inc/common.js?_q=".replace(/_q=/,function(){ return "_q=" + newQ}),
-    newnode=document.createElement("script");
-    newnode.src=initJs;
-    newnode.onload=checkLoaded; newnode.onerror=checkLoaded;
-    var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(newnode,x);  
-    var delayCheck=window.setTimeout(checkLoaded,120000);  
-    var addClass=function(el,className) {
-        if(!el) return;
-        if (el.classList) el.classList.add(className); else el.className += ' ' + className;
-    },removeClass=function(el,className){
-        if(!el) return
-            if (el.classList) el.classList.remove(className);
-            else el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
-    }
-    window[FAIL_KEY] = function(){
-        addClass(document.getElementsByTagName("html")[0],FAIL_CLAZZ);
-    }
-    window[RESTORE_KEY]=function(){
-        removeClass(document.getElementsByTagName("html")[0],FAIL_CLAZZ);
-    }
-    if(jsf == 1){
-        window[FAIL_KEY]();
-    }
-
-})();
-</script>
-<style>
-.bs-c92486d7-f4c3-43b6-8c8c-190420cd8b13-h > body {
-    display:none!important;
-}
-</style>
-
-
-
-
-
 
 
 
@@ -115,7 +14,7 @@ get:function(name,ttl){
                 <link rel="apple-touch-icon" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-iphone.png">
         <link rel="apple-touch-icon" sizes="72x72" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-ipad.png">
         <link rel="apple-touch-icon" sizes="114x114" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-iphone4.png">
-        <script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.min.js"></script>
+        <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.min.js"></script>
 
         <!--[if lt IE 7]><script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/unitpngfix.js"></script><![endif]-->
 
@@ -130,7 +29,7 @@ get:function(name,ttl){
 
         				
 		    
-    </head><body><iframe src="http://www.freeridegames.com/do/gateway?sId=playfincpa003&amp;subId=1458113376" height="1" width="1"></iframe>
+    </head><body><iframe src="http://www.freeridegames.com/do/gateway?sId=playfincpa003&amp;subId=1367661825" height="1" width="1"></iframe>
 
 	
 	<script type="text/javascript">
@@ -210,10 +109,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361911313248-0');
                     <a href="http://www.playfin.com"><h1>Playfin</h1></a>
                 </div>
                 <div class="span-17 last">
-                    <div id="menubar" style="margin-left: 5px; width: 35px; display: block;"><span></span></div>
+                    <div id="menubar" style="margin-left: 20px; width: 80px; display: block;"><span></span></div>
                     <ul id="menu">
                                                                             <!-- if is an account and not log in, won't show account tab -->
-                                                                                                                								<li class="active" style="">
+                                                                                                                								<li class="active">
 								<a href="/index/">Home</a>
 								</li>
 							
@@ -268,7 +167,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361911313248-0');
                     <div id="game-menu">
                         <ul>
                                                         <li>
-                                <div class="purple" style="">
+                                <div class="purple">
                                     <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/top.png" alt="Premium Games">
                                     <span>Premium Games</span>
                                 </div>
@@ -513,12 +412,12 @@ Alternatively, if you would like, contact us via e-mail at webmaster@playfin.com
 								<h5>featured premium game</h5>
 																<div id="footpre-game">
 									<div class="span-2">
-										<a href="http://www.playfin.com/freepremium/twisty-tracks/match-3/734750//"><img style="height: 70px; width: 70px;" src="http://i.playfin.com/exentgames/images/boxshot/734750_49_60.jpg"></a>
+										<a href="http://www.playfin.com/freepremium/5-realms-of-cards/casino/554350//"><img style="height: 70px; width: 70px;" src="http://i.playfin.com/exentgames/images/boxshot/554350_49_60.jpg"></a>
 									</div>
 									<div class="span-6 last">
-										<p class="prehead"><b><a href="http://www.playfin.com/freepremium/twisty-tracks/match-3/734750//">Twisty Tracks</a></b></p>
-										<p>A mighty windstorm has scattered your treasure trove to the far reaches of the world! In the Puzzle game Twisty Tracks you must guide your treasure collecting train across the Realm of D'roso to recov</p>
-										<a href="http://www.playfin.com/freepremium/twisty-tracks/match-3/734750//"><u>Play Now!</u></a>
+										<p class="prehead"><b><a href="http://www.playfin.com/freepremium/5-realms-of-cards/casino/554350//">5 Realms of Cards</a></b></p>
+										<p>In 5 Realms of Cards, a solitaire game with a twist, the land of Princess Jokerina has been robbed of its grandeur by evil forces. The magic Signs of Suits have been corrupted and destroyed, plunging </p>
+										<a href="http://www.playfin.com/freepremium/5-realms-of-cards/casino/554350//"><u>Play Now!</u></a>
                                         ...
 									</div>
 								</div><!--/footpre-game-->
@@ -560,5 +459,5 @@ Alternatively, if you would like, contact us via e-mail at webmaster@playfin.com
 		        
     
 
-<!-- Script Execution Time: 0.161205-->
+<!-- Script Execution Time: 0.134066-->
 <!--  --></body></html>
