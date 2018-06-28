@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126235544id_/http%3A//sidify.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014842id_/http%3A//www.sidify.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sidify Privacy Policy
 
@@ -10,11 +10,11 @@ When you place an order on our website, your full name, email address, mailing a
 
 **How do the 3rd party credit card processors protect customer's information?**
 
-SIdify uses secure server hosted by Avangate and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition. 
+Sidify uses secure server hosted by 2CHECKOUT and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition. 
 
-**Avangate**
+**2CHECKOUT**
 
-Avangate is the leading digital commerce solution trusted by software and online services companies to grow their businesses globally. Sidify uses Avangate to provide you with very secure and fast online purchase. 
+2CHECKOUT is the leading digital commerce solution trusted by software and online services companies to grow their businesses globally. Sidify uses 2CHECKOUT to provide you with very secure and fast online purchase. 
 
 **Contact information**
 
