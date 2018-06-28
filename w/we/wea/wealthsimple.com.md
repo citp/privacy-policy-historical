@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthsimple.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002180935id_/https%3A//www.wealthsimple.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthsimple.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628113733id_/https%3A//www.wealthsimple.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wealthsimple
 
@@ -17,6 +17,10 @@ In the course of operating the Platform and/or interacting with you, Wealthsimpl
 ### 1\. Personal Information
 
 We do not collect any personal information from you, unless you provide such information voluntarily, such as by registering with us, sending us an e-mail, uploading User Content, or interacting with us via our social media pages, such as through Facebook. Any such social media platforms are operated by the social networks themselves and are subject to their terms of use and privacy policies.All information we collect and/or receive under this section is collectively called “Personal Information.”
+
+You are agreeing to share financial information with us including, but not limited to, your account credentials, transactional history, account numbers, and balances/limits as well as general identity data including the name(s) and address(es) of all account holder(s). You are enabling us to interact with and through your financial institutions on your behalf and with your consent.
+
+If you prefer not to share your account account credentials, transactional history, account numbers, and balances/limits as well as general identity data including the name(s) and address(es) of all account holder(s), then you may select the option on the bank verification page to enter your “routing number and account number” manually, and verify your bank using microdeposits.
 
 ### 2\. Geolocational Information
 
@@ -66,7 +70,11 @@ We, the Platform, and the third-party technology providers, ad exchanges, ad net
 
 **From You** :
 
-Additional information that you voluntarily provide to us (either directly or via our social media pages), such as ratings of dishes and other information that does not identify you personally.
+Additional information that you voluntarily provide to us (either directly or via our social media pages), such as ratings and other information that does not identify you personally.
+
+### 4\. Plaid Technologies Inc.
+
+Wealthsimple uses Plaid Technologies, Inc. (“Plaid”) to gather your data from financial institutions. By using our service, you grant Wealthsimple and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information, as listed in [Wealthsimple Privacy Policy](https://www.wealthsimple.com/en-us/legal/privacy), from the relevant financial institution. You agree to your personal and financial information, as listed in [Wealthsimple Privacy Policy](https://www.wealthsimple.com/en-us/legal/privacy), being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy which is available at <https://plaid.com/legal/>.
 
 ## The Information Collected by or Through Third-Party Advertising Companies
 
