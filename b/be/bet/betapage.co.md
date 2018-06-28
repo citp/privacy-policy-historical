@@ -1,58 +1,136 @@
-> *The following text is extracted and transformed from the betapage.co privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904005419id_/https%3A//betapage.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betapage.co privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628162502id_/https%3A//betapage.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We understand that privacy is important to all and we take your privacy seriously. By using or accessing BetaPage or interacting with this site in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent that we will collect, use, and share your information in the following ways.
+Betapage takes your privacy seriously, that’s why we have updated our platform to meet GDPR standards, and we will continue to invest in industry-leading data privacy initiatives. We believe GDPR is not just a regulation; respecting the privacy rights of users (regardless of origin) is the right thing to do.
 
-### Information you provide to us
+Our Privacy Policy is intended to describe you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. 
 
-Through the signup process and account setting we receive and store that information which you knowingly provide us. We may collect Personal Information such as your name, title, email address and third-party account credentials (Twitter/Facebook/Google/LinkedIn/Github). We receive the information which is transmitted to us by the third party, only if you authorize such transmission. In account setting, if you provide us we receive your location (City) and username of your other social accounts.
+### What information do we collect?
 
-We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send newsletter emails or email you about your use of the Services. Also, if you do not want to receive communications from us, you can unsubscribe from it.
+#### Personal data
 
-### Information Collected Automatically
+We don’t have a separate signup process; we just provide login through some popular sites which are listed below:
 
-When you use our services, we store some information automatically on our server. It may include geolocation data, IP address, device identification, “cookie” information. We will use anonymous browser cookies for online advertising. No personally identifiable information will be stored within those cookies, and clients may opt out of receiving these cookies by changing the settings on their browser.
+Twitter   
+Facebook   
+Google  
+Linkedin  
+Github
 
-We only use this data in aggregate form, and not in a manner that would identify you personally. We use this knowledge to improve our website and to improve the overall user experience.
+If you provide BetaPage with API access to any of the above-mentioned account, then we receive following information through API
 
-### How we use this information
+Name  
+Email Id  
+Unique Id  
+Profile picture
 
-  * Communicate with you, sending newsletter emails and emails about updates, events or any technical notice or any other news we think will be of your interest.
-  * Provide, maintain and improve our services.
-  * Analyze and monitor uses and identify trends in connection with our service to improve our service.
-  * Provide safety to other users by blocking spammers.
+This is a very basic information which we store in order to create your BetaPage account, and we create your identity on BetaPage through this personal information only.
 
+**Startup/Product submission:** When a user submits a startup on BetaPage, he fills up relevant information related to that startup which is already publicly available like Name, brief description, URL and Images, and videos of startup.
 
+**Cookies:**
 
-### How we share information
+These are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognize a particular device or browser  
+We use cookies to manage session and to redirect user at correct url. We collect only URL through cookies , apart from this there are other cookies by third parties.
 
-When other users view your profile, they will be able to see information about your activities on the Services, such as your username, karma, Followers, Followings and moderator status. We are also providing some privacy settings. You can hide your submission so when you list any startup or product on BetaPage, your identity will be private. Similarly, you can hide the list of your upvoted startups.
+We might partner with third party ad networks to show ads on our website or manage our ads on other websites. Our partners use cookies and web beacons to collect info about you and show you targeted advertising. This info can’t identify you personally. We may partner with third party data providers to match IP address with company and contact names. Our partners may also do the same. You can deactivate or block these cookies.
 
-When you submit the comment to the Services, visitors to and users of our Services will be able to see the content of your comments, the username associated with your comments, date and time you originally submitted the comment.
+**Payment related information:** When you pay for a featured listing on BetaPage, we only store two things, amount and product (for which payment is made) all other information is collected, stored and processed by Paypal.
 
-We will not share, sell, or give away any of our users’ personal information to third parties unless one of the following circumstances applies:
+### Third-Party Tools/Analytics on the Website
 
-  * Except as it relates to advertisers and our ad partners, we may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us;
-  * We may also release your information when we believe it is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
-  * We may allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers.
-  * We use analytics partners (such as Google Analytics) to help analyze usage and traffic for our Services.
-  * We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+The Website utilizes third-party tracking tools and a few more other tools to facilitate our operations from third-party service providers, which may enable these third parties to analyze our Website data and traffic for various purposes. Some of these third-party service providers may collect information from this Website for retargeting and interest-based advertising purposes. All of these tools are hosted by the third parties who provide them, and your interactions with these features are governed by the privacy policies of the third parties providing them. These tools include, but are not limited to, those below
 
+**Algolia:** We use Algolia to facilitate our website’s search operations. Service is used to provide better search results to our users. For more information about Algolia’s services, please visit [www.algolia.com](https://www.algolia.com/)
 
+**Imgix:** Betapage needs to process images and GIFs and for this purpose we use Imgix. For more information about Imgix’s services, please visit [www.imgix.com](https://www.imgix.com/)
 
-### Review and modification
+**Google Analytics:** We may use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on our Website and to develop website content. This analytics data is not tied to any Personal Data.
 
-You may add, modify, or update your personal information from settings. If any part of the information is not available in the editable format to you, then you can reach us at [support@BetaPage.co](mailto:support@BetaPage.co). It is your responsibility to ensure that the information you have on our server is the most up-to-date information as possible.
+For more information about Google Analytics, please visit [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners) . You can opt-out of Google’s collection and processing of data generated by your use of the Services by visiting <http://tools.google.com/dlpage/gaoptout>
 
-### Your choices
+**Typeform:** We use Typeform to collect users’ feedback which consists of their suggestions to improve platform, rating and Email id (which is optional). For more information about Typeform, please visit [www.typeform.com/help/gdpr-compliance/](https://www.typeform.com/help/gdpr-compliance)
 
-You may request deletion of your account by contacting us at [support@BetaPage.co](mailto:support@BetaPage.co), and we will disassociate your email address and social account from any content or other information provided to us. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
+**Tawk:** We use Tawk to facilitate communications with, maintain information about, and collect publicly available information about, our Website Users. For more information about Tawk’s services, please visit [tawk.to](http://www.tawk.to/)
 
-### Privacy Concerns
+**MailChimp:** We use MailChimp to send newsletters to our subscribers. For more information about Mailchimp’s services, visit <https://mailchimp.com/legal/privacy/>
 
-BetaPage may, from time to time, modify this Privacy Policy but if we do, we will bring it to your attention by placing a notice on the [BetaPage.co](http://betapage.co/) website, by sending you an email, or by some other means.
+**Medium:** Our blog <https://blog.betapage.co/> is hosted on Medium. For more information about Medium’s services, please visit [medium.com/policy/medium-privacy-policy-f03bf92035c9](https://medium.com/policy/medium-privacy-policy-f03bf92035c9)
 
-### Contact Us
+**PayPal:** We collect our payment through PayPal, and while processing payments we store only two values provided by user, amount and product (for which payment is made) rest all is taken care by PayPal. For more information about PayPal’s services, please visit [paypal.com](https://www.paypal.com/)
 
-If you have any questions about this Privacy Policy, please email [support@BetaPage.co](mailto:support@BetaPage.co)
+**Cloudinary:** Betapage needs to process images and GIFs and for this purpose we use cloudinary.. For more information on Imgix’s services please visit [cloudinary.com](https://cloudinary.com/)
+
+**Hotjar:** We use hotjar as another analytics tool to improve the experience of user of our website. for more information on Hotjar please visit : [hotjar.com](https://www.hotjar.com/)
+
+**Onesignal :** We use onesignal to send push notification and notification emails. For more information on Onesignal please visit : [onesignal.com](https://onesignal.com/)
+
+### How we utilize information.
+
+We collect minimum data and use it only for important things such as Delivering, improving, updating and enhancing the Services we provide to you. 
+
+**We utilize this information:**
+
+To Create your identity/account on BetaPage.
+
+To provide, maintain, optimize, research and improve the Website;
+
+To fulfill your and prospective Clients’ requests for the Services;
+
+To improve and optimize the operation and performance of our Services:
+
+To understand and analyze how you use our Services and what is most relevant to you;
+
+To send Newsletter emails, information about the Services including confirmations, invoices, payment processing, technical notices, updates, security alerts, and support and administrative messages;
+
+To manage your information and account, to improve and administer our Website,
+
+To process payments
+
+For Serving advertisements.
+
+### OPT OUT
+
+**From Newsletter emails :** You can opt-out from newsletter emails by unsubscribing from our email list. Unsubscribe option can be found in the bottom of newsletter email.
+
+**From Push Notifications:** To opt out from the push notification service of onesignal visit : <https://documentation.onesignal.com/docs/opt-out-of-web-push>
+
+**From website cookies/Web beacons**
+
+Internet Explorer: <http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies>
+
+Safari: <https://support.apple.com/en-us/HT201265>
+
+Chrome: [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co%3DGENIE.Platform%253DDesktop%26hl%3Den)
+
+Firefox: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+Opera: <http://www.opera.com/help/tutorials/security/cookies/>
+
+Android: [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en-GB&oco=1](https://support.google.com/chrome/answer/95647?co%3DGENIE.Platform%253DAndroid%26hl%3Den-GB%26oco%3D1)
+
+Windows Phone: <http://windows.microsoft.com/en-us/windows7/block-enable-or-allow-cookies>
+
+Blackberry: <https://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-Enable-browser-cookies-for-a-blackberry-browser/td-p/211133>
+
+### We Secure the Information We Collect
+
+Securing the information provided by our Clients and collected through our Website is important to us. We follow generally accepted standards to store and protect the personal data we collect, including utilization of encryption where appropriate. You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your passwords or Personal Data are no longer secure, please promptly notify us at support@BetaPage.co
+
+### How you can access, update or delete your data.
+
+To easily access, view, update, delete or port your personal data (where available), please sign into your Account and visit “Privacy & settings” Please email us at [support@BetaPage.co](mailto:support@BetaPage.co) for additional information and guidance for accessing, updating or deleting data.
+
+Please note you can directly delete your account (which consist your personal information), startups/products submitted by you and your comments from your account’s “ privacy & settings.
+
+You can easily modify almost all the data you submitted from “privacy & settings” except for your email id and website’s URL (URL of startup/product you submitted). If you want any help regarding alteration of email id and website's URL then please send an email to us at [Support@BetaPage.co](mailto:Support@BetaPage.co)
+
+### Contact us.
+
+If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact us by sending an email at [Support@BetaPage.co](mailto:Support@BetaPage.co) or contact us on the address mentioned below.
+
+Address :   
+303, NRK BizPark   
+PU4, Behind C21 Mall, Vijay Nagar,   
+Indore - 452010, India
