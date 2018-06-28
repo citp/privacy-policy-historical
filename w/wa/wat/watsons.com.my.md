@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221194617id_/http%3A//www.watsons.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628120841id_/http%3A//www.watsons.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watsons Malaysia
 
