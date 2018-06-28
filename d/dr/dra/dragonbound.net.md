@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonbound.net privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226000049id_/https%3A//dragonbound.net/static/privacypolicy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonbound.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628225325id_/https%3A//dragonbound.net/static/privacypolicy.txt) for the most accurate reproduction.*
 
 # 
 
