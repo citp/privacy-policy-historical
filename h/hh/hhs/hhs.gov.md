@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhs.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230130235id_/http%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhs.gov privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628122654id_/https%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
 
 # HHS Privacy Policy Notice | HHS.gov
 
@@ -62,10 +62,16 @@ For a list of all publicly available HHS policies on privacy, including any dire
 For a list of the Department’s publicly available privacy reports, see the [HHS Plans & Reports page](https://web.archive.org/ocio/plans/index.html).
 
 **Instructions for Submitting a Privacy Act Request**  
-Fr instructions for individuals who wish to request access to or amendment of their records pursuant to 5 U.S.C. § 552a(d), visit the [HHS “How to Make a Privacy Request” page](https://web.archive.org/foia/privacy/how-make-privacy-act-request.html).
+For instructions for individuals who wish to request access to or amendment of their records pursuant to 5 U.S.C. § 552a(d), visit the [HHS “How to Make a Privacy Request” page](https://web.archive.org/foia/privacy/how-make-privacy-act-request.html).
 
 **Contact Information for Submitting a Privacy Question or Complaint**  
-For individuals who wish to submit a privacy-related question or complaint, visit the [HHS ](https://web.archive.org/foia/contacts/index.html#privacy)[Privacy Act Contacts list](https://web.archive.org/foia/contacts/index.html#privacy).
+Individuals who wish to submit a privacy question or complaint should submit it to one of these contacts:
+
+  * [HHS Office for Civil Rights (OCR) Contacts](https://web.archive.org/ocr/about-us/contact-us/index.html), if the question or complaint involves health information or HIPAA.
+  * [HHS Privacy Act Contacts](https://web.archive.org/foia/contacts/index.html#privacy), if the question or complaint concerns federal agency records about individuals retrieved by personal identifier.
+  * For all other privacy questions and complaints, contact [HHS Privacy Officials](https://web.archive.org/privacy.html#privacy-officials).
+
+
 
 * * *
 
