@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandemicflu.gov privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228021224id_/https%3A//www.cdc.gov/Other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandemicflu.gov privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628121047id_/https%3A//www.cdc.gov/Other/privacy.html) for the most accurate reproduction.*
 
 # CDC Digital Media Channel Privacy Policy Notice | Other | CDC
 
@@ -66,7 +66,7 @@ Mobile surveys (i.e., those accessed via your mobile device) may request an emai
 
 All official CDC information available on third-party websites is also available on CDC.gov site. The CDC maintains official pages or accounts on third-party websites in order to better engage and communicate with the general public ([a current third-party tools/pages list](https://www.cdc.gov/other/third-party-pages.html) is here). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user communities, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
-For the sole purpose of complying with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html), the CDC archives some information that users submit or publish when engaging with the CDC through official CDC pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
+For the sole purpose of complying with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html)[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon"), the CDC archives some information that users submit or publish when engaging with the CDC through official CDC pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
 
   * On Twitter, the CDC automatically archives “tweets” from official CDC accounts, “direct messages” sent to or from official CDC accounts, and “mentions” (tweets from other users to official CDC accounts; these tweets contain an @ and the username of an official CDC account (e.g., [@CDCgov](https://twitter.com/cdcgov)). The CDC also automatically archives any status that official accounts have “favorited.”
   * On Facebook, the CDC archives all content created by official CDC pages, content that tags an official CDC page, and any content posted on official CDC pages (for example, the number of likes to the page and comments posted).
@@ -76,7 +76,7 @@ For the sole purpose of complying with the [Presidential Records Act](http://www
 
 For aggregate statistical analysis and to improve the quality of our services, we may integrate web measurement tools with our social media pages. To see current list of web measurement tools, please refer to the [current third-party tools/pages list](https://www.cdc.gov/other/third-party-pages.html). These tools enable basic analysis of social media traffic (such as the number of people visiting a certain page) and do not collect personally identifiable information.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  How Information is used
 
@@ -84,7 +84,7 @@ If you choose to [provide us with information](https://www.cdc.gov/Other/privacy
 
 We may use data you provide and automatically generated data for statistical analysis to assess, for example, what information is of interest to users, technical design specifications, and system performance. This allows us to make general improvements to our site as well as to offer tailored content to email subscribers (e.g., a follow-up message to subscribers interested in a specific topic based on information they have provided or automatically generated data).
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  Sharing of this Information
 
@@ -96,7 +96,7 @@ Within the CDC, we restrict access to personally identifiable information to onl
 
 We do not use or share your information for commercial purposes and, except as described above, we do not exchange or otherwise disclose this information.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  Data Retention
 
@@ -106,14 +106,14 @@ We retain the information only for as long as necessary to respond to your quest
 
 For more information, see:
 
-  * [Freedom of Information Act and the Privacy Act](http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml)
-  * [HHS/CDC System of Records Notices](http://www.hhs.gov/foia/privacy/sorns.html)
+  * [Freedom of Information Act and the Privacy Act](http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml)[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
+  * [HHS/CDC System of Records Notices](http://www.hhs.gov/foia/privacy/sorns.html)[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 
 
 As data retention policies vary from system to system, please check that system’s policy or their individual SORN for more detailed information.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  Third-Party Tools and Sites
 
@@ -131,11 +131,11 @@ Your activity on third-party sites ([a current list is here](https://www.cdc.gov
 
 In some instances, CDC’s content may be embedded on third-party websites as a way to increase public awareness of CDC activities (for example CDC’s Content syndication, microsite, data widgets, etc.). The integration of these products is intended to provide a seamless user experience and to enhance users’ ability to access public information provided by CDC. The embedded CDC.gov content automatically generates CDC server logs, web metrics and may set a CDC cookie (see [Cookies](https://www.cdc.gov/other/cookies.html)). Additionally, all other cookies, web metrics and server logs etc. are governed by the third-party website’s security and privacy policy.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ## Interaction with Children on CDC Digital Media Channels
 
-We believe in the importance of protecting the privacy of children online. As such, we will take all reasonable steps to protect the privacy and safety of any child from whom information is collected as required by the [Children’s Online Privacy Protection Act (COPPA)](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).  A child’s parent or guardian is required to provide consent before CDC collects, uses, or shares personal information from a child under age 13.
+We believe in the importance of protecting the privacy of children online. As such, we will take all reasonable steps to protect the privacy and safety of any child from whom information is collected as required by the [Children’s Online Privacy Protection Act (COPPA)](http://www.business.ftc.gov/privacy-and-security/childrens-privacy)[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon").  A child’s parent or guardian is required to provide consent before CDC collects, uses, or shares personal information from a child under age 13.
 
 When a CDC Web site needs to collect information about a child under 13 years old, COPPA required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
@@ -145,7 +145,7 @@ Finally, we provide many on-line tools and services in support of CDC’s missio
 
 Our digital media channels are not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact the CDC Privacy Office (see [Contact information](https://www.cdc.gov/other/privacy.html#Contact) here).
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  Security
 
@@ -157,16 +157,16 @@ Also, commonly used practices and technical controls are utilized to protect the
 
 We periodically review our processes and systems to verify compliance with industry best practices and to ensure the highest level of security for CDC’s all digital platforms.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
 
 ##  Contact Privacy Office
 
 If you have any questions regarding CDC’s privacy policy or need further information, please contact CDC Privacy Office at [mailto:privacy@cdc.gov](mailto:privacy@cdc.gov), or call 770-488-8660.
 
-Top of Page  
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")  
 
 ## Updates to This Privacy Policy
 
 We will revise or update this policy from time to time. If we make significant changes to how we handle personal information, we will post changes to the policy on our site and change the date at the bottom. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made.
 
-Top of Page
+Top of Page[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")[](https://web.archive.org/web/20180407164232/https://www.cdc.gov/Other/disclaimer.html "External Web Site Icon")
