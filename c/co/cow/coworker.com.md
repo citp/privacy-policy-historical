@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coworker.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921045154id_/https%3A//www.coworker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coworker.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628125517id_/https%3A//www.coworker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy: Coworker
 
@@ -155,7 +155,7 @@ Coworker may change or modify this Privacy Policy in the future. We will note th
 
 #### How You Can Contact Us
 
-If you have questions about this Privacy Policy, please contact us at: [support@coworker.com](mailto:support@coworker.com). Please be aware that calls to and from Coworker may be recorded. We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff. We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. ©2016 Coworker LLC. All rights reserved. 
+If you have questions about this Privacy Policy, please contact us at: [support@coworker.com](mailto:support@coworker.com). Please be aware that calls to and from Coworker may be recorded. We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff. We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. ©2020 Coworker LLC. All rights reserved. 
 
   
 
