@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231011557id_/http%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115108id_/https%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
 
 # PHPTRAVELS | Privacy And Policy Statement
 
@@ -49,7 +49,7 @@ phptravels has the discretion to update this privacy policy at any time. When we
 
 Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://phptravels.com/terms-and-conditions "terms and conditions"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://phptravels.com/terms-and-conditions "terms and conditions"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 Contacting us
 
