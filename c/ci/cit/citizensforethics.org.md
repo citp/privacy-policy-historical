@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensforethics.org privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410044346id_/http%3A//www.citizensforethics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensforethics.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628182218id_/https%3A//www.citizensforethics.org/privacy) for the most accurate reproduction.*
 
 # Privacy - CREW
 
@@ -95,4 +95,4 @@ You may opt out of receiving updates from CREW by specifically opting out at the
 
 **CONTACT US**
 
-If you have any questions about this Privacy Policy, please contact us at:  _info@citizensforethics.org._
+If you have any questions about this Privacy Policy, please contact us at:  _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
