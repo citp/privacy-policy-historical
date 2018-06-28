@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226082809id_/http%3A//www.medtronic.com/us-en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628185429id_/http%3A//www.medtronic.com/us-en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this Medtronic website based in the U.S. Medtronic and some of its affiliates, including Covidien, Medtronic Minimed and our international affiliates, also operate other websites. This Privacy Statement does not apply to the other Medtronic websites. You should review the privacy statement posted on other Medtronic websites when you visit them. This website and this Privacy Statement are intended for a U.S. audience.
 
-This Privacy Statement was last revised on January 26, 2015. We may change this Privacy Statement at any time and for any reason. Significant changes to the Privacy Statement are discussed below in the Section called "Changes to the Privacy Statement." We encourage you to review this Privacy Statement each time you visit the website.
+This Privacy Statement was last revised on March 12, 2018.  Our Privacy Statement was significantly expanded on October 31, 2001. [You can read the previous version of our Privacy Statement here](https://web.archive.org/us-en/privacy-statement/previous-privacy-statements.html). In addition, we made minor revisions to the Privacy Statement in July 2008, April 2009, June 2013, September 2013, July 2014, and January 2015, but these revisions did not change the privacy principles
 
 By using this website, you agree to the terms of the most recent version of this Privacy Statement. Please read our [Terms of Use](https://web.archive.org/us-en/terms-of-use.html) to understand the general rules about your use of this website. Except as written in any other disclaimers, policies, terms of use, or other notices on this website, this Privacy Statement and the Terms of Use are the complete agreement between you and Medtronic with respect to your use of this website. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this website, or by following a link from this website.
 
@@ -22,6 +22,7 @@ Non-personal information is information we collect through this website that doe
   * the name of the domain from which you access the Internet
   * the Internet address of the website from which you linked directly to our website
   * the date and time you access our website
+  * the geographic location of the server you use to access our website
   * which pages you have visited on our website  **(note: U.S. healthcare providers, please see the "uses of personal information" described below)**
   * the search terms you use
   * the links on which you click
