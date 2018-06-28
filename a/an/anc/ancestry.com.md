@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230231201id_/http%3A//www.ancestry.com/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628101340id_/https%3A//www.ancestry.com/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Center
 
@@ -19,6 +19,10 @@ Whether it’s your family history or your DNA data, we always strive to manage 
 
 [Read our full Privacy Statement](https://www.ancestry.com/cs/legal/privacystatement)
 
+## You're at the center of the AncestryDNA story.
+
+From your kit to your results and beyond, see how we put you and your privacy first all along the way of your DNA experience.
+
 ## Frequently Asked Questions
 
 Learn how our policies put transparency, simplicity, and control into action for you.
@@ -28,17 +32,17 @@ Learn how our policies put transparency, simplicity, and control into action for
 What information does Ancestry collect about me?
     
 
-Initially, Ancestry collects basic information from you to create your account(s), including name, email address, and billing information. As you opt in to additional services, we collect additional data, such as family tree data, DNA data, health information or other information you provide. We also collect some information about users who visit our websites using cookies and similar technologies. See the Privacy Statement for the particular website(s) or service(s) you are using for more details about the specific types of information Ancestry may collect and your choices related to that data.
+Initially, Ancestry collects basic information from you to create your account(s), including name, email address, and billing information together with a password that you provide us when you create an Ancestry account, and your phone number that we may collect to notify you of DNA test result status, or when you contact Ancestry Member Services by phone. We collect further data, such as family tree data, DNA data, health information or other information you provide when you opt in to additional services. We also collect some information about users who visit our websites using cookies and similar technologies. See the Privacy Statement and/or Cookie Policy for the particular website(s) or service(s) you are using for more details about the specific types of information Ancestry may collect and your choices related to that data.
 
 How does Ancestry use information about me?
     
 
-Ancestry primarily uses information about you to provide and improve our services to you. For example, we use information about you to create your account, deliver our websites and services, help you build a family tree, and perform tests on your DNA. We may also use your information in genealogical or genomic research projects, to improve or develop new products and services, which may include products related to health or wellness, and for internal business purposes. We may also use personal information about you to verify your identity, communicate with you and to deliver advertisements. See our Privacy Statements (in Important Resources below) for more details.
+Ancestry primarily uses information about you to provide, personalize, improve, update and expand and improve our services to you. For example, we use information about you to create your account, deliver our websites and services, help you build a family tree, and perform tests on your DNA. We may also use your information in genealogical or genomic research projects, to improve or develop new products and services, and for internal business purposes. We may also use personal information about you to verify your identity, communicate with you and to deliver advertisements, improve Ancestry information security; help you create, and providing insights about, your family trees based on data in Ancestry’s databases; issuing surveys and questionnaires to collect additional user information for use in the Services, marketing new products and offers from us or our business partners, conducting scientific, statistical, and historical research; detecting and protecting against error, fraud, or other criminal or malicious activity as well as facilitating product development and research initiatives. See our Privacy Statements (in Important Resources below) for more details.
 
 Does Ancestry share information about me?
     
 
-Ancestry shares information as you direct us to, for example, if you make your family tree public, share your DNA results, or consent to participate in our Research Project. To be clear, we do not share common identifying information linked to your genetic or health data with third parties unless we obtain your explicit consent or are required to do so. Otherwise, we share information as described in our Privacy Statements, such as with our affiliated companies, other users, our service providers, our advertising partners, and in other limited scenarios, such as in response [to valid legal process](http://www.ancestry.com/cs/legal/lawenforcement) or as appropriate to protect the rights, property, safety, confidentiality, or reputation of Ancestry, our affiliates, and our users.
+Ancestry does not share your individual Personal Information (including your Genetic Information) with third-parties without your additional consent other than as described in our Privacy Statement. Sharing might occur with any information you add to your Ancestry profile which will be seen by other Ancestry members, or for example if you make your family tree public, share your DNA results, or consent to participate in our Research Project. To be clear, we do not share common identifying information linked to your genetic or health data with third parties unless we obtain your explicit consent or are required to do so. Otherwise, we share information as described in our Privacy Statements, such as with our affiliated companies, other users, our service providers, our advertising partners, and in other limited scenarios, such as in response to valid legal process or as appropriate to protect the rights, property, safety, confidentiality, or reputation of Ancestry, our affiliates, and our users.
 
 You can read the Privacy Statement for the particular website(s) or service(s) you are using for more details about how Ancestry shares your data and your choices related to that sharing.
 
@@ -47,16 +51,16 @@ How can I review, update, or delete information about me?
 
 You can review, update, or delete most information about yourself through your account page on the relevant website (e.g., the “Your Account” page on Ancestry.com or the “Account Details” page on Newspapers.com and Fold3.com) usually located in the pull-down menu in the top right corner of the relevant website.
 
-For AncestryDNA, you can review and update your information on your DNA settings page. If you agreed to the Informed Consent to participate in research, and then withdraw consent, we will stop using information about you promptly for the Research Project and any future research. However, information cannot be withdrawn from studies in progress, completed studies, or published results.
+For AncestryDNA, you can review and update your information on your DNA settings page. If you agreed to the Informed Consent to participate in research, and then withdraw consent, we will stop using information about you for the Research Project and any future research. However, information cannot be withdrawn from studies in progress, completed studies, or published results.
 
 If you have questions about how to review, update, or delete information, you should look in the “Manage Your privacy” pages below, or contact our Member Services team.
 
 How does Ancestry use data about me in scientific research?
     
 
-If you agree to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/legal/informedConsent/latest) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), your DNA and other data that you provide us through questionnaires or surveys may be used in research to further understand human history and improve human health.
+If you agree to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/legal/informedConsent/latest), your DNA and other data that you provide us through questionnaires or surveys may be used in research to further understand human history and improve human health.
 
-We use industry standard security practices to store your DNA sample, your DNA test results, and other health information you provide to us, and we limit access to authorized individuals who complete privacy training. We store your DNA test results and DNA sample without your name or other common identifying information such as your address. We do not share with third parties common identifying information linked to your genetic or health data except as legally required or with your explicit consent.
+Ancestry maintains a comprehensive information security program designed to protect our customers’ Personal Information using administrative, physical, and technical safeguards based on the sensitivity of the Personal Information collected. We use industry standard security practices to store your DNA sample, your DNA test results, and other health information you provide to us, and we limit access to authorized individuals who complete privacy training. We store your DNA test results and DNA sample without your name or other common identifying information such as your address. We do not share with third parties common identifying information linked to your genetic or health data except as legally required or with your explicit consent.
 
 Who owns my data?
     
@@ -86,14 +90,14 @@ What are my privacy settings with AncestryDNA?
 Throughout your AncestryDNA experience, we want to ensure that you understand your privacy settings and how much content you are making public. Below are some ways that you can control the privacy settings of your AncestryDNA account and DNA results pages.
 
   1. **Username:**  You can choose how your name appears to your DNA matches. Here are your options: 
-    * You may use your Ancestry username or your real name. Your real name is selected automatically when you create your Ancestry account. You can update your setting from your [Member Profile](http://www.ancestry.com/connect/profile/).
+    * You may use your Ancestry username or your real name. Your real name is selected automatically when you create your Ancestry account. You can update your setting from your [Member Profile](https://www.ancestry.com/connect/profile/).
     * You can edit your Ancestry username anytime from [Your Account](https://www.ancestry.com/secure/account) (but remember this change will be reflected throughout the Ancestry website, so editing this will also affect how you log in).
     * For more information go to "How are living people protected by AncestryDNA?" (below).
   2. **Ethnicity profile:** You have two choices for how much of your genetic ethnicity profile you want to make viewable to your DNA matches. Your DNA matches can either see: 
     * All the ethnicity regions reported in your DNA test; or
     * Only the ethnicity regions that they have in common with you
   3. **Family tree:** You can choose whether or not to link your DNA test to an Ancestry family tree. 
-    * Learn more about linking your DNA results with your family tree on the [AncestryDNA FAQ](https://www.ancestry.com/dna/legal/faq) page and about privacy for your Ancestry family tree [here](http://www.ancestry.com/cs/legal/PrivacyForYourFamilyTree).
+    * Learn more about linking your DNA results with your family tree on the [AncestryDNA FAQ](https://www.ancestry.com/dna/legal/faq) page. Have questions about your Ancestry family tree? Learn about the difference between public, private, and unindexed trees and how living people are protected in your tree.
   4. **Deleting your test results:** If you desire, you can choose to delete your DNA test results. 
     * Your DNA results will be removed from Ancestry
     * Your DNA matches will no longer see you in their DNA member match list
@@ -123,7 +127,7 @@ Download raw DNA data |  |  |
 Send and respond to messages from the test owner's account |  |  |   
 The **Owner** has all of the above permissions, and may add or remove a manager at any time.  
   
-  6. **For more information on your Ancestry profile and personal information go  [here](http://www.ancestry.com/cs/legal/YourProfileAndPersonalInformation).**
+  6. **For more information on your Ancestry profile and personal information go  [here](https://www.ancestry.com/cs/legal/YourProfileAndPersonalInformation).**
 
 
 How are living people protected by AncestryDNA?
@@ -173,7 +177,7 @@ How is my DNA data protected?
 
 You trust us with your DNA so we, in turn, employ a number of measures to protect it; here are some of the things that we do:
 
-  1. **The results of your DNA test are stored in a secured database**  — Your AncestryDNA results are stored in a secured database, which employs a number of security measures. As well as protecting the information from unauthorized access from those outside of AncestryDNA, we strictly limit access to this database from within the company as well.
+  1. **The results of your DNA test are stored in a secured database**  — Your AncestryDNA results are stored in a secured database, which employs a number of security measures. As well as protecting the information from unauthorized access from those outside of AncestryDNA, we strictly limit access to this database from within the company.
   2. **The lab processing your DNA doesn't have access to your name, address and other contact information**  — DNA samples are tested in a secure third-party testing lab in the United States. We separate your name from your DNA sample throughout the testing process. Instead, we use a unique Activation Code provided in your kit to track your DNA through the testing process and in storage.
   3. **Your DNA sample is securely stored**  — After testing is complete, any remaining DNA from your test is archived and stored in a temperature-controlled, secure facility with 24-hour monitoring and limited access.
   4. **The Genetic Information Nondiscrimination Act (GINA)**  — United States law (the Genetic Information Nondiscrimination Act or “GINA”) generally makes it illegal for health insurance companies, group health plans, and most employers to discriminate against you based on your genetic information. Learn more about GINA [here](https://www.genome.gov/24519851/).
@@ -186,25 +190,13 @@ If you have given your consent to participate in ongoing research efforts and yo
 How does Ancestry keep personal information safe?
     
 
-We have many safeguards in place to prevent personal information about you, including your family research, from being lost and to prevent cyber-attacks, phishing, or other malicious activity.
+We have many safeguards in place to prevent personal information about you, including your family research, from being lost and to prevention of malicious cyber-related activity:
 
 **Secure account sign-in**   
-We require a unique username and password to sign in to your Ancestry accounts. In addition, only you, or those you have authorized, can edit your online tree. Learn more about tree editing roles under [Privacy for Your Family Tree](https://www.ancestry.com/cs/legal/PrivacyForYourFamilyTree).
-
-**System backups**   
-We use the latest technology to provide reliable access to your tree and have processes to back up all user trees on a regular basis.
-
-**Accidental deletions**   
-When you delete a tree, we require you to re-enter your password to prevent the possibility of deleting a tree accidentally.
-
-**Living people**   
-Names and other information about people on your family trees who are marked as living are shown only to you and others with whom you share your tree. If you have a public tree, others (with whom you have not shared your tree) will see only the existence and gender of living people on your tree.
-
-**Payment information**   
-We use additional security to protect payment information, detailed below in the “How secure is my payment information” section.
+We require a unique username and password to sign in to your Ancestry accounts. In addition, only you, or those you have authorized, can edit your online tree. Learn more about who can edit content in your tree.
 
 **DNA data**   
-For information on how we keep your DNA data secure, see [Privacy for Your AncestryDNA Test](https://www.ancestry.com/cs/legal/PrivacyForAncestryDNATesting).
+Learn about your how your DNA data is protected, your AncestryDNA privacy settings and how we protect living people.
 
 **Fraud protection**   
 If you experience any bizarre behavior or suspect that your account has been compromised please contact us at [fraud@ancestry.com](mailto:fraud@ancestry.com) or through <https://support.ancestry.com/s/contactsupport>.
@@ -219,7 +211,6 @@ You can control the safety of your password. Here are some important things to k
   * A strong password contains a mix of numbers, letters, and symbols and is only used for this account—and remember, especially given the nature of our sites, using your own or your relatives’ names or dates of birth is not a good idea.
   * Also, you should log out of Ancestry when you use a computer you share with other people.
   * Access [Your Account page](https://www.ancestry.com/secure/account) to change your password.
-  * Many sites provide useful guidance on how to prevent online fraud and identity theft, including the [Google Safety Center](https://www.google.com/safetycenter/everyone/start/password/).
 
 
 How secure is my payment information?
@@ -340,7 +331,7 @@ For all requests, Ancestry requires valid legal process in writing before produc
 Will Ancestry market to me?
     
 
-Ancestry may market to you online, via email, or through other methods, depending on your choices. For example, we allow you to opt in and out of receiving marketing emails from Ancestry and its trusted third party partners in your account settings.
+Ancestry may market to you online, via email, or through other methods, with new products and offers from us or our business partners. This includes advertising personalized to your interests. You can control how we market to you by using the unsubscribe link in any email you receive, by changing your account preferences, or by following the instructions in any other marketing communications you may receive.
 
 We may deliver “targeted” or “interest-based” advertising on our websites and elsewhere on the internet, based on your interests and activities on the internet. Please visit the [Network Advertising Initiative](https://www.networkadvertising.org/choices/#completed) or the [Digital Advertising Alliance](https://www.aboutads.info/choices/#completed) for additional information about interest-based ads.
 
