@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221202142id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629000623id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy – Scary Mommy
+# Privacy Policy –
 
 **Last Changes to Privacy Policy: September 18, 2015           **
 
@@ -163,3 +163,5 @@ You may always opt-out of receiving future e-mail messages and newsletters from 
 **_Your California Privacy Rights_**
 
 California Civil Code Section 1798.83 permits customers of Some Spider who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@somespider.com. These Services will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information). If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes.
+
+The properties may feature Nielsen proprietary measurement software to measure content usage, contribute to market research such as Nielsen TV Ratings, and improve overall user experience. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html>
