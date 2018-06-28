@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065214id_/http%3A//www.topazlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628101322id_/http%3A//www.topazlabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Topaz Labs
+# Privacy Policy – Topaz Labs
 
 ### What information do we collect?
 
@@ -12,25 +12,18 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-– To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  1. To personalize your experience: Your information helps us to better respond to your individual needs
+  2. To improve our website: We continually strive to improve our website offerings based on the information and feedback we receive from you
+  3. To improve customer service: Your information helps us to more effectively respond to your customer service requests and support needs
+  4. To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  5. To administer a contest, promotion, survey or other site feature
+  6. To send periodic emails
 
-– To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-– To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-– To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-– To administer a contest, promotion, survey or other site feature
-
-– To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, just click the “Manage My Subscription” link at the bottom of each newsletter.
+Note: If at any time you would like to unsubscribe from receiving future emails, just click the “Manage My Subscription” or “Unsubscribe” link at the bottom of each newsletter or email.
 
 ### How do we protect your information?
 
@@ -70,6 +63,16 @@ Please also visit our [Terms and Conditions](https://web.archive.org/terms) sect
 
 Please also visit our [DMCA Policy](https://web.archive.org/dmca) section for our policies and reporting procedures regarding intellectual property rights and other proprietary rights of others.
 
+### GDPR Compliance
+
+  * Representative & DPO: [Joe Fedric](https://help.topazlabs.com/hc/requests/new), Webmaster & Head of Support
+  * Contact: [Topaz Help Center](https://help.topazlabs.com/hc/requests/new)
+  * Data Transfer: Topaz Labs does not share your data with  _any_ third parties that are not strictly necessary to conduct our business
+
+
+
+Full details on Topaz Labs’ compliance with GDPR can be found [here](https://web.archive.org/gdpr).  The information you provide us for processing is necessary for the functionality of our products.  We do not keep profiling information on individual customers, nor do we employ automatic decision making for any element of our business including prices, services, or products.  All of your personal data is collected directly from you, we don’t use sneaky practices to gather your personal data.  We just want to make awesome software for our wonderful customers.
+
 ### Your Consent
 
 By using our site, you consent to our privacy policy.
@@ -78,13 +81,22 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on July 21, 2009.
+This policy was last modified on May 24, 2018.
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.topazlabs.com  
+Topaz Labs  
 14285 Midway Rd., Ste. 125  
 Addison, TX 75001  
 info@topazlabs.com
+
+### All Policies
+
+  1. [Terms & Conditions](https://web.archive.org/terms) (this page)
+  2. [DMCA Policy](https://web.archive.org/dmca)
+  3. [GDPR Policy](https://web.archive.org/gdpr)
+  4. [Privacy Policy](https://web.archive.org/privacy)
+
+
