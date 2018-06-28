@@ -1,105 +1,180 @@
-> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118233628id_/https%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628140244id_/http%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
 
-# TTAG Privacy Policy - The Truth About Guns
+# Privacy Policy - The Truth About Guns
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+_Effective Date: This policy was last updated on 05/22/2018_
 
-**What personal information do we collect from the people that visit our blog, website or app?**  
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, personal preferences or other details to help you with your experience.
+## **Overview**
 
-**When do we collect information?**  
-We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site.
+The Truth About Guns takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.
 
-**How do we use your information?  **  
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+This privacy policy applies to The Truth About Guns (thetruthaboutguns.com) on all platforms (web, mobile web, apps, emails).
 
-**•**  To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+The Truth About Guns contains links to other sites and we are not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information (PII).
 
-**•**  To improve our website in order to better serve you.
+The Truth About Guns gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, The Truth About Guns, along with our advertising partners, gather information about you anonymously to provide you with advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes below.
 
-**•**  To administer a contest, promotion, survey or other site feature.
+## **Transparency and Choice**
 
-**•**  To send periodic emails regarding your order or other products and services.
+Our goal is to be clear about what information we collect and how we use it.  No personal information is required to use our site.
 
-       **•**  To follow up with them after correspondence (live chat, email or phone inquiries)
+  * For email notification management or optout, please see Email Policy
+  * For information about social sharing information or social comments, please see Social Media Sharing and Comments
+  * For information about general comments, please email [privacy@thetruthaboutguns.com](mailto:privacy@thetruthaboutguns.com).
+  * For overview of types of cookies we use, please see Cookies
 
-**How do we protect visitor information?**  
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We only provide articles and information. We never ask for credit card numbers.  
-We use regular Malware Scanning.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+## **Information Collected**
 
-**Do we use ‘cookies’?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**_Personal Information/ Information You Directly Provide To The Truth About Guns:_**
 
-**We use cookies to:**  
-**•**  Understand and save user’s preferences for future visits.  
-**•**  Keep track of advertisements.  
-**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
+When registering, engaging, or signing up for newsletters, you may provide The Truth About Guns with personal information, including but not limited to:
 
-We may also use trusted third-party services that track this information on our behalf.
+  * Personal contact information (name, zip code, email address, phone numbers)
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+  * Comments
 
-**If users disable cookies in their browser:**  
-If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+  * User names (including social media user names)
 
-**Third-party disclosure**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+  * Correspondence with The Truth About Guns staff
 
-**Third-party links**  
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * Billing Information (for paid The Truth About Guns products)
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-**Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**COPPA (Children Online Privacy Protection Act)**  
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We do not specifically market to children under 13.  
-As soon as a breach is discovered and analyzed
+You are not required to provide The Truth About Guns with any personal information in order to use the site. All information that is collected is the sole property of the site, and that information is not distributed outside of the site unless required by law.
 
-**CAN SPAM Act**  
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+**_Non-Personal Information Automatically Collected:_**
 
-**We collect your email address in order to:**
+This type of information is collected anonymously using tracking technology. No Personally Identifiable Information (PII) is collected through this methodology.  This information may include, but is not limited to:
 
-**•**  Send information, respond to inquiries, and/or other requests or questions.
+  * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
 
-**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+  * Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)
 
-**To be in accordance with CANSPAM we agree to the following:**
+  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served)
 
-**•**  NOT use false or misleading subjects or email addresses.
+  * Information collected through HTML cookies, web beacons, and similar technologies.
 
-**•**  Identify the message as an advertisement in some reasonable way.
 
-**•**  Include the physical address of our business or site headquarters.
 
-**•**  Monitor third-party email marketing services for compliance, if one is used.
 
-**•**  Honor opt-out/unsubscribe requests quickly.
+Information Collected Through Third-Party Sources
 
-       **•**  Allow users to unsubscribe by using the link at the bottom of each email.
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources is PII. This type of information includes but is not limited to:
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
+  * Demographic information (gender, age, household income, job title, interests, etc.)
 
-Follow the instructions at the bottom of each email and we will promptly remove you from  **ALL** correspondence.
+  * Advertising information (clicks, interactions, post-impression performance data)
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.
+  * Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)
 
-thetruthaboutguns.com  
-15315 Prickly Poppy Cove  
-Austin, Texas 78733  
-USA
 
-support@thetruthaboutguns.com  
-401-835-5054
 
-Last Edited on 2016-06-05
+
+## **What Is Done With The Collected Information?**
+
+Site Content: The Truth About Guns partners with Zeta Global to provide you with content that is relevant and personalized to your reading interests. You can read[ Zeta Global’s privacy policy here](https://zetaglobal.com/privacy-policy/).
+
+Email Communications: The Truth About Guns may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
+
+Site Analysis: The Truth About Guns uses the information collected through third-party sources to learn and analyze how the site is used. We use this information to enhance the site by making improvements based on the data collected.
+
+Advertising: Display Ads are delivered from our adserver, DFP for Small Publishers powered by Google.  At times third-party information is used to deliver targeted ads to you, your location, and your interests. No PII is exchanged with any type of advertising message on The Truth About Guns.
+
+## **How We Share Information Collected**
+
+There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to:
+
+  * If you comment or use the Facebook, Twitter, Google+ and/or like apps on The Truth About Guns, the information you submit (including your social media user name, etc) is or may be viewable to the public.
+
+  * The Truth About Guns may need to disclose personal information to comply with a judicial proceeding, a court order, or any other legal process.
+
+  * We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
+
+  * In the event The Truth About Guns goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+
+
+
+
+The Truth About Guns utilizes common social media sharing and commenting features from Facebook, Twitter, Pinterest and Google+.  In using these features, these services may set a cookie to properly execute the specified action.  These features may collect your IP address and information about the page and action you are visiting.  These services are not required in order to use the site and are governed by that company’s privacy policy:
+
+  * [Facebook Privacy](https://www.facebook.com/policy.php)
+  * [Google+ Privacy](https://policies.google.com/privacy?hl=en)
+  * [Pinterest Privacy](https://policy.pinterest.com/en/privacy-policy)
+  * [Twitter Privacy](https://twitter.com/en/privacy)
+
+
+
+## **Email Policy**
+
+The Truth About Guns does not allow any third-party company to use your email address for commercial purposes without your express permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt out of any specific newsletters or mailings, please email us at info@thetruthaboutguns.com to change your newsletter settings or use the unsubscribe feature within the newsletter.
+
+Additional details and privacy policy notice with contact information for Zeta Global can be found below:
+
+[Zeta Global Privacy Policy](https://zetaglobal.com/privacy-policy/)
+
+## **Cookies**
+
+A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user’s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit [IAB’s web site](http://www.iab.net/).
+
+To comply with the European Union Directive 2009/136/EC, amending Directive 2002/58/EC on Privacy and Electronic Communications (otherwise known as the e-Privacy or Cookie Directive), we provide notice to consumers visiting our site from the EU about our cookie practices and obtain consent for such practices. By using our services, you agree to the use of cookies as detailed below.
+
+_**Performance Cookies**_
+
+These cookies collect information about visitor usage for the purpose of web analytics and high level demographics.  These cookies are only used to improve our site and the general experience.  They do not contain PII and they do not track any behavior on any other website.
+
+_**Functionality Cookies**_
+
+These cookies allow our site to remember volunteered information (such as username for commenting) to provide convenience or a more personalized experience.  If used, they will contain PII that you have provided.  These cookies do not track any behavior on any other website.
+
+_****Advertising Cookies****_
+
+These cookies contain browsing habits and general data (device type, location) specific to your device for more personalized ad targeting.
+
+_**Managing Cookies**_
+
+Cookie management is specific to your browser.  If you reject cookies, you will be able to use The Truth About Guns, but some of the functionality may be limited.
+
+Common browser cookie management information:
+
+[Google Chrome Cookies](https://support.google.com/chrome/answer/95647?hl=en)  
+[Internet Explorer Cookies](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11-win-7)  
+[Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)  
+[Mozilla Firefox Cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
+[Safari Cookies](https://support.apple.com/kb/ph21411?locale=en_US)
+
+Additional third policy cookie information:
+
+[Comscore](https://www.comscore.com/About-comScore/Privacy-Policy)  
+[Google Analytics](https://support.google.com/analytics/answer/6004245)  
+[Google DoubleClick for Publishers](https://support.google.com/dfp_premium/answer/2839090?hl=en)  
+[Quantcast](https://www.quantcast.com/opt-out/)
+
+## **Notices**
+
+Children Under 13: The Truth About Guns does not knowingly target advertising to, or collect information from children under the age of 13.
+
+Data Retention: Your personal information is retained for as long as necessary to fulfill the purposes outlined in this privacy policy.
+
+Security: The Truth About Guns uses all reasonable means to safeguard data against unauthorized use and theft.
+
+Changes To This Policy: The Truth About Guns may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.
+
+Questions/Suggestions: If you have any questions or suggestions for this Privacy Policy, please contact the editor of The Truth About Guns or email questions to privacy@thetruthaboutguns.com. You can also reach us by mail at 801 Congress Ave, Suite 330, Austin, TX, 78701.
+
+## **For More Information**
+
+Below are links to the privacy policies of some of our partners and links to advertising opt outs.
+
+DFP for Small Publishers, powered by Google, is the adserving platform on The Truth About Guns.
+
+If you want to opt out of receiving targeted ads from DFP, [visit this link](https://www.google.com/settings/ads). Opting out does not mean you will not get ads from DFP; it means DFP will not collect non-personal information about you or serve ads targeted to your interests.
+
+[Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners’ non-personal information tracking, visit the [NAI opt out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on The Truth About Guns. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
+
+## **Contact Us**
+
+If you have questions about privacy please contact us at privacy@thetruthaboutguns.com.
