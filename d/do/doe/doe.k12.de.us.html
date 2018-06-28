@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doe.k12.de.us privacy policy that was archived on 2017-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231184339id_/http%3A//www.delaware.gov/help/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doe.k12.de.us privacy policy that was archived on 2018-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628145404id_/http%3A//www.delaware.gov/help/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -87,7 +87,7 @@
                 url: "/files/addSearchStats.php",
                 data: dataString,
                 success: function(data) {
-                    ga('send', 'pageview', 'delaware.gov?parameter='+portalTopBarSearchFieldText);
+                    gtag('config', 'UA-3329332-12', {'page_title': 'Portal Search', 'page_location': 'https://delaware.gov?parameter='+portalTopBarSearchFieldText, 'page_path': ''});
                     window.location.href = "//search3.delaware.gov/texis/search/?query="+portalTopBarSearchFieldText+"&proxystylesheet=default_frontend&client=default_frontend&output=xml_no_dtd";
                 }
             });
@@ -131,7 +131,7 @@ $(document).ready(function() {
                 url: "/files/addSearchStats.php",
                 data: dataString,
                 success: function(data) {
-                    ga('send', 'pageview', 'delaware.gov?parameter='+portalTopBarSearchFieldText);
+                    gtag('config', 'UA-3329332-12', {'page_title': 'Portal Search', 'page_location': 'https://delaware.gov?parameter='+portalTopBarSearchFieldText, 'page_path': ''});
                     window.location.href = "//search3.delaware.gov/texis/search/?query="+portalTopBarSearchFieldText+"&proxystylesheet=portal4&client=portal4&output=xml_no_dtd";
                 }
             });
@@ -329,8 +329,8 @@ var trackOutboundLink = function(url) {
    <div class="col-sm-4">
 		<h2>Did You Know? <i class="fa fa-lightbulb-o fa-fw"></i></h2>
 <hr class="blue">
-<img src="/portalimg/portal_dyk_dickinson.jpg" alt="John Dickinson" title="John Dickinson" class="dyk_img img-responsive">
-<p>John Dickinson was called the Penman of the Revolution for his writings on independence. His boyhood home is preserved in Dover.</p><br> 
+<img src="/portalimg/portal_dyk_bbdelaware.jpg" alt="USS Delaware" title="USS Delaware" class="dyk_img img-responsive">
+<p>The United States battleship USS Delaware was commissioned in 1910.</p><br> 
 		<h2>What's Trending <i class="fa fa-thumbs-o-up fa-fw"></i></h2>
 
 <hr class="blue">
@@ -361,7 +361,7 @@ var trackOutboundLink = function(url) {
             <p><a href="#close-right-menu"><i class="fa fa-times fa-1x fa-fw"></i> Close Menu</a></p>
         </div><br>
         <div class="sidr_search">
-
+        
         <form name="mobileSearchForm" role="search" action="https://search3.delaware.gov/texis/search" id="mobileSearchForm" method="get">
          <div class="form-group">
         <input type="hidden" value="" name="mode">
@@ -401,7 +401,7 @@ var trackOutboundLink = function(url) {
         <li><a href="http://news.delaware.gov" onclick="trackOutboundLink('http://news.delaware.gov'); return false;">Latest News</a></li>
         <li><a href="/citizen_services.shtml">Citizen Services</a></li>
         <li><a href="/business_services.shtml">Business Services</a></li>
-        <li><a href="https://egov.delaware.gov/pmc/" onclick="trackOutboundLink('https://egov.delaware.gov/pmc/'); return false;">Public Meetings</a></li>
+        <li><a href="https://publicmeetings.delaware.gov/" onclick="trackOutboundLink('https://publicmeetings.delaware.gov/'); return false;">Public Meetings</a></li>
         <li><a href="/topics/">Delaware Topics</a></li>
         <li><a href="/topics/socialmedia">Social Media</a></li>
         <li><a href="/help/">Help &amp; Support</a></li>
@@ -486,15 +486,15 @@ var trackOutboundLink = function(url) {
             </div>
             <div class="col-sm-3">
                 <p><a href="/help/degov-contact.shtml">Contact Us</a><br>
-                <a href="http://corp.delaware.gov/" onclick="trackOutboundLink('http://corp.delaware.gov/'); return false;">Corporations</a><br>
-                <a href="http://corp.delaware.gov/paytaxes.shtml" onclick="trackOutboundLink('http://corp.delaware.gov/paytaxes.shtml'); return false;">Franchise Tax</a><br>
+                <a href="https://corp.delaware.gov/" onclick="trackOutboundLink('https://corp.delaware.gov/'); return false;">Corporations</a><br>
+                <a href="https://corp.delaware.gov/paytaxes/" onclick="trackOutboundLink('https://corp.delaware.gov/paytaxes/'); return false;">Franchise Tax</a><br>
                 <a href="https://grossreceiptstax.delaware.gov/grtpublic/" onclick="trackOutboundLink('https://grossreceiptstax.delaware.gov/grtpublic/'); return false;">Gross Receipts Tax</a><br>
                 <a href="https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll" onclick="trackOutboundLink('https://dorweb.revenue.delaware.gov/EDIOnline/EDIOnline.dll'); return false;">Withholding Tax</a><br>
                 <a href="/topics/">Delaware Topics</a><br>
                 <a href="/help/">Help Center</a><br>
                 <a href="/topics/apps">Mobile Apps</a><br>
                 <a href="/topics/subscribeemail">E-mail / Text Alerts</a><br>
-                <a href="/topics/subscriberss">RSS Feeds</a></p>
+                <a href="/topics/socialmedia">Social Media</a></p>
             </div>
             <div class="col-sm-3">
             <img src="/portalimg/portal_footer_seal.png" alt="State Seal of Delaware" title="State Seal of Delaware" class="hidden-xs img-responsive">
@@ -524,7 +524,7 @@ var trackOutboundLink = function(url) {
             <div class="col-sm-4">
             <img src="/portalimg/gic_portal_footer_logo@2x.png" alt="Government Information Center (GIC)" title="Government Information Center (GIC)" class="footer_logo">
             <p>Built by the <a href="http://gic.delaware.gov" title="Government Information Center (GIC)" onclick="trackOutboundLink('http://gic.delaware.gov'); return false;">Government Information Center</a><br>
-            ©MMXIV Delaware.gov</p>
+            ©MMXVIII Delaware.gov</p>
             </div>
         </div>
       </div>
