@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120065122id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628031842id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
@@ -57,7 +57,7 @@ Information presented on the USDA website is considered public information and m
 
 1\. For site security purposes and to ensure that this web site service remains available to all users, USDA employs monitoring technology to identify unauthorized attempts to upload, change, or otherwise cause damage to USDA information or systems.
 
-2\. Raw data logs are scheduled for regular destruction in accordance with the [Computer Fraud and Abuse Act of 1986 ](http://www.law.cornell.edu/uscode/18/1030.html) and with [National Archives and Records Administration (NARA) General Schedule 20](https://www.archives.gov/files/records-mgmt/grs/grs20.pdf) (PDF, 142KB).
+2\. Raw data logs are scheduled for regular destruction in accordance with the [Computer Fraud and Abuse Act of 1986](http://www.law.cornell.edu/uscode/18/1030.html) and with [National Archives and Records Administration (NARA) General Schedule 20](https://www.archives.gov/files/records-mgmt/grs/grs20.pdf) (PDF, 142KB).
 
 3\. Unauthorized attempts to upload information or change information on this website are strictly prohibited and may be punishable under the [National Information Infrastructure Protection Act](https://www.justice.gov/criminal/cybercrime/).
 
@@ -75,7 +75,7 @@ The privacy provisions of the E-Government Act of 2002 require agencies to have 
 
 ## Social Media
 
-The USDA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. You may encounter these services as separate websites (for example, the [USDA Facebook page ](https://www.facebook.com/USDA), or as applications embedded within the USDA's websites. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with USDA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider. These third-party services may, for example, use persistent (multi-session) cookies.
+The USDA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. You may encounter these services as separate websites (for example, the [USDA Facebook page](https://www.facebook.com/USDA), or as applications embedded within the USDA's websites. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with USDA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider. These third-party services may, for example, use persistent (multi-session) cookies.
 
 Generally, USDA does not collect, disseminate, or maintain any personally identifiable information about you maintained by third party sites. However, you should be aware that USDA may read, review, or rely upon information that you make publicly available or the USDA on these services (for example, comments made on the USDA's Facebook page), as authorized or required by law.
 
@@ -85,4 +85,4 @@ Please note that these third-party services supplement USDA's traditional commun
 
 The purpose of the USDA's new media communication forums, such as USDA blogs, collaborative tools, and other sites, is to share news and information regarding the activities, policies, and programs of USDA and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day.
 
-If you have any comments or questions about the information presented here, please forward your concerns to the USDA Chief Privacy Officer, Dr. Marj Leaming at [Marj.Leaming@ocio.usda.gov ](mailto:Marj.Leaming@ocio.usda.gov) or [USDAPrivacy@ocio.usda.gov ](mailto:USDAPrivacy@ocio.usda.gov).
+If you have any comments or questions about the information presented here, please forward your concerns to the USDA Chief Privacy Officer, Dr. Marj Leaming at [Marj.Leaming@ocio.usda.gov](mailto:Marj.Leaming@ocio.usda.gov) or [USDAPrivacy@ocio.usda.gov](mailto:USDAPrivacy@ocio.usda.gov).
