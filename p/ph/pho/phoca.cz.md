@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705103000id_/https%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628112228id_/https%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy
 
@@ -22,6 +22,12 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 
 Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
+This site uses cookies from Google to deliver its services and to analyze traffic. Your IP address and user-agent are shared with Google along with performance and security metrics to ensure quality of service, generate usage statistics, and to detect and address abuse. [Learn more](https://policies.google.com/technologies/cookies).
+
 External links
 
 When you click on a link on this web site that takes you to a web site operated by another company, you will be subjected to that company's web site privacy policies.
+
+See [Privacy Policy (GDPR)](https://www.phoca.cz/forum/app.php/privacypolicy/policy)
+
+### Phoca Forum - Latest Topics
