@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208150558id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628120814id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | SAMHSA - Substance Abuse and Mental Health Services Administration
 
@@ -109,7 +109,7 @@ For SAMHSA privacy questions or concerns contact: [info.privacy@samhsa.hhs.gov](
 
 * * *
 
-## Systems of Records Notices (SORNS)
+## Systems of Records Notices (SORNs)
 
 Under the Privacy Act of 1974, a description of the information to be collected in any system of records must be published in the Federal Register before the data collection begins.
 
@@ -117,7 +117,7 @@ For each system of records, a specified Agency employee, known as a system manag
 
 **See Also:**
 
-  * [System of Record Notices (SORNS)](https://www.samhsa.gov/privacy/sorns "SORNS")
+  * [System of Records Notices (SORNs)](https://www.hhs.gov/foia/privacy/sorns/index.html)
   * [Privacy Impact Assessment (PIA)](https://www.samhsa.gov/privacy/pia "PIA")
   * [U.S. Federal Government related policies, including Privacy Act of 1974](http://www.hhs.gov/ocio/securityprivacy/pglandreports/polguidlegrep.html)
   * [HHS Privacy Contacts (HHS Intranet)](http://intranet.hhs.gov/it/cybersecurity/privacy/index.html)
