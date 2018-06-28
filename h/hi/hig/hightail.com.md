@@ -1,258 +1,124 @@
-> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928063550id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094408id_/https%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
-# Privacy - Hightail
+# Privacy and Security Policy | OpenText
 
-### Last updated April 2, 2015
+### Introduction
 
-Thanks for being part of Hightail. Your privacy is very important to us and we take it very seriously. This Privacy Policy applies to https://www.hightail.com and all associated applications, owned and operated by Hightail, Inc. and/or affiliates thereof (“Hightail”). It describes how your personal information is collected, used, disclosed and protected by Hightail when using our Services. By using our Services, you acknowledge that you understand this policy, so please read it carefully.
+This Notice describes OpenText’s privacy practices for information collected on this website. This Notice also applies to OpenText’s affiliates’ websites that link to this Notice. For simplicity both OpenText and any affiliate websites are simply referred to as “the website” in this Notice.
 
-You should also read our [Terms of Service](https://web.archive.org/aboutus/legal/terms-of-service "Terms of Service").
+OpenText supports the right to privacy, including the rights of individuals to control the dissemination and use of personal data that describes them. OpenText is committed to protecting personal data of the users of our website, and utilizes technical and organization measures to protect your data. OpenText supports and complies with domestic and international laws and regulations that seek to protect the privacy rights of such individuals.
 
-[](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=f2b78e0c-0d8e-48f9-8b77-846044bb0202 "TRUSTe European Safe Harbor certification")
+This website, is owned and operated by OpenText Corporation, 275 Frank Tompa Drive, N2L 0A1 Waterloo, Canada. Other websites subject to this Notice may be owned and operated by an affiliate company which is under the control of OpenText Corporation. From a data privacy perspective this means that OpenText is data controller and data collector. OpenText’s Data Protection Officer can be reached at [DPO@opentext.com](mailto:DPO@opentext.com) or by mail at:
 
-[](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=dc5820e4-44e9-4e27-a3aa-2a696a5874d1 "Validate TRUSTe privacy certification")
+### Data Collection
 
-### We know that legalese can be painful. To help you review this policy, we’ve added quick summaries of each section here.
+When visiting our website, you are not required to provide any personal data. OpenText relies on consent or other lawful principles established for data collection under applicable laws. Therefore, you have the option to abstain from providing personal data when visiting publicly available portions of the website. However, when registering for an event, subscribing to receive OpenText’s marketing materials or when purchasing or using OpenText’s products or services or in other circumstances, you may be required to provide some or all of the personal data listed below. If you have provided OpenText with your personal data, you have the rights described below in the Data Subject Rights section below.
 
-### Quick links to any section you may want to visit quickly
+OpenText collects additional non-personal data as described in the subsequent section of this Notice (Additional Data Collection Activities).
 
-## 1\. A few definitions
+Any data collected may be used in OpenText’s business to provide you the products we offer and to aid in OpenText’s sales and marketing efforts, and may result in you being contacted by OpenText. In some cases, contact information may be required for OpenText to create an account, enable delivery of materials requested on the website or to otherwise communicate with you. This may include: providing product or other requested information, making responses to inquiries, registration for OpenText events, and distributions for marketing purposes. You may also be able to register for OpenText services through the website.
 
-## [](http://www.hightail.com/aboutus/legal/privacy#definitions)
+For the purposes mentioned above, OpenText may collect the following personal data about you:
 
-**Account:** You set up an Account in order to use our Services.
+  * Full name
+  * Company name
+  * Company location
+  * Position in company
+  * Department
+  * Billing information
+  * Telephone number
+  * Email address
 
-**Non-Identifying Information:** All information other than Personal Information that Hightail users provide or that we collect.
 
-**Personal Information:** Information about Hightail's users that can be used to contact or identify them.
 
-**Services:** All services, software and information provided by Hightail, including all Hightail online services and the Hightail website (www.hightail.com), as well as our mobile and client apps.
+To facilitate its sales and marketing efforts, OpenText may combine the personal data you provide with information that is not collected directly from you. Data not provided directly by you may be supplied by OpenText’s vendors that support its sales and marketing efforts. OpenText uses automated processing within its internal systems to optimize its sales and marketing activities. You may lodge a complaint with OpenText regarding automated processing by submitting it to OpenText using the contact information provided in the introduction to this policy.
 
-**User Files:** The digital files that you and others may create, upload, download, store, or send using our Services.
+We will retain your personal information as needed to fulfill the purposes for which it was collected. Personal data collected under this Notice is retained as long as you continue to interact with OpenText’s Sales and Marketing Teams or we have a legitimate business interest to retain your data.
 
-**We/Our/Us/Hightail:** Refers to Hightail, Inc. (formerly YouSendIt, Inc.) and/or affiliates thereof.
+### Additional Data Collection Activities (Automatic Information)
 
-**You/Your:** Refers to you, or the company or entity you represent.
+OpenText automatically receives and records information about the use of the website either directly or through third party tracking utility providers. This may include cookies, IP addresses, your browser type, operating system version, language settings, which locally installed OpenText applications you use (if any) and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics. This data is not combined with your personal data collected directly from you.
 
-Back to Top
+OpenText utilizes cookies on its website. Click here for [Information About Cookies on this OpenText Website](https://web.archive.org/who-we-are/copyright-information/site-cookies-information).
 
-### Explanation of some terms that we'll use a lot.
+OpenText uses IP addresses to help diagnose problems and to administer the OpenText website. When you visit our Website, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you provide it or send us an e-mail message.
 
-## 2\. Certification
+OpenText does not ask you for, access or track any location based information from your device. If OpenText wishes to do so in the future to enhance our website, OpenText will specifically ask your permission.
 
-## [](http://www.hightail.com/aboutus/legal/privacy#certification)
+As stated above, the collection of personal data is not required for accessing this website. However, OpenText collects the additional data for the maintenance and optimization of its website.
 
-Hightail has received TRUSTe's Privacy Seal signifying [<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>] that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+### Data Processing
 
-The TRUSTe program covers only information that is collected through this Web site, www.hightail.com and our mobile applications and does not cover information that may be collected through downloadable software. 
+OpenText utilizes vendors to support the operation of OpenText’s business and for sales and marketing that may receive the data collected under this notice, and these vendors are data processors. However, any such processing is limited to facilitating OpenText’s own activities. OpenText does not share, sell or rent your personal information to any third parties for their promotional purposes.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Email Privacy at Hightail"). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/> request.
+Additionally, data processors utilized by OpenText are subjected to OpenText’s due diligence process and required to make contractual assurances that they will take adequate precautions to protect your data. OpenText will require such service providers to adopt adequate technical and organizational security measures to ensure the processing of personal data only as instructed by OpenText and for no other purposes.
 
-<http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>
+### Additional Transfers
 
-Hightail also complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Hightail has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+OpenText may share personal information with its affiliates and with vendors working on our behalf as necessary to complete your requests and to provide you OpenText products and services. We may also share data when required by law or to respond to legal process. OpenText, its affiliates, and/or the vendors may be located in countries that are not considered to provide an adequate level of data protection as established by the European Data Protection Directive (95/46/EG) or the General Data Protection Regulation ((EU) 2016/679) (GDPR), including the United States. Where required under applicable law, OpenText will implement appropriate measures to secure the data transfers in accordance with applicable data protection laws. Such measure may include use of the Model Clauses or the Privacy Shield Framework.
 
-To learn more about the Safe Harbor program, and to view Hightail's certification, please visit <http://www.export.gov/safeharbor/>.
+OpenText has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. OpenText remains liable under the Privacy Shield Principles if an agent processes personal data covered by this Notice in a manner inconsistent with the principles, except where OpenText is not responsible for the event giving rise to the damage.
 
-Back to Top
+In certain situations, OpenText may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-### We have global privacy certifications, including TRUSTe and Safe Harbor.
+### Privacy Shield
 
-## 3\. Information collected by Hightail
+OpenText complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland to the United States. OpenText has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/Program-Overview).
 
-## [](http://www.hightail.com/aboutus/legal/privacy#collect)
+The U.S. Federal Trade Commission has jurisdiction over OpenText’s compliance with the Privacy Shield.
 
-Our main goals in collecting and processing information are to provide and improve the Services, to administer your subscription and to provide excellent user experiences. Below are the types and categories of information that we collect. Hightail does not share information about you with third parties except as provided in this Privacy Policy.
+Rights you may have under Privacy Shield or applicable regulation, such as the General Data Protection Regulation (GDPR), are described below.
 
-### Information helps us improve our services.
+### Data Subject Rights
 
-#### Information provided by you
+**Everyone**
 
-When you register to use our Services, we ask for Personal Information. Personal Information may include, but is not limited to, name, phone number, credit card or other billing information, email address and postal addresses. All other information that you provide or that we collect is Non-Identifying Information.
+You may request from OpenText access to, correction of, blocking of and/or deletion of your personal data in line with applicable data protection law. You may also withdraw your consent for OpenText to process your personal data.
 
-We do not treat the names of User Files and Folders as Personal Information, so we recommend that you do not include any confidential or Personal Information in the names of User Files or Folders.
+**Privacy Shield**
 
-Identity theft and the practice currently known as "phishing" are of great concern to Hightail. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
+In compliance with the Privacy Shield Principles, OpenText commits to resolve complaints about our collection or use of your personal information. European Union residents with inquiries or complaints regarding our Privacy Shield policy should direct any such request and any other questions you may have with regard to the Privacy Shield Principles to [OpenText’s Data Protection Officer](https://web.archive.org/who-we-are/copyright-information/gdpr-commitment), whose contact information is listed in the introduction to this Notice.
 
-### You provide us with information when you use our Services. We will never ask you for your credit card details or password in an unsolicited email.
+OpenText commits to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner, as applicable, and comply with the advice given by the panel and Commissioner, as applicable, with regard to human resources data transferred from the EU or Switzerland, as applicable, in the context of the employment relationship.
 
-#### Automatic Information
+OpenText has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), an alternative dispute resolution provider located in the United States, with a global presence. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) for more information or to file a complaint. The services of [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) are provided at no cost to you.
 
-When you use our Services, either online or using our client apps, whether as a registered Account holder or a non-registered user just browsing, we automatically receive and record information about this use either directly or through third party tracking utility providers.
+Under certain circumstances you may invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information please visit the U.S. Department of Commerce’s [Privacy Shield Site](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
-This may include information such as your computer's or device's IP address or ID, your browser type, operating system version, language settings, which locally installed Hightail applications you use (if any) and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics.
+**Affiliates**
 
-We do not ask you for, access or track any location based information from your device. If we wish to do so in the future to enhance our Services, we will specifically ask your permission.
+The following OpenText U.S. affiliates also comply with the Privacy Shield Principles:
 
-### We record information as you browse our website or apps. We do not collect location information.
+Actuate Corporation  
+ANXeBusiness, LLC  
+Covisint Corporation  
+Easylink Services International Corporation  
+GXS, Inc.  
+GXS International, Inc.  
+Guidance, Inc.  
+Hightail, Inc.  
+OpenText Inc.  
+Xpedite Systems, LLC
 
-#### Email
+**GDPR**
 
-As a Hightail Account holder, you may send a User File to, or share a User File with, recipients identified by valid email addresses that you provide. Hightail forwards or sends email or other notifications to those recipients. These email addresses and notifications may be stored by Hightail for your future use and as part of transaction information we keep relating to User Files.
+Data Subjects covered by the GDPR are afforded additional rights including:
 
-When you use Hightail mobile apps or other client software, we may access your local device contacts or other web-based contacts you permit us to access for the sole purpose of allowing you to select recipients to whom you wish to send or share a User File.
+  * The Right to be Forgotten: you have the right to request the erasure of the personal data submitted to OpenText; this means you can request OpenText restrict your data from any further processing, and have your data deleted if possible.
+  * Complaints may also be submitted to the applicable supervisory authority in the European Economic Area, which includes the data protection authority in your locality (for example, in the U.K., the supervisory authority would be the Information Commissioner’s Office).
 
-If you have been added to a user's Hightail address book and no longer wish to have your information used you may contact us at [support@hightail.com](mailto:support@hightail.com "Support Email").
 
-### When you share files, we send your recipients an email. That's all we use their contact information for. Our apps will access your device's address book to make it easier for you to add recipients.
 
-#### User postings and testimonials on our website
+**Children’s Privacy**
 
-Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20150928063550id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
+OpenText encourages parents and guardians to take an active role in their children's online activities. Our Services are not aimed at people under 18 and OpenText does not knowingly collect personal information from children without appropriate parental or guardian consent. If you believe that we may have collected personal information from someone under the age of 13 (or the applicable age of consent) without proper consent, please let us know using the methods described in this Notice.
 
-We post Hightail user testimonials on our website, which may contain Personal Information such as the user's name. We obtain user consent prior to posting of any such testimonial. If you wish to request the removal of your testimonial you may contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email").
+**OpenText Customers**
 
-### If you choose to post to our blog or forum, remember that it's a public space.
+OpenText may also collect personal data from customers as required to provide support and delivery of OpenText products and services. If you have an agreement in place with OpenText for specific OpenText products or services, that agreement takes priority over this Notice; a customer’s use of OpenText or an affiliate’s products and services is governed by the terms of the contract between OpenText or an affiliate and the customer.
 
-### We will ask your permission before using your name or testimonial in our promotional material.
+### Updates to this Privacy Notice
 
-#### Cookies and other technologies
+OpenText may update this Privacy Notice from time to time. If we modify this Privacy Notice, we will post the revised version here. We may also provide notification of material changes by other means such as posting a notice on our website.
 
-Like many websites, we use cookies, web beacons, pixel tags or similar means to collect information. These technologies allow us to personalize and improve your experience on our website, to record your preferences, and to save your ID and password for future visits to our website.
-
-A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. Web beacons and pixel tags are electronic images, often a single pixel, that are ordinarily not visible to users and may be associated with cookies on a user's hard drive. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting cookies from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of our website or all the functionality of our other Services.
-
-### Mmmm… cookies. Like everyone else, we use cookies to save your account preferences and better understand how people use our Services.
-
-Hightail mobile apps and other software you install on your devices store registration and session information in encrypted files locally on the device where the application is installed. This behavior is similar to cookies but is specific to the device. To remove these data files, you can uninstall the application.
-
-#### Push notifications
-
-We may send you push notifications from time-to-time in order to update you about any application events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device or application level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
-
-### If you use our mobile or desktop apps, we may send you occasional push notifications about updates or promotions. 
-
-#### Social connectors
-
-You can log in to our site using sign-in services such as Facebook Connect or other OpenID providers. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
-
-You can import contacts from services like Gmail and Yahoo Mail also using OpenID social connectors. Your imported contact lists will only be used to make future communications to those individuals more convenient. 
-
-### If you log in to Hightail using Open ID social connectors, you can permit us to use certain personal information in order to improve your experience. 
-
-#### Our policy toward children
-
-Our Services are not aimed at people under 18 and we do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information, he or she should contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email"). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
-
-#### Information collected by third parties
-
-We employ a variety of third party partners such as advertising, tracking utilities, affiliates and service providers that may use cookies or similar means described above to collect Non-Identifying Information about your activities on this website and other websites to help us optimize your experience, improve our services and provide you targeted advertising on other websites you visit based upon your interests. Hightail does not have access to or control of any cookies that third parties may store in your browser and this Privacy Policy does not apply to the use of cookies or similar means by third parties. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-
-We partner with third party ad networks to manage our advertising on other web sites. Our ad network partners use cookies or similar means to collect Non-Identifying Information about your activities on our website and other websites to provide you targeted advertising on other websites you visit based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of the use of your information for such purposes by the certain ad networks included in TRUSTe's "Trusted Ads Opt-out Manager" list by [clicking here](href: http://preferences-mgr.truste.com/ "truste preferences"). Please note that according to TRUSTe, using its Trusted Ads Opt-Out Manager does not opt you out of being served advertising and you will continue to receive generic ads.
-
-### Third parties services, including advertisers, may use cookies or similar technology to improve your experience or show you more relevant ads.
-
-Our Services include features such as links to other websites, login via Facebook Connect, the Facebook Like button, or other features hosted by third parties. These features may collect information from you and/or may set a cookie to enable the feature to function properly.
-
-Your interaction with these features is governed by the privacy policy of the company providing them. Links and advertisements displayed on our site are not an endorsement, authorization or representation of our affiliation with that third party, nor are they an endorsement of its privacy or information security policies or practices.
-
-#### Social media widgets
-
-Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features and Widgets are governed by the privacy policy of the company providing it. 
-
-### Anything to do with third parties like Facebook is covered by the third parties' privacy policies. And just because someone advertises with us, it doesn't mean we endorse them.
-
-## [](http://www.hightail.com/aboutus/legal/privacy#share)
-
-We use Personal Information mainly to provide the Services, verify and administer your Account, complete your transactions, and deliver Services to you according to your preferences or restrictions. Other than as described in this section, Hightail does not rent or share information about you with third parties.
-
-We may combine Personal Information with Non-Identifying Information and aggregate it with information collected from other Hightail users to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Services are used.
-
-We may disclose Non-Identifying Information to third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
-
-### Aside from using your information to provide our Services, we may use it for purposes, like analyzing and enhancing our Services. Sometimes, anonymous information is given to third parties.
-
-#### Marketing and communications preferences
-
-We also use your Personal Information to contact you with Hightail newsletters, marketing or promotional materials and other information that may be of interest to you.
-
-If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or email us at [optout@hightail.com](mailto:optout@hightail.com "Optout Email") with an explicit request to have your information removed from our mailing list or login to your Hightail account and change your "user preferences" with respect to the receipt of communications from us.
-
-We will comply with your request as soon as reasonably practical. We will continue to send you strictly service-related announcements on rare occasions when it is necessary to do so. If you do not wish to receive them, you have the option to deactivate your Account by contacting us at [support@hightail.com](mailto:support@hightail.com "Support Email").
-
-### We will send you newsletters, marketing and other material using your contact information. You can opt-out at any time.
-
-#### Service providers
-
-We may employ third-party companies and individuals to facilitate our Services, to provide the Services on our behalf and to perform website-related services ("Service Providers"). The types of Service Providers we use include, without limitation, service providers that provide the following types of services: email delivery, credit card transactions, accounting, account verification, customer relationship management, marketing, webcasting, website maintenance, database management, web analytics and web and live chat hosting. Our Service Providers have access to your Personal Information only to perform these tasks on our behalf, and they are obligated not to disclose or use it for any other purpose.
-
-### Certain third parties help us provide our Services and, if required, they will have limited access to your information.
-
-#### International transfer
-
-Personal Information and Non-Identifying Information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.
-
-If you are located outside the United States, you should be aware that Hightail transfers Personal Information and Non-Identifying Information to the United States and processes it there. Your use of our Services represents your agreement to such transfer.
-
-### We store your personal information on computers in the United States, so only US privacy laws apply.
-
-#### Compliance with laws and law enforcement
-
-Hightail cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you and your User Files to government or law enforcement officials or private parties as we believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect the property and rights of Hightail or a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. Hightail employees or representatives may access, but not view the contents of, your User Files when acting on behalf of Hightail as described in this paragraph.
-
-### We will cooperate with legal authorities as we believe necessary or appropriate. Hightail employees will never view the contents of your User Files.
-
-#### Business transfers
-
-Hightail may sell, transfer, or otherwise share some or all of its business or assets, including your Personal Information and Non-Identifying Information in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-
-### If Hightail is sold or otherwise changes its business status, we'll notify you that we are transferring your information.
-
-#### Enterprise accounts
-
-If you used an email address owned by your employer to create an individual Hightail Account and your employer adds you to an enterprise account your employer has with us, your email address and certain information concerning past and ongoing use of your individual account may become accessible to the administrator of that enterprise account. This includes:
-
-  * Text and subject of messages you have sent
-  * Name and content of the User Files you have sent
-  * Date and time messages were sent
-  * Email addresses of the recipients
-
-
-
-However, information with respect to User Files that have been deleted because they expired or were deleted by you will no longer be accessible to you or to the administrator of your employer's account.
-
-### Basically, consider registering for Hightail with a personal email address if you intend using it for non-work matters.
-
-#### Retention and deletion of your information
-
-User Files will be stored on our systems according to the user preferences you set for the file, if any, or according to the default parameters as defined by the Services and Account plan you are using if no user preferences are set. Users may delete User Files from our servers via the website or Hightail mobile apps or other client software they may have installed. There may be some latency until the User File is actually deleted from our servers.
-
-You may review, update, delete or correct the Personal Information in your Account registration profile ("Account Information") by logging into your account on our website and changing your user preferences.
-
-Hightail may retain your Account Information and information about transactions relating to User Files as necessary to comply with our legal obligations or for legitimate business purposes, regardless of whether your account is still active.
-
-If you wish to deactivate your Account or request that we no longer use your Personal Information, contact us at [optout@hightail.com](mailto:optout@hightail.com "Optout Email") or [support@hightail.com](mailto:support@hightail.com "Support Email"). We will respond to all requests within 30 days.
-
-Back to Top
-
-### We retain your personal information and files as long as you want us to, or as long as required by law.
-
-## 5\. Information security
-
-## [](http://www.hightail.com/aboutus/legal/privacy#security)
-
-Hightail treats the privacy and security of Personal Information very seriously. We employ industry-standard administrative, physical and electronic measures to safeguard Personal Information submitted to us from unauthorized access. We encrypt the transmission of all Personal Information (including credit card information on our order forms) using Secure Sockets Layer (SSL) technology and only store that information in secured data centers with restricted access.
-
-Still, no method of transmission over the Internet or electronic data storage is 100% secure. Therefore, while we use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. It is critically important to keep your password secure at all times and remember that Hightail will never ask you for this information in an unsolicited communication. If you have any questions regarding our security practices or believe your account may have been compromised please contact us via the contact information below.
-
-Back to Top
-
-### We protect your information with the best security and encryption technology. However, it can never be 100% secure and we will inform you of any material breaches or threats to your privacy.
-
-## [](http://www.hightail.com/aboutus/legal/privacy#contact)
-
-If you have any questions about this Privacy Policy, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email") or at: Privacy Matters c/o Hightail, Inc., 1919 South Bascom Avenue, 6th floor, Campbell, California 95008.
-
-Back to Top
-
-### We're happy to talk.
-
-## 7\. Changes to this Privacy Policy
-
-## [](http://www.hightail.com/aboutus/legal/privacy#change)
-
-We may update this Privacy Policy from time to time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here on this website page, by email, or by means of a notice on our website home page prior to the changes taking effect.
-
-Back to Top
-
-### We may make changes to this Privacy Policy, but will notify you if we do.
+**Revised:** 9 May 2018
