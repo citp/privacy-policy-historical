@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmole.co.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119051153id_/https%3A//www.sportsmole.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmole.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628200203id_/https%3A//www.sportsmole.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Mole
 
@@ -9,6 +9,8 @@ This privacy policy sets out how Sports Mole Limited uses and protects any infor
 Sports Mole is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Sports Mole may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 6, 2011.
+
+Our advertising privacy policy can be found [here](https://web.archive.org/about/information/advertising-privacy-policy-of-sports-mole_329123.html).
 
  **What we collect**
 
