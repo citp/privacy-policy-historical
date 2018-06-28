@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpthemespot.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611011213id_/http%3A//www.themely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemespot.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628071237id_/http%3A//themely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Themely
 
