@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisorkhoj.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607013003id_/https%3A//www.advisorkhoj.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorkhoj.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628152520id_/https%3A//www.advisorkhoj.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy policy|First Online Directory for Financial Advisors|Advisorkhoj
 
@@ -90,13 +90,13 @@ Further, some of the user information is maintained in marketing database of Adv
 
 ## Opt-Out 
 
-If, at any time after registering for information or subscribing to any of our services, you wish to discontinue receiving information from us or you wish to opt out of our marketing or promotional emails, phone calls or discontinue receiving any other direct communication from us, please either click on the "unsubscribe" link available in the service/promotional/marketing emails or send us your request to unsubscribe at [_connect@advisorkhoj.in_](mailto:connect@advisorkhoj.in)
+If, at any time after registering for information or subscribing to any of our services, you wish to discontinue receiving information from us or you wish to opt out of our marketing or promotional emails, phone calls or discontinue receiving any other direct communication from us, please either click on the "unsubscribe" link available in the service/promotional/marketing emails or send us your request to unsubscribe at [_connect@advisorkhoj.com_](mailto:connect@advisorkhoj.com)
 
 Policy against advertising [ _www.advisorkhoj.com_](https://web.archive.org/) website using unsolicited email messages
 
 [_www.advisorkhoj.com_](https://web.archive.org/) ensures that all emails promoting [_www.advisorkhoj.com_](https://web.archive.org/) or its services or the domains owned by it are sent only to subscribers who have agreed to receive such messages. [_www.advisorkhoj.com_](https://web.archive.org/) prohibits any advertising of its brand and Website using unsolicited email messages. Any non compliance with this policy would cause partnership termination and/or affiliate account termination. 
 
-If you feel that you have received unsolicited emails from [_www.advisorkhoj.com_](https://web.archive.org/) and would like to register a complaint, please contact us at [_connect@advisorkhoj.in_](mailto:connect@advisorkhoj.in). We will on a best effort basis investigate all complaints related to unsolicited email messages. 
+If you feel that you have received unsolicited emails from [_www.advisorkhoj.com_](https://web.archive.org/) and would like to register a complaint, please contact us at [_connect@advisorkhoj.com_](mailto:connect@advisorkhoj.com). We will on a best effort basis investigate all complaints related to unsolicited email messages. 
 
 ## Security
 
@@ -149,4 +149,4 @@ Telephone : 91-80-41706980
 
 Fax : 91-80-41706980 
 
-Email : [_connect@advisorkhoj.in_](mailto:connect@advisorkhoj.in)
+Email : [_connect@advisorkhoj.com_](mailto:connect@advisorkhoj.com)
