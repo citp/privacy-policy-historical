@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315174942id_/https%3A//www.ripe.net/about-us/legal/ripe-ncc-privacy-statement%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628053524id_/https%3A//www.ripe.net/about-us/legal/ripe-ncc-privacy-statement%23cookies) for the most accurate reproduction.*
 
 # RIPE NCC Privacy Statement — RIPE Network Coordination Centre
+
+The RIPE NCC's privacy statement is currently under review as part of our [GDPR compliance project](https://www.ripe.net/about-us/legal/corporate-governance/gdpr-and-the-ripe-ncc).
 
 ## 1\. Introduction
 
@@ -66,7 +68,7 @@ In addition to the above, the RIPE NCC may register, process or transfer your pe
 
 ## 3\. Protection and secrecy of your information
 
-The RIPE NCC maintains strict procedures to authenticate people’s identification and verify their right to authorise changes in the RIPE Database.
+The RIPE NCC maintains strict procedures to authenticate people's identification and verify their right to authorise changes in the RIPE Database.
 
 Personal data held in the public RIPE Database is available to the public. Use of the RIPE Database by members of the public is subject to the [RIPE Database Terms and Conditions](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/terms). The RIPE NCC operates a technical limiting process as well as an [Acceptable Use Policy](https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-acceptable-use-policy) to prevent data mining of large amounts of personal data through use of the RIPE Database query service. People attempting to abuse this service will have their access to the RIPE Database blocked.
 
@@ -118,9 +120,9 @@ If you are not authorised to change your personal data, please refer to the auth
 
 [http://www.ripe.net/ripe/mail](https://www.ripe.net/participate/mail).
 
-If your name has been published on the RIPE NCC website as part of the list of attendees of an event or meeting and you wish to be deleted from the list, please contact [meeting _at_ ripe _dot_ net](https://web.archive.org/web/20170315174942id_/https%3A//www.ripe.net/about-us/legal/contact#meeting_at_ripe_dot_net).
+If your name has been published on the RIPE NCC website as part of the list of attendees of an event or meeting and you wish to be deleted from the list, please contact [meeting _at_ ripe _dot_ net](https://web.archive.org/web/20180628053524id_/https%3A//www.ripe.net/about-us/legal/contact#meeting_at_ripe_dot_net).
 
-If you have questions or concerns about the accuracy or appropriateness of any other personal information held by the RIPE NCC, please contact [ncc _at_ ripe _dot_ net](https://web.archive.org/web/20170315174942id_/https%3A//www.ripe.net/about-us/legal/contact#ncc_at_ripe_dot_net). RIPE NCC will respond and seek to correct any problems as soon as possible.
+If you have questions or concerns about the accuracy or appropriateness of any other personal information held by the RIPE NCC, please contact [ncc _at_ ripe _dot_ net](https://web.archive.org/web/20180628053524id_/https%3A//www.ripe.net/about-us/legal/contact#ncc_at_ripe_dot_net). RIPE NCC will respond and seek to correct any problems as soon as possible.
 
 ## 6\. Changes to this privacy statement
 
@@ -128,4 +130,4 @@ The RIPE NCC may change this privacy statement from time to time. The current ve
 
 ## 7\. Questions or suggestions
 
-If you have any questions, suggestions or concerns about the issues discussed in this document, please email us at [ncc _at_ ripe _dot_ net](https://web.archive.org/web/20170315174942id_/https%3A//www.ripe.net/about-us/legal/contact#ncc_at_ripe_dot_net).
+If you have any questions, suggestions or concerns about the issues discussed in this document, please email us at [ncc _at_ ripe _dot_ net](https://web.archive.org/web/20180628053524id_/https%3A//www.ripe.net/about-us/legal/contact#ncc_at_ripe_dot_net).
