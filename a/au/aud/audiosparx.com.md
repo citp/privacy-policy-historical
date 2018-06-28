@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124105049id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628230413id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
+
+**Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **
 
@@ -93,3 +95,26 @@ If you ever need assistance with the features, products or services offered on t
 We reserve the right to modify this policy in the future.
 
 *************************************
+
+Back to Top
+
+wav sound fx,  
+geluidseffecten,  
+download dj sounds effects,  
+pistol sounds,  
+battle sound effects free download,  
+samples & sound effects,  
+swishes for professional movie sound effects,  
+sound effects kaboom,  
+free gun sound effects soundboard downloads,  
+formula one race car sound effects,  
+free professional dj sound effects,  
+melting sound fx,  
+sound effects da da da,  
+volcano sound effects,  
+free stab sounds effects,  
+sound effects virtual dj,  
+free animal sounds,  
+evil wav sounds,  
+sound effects music,  
+isotrope sound effects library 
