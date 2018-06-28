@@ -1,63 +1,113 @@
-> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930134534id_/http%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628081516id_/https%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Sportsnaut knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+**Last modified: May 22, 2018**
 
-This Privacy Policy covers Sportsnaut’s treatment of personal information that Sportsnaut gathers when you are on the Sportsnaut website and when you use Sportsnaut services. This policy does not apply to the practices of third parties that Sportsnaut does not own or control, or to individuals that Sportsnaut does not employ or manage.
+We at Sportsnaut have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Sportsnaut Offering. **By accessing and/or using this Sportsnaut website or any Sportsnaut Offering, you are accepting the practices described in this Privacy Policy.**
 
-**Information Collected by Sportsnaut**
+The term **“Sportsnaut”** means Sportsnaut and/or its Affiliates. The term **“Affiliate”** means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term **“Sportsnaut Offering”** means the websites of Sportsnaut, including **www.sportsnaut.com** , any other sites on which this Privacy Policy is posted, and any other Sportsnaut application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Sportsnaut users:
+## **INFORMATION THAT WE MAY COLLECT**
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+### **Personally Identifiable Information:**
 
-2\. Automatic Information:
+We may collect the following information when you sign up with a Sportsnaut Offering: first name, last name, date of birth, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
 
-We receive and store certain types of information whenever you interact with us. Sportsnaut and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Sportsnaut cookie information, and the page you requested. Sportsnaut uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+### **Technical Information:**
 
-o Sportsnaut may collect and, on any page, display the total counts that page has been viewed.
+When a user accesses a Sportsnaut Offering, we may collect technical information about the user’s device, such as the IP address that requested the display of the Sportsnaut Offering, the operating system type, and the identifiers associated with the device.
 
-Many companies offer programs that help you to visit websites anonymously. While Sportsnaut will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+### **Sign Up and Survey information:**
 
-**E-mail Communications**
+Any information you provide to us, and any information you choose to share about yourself as part of your use of any Sportsnaut Offering, may be stored as entered.
 
-Sportsnaut is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Sportsnaut may send out e-mails with Sportsnaut-related news, products, offers, surveys or promotions.
+### **Cookies and Web beacons:**
 
-**Cookies**
+Cookies are text files that we and our service providers may place on your device’s browser to enable our systems to recognize your browser and to provide features such as personalized Sportsnaut advertisements on third party websites and mobile applications, and personalized third party advertisements within certain Sportsnaut Offerings. We may use Adobe Flash cookies to remember your settings, preferences and usage within a Sportsnaut Offering. Web beacons, clear .gifs or similar technologies are small pieces of code that we and our service providers may place on a Sportsnaut Offering to monitor and collect data about visitor behavior within the Sportsnaut Offering.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sportsnaut cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+### **Cookies and Web beacons:**
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Sportsnaut’s coolest features.
+We may receive a confirmation when you open email from Sportsnaut, if your computer supports such capabilities. We may also track other types of information, such as newsletter signups, how long our users have been participating in any Sportsnaut Offerings, the last time a user accessed a Sportsnaut Offering, user behavior, sweepstakes, contests or other promotions featured on a Sportsnaut Offering, ad response measurement and other Sportsnaut Offerings analytics.
 
-Sportsnaut’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+### **Social Networking Sites:**
 
-**Sharing Your Information**
+If you access a Sportsnaut Offering via a third party social networking site, Sportsnaut may receive information about your social networking site profile, including without limitation the information you make publicly available, your social networking site user ID, your first, last and usernames, profile and cover photos. If you share content with new members, we may collect the information associated with that shared content, including your friends’ social networking site user IDs, email addresses and content.
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+### **Mobile:**
 
-Sportsnaut Personnel: Sportsnaut personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Sportsnaut business.
+When you download or access Sportsnaut Offerings via a mobile device, we and our service providers may receive information about your location (based on your IP address) and your mobile device, including various unique identifiers associated with your device, hardware type and the version of your operating system. We and our service providers may use this information to provide you with personalized advertising and other content, including advertising and content based on your location.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Sportsnaut, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+### **Aggregated, Anonymous Information:**
 
-Protection of Sportsnaut and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Sportsnaut, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We may collect aggregated, anonymized information via Sportsnaut Offerings that does not identify any single user or device. If you choose to provide a username within a Sportsnaut Offering, please do not provide as your username any information that identifies you in real life, such as your real name.
 
-Syndication: Sportsnaut allows for the RSS syndication of all of its public content within the Sportsnaut website.
+## **USE AND SECURITY OF COLLECTED INFORMATION**
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+We may use your email address, and provided names to uniquely identify you as a user on a Sportsnaut Offering, to provide you with services and advertising. We may use or display your information, if applicable, for the purposes of competitions or sweepstakes. We may use your date of birth to confirm your eligibility to participate in Sportsnaut Offerings.
 
-**Children Under 18 Years of Age**
+Subject to the terms of this Privacy Policy, we may use your contact information to process our newsletters and/or email campaigns and to send you updates, security alerts, or administrative messages relating to Sportsnaut Offerings. Your contact information will allow us to notify you about new features, enhancements, handle and/or route your customer questions and issues, and inform you of sweepstakes, contests, prizes, and/or special events.
 
-You must be 13 years and older to register to use the Sportsnaut website. As a result, Sportsnaut does not specifically collect information about children. If we learn that Sportsnaut has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Sportsnaut or sending information about themselves or anyone else over the Internet.
+If our “Tell a friend” feature is available within a particular Sportsnaut Offering and you choose to participate in it, your email will be shared with the person to whom you send the Sportsnaut Offering using this feature. We may use an IP address to surface the appropriate country-based version of a Sportsnaut Offering to a user, or to exercise our ability to restrict access to the site by users who have violated our Terms of Use.
 
-**Changes to this Privacy Policy**
+We and our third party service providers use cookies and other technologies, such as mobile device identifiers, to enhance your experience with Sportsnaut Offerings. These technologies enable us and our service providers to run offerings such as personalized Sportsnaut advertisements on other websites and mobile applications and personalized third party advertisements within certain Sportsnaut Offerings. We and our third party service providers may also use cookies and other technologies to manage and measure the performance of third party advertisements within certain Sportsnaut Offerings, and Sportsnaut advertisements on third party sites and mobile applications. This helps us and our service providers provide more relevant advertising to you. We and our third party service providers may also use web beacons to monitor user behavior and collect information about visitors viewing a web page.
 
-Sportsnaut may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Sportsnaut website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+We may use information collected to calculate aggregate, anonymized statistics about our user community for the purpose of enhancing our Sportsnaut Offerings, or for security purposes.
 
-**Conditions of Use**
+If you access via Social Media we may use your social networking site profile ID to link your social networking site account with personalized Sportsnaut advertisements on the social networking site. We may use your social networking site first, last and user names and icon to identify you to the social networking site account you’ve provided us for the purposes of competitions and sweepstakes.
 
-If you decide to visit Sportsnaut website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+If you access Social Media and provide us with another person’s contact information for purposes of delivering information, we may use this information to contact and, if necessary, remind that person that she or he has been invited to join a Sportsnaut Offering. All invitees are provided with the option not to receive further invitations from Sportsnaut.
 
-**Effective Date of this Privacy Policy**
+We at Sportsnaut take reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-This Privacy Policy is effective as of  January 27, 2014 and last updated April 28, 2014.
+## **SHARING INFORMATION**
+
+We may share customer information with Sportsnaut Affiliates, and as described below.
+
+### **Third Party Marketplaces and Service Providers:**
+
+We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Sportsnaut Offerings. Those third parties have access to your personal information only as necessary to perform their functions, and for no other purposes.
+
+### **Business Transfers:**
+
+As Sportsnaut continues to grow, we might sell or buy certain subsidiaries and/or business units. In such transactions, customer information is generally one of the transferred assets. Also, in the unlikely event that sportsnaut or substantially all of its assets are acquired, customer information would in most cases be one of the transferred assets.
+
+### **Protection of Sportsnaut and Others:**
+
+We may also disclose your information if there is a violation of the [**Terms of Use**](https://sportsnaut.com/terms-service/) or other agreements; if we have a good faith belief that we have to disclose it in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or legal process (for example, a court order, search warrant or subpoena); or if needed to protect the rights, property or safety of Sportsnaut, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
+
+## **ACCESSING YOUR INFORMATION AND YOUR CHOICES**
+
+You may contact us about your information and your choices for limiting the use and disclosure of your information by emailing us [here](https://sportsnaut.com/contact-sportsnaut/); or by sending us postal mail at: Oointah, Inc. P.O. Box 525, Queen Creek, AZ 85142
+
+### **Promotional email communications:**
+
+When you subscribe your email address via a Sportsnaut Offering, you may be automatically registered to receive one or more of our promotional e- newsletters. Note that when you provide an email address through a Sportsnaut Offering, we treat that as a request to be enrolled in one of our promotional e-newsletter lists, even if you previously opted out of receiving newsletters from us, but if you change your mind and wish to opt out again, you may do so at any time by clicking the “ **unsubscribe** ” link at the bottom of any newsletter and then following the instructions provided. If you express interest in a Sportsnaut Offering by clicking on a banner within a newsletter, you may be automatically registered to receive newsletters relating to the Sportsnaut Offering that appeared in the banner.
+
+At any time, you may opt-out of receiving a newsletter by selecting the “ **unsubscribe** ” link at the bottom of any newsletter. We treat each Sportsnaut Offering individually, so if you are receiving mailings from more than one Sportsnaut Offering, if you want to unsubscribe you must do so with respect to each individually. You may also contact us at **privacy@oointah.com**. Please note that we reserve the right to send you non-promotional, account or administrative emails even if you opt out of receiving promotional e-newsletters.
+
+### **Cookies, Online Advertising and Analytics:**
+
+Please refer to your browser settings and help section to learn about blocking, erasing or being notified of cookies. You can manage your Flash cookies by using Adobe’s Flash management [**here**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, because cookies allow you to take advantage of some of Sportsnaut Offerings’ essential features, we recommend that you leave cookies turned on. To opt out of receiving personalized advertising from many ad networks, data exchanges, marketing analytics and other services providers, please visit [**aboutads.info**](http://www.aboutads.info/).
+
+### **Mobile Advertising:**
+
+Most mobile devices provide the ability to opt out of the collection and use of information from the apps you use for purposes of serving ads targeted to your interests. For more information, and to exercise these choices, consult the settings on your device.
+
+## **THIRD-PARTIES**
+
+Sportsnaut Offerings may allow you to share information through social media (such as by logging in through a social media account or using a “Like” button”) or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Sportsnaut has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
+
+## **CHILDREN**
+
+Sportsnaut Offerings are designed to avoid the collection and use of “personal information” as defined in the Children’s Online Privacy Protection Act (“COPPA”) from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13, you may not register or otherwise provide any personal information to us.
+
+Sportsnaut respects the privacy of parents and children and is committed to complying with COPPA . If a parent believes that his or her child has submitted personal information to Sportsnaut, he or she can contact us via email [here](https://sportsnaut.com/contact-sportsnaut/) or postal mail at: Oointah, Inc. P.O. Box 525, Queen Creek, AZ 85142. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children’s use of online activities regularly.
+
+## **AGREEMENT WITH SPORTSNAUT POLICIES**
+
+By accessing and/or using any of the Sportsnaut Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [**Terms of Use**](https://sportsnaut.com/terms-service/). If you do not agree with our policies, please do not access or use any Sportsnaut’s Offerings.
+
+## **CHANGES TO PRIVACY POLICY**
+
+We may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the “last modified” date at the top of this page. We encourage you to periodically review this Privacy Policy to be informed of how Sportsnaut protects your information.
