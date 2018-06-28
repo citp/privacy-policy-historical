@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228022723id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628020124id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp Australia
 
@@ -180,7 +180,7 @@ If you have questions about this Privacy Policy, or to request a hard copy, plea
 
 Email: | [privacy@news.com.au](mailto:privacy@news.com.au)  
 ---|---  
-Mail: | National Privacy Officer, News Limited, 2 Holt Street, Surry Hills, NSW 2010  
+Mail: | National Privacy Officer, News Pty Limited, 2 Holt Street, Surry Hills, NSW 2010  
 Telephone:  | [+61 2 9288 3000](tel:+61292883000)  
   
 ### 9\. LIST OF INCLUDED COMPANIES
@@ -198,7 +198,7 @@ Telephone:  | [+61 2 9288 3000](tel:+61292883000)
   * Nationwide News Pty Ltd (ACN 008 438 828) 
   * News Digital Media Pty Ltd (ACN 000 529 457)
   * News Life Media Pty Ltd (ACN 088 923 906)
-  * News Limited (ACN 007 871 178)
+  * News Pty Limited (ACN 007 871 178)
   * Queensland Newspapers Pty Ltd (ACN 009 661 778)
   * Shespot.com.au Pty Ltd (ACN 138 256 961)
   * Sunshine Coast Publishing Pty Ltd (ACN 090 524 799)
@@ -209,4 +209,4 @@ Telephone:  | [+61 2 9288 3000](tel:+61292883000)
 
 
 
-**Last updated: 20 November 2017**
+**Last updated: 23 May 2018**
