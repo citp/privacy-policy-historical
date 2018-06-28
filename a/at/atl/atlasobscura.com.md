@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012051249id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629015640id_/https%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlas Obscura
 
 #### Privacy Notice
 
-_Last updated 3/15/2017_
+_Last updated 5/18/2018_
 
-The web site accessible through [www.atlasobscura.com](http://www.atlasobscura.com/) (the "Website") is owned, operated and distributed by Atlas Obscura Inc., a Delaware Corporation ("Atlas Obscura"). BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE ATLAS OBSCURA [TERMS OF USE](https://web.archive.org/terms) (THE "TERMS OF USE"). IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE ATLAS OBSCURA WEBSITE. This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are also contributors of content, information, and other materials or services on the Website. Please note that any User Submission (as defined in the Terms of Use) becomes published content and is not considered personally identifiable information subject to this Privacy Policy.  
-Atlas Obscura may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of June 6, 2009.
+The web site accessible through [www.atlasobscura.com](https://www.atlasobscura.com/) (the "Website") is owned, operated and distributed by Atlas Obscura Inc., a Delaware Corporation ("Atlas Obscura"). BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE ATLAS OBSCURA [TERMS OF USE](https://web.archive.org/terms) (THE "TERMS OF USE"). IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE ATLAS OBSCURA WEBSITE. This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are also contributors of content, information, and other materials or services on the Website. Please note that any User Submission (as defined in the Terms of Use) becomes published content and is not considered personally identifiable information subject to this Privacy Policy.  
+Atlas Obscura may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications.
 
 **What Personally Identifiable Information Does Atlas Obscura Collect?**
 
@@ -29,11 +29,13 @@ If you have not opted out from receiving emails from Atlas Obscura, it may use y
 
 Atlas Obscura uses aggregated information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. In addition, Atlas Obscura may use "cookies" clear gifs and log file information to deliver content (which may include third party advertisements) specific to your interests, and remember information so that you will not have to re-enter it each time you visit the Website. 
 
+We'll retain your personal information for as long as necessary to provide you with our services. You can ask for your personal information to be deleted at any time or ask for us to send you or a 3rd party your personal information by contacting us [via this form.](https://www.atlasobscura.com/contact_form) Please note that there may be latency in deleting your personal information from our servers and backup storage, and we may retain your personal information in order to comply with the law, protect our rights, resolve disputes or enforce our agreements.
+
 **Will Atlas Obscura Share Personally Identifiable Information with Others?**
 
 Atlas Obscura will not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you have the ability to opt-in or opt-out.
 
-Atlas Obscura may provide personally identifiable information to employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on its behalf. In such circumstances, Atlas Obscura requires that these parties agree to protect the confidentiality of such information and to comply in all respects with this Privacy Policy.
+Atlas Obscura may provide personally identifiable information to employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on its behalf. In such circumstances, Atlas Obscura requires that these parties agree to protect the confidentiality of such information and to comply in all respects with this Privacy Policy. If you wish to be exempt from this processing, you may request via [via this form](https://www.atlasobscura.com/contact_form) that we delete your account.
 
 Atlas Obscura may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website and to serve interest-based ads on both the Website and trusted partner applications.
 
@@ -46,6 +48,8 @@ Atlas Obscura may allow other companies, called third-party ad servers or ad net
 We may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads via [Google Ads Settings](https://www.google.com/settings/ads). You may also be interested in the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **Is My Information Secure?**
+
+Atlas Obscura's application databases and related backups are encrypted-at-rest. Transmission of data between application servers, databases, and other services is over secure connections, and users may only connect with our web services using HTTPS. To prevent unauthorized access, our internal databases and application servers require two-factor authentication for all administrators. We employ web application firewalls, attack-detection, and similar services to prevent the authorized access of our public-facing services. Applications and underlying systems are monitored for security vulnerabilities and patched in a timely fashion when threats are discovered.
 
 Atlas Obscura has implemented security measures to protect personally identifiable information collected on the Website against loss, misuse or alteration. In addition, your account information is protected by a password for your privacy and security. It is important that you protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Moreover, despite the precautions described above, Atlas Obscura cannot and does not guarantee that the individual user information you have transmitted will not be intercepted by others and/or decrypted or accidentally disclosed, and it accepts no liability for any unintentional disclosure. 
 
@@ -63,7 +67,7 @@ The Website is hosted in the United States and is intended for and directed to u
 
 **California Privacy Rights**
 
-California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please detail your request with [this form](http://www.atlasobscura.com/contact_form) or write us at:
+California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please detail your request with [this form](https://www.atlasobscura.com/contact_form) or write us at:
 
 Atlas Obscura Privacy Rights  
 61 Greenpoint Ave #622  
