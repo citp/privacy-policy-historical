@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesearchcenter.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229124531id_/https%3A//www.blpsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesearchcenter.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628222511id_/https%3A//www.blpsearch.com/privacy) for the most accurate reproduction.*
 
 # BLPSEARCH PRIVACY POLICY
 
