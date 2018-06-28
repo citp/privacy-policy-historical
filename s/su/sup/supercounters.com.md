@@ -1,11 +1,45 @@
-> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224213743id_/http%3A//www.supercounters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628120254id_/http%3A//www.supercounters.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Supercounters.com - Fast & reliable free hit counter with detailed statistics for website no email required
+# Supercounters - Privacy
 
-Supercounters.com collects information about it's users for our own use and does not try to capitalize on that information: 
+Internet user privacy is of paramount importance to Supercounters Dot Com. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our service or website's privacy policies, please contact us. We are committed to ensuring that every user's needs are addressed. 
 
-This means that we will not release your personal information to any third party unless required by law. We will not sell, give, trade, or in any other way release any information collected about you to another organization, including our advertisers. 
+## INFORMATION COLLECTED BY COUNTER
 
-The Supercounters.com site uses cookies to track and collect information on visitors to our site; this allows us to see in part how people found our site, and how they are best using the site. This allows us to make changes to the functionality of the site in order to provide a better service to our users, as well as correct any problems that we may not have been aware of. 
+Our counter service is a simple image. When an image loads from our server, the visitor's web browser automatically provides us with certain information including the visitor's IP address, the URL of the referring page (where the image was placed), and the user-agent string of the visitor (which ordinarily contains the type and version of a visitor's web browser and operating system). However, the information we log is limited. 
 
-Finally, like all enabled servers, our server automatically collects and records activity based information about all visitors to the site. This allows us to see how people are arriving at our site, what pages are performing as they should or shouldn?¡¥t, and gives us valuable insight into the workings of our products and services. 
+When a Counter is loaded, our service queries a third-party company's database which is locally hosted on our servers (no information is transmitted to the third-party company. Our service does not use GPS nor do we request or have access to a visitor's precise location). This allows us to determine the country and/or region most likely associated with a particular visitor's IP address, at which time that country and/or region is added as a visit to the counter. 
+
+To prevent a returning visitor from repeatedly adding to a counter's statistics, a combination of the visitor's IP address and the particular counter's username are converted to an encrypted hash (which we cannot reverse), and then the hash itself is placed into a filter (for up to 1 hour after which it is erased). This method allows our counters to operate without the use of cookies. 
+
+IP addresses of a counter's visitors are not logged or otherwise associated with a particular visit. 
+
+We do not build profiles on a counter's visitors nor do we attempt to track or associate visitors from one counter to another. The Counter does not use cookies. Adding the counter to your website will not cause any cookies or advertising on your website itself. 
+
+## OUR WEBSITE USES THIRD-PARTY ADVERTISING AND COOKIES
+
+Pages on our website, including your counter's statistical information may include advertising. This allows us to offer our service for free. When you view pages on our website, third-party vendors, including Google, use cookies to serve ads based on your prior visits to this or other websites (except as indicated below). You may review how Google uses information by visiting [here](https://policies.google.com/technologies/partner-sites). 
+
+You may opt out of the use of cookies for personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). 
+
+## UPDATING OR REMOVING YOUR INFORMATION 
+
+Information updates and/or removals can be requested by contacting us. We will respond within 30 days, and may request information sufficient for us to verify that you are inquiring about your own information. 
+
+Please note that most information requested and stored by us is the minimum necessary for us to provide services to you, therefore if you request that your information be removed, you may not be able to use our services. 
+
+## Links to Other Sites
+
+Our website contains links to other websites. We have no influence on whether providers comply with the Privacy Policy. We are responsible for the content provider to the general laws. This content is sometimes linked to differ on the content provided by other providers. For third-party content provided through links to use and are particularly marked, we take no responsibility and do not constitute an endorsement. For illegal, incorrect or incomplete contents and for damages resulting from the use or misuse of information, only the owner of the website referred to. For other indications, we are only responsible when we talk about them, ie of any illegal or criminal content, have positive knowledge, and it is technically possible and reasonable to prevent their use. 
+
+## Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google") Google Analytics uses "cookies", text files that are stored on your computer, to analyze the use of the website by you.The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there.Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing other website activity and internet related services. 
+
+## Google +1 Button
+
+We rely on our site called "+1 button" one, which is run by Google (http://www.google.com). This button is identified by a "+1" in a blue box. Because it is loaded directly from Google will be transmitted when calling pages with the "+1 button" data to Google, and recorded there. If you are logged in while visiting our site on Google, Google may associate a visit to your profile. By pressing the button does Google store that you like the appropriate content and combines this information with your profile on Google +. Would you like to prevent such data transmission, you must log out before visiting our site from your Google profile. Purpose and scope of the data collection you can the Google +1 data protection statement taken. 
+
+## For more information
+
+Your questions and concerns about privacy are very welcome and important. You can reach us at [contact page](http://www.supercounters.com/contact). 
