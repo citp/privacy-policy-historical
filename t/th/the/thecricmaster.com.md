@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thecricmaster.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110183026id_/http%3A//thecricmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecricmaster.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628123802id_/http%3A//thecricmaster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | THE CRICMASTER
+# Privacy Policy
 
-This Privacy Policy governs the manner in which  **www.thecricmaster.com**  collects, uses, maintains and discloses information collected from users (each, a User) of the  **www.thecricmaster.com  **website (Site). This privacy policy applies to the Site, all products and services offered by  **www.thecricmaster.com** **.**
+This Privacy Policy governs the manner in which  **www.thecricmaster.com**  collects, uses, maintains and discloses information collected from users (each, a User) of the  **www.thecricmaster.com  **website (Site). This privacy policy applies to the Site, all products, and services offered by  **www.thecricmaster.com** **.**
 
 #### **Personal Identification Information**
 
@@ -10,27 +10,27 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-personal Identification Information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providersutilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. The non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Sites, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web Browser Cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**How We Use Collected Informations?**
+**How We Use Collected Information?**
 
-**www.ChopNews.com**  collects and uses Users personal information for the following purposes:
+[**www.thecricmaster.com**](http://thecricmaster.com/) collects and uses Users personal information for the following purposes:
 
-– To improve our Site  
+To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.
 
-– To improve customer service  
+To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
 **How We Protect Your Information?**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Sensitive and private data exchange between the Site and its Users happens over an SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
 **Sharing Your Personal Information**
 
@@ -54,9 +54,11 @@ By using our site, you consent to our privacy policy.
 
 **Contacting Us**
 
-If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact with us at  **abhiii282930@gmail.com**
+If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact us at  **abhiii282930@gmail.com**
 
-**http://www.thecricmaster.com**  
+[**www.thecricmaster.com**](http://thecricmaster.com/)
+
+<http://thecricmaster.com/privacy-policy/>  
 Pratapgarh (UP)
 
 India
