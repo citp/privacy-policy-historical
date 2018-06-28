@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619165941id_/http%3A//www.ballerstatus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628074827id_/https%3A//www.ballerstatus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BallerStatus.com
 
@@ -10,11 +10,11 @@ To not sell, rent, or loan our subscriber or customer lists to third parties for
 
 #### Unsubscriptions
 
-To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing. Our welcome message to subscribers and every issue of our newsletters/e-zine's clearly explain how to unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mail addresses which use unnecessary bandwidth.
+To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing. Our welcome message to subscribers and every issue of our newsletters/e-zine’s clearly explain how to unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mail addresses which use unnecessary bandwidth.
 
 #### Cookies
 
-To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to: (a) to help rotate banner advertising; (b) to identify shoppers with their shopping carts; (c) to make it easy to order a second time; (d) to allow subscribers to store passwords in cookies if they desire; and (e) to give proper credit for sales made through links on our affiliates' sites. We do not collect or use information from cookies to develop a profile about our visitors or shoppers.
+To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to: (a) to help rotate banner advertising; (b) to identify shoppers with their shopping carts; (c) to make it easy to order a second time; (d) to allow subscribers to store passwords in cookies if they desire; and (e) to give proper credit for sales made through links on our affiliates’ sites. We do not collect or use information from cookies to develop a profile about our visitors or shoppers.
 
 #### Security
 
