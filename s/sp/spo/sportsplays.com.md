@@ -1,69 +1,154 @@
-> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031104002id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628084917id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
 
 # SportsPlays.com Privacy Policy
 
-1.     **Introduction**
+This Privacy Policy describes how your personal information is collected, stored, used, and shared when you visit or make a purchase from www.sportsplays.com (the “Site”).
 
-a.     General Introduction. This Privacy Policy describes how SportsPlays.com ("SportsPlays.com," "we," "us" or "our") collects and uses information collected through the SportsPlays.com website ("Site"). Your information will only be used as described in this Privacy Policy, however, SportsPlays.com may modify these policies from time to time. The collection of personally identifying information is required to provide you with industry leading features while reducing the risk of fraud.
+## PERSONAL INFORMATION WE COLLECT
 
-b.     General Collection. As part of the normal operation of our services, we collect and, in some cases, may disclose information about you. Please read this Privacy Policy carefully to enable you to make an informed decision, and retain a copy for your records if you open an account.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, operating system, Internet Protocol (IP) address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-c.     Assent. SportsPlays.com collects information from you, other Site visitors and other customers at several different points on the Site. By creating an account or continuing to use this Site, you expressly consent to this Privacy Policy and the Site Terms of Use, including, without limitation, your consent to use and disclose your personally identifiable information in the manner described in this Privacy Policy. If you object to your information being transferred internationally or used in this way, you should not register or otherwise use this Site. This Privacy Policy is incorporated into and subject to the Site Terms of Use. Any terms used but not defined herein shall have the same meaning as those contained in the Site Terms of Use.
+We collect Device Information using the following technologies:
 
-d.     Other Sites. This Site may contain advertisements and links to certain other third party websites. These sites are governed by their own privacy practices and we are not responsible for such privacy practices. This Privacy Policy applies solely to the use and disclosure of personally identifiable information collected by SportsPlays.com and not by any third party site.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org
 
-e.     Contact Information. We welcome your comments regarding this Privacy Policy. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact SportsPlays.com at [support@sportsplays.com](mailto:support@sportsplays.com).
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-2.     **Types of Information Collected**
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-a.     Establishing An Account. In order to participate in our service, sweepstakes or contests, you must be registered with SportsPlays.com and open and maintain an account with SportsPlays.com. During registration you are required to provide us with certain contact information (including your name, e-mail address and home address) and other personal information (including your date of birth and gender). If you are engaging in any transaction with a fee, you may be required to provide credit card or debit card details. This required information is necessary to process transactions, to issue a new password if you forget or lose your password, to protect you against credit card fraud and other financial fraud, and to contact you should the need arise in administering your account. This required information is used to send you information relating to our services or promotional offers.
 
-b.     Transactions. Each time you interact with the Site, the details of such transactions are collected and retained by SportsPlays.com.
 
-c.     Verification. In order to protect against potential fraud and to comply with applicable laws, the information you provide to us may be verified with third parties. In the course of such verification, SportsPlays.com sends to and/or receives personally identifiable information about you from such services. Certain third parties may retain your personal information and may use it in the future to assist other companies with identity verification. Where SportsPlays.com cannot verify the information that you provide, or where the amount of a single transaction (or the aggregate amount in the case of a series of transactions) on your account, including but not limited to any transaction that exceeds $9 U.S. in any thirty (30) day rolling period, you may be asked to send additional information to us, such as a copy of your driver's license, passport, other governmental identification, and/or recent bank statement, by facsimile, scan or by mail, to help verify your information.
 
-d.     Web Log Information. In common with most standard website servers, SportsPlays.com uses log files. These include IP addresses, the Internet service provider ("ISP") you use, the type of browser you use, referring exit pages, platform type, number of clicks and/or date/time stamp.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. If you completed a survey or participated in a focus group for Sports Plays, your responses as well as any demographic information are also stored with your Order Information in your profile. We refer to all of this information as “Order Information.”
 
-e.     Cookies. In common with most web sites, SportsPlays.com uses "session cookies" which are sent to your computer if and when you log on to the Site by entering your user name and password. A "cookie" is a small piece of data that we send to your computer to allow us to recognize you as a SportsPlays.com user when you return to the Site using the same computer and browser. For more information about cookies, please see the United States Emergency Readiness Team at http://www.us-cert.gov/cas/tips/ST04-012.html.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-f.     Correspondence. We intend to retain any correspondence, including facsimiles, mail and e-mails, sent to us. We also may retain correspondence, such as customer service e-mails, from SportsPlays.com to you. We may delete such records over time.
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-g.     Marketing Data. You may have the opportunity to participate in demographic surveys and other marketing inquiries in an effort to further improve the use of the Site. Participation in these efforts is voluntary.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information and providing you with order confirmations if applicable).  
 
-e.     Third-party advertising. We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+Additionally, we use this Order Information to:
 
-3.     **Use of Information**
+  * Communicate with you; send you updates on the status of your order, and other transaction related communications.
 
-a.    Generally, the information collected is used to: (i) ensure that you are at least eighteen (18) years of age, or of sufficient legal age to participate from your applicable Jurisdiction, whichever is higher; (ii) process your transactions, including, without limitation, subscription fees or payments of any winnings; (iii) provide customer services and resolve any complaints; (iv) improve the Site and service and resolve any technical problems; (v) communicate with you concerning the services offered on the Site by SportsPlays.com or any of its affiliates or business partners; (vi) create aggregate data; (vii) ensure compliance with the Site Terms of Use; and (viii) comply with any applicable laws and regulations, including but not limited to anti-money laundering laws which, among other things, may oblige SportsPlays.com to obtain and verify evidence of your identity.
 
-b.     Third Party Use. SportsPlays.com may provide your information to government officials and agencies as required by law, and business partners as part of business operations, transaction processing, and marketing efforts. For purposes of this Privacy Policy, 'Business Partner' shall mean any person or entity that the Company enters into any kind of business transaction with, including, but not limited to, transactions involving the sale and disclosure by Company of information governed under the Privacy Policy.
 
-4.     **Disclosures**
+  * Screen orders for potential risk or fraud; and
 
-SportsPlays.com discloses information: (i) to companies that help process the transactions you request, in order to protect your transactions from fraud and verify your identity (see the subsection labeled "Third Party Use" above for further detail); (ii) that SportsPlays.com in good faith believes is necessary or appropriate to cooperate in investigations of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability, or to conduct investigations of violations of the Site Terms of Use; (iii) when required by law or to comply with a court order, subpoena, search warrant or other legal process; (iv) to comply with legal, regulatory or administrative requirements of governmental authorities (including, without limitation, requests from the governmental agency authorities to view your personally identifiable information); (v) to protect and defend SportsPlays.com, its subsidiaries and affiliates and any of their officers, directors, employees, attorneys, agents, contractors and partners, in connection with any legal action, claim or dispute; (vi) to prevent imminent physical harm; (vii) to share aggregated statistical or demographic data with our affiliates, business partners or for public relations (this aggregated information is not tied to personally identifiable information); (viii) to share data, including personally identifiable information about you, with our parent, affiliates, subsidiaries and business partners that are committed to serving your online needs and related services; (ix) in the event of a bankruptcy or liquidation of SportsPlays.com; and (x) in the event that SportsPlays.com in the future merges or is acquired by another company. In the event that SportsPlays.com merges or is acquired by another company, the successor company will have access to the information maintained by SportsPlays.com, including customer account information, in order to continue to provide services, but would continue to be bound by this Privacy Policy unless and until it is amended as described in the subsection labeled "Changes to this Privacy Policy" below.
+  * When in line with the preferences you have shared with us, send you marketing communications, provide you with information, or display advertising relating to our products or services.
 
-5.     **Informing You**
 
-We may communicate with our customers on a regular basis via e-mail and/or mail to provide requested services, resolve any complaints and for general customer service, and by other means where applicable, such as to investigate any suspicious transactions. You may receive occasional service announcements and administrative messages, for example, advance notice of any maintenance that might affect the Site. Generally, you cannot opt out of these types of "informational" rather than "promotional" communications.
 
-6.     **Your Profile**
 
-We store information that we collect through cookies, log files and graphic files to create a profile of our customers. We also purchase third party marketing data and add it to our existing customer database so we can better provide pertinent offers in which you might be interested. We use this information to enhance or overlay your profile. This aggregate marketing data is therefore tied to your personally identifiable information. A "profile" is stored information that we keep on individual customers that details their preferences. Consequently, all of the collected information is tied to your personally identifiable information to provide better offers and improve the content of the Site for you. Your individual profile may be used by SportsPlays.com to send you offers from SportsPlays.com and its affiliates or business partners.
+We use the Device Information that we collect to:
 
-7.     **Security**
+  * Help us screen for potential risk and fraud (in particular, your IP address)
 
-a.     Limits of Security Measures. By opening an account and using the Site, you acknowledge that you understand that "perfect security" does not exist on the Internet and that we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. You agree that you do not expect that your personally identifiable information or private communications will always remain private.
+  * Improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-b.     Confidentiality Obligation. The security of your SportsPlays.com account also relies upon your protection of your SportsPlays.com unique display name, password or other appropriate security code ("IDs"). You agree to never share your IDs with anyone. In the event that you are concerned that your IDs are no longer secure and confidential, you should immediately notify SportsPlays.com by sending an e-mail to [support@sportsplays.com](mailto:support@sportsplays.com).
+  * Display advertising or send you marketing communications based on your actions on the Site.
 
-c.     Questions. If you have any questions about the security at our website, please send an e-mail to [support@sportsplays.com](mailto:support@sportsplays.com).
 
-8.     **Accessing, Reviewing and Changing Personal Information**
 
-a.     Termination of Your Account. You can terminate your account by sending us an e-mail at [support@sportsplays.com](mailto:support@sportsplays.com). Your account will be deactivated as soon as is reasonably possible and in accordance with applicable law and regulations.
 
-b.     Account Inquiry. Information on what (if any) personally identifiable information is held about you may be obtained by sending e-mail to [support@sportsplays.com](mailto:support@sportsplays.com). We reserve the right to charge you a fee for providing such information.
+## SHARING YOUR PERSONAL INFORMATION
 
-9.     **Changes to this Privacy Policy**
+We share your Personal Information with third parties for analysis and marketing purposes as described above.  
 
-Updates. This Privacy Policy will be periodically updated to reflect changes in laws, regulations, and their interpretation, and, therefore, we reserve the right to change, modify or amend this Privacy Policy at any time. Any revised Privacy Policy will only apply prospectively to your personally identifiable information collected or modified after the effective date of the revised Privacy Policy. You should periodically check this Privacy Policy so you can always be aware of what information is collected, how it is used, and under what circumstances, if any, SportsPlays.com discloses it. Dispute Resolution. You and SportsPlays.com agree that any Dispute between you and SportsPlays.com shall be resolved exclusively and finally by arbitration administered by the National Arbitration Forum ("NAF"), using interpretations under Colorado law, and conducted under its rules, except as otherwise provided below. You and SportsPlays.com will agree on another arbitration forum if NAF ceases operations. The arbitration will be conducted before a single arbitrator, and will be limited solely to the Dispute between you and SportsPlays.com. The arbitration, or any portion of it, will not be consolidated with any other arbitration and will not be conducted on a class-wide or class action basis. The arbitration shall be held at any reasonable location in Denver, Colorado. If you prevail in the arbitration of any Dispute with SportsPlays.com, SportsPlays.com will reimburse you for any fees you paid to NAF in connection with the arbitration. Any decision rendered in such arbitration proceedings will be final and binding on the parties, and judgment may be entered thereon in any court of competent jurisdiction. Should either party bring a Dispute in a forum other than NAF, the arbitrator may award the other party its reasonable costs and expenses, including attorneys' fees, incurred in staying or dismissing such other proceedings or in otherwise enforcing compliance with this dispute resolution provision. You understand that, in the absence of this provision, you would have had a right to litigate disputes through a court, including the right to litigate claims on a class-wide or class action basis, and that you have expressly and knowingly waived those rights and agreed to resolve any Disputes through binding arbitration in accordance with the provisions of this paragraph. This arbitration provision shall be governed by the Federal Arbitration Act, 9 U.S.C. Section 1, et seq. For the purposes of this provision, the term "Dispute" means any dispute, controversy, or claim arising out of or relating to: (i) this Privacy Policy, its interpretation, or the breach, termination, applicability or validity thereof; (ii) the related order for, purchase, delivery, receipt or use of any product or service from SportsPlays.com; or iii) any other dispute arising out of or relating to the relationship between you and SportsPlays.com; the term "SportsPlays.com" means SportsPlays.com, its parents, subsidiaries, affiliates, directors, officers, employees, beneficiaries, agents, assigns, component suppliers (both hardware and software), and/or any third party who provides products or services purchased from or distributed by SportsPlays.com. Information may be obtained from the NAF online at [www.arb-forum.com](http://www.arb-forum.com/), by calling 800-474-2371, or writing to P.O. Box 50191, Minneapolis, MN, 55405.
+We use Google Analytics to help us understand how our website visitors use the Site.
+
+  * You can read more about how Google uses your Personal Information here:  [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/).  
+
+  * You can also opt-out of Google Analytics here:  [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). 
+
+
+
+
+When you register on our website or make a purchase, we share your data with Green Arrow to send you communications about our products and services as well as any sports related articles or videos as well as to inform you of sales and coupons. 
+
+  * To delete your information from Green Arrow, simply email us at [support@sportsplays.com](mailto:Picks@Wunderdog.com) and we will remove your data immediately.
+
+
+
+
+We work with third party advertising companies for example; Proper.io, to display advertising on our Site.  These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+  * If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit http://www.aboutads.info/choices/. 
+
+
+
+  * To learn more about how Proper.io uses your information, please read their privacy policy here: [https://proper.io/privacypolicy](https://proper.io/privacypolicy). To Opt out of Proper.io, please email them here: info@Proper Media.com.
+
+
+
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+As described above, we may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by:
+
+  * GOOGLE - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous)
+
+  * BING - [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)
+
+  * FACEBOOK - https://www.facebook.com/settings/?tab=ads
+
+
+
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  [http://optout.aboutads.info/](http://optout.aboutads.info/).
+
+### LINKS
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+## DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+## SECURITY
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+If you choose a direct payment gateway to complete your purchase, then Sports Plays stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). 
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. 
+
+## YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask tha your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to the United States.
+
+## DATA RETENTION
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+## MINORS
+
+The Site is not intended for individuals under the age of 18
+
+## CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+## CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us.
+
+E-mail:
+
+[support@sportsplays.com](mailto:Picks@Wunderdog.com)
+
+or by Mail:
+
+Sports Plays
+
+[Re: Privacy Compliance Officer]
+
+PO Box 6394 
+
+Denver, CO 80206
