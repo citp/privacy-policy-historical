@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227011327id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628130805id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Themes Awesome
 
-This privacy statement describes how Themes Awesome collects and uses the personal information you provide on our Web site: www.themesawesome.com[ http://www.themesawesome.com/](http://www.themesawesome.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Themes Awesome collects and uses the personal information you provide on our Web site: www.themesawesome.com[ http://themesawesome.com/](http://themesawesome.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ### Collection and Use of Personal Information
 
@@ -39,7 +39,7 @@ We may also disclose your personal information
 
 
 
- _PayPal_
+_PayPal_
 
 If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
 
@@ -47,13 +47,13 @@ If you choose to use PayPal to finalize and pay for your order, you will provide
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
- _Web beacons_
+_Web beacons_
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
- _Links to Other Web Sites_
+_Links to Other Web Sites_
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Themes Awesome. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
