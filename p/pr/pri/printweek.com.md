@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903190315id_/https%3A//www.printweek.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628105015id_/https%3A//www.printweek.com/static/privacy-policy) for the most accurate reproduction.*
 
 # PrintWeek | Latest Print Industry News, Analysis, Jobs, Features, Product Reviews
 
