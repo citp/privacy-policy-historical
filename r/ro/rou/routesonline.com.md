@@ -1,89 +1,134 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608124957id_/http%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628042855id_/https%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Routesonline
 
-### 1 For the purpose of the Data Protection Act 1998 (the Act), the data controller is UBM EMEA, 240 Blackfriars Road, London SE1 8NW. 
+UBM plc is a leading global B2B event’s organiser. It is the largest, FTSE-listed pure-play organiser in the world and the largest organiser in the US and Asia.
 
-3 Information we may collect from you
+This privacy policy governs the collection and use of personal information by UBM. For more information about UBM please see: [www.ubm.com](http://www.ubm.com/).
 
-3.1 We may collect and process the following data about you:
+This website is owned and run by UBM.
 
-3.1.1 Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to one or more of our services, posting material or requesting further services.  We may also ask you for information, when you enter a competition or promotion, and when you report a problem with the Website.
+We are committed to protecting and respecting your privacy. This privacy policy explains the types of personal information we collect, how we use that information, who we share it with, how we protect that information, and your legal rights in relation to your information. We are committed to abiding by this privacy policy, as well as the requirements of applicable laws, in the operation of our business. Please read this policy carefully as it explains our views and practices regarding your personal information and how it is handled. By accessing or browsing our websites, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree with the practices described in this policy, you should not use this website.
 
-3.1.2 If you contact us, we may keep a record of that correspondence.
+## Who we are
 
-3.1.3 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+For the purpose of applicable data protection laws, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF. Our Data Protection Officer is Mark Peters.
 
-3.1.4 Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+## Information covered by this policy
 
-4 IP addresses and cookies
+This policy covers all personal information collected and used by UBM. In this policy "personal information" means information that (either in isolation or in combination with other information held by us) enables you to be identified as an individual or recognised directly or indirectly. This may include your name, date of birth, sex, postal address, email address, computer IP address, phone number, credit card number, login information and technical information from the devices you use to receive our services.
 
-4.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is anonymous statistical data about our users' browsing actions and patterns, and does not identify any individual.
+## Collection of personal information
 
-4.2 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.  Cookies contain information that is transferred to your computer's hard drive.  They help us to improve the Website and to deliver a better and more personalised service. They enable us:
+We may collect information about you from different sources detailed below.
 
-4.2.1 To estimate our audience size and usage pattern.
+### Information you give us
 
-4.2.2 To store information about your preferences, and so allow us to customise the Website according to your individual interests.
+When you access and browse our websites (including when you register for an event or fill in forms on our websites) and when you correspond with us by phone or email or other electronic means, you may give us information about yourself. The information you give us may include your name, payment processing information, postal address, email address, landline and/or mobile telephone number, delivery details, dietary and access requirements and information about your employment (including your job title, responsibilities and employer’s details) as well as other personal information.
 
-4.2.3 To speed up your searches.
+### Information we collect about you
 
-4.2.4 To recognise you when you return to the Website.
+With regard to each of your visits to our website(s), we may also use cookies and other technologies to automatically collect the following information:
 
-4.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.  However, if you select this setting you may be unable to access certain parts of the Website.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
+technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating systems and platform; and
 
-4.4 Please note that our advertisers may also use cookies, over which we have no control.
+information about your visit, including the full Uniform Resource Locators (URL) clickstreams to, on and from our websites, products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs), methods used to browse away from the page and any phone number used to call us.
 
-5 Where we store your personal data
+### Information we receive and collect from other sources
 
-5.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+We may receive information about you from other websites operated by the UBM group or from the other services that we provide. We also work closely with third parties such as payment processors and app providers and may receive information about you from them. We may also collect information about you from publicly available sources, including publicly available content on social media.
 
-5.2 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Webite, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+## Cookies
 
-5.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Our websites use cookies to distinguish you from other users. This helps us to provide you with a good experience when you browse the websites and also allows us to improve our websites. For detailed information on the cookies we use and the purposes for which we use them, please see our [cookie policy](https://www.routesonline.com/content/cookie-policy/).
 
-6 Uses made of the information
+## Our use of your personal information
 
-6.1 We use information held about you in the following ways:
+We may use your personal information to: | How do we use personal information for this purpose? | What is the legal basis for us processing your information in this way?  
+---|---|---  
+Provide you with goods and services | We will need to use your personal information where this is necessary for us to perform our obligations under a contract with you, for example where you have purchased services from us, and to ensure your requirements are met at events. | Using your personal information in this way is necessary for us to perform our contractual obligations to you.  
+Ensure that your requirements are met at events | We may use your personal information to better understand your requirements and preferences, so that we can provide you with a tailored experience. | It is in our legitimate interests to look at your requirements so that we can personalise our events for you, to better meet your needs as a customer.  
+Complete bookings you make through our website | We will need to use your contact information (such as your email address or postal address) to assist you with any bookings you make through our website. | Using your personal information in this way is necessary for us to perform our contractual obligations to you.  
+Process your payments and protect against fraudulent transactions | We may need to process your personal information in order to keep your payments safe and secure and protect against fraudulent transactions. | It is in our legitimate interests to process personal information to keep our customers' payments secure.  
+Contact you for research purposes or to tell you about our special offers or other goods and services | We will need to use your personal information (such as your email address and/or telephone number) to send you information about services that you may be interested in. Please note that we may also share your personal information with other entities in the UBM group for this purpose. | We will ask for your consent before processing your information in this way. See our [customer promise](https://www.routesonline.com/content/privacy-policy/customer-promise/).  
+Diagnose problems with our server or administer our websites | We may need to use personal information, such as your IP address, to diagnose server problems or administer our websites. | We will ask for your consent to the use of cookies before processing.  
+Analyse user traffic to measure use of our websites and to improve the content of our websites and our services | We may sometimes use your personal information (e.g. your IP address) to measure use of our websites and assess the effectiveness of our site pages, including advertising on our sites. We may also use this personal information to improve the content of our websites and services. | It is in our legitimate interest to look at user traffic so that we can improve our websites and better meet your needs as a customer.  
+Comply with legal requirements and exercise or defend legal claims | We may sometimes need to process personal information to comply with legal requirements to which we are subject (for example, in relation to health and safety). | It is in our legitimate interests to process personal data for the purposes of complying with legal requirements to which we are subject.  
+Assess how people move through our events where you have activated one of the apps available at an event | We will need to use your personal information (such as information about your location) to understand how people have moved through an event that we host. | It is in our legitimate interests to use your location information to monitor movement through our events.  
+Where you consent to having your badge scanned at an event by us or a third party, contact you for research purposes or to tell you about special offers or other goods and services | We may use your personal information (such as your email address and/or telephone number) to send you information about services that you may be interested in. Please note that we may also share your personal information with other entities in the UBM group and third parties for this purpose. | By allowing your badge to be scanned at an event you are consenting to your information being processed in this way. If you do not wish for you information to be processed please do not scan your badge.  
+  
+## Transfers of personal information
 
-6.1.1 To ensure that content from the Website is presented in the most effective manner for you and for your computer.
+We may share your personal information with any member of the UBM group of companies, including subsidiaries and holding companies, in order to enable you to access the services, provide you with customer support and conduct the other activities described in this privacy policy. Such group companies may be located outside the European Economic Area ("EEA"), in which case the section "Where we store your data" below will apply.
 
-6.1.2 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we may engage Service Providers to provide market research, marketing (including competitions), advertising, communications, event management (including logistics, health and safety and audio-visual services), meetings and bookings (including accommodation), training, IT, hosting and other infrastructure, subscription and discount management, payment processing, and data cleansing and processing services. In the course of providing such services, these Service Providers may have access to your personal information. These third parties are contractually bound only to use personal information to perform the services that we hire them to provide. We will always use our best efforts to ensure that all the Service Providers we work with will keep your personal data secure.
 
-6.1.3 To carry out our obligations arising from any contracts entered into between you and us.
+We may also disclose your personal information to third parties:
 
-6.1.4 To allow you to participate in interactive features of our service, when you choose to do so.
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if any member of the UBM group or substantially all of its assets are acquired by a third party, in which case personal data about its customers will be one of the transferred assets; and
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or in order to enforce our terms and conditions or other agreements, or to protect the rights, property or safety of the UBM group.
 
-6.1.5 To notify you about changes to our service.
 
-6.2 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-6.3 If you are an existing customer, we will only contact you by electronic means (including but not limited to email) with information about goods and services similar to those which were the subject of a previous sale to you.
+If you use one of our virtual products, e.g. Virtual Exhibitions, Directory Sites, Webinars etc., or choose to allow your badge to be scanned at an event, we may pass the information you provide to third parties. Generally this will be via a process whereby you, as the user, visit or interact with a third party e.g. visit a stand at an online exhibition, have your badge scanned or click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor who may contact you in return. In other instances our virtual products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally, we will let you know at the time of collection if a product is sponsored. If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details. Unsubscribing with UBM (UK) Ltd will stop UBM (UK) Ltd from contacting you in the future, but not the individual third parties whom you have interacted with independently.
 
-6.4 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means (including but not limited to email) only if you have consented to this.
+## Where we store your data
 
-6.5 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form or forms on which we collect your personal data.
+The data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of services to you or the processing of your payment details. We will take all steps that are mandatory or reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and applicable data protection laws, including, where relevant, entering into EU standard contractual clauses (or equivalent measures) with the party outside the EEA receiving the data.
 
-6.6 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in based in the UK). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+## Security of personal information
 
-7 Disclosure of your information
+We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised uses, access or modifications.
 
-7.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+Certain areas of our websites may be password protected. Where we have given you (or where you have chosen) a password, you are responsible for keeping this password confidential. We ask you not to share your password(s) with anyone.
 
-7.2 We may disclose your personal information to third parties:
+Payments made via our websites are processed in a secure environment using software provided by third party providers.
 
-7.2.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+## Third party websites and apps
 
-7.2.2 If and member(s) of our group or substantially all of the assets of a member of our group are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+Our websites may contain links to and from third party websites and we may provide you with details of apps provided by third parties. Please note that if you follow a link to any of these websites or download an app, these websites and apps will have their own terms of use and privacy policies and that we do not accept any responsibility of liability for these policies. Please check these policies before you submit any personal data to these websites or apps.
 
-7.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.routesonline.com/admin/pages/edit.asp?Action=Edit&ParentID=0&ID=104&ItemClass=SystemPage&frame=content&localeid=0#TermsOfUse) as set out in Part A and other agreements; or to protect the rights, property, or safety, our customers, ourselves or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+## Your rights
 
-8 Your rights
+You have the following rights with respect to the personal information that we hold about you:
 
-8.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the form(s) we use to collect your data.  You can also exercise the right at any time by contacting us at [info@routesonline.com](mailto:info@routesonline.com)
+### Your right to access the information we hold about you
 
-8.2 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+You have the right to ask us whether or not we process your personal data and to request information on the purposes of data processing as well as confirmation on whether we use your personal information for these purposes only.
 
-9 Access to information
+You can request access to the information we hold about you by contacting us using the contact details set out below. We will endeavour to make our file of your information available to you within 1 month, although occasionally we may not be able to give you access to the personal information we hold about you (for example, we may not be able to give you access if it would unreasonably affect someone else's privacy or if giving you access poses a serious threat to someone's life, health or safety).
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You also have the right to be informed of the third parties to which we transfer your personal data within the scope of this privacy policy.
+
+### Your right to have your information corrected or deleted
+
+If you have an account with us, you can sign into that account to update your personal information. If you have problems updating the information on your account or if you would like us to delete your information, or if you would like us to ask the third parties to whom we transfer your data within the scope of this privacy policy to update or delete your information, please send your request to [dpo@ubm.com](mailto:dpo@ubm.com) and we will action it as soon as possible.
+
+### Your right to object to us processing your data
+
+You have the right to ask us to stop processing your data, even where that processing is necessary for our legitimate interests (for example, where the processing is necessary for the legitimate commercial objectives we pursue in the course of our business), including the profiling we undertake to send you personalised offers, product recommendations and similar content. You also have the right to object to any results of a processing activity that prejudice your rights and that are conducted exclusively through automated systems.
+
+You also have the right to ask us to stop processing your data for direct marketing purposes, including any profiling we undertake for the purposes of direct marketing. We will in any case only send you marketing communications if you have previously agreed to this, but if you change your mind you can easily unsubscribe from our marketing communications at any time by following the instructions included in these marketing communications.
+
+Please note that, if you have consented to receive offers from our partners, our partners are responsible for taking account of your rights, including your right to opt-out of receiving offers from them. You may, however, at any time opt-out of receiving offers from third parties by logging in to your user account and changing the settings. If you had previously opted in, your personal data will cease to be transmitted to our partners from the time your request is processed.
+
+### Your right to have your data transmitted to another organisation
+
+Where we hold personal information about you with your consent or for the performance of a contract with you, you also have the right to ask us to provide you with the personal information we hold about you in a structured, commonly used and machine-readable format and, where technically feasible, to transmit that data to another organisation.
+
+### Making a complaint
+
+You have the right to lodge a complaint with the data protection authorities if you believe that we have not complied with applicable data protection laws. You also have a right to claim damages if processing of your personal information violates applicable data protection law.
+
+## Changes to our privacy policy
+
+We reserve the right to amend this privacy policy at our sole discretion, without prior notice to you. We will notify you of any such changes (including when they will take effect). Your continued use of our services or our websites following the posting of changes to these terms means that you consent to those changes.
+
+## Contacting us
+
+If you have any questions about this privacy policy, you can email us at [dpo@ubm.com](mailto:dpo@ubm.com). If you wish to exercise your rights under applicable data protection law and this privacy policy, please contact us in writing at:
+
+**The Data Protection Officer, UBM plc, 240 Blackfriars Road, London SE1 8BF.**
+
+Version 4 of this privacy policy is effective as of **20 April 2018**
