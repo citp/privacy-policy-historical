@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221142630id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628060750id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Electronic Circuits and Diagram-Electronics Projects and Design
+# Privacy Policy - Electronic Circuits and Diagrams-Electronic Projects and Design
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@circuitstoday.com.  
 At www.circuitstoday.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.circuitstoday.com and how it is used.
