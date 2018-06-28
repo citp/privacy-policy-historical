@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warisboring.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124233856id_/https%3A//warisboring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warisboring.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628092829id_/http%3A//warisboring.com/privacy) for the most accurate reproduction.*
 
 # WAR IS BORING PRIVACY POLICY | War Is Boring
 
@@ -17,7 +17,8 @@ This policy answers the following questions:
 
 
 
-**_What information do we collect about you and how do we use it?_**
+**_What information do we collect about you and how do we use it?_**  
+
 
 **Types of Information We Collect**
 
@@ -35,7 +36,18 @@ Through the War is Boring Features, you may be able to link to technology, softw
 
 The personal information you provide to us will allow us to communicate with you and provide the War is Boring Features to you, depending on the War is Boring Features for which you register. This includes alerting you of new services, features, or enhancements to the War is Boring Features; verifying your identity; handling your customer service questions or issues; requesting feedback; distributing newsletters; and notifying you of promotions, updates, or special offers that we think may interest you. We may also use your email address as part of the War is Boring Features in sending you messages about the War is Boring Features and other general announcements. We keep track of your interactions with us, including but not limited to your activity within the War is Boring Features. Except as set forth in this Privacy Policy, or unless we have your consent, we will not share your personal information with any person or entity other than those affiliated with the Company, entities acting on behalf of the Company, and relevant third parties such as those needed to collect and maintain our information collection servers and perform technology and related services.
 
-We may use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the War is Boring Features. We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the War is Boring Features (the “ ** _Analytical Data_** ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies any War is Boring Features users.
+We may use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the War is Boring Features. We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the War is Boring Features (the “ ** _Analytical Data_** ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies any War is Boring Features users
+
+**Residents of the European Economic Area (“EEA”)**
+
+Bright Mountain Media works with merchants and users around the world, including in the EEA. If you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, port to another service provider, or object to certain uses of your personal data. If you are a merchant, a partner, a visitor, a customer of Bright Mountain Media’s websites, please reach out to us using this email privacy@brightmountainmedia.com. Additionally, if you are located in the EEA, we are generally processing your information in order to fulfill contracts we might have to pursue the following legitimate interests, either for ourselves, our merchants, our partners, or other third parties:  
+To provide merchants and others with our services;  
+To prevent risk and fraud on our websites;  
+To provide communications, marketing, and advertising;  
+To provide reporting and analytics;  
+To provide troubleshooting, support services, or to answer questions;  
+To improve our services and websites.  
+When we process personal information to pursue these legitimate interests, we do so where we believe the nature of the processing, the information being processed, and the technical and organizational measures employed to protect that information can help mitigate the risks to the data subject.
 
 **Do Not Track**
 
@@ -107,4 +119,4 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **_Terms of Use_**
 
-Please read the [Terms of Use](https://web.archive.org/terms) governing the use of the Site and the War is Boring Features.
+Please read the [Terms of Use](https://warisboring.com/terms) governing the use of the Site and the War is Boring Features.
