@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truthfeed.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116120906id_/http%3A//truthfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthfeed.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628223718id_/http%3A//truthfeednews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TruthFeed
+# Privacy Policy – Truthfeed
 
 Privacy Policy for www.truthfeed.com
 
