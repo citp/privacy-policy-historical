@@ -1,23 +1,17 @@
-> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213054926id_/http%3A//www.xpn.org/about-xpn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115040id_/http%3A//xpn.org/about-xpn/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-##  [ Privacy](http://www.xpn.org/about-xpn/privacy)
+We keep your personal information as safe as possible. All our member data is managed securely and is compliant with the standards set forth by the University of Pennsylvania and the payment card industry. We monitor the most recent advances in security and adapt as required.
 
-### Sssssh! Your secrets are safe with us.
+When you provide us payment information to process a donation, this information is encrypted, using reasonable, industry-standard security measures, and processed by vetted third-party vendors to process your donation.
 
-When you're part of a family, you have to share a bit of information - otherwise, we'd walk around calling each other 'hey, you.' But you can be sure that we take every precaution to keep your personal information as safe as possible. All of our data, especially credit card information, is kept in secure areas and we have the experts at the University of Pennsylvania behind us on that. We're always monitoring the most recent advances in security and adapting - even though this is incredibly boring. 
+When we ask for personally identifiable information (like your name, address, email address, phone number or credit card information), we only use the information you give us within the WXPN family of services. For example, we may email you to invite you to join a new newsletter list, invite you to WXPN events, or ask you to renew your membership when it expires. Occasionally, we may share your information with third party vendors, but only to help us do these sorts of things, and not for their own use. 
 
-Of course, we hope it's okay if we contact you occasionally. How else can we invite you to great events? If you don't receive our e-newsletters, do sign up. They are the best way to learn about the many, many opportunities you have to gather with the XPN Community and get the inside scoop on XPN and music news. It also makes it a lot easier for us to remind you how much your support is needed to do all this good stuff. 
+We may also aggregate your personally identifiable information, such as your address, with others to produce non-personally identifiable information that we may use to analyze and improve what we do.
 
-WXPN does make your contact information, including name, address, phone number and email address and some financial data available to third party companies that do data analysis or perform other functions, like mailing letters, to help us serve you better and do our jobs better. 
+It is WXPN’s policy not to sell or exchange email addresses or phone numbers with any organization. If any situation comes up in which we would like to share this information with someone else (e.g. if we collect your email while ticketing an event, and want to share with our co-presenter), we will ask for your permission.
 
-We will never share your email address or your phone number with anyone not performing work on our behalf, because that's just rude. We do share our members’ names and addresses occasionally with other organizations that we think you may be interested in supporting (usually arts, music and cultural organizations). You can opt-out of this kind of information sharing with a simple email to Member Services. 
+Our digital platforms contain links to services maintained by third parties independent of WXPN. These services and tools are governed by the terms and policies of those third parties. Please review these services’ own privacy policies for more information.
 
-Finally, XPN does track general information about people visiting our site and other pages with trusted third party tracking service by reading browser settings. This does not include any personal information. It just helps us figure out how many folks are enjoying what we do online and aren't really interested in things like privacy policies. 
-
-### Opt Out
-
-But you are the boss. If you don't want us to share your name and address with third parties not doing work on our behalf - done. Don't want us to contact you (as sad as that would make us)? - done. {emailcloak=off}[Just drop us a quick email here](mailto:xpn885@xpn.org). If you have any questions or concerns about your privacy, please feel free to [send an email to the WXPN Online Dept](mailto:online@xpn.org). 
-
-Any content that you submit to us, must follow the University of Pennsylvania's policy on Copywrite Infringement located [here](http://www.upenn.edu/computing/security/reporting_copyright.php). 
+Lastly, if we are required by law to share your information (including personal and payment information), we will share to the extent necessary to comply with the request. If you have any questions or concerns about the privacy of your information, please email [memberservices@XPN.org](mailto:memberservices@XPN.org). Any content that you submit to us, must follow the University of Pennsylvania's policy on Copyright Infringement located [here](http://www.upenn.edu/computing/security/reporting_copyright.php). 
