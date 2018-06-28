@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224090341id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628191459id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
 
 # Privacy Policy for Coolmath-Games.com
 
@@ -43,7 +43,7 @@ You can control certain cookies and tracking tools. To learn how to manage how w
 This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at  
 [privacy@coolmath.com](mailto:privacy@coolmath.com)
 
-You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+You can also write to us at the address listed at the end of this policy. Please mark your inquiries "User Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 **Security**
 
