@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120072543id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040803id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
 
 # Investment Opportunities for Everyone | StartEngine
 
