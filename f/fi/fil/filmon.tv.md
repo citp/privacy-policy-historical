@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123070347id_/http%3A//www.filmon.tv/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629004248id_/http%3A//filmon.tv/page/privacy-policy-en) for the most accurate reproduction.*
 
 # Privacy Policy FILMON TV FREE LIVE TV MOVIES AND SOCIAL TELEVISION
 
