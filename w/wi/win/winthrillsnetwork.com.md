@@ -1,71 +1,133 @@
-> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212091201id_/http%3A//www.winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628092444id_/http%3A//www.winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # WINThrills Network - Privacy Policy
 
-This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting this website. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
+We take your privacy very seriously. Please read this privacy policy carefully as it contains important information on who we are and how and why we collect, store, use and share your personal information. It also explains your rights in relation to your personal information and how to contact us or supervisory authorities in the event you have a complaint. 
 
-INFORMATION WE MAY COLLECT FROM YOU
+We collect, use and are responsible for certain personal information about you. When we do so we are subject to the General Data Protection Regulation, which applies across the European Union (including in the United Kingdom) and we are responsible as ‘controller’ of that personal information for the purposes of those laws.
 
-We may collect and process the following data about you:
+Personal information we collect about you
 
-    Any information that you provide by filling in forms on our site. This includes provided information at the time of registering to use our site, posting material, requesting further services or subscribing to any service offered by us on the site. We might also request further information and if you should report a problem with our site.
+We may collect and use the following personal information about you:
 
-We may keep a record of any correspondence if you should contact us.
+  * your name and contact information, including email address and telephone number
+  * information to enable us to check and verify your identity, e.g. your date of birth
+  * your gender information, if you choose to give this to us
+  * location data, from your IP location and also if you choose to give this to us personnaly
+  * your billing information, transaction and payment card information
+  * your personal or professional interests
+  * your contact history, purchase history and saved items
+  * information from accounts you link to us, e.g. Facebook
+  * information to enable us to undertake credit or other financial checks on you
+  * information about how you use our website, IT, communication and other systems
+  * your responses to surveys, competitions and promotions
 
-Details of the resources you access and of your visits to our site
 
-Details of transactions you may carry out through our site and of the completion of your orders.
 
-We may collect Name, Address, Phone and Email for marketing purposes with our third party marketing partners.
+This personal information is required to provide products and services to you. If you do not provide personal information we ask for, it may delay or prevent us from providing products and services to you.
 
-IP ADDRESSES AND COOKIES
+How your personal information is collected
 
-We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers.
+We collect most of this personal information directly from you—in person, by telephone, text or email and/or via our website forms online. However, we may also collect information:
 
-We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers. The cookies contain valuable information that is transferred to your computers hard drive. In collecting this information we are able to improve our site and deliver a better and more personalised service.
+  * from publicly accessible sources, eg Companies House or HM Land Registry;
+  * directly from a third party, eg:
 
-You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site. You can do this by activating the setting on your browser which allows you to refuse the setting.
 
-Our advertisers may also use cookies but please note that we have no control over this.
+  1. sanctions screening providers;
+  2. credit reference agencies;
+  3. customer due diligence providers;
+  4. marketing agencies and lead generation companies
 
-USES MADE OF THE INFORMATION
 
-We use the information held about you in the following ways:
+  * from a third party with your consent, e.g. sub agency, lawyers, business associates
+  * from cookies on our website — for more information on our use of cookies, please see our cookies policy
+  * via our IT systems, eg:
 
-To notify you of any changes to our service.
 
-To ensure that the content of our site is presented in the most effective manner for you and your computer.
+  1. door entry systems and reception logs;
+  2. automated monitoring of our websites and other technical systems, such as our computer networks and connections, CCTV and access control systems, communications systems, email and instant messaging systems;
 
-Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you.
 
-To allow you to participate in interactive features of our service, should you choose to do so.
 
-In allowing ourselves to carry out our obligations concerning any contracts entered into between you and us.
+How and why we use your personal information
 
-We may also use your data to inform you and provide information on goods and services that may be of interest to you.
+Under data protection law, we can only use your personal information if we have a proper reason for doing so, eg:
 
-If you do not want your data used in this way, please email info@webincomeng.mygbiz.com. Please allow 7-10 days for your account to be updated.
+  * to comply with our legal and regulatory obligations;
+  * for the performance of our contract with you or to take steps at your request before entering into a contract;
+  * for our legitimate interests or those of a third party; or
+  * where you have given consent
 
-DISCLOSURE OF YOUR INFORMATION
 
-We keep all your information safe and will not disclose your personal information to anyone:
 
-* To the prospective buyer or seller of any business or assets in the event that we sell or buy.
+A legitimate interest is when we have a business or commercial reason to use your information, so long as this is not overridden by your own rights and interests. 
 
-* If we are under a duty to comply with any legal obligation to disclose or share your personal data. To protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site. For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations.
+Promotional communications
 
-THIRD PARTY WEBSITES
+We may use your personal information to send you updates (by email, text message, telephone or post) about our products AND/OR services, including exclusive offers, promotions or new products AND/OR services.
 
-From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates. If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data. We cannot accept any responsibility or liability for these policies.
+We have a legitimate interest in processing your personal information for promotional purposes (see above ‘How and why we use your personal information’). This means we do not usually need your consent to send you promotional communications. However, where consent is needed, we will ask for this consent separately and clearly.
 
-USE OF DATA COLLECTED
+We will always treat your personal information with the utmost respect and never sell OR share it with other organisations save for completion of a investment on your behalf
 
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry. 
+You have the right to opt out of receiving promotional communications at any time by:
 
-SMS OFFERING AND OPT-OUT RIGHTS
+  * contacting us at info@winthrillsnetwork.com
+  * updating your marketing preferences on our online preference centre
 
-By completing or submitting a registration form or partial registration form you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
 
-CHANGES TO OUR PRIVACY POLICY
 
-This policy may change from time to time. Please visit this page for changes.
+###### Your rights
+
+You have the following rights, which you can exercise free of charge:
+
+Access | The right to be provided with a copy of your personal information (the right of access)  
+---|---  
+Rectification | The right to require us to correct any mistakes in your personal information  
+To be forgotten | The right to require us to delete your personal information—in certain situations  
+Restriction of processing | The right to require us to restrict processing of your personal information—in certain circumstances, eg if you contest the accuracy of the data  
+Data portability | The right to receive the personal information you provided to us, in a structured, commonly used and machine-readable format and/or transmit that data to a third party—in certain situations  
+To object | The right to object:
+
+  * at any time to your personal information being processed for direct marketing (including profiling);
+  * in certain other situations to our continued processing of your personal information, eg processing carried out for the purpose of our legitimate interests.
+
+  
+  
+###### Keeping your personal information secure
+
+We have appropriate security measures to prevent personal information from being accidentally lost, or used or accessed unlawfully. We limit access to your personal information to those who have a genuine business need to access it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
+
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+
+If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit [www.getsafeonline.org](http://experienceinvest.com/privacy/www.getsafeonline.org). Get Safe Online is supported by HM Government and leading businesses.
+
+###### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+###### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+Changes to this privacy policy
+
+This privacy notice was published on 30th May 2018 and last updated on 30th May 2018   
+We may change this privacy notice from time to time
+
+###### How to contact us
+
+Please contact us and/or our Data Protection Officer by post or email if you have any questions about this privacy policy or the information we hold about you.
+
+Our contact details are shown below: 
+
+Contact: The Leadenhall Building, 122 Leadenhall Street Level 30, London, United Kingdom EC3V 1LR United Kingdom
+
+Email: info@winthrillsnetwork.com
