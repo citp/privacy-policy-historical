@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estes-express.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225195649id_/http%3A//www.estes-express.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estes-express.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628151039id_/http%3A//www.estes-express.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Estes - Privacy Policy
 
@@ -17,7 +17,6 @@ When you use certain features of our website, we may ask you to provide informat
   * Information you provide about a particular shipment, such as a PRO number, so that we may provide authorized users with tracking information or images of shipping documents;
   * Information you provide to us in user surveys that we send or arrange for a third party to send to you;
   * Location information if you access our site using a mobile device and opt in using your device or browser settings, as well as general location information based on your IP address, which we obtain through general site operations;
-  * Information you provide to us and our service provider as part of a credit application so that we can investigate references and check your company’s credit history in order to determine whether, how much, and on what terms to extend credit to your company; and
   * Information you provide to us and our service providers in order to enable us to share information and invoices with you and allow you to provide information and make payments to us through Electronic Data Interchange (EDI).
 
 
@@ -31,7 +30,6 @@ We may use the information we obtain about you for a variety of purposes, includ
   * Providing quotes to you for our services; 
   * Processing and fulfilling transactions, such as arranging to make shipments to you or on your behalf; 
   * Scheduling pickups of materials for shipping; 
-  * Deciding whether to extend credit to your business; 
   * Providing tracking information for shipments or images of shipping documents to authorized persons who request this information; 
   * Handling claims arising from a shipment that you made or received; 
   * Allowing you to review billing information and open invoices; 
@@ -76,7 +74,6 @@ We may share information with trusted parties, such as:
 
   * With our subsidiaries and affiliates;
   * With third party service providers to help us host and operate the website; gather, save, analyze and use information you enter into online forms; accept payments for services you order through the website; analyze data regarding usage of the website; send mail or email to you for marketing or promotional purposes; conduct surveys; or arrange for exchange of information and payments for shipping and other business purposes between you and Estes through Electronic Data Interchange (EDI) services;
-  * With a third party service provider when you use our website to submit a credit application to us. The third party uses that information and other information available to it to provide us an analysis that we use to make credit determinations.
   * With other carriers when you enter an online request for us to provide brokerage services or time-critical services to help you place your shipment with another carrier in the event our services are not suited to meet your needs in a particular situation;
   * With advertising networks to serve interest-based advertisements to you on our website and on websites of our affiliates and subsidiaries and certain third parties who participate in advertising networks with us. If you prefer not to receive advertisements through advertising networks, you may follow the instructions included in such advertisements to opt out of receiving them.
   * When reasonably requested or required by law enforcement authorities or other government officials;
