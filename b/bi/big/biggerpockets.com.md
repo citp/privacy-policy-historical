@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704010549id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628180129id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
 # BiggerPockets Privacy Policy
 
@@ -68,7 +68,7 @@ The information we collect using cookies and similar technologies is not, in and
 
 ### Information About Third-Party Cookies
 
-In addition to the cookies BiggerPockets delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we may use Google Analytics, including the following Google Analytics Advertising Features: Adsense, Adwords, Doubleclick, Remarketing. To learn more about Google Analytics, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html). Please note that the Google Analytics opt-out browser add-on does not prevent information from being sent to Pella. 
+In addition to the cookies BiggerPockets delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we may use Google Analytics, including the following Google Analytics Advertising Features: Adsense, Adwords, Doubleclick, Remarketing. To learn more about Google Analytics, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html). Please note that the Google Analytics opt-out browser add-on does not prevent information from being sent to BiggerPockets. 
 
 Other third parties may also deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors across non-affiliated websites and delivering targeted advertisements either on this Site or on other websites.
 
