@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the worldcoinindex.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129031441id_/https%3A//www.worldcoinindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcoinindex.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628211013id_/https%3A//www.worldcoinindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - WorldCoinIndex
-
-BTC/USD  
-$ 10,192.84  2.75%
-
-BTC/EUR  
-€ 8,532.43  2.17%
-
-BTC/CNY  
-¥ 68,032.00  -2.25%
-
-BTC/GBP  
-£ 7,626.54  2.20%
-
-BTC/RUB  
-₽ 575,287.16  0.66%
-
-BTC volume  
-$ 4.33B
-
-Altcoin volume  
-$ 7.55B
-
-Crypto market cap  
-$ 316.60B
 
 WorldCoinIndex (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. 
 
