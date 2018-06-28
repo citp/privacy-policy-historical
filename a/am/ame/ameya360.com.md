@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ameya360.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811192424id_/http%3A//www.ameya360.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameya360.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628042719id_/http%3A//ameya360.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ameya360Electronics
 
 ## Privacy Policy
 
-Ameye360 respects your right to privacy. We developed this Privacy Statement to inform you about our practices. Questions regarding this Privacy Statement could be directed to [our support team](mailto:service@ameya360.com).
+Ameye360 respects your right to privacy. We developed this Privacy Statement to inform you about our practices. Questions regarding this Privacy Statement could be directed to our [support team](mailto:service@ameya360.com).
 
 #### Overview
 
@@ -12,7 +12,7 @@ Privacy is a concern to most Internet users. Ameya360 is acutely aware of, and s
 
 #### Privacy Policy Enforcement
 
-If you feel that Ameya360 is violating this Privacy Statement, please contact [our support team](mailto:service@ameya360.com).
+If you feel that Ameya360 is violating this Privacy Statement, please contact our [support team](mailto:service@ameya360.com).
 
 #### Traffic Data
 
