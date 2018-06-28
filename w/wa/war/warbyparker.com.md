@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205185858id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628213044id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
 ## Privacy Policy
 
-## Effective Date: June 28, 2017
+## Effective Date: May 15, 2018
 
-At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. To keep things simple, we stick to this Privacy Policy no matter which of our stores, sites, applications, or website features you use or access, as well as any mobile application (each, an “App”) that includes an authorized link to this Privacy Policy (together the stores, our websites and Apps are referred to as the “Services”). Your use of our Services is also subject to our [Terms of Use](https://web.archive.org/terms-of-use).
+At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. This Privacy Policy applies to your use of our retail locations, as well as any of our websites, website features, and mobile applications (each, an “App”) that contain a link to this Privacy Policy (together the stores, our websites and Apps are referred to as the “Services”). Your use of our Services is also subject to our [Terms of Use](https://web.archive.org/terms-of-use). This Privacy Policy does not apply to your use of our Prescription Check mobile application or our in-store Prescription Check service. You can find the Privacy Policy that applies to Prescription Check [here](https://web.archive.org/prescription-check-app/privacy-policy). Our use of any individually identifiable health information you provide is subject to the requirements of the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). In addition to this Privacy Policy, our [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices) will apply to such information. 
 
 By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. Please note that this Privacy Policy does not apply to third party websites (“Third Party Services”), such as Facebook, Twitter, Pinterest, Instagram, Snapchat, and Google+, that we do not own or control, even if you access them through our Services. We try to work only with Third Party Services that share our respect for your privacy, but we cannot take responsibility for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any Third Party Services you access so that you know how they will collect, use, and share your information.
 
-If you have any questions, please reach out to us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com).
+If you have any questions, please reach out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b0b09120d1a18023b0c1a0919020b1a09101e0955181416).
 
 ## 1\. What Information does Warby Parker Collect?
 
  **Information you provide us:**
 
-  *  **When you create an account.** When you create an account with us, you provide a name, email address, and password. Your account password isn’t stored by us, and we’ll never have access to it.
+  *  **When you create an account.** When you create an account with us, you provide a name, email address, and password. 
 
-  *  **When you make a purchase or use our Services.** If you make a purchase, we request information from you to facilitate the transaction and get you the goods. You may also provide us with information when you use certain online features, such as Home Try-On or when you book an eye exam. This information may include (i) your name, email address, phone number, shipping address, and date of birth, (ii) prescription information, including any images of prescriptions you may provide to us and any information you give us through the pupillary distance measurement function of our Services, (iii) medical history and information about your vision, and (iv) information about the products you try on and purchase. If you provide us with an image of your prescription, we obtain any information that appears on the prescription form. For some online and in-store features, we may ask you to submit a photo of yourself or we may ask your permission to take a photo of you.
+  * **When you make a purchase or use our Services.** If you make a purchase, we request information from you to facilitate the transaction and get you the goods. You may also provide us with information when you use certain online features, such as Home Try-On or when you book an eye exam. This information may include (i) your name, email address, phone number, shipping address, and date of birth, (ii) prescription information, including any images of prescriptions you may provide to us and any information you give us through the pupillary distance measurement function of our Services, (iii) medical history and information about your vision, (iv) information about the products you try on and purchase, and (v) information about other people, such as when you direct us to send a gift card. If you provide us with an image of your prescription, we obtain any information that appears on the prescription form. You may also provide us with information when you apply for a job through our [Jobs](https://web.archive.org/jobs) page. 
 
-When you make a purchase, we ask you to provide payment information, which may include payment card information (such as credit card number, type, and expiration date), billing address, and shipping address. Our payment processor, which is required by credit card issuers to meet specific security requirements, will collect, store, and process your credit card and other payment information on our behalf using industry-standard security measures. We do not store any payment card information.
+For some online, App, and in-store features, we may ask you to submit (or we may ask your permission to take) a photo, facial scan, or other image of you.
+
+When you make a purchase, we ask you to provide payment information, which may include payment card information (such as credit card number, type, and expiration date), vision insurance plan information, billing address, and shipping address. Our payment processor, which is required by credit card issuers to meet specific security requirements, will collect, store, and process your credit card and other payment information on our behalf using industry-standard security measures. We do not store any payment card information.
 
   *  **When you contact us.** We do everything possible to make sure you have an exceptional shopping experience. If you contact us in person, by phone (calling or texting), email, instant message (including Facebook Messenger), live chat, through social media or our App, or by some other means, we may keep a record of your contact information and the content of the communication for later reference. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve our Services. We receive responses to any survey that you choose to complete for us.
 
@@ -31,7 +33,7 @@ When you make a purchase, we ask you to provide payment information, which may i
 
   *  **Information from your doctor.** Your doctor may share your prescription information with us in order for us to provide Services or complete your purchase.
 
-  *  **Information from third party services.** Our customers are active in many different communities, both offline and online, and we like facilitating their activity! Some parts of our Services can be linked to other accounts you have with Third Party Services (“Third Party Accounts”) or you may be able to register for an account on our Services with your Third Party Account. If you connect a Third Party Account to our Services or interact with us through a Third Party Account, we may receive information about you, including your Third Party Account profile information and your photo, and your use of the Third Party Account (for example, if you select a Warby Parker product to purchase through the account). If you mention us through your Third Party Account, we may collect publicly available information and content related to your comment. If you wish to limit the information available to us, you should visit the privacy settings of your Third Party Accounts to learn about your options.
+  *  **Information from third party services.** Some parts of our Services can be linked to other accounts you have with Third Party Services (“Third Party Accounts”) or you may be able to register for an account on our Services with your Third Party Account. If you connect a Third Party Account to our Services or interact with us through a Third Party Account, we may receive information about you, including your Third Party Account profile information and your photo, and your use of the Third Party Account (for example, if you select a Warby Parker product to purchase through the account). If you mention us through your Third Party Account, we may collect publicly available information and content related to your comment. If you wish to limit the information available to us, you should visit the privacy settings of your Third Party Accounts to learn about your options.
 
   *  **Information from other third parties.** We may collect information about you from other third parties, including demographic information, and combine this information with other information we collect about you.
 
@@ -64,11 +66,23 @@ We primarily use your information to provide and enhance our Services and your e
   * to communicate with you, including to respond to your comments or questions, and to send you updates about your order
   * to understand your use of our Services to help us improve the customer experience
   * to provide you information, recommendations, and marketing materials about our products and Services
+  * to deliver gift cards in accordance with your instructions
   * for our other internal business purposes
 
 
 
 We may use location information collected from your mobile device to enhance your shopping experience and to provide you with location-based services, such as advertising, search results, and other personalized content, as well as to assist us with foot traffic measurement and service improvements in our stores.
+
+When you submit (or grant us permission to take) a photo, facial scan, or other image of you, we don’t share those photos, scans, or images, or any facial data captured in the facial scans, with any third parties, but we may use them as described below:
+
+  * to measure your [pupillary distance](https://www.warbyparker.com/eyewear-a-z#p-pupillaryDistance) and [segment height](https://www.warbyparker.com/eyewear-a-z#s-segmentHeight), and to gather other optical information
+  * to map and measure your facial features
+  * to address certain problems or concerns you may have with your glasses 
+  * to help us better understand how our frames fit our customers
+
+
+
+We don’t store any facial scans submitted through the iPhone X TrueDepth camera.
 
 ## 3\. How We Share Your Information
 
@@ -81,6 +95,7 @@ We’ve figured out ways to do a lot of things on our own, but we haven’t quit
   * order fulfillment
   * delivery services
   * payment processing
+  * vision insurance claim processing
   * account registration
   * website-related services, such as web hosting
   * improvement of website-related services and features
@@ -102,9 +117,17 @@ You can learn about how to opt out of receiving personalized website advertiseme
 
 One of the third party services that we use to track your activity on our Services is Google Analytics. If you do not want Google Analytics to collect and use information about your use of our Services, then you can install an opt-out in your web browser (<https://tools.google.com/dlpage/gaoptout>). You also may opt-out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings located at <https://www.google.com/settings/ads>. You can also visit your device’s settings or install the AppChoices app to learn more about how you may opt out of receiving personalized ads in mobile Apps.
 
+Another third party service that we use to track your activity on our Services is Adjust Technology. If you do not want Adjust Technology to collect and use information about your use of our Services, you can opt out at <https://www.adjust.com/opt-out/>.
+
+We use Facebook Custom Audiences to deliver advertisements to you on Facebook, and to provide data to us, based on email addresses that we have collected. 
+
 ### With your doctor or dispensing optician
 
 We may share your information with your doctor if you’ve asked us to confirm the prescription information you provide us, or if you’ve asked us to obtain your prescription information from your doctor. At your request, we may also share your information with a dispensing optician.
+
+### With your vision insurance carrier
+
+We may share your information with your vision insurance carrier in order to process your claim and so that we receive payment. 
 
 ### On an aggregated or de-identified basis
 
@@ -128,7 +151,7 @@ Except as we’ve stated above, we will notify you before we share your identifi
 
 ## 4\. Choices You Have With Your Warby Parker Account
 
-Through your account settings, you can view, edit, and delete the following information you’ve provided to us:
+Through your account settings, you can view and edit the following information you’ve provided to us:
 
   * name
   * password
@@ -139,13 +162,13 @@ Through your account settings, you can view, edit, and delete the following info
 
 
 
-The information you can view, edit, and delete may change as our Services change.
+You can delete any of the above information by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) The information you can view, edit, and delete may change as our Services change.
 
-If you decide you don’t want to receive email from us, you can select the “opt out” provision in our communications to unsubscribe, you can email us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com), or you can contact customer support. Unsubscribing will stop you from receiving most types of email communications, but it may not prevent you from receiving emails about orders or transactions you place through our Services or to emails in response to a specific request from you, such as password recovery. If you wish to stop receiving notifications from us on your mobile device, you can update your device settings.
+If you decide you don’t want to receive email from us, you can select the “opt out” provision in our communications to unsubscribe, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a5a7bca3b4b6ac95a2b4a7b7aca5b4a7beb0a7fbb6bab8), or you can contact customer support. Unsubscribing will stop you from receiving most types of email communications, but it may not prevent you from receiving emails about orders or transactions you place through our Services or to emails in response to a specific request from you, such as password recovery. If you wish to stop receiving notifications from us on your mobile device, you can update your device settings.
 
 ## 5\. California Privacy Rights
 
-If you are a California resident, in addition to awesome weather, you also have the ability to ask us for a notice identifying the categories of personal information, as defined by California Civil Code Section 1798.83, we share with our affiliates and/or third parties for their direct marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to [privacy@warbyparker.com](mailto:privacy@warbyparker.com). We won’t even ask you for a bottle of Napa Valley chardonnay in return (but if you send one, our staff will happily accept).
+If you are a California resident, in addition to awesome weather, you also have the ability to ask us for a notice identifying the categories of personal information, as defined by California Civil Code Section 1798.83, we share with our affiliates and/or third parties for their direct marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48383a213e292b31083f293a2a3138293a232d3a662b2725). We won’t even ask you for a bottle of Napa Valley chardonnay in return (but if you send one, our staff will happily accept).
 
 ## 6\. We are Committed to Protecting Your Information
 
@@ -153,7 +176,7 @@ We take the protection of your information very seriously. We understand the sen
 
 ## 7\. Children’s Information
 
-We are especially sensitive about children’s information. We do not knowingly collect personal information from children under the age of 13, in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may use our Services on behalf of such minor child. If you have questions concerning our information practices with respect to children, or if you believe a child under the age of 13 has provided us with personal information, please email us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com).
+We are especially sensitive about children’s information. We do not knowingly collect personal information from children under the age of 13, in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may use our Services on behalf of such minor child. If you have questions concerning our information practices with respect to children, or if you believe a child under the age of 13 has provided us with personal information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e5e5c47584f4d576e594f5c4c575e4f5c454b5c004d4143).
 
 ## 8\. Changes to this Privacy Policy
 
@@ -161,4 +184,4 @@ We occasionally review this Privacy Policy to make sure it complies with applica
 
 ## 9\. Contact Us
 
-If you have any questions about viewing or updating your information, this Privacy Policy, or our privacy practices, please contact us at [privacy@warbyparker.com](mailto:privacy@warbyparker.com).
+If you have any questions about viewing or updating your information, this Privacy Policy, or our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9dedeff4ebfcfee4ddeafcefffe4edfceff6f8efb3fef2f0).
