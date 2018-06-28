@@ -1,126 +1,164 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202213025id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628124000id_/https%3A//vitessemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vitesse Media preference centre
+# Privacy Policy - Vitesse Media
 
-**Privacy Policy**
+### **Who are we?**
 
-Vitesse Media Plc (“we”, “us” or “Vitesse Media”)  is registered to collect and process personal data under the Data Protection Act 1998 (“Act”). Vitesse Media Plc is the data controller of personal information collected by us for the purposes of the Act. We respect and safeguard the privacy of the users of Vitesse Media Plc’s portfolio of websites and associated companies and microsites (“website”), and readers of our magazines which include Information Age Magazine and What Investment Magazine (“ Magazines”).
+Vitesse Media is a UK Based media company that provides content and events for the SME, Technology, Investment and Diversity sectors.
 
-This Privacy Policy outlines how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details and any financial payment information),  how you can limit our use of this data and how we will safeguard your data. Please read this Privacy Policy carefully which should be read together with our website [Terms and conditions](http://preferences.vitessemedia.co.uk/terms-and-conditions/).
+Our GDPR Owner and data protection representatives can be contacted directly here:
 
-**1\. What information do we gather?**
-
-1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website).  
-We collect information that does not identify you to in order to evaluate our site performance/usability, ensure that our site and services run properly and ensure we are paid for advertising services we offer.  
-We might also collect IP addresses through the placement of cookies which means your numerical address is automatically collected when you access the website and is placed in our Internet access logs.
-
-**2\. How do we gather Information?**
-
-2.1 Information is gathered in 2 ways:
-
-(1) indirectly (for example, through our website’s technology or use of an App); and
-
-(2) directly (for example, when you provide information on various pages of the website or when you return any completed coupon published in the Magazines).
-
-2.2 We collect information directly from you in a number of ways, e.g. when you buy a subscription, sign up to email newsletters, submit a nomination for an event or to create a Vitesse Media profile (through  **preferences.vitessemedia.co.uk)** , or through the use of cookies. We also collect information when you voluntarily submit it to us. On our website’s, we provide you with the opportunity to register for various services, register for email newsletters, enter promotions and competitions, event nominations, complete puzzles, purchase products, and participate in online surveys. Throughout the Magazines we give you the opportunity to take up various offers, enter various competitions and promotions and to apply for information about products and services.
-
-2.3 When we collect your information in this way, we will notify you as to how this information will be used and where it will be processed. We will also provide you with the opportunity to indicate your preferences as to the use of your information.
-
-**3\. Cookies and how we use them**
-
-3.1 A cookie is a small piece of information sent by a web server to the web browser, which enables the web server to collect information from the browser. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/).
-
-3.2 We use the following types of cookie:
-
-(1) **strictly necessary cookies**  enable services you have specifically asked for. We use these cookies for purposes such as allowing you to access secure areas of the website.
-
-(2) A **nalytics / performance cookies**  collect anonymous information on the pages visited. They do not collect information that identifies you as a visitor to our website. We only use this information to improve how our website works and not to target you with advertising. We may use these cookies to assess the effectiveness of pay-per-click affiliate advertising, but we do not use them to pass your personal information to advertisers or to target you for advertising.
-
-(3) **Functionality /**   **Service cookies**  remember choices you make (such as your user name, language or the region you are in) to provide enhanced, more personal features. We use these cookies to remember changes you have made to text size and other parts of web pages you can customise.
-
-(4) **Targeting cookies or advertising cookies**  are used to deliver adverts more relevant to you and your interests. We do not use these cookies on our websites.
-
-You can delete cookies previously sent by us from your computer and set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Information on how to do this can be accessed via the help function on your browser.
-
-Please note that if you change your privacy settings to reject cookies we may not be able to provide you with subscription services that have a log-in procedure. [To find out more about cookies click here.](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
-
-3.3 We have no access to third party cookies and third party organisations have no access to ours. Other than allowing the third party cookies to be served we have no part to play in the use of these cookies although we may obtain statistical information from them about advertising on our site. The third party organisations that place cookies have their own strict privacy policies.
-
-3.4 Most browsers allow you to turn off cookies (see below in section 6). However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates.
-
-**4\. How do you decide how you want to hear from us?**
-
-4.1 We always explain why and how we might contact you at the point you give your information to us. We also provide the means for you to grant or withhold your permission for us to contact you. We do this by using opt out or opt-in tick boxes. If the boxes aren’t there, it’s because we will not use your information for any other purpose than that for which you give it (e.g. to administer a subscription).
-
-4.2 When responding to promotions, offers etc. by postcard or coupon, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating “No Offers”.
-
-4.3 You may modify your preferences or get further information by:
-
-  * writing to us at: Data Department, Vitesse Media Plc, 14 Bonhill Street, Shoreditch, EC2A 4BX, or
-  * manage your preferences through Vitesse Media Plc’s preference centre at [preferences.vitessemedia.co.uk](http://www.preferences.vitessemedia.co.uk/)
-  * email to: [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk)
-  * Alternatively, you can unsubscribe at anytime from selected or all email communications
+  * Clive Brett (Chief Technology Officer)  
+[Clive.Brett@VitesseMedia.co.uk](mailto:Clive.Brett@VitesseMedia.co.uk)  
+020 7250 7023
+  * The Data Manager  
+[Data.Manager@VitesseMedia.co.uk](mailto:Data.Manager@VitesseMedia.co.uk)  
+020 7250 7020
 
 
 
-**5\. How we use your information**
+The personal data we would like to collect and process on you are:
 
-Any personal information gathered by or supplied to us through our portfolio of websites or the Magazines will be used in accordance with this Privacy Policy, and in accordance with your wishes as indicated to us and in accordance with the Act.
+ **Name**|   Including Title, First or Given Name, Initials, Last or Family name and any prefix or suffix as appropriate  
+---|---  
+ **Contact Details**|   Including email, telephone, social network profiles and other communication channels  
+ **Business Card Information**|  Including company name, industry sector, company size, job title, job function and office location  
+ **Delivery & Billing Address**| When required to provide services requested by you  
+ **Interests**|  These allow us to tailor our communications with you to ensure you only receive relevant content  
+  
+The personal data we collect will be used for the following purposes:
 
-5.1 We might use your information to:
+  * Sales
+  * Events Management
+  * Marketing
+  * Subscriptions
+  * Content Tailoring
+  * Profiling and Segmentation
 
-(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 6 deals with this in more detail;
 
-(2) place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;
 
-(3) ensure any products or services you receive are correctly administered (including subscriptions);
+Our legal basis for processing for the personal data:
 
-(4) contact you by email, mail, telephone or sms text message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;
+  * Consent
+  * Contractual
+  * Legitimate Interest
 
-(5) ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device;
 
-(6) collate and log numeric internet addresses to improve the website and to monitor website usage;
 
-(7) assess and understand customer feedback and identify usage hotspots.
+Any legitimate interests pursued by us, or third parties we use, are as follows:
 
-5.2 If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you have told us otherwise.
+  * where the subject has explicitly expressed an interest in a topic or interest category
+  * where the subject has attended a similar event in the past 18 months
+  * where the processing enables us to enhance, modify, personalise or otherwise improve our services or communications to the benefit of our clients and attendees.
+  * to identify and prevent fraud.
+  * to enhance the security of our network and information systems.
+  * to better understand how people interact with our websites.
+  * to provide communications that we believe would be of interest to you.
+  * to determine the effectiveness of promotional campaigns and advertising
 
-**6\. Managing Cookie Preferences**
 
-6.1 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
 
-6.2 If you would prefer to just restrict third party cookies, visit [youronlinechoices.com](http://www.youronlinechoices.com/) or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
+The special categories of personal data concerned are:
 
-**7\. Security**
+  * None
 
-7.1 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access of your personal information.
 
-7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures both ourselves and with our suppliers to protect the security of your personal information.
 
-**8\. Disclosing your information**
+### Consent
 
-8.1 We may disclose your personal information if required to do i) in order to fulfil any request you have made through us (e.g. ordering goods to be supplied by a third party on our behalf), ii)  by law or iii) in good-faith believing such action is necessary to comply with the law or contract e.g. for a bank or card company to process your payment for purchase of goods.
+  1. 
 
-8.2 We will not sell or otherwise share your personal information with third parties without your consent except in the case of our data service providers (who are used for example to manage your subscription).
 
-**9\. Accessing and Updating your personal information**
+By consenting to this privacy notice you are giving us permission to process your personal data specifically for the purposes identified.
 
-We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes.
+Consent is required for Vitesse Media Plc to process both types of personal data, but it must be explicitly given. Where we are asking you for sensitive personal data we will always tell you why and how the information will be used. 
 
-9.1 How do I change my personal details?
+You may withdraw consent at any time by contacting the Data Manager
 
-You can update your details and marketing preferences by accessing your account pages on the website, by emailing [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk) or by writing to us at: Data Department, Vitesse Media plc, 14 Bonhill st, EC2A 4BX
+### Disclosure
 
-9.2 What information do you hold on me?
+Vitesse Media Plc will NOT pass on your personal data to third parties without first obtaining your consent except where there is clear Legitimate Interest.
 
-You have the right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, please send an email to [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk)
+### Retention period
 
-There will be an administrative charge of £10 for providing a copy of this information.
+Vitesse Media Plc will process personal data for up to 18 months and will store the personal data for 24 months unless a longer period is required by the law.
 
-**10\. What does providing us with personal information mean?**  
-By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy.
+### Your rights as a data subject
 
-**11\. If you don’t feel we’re adhering to this Privacy Policy, what should you do?**  
-If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email to [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk) or write to us at: Data Department, Vitesse Media plc, 14 Bonhill st, EC2A 4BX and we will make any efforts we can to determine and solve the problem promptly.
+At any point while we are in possession of or processing your personal data, you, the data subject, have the following rights:
 
-This Policy was updated on 25th May 2016.
+  * Right of access – you have the right to request a copy of the information that we hold about you.
+  * Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+  * Right to be forgotten – in certain circumstances, you can ask for the data we hold about you to be erased from our records.
+  * Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+  * Right of portability – you have the right to have the data we hold about you transferred to another organisation.
+  * Right to object – you have the right to object to certain types of processing such as direct marketing.
+  * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+  * Right to judicial review: in the event that Vitesse Media Plc refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined below.
+
+
+
+All of the above requests will be forwarded on should there be a third party involved in the processing of your personal data.
+
+### Complaints
+
+In the event that you wish to make a complaint about how your personal data is being processed by Vitesse Media Plc (or third parties), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and Vitesse Media Plc’s data protection representatives and the GDPR Owner.
+
+The details for each of these contacts are displayed at the top of this document
+
+### Privacy statement
+
+#### Personal data
+
+Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as:
+
+“any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”.
+
+#### Why does Vitesse Media Plc need to collect and store personal data?
+
+In order for us to provide you with a requested product or service, we need to collect personal data for correspondence purposes and detailed service provision. In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy.
+
+In terms of being contacted for marketing purposes, Vitesse Media Plc would contact you for additional consent.
+
+#### Will Vitesse Media Plc share my personal data with anyone else?
+
+We may pass your personal data on to third-party service providers contracted to Vitesse Media Plc in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only to fulfil the service they provide you on our behalf or to provide information and services that are closely aligned to expressed preferences and interests. When they no longer need your data to fulfil this service, they will dispose of the details in line with Vitesse Media Plc’s procedures. If we wish to pass your sensitive personal data onto a third party we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
+
+#### How will Vitesse Media Plc use the personal data it collects about me?
+
+Vitesse Media Plc will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. Vitesse Media Plc is required to retain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices. Personal data may be held in addition to these periods depending on individual business needs.
+
+#### Under what circumstances will Vitesse Media Plc contact me?
+
+Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimise the risk of unauthorised access or disclosure.
+
+#### Can I find out the personal data that the organisation holds about me?
+
+Vitesse Media Plc at your request can confirm what information we hold about you and how it is processed. If Vitesse Media Plc does hold personal data about you, you can request the following information:
+
+  * Identity and the contact details of the person or organisation that has determined how and why to process your data. In some cases, this will be a representative in the EU.
+  * Contact details of the data protection officer, where applicable.
+  * The purpose of the processing as well as the legal basis for processing.
+  * If the processing is based on the legitimate interests of Vitesse Media Plc or a third party, information about those interests.
+  * The categories of personal data collected, stored and processed.
+  * Recipient(s) or categories of recipients that the data is/will be disclosed to.
+  * If we intend to transfer the personal data to a third country or international organisation, information about how we ensure this is done securely. The EU has approved sending personal data to some countries because they meet a minimum standard of data protection. In other cases, we will ensure there are specific measures in place to secure your information.
+  * How long the data will be stored.
+  * Details of your rights to correct, erase, restrict or object to such processing.
+  * Information about your right to withdraw consent at any time.
+  * How to lodge a complaint with the supervisory authority.
+  * Whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether you are obliged to provide the personal data and the possible consequences of failing to provide such data.
+  * The source of personal data if it wasn’t collected directly from you.
+  * Any details and information of automated decision making, such as profiling, and any meaningful information about the logic involved, as well as the significance and expected consequences of such processing.
+
+
+
+#### What forms of ID will I need to provide in order to access this?
+
+Vitesse Media Plc accepts the following forms of ID when information on your personal data is requested:
+
+  * Passport
+  * Driving licence
+  * Birth certificate
+
+
