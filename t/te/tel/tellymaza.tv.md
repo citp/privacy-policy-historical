@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellymaza.tv privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211714id_/http%3A//tellymaza.tv/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymaza.tv privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155028id_/http%3A//tellymaza.tv/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
