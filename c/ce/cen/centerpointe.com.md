@@ -1,191 +1,187 @@
-> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220011205id_/http%3A//www.centerpointe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628145604id_/http%3A//www.centerpointe.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Holosync® Meditation Technology: Brain Wave Training for Relaxation, Prosperity, Love, Health & Success
 
-Thank you for visiting [www.centerpointe.com](https://web.archive.org/ "Home"), owned and operated by **Centerpointe Research Institute, Inc**. This privacy policy explains the types of information we collect on our website and what we do with such information. By visiting [www.centerpointe.com](https://web.archive.org/ "Home"), you are accepting the practices described in this privacy policy. If you feel that our privacy practices are not adequate to protect your privacy, you should refrain from using this website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## PERSONALLY IDENTIFIABLE INFORMATION (PII)
+Personal data may be processed in the European Economic Area (EEA) or in the US by our third party data storage and hosting provider, depending on the location of the server cluster that has been selected by you or Centerpointe Research Institute as part of the Service, so their processing of your personal information may involve a transfer of data outside of the EEA.
 
-The information we collect through this website may include information from which you may be personally identified. “Personally Identifiable Information (or “PII”) includes such information as your name, postal address, telephone number, and the like. We may also collect credit card information if you are purchasing products or services.
+Whenever we transfer your personal information outside of the EEA, we ensure it is protected by making sure that at least the following safeguard is in place:
 
-The most common instance in which you may be required to send PII is when communicating with Centerpointe Research Institute via email or a web-based form used to send information to us.
+Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
 
-This website collects PII only with your knowledge.
+To keep this Privacy Policy as short and easy to understand as possible, we have not set out the specific circumstances when each of these protection measures are used. You can contact us at gdpr@centerpointe.com for the details as to how we protect specific transfer of your data.
 
-### What We Do With PII
+All information you provide to us is stored on our secure servers or those of our third party data storage providers.
 
-We use PII that we collect on our website for the following purposes:
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-  * To provide you with products and services, such as electronic and print publications and newsletters;
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-  
----  
-  
-  * To respond to your inquiries and contact you about changes regarding this website;
+We’ve posted answers to Frequently Asked Questions, below.
 
-  
-  
-  * To provide you with notices regarding your account and the products or services that you are receiving, and for billing and collection purposes;
+## What personal information do we collect from the people that visit our blog, website or app?
 
-  
-  
-  * To provide you with announcements, promotions and other offers about our products and services, as well as the products and services of others;
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-  
-  
-  * For any other purpose disclosed at the time the information is collected or to which you consent;
+## When do we collect information?
 
-  
-  
-  * As otherwise specifically described in this privacy policy.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-  
-  
-### **Third Parties**
+## How do we use your information?
 
-We will never intentionally disclose PII to any third party without your permission, except as may be required by law or by court order, to accomplish billing, shipping or customer service for the transaction into which you are entering, to an independent contractor employed by us to carry out or provide support for the operations of our site or our business or under exigent circumstances to protect the personal safety or property of our users or ourselves. Centerpointe Research Institute never sells or trades PII to third parties for their own use.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Additionally, Centerpointe Research Institute’s website may be linked to/from third- parties’ websites, which may collect or solicit PII from visitors. Centerpointe Research Institute has no control over the privacy practices of third parties; therefore, visitors should consult the privacy policy of such websites for information on how they use and collect PII.
+• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-### **Opting Out**
+• To improve our website in order to better serve you.
 
-You may “opt-out” of such promotions at any time by following the instructions in the email or by contacting us at:
+• To allow us to better serve you in responding to your customer service requests.
 
-**Centerpointe Research Institute, Inc.**  
-1600 NW 167th Place, Ste. 320  
-Beaverton, OR 97006-4872  
-Or **email** – [webmaster@centerpointe.com](mailto:webmaster@centerpointe.com)
+• To administer a contest, promotion, survey or other site feature.
 
-Any opt-out request will be effective only after a reasonable period of time for processing.
+• To quickly process your transactions.
 
-### **Security of PII**
+• To send periodic emails regarding your order or other products and services.
 
-While Centerpointe Research Institute takes reasonable security measures to keep PII confidential, we cannot guarantee that unauthorized access will never occur.
+• To follow up with you after correspondence (live chat, email or phone inquiries)
 
-## NON-PERSONALLY IDENTIFIABLE INFORMATION
+## How do we protect your information?
 
-We may automatically record a variety of general and non-personally identifiable information from website visitors. We may collect information including but not limited to:
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning.
 
-  * which web pages you visited,
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-  
----  
-  
-  * the order in which pages were visited,
+We implement a variety of security measures when a user places an order, or enters, submits, or accesses their information to maintain the safety of your personal information.
 
-  
-  
-  * which hyperlinks, if any, you “clicked,”
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-  
-  
-  * the Internet Protocol (IP) address of the visitor,
+## Do we use ‘cookies’?
 
-  
-  
-  * the type and version of the web browser you are using,
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
 
-  
-  
-  * the operating system in use,
+## We use cookies to:
 
-  
-  
-  * the size and color resolution of the user’s monitor,
+Help remember and process the items in the shopping cart.
 
-  
-  
-  * the user’s connection speed,
+Understand and save users’ preferences for future visits.
 
-  
-  
-  * the date and time the site was visited,
+Keep track of advertisements.
 
-  
-  
-  * the length of visits to certain pages,
+Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-  
-  
-  * other non-personally identifiable information, and
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-  
-  
-  * products/services you viewed and/or searched for.
+## Third-party Disclosure
 
-  
-  
-This type of information is sent by your browser every time a request for a web page from our servers is made by your browser (i.e., every time you visit our website). We may also use “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow users to block the receipt of cookies, but doing so may compromise your ability to use certain features of our website. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a website or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the website, whether you opened an email message, or whether you clicked on a URL in an email message.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-While we do not collect PII automatically, if you do provide PII, we may associate that information with the information that is collect automatically.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Collecting and analyzing this information allows us to determine the most and least popular sections of the website, the times and dates that the site is most visited, and the geographic areas in which our visitors live. We use this information to improve our site and to make decisions about when to perform maintenance and upgrades.
+## Third-party Links
 
-## EMAIL
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Any email sent to Centerpointe Research Institute will contain the email address of the sender. Centerpointe Research Institute will store the names and email addresses of users along with the content of the email (which may contain additional PII) in order to correspond with the sender and/or to inform the sender of promotions, offers, or announcements. Once received, reasonable measures will be taken to protect the PII contained therein.
+## Google
 
-## ADDITIONAL NOTICES TO CHILDREN UNDER 13 YEARS OF AGE AND THEIR PARENTS/GUARDIANS
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users:https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We urge parents and guardians to explain Internet safety to their children.
+We use Google AdSense Advertising on our website.
 
-We may collect a child’s name, address, telephone number, hobbies, gender, birthdate or age, email address, and/or any other information reasonably necessary for the child to participate in particular activities on our site, including but not limited to contests, games, email newsletter subscriptions and communications with us.
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-If you are under 13 years of age, you should not provide any Personally Identifiable Information (for example, your last name, home address or email address) (PII) on this site without the knowledge and permission of your parent or guardian. If we learn that you are under 13 years of age, we will not maintain or use any PII about you without the verifiable consent of your parent or guardian or as allowed by law. This means that you may be unable to participate in certain activities on our site. We are prohibited from conditioning a child’s participation in an activity on the child’s disclosing more PII than is reasonably necessary to participate in such activity.
+## We have implemented the following:
 
-Parental consent is not required, and we will not contact the child’s parent or guardian if:
+Demographics and Interests Reporting
 
-  * We collect a child’s or parent’s email address to provide notice and seek consent;
+We, along with third-party vendors, such as Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-  
----  
-  
-  * We collect an email address to respond to a one-time request from a child and then delete it;
+## Opting Out:
 
-  
-  
-  * We collect an email address to respond more than once to a specific request – say, for a subscription to a newsletter. In this case, we must notify the parent that it is communicating regularly with the child and give the parent the opportunity to stop the communication before sending or delivering a second communication to a child;
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-  
-  
-  * We collect a child’s name or online contact information to protect the safety of a child who is participating on the site. In this case, we must notify the parent and give him/her the opportunity to prevent further use of the information;
+## California Online Privacy Protection Act
 
-  
-  
-  * We collect a child’s name or online contact information to protect the security or liability of the site or to respond to law enforcement, if necessary, and do not use it for any other purpose.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. See more at:http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-  
-  
-If a child under 13 years of age wishes to participate in activities on our site, please note the following:
+## According to CalOPPA, we agree to the following:
 
-(i) The names, addresses, telephone numbers and email addresses of the operators collecting or maintaining personal information from children through this site are:
+Users can visit our site anonymously.
 
-**Centerpointe Research Institute, Inc.**  
-1600 NW 167th Place, Ste. 320  
-Beaverton, OR 97006-4872  
-Or **email** – [webmaster@centerpointe.com](mailto:webmaster@centerpointe.com)
+We will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-(ii) The information collected may be used for purposes such as fulfillment of a requested transaction, recordkeeping, followup support or marketing. If we change the kinds of information we collect, how we use the offer or offer it to new/different third parties, we will seek parental consent.
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
-(iii) A parent can review and have deleted the child’s PII, can refuse to permit further collection or use of the child’s PII and can revoke or limit consents previously given. For information on how to do so, please send an email to [webmaster@centerpointe.com](mailto:webmaster@centerpointe.com).
+You will be notified of any Privacy Policy changes: On our Privacy Policy Page
 
-Except as otherwise permitted by law, where we are knowingly collecting children’s PII, the child will be asked to provide his/her parent’s or guardian’s email address so that we can contact the child’s parent or guardian before any collection of the child’s PII. We will then send an email to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child’s information from our database or records, as well as a link to access this privacy statement. Upon receipt of such notice, a parent or guardian may respond to us granting or denying his/her consent. If consent is denied, we will delete the parent or guardian’s email address and any other PII, if any, previously obtained for securing parental consent. Upon our receipt of parent/guardian consent, we will send a confirming email to the parent/guardian’s email address or take such other action as may be required to verify the consent. The child’s PII will not be disclosed to third parties other than those who provide support for the internal operations of our website. Parents can revoke a prior consent at any time. We will send a new notice and request for consent if there are material changes made in the collection, use or disclosure practices to which the parent/guardian had previously agreed.
+Can change your personal information, anytime, here: https://members.centerpointe.com/my-account/
 
-We may collect a child’s PII to the extent reasonably necessary to protect the security of this site, to protect against liability or as required or permitted by law. Information collected for these reasons will not be used for any other purpose.
+## How Does Our Site Handle Do Not Track signals?
 
-We will never knowingly share a child’s PII with a third party for the purpose of permitting that third party to send the child information about their products or services.
+We honor Do Not Track signals and Do Not Track plant cookies or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-## CONTACT CENTERPOINTE RESEARCH INSTITUTE CONCERNING OUR PRIVACY POLICY
+## Does Our Site Allow Third-party Behavioral Tracking?
 
-If you would like to contact Centerpointe Research Institute concerning your privacy and the use of our website, please contact us:
+It’s important to note that we allow third-party behavioral tracking.
 
-**Centerpointe Research Institute, Inc.**  
-1600 NW 167th Place, Ste. 320  
-Beaverton, OR 97006-4872  
-Or **email** – [webmaster@centerpointe.com](mailto:webmaster@centerpointe.com)
+## COPPA (Children Online Privacy Protection Act)
 
-## ACCEPTANCE
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-By using this website, you accept the terms of this policy. If you do not accept the terms of this policy, you should refrain from using the Centerpointe Research Institute website. This statement may, in Centerpointe Research Institute’s sole discretion, be modified periodically, so you should review this privacy statement on a regular basis. Your continued use of the Centerpointe Research Institute website signifies that you continue to accept the terms of this statement, as revised from time to time.
+We do not specifically market to children under the age of 13 years old.
 
-This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources.
+## Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles, and how they should be implemented, is critical to comply with the various privacy laws that protect personal information.
+
+## In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify you via email as soon as possible after the breach occurs.
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+## CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+## We collect your email address in order to: 
+
+• Send information, respond to inquiries, and/or other requests or questions
+
+• Process orders and to send information and updates pertaining to orders.
+
+• Send you additional information related to your product and/or service
+
+• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+## To be in accordance with CANSPAM, we agree to the following:
+
+• Not use false or misleading subjects or email addresses.
+
+• Identify the message as an advertisement in some reasonable way.
+
+• Include the physical address of our business or site headquarters.
+
+• Monitor third-party email marketing services for compliance, if one is used.
+
+• Honor opt-out/unsubscribe requests quickly.
+
+• Allow users to unsubscribe by using the link at the bottom of each email.
+
+## If at any time you would like to unsubscribe from receiving future emails, you can:
+
+• Email us at support@centerpointe.com.
+
+• Follow the instructions at the bottom of each email.
+
+• We will promptly remove you from ALL correspondence. 
+
+## 3rd Party Sites that Store Your Information
+
+Our website integrations store user data on WordPress, Facebook, Google Analytics, Leadpages and SurveyMonkey. Contact us to remove your user data from our systems.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Any time: support@centerpointe.com9am-4:30pm PST, M-F: 503-672-7117
