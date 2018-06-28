@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3movs.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006103616id_/http%3A//www.3movs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3movs.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628082520id_/https%3A//www.3movs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 3 Movs
 
-Effective Date: October 6, 2017   
+Effective Date: June 28, 2018   
 Last Modified: December 28, 2013   
 Site(s) Covered: www.3movs.com 
 
@@ -47,4 +47,4 @@ How to Access or Modify Your Information
 We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page. 
 
 Where to Direct Questions About Our Privacy Policy   
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us using our contact form available [here](http://www.3movs.com/support.php). 
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us using our contact form available [here](https://www.3movs.com/support.php). 
