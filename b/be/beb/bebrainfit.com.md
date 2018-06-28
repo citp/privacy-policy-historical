@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225011637id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629004127id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of Use | Be Brain Fit
+
+[](https://bebrainfit.com/)
 
 ## Privacy Policy
 
@@ -28,9 +30,11 @@ If you do not wish to allow cookies, or would like to be notified when they are 
 
 ### Third-Party Ad Vendors
 
-Third-party vendors, including Google, use cookies to serve ads to you  based on your prior visits to our website and other websites on the internet.
+Third-party vendors, including Google, use cookies to serve ads to you based on your prior visits to our website and other websites on the internet.
 
-You may opt out of the use of Google’s DoubleClick cookie for interest-based advertising by reviewing [Google’s ad policies](https://www.google.com/policies/technologies/ads/) or, to opt out of another third-party vendor’s use of cookies for interest-based advertising, visit the website of that third-party vendor or visit [AboutAds.info](http://www.aboutads.info/).
+You may opt out of the use of Google’s DoubleClick cookie for interest-based advertising by reviewing [Google’s ad policies](https://policies.google.com/technologies/ads) or, to opt out of another third-party vendor’s use of cookies for interest-based advertising, visit the website of that third-party vendor, or visit [AboutAds.info](http://www.aboutads.info/).
+
+EU visitors should visit [YourOnlineChoices.eu](http://youronlinechoices.eu/).
 
 ### Security of Your Personal Information
 
@@ -68,11 +72,11 @@ Do not submit your personal information, such as your name and email address, un
 
 This privacy policy applies only to BeBrainFit.com.
 
-While we always try to link to websites that we feel engage in security and privacy practices much like to our own, be aware that any links on our website to other websites are outside our control.
+While we always try to link to websites that we feel engage in security and privacy practices much like to our own, be advised that any links on our website to other websites are outside our control.
 
 ### Changes to This Privacy Policy
 
-This privacy policy was last updated on December 23, 2016.
+This privacy policy was last updated on April 10, 2018.
 
 ## Terms of Use
 
@@ -86,7 +90,7 @@ The information provided on this website is for informational purposes only and 
 
 You should not use the information on this website for diagnosis or treatment of any health problem or for the prescription of any medication or other treatment.
 
-You should consult with your chosen health care professional before making changes to your lifestyle, starting any new health care regimen, or if you have or suspect you might have a health problem.
+You should consult with your chosen health care professional before making changes to your lifestyle, starting any new health care regimen, or if you have, or suspect you might have, a health problem.
 
 Though we always try to provide accurate information, we make no representation and assume no responsibility for the accuracy of information on or available through our website, and this information is subject to change without notice.
 
@@ -104,11 +108,13 @@ BeBrainFit.com provides information that can help you maintain and improve your 
 
 In providing this information, we also routinely provide convenient access to products that we think may help you achieve those goals. We do this through links to vendor websites where you can purchase these products.
 
-One of those is the Amazon Services LLC Associates Program, an affiliate advertising program that allows sites like ours to earn advertising fees by advertising and linking to Amazon.com.
+One of those is the Amazon Services LLC Associates Program (for the US), an affiliate advertising program that allows sites like ours to earn advertising fees by advertising and linking to Amazon.com.
 
-If you purchase a product on Amazon.com or another vendor’s website after clicking a link on our website to that vendor’s website, we will be paid a commission by the vendor for your purchase.
+BeBrainFit.com is also a participant in the Amazon EU Associates Programme (for the UK), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.co.uk, and in the Amazon Associates Program (for Canada), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.ca and affiliated sites.
 
-Whenever we do explicitly mention or recommend a product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by that company.
+If you purchase a product on Amazon.com or another vendor’s website after clicking a link on our website, we will be paid a commission by the vendor for your purchase.
+
+Whenever we do explicitly recommend a product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by it.
 
 Note that the cost of any product you buy on a vendor’s website through a link on our website is no higher than if you bypassed our link and bought the product on the vendor’s website directly.
 
@@ -116,4 +122,4 @@ Regardless of any mention or recommendation we make of a product on our website,
 
 ### Changes to These Terms of Use
 
-These terms of use were last updated on December 23, 2016.
+These terms of use were last updated on April 10, 2018.
