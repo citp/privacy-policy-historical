@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202140921id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628034512id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
 
@@ -71,6 +71,8 @@ This site has security measures in place to protect the loss, misuse, and altera
 ### Community Guidelines
 
 The Hitwicket Community is the heart of the game! Please go through the detailed "[Community Guidelines](https://web.archive.org/site/communityGuidelines)" to know the "do's & don'ts" while interacting with the community.
+
+Hitwicket holds the right to deactivate any account if user is found to be showing a clear intent to damage the reputation of the Game or other users, or instrigating others to do so on their behalf.
 
 ### Opt-Out
 
