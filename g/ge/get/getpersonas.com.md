@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpersonas.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002908id_/https%3A//www.mozilla.org/privacy/websites) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpersonas.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628103736id_/https%3A//www.mozilla.org/privacy/websites) for the most accurate reproduction.*
 
 # Websites, Communications & Cookies Privacy Notice — Mozilla
 
@@ -74,5 +74,8 @@ You can control individual cookie preferences, indicate your cookie preferences 
 Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. 
 
   * **Payment Processing** : Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
+
+  * **Fraud Prevention** : Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background of on some of our websites in order to identify fraudulent activity. Use of the Invisible reCAPTCHA is governed by the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
+
 
 
