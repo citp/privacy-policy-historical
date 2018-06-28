@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210210733id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115555id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mauldin Economics
 
@@ -77,7 +77,7 @@ Dallas, Texas 75219
 ### Newsletter Opt-Out Information
 
 To unsubscribe from our weekly newsletters, simply follow this link:  
-[http://www.mauldineconomics.com/unsubscribe](http://www.mauldineconomics.com/unsubscribe/)
+<https://www.mauldineconomics.com/manage-email-preference>
 
 Or send an email to: [subscribers@mauldineconomics.com](mailto:subscribers@mauldineconomics.com)
 
