@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228020342id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628234357id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Culture
 
-Last modified: January 13, 2012
+Last modified: January 18, 2018
 
 Open Culture, LLC (“Open Culture,” “we” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains how Open Culture collects and uses information at its website located at [www.openculture.com](http://www.saymedia.com/) and at other websites and mobile services provided by Open Culture (collectively the “Network Websites”).  This Privacy Policy also explains how you can control the collection, correction and/or deletion of certain types of information that we collect.  We will not use or share your information with anyone except as described in this Privacy Policy.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources.  Further, this Privacy Policy does not apply to any websites, webpages, blogs, applications, widgets or other services operated by any third party, including our affiliates, advertisers, providers and partners.
 
@@ -41,8 +41,10 @@ If an advertiser asks Open Culture to show an advertisement to a certain audienc
   * Google Adsense: [Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy Highlights")
   * Amazon Affiliate Program: [Privacy Policy](http://www.amazon.com/gp/help/customer/display.html/102-0218475-5592963?ie=UTF8&nodeId=468496 "Privacy Policy")
   * Feedburner: [Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy Highlights")
-  * LinkShare Affiliate Program: [Privacy Policy](http://marketing.rakuten.com/affiliate-privacy-policy "Privacy Policy")
   * Commission Junction Affiliate Program: [Privacy Policy](http://www.conversantmedia.com/legal/privacy "Privacy Policy")
+  * ShareaSale: [Privacy Policy](https://www.shareasale.com/w3c/policy.html)
+  * LinkShare/Rakuten: [Privacy Policy](https://privacy.rakuten.co.jp/english/)
+  * Impact Radius: [Privacy Policy](https://www.impactradius.com/privacy/)
 
 
 
@@ -125,6 +127,3 @@ This Privacy Policy is governed by the laws of the State of California and the U
 Open Culture may modify or update this Privacy Policy at its sole discretion from time to time, and so you should review this Privacy Policy periodically.  When we change the policy in a material way, we will notify you by means of a notice on our website prior to the change becoming effective.  Changes to this Privacy Policy are effective when they are posted on this page.  Your continued access to the Open Culture Services after the Privacy Policy has been modified and posted will signify your acceptance of such modifications.
 
 If you have any questions about this Privacy Policy, the practices of the Open Culture Services, or your dealings with Open Culture, please contact us at mail@openculture.com.
-
-  
-
