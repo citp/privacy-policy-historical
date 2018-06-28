@@ -1,185 +1,95 @@
-> *The following text is extracted and transformed from the zeroturnaround.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408072642id_/https%3A//zeroturnaround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroturnaround.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628114109id_/https%3A//zeroturnaround.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | zeroturnaround.com
+# Privacy Policy | zeroturnaround.com zeroturnaround.com
 
-  1. **About This Website.**
+Last updated: May 11, 2018 
 
-The website [www.zeroturnaround.com](http://zeroturnaround.com/) (“ **Website** ” or “ **Site** “) is an official website of ZeroTurnaround AS (“ **ZeroTurnaround** ”, “ **Company** ”, “ **we** ”, and “ **our** ”), a limited liability company established under the laws of The Republic of Estonia.
+This Privacy Policy (or “Policy”) describes the ways in which Rogue Wave Software (together with its affiliates “Company” or “we”) collect, use, process, and disclose information that we collect from you or that you may provide when you visit any website on which this Policy is posted. We may have different policies for other sites and products, so please always check for the applicable policy on any of our sites you may use. Also, please note that this Policy does not apply to information collected by us offline or through any other means, including when you use one of our products or services, unless we tell you that it applies at the time we collect or use your information.
 
-  
+Please read this Policy carefully before sharing information with us. By using the website on which this Policy is posted, you agree to the terms of this Policy and our use, sharing and disclosure of information as described below including any revisions to this Policy. If you do not agree with the practices described in this Policy, you may choose not to use this website. In the event of any conflict between this Policy and either (1) a specific contract we have with you, if any; (2) applicable law, the terms of items (1) and (2) will control over this Policy, and this Policy shall be deemed amended to conform to such other items.
 
-  2. **About This Privacy Policy.**
+## Information We May Collect About You and How We Collect It
 
-This privacy and cookie policy (“ **Policy** ”) describes how ZeroTurnaround collects, uses and shares personal data of users of the Website.
+We collect two kinds of information, **personal information** that can be used to identify you, and **non-personal** information. 
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will post any modifications or changes to the Policy on our Site. We reserve the right to modify the Policy at any time, so we encourage you to review it frequently. If we make any material change to the Policy, we will post a notice on our Site prior to such change taking effect. We will only process your personal data in accordance with applicable data protection and privacy laws. For the purpose of EU data protection legislation, the data controller is **_ZeroTurnaround AS_** of **Ülikooli 2, Tartu, 51003, Estonia.**
+Non-personal information is information that does not identify you as an individual person. Like other companies, Rogue Wave collects certain non-personal information about visitors to its websites. This includes information about your internet connection, your IP address, the equipment you use to access our website, usage details, and search queries submitted on our website.
 
-  
+We also may collect non-personal information automatically as you navigate through the site through the use of technology such as cookies, flash cookies, and web beacons. Using this kind of technology, our web servers automatically recognize and collect the domain name and IP address of visitors to our website. This kind of technology may transfer data to your browser that can be read by us as a sort of a non-personal identification card, recording information about your past visits to our website. In addition, we collect aggregate information on web page visits.
 
-  3. **Information We Collect**
+Personal information is information that identifies you as an individual person. We collect personal information when you voluntarily share it with us, for instance, when you do business with us, when you inquire about our products and services, or when you apply for a job with us. In each of these situations, we may collect personal information that includes your name, address, phone number, email address, job title, company name and company contact information (and for job applicants, your qualifications and work history). Note that Rogue Wave has separate policies and notices that apply to employees’ personal data once they are hired and this Policy does not apply to employee data. If you purchase a product on our web store, we collect payment information. Please note, we do not store any payment or credit card information. We only use payment information in connection with the purchase of Rogue Wave products.
 
-**Personal Data.** We collect information about you in a range of forms, including personal data. As used in this Policy, “personal data” means any information which, either alone or in combination with other information we hold about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number. We collect information about you in the following ways:
+## How We Use the Information We Collect
 
-    1. **Information You Give Us.** This includes:
-      * the personal data you provide when you register to use our Site, including your‎ name, postal address, email address, telephone number, username, password and demographic information;
-      * the personal data you provide when you report a problem with our Site or when we provide you with customer support; and
-      * the personal data you provide when you correspond with us by phone, email or otherwise.
-  
+We may use non-personal information for any reason. We may use your personal information for our legitimate purposes and for any purposes we disclose to you at the time of collection, including processing it to respond to your requests. Our uses of your personal information may include processing to: 
 
-    2. **Information From Social Networking Sites.** Our Site includes interfaces that allow you to connect with social networking sites (each an “SNS”). If you connect to an SNS through our Site, you authorise us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Policy. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS.
-  
+  * Present the website and its content to you;
+  * Provide you with information, products, or services that you request from us and optimize your experience on our website;
+  * Provide customer support, permit product evaluations, or otherwise manage our relationship with you or your company, including responding to your requests and providing you with service
+  * Notify you about changes to our website or any products or services we offer;
+  * Communicate with you by e-mail, postal mail, telephone, or mobile device about our products, services, industry issues, and upcoming events;
+  * Perform research and analysis about your use of, or interest in, our products, services, or website;
+  * Update and improve our products and services;
+  * Perform other functions as otherwise described to you at the time of collection; and
+  * Recruit and hire job applicants and process applications, communicate with the applicants, and fulfill legal or regulatory requirements, if necessary. 
 
-    3. **Information We Get From Others.** We may also get information about you from other sources. We may add this to information we get from our Site.
-  
 
-    4. **Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. We collect this information about you using cookies. Please refer to the sections on Cookies, Flash Technology and Pixel Tags below.
-  
 
-  4. **Cookies**
-    1. The Website stores cookies on your computer or device. 
-      * Cookies are small data elements that a website can store on a user’s system.
-      * We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site. 
-      * We use both first-party cookies (served directly by us to your computer or mobile device, which are used only by us to recognise your computer or mobile device when it revisits our Site) and third-party cookies which are served by service providers on our Site, and can be used by such service providers to recognise your computer or mobile device when it visits other websites. 
-      * ZeroTurnaround and third-party vendors, including Google, use cookies to inform, optimize, and serve ads based on the User’s past visits to the Website.
-  
+## Disclosure of your information
 
-    2. The following categories of cookies are being used by the Website: 
-      * **Essential Cookies** – cookies in this category are essential to provide you with services available through our Site and to enable you to use some of its features. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.
-      * **Preference cookies** – cookies in this category allow ZeroTurnaround to remember information about the choices a User has made on the Websites (for example whether the User has chosen to show or hide some optional elements on the Website).
-      * **Security cookies** – security-related cookies help store the authentication information and protect User data from third parties.
-      * **Targeted and Advertising cookies** – these cookies are used to understand how many times Users click on specific ads, help understand what type of advertising is relevant to the Users, what ads has the User already seen, measure the effectiveness of the advertising and to make advertising generally more valuable to the Users and advertisers.
-      * **Analytics cookies** – ZeroTurnaround uses different analytics tools to better understand the number of visitors and their behaviour on the Website. Analytics cookies are used to collect and report information about the Website usage statistics.
-      * **Social Media cookies** – these cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.
-  
+We may disclose or share your information, including personal information:
 
-    3. ZeroTurnaround has implemented the following Google Analytics features based on Display Advertising: Remarketing, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting. You can find out more information about Google Analytics cookies here:<https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>
-  
+  * With our subsidiaries and affiliated companies, companies with which we have a strategic relationship;
+  * With other companies that perform work necessary for Rogue Wave (but only to allow them to provide products and services for us);
+  * For any other purpose disclosed by us when you provide the information;
+  * To a successor, if all or part of our business is sold, merged, dissolved, acquired, reorganized or subject to a similar transaction; and
+  * As necessary to comply with a subpoena or similar investigative demand, court order, request for cooperation from law enforcement or other governmental agency, to exercise our legal rights, to defend against legal claims, to protect someone’s safety, or as otherwise required by law.
 
-    4. ZeroTurnaround uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show ZeroTurnaround’s ads on sites across the Internet. You can find out more about how Google protects your data here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)
-  
 
-    5. You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available via this link: <http://tools.google.com/dlpage/gaoptout?hl=en-GB>
-  
 
-    6. Using the Ads Settings (<http://www.google.com/ads/preferences>), User can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
-  
+## Your choices about collection and use of your information
 
-    7. You can typically remove or reject cookies via your browser settings. 
-      * In order to do this, follow the instructions provided by your browser (usually located within the “settings”, “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings.
-      * Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.com.uk](http://www.youronlinechoices.com.uk/).
-      * If you do not accept our cookies, you may experience some inconvenience in your use of our Site. For example, we may not be able to recognise your computer or mobile device and you may need to log in every time you visit our Site.
-  
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website, request information about products or services, apply for a job, purchase products and services, ask questions, or initiate other transactions on our website. You also can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. And you can opt out of receiving future emails from us (other than emails that are necessary communications depending on the nature of our relationship with you) by clicking the “unsubscribe” link in any email you receive from us. We also have a preference center to indicate your areas of interest and to control our outreach to you.
 
-  
+## How we protect your personal information
 
-  5. **Pixel Tags**
+We take appropriate security measures (including physical, technical, and administrative measures) to help safeguard your personal information from unauthorized access and disclosure. No system, however, can be completely secure. While we take steps to secure your personal information, we do not promise that your personal information, searches, or other questions will always remain secure. We are not responsible or liable for the illegal acts (such as hacking) by third parties. If you have concerns about the security of your personal information, please contact us at privacy@roguewave.com.
 
-We may also use pixel tags (which are also known as web beacons and clear GIFs) on our Site to track the actions of users on our Site. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages. Pixel tags measure the success of our marketing campaigns and compile statistics about usage of the Site, so that we can manage our content more effectively. The information we collect using pixel tags is not linked to our users’ personal data.
+## Links to other sites
 
-  
+Our websites may contain links to the sites of other companies. Rogue Wave is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies before sharing information.
 
-  6. **Use of Personal Data**
+## Children’s privacy
 
-We use your personal data as follows:
+Our website is a general audience site and is not directed at, or intended for use by, children under 13. Accordingly, we do not knowingly collect personal information from children under the age of 13.
 
-    * to operate, maintain, and improve our Site, products, and services;
-    * to manage your account, including to communicate with you regarding your account, if you have an account on our Site;
-    * to operate and administer our rewards program and other promotions you participate in on our Site;
-    * to respond to your comments and questions and to provide customer service;
-    * to send information including technical notices, updates, security alerts, and support and administrative messages;
-    * with the User’s consent, to send ZeroTurnaround’s news, product updates and other info (“ **News** ”) provided you have opted-in to receive such information. Such marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you; 
-    * as we believe necessary or appropriate (a) to comply with applicable laws; (b) to comply with lawful requests and legal process, including to respond to requests from public and government authorities; (c) to enforce our Policy; and (d) to protect our rights, privacy, safety or property, and/or that of you or others; and
-    * as described in the “Sharing of Personal Data” section below.
-  
+## Accessing and Updating Your Information
 
-  7. **Sharing of Personal Data**
+The accuracy of your information is important to us. If you change your email address, or if any of the other information we hold about you is inaccurate or out of date, please contact us at info@roguewave.com to update your information. If you are located in certain jurisdictions, you have the right to ask for a copy of the information we hold about you or other rights as set forth in applicable law. We reserve the right to limit or deny access to personal information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by applicable law. Additional rights of E.U. data subjects’ are explained below.
 
-Personal Data is never sold or given out to a third party that has no legitimate reason for acquiring it. We may share your personal data as follows:
+## European data subjects’ rights
 
-    1. **Third Parties Designated by You.** We may share your personal data with third parties where you have provided your consent to do so.
-    2. **Our Third Party Service Providers.** We may share your personal data with our third party service providers who provide services such as data analysis, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services. These third parties are only permitted to use your personal data to the extent necessary to enable them to provide their services to us. They are required to follow our express instructions and to comply with appropriate security measures to protect your personal data. 
-    3. **Third Party Advertisers.** We may share personal data with advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
-    4. **Corporate Restructuring.** We may share personal data when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-    5. **Affiliates.** Personal data might be revealed to ZeroTurnaround’s affiliates, to the extent of their justified need for knowing the said Personal Data, arising out of the business relationships between the User, ZeroTurnaround and its affiliate in which case we will require our Affiliates to comply with this Policy.
-    6. **Other Disclosures.** Personal data might be shared as we believe necessary or appropriate to: (a) a public entity legitimately demanding to audit it (such as the tax board); (b) comply with applicable laws; (c) enforce our Policy; and (d) protect our rights, privacy, safety or property, and/or that of you or others.
-  
+If you reside in the European Union, the “General Data Protection Regulation” provides you with certain rights. You may request information regarding whether we are processing your personal information, our purposes in doing so, how we obtained your personal information (if you did not provide it directly), who we may have been shared with, and how long we will be retained. Further, you have the right to request that we correct your personal information if the information is inaccurate and, in certain circumstances, may ask us to erase the information or stop using your personal information. Finally, subject to certain limitations and when feasible, you may request that we provide you with a copy of your personal information or transfer it to another controller. If we feel we must deny this request, we will provide an explanation. Otherwise, to the extent feasible, we will provide you with a copy of your personal information within a reasonable amount of time.
 
-  8. **Anonymous Data.**
+Additional information on your rights under the General Data Protection Regulation is available from the U.K.’s Information Commissioner’s Office. If you have a concern about the way we process your personal information, you may have the right to make a complaint to the appropriate data protection authority in the E.U.
 
-When we use the term “anonymous data”, we are referring to data and information that does not permit you to be identified or identifiable, either alone or when combined with any other information available to a third party. We may create anonymous data from the personal data we receive about you and other individuals whose personal data we collect. Anonymous data might include analytics information and information collected by us using cookies. We make personal data into anonymous data by excluding information (such as your name) that makes the data personally identifiable to you. 
+Please note, as indicated below, your personal information may be transferred to servers in the United States. 
 
-  
+## Data transfer, storage and retention
 
-  9. **User Generated Content**
-    1. You may share personal data with us when you submit user generated content to our Site, including via our rewards program and on message boards blogs and Forums (“Forums” means any Forums that the Website and its subdomains contain) on our Site. 
-    2. To the maximum extent permitted by the law, ZeroTurnaround is mostly not the author of the content available on the Forums, and is not responsible for anything published by third parties on the Forums.
-    3. Please note that any information you post or disclose on our Site will become public information, and will be available to other users of our Site and to the general public. 
-    4. You agree not to post onto the Forums any content that may be considered unlawful, contrary to public policy or damaging to the interests or reputation of ZeroTurnaround or any third parties.
-    5. ZeroTurnaround is not obligated to respond to requests for taking down materials posted onto the Forums.
-    6. We urge you to be very careful when deciding to disclose your personal data, or any other information, on our Site. Such personal data and other information will not be private or confidential once it is published on our Site.
-    7. If you provide feedback to us, we may use and disclose such feedback on our Site, provided we do not associate such feedback with your personal data. If you have provided your consent to do so, we may post your first and last name along with your feedback on our Site. We will collect any information contained in such feedback and will treat the personal data in it in accordance with this Policy.
-  
+Rogue Wave has customers located around the world. In order to ensure you receive the highest quality products and services, it may be necessary to transfer your information to a country outside the country where it was originally collected. Rogue Wave stores your personal information on its servers and on the servers of cloud-based service providers with whom Rogue Wave contracts. Some of those servers are located in the United States. You understand and agree that information you provide may be sent to and processed by Rogue Wave affiliates and companies that perform services for us on computers located in jurisdictions other than the one in which you are based, including in the United States. The data protection laws in these countries may not be the same as the data protection laws in your home country. 
 
-  10. **Materials on the Website- Intellectual Property.**
-    1. Any and all information and materials made available on the Website (“ **Materials** ”) is protected by and embodies copyrights, trademarks, patents, trade secrets, moral rights, privacy rights, rights of publicity, and other intellectual property and proprietary rights (together, “ **Intellectual Property Rights** ”). You acknowledge that the ZeroTurnaround Service and the Intellectual Property Rights embodied in or relating to it anywhere in the world are and will remain the property of ZeroTurnaround and/or its licensors, and that you have no rights in, or to, the ZeroTurnaround Service other than the right to use the ZeroTurnaround Service in accordance with these Terms. 
-    2. You acknowledge that you have no right to have access to all or any part of the ZeroTurnaround Site in source code form.
-    3. We reserve all rights in the [www.zeroturnaround.com](http://zeroturnaround.com/) domain name and all related domains and sub-domains and any other logos, service marks, brand names, trading names and/or trade marks appearing anywhere on the Site and nothing in these Terms should be construed as granting any licence or right to use any of such trade marks or domain names.
-    4. ZeroTurnaround does NOT grant any license for using the Materials. In limited circumstances a particular piece or a group of Materials may be available for use only if stated explicitly on the Website next to the given piece or group of Materials or otherwise agreed with ZeroTurnaround in writing. 
-    5. ZeroTurnaround is NOT responsible for any damage that may arise from using of or relying on any of the Materials. ZeroTurnaround’s responsibility for materials connected to ZeroTurnaround’s own products is additionally limited by the end-user license agreement of the appropriate product.
-  
+Rogue Wave retains personal data we collect from as long as necessary to service our corporate clients or process a job application. If you have questions regarding Rogue Wave’s retention of your information, please contact the representative identified at the end of this Policy.
 
-  11. **Third Party Sites.**
+## Changes to this Policy
 
-Our Site may contain links to third party websites and features. This Policy does not cover the privacy practices of such third parties. These third parties have their own privacy policies and we do not accept any responsibility or liability for their websites, features or policies. Please read their privacy policies before you submit any data to them.
+If there are updates to this Policy, we will post those changes here and update the revision date so you will always know what information we collect, how we use it, and what choices you have. Continued use of this website after any changes is deemed to be acceptance of those changes. 
 
-  
+Accordingly, we encourage you to check the Policy periodically for updates. Please note that this Policy was changed on May 11, 2018 to better enable customers to understand how personal information is collected, used and shared.
 
-  12. **International Data Transfer.**
+## Do Not Track
 
-Information, including personal data that we collect from you, may be transferred to, stored at and processed by us and our affiliates and other third parties outside the country in which you reside, including, but not limited to the United States, where data protection and privacy regulations may not offer the same level of protection as in other parts of the world. By using this Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+We do not respond to “ **do-not-track** ” signals or other mechanisms that allow users to signal their preferences on the collection of their personal information over time and across third-party websites or online services. This website does not monitor for or adjust any use as the result of “do-not-track” signals.
 
-  
+## How to contact us
 
-  13. **Security.**
-
-We seek to use reasonable organizational, technical and administrative measures to protect personal data within our organization. Unfortunately, no transmission or storage system can be guaranteed to be completely secure, and transmission of information via the internet is not completely secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us using the details in the **_Contact Information_** section below.
-
-  
-
-  14. **Access.**
-
-You may access the information we hold about you. If you wish to exercise this right, please contact us using the details in the **_Contact Information_** section below. You can also contact us to update or correct any inaccuracies in the personal data we hold about you. In your request, please make clear what personal data you would like to have changed, whether you would like to have your personal data that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your personal data that you have provided to us. For your protection, we may only implement requests with respect to the personal data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
-
-  
-
-  15. **Retention.**
-
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. We will retain your personal data for the period necessary to fulfil the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
-
-  
-
-  16. **Children.**
-
-Our Site is not directed to children under 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us using the details in the **_Contact Information_** section below. We will delete such information from our files as soon as reasonably practicable.
-
-  
-
-  17. **Sensitive Personal Data.**
-
-Subject to the following paragraph, we ask that you not send us, and you not disclose, any sensitive personal data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Site or otherwise to us. If you send or disclose any sensitive personal data to us when you submit user generated content to our Site. If you do not consent to our processing and use of such sensitive personal data, you must not submit such user generated content to our Site.
-
-  
-
-  18. **How We Respond to Do Not Track Signals.**
-
-We do not currently respond to “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Site.
-
-  
-
-  19. **Contact Information.**
-
-If you feel anything on this website infringes any of your rights, or have any questions about this privacy policy, be sure to contact us by sending an e-mail to [support@zeroturnaround.com](mailto:support@zeroturnaround.com).
-
-  
-
-
+If you have any questions about this Policy or our information-handling practices, please contact us at [privacy@roguewave.com](mailto:privacy@roguewave.com). 
