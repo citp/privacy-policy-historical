@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220190838id_/http%3A//doverpublications.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628090806id_/http%3A//doverpublications.com/privacy) for the most accurate reproduction.*
 
 # Dover Books | Dover Publications | Dover Publications Privacy Policy
 
 Last updated 4/23/12
 
-Customers have trusted Dover Publications Inc. ("Dover Publications") to protect their privacy for over fifty years. Whether you've been buying books from us since 1948 or are new to the Dover family, rest assured we plan to earn your trust every day. It's also the reason we've created this Privacy Policy for DoverPublications.com. We want you to understand what information we collect and what we will—and won't do with it. By visiting DoverPublications.com you agree to accept the practices described in this Privacy Policy.
+Customers have trusted Dover Publications Inc. ("Dover Publications") to protect their privacy for over fifty years. Whether you've been buying books from us since 1948 or are new to the Dover family, rest assured we plan to earn your trust every day. It's also the reason we've created this Privacy Policy for DoverPublications.com. We want you to understand what information we collect and what we will—and won't do with it. By visiting DoverPublications.com you agree to accept the practices described in this Privacy Policy. View our Corporate LSC Communications [Privacy Policy](http://www.lsccom.com/privacy).
 
 ##### What Information Does Dover Publications Collect About Customers?
 
