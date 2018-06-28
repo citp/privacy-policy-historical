@@ -1,85 +1,96 @@
-> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116004934id_/http%3A//www.vegsource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628205735id_/http%3A//www.vegsource.com/privacy.html) for the most accurate reproduction.*
 
 # VegSource.com Privacy Policy - Vegsource.com
 
-**What information do we collect?**
+VegSource Interactive (Vegsource) is a website and newsletter service currently made available free of charge. We believe in the Golden Rule of treating visitors and subscribers as we would like to be treated, which means we don't spy on you. We believe we are in compliance with Europe's new privacy law, the General Data Protection Regulation (GDPR).
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+Vegsource does access the Internet Protocol (IP) addresses of visitors to the website but no user login is required to access the website. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+Visitors are welcomed to comment on blog posts and are asked for their first name (which can be an alias) and email address in order to do so but this data is not accessed or repurposed by the publisher.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Newsletter Email**
 
- **What do we use your information for?**
+Subscribers to the free newsletter are likewise asked for a first name and email address, in order for the newsletters to be correctly delivered by email. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+The percentage of email- and page-opens are also tracked with great interest by us, the publisher, to better understand the interests of our readers so that I may give you what you want.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**Advertising**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Vegsource does sometimes run ads but does not directly collect data in order to advertise to you. Third-party advertiser networks used by Vegsource employ industry standard data collection that should be in compliance with the GDPR.
 
- **How do we protect your information?**
+**Information Disclosure**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+Vegsource has never and will never sell your information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+**Data Storage**
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+Vegsource uses third-party vendors and hosting partners for hardware, software, networking, storage, and related technology needed to run the website.   
 
- **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Third-Party Embeds**
 
-We use cookies to help us remember and process the items in your shopping cart.
+The video content that you see displayed on Vegsource is generally hosted by YouTube or sometimes Vimeo. These files send data to the hosted site just as if you were visiting that site directly (for example, when you load a post page from Vegsource with a YouTube video embedded in it, YouTube receives data about your activity). We do not control what data third parties collect or what they will do with it. Videos are covered by the privacy policy of the third-party service.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+**Tracking & Cookies**
 
- **Do we disclose any information to outside parties?**
+We do not use browser cookies and similar technologies to recognize you when you return to our site and Vegsource doesn't track you across the Internet - it can't.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Some third-party services that we use, such as Google Analytics may place their own cookies in your browser. This Privacy Policy covers use of cookies by Vegsource only and not the use of cookies by third parties.
 
- **Third party links**
+**Data Security**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use encryption (HTTPS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can't guarantee security. You browse the Internet and Vegsource at your own risk, and you're responsible for taking reasonable measures to secure your device.
 
- **California Online Privacy Protection Act Compliance**
+**Changes to this Policy**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Vegsource may periodically update this Policy. We'll notify you about significant changes to it. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+**Questions**
 
- **Childrens Online Privacy Protection Act Compliance**
+We welcome feedback about this policy at: support@vegsource.com
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Categories of Recipients**
 
- **Online Privacy Policy Only**
+Vegsource shares minimal anonymous data with third-party processors in order to provide the services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+• Hosting, Storage, & Other Infrasructure
 
- **Terms and Conditions**
+• Security
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.vegsource.com/policies.html>
+• Analytics
 
-**Your Consent**
+• Communication & Support
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+• Payment Processors
 
- **Changes to our Privacy Policy**
+Search engines will index public interactions, and any user-generated content. Users may also share links to your content on social media.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+**Potential Consequences of Processing**
 
-This policy was last modified on 5/15/2014
+By posting public comments on Vegsource, users may make certain personal data about themselves public and accessible to others. This may in some cases constitute special category protected data which is considered manifestly made public by the user.
 
- **Contacting Us**
+Due to the public nature of information posted to Vegsource, it may be possible for third parties to derive identifying personal data from posts, whether by reading, inference, supplemental research, or automated extraction and analysis.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If you do not agree with and accept the risks of using the Internet and Vegsource, you may choose not to use the services.
 
-http://www.vegsource.com  
-20555 Devonshire St. #305  
+**Retention**
+
+Vegsource retains the minimal data associated with a newsletter subscription for the lifetime of your account. You can unsubscribe from our newsletter at any time by clicking on the "Unsubscribe" link in the footer of this and every newsletter. This will ban that address from being resubscribed. 
+
+If you want to have your data completely removed and forgotten, please send an email from the address associated with your subscription with "FORGET ME" in all caps in the subject line to news@vegsource.com   
+
+
+If you wish to have public comments deleted, send a request to support@vegsource.com
+
+To delete payment or billing information shared with a third party payment processor, you will need to do so with your payment provider.
+
+**Contact Information**
+
+VegSource Interactive  
+c/o Mostly Magic Inc.  
+20555 Devonshire St. #105  
 Chatsworth, CA 91311  
 USA  
-support@vegsource.com  
-818-349-5600
+support@vegsource.com
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
+If you don't accept our terms, please do not visit Vegsource.
