@@ -1,47 +1,131 @@
-> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120082908id_/https%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthresource4u.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628035700id_/https%3A//www.healthresource4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health Resource
 
 Here at My Blog / Site, the privacy of my visitors is very important. This privacy policy document outlines the types of personal information that we receive and how this important data is used.
 
-  * Third party vendors, including Google, and other ad networks use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also check <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising
+## **What personal information do we collect from the people that visit our blog, website or app?**
+
+When subscribing to our newsletter on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+
+## **When do we collect information?**
+
+We collect information from you when you subscribe to a newsletter or enter information on our site.
+
+### **How do we use your information?**
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To send periodic emails regarding your order or other products and services.
 
 
 
-**To EU Users:** Please read our disclosure notice as part of our compliance to the EU user consent policy:
+### **How do we protect your information?**
 
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
+We only provide articles and information. We never ask for credit card numbers.
 
-www.healthresource4u.com uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s Ad Settings page. Users can completely block Google Analytics tracking using Google’s Analytics Opt-out browser add-on.
+### **We use regular Malware Scanning.**
 
-You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-**Part 1**
+## **Do we use ‘cookies’?**
 
-For each visitor to our Web page, our Web server stores your browser, IP address, City/State/Country automatically.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Our web servers collect only the domain name, but not the e-mail address of visitors to our Web page and the e-mail addresses of those who communicate with us via e-mail.
+### **We use cookies to:**
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitor’s browser type or other information that the visitor sends.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies like Google etc. that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of: http://www.google.com/privacy.html
 
-**Part 2**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.  
+If you turn cookies off, It won’t affect the user’s experience .
 
-If you subscribe to our RSS feed with your email address, your email address will be saved at feedburner.com or feedblitz.com and we will have access to those email address. Those email addresses will be used ONLY for sending the RSS feeds from our web site and will never be sold, disclosed or rented to any third party.
+## **Third-party disclosure**
 
-**Part 3**
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-We are not lawyers or accountants. Any legal or financial advice we give is our opinion based on our experience. Always seek the advice of a professional before acting on something that we might say.
+### **Third-party links**
 
-You should assume we have motivation for linking to everything on this page and will benefit from it somehow. You should assume we are no better then you are and your opinion has just as much weight as ours. You should question everything.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-You should come up with your own thoughts and opinions and not trust everything you read on the Internet.
+### **Google**
 
-Thank you Readers
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
--Moderator / Owner of this Blog / Site.
+#### **We use Google AdSense Advertising on our website.**
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
+
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+## **Opting out:**
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+## **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.  
+We do not specifically market to children under the age of 13 years old.
+
+## **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+### **We will notify you via email**
+
+  * Within 7 business days
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+## **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+### **We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions
+
+
+
+### To be in accordance with CANSPAM, we agree to the following:
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at
+
+  * Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+
+
+
+## **Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Purbachal Canal South Road
+
+Kolkata, West Bengal 700078  
+India  
+[[email protected]](https://www.healthresource4u.com/cdn-cgi/l/email-protection)
