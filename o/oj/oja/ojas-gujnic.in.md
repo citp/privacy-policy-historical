@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129232747id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115938id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# www.ojas.guj.nic.in - Gujarat Government Jobs - Employment News: Privacy Policy
+# Ojas.guj.nic.in: Gujarat Govt Online Job Application: OJAS Bharti: Privacy Policy
+
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=main "Edit")
+
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
+
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=main "Edit")
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
-###  [ GSECL recruitment for Vidyut Sahayak (Junior Engineer) & Instrument Mechanic Posts 2017 ](http://www.ojas-gujnic.in/2017/10/gsecl-recruitment-for-vidyut-sahayak.html)
+###  [ High Court of Gujarat Recruitment 2018 for Assistant Posts (HC OJAS) ](http://www.ojas-gujnic.in/2016/01/high-court-of-gujarat-legal-assistants-11-vacancies.html)
 
-GSECL (Gujarat State Electricity Corporation Limited) has published an advertisement for verious Posts as mentioned below. The recruitment ... 
+High Court of Gujarat has published an advertisement for Recruitment for Assistant Posts 2018. Candidates who want to make their career i... 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
