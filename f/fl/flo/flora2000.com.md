@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flora2000.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216150759id_/http%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flora2000.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628125231id_/https%3A//www.flora2000.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Flora2000
 
