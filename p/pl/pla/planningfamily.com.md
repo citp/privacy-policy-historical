@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704104420id_/https%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628174213id_/https%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Please Note: Our Privacy Policy changes from time to time and changes are effect
 
 If you do not agree with the terms of this privacy policy, please do not provide any information to EverydayFamily.com or use any of the services or products offered or provided on [www.EverydayFamily.com](http://www.everydayfamily.com/)
 
-**_Types of Information That We Collect_**
+ ** _Types of Information That We Collect_**
 
 Notice: We may gather and use information as follows:
 
@@ -40,7 +40,7 @@ Most web browsers automatically accept Cookies, but if you prefer, you can edit 
 
 (f) Display Advertising: We utilize Google Analytics for Display Advertising, Google Display Network Impression Reporting, and Demographics and Interests reporting, including Remarketing to advertise online.  This allows third-party vendors, including Google, to show our ads on sites across the internet.  We use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together, to inform, optimize, and serve ads based on someones's past visits to our website.  These cookies also report ad impressions, interactions with ad services and basic demographic information, such as age, gender and interests.  You can opt-out of Google Analytics for Display advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads).
 
-**_How this Information is used_**
+ ** _How this Information is used_**
 
 We use information for personal identification for identify recognition and verification; to provide advertisements from EverydayFamily or our third party marketing partners, such as: product-related and non product-related businesses as well as others that we deem valuable to our members; to get a better general understanding of the type of individuals visiting the Web Site; to respond to your requests for purchases, comments, or questions; to improve your experience at the Web Site; to collect aggregated site-visitation statistics; to alert you to product enhancements, special offers and updated information. We transfer your information to third-parties as needed, at your request, for the purposes of completing offers that you select and for targeted marketing. Your username, avatar, City, State and due date may be used on the Site or in member emails for the purposes of announcing sweepstakes winners or other public announcements and other social networking purposes like helping to identify other members that you may want to connect with.
 
@@ -50,7 +50,7 @@ Some or all of the information collected during a promotions, contest, polls, or
 
 When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion.
 
-**_Disclosure of Collected Data_**
+ ** _Disclosure of Collected Data_**
 
   * When you request us to share your personal information with another company, such as signing up for special offers or promotions.
   * We will disclose aggregate level information about our database to marketers as necessary to convey the services that we have the ability to offer, or to report on the advertising campaigns that we have launched over the course of our existence.
@@ -64,61 +64,61 @@ When you participate in a Promotion, you are subject to any official rules for t
 
 Please remember that if you post any information in areas of our Site that are generally accessible to users, such as forums, article comments, and photo contests, it will be available to the public.
 
-**_Access and Correction_**
+ ** _Access and Correction_**
 
 We provide you with the ability to ensure that your personal information is correct and current. You may contact us at [memberservices@everydayfamily.com](mailto:memberservices@everydayfamily.com) with any changes you would like to make to your personal information or if you would like to delete your personal information. For security purposes, we require user verification via user's email address, first and last name, and zip code to update personal information. We will retain your information for as long as your account is active, as needed to provide you services, to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-**_Testimonials_**
+ ** _Testimonials_**
 
 With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us.
 
-**_Security_**
+ ** _Security_**
 
 We protect the security of your personal information. We take steps to protect your data from loss, misuse, alteration, destruction, or unauthorized access. While we use security technologies to secure users' information, we cannot guarantee that any electronic communications is totally secure.
 
-**_Information Retention_**
+ ** _Information Retention_**
 
 We retain your personal information in our database for as long as you remain a member of EverydayFamily.  As soon as you unsubscribe, your information is removed permanently from our database.  This may not remove your information from third parties if it was previously disclosed to them.
 
-**Forums and Public Comments**
+ **Forums and Public Comments**
 
 We may make message boards, comment walls, and other interactive forums available as part of the Site. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site. By using these interactive forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.
 
-**_Children_**
+ ** _Children_**
 
 Users of the Web Site must be at least 13 years old. If a child has provided us with personal information, that child's parent or guardian should contact us at [memberservices@everydayfamily.com](mailto:info@everydayfamily.com) to delete such information from our records.
 
-**_Third Party Web Sites_**
+ ** _Third Party Web Sites_**
 
 Please be aware that the Web Site may have links to third party web sites that may collect personally identifiable information about you. When you click on one of these third party links, you are entering another web site for which we have no responsibility. You may be directed to a third party website in the process of completing offers on our website and should be aware of this. Always check the privacy policies for each page as you may be on a third party website not owned or operated by EverydayFamily, Inc. This Notice does not cover the information practices or policies of such third party web sites. We encourage you to read the privacy policies of all such web sites since their privacy policies may be materially different from our Notice.
 
-**_Widgets_**
+ ** _Widgets_**
 
 Our Web Site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-**_OpenID Provider_**
+ ** _OpenID Provider_**
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-**_Public Forums_**
+ ** _Public Forums_**
 
 Our Web Site offers publicly accessible blogs, message boards, comment walls and other community forums as a part of the Site. You should be aware that any information you provide in these areas or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site. By using these forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. To request removal of your personal information from any of our community forums, please contact us at. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**_Information Retention_**
+ ** _Information Retention_**
 
 We retain your personal information in our database for as long as you remain a member of EverydayFamily.  As soon as you unsubscribe, your information is removed permanently from our database.  This may not remove your information from third parties if it was previously disclosed to them.
 
-**_Your Agreement and Changes to this Notice_**
+ ** _Your Agreement and Changes to this Notice_**
 
 By using this site, including, without limitation, submitting information on the registration page, signing up for additional advertiser offers and/or continuing to receive communication from us, you indicate that you have read and understand this Notice and you consent to the collection and use of information by us in the manner explained in this Notice. This Privacy Policy Notice, including without limitation, provisions covering limitations on damages, arbitration of disputes, and the application of Florida law govern any dispute over privacy. By using and accessing the Web Site you agree to indemnify us for any and all third party claims resulting from your breach of this Notice. If you have any questions or concerns about your privacy at the Web Site, please email a thorough description of the issue to [memberservices@EverydayFamily.com](mailto:memberservices@EverydayFamily.com). If you do not accept this Notice, do not access and use the Web Site. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check this page periodically for changes. Your continued use of the Site or acceptance of our communication following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving communication from us. If you do not agree to the terms of this Privacy Policy, please unsubscribe by clicking [here](http://www.everydayfamily.com/Unsubscribe.aspx).
 
-**_Comments and Questions_** ** __**
+ ** _Comments and Questions_** ** __**
 
 If you have any questions, comments or concerns regarding this Privacy Policy, please contact us at EverydayFamily, Attention: Chief Privacy Officer, 2406 Cypress Glen Dr #101, Wesley Chapel, FL 33544. ** __**
 
 Or call : 1-888-660-6631
 
-**_Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)_**
+ ** _Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)_**
 
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
