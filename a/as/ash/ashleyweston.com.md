@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyweston.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125103305id_/http%3A//ashleyweston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyweston.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628183829id_/https%3A//ashleyweston.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashley Weston
 
@@ -54,4 +54,4 @@ Summary
 
 AshleyWeston.com takes your privacy seriously. When connecting with us, we want our customers to feel confident that their personal information and credit card data is protected. Just as we are dedicated to bringing you the very best products, we are equally committed to providing our customers with a safe and secure shopping experience. The personal information we collect from our Site helps us better understand the interests of our audience in an ongoing effort to bring you improved service.
 
-If you have questions or suggestions regarding our privacy standards please email info@ashleyweston.com.
+If you have questions or suggestions regarding our privacy standards please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
