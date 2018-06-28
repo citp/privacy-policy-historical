@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429201348id_/https%3A//sitedown.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628124213id_/https%3A//sitedown.co/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Site Down
+# Privacy Policy | Site Down
 
 Your privacy is critically important to us. At Site Down we have a few fundamental principles:
 
@@ -11,7 +11,7 @@ Your privacy is critically important to us. At Site Down we have a few fundament
 
 
 
-Site Down (“ **Site Down** ”) operates several websites including [SiteDown.co](http://sitedown.co/). It is Site Down's policy to respect your privacy regarding any information we may collect while operating our websites.
+Site Down (“ **Site Down** ”) operates several websites including [SiteDown.co](https://sitedown.co/). It is Site Down's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -21,7 +21,7 @@ Site Down also collects potentially personally-identifying information like Inte
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Site Down's websites choose to interact with Site Down in ways that require Site Down to gather personally-identifying information. The amount and type of information that Site Down gathers depends on the nature of the interaction. For example, we ask visitors who comment on articles to provide a username and email address. Those who engage in transactions with Site Down are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Site Down collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Site Down. Site Down does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Site Down's websites choose to interact with Site Down in ways that require Site Down to gather personally-identifying information. The amount and type of information that Site Down gathers depends on the nature of the interaction. For example, we ask visitors who comment on reports to provide a name and email address. Site Down collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Site Down. Site Down does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -33,7 +33,7 @@ Site Down discloses potentially personally-identifying and personally-identifyin
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Site Down uses cookies to help Site Down identify and track visitors, their usage of Site Down website, and their website access preferences. Site Down visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Site Down's websites, with the drawback that certain features of Site Down's websites may not function properly without the aid of cookies.
+Site Down uses cookies to help identify and track visitors, their usage of the Site Down website, website access preferences, audience demographics and interests. Site Down visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Site Down's websites, with the drawback that certain features of Site Down's websites may not function properly without the aid of cookies.
 
 ### Ads
 
@@ -43,12 +43,28 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
+### Your Rights
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+  * Request access to your personal data;
+  * Request correction or deletion of your personal data;
+  * Object to our use and processing of your personal data;
+  * Request that we limit our use and processing of your personal data; and
+  * Request portability of your personal data.
+
+
+
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.
+
+EU individuals also have the right to make a complaint to a government supervisory authority.
+
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Site Down may change its Privacy Policy from time to time, and in Site Down's sole discretion. Site Down encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Creative Commons License
 
-This Privacy Policy is licensed under [Creative Commons: Attribution-ShareAlike 2.5](http://creativecommons.org/licenses/by-sa/2.5/).
+This Privacy Policy is licensed under [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/).
 
-This Privacy Policy has been repurposed from Automattic Inc.'s Privacy Policy.
+This Privacy Policy has been re-purposed from Automattic Inc.'s Privacy Policy.
