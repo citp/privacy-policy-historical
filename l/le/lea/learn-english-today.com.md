@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217185058id_/http%3A//learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628152445id_/http%3A//www.learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
 
 # Cookie policy information | Learn-English-Today
 
@@ -18,15 +18,15 @@ Your information will enable them to provide you with access to their website an
 
 ### Analytics Cookies
 
-We use Google Analytics cookies to help us understand how people use our site to carry out statistical analysis and market research in order to improve our site. The cookies collect information in an anonymous form. Examples of information collected includes the number of visitors to the site, where visitors have come to the site from, how long each visitor spends on the site, type of browser the visitor is using and the pages they visited.  For more information about this feature and Google Analytics, including how you can manage your settings and opt out of this feature, please visit: <http://www.google.com/analytics/learn/privacy.html>
+We use Google Analytics cookies to help us understand how people use our site to carry out statistical analysis and market research in order to improve our site. The cookies collect information in an anonymous form. Examples of information collected includes the number of visitors to the site, where visitors have come to the site from, how long each visitor spends on the site, type of browser the visitor is using and the pages they visited. For more information about this feature and Google Analytics, including how you can manage your settings and opt out of this feature, please visit: [Safeguarding your data](https://support.google.com/analytics/answer/6004245)
 
 ### How to control cookies?
 
-You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://www.aboutcookies.org/).  
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](https://www.aboutcookies.org/).  
 If you do not want your browser to store cookies, or you want to control which cookies it stores, most modern browsers will allow you to delete cookies, block cookies and change what cookies are stored in the future. Your browser's 'help' function should explain how to do this. However, if you block cookies, you may have to manually adjust some preferences every time you visit a site, and some services and functionalities may not work.
 
 **Links**
 
-We are in no way responsible for websites that are linked from learn-english-today.com. Once you leave our website we are unable to ensure your privacy. Please read the privacy policies of the other website you visit.
+We are in no way responsible for websites that are linked from learn-english-today.com. Once you leave our website we are unable to ensure your privacy. Please read the privacy policies of the other websites you visit.
 
 **By using our website, you accept this policy.**
