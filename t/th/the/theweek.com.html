@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theweek.com privacy policy that was archived on 2017-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231183517id_/http%3A//theweek.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweek.com privacy policy that was archived on 2018-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628101521id_/http%3A//theweek.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- Chartbeat 1 of 2 -->
@@ -33,7 +33,7 @@ adServer: 'googletag' });
 	   <meta property="og:title" content="">
 	   <meta property="og:type" content="website">
 	    <meta property="og:description" content="Political News and Cartoons, Current Events and Entertainment Online">
-	   	   	   <meta property="og:image" content="theweek.combundles/twsite/images/logo-default.png">
+	   	   	   <meta property="og:image" content="http://theweek.combundles/twsite/images/logo-default.png">
 	   
         		
      
@@ -74,6 +74,44 @@ adServer: 'googletag' });
 	</head>
 
 <body class="append-mat">
+	<!-- begin consent tag -->
+	<!--
+    your client engineer will help you construct this config file
+    Conversant will host it for you
+    -->
+	<script src="https://cdn.conversant.mgr.consensu.org/gdpr/cmp/config/t/h/theweek.com/config.js"></script>
+	<script>
+		// optional language override
+		//window.gdprConsentManager.lang = window.navigator.userLanguage || window.navigator.language;
+		//use callback functions to create TMS trigger
+		jQuery(function() {
+
+			window.cmpConfig.callbacks.onGDPRComplete = function () {
+				TheWeek.pushUAEvent('GDPR events', 'onGDPRComplete', 'The GDPR consent capture is complete');
+			}
+
+			window.cmpConfig.callbacks.onConsentAll = function(){
+			 TheWeek.pushUAEvent('GDPR events', 'onGDPRConsentAll', 'A user has consented to all vendors');
+			}
+
+			window.cmpConfig.callbacks.onNoConsentAll  = function(){
+			 TheWeek.pushUAEvent('GDPR events', 'onGDPRNoConsentAll', 'A user does not consent to any vendors');
+			}
+
+			window.cmpConfig.callbacks.onConsentSome   = function(){
+			 TheWeek.pushUAEvent('GDPR events', 'onGDPRConsentSome', 'A user consents to some, but not all vendors');
+			}
+
+			window.cmpConfig.callbacks.onCMPDismiss = function () {
+				TheWeek.pushUAEvent('GDPR events', 'onGDPRDismiss', 'The Consent Tool is closed');
+			}
+		});
+
+
+	</script>
+	<!-- begin consent code, hosted on Conversant's CDN -->
+	<script src="https://secure-cdn.mplxtms.com/gdpr/cmp/gdpr-cmp-bootstrap.js"></script>
+	<!-- end consent tag -->
 <div id="cssjsconfig"></div>
 			<script>
 																/**
@@ -93,14 +131,15 @@ adServer: 'googletag' });
 		</script>
 
 			
+
 <div class="out-of-page-ad promo_subs_unit">
     <div class="inner-container">
     <div id="close-oop-ad-btn" class="close-ad-btn show-for-small-only">×</div>
-    <div class="oop-ad promo-subs-unit show-for-large-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999" data-device="desktop">
+    <div class="oop-ad promo-subs-unit show-for-large-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999;placement:TW_D_999;" data-device="desktop">
     </div>
-    <div class="oop-ad promo-subs-unit show-for-medium-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999" data-device="tablet">
+    <div class="oop-ad promo-subs-unit show-for-medium-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999;placement:TW_T_999;" data-device="tablet">
     </div>
-    <div class="oop-ad promo-subs-unit-mob show-for-small-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999" data-device="mobile">
+    <div class="oop-ad promo-subs-unit-mob show-for-small-only" id="div-gpt-ad-1422997770191-0-oop" data-ad-id="div-gpt-ad-1422997770191-0-oop" data-targets="inventory:btf;position:999;placement:TW_M_999;" data-device="mobile">
     </div>
     </div>
 </div>
@@ -173,177 +212,113 @@ adServer: 'googletag' });
 <div class="container">
 	<div class="section-content">
 	<div class="section">
-	
-<div id="slide">
-<div id="sliding-menu">
-<a class="boxclose" id="boxclose" onclick="TheWeek.pushUAEvent('Header', 'Animation', 'Close');"><img src="/bundles/twsite/images/close_header.svg"></a>
-	<div id="five-categories-desktop">
-		<div id="in-five-categories">
-			<ul>
-			        <li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Opinion');" href="/section/opinion">Opinion</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Features');" href="/section/feature">Features</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Speed Reads');" href="/speedreads">Speed Reads</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', '5 Need-to-knows');" href="/5things">5 THINGS TO KNOW</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Popular');" href="/mostpopular">Popular</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Authors');" href="/authors">Authors</a></li>
-					<li><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Magazine');" href="/covergallery">Magazine</a></li>
-			</ul>
-		</div>
-	</div>
-	<div id="five-categories">
-		<div id="in-five-categories">
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Opinion');" href="/section/opinion">Opinion</a></div>
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Features');" href="/section/feature">Features</a></div>
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Speed Reads');" href="/speedreads">Speed Reads</a></div>
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', '5 Need-to-knows');" href="/5things">5 THINGS TO KNOW</a></div>
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Popular');" href="/mostpopular">Popular</a></div>
-					<div class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Magazine');" href="/covergallery">Magazine</a></div>
-
-		</div>
-	</div>
-	<div id="HPMenuBar-desktop">
-		<div id="in-HPMenuBar">
-			<ul>
-				<li class="world"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'World');" href="/section/world">World</a></li>
-				<li class="us"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'U.S.');" href="/section/U.S.">U.S.</a></li>
-				<li class="politics"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Politics');" href="/section/politics">Politics</a></li>
-				<li class="business"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Business');" href="/section/business">Business</a></li>
-				<li class="tech"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Tech');" href="/section/tech">Tech</a></li>
-				<li class="science"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Science');" href="/section/science">Science</a></li>
-				<li class="entertainment"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Entertainment');" href="/section/entertainment">Arts</a></li>
-				<li class="books"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Books');" href="/section/books">Books</a></li>
-				<li class="lifestyle"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Lifestyle');" href="/section/lifestyle">Life</a></li>
-				<li class="travel"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Travel');" href="/section/travelchannel">Travel</a></li>
-				<li class="photos"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Photos');" href="/captured">Photos</a></li>
-				<li class="audio"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Audio');" href="/audio">Podcasts</a></li>
-				<li class="video"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Video');" href="/video">Video</a></li>
-				<li class="cartoons"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Cartoons');" href="/cartoons">Cartoons</a></li>
-				<li class="quizzes"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Quizzes');" href="/quizzes">Quizzes</a></li>
-				<li class="puzzles"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Puzzles');" href="/puzzles">Puzzles</a></li>
-				<li class="newslettersss"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Newsletters');" href="/newsletters">Newsletters</a></li>
-			</ul>
-
-		</div>
-		</div>
-
-		<div id="HPMenuBar">
-		<div id="in-HPMenuBar">
-						<div class="HPMenuItem world" id="hp_1"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'World');" href="/section/world">World</a></div>
-						<div class="HPMenuItem us" id="hp_2"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'U.S.');" href="/section/U.S.">U.S.</a></div>
-							<div class="mob-break"></div>
-						<div class="HPMenuItem politics" id="hp_3"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Politics');" href="/section/politics">Politics</a></div>
-						<div class="HPMenuItem business" id="hp_4"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Business');" href="/section/business">Business</a></div>
-							<div class="tablet-break"></div>
-						<div class="HPMenuItem tech" id="hp_5"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Tech');" href="/section/tech">Tech</a></div>
-						<div class="HPMenuItem science" id="hp_6"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Science');" href="/section/science">Science</a></div>
-							<div class="mob-break"></div>
-						<div class="HPMenuItem entertainment" id="hp_7"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Entertainment');" href="/section/entertainment">Arts</a></div>
-						<div class="HPMenuItem books" id="hp_8"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Books');" href="/section/books">Books</a></div>
-							<div class="tablet-break"></div>
-						<div class="HPMenuItem lifestyle" id="hp_9"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Lifestyle');" href="/section/lifestyle">Life</a></div>
-						<div class="HPMenuItem travel" id="hp_10"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Travel');" href="/section/travelchannel">Travel</a></div>
-							<div class="mob-break"></div>
-						<div class="HPMenuItem photos" id="hp_11"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Photos');" href="/captured">Photos</a></div>
-						<div class="HPMenuItem audio" id="hp_12"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Audio');" href="/audio">Podcasts</a></div>
-							<div class="tablet-break"></div>
-						<div class="HPMenuItem video" id="hp_13"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Video');" href="/video">Video</a></div>
-						<div class="HPMenuItem cartoons" id="hp_14"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Cartoons');" href="/cartoons">Cartoons</a></div>
-							<div class="mob-break"></div>
-						<div class="HPMenuItem quizzes" id="hp_15"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Quizzes');" href="/quizzes">Quizzes</a></div>
-						<div class="HPMenuItem puzzles" id="hp_16"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Puzzles');" href="/puzzles">Puzzles</a></div>
-							<div class="tablet-break"></div>
-						<div class="HPMenuItem placeholder" id="hp_17"></div>
-							<div class="mob-break"></div>
-						<div class="HPMenuItem newslettersss" id="hp_18"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Newsletters');" href="/newsletters">Newsletters</a></div>
-						<div class="HPMenuItem author" id="hp_19"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Authors');" href="/authors">Authors</a></div>
-						<div class="mob-break"></div>
-						<div class="HPMenuItem placeholder" id="hp_20"></div>
-			</div>
-		</div>
-		<div class="special-reports-inside-header">Special reports:
-			  <span class="black-text">
-				  <span class="additional-links theideafactory"><a href="/section/theideafactory">THE IDEA FACTORY</a> </span>
-			  </span>
-			  <span class="black-text">
-					<span class="additional-links prosper"><a href="/section/prosper">PROSPER</a> </span>
-			  </span>
-		</div>
-</div>
-</div>
-
+	    
 <div class="header-wrapper">
-<div class="mobile-extension-header"></div>
-<div id="header" class="menu-close">
-	<div id="sandwich-search" class="mag-glass-off">
-		<div id="sandwich-outer">
-			<div id="sandwich">Menu</div>
-		</div>
-		<div id="magnify-click"></div>
- 		<div id="search-line"></div>
- 		<div id="button-close"></div>
-			<div id="search">
-			<form method="post" id="Search">
-	  				<input name="term" type="search" size="40" placeholder="search" class="search_input" id="search_input" "="">
-		    </form>
-			</div>
-	</div>
-	<div id="logo-wrapper"><div id="logo"><a href="/" onclick="TheWeek.pushUAEvent('Header', 'Animation', 'Logo');"><div id="tw-logo"></div></a></div></div>
+    <div class="sliding-menu">
+        <div class="sliding-menu-wrap" id="sliding-menu">
+            <a class="close-icon" id="boxclose" onclick="TheWeek.pushUAEvent('Header', 'Animation', 'Close');">×</a>
+            <ul class="five-categories-list">
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Opinion');" href="/section/opinion">Opinion</a></li>
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Features');" href="/section/feature">Features</a></li>
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Speed Reads');" href="/speedreads">Speed Reads</a></li>
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', '5 Need-to-knows');" href="/5things">5 THINGS TO KNOW</a></li>
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Popular');" href="/mostpopular">Popular</a></li>
+                <li class="five-categories-item hide-for-medium-only"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Authors');" href="/authors">Authors</a></li>
+                <li class="five-categories-item"><a onclick="TheWeek.pushUAEvent('Header', '5 Categories', 'Magazine');" href="/covergallery">Magazine</a></li>
+            </ul>
+            <div class="hp-menu-bar">
+                <ul class="row medium-up-4 small-up-2 collapse">
+                    <li class="world hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'World');" href="/section/world">World</a></li>
+                    <li class="us hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'U.S.');" href="/section/U.S.">U.S.</a></li>
+                    <li class="politics hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Politics');" href="/section/politics">Politics</a></li>
+                    <li class="business hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Business');" href="/section/business">Business</a></li>
+                    <li class="tech hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Tech');" href="/section/tech">Tech</a></li>
+                    <li class="science hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Science');" href="/section/science">Science</a></li>
+                    <li class="entertainment hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Entertainment');" href="/section/entertainment">Arts</a></li>
+                    <li class="books hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Books');" href="/section/books">Books</a></li>
+                    <li class="lifestyle hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Lifestyle');" href="/section/lifestyle">Life</a></li>
+                    <li class="photos hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Photos');" href="/captured">Photos</a></li>
+                    <li class="video hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Video');" href="/video">Video</a></li>
+                    <li class="cartoons hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Cartoons');" href="/cartoons">Cartoons</a></li>
+                    <li class="puzzles hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Puzzles');" href="/puzzles">Puzzles</a></li>
+                    <li class="newslettersss hp-menu-item column"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Newsletters');" href="/newsletters">Newsletters</a></li>
+                    <li class="authors hp-menu-item column show-for-medium-only"><a onclick="TheWeek.pushUAEvent('Header', 'HPMenu', 'Authors');" href="/authors">Authors</a></li>
+                </ul>
+            </div>
+            <div class="special-reports-inside-header">Special reports:
+                <span class="additional-link theideafactory"><a href="/section/theideafactory">THE IDEA FACTORY</a></span>
+            </div>
+        </div>
+    </div>
 
-	<div class="subscribe-unit-header">
-		<div class="links">
-			<ul>
-				<li><a class="link-header give-gift-link-header" href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJMD3&amp;MSCCMPLX=710WKGAC1" target="_blank">Give a gift</a></li>
-				<li><a class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=10525DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=707WKSAT6" target="_blank">Subscribe</a></li>
-			</ul>
-		</div>
-		<div class="cover"><img style="width:63px;" src="http://cdn.app.theweek.com/editions/com.dennis.theweek.issue.issue853/assets/styles/cover/public/iPad-cover-853-854thumbnail.jpg?resize=180x174"><img class="gift-bow" src="/bundles/twsite/images/gift-bow.png"></div>
-	</div>
-	<div id="try-subs-mob">
-		<div id="try-mob">Try the Week Magazine</div>
-		<a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=10525DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=612WKSAC3" target="_blank">
-			<input id="subscribe-btn-mob" onclick="TheWeek.pushUAEvent('Header', 'Animation', 'Subscribe Button');" class="subscribe-btn" type="submit" name="subscribe" value="Subscribe">
-		</a>
-	</div>
-	<div class="border-header"></div>
+    <div class="main-header menu-close">
+        <div class="main-header-wrap">
+            <div id="sandwich-search" class="sandwich-search-block"><div class="sandwich-wrap" id="sandwich-click"><div class="sandwich-icon">Menu</div></div><div class="magnify-wrap" id="magnify-click"><div class="magnify-icon"></div></div><div class="search-wrap" id="search"><form method="post" id="search-form"><input name="term" type="search" size="40" placeholder="search" class="search-input" id="search_input" "=""><div class="close-icon show-for-small-only" id="button-close">×</div></form></div></div>            
+            <a class="tw-logo" href="/" onclick="TheWeek.pushUAEvent('Header', 'Animation', 'Logo');"></a>
+
+            <div class="subscribe-block-header blue-buttons header-btns">
+                <div id="subscribe-links-desktop" class="subscribe-links-desktop show-for-medium">
+                    <ul class="links-list">
+                        <li class="link-wrap"><a class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=20262DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=804WKSAC18" target="_blank">Subscribe &amp; save</a></li>
+                        <li class="link-wrap"><a class="link-header give-gift-link-header" href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJ922&amp;MSCCMPLX=804WKGAC20" target="_blank">Give a gift</a></li>
+                        <li class="link-wrap"><a class="link-header digital-subscribe-link-header" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=19303DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=801WKSAC2" target="_blank">Digital subscription</a></li>
+                    </ul>
+
+                                                                            <div class="cover show-for-large-only"><img style="width:70px;" src="//cdn-assets.ziniopro.com/var/site_720/storage/images/media2/images/ipad-cover-860/470542-1-eng-US/ipad-cover-860.jpg?t=ipa?resize=180x174"></div>
+                </div>
+
+                <div class="subscribe-links-mobile show-for-small-only">
+                    <div class="link-wrap"><a id="subscribe-link-header-mobile" class="link-header subscribe-link-header" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=20262DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=804WKSAC19" target="_blank">SUBSCRIBE</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="border-header" id="advetorial-blue-bar"></div>
 </div>
-</div>
-	<script>
-		var subscribeRandom =  Math.floor((Math.random() * 1000000) + 1);
+    <script>
+        // A/B TEST
+        var subscribeRandom =  Math.floor((Math.random() * 1000000) + 1);
 
-		function abSubscribeTest(){
-			if (subscribeRandom <= 500000) {
-				jQuery(".subscribe-link-header").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=17855DIR01&MAGCODE=WK&MSCCMPLX=712WKSAC1');
-			}
-			else {
-				jQuery(".subscribe-link-header").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=18544DIR&MAGCODE=WK&MSCCMPLX=712WKSAT2');
-			}
-		}
+        function abSubscribeTest(){
+            if (subscribeRandom <= 500000) {
+                jQuery("#subscribe-link-header-mobile").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=20842DIR01&MAGCODE=WK&MSCCMPLX=805WKSAT6');
+            }
+            else {
+                jQuery("#subscribe-link-header-mobile").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=20262DIR01&MAGCODE=WK&MSCCMPLX=805WKSAT7');
+            }
 
-		jQuery(document).ready(function(){
-			abSubscribeTest();
-		});
+            jQuery("#subscribe-link-header-mobile").attr("onclick","TheWeek.pushUAEvent('Testing', 'Test the offer - mobile subcribe button', 'Control - Clicked');");
+            TheWeek.pushUAEvent('Testing', 'Test the offer - mobile subcribe button', 'Control - Seen', 0, {nonInteraction: true});
+        }
+        jQuery(document).ready(function(){
+            if(TheWeek.getCurrentDevice() == 'mobile'){
+                abSubscribeTest();
+            }
+        });
+        // End A/B test
 
-		// search submit
-		function searchSubmit() {
-			var term = document.getElementById("search_input").value;
-			// term = term.replace(' ', '+');
-			if(term!=""){
-				document.location.href = "/search/"+term;
-			}
-			else{
-				document.location.href = "/search";
-			}
-			return false;
-		}
-		jQuery("#search_input").keyup(function (e) {
-			if (e.keyCode == 13) {
-				e.preventDefault();
-				searchSubmit();
-			}
-		});
-	</script>
-	
-	
+        // Search submit
+        function searchSubmit() {
+            var term = document.getElementById("search_input").value;
+            // term = term.replace(' ', '+');
+            if(term!=""){
+                document.location.href = "/search/"+term;
+            }
+            else{
+                document.location.href = "/search";
+            }
+            return false;
+        }
+        jQuery("#search_input").keyup(function (e) {
+            if (e.keyCode == 13) {
+                e.preventDefault();
+                searchSubmit();
+            }
+        });
+
+    </script>
+    
+    
 
 
 	
@@ -357,135 +332,175 @@ adServer: 'googletag' });
 			<div class="content-inside">
 			
     <div id="mainbulk" class="privacy-ipad-container">
-        <div class="bottom_med dot"><h2>Privacy Notice</h2></div>
-		<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THESE SERVICES.</p>
-		<p class="date">LAST UPDATED: March 5th, 2014</p>
-		<p>As used herein, "Services" refers to theweek.com (including web sites designed to be accessed by browsers using Wireless Application Protocol) and other web sites on the World Wide Web or mobile applications developed for tablet devices, smartphones or other mobile electronic devices, originating in the United States, which are owned and/or operated by The Week Publications, Inc. and/or Felix Dennis (collectively, "The Week"). By using these Services, you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access these Services and you should not do so. The Week reserves the right to change or otherwise update this Privacy Policy at any time. Such changes or updates are effective immediately after The Week gives notice of the change or update, which The Week may do by posting to these Services, or by e-mail or conventional mail, and/or by any other means, which provides reasonable notice. Your use of these Services after such notice is posted means that you accept these changes or updates. The Week understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us.</p>
+        <div class="bottom_med dot"><h2>The Week Privacy Policy</h2></div>
 
-        <h3><span>INFORMATION COLLECTION</span></h3>
-        <p class="MsoNormal">
-           We (both directly and through third parties) collect personally identifying information when you register for the online newsletters, subscribe to the magazine, download our mobile applications, enter contests, or participate in other interactive online activities (e.g., surveys, providing comments, participating in social media, or games) throughout these Services. This personally identifiable information may include your name, street address, city, state, zip code, e-mail address, landline phone number, cell phone number, and other identifiers that permit the physical or online contacting of a specific individual. As described below, we may use such information to award prizes or, with your permission, for promotional and marketing purposes. We also collect non-personally-identifiable information (such as your IP address or domain, or about your use of the Services) both directly and through third parties, including through the use of Web beacons, for purposes of administration, targeting advertising and to compile aggregate information about usage of the Services. From time to time, we may use personally identifiable information to offer promotions, products, programs or services that may be of interest to you, or combine information we receive online with our outside records to enhance our ability to offer you promotions, products, programs or services that may be of interest to you. From time to time, we also may make personally identifiable information available to other companies to offer promotions, products, programs or services that may be of interest to you. You will be asked for your credit card information if you subscribe to The Week Magazine or buy any other product from the Services. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third party service providers and contact them directly if you have questions as they may have privacy terms that differ from The Week's Privacy Policy. These Services have implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, The Week cannot absolutely guarantee the security of any information you provide to us.
-	    </p>
+        <p class="date"><em>Effective Date:</em>  This Privacy Policy was last modified on May 24, 2018. </p>
+        <p>The Week Publications, Inc., publisher of The Week print magazine and on-line website theweek.com in the United States and other associated properties, is committed to maintaining the privacy of Personal Information that we collect, receive, use, retain, maintain, disclose, delete or dispose of, and transfer, including by international disclosure and transfer (collectively “process” or “processing”). This Privacy Policy covers how The Week Publications will collect and process Personal Information (e.g., name, email address) and other non-personal information (e.g., usage and analytics) on websites and mobile apps owned and/or operated by The Week Publications Inc. and/or Felix Dennis in the United States (“The Week” or “we”), including: <a href="/">theweek.com</a> and associated websites and mobile apps (collectively, the “Services”).  It also describes your choices regarding use, access, deletion and correction of your Personal Information.  Your use of the Services is at all times subject to our <a href="/terms">Terms of Service</a> or other rules which may be posted on other pages our websites or on or mobile apps. All references to “you,” “your” or “user” apply to any person viewing, accessing or otherwise using the Services and associated features and services, including both those who use the Services without being registered with or subscribing to a Service and users who have registered with or subscribed to a Service.</p>
+        <p><em>By accessing the Services and/or by providing Personal Information, you accept and hereby affirmatively, expressly, explicitly, voluntarily and unambiguously consent to our processing of your Personal Information in accordance with the terms of this Privacy Policy</em>. If you do not agree with any of the terms of this Privacy Policy, you should not view, access or use the Services.  This Privacy Policy does not apply to the practices of companies or other third parties we don’t own or control.</p>
 
-        <h3><span>HOW WE USE INFORMATION</span></h3>
+        <h3><span>Information Collection and Use</span></h3>
         <p class="MsoNormal">
-            We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest. We may combine information we receive with outside records and share such information with third parties to enhance our ability to market to you those products or services that may be of interest to you. We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g. other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. In addition to the foregoing, The Week may share or disclose personally identifiable information about you to other companies or individuals when: We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; You have entered a contest or sweepstakes sponsored by a third party and you have agreed to permit the third party to share, disclose or otherwise use personally identifying information, in which case the information may be shared with that third party for their use as permitted by their respective privacy policies, including direct marketing; We need to protect our legal rights (for example, if we are trying to collect money you owe us, or to comply with legal processes such as subpoenas and court orders and when we believe in good faith that the law requires the sharing of your personal information). We must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies.
-	    </p>
-
-        <h3><span>HOW WE USE E-MAIL ADDRESSES</span></h3>
-        <p class="MsoNormal">
-            We may use your e-mail address for the following types of e-mail messages: Account Service Communications. We may send you communications related to products and services in which you are enrolled (e.g. subscription and membership communications) Surveys, Contests and Sweepstakes communications, including confirming entries, notifying winners, sharing results or follow-up promotions. Updates and valuable offers. We may send you e-mail account updates, offers for our products and services, request for subcriptions, as well as valuable offers from our business partners that we send you on their behalf. Email newsletters that you elected to receive.
-	    </p>
-
-        <h3><span>HOW TO OPT-OUT</span></h3>
-        <p class="MsoNormal">
-            To unsubscribe from the theweek.com newsletter and/or other electronic communications from The Week, reply to the e-mail with "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line, or by following the "unsubscribe" link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from one of these Services' partners by typing "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line in a reply to one of the partner's e-mails to you, following the "unsubscribe" link at the bottom of the e-mail, or by following the partner's Privacy Policy found on its website. To unsubscribe or change the address of your The Week Magazine subscription, or to provide any other subscription-related information to The Week, you may write to The Week, PO Box 62290, Tampa, FL 33662-2290 or call 1 (877) 245-8151.
-	    </p>
-
-        <h3><span>POLICY FOR MINORS</span></h3>
-        <p class="MsoNormal">
-            Children should always ask parents for permission before providing any personal information online. No information should be submitted to or posted on these Services by any Minor (a visitor under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly collect any personally identifiable information about minors on these Services, provide any personally identifying information about Minors, regardless of its source, to third parties, and do not knowingly use such information for any marketing or promotional purposes. Minors are not allowed to participate in contests on these Services.
-	    </p>
-
-        <h3><span>POLICY FOR ADULT VISITORS</span></h3>
-        <p class="MsoNormal">
-            These Services collect personal information from guests over 18 years of age in order to provide guests with a personalized online experience and to provide our advertisers a way to reach the right audience. The Week may share the personal and aggregate information we collect with our affiliates and other Services operated by and for The Week. On a confidential basis, The Week may also share personal information with our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf (such as fulfilling orders or for general site administration purposes). The Week shares aggregate information with third parties for advertising and promotional purposes. If all or part of The Week Publications, Inc. or its affiliates are sold, merged, or is otherwise transferred to another entity, the information you have provided to these Services may be transferred to such entity as part of that transaction. We may also disclose personal information in response to legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of these Services if we believe that a guest has committed unlawful or otherwise harmful acts. With the permission of guests 18 years or older, information submitted at the time of registration or submission may be used for marketing and promotional purposes by us and, also with the permission of the guest, may be shared by us with companies that have agreed with The Week to use this information only for the marketing and promotion of its products and services. If any individual submits content for publication, we may publish his or her name and any other information submitted by that individual. If guests elect to use our "E-mail to a Friend" referral service for informing a friend about these Services, we ask for the friend's e-mail address, and we will send an email in response to the guest's request inviting their friend to visit the Services. This information is stored by these Services solely for the purpose of sending the e-mail.
-	    </p>
-
-        <h3><span>YOUR CALIFORNIA PRIVACY RIGHTS</span></h3>
-        <p class="MsoNormal">
-            A California privacy law that went into effect on January 1, 2005, the "Shine the Light" law, allows California residents to obtain a list of third parties to whom a business has disclosed personal information if it shares such information with third parties for their direct marketing purposes. However, if a business adopts and discloses in its privacy policy a policy of not disclosing customers' personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and by providing a cost-free means to exercise that right. As stated earlier in this Privacy Policy, personal information submitted at the time of registration or submission may be used for marketing and promotional purposes only with the guest's permission. Whenever a guest agrees to allow us to collect personal information, we provide the guest with an option to prevent such information from being shared for marketing and promotional purposes with third parties. Because these Services have a comprehensive privacy policy and provide you with details on how you may opt-in or opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with the third party list.
-	    </p>
-
-        <h3><span>PUBLIC FORUMS</span></h3>
-        <p class="MsoNormal">
-            Whenever you voluntarily disclose personal information online in social media, chat rooms, message boards, comments or similar posting areas, the information can be reviewed and collected by anyone. Therefore, do not post any information that you do not want to be made available to the general public. The Week is not responsible for unsolicited communications that arise from your postings on these Services.
-	    </p>
-
-        <h3><span>PURCHASE OF PRODUCTS FROM THESE SERVICES</span></h3>
-        <p class="MsoNormal">
-            If you purchase a product or subscribe to The Week Magazine from these Services, information may be collected from you, including your credit card and contact information, for transfer to and use by third party providers of the product. The Week does not retain this information. Unless otherwise stated, The Week does not have any responsibility in connection with such purchases and all transactions and use of any customer information are the sole responsibility of the product provider. Be sure to review the product provider's privacy policy and contact them directly if you have any questions. They may have privacy terms that differ from The Week's Privacy Policy.
-	    </p>
-
-        <h3><span>THIRD PARTY ADVERTISING</span></h3>
-        <p class="MsoNormal">
-            We use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit these Services. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to these Services and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web address: http://www.networkadvertising.org/optout_nonppii.asp
-	    </p>
-
-        <p class="MsoNormal">
-            The Week Publications, Inc. is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+            Information You Provide<br>
+            Users can browse our websites without logging in or providing any Personal Information, although we passively collect certain other information as described below.  The IP address of your device is collected when you access the Services for the purposes of system administration, security, and to report aggregate information to our advertisers, our affiliates or vendors.  We do not combine IP addresses with any collected Personal Information, nor do we compile session activity reports by IP address. In addition, we currently do honor Do Not Track signals.
+        </p>
+        <p>When you subscribe to any of our magazines or products, register for a newsletter, download our mobile apps, purchase an item, enter contests, contact us for any information or to ask a question, or participate in other on-line activities (e.g., surveys, providing comments, participating in social media or on-line games), you will be asked to provide certain Personal Information, which may include your name, street address, city, state, zip code, email address, and phone number (landline and/or mobile).   It is always your choice whether or not to provide us with such Personal Information.  However, if you do not provide the necessary information you may not be able to access some or all of the features of the Services. We also will have no way to respond to your questions or inquiries.</p>
+        <p>
+            To summarize, the Personal Information we collect from you is meant to help us:<br>
+            •	fulfil your order<br>
+            •	manage your registration preferences<br>
+            •	send you renewal notifications and/or service billing notifications<br>
+            •	personalize web content (including social media) and advertising based on your personal characteristics or preferences<br>
+            •	ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors<br>
+            •	conduct customer satisfaction surveys<br>
+        </p>
+        <p>
+            We may also:<br>
+            •	inform you about additional products and services you may be interested in<br>
+            •	inform you about other promotional activities we offer or from third parties with whom we have a business relationship<br>
+            •	invite you to participate in market research, surveys and polls for ourselves or for our client<br>
+        </p>
+        <p>In addition, when you purchase a gift subscription we will collect the recipient’s name and email so we can send the gift subscription to the recipient.  We, through our third party partners, also collect your name, email and payment information to process your gift subscription purchase.</p>
+        <p>We use a third-party payment processor to facilitate payments for subscriptions, to make any purchase.   You will be asked to provide certain financial information, such as a credit card number, debit card number, PayPal information, along with other Personal Information to verify and authorize the payment.  The collection and process of this information by the payment processor is subject to their terms and policies.   We do not have access to, nor do we retain your financial information that you provide to the third-party processor. </p>
+        <p><span style="display:inline;text-decoration: underline;">Passive Collection of Information; Tracking Technologies</span><br>We gather certain information automatically when you access our websites and the Services. This information may include, but not be limited to, Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.   We use this information for profiling purposes, such as tracking user’s web browsing activities through cookies or other tracking technologies, in order to analyze user browsing behavior to provide and to improve the Services and to serve online behavioral advertising.</p>
+        <p>We use cookies on our websites.  Cookies are used to improve functionality and your use of our websites, as well as for analytic and advertising purposes.  Disabling cookies may hinder your ability to access and use our websites or Services.    </p>
+        <p>In addition, we use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. We use persistent cookies to assist us with the collection and use of de-identified browsing data, including IP address and Cookie ID to enable online behavioral advertising. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still navigate our websites, but your ability to use the Services may be limited. </p>
+        <p>This de-identified data includes, but is not limited to, information such as a web visitor’s web pages which have been viewed by a web visitor, date and time, domain type, and responses by a web visitor to an advertisement delivered by us or a third-party advertising technology vendor. As the Internet evolves, we may use different types of technologies to collect these types of de-identified, non-personally identifiable information. The collection of this de-identified data allows us and our partners to better target advertising to user interests. The data also allows us to provide improvements to our services, for example, improving the effectiveness of the advertisements delivered to users and limiting the number of times a person sees a given advertisement.  A further description of how we use online behavioral advertising is provided below.</p>
+        <p>We regularly conduct analytics activities on our websites and Services to determine their effectiveness and how they can be improved.  For example, we use Google Analytics and other services to improve our operations. For more information about Google analytic cookies, please see Google’s help pages:  <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage</a>
+            Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.
         </p>
 
-        <h3><span>USE OF IP ADDRESSES</span></h3>
+        <h3><span>Online Behavioral Advertising</span></h3>
         <p class="MsoNormal">
-            An IP address is a number that is automatically assigned to your computer by your Internet service provider whenever you log on to the Web. Web servers automatically identify your computer by its IP address, so when a guest requests pages from these Services, our servers log the guest's IP address. The IP addresses of our guests are collected only for the purposes of system administration, security and to report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. We do not combine IP addresses with any personally identifying information, nor do we compile any session activity reports by IP address.
-	    </p>
-        <h3><span>USE OF COOKIES</span></h3>
+            We use third party advertising companies and advertising networks to serve online behavioral advertising to you on our behalf when you access and use the Services.  Our agreements with these third-party advertising networks specify that they may use certain non-personal information about your access and use of the Services (but not Personal Information such as your name, address, email address or telephone number) to provide advertisements about goods and services that may be of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please see the following website from the National Advertising Initiative (NAI):
+            <a href="http://optout.networkadvertising.org/#!/">http://optout.networkadvertising.org/#!/</a> or the Digital Advertising Alliance (DAA): <a href="http://optout.aboutads.info/#!/" target="_blank">http://optout.aboutads.info/#!/</a>.
+        </p>
+
         <p class="MsoNormal">
-            Cookies are pieces of information that a Web site transfers to an individual's computer for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're online. The use of cookies is an industry standard. You'll find them at most major Web sites. We use cookies to help us see, which areas are popular and which are not. This helps us to target ads based on guest interests, and also improve and update these Services based on such data as total number of guests and pages viewed. This information is most easily tracked with cookies. A cookie allows us to store the personal preferences that you set during each visit to these Services, which in turn allows us to speed up your future activities at these Services. Similarly, the stores hosted by these Services usually use cookies to track which products you've chosen to purchase while shopping. Letting cookies do the record keeping saves you the trouble of entering information over and over again. If you are a subscriber of The Week Magazine and have registered to access the subscriber-only portion of these Services, an identifying cookie will be placed on your computer. During future visits to these Services, we will only read and retrieve information that we set in a cookie during an earlier visit to these Services. You may occasionally get cookies from our advertisers when using these Services as well. These Services does not control these cookies, and they are not subject to The Week's Privacy Policy. Advertisers do not have access to these Services' cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of these Services, such as the shopping, subscriptions, contest, and game areas, will not function properly if you do so. If you have any questions or concerns about The Week's Privacy Policy or its implementation, you may contact us at The Week, Privacy Policy, 55 West 39th Street, 5th Floor, New York, NY 10018.
-	    </p>
-	    <p style="font-size:12px;">877-231-2450</p>
+            As noted above, we employ cookies and other technologies, as well as work with third parties to provide online behavior advertising on our websites and Services, which strive to provide you with more targeted advertising choices.  This service does not access or use your Personal Information, but rather data about your online viewing history is collected and analyzed anonymously.  Residents of the EEA are asked to consent to our use of online behavior advertising: <a href="javascript:window.cmpConfig.methods.summon();">Review consent preferences</a>.  At any time, you can opt out at of this service by going to the following link sponsored by the European Interactive Digital Advertising Alliance (EDAA):  <a href="http://www.youronlinechoices.com/" target="_blank">http://www.youronlinechoices.com/</a>.   Be advised, however, that not consenting to or opting out of online behavior advertising does not mean that you will not see advertising when you are online.  It means only that the advertising you do see will be less relevant to your interests and choices.	    </p>
+        <p>
+            Access to Your Personal Information; Information Choices<br>
+            Residents of the EEA have the right to:<br>
+            •	Access your Personal Information;<br>
+            •	Delete, or request deletion of, your Personal Information;<br>
+            •	Object to or restrict processing of your Personal Information;<br>
+            •	Request portability of your Personal Information;<br>
+            •	Complain to your local data protection authority at any time;<br>
+            •	Object to automated decision making; and<br>
+            •	Update your Personal Information.<br>
+        </p>
+
+        <p>
+            To withdraw consent or exercise these rights, please:<br>
+            •	Contact us as provided below; or<br>
+            •	Adjust your preferences through the Account preferences (if available).<br>
+        </p>
+
+        <p>
+            Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+        </p>
+
+        <p>If we ask you to provide Personal Information to us to comply with a legal requirement or enter into a contract, we will inform you of this and let you know whether providing us with your Personal Information is required and if not, the consequences of not sharing your personal data with us.</p>
+        <p>Similarly, if we collect and use your Personal Information in reliance on our or a third party's legitimate interests and those interests are not already described above, we will let you know what those legitimate interests are.</p>
+        <p>We endeavor to apply suitable safeguards to protect the privacy and security of your Personal Information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy.  We also take steps to minimize the risk to your rights and freedoms by not collecting or storing sensitive or special categories of Personal Information about you. </p>
+        <p>If you are a Canadian resident, you may withdraw consent, request information about our collection, use and disclosure of your Personal Information, and request information on our policies and practices relating to disclosure of information to our service providers.</p>
+        <p>You can also exercise these rights at any time by contacting us at privacy@theweek.com or as indicated below.  We will respond to your request in a reasonable timeframe and in accordance with the law that applies to you.   In most cases, revoking consent is prospective only. If you withdraw your consent you may no longer be able to access or use any of the Services.</p>
+
+        <h3><span>Third-Party Affiliates</span></h3>
+        <p class="MsoNormal">
+            We participate in affiliate marketing and may allow affiliate links to be encoded on some of our pages. This means that we may earn a commission if/when you click on or make purchases via affiliate links.
+        </p>
+
+        <h3><span>Accessing Your Information; Information Choices</span></h3>
+        <p class="MsoNormal">
+            In addition to any other rights to your data that you may have under laws that apply to you, you may access your Personal Information that we hold, and correct, amend, update or delete information that is inaccurate by contacting us at privacy@theweek.com.  We will respond to requests in accordance with the laws that apply to you and within a reasonable timeframe. You can help us maintain the accuracy of your information by notifying us of any changes to your information.
+        </p>
+
+        <h3><span>How to Opt-Out</span></h3>
+        <p class="MsoNormal">
+            To unsubscribe from a newsletter or any other electronic communications from us, reply to the email with “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line, or by following the “unsubscribe” link at the bottom of the email or text.  Also follow the same procedure to unsubscribe to any promotional and marketing emails or texts from our partners.
+        </p>
+
+        <h3><span>Surveys, Promotions and Contests</span></h3>
+        <p class="MsoNormal">
+            We offer on-line surveys, promotions and contests reader surveys from time to time.  Participating in these on-line activities is entirely voluntary and without obligation, simply decline to participate by not clicking on the link that says “survey,” etc.  However, if you do participate in these on-line activities, you may be asked to provide certain Personal Information for the purposes of, for example, awarding you any prize or other benefit.
+        </p>
+
+        <h3><span>Data Retention </span></h3>
+        <p class="MsoNormal">
+            We will retain your Personal Information for as long as your account is active, as needed to provide you services that you request, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  	    </p>
+
+        <h3><span>Security</span></h3>
+        <p class="MsoNormal">
+            We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and to protect it against loss or unauthorized use or disclosure.   For example, our third-party payment processor uses industry-standard SSL protocol (Secure Sockets Layer) to ensure that all credit card transactions are secure. 	    </p>
+        <p>As the Internet is not 100% secure, we cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. </p>
+
+        <h3><span>Sale of Assets </span></h3>
+        <p class="MsoNormal">
+            In the event that another company acquires all or substantially all of the assets related to the business, we reserve the right to include, disclose and transfer any or all stored Personal Information and non-personal information among the assets transferred to the acquiring company.  If The Week or our other assets are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information. 	    </p>
+
+        <h3><span>Users Outside the United States</span></h3>
+        <p class="MsoNormal">
+            If we collect the Personal Information of residents from the European Economic Area (EEA), we advise that your Personal Information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective.  The United States has not sought nor received a finding of “adequacy” from the European Union under Article 45 of the GDPR.  Our legal basis for collecting and using your Personal Information or information is to do so with your consent; where we need the Personal Information for performance of a contract, or where the collection and use is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect the Personal Information in question. If we collected your Personal Information with your consent, you may withdraw your consent at any time.	    </p>
+
+        <h3><span>Social Media Widgets</span></h3>
+        <p class="MsoNormal">
+            Our Services include Social Media Features, such as the Facebook Like button, and similar features on Twitter, Instagram and YouTube that run on our websites. These features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy statement of the company providing it. Our Services are not sponsored or endorsed by any of these third parties, nor do we sponsor or endorse them.	    </p>
+
+
+        <h3><span>Links to Other Sites; Transactions with Third Parties </span></h3>
+        <p>Our websites and Services may contain links to other sites that are not owned or controlled by us.  Please be aware that we are not responsible for the privacy practices of these other sites, nor are we responsible for your transactions with any third parties that may link to our websites or the Services.  We encourage you to review the privacy policies and statements of other sites to understand their information practices. Our Privacy Policy applies only to information collected by our websites and the Services. </p>
+        <p>We may make content or services from other sites, including our affiliated or co-branded websites, available to you from links.  These sites may not be subject to this Privacy Policy. We recommend that you review the privacy policy at each such site to determine how that site protects your privacy.</p>
+
+        <h3><span>Children’s Privacy </span></h3>
+        <p>Our Site is not directed to children and we do not knowingly collect Personal Information from users who are under the age of majority in their jurisdiction of residence, who are US residents under age 13, or who are EEA residents under age 16.   If you believe your child has provided Personal Information to us, please contact us at privacy@theweek.com</p>
+
+        <h3><span>Your California Privacy Rights; California Do Not Track Disclosures </span></h3>
+        <p>California Civil Code Section 1798.83 (“Shine The Light” Law) permits California residents to request information regarding the disclosure of your Personal Information to a third party for the third party's direct marketing purposes.  While we do make available Personal Information to third parties for direct marketing purposes, we also provide you with a mechanism to opt out of such disclosures.  Therefore, we are not required under the statute to provide users who are California residents with a list of third parties to whom your Personal Information may have been disclosed for direct marketing purposes.  </p>
+
+        <h3><span>Changes to This Privacy Policy</span></h3>
+        <p>We reserve the right to change this Privacy Policy from time to time, so please check back periodically to confirm the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Services after any changes signifies your express and unambiguous consent to any such changes. If you do not agree to such changes, you should immediately stop using the Services. </p>
+
+        <h3><span>Contact Us About Complaints, Questions, Comments, or Notices relating to this Privacy Policy </span></h3>
+        <p>We commit to resolving complaints about your privacy and our collection, use or transfer of your Personal Information.  Users with a need to provide a Notice to us under this policy or our Terms of Use, or Users with inquiries or complaints regarding this Privacy Policy should contact us at:
+            <br><br>
+            privacy@theweek.com<br>
+
+            or<br>
+
+            The Week Publications, Inc.<br>
+            55 West 39th Street,<br>
+            5th Floor<br>
+            New York, NY  10018<br>
+        </p>
+
+        <p><a href="javascript:window.cmpConfig.methods.summon();">Review Consent Preferences</a></p>
     </div>
 			</div>
 
-			
+		    
+
 <div id="footer">
-	<div id="left-footer">
-		<div class="logo"></div>
-		<div class="social">
-			<div class="footer_btns">
-
-		   </div>
-		</div>
-		<div class="dropdown-footer">
-			<select id="dropdown-select" onchange="document.location = this.value">
-				<option value="" selected="selected">More about The Week</option>
-
-				<option value="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=10525DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=709WKSAC3" target="_blank">Subscribe</option>
-				<option value="/tools/proxies/authorization.php">Subscriber login</option>
-				<option value="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJMD3&amp;MSCCMPLX=710WKGAC2" target="_blank">Give
-					a gift</option>
-				<option value="https://secure.customersvc.com/servlet/Show?WESPAGE=csp-dp/contact_us.jsp&amp;MSRSMAG=WK" target="_blank">Back
-					issues</option>
-				<option value="https://subscribe.theweek.com/servlet/Show?WESSTATEPAGE=opc-dp/pages/edu/state/educationOffer.txt&amp;MSRSMAG=WK&amp;WESACTIVESESSION=TRUE&amp;WESTRANSITION=TRUE&amp;DGT=WKTHRQ&amp;BTH=WKTHRP&amp;LISTID_BTH=704WKEAC1&amp;LISTID_DGT=704WKEAC2">Classroom subscriptions</option>
-				<option value="/newsletters">Newsletters</option>
-				<option value="/rss.xml">RSS</option>
-				<option value="/privacy">Privacy policy</option>
-				<option value="/terms">Terms &amp; conditions</option>
-				<option value="http://www.theweek.co.uk/">The Week UK</option>
-				<option value="https://service.theweek.com">Customer
-					service</option>
-				<option value="/contact">Contact us</option>
-			</select>
-		</div>
-
-	</div>
-
 	<div id="left-footer-subscribe">
 		<div class="logo"></div>
 		<div class="dropdown-footer">
 			<select id="dropdown-select" onchange="document.location = this.value">
 				<option value="" selected="selected">More about The Week</option>
-
-				<option value="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=10525DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=709WKSAC3" target="_blank">Subscribe</option>
-				<option value="/tools/proxies/authorization.php">Subscriber login</option>
-				<option value="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJMD3&amp;MSCCMPLX=710WKGAC2" target="_blank">Give
-					a gift</option>
-				<option value="https://secure.customersvc.com/servlet/Show?WESPAGE=csp-dp/contact_us.jsp&amp;MSRSMAG=WK" target="_blank">Back
-					issues</option>
-				<option value="https://subscribe.theweek.com/servlet/Show?WESSTATEPAGE=opc-dp/pages/edu/state/educationOffer.txt&amp;MSRSMAG=WK&amp;WESACTIVESESSION=TRUE&amp;WESTRANSITION=TRUE&amp;DGT=WKTHRQ&amp;BTH=WKTHRP&amp;LISTID_BTH=704WKEAC1&amp;LISTID_DGT=704WKEAC2">Classroom subscriptions</option>
-				<option value="/newsletters">Newsletters</option>
-				<option value="/rss.xml">RSS</option>
-				<option value="/privacy">Privacy policy</option>
-				<option value="/terms">Terms &amp; conditions</option>
-				<option value="http://www.theweek.co.uk/">The Week UK</option>
-				<option value="https://service.theweek.com">Customer
-					service</option>
-				<option value="/contact">Contact us</option>
-			</select>
+									<option value="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=20262DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=802WKSEC12" target="_blank">Subscribe</option>
+									<option value="/login">Subscriber login</option>
+									<option value="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJ922&amp;MSCCMPLX=801WKGAC2" target="_blank">Give a gift</option>
+									<option value="//backissues.theweek.com" target="_blank">Back issues</option>
+									<option value="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=opc-dp/pages/0118/edu/education.jsp&amp;MSRSMAG=WK&amp;PAGE_CAT=EDU&amp;BTH=WKTJ948&amp;DGT=WKTJ955&amp;LISTID_BTH=802WKEAC1&amp;LISTID_DGT=802WKEAC2" target="_blank">Classroom subscriptions</option>
+									<option value="/newsletters">Newsletters</option>
+									<option value="/rss.xml">RSS</option>
+									<option value="/privacy">Privacy policy</option>
+									<option value="/terms">Terms &amp; conditions</option>
+									<option value="//www.theweek.co.uk" target="_blank">The Week UK</option>
+									<option value="//service.theweek.com" target="_blank">Customer service</option>
+									<option value="/contact">Contact us</option>
+									<option value="//ads.theweek.com/" target="_blank">Ad info</option>
+							</select>
 		</div>
 		<div id="get-four-text">Get 4 risk-free issues</div>
-
 		<div id="footer-form">
 						<form action="https://wesqa.customersvc.com/servlet/ValetOrder?" method="POST" id="footer-subscribe-form">
 				<input type="hidden" name="WESREDIRECT" value="TRUE">
@@ -569,9 +584,7 @@ adServer: 'googletag' });
 				<div class="form-error"></div>
 			</form>
 		</div>
-		<div class="magazine-img image-rollover"><img src="http://cdn.app.theweek.com/editions/com.dennis.theweek.issue.issue853/assets/styles/cover/public/iPad-cover-853-854thumbnail.jpg"></div>
-
-
+									<div class="magazine-img image-rollover"><img src="//cdn-assets.ziniopro.com/var/site_720/storage/images/media2/images/ipad-cover-860/470542-1-eng-US/ipad-cover-860.jpg?t=ipa"></div>
 		<div class="social">
 			<div class="footer_btns">
 				<div class="fb-like" style="float:left;" data-href="http://facebook.com/theweek" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
@@ -581,56 +594,40 @@ adServer: 'googletag' });
 				</div>
 			</div>
 		</div>
-
-
 	</div>
-
-
-<script>
-	jQuery(document).ready(function(){
-        if(TheWeek.getCurrentDevice() == 'mobile'){
-			jQuery(".circulation-part > a").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKBundRsk&MAGCODE=WK&MSCCMPLX=506WKRA02');
-		}
-	});
-
-</script>
 	<div id="right-footer">
 		<div class="right-footer-left red-rollover">
 			<ul>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=10525DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=709WKSAC3" target="_blank">Subscribe</a></li>
-
-				<li><a id="login-footer" onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscriber login');" href="/login">Subscriber login</a></li>
-
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Current issue');" <li=""></a><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJMD3&amp;MSCCMPLX=710WKGAC2" target="_blank">Give a gift</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Back issue');" href="https://secure.customersvc.com/servlet/Show?WESPAGE=csp-dp/contact_us.jsp&amp;MSRSMAG=WK" target="_blank">Back
-						issues</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Classroom subscriptions');" href="https://subscribe.theweek.com/servlet/Show?WESSTATEPAGE=opc-dp/pages/edu/state/educationOffer.txt&amp;MSRSMAG=WK&amp;WESACTIVESESSION=TRUE&amp;WESTRANSITION=TRUE&amp;DGT=WKTHRQ&amp;BTH=WKTHRP&amp;LISTID_BTH=704WKEAC1&amp;LISTID_DGT=704WKEAC2" target="_blank">Classroom subscriptions</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Newsletters');" href="/newsletters">Newsletters</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'RSS');" href="/rss.xml">RSS</a></li>
-			</ul>
-
+															<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscribe');" href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&amp;WESACTIVESESSION=TRUE&amp;PAGE_ID=20262DIR01&amp;MAGCODE=WK&amp;MSCCMPLX=802WKSEC12" target="_blank">Subscribe</a></li>
+																				<li><a id="login-footer" onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Subscriber login');" href="/login">Subscriber login</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Give a gift');" href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order_WK.jsp&amp;MSRSMAG=WK&amp;MSCEKX=WKTJ922&amp;MSCCMPLX=801WKGAC2" target="_blank">Give a gift</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Back issues');" href="//backissues.theweek.com" target="_blank">Back issues</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Classroom subscriptions');" href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=opc-dp/pages/0118/edu/education.jsp&amp;MSRSMAG=WK&amp;PAGE_CAT=EDU&amp;BTH=WKTJ948&amp;DGT=WKTJ955&amp;LISTID_BTH=802WKEAC1&amp;LISTID_DGT=802WKEAC2" target="_blank">Classroom subscriptions</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Newsletters');" href="/newsletters">Newsletters</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'RSS');" href="/rss.xml">RSS</a></li>
+																																																																		</ul>
 		</div>
 		<div class="right-footer-right red-rollover">
 			<ul>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Privacy policy');" href="/privacy">Privacy policy</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Terms &amp; conditions');" href="/terms">Terms &amp; conditions</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'The Week UK');" href="http://www.theweek.co.uk" target="_blank">The Week UK</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Customer service');" href="https://service.theweek.com" target="_blank">Customer
-						service</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Contact us');" href="/contact">Contact us</a></li>
-				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Ad info');" href="http://ads.theweek.com" target="_blank">Ad info</a></li>
-			</ul>
+																																																																														<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Privacy policy');" href="/privacy">Privacy policy</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Terms &amp; conditions');" href="/terms">Terms &amp; conditions</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'The Week UK');" href="//www.theweek.co.uk" target="_blank">The Week UK</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Customer service');" href="//service.theweek.com" target="_blank">Customer service</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Contact us');" href="/contact">Contact us</a></li>
+																				<li><a onclick="TheWeek.pushUAEvent('Page Tracking', 'Footer-Right Part', 'Ad info');" href="//ads.theweek.com/" target="_blank">Ad info</a></li>
+												</ul>
 		</div>
 	</div>
 </div>
 
 <script>
-   if ($.cookie('LoggedIn') == "True") {
-	    jQuery("#login-footer").text("Subscriber logout");
-  	  	jQuery("#login-footer").attr("href","/");
-  	  	jQuery("#login-footer").click( function(){
-    	  	  document.cookie = 'LoggedIn=; expires=Thu, 01 Jan 1970 00:00:00 UTC';
-  	  	  	  $.cookie('LoggedIn', null); setTimeout(function(){location.reload();}, 2000);
+   if (Cookies.get('LoggedIn') == "True") {
+	    $("#login-footer").text("Subscriber logout");
+  	  	$("#login-footer").attr("href","/");
+  	  	$("#login-footer").click( function(e){
+  	  	    e.preventDefault();
+  	  	  	  Cookies.remove('LoggedIn');
+  	  	  	  window.location.href = '/';
  	    });
    }
 </script>
@@ -680,8 +677,6 @@ adServer: 'googletag' });
 			}
 		});
 	</script>
-
-
 
 	<!-- Facebook Pixel Code -->
 	<script>
