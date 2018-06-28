@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208032458id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032605id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
@@ -34,11 +34,15 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here](http://www.networkadvertising.org/choices/). You can also find out how to opt out of various ad programs at that [link](http://www.networkadvertising.org/choices/).
 
-Some of our advertising partners may use cookies on our site. Our advertising partners include:  
-<http://www.google.com/doubleclick/>  
-<http://affiliate-program.amazon.com/>
+**Some of our advertising partners may use cookies on our site. Our advertising partners include:**  
+<https://www.google.com/doubleclick/>  
+<https://affiliate-program.amazon.com/>  
+<https://freestar.io/>
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+**Regarding content copying and duplication**  
+All rights reserved exclusively to FirstShowing.net for the content created and posted on this website. We retain all rights to display the text in these posts, and refuse the right of any replication. This means you cannot duplicate or copy posts without our permission. Just because our content is published in our RSS feed or elsewhere in connect with the website, does not mean you can re-post it on any other website. Please do not do this. All of these posts are exclusive to this website and appear here and only here.
 
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -57,4 +61,4 @@ If you require any more information or have any questions about this Privacy Pol
 First Showing LLC  
 [www.FirstShowing.net](http://www.firstshowing.net/about/)
 
-_This document was last updated on January 31, 2017_.
+_This document was last updated on March 30, 2018_.
