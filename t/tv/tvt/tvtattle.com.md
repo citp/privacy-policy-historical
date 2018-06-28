@@ -1,31 +1,43 @@
-> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150544id_/http%3A//www.hitfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628202138id_/http%3A//www.tvtattle.com/privacy) for the most accurate reproduction.*
 
-# HitFix Privacy Policy
+# Privacy Policy - TV Tattle
 
-This Privacy Policy applies to you (“You” and “Your”) and all other users of the HitFix website and Network and the HitFix Programs and HitFix Service. Capitalized terms used herein, which are otherwise undefined, shall have the meanings attributed thereto in the HitFix Terms and Conditions of Use. This privacy policy (the “Privacy Policy”) was last updated December 17, 2008.
+### Privacy Policy
 
-### Personal Information
+**Introduction.**
 
-  * Account-Related Activity. Certain activities on HitFix—like uploading Content or posting comments—require You to have a HitFix account. HitFix asks for some personal information when You create a HitFix account, including Your email address and a password, which is used to protect Your account from unauthorized acces.
-  * Usage Information. We may record information about Your usage, as well as information You display or click on in HitFix. If You are logged in, we may associate that information with Your account.
-  * Content Uploaded to the Site. Any personal information or Content that You voluntarily disclose online becomes publicly available and can be collected and used by others.
+The following statement describes the policy of Snugglefish Media ("we," "us" and derivatives) with respect to the personal information that we may collect from the users of this website, TV Tattle. This statement does not apply to any third party entities or their websites to which we may link. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
+**Information Collection.**
 
+Snugglefish Media, LLC is the sole owner of the information collected on this website. We collect information from users of this website in the following ways:
 
-### Uses
+_Email Submissions and Tips._ We require a user to enter a valid email address when the user submits a tip via our "Tips and Submissions" form. We also retain a copy of all emails sent to us from users of this site. While we will not sell or license the email addresses of our users to any third parties, we reserve the right to send our users occasional updates related to this site.
 
-  * If You submit personally identifiable information to HitFix through the Site, HitFix uses Your personal information to operate, maintain, and provide to You the features and functionality of the Site, as well as provide special personalized features to You.
-  * Your account name is displayed to other Users when You upload Video Content or send messages through HitFix and other Site users can contact You through messages and comments. Any Content that You submit to HitFix may be redistributed through the Internet and other media channels, and may be viewed by the general public.
-  * HitFix does not use Your email address or other personally identifiable information to send commercial or marketing messages without Your consent, except as part of a specific program or feature for which You will have the ability to opt-in or opt-out. HitFix may, however, use Your email address without further consent for non-marketing or administrative purposes (such as notifying You of major Site changes or for customer service purposes). 
-  * HitFix uses both Your personally identifiable information and certain non-personally-identifiable information to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Your user preferences and trends. 
-  * HitFix uses third-party advertising companies to serve ads when You visit the Site. These companies may use information (not including Your name, address email address or telephone number) about Your visits to HitFix and other Web sites in order to provide advertisements about goods and services of interest to You. If You would like more information about this practice and to know Your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
-  * HitFix uses cookies, other tools and information to: (a) store information so that You will not have to re-enter it during Your visit or the next time You visit HitFix; (b) provide custom, personalized content and information; (c) monitor the effectiveness of its marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track Your entries, submissions, and status in promotions, sweepstakes, and contests. 
+_Amazon Associates._ Our site participates in the Amazon Associates program offered by Amazon.com. We are not privy to the type of personal information collected by Amazon.com as a result of a user's purchase of a product through our Amazon Associate pages. This privacy statement does not apply to Amazon.com.
 
+_Cookies._ A cookie is a packet of information that includes specific information regarding a user of this website. We use cookies for user authentication, user tracing, and maintaining user-specific information. Our cookies are both session-specific and "persistent." Session-specific cookies are designed to ease our users' use and navigation of this website, and may, for example, temporarily retain information entered into an online form. They are deleted when a user closes out of the user's browser. "Persistent" cookies are small files stored on the user's hard drive, and are used by this site to identify returning users. Third party advertisers may place and/or recognize cookies on our site. However, we have no access to or control over these cookies, and this policy does not apply to the practices of such third parties. 
 
+_Third Party Advertising._ Some of the advertisements that appear on this site may be delivered by a third party advertising server. Information about a user's visit to this site, such as number of times the user views an advertisement (but not user name, email address, or other personal user information), is used to serve ads to users on this site.
 
-### Your Control
+_Server Log and Third Party Analytics Tools._ Our servers maintain a history of this site's page requests in a log file. This log contains information regarding our users' internet protocol addresses, browser types, internet service providers, referring addresses, platform types, date and time stamps, and numbers of clicks. We use these log files to analyze the use of our site, administer the site, and track aggregate demographic information. The data contained in these log files are not linked to personally identifiable information. We may also use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our visitors. 
 
-  * You may decline to submit personally identifiable information through the Site, in which case You can still view videos and explore the Site, but HitFix may not be able to provide certain services to You.
-  * You may update or correct Your personal profile information and email preferences at any time by visiting Your account profile page.
+**Information Disclosure.**
 
+We not license, sell, or share personal information about our users with third parties or companies unaffiliated with us, except:
 
+\- If you have provided us with permission to do so;
+
+\- If required by law, and as necessary to comply with a judicial proceeding, a court order or legal process served on us or this website;
+
+\- If necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use; and
+
+\- If a third party acquires us or this website, or in the event of our merger with a third party, upon which we will make reasonable efforts to notify users before user information is transferred and becomes subject to a different privacy policy.
+
+**Notification of Changes.**
+
+If we change our privacy policy, we will make reasonable efforts to notify users of such a change, for example, by posting any such changes on this site.
+
+**Contact Information.**
+
+Please feel free to [contact us](https://web.archive.org/web/20180628202138id_/http%3A//www.tvtattle.com/feedback.html) with any questions regarding our privacy statement.
