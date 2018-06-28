@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207231117id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628133611id_/https%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top10Supps
+# Privacy Policy | Top10Supps
 
 ## Privacy Policy for Top10supplements.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#f49d9a929bb4809b84c5c487818484989199919a8087da979b99).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#573e393138172338276667242227273b323a323923247934383a).
 
 At top10supplments.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by top10supplments.com and how we use it.
 
@@ -27,10 +27,9 @@ top10supplments.com uses cookies to store information about visitors’ preferen
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
   * Google
-  * Commission Junction
   * Amazon
   * Clickbank
-  * Illpumpyouup.com, stackedbrands.com, transparentlabs.com
+  * stackedbrands.com, transparentlabs.com
 
 
 
