@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedpress.it privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113183537id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedpress.it privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628110449id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FeedPress
 
@@ -55,6 +55,6 @@ Netcats SAS
 10 rue de Penthièvre  
 75008 PARIS  
 FRANCE  
-contact@netcats.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on December 28, 2016
