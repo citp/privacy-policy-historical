@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledgerwallet.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216225940id_/https%3A//www.ledgerwallet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledgerwallet.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628041411id_/https%3A//www.ledgerwallet.com/privacy-policy) for the most accurate reproduction.*
 
 # Ledger Wallet - Hardware wallets - Smartcard security for your bitcoins
 
@@ -175,7 +175,7 @@ For information about how to get access to Personal Data and for exercising your
 
 ### Questions and Contact Information
 
-40\. If you would like to: access, correct, amend or delete any personal information we have about you, object to their processing, register a complaint or simply want more information, contact us by email at hello@ledger.fr or by mail at Ledger 1 rue du Mail, Paris, 75002, France
+40\. If you would like to: access, correct, amend or delete any personal information we have about you, object to their processing, register a complaint or simply want more information, contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail at Ledger 1 rue du Mail, Paris, 75002, France
 
 All such requests are promptly examined and replies are issued by our teams. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction.
 
