@@ -1,21 +1,50 @@
-> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211154id_/http%3A//www.pardaphash.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628091531id_/https%3A//www.pardaphash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - PardaPhash
 
-**Privacy Policy**
+This Privacy Policy applies to any personal information you may provide to us via Pardaphash.com. These Web Sites provide direct links to other web sites. This privacy statement does not apply to those web sites. Before disclosing personal information on any other company’s web site, you should read the privacy statement associated with that web site.
 
-This privacy policy is intended to protect an individual's privacy and seeks to explain the type of information The Telegraph collects from visitors to its site, what pardaphash.com does with that information, and how users may find out more about this profile. This policy may change from time to time so please check it frequently. 
+Any information you may provide to PardaPhash, whether directly or through one of our Web Sites, will be covered by this Privacy Policy. That information may include any personal contact information and business-sensitive information we may need to provide assistance and information to you.
 
-We at **pardaphash.com** wants to make your user experience satisfying and safe. Our data collection policies allow individuals to choose what information they want to provide us and to control how that infromation will be used by PardaPhash. Our objective is to provide you with a good experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have. 
+If you want to find out more about how PardaPhash uses personal information in its products and services or ask questions or comment on any of your personal information in our products and services, please contact us using the details provided in the “How to contact us” section below.
 
-**Information Collected**
+ **How we use and share your information:**  
+We may use your business contact details to provide you with information you have requested and additional information about our products and services by mail, email or telephone. We would also like to share your details with other affiliated Pardaphash.com companies who may similarly use it to provide you with information about their products and services. Occasionally we may pass on your details to our agents or contractors who will use it to send out information on our behalf. We will not otherwise pass on your details to any third parties.
 
-Technical and routing information about the visitor's computer is collected when he/she visits pardaphash.com. This facilitates use of the site by the Visitor. For example, the IP address of the visitors originating Internet Service Provider may be recorded, to ensure the best possible service and use the Visitors IP address to track his/her use of the site. pardaphash.com also record the browser, operating system, page visited to determine the nature of the users. 
+Where you provide us with contact, product and systems information for customer support, this data will be used only in order to provide technical support and troubleshooting.
 
-These information may be collected by using cookies/sessions. "Cookies" are small date files, typically made up of a string of text and numbers, which assign a unique identifier to the visitors. Cookies may be sent to the visitor's browser and / or stored on pardaphash.com Servers. We use cookies to identify the visitors location, theme selected and maintain users session . The visitor may set the browser to not to accept cookies but that would limit the functionality and visitor will not be bale to make login or change the design/layout of the website. pardaphash.com contains advertisements and/or contents which may have cookies maintained or tracked by the ad server or third parties. pardaphash.com does not have control or access to such cookies. The Visitor should contact these companies directly if visitor have any questions about their collection or use of information. 
+ **Non-personal data we collect:**  
+In general, you may browse our Web Sites without providing any personal information. Similar to other commercial web sites, our Web Sites use standard technology called “cookies” and web server logs to collect information about how the Web Site is used. Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site. Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the web sites visited just before and just after our Web Site. This information is collected on an aggregate basis, as you and others browse our Web Sites, is not used to identify you in any way. If you want to interact with us via the Web Site, we may ask you to provide us with some personal information. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Sites will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
 
-**Information sharing.**
+ **Security policy:**  
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
 
-pardaphash.com does not sell the visitor's email address or other identifying information to third parties but can send affliates promotional emails to you by pardaphash.com servers. pardaphash.com may provide to others the aggregate statistics about activities taking place on its site or related site activity for purposes of marketing or promotion. pardaphash.com may disclose information about the Visitor to others if pardaphash.com has a good faith and belief that it is required to do so by law or legal process, to respond to claims, or to protect its rights, property or safety. 
+ **Changes to our privacy policy:**  
+From time to time, we may change our privacy policies. If we make a change, it will not affect the choices you have made about any information you gave us before that change. Any changes will be reflected in an updated privacy statement that will be posted on our Web Sites.
 
-If you have any query regarding other operation of [**PardaPhash**](http://www.pardaphash.com/) then please feel free to fill up the [**Contact Us**](http://www.pardaphash.com/page/contact/) form [**HERE**](http://www.pardaphash.com/page/contact/). 
+ **Complaints :**  
+We are committed to working with you to resolve, quickly and fairly, any complaints you may have about privacy. If you have any complaints regarding Pardaphash.com use of your personal information, please contact us using the details provided in the “How to contact us” section below.
+
+ **How to contact us:**  
+At any time you may ask us to:  
+Remove your information from our records.  
+Correct or update any of your information.  
+Opt you out of receiving promotional information from us by post and/or email.  
+For access to, or correction of, your contact and preference information, please contact our Data Privacy Team at editorial@Pardaphash.com
+
+ **Registration:**  
+You are responsible for all usage of your account and/or user name or email address, whether authorized or not authorized by you. You agree to immediately notify Pardaphash.com of any unauthorized use of your user account, user name or password.
+
+ **Your conduct :**  
+You agree that all information or data of any kind, whether text, software, code, music or sound, photographs or graphics, video or other materials (“content”), made available publicly or privately, will be under the sole responsibility of the person providing the said content, or of the person whose user account is used. You agree that the website may expose you to content that may be objectionable or offensive. PardaPhash will not be responsible to you in any way for content displayed on the website, nor for any error or omission.
+
+ **By using the website or any service provided, you explicitly agree that:**
+
+  * you will not provide any content or conduct yourself in any way that may be construed as: unlawful; illegal; threatening; harmful; abusive; harassing; stalking; tortious; defamatory; libelous; vulgar; obscene; offensive; objectionable; pornographic; designed to interfere with or disrupt the operation of the website or any service provided; infected with a virus or other destructive or deleterious programming routine; giving rise to civil or criminal liability; or in violation of an applicable local, national or international law;
+  * you will not impersonate or misrepresent your association with any person or entity; you will not forge or otherwise seek to conceal or misrepresent the origin of any content provided by you;
+  * you will not collect or harvest any information about other users;
+  * you will not provide, and you will not use the website to provide, any content or service in any commercial manner, or in any manner that would involve junk mail, spam, chain letters, pyramid schemes, or any other form of unauthorized advertising or commerce; you will not use the website to promote or operate any service or content without Pardaphash prior written consent;
+  * you will not provide any content that may give rise to Pardaphash being held civilly or criminally liable, or that may be considered a violation of any local, national or international law, including — but not limited to — laws relating to copyrights, trademarks, patents, or trade secrets.
+  * Submission of content on the website
+
+
