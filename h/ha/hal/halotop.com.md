@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221142824id_/https%3A//www.halotop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628070333id_/https%3A//www.halotop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — HALO TOP
+# Privacy Policy — HALO TOP®
 
 **PRIVACY POLICY**
 
@@ -75,4 +75,4 @@ We welcome your feedback. If you have questions, comments or concerns about our 
 
 
 
-Please contact us by e-mail at info@halotop.com.
+Please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
