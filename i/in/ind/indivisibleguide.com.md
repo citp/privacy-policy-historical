@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indivisibleguide.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009204337id_/https%3A//www.indivisibleguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indivisibleguide.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628053956id_/https%3A//www.indivisible.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Indivisible Guide
+# Privacy Policy - Indivisible
 
 ## Our Privacy Vow
 
