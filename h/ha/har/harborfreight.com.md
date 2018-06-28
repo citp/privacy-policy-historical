@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003141id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628141631id_/https%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -123,7 +123,7 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Whil
 You may contact us in one of the following ways: 
 
   1. Send an email to: cs@harborfreight.com with “Internet Customer Service” in the subject line
-  2. Call 1-800-444-3353 Monday thru Saturday, 5am to 9pm (PT); Sunday, 6am to 6pm (PT)
+  2. Call 1-800-444-3353 Monday thru Sunday, 6am to 6pm (PT)
   3. Send your request by mail to: 
 
 Harbor Freight Tools  
@@ -138,4 +138,4 @@ ATTN: Internet Customer Service
 
 We may change this Privacy and Security Policy at any time at our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes. 
 
-Last Updated June 28, 2017
+**Last Updated February 2, 2018**
