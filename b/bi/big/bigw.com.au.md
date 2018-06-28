@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831023547id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628064117id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
 # Privacy Policy | BIG W
 
@@ -8,7 +8,7 @@ text.skipToContent text.skipToNavigation
 
 ### 1\. Respecting your privacy
 
-Woolworths Limited ABN 88 000 014 675 trading as Big W (BIGW) is committed to compliance with the privacy and health laws which apply to its business and which set out standards for the management of personal information. This policy outlines our personal information management practices: Specifically, the kinds of personal information we collect and hold; how we collect and hold it; the purposes for which we collect, hold, use and disclose it; your right to access and seek correction of it; our sharing of your personal information overseas. There are some matters to which this policy does not apply. These are referred to in clause 9 below.
+Woolworths Group Limited ABN 88 000 014 675 trading as Big W (BIGW) is committed to compliance with the privacy and health laws which apply to its business and which set out standards for the management of personal information. This policy outlines our personal information management practices: Specifically, the kinds of personal information we collect and hold; how we collect and hold it; the purposes for which we collect, hold, use and disclose it; your right to access and seek correction of it; our sharing of your personal information overseas. There are some matters to which this policy does not apply. These are referred to in clause 9 below.
 
 ### 2\. What kinds of personal information do we collect and hold?
 
@@ -26,7 +26,7 @@ When we collect, hold and use your personal information, we do so primarily to s
 
 ### 5\. How can you enquire about, access and correct your personal information?
 
-We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact our Privacy Officer at [privacy@woolworths.com.au](mailto:privacy@woolworths.com.au) or by calling us on 1300 908 631. Alternatively, you can write to us at: Privacy Officer Woolworths Limited PO Box 8000 BAULKHAM HILLS NSW 2153. Before we provide you with access to your personal information we may require some proof of identity. We may charge a reasonable fee for giving access to your personal information if your request requires substantial effort on our part. 
+We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact our Privacy Officer at [privacy@woolworths.com.au](mailto:privacy@woolworths.com.au) or by calling us on 1300 908 631. Alternatively, you can write to us at: Privacy Officer Woolworths Group Limited PO Box 8000 BAULKHAM HILLS NSW 2153. Before we provide you with access to your personal information we may require some proof of identity. We may charge a reasonable fee for giving access to your personal information if your request requires substantial effort on our part. 
 
 If you need to correct your personal information, please contact our Privacy Officer at one of the above contact points.
 
