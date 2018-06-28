@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uploadfiles.io privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417054937id_/https%3A//uploadfiles.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.io privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628073850id_/https%3A//uploadfiles.io/privacy) for the most accurate reproduction.*
 
 # Uploadfiles.io - Privacy Policy
-
-__You can now password protect your files, simply login to your dashboard and choose " __Set Password" from the file dropdown menu
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [privacy](mailto:privacy@uploadfiles.io).
 
@@ -45,7 +43,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Children's Information
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Uploadfiles.io does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Uploadfiles.io has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Uploadfiles.io does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Uploadfiles.io has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
 #### Online Privacy Policy Only
 
