@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkwalker.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903013756id_/https%3A//www.talkwalker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkwalker.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628105851id_/https%3A//www.talkwalker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Talkwalker
 
@@ -39,17 +39,7 @@ Licensee’s Personal Data will not be shared with third parties, except as prov
 
 4\. COOKIES  
 
-Cookies are small amounts of data sent on Licensee’s and any Talkwalker websites user browser and stored on their hard drive that may not allow identification of the party receiving the cookies, unless such party has already provided Talkwalker with personal information allowing such identification, e.g., by creating an Account.  Talkwalker uses cookies in order to provide Licensee with a tailored experience while using the Services.  
-
-In this regard, Talkwalker uses:  
-
-  * Session cookies that enable Talkwalker to process and memorize Licensee’s transactions and requests during a given session on its Account. These cookies are necessary in order to use the Services;  
-  * Persistent cookies that enable Talkwalker to remember Licensee’s information in order to provide easier and more convenient access to the Services, tailored information, web content and promotional messages to Licensee, and that are used for market research purposes.  
-
-
-
-Talkwalker warrants that any information collected via these cookies will not be shared by Talkwalker with any third party.    
-Licensee or any user of Talkwalker’s websites may set their browser parameters in order to select the types of cookies they wish to receive or not receive from Talkwalker.  
+Talkwalker uses cookies in order to better understand how its applications and websites work and to to optimize the online and mobile experience for the customer. Please refer to our [Cookie Policy](https://web.archive.org/cookie-policy) for more details on how we process Cookies.  
 
 5\. MARKETING PREFERENCES  
 
@@ -59,9 +49,24 @@ Talkwalker may use Licensee’s Personal Data to contact Licensee to discuss the
 
 Licensee can update or correct any of Its Personal Data at any time by contacting Talkwalker at the following e-mail address: contact@talkwalker.com.  Licensee is entitled to request Talkwalker to provide Licensee, free of charge, with a list of all of Licensee’s Personal Data stored by Talkwalker by sending an e-mail in this regard to the following e-mail address: contact@talkwalker.com. Talkwalker undertakes to provide Licensee with such list within a reasonable timeframe.  
 
-7\. HOW TO CONTACT US  
+7\. YOUR RIGHTS  
 
-Licensee can contact Talkwalker for any questions concerning this Privacy Policy at contact@talkwalker.com or by postal mail at Talkwalker Sarl, 12-16 Avenue Monterey, L-2163 Luxembourg.  
+Under GDPR you have the following rights:
+
+  * The right to request access your data,
+  * The right to request that your data is updated or rectified,
+  * The right to request that we refrain from further use of your personal data
+  * The right to request that your personal data is deleted.
+
+
+
+To exercise any rights listed above, please email us at [dpo@talkwalker.com](mailto:dpo@talkwalker.com), or write to us at the address listed at the top of this document.
+
+We will handle all requests in a timely manner but we may in our discretion ask for additional information in order to confirm your identity.
+
+We may not always be able to immediately remove all your personal data, for example, if the law requires us to keep such data (e.g. for compliance or legal retention purposes).
+
+We will do our best to execute your requests. If we do not handle the requests in line with your expectations, you also have the right to file a complaint with National Commission for Data Protection, our data privacy authority (<https://www.cnpd.lu/>), about the processing of your data under this Author Privacy Policy. In case of a breach, you can also file a complaint with the local authority on data privacy in the country where you reside.
 
 8\. MISCELLANEOUS  
 
