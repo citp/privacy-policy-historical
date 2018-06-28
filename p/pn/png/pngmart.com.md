@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngmart.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230034056id_/http%3A//www.pngmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngmart.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628185747id_/http%3A//www.pngmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PNG Mart
 
@@ -50,6 +50,11 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 ## Google AdSense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## PayPal
+
+We offer JPG to PNG image removal service users will see the purchase PayPal button where they will redirected to third party (PayPal) for completing their transactions.  
+**PayPal Privacy Policy** : <https://www.paypal.com/webapps/mpp/ua/privacy-full>
 
 ## Third Party Site Privacy Policy’s
 
