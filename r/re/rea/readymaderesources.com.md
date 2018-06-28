@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215154107id_/https%3A//readymaderesources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628234903id_/https%3A//www.readymaderesources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,15 +11,15 @@ At Ready Made Resources we recognize that privacy is important. This Policy ap
 
 If you have any questions about this Policy, please feel free to contact us through our website.
 
-**Information we collect and how we use it:**
+ **Information we collect and how we use it:**
 
-  * **Information you provide** – When you sign up for a Ready Made Resources account we ask you for personal information (such as your name, email address and an account password). For certain services, such as our poduct sales, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Ready Made Resources services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
-  * **Ready Made Resources cookies** – When you visit Ready Made Resources, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Ready Made Resources features and services may not function properly if your cookies are disabled. 
-  * **Log information** – When you use Ready Made Resources services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** – When you send email or other communication to Ready Made Resources, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
-  * **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Ready Made Resources in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
-  * **Links** – Ready Made Resources may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
-  * **Other sites** – This Privacy Policy applies to web sites and services that are owned and operated by Ready Made Resources. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+  *  **Information you provide** – When you sign up for a Ready Made Resources account we ask you for personal information (such as your name, email address and an account password). For certain services, such as our poduct sales, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Ready Made Resources services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  *  **Ready Made Resources cookies** – When you visit Ready Made Resources, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Ready Made Resources features and services may not function properly if your cookies are disabled.
+  *  **Log information** – When you use Ready Made Resources services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  *  **User communications** – When you send email or other communication to Ready Made Resources, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  *  **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Ready Made Resources in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+  *  **Links** – Ready Made Resources may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
+  *  **Other sites** – This Privacy Policy applies to web sites and services that are owned and operated by Ready Made Resources. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 
 
@@ -36,7 +36,7 @@ You can find more information about how we process personal information by refer
 
 Ready Made Resources processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-**Choices for personal information**
+ **Choices for personal information**
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
 
