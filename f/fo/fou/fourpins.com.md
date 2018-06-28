@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourpins.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003836id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourpins.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628051528id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Complex
 
@@ -114,6 +114,14 @@ If you use the login of a Third Party Service to access the Sites, you may have 
 
 The Sites are not intended for use by children, especially those under the age of 13.  We do not knowingly collect or solicit Personally Identifiable Information from anyone under the age of 13 or knowingly allow such persons to register for Site features.
 
+**EEA Visitors/Users**
+
+If you are a visitor or user from the European Economic Area, we will only collect and use your personal data (as defined under Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (“GDPR”)) when we have a legal basis for doing so. 
+
+The legal basis on which we rely will depend on the type of personal data we collect and the specific context in which we are collecting it.  We will make clear to you when we are collecting personal data from you, and when and as required under GDPR, we will request your affirmative consent to the collection of your personal data, prior to collecting it. We will also make clear to you when such collection of your personal data is required (for example, because we have a legal obligation to do so, or because we cannot provide a service to you without collecting your personal data), and what are the consequences of your declining to allow us to collect your personal data.
+
+If you have any questions about our collection and use of your personal data, please contact us at [legal@complex.com](mailto:legal@complex.com).  Any requests to delete your personal data may be sent to the above email.
+
 **What Choices Do I Have?**
 
 If you have provided Personally Identifiable Information as part of setting up an account and login for the Sites, you can change or access your Personally Identifiable Information via your account settings.  You can also use many of the features of the Service without registering or signing into a user account.
@@ -154,4 +162,4 @@ We may amend this Privacy Policy from time to time. Use of Personally Identifiab
 
 If you have any questions or concerns regarding privacy while using the Sites, you may contact us at [legal@complex.com](mailto:legal@complex.com).  We will make every effort to resolve your concerns.
 
-_Effective Date: August 1, 2017_
+_Effective Date: May 25, 2018_
