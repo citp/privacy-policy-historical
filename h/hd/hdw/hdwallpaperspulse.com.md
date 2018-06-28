@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdwallpaperspulse.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221155413id_/http%3A//www.hdwallpaperspulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperspulse.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628084050id_/http%3A//www.hdwallpaperspulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers Pulse
 
 **Privacy Policy – www.hdwallpaperspulse.com**
 
-We at HD Wallpapers Pulse take your privacy very seriously. This document details our policy about how we collect and use user personal private information. We also detail how we deal with third party advertising partners.
+We at [HD Wallpapers Pulse](http://www.hdwallpaperspulse.com/) take your privacy very seriously. This document details our policy about how we collect and use user personal private information. We also detail how we deal with third party advertising partners.
 
 **Personally identifiable data**
 
