@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109140959id_/https%3A//www.ep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628052925id_/https%3A//www.ep.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Entertainment Partners
 
-_This Privacy Notice was updated on January 11, 2017 to include the following: (i) update information about EP’s compliance with the EU – U.S. Privacy Shield framework; (ii) additional information regarding how we collect and use information submitted to us by our users and our clients; and (iii) edits to improve readability and clarity._
+_This Privacy Notice was updated on April 3, 2018 to include the following: (i) clarify how we collect and use information we obtain while users browse our websites; (ii) added a link to Your Online Choices, a behavioral advertising opt-out tool for users based in the European Union; and (iii) edits to improve readability and clarity._
 
 Entertainment Partners and its affiliates (“EP”, “we”, “us” and “our”) are committed to maintaining meaningful privacy protections for our clients and users under the Principles (as defined below). This Privacy Notice describes EP’s practices with respect to your personal information.
 
 This Privacy Notice also discusses our implementation of the Principles, the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of that information that we collect through:
 
-  * your browsing activity on our websites[ www.ep.com](http://www.ep.com/), [www.centralcasting.com](http://www.centralcasting.com/), [www.scenechronize.com](http://www.scenechronize.com/), [www.epfinancialsolutions.com](http://www.epfinancialsolutions.com/), and all other related websites where this Privacy Notice is referenced, but specifically excluding hosted applications, services and tools (our “Websites”);
+  * your browsing activity on our websites [www.ep.com](http://www.ep.com/), [www.centralcasting.com](http://www.centralcasting.com/), [www.scenechronize.com](http://www.scenechronize.com/), [www.epfinancialsolutions.com](http://www.epfinancialsolutions.com/), and all other related websites where this Privacy Notice is referenced, but specifically excluding hosted applications, services and tools (our “Websites”);
   * our provision and your use of our hosted applications, services and tools (collectively, “Online Services”); and
   * our provision of payroll and payroll-related services (collectively, “Payroll Services”) to our clients, including personal information of any entertainment production workers (“Production Workers”) that we receive in connection with the Payroll Services.
 
@@ -26,15 +26,15 @@ We provide access to our Privacy Notice by:
 
 **EU-U.S. Privacy Shield**
 
-EP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  EP is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+EP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  EP is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
 EP is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  EP complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, EP is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, EP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/) , you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **Personal Information Defined**
 
@@ -42,7 +42,7 @@ As used within this Privacy Notice, “personal information” means any informa
 
 **Browsing EP Websites**
 
-When you browse our Websites, you do so anonymously, unless you have previously indicated that you wish EP to remember your login and password. We don’t automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our Websites you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, our Websites may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Tracking Technologies” below for more information.
+We don’t automatically collect your email address. We log your IP address (the Internet address of your computer) to give us an idea of which part of our Websites you visit and how long you spend there. If you have logged in to our website your IP address will be linked to your personal information. Like many other commercial websites, our Websites may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Tracking Technologies” below for more information.
 
 While browsing our Websites, EP does collect personal information when you register with EP for an EP account, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, when you submit an entry for a sweepstakes or other promotions or when you submit your personal information to EP for any other reason. From time to time, EP receives personal information from business partners and vendors. EP only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Privacy Notice and applicable laws, including but not limited to the Principles.
 
@@ -54,13 +54,13 @@ When you submit your personal information in connection with the provision or us
 
 Below are additional privacy considerations specific to our provision and your use of the Online Services:
 
-_Personal Information Collection Practices –_ EP hosts information and data under the direction of its clients through the Online Services, including personal information regarding individuals affiliated with EP’s clients. Notwithstanding the foregoing, EP may also have a direct relationship with such individuals whose personal information it processes, i.e., through the Payroll Services.
+_Personal Information Collection Practices –_  EP hosts information and data under the direction of its clients through the Online Services, including personal information regarding individuals affiliated with EP’s clients. Notwithstanding the foregoing, EP may also have a direct relationship with such individuals whose personal information it processes, i.e., through the Payroll Services.
 
-_Choice –_ Since EP hosts information and data on its Online Services under the direction of its clients, please contact the EP client that you interact with directly if you have any questions or concerns regarding any personal information that may be hosted on the Online Services. If you are an EP client and would like to update your account, please contact your EP Account Representative.
+_Choice –_  Since EP hosts information and data on its Online Services under the direction of its clients, please contact the EP client that you interact with directly if you have any questions or concerns regarding any personal information that may be hosted on the Online Services. If you are an EP client and would like to update your account, please contact your EP Account Representative.
 
-_Access to Data Controlled by EP’s Clients –_ EP acknowledges that you have the right to access your personal information. Since EP hosts information and data on its Online Services under the direction of its clients, an individual who seeks to correct, amend or delete inaccurate data should direct the inquiry to the specific EP client at issue. If the EP client cannot directly remove the data and specifically requests EP to remove the data, we will respond to their request within the timeframes prescribed in the applicable agreement between EP and the client.
+_Access to Data Controlled by EP’s Clients –_  EP acknowledges that you have the right to access your personal information. Since EP hosts information and data on its Online Services under the direction of its clients, an individual who seeks to correct, amend or delete inaccurate data should direct the inquiry to the specific EP client at issue. If the EP client cannot directly remove the data and specifically requests EP to remove the data, we will respond to their request within the timeframes prescribed in the applicable agreement between EP and the client.
 
-_Data Retention –_ EP will retain personal information we process on behalf of its clients for as long as needed to provide services to its clients. EP will retain and use this personal information as necessary to comply with its legal obligations, resolve disputes and enforce its agreements.
+_Data Retention –_  EP will retain personal information we process on behalf of its clients for as long as needed to provide services to its clients. EP will retain and use this personal information as necessary to comply with its legal obligations, resolve disputes and enforce its agreements.
 
 **In Connection with Payroll Services**
 
@@ -86,7 +86,7 @@ EP, its affiliates and/or service providers (e.g., email distribution vendors, t
 
 Some parts of EP’s Websites use cookies to track user traffic patterns. We do this in order to determine the usefulness of our Websites’ information to our users and to see how effective our navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our Websites, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of our Websites if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our Websites. You do not need to have cookies turned on, however, to use/navigate through many parts of our Websites, except access to certain of EP’s Websites may require a login and password.
 
-We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our Websites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may [opt-out by clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. We and third parties with whom we partner with use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
+We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our Websites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may [opt-out by clicking here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. We and third parties with whom we partner with use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
 EP’s Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our Websites. These features may collect your IP address, which page you are visiting on our Websites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy notice and/or policy of the company providing it.
 
@@ -106,7 +106,7 @@ EP may send your personal information to other companies or people under any of 
 
 We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our Websites. EP may also share your personal information when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (1) satisfy any applicable law (foreign, federal, state or local), regulation, legal process or enforceable government request, (2) detect, prevent or otherwise address fraud, security or technical issues, (3) protect against harm to the rights, property or safety of EP, its users or the public as required or permitted by law or (4) if EP is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-Finally, EP may also share with third parties certain aggregate information (or anonymized, de-identified or pseudonymized data) regarding the use of EP’s services or Websites, such as, for example, the number of people who visit certain web pages or use certain services offered by EP.
+Finally, EP may also share with third parties certain aggregate information regarding the use of EP’s services or Websites, such as, for example, the number of people who visit certain web pages or use certain services offered by EP.
 
 **Data Security**
 
@@ -118,7 +118,7 @@ EP processes personal information for the purpose for which it was collected and
 
 **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you and/or the EP client services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@ep.com](mailto:privacy@ep.com). Notwithstanding your request, we reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you and/or the EP client services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@ep.com](mailto:privacy@ep.com). Notwithstanding your request, we reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Correcting and Updating Your Information**
 
@@ -148,9 +148,11 @@ Prior to disclosing your personal information to a third party, EP will notify y
 
 **Changes to This Privacy Notice**
 
-EP may amend this Privacy Notice from time to time consistent with the requirements of the EU – U.S. Privacy Shield framework. We will post any revised Privacy Notice on this Website. If we make any change in how we use your personal information we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to raise any concerns regarding this Privacy Notice and our privacy practice using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with applicable laws. If you have questions, concerns or complaints about this Privacy Notice, please feel free to contact us any time through this Website, by email at [privacy@ep.com](mailto:privacy@ep.com) or by mail at:
+EP may amend this Privacy Notice from time to time consistent with the requirements of the EU – U.S. Privacy Shield framework. We will post any revised Privacy Notice on this Website. If we make any change in how we use your personal information we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to raise any concerns regarding this Privacy Notice and our privacy practice using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with applicable laws. If you have questions, concerns or complaints about this Privacy Notice, please feel free to contact us any time through this Website, by email at [privacy@ep.com](mailto:privacy@ep.com) or by mail at:
 
 Entertainment Partners  
 Attn: Data Protection Officer  
-2835 N. Naomi Street  
-Burbank, CA 91504-4603
+2950 N. Hollywood Way  
+Burbank, CA 91505
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=6876a6ce-0a6f-47b0-b9b1-6cfc2eeb1b40)
