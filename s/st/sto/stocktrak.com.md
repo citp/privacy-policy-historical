@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118204740id_/http%3A//content.stocktrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628193935id_/http%3A//content.stocktrak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StockTrak Product Pages
 
@@ -32,8 +32,20 @@ Our site also uses “web beacons”. Web beacons are small pieces of data that 
 
 From time to time, we may amend this Privacy Statement. Should any amendments create additional ways in which we may collect or disclose your Personal Information, you may opt out of those amendments by e-mailing us within 30 days of the posting of the revised Privacy Statement on the site. We will always identify the date this Privacy Statement was last revised at the top of the statement. It is your responsibility to monitor the statement periodically to determine whether there have been changes. Opting out of an amendment to this Privacy Statement may subject you to termination of your registration and participation in any ongoing or future simulations at our sole election and upon notice to you.
 
+##### Interest-Based Advertising
+
+We use Google or other third party partners to display interest-based advertising to you within our sites. Interest-based ads, sometimes also referred to as targeted or personalized ads, are advertisements about goods and services, that may be more useful and relevant to you, based on information gathered about your activities across non-affiliated websites. 
+
+In order to provide interest-based ads, we use cookies, web beacons, and other similar technologies, and we may permit our third party partners to do the same. 
+
+In providing interest-based ads, we follow the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance (DAA). To learn more, please visit [http://www.aboutads.info](http://www.aboutads.info/)
+
+You can choose not to receive interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the DAA’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website <http://www.networkadvertising.org/choices/> and DAA website <http://www.aboutads.info/choices/>
+
+Note that if you “opt-out” you will still see online ads, but they will not be personalized.
+
 ##### Corrections
 
 To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: Customer Service at help-desk{at}stocktrak.com
 
-Last revised on November 17th, 2015.
+Last revised on November 21st, 2017.
