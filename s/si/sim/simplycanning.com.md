@@ -1,63 +1,157 @@
-> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201140255id_/http%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628024723id_/https%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Simply Canning - ie the legal stuff.
 
-Your first paragraph ...
+Welcome to SimplyCanning's privacy policy.
 
-Privacy Policy - The legal stuff. 
+The information you share with me is important.  I recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Simply Canning, as well as some of the steps we take to safeguard information. This will help you make an informed decision about sharing personal information with us.
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use SimplyCanning.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+Simply Canning strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers' and online visitors' privacy on our website.
 
-Simply Canning strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+**About Our Cookies**  
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at http://www.google.com/privacy.html) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
-**Personal Information**
+A cookie is a string of information that Simply Canning stores on your computer, which your browser provides to Simply Canning each time you return to the site. We use cookies to help us identify and track visitors, their use of our website, and their website access preferences.
 
-Simply Canning collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+Cookies are used to ensure a quality visitor experience and our site complies with the General Data Protection Regulation (GDRP)
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
+ **Google Analytics Cookies**
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+Simply Canning uses Google Analytics to analyze the use of this website. Google Analytics collects demographic and interest data, and generates statistical and other information about website use, by means of cookies. These cookies are kept on your computer. We share this information with Google, which will store and use this information on its servers. Google's privacy policy is available at:  <https://policies.google.com/privacy>
 
-**Use of Cookies and Web Beacons**
+Simply Canning uses information from Google Analytics to track the number of visits to the website, browsers and operating systems. No personally identifiable information is obtained from these cookies. We use the information that Google Analytics generates relating to our website to create reports about the use of the site. These reports allow us to update the site and improve your usage of it.
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Simply Canning to recall your specific information on subsequent visits.
+If you do not wish your data to be collected via Google Analytics, you can install its opt-out browser extension or add-on... <https://tools.google.com/dlpage/gaoptout/>
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+**Advertising Cookies**
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+ **\-----------------------**
 
-We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website to as certain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
+Simply Canning is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.  
 
-Some third-party advertisements may be provided by Google.  These may use cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/).   
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
-**Children's Online Privacy Protection Act**
+For European Economic Area Residents
 
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site incompliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-**Non-Personal Information**
+You may opt out of personalized ads for over 125 different ad networks. Click here to do that.    <http://www.aboutads.info/choices/>
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, toad minister the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+Some third-party advertisements are served by Google. Google's cookie enables it to serve ads to our visitors based on their visits to other sites on the Web. You may opt out of personalized ads by visiting the Google ad opt-out page. <https://adssettings.google.com/authenticated>
 
-**Release of Information**
+This link from Google provides more information about how Google manages data in its ad products.   <https://policies.google.com/technologies/partner-sites>
 
-If Simply Canning is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+ **Affiliate Products and Services**
 
-**How You Can Correct or Remove Information**
+We receive an affiliate commission for some of the products/services recommended on Simply Canning.  By clicking on a product or service link, you consent to that platform's use of cookies.
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.
+ **Retargeting Ads and Tracking Pixels     **
 
-**Updates and Effective Date**
+Simply Canning uses Facebook pixels to determine the effectiveness of some Facebook ad campaigns. You can change your Facebook ad settings here. <https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen>
 
-Simply Canning reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+ **Refusing Cookies**  
 
-**Agreeing to Terms**
 
-If you do not agree to Simply Canning's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+You can set your browser to accept or refuse all cookies automatically, or notify you when a cookie is being requested. Taking this action should not cause a problem with the continued use of our site. Consult the Help section of your browser for guidance on how to refuse all cookies or to notify you when a cookie is requested.
 
-**Your use of this site indicates acceptance of this privacy policy.**
+If you choose to refuse Simply Canning's cookies, you may not be able to fully experience the interactive features of the site.
 
-Return from [Return from Privacy Policy to Simply Canning Home](http://www.simplycanning.com/)
+**Personally Identifiable Information**  
+
+
+Simply Canning may collect and use your personal information for the following purposes:
+
+  * To run and operate our site.
+  * To display content on the site correctly.
+  * To improve customer service.
+  * To help us respond to your customer service requests and support needs more efficiently.
+  * To personalize your user experience.
+  * To understand how our users as a group use the services and resources provided on our site.
+  * To improve our site.
+  * To improve our products and services.
+  * To run a promotion, contest, survey or other site feature.
+  * To send information to you that you agreed to receive about topics we think will be of interest to you.
+  * To send periodic emails, which may include electronic newsletters and/or autoresponder series of emails.
+  * To respond to your enquiries, questions, and/or other requests.
+
+
+
+Simply Canning may collect personally identifiable information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, or fill out a form, and in connection with other activities, services, features or resources we make available on our site.
+
+ **If you subscribe to our newsletter,** we will ask for your first name and will require your email address.  Simply Canning uses Infusionsoft to manage email marketing subscriber lists and to send emails to subscribers. Infusionsoft’s privacy policy is available here.  <https://www.infusionsoft.com/legal/privacy-policy>  You can unsubscribe from my newsletter by clicking on the unsubscribe link provided at the end of each newsletter.
+
+ **If you complete a form** , we will require your name and your email address, and will ask for information relevant to the purpose of the form.
+
+ **If you submit content to us,** we will ask for your name and email address. Photos you include with your submission, or details in your submission, may personally identify you.
+
+ **If you request to be notified about comments** on any content you submit to us, or request to be notified when others submit content, we will require your first name and your email address.
+
+I **f you purchase a product or service from us;**  When you click to buy one of our e-Books on our site, you are taken to one of these third party platforms. By using these platforms you consent to that platform's use of cookies.
+
+We sell our e-books on a third party platform, Ejunkie. 
+
+ You may view their privacy policy by clicking the following link:
+
+  * E-junkie - <https://www.e-junkie.com/wiki/privacy>
+
+
+
+Simply Canning courses are hosted by Thinkific Labs Inc. (“Thinkific”). They provide us with the online course creation platform that allow us to sell our product/services to you.  Your data is stored through Thinkific’s data storage, databases and the general Thinkific application. They store your data on a secure server behind a firewall. You may view their privacy policy by clicking the following link. 
+
+  * Thinkific - <https://www.thinkific.com/resources/privacy-policy/>
+
+
+
+**This site lets you share content** with your friends and followers on various social media platforms. By using these platforms you consent to that platform's use of cookies. Links to privacy policies below.  
+
+  * [Facebook](https://www.facebook.com/legal/FB_Work_Privacy)
+  * [Twitter](https://twitter.com/en/privacy)
+  * [You Tube](https://policies.google.com/privacy?hl=en)
+  * [Pinterest](https://policy.pinterest.com/en/privacy-policy)
+
+
+
+ **Google Search:** The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located here) shall apply to your use of the Search Box
+
+You can always refuse to supply personally identifiable information and visit our site anonymously. However, it may prevent you from engaging in certain site-related activities.
+
+If we make material changes in the collection of personally identifiable information, we will inform you by placing a notice on our site. We will use personal information received from you for internal purposes only and will not sell it or provide it to third parties.
+
+ **We also collect each visitor's IP address** , which helps us combat spam and fraud. We do not use IP addresses for any other purpose.
+
+ **Simply Canning contains links to other websites** that may be of interest to you. However, once you have used them to leave our site, we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information you provide while visiting such sites. These sites are not governed by this privacy statement. Always exercise caution by reviewing the privacy statement of the website in question before continuing to use it.
+
+ **Non-personally Identifiable Information**
+
+We may collect non-personally identifiable information about you whenever you interact with our site. Non-personally identifiable information may include the browser name, the type of computer and technical information about your method of connecting to our site, such as the operating system and the Internet service provider you used, and other similar information.
+
+ **Children's Privacy Protection**
+
+This website is directed to adults. It is not directed to children under the age of 16. We operate our site in compliance with current regulations. Anyone under the age of 16 must provide parental consent to use this site. We do not knowingly collect or use personally identifiable information from anyone under 16 years of age.
+
+ **Release of Information**
+
+If we sell Simply Canning, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale so that the service provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make.
+
+ **Data Storage**
+
+Personally identifiable information and non-personally identifiable information collected by this site is stored on our host's servers. That host is SiteSell Inc., located at 1000 Saint-Jean Boulevard, Suite 702, Pointe-Claire, QC H9R 5P1 Canada.
+
+ **How You Can Correct or Remove Information**
+
+We provide this privacy policy as a statement to you of our commitment to protect your personally identifiable information. If you have submitted personally identifiable information through our website and would like to review that information, click on this link.    [simplycanning.com](https://www.simplycanning.com/gdpr-review.html)[/gdpr-review.html](https://www.simplycanning.com/gdpr-review.html)
+
+You can also request to edit or delete any of your information from the servers by clicking on this link.  <https://www.simplycanning.com/gdpr-request.html>
+
+ **Updates and Effective Date**
+
+Simply Canning reserves the right to make changes in this policy. If there is a material change in our cookie and privacy practices, we will indicate on our site that those practices have changed and provide a link to the updated privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+
+ **Agreeing to Terms**
+
+If you do not agree to Simply Canning's privacy policy as posted here on this website, please do not consent to the setting of cookies and the collection and storage of your personally identifiable information.
+
+Your explicit consent indicates acceptance of this privacy policy in its entirety.
+
+Last updated: 5-27-2018
