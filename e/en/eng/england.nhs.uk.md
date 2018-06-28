@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119040155id_/https%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628051123id_/https%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
 
 # NHS England » Privacy and cookies
 
@@ -51,18 +51,19 @@ Please note that the cookie providers listed below may distribute the gathered c
 
 #### Current cookies
 
-We use the following cookies on our website –
+Please by aware that the providers listed below may change their cookie names without notice.  
+As an example, we use the following cookies on our website:
 
 **Cookie:** Google Analytics  
-**Name:** _utma, _utmb, _utmc, _utmz, GAPS, LSID, LSOSID, OTZ  
+**Example name:** _utma, _utmb, _utmc, _utmz, GAPS, LSID, LSOSID, OTZ  
 **Purpose:**    These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. These cookies may also be identified as originating from england.nhs.uk [More information about Google cookies](http://www.google.com/intl/en-GB/policies/technologies/cookies/).
 
 **Cookie:** www.google.com (Google embedded search)  
-**Name:** __utmx, __utmxx, APISID, HSID, NID, PREF, SAPISID, SID, SSID  
+**Example name:  **__utmx, __utmxx, APISID, HSID, NID, PREF, SAPISID, SID, SSID  
 **Purpose:** These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited and what they have searched for. [More information about Google cookies](http://www.google.com/intl/en-GB/policies/technologies/cookies/).
 
 **Cookie:** www.events.england.nhs.uk  
-**Name:** PHPSESSID  
+**Example name:** PHPSESSID  
 **Purpose:** To track visitor information and for security authentication.
 
 #### Embedded content
@@ -72,28 +73,24 @@ We want to provide interesting and engaging content on our website. On a number 
 The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. Third party cookies are delivered on behalf of their respective organisations and as such they may change their name and purpose from the cookies identified below, this is beyond the control of NHS England.
 
 **Cookie:** Ustream  
-**Name:** ab_test_1, ab_test_2, locale, optimizelyBuckets, optimizelyEndUserId, optimizelySegments, uTrack, ul, ustream-guest, _qca, PHPSESSID  
+**Example name:** ab_test_1, ab_test_2, locale, optimizelyBuckets, optimizelyEndUserId, optimizelySegments, uTrack, ul, ustream-guest, _qca, PHPSESSID  
 **Purpose:** Used  to enable certain features of the services, to better understand how you interact with the services in-order to deliver a better service.  Also used to monitor aggregate usage by users and monitor web traffic on the service.  [More information about Ustream cookies](http://www.ustream.tv/privacy-policy).
 
 **Cookie:** scorecardresearch.com  
-**Name:** UID, UIDR  
+**Example name:** UID, UIDR  
 **Purpose:** Used by Ustream video streaming (as described above), to better understand how you interact with their services in-order to deliver a better service. Also used to monitor aggregate usage by users and monitor web traffic on the service. [More information about scoreandsearch.com cookies](http://www.scorecardresearch.com/privacy.aspx?newlanguage=1).
 
 **Cookie:** YouTube  
-**Name:** PREF, VISITOR_INFO1_LIVE, use_hitbox  
+**Example name:** PREF, VISITOR_INFO1_LIVE, use_hitbox  
 **Purpose:** To track visitor views, and to remember user preferences when viewing YouTube videos embedded in our website web pages.   [More information about YouTube cookies](http://www.google.co.uk/intl/en/policies/privacy/).
 
 **Cookie:** Twitter  
-**Name:** guest_id, remember_checked, remember_checked_on, secure_sessions, twll  
+**Example name:** guest_id, remember_checked, remember_checked_on, secure_sessions, twll  
 **Purpose:** To track visitor information and for security authentication. [More information about Twitter cookies](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies# "Twitter Cookies").
 
 **Cookie:** LinkedIn  
-**Name:** csrftoken, L1e, visit, PHPSESSID  
+**Example name:** csrftoken, L1e, visit, PHPSESSID  
 **Purpose:** To track visitor information and for security authentication. [More information about LinkedIn cookies](https://www.linkedin.com/legal/privacy-policy "LinkedIn Cookies").
-
-**Cookie:** AddThis  
-**Name:** _ga, _gid, bt2, di2, loc, mus, na_tc, uid, um, uvc, vc  
-**Purpose:** To track visitor information and provide analytics on social media sharing. [More information about AddThis cookies](http://www.addthis.com/privacy/privacy-policy "AddThis"). AddThis offer [ an opt-out option](http://www.addthis.com/privacy/opt-out).
 
 #### How to control and delete cookies
 
