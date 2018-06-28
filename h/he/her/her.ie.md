@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the her.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115033119id_/https%3A//www.her.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the her.ie privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628090207id_/https%3A//www.her.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Her.ie
 
 **Section 1. Introduction**
 
-At Her.ie we respect the right to personal privacy and our obligations under the Data Protection Acts 1988 and 2003. This Privacy Policy outlines how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.
+At Her.ie we respect the right to personal privacy and our obligations under the General Data Protection Regulation (GDPR) which comes into force across the EU on 25 May 2018. This Privacy Policy outlines how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.
 
 By using this website, you are accepting the terms of this privacy statement. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy statements of these other websites.
 
@@ -33,15 +33,18 @@ This website uses "cookie" technology. A cookie is a little piece of text stored
 "Personal Data"  
 We will process any Personal Data you provide to us for the following purposes:
 
-to respond to any queries you submit to us;
+  1. To respond to any queries you submit to us
+  2. Where you have consented to the sharing of your information with third parties, we will do so in accordance with Section 4 below
+  3. To seek your views on our site and our services
+  4. To send you newsletters or other forms of communication that you register for
 
-where you have consented to the sharing of your information with third parties, we will do so in accordance with Section 4 below;
 
-to seek your views on our site and our services;
 
-to send you newsletters or other forms of communication that you register for.
+**Section 4. Updating Consent  **
 
-**Section 4. Disclosure of Information to Third Parties**
+Her and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible. Click here to update your consent preferences for the use of this technology by Maximum Media and these 3rd parties on our site.
+
+**Section 5. Disclosure of Information to Third Parties**
 
 We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
@@ -49,18 +52,18 @@ We will not disclose your Personal Data to third parties unless you have consent
 
 We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
 
-**Section 5. Security**
+**Section 6. Security**
 
 Your Personal Data is held on secure servers hosted by our Internet Service Provider. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data.
 
-Section 6. Updating, Verifying and Deleting Personal Data
+**Section 7. Updating, Verifying and Deleting Personal Data**
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your Personal Data accordingly. We will not hold your Personal Data for any longer than is necessary for functions for our website. We will review our databases on a periodic basis, and shall delete data that is outdated, inaccurate, or no longer necessary. Her.ie reserves the right to contact users in this regard.
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the General Data Protection Regulation (GDPR) we will update or delete your Personal Data accordingly. We will not hold your Personal Data for any longer than is necessary for functions for our website. We will review our databases on a periodic basis, and shall delete data that is outdated, inaccurate, or no longer necessary. Her.ie reserves the right to contact users in this regard.
 
-Section 7. Changes to the Website Privacy Policy
+**Section 8. Changes to the Website Privacy Policy**
 
 Any changes to this Website Privacy Statement will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Statement, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
-Any queries or comments about this policy should be sent to [hello@her.ie](mailto:hello@her.ie).
+Any queries or comments about this policy should be sent to dataquery @ maximummedia.ie.
 
 Please note that any site that you may connect to from here is not covered by this Privacy Policy.
