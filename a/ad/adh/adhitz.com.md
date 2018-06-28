@@ -1,155 +1,170 @@
-> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220308id_/http%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628132703id_/http%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # AdHitz.com - Advertising for all budgets. Website owners make money
 
 [Home](http://www.adhitz.com/) › **Privacy Policy**[](http://www.adhitz.com/en/Privacy_Policy "Reload Page")
 
-Last Updated October 31, 2009
+**Fino Investment LLC ("us", "we", or "our") operates the website (the "Service").**
 
-**Overview of Our Services:**  
-AdHitz is an advertising exchange where third party advertisers ("Advertisers") may distribute online text, banner, full page, inline, or other types of advertisements ("Ads") to advertising zones ("Ad Zones") located on Internet websites that are owned or operated by other third parties ("Publishers"). Advertisers and Publishers can manage their accounts on our exchange through a self-service account management interface ("Interface") located at AdHitz.com ("Our Website"). A Publisher website to which we deliver Ads is sometimes referred to in this Policy as a Publisher Site and all Publisher Sites are sometimes referred to collectively in this Policy as the Publisher Network. To avoid any confusion, you should understand that while we own and operate Our Website, we do not own or operate any Publisher Site.   
-AdHitz seeks to optimize the delivery of Ads to Ad Zones within the Publisher Network using auction pricing, real-time bidding, API functionality, behavioral targeting and unparalleled access to campaign information. This privacy policy is intended to inform you about our collection, use, storage and disclosure of information that we collect or record in the course of providing these services. 
+**Data protection is taken very seriously by Fino Investment LLC. The processing of personal data is necessary for the Service to function. We therefore request consent from the data subject during the registration process.**
 
-**Overview of Our Users:**  
-Three types of users interact with us. For ease of reference, we use the following definitions in this Policy: Surfers are users who navigate to AdHitz.com. Members are Advertisers or Publishers who have completed our registration process and accepted our terms of use, or Advertisers who have signed written agreements with us for the management of their accounts. Members also include Managed Advertisers who have signed written agreements with us for the management of our services. Viewers are users who view or click on an Ad Zone that is powered by AdHitz. Depending on your particular interaction with us, different portions of this policy may apply to you at different times. 
+**The processing of personal data shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country specific data protection regulations applicable.**
 
-**Are you agreeing to anything by providing us information?**  
-BY NAVIGATING TO OUR WEBSITE ON OR AFTER THE DATE THAT THIS POLICY WAS LAST UPDATED, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR SESSION DATA AS DESCRIBED IN THIS POLICY. BY REGISTERING AS A MEMBER, SIGNING A WRITTEN AGREEMENT WITH US AS A MANAGED ADVERTISER OR SUBMITTING TO US EMAIL COMMUNICATIONS ON OR AFTER THE DATE OF THIS POLICY, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION, SESSION DATA AND ACCOUNT DATA AS DESCRIBED IN THIS POLICY. IF YOU DO NOT CONSENT TO HAVE YOUR INFORMATION USED AS DESCRIBED IN THIS POLICY, YOU MUST DISCONTINUE USE OF OUR WEBSITE AND OUR SERVICES IMMEDIATELY. 
+**This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.**
 
-**What types of Information do we collect from you and why?**  
-Personal Information is information that can be associated with a particular person or entity. Personal Information does not include IP addresses or information that has been anonymized so that it cannot identify a particular user using reasonable efforts. Examples of Personal Information are: 
+**We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from[here](http://www.adhitz.com/en/User_Agreement)**
 
-  * Name
-  * Telephone number
-  * Email address
-  * Mailing Address
-  * Tax ID or Social Security Number (Publishers only)
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
+Cookies are small pieces of data stored on a User's device.
 
-We collect Personal Information from Members so that we can transact business with Members and report Publisher payments to the IRS. We also collect Personal Information from electronic mail sent to us ("Email Communications"), so that we can substantiate and follow up upon the information contained in the Email Communications. Email Communications can be sent by either Members or Surfers, and include the following types of communications: 
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-  * Copyright infringement notifications under the Digital Millennium Copyright Act (DMCA) or other applicable law ("Take-Down Notices")
-  * Notices of violations of our Subscriber Agreement or our acceptable use policies("Violation Notices")
-  * Requests for assistance from our support department
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
 
+Data Subject is any living individual who is the subject of Personal Data.
 
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
-We do not collect Personal Information from Viewers. We do not merge Personal Information that we derive from Email Communications with other Personal Information. We do not merge Personal Information that we collect from Members with Non-Personal Information that we collect from Viewers or Surfers. We do merge Personal Information that we collect from Members with Non-Personal Information that we collect from Members. 
+Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
-Non-Personal Information is any information other than Personal Information. We collect three types of Non-Personal Information from users: 
+**Full name of legal entity:** Fino Investment LLC  
+**Email address:** [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)  
+**Postal address:** 7890 Ashbrook Drive, Haslett, Mi. 48840
 
-  * **Session Data** is information we collect from Surfers and Members to assist them with navigation on Our Website and to allow us to make improvements to Our Website.
-  * **Account Data** is information we collect from Members that is not Personal Information or Session Data. This information is necessary for us to transact business with Members, as well as to prevent and detect fraud. While Account Data is not Personal Information, it is associated with a particular Member account and may therefore be merged with the Personal Information or Session Data of that Member. Examples of Account Data that we collect from Members are: 
-    * Bid, budget, reserve price and targeting information we receive from Advertisers through the Interface
-    * Ad Zone and Ad approval information we receive from Publishers through the Interface
-    * The date, time and IP address of a Member’s initial registration and any subsequent login to the Interface
-    * Certain activities of a Member using the Interface, such as the creation or deletion of a Publisher’s Ad Zone or the adjustment to an Advertiser’s budget or bid
-  * **Viewer Data** is information we collect about Viewers. We use Viewer Data to optimize the delivery of Ads to Ad Zones so that, for example, we are less likely to deliver an Ad targeted toward men to a Viewer we believe is a woman, and we are less likely to deliver the same Ad repeatedly to the same Viewer. We also use some Viewer Data for fraud prevention and detection and to document transactions for invoicing and commission purposes. Examples of Viewer Data that we collect from Viewers are: 
-    * The type and version of browser and operating system used by the Viewer ("System Info")
-    * The approximate geographic location of the Viewer based on their IP address ("Geographic Info")
-    * The most recent Publisher Sites to which the Viewer has navigated
-    * Any past Ads that the Viewer has viewed or on which the Viewer has clicked
-    * Any past conversions from Ads by the Viewer of which we are aware
-    * Any other inferences we make regarding a Viewer (e.g., is likely to be a man) or their preferences (e.g., appears to like gardening)
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
+**Identity Data** includes first name, last name, username or similar identifier, date of birth and gender.
 
-**What types of Information do we collect from children?**  
-We do not intentionally collect Personal information or Non-Personal Information from children under 13 years of age. However, if a child under 13 years of age navigates to Our Website or to one of our Ad Zones or Pixels on a Publisher Site, we may store Session Data and/or Viewer Data on their browser as we would with any other Surfer or Viewer. If you have reason to believe that a child under 13 years of age has provided us with Personal Information, please contact us by clicking the "Contact Us" link found at the bottom of any AdHitz.com webpage. 
+**Contact Data** includes billing address, delivery address and email address.
 
-**How do we collect information from you?**  
-Personal Information. We collect Personal Information from Members through the online registration process, though sometimes this information is given to us offline and entered by us online on the Member’s behalf. We require Members to keep this information updated as they continue to use our services. We also collect Personal Information from Members and Surfers from Email Communications that they send to us.
+**Financial Data** includes bank account and other payment service providers for payment.
 
-**Session Data.** We collect Session Data from Surfers when they navigate to AdHitz.com by setting Cookies on their browser. We collect Session Data from Members when they log into our Interface by setting Cookies on their browser and by recording Session Data in our action logs.
+**Technical and Usage Data** We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**Account Data.** We collect Account Data from Members through the Interface as they register, log in or out, or make decisions on the Interface with respect to their Ads or Ad Zones. Some of this Account Data is collected when a Member enters information into the Interface in response to a query, while other Account Data is recorded by us in our action logs. 
+**Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
 
-**Viewer Data.** We collect System Info from Viewers using information transmitted by their browser and Geographic Info from Viewers from information associated with the Viewer’s IP address. We collect other Viewer Data from Cookies and Pixels. If you are a Viewer, whenever you view an Ad Zone that is part of the Publisher Network, we will set or update one or more Cookies on your browser. Each time you view an Ad Zone, click on an Ad or take any action with a vendor that resulted from an Ad (such as completing a lead form or purchasing a product or service) we may update those Cookies and we may update a Log File associated with that Ad Zone display to record your interests or preferences. We also contract with third party data providers to purchase Viewer Data from them. This data is referred to below as Third Party Viewer Data. In order to match Third Party Viewer Data with you, we may allow third parties to drop our Pixel on Web pages to which you navigate so that we can update the Cookie we put on your browser. 
+**Marketing and Communications Data** includes your preferences in receiving marketing from us and your communication preferences.
 
-**What are Cookies, Pixels and Log Files? Can you refuse them?**  
-A Cookie is a small packet of data that is stored on your Internet browser. We use Cookies to store Session Data and Viewer Data. We assign a randomly-generated identifier (not your actual identity) to your browser ("Visitor ID") and store it in a Cookie so that a website can recognize your browser the next time you visit the website. Cookies allow us to store Viewer preferences, customize the display of content on a Viewer’s browser and record activities relating to Ad Zones so that Viewers will receive more relevant and less repetitive Ads when they next encounter an Ad Zone. Most browsers are set up initially to accept Cookies. There are two ways you may refuse Cookies: 
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-You may set your browser to disable or delete all third-party Cookies. The mechanics to do this vary by browser and you should check your browser’s help file to learn how to take either action. If you disable or delete Cookies at the browser level, the features and functionality of many websites may be affected and you may see the same content and Ads repeatedly on some websites. For example, if you were a Member and you elected to disable Cookies, you would not be able to use any of the authenticated services we provide on Our Website. 
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-You may set your browser to prompt you each time a website wants to set a Cookie and ask for your permission. By refusing permission to any given Cookie, you will prevent only a single Cookie from being created. Note, however, that because of the number of Cookies set by some websites, choosing to review Cookies on an individual basis may prove to be burdensome and may interfere with the features and functionality of some websites, including Our Website. 
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-A Pixel (also known as a web beacon) is an image on a website page that may not be visible to the naked eye. We use Pixels to convey Viewer Data to your browser or to our Log Files. Viewing a screen with a Pixel may instruct your browser to update a Cookie associated with that Pixel. For example, if we wanted to record whether a product was purchased using your browser, we would place a Pixel on the Advertiser’s site so that when the purchase was completed, the Cookie on your browser would be updated to reflect the purchase. At the same time, we would record the purchase in a Log File. Most browsers are set up initially to accept Pixels. There are two ways to prevent Pixels from recording information about your web activities: 
+Examples of Cookies we use:
 
-You may set your browser controls to reject all third party image tags. The mechanics to do this vary by browser and you should check your browser’s help file to learn how to take this action. Please note, however, that rejecting all third party image tags may interfere with the features and functionality of many websites, including Our Website. 
-
-Because Pixels are used to update Cookies on your browser, you may also instruct your browser to disable or delete Cookies or to ask permission before a Cookie is accepted, or you may set an Opt-Out Cookie on your browser. These actions would render ineffective Pixels that record Viewer Data in your Cookies and would delete the Visitor ID from your browser, rendering anonymous Log File information recorded from other Pixels.
-
-A Log File is a temporary file we create and store on our system to store everything we know about the display of an Ad Zone. A Viewer’s Visitor ID is noted in the Log File. You cannot elect to disable Log Files, though if you delete Cookies or set an Opt-Out Cookie, you will delete the Visitor ID from your browser and there would be no way to tie a particular Log File back to your browser.
-
-Please note that disabling Cookies or Pixels on your browser does not mean you will no longer receive online Ads from us. It means that we will no longer be able to deliver Ads to you that are tailored to your preferences or to limit the number of times you see the same Ad. 
-
-**Can you see or change the information we collect?**  
-**Personal Information.** Members can see the Personal Information we collect from them by logging into the Interface at [www.adhitz.com](http://www.adhitz.com/) except for certain credit card information that is not stored or that is masked for security reasons and Personal Information derived from Email Communications. Members can change the Personal Information we collect from them through the Interface (except for Personal information derived from Email Communications), though for auditing and fraud detection purposes, we continue to store Personal Information previously entered by a Member even after it is modified or deleted by the Member. Members and Surfers cannot see or change the Personal information we derive from Email Communications. 
-
-**Account Data.** Members can see and change Account Data that was entered by the Members into the Interface, such as bid and budget information we collect from Advertisers and Ad Zone and Ad approval information we collect from Publishers, by logging into the Interface at [www.adhitz.com](http://www.adhitz.com/) . Members cannot see or change Account Data we record in our action logs on behalf of Members, such as the date and time they last logged into the Interface or their most recent activities using the Interface. 
-
-**Session Data.** Surfers can see Session Data we collect from them using the tools available in their browser to view Cookies and can delete this Session Data by deleting the associated Cookies from their browser. Similarly, Members can see Session Data we collect from them that is stored on their browser using the tools available in their browser to view Cookies and can delete this Session Data by deleting the associated Cookies from their browser. Members cannot see, modify or delete Session Data we collect from them that is stored on our system. Surfers cannot see or change the Session Data we send to third parties to assist us in designing and improving Our Website. 
-
-**Viewer Data.** Viewers can see the Viewer Data we store in Cookies by using the tools available in their browser to view Cookies. Viewers cannot change this Viewer Data, but a Viewer can elect to delete Cookies, to disable cookies, to limit Cookies to those that are pre-approved or to block Cookies that record Viewer Data by setting an Opt-Out Cookie. Viewers cannot see or change the Viewer Data we store in Log Files, though if you delete Cookies or set an Opt-Out Cookie, you will delete the Visitor ID from your browser and there would be no way to tie a particular Log File back to your browser. 
-
-**Where and for how long do we store information that we collect?**  
-**Personal Information and Account Data.** We store all Personal Information and Account Data in our data centers, except for Personal information derived from Email Communications. We keep all Personal Information and Account Data we collect from Members indefinitely, though we reserve the right to delete such information at any time at our convenience. Personal Information derived from Email Communications is stored by a third party service provider on their network for up to three years after it is sent to us, except for Take-Down Notices and Violation Notices which we may retain indefinitely. 
-
-**Session Data.** We store Session Data in Cookies on a Surfer’s or Member’s browser and/or in our data centers. Session Data stored in Cookies is retained until it is overwritten at a later time with new Session Data or until a Surfer or Member deletes the Cookies from his or her browser. Session Data stored in our data centers is retained indefinitely, though we reserve the right to delete such information at any time at our convenience. The third party we use to assist us with website design may keep Session Data it collects indefinitely, but our only access to this data is on an aggregate basis (e.g., 200 users clicked on a specific link on Our Website in January). 
-
-**Viewer Data.** We store Viewer Data about Viewers on Cookies in a Viewer’s browser. Currently, we retain this Viewer Data until we record more recent or relevant information over that data. We also store Viewer Data in our Log Files which are maintained in our data centers. Log Files are currently retained for two weeks, except for one day of Log Files each year that is retained for auditing purposes for seven years. At the request of a Third Party, we will delete any Third Party Viewer Data from a Viewer’s Cookies when the Viewer next encounters one of our Ad Zones one year after the Third Party Data was recorded on the Cookies. 
-
-**What security measures do we use to protect information that we store?**  
-We maintain commercially reasonable security protections to protect information we collect from loss, misuse and unauthorized access, disclosure, alteration or destruction. For example: 
-
-**Information we collect is not publicly accessible from Our Website.**
-
-We use a multi-level, password protected security system to control access to information stored about users. In particular, we use Secure Socket Layer (SSL) encryption to protect Personal Information we collect from Members through the Interface, though a Member can opt out of using SSL if they choose. 
-
-We maintain strict physical security of our properties and facilities and only provide access to authorized personnel. 
-
-We restrict access to personal information to employees, contractors and agents who need to know that information in order to operate, develop or improve our services. AdHitz employees are bound by confidentiality obligations to the company and may be subject to discipline, including termination, if they fail to meet these obligations. 
-
-While we try our best to safeguard and protect all information we collect, please be advised that no data transmission over the Internet can be guaranteed to be completely secure. Furthermore, Session Data and Viewer Data (other than in Log Files) are stored on a user’s browser, not in our network, and security measures for such information are the responsibility of the user operating the browser. 
-
-**Who do we share your information with?**  
-**Personal Information and Account Data.** We may share Personal Information with service providers who send out targeted emails on our behalf to allow us to update you about improvements to Our Website ("Targeted Emails"). These service providers are not authorized to use Personal information to market their own products or services or to market the products or services of any third party that is not controlled by, controlling or under common control with AdHitz ("Affiliate").   
-We may share Personal Information and Account Data with service providers who assist us with our business operations, such as credit card verification and processing, tax id number verification, collections and fraud prevention.   
-If you are a Publisher, we may share your Ad Zone information with Advertisers to allow us to serve Ads.   
-If you are an Advertiser, we may share your creative with Publishers to facilitate Ad approval and delivery of the Ad to the appropriate Ad Zones.   
-We may share Personal Information from Take-Down Notices and Violation Notices with any third party alleged in the notices to be violating applicable law, our policies or our Subscriber agreement. 
-
-**Viewer Data.** We may share Viewer Data with real-time bidders, to assist them in optimizing their bid for a specific Ad Zone. We may share Viewer Data (on an aggregate basis) with third-party operators of decision engines, to assist them in building better models for Ad optimization.
-
-**Session Data.** We may share Session Data with third parties who are hired to help us improve the design of Our Website. 
-
-**All Information.** In addition to the foregoing, we may share any information we collect from you with: 
-
-  * Any Affiliate of AdHitz.
-  * Law enforcement, government officials or other third parties,
-  * To respond to a subpoena, court order or other legal procedure
-  * To comply with the law
-  * To prevent physical harm or financial loss, report suspected illegal activity or investigate violations of our Subscriber Agreement
-  * Companies with whom we merge or by whom we are acquired whether in a stock or asset transaction or who purchase or license all or substantially all of our assets ("Successor Company"), whether or not as a result of a bankruptcy or other insolvency event. Personal Information submitted after a transfer to a Successor Company may be subject to a new privacy policy adopted by the Successor Company. In the unlikely event of a bankruptcy or other insolvency event, we may not be able to control how your Personal Information is treated by a Successor Company.
-  * Other third parties, with your consent or at your direction.
+  * Session Cookies. We use Session Cookies to operate our Service.
+  * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+  * Security Cookies. We use Security Cookies for security purposes.
 
 
 
-**How can you prevent us from sharing information we collect from you with third parties?**  
-You may request that we edit out your name and contact information from forwarded Violation Notices and we will honor your request. For legal compliance reasons, however, we will forward any Take-Down Notice we receive to the third party whose conduct is the subject of the Take-Down Notice without any deletions. Except as described in this section, you may not restrict us from sharing information that we collect from you with the third parties described above. 
+We use different methods to collect data from and about you including through:
 
-**What are the obligations of third parties with respect to your information?**  
-AdHitz has non-disclosure agreements in place with third parties to whom we may disclose your Personal information and Non-Personal information under this Policy. These agreements require the third parties to keep such information confidential and to use the information only for purposes of carrying out their business relationship with us. In most cases, however, these agreements apply only to information that we collect from you and disclose to them -- and not to information that they collect from you directly. Please note that AdHitz does not own or control any Publisher Site in the Publisher Network or any website owned or operated by an Advertiser. Although we choose our Advertisers and Publishers carefully and encourage them to follow reasonable privacy practices, we are not responsible for the privacy practices of third party websites and they are under no obligation to comply with this Policy. Before visiting another website and before providing any information to the party that operates or advertises on that website, you should review the privacy policy and practices of the website to determine how information that they collect from you will be handled. 
+You may give us your Identity, Contact, or Financial Data by filling in forms or by corresponding with us by post, email or otherwise.
 
-**In what countries will your information be processed?**  
-WE PROCESS INFORMATION ON SERVERS LOCATED IN THE UNITED STATES. DEPENDING ON THE LOCATION OF A MEMBER, WE MAY TRANSFER AND/OR PROCESS PERSONAL INFORMATION AND ACCOUNT DATA OUTSIDE THE COUNTRY OF THAT MEMBER. SIMILARLY, DEPENDING ON THE LOCATION OF A VIEWER AND THE NATURE OF THE PUBLISHER SITE TO WHICH THE VIEWER NAVIGATES, WE MAY TRANSFER AND/OR PROCESS TARGETING DATA OUTSIDE THE COUNTRY OF THAT VIEWER. BY PROVIDING INFORMATION TO US, YOU ACKNOWLEDGE THAT WE OPERATE IN THE UNITED STATES AND YOU AGREE TO PERMIT US TO COLLECT, TRANSMIT AND USE YOUR PERSONAL INFORMATION AND NON-PERSONAL INFORMATION ANYWHERE THAT WE DEEM NECESSARY FOR THE PERFORMANCE OF OUR SERVICES -- INCLUDING ACROSS INTERNATIONAL BOUNDARIES AND IN THE UNITED STATES -- AND THAT SUCH USE SHALL BE SUBJECT TO THE TERMS AND CONDITIONS STATED IN THIS POLICY AND OUR SUBSCRIBER AGREEMENT. AS A RESULT, IN THE CASE OF THE UNITED STATES, WE MAY BE REQUIRED TO DISCLOSE YOUR PERSONAL INFORMATION TO GOVERNMENT AUTHORITIES, REGULATORS, OR LAW ENFORCEMENT IN ACCORDANCE WITH APPLICABLE LAWS, WHICH MAY INCLUDE THE USA PATRIOT ACT. 
+As you interact with our Service, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
 
-**When is this Policy effective?**  
-If you are a Surfer or a Viewer, this Policy is effective immediately. If you do not consent to the collection, use and disclosure of your Session Data and Email Communications as described in this Policy, you must discontinue use of Our Website and refrain from sending us Email Communications. If you do not consent to have your Viewer Data collected, used or disclosed as described in this Policy, you may disable Cookies or Pixels on your browser, or refuse our Cookies, as described above. You may delete the Session Data and the Targeting we have previously collected by deleting your existing Cookies, as described above.   
-If you become a Member on or after October 31, 2009, this Policy is effective immediately. Acceptance of this Policy is required by our Subscriber Agreement. If we or you terminate your relationship with us after October 31, 2009, we will continue to follow this Policy with respect to information collected prior to your termination. 
+In order to facilitate the cashback service, we may receive personal data about you from various essential third parties as set out below:
 
-If you continue to use our services on or after October 31, 2009, you accept and agree to be bound by this Policy with respect to all information we have collected from you, whether collected before or after October 31, 2009. 
+Technical, Transactional and Contact Data from the following parties:
 
-**Can this Policy be updated?**  
-We may update this Policy from time to time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we collect and how we may use and disclose that information. When we update this Policy, we will change the "Last Updated" date at the top of this Policy. If we believe the changes are significant, we may take additional measures that we deem appropriate to notify you of the changes. If we make changes to this Policy that materially weaken restrictions on how we may use Personal Information collected from you prior to the changes, we will obtain your consent before treating the earlier-provided information inconsistently with this Policy. If you continue to use our site or our services after the effective date of any changes, you accept and agree to be bound by the changes with respect to all information we have collected from you, whether collected before or after the effective date. 
+  * Affiliate Networks based both inside and outside the EU
+
+
+
+Fino Investment LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues or fraudulent activity
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link in emails or by managing your communication preferences in your account settings.
+
+Fino Investment LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Fino Investment LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United Kingdom and choose to provide information to us, please note that we transfer the data, including Personal Data, to United Kingdom and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Fino Investment LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+Under certain circumstances, Fino Investment LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Fino Investment LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Fino Investment LLC
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+The security of your data is very important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+Fino Investment LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+In certain circumstances, you have rights under data protection laws in relation to your personal data.
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use.
+
+**Withdraw consent** at any time where we are relying on consent to process your personal data. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+To exercise your rights as detailed above, please contact us at [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+Our Service may contain links to other Services that are not operated by us. If you click on a third party link, you will be directed to that third party's Service. We strongly advise you to review the Privacy Policy of every Service you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party Services or services.
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+We may update our Privacy Policy from time to time so please check back regularly. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, please contact us:
+
+**By email** : [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)
