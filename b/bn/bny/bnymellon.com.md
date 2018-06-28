@@ -1,43 +1,70 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705185148id_/https%3A//www.bnymellon.com/us/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628020216id_/https%3A//www.bnymellon.com/us/en/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | BNY Mellon
 
 ### Online Privacy Policy
 
-BNY Mellon appreciates your concerns about the privacy of personal information that you provide to us through this website. Accordingly, we have posted this policy to explain how we will handle that information.
+Last update: August 7, 2017
 
-(Note: Our Online Financial Products and Services, such as BNY Online, CRT and INFORM may have different online privacy policies. To view the privacy policy for a specific Online Financial Product or Service please click on the Privacy link on that site.)
+The Bank of New York Mellon and its affiliates (collectively “BNY Mellon”) appreciate your concerns about the privacy of personal information that you provide to us through this website (“Site”). Accordingly, we have posted this Online Privacy Statement to explain how we handle such information. 
 
-#### Privacy of Information Given by You
+### Applicability
 
-If you do provide personal information about yourself, such as name, address or telephone numbers, we will endeavor to maintain that information in accordance with our internal policies governing use and disclosure of confidential information. We may disclose that information within our corporate enterprise. We may also disclose that information to unaffiliated third parties in order to respond to your inquiries, to provide services to you, to provide you with information concerning products and services that we offer, or to prevent or investigate fraud, illegal activity or misuse of this website. We may also disclose that information to unaffiliated third parties for other purposes if we have notified you in advance and you have not objected, you have requested or authorized us to do so, or we are required to do so by law.
+If you do not agree to the terms of this Online Privacy Statement, please do not provide us with any information and do not use the Site. By using the Site and voluntarily providing your personally identifiable information to us, you consent to the collection and use of such personally identifiable information as set forth in this Online Privacy Statement. This Online Privacy Statement applies to this Site. Our online products and services may have different Online Privacy Statements. To view the Online Privacy Statement for specific products and services please click on the Privacy link on that site.  
 
-#### Coverage of This Policy
+### Modifications
 
-Specific privacy policies apply to non-public personal information concerning consumers of certain products and services that we offer. We make those policies available to our customers in accordance with federal law.
+This Privacy Statement is effective as of the date listed above. We may modify this Online Privacy Statement at any time so please check from time to time for such modifications. Any changes to this Online Privacy Statement will be effective as of the date they are posted. If you have specific questions regarding this Online Privacy Statement or any information you have sent via the Site, please do not hesitate to [contact us](https://www.bnymellon.com/us/en/contact.jsp).  
 
-NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this website, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary.
+### Collection and Use of Your Information (including via Cookies)
 
-#### Protection of Social Security Numbers
+We use cookies, web beacons and similar technologies (called "Cookies" in this Online Privacy Statement) to track information provided to us by your browser and by our software application when you use the Site. A cookie is a small piece of information that a website stores on the web browser on your device and can later retrieve. "Session" Cookies are temporary and will expire at the end of a browser session; that is, when you leave a website. Session Cookies allow a website to recognize you and carry information as you navigate between pages during a single browser session and allow you to use the website most efficiently. "Persistent” Cookies, in contrast, remain in the Cookie file of your browser even after you leave a website and after the browser is closed. They enable a website to recognize you upon your return, remember your preferences and provide tailored services to you. A cookie will not contain information that will enable us to contact you via telephone, e-mail, or other means.
 
-"We" refers to the family of companies owned by The Bank of New York Mellon Corporation.
+We, and third party service providers acting on our behalf, use session and persistent Cookies to:
 
-Like all financial services companies, we collect a variety of information about individuals, including but not limited to our customers and employees. In many cases that information includes individuals' Social Security numbers. We use records of Social Security numbers for many purposes, especially to comply with federal and state laws such as tax laws and anti-money-laundering laws.
+  * Remember preferences that you submit as well as those generated from your usage data and your responses to polls and surveys on our Site;
+  * Measure your use of our Site in an effort to improve its quality and enhance your overall experience, including tracking page views, time and date of Site access, and other usage data, and identifying your operating system and browser type (but not other information about your computer or the programs on it) and your general geographic location;
+  * Measure the effectiveness of our newsletters and advertising campaigns; and
+  * Allow you to share certain information on our Site via social media bookmarking buttons, email or on social networking sites.
 
-Our policy is (i) to comply with all laws restricting the use and disclosure of Social Security numbers, (ii) to protect the confidentiality of Social Security numbers, (iii) to prohibit the unlawful disclosure of Social Security numbers, and (iv) to limit access to Social Security numbers to our employees, and in certain cases to nonaffiliated parties that provide services to us, based on their responsibilities. To safeguard Social Security numbers, we maintain physical, electronic, and procedural safeguards that are designed to comply with applicable legal standards. Our employees are prohibited from disclosing Social Security numbers for unauthorized purposes.
 
-We may share Social Security numbers among our affiliated companies or with nonaffiliated parties for administrative purposes, such as to process transactions, verify identities, and service accounts. We disclose Social Security numbers as required or permitted by law, such as to the Internal Revenue Service or to credit bureaus. When necessary, we disclose Social Security numbers to regulatory agencies, law enforcement agencies, courts, and parties to lawsuits.
 
-We may share Social Security numbers among our affiliated companies for marketing purposes, but only in compliance with legal restrictions, including required opportunities to opt out of such sharing. We do not, without consent of the individual involved, share Social Security numbers with parties not affiliated with us to enable them to market their own products or services.
+The third party service providers mentioned above use any personal information they collect on our behalf solely for the purpose of providing the contracted service to us. They have also agreed to confidentiality restrictions.
 
-#### Information Collected from Representatives of Institutional Clients
+Most browsers are initially set to accept Cookies. However, you have the ability to change your browser settings. It may also be possible to configure your browser settings to enable acceptance of specific Cookies or to notify you each time a new Cookie is about to be stored on your device enabling you to decide whether to accept or reject the Cookie. You can also disable Cookies by configuring your browser setting to reject Cookies. Please refer to the help section of your browser for instructions on disabling Cookies. For more information about Cookies, how they work, why they are so useful and how to disable them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-If you work for one of our institutional (business) clients, we may obtain from you or your firm your business contact information, such as your name, title, office address, business phone number and e-mail address. We may use this information for the purpose of conducting business with your firm, managing our relationship with your firm, and advising your firm of products and services that we believe might be of interest. We may (i) share this information with affiliated companies within the BNY Mellon corporate enterprise, (ii) disclose it to service providers that we use to process the information and that have agreed to confidentiality restrictions, and (iii) export this information to the United States and other jurisdictions where we, or our service providers, do business. We may also disclose this information as required by law.
+If you do not wish to accept Cookies from this Site, please either disable them or refrain from using this Site. If Cookies are disabled, it may mean that you experience reduced functionality or will be prevented from using all or part of this Site.
 
-#### Information Collected Through Cookies and Similar Technologies
+We may use aggregated usage data to track trends and analyze patterns on the Site. You may also voluntarily submit information, including by responding to our online polls and surveys, requesting information from us or asking to be contacted by one of our representatives. If you work for one of our institutional (business) clients, we may obtain your business contact information from your firm. If you register to enter an area of this Site, the Site will recognize who you are and collect all information that you submit (including subscription to emails, etc.). Any information collected about you from this Site may be associated with other identifying information that we have about you.
 
-An IP address is a unique identifier for a device on the internet. We may use your IP address to diagnose problems with our servers, to understand the geographical location of our visitors and to enhance our websites.
+In addition to the above uses, we may use your information for the purpose of conducting business with you, managing our relationship with you, and advising you of products and services that we believe might be of interest. The information collected also is used to provide a record of communications between BNY Mellon and its Site visitors and to comply with any applicable legal and/or regulatory requirements.  
 
-#### Third party sites
+### Sharing of Your Information
 
-Our websites may contain links to third party sites (including social media bookmarking buttons). Please review the Cookie policies of these sites to understand how they may use Cookies and your information.
+We do not sell or rent your personally identifiable information to third parties. We share your information only with our (i) affiliates; (ii) service providers that have agreed to confidentiality restrictions and use any personal information they collect on our behalf solely for the purpose of providing the contracted service to us; (iii) as otherwise described herein in order to provide you with our services; and (iv) to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies. Also, we may share in aggregate, statistical form, non-personal information regarding the visitors to the Site, traffic patterns, and Site usage with our partners, affiliates or advertisers.
+
+Your information will be transferred and stored in jurisdictions, including the United States, India and other jurisdictions that may be subject to differing standards of data protection requirements. BNY Mellon will take appropriate steps to ensure that transfers of personally identifiable information are in accordance with applicable law.
+
+BNY Mellon may, in the future, sell or otherwise transfer some or all of its assets to a third party. Your personally identifiable information, technical information about your device or browser and/or other anonymous information we obtain from you via the Site may be disclosed to any potential or actual third party purchasers of such assets and/or may be among those assets transferred.  
+
+### Third Party Advertisers
+
+We may use third party advertising companies to serve ads on our behalf on other websites across the Internet. In order to measure and track the effectiveness of such ads, these companies typically use Cookies; so a Cookie may be set in the Cookie file of your browser when you click on one of our ads or visit a webpage associated with our ad campaigns. These companies may also use and measure information about your visits to our Site as part of this same process. The information provided to us by these companies about you will be de-identified.  
+
+### Third Party Sites
+
+This Site may contain links to third party sites (including social media bookmarking buttons that enable you to share certain content on our Site). Please review the cookie and privacy statements of these third party sites to understand how they may use Cookies and your information. Our Online Privacy Statement does not apply to your use of a third party site.  
+
+### Security of Personal Information
+
+We utilize reasonable security technologies to protect sensitive information. However, the security of this information depends in part on the security of the computer you use to communicate with us, the security you use to protect User IDs and passwords, and the security provided by your internet access services provider. We are not responsible for the security of your internet access services provider; you should review the security and privacy policies of your internet access services provider carefully. Information that you access via this Site may be stored on your computer during your session for your convenience. If others have access to your computer or your User ID and password, they may be able to access this information. We are not responsible for the security or privacy of information communicated to or from such a computer. Finally, you should keep any correspondence you receive relating to this Site or the Services (including, but not limited to registration information, emails, or any other information) confidential and in a safe place.   
+
+### Children's Information (Children’s Online Privacy Protection Act)
+
+We respect the privacy of your children and do not knowingly collect or retain personally identifiable information from children under the age of 13 through this Site.   
+
+### Notice to California Users Required by State Law
+
+We collect, use, retain and share information we receive through this Site in accordance with the above section entitled “Collection and Use of Your Information”. For information about whether third parties may collect personal information about your online activities over time and across other websites when you use this Site, please see the above sections entitled “Collection and Use of Your Information” and “Third Party Advertisers”. This Site currently does not respond to “do not track” signals or similar mechanisms. If you have specific questions regarding this Online Privacy Statement or any information you have sent via this Site, please do not hesitate to [contact us](https://www.bnymellon.com/us/en/contact.jsp).
+
+This Online Privacy Statement was last updated on the date listed at the top.
