@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semiengineering.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201002116id_/http%3A//semiengineering.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semiengineering.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628091537id_/http%3A//semiengineering.com/privacy) for the most accurate reproduction.*
 
 # Semiconductor Engineering .:. Privacy Policy
 
