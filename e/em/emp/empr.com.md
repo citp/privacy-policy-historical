@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124204510id_/http%3A//www.empr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014258id_/https%3A//www.empr.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MPR
 
@@ -43,17 +43,17 @@ We will use your information for the following purposes:
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.
 
-Unless you opt-out, we may share your Personal Information with Haymarket's affiliates, partners and third parties licensed or permitted to access your Personal Information by any of the foregoing.
+Unless you opt-out, we may share your Personal Information with Haymarket's affiliates, partners and third parties licensed or permitted to access such information by any of the foregoing. If you register for content after opting out, we may share your information with the sponsor(s) of that content.
 
 We may share information about your engagement with any of our services including receipt and/or action with our emails, activity on our sites including content and/or advertisements viewed and actions taken or personal information otherwise provided by you.
 
 We may invite you to participate in industry-sponsored programs which present you with branded sponsor-selected materials to provide clinical information to physicians about medical conditions, options for treatment and recommended products. Your invitation will use the Personal Information that you have provided or that we have obtained from third parties, and non-personally identifiable information which we gather from your site visits by the use of cookies or other tracking technologies. Sponsor programs will be affiliated with your area of specialty and any specific interests you have shared with us. Not everyone will qualify for an invitation to participate; conversely you may be invited to register or participate in more than one program. Haymarket will provide information, personally identified information or in aggregated form, about your participation in specific programs to the program sponsor or their representatives. This helps our industry sponsors to improve clinical education and information and communicate with you in a more targeted way. If you interact with any of our sponsors directly, their Privacy Policy and practices will apply.
 
-We will share your Personal Information with our third party suppliers who need to process you data to deliver the services you have requested or consented to receive. These suppliers are required under contract not to use Personal Information supplied by us other than to provide the services requested by us and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. You expressly consent to the sharing of your Personal Information with our contractors and third party service supplies for the purpose of providing services to you.
+We will share your Personal Information with our third party suppliers who need to process your data to deliver the services you have requested or consented to receive. These suppliers are required under contract not to use Personal Information supplied by us other than to provide the services requested by us and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. You expressly consent to the sharing of your Personal Information with our contractors and third party service supplies for the purpose of providing services to you.
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [custserve@haymarketmedia.com](mailto:custserve@haymarketmedia.com)
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Aggregated information**
 
@@ -65,7 +65,7 @@ As a business-to-business company, we do not knowingly collect information from 
 
 **Updating Visitor Information:**
 
-You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at [custserve@haymarketmedia.com](mailto:custserve@haymarketmedia.com)
+You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com)
 
 **Update Your Newsletter Subscriptions**
 
@@ -73,7 +73,7 @@ You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any 
 
 **Update Your Print Subscription Information**
 
-You can correct or change your print subscription information by sending an email to [custserve@haymarketmedia.com](mailto:custserve@haymarketmedia.com) After processing your change will take effect with the next available issue.
+You can correct or change your print subscription information by sending an email to [custserv@haymarketmedia.com](mailto:custserv@haymarketmedia.com) After processing your change will take effect with the next available issue.
 
 **Third Party and Affiliated Links:**
 
