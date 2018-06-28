@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000656id_/https%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628074055id_/https%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
-**Last Updated: December 07, 2017**
+** Last Updated: December 07, 2017 **
 
 Care.com offers various services to help its users find, coordinate, and maintain quality care. Care.com's Privacy Policy ("Privacy Policy") is designed to explain the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of www.care.com and any web pages, mobile applications and mobile websites operated by Care.com (collectively, the "Site"), including those who are seeking to find a service provider through Care.com ("Care Seekers") as well as those who are looking to promote their services through Care.com ("Care Providers"), and any users of any of the various services that Care.com or its subsidiary Care Concierge, Inc. provides through the Site or any other channels, including over the telephone (collectively, "Services"), but excluding the user groups hosted by Care.com at [www.bigtent.com](https://www.bigtent.com/) and its related domains (the "Big Tent Site"), which are subject to a separate privacy policy. Please note that certain of our subsidiaries have separate privacy policies. 
 
