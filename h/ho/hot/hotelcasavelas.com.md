@@ -1,31 +1,32 @@
-> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916041912id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155050id_/https%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.hotelcasavelas.com/ "Casa Velas - Puerto Vallarta, Jalisco")
+[](https://www.hotelcasavelas.com/ "Casa Velas - Puerto Vallarta, Jalisco")
 
   * Virtual Tour
-  * [Contact us](http://www.hotelcasavelas.com/contact-us.aspx "Contact us")
+  * [Contact us](https://www.hotelcasavelas.com/contact-us.aspx "Contact us")
   * [Blog](http://www.vallartatravelblog.com/ "Blog")
-  * [Media Gallery](http://www.hotelcasavelas.com/media-gallery "Media Gallery")
-  * [Golf](http://www.hotelcasavelas.com/golf.aspx "Golf")
-  * [Meetings](http://www.hotelcasavelas.com/meetings/meetings.aspx "Meetings")
-  * [Weddings](http://www.hotelcasavelas.com/weddings/weddings.aspx "Weddings")
-  * [Spa](http://www.hotelcasavelas.com/spa/spa.aspx "Spa")
+  * [Green Hotel](https://www.hotelcasavelas.com/green-hotel.aspx "Green Hotel")
+  * [Media Gallery](https://www.hotelcasavelas.com/media-gallery "Media Gallery")
+  * [Golf](https://www.hotelcasavelas.com/golf.aspx "Golf")
+  * [Meetings](https://www.hotelcasavelas.com/meetings/meetings.aspx "Meetings")
+  * [Weddings](https://www.hotelcasavelas.com/weddings/weddings.aspx "Weddings")
+  * [Spa](https://www.hotelcasavelas.com/spa/spa.aspx "Spa")
 
 
 
-  * [ Dining ](http://www.hotelcasavelas.com/dining/dining.aspx "Dining")
-  * [ things to do ](http://www.hotelcasavelas.com/things-to-do "Things to Do")
-  * [ Services ](http://www.hotelcasavelas.com/services.aspx "Services")
-  * [ Accommodations ](http://www.hotelcasavelas.com/suites/rooms.aspx "Accommodations")
-  * [ Location ](http://www.hotelcasavelas.com/location.aspx "Location")
-  * [ Promotions ](http://www.hotelcasavelas.com/promotions.aspx "Promotions")
-  * [ Home ](http://www.hotelcasavelas.com/ "Home")
+  * [ Dining ](https://www.hotelcasavelas.com/dining/dining.aspx "Dining")
+  * [ things to do ](https://www.hotelcasavelas.com/things-to-do "Things to Do")
+  * [ Services ](https://www.hotelcasavelas.com/services.aspx "Services")
+  * [ Accommodations ](https://www.hotelcasavelas.com/suites/rooms.aspx "Accommodations")
+  * [ Location ](https://www.hotelcasavelas.com/location.aspx "Location")
+  * [ Promotions ](https://www.hotelcasavelas.com/promotions.aspx "Promotions")
+  * [ Home ](https://www.hotelcasavelas.com/ "Home")
 
 
 
-[Home](http://www.hotelcasavelas.com/)  >  Privacy Policy
+[Home](https://www.hotelcasavelas.com/)  >  Privacy Policy
 
 Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, whose address is Avenue. Costera NAN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, CP 48335, is a company that protects your privacy and trust, through the department responsible for Contact Center, whose address is Avenue Cocoteros# 98 South, Nuevo Vallarta, Riviera Nayarit, Mexico CP 63735. 
 
@@ -36,8 +37,7 @@ Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, whose address is Aven
   * Your information will help us offer our future promotions, products, special services, newsletters, surveys, and other issues of disclosure and collective interest.
   * You may handle such information in accordance with the parameters dictated by the art. 10 of the Federal Law on Protection of Personal Data Held by Private Parties.
 
-The information given to Velas Resorts may be collected in the following situations and means  
-
+The information given to Velas Resorts may be collected in the following situations and means 
 
   * When information is provided directly by you.
   * When you visit the corporate Web sites.
@@ -45,9 +45,7 @@ The information given to Velas Resorts may be collected in the following situati
   * When using the online services.
   * When information is obtained by means other than those listed above and permitted by law.
 
-Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, you get the following personal data  
-
-
+Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, you get the following personal data 
   * Name
   * Home
   * Email
@@ -59,12 +57,11 @@ Please note that Punta BETE S.A. de C.V. (Velas Resorts) Tourism Promotion, does
 
 ## LIMITATION OF USE AND DISCLOSURE OF PERSONAL INFORMATION
 
-To limit the use of your personal data, please send an email to: [reservas@velasresorts.com](mailto:reservas@velasresorts.com), or at the following address: Av. Costera SN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, C.P. 48335 (from Monday to Friday from 9:00 to 19:00 hrs), in which the limitation point you want to use your data. 
+To limit the use of your personal data, please send an email to: [reservas@velasresorts.com](mailto:reservas@velasresorts.com), or at the following address: Av. Costera SN, LH2 Marina Vallarta, Puerto Vallarta, Jalisco, C.P. 48335 (from Monday to Friday from 9:00 to 19:00 hrs), in which the limitation point you want to use your data.
 
 ## EXERCISE THE RIGHT OF RECTIFICATION, CANCELLATION AND OPPOSITION
 
-To access personal information that I provide to Velas Resorts, in order to correct them if they are inaccurate or incomplete, or to cancel or oppose their treatment for certain purposes, please submit a written request to our Contact Center Department, the document must contain at least the following information  
-
+To access personal information that I provide to Velas Resorts, in order to correct them if they are inaccurate or incomplete, or to cancel or oppose their treatment for certain purposes, please submit a written request to our Contact Center Department, the document must contain at least the following information 
 
   * Name of the owner
   * Address of holder or email to communicate response to request.
@@ -74,9 +71,9 @@ To access personal information that I provide to Velas Resorts, in order to corr
 
 Velas Resorts will have a maximum period of 20 working days from the date we receive the request to tell if it is coming, and send the response to your request to the email address you provided. If so, Velas Resorts will have 15 days to comply with your request, which shall maintain for any clarification or explanation. 
 
-## TO REVOKE YOUR CONSENT. 
+## TO REVOKE YOUR CONSENT.
 
-At anytime you can request revocation of the consent given to Velas Resorts to treat your personal data by sending a written request to our Customer Contact Center to reservas@velasresorts.com in which clearly detail the data for which revokes consent. 
+At anytime you can request revocation of the consent given to Velas Resorts to treat your personal data by sending a written request to our Customer Contact Center to reservas@velasresorts.com in which clearly detail the data for which revokes consent.
 
 ## PERSONAL INFORMATION OF MINORS AND IN STATE STATUTORY DISABILITY
 
@@ -89,12 +86,11 @@ Note: no security system or data transmission which the company does not have ab
 
 ## TRANSFER OF PERSONAL DATA
 
-Velas Resorts may transfer personal data to companies belonging to the same corporate. These data transferred to third parties shall be solely for marketing purposes. 
+Velas Resorts may transfer personal data to companies belonging to the same corporate. These data transferred to third parties shall be solely for marketing purposes.
 
 ## ELECTRONIC MEDIA AND COOKIES
 
-"Cookies" are small pieces of information sent by the website to your browser. They are stored on the hard drive of your computer and used to determine their preferences when connecting to certain sites and track certain behaviors conducted by you in them. In some sections of our websites, is necessary that the enable customers, this allows us to  
-
+"Cookies" are small pieces of information sent by the website to your browser. They are stored on the hard drive of your computer and used to determine their preferences when connecting to certain sites and track certain behaviors conducted by you in them. In some sections of our websites, is necessary that the enable customers, this allows us to 
 
   * Recognize when you enter our sites.
   * Provide personalized service.
@@ -106,24 +102,4 @@ The button "Help" located in the toolbar of the browsers will tell you how to av
 
 ## CHANGES TO THE PRIVACY NOTICE
 
-Velas Resorts may update this Privacy Statement at any time. These changes will be communicated through the page: [http://www.velasresorts.com](http://www.velasresorts.com/) in Privacy Policy and Notice. 
-
-## Milestone Internet Marketing Privacy Policy
-
-This website can be used without submitting any privacy information, but users may engage in interactive features where consumer information is voluntary supplied. Our voluntary collection procedure does not intentionally target minors. Please find detailed information below. 
-
-## Information Collection
-
-This website may collect voluntarily submitted information including a user's email address, phone number and first and last name upon completing an RFP (request for proposal) page. In addition, this site may collect information about travel dates and travel party sizes. We do not collect credit card information on this hotel site. There won't be a difference in site experience or data collection practices when the user chooses to turn on the "Do Not Track" option, as this site does not collect any involuntary information. 
-
-## Data Usage and Sharing
-
-Any of the voluntarily submitted information is used for this website's booking engine. Each booking engine adheres to its own privacy policy, which may differ from the Milestone policies set forth here. 
-
-## Data Protection
-
-The protection of your personal data is extremely important to us here at Milestone. We follow generally accepted standards for data protection and maintain best practice safeguards. When users submit personal data, additional safeguards are deployed as an additional protective measure. All safeguards are continually updated and monitored by our professional Internet security team. 
-
-## Cookies
-
-This site uses cookies to improve the technical operation of the site. Public areas of our sites can operate without cookies, private (e.g. client management login) cannot. Cookies do not track any personal information. Our business partners, including advertisers, social media platforms and widget operators may utilize 3rd party tracking pixels to enhance performance pertaining to their tools. Information collected by our partners does not include personal information such as your name and telephone number. You may be able to voluntarily further engage with these tools as you view this site.  Any engagement activity will be subject to our partner's privacy policy. If you would like to opt out of targeted advertisements based on your user experience, please visit <http://www.networkadvertising.org/managing/opt_out.asp>
+Velas Resorts may update this Privacy Statement at any time. These changes will be communicated through the page: [http://www.velasresorts.com](http://www.velasresorts.com/) in Privacy Policy and Notice.
