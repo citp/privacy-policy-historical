@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthrevolt.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217182542id_/http%3A//www.truthrevolt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthrevolt.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629005737id_/https%3A//www.truthrevolt.org/privacy) for the most accurate reproduction.*
 
 # Pricavy Policy | Truth Revolt
 
@@ -63,7 +63,7 @@ Other User Submitted Content:  Truth Revolt may, in its sole discretion, from t
 
 **MEMBER MESSAGES**
 
-If you are a registered user of the Site, you may occasionally receive email messages about the Site that are intended to assist you in making the most out of your registration.  These messages contain a link that you may use to opt-out of receiving further such messages.  In addition, Members may receive email messages about the Site, their Membership and Truth Revolt Content relevant to their Membership subscription.  Members may decline to receive them by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#65161015150a171125111710110d1700130a09114b0a1702).
+If you are a registered user of the Site, you may occasionally receive email messages about the Site that are intended to assist you in making the most out of your registration.  These messages contain a link that you may use to opt-out of receiving further such messages.  In addition, Members may receive email messages about the Site, their Membership and Truth Revolt Content relevant to their Membership subscription.  Members may decline to receive them by contacting [support@truthrevolt.org](mailto:support@truthrevolt.org).
 
 **YOUR ABILITY TO CHOOSE**
 
@@ -85,7 +85,7 @@ No security measures are completely reliable, and Truth Revolt does not guarante
 
 **REVIEW AND CORRECTION**
 
-You may review and update the Personally Identifiable Information/registration information that you have provided to Truth Revolt by contacting Customer Service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21525451514e53556155535455495344574e4d550f424e4c).
+You may review and update the Personally Identifiable Information/registration information that you have provided to Truth Revolt by contacting Customer Service at [support@truthrevolt.com](mailto:support@truthrevolt.com).
 
 **DATA RETENTION**
 
@@ -105,7 +105,7 @@ In the event that Truth Revolt is acquired by or merged with a third party entit
 
 **COMMENTS AND QUESTIONS**
 
-If you have any questions, comments or concerns about this Privacy Policy, you may contact Truth Revolt at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#760503060619040236020403021e041300191a0258190411).
+If you have any questions, comments or concerns about this Privacy Policy, you may contact Truth Revolt at [support@truthrevolt.org](mailto:support@truthrevolt.org).
 
 **Cookie-Disclosure Statement**
 
