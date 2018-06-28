@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anu.edu.au privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114211541id_/http%3A//www.anu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anu.edu.au privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628024759id_/http%3A//www.anu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ANU
 
