@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaigirlswild.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111145030id_/https%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dtgw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaigirlswild.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628070427id_/https%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dtgw) for the most accurate reproduction.*
 
 # Tea Money Media / Ghost Pro Inc. Customer Support
 
@@ -23,3 +23,5 @@ We identify the numerical IP address assigned to your computer by your Internet 
 E-mail Correspondence. Tea Money Media / Ghost Pro Inc. often requests a confirmation when you receive and open an e-mail communication delivered by Tea Money Media / Ghost Pro Inc.. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network. We require that you refrain from "forging headers" or sending "SPAM".
 
 Please be aware that, as part of the Services, Tea Money Media / Ghost Pro Inc.. provides links to Web sites operated by third parties, and is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. 
+
+[GENERAL DATA PROTECTION POLICY](https://support.teamoneymedia.com/support/privacygdpr.php?code=ct "Data Protection Policy")
