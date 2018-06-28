@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aappublications.org privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906063844id_/https%3A//www.aap.org/en-us/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aappublications.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014148id_/https%3A//www.aap.org/en-us/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
