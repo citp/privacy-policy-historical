@@ -1,64 +1,64 @@
-> *The following text is extracted and transformed from the natgeotraveller.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202081445id_/http%3A//www.natgeotraveller.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotraveller.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628080645id_/http%3A//www.natgeotraveller.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | National Geographic Traveller (UK)
 
-This privacy policy sets out how APL Media Limited uses and protects any information that you give APL Media Limited when you use this website.
+#### APL Media Website Privacy Statement
 
-APL Media Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+The website: www.natgeotraveller.co.uk is operated by APL Media Limited on behalf of National Geographic Partners, LLC
 
-APL Media Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 2014.
+**APL Media  
+**Company Number: 3393234  
+VAT number: 701391176  
+Registered Office: 30 City Road, London EC1Y 2AB.
 
-**What we collect**
+You have the right to contact us in order to remove consent, to correct, or to erase your personal data at any time, where relevant. Any questions regarding this Policy and our privacy practices, and/or if you wish to request a copy of your personal information, a request should be sent via email to our Data Protection Officer:
 
-We may collect the following information:
+[dataprotection@aplmedia.co.uk](mailto:dataprotection@aplmedia.co.uk) or call 020 7253 9909.
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+APL Media identifies itself as a Data Controller and Data Processor under Data Protection law and is registered with the UK Information Commissioner’s Office (ICO), registration number ZA345047. You may lodge a complaint with the ICO in the event of APL Media’s non-compliance with UK Data Protection law.
+
+As a Data Controller and Data Processor under the Data Protection Act (1998) and the GDPR (2018), APL Media adheres strictly to our legal duty to protect any personal information we collect from you.
+
+APL Media does not capture and store any personal information about individuals who access this web site, except where you voluntarily choose to give us your personal details via email, or by using an electronic form such as for entering a competition; or enquiring about any of our services. In these circumstances, the personal information that you give us will **only** be used to provide the information or service you have requested.
+
+Personal information is not disclosed to third parties unless this is indicated on the web page and / or relevant form at the point of collecting information from you, or as required by law, and you will always be given the ability to control your consent by active, informed opt-in and links to control your preferences, where relevant.
+
+**Statistical data**
+
+We automatically collect statistical data about usage patterns on our website. This information is not used to identify any individual. It is only collected to provide us with an understanding of the areas of interest on our site and kept only for as long as required for this purpose.
+
+**Cookies**
+
+The use of cookies by APL Media complies with the EU Privacy Directive, adopted by the UK in its updated Privacy and Electronic Communications Regulations that came into force on May 26th 2012.
+
+The so-called “Cookie Law” requires websites to obtain consent from visitors to store or retrieve any information on a computer or any other web connected device, like a smartphone or tablet.
+
+A cookie is a text file that is used by many websites to identify your computer to their server. Cookies in themselves do not identify the individual user, just the computer used. This is done in order to make your experience of the National Geographic Traveller website smoother by remembering any preferences or settings from the previous visit. APL Media also tracks the volume of traffic on its website by using cookies.
+
+You can read about our use of cookies and how you can control them on our Cookie Policy: <http://www.natgeotraveller.co.uk/cookie-policy/>
+
+APL Media will continue to check and monitor our data protection obligations to ensure they are up to date. APL Media will develop and evolve this website, therefore this Policy will adapt to those changes. Please check this page occasionally to ensure that you are aware of any changes. The policy was last updated in May 2018.
+
+#### Data Privacy Notice: Magazine Subscribers, Competition Entrants, Email Newsletter Subscribers, Event Attendees **  
+**
+
+APL Media  
+Company Number: 3393234  
+VAT number: 701391176  
+Registered Office: 30 City Road, London EC1Y 2AB
+
+If you have questions regarding this Policy and our privacy practices, and/or if you wish to review or request a copy of your personal information, please email our Data Protection Officer via: [dataprotection@aplmedia.co.uk](mailto:dataprotection@aplmedia.co.uk) or call 020 7253 9909.
+
+  1. APL Media identifies itself as a Data Controller and is registered with the UK Information Commissioner’s Office (ICO), registration number ZA345047. You may lodge a complaint with the ICO in the event of APL Media’s non-compliance with UK Data Protection law
+  2. In order to provide services to you as a Subscriber, we collect and store your contact details and communications preferences, as well as your responses to emails, surveys, competitions such as are necessary for the effective provision of the services.
+  3. APL Media will not give your data to any third parties unless required for the proper administration of your account and for the avoidance of doubt, will never give your personal details to third parties for marketing or other non-essential purposes without your informed consent.
+  4. You have the right to contact us in order to remove consent, to correct, amend, or to erase your personal data at any time, where relevant. Where your information is required for statutory recordkeeping purposes, we reserve the right under UK Data Protection law not to comply with your request.
+  5. APL Media uses various applications to administer your personal data. We do not use these tools to perform profiling or any kind of automated decision-making about you or your organisation.
+  6. APL Media would like to hold your personal data in electronic database form, including the use of cloud-based applications. APL Media make sure to select cloud providers who provide suitable guarantees over the privacy and rights associated with your personal data.
+  7. We will keep your personal data for at least the minimum statutory period allowed, normally in the case of your transaction history, this is 6 years. Please note that APL Media has a legitimate interest in retaining your personal data for legal and financial record keeping purposes.
+  8. In order to administer the company and keep records, APL Media uses 3rd-party providers that host data outside of the EU. All such providers commit to the US-EU Privacy Shield and are committed to keeping your data safe. Where appropriate, the providers align to the ISO 27001 standards of data governance.
+  9. As an integral part of fulfilling its contractual remit to its clients, APL Media keeps its clients informed of relevant news and non-promotional information via email newsletters. APL Media will ask you for your consent to use email for marketing or promotional purposes and will provide the means to opt out at any time.
+  10. In order to make sure we do not bother you with irrelevant emails, we also retain your communications preferences on a database that has tools for bulk emailing. Your main contact details will be kept for an indefinite period, or until you inform us that you wish us to erase your data or unsubscribe from APL Media communications altogether.
+  11. We cannot absolutely guarantee the security of any information that you transmit to us via the internet and remind you that you do so at your own risk. All personal details are held on encrypted devices, protected with password protection which where possible is dual-factor authenticated.
 
 
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@aplmedia.co.uk
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to APL Media Limited, Unit 310 Highgate Studios, 53-79 Highgate Road, London NW5 1TL.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
