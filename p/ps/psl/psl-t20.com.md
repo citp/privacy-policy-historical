@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psl-t20.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220223356id_/http%3A//psl-t20.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psl-t20.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628171609id_/http%3A//psl-t20.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HBL PSL Pakistan Super League
 
