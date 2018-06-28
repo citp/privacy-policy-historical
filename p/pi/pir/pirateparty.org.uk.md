@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609224255id_/http%3A//pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628214908id_/https%3A//www.pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Pirate Party
+# Privacy Policy | Pirate Party UK
 
 ## Why We have a Policy, and How it Works.
 
@@ -8,13 +8,9 @@ When you use our site or get in touch with us, we respect your privacy, because 
 
 This Policy may be changed from time to time, so please do read through it and check back every so often. When any substantial changes are made, we will send an email to all registered users of the website letting you know this has happened, unless you have actively opted out of such emails.
 
-If you have any questions, comments, ideas or requests relating to this policy specifically, or your privacy whilst using our services, you can contact the party by email, phone or letter:
+If you have any questions, comments, ideas or requests relating to this policy specifically, or your privacy whilst using our services, you can contact the party by email:
 
-Pirate Party UK Studio 202, Islington Mill James Street Salford M3 5HW
-
-[secretariat@pirateparty.org.uk](mailto:webteam@pirateparty.org.uk)
-
-0161 987 7880
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#394e5c5b4d5c58547949504b584d5c49584b4d4017564b5e174c52)
 
 ## Information You Give Us Directly
 
@@ -58,4 +54,4 @@ All information about you that we store will be kept on our secure servers, and 
 
 This Policy only applies to services and websites under the control of the Party. It does not apply to any other websites or services that we, or users of our services, may link to.
 
-The Data Protection Act 1998 gives you rights to access any information about you that we have stored. Such a request can be made through our Data Controller: [secretariat@pirateparty.org.uk](mailto:secretariat@pirateparty.org.uk). We will only charge for this in exceptional circumstances, but we cannot guarantee an immediate response. We will aim to comply with your request as soon as is reasonably practical.
+The Data Protection Act 1998 gives you rights to access any information about you that we have stored. Such a request can be made through our Data Controller: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e2f4f2e3f4e5f0e3f8f0e5d1e1f8e3f0e5f4e1f0e3e5e8bffee3f6bfe4fa). We will only charge for this in exceptional circumstances, but we cannot guarantee an immediate response. We will aim to comply with your request as soon as is reasonably practical.
