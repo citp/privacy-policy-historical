@@ -1,109 +1,167 @@
-> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201194929id_/https%3A//connatix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628115836id_/https%3A//connatix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connatix
 
-Connatix Native Exchange Ltd. (in this Policy: "Connatix", "we", "our" and "us") respects your privacy. This policy (the "Policy") explains our privacy practices for our Services at [www.connatix.com](https://www.connatix.com/) and any related domain names (the "Website") and the use of Connatix related services and tools (the Website and our related tools and services, collectively: the "Service"). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information.
+##### CONNATIX - PRIVACY ASPECTS - SUMMARY
 
-##### Personal information that Connatix collects
+WHO IS CONNATIX?
 
-When you register to the Service, whether through our Website (where available) or any of our engagement forms, you may be asked to provide certain personal details such as your full name, e-mail address, the name of your employer, your title, phone number, country of residence, your website's URL and payment method details such as your credit card number or any other method of payment. The fields for compulsory completion will be specifically designated.
+We at Connatix Ltd. (" **Connatix** ") developed an advertising solution for both advertisers and publishers. We help publishers and advertisers to display personalized content on websites, apps and other online media, which are named ‘publishers’. If you have given your consent the publisher, we will collect and share your personal data in order to allow the publisher display ads that are tailored to your interests. 
 
-When you use the Service, whether as a publisher, an advertiser or any other user, Connatix may collect further information, such as session durations, page impressions, advertisements viewed or clicked on, the Internet protocol (IP) address, the domain name that served you to access the Service, and the geographic location of the computer or mobile device’s system that you are using to log-in to, or you use when using the Service. Connatix may also track further information pertaining to you, when you activate and access the Service, such as the frequency and the extent of your use of the Service.
+WHAT INFORMATION WE RECEIVE FROM PUBLISHERS?
 
-Further information may be collected when we exchange communications with you, for example, when you submit an inquiry.
+If you provide your consent to the processing of personal data, we will receive the following information from the publisher:
 
-##### What does Connatix do with your personally identifiable information?
-
-Connatix may use personally identifiable information for the following purposes:
-
-  * To operate and provide you with the Service, its features and functionalities;
-  * To improve and customize your and other users' experience with the Service
-  * To enhance existing features of the Service and to develop new features and services;
-  * To respond to messages that you send us, and to allow us to provide support and assistance;
-  * To send you updates and notices, to provide you with information pertaining to the Service, and to provide you with further marketing and advertising material. At any time you may opt out of the mailing lists, by changing your preferences in your personal account. In any case, Connatix will not share your personal identifiable details with any advertisers, without your explicit consent;
-  * To facilitate communications with you, and between you and others;
-  * To enforce Connatix's terms of Service and prevent misuse of the Service;
-  * To facilitate our internal managerial, archival, administrative and audit activities.
-  * To contact you as and when Connatix believes it to be necessary;
-  * To comply with any applicable law and assist law enforcement agencies or competent authorities under any applicable law, when we have a good faith belief that our cooperation with such entities is legally mandated or meets the applicable legal standards.
-  * To collect fees and debts;
-  * To prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Service;
-  * To take any action in any case of dispute, or legal proceeding of any kind between you and Connatix, or between you and other users or third parties with respect to, or in relation with the Service;
+  1.  **Analytical information:** IP Address, browser type, language, operating system.
+  2.  **Contextual information (which does not identify you):** webpage content, URL, keywords and tags of content displayed on the publisher's website.
 
 
 
-##### How does Connatix use aggregated information?
+If you do not provide your consent - we will not collect personal data about you. We will only collect contextual information. 
 
-Connatix may use anonymous, de-identified, statistical or aggregated information about the Service’s use, including any aggregated information related to your personal account (where applicable), and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at Connatix's sole discretion, provided however, that such information will not identify you personally and that Connatix will not knowingly, or intentionally, use such information to reveal your identity without your consent, under the terms of this Policy.
+YOUR RIGHTS
 
-Connatix may also use anonymous, statistical or aggregated information to properly operate the Service, to improve the quality and functionality of the Service, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes.
+If you are in the European Union, you have the right to:
 
-##### How does Connatix Share information with others?
-
-Connatix does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. Connatix may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
-
-  * When you use the Service. In this case, Connatix will share your information only to the extent required to facilitate your use of the Service;
-  * To execute transactions, which involve or relate to third parties such as payment providers and clearance services.
-  * If Connatix believes that you have breached its terms of Service, or abused your rights to use the Service, or performed any act or omission that Connatix believes to be violating any applicable law, rules, or regulations. Connatix may share your information in these cases, with law enforcement and other competent authorities as well as other third parties, as may be required to handle any result of your wrongdoing;
-  * If Connatix is required, or believes that it is required by law to share or disclose your information;
-  * In any case of dispute, or legal proceeding of any kind between you and Connatix, or between you and other users or third parties with respect to, or in relation with the Service;
-  * In any case where Connatix believes that sharing information is necessary to prevent imminent physical harm or damage to property;
-  * If Connatix organizes the operation of the Service within a different framework, or through another legal structure or entity, or if Connatix is acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this Policy, with respective changes taken into consideration;
-  * Connatix may also share personally identifiable information with companies or organizations connected, or affiliated with it, such as subsidiaries, sister-companies and parent companies.
-
-##### How can you access your personal information?
-
-If you are a subscriber with the Service, then you may access your personal account and edit, or amend your personal information at any time. If you find that the information on your personal account is not accurate, complete or updated, than you must make all necessary changes to correct it. Please keep in mind that false, incorrect, or out dated information may prevent you from registering with the Service, impair Connatix's ability to provide you with the Service and the ability to contact you.
-
-##### Data retention
-
-We retain different types of personally identifiable information for different periods, depending on the purposes for processing the information and our legitimate business purposes. When we no longer need to process the information that identifies you, we may take measures to de-identify the information.
-
-Generally, as long as you are a user of the Service, we do not delete information related to you, unless there are technical reasons that require us to retain only portions of the data, or if we are required by law to delete it.
-
-Please note that we will retain and disclose information when we deem it necessary to satisfy orders issued by courts and government authorities. We will notify you about the disclosure, only if we are explicitly permitted to do so. In any case, we may keep any aggregated or anonymous information for statistical, development, marketing and other purposes, indefinitely
-
-##### Transfer of data outside your territory
-
-The Service, by its nature as an online service, may store and process information and content (including through Cloud Services) in Europe, the United States and in other various locations throughout the globe. If you are a resident in a jurisdiction where transfer of your personal information to another jurisdiction requires your consent, then you provide us with your express and unambiguous consent to such transfer.
-
-##### Information security
-
-We and third parties on our behalf implement security measures to secure the information we store and process. While such security measures reduce the risk of security breaches, they do not provide absolute security. Therefore, while we take reasonable measures to secure the information, we cannot guarantee that it will be immune from any wrongdoings, malfunctions, unlawful interceptions or unauthorized access.
-
-##### Cookies
-
-Connatix may use cookies when operating the Service. Cookies are packets of information sent by Connatix's servers to your browser and then sent back by the browser. Connatix may use cookies for various purposes, such as to save you the need to re-enter your password each time you log-in to the Service, to facilitate the use of the Service, to collect information for statistical and analytical purposes, to verify information, to customize the Service to your personal preferences and for information security purposes.
-
-Some of the cookies may expire when the session ends and you exit your browser. Other cookies may be stored on your device’s hard drive. If you wish to block or delete cookies. You can [manage cookies through browser settings](https://web.archive.org/web/20171201194929id_/https://connatix.com/managecookies). However, bear in mind that disabling cookies may complicate or even prevent your use of the Service, or certain features thereof.
-
-##### Advertisements usage monitoring
-
-As part of the operation of the Service, Connatix will monitor and collect data about the access and use of advertisements that publishers embed on their websites through the use of the Service, and will further monitor the redirection of users from such advertisements to the advertisers' websites and web pages (collectively: "Advertisements monitoring"). You hereby grant your explicit, irrevocable and unconditional consent to the Advertisements monitoring. You warrant and represent that you will apply on your website all privacy practices with respect to the Advertisements monitoring, as required under the applicable law, including by providing a proper notification to the users of your website.
-
-You will indemnify, defend and hold harmless, Connatix and its managers, directors, shareholders, employees, sub-contractors, agents and anyone acting on its behalf, at your own expense and immediately after receiving a written notice from Connatix, from and against any damages, loss, costs, expenses and payments, including reasonable attorney’s fees and legal expenses, resulting from any complaint, claim, or demand, presented by a user of your website, or by anyone on his/her behalf, arising from, or in connection with the Advertisements monitoring
-
-##### Important notice about children's privacy
-
-We do not allow children under the age of 13 to use the Service. If you are not yet 13 years of age, then you may not use the Service and must not provide any personal details to us.
-
-We do not intentionally collect personal information about children who are under 13 years of age. If we learn that a child under the age of 13 provided personally identifiable information to us without verifiable parental consent, we will use commercially reasonable efforts to delete such information from our databases.
-
-We strongly encourage parents to monitor their children's use of online and mobile applications. We will delete a child’s personally identifiable information if a parent so requests by contacting us at contact@connatix.com
-
-##### Changes to this Policy
-
-From time to time, we may change and update the terms of this Policy. Technical changes in the Service, new features and evolvement of relevant legal aspects, will require us to adapt this Policy.
-
-We will notify you, either through the Service, or through any other means, in our discretion, of any substantial change that we make to this Policy. The changes will apply to you seven (7) days following transmission of the display of the notice to you. You agree to be bound by all changes made in the terms of this Policy. Continuing to use the Service after that date will indicate your acceptance to the amended Policy. If you do not agree with any of the amended terms, you must avoid any further use of the Service.
-
-We may also amend this Policy to comply with any legal requirements. In these cases, the amendments will become effective as required or ordered and we will send you a notice of such change.
-
-##### Contact us
-
-We are doing our utmost to comply with this Policy. If you have any questions, concerns or complaints regarding this policy, please refer them to: contact@connatix.com. After receiving your request, we may contact you to better understand your concerns and will make all efforts to promptly answer your question, or resolve your complaint.
-
-Last updated: August 1st, 2017
+  1. Access personal information about you that we store on our systems;
+  2. Update or correct or erase the personal information about you that we store on our systems;
+  3. Withdraw your consent to the processing of personal information about you by Connatix.
 
 
 
+##### CONNATIX - PRIVACY POLICY
+
+Connatix Ltd. (" **Connatix** ", “ **we** ”, “ **us** ”, “ **our** ”) provides advertising solutions to publishers and advertisers (the " **Solution** "). This Privacy Policy (the " **Policy** ") describes how we collect and use your personal data through our Solution. It also describes the rights and options available to you with respect to your personal information.
+
+Please note that this Policy covers our privacy practices on general matters. Each publisher or advertiser will have additional privacy policies explaining its own specific privacy practices related to your personal data (" **Third-Parties Policy** ”). You should also read these Third-Parties Policies.
+
+##### DATA WE PROCESS ON BEHALF OF OUR CUSTOMERS
+
+We collect personal information on behalf of publishers who use our Solution. We only collect information we need to provide our services.
+
+We process analytical information about your use of the Publisher's website. 
+
+When you visit publishers' websites or mobile applications, we will receive the following information:
+
+  1.  **Analytical information:** your IP address from which you accessed the publisher's website, time and date of access, type of browser used, operating system, language and links clicked.
+  2.  **Webpage contextual information:** webpage content, URL, keywords and tags of content displayed on the publisher's website. 
+
+
+
+We also process non-personal information about the webpage. 
+
+_The overall personal data outlined above will be referred to as the " **Information** "._
+
+##### HOW WE USE PERSONAL DATA
+
+We use the Information to provide you with ads personalized to your interests.
+
+Subject to your consent to the Publisher, we profile your Information in order to serve you with personalized ads that may suite your interests.
+
+You may opt-out from personalized services by sending us an email.
+
+You may 'opt-out' of profiling your Information for personalized ads at any time by sending an email to [privacy@connatix.com](mailto:privacy@connatix.com?subject=Privacy%20Policy).
+
+ _The legal basis under EU law for collecting, processing and profiling your Information for personalized ads, is the explicit consent you provided to the Publisher._
+
+##### WHEN AND HOW WE SHARE PERSONAL DATA WITH OTHERS
+
+ _We will not share your information with third-parties, except in the events listed below or when you provide us your explicit and informed consent._
+
+We share your Information with the ad networks who allow us to serve you with personalized ads.
+
+We will share your Information with ad networks we are engaged with (" **Affiliates** "), to operate our Solution and serve you with personalized ads. Affiliates are obligated to use your Information only as necessary to provide personalized ads. The list of our Affiliates is available at [list of authorized sub-processors](https://web.archive.org/web/20180628115836id_/https://connatix.com/sub-processors).
+
+ _The legal basis under EU law for this processing is the explicit consent you provided to the Publisher._
+
+We share your Information with our service provider helping us operate our business.
+
+We will share your personal information with the following service providers who assist us with the internal operations of the Solution: Amazon Web Services, Inc. These companies are authorized to use your personal information only as necessary to provide these services to us and not for their own purposes.
+
+We may share your Information when you violate the terms of your engagement with Connatix.
+
+If you have breached our terms of service, this Policy or any other agreement you have with Connatix or violated any applicable law - your Information will be shared with third parties (such as legal counsels and advisors), who handle the matter on our behalf, or with the competent authorities.
+
+ _The legal basis under EU law for this processing is our legitimate interests in protecting our business._
+
+We may share your Information if we are legally required.
+
+If we are bound to disclose your information by a judicial order or by a governmental or regulatory authority acting within its legal authority, we will comply and share the Information. who handle the matter on our behalf, or with the competent authorities.
+
+ _The legal basis under EU law for this processing is our compliance with a legal obligation._
+
+We may share your Information if we change Connatix's business structure.
+
+If we organize the operation of our company within a different framework, or through another legal structure or entity (such as due to a merger or acquisition) - we will share your Information to enable the structural change. However, the receiving party will be bound by this Policy.
+
+ _The legal basis under EU law for this processing is our legitimate interests in business continuity following the structural change._
+
+##### COOKIES
+
+Connatix and its Affiliates use cookies to collect profiled Information. 
+
+Connatix and its Affiliates use cookies to collect profiled Information. Cookies are packets of information. Cookies are packets of information sent by Connatix's (or Affilfiates’) servers to your browser and then sent back by the browser. You can [manage cookies through browser settings](https://web.archive.org/web/20180628115836id_/https://connatix.com/managecookies).
+
+ _The legal basis under EU law for these cookies is the explicit consent you provided to the Publisher._
+
+##### SECURITY AND DATA RETENTION
+
+How long will we retain your Information. 
+
+We retain your Information as long as we need it for the purposes for which it was obtained or until you ask to delete it. If you ask us to delete the Information, we may still have to retain it to comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+We implement measures to secure your Information. 
+
+We implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, these measures do not provide absolute information security. Therefore, although efforts are made to secure your personal information, it is not guaranteed, and you cannot expect that the Service will be immune from information security risks. 
+
+##### INTERNATIONAL DATA TRANSFERS
+
+We will transfer your Information to third countries only in accordance with applicable data protection laws. 
+
+We transfer your Information from within the EU to the United States under the safeguards of EU Model Clauses. 
+
+##### YOUR EU RIGHTS
+
+You have the right to access, update or delete your Information and obtain a copy of your Information. 
+
+If you are in the EU, you have the right to access the personal information about you that we store on our systems, and have us update, correct or delete it. You are also entitled to obtain from us your Information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, contact us at [privacy@connatix.com](mailto:privacy@connatix.com?subject=Privacy%20Policy).
+
+You can withdraw your consent. 
+
+If you provided your consent to have your Information processed by Connatix, you can withdraw your consent at any time, by contacting us at: [privacy@connatix.com](mailto:privacy@connatix.com?subject=Privacy%20Policy).
+
+You have a right to submit a complaint to the relevant supervisory data protection authority.
+
+If you are in the EU, you can lodge a complaint to the supervisory authority under the General data Protection Regulations ("GDPR"), in particular in the Member State of your residence, place of work or where the alleged infringement of the GDPR occurred.
+
+##### MINORS
+
+We do not knowingly collect information from minors under the age of 16.
+
+We do not knowingly collect or solicit personal information from anyone under the age of 16. 
+
+##### CHANGES TO THIS PRIVACY POLICY
+
+We may change the terms of this Policy.
+
+From time to time, we may change and update the terms of this Policy. Technical changes in the Solution, new features and evolvement of relevant legal aspects, will require us to adapt this Policy.
+
+##### DATA CONTROLLER AND DATA PROCESSOR
+
+We are the data processor on behalf of the publishers, who are the data controllers.
+
+The publisher is the data controller of your personal data collected for the purposes of personalized ads. It determines the purposes and means of processing your data. 
+
+You can review the publisher's contact information in its privacy policy. We are the data processor of your personal data. 
+
+##### CONTACT US
+
+To communicate with our Data Protection Officer, please email [privacy@connatix.com](mailto:privacy@connatix.com?subject=Privacy%20Policy).
+
+If you have any questions or requests concerning your personal data or about our privacy practices and policies, you may contact our Data Protection Officer, at: [privacy@connatix.com](mailto:privacy@connatix.com?subject=Privacy%20Policy).
+
+How to contact our European representative details:
+
+The European representative of Connatix, for purposes of this Policy is Connatix Native Exchange Romania S.R.L (Ltd.). If you are within the European Economic Area, you may contact our European representative the at the following address: [RO-Office@connatix.com](mailto:RO-Office@connatix.com?subject=Privacy%20Policy%20Connatix%20Native%20Exchange%20Romania).
+
+ **Last updated:** May 17th, 2018
