@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231032839id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628123821id_/https%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy | FeedBlitz
 
@@ -9,6 +9,7 @@ In more or less plain English, this is what our privacy policy says:
   * List owners can see the information you give them as part of our services.
   * FeedBlitz uses cookies, tracking and logging to make FeedBlitz work and tell list owners about activity on their lists.
   * FeedBlitz emails globally, but is a US-based business with a US-based infrastructure.
+  * You can [set or change your personal privacy and cookie settings](https://app.feedblitz.com/f/?Privacy) at any time.
 
 
 
@@ -30,9 +31,11 @@ At any time, if you have any questions or concerns regarding FeedBlitz’s Priva
 
  **Viewing the FeedBlitz Website** :
 
-We may receive and store certain types of usage-related information when you interact with the FeedBlitz website, located at [http://feedblitz.com](http://feedblitz.com/) and any associated subdomains (the “Website”), including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.
+We may receive and store certain types of usage-related information when you interact with the FeedBlitz website, located at [https://www.feedblitz.com](https://www.feedblitz.com/) and any associated subdomains (the “Website”), including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.
 
-The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type, or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described below. No personally identifiable information is stored within these cookies. If you would like to opt-out of the use of cookies, review the settings on your browser.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type, or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described below. No personally identifiable information is stored within these cookies.
+
+More information about the Website’s use of cookies, and how to manage them, please [visit our Cookies page](https://www.feedblitz.com/cookies/).
 
  **Audience Analytics** :
 
@@ -60,7 +63,7 @@ When FeedBlitz emails are sent to Subscribers, the Services embed tracking pixel
 
  **Server Logs**
 
- ****The FeedBlitz web server and parts of the FeedBlitz application log activity to file. We use logs to provide site-wide reporting, to ensure smooth operation of the services FeedBlitz delivers, and for general web site and application maintenance. Like almost all Internet servers, logged information may include timestamps, your client IP address (as it appears to the server), and the page(s) you visit. Our detailed server logs will not be shared with any third party. We may however elect to publish aggregate statistics on visitor activity from time to time based on log information (e.g. “we had 1,234 visitors yesterday”). We will never publish any personally identifiable information in these analyses.
+The FeedBlitz web server and parts of the FeedBlitz application log activity to file. We use logs to provide site-wide reporting, to ensure smooth operation of the services FeedBlitz delivers, and for general web site and application maintenance. Like almost all Internet servers, logged information may include timestamps, your client IP address (as it appears to the server), and the page(s) you visit. Our detailed server logs will not be shared with any third party. We may however elect to publish aggregate statistics on visitor activity from time to time based on log information (e.g. “we had 1,234 visitors yesterday”). We will never publish any personally identifiable information in these analyses.
 
  **Purchases**
 
@@ -76,9 +79,11 @@ FeedBlitz requires cookies to ensure the correct functioning of the service we p
 
  **Third-Party Cookies**
 
-FeedBlitz may engage third party data providers or ad services. These companies may place or recognize a unique cookie on your browser to enable you to receive customized ads, content, or other services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these third party cookies, go to <http://www.privacychoice.org/companies> or <http://aboutads.info/choices>. Alternatively, you may configure your browser not to accept third party cookies. FeedBlitz’s ads are served by LiveIntent and [their privacy policy may be viewed here](https://liveintent.com/privacy-policy/).
+FeedBlitz may engage third party data providers or ad services. These companies may place or recognize a unique cookie on your browser to enable you to receive customized ads, content, or other services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these third party cookies, go to <http://aboutads.info/choices>. Alternatively, you may configure your browser not to accept third party cookies. FeedBlitz’s ads are served by LiveIntent and [their privacy policy may be viewed here](https://liveintent.com/privacy-policy/).
 
 FeedBlitz’s Publishers may include their own ads within their own newsletters. These ads are not in the control of FeedBlitz and are subject to the Publisher’s privacy policy.
+
+Detailed information about the cookies FeedBlitz uses is on our [cookie page](https://www.feedblitz.com/cookies/).
 
 ### Sharing of Personal Information with third-parties
 
@@ -96,7 +101,7 @@ The safety of your personal information is critical to our business. Unless we h
 
 ### Deleting your Personal Information
 
- ****You can decline to submit personal information to any of our Services at any time. However, if you decline to submit personal information, we may not be able to provide the Services. You may request deletion of your personal information by sending an email to support@feedblitz.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database but it may remain in our archives for compliance purposes.
+You can decline to submit personal information to any of our Services at any time. However, if you decline to submit personal information, we may not be able to provide the Services. You may request deletion of your personal information by sending an email to support@feedblitz.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database but it may remain in our archives for compliance purposes.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. The Services may not function properly if you do not have cookies enabled.
 
@@ -106,7 +111,7 @@ If you decide to use or otherwise access the Services, your use, access, and any
 
  **Links to Third-Party Websites**
 
- ****Due to the nature of the Services, email newsletters that you receive from FeedBlitz may contain links to third-party websites. Such third-party websites are not under FeedBlitz’s control, and delivery of such links via the Services does not constitute FeedBlitz’s endorsement of those third-party websites or the services offered through them. The privacy and security practices of such third-party websites are not covered by this Privacy Statement, and FeedBlitz is not responsible for the privacy or security practices or the content of such third-party websites.
+Due to the nature of the Services, email newsletters that you receive from FeedBlitz may contain links to third-party websites. Such third-party websites are not under FeedBlitz’s control, and delivery of such links via the Services does not constitute FeedBlitz’s endorsement of those third-party websites or the services offered through them. The privacy and security practices of such third-party websites are not covered by this Privacy Statement, and FeedBlitz is not responsible for the privacy or security practices or the content of such third-party websites.
 
 ###  **What Personal Information Can I Access through the Services?**
 
@@ -114,11 +119,11 @@ FeedBlitz allows you to access the information in your registration profile for 
 
 ###  **Can Children Use the Services?  **
 
- ****The Services are not intended for anyone under the age of 18. Please see the TOS for additional details.
+The Services are not intended for anyone under the age of 18. Please see the TOS for additional details.
 
 ###  **Security of Your Personal Information**
 
- ****The security of your personal information is important to us. We use commercially reasonable safeguards to protect your personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at support@feedblitz.com.
+The security of your personal information is important to us. We use commercially reasonable safeguards to protect your personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at support@feedblitz.com.
 
 In the event of a breach of security, FeedBlitz will take commercially reasonable steps to mitigate the breach and email its Publishers to ensure that they are able to notify their Subscribers.
 
@@ -126,7 +131,7 @@ Your information may be transferred to and maintained on computers located outsi
 
 ###  **Storage of Personal Information**
 
- ****FeedBlitz is located in the United States and uses multiple private servers located in the United States. FeedBlitz abides by the laws of the United States regarding data protection, privacy, and other laws. By using the Services, you understand and consent to the use and storage of your information in the United States.
+FeedBlitz is located in the United States and uses multiple private servers located in the United States. FeedBlitz abides by the laws of the United States regarding data protection, privacy, and other laws. By using the Services, you understand and consent to the use and storage of your information in the United States.
 
 ###  **Changes to this Privacy Policy**
 
