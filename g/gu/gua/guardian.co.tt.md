@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230225756id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155614id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Trinidad Guardian Newspaper
 
@@ -25,7 +25,7 @@ Our mobile messaging services, Web sites and other applications (collectively re
 
 Please note, our Web sites may contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy before submitting your personal information.
 
-If you have questions or concerns regarding this statement, you should first contact our New Media Department by sending an e-mail to [internet.editor@guardian.co.tt](mailto:internet.editor@guardian.co.tt).
+If you have questions or concerns regarding this statement, you should first contact our New Media Department by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#147d7a6071667a71603a71707d607b665473617566707d757a3a777b3a6060).
 
 **This Privacy Policy covers the following:**
 
@@ -107,7 +107,7 @@ In no event shall GML be liable for any loss or damage including without limitat
 
 **OTHER INFORMATION: Children's Guidelines**
 
-The Guardian in Education (GIE) is a free service for parents, teachers and students. Any information supplied by users on these pages is used solely for participation in these activities, and is not shared or sold to third parties. If an e-mail address is provided, it will only be used for a one-time response back to the child. After responding to the child, the e-mail address is deleted. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we’re concerned about a parent’s right to consent to the collection and use of their child’s personal information, when a question or letter is published, only the student's first name, grade and location appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please contact us via emailing the [internet.editor@guardian.co.tt](mailto:internet.editor@guardian.co.tt).
+The Guardian in Education (GIE) is a free service for parents, teachers and students. Any information supplied by users on these pages is used solely for participation in these activities, and is not shared or sold to third parties. If an e-mail address is provided, it will only be used for a one-time response back to the child. After responding to the child, the e-mail address is deleted. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we’re concerned about a parent’s right to consent to the collection and use of their child’s personal information, when a question or letter is published, only the student's first name, grade and location appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please contact us via emailing the [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721b1c0617001c17065c17161b061d003215071300161b131c5c111d5c0606).
 
 These children's guidelines have been developed with the recognition that Internet technology evolves rapidly and that underlying business models are still not established. Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practice with respect to the use of children’s personal information, the changes will be posted on this page thirty days prior to taking effect and will not affect children’s personal information previously collected.
 
