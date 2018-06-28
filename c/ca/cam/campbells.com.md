@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campbells.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505103844id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbells.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628131651id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Campbell Soup Company
 
 Your privacy is very important to the Campbell Soup Company and its affiliates (“CSC,” “we” or “us”). We have created this Privacy Policy to provide transparency about the type of information we collect from you; how we handle your information; and how you can make choices to control certain uses of your information.
 
