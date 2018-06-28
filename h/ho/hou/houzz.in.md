@@ -1,98 +1,179 @@
-> *The following text is extracted and transformed from the houzz.in privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022045id_/https%3A//www.houzz.in/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628134735id_/https%3A//www.houzz.in/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-Welcome to Houzz! Houzz is an information and social network dedicated to homebuilding, renovation, and design. Houzz connects you to home-related products and businesses, professional service providers, and others who can give you feedback and ideas about your design goals.
+Welcome to Houzz! Houzz is an online platform dedicated to home renovation and design. Houzz brings together home professionals, sellers of home goods, other businesses, homeowners, renters, and design enthusiasts. Through Houzz, people can find design ideas, advice, products, and services related to home renovation and design.
 
-This privacy policy is to help you understand what information Houzz collects, how Houzz uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Houzz”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.houzz.in/termsOfUse) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Houzz Inc., a Delaware corporation, headquartered in Palo Alto, California in the United States.
+This Privacy Policy describes what personal information Houzz collects, how Houzz uses this information, how this information may be shared, and what choices and rights you have with respect to this information. Access and use of our Platform is subject to this Privacy Policy.
 
-### Collection and Use of Information
+Our Platform is made up of [houzz.com](http://houzz.com/), [houzz.co.uk](http://houzz.co.uk/), [houzz.de](http://houzz.de/), [houzz.fr](http://houzz.fr/), [houzz.it](http://houzz.it/), [houzz.es](http://houzz.es/), [houzz.dk](http://houzz.dk/), [houzz.se](http://houzz.se/), [houzz.ie](http://houzz.ie/), [houzz.com.sg](http://houzz.com.sg/), [houzz.jp](http://houzz.jp/), [houzz.com.au](http://houzz.com.au/), [houzz.co.nz](http://houzz.co.nz/), [houzz.ru](http://houzz.ru/), [houzz.in](http://houzz.in/); other sites and apps on which this Privacy Policy is posted and that are Houzz-branded or operated by the Houzz group; our plug-ins, widgets, and content embedded on third-party sites; and communications and services offered through such sites, apps, plugins, widgets, and content.
 
-We collect information that you provide us directly or automatically when you use our Site.
+The terms "we", "us," "our," or "Houzz" refer to (a) Houzz Inc., a Delaware corporation and (b) if you access or use our marketplace on the Houzz Platform and live in the United States, Houzz Shop LLC, a Delaware limited liability company, and if you access or use our marketplace on the Houzz Platform and live outside the United States, Houzz Shop International LLC. The "Houzz group" refers to corporate affiliates of Houzz.
 
-We may use the information for purposes such as to: provide the Site’s functionality, improve the Site’s quality, personalize your experience, track usage of the Site, provide feedback to businesses and professionals whose products or services are listed on the Site, display relevant advertising, evaluate the success of our advertising, provide customer support, message you (in ways described by this privacy policy and managed by you in your account settings), back up our systems and allow for disaster recovery, enhance the security of the Site, fulfill transactions authorized by you on the Site, and comply with legal obligations.
+## **1\. Collection of Information**
 
-Of further note about the information we collect:
+We collect information that you provide us, from third parties, and automatically when you use our Platform. We collect information associated with your device using cookies and similar technologies. We may also receive information about your location.
 
-  * a. **Account and Profile Information** : When you create an account on Houzz, then we collect your name and the contact information you provide. You also will be asked to create a profile on Houzz. If you do, your username, any photo you submit, and information you enter into the fields indicated for public display will be displayed publicly on the social network. You can customize some of the information displayed publicly in your Houzz profile by going to your account and profile settings. If you feel that an unauthorized account has been created depicting you or your likeness, please contact us at privacy@houzz.com. You have an obligation to provide us accurate information.
-  * b. **Public Content** : The information that you post to the Site is intended for public consumption, including your photos, comments, Ideabooks, and profile information. By posting on the Site, you agree to permit us to disclose publicly the material you post.
-  * c. **Communications** : When you join Houzz by signing up for an account or creating a profile, as permitted by law, you are opting in to receive emails from us or about Houzz. You can manage your email and notice preferences in account settings, but note that you cannot opt out of receiving certain administrative or legal notices from us. Additionally, by joining, you are agreeing to receive feedback and communications from third-parties within the Site, including third-party providers of products or services who may comment on your postings within the Site. If you exchange messages with others through the Site, in accordance with applicable law, we may store them in order to process and deliver them, allow you to manage them, and investigate possible wrongdoing in connection with the Site. Houzz may also enable you to connect, at your initiation, outside the Site via your personal email address to third-party providers of products and services who you wish to contact outside of the Site.
-  * d. **Transactional Information** : If you purchase products within the Site, certain information collected for processing your request, such as your phone number, address, email, and credit card information or other payment instrument details, may be shared with relevant third-parties in order for them to process your request (but not for their own marketing or other purposes). When you submit credit card or debit card or other payment instrument numbers, we encrypt that information using industry standard technology and use commercially reasonable security measures to protect it from misuse.
-  * e. **Site Activity/Automatically Collected Information** : We collect and may store information about your use of the Site, such as your search activity, the pages you view, and the date and time of your visit. We also collect and may store information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
-  * f. **Linked Networks and Contacts** : You can elect to connect your Houzz profile to another network like Facebook and, if you so choose, you will be asked to enable sharing of your contact information from that network to Houzz and to enable sharing of your activities on Houzz on that network
+**Information You Provide Us**
+
+We collect information that you provide us, including your account and profile information, content you submit or post to our Platform, your purchase information, your communications, and information you provide to us as part of surveys and contests.
+
+**Account and Profile Information**. When you create an account on our Platform, we collect information you provide us, like your name, email address, interests, gender, age, and profile information.
+
+**Content you Submit.** We collect information and content that you submit or post to our Platform, including your photos, comments, reviews, searches, photo notes, Ideabooks, and discussions.
+
+**Purchases.** If you purchase or sell products within our Platform, we collect certain information in order to process your purchases and sales, such as your phone number, address, and payment method (for example, credit card or bank account information).
+
+**Communications.** When you communicate with us (via email, phone, through our Platform, or otherwise) and when you use our Platform to communicate with others, we store a copy of your communications (including call recordings, subject to providing you notice or obtaining your consent in accordance with applicable law). Certain professionals and sellers on our Platform may choose to use our call tracking feature in order to better manage their business. You are using our Platform when you make calls to these professionals and sellers using their phone number displayed on our Platform. Houzz will provide you notice or obtain your consent in accordance with applicable law before recording these calls. Otherwise, to the extent you communicate with professionals, sellers, and other users outside our Platform, those communications are not subject to this Privacy Policy.
+
+**Surveys and Contests.** If you participate in our surveys, contests, or promotions, we will collect the information you provide to us.
+
+**Information from Others**
+
+We collect information that others provide us, including information from other platforms, publicly available information, information from other users of our Platform, information from our partners and corporate affiliates, and information from third-party sites.
+
+**Other Platforms.** We may receive information about you from third-party platforms that obtain your permission to share this information with us. If you choose to sign-up for our Platform through Facebook or Google or upload your contacts from your third-party email service, you will be asked to share certain information with us as identified by those third-party platforms.
+
+**Publicly Available Information.** Others may post content on our Platform that includes information about you (for example, as part of photos or stories). If you are a professional or seller, we may also collect information about you from publicly available sources and make it available as part of our Platform. For example, we may receive your name and contact information from industry associations and dealer networks in which you participate and display your affiliation with these organisations.
+
+**Other Users.** In order to enhance the quality of our Platform, professionals and sellers on our Platform may provide us information about your engagement with them, including whether you have contacted them or responded to them, whether your project has been completed, and whether you have received a product you have ordered. If you are a professional or seller, Platform users and visitors may provide us with feedback and public reviews about you.
+
+**Our Partners.** We may receive information about you from our partners. For example, our payment processors may update your payment information, advertising partners may help us send communications to your address, and third parties may help us prevent fraud by verifying your contact information.
+
+**Houzz Group.** Subject to the privacy policies of our corporate affiliates and in accordance with applicable laws, we may receive information about you from them.
+
+**Third-Party Sites.** Certain third-party sites embed a Houzz plug-in, widget, or content, including through Houzz-branded buttons, badges, and slideshows and Houzz co-branded content partnerships. You may also choose to use Houzz browser extensions. These plug-ins, widgets, and embedded content provide information to Houzz pursuant to our [Cookie Policy](https://www.houzz.in/cookiePolicy). In addition, certain professionals' sites are developed or hosted by Houzz. Houzz collects the information described in this Privacy Policy on those sites, including your messages to the professionals sent through those sites. These professionals collect usage information and your messages as further described in their privacy policies.
+
+**Automatically Collected Information**
+
+We collect information about your use of our Platform, including your search activity, the pages you view, the date and time of your visit, and if you use our browser extensions, content you interact with on third-party sites. We also collect information that your device provides to us in connection with your use of our Platform, such as your browser type, type of device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
+
+**Cookies and Similar Technologies**
+
+We use cookies in connection with your use of our Platform to collect information related to what you see and interact with on our Platform and other Platform access and use. Please see our [Cookie Policy](https://www.houzz.in/cookiePolicy) for more information on our use of cookies and how to opt-out of cookies, but please note that we do not change system behavior within our Platform in response to browser requests not to be tracked.
+
+**Location Information**
+
+We will receive your device's location if you enable this through your browser or mobile device. We may infer your general location from your IP address. You may also choose to provide us your location information by inputting this information in our Platform, including in your [settings](https://www.houzz.in/settingsAdvanced)or when you checkout as a shipping or billing address.
+
+## **2\. Use of Information**
+
+We use the information we collect to provide, support, and personalise our Platform and to communicate with you about our Platform (on and off our Platform). The ways we do this include the following:
+
+  * to provide and improve our Platform's functionality, including to display content you post publicly; to fulfill your purchases through our Platform; to process, store, and deliver your communications; to provide customer service and support; to respond to your enquiries or requests; to back-up our systems; and to improve the security of our Platform;
+  * to evaluate use of our Platform for our business purposes and to improve and develop our products and services, including new products and services and our Platform's functionality;
+  * to personalise your experience, such as to tailor the content and information made available to you and our support services;
+  * to display relevant advertising (on our Platform and third-party sites) and to evaluate the success of our advertising;
+  * to provide feedback to professionals and sellers on our Platform;
+  * to communicate with you as described in our agreements with you (for example, the [Terms of Use](https://www.houzz.in/termsOfUse)) and this Privacy Policy;
+  * to prevent fraud and to maintain a quality experience for our business purposes or legal reasons, including to filter for spam and communications that violate our agreements with you (for example, the [Terms of Use](https://www.houzz.in/termsOfUse));
+  * to enforce compliance with our agreements with you(for example, the [Terms of Use](https://www.houzz.in/termsOfUse)) and applicable law; to comply with our legal obligations; to prosecute or defend a lawsuit, arbitration, or similar legal proceeding; to respond to lawful requests by public authorities (including national security or law enforcement requirements);
+  * to perform research and analysis for our business purposes; and
+  * if you decide to participate, to administer surveys, contests, and promotions.
 
 
 
-### Cookies and Other Tracking Technologies
+If you provide us information about your contacts (for example, when you sign up for our Platform through Facebook), in order to facilitate a more connected experience, we may inform your contacts who have accounts on our Platform that you also have joined our Platform and follow them on your behalf so that you may view their public activities on our Platform.
 
-We, and third parties we interact with, including our third party service providers, use cookies, web beacons, local shared objects (sometimes called "flash cookies"), and similar technology in connection with your use of the Site and third party websites (collectively referred to in this policy as " **Cookies** "). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our Site.
+We may use your communications generally for quality assurance purposes and training and to improve our products and services. We may use your communications to understand and help manage the quality of requests received and responses sent by professionals and sellers on our Platform and to provide them feedback. We may use automated technology to review your communications and improve user experience. [Learn more](https://help.houzz.com/s/article/Automated-Communications-Technology?language=en_AU).
 
-We may use Cookies to collect or transmit information about you and your use of the Site or third-party sites such as: your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, your interests on our Site and other sites, and the date and time of your use. When we use Cookies, we do so in order to further Site features and processes, provide authentication and security for your transactions on the Site, store your preferences, facilitate relevant advertising, and help us learn more about how users engage with the Site, and understand your activities after you leave our Site. These Cookies may collect data which, taken together, amount to personal data. Our Cookies may be persistent or stored only during an individual session
+We may use your log-in information, cookie information, device information, and IP addresses to identify you and log your use across devices and our Platform. We may use your addresses to personalise your experience on our Platform.
 
-You may opt-out of tracking by third parties for certain advertising purposes, as discussed below in the section entitled “Third Party Ad Networks,” which can help you control targeted advertising by third-parties that track your activities across sites.
+For your convenience, unless you opt-out through your [settings](https://www.houzz.in/settingsAdvanced), we will store information about your payment method. If you make purchases on our Platform as a visitor and subsequently create an account, for your reference, we will make information available to you about any prior purchases completed using the email address for your account.
 
-Please note we do not change system behavior within the Site in response to browser requests not to be tracked.
+Any use of your information that is incompatible with these uses will be disclosed to you in advance so that you may opt out of such uses at your discretion.
 
-It may be possible to disable Cookies through your device or browser settings. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings. However, doing so may affect your ability to use the Site. If you are not comfortable with the above uses of Cookies, please do not use this Site.
+## **3\. Sharing Your Information**
 
-For more information about our use of Cookies on the Site, please see our [Cookie Policy](http://www.houzz.in/cookiePolicy).
+We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third parties to use for their own marketing purposes. We share information in the following ways:
 
-### Sharing Your Information
+**Platform Visitors and Users**
 
-We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third-parties to use for their own marketing purposes. We may share some information about you with third parties in connection with your use of the Site. Our information sharing with third-parties fall into these categories and purposes:
+Though our Platform, others may find, contact, view, and follow your profile and public activity on our Platform (for example, if you "like" content on our Platform), including through your username. You can customise your profile and whether users may follow you through your [settings](https://www.houzz.in/settingsAdvanced). Unless you make them private using your settings and other tools, your Ideabooks, photos, notes on others' photos, projects, discussions, social media profiles, followers, and others you follow are viewable and open to comments by others. [Learn](https://help.houzz.com/s/article/How-do-I-adjust-my-privacy-settings?language=en_AU) how to make these private. If you are a professional or seller, we may also display aggregated information about your activity in order to help visitors and users evaluate you, including your response rate and last visit to our Platform. We cannot control Platform visitors' and users' use of any information or content you choose to make available publicly.
 
-  * a. **Agents, Contractors, and Service Providers** : We may share your information with our agents and contractors or other service providers as needed to carry out the performance and functionality of the Site, fulfill your requests or authorized commercial transactions, or provide customer support.
-  * b. **Analytics and Usage** : We may share user information in the aggregate, with third parties, such as advertisers, professionals, and business. For example, we may disclose to a business the number of users that have viewed their product. Business or professionals that participate on the Houzz network may also access usage data associated with your public profile. For example, a business can see that you, as identified by your public profile username, any profile photo, and any other publicly displayed profile identifiers (but not identified by your email or non-public account information), added their product to one of your Ideabooks on a particular date.
-  * c. **Third Party Ad Networks** : We may use third-party advertising companies to serve advertisements on our Site and on third party sites, as well as to assist us in evaluating the effectiveness of our advertising, in accordance with applicable law. These companies use cookies, web beacons, and other tracking technologies to collect information (not including your name, address, email address or telephone number) about your visits to this Site and other sites in order to provide targeted advertisements to you. If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative and the Digital Advertising Alliance to deliver targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/), <http://www.aboutads.info/choices> (DAA) and in Europe [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
-  * d. **Affiliated Entities** : We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this privacy policy.
-  * e. **Business Transfers** : If we are acquired by or merged with another entity, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected about you to the other company.
-  * f. **Other Users** : Information that you post publicly on Houzz (e.g., photos, comments, your profile) will be made publicly available to other users of Houzz.
-  * g. **Investigations** : We may investigate and disclose information from or about you, as permitted by applicable law, if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) helpful to protect our rights, reputation, property, or that of our users, subsidiaries, or the public.
+**Professionals, Sellers, and Other Businesses**
+
+If you request us to find professionals for you, your project information (including the contact information) that you provide will be made available to a limited number of professionals that we believe may be suitable for your project. Professionals and sellers that participate on the Houzz Platform may view your public activities on our Platform and receive feedback you provide to us about your engagement with them. For example, if you requested us to find professionals for you and provide us feedback about your level of interest in these professionals, we may convey such feedback to them. In addition, a professional or seller can view your public activities on our Platform that are interactions with their content (for example, that you added one of their photos to your non-private Ideabook on a particular date, as identified by the username for your profile and any photo or public identifiers you provide for your profile). The business cannot see your non-public account information (for example, email address) or see private activity (for example, if your Ideabook is private). We ask professionals, sellers, and advertising businesses on our Platform to limit the use of your information to the reasons for which the information was provided. However, their use of your information is subject to their own privacy policies.
+
+**Service Providers and Platform Partners**
+
+We may share your information with others as reasonably needed for our uses described in this Privacy Policy, and we ask them to limit their use of that information.You can find more information about our service providers and platform partners [here](https://help.houzz.com/s/article/Service-Providers-and-Platform-Partners?language=en_AU). In addition, if you specifically agree to share your information with a third-party partner, for example, as part of a contest or promotion we sponsor with such third party, we will share your contact information with that third-party partner.
+
+**Advertisers and Ad Networks**
+
+We use advertising networks and similar companies to serve advertisements on third-party sites and to assist us in evaluating the effectiveness of our advertising. We may work with advertising partners to serve ads on our Platform. We may use advertising partners to communicate with you at the addresses they have for you. These types of companies use cookies and similar technologies. We may provide advertising networks, advertising partners, and businesses advertising on our platform with aggregate information but other than hashed information or device identifiers, we do not disclose your name, contact information, or other personal information. For more information, please see our [Cookie Policy](https://www.houzz.in/cookiePolicy).
+
+Businesses advertising on our Platform may also use cookies or similar technologies to track your activities on our Platform. Some of these businesses are participants in the [Network Advertising Initiative](https://www.networkadvertising.org/about-nai/) or the [Digital Advertising Alliance](https://help.houzz.com/s/article/Digital-Advertising-Alliance?language=en_AU). Please visit these organisations' opt-out pages to learn about how you may opt out of receiving web-based personalised ads from participating businesses. You can access any settings offered by your mobile operating system to limit ad tracking or install the AppChoices app to learn more about how you may opt out of receiving personalised ads in mobile apps.
+
+**Corporate Affiliates and Business Transfers**
+
+We may share information from or about you with (a) joint ventures or other companies in the Houzz group, or (b) a potential or actual acquirer, successor, or assignee as part of any reorganisation, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in bankruptcy or similar proceedings). In these cases, their use will be subject to this Privacy Policy.
+
+**Investigations**
+
+We may investigate and disclose information from or about you, as permitted by applicable law, if we believe that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with our Platform; (c) helpful to protect our rights, reputation, property, or that of our visitors, users, corporate affiliates, or the public;or (d) to enforce compliance with our agreements with you (for example, the [Terms of Use](https://www.houzz.in/termsOfUse)).
+
+## **4\. Third Party Plug-ins, Widgets, and Links**
+
+Our Platform may include third-party social media features and other third-party plug-ins and widgets. When these features are displayed on our Platform, they are operated or hosted by third parties and are subject to their own privacy policies instead of this Privacy Policy. Our Platform also contains links to third-party sites that are not controlled or operated by us. Please be aware that we are not responsible for the privacy practices of such other sites.
+
+## **5\. Communications**
+
+An essential part of our services that you sign up for when you create a Houzz account on our Platform is to receive communications from the Houzz group through email and our Platform. If you use our mobile app or provide us with your cell phone number, these communications also include text messages and push notifications. We communicate with you about your account, privacy, and interactions with your content (for example, if others "like" your Ideabook, respond to your comment, or if you earn a badge on our Platform). We also ask for your feedback about your experience in connection with our Platform or about your home renovation and design plans. In accordance with applicable law, we communicate to you tips, offers, and similar services from the Houzz group and may feature professionals, sellers, and other businesses on our Platform in these communications. You may change your communication preferences at any time through your [settings](https://www.houzz.in/settingsAdvanced)and you may also opt-out of similar types of marketing emails from Houzz directly through the email. Please be aware that you cannot opt-out of receiving account and privacy-related messages from us.
+
+Our Platform also allows you and others to send messages in our Platform, share content with others outside our Platform, and if you make your contact information available, for others to contact you outside our Platform.
+
+## **6\. Account Termination and Data Retention**
+
+Unless you are a professional or seller, you can deactivate your account at any time by going to your settings. To deactivate your account as a professional or seller, please contact us as described in the Contact Us section of this Privacy Policy. When you deactivate your account, you will cease to provide ongoing or future data to us. Your profile will no longer be viewable but in accordance with applicable law and our [Terms of Use](https://www.houzz.in/termsOfUse), your photos, reviews, and other content may still be accessible and viewable. In order to request permanent closure and deletion of your account, please contact us as described in the Contact Us section.
+
+We will keep your personal information only for as long as necessary to fulfill the purposes for which we are processing your personal information unless the law permits or requires us to retain your personal information for a longer period. For example, we may need to keep your personal data for quality assurance for our Platform or to defend future legal claims. We also will retain aggregated information after your account has been closed.Information you have shared with others will remain visible after you have closed your account or deleted the information from your own profile or account, and we do not control information or content that others have copied out of our Platform. Please note that copies of information that you have updated, modified, or deleted may continue to reside in our systems for a period of time, and we may maintain copies of this information as part of our business records.
+
+## **7\. Children**
+
+Our Platform is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. In the event that we learn that we have collected personal information from a child under age 13, we will take appropriate steps to delete that information. If you become aware or believe that a child has provided us with personal information, please contact us as provided in the Contact Us section.
+
+## **8\. Data Security**
+
+We use reasonable and appropriate measures to protect your personal information from loss, misuse, unauthorised access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal information.
+
+## **9\. Updates to this Privacy Policy**
+
+We may revise this Privacy Policy from time to time. The most current version of our Privacy Policy will govern our use of information about you. If we make material changes to our Privacy Policy, we will notify you by email or by posting a notice on our Platform. By continuing to access or use our Platform after those changes become effective, you are subject to the revised Privacy Policy.
+
+## **10\. Contact Us**
+
+If you have questions or comments about Houzz Privacy Policy,
+
+  * if you are a resident of the European Economic Area, please email us at EUprivacy@houzz.com  
+-otherwise, please email us at privacy@houzz.com.
 
 
 
-### Account Termination and Data Retention
+You may also mail us at our address at 285 Hamilton Avenue, Palo Alto, California 94301, USA.
 
-You can close your account at any time by going to account settings. When you close your account, you will cease to provide ongoing or future data to us. Your public profile will be deactivated. However, unless prohibited by applicable law, postings or comments you provided to the forum associated with your public profile prior to closing your account, will remain public. We may retain information about you for the purposes authorized under this privacy policy unless prohibited by law.
+## **11\. International Transfers of Personal Information**
 
-### Children
+The Houzz group is a global organisation, headquartered in the United States, with service providers, corporate affiliates, and operations in several countries. In order to provide you with the services you sign up for by creating a Houzz account or visiting our Platform, your personal information will be transferred to and processed in the United States (or any other country where we, our corporate affiliates, agents, and service providers operate). Data protection laws differ among jurisdictions, and the United States and these other jurisdictions may not provide the same level of protection for personal information as your jurisdiction of residence. If you are from the European Economic Area ("EEA") and we transfer your personal information to countries outside of the EEA, we will take appropriate steps to ensure your personal information is afforded the same level of protection as described in this Privacy Policy. Learn more.
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at privacy@houzz.com, and we will take steps to remove such information and terminate the child's account.
+## **12\. Legal Basis for Processing Personal Information (European Economic Area)**
 
-### Security
+If you are from the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it. We collect and use your information for a variety of business purposes that are in our legitimate interests, in order to enter into or perform a contract with you, with your consent, or to comply with our legal obligations.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure – so we cannot guarantee its absolute security.
+If you wish to learn more about specific legal grounds we rely on to process your information for any particular purpose (including any legitimate interests we have to process this information), please contact us as provided under the Contact Us section. For example, we rely on our legitimate interests to process information for direct marketing purposes and for fraud prevention and detection, provided these interests are not overridden by your data protection interests or fundamental rights and freedoms.
 
-### EU, Safe Harbor and Dispute Recourse
+## **13\. Your Data Protection Rights (European Economic Area)**
 
-_Data in the United States_
+In some regions, such as the EEA, you may have certain rights in relation to your personal information, including the right to access, correct, update, or request deletion of your personal information. Houzz takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You also can manage your profile and [settings](https://www.houzz.in/settingsAdvanced) within our Platform. However, if you are not a user of our Platform and you want to contact us directly about accessing, correcting, updating, or deleting your personal information, or altering your data or marketing preferences, you can do so at any time by contacting as provided in the Contact Us section. We will consider your request in accordance with applicable laws.
 
-Any information you provide through the Site may be transferred to, stored in, or processed in the United States.
+You can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us as provided in the Contact Us section. You also can deactivate your profile and obtain a copy of your information through your [settings](https://www.houzz.in/settingsAdvanced).
 
-_Safe Harbor Adherence_
+You can complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
-We adhere to the Safe Harbor Privacy Principles developed by the U.S. Department of Commerce and the European Union (EU), and have Safe Harbor self-assessment procedures in place. The Safe Harbor program is intended to provide equivalent protections for personal data as exist in the EU. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>.
+Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-Our Safe Harbor Privacy Principles are also compliant with the reasonable security practices and procedures required under applicable Indian law.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.
 
-_Choices_
+Effective May 25, 2018
 
-You have certain choices about how to control your data, including publicly displayed profile information, communications settings, network linking, and opting out of tracking by third- parties for certain advertising purposes. These choices are described throughout this privacy policy in the relevant sections.
-
-### Links to Other Sites
-
-Our Site contains links to other sites that are not controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and read the privacy policies of each and every site you visit. This privacy policy applies only to information collected by our Site.
-
-### Modifications and Updates to this Privacy Policy
-
-We may revise this privacy policy from time to time, at our sole discretion. The most current version of the privacy policy will govern our use of information about you and will be located here: <http://www.houzz.in/privacyPolicy>. If we make material changes to this privacy policy, we may notify you by email or by posting a notice on the Site. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised privacy policy.
-
-### Grievance Officer and Contact
-
-If you have any concerns, complaints or grievances associated with our collection, use, transfer or sharing of your personal information on this Site, please contact our Grievance Officer at: privacy@houzz.com.
-
-_**By agreeing to this Privacy Policy, and using this Site, you hereby consent to the collection, use, transfer, disclosure, storage and retention of your personal information including any sensitive personal data or information by us, as described above.**_
-
-Last Updated
-
-v. 20160209
+[Click here for the prior version effective February 23, 2017](https://www.houzz.com/c-doc/6106)
