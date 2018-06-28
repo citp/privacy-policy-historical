@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwith.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124091501id_/http%3A//www.openwith.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwith.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628050241id_/https%3A//www.openwith.org/privacy) for the most accurate reproduction.*
 
 # OpenWith.org Terms of Use
 
