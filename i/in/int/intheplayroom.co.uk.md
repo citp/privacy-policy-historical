@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165358id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628200809id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In The Playroom
 
 **Privacy Policy for intheplayroom.co.uk**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at anna@marikar.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At intheplayroom.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by intheplayroom.co.uk and how it is used.
 
@@ -43,4 +43,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 Disclaimer – This blog is a personal blog written and edited by me – Anna Marikar. This blog accepts forms of cash advertising, sponsorship and other forms of compensation. I often receive products free for the purpose of review but I will always remain unbiased in my feedback and can not guarantee a positive review although I do only accept products that I think we may like. In most cases I prefer not to publish extremely negative reviews, so in the case of me having a bad experience with a product, I reserve the right to give constructive feedback to a company directly and not featured the product on my site. Written content and photographs on the blog are copyright to me (or used with permission from 3rd parties) none of this may be reproduced without permission. I use some affiliate links on the blog including but not limited to Amazon affiliates and Viglink.
 
 [   
-](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
+](https://www.viglink.com/legal/disclosures/users?vgtag=badge)
