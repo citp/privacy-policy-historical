@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228013020id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629010900id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
@@ -30,7 +30,8 @@
     });
   </script>
 
-  <script type="text/javascript">
+  <script src="/sw.js"></script>
+<script type="text/javascript">
   function Config() {
     return this
   }
@@ -42,9 +43,9 @@
   Config.mainSiteUrlHttpsPath  = 'https://www.4shared.com/';
   Config.isRTLLanguage = false;
   Config.currentLanguage = 'en';
-  Config.revisionNum = 59757;
+  Config.revisionNum = 59992;
   Config.syncDomain = 'https://www.4sync.com/';
-  Config.cdDomain = 'https://dc626.4shared.com/';
+  Config.cdDomain = 'https://dc595.4shared.com/';
   Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
   Config.isMobile = false;
   Config.isIpad = false;
@@ -114,7 +115,7 @@
     }
   }
 </script><script type="text/javascript" src="https://static.4shared.com/js/plugins/favicon.4min.js?ver=-1359120125"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=-616285625"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=2142398624"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/purchaseStats.4min.js?ver=-1839898360"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/login_fnc.4min.js?ver=1858177710"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/utils.4min.js?ver=1693611699"></script>
@@ -145,7 +146,19 @@
             PopupModule.popupWithButtons({title:"Check your e-mail", content:msg});
         }, "jsonp");
     }
-</script><script type="text/javascript">
+</script><link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "5f25e506-63fc-4ff9-b342-b36af6173657",
+    });
+  });
+</script>
+
+
+<script type="text/javascript">
   function feedback() {
     var windowname="Feedback";
     var url="/feedback.jsp";
@@ -207,7 +220,7 @@
   <div id="fstickcontent"><link rel="stylesheet" type="text/css" href="https://static.4shared.com/js/plugins/bootstrap/css/bootstrap.min.css?ver=-1235434608">
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/bootstrap/js/bootstrap.min.js?ver=1454307403"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.validate.min.js?ver=-1447866770"></script>
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/headerAndFooterResponsive.4min.css?ver=199530132">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/headerAndFooterResponsive.4min.css?ver=-2054806377">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/media-queries.4min.css?ver=-1863088676">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common.4min.css?ver=-1058970830">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tipTip.4min.css?ver=-207359769">
@@ -327,7 +340,7 @@
     usrName: "Login = null",
     accountType: "AccType = null",
     winSize: "Window.W = " + screen.availWidth + "\nWindow.H = " + screen.availHeight,
-    title: "Title = dc571, rev=59757"
+    title: "Title = dc571, rev=59992"
   };
 
   var userInfo = debugInfo.loc + "<br>" + debugInfo.usrAgent + "<br>" + debugInfo.usrName + "<br>" + debugInfo.accountType + "<br>" + debugInfo.winSize + "<br>" + debugInfo.title;
@@ -484,7 +497,7 @@
 </script><div class="hidden-md hidden-lg">
     <div id="epom-1d8a7f9c0ccb3eab2b4d451725ef16cc"></div>
 
-<script type="text/javascript" src="/web/escript/420673.js?ver=59757"></script>
+<script type="text/javascript" src="/web/escript/425065.js?ver=59992"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/ads/relativeAdsScript.4min.js?ver=-1343289695"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/blockDetect/blockDetect2.4min.js?ver=870673091"></script>
 <script type="text/javascript">
@@ -588,6 +601,7 @@
             <div class="jsEmailNotValid">Your email is not a valid</div>
             <div class="jsEmailRequired">Your email is required</div>
             <div class="jsPasswordRequired">Your password is required</div>
+            <div class="jsGDPRagreeRequired">Your consent is required.</div>
           </div>
         </div>
 
@@ -636,9 +650,9 @@
 </div><div class="headerBG">
 <div class="container responsiveHeader ">
 
-  <div class="holidayNewYear row header-row">
+  <div class=" row header-row">
     <a href="https://www.4shared.com/" class="col-xs-6 col-sm-3 col-md-2  logo-block"></a>
-    <script type="text/javascript" src="https://static.4shared.com/js/headerSearch.4min.js?ver=-621062981"></script>
+    <script type="text/javascript" src="https://static.4shared.com/js/headerSearch.4min.js?ver=-337884210"></script>
 <input type="hidden" id="sBreadcrumbsPhrase" value="Searching">
     <form name="searchform" action="" id="search">
       <div class="form-group col-sm-5 col-md-5 col-lg-6 search-holder search">
@@ -672,58 +686,366 @@
 <div class="centered mob_regular">
     <br>
     <div class="large blue paddingT15">4shared Privacy Policy</div>
-    <div style="padding-top: 20px; text-align:justify;">
-      <div class="small blue alignRight">Last Revised: March 2, 2017</div><br>
-      This privacy policy ("Policy") explains how information you provide to us is collected, used and disclosed by 4shared ("we" or "us") with respect to your access and use of 4shared's online file storage and sharing service located at <a target="_blank" href="http://www.4shared.com">www.4shared.com</a>, (the "Service") and our mobile applications ("Apps" or "App"), collectively, our Digital Properties, so you can make an informed decision about using the Service.<br><br>
-      We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any information you provide to us or collected about you will be used.<br><br>
-      <b class="big">What Information Do We Collect?</b><br><br>
-      The following types of information may be collected while you use our Digital Properties:<br>
-        - Personal information you choose to provide to us such as your name, mailing address, and email address.<br>
-        - Non-personal information including, but not limited to, location, browser type, IP address, mobile device type and identifier, screen resolution, operating system, the date and time of a visit or use, the pages visited on this Service and areas accessed in the App, the time spent viewing the Digital Properties, and return visits to the Digital Properties.<br>
-        - Wireless Network usage information including, but not limited to, network performance, mobile identity, and network access point identifier.<br>
-        - Aggregated information as you and others browse and use our Digital Properties.<br><br>
-      We may also automatically collect certain information through the use of "cookies", beacons and other similar technology to improve the Service and your experience. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service.The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access or control over these cookies.<br><br>
-      <b class="big">Uses of Information</b><br><br>
-      The information we collect may be used for such purposes as:<br><br>
-        - To respond your inquiries and requests.<br>
-        - To operate our Digital Properties and improve your experience.<br>
-        - To identify or repel possible threats to Digital Properties security.<br>
-        - To conduct research about Digital Properties usage.<br>
-        - For advertising purposes in order to deliver the most relevant ads to you.<br>
-        - To plan and evaluate wireless networks.<br>
-        - To analyze aggregate consumer trends.<br>
-        - To conduct cybersecurity research.<br><br>
-      <b class="big">Analytics and Research Services</b><br><br>
-      We may use third-party analytics and research services to better understand how visitors interact with Digital Properties. These services provide non-personally identifiable data including but not limited to data on where visitors came from, what actions they took, and where visitors went when they left Digital Properties. We use this information to improve your experience when visiting our Digital Properties. We may also work with other partners to conduct research surveys in order to improve the user experience on our Digital Properties. Their data practices are regulated by the privacy statements of these partners.<br><br>
-      <b class="big">Sharing Information with Third Parties</b><br><br>
-      We partner with third-party ad networks to display advertising within our Digital Properties. Our ad network partners use Web beacons and log files to collect non-personally identifiable information about your activities on our Digital Properties to provide you targeted advertising based upon your interests.<br><br>
-      We may also share non-personally identifiable information with third-party targeted interest-based advertising data providers for the purpose of facilitating advertising services for their customers, such as ad networks and other third-party websites and applications.<br><br>
-      You can opt out from interest-based advertising by visiting websites of advertising networks and data providers. You can also use opt-out instructions from websites of self-regulatory organizations:<br><br>
+    <div class="small blue alignRight">Last Revised: May 20, 2018</div>
 
-      Network Advertising Initiative (NAI) – <a target="_blank" href="http://www.networkadvertising.org/choices/">www.networkadvertising.org/choices</a><br>
-      Digital Advertising Alliance (DAA) – <a target="_blank" href="http://www.aboutads.info/choices/">www.aboutads.info/choices</a><br>
-      Digital Advertising Alliance Canada (DAAC) – <a target="_blank" href="http://youradchoices.ca/choices">youradchoices.ca/choices</a><br>
-      Digital Advertising Alliance EU (EDAA) – <a target="_blank" href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a><br>
-      DAA AppChoices page – <a target="_blank" href="http://www.aboutads.info/appchoices">www.aboutads.info/appchoices</a><br><br>
-
-      Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.<br><br>
-      <strong>Anonymous Data Collection:</strong> Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information.  You will see the ↓  icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market
-      research purposes. For further information Airpush, Inc.'s data collection and use practices, please see Airpush, Inc.'s <a target="_blank" href="http://www.airpush.com/technology_privacy/">Technology Privacy Statement</a> and
-      <a target="_blank" href="http://www.airpush.com/privacypolicy/">Privacy Policy</a>. You may opt-out of interest-based ads by clicking <a target="_blank" href="https://optout.mobi.info/">here</a>.<br><br>
-
-      We share location, network diagnostic information, sensor diagnostic information, and other data related to your use of our application with our partner, OpenSignal, Inc., but such information that we share will not include any personally identifiable information about you. OpenSignal will use the information that we share about you to create aggregated anonymous data and OpenSignal is the sole owner of that data.<br><br>
-
-      To learn more about the use of this aggregated anonymous data, we recommend that you review OpenSignal's <a href="https://opensignal.com/privacypolicy" target="_blank">Privacy Policy</a>. To opt-out of our sharing of this information with OpenSignal, please contact us at legal@4shared.com with a request that we not share your information with OpenSignal and we will honour this request.<br><br>
-
-      <b class="big">Security</b><br><br>
-      We take reasonable measures to help maintain data we collect through our Digital Properties in a secure manner.<br><br>
-
-      <b class="big">Links to Third-Party Websites</b><br><br>
-      Our Digital Properties may contain links to other websites operated by third parties. We do not own or control such websites and this Privacy Policy applies solely to information collected through our Digital Properties. Their data practices are regulated by the privacy statements of these websites.<br><br>
-
-      <b class="big">Contact Us</b><br><br>
-      If you have questions about this Privacy Policy, please contact us at <a href="mailto:legal@4shared.com">legal@4shared.com</a><br><br>
-    </div>
+    <div class="policyHolder">
+      
+        <p>This privacy policy ("Policy") explains how information you provide to us is collected, used and disclosed by
+          4shared ("we" or "us") with respect to your access and use of 4shared's online file storage and sharing
+          service located at <a target="_blank" href="https://www.4shared.com">www.4shared.com</a>, (the "Service") and our mobile applications ("Apps" or "App"),
+          collectively, our Digital Properties, so you can make an informed decision about using the Service.</p>
+        <p>We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have
+          been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy
+          from time to time to make sure that you understand how any information you provide to us or collected about
+          you will be used.</p>
+        <h3 id="dataCollection">1. Personal Data Collection and Use</h3>
+        <h4>1.1 Data You Choose to Provide to Us</h4>
+        <p>4shared collects Personal Data during your registration at our Digital Purposes, when you choose to
+          provide it, such as your name and email address.</p>
+        <p>The decision to provide such data is optional. However, if you choose not to register or provide this data,
+          you may not be able to access certain features or services, available within our Digital Properties.</p>
+        <p>Your consent to the collection and use of Personal Data will be logged by us.</p>
+        <p>In addition, you can voluntarily provide us with additional data in forms as part of the registration
+          process. The voluntary provision of this data is a consent to the use of the data.</p>
+        <p>4shared may use the Personal Data you choose to provide to us to operate and improve our Digital Purposes,
+          such as to provide notices about our Website, Services and Apps, process your Service inquiries, and request
+          customer feedback.</p>
+        <p>4shared may also use such Personal Data to send you the information regarding new Products, Services or
+          features available within our Digital Properties; solely in accordance with your granted permissions.</p>
+        <p>You may unsubscribe from our newsletters and marketing emails anytime.</p>
+        <p>For further info about your consent withdrawal and other opt-out options, please refer to "Your Choice and
+          Control" section of this Privacy Policy, below.</p>
+        <h4>1.2 Personal Data Obtained from the Use of our Digital Properties</h4>
+        <p>We may also collect additional data through our Digital Properties that may include (a combination of)
+          Personal Data elements, such as:</p>
+        <ul>
+          <li>Location information &amp; IP address</li>
+          <li> Device information such as browser type, mobile device type and identifier, screen resolution, operating
+            system, and device Advertising ID
+          </li>
+          <li>Log information such as the date and time of a visit or use of Digital Properties, pages visited on this
+            Service and areas accessed in the App, time spent viewing the Digital Properties, and return visits to the
+            Digital Properties, your 4shared account ID, and your 4shared account activity.
+          </li>
+          <li>Wireless Network usage information including, but not limited to, network performance, network usage
+            details of mobile applications, mobile identity, precise location, and network access point identifier. Such
+            data shall be collected and shared with non-affiliates only in accordance with DAA Principles.
+          </li>
+          <li>Aggregated information as you and others browse and use our Digital Properties.</li>
+        </ul>
+        <p><b>Such Personal data is collected and stored in the pseudonymized manner and can not be attributed separately
+          to identify or reveal a natural person's individual identity.</b></p>
+        <p>The collected Personal Data may be used for such purposes as:</p>
+        <ul>
+          <li>To respond to your inquiries and requests.</li>
+          <li>To operate our Digital Properties and improve your experience.</li>
+          <li>To identify or repel possible threats to Digital Properties security.</li>
+          <li>To conduct research about Digital Properties usage.</li>
+          <li>For advertising purposes in order to deliver the most relevant ads to you.</li>
+          <li>To plan and evaluate wireless networks.</li>
+          <li>To analyze aggregate consumer trends.</li>
+          <li>To conduct cybersecurity research.</li>
+        </ul>
+        <h4>1.3 Personal Data Obtained from Other Sources</h4>
+        <p>4shared allows you to sign up and log in using your Facebook, Twitter or Google accounts.</p>
+        <h4>- Facebook</h4>
+        <p>If you sign up using Facebook, Facebook will ask your permission to share certain information from your
+          Facebook account with 4shared. This information is collected by Facebook and is provided to us under the Terms
+          of Facebook Data Policy.</p>
+        <p>For more details, please visit: <a target="_blank" href="https://www.facebook.com/about/privacy">facebook.com/about/privacy</a>.
+        </p>
+        <h4>- Twitter</h4>
+        <p>If you sign up using Twitter, Twitter will ask your permission to share certain information from your Twitter
+          account with 4shared. This information is collected by Twitter and is provided to us under the Terms of
+          Twitter Privacy Policy.</p>
+        <p>For more details, please visit <a target="_blank" href="https://twitter.com/privacy">twitter.com/privacy</a>.
+        </p>
+        <h4>- Google</h4>
+        <p>If you sign up using Google, Google will ask your permission to share certain information from your Google
+          account with 4shared. This information is collected by Google and is provided to us under the Terms of Google
+          Privacy Policy.</p>
+        <p>For more details, please visit: <a target="_blank" href="https://policies.google.com/privacy">policies.google.com/privacy</a>.</p>
+        <h3 id="cookies">2. Use of Cookies and Similar Technology</h3>
+        <p>We may also automatically collect certain Personal Data through the use of cookies, beacons and other similar
+          technology to collect aggregated statistics related to the use of our Apps and Services and improve the
+          performance of our Digital Properties.</p>
+        <h4>- Service Provision Cookies</h4>
+        <p>While you are visiting the Website, our web servers for the operation of the Service temporarily collect
+          general technical information, in particular about the software and hardware you use, the IP address of the
+          requesting computer, which websites you have visited and when, and the Duration of your visit.</p>
+        <p>We use such service provision cookie technology to help you navigate our Website and enhance your experience
+          with our Services and features.</p>
+        <p><b>Such cookie technology is non-privacy intrusive, as the collected data has no personal reference to
+          you.</b></p>
+        <p>In case of a user login, however, we set a cookie, which then remains stored to enable automatic login
+          (permanent cookie).</p>
+        <h4>- Service Performance Cookies</h4>
+        <p>We may use third-party analytics and research services, such as Google Analytics to better understand how
+          visitors interact with our Digital Properties, e.g. collect data such as where visitors came from, what
+          actions they took, and where visitors went when they left Digital Properties.</p>
+        <p><b>This data is collected and stored in the pseudonymized manner and can not be attributed separately to
+          identify or reveal a natural person's individual identity.</b></p>
+        <p>We use this information to improve your experience when visiting our Digital Properties. We may also work
+          with other partners to conduct research surveys in order to improve the user experience on our Digital
+          Properties.</p>
+        <p>For more information on data collection via Google Analytics cookie technology, please refer to Google
+          Analytics privacy practices: <a target="_blank" href="https://support.google.com/analytics/answer/6004245">support.google.com/analytics/answer/6004245</a>
+        </p>
+        <p>For details on how to opt out from data collection via Google Analytics cookie technology, please refer to
+          the opt-out instructions: <a target="_blank" href="https://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a>
+        </p>
+        <p>If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn
+          about these functions.</p>
+        <p>However, if you choose to remove or reject cookies, this could affect certain features or services made
+          available via the Service. Moreover, if you delete cookies after previously opting out of 4shared practices,
+          you may need to renew your opt-out choice.</p>
+        <p>For more information about cookies, please visit <a target="_blank" href="https://www.allaboutcookies.org">www.allaboutcookies.org</a>
+        </p>
+        <h3 id="thirdParties">3. Disclosure of Personal Data to Third Parties, Onward Transfer</h3>
+        <p>We may share (a combination of) Personal Data elements with:</p>
+        <h4>- Third-party Service Providers</h4>
+        <p>We may share your Personal Data with third-party service providers who may assist us in responding to your
+          inquiries or requests, or otherwise perform some business or operational function for us.</p>
+        <p>We require that such third-party service providers confirm their Personal Data Privacy and Protection
+          practices are consistent with those applicable via our Digital Properties.</p>
+        <p>Any use of Personal Data by such Service Providers for the purposes other than performing business or
+          operational function for 4shared and its Digital Properties is strictly prohibited.</p>
+        <h4>- Third-party Advertising Partners</h4>
+        <p>We partner with third-party ad networks to display advertising within our Digital Properties. Our ad network
+          partners use Web beacons and log files to collect data about your activities on our Digital Properties to
+          provide you targeted advertising based upon your interests.</p>
+        <p>This data is collected, stored and disclosed in the pseudonymized manner and can not be attributed separately
+          to identify or reveal a natural person's individual identity.</p>
+        <p>The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access
+          or control over these cookies.</p>
+        <h4>- Third-party targeted interest-based advertising data providers</h4>
+        <p>We may also disclose some Personal Data, in the pseudonymized manner, with third-party targeted
+          interest-based advertising data providers for the purpose of facilitating advertising services for their
+          customers, such as ad networks and other third-party websites and applications.</p>
+        <p>For more details on collection, use and disclosure of Personal Data, and instructions on how to opt out of
+          interest-based advertising, please refer to information provided below or visit websites of advertising
+          networks and data providers:</p>
+        <p><b>Airpush, Inc.</b> collects Data relating to your use of 4shared App, other apps and your device, in a
+          pseudonymized manner, that may include (a combination of) Personal Data elements, such as:</p>
+        <ul>
+          <li>Bluetooth beacon data</li>
+          <li>Hashed or encrypted values of your email or phone number</li>
+          <li>Geolocation, and</li>
+          <li>other permission-based user information.</li>
+        </ul>
+        <p>You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties
+          for advertising, analytics and market research purposes.</p>
+        <p>For further information about Airpush, Inc.'s data collection and use practices, please see Airpush, Inc.'s
+          <a target="_blank" href="http://www.airpush.com/technology_privacy/">Technology Privacy Statement</a> and <a target="_blank" href="http://www.airpush.com/privacypolicy/">Privacy Policy</a>. To opt out of data collection
+          by AirPush, Inc., please use the <a target="_blank" href="https://optout.mobi.info/">AirPush, Inc. opt-out link</a>.</p>
+        <p><b>OpenSignal</b> collects data on mobile network coverage and performance. We use the crowdsourced data collected from users' devices to publish reports and metrics on mobile network experience. You can see the reports we publish here: <a target="_blank" href="http://opensignal.com/reports">http://opensignal.com/reports</a></p>
+        <p>OpenSignal is the independent global standard for measuring real-world mobile network experience. We believe measuring how the network performs directly through users' eyes is key to building better wireless networks.</p>
+        <p>To read more about the data we collect and our privacy policy please follow the link <a target="_blank" href="http://opensignal.com/privacypolicy-for-crowdsourcedata.com">http://opensignal.com/privacypolicy-for-crowdsourcedata.com</a></p>
+        <p><b>Tutela Technologies Ltd.</b> collects data relating to your use of our apps, other apps and your device,
+          that may include (a combination of) Personal Data elements, such as:</p>
+        <ul>
+          <li>Location</li>
+          <li>Wireless network performance, usage, and identifiers, and</li>
+          <li>other permission-based user information.</li>
+        </ul>
+        <p>Data is shared with wireless service providers and other third parties who use it to analyze aggregate
+          consumer mobile trends, improve your wireless networks, and conduct cyber-security research.</p>
+        <p>Outside of GDPR participating countries, mobile advertiser ID may be shared for network marketing and
+          advertising purposes in accordance with the Digital Advertising Alliance principles. No data is stored by
+          Tutela for longer than 12 months.</p>
+        <p>For further information about Tutela's data practices, including technical and organisational measures to
+          ensure that personal data are not attributed to an identifiable natural person, please see the <a target="_blank" href="https://public.tutela.com/TutelaPrivacyCharter.pdf">Privacy
+            Charter</a>.</p>
+        <p>To opt out of data sharing with Tutela, please utilize the opt-out measures provided in the privacy
+          statement, contact data.protection.officer@tutela.com, or contact us at <a href="mailto:legal@4shared.com">legal@4shared.com</a>.
+        </p>
+        <p><b>Oracle America, Inc.</b> We share data relating to your use of 4shared App, other apps and your device, in
+          a pseudonymized manner, that may include (a combination of) Personal Data elements, such as:</p>
+        <ul>
+          <li>Online behavioral information</li>
+          <li>IP address</li>
+          <li>Interest data</li>
+          <li>Unique advertising IDs</li>
+        </ul>
+        <p>Oracle will use the Data we share about you to for the following purposes, including but not limited to:</p>
+        <ul>
+          <li>Creation of segments for targeted advertising and marketing purposes;</li>
+          <li>Oracle's internal system improvements, product improvement, statistical analysis, and research, and
+            development.
+          </li>
+        </ul>
+        <p>For more details, please refer to opt-out instructions on websites of self-regulatory organizations:</p>
+        <p><b>Recommended for U.S.-based users:</b><br>
+          Network Advertising Initiative (NAI) opt-out program: <a target="_blank" href="https://optout.networkadvertising.org">optout.networkadvertising.org</a><br>
+          Digital Advertising Alliance (DAA) opt-out program: <a target="_blank" href="https://optout.aboutads.info">optout.aboutads.info</a>
+        </p>
+        <p><b>Recommended for Canada-based users:</b><br>
+          Digital Advertising Alliance Canada (DAAC): <a target="_blank" href="https://youradchoices.ca/choices">youradchoices.ca/choices</a>
+        </p>
+        <p><b>Recommended for EU/EEA-based users:</b><br>
+          Digital Advertising Alliance EU (EDAA) opt-out program: <a target="_blank" href="https://youronlinechoices.eu">youronlinechoices.eu</a>
+        </p>
+        <p>To opt out of data collection via mobile applications, please visit the DAA AppChoices page:
+          <a target="_blank" href="https://youradchoices.com/appchoices">youradchoices.com/appchoices</a>.</p>
+        <p>Please note that even if you opt out of interest-based advertising, 4shared may continue to collect data for
+          other purposes, 4shared will still display generic ads (i.e. not targeted to you), while using our Digital
+          Properties.</p>
+        <p>We may also disclose your Personal Data if required by law, including without limitation, by search warrant,
+          subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of
+          collection.</p>
+        <h3 id="choices">4. Your Choice and Control</h3>
+        <p>We do our best to provide you choice and control, with regard to Personal Data and other information you
+          provide to us.</p>
+        <p>It is not necessary for you to provide us with any Personal Data in order to visit our Website and use our
+          Services, although certain information is be collected automatically during your visit (as described
+          above).</p>
+        <p>If you register a 4shared account, you can control your Personal Data in a number of ways within your your
+          4shared account settings on our Website:</p>
+        <h4>4.1 Right to Withdraw Consent</h4>
+        <p>You may withdraw your consent to the collection and use of Personal Data by 4shared - generally or with
+          regard to the additionally voluntarily communicated data in accordance with effect for the future.</p>
+        <p>However, in the event of your cancellation, certain features that require registration may no longer be
+          provided. This does not apply to the revocation to collect further voluntary data, provided to us.</p>
+        <p>To withdraw your consent to the collection and use of your Personal Data by 4shared, please send us a
+          corresponding inquiry via email <a href="mailto:legal@4shared.com">legal@4shared.com</a>.</p>
+        <h4>4.2 Opting Out of Newsletters and Marketing Emails</h4>
+        <p>To unsubscribe from our newsletters and marketing emails:</p>
+        <ul>
+          <li>Sign in your 4shared account via our Website.</li>
+          <li>Go to your 4shared account Settings.</li>
+          <li>In the Account Overview tab within Settings, select (unmark) email notifications (if any) you wish to
+            unsubscribe from.
+          </li>
+          <li>Save changes.</li>
+        </ul>
+        <p>You may also unsubscribe from our newsletters and marketing emails by clicking on the Unsubscribe links,
+          provided in such emails.</p>
+        <h4>4.3 Opt-Out Options within 4shared Applications</h4>
+        <p>For more information on the collection, use and disclosure of Personal Data via 4shared Applications and your
+          opt-out choices, please refer to <a target="_blank" href="/privacyForApps.jsp">4shared App Privacy
+            Statement</a>.</p>
+        <h4>4.4 Sharing Personal Data with Social Networks</h4>
+        <p>If you sign up for 4shared using your Twitter, Facebook or Google account, your 4shared account and your
+          Twitter, Facebook or Google account respectively will be connected automatically.</p>
+        <p>For more information, regarding the collection and use of data by Facebook, Twitter and Google, please refer
+          to their Privacy Policies:</p>
+        <p>Facebook: <a target="_blank" href="https://www.facebook.com/about/privacy">https://www.facebook.com/about/privacy</a><br>
+          Twitter: <a target="_blank" href="https://twitter.com/privacy">https://twitter.com/privacy</a><br>
+          Google: <a target="_blank" href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
+        </p>
+        <p>The Social Networks tab within your account Settings on our Website enables you to control the information
+          you share with social networks via connected accounts.</p>
+        <p>To opt out of your data collection by Facebook, Twitter and Google, use the "Disconnect" option for the
+          corresponding account in the Social Networks tab within your 4shared account Settings on our Website.</p>
+        <h4>4.5 Sharing Personal Data with Other Users</h4>
+        <p>4shared enables you to store or share Your Content, access or download content, shared by other users.
+          4shared doesn't claim ownership of Your Content.</p>
+        <p>When you share Your Content with others, you acknowledge that they may be able to save, record, reproduce,
+          share, transmit, broadcast, display or otherwise use Your Content without providing any compensation to
+          you.</p>
+        <p>If any of your Content contains (a combination of) Personal Data elements or any other information that you
+          would not like to share, you can limit other users' access to this Content within your 4shared account by
+          making a file "Private" or setting up "Private access" to a folder, correspondingly.</p>
+        <p>4shared doesn't use what you say in email, chat, your files, documents, photos, videos and other Content
+          to target advertising to you.</p>
+        <p>For more details on how to secure and protect your Content, please visit our <a target="_blank" href="/security.jsp">4shared
+          Security page</a>.</p>
+        <h3>5. Data Security</h3>
+        <p>We take reasonable measures to help maintain data we collect through our Digital Properties in a secure
+          manner.</p>
+        <p>For more details, please visit our <a target="_blank" href="/security.jsp">4shared Security page</a>.</p>
+        <h3>6. Data Retention</h3>
+        <p>4shared will not retain, use or process shared Personal Data, such as your email address, for longer than
+          necessary to fulfill our business purpose.</p>
+        <p>We store non-personally intrusive data and the Personal Data obtained from the Use of our Digital Properties,
+          in a pseudonymized manner, up to one year in order to ensure that our Digital Properties function
+          properly.</p>
+        <h3>7. Data Integrity, Purpose of Limitation</h3>
+        <p>We process information in a way that is compatible with and relevant to the purpose for which it was
+          collected as described above. To the extent necessary for those purposes, we take reasonable steps to ensure
+          that any information in our care is accurate, complete, current and reliable for its intended use.</p>
+        <h3>8. Reviewing and Updating Personal Data</h3>
+        <p>4shared takes reasonable steps to ensure that information is accurate, complete, current, and reliable for
+          its intended use.</p>
+        <p>For the Data you choose you provide us with, you may review, correct, update, or change your Personal Data,
+          request that we deactivate your account, or remove your Personal Data from our direct marketing efforts, at
+          any time by emailing us at <a href="mailto:legal@4shared.com">legal@4shared.com</a></p>
+        <h3>9. Information Related to Children</h3>
+        <p>Our Digital Properties are designed for people 16 years of age and older.</p>
+        <p>4shared does not knowingly collect Personal Data from anyone under the age of 16. If 4shared is made aware that
+          it has received Personal Data from someone under 16, it will use reasonable efforts to remove that information
+          from its records.</p>
+        <h3 id="disclosures">10. Additional Disclosures</h3>
+        <h4>10.1 Legal Basis for Processing Personal Data of EEA and Swiss Individuals</h4>
+        <p>4shared is committed to compliance and adherence to Personal Data privacy and protection laws, rules and
+          regulations, including:</p>
+        <ul>
+          <li>Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection
+            of natural persons with regard to the processing of personal data and free movement of such data, and
+            repealing Directive 95/46/EC (General Data Protection Regulation);
+          </li>
+          <li>regulatory guidelines;</li>
+          <li>any of the applicable self-regulatory guidelines.</li>
+        </ul>
+        <p>If there is any conflict between the Terms of Use or other policies described in this Privacy Policy, the
+          Policies covered in this Section shall govern.</p>
+        <h4>10.2 Data Retention</h4>
+        <p>Retention of personal information of EEA and Swiss individuals will be handled in accordance with 4shared
+          Data Retention policy (as described above).</p>
+        <h4>10.3 Accessing and Deleting Personal Data</h4>
+        <p>EEA and Swiss individuals have the right to access the personal information that 4shared maintains about you,
+          as that term is defined in EU data protection and privacy regulations, including GDPR principles, and you may
+          be able to correct or amend that information if it is inaccurate or has been processed in violation of the
+          GDPR principles, to the extent allowed by applicable law.</p>
+        <p>EEA and Swiss individuals have the right to:</p>
+        <ul>
+          <li>request access to and rectification or erasure of personal information;</li>
+          <li>restrict the processing of personal information, object to processing, and/or exercise the right of data
+            portability; and
+          </li>
+          <li>withdraw consent without affecting the lawfulness of processing and lodge a complaint with a supervisory
+            authority.
+          </li>
+        </ul>
+        <p>To exercise this right, please send us a corresponding email inquiry at <a href="mailto:pi@4shared.com">pi@4shared.com</a>.
+        </p>
+        <p>For any requests or information regarding the rights set out above, please contact us by emailing us at
+          <a href="mailto:pi@4shared.com">pi@4shared.com</a>.</p>
+        <p>4shared is committed to resolving of complaints about our collection or use of your personal information. EEA
+          or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact 4shared
+          at <a href="mailto:pi@4shared.com">pi@4shared.com</a>.</p>
+        <h4>10.4 Disclosure of Personal Data to Third Parties, Onward Transfer</h4>
+        <p>4shared may transfer Personal Data elements of EU and Swiss individuals received to third parties, as described
+          above in this Privacy Policy. The Personal Data disclosed will be used for the purposes set forth in this
+          Privacy Policy.</p>
+        <p>You may request disclosure, notification of the intended purpose, correction, addition, deletion, and
+          cessation of use or cessation of disclosure to third parties of your Personal Data by emailing us at
+          <a href="mailto:pi@4shared.com">pi@4shared.com</a>.</p>
+        <h4>10.5 Notifying Third Parties about Personal Data Rectification, Erasure, Restriction</h4>
+        <p>Where 4shared has disclosed Personal Data of its User to any third parties, and the User has subsequently
+          exercised any of the rights of rectification, erasure or blocking, 4shared will promptly notify those third
+          parties of the User's exercising of those rights. In no case 4shared shall be liable for the failure of any
+          third party to comply with such User's request.</p>
+        <p>4shared is exempt from this obligation if it is impossible or would require disproportionate effort.</p>
+        <p>Where 4shared has made Personal Data of its User public, and the User exercises any of the rights as
+          described above, 4shared will take reasonable steps to inform third parties that the User has exercised those
+          rights.</p>
+        <h4>10.6 Collection and Use of Sensitive or Special Categories of Personal Data</h4>
+        <p>4shared does not knowingly collect, store or in any other way process Sensitive or Special Categories of User
+          Data, such as: Personal Data, revealing racial or ethnic origin, political opinions, religious or
+          philosophical beliefs, trade-union membership; Data concerning health or sex life and sexual orientation;
+          genetic data or biometric data; Personal Data of Children below the age of 16 years</p>
+        <p>If 4shared is made aware that it has received (a combination of) such Sensitive Personal Data elements, we
+          will use reasonable efforts to remove this Data from our records.</p>
+        <h3>11. Other Important Privacy Information</h3>
+        <h4>11.1 Links to Third-Party Websites</h4>
+        <p>Our Digital Properties may contain links to other websites operated by third parties. We do not own or
+          control such websites and this Privacy Policy applies solely to information collected through our Digital
+          Properties. Their data practices are regulated by the privacy statements of these websites.</p>
+        <h4>11.2 Contact Us</h4>
+        <p>If you have questions about this Privacy Policy, please contact us at <a href="mailto:legal@4shared.com">legal@4shared.com</a>
+        </p>
+      </div>
     <br><br>
   </div>
 </div>
@@ -862,7 +1184,7 @@
 <script type="text/javascript">
   document.write("<img src='//www.jscount.com/a/4/28b1a41b/z?ref=" +
       escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
-</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20171228013020id_/https%253A//www.4shared.com/privacy.jsp&amp;rand=0.5539002161626525" width="1" height="1" alt="" style="display:none">
+</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20180629010900id_/https%253A//www.4shared.com/privacy.jsp&amp;rand=0.7116133631610781" width="1" height="1" alt="" style="display:none">
 
 <script type="text/javascript">
   Events.addListener("countEvent", function (data) {
