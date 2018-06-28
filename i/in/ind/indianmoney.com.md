@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119181424id_/https%3A//indianmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628074236id_/https%3A//indianmoney.com/privacy-policy) for the most accurate reproduction.*
 
-# IndianMoney | Free Financial Advice on How to Save, Spend, Invest & Borrow
+# Privacy Policy - IndianMoney.com
 
 By visiting IndianMoney.com or any of its associate/group sites, you have read, understood and agree to be legally bound by the terms of the following disclaimer and user agreement 
 
