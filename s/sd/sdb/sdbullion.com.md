@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sdbullion.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129020526id_/https%3A//sdbullion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdbullion.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628021045id_/https%3A//sdbullion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SD Bullion
+# Privacy Policy
 
-**Privacy Policy**
-
-Last modified: January 6, 2014
+Last modified: February 17, 2017
 
 **Our Privacy Policy explains:**
 
-• What information we collect and why we collect it.  
-• How we use that information.  
-• The choices we offer, including how to access and update information.
+  * What information we collect and why we collect it.
+  * How we use that information.
+  * The choices we offer, including how to access and update information.
+
+
 
   
 **Information we collect**
@@ -19,9 +19,10 @@ SD Bullion collects information to tailor your shopping experience to you. From 
 
 We collect information in two ways:
 
-1\. Information you provide to us. SD Bullion will require a user to register for an account prior to finalizing a purchase online. We may ask for personal information such as your name, address, and other general contact information. We also may require a credit card number to be stored on a secure third-party merchant gateway in order to insure we receive payment. The information is used to complete shopping transactions, optimize order fulfillment, and protect you from fraudulent activity. As you would expect from The Doc, sensitive information is secured using the latest encryption technology.
+  1. Information you provide to us. SD Bullion will require a user to register for an account prior to finalizing a purchase online. We may ask for personal information such as your name, address, and other general contact information. We also may require a credit card number to be stored on a secure third-party merchant gateway in order to insure we receive payment. The information is used to complete shopping transactions, optimize order fulfillment, and protect you from fraudulent activity. As you would expect from The Doc, sensitive information is secured using the latest encryption technology.
+  2. Information we gather from your use of our website. SD Bullion collects information using solutions, mainly Google analytics, which stores information by the way of cookies sent to your device.  
 
-2\. Information we gather from your use of our website. SD Bullion collects information using solutions, mainly Google analytics, which stores information by the way of cookies sent to your device.  
+
 
 **How we use information we collect**
 
@@ -51,21 +52,29 @@ You are able to update your personal information anytime by logging into your ac
  ****  
 We do not share your personal information with individuals, organizations, or companies outside of SD Bullion unless one of the following applies:
 
-1\. With your consent.
+  1. With your consent.
+  2. For external processing. Occasionally, we may have a supplier of SD Bullion fulfill your order and ship it direct. Therefore, it is sometimes necessary to provide trusted affiliates and other businesses personal information which is needed to complete the transaction.
+  3. For legal reasons. We will share information with individuals, organizations, or companies pursuant to a warrant or meeting applicable law, regulation, legal process, or enforceable government request. We will also share your information if we feel it is necessary to protect against harm to the rights, property, or safety of SD Bullion, our users, our employees, or the public as required by law.
+  4. For payment collections on an order that is unpaid past our terms and conditions agreed upon at checkout.
+  5. Non-personally identifiable information (aggregated data) may be shared with our partners including advertisers and connected sites.
+  6. If SD Bullion is involved in a merger, acquisition, or sale we will continue to ensure your privacy until it is transferred or is subject to a new privacy policy.
 
-2\. For external processing. Occasionally, we may have a supplier of SD Bullion fulfill your order and ship it direct. Therefore, it is sometimes necessary to provide trusted affiliates and other businesses personal information which is needed to complete the transaction.
 
-3\. For legal reasons. We will share information with individuals, organizations, or companies pursuant to a warrant or meeting applicable law, regulation, legal process, or enforceable government request. We will also share your information if we feel it is necessary to protect against harm to the rights, property, or safety of SD Bullion, our users, our employees, or the public as required by law.
-
-4\. For payment collections on an order that is unpaid past our terms and conditions agreed upon at checkout.
-
-5\. Non-personally identifiable information (aggregated data) may be shared with our partners including advertisers and connected sites.
-
-6\. If SD Bullion is involved in a merger, acquisition, or sale we will continue to ensure your privacy until it is transferred or is subject to a new privacy policy.
 
 **Information Security**
 
 The Doc uses the latest SSL and encryption technology to protect your confidential information. Additionally, we restrict access to personal information to SD Bullion employees, contractors, and agents who may be disciplined or terminated for failure to comply with this privacy policy.
+
+   
+ **Weekly Silver Giveaway**
+
+  * Participate must enter real email address to be registered for drawing.
+  * Weekly winner will be emailed from a Doc Investments LLC staff member. The selected winner must reply to this email within 48 hours or Doc Investments LLC will draw for a new weekly winner.
+  * By participating, you are agreeing that Doc Investments LLC can post your first name, last initial and shipping state on their various digital assets (website, email, etc).
+  * By participating, you are giving SilverDoctors.com (Doc Investments LLC) the right to send you various marketing emails. You are allowed to “opt-out” of these emails at anytime. However, doing so will remove you from the email database and remove you from the chance to win any giveaway prizes.
+  * Must be 18 years or older to participate.
+
+
 
 **Application**
 
