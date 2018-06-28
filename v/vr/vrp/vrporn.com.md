@@ -1,100 +1,224 @@
-> *The following text is extracted and transformed from the vrporn.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrporn.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628024918id_/https%3A//vrporn.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - VRPorn.com
 
-**Go Daddy Respects Your Privacy**
+**VRPorn.com  
+Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Created: March 1, 2016**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Last Updated: September 8, 2016**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+VRPorn.com respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website located at [VRPorn.com](https://vrporn.com/) (“ ** _Website_** ”) and our practices for collecting, using, keeping, protecting, and disclosing that information.
 
-**Information Collection and Use**
+This policy applies to information we collect:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * On the Website (including desktop and mobile versions).
+  * In email, text, and other electronic messages between you and VRPorn.com.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+  * When you interact with the Website through third-party social media platforms.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+It does not apply to information collected by:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using our Website, you agree to this policy and consent to our collection, use, disclosure, retention, and protection of your personal information as described in this policy. We may change this policy on one or more occasions. We will consider your continued use of the Website after we make changes as your acceptance of the changes, so please check the policy frequently for updates.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+**1.     Are minors welcome?**
 
-**Updating Your Information**
+Our Website is not intended for persons under 18-years old. You may access the Website or register only if (1) you are at least 18-years old and (2) have reached the age of majority where you live. We prohibit all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We do not knowingly collect any information about children, minors, or anyone under the age of majority. Nor do we knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, you must not submit information to us and must leave the Website. If we become aware that a child, minor, or anyone under 18-years old has registered with us and provided us with personal information, we will take steps to cancel that registration. If we do cancel a registration because you are under 18-years old, we may keep your email and IP address to make sure that you do not try to get around our rules by creating a new account.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In accordance with 47 U.S.C. § 230(d), we notify you that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which we provide for informational purposes only and do not endorse: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](http://www.netnanny.com/) | [CyberPatrol](http://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **2.     What types of information do we collect about you and how do we collect it?**
 
-      iii.      You may call us at: (480) 505-8800
+We may collect several types of information from and about users of our Website or service, including information:
 
-       iv.      You may fax us at: (480) 505-8844
+  * by which you may be personally identified, including your name, postal address, email address, telephone number, date of birth, or any other information that the Website collects that is defined as personal or personally identifiable information under law (“ ** _personal information_** ”);
+  * that is about you but individually does not identify you, including your age, gender, location, and any other optional information you provide about yourself; or
+  * about your Internet connection, the equipment you use to access our Website and usage details.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We collect this information:
 
-**Compliance with Laws and Law Enforcement**
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**_Information You Provide to Us_**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The information we collect on or through our Website may include:
 
-**Supplementation of Information**
+  * Information that you provide by filing in forms on our Website. This includes information provided at the time of registering to use our Website, purchasing services, or requesting further services. We may also ask you for information when you report a problem with our Website or service.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * Your search queries on the Website.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+You also may provide information to be published or displayed (“ ** _posted_** ”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “ ** _user contributions_** ”). Your user contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Therefore, we cannot and do not guarantee that your user contributions will not be viewed by unauthorized persons.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**_Information We Collect through Automatic Data Collection Technologies_**
 
-**Tell-A-Friend**
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and Internet connection, including your IP address, operating system, and browser type.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+The information we collect automatically is statistical data and does not include personal information, but we may keep it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by allowing us to:
 
-**Changes in Our Practices**
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, thus allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
+The technologies we use for this automatic data collection may include:
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+  * **_Cookies (or browser cookies)_**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. If you want to learn more about cookies, please see [allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+  * **_Flash Cookies_**. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+  * **_Web Beacons_**. Pages of our Website (and our emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please see [allaboutcookies.org/faqs/beacons.html](http://www.allaboutcookies.org/faqs/beacons.html).
 
-* * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+
+**_Third-party Use of Cookies and Other Tracking Technologies_**
+
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+
+**_Social Networks and Third-Party Plug-ins_**
+
+Our Website includes plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on our Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
+
+**3.    How do we use your information?**
+
+We may use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide through it.
+  * To allow you to participate in any interactive features on our Website.
+  * To monitor and analyze trends, usage, and activities in connection with the Website and for marketing or advertising purposes.
+  * To investigate and prevent fraudulent transactions, unauthorized access to the Website, and other illegal activities.
+  * To personalize the Website content, features, or advertisements.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, then please send us an email at [privacy@vrporn.com](mailto:privacy@vrporn.com). For more information, see **_What choices do you have about how we use and disclose your information_**.
+
+We may use the information we have collected from you to allow us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+If you have registered with one or more of our partner websites, including Facebook®, or you have verified your account through a partner website (if we offer this option), we may connect your account with your profile on that partner website. We may do this by way of new products and applications that we introduce on one or more occasions.
+
+**4.    With whom do we share your information?**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concerning or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see **_What choices do you have about how we use and disclose your information_**.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**5.    What choices do you have about how we use and disclose your information?**
+
+We strive to provide you with choices about the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **_Tracking Technologies and Advertising_**. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html). To learn how you can manage your other cookies, visit [allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/). If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.
+  * **_Disclosure of Your Information for Third-Party Advertising_**. If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by sending us an email stating your request to [privacy@vrporn.com](mailto:privacy@vrporn.com).
+  * **_Promotional Offers from Us_**. If you do not want to have your email address used by us to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by sending us an email stating your request to [privacy@vrporn.com](mailto:privacy@vrporn.com). If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions or click on the “unsubscribe” link at the bottom of the email. This opt out does not apply to information provided to us as a result of a service purchase or other transactions.
+  * **_Targeted Advertising_**. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always send us an email stating your request to [privacy@vrporn.com](mailto:privacy@vrporn.com). For this opt-out to function, you must have your browser set to accept browser cookies.
+
+
+
+We do not control third parties’ collection or use of your information to serve interest-based advertising. But these third parties may provide you with ways to choose not to have your information collected or used in this way.
+
+**6.    How do you access and correct your information?**
+
+You can review and change your personal information by logging into the Website and visiting your account profile page.
+
+You may also send us an email at [privacy@vrporn.com](mailto:privacy@vrporn.com) to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your user contributions from the Website, copies of your user contributions might remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Our terms of use govern proper access and use of information provided on the Website, including user contributions.
+
+**7.    How do we protect your personal information?**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. We encrypt any payment transactions using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website.
+
+Unfortunately, the transmission of information over the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+**8.    International Users**
+
+This policy is intended to cover collection of information on or through our Website from residents of the United States. If you are visiting our Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to make sure that your privacy is protected. By using our services, you acknowledge that your information may be transferred to our facilities and those third parties with whom we share it as described in this policy. When you provide personal information to us through the services, you consent to the processing of your data in, and the transfer of your data to, the United States or any other country in which we or our affiliates, subsidiaries, or service providers host these services.
+
+**9.    Do Not Track Policy**
+
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt-out. But we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information about DNT signals, you may visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+**10.    Your California Privacy Rights**
+
+California Civil Code § 1798.83 permits users of our Website that are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to [privacy@vrporn.com](mailto:privacy@vrporn.com).
+
+Further, if you are a California resident and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please contact us at [privacy@vrporn.com](mailto:privacy@vrporn.com). Please be advised that if you opt-out from permitting your personal information to be shared, you may still receive selected officers directly from us in accordance with California law.
+
+**11.    Links to Other Websites**
+
+The Website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of those other sites. We encourage our users to be aware when they leave our Website and to read the privacy statements of any other site that collects personally identifiable information.
+
+**12.    DMCA Takedown Requests**
+
+This Website complies with the Digital Millennium Copyright Act. If you reasonably believe your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions here <https://vrporn.com/dmcacopyright/> on how to report it.
+
+By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. We forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to us without any deletions.
+
+**13.    No Rights of Third Parties**
+
+This privacy policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website.
+
+**14.    Changes to Privacy Policy**
+
+We will post any changes we make to our privacy policy on this page. If we make material changes to how we treat your personal information, we will notify you by email to the email address identified in your account or through a notice on the Website homepage. This policy identifies when we last updated it at the top of the page. You are responsible for making sure we have an up-to-date active and deliverable email address for you, and for frequently visiting our Website and this policy to check for any changes.
+
+**15.    Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [privacy@vrporn.com](mailto:privacy@vrporn.com).
