@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversio.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514123250id_/https%3A//conversio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversio.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628232350id_/https%3A//conversio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversio - We Totally Understand
 
@@ -8,9 +8,18 @@
 
 This Statement sets out what the categories of personal data we may collect from you when you use the Service as well as how we process that personal data. By using any part of the Service or providing personal data to us, you consent to us processing personal data as set out in this Statement. We require you to ensure your customers agree to us processing their personal data in the manner described in this Statement as a condition of your Service use.
 
-If you have any questions about this Statement or do not agree with it, please contact us by clicking here before using the Website. We may amend this Statement from time to time, so you should check this page from time to time to ensure that you are aware of any changes that have been made.
+Conversio follows the following principles in order to protect your privacy:
 
-This Statement is effective from 2014–08–01.
+  * we do not collect more information than is necessary;
+  * we do not use your data for purposes other than those specified;
+  * we do not keep your data if it is no longer needed;
+  * we do not spread your data to third parties without your consent.
+
+
+
+If you have any questions about this Statement or do not agree with it, please contact us [by clicking here before](mailto:admin@conversio.com) using the Website. We may amend this Statement from time to time, so you should check this page from time to time to ensure that you are aware of any changes that have been made.
+
+This Statement is effective from 2014–08–01. Last updated on 2018-03-15.
 
 ### Incorporation by reference
 
@@ -53,6 +62,18 @@ You agree to this.
 When you use the Service, we automatically receive and records information from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. This information is stored in our server logs.
 
 We only use this data in aggregate form and we may provide this aggregate information to Conversio’s Associates about how you, our customers, collectively, use the Website, so that Conversio’s Associates may also understand how users make use of the Website.
+
+When you connect Conversio to your Ecommerce platform, we also automatically receive your historic customer and order data. This data is used to provide the service to you. We use your aggregate order volume to profile your account and determine the appropriate plan for your account.
+
+We use web beacons on our websites and in our emails. When we send emails to our users, we may track behavior such as who opened the emails and who clicked the links. This allows us to measure the performance of our email campaigns and to improve our features for specific segments of users. To do this, we include single pixel gifs, also called web beacons, in emails we send. Web beacons allow us to collect information about when you open the email, your IP address, your browser or email client type, and other similar details. We also include web beacons in the emails we deliver for you. We use the data from those web beacons to create reports about how your email campaign performed and what actions your customers took. Reports are also available to us when we send email to you, so we may collect and review that information.
+
+#### Data collected for and by our Users
+
+As you use our Service, you may import into our system Personal Information you have collected from your customers. We have no direct relationship with your customers or any person other than you, and for that reason, you are responsible for making sure you have the appropriate permission for us to collect and process information about those individuals. Consistent with the uses of Personal Information covered above, we may transfer Personal Information of you or your customers to companies that help us promote, provide, or support our Service. As part of our Service, we may use and incorporate into features information you have provided, we have collected from you, or we have collected about customers.
+
+If you are a customer and no longer want to be contacted by one of our users, please unsubscribe directly from that User\s newsletter or contact the User directly to update or delete your data. If you contact us, we may remove or update your information within a reasonable time and after providing notice to the User of your request.
+
+We will retain Personal Information we process on behalf of our Users for as long as needed to provide our Service or to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our agreements.
 
 ### Cookies
 
@@ -99,7 +120,17 @@ We will not pass personal data to 3rd Parties (other than on the basis set out i
 
 ### Accessing personal data
 
-If you think that any personal data we hold about you is incorrect or incomplete, please write to or e-mail us as soon as possible. We will take the necessary steps to ensure that personal data is corrected and/or updated.
+If you have any questions or comments, or if you want to update, delete, or change any Personal Information we hold, or you have a concern about the way in which we have handled any privacy matter, please use our contact form to send us a message. You may also contact us by email (details below).
+
+Conversio has a “Data Protection Officer” who is responsible for matters relating to privacy and data protection. The Data Protection Officer can be reached via this email address:
+
+Conversio  
+Attn. Data Protection Officer  
+admin@conversio.com
+
+### International Privacy Laws
+
+We are a UK corporation and all of your Personal Information, as well as the Personal Information of your customers, are stored on data servers within the EU. We only transfer to data servers outside of the EU if you consent to us transferring data to a 3rd Party.
 
 ### Supplementary glossary
 
@@ -108,3 +139,5 @@ If you think that any personal data we hold about you is incorrect or incomplete
 **“Statement”** means this privacy statement, as amended from time to time;
 
 **“Agreement”** means the Conversio Service Agreement located [here.](https://conversio.com/)
+
+**“Ecommerce platform”** means Shopify, WooCommerce or Bigcommerce depending on which you use.
