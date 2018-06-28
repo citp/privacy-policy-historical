@@ -1,103 +1,288 @@
-> *The following text is extracted and transformed from the telephonyonline.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020185325id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telephonyonline.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628024724id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Penton
+# Privacy Statement - Informa Engage
 
-Penton (also referred to in this Privacy Policy with the terms “we,” “us,” or “our”) is committed to protecting the privacy of all those who provide us with their contact information while using our websites, products, events, or services (“you” or “Users”). This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online and digital media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.  
-A current list of the Penton websites covered by this Privacy Policy (the “Sites”) can be found [here](https://web.archive.org/capabilities/listing/#capability=38&sector=all).
+Contents
 
-#### Information We Collect
+**Introduction**
 
-We may collect personally identifiable and/or anonymous information from you in the course of your use of our websites, products, events, or services (“Services”) as further described in this Privacy Policy. Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number. In some cases, you may provide information to us, and in others information about you or your activities on our Services may be automatically collected, as further described below.
+**About Informa Engage**
 
-#### Information You Provide
+**What we collect**
 
-We collect personally identifiable information that you provide to us when you subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters or promotions; enter a contest; participate in surveys; register for a website, webcast, mobile application, tradeshow or other online or in-person event; or otherwise communicate with us or interact with the Sites. We also may receive information about you from other sources and add it to the information you have provided to us.
+**How and why personal information is used**
 
-If you use a credit card to pay for a Penton product or service, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us.
+Lawful Processing in Europe
 
-Penton is not responsible for the information you volunteer about yourself in discussions in our forums or other publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the Penton business site where you registered.
+Product enquiries, sales and administration
 
-#### Information Collected Automatically and Our Uses of Such Information
+Marketing
 
-Like most website operators, we use cookies (small data files stored on your computer by your web browser upon visiting a website), web beacons, and similar technologies to operate our Services efficiently and as intended. Through such technologies we gather information about you, such as your browser type, operating system, IP address, mobile device identification number, the sites visited before and after our Site, and about your interactions with our Services, such as the time and date when you viewed a page, which advertisements you have clicked on, and whether you filled out an online form. You may set your browser to block all cookies, including Penton’s, while using our Services (in which case some aspects of the Services may not function properly), or you may set your browser to block third-party cookies and allow first-party cookies, which would allow us (but not third parties) to collect such information while you are on our Sites. In addition, some browsers may allow you to block certain web beacons and similar tracking codes. Please refer to your browser’s documentation if you wish to block some or all cookies, web beacons, and/or similar tools.
+Customer and Prospects Management including Analytics
 
-We use information gathered through these tools to improve the way our Sites work, for example by employing third-party analytics tools which aggregate anonymized user information to help us better design our Sites, and to enhance the functionality of our Services, for example by remembering preferences or other choices that you make, such as user names, language preferences, and the like. By allowing us to understand how you use our site over time, these tools can help us provide you with a better, more relevant online experience. In addition, we may work with third-party advertising companies to target and serve advertising you see on the Services or on third-party sites based on preferences gleaned from such information. For example, we work with a company called Bizo that may, based on your activities on our Sites and/or third party sites in Bizo’s network, serve ads for our or third-party products to you when you visit another site in Bizo’s network. You can review Bizo’s privacy policy at [http://www.bizo.com/privacy_policy](http://www.bizo.com/privacy-policy/), and can opt-out of Bizo-targeted advertising at <http://www.bizo.com/opt-out/>.
+Mobile Applications and Websites Analytics including Location Data
 
-#### Third-Party Cookies and Tracking Technologies
+Online membership communities
 
-Certain third parties may also employ cookies, web beacons, and/or similar technologies on our Services. Information collected through such third-party tools is gathered directly by such third party, not by Penton, and is subject to such third party’s applicable privacy policy. Penton has no control over such third-party tools. These third parties include but are not limited to analytics partners who help us better understand how our users are interacting with our Services and advertising, providers of widgets and other third-party applications that may appear in our Services, ad servers, ad networks, ad agencies, and advertisers. You may visit these third parties’ sites to learn more about their privacy practices. In addition, as noted above, you may set your browser to block third-party cookies. Finally, you may visit the industry websites described in the next section to learn more about the privacy practices of a wide range of ad networks and data companies and to exercise certain opt-out options made available there.
+Automated Decision-Making, Including Profiling
 
-#### Industry Websites Regarding Online Behavioral Advertising
+Compliance with our legal obligations
 
-Most of the third-party advertising and data companies with whom we work (including Bizo) are members of the Network Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”). NAI offers a tool which will allow you to opt-out of behavioral advertising by NAI members at <http://www.networkadvertising.org/choices/>, and the DAA offers a similar opt-out tool regarding behavioral advertising by its members at <http://www.aboutads.info/choices/>. Finally, the DAA manages its Self-Regulatory Program for Online Behavioral Advertising (“Self-Regulatory Program”); if you are served an ad by a third party that follows the Self-Regulatory Program, you may click on the Advertising Option Icon (the letter “i” in a blue triangle) or related phrases (e.g., “Why did I get this ad?,” “Interest Based Ads,” or “Ad Choices”) to learn more about applicable behavioral advertising practices and opt-out options.
+**How we protect personal information**
 
-#### How We Use Your Contact Information
+International transfer of personal information
 
-We may use your contact information to send you account notices, including subscription renewals or registration confirmation, and to provide you with information about products or services you’ve ordered or which we think may be of interest to you. We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about the Sites.
+Cookies
 
-We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to unsubscribe from that particular e-newsletter. Unsubscribing from one newsletter will not affect delivery of other newsletters.
+Third Party Links
 
-In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt-out of receiving future third party offers.
+**Who we share personal information with**
 
-All promotional and research email messages you receive from us will include an option to opt-out of future email communications from that particular Penton brand.
+**How long information is kept**
 
-#### Information We Share with Third Parties
+**How to update your information and marketing preferences**
 
-We may provide personally identifiable information to those acting as our agents in providing our products and services, including third-party companies we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt-out lists to those third-party companies so that they can be suppressed from the communications those companies send on Penton’s behalf.
+**Your rights**
 
-From time to time our sponsors wish to contact our subscribers and customers who have indicated an interest in the products, services or events provided by such sponsors. If you register for products or services offered by such sponsors or third parties, or for events sponsored in whole or in part by a third party, or otherwise opt-in to permit us to share your personally identifiable information, then you may receive communications directly from such third parties. If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies and we urge you to read those policies and be aware of their privacy practices before registering.
+**Contact Us**
 
-In addition, we may share your contact information with sponsors who appear in a particular e-newsletter of ours if you click on their link in the e-newsletter. If you do NOT wish to have your email address shared with that e-newsletter’s sponsors, you will be given an opportunity within the e-newsletter to opt-out.
+## **Introduction**
 
-Penton also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifiable information.
+As an international Business-to -Business Information Services Group, data and information is at the heart of what Informa does.
 
-#### Content Quality Control
+We take the privacy and protection of data and information seriously, and are committed to handling the personal information of all those we engage with, whether customers, suppliers, colleagues or any other community, responsibly and in a way that meets the legal requirements of the countries in which we operate.
 
-Penton uses a third party to monitor user-generated content posted on our websites. When you submit a comment on a Penton website, our third-party service provider, Mollom BVBA (“Mollom”), may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <https://mollom.com/web-service-privacy-policy>.
+As part of using the Informa’s products and services, browsing our websites and contacting the business, data and information is collected. This privacy policy (the “Privacy Policy”) sets out Informa’s approach to safeguarding and maintaining the privacy of that personal information, and explains what data is collected, how it is used, the legal basis for its use, and the rights individuals have over that data.
 
-#### Information Transfer
+**About Informa  
+**Informa is an international Business-to-Business Information Services Group, operating in over 20 countries. We serve commercial, professional and academic communities by helping them connect and learn, and by creating and providing access to content and intelligence that helps people and businesses work smarter and make better decisions faster.
 
-Penton is based in the United States of America. Any information you provide may be stored and maintained in a secure database in the United States or transferred to a secure database outside the United States. By providing us with your information, you consent to this transfer.
+  * Informa is organised into four Operating Divisions; Academic Publishing (which trades as the Taylor & Francis Group), Business Intelligence (where Informa Media Inc and Informa Business Media Inc (which trades as “Informa Engage”), Global Exhibitions and Knowledge & Networking (which trades as KNect365)
 
-In the case of a change of ownership or a merger involving Penton or any business that is part of Penton, your contact information associated with that business would be one of those transferred assets. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission.
 
-#### How We Keep Your Information Secure
 
-We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration.
+## **About Informa Engage**
 
-When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.
+**Informa Engage  connects marketers with B2B decision makers.  By combining unrivaled reach, deep knowledge of specialist markets and sophisticated marketing, we engage buyers – activating real results for marketers.**
 
-Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+This privacy policy is issued on behalf of Informa Engage. Where “Informa Engage ”, I”, “we”, “us” or “our” appears in this privacy policy, it includes the relevant Informa Engage brand/product processing your data.
 
-#### Children’s Privacy
+This Privacy Policy explains how Informa Engage collects, uses and protects your personal information to provide you access to our content, and information services.
 
-Penton’s Sites are not intended for use by children, especially those under the age of 13. No one under the age of 13 should provide any personal information or participate in any forums, chats, or online discussions. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. Please discourage your children from providing any personal information about themselves to anyone in any public discussion areas.
+## **What we collect**
 
-#### California Privacy Rights
+**This section explains the personal information that may be collected when using our products and services, and the other personal data we may receive from other sources.**
 
-Under California Law, California residents have the right to request certain information from businesses with whom they have an established business relationship. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request the above information in relation to any of the Sites, please contact us via email addressed to [privacy@penton.com](mailto:privacy@penton.com) or write to us at: Penton, Attn: Customer Service – Privacy, 9800 Metcalf Avenue, Overland Park, KS 66212, with a reference to California Disclosure Information. We will respond to such requests to information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+In this Privacy Policy, the term “personal information” refers to the types of information we may collect and use, which includes:
 
-#### Changes to this Privacy Policy
+  * Contact details, such as your full name, e-mail address, postal address and telephone number;
+  * Educational, nationality and professional background information;
+  * Usernames and passwords;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback, posts and other content submitted;
+  * Interests and communication preferences including marketing permissions where appropriate; and
+  * Location information (e.g. through mobile apps).
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of your personal information, we will attempt to notify you by email of the change. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personal information we collect. If you continue to use our site or services after we have attempted to contact you about material changes to the Privacy Policy, we will assume that you agree to the changes.
 
-#### Terms of Use
 
-By using any of our Sites, you consent to our use of your contact information as it is outlined in this Privacy Policy.
+We collect and use your personal information in the following main categories:
 
-Penton reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and court orders, or to investigate alleged fraud or violations of the Terms of Use of Penton’s Sites.
+  * As customer / consumer data, related to transactions, prospective sales or analytics;
+  * As contact data, which includes academic and corporate customer contact data such as details of account manager / key contact at corporate customers, and subscriber / user data;
+  * In connection to an event, for instance exhibition or conference visitors, exhibitors, speakers, and attendee data;
+  * Product / intelligence data, collected through customer and market research surveys;
 
-All users, including those users who access the Sites from a country other than the U.S., agree that the laws of the State of New York shall govern any dispute, including those arising from Penton’s use of personal information or otherwise relating to privacy.
 
-#### How to Reach Us
 
-If you wish to update your print magazine subscription contact information, please go to the magazine’s home page. If you wish to opt-out of receiving email, faxes, or phone calls from any Penton business, please send an email to [privacy@penton.com](mailto:privacy@penton.com) or write/call us at:
+**Sensitive personal data  
+**If collecting or storing sensitive personal data such as information relating to health, beliefs or political affiliation, we typically ask for your explicit consent. However, there are some situations where it will not be possible to request consent, such as if you have an accident at one of our events. If this does occur, we will ensure your privacy rights are protected.
 
-**Penton Customer Service**  
-9800 Metcalf Avenue  
-Overland Park, KS 66212  
-Phone: 913-967-1710
+**Children’s personal data  
+**Our services and products are directed to academics and business professionals. They are not intended for children under the age of 13 and we do not knowingly collect personal data from this age group. If any information is collected from a child under the age of 13 without verification of parental consent, it will be deleted.
 
-* * * * * *
+## **How and why personal information is used**
 
-This Agreement was last updated on May 6, 2013
+**This section explains in detail how and why we use personal information.**
+
+### **Lawful Processing in Europe**
+
+Informa Engage  collects and uses personal information. The lawful bases we use for this activity in Europe, as required under European data protection laws, are:
+
+  * Where it is necessary for entering into or performing a contract with you
+  * Where we have a legitimateinterest to do so, provided your rights do not override theseinterests
+  * Where you have consented to its use
+  * Where our colleagues believe it is in your vital interests to share your personal details, for example with emergency services
+  * Where required to comply with our legal obligation
+
+
+
+### **Product enquiries, sales and administration**
+
+As part of a purchase, product enquiry, request for information and for account administration, we collect information such as your name, country, job title, company information or academic affiliation, postal address, e-mail address and telephone number.
+
+If you have made an enquiry about us or our products or services, either online or over the phone, we will use your personal information to respond to the enquiry or to take other steps at your request, before you enter into a contract. For example, we collect the e-mail addresses and additional contact details of those who send e-mails to request information. Where a sales representative speaks to you over the phone, the calls are recorded for training and monitoring purposes only.
+
+If you have registered for or purchased a product or services, including on a trial basis, your personal information will be used to provide that product or service, communicate about it and handle payments, as is necessary for the performance of the contract entered into with us.
+
+For purchases, payment information, including credit/debit card number/bank details and billing addresses are also collected.Where payment card processors are used to facilitate payment card transactions on our websites, your data will be collected and used according to that data processors’ privacy policy.
+
+If your personal information is relevant to certain products and is freely available through public sources, such as on a website related to your work or profession, we may use this personal information for providing customers with our products, as is necessary for the purposes of our legitimate interests as a commercial organisation.
+
+### **Marketing**
+
+We will use your personal information to send you newsletters, offers or other marketing emails that keep you up to date with news, events, products and research opportunities, from Informa Engage and other companies that may be of interest. Depending on the nature of your interaction with us and the laws of the country where you live, you may have actively given us your consent for this, by opting in, or we may be entitled to rely on your implied consent or our legitimate interests. The opportunity to opt out of future marketing emails will always be provided, and information on how to do this given when your personal information is collected and on every marketing email sent.
+
+**Sponsors and Gated Resources  
+**From time to time Informa Engage sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. If you register for or access services offered by these sponsors, you choose to share your name and contact details directly with those sponsors so that they may contact you. For example, if you register for a sponsor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that sponsor for its own use. We may also keep a copy of that data for our own use, consistent with this privacy policy. We may provide a link to the sponsor’s privacy policy as well as to this policy on the registration page.
+
+Similarly, if you access third-party resources in certain registration-only, or “gated”websites, resource centers, or directory services on our websites, we may share your registration information when you access or click on a link to technical resources provided or sponsored by another company. This includes third-party resources sold through our online stores. In addition, we may share your contact information with sponsors of a particular e-newsletter if you click on their information. If you do not wish to have your information shared, the opportunity to opt-out is provided in the e-newsletter.
+
+When you register for an in-person or digital event, your registration information is provided to the sponsor(s) of such event. This information may also be provided to sponsors of special sessions within the larger event.
+
+If you want to know how a sponsor or advertiser will use your data, please review their particular privacy policy. As noted above, your registration for and log-on to any of the above services constitutes your consent to be contacted by any sponsors selected. The sponsor’s or advertiser’s privacy policies explain their use of your information.
+
+### 
+
+### **Customer and Prospects Management including Analytics**
+
+We may use your personal information, combined with publicly available data and demographic data,to maintain our customer database and carry out internal analysis of the usage of our products and services. This is done to improve those services, develop new products and predict future customer behavior, as part of our legitimate interests as a commercial organisation. This may include automated profiling and campaign management techniques.
+
+### **Mobile Applications and Websites Analytics including Location Data**
+
+We may combine visitor session information, or other information collected through tracking technologies, with personally identifiable information in order to understand and measure your online experience and determine what products, promotions and services are likely to be of interest.
+
+Technical methods are also used in HTML e-mails sent to visitors, for purposes including: (i) to determine whether visitors have opened or forwarded e-mails and/or clicked on links in those e-mails, (ii) to customise the display of banner advertisements and other messages after closing an e-mail, and (iii) to determine whether a visitor has made an enquiry or a purchase in response to a particular e-mail.
+
+In compliance with the California Online Privacy Protection Act (CalOPPA) (e.g.: Browsers Do Not Track Signals) while we strive to offer you choice when using our website and mobile applications, we do not promise that we will be able to receive or honor web browser Do Not Track signals.
+
+### **Online membership communities**
+
+You may choose to participate in online membership communities on our sites that allow you to create and publish a profile and other personal information. These communities may provide privacy controls that allow choice in how much of your profile and other information to make public or to share with others within the community.
+
+Privacy controls are usually found on the page on which you edit your profile, and each individual is responsible for understanding how those controls work, including default settings, and choosing how the information provided is shared and protected.  By participating in these online membership communities you may be contacted by other participants using the information provided.
+
+When you disclose personal information on any public community boards or chat areas of this website, or any other website used as a result of use of this website, such personal information can be collected and used by anyone who views that board or area. This may result in unsolicited messages from other participants or other parties, outside of our control or responsibility.
+
+### ** ** **Automated Decision-Making, Including Profiling**
+
+We use algorithm-based technologies to personalise dynamic web content based on your explicit and/or implicit interests. We carry out general profiling such as segmentation, non-automated and automated decision-making based on profiling for the purpose of providing you with a more relevant experience and for the purposes of our legitimate interests as a commercial organisation. Automated decision making is never used in any way that produces a legal or similarly significant effect.
+
+Depending on the laws of the country where you live, you may have rights related to our decision.  For example, if you live in the European Union, you may have the right not to be subject to our decision, or you may have the right to insist on human intervention in the process, express your point of view or contest the decision. To exercise any such right, please contact us via one of the methods set out in the “Contact Us” section below. In some cases, we may have the right to continue with our decision, in accordance with applicable laws. This will be explained if it is the case. Otherwise, we will respond to your request as promptly as reasonably possible.
+
+### **Compliance with our legal obligations**
+
+To ensure compliance with international trade sanction laws and regulations, we screen customers, vendors and suppliers against US, OFAC, BIS, UN, EU and UK sanctions lists. Should any screening check flag an issue where we cannot continue in a contract with a customer or supplier, they will always be informed.
+
+## **How we protect personal information**
+
+**Any personal information given to us will be treated with the utmost care and security.** **This section sets out some of the security measures in place.** **  **
+
+A variety of physical and technical measures is used to keep data safe and prevent unauthorised access to, or use or disclosure of personal information.
+
+Electronic data and databases are stored on secure computer systems and we control who has access to information, using both physical and electronic means. Our colleagues receive data protection training, and we have detailed security and data protection policies that colleagues are required to follow when handling personal data.
+
+All reasonable steps are taken to ensure that your personal information is kept secure from unauthorised access, but we cannot guarantee it will be secure during the transmission process to this website because this transmission is not controlled by us. We make use of HTTPS (HTTP Secure) whereby the communication protocol is encrypted via Transport Layer Security for secure communication over a computer network. The website is loaded via HTTPS, represented by the lock icon in your web browser, which ensures the transmission is secure and is demonstrated by a certificate issued by an official security certificate authority to us.
+
+### **International transfer of personal information**
+
+As an international business and because of the technologies we use, personal information may be accessed by our colleagues and third-party service providers from locations outside of the European Economic Area, whose data protection laws may not be as extensive as those in Europe.
+
+To ensure the same level of protection is in place when processing is conducted outside the European Economic Area, we use appropriate safeguards approved by the European Commission.
+
+We apply appropriate protection to make sure your personal data remains adequately protected and is treated in line with this Policy. Informa Engage has put in place international data transfer agreements between its companies and with relevant third-party service providers based on standard contractual clauses approved by the European Commission.
+
+### **Cookies**
+
+A cookie is a small text file containing a user ID that is automatically placed on a user’s computer or other device when visiting a website. Cookies record the pages visited and the actions taken on a website, but do not contain any personal information. From time to time, we may use cookies for purposes including administering the Website; tracking your activity on the Website; gathering broad demographic information for aggregate use to improve the Website; and offering time-saving or personalized features on the Website. For more information, please visitthe Cookie Policy for the site you are using, which can be found in the website footer.
+
+### **Third Party Links**
+
+This website contains links to websites of other businesses, including potentially websites of other businesses within Informa. These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate, and if following those links, we recommend reviewing the privacy policy of each website to understand how personal data is used in that instance. The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices, nor do we accept any liability in connection with the content on such websites.
+
+These third-party product providers may share your information with us, which we will use in accordance with this policy. In some cases, they will be acting as a controller of your information and therefore we advise you to read their privacy policy.
+
+## **Who we share personal information with**
+
+**As an international company, to provide you with services and products we may share your information for specific reasons. This section explains how and why we share personal data with other companies within the Informa Group , our suppliers, and other third parties.**
+
+** ** **Sharing with Informa Group companies**  
+We may share your personal information with certain other companies within Informa for specific purposes.  For example, other Informa companies may assist us in providing products and services to you, in carrying out internal analysis of the usage of products and services, or in offering products and services which may be of interest.
+
+**Sharing with Service Providers**  
+We may share your personal information with the following types of third parties, to assist us in providing products and services to you:
+
+  * Email marketing providers
+  * Web hosting providers
+  * Customer service providers
+  * Researchers
+  * Analytics providers
+  * Content platform providers
+  * Event collaboration partners
+
+
+
+We only share your personal information with such third parties, if and to the extent necessary for them to provide such assistance.
+
+**Sharing with other Organisations**  
+We may share your personal information with trusted partner organisations for their marketing purposes, in accordance with local data laws and where appropriate your consent.  If your personal information is subject to European data protection laws, we will not share it with third parties for their marketing purposes, unless you have actively given us your consent to do this.
+
+We may also share your personal information with third parties in the event of a sale, merger, acquisition, partnership, joint venture, or negotiations related to the same with respect to all or part of our business.
+
+In some circumstances, we may be legally required to disclose your personal information, because a court, the police, another judicial or law enforcement body, or government entity has asked us for it.
+
+## **How long information is kept**
+
+**We will only retain your personal information for as long as is necessary and as permitted by applicable laws.   **
+
+We will retain your personal information while we are using it, as described in the section above, and may continue to retain it after these uses have ended where we have a legitimate business purpose. For example, if you have opted out of marketing communications from us, we will retain limited details about you to ensure we can honor your opt-out request. We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights.
+
+Personal information will only be retained for as long as is necessary and as permitted by applicable laws. The length of time for which we will retain your personal information will depend on the purposes for which we need to retain it. After we no longer need to retain your personal information, it will be deleted or securely destroyed.
+
+## **How to update your information and marketing preferences**
+
+**We want to ensure you remain in control of your personal information. We try to ensure that the personal information held about you is accurate and up-to-date, and will always give the opportunity to opt out of future marketing communications.**
+
+We will process your data to send marketing information that we believe is targeted and of interest to you. If you are a registered user, you can access your account information and make corrections or updates upon log-in.  The accuracy of such information is solely your responsibility.
+
+Information on how to opt out will be given when your personal information is collected and specified on every marketing email sent. You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Informa Engage has a number of brands and products and we allow you to opt-out selectively.  To remove a specific email address from all of Informa’s marketing communications, send a request to [privacy@informa.com](mailto:privacy@informa.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand, or contact the brand directly.
+
+You may receive email marketing messages from us about other companies’offerings as part of a business partner marketing program. To opt-out of a business partner marketing email program, follow the instructions at the bottom of any email sent as part of the program. Please note that opting-out of promotional mailings will not affect delivery of your subscription-based products.
+
+To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during or in those communications.  To remove a specific phone/fax number from all of Informa’s marketing communications, send a request to [privacy@informa.com](mailto:privacy@informa.com).
+
+## **Your rights**
+
+**Informa  Engage operates in countries with data protection laws that may provide individuals the right to be able to access and control their information. We always will enable you to be able to exercise the rights provided by data protection laws.**
+
+EU data protection laws give individuals a number of rights, where their data and information is collected and used by companies that are active and operating in Europe. Under the General Data Protection Regulation, these are:
+
+  * The right to confirmation whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold. This is known as subject access request;
+  * The right to have inaccurate data rectified;
+  * The right to have your data erased. This does not however apply where it is necessary for us to continue to use the data for a lawful reason;
+  * The right to request the restriction or suppression of their personal data, such as, we will stop using the data but we may continue storing it)
+  * The right to obtain your personal data that you have provided to us, on the basis of consent or performance of a contract, and where technically feasible, transmitted in a common electronic format to you or directly to another company.
+  * The right to object to the use of your data. Specifically, you have the right to object to our use for marketing and in relation to automated decision making, including profiling where there may be legal or similarly significant effects.
+
+
+
+There are exceptions to the rights above. Where you make a request to us as part of these rights, we will always try to respond to your satisfaction, although there may be situations where we are unable to do so.
+
+Depending on the laws of the country where you live, you may have other rights in respect of your personal information. If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in the Contact Us section below.
+
+In some cases, we may be entitled to decline a request you have made regarding your personal information, in accordance with application laws. We will explain if that is the case. Otherwise, we will meet your request as promptly as we reasonably can. If you have requested that we stop sending you marketing messages, please note that you may still receive them for a short period while the request is processed.
+
+If you would like further information on your rights or wish to exercise them, please write to our Group Data Protection Officer at Informa, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+
+**If you have any questions about this Privacy Policy, contact our Group Data Protection Officer**
+
+If you would like further information on your rights or wish to exercise them, please email, [privacy@informa.com](mailto:privacy@informa.com) or write/call us at: Informa Customer Service, 9800 Metcalf Avenue Overland Park, KS 66212, Phone: 913-967-1710.
+
+You can also contact Informa’s Group Data Protection Officer at Informa, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+
+We hope to resolve any privacy concerns you may have.
+
+**Changes to Privacy Policy**
+
+In order to keep up with changing legislation, best practice and changes in how we process personal data, we may revise this Privacy Policy at any time and without notice by posting a revised version on this website. Checking back periodically will mean you are aware of any changes. This Privacy Policy should be read in conjunction with the website’s Terms and is also subject to these Terms.
+
+This Privacy Policy was last updated on May 23, 2018.
