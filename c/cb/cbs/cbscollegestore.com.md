@@ -1,93 +1,71 @@
-> *The following text is extracted and transformed from the cbscollegestore.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628173612id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbscollegestore.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628235102id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# CBS Interactive Privacy Policy Highlights
+# CBS Interactive Privacy Policy Highlights :: CBS Interactive
 
-**Scope of Privacy Policy**
+CBS Interactive is committed to protecting your privacy. To view our full Privacy Policy click [here](https://web.archive.org/legal/cbsi/privacy-policy). 
 
-| 
+##### Privacy Policy Scope
 
-**Information Collected**  
-  
-CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw== "CBS Interactive Privacy Policy") (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective July 5, 2011, is guided by a core set of [Privacy Principles](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1266/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw== "Privacy Principles") and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
+CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy) (collectively "CBS Interactive Services"). This Privacy Policy describes, among other things, the types of information collected about you when you visit the CBS Interactive Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
-» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw==#Full01Scope "Read more")
+ 
 
-| 
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Scope_of_Privacy_Policy)
+
+##### Information Collected
 
 We collect a variety of information about you, including:
 
-• Information you provide directly to a CBS Interactive Web Site.
+  * Information you provide directly to CBS Interactive Services.
+  * Information about your computer and browsing activities on the Services, including through [cookies, web beacons, and other similar technologies](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons).
+  * Information about you from other sources where permitted by law.
 
-• Information about your computer and browsing activities on the Web Sites, including through [cookies, web beacons, and other technologies](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1267/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw== "cookies, web beacons, and other technologies").
 
-• Information about you from other sources where permitted by law.
 
-» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw==#Full02Collection "Read more")  
-  
-**Use of Information**
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Information_Collected)
 
-| 
+##### Use of Information
 
-**Disclosure of Information**  
-  
 We use the information we collect to:
 
-• Provide the services you request.
+  * Provide the services you request.
+  * Tell you about offers we think you will value.
+  * Customize the content and advertising you see.
+  * Improve your experience on CBS Interactive Services.
+  * As otherwise described to you at the point of collection or with your consent.
 
-• Tell you about offers we think you will value.
+ 
 
-• Customize the content and advertising you see.
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Use_of_Information)
 
-• Improve your experience on CBS Interactive Web Sites.
-
-• As otherwise described to you at the point of collection or with your consent.
-
-» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw==#Full03Use "Read more")
-
-| 
+##### Disclosure of Information
 
 We may share your information:
 
-• Where we have obtained your consent.
+  * Where we have obtained your consent, including with video content and social networking services as described in our [Video Services Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking).
+  * With our third party service providers.
+  * With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Service.
+  * Within the family of [CBS Interactive Services](https://web.archive.org/brands) and [other CBS businesses](http://www.cbscorporation.com/our-portfolio).
+  * If a CBS Interactive Service is sold to another company.
+  * To protect or defend the rights of CBS Interactive or our users.
+  * When required by law or public authorities.
 
-• With our third-party service providers.
 
-• With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Web Site.
 
-• Within the family of CBS Interactive Web Sites and other CBS businesses.
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Disclosure_of_Information)
 
-• If a CBS Interactive Web Site is sold to another company.
+##### How to Contact Us
 
-• To protect or defend the rights of CBS Interactive or our users.
+If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](https://web.archive.org/legal/cbsi/contact-us/pp) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
 
-• When required by law or public authorities.
+CBS Interactive Inc. 235 Second Street San Francisco, CA 94105 USA Attn: Legal Department 
 
-» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw==#Full04Disclosure "Read more")  
-  
-**Your Choices**
+We are committed to working with you to obtain a fair resolution of any privacy concern.
 
-| 
+##### California Privacy Rights
 
-**Other Information**  
-  
-• If you choose to share contact information with us, you will have the opportunity to update that information.
+Residents of the State of California may request a list of all third parties to which a CBS Interactive Services has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please [contact us](https://web.archive.org/legal/cbsi/privacy-policy/contact-info). For all requests, you must put the statement "Your California Privacy Rights" in the subject field of your request and include the name of the CBS Interactive Services with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. For additional information for residents of the State of California, [click here](https://web.archive.org/legal/cbsi/privacy-policy/california). 
 
-• You can stop the delivery of commercial email messages from a CBS Interactive Web Site or service by following the instructions in any such email you receive.
+##### EU Data Subject Rights
 
-• You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [third-party online advertising](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw== "third-party online advertising").
-
-• You also may choose to opt out of our use of data that we collect about your visits to our business partners’ sites to customize advertising that we serve. To opt out, visit the [CBS Interactive Business Partner Advertising Opt-Out](http://www.cbsinteractive.com/optout/setOptOut.php) page.
-
-» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw==#Full05Choices "Read more")
-
-| 
-
-• CBS Interactive is committed to working with you to obtain a fair resolution of any privacy concern.
-
-• We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
-
-• For more information about our privacy practices, please review the full [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268/session/L2F2LzEvdGltZS8xMzQwOTA0OTc3L3NpZC9YRm81blBfaw== "CBS Interactive Privacy Policy").  
-  
-**How to Contact Us**  
-  
-If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](http://cbsiprivacy.custhelp.com/app/ask).
+The EU General Data Protection Regulation (GDPR) provides certain rights for EU data subjects. For additional information for residents of the EU, [click here](https://web.archive.org/legal/cbsi/privacy-policy/eu).
