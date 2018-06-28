@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104050858id_/https%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628163958id_/https%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LoginRadius
+# Privacy Policy | Cloud Identity Platform
 
 #### Introduction
 
@@ -51,7 +51,21 @@ LoginRadius does not share, sell, or rent your information to any third party we
 
 Any personal data you provide us is securely stored in a database which only a few authorized employees can access. The server holding your personal data is protected against unauthorized physical as well as electronic access. These measures include an electronic firewall and various other protection measures that involve virus scanning, installation of security patches, vulnerability testing, backup, recovery planning, employee training, security audits, and other steps designed to constantly improve the data protection procedures. The server is not directly connected to the internet and data is therefore available only to authorized computers. However, LoginRadius cannot assure full security as it is not possible to make a system 100% secure in practice.
 
+#### EU-US and Swiss-US Privacy Shield
+
+LoginRadius complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. LoginRadius has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. This also applies to the personal information gathered from our prospect and current employees who are citizens of European Union and Switzerland. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, LoginRadius commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should direct any inquiries or complaints concerning our Privacy Shield compliance to legal@loginradius.com. LoginRadius will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), which provides an independent third-party dispute resolution body based in the United States, [here](http://go.adr.org/privacyshield.html). ICDR/AAA has committed to respond to complaints and to provide appropriate recourse at no cost to you.
+
+LoginRadius responsibility includes processing of received personal data, under each Privacy Shield Framework, and transfer it to designated third party agent acting on our behalf. LoginRadius is compliant with the Privacy Shield Principles for transfer of personal data from the EU and Switzerland, including liability provision for the same. Personal data received or transferred pursuant to privacy shield frameworks, LoginRadius will abide by the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+For complaints from EU and Swiss data subjects that cannot be resolved with LoginRadius directly, LoginRadius has committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC). If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs and the Swiss FDPIC for more information or to file a complaint.
+
+In case of lawful requests by public authorities or law enforcement or national security, LoginRadius may disclose personal data as required. You can invoke binding arbitration as outlined on [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>] if other dispute resolution procedures are exhausted.
+
 #### Your Rights
+
+We offer you choices regarding the data collection, use, and sharing of your personal information. We will periodically send you newsletters and emails that directly promote the use of our site or the purchase of our services. When you receive newsletters from us, you may indicate a preference to stop receiving further communications and you will have the opportunity to ‘opt-out’ by following the unsubscribe instructions provided in the email or by contacting us directly (using the contact information below). Despite your indicated email preferences, we may send you notices of any updates to our privacy policy or system alert/billing messages.
 
 You can ask us to correct and, where relevant, erase your information. Please note that certain Personal Information may need to be retained by LoginRadius for a period of time following cancellation of your account. This is necessary for legitimate business purposes and required or authorized by applicable law. As mentioned above you have a right to change your Personal Information at any time by logging into your LoginRadius dashboard or by sending us an email.
 
@@ -65,11 +79,15 @@ We may update this Privacy Policy by posting a new version on our website. If we
 
 #### Contact and Questions
 
-If you have any questions about this Privacy Policy, please contact:   
-Email: privacy [at] loginradius [dot] com
+If you have any questions about this Privacy Policy,  
+please contact our email at: [privacy@loginradius.com](mailto:%20privacy@loginradius.com)
 
-Address: General Counsel,   
-c/o LoginRadius Inc.   
-200 - 1281 W Georgia Street   
-Vancouver BC   
+#### Additional Terms of Service
+
+If you are a customer of LoginRadius, your use of the LoginRadius Service is subject to LoginRadius Terms of Service, available at [www.loginradius.com/terms](https://www.loginradius.com/terms)
+
+Address: General Counsel,  
+c/o LoginRadius Inc.  
+500 - 1281 W Georgia Street  
+Vancouver BC  
 Canada V6E 3J7
