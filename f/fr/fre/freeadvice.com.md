@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005224945id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628144150id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
-_Last Updated February 3, 2017_
+We may change this Privacy Policy from time to time. If we make any changes, we will revise the Last Updated date at the top of this page. We encourage you to review our Privacy Policy whenever you access our Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
-This Privacy Policy discloses the privacy practices for FreeAdvice.com, ExpertPages.com, AttorneyPages.com, SeniorCareAdvice.com and other websites (each known as a “Site” and collectively as the “Sites”) and applications and services (all collectively referred to as the “Services”), owned and/or operated by Advice Company (a California corporation), and/or AdviceCo Ventures Company (a Delaware corporation) and/or their affiliates, which shall individually and collectively be referred to as “AdviceCo,” “us,” or “we” and to any other Sites and Services that display this notice.
-
-Certain Services may have additional terms and conditions as part of their Privacy Policy, and such additional terms and conditions shall also apply to such Services, except to the extent they are inconsistent with these terms and conditions.
-
-**The Services may contain links to other websites or applications for your convenience and information. We are not responsible for the privacy practices or the content of those sites or applications.**
+ **The Services may contain links to other websites or applications for your convenience and information. We are not responsible for the privacy practices or the content of those sites or applications.**
 
 This Privacy Policy covers:
 
@@ -26,6 +22,8 @@ This Privacy Policy covers:
 
 • Is my information protected?
 
+• Account Information and Retention
+
 • Compliance with Legal Process
 
 • Children's Guidelines
@@ -36,7 +34,7 @@ This Privacy Policy covers:
 
 ### **WHAT INFORMATION DO WE GATHER ABOUT YOU?**
 
-The information gathered when you interact with the Services falls into two categories: 1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our Sites, enter a contest, or provide your email address and 2) Non-personal information collected through technology, which includes tracking information collected by us as well as third parties.
+The information gathered when you interact with the Services falls into two categories: 1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our Sites, enter a contest, or provide your email address, and 2) Non-personal information that is collected through technology, which includes tracking information collected by us as well as third parties.
 
 **_Personal Information That You Give Us or Ask a Third Party to Share with Us_**
 
@@ -44,11 +42,11 @@ The information gathered when you interact with the Services falls into two cate
 
 Registration for one or more of the Services may require that you supply certain personal information, including a unique email address and demographic information (such as ZIP code, age, sex, job industry or job title) to register.
 
-In some instances, you may register or enhance your profile by linking certain of your external accounts (such as your Facebook, LinkedIn or Google accounts) to one or more of our Services. By doing that, you are asking them to send us certain information from those social media and other accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can unlink your social media accounts or control what they share from their privacy controls.
+In some instances, you may register or enhance your profile by linking certain of your external accounts (such as your Facebook, LinkedIn or Google accounts) to one or more of our Services. By doing that, you are asking those external accounts to send us certain information from those social media and other accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can unlink your social media accounts or control what they share from their privacy controls.
 
 Social media registration features may collect your IP address, the page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on one of our Sites.
 
-You can disassociate your AdviceCo registration from third-party accounts any time. For more detail, please email us at [admin@adviceco.com](mailto:admin@adviceco.com) for a copy of our Social Media FAQs.
+You can disassociate your AdviceCo registration from third-party accounts any time. For more detail, please email us at admin@adviceco.com for a copy of our Social Media FAQs.
 
 **Billing and Credit Card Information**
 
@@ -56,7 +54,7 @@ To enable payment and donations for certain Services, we may collect and store y
 
 **User Generated Content and Public Activities (Including Comments and Reviews)**
 
-We offer you opportunities to engage in public activities on AdviceCo Sites and Services. "Public Activities" are any actions you take on one or more of our Sites and/or Services that are designed to be visible to other users, including comments, recommendations, reviews, ratings or any other items that you submit. Any information you disclose in your Public Activities, along with your screen name or ID, or any image or photo, becomes public and may be used by AdviceCo or its designees for online and offline promotional or commercial uses in any and all media. If you choose to engage in Public Activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personal information you choose to submit in the course of your Public Activities and we have no responsibility to publish, take down, remove or edit any of your Public Activities or Submissions. For more information, please read the Forums, Discussions and User Generated Content section of the [Terms of Service](https://www.freeadvice.com/resources/conditionsnew.htm).
+We offer you opportunities to engage in public activities on AdviceCo Sites and Services. "Public Activities" are any actions you take on one or more of our Sites and/or Services that are designed to be visible to other users, including comments, recommendations, reviews, ratings or any other items that you submit. Any information you disclose in your Public Activities, along with your screen name or ID, or any image or photo, becomes public and may be used by AdviceCo or its designees for online and offline promotional or commercial uses in any and all media. If you choose to engage in Public Activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personal information you choose to submit in the course of your Public Activities and we have no responsibility to publish, take down, remove or edit any of your Public Activities or Submissions. For more information, please read the Forums, Discussions and User Generated Content section of the [Terms of Service](https://www.freeadvice.com/resources/conditionsnew.htm).
 
 Public Activities may be included in our RSS feeds, APIs and other distribution formats. As a result, your Public Activities may appear on other websites, blogs, or feeds. We are not responsible for any personal information you choose to make public via your Public Activities, and you agree that such sharing will be deemed to have been done by you, not by us or our agents.
 
@@ -66,9 +64,9 @@ When you share or recommend links to content on a third-party platform (such as 
 
 We collect personal information from you when you participate in sweepstakes, contests or special offers. If this information is also being collected by a third party, we normally will reflect that at the same time. If you do not want any personal information shared, you should not participate in the sweepstakes, contest or special offer.
 
-**Surveys, Panels and Market Research**
+**Surveys, Polls, Panels and Market Research**
 
-We may collect personal information from you in connection with voluntary surveys. Data may be collected through our own or a third party’s Services, on the phone or through the mail. The information you provide may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+We may collect personal information from you in connection with voluntary surveys or polls. Data may be collected through our own or a third party’s Services, on the phone or through the mail. The information you provide may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
 Members of our Panels agree to participate in surveys, polls or discussions about their use of our Services.
 
@@ -84,13 +82,15 @@ We use various Internet technologies to manage and track use of the Sites and Se
 
 **Device Information.** We may collect non-personal information about the computer, mobile device or other device you use to access the Sites and Services, such as IP address, geographic location information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use "cookies," web beacons, HTML5 local storage, and other similar technologies. These technologies allow us to manage access to and use of the Sites and Services, recognize you and provide personalization, and help us understand how people use our Sites and Services. You may not be able to access certain areas of our website if your computer does not accept cookies from us or uses ad blocking software. We do not respond to browser-based "do not track" signals.
+**Cookies and Other Similar Technologies.** We use "cookies" and other similar technologies. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. These technologies allow us to manage access to and use of the Sites and Services, recognize you and provide personalization, and help us understand how people use our Sites and Services so that we can provide better site experiences and tools in the future. Some website features or services may not function properly if your computer does not accept cookies or uses ad blocking software.
+
+**Do Not Track.** Some browsers offer a “do not track” (“DNT”) option. Because no common industry or legal standard for DNT has been adopted by industry groups, technology companies, or regulators, we do not respond to DNT signals. We will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
 
 We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for an AdviceCo or affiliate’s website when you visit other sites or use Applications.
 
-**Analytics, Log Files and Reading History**
+**Analytics, Log Files, and Reading History**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses (the region or general location where your computer or device is accessing the Internet), browser type, operating system, and other usage information about the use of the Sites and Services, including a history of the pages you view.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses (the region or general location where your computer or device is accessing the Internet), system activity, browser type, browser language, operating system, hardware settings, the date and time of your visit, the referral URL, and other usage information about the use of the Sites and Services, including a history of the pages you view.
 
 We may combine this automatically-collected log information with other information we collect about you. We do this to improve services we offer to you, including customized recommendations, advertising and currency display, to improve marketing, and to track access and use of the Sites and Services across the devices that you use.
 
@@ -126,11 +126,11 @@ We perform statistical, demographic and marketing analyses of users of the Sites
 
 **Customizing Your Experience**
 
-We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the Sites and Services to provide you with an enhanced experienced based on the type of device you are using to access the Sites and Services, and in certain cases, provide you with requested services.
+We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most relevant. We also use this information to customize certain features of the Sites and Services to provide you with an enhanced experienced based on the type of device you are using to access the Sites and Services, and in certain cases, provide you with requested services.
 
 **Relevant Advertising**
 
-We may use demographic and preference information to allow advertising on the Sites and Services to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
+We may use demographic and preference information to allow advertising on the Sites and Services to be targeted to the users for whom they are most relevant. This means users see advertising that is most likely of interest to them. Advertisers send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or anonymized form.
 
 **Email Newsletters**
 
@@ -140,11 +140,11 @@ We may periodically send you email newsletters or promotional email about servic
 
 **Within AdviceCo and Its Affiliated Entities**
 
-If you have registered to use the Sites and/or Services, we normally do not sell, rent, swap or authorize any third party to use your email address without your permission. In the future, should we sell, buy, merge or partner with other companies or businesses, in any such transaction, we may include your information among the transferred assets, and we may not control what then occurs.
+If you have registered to use one or more of our Sites and/or any of the Services, we do not sell, rent, swap or authorize any third party to use your email address without your permission. In the future, should we sell, buy, merge or partner with other companies or businesses, in any such transaction, we may include your information among the transferred assets, and we may not control what then occurs. You may be notified by email if any such change in ownership or control of your personal information occurs.
 
 **Third Parties**
 
-We may also share information about our audience in aggregate or de-identified form. Nothing in this Privacy Policy is intended to restrict our use or sharing of aggregated or de-identified information in any way.
+We may also share information about our audience in aggregate and/or anonymized form. This is data that does not directly identify you. Nothing in this Privacy Policy is intended to restrict our use or sharing of aggregated and/or anonymized information in any way.
 
 We may share information about attendees to our live events with sponsors or other third parties. If so, we generally will notify you when you provide us the information.
 
@@ -160,11 +160,11 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 **Email Newsletters.** AdviceCo offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter.
 
-**Survey Email.** We may invite you to participate in user surveys asking for feedback on one of our websites or applications and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Sites and Services, and we do not share any personal information we obtain in such surveys with third parties, except in aggregate form.
+**Survey Email.** We may invite you to participate in user surveys asking for feedback on one of our websites or applications and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Sites and Services, and we do not share any personal information we obtain in such surveys with third parties, except in aggregate and/or anonymized form.
 
 **Emails from You.** If you send us an email, we will use your email address to respond directly to your questions or comments.
 
-**Email This Article Feature.** Addresses you provide in the “Email” share feature may be saved for your convenience for future articles you may wish to email; but they are not normally used for any other purpose, and are not routinely shared with any third parties.
+**Email This Article Feature.** Addresses you provide in the “Email” share feature may be saved for your convenience for future articles you may wish to share by email; but they are not normally used for any other purpose, and are not routinely shared with any third parties.
 
 ### **HOW DO I OPT-OUT?**
 
@@ -174,26 +174,42 @@ If you experience difficulty with the unsubscribe process, feel free to contact 
 
 ### **IS MY INFORMATION PROTECTED?**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place what we regard as commercially reasonable physical, technical and administrative controls to protect the information. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure or invulnerable to hacking, and we are NOT and WILL NOT BE responsible NOR SHALL WE BEAR ANY LIABILITY in the event of any data breaches on our Services or elsewhere, regardless of the circumstances.
+To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place what we regard as commercially reasonable physical, technical and administrative controls to protect the information. For some Sites and Services, you may access your profile information through the use of an individual user ID and password. To protect the confidentiality of personal information, we strongly suggest that you keep your password confidential and that you do not disclose it to any other person. Please advise us immediately if you believe your password has been compromised in any way, or if someone else has gained access to one of our sites by impersonating you or your credentials, by emailing us at admin@adviceco.com. In addition, we suggest that visitors always log out and close their browsers when they finish a session to ensure additional security for their profiles. Please note that we will never ask you to disclose your password to us. Also note that no method of transmission over the Internet, and no method of storage, electronic or otherwise, can be 100% secure or invulnerable to hacking, and we are NOT and WILL NOT BE responsible NOR SHALL WE BEAR ANY LIABILITY in the event of any data breaches on our Services or elsewhere, regardless of the circumstances.
+
+If you have any questions about the security of your personal information, you can contact us at [admin@adviceco.com](mailto:admin@adviceco.com).
+
+### **ACCOUNT INFORMATION AND RETENTION**
+
+You may update, correct, or delete information about you at any time by logging into your profile (if you have one) and modifying your information, or request that we try to make specific information about you non-public by sending us an email at admin@adviceco.com. While we will generally comply with such a request, we reserve the right to deny such a request, and to restore deleted information if we conclude there is a compelling reason to do so. We will retain your personal information for a period necessary to fulfill the purposes outlined in this Privacy Policy. If you wish to deactivate your profile, please email us at admin@adviceco.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. We normally respond to access requests within 30 business days.
+
+We may retain your information in publicly available portions of the Sites for as long as your profile (if you have one) is active or as needed to provide you with Services, and thereafter, to the extent we deem it proper, we may retain your information on non-publicly available portions of our Sites for archival purposes in order to establish provenance, comply with legal obligations, resolve disputes, and/or enforce our agreements.
+
+We will retain personal data we process on behalf of our customers as directed by paying customers. We will retain this personal information as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
+
+Upon written request, we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information that we are aware of. To request this information, contact us at [admin@adviceco.com](mailto:admin@adviceco.com), but please be aware that to establish that a request is bona fide from the correct person or his or her authorized representative, we may require such additional documentation as our counsel deems appropriate, such as a duly notarized form.
 
 ### **OTHER INFORMATION**
 
 **Compliance with Legal Process**
 
-We may access, preserve and disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Sites or Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+We may access, preserve and disclose personal information if we are required to do so by law or legal process, or we have a good faith belief that such action is necessary or appropriate to (1) comply with the law, with legal process, or with a bona fide official request from an authorized law enforcement agency; (2) protect and defend our rights and property and keep our Sites free from abusive conduct; (3) protect against misuse or unauthorized use of the Sites or Services; or (4) protect the personal safety or property of our users, members of the public, or our staff. (Among other things, this means that if you provide false or misleading information or attempt to pose as someone else, or make threatening or harassing posts, we may disclose or report information about you in connection with any investigation into your actions or litigation involving you or your conduct.)
 
 **Children's Guidelines**
 
-**COPPA Compliance.** AdviceCo and its affiliates do not knowingly collect or store any personal information about children under the age of 13.
+**COPPA Compliance.** AdviceCo and its affiliates do not knowingly collect or store any personal information about children under the age of 16. If you become aware that a child has provided us with personal information, please contact us at [admin@adviceco.com](mailto:admin@adviceco.com). If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information. Please note that if you are under the age of 16, you may NOT use our website, products, or services.
 
 **Additional California Privacy Rights**
 
-Under the California “Shine The Light” law, California residents may opt-out of AdviceCo’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to AdviceCo Customer Care, P.O. Box 1739, Sausalito, CA 94966-1739 or by emailing us at [admin@adviceco.com](mailto:admin@adviceco.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, and we disclaim all liability for any inadvertent or accidental disclosures.
+Under the California “Shine The Light” law, California residents may opt-out of AdviceCo’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to AdviceCo Customer Care, P.O. Box 1739, Sausalito, CA 94966-1739 or by emailing us at [admin@adviceco.com](mailto:admin@adviceco.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, and we disclaim all liability for any inadvertent or accidental disclosures. In accordance with California Civil Code Section 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at (916) 445-1254 or (800) 952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
 **Additional Privacy Provisions and Changes to This Policy**
 
-Certain of our Sites and Services may have additional privacy provisions as part of or supplemental to their terms and conditions. The terms of such privacy provisions also shall apply, except to the extent they are inconsistent with this Privacy Policy. This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, we will endeavor to highlight the change by posting it on this page thirty (30) days prior to taking effect and will endeavor to notify any registered users via email.
+Some of our Sites and Services may have additional privacy provisions as part of or supplemental to their terms and conditions. The terms of such privacy provisions also shall apply, except to the extent they are inconsistent with this Privacy Policy. This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, we will endeavor to highlight the change by posting it on this page thirty (30) days prior to taking effect and will endeavor to notify any registered users via email.
 
 **No Liability for Violation of This Privacy Policy**
 
-This Privacy Policy sets forth AdviceCo’s aspirations and policy with regard to privacy. While we will endeavor to comply with the letter and spirit of our Privacy Policy, we cannot ensure that we will always do or be able to do so, and **under no circumstances shall this Privacy Policy be construed to create any private or other right of action in any person, firm, organization or government agency, or permit any person, firm, organization or governmental authority to recover damages or obtain injunctive or other relief** should AdviceCo or any of its affiliates fail to abide by any provision of this Privacy Policy.
+This Privacy Policy sets forth AdviceCo’s aspirations and policy with regard to privacy. While we will endeavor to comply with the letter and spirit of our Privacy Policy, we cannot ensure that we will always do or be able to do so, and  **under no circumstances shall this Privacy Policy be construed to create any private or other right of action in any person, firm, organization or government agency, or permit any person, firm, organization or governmental authority to recover damages or obtain injunctive or other relief**  should AdviceCo or any of its affiliates fail to abide by any provision of this Privacy Policy.
+
+**Contacting Us**
+
+Any questions about this Privacy Policy should be addressed to [admin@adviceco.com](mailto:admin@adviceco.com) or to: AdviceCo Customer Care, P.O. Box 1739, Sausalito, CA 94966-1739. As email spam blockers may prevent email from reaching the intended recipient, we strongly suggest that all important questions and requests relating to this Privacy Policy also be sent to us by certified or registered mail at the above address.
