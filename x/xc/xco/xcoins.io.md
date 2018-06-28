@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcoins.io privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602125600id_/https%3A//xcoins.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcoins.io privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628144908id_/https%3A//xcoins.io/privacy) for the most accurate reproduction.*
 
 # Privacy | xCoins.io
 
