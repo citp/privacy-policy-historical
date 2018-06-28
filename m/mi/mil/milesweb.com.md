@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milesweb.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119125121id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesweb.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628033347id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MilesWeb Internet Services
 
@@ -73,7 +73,3 @@ This Web site contains links to other sites that are not owned or controlled by 
 ### Changes To This Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](https://www.milesweb.com/submitticket.php). 
-
-[Contact Support](https://www.milesweb.com/support.php) Toll Free Sales : 1800 266 3133 | To request a call back from sales team SMS MWSALES to 888-888-9995 Get Quote
-
-We have received your message. If your inquiry is urgent, please call on **888-888-9995** , to talk to one of our staff members. Otherwise, we will reply by email shortly. __
