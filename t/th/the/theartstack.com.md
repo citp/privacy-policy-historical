@@ -1,117 +1,121 @@
-> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071902id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628224042id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
 
 # ArtStack - art online
 
-ArtStack Limited ("ArtStack", "we", "us" or "our") is committed to protecting and respecting your privacy. This policy (together with our Terms of Use www.theartstack.com/pages/terms) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand how we will treat your personal data. For data protection purposes, the data controller is ArtStack Limited, incorporated and registered in England and Wales (Company number 7793201), whose registered office is 9th Floor, 107 Cheapside, London, EC2V 6DN, United Kingdom.
+You (and your love of art!) are at the centre of everything we do. We want to maintain your trust by handling your personal information with respect and putting you in control. We want you to know what personal information ArtStack Limited (known here as "we" or “ArtStack") collects about you, and how we use it.
 
-1) INFORMATION WE MAY COLLECT FROM YOU
+We seek to make our explanations short and easy to understand. But, if you’d like further information, or have any questions, please contact our Data Protection Officer using the details in the ‘Contact’ section below.
 
-We may collect and process the following data about you:
+If we ever make any major changes to our privacy practices, we’ll let you know. If necessary, we’ll also ask for your permission.
 
-(i) Information that you provide by filling in forms on our site www.theartstack.com (our "Site"). This includes information provided at the time of registering to use our Site, subscribing to our service, posting material or requesting further services.
+**Privacy Notice**
 
-(ii) Details of your activities on our Sites including, but not limited to, pages you view, browsing actions and patterns or participation in any games or contests.
+Our Privacy Notice has been designed with our users as our first priority. How the notice applies to you will depend on the way in which you interact with us. For example, if you:
 
-(iii) If you contact us, we may keep a record of that correspondence. We may also ask you for information when you report a problem with our Site.
+1) set-up or use an account with us, we use the information you provide us to deliver our service (a social discovery platform for art), and, where permitted, keep you up to date about art you might find interesting on the site and users who follow you, or who might seek to purchase your work (for ArtStack Pro users); and
 
-(iv) We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+2) when you browse our site, we use cookies to tailor your experience and hopefully provide you with a seamless experience.
 
-(v) Details of your use of our Site including, but not limited to, traffic data, location data, weblogs and other communication data.
+Your choices and rights under each scenario are explained in more detail below.
 
-(vi) Any data you upload to our Site including posts, reviews and comments or any personal data we fetch from any other websites or services which you authorize us to.
+**What Information We Have & Where We Get It ** **We collect and store different types of information about you when you create an account, buy the ArtStack Pro service, contact us, and use our websites or app.**
 
-2) IP ADDRESSES & COOKIES
+  * When you create an account, buy ArtStack Pro or are invited to the service by a friend, we will collect your information - which may include your contact and billing information. When you sign-up with Facebook or use social media sharing features within ArtStack, we may receive some additional information about you, which is explained in that process (for Facebook, we limit this to a minimal amount of information, i.e. location and gender).
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+  * We also keep track of the frequency of your visits, what artworks you’ve added, ‘stacked’, or commented on, what artists or other tags you follow, the number of followers you have and those that you follow, and any invites that you’ve sent.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Site and to deliver a better and more personalized service.
+  * When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies or by clearing your cookies. Please refer to your computer or browser manual on how to do this. However, cookies are essential for our Site to operate. If you disable your cookies, parts of the Site may not work.
 
-Please note that our advertisers may also use cookies, over which we have no control.
 
-3) MORE ON COOKIES
 
-Specifically, cookies are used in the following cases:
+**How We Use Your Information & Why **
 
-(i) timezone: Storing timezone data of the user.
+We collect and use your information for lots of reasons such as helping you see art by artists you like, sharing news, for marketing and as otherwise required by law.
 
-(ii) fb_uid, fb_access_token: Storing users with Facebook account connection information, including User ID and the access token. (iii) fb_publish_action: A boolean storing whether a user have publish action permission for ArtStack.
+1) For the performance of our contract with you
 
-(iv) redirect_url_after_stripe: The redirect location after the user connects to his/her Stripe account.
+We use your information when you enter into a contract with us (for example to buy the ArtStack Pro service) so we can:
 
-(v) fb_click_id, sharers_user_id, share_id: Information for statistics, storing where and what Facebook post the user click to enter ArtStack.
+  * process your order
 
-(vi) fb_click_id is the id of the click action. sharers_user_id is the user ID who shares the post to Facebook. share_id is the ID of the shared post in Facebook.
+  * take payment, and
 
-(vii) detected_locale: Storing the locale of user (default is “en”). asked_open_app: A boolean storing whether already asked the user to use ArtStack mobile app or not.
+  * provide you with customer support.
 
-(viii) return_to: Storing the place to be redirected after login.
 
-(ix) mystack_layout: Storing the chosen layout option of the stacks list on user profile (grid or list).
 
-(x) main_layout: Storing the chosen layout option of homepage (“mosaic or feed).
 
-(xi) work_in_mind_sort: Storing the sorting option Work in Mind (default “recent”).
+2) For our legitimate business interests
 
-(xii) _user_credentials: Storing the access token of the user in ArtStack.
+  * To conduct market research and analysis which helps improve and customise our products and services.
 
-(xiii) _web_session: Storing the web session token of the user in ArtStack with respect to the browser.
+  * For our marketing purposes, unless your consent is required for such marketing (see section 3 below).
 
-(xiv) ab_test, ab_test_ref: Storing the information of A/B test. ab_test is a boolean storing whether A/B Test is enabled to that user. ab_test_ref is a number adjusting the probability of variant A and B. currency: Storing the currency code of the user (e.g. USD).
+  * To send you customer service emails.
 
-(xv) first_before_signup, last_before_signup: Already no use.
+  * To prevent or detect unlawful behaviour, to protect or enforce our legal rights or as otherwise permitted by law. As such, we may use your information to prevent misuse of our intellectual property (e.g. our website), fraud, or other crimes.
 
-(xvi) channel: The source page where the user signup to ArtStack.
+  * To create a profile about you to offer our service, which is by nature personalised. For example, if you like a particular artist, we may email you regarding new artworks by that artist that have been added to ArtStack, or about an exhibition of the artist’s work that is in your city. We make sure our messages and website are relevant to you based on your profile.
 
-(xvii) OptimizelyBuckets, OptimizelyEndUserId, OptimizelyPendingLogEvents, OptimizelySegments: Cookies created by an A/B Test service called Optimizely.
+  * Where you’ve given your consent
 
-(xix) mp _{a hash value}_ mixpanel: A cookie created by an analytics service called MixPanel.
+  * To contact you with information or offers regarding our products or services – this may be via email, via push notifications, via SMS, or social media platforms. You can change your marketing preferences at any time, see “Your choices and rights” section below.
 
-4) WHERE WE STORE YOUR PERSONAL DATA
+  * To provide you with location based services – like through our event section in our website or app, to see what events are taking place nearby
 
-The data that we collect from you may be transferred to, and stored in, countries outside the UK and the European Economic Area ("EEA") for the purpose of operating our Service and some data processing may be carried out by third parties on our behalf (such as a third party host). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * To deliver tailored advertising on our websites and apps (see our Cookies Policy for more information].
 
-You are responsible for keeping confidential any password which enables you to access certain parts of the Site, whether a password has been given to you by us, chosen by you or generated using a third party platform. We ask you not to share your password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we use reasonable efforts to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk.
 
-5) USES MADE OF THE INFORMATION
 
-We use information held about you in the following ways:
+**Who We Share Your Data With & Why ** **We may share elements of your information with third parties to offer our service. These include:**
 
-(i) To provide our Site to you and ensure that content on the Site is presented in the most effective and relevant manner for you.
+  * Our third-party service providers (sometimes known as data processors) such as cloud computing providers who provide the IT infrastructure on which our products and systems are built.
 
-(ii) To provide you with information, products or services including, but not limited to, information, products or services from our partners that you request from us or which we believe may interest you, unless you have opted out of receiving such information, products or services.
+  * If you seek to buy or sell art via our platform, we may disclose your information to the buyer or seller (as applicable) to negotiate and complete the transaction.
 
-(iii) To carry out our obligations arising from any contracts entered into between you and us.
+  * Government agencies or other authorised bodies where permitted or required by law.
 
-(iv) To allow you to participate in interactive features of the Site, when you choose to do so.
+  * Any successor to all or part of our business.
 
-(v) To notify you about changes to the service.
 
-6) DISCLOSURE OF YOUR INFORMATION
 
-We do not disclose information about identifiable individuals to our advertisers, affiliates or partner merchants, but we may provide them with aggregate statistical information and analytics about our users and non-registered visitors habits and use of our Site.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+**Your Choices & Rights **
 
-We may disclose your personal information to third parties:
+Among other rights, you can choose if you’d like to receive marketing from us. You also have the right to access the information we have about you. Where you have given us your consent, you can withdraw it by doing the following:
 
-(i) In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * To stop receiving our marketing you can change your preferences within your account, follow the unsubscribe instructions in any of the emails we send you or contact us and we will do it for you.
 
-(ii) If ArtStack or a substantial part of its assets is acquired by a third party, personal data held by it about its users could be one of the transferred assets.
+  * To opt out of the use of cookies and tracking tools, please see our Cookies Policy.
 
-(iii) If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or other agreement; or to protect the rights, property, or safety of ArtStack, our users, or partners and others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * To opt out of location tracking and push notifications, you can change the settings on your device or keep your location off.
 
-7) THIRD PARTIES
 
-The Site may, from time to time, contain links to and from third party websites of our partner networks, advertisers, retailers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check the applicable privacy policy before you submit any personal data to any third party website.
 
-8) CHANGES TO OUR PRIVACY POLICY
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate in the event of material changes, notified to you by e-mail.
+**You also have rights over how your personal information is used, including:**
 
-9) CONTACT
+  * The right to object to our processing of your data.
 
-Questions, comments and requests regarding this privacy policy are welcome and should be addressed to hello@theartstack.com.
+  * The right to request that your information be erased or restricted from further use.
+
+  * The right to request a copy of the information we hold about you.
+
+  * The right to correct, amend or update information you have given us (where you have an account with us you can also do this by logging in and updating your information).
+
+  * The right to contest any automated decision we make about you. An automated decision is a decision taken without any human intervention which has legal consequences (e.g. credit checking). We don’t typically carry out automated decision making but, if we do, we will make it clear where such decisions are being made.
+
+
+
+
+To exercise any of the above rights please contact our Data Protection Officer, on privacy@theartstack.com. Please note that whilst we will carefully assess every request we receive we may not always have to comply. When this happens, we will explain why.
+
+**Looking After Your Information**
+
+We take steps to make sure your information is protected and to delete it securely when we no longer need it. We only keep your information for as long as required to provide you with the services you request, for the purposes outlined in this policy and for any legal purposes for which we are obliged to keep the information.
+
+**Contact Us**
+
+If you have any questions about this notice, or how we handle your information, please be in touch, our Data Protection Officer is here to help: [privacy@theartstack.com](mailto:privacy@theartstack.com) There’s also the Information Commissioner's Office (ICO) although we encourage you to try and let us help you first.
