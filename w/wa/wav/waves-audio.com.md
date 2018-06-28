@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waves-audio.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613082905id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waves-audio.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628133200id_/https%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waves
 
@@ -52,6 +52,10 @@ Users may find advertising or other content on the Site that links to the websit
 Advertising 
 
 Ads appearing on our site may be delivered to Users by advertising partners who may set cookies. These cookies allow the ad server to recognize the User’s computer each time they send the User an online advertisement, allowing the advertiser to compile non-personal identification information about the User or others who use his or her computer. Among other things, this information allows ad networks to deliver targeted advertisements that they believe will be of interest to the User. This privacy policy does not cover the use of cookies by any advertisers. 
+
+User Experience Testing on Waves.com 
+
+Waves reserves the right to conduct tests on Waves.com in order to improve customer service, user experience and pricing, including offering customized content and personalized deals to different users visiting Waves.com. 
 
 Changes to this privacy policy 
 
