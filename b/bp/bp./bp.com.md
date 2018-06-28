@@ -1,88 +1,81 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008004423id_/https%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628194248id_/https%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | BP
 
-### Information about our organization and website
+BP and its affiliated companies welcome your interest in this website ([bp.com](https://www.bp.com/)). The BP company responsible for it is:
 
-BP p.l.c. is responsible for this website, which is governed by the laws of England and Wales. The courts of England and Wales shall have exclusive jurisdiction over any dispute arising out of your use of it. BP p.l.c. is registered in the UK: 102498. 1 St James’s Square, London SW1Y 4PD. BP p.l.c. is registered with The Information Commissioner in the United Kingdom and the notification/registration number is Z8357852.
+BP International Limited  
+Chertsey Road, Sunbury on Thames, Middlesex, TW16 7BP  
+registered in England and Wales with company number 00542515
 
-BP Group companies may carry out due diligence checks on potential and existing counterparties. These checks may involve BP collecting personal information via publicly available databases and other on/off-line sources. For information on how BP does this in accordance with applicable data privacy laws please contact [privacy3@bp.com](mailto:privacy3@bp.com).
+We take your privacy seriously and want you to understand our practices with respect to the handling of your personal data. This privacy statement explains how we do this.
 
-### Collection, use and retention of personal information
+This website has different sub-sites for BP business, products and services, which may also have their own privacy statements. Please read these if you visit our sub-sites.
 
-This privacy statement, together with any other documents, policies, notices or other statements referred to herein sets out the basis on which we process personal information about you. Personal data is information that can identify a specific individual such as name, physical and/or email address and telephone number. If during your visit to this website you order products or services, enter a competition or promotion or otherwise submit information to us e.g., by filling in forms or responding to surveys, you are choosing to provide us with your personal information. You agree that it will be used to provide the information, products or services you request (including information on additional products and/or services which BP reasonably thinks may be of interest to you), and to help us understand how visitors use this website, in order that we can improve the visitor experience on this site.
+### When we collect your personal data
 
-Where you have subscribed to receive our newsletter(s), we are able to ensure you receive further related and informative communications by following your interactions with that communication, such as whether you receive, open or click on a link within an email communication. We offer you the option to unsubscribe in all our further communications.
+If you decide to contact us or make use of personalized services (e.g. by subscribing to a newsletter or by setting your personal preferences for webcast services), then you will be asked to submit the limited personal data which is necessary for us to provide that service or handle your query. This is completely voluntary.
 
-For more information see the “Direct marketing” section below. Further, you may choose to provide personal information via our website to a third party - for more information on whose privacy statement applies see the “Hyperlinks and embedded functionality” section below.
+If you ask us to send you newsletters, webcasts or other communications, we rely on your active consent in order to do so. You may opt out of receiving these communications at any time.
 
-Personal information is held by us from the date of collection for the purposes of providing you with the requested products or services, after which time it may be deleted or aggregated so that it no longer directly identifies you.
+If any form which collects your personal data allows you to voluntarily provide additional information, we seek this information because we think it will help us to give you a better quality service. You do not have to provide such information if you do not wish to do so.
 
-### Keeping personal information accurate and access
-
-We are committed to ensuring that your personal information is kept accurate and up to date. However, we can only make changes to your personal information if you notify us. It is your responsibility to let us know if there are inaccuracies or changes to your personal information. Please notify us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") if there are any changes to or inaccuracies in your personal information, providing us with sufficient information to enable us to identify you, so that any changes can be made.
-
-In accordance with our internal policies you may ask us to provide you with access to any personal data we process about you. If you want access to your personal information contact [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window"). We may be able to charge you for providing such access.
-
-### Security
-
-Transmission of information via the internet is not always secure. We cannot guarantee the security of your data while being transmitted to our site; any transmission is at your own risk. However, once we have received your information, we take appropriate security measures to prevent unauthorised access, improper use or disclosure, unauthorised modification or unlawful destruction or accidental loss of personal information once it is under our control. 
-
-### Disclosures and transfers of personal information
-
-Subject to the “Hyperlinks and embedded functionality” section below, BP does not sell or otherwise release your personal information to third parties to allow them to direct market their products and services to you. In order to provide our products and services we may, however, need to share your personal information with other companies within the BP Group, and/or third-party service providers that process data on our behalf. If you submit personal information to BP, you agree to such disclosure.  
-
-Since BP operates globally, BP may want to transfer your personal information to other countries, including countries outside the European Economic Area (EEA). However, while in our control, we always seek to ensure that your personal information receives the same level of protection as it would had it stayed within the EEA, including seeking to ensure that it is kept secure and used only in accordance with our instructions and for the agreed purpose(s).
-
-We reserve the right to disclose your personal information as required by law, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on BP. In the event that BP is subject to a takeover, divestment or acquisition we may disclose your personal information to the new owner of the business.
-
-### Direct marketing
-
-You agree that BP may send you marketing communications in line with your previously expressed marketing preferences. If you no longer wish to receive such, please contact us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") to modify your preferences, or follow the opt-out instructions contained in each marketing communication.
+We also collect personal data from cookies, which we explain more about below.
 
 ### Site traffic information and cookies
 
-Where your selected browser setting permits, when you visit this site and other BP sites, persistent cookies (and their functional equivalents, such as web beacons) are placed onto your computer. These log data about your visit to BP's websites based on your device's IP address.
+On your first visit to this site you were asked (by a notification banner) to accept our use of cookies and similar technologies and we'd like to explain how we use these technologies.
 
-For further information about cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+To learn about what cookies and similar technologies are, we recommend that you visit the following third-party website: <http://www.allaboutcookies.org/>.
 
-This website uses persistent cookies, which:
+Like many websites, we use cookies for a variety of purposes. These technologies collect information about your device hardware and interactions with our site.
 
-  1. collect information about how visitors use it, allowing us to enhance the performance of our websites by analyzing such information (e.g., to maintain a consistent look and feel for the visitor) and
-  2. increase the website’s functionality and make it more personal to you by allowing us to remember your previous choices (e.g., your location and preferred font type and size) and to provide any enhanced features detailed in the cookie-specific user notice.
+This information helps us to
+
+  * continuously improve our site's content and functionality by analyzing where, on which types of devices and how our site is used, how many visitors we receive, and where they click through to the site from; and
+  * remember you in case you re-visit our site, so we will know if you have already been served with cookie banners, surveys, or (where site content is undergoing testing) which version of the content you were served.
 
 
 
-These cookies expire two years after your last visit. The information they collect is not used to send you targeted advertising, identify who you are or remember where you’ve been on the internet (with the exception of logging visits to other BP sites). You agree that your attention was drawn specifically to this section of our privacy statement and to any explicit privacy notice given to you and that you consent to our use of these cookies for these purposes.
+To delete or stop cookies being placed on your computer, please check the help menu of your internet browser. Blocking cookies will reduce the functionality of this website.
 
-To delete or stop cookies being placed on your computer, refer to the help menu on your internet browser. In a few cases, blocking cookies may reduce the functionality of some websites or prevent access to them altogether.
+### Who do we share your personal data with and where does it go?
 
-### Questions about your personal information
+Any transfer of personal data to this site will be secured by encryption. We may store or transfer your personal data to our other BP companies around the world. We do this under our group-wide [Binding Corporate Rules](https://web.archive.org/content/dam/bp/en/corporate/pdf/about-bp/privacy-statement/appendix2-part-A-BP-data-privacy-rules-public-document-13-jan-17.pdf), which guarantee an adequate level of data protection wherever your data is physically kept.
 
-If you have any questions relating to this privacy statement or the personal information we hold about you please contact us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") or by post at the following address: BP.com team, 1 St James's Square, London SW1Y 4PD.
+We also use the services of third-party service providers to host our webcasts and offer technical support. Any third-party provider we appoint must act in accordance with our written instructions when processing your personal data and must protect your personal data in line with the contractually required security measures. Where we store or transfer your personal data to a third-party provider based outside the European Economic Area, we take steps to ensure your personal data is adequately protected.
 
-### Freedom of information enquiries
+We have the right to disclose your personal data as required by law, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on BP. If there is a takeover, sale or purchase of our business, we may disclose your personal data to the new (or prospective) owner of the business.
 
-If you represent a public authority governed by the Freedom of Information Act and you wish to consult with a BP stakeholder about a potential disclosure of BP information pursuant to a request you have received please email [privacy3@bp.com](mailto:privacy3@bp.com) giving your name, the name of the public authority you represent, your contact details, the nature of the request and the deadline for disclosure and a responsible BP person will contact you.
+### How long do we keep your information?
 
-### Children
+We will only hold your information for as long as necessary to fulfil the purposes for which it was collected, before making it non-identifiable or deleting it.
 
-BP does not knowingly collect information from children.
+If you send us any ‘contact us’ messages, we will delete or de-identify these messages once we have finally satisfied your query.
 
-### Changes to this privacy statement
+If you choose to unsubscribe from a service, we may keep a ‘suppression list’ containing your details so we know you have unsubscribed.
 
-We review this privacy statement regularly and may modify it from time to time. We will place any updates on this webpage. By continuing to use this website after such changes have been made, you acknowledge and agree you have read, understood and accept the changes. This privacy statement was last updated on 28 November 2016.
+### Your rights, complaints and how to contact us
 
-### Hyperlinks and embedded functionality
+You have the right to access your personal data and ask for it to be rectified or deleted at any later time.
 
-Our website may contain links to content or other functionality provided by third parties which are outside our control and are not covered by our privacy statement, including the embedded search box facility. The search box on this website (“Search Box”) is powered by Google Inc (“Google”). You acknowledge and agree that Google’s privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy. Similarly, if you access other websites using links or use other embedded functionality provided by third parties, the operators of those websites may collect information from or about you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read those providers’ privacy statements on their websites. We do not accept any responsibility or liability for these policies.
+If you have questions or concerns relating to the handling of your personal data, or other privacy related query, please get in touch with us using [www.bp.com/contact](http://www.bp.com/contact) or the '[Contact us](https://www.bp.com/en/global/corporate/contact-us.html)' functionality in the website's footer. Please also use these links for non-privacy related queries.
 
-### BP data privacy rules
+If you are in the EU, you also have the right to raise a privacy concern with the Data Protection Authority established in the relevant EU country. However, please consider using BP’s EU-approved complaint resolution mechanism under our BCRs using the contact address set out above.
 
-In addition to the commitments set out in this privacy statement, BP has created a set of data privacy rules, which apply to the processing of all personal information by BP. These privacy rules can be found [here](https://web.archive.org/content/dam/bp/pdf/about-bp/privacy-statement/BP_DataPrivacyRules_public_document_v2-Jan_2017.pdf "Opens in new window").
+### Third-party websites we link to
 
-For any queries regarding this document please contact [privacy3@bp.com](mailto:privacy3@bp.com).
+Our website may contain links to third-party sites. This privacy statement does not apply to those third-party sites.
+
+We recommend that you read the privacy statements of any other sites that you visit as we cannot accept responsibility for the privacy practices of these sites, which may be different to ours.
+
+### Freedom of Information enquiries
+
+If you represent a public authority governed by the Freedom of Information Act and you wish to consult with a BP stakeholder about a potential disclosure of BP information pursuant to a request you have received, please get in touch using [www.bp.com/contact](http://www.bp.com/contact), giving your name, the name of the public authority you represent, your contact details, the nature of the request and the deadline for disclosure and a responsible BP person will contact you.
 
 ### Changes to the privacy statement
 
-We review this privacy statement regularly and may modify it from time to time. We will place any updates on this webpage. By continuing to use this website after such changes have been made, you acknowledge and agree that you have read, understood and accept the changes. This privacy statement was last updated on 28 November 2016.
+We may update this privacy statement from time to time and recommend that you revisit it on occasion to see the latest version.
+
+This statement was last updated in March 2018.  
+
