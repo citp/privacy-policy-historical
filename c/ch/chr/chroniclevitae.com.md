@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclevitae.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119071446id_/http%3A//chronicle.com/article/Privacy-Policy/1612) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclevitae.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629013651id_/http%3A//chronicle.com/article/Privacy-Policy/1612) for the most accurate reproduction.*
 
 # Privacy Policy - The Chronicle of Higher Education
 
@@ -12,7 +12,7 @@ The following policies apply to all Chronicle websites, including [chronicle.com
 
 In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain about visitors and registered users (collectively “users”) and the services available through our Site (collectively, the “Services”). On our Site, we collect information from individuals in their capacity as individuals, and, in certain scenarios, as representatives of an educational institution. Unless we note otherwise, this Policy applies to the information that we collect from all users to our Site, including individuals submitting information on behalf of an educational institution. References to “you” mean the users of this Site, either individually or as a representatives of any organization on whose behalf they may be accessing the Site.
 
-By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. If you do not agree with our policies and practices, you may choose not to use the Site. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our [User Agreement](http://chronicle.com/article/User-Agreement/47435/) incorporated by reference into this Policy.
+By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. If you do not agree with our policies and practices, you may choose not to use the Site. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our [User Agreement](https://web.archive.org/article/User-Agreement/47435/) incorporated by reference into this Policy.
 
 Table of Contents
 
@@ -177,7 +177,7 @@ You should take steps to protect against unauthorized access to your password, p
 
 **Notice to Non-U.S. Users.** The Chronicle is based in the United States. Use of your information by The Chronicle is intended for use only within the United States and its territories.  If you use our Site and our Services, your information will be stored in the United States. We may, however, use third-party service providers that are located outside of the United States. Content and use of that content is intended to conform to United States law and practices. Use outside the United States is at your risk, and you agree to comply with all applicable laws and use or nonuse of content. ** **
 
-**Special Notice to California Consumers**. California residents may request, free of charge, a list of what personal information (if any) we provided to third parties in the preceding year for that third party’s direct-marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us as set forth in the [User Agreement.](http://chronicle.com/article/User-Agreement/47435/) Please allow up to thirty (30) days for a response. 
+**Special Notice to California Consumers**. California residents may request, free of charge, a list of what personal information (if any) we provided to third parties in the preceding year for that third party’s direct-marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us as set forth in the [User Agreement.](https://web.archive.org/article/User-Agreement/47435/) Please allow up to thirty (30) days for a response. 
 
 **Contact Us.** If you have questions about the privacy aspects of our Services or would like to make a complaint, please write to us at 1255 23rd Street, N.W., Washington, DC 20037 or see our complete information on [contacting The Chronicle.](https://web.archive.org/section/Contact-Us/88/)
 
