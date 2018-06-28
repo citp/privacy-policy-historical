@@ -1,161 +1,129 @@
-> *The following text is extracted and transformed from the thepostmillennial.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006063639id_/https%3A//www.thepostmillennial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostmillennial.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629003541id_/https%3A//www.thepostmillennial.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Post Millennial
 
-It is the policy of The Post Millennial(PM)  to control the collection, use, and disclosure of personal information in accordance with all requirements set out in the Privacy Act. The Privacy Act does not apply to personal information that (PM) collects, uses, or discloses only for journalistic, artistic or literary purposes.
+## **Our Privacy Policy**
 
-**1.1 Requirements**
+Our commitment is to put users first. We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you with meaningful choices. This Privacy Policy is meant to help you understand what information The Post Millennial, its affiliates and its house of global brands (“The Post Millennial,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to The Post Millennial brands, websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).
 
-The following requirements shall be met by (PM) unless exempted by the Privacy Act.
+##  **Information Collection and Use – General**
 
-**Collection of Personal Information**
+We may collect and combine information when you interact with The Post Millennial Services including:
 
-Unless otherwise authorized by the Privacy Act
+Information You Provide to Us. We may collect the information that you provide to us, such as:
 
-  * No personal information shall be collected by (PM) unless it relates directly to an operating program or activity of (PM).
-  * (PM) shall, wherever possible, collect personal information that is intended to be used for an administrative purpose directly from the individual to whom it relates except where the individual authorizes otherwise.
-  * (PM) shall inform any individual from whom it collects personal information of the purpose for which the information is being collected.
+ **(a)** When you create an account with The Post Millennial Service or brand. (Please note, when your use our Services, we may recognize you or your devices even if you are not signed in to our Services.) The Post Millennial may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
 
+ **(b)** When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
 
+ **(c)** The Post Millennial analyzes and stores all communications content, including email content from incoming and outgoing mail. This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
 
-**Retention of Personal Information**
+ **(d)** When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available and install any The Post Millennial software such as plugins.
 
-Personal information that has been used by (PM) for an administrative purpose shall be retained for such period of time after it is so used as may be prescribed by regulation in order to ensure that the individual to whom it relates has a reasonable opportunity to obtain access to the information.
+ **(e)** When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
 
-**Accuracy of Personal Information**
+##  **Device Information**
 
-(PM) shall take all reasonable steps to ensure that personal information that is used for an administrative purpose is as accurate, up-to-date and complete as possible.
+We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services. This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data. We may recognize your devices to provide you with personalized experiences and advertising across the devices you use.
 
-**Disposition of Personal Information**
+##  **Location Information**
 
-(PM) shall dispose of personal information under its control in accordance with the regulations and with any directives or guidelines issued by the designated minister in relation to the disposal of that information and with its corporate retention schedule. Use and Disclosure of Personal Information
+We collect location information from a variety of sources.
 
-Personal information under the control of (PM) shall not, without the consent of the individual to whom it relates, be used or disclosed by (PM) except for the purpose for which the information was obtained or compiled or for a use consistent with that purpose unless otherwise authorized by the Privacy Act. In certain circumstances, personal information subject to the Privacy Act may be used, or disclosed without the knowledge or consent of the individual concerned. Such circumstances include, but are not limited to personal information used or disclosed:
+##  **Information from Cookies and Other Technologies.**
 
-  * for the purpose for which the information was obtained or compiled by (PM) or for a use consistent with that purpose;
-  * for the purpose of complying with a subpoena or warrant issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information;
-  * to an investigative body specified in the regulations for the purpose of enforcing any laws or carrying out a lawful investigation;
-  * to officers or employees of (PM) for internal audit purpose;
-  * to the Library and Archives of Canada for archival purposes;
-  * where disclosure would clearly benefit the individual to whom the information relates.
+ **(a)** We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where The Post Millennial’s data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
 
+ **(b)** This information includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser’s website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions.
 
+##  **Information from Others**
 
-**Record of Disclosures**
+We collect information about you when we receive it from other users, third-parties, and affiliates, such as:
 
-(PM) shall retain a record of any use of personal information contained in a personal information bank or any use or purpose for which that information is disclosed where the use or purpose is not included in the statements of uses in the personal information index published by the designated minister and shall attach the record to the personal information.
+ **(a)** When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
 
-**Personal Information Banks**
+ **(b)** From publicly-available sources.
 
-  * (PM) shall include in personal information banks all personal information under its control that
-  * has been used, is being used or is available for use for an administrative purpose; or
-  * is organized or intended to be retrieved by the name of an individual or by an identifying number, symbol or other particular assigned to an individual.
+ **(c)** From advertisers about your experiences or interactions with their offerings.
 
+ **(d)** When we obtain information from third-parties or other companies, such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us.
 
+##  **How We Use This Information**
 
-**Access to Personal Information**
+We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in. We also may use the information we have about you for the following purposes:
 
-Upon receipt of a written request, (PM)shall provide a right of access to personal information subject to the Privacy Act to
+ **(a)** Provide, maintain, improve, and develop relevant features, content, and Services.
 
-  * any personal information about the individual requester contained in a personal information bank; and
-  * any other personal information about the individual requester under the control of a TIR with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable.
+ **(b)** Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications) in order to keep our Services safe and secure and to assist us in making the content, Services and ads we provide to you more personalized.
 
+ **(c)** Fulfill your requests and when authorized by you.
 
+ **(d)** Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
 
-Individuals who are given access to their personal information may
+ **(e)** Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising based on your device activity, inferred interests and location information.
 
-  * request correction of the personal information where the individual believes there is an error or omission therein;
-  * require that a notation be attached to the information reflecting any correction requested but not made; and
-  * require that any person or body to whom that information has been disclosed for use for an administrative purpose within two years prior to the time a correction is requested or a notation is required under this subsection in respect of that information
-  * be notified of the correction or notation, and
-  * where the disclosure is to a government institution, the institution make the correction or notation on any copy of the information under its control.
+ **(f)** Contact you with information about your account or with marketing messages.
 
+ **(g)** Associate your activity across our Services and your different devices as well as associate any accounts you may use across The Post Millennial Services together. We may associate activity and accounts under a single user ID.
 
+ **(h)** Carry out or support promotions.
 
-**Refusal of Access to Personal Information**
+ **(i)** Conduct research and support innovation using aggregate or pseudonymized information.
 
-(PM) may refuse access to personal information as provided by the Privacy Act where such information, among other circumstances:
+ **(j)** Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
 
-  * is subject to solicitor client privilege
-  * is part of or relates to an investigative record where disclosure could be injurious to the enforcement of a law of Canada or a province or the conduct of investigation.
-  * Where disclosure threatens the safety of individuals.
+ **(k)** Provide location-based Services, advertising, search results, and other content
 
+ **(l)** Combine information we have about you with information we obtain from business partners or other companies, such as your activities on other sites and apps in order to keep our Services safe and secure and to assist us in making the content, Services and ads we provide to you more personalized.
 
+ **(m)** Detect and defend against fraudulent, abusive, or unlawful activity.
 
-**1.2 Responsibility**
+##  **How We Share This Information**
 
-All (PM) employees, who collect, maintain and/or use personal information, are responsible for insuring that the collection, use and disclosure of this information is carried out in accordance with this policy and relevant procedures.
+The Post Millennial shares information within its affiliated brands and companies. We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with third-party apps and widgets). We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of The Post Millennial unless one of the following circumstances applies:
 
-The Corporate Secretariat is the department responsible for supervising compliance with the legislation and for initiating procedures, guidelines and schedules that will be developed to effect this policy.
+ **(a)** With Your Consent. We will share information with companies, organizations or individuals outside of The Post Millennial when we have your consent.
 
-The Privacy Coordinator is accountable for (PM) ‘s policies and practices, with respect to the management of personal information, and is the individual to whom complaints and inquiries can be forwarded.
+ **(b)** Within The Post Millennial. Information may also be shared within The Post Millennial, including with other The Post Millennial Services and affiliates. The Post Millennial affiliates may use the information in a manner consistent with their privacy policies.
 
-This privacy statement is applicable to all TIR web-sites.
+ **(c)** With Partners. We may share your information with non-affiliated companies who are:
 
-The (PM) respects the privacy of its Internet users and will protect that privacy as vigorously as possible.
+ **(d)** Trusted Partners. We provide user information to trusted partners who work on behalf of or with The Post Millennial based on our directions and in compliance with appropriate confidentiality measures.
 
-(PM) does not collect information that personally identifies individuals except when individuals provide such specific information on a voluntary basis. There may be occasions where specific personal information is requested before an individual can enter certain sections of a (PM) site. 
+ **(e)** Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information). We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or other companies. For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion. We do not share information that personally identifies you (personally identifiable information is information like name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps, or other companies.
 
-In all such cases, (PM) will collect only information that is voluntarily provided by the user and undertakes that such information will be kept strictly confidential. Individual information provided to the (PM) to gain access to any TIR site will not be sold or made available to a third party.
+When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.
 
-(PM) does reserve the right, however, to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.
+We allow other companies that show advertisements on our web pages or apps to collect information from your browsers or devices. Other companies’ use of cookies and other data collection technologies are subject to their own privacy policies, not this one. Like many companies, we may allow cookie matching with select partners. But, these parties are not authorized to access The Post Millennial cookies.
 
-As well, users should be aware that certain non-personal information and data may be automatically collected by the TIRthrough the operation of what are called “cookies”. “Cookies” are small text files that identify an individual computer’s browser entering a web site. They allow the site to track that browser’s movement through the site over several sessions. Through cookies, a web site can recognize repeat users, facilitate the user’s access to and use of the site and allow a site to track usage behavior that will allow content improvements. The (PM)uses cookies only for the above-mentioned purposes and will not use them to identify users or to track non-(PM)usage.
+ **(a)** For Legal and Other Purposes. We may access, preserve and disclose information to investigate, prevent, or take action in connection with: **(i)** legal process and legal requests; **(ii)** enforcement of the Terms; **(iii)** claims that any content violates the rights of third-parties; **(iv)** requests for customer service; **(v)** technical issues; **(vi)** protecting the rights, property or personal safety of The Post Millennial, its users or the public; **(vii)** establishing or exercising our legal rights or defending against legal claims; or **(viii)** as otherwise required by law.
 
-If you do not want a cookie placed on your computer by the (PM), you may disable cookies altogether by modifying the Preferences section of your Netscape or Internet Explorer browser (under Edit/Preferences/Advanced). Note that it is possible that some aspects of (PM)sites may be unavailable to you if you choose this option.
+This may include responding to lawful governmental requests.
 
-If you have no problem accepting cookies, but wish to be informed of their appearance, you may turn on a warning prompt by modifying the cookie warning section in Edit/Preferences/Advanced.
+ **(b)** New Ownership. If the ownership or control of all or part of The Post Millennial or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner.
 
-Personal Information Protection and Electronic Documents Act Corporate Records and Information Management Procedures Corporate Retention Schedules.
+##  **Information Security and Data Retention**
 
-The ads appearing on this Web site are delivered to you by our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. 
+The Post Millennial has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.
 
-The **Privacy Act** is described as:
+##  **Protecting Children’s Privacy**
 
-_An Act to extend the present laws of Canada that protect the privacy of individuals and that provide individuals with a right of access to personal information about themselves._
+Our Services are for a general audience. We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law. With parental permission, a child under age 13 might have The Post Millennial Family Account.
 
-The term **personal information** is defined as information about an identifiable individual that is recorded in any form with some specific exceptions for the purposes of Access to Information Act requests.
+##  **Data Processing and Transfers**
 
-TIR ‘s privacy provisions are based on the CSA International’s Model Code for the Protection of Personal Information, recognized as a national standard in 1996. The standard addresses the ways in which organizations collect, use and disclose personal information. It also addresses the rights of individuals to have access to their personal information and to have it corrected if necessary.
+When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services. Some of these countries may not have the same data protection safeguards as the country where you reside.
 
-The code’s 10 principles are:
+The Post Millennial may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses. By using our Services, you consent to us transferring information about you to these countries.
 
-**Accountability**
+##  **Other Important Information**
 
-An organization is responsible for personal information under its control and shall designate an individual or individuals who are accountable for the organization’s compliance with these principles.
+This Privacy Policy Applies Only to The Post Millennial. This Privacy Policy does not apply to the practices of companies that The Post Millennial does not own or control, or to people that The Post Millennial does not employ or manage. In addition, some affiliated products may have different privacy policies and practices that are not subject to this Privacy Policy.
 
-**Identifying Purposes**
+##  **Changes**
 
-The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.
+We may update this Privacy Policy from time to time, so you should check it periodically. If we make changes that are material we will provide you with appropriate notice before such changes take effect.
 
-**Consent**
+##  **Questions & Suggestions**
 
-The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
-
-**Limiting Collection**
-
-The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.
-
-**Limiting Use, Disclosure, and Retention**
-
-Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of these purposes.
-
-**Accuracy**
-
-Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
-
-**Safeguards**
-
-Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.
-
-**Openness**
-
-An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
-
-**Individual Access**
-
-Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
-
-**Challenging Compliance**
-
-An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals accountable for the organization’s compliance.
+If you have questions, suggestions, or wish to make a complaint, please contact us.
