@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagle.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210120721id_/https%3A//www.leagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagle.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629005126id_/https%3A//www.leagle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leagle.com | A leading provider of copies of primary caselaw decisions from all Federal courts and all State higher courts
 
