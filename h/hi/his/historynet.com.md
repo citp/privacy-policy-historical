@@ -1,193 +1,215 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914124305id_/http%3A//www.historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628133808id_/http%3A//historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
 
 # HistoryNet Privacy Policy | HistoryNet
 
-HistoryNet LLC and its family of consumer publications (collectively, “HistoryNet”) are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
+**[I. INTRODUCTION](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#intro)**
 
-In general, you may visit our digital issue or use the companion mobile applications (iPad®, iPhone®, Android® and other smartphone or tablet devices, collectively referred to as the “Digital Issue”) without identifying yourself or revealing any personal information. All references in this Privacy Policy to “we,” “our,” or “us” are references to HistoryNet and its family of consumer publications and all references to “you,” “users” and “subscribers” are references to those individuals who access a Digital Issue of our publications or the print version.
+**[II. WHAT INFORMATION DO WE COLLECT THROUGH OUR SERVICES?](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#ii)**
 
-  1. We collect personal and non-personal information from you to provide information and service, to understand your interests, and to conduct our business, and may combine it with information we receive from third parties.
-  2. We may share personal and non-personal information about you with third parties in the circumstances described in this policy.
-  3. We use cookies, web beacons and other technologies to provide personalized content, certain functionalities, and to better understand the features our visitors prefer.
-  4. We reserve the right to share information to satisfy a legal request, protect people or property, or in connection with a transfer of one or more of our business units.
-  5. We adopt reasonable procedures to protect the personal information you send to us. Credit card and other sensitive information are encrypted during transmission to our sites. However, we provide no guarantees that your data will always be secure.
+  * **[Information That You Provide To Us](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#provide)**
+  * **[Information Collected Using Technology](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#collect)**
+  * **[Information You Provide From Social Networking Sites](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#social)**
+  * **[Other Third Parties](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#third)**
 
 
 
-**What Information Do We Collect About You?**
+**[III. WHAT DO WE DO WITH THE INFORMATION WE COLLECT?](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#iii)**
 
-  * ******_Personal Information_**
-  * ******_Subscriptions and Orders_**
-  * ******_Information Collected Automatically_**
-  * ******_Other Information_**
+  * **[Provide And Manage The Services You Request.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#manage)**
+  * **[To Contact You.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#contact)**
+  * **[To Better Understand Our Readers And Users.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#understand)**
+  * **[Customize Your Experience.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#customize)**
+  * **[Relevant Advertising.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#relevant)**
+  * **[Audience Measurement Providers.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#audience)**
+  * **[To Protect The Rights Of The Services And Others.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#protect)**
 
 
 
-**What Do We Do with Information We Collect?**
+**[IV. HOW DO WE DISCLOSE THE INFORMATION WE COLLECT?](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#iv)**
 
-**How Do We Share Personal Information?**
+  * **[Affiliates.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#affiliates)**
+  * **[Service Providers.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#service)**
+  * **[Business Partners.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#partners)**
+  * **[Law Enforcement.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#law)**
+  * **[Social Networking Sites (SNS)](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#sns)**
+  * **[Third Parties.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#parties)**
+  * **[Otherwise With Your Consent Or At Your Direction.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#otherwise)**
 
-  * _HistoryNet and Its Agents_
-  * _Participating Vendors_
-  * _Credit Card Companies_
-  * _Advertisers, Sponsors and Promotional and Business Partners_
-  * _Important Note_
 
 
+**[V. THIRD-PARTY WEBSITES](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#v)**   **[VI. YOUR CHOICES REGARDING INFORMATION](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#vi)**
 
-**How Do We Use Cookies?**
+  * **[Postal Mail.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#postal)**
+  * **[Changing or Deleting Your Personal Data.](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#data)**
 
-**How Do We Use Web Beacons?**
 
-**What About Third Party Advertisers?**
 
-**How Can You Control Your Personal Information?**
+**[VII. ADDITIONAL RIGHTS FOR EUROPEAN ECONOMIC AREA USERS](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#vii)**   **[VIII. YOUR CANADIAN PRIVACY RIGHTS](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#viii)**   **[IX. YOUR CALIFORNIA PRIVACY RIGHTS](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#ix)**   **[X. KIDS AND PARENTS](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#x)**   **[XI. SECURITY, RETENTION, AND STORAGE OF INFORMATION](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#xi)**   **[XII. INTERNATIONAL TRANFERS](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#xii)**   **[XIII. CHANGES TO OUR PRIVACY POLICY](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#xiii)**   **[XIV. HOW TO CONTACT US](https://www.sunset.com/marketplace/sunset-publishing-corporation-privacy-policy#xiv)**
 
-**Security of Your Personal Information**
+### I. INTRODUCTION
 
-**Children’s Privacy**
+This Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications as well as any other products, features, materials or other services provided by Sunset Publishing Corporation (collectively, the “Services”). Sunset respects your privacy and is committed to protecting your personal data. By using any of our Services, you agree that this Privacy Policy and our [Terms of Service](https://www.sunset.com/marketplace/sunset-publishing-corporation-terms-of-use) govern your use of our Services and any dispute concerning our Services. Please take a few minutes to read them before using or registering for access to our Services.
 
-**Links**
+### II. WHAT INFORMATION DO WE COLLECT THROUGH OUR SERVICES ?
 
-**Changes in Corporate Structure**
+This Privacy Policy describes Sunset’s collection, use and disclosure of the information you provide to us through your use of the Services, as well as the rights you have with respect to your personal data. If you have questions regarding this Privacy Policy please contact us at [privacy@sunset.com](mailto:privacy@sunset.com).
 
-**Visitors Outside the United States**
+  * **Information That You Provide To Us.**
+    * We will collect personal data that you voluntarily provide us when you register for the Services or interact with other users of the Services. We may collect personal data when you sign up for marketing or editorial emails; download white papers, e-books, or webcasts; or sign up for events or other opportunities through Sunset. Personal data may include your first and last name, location, phone number, gender, title, email and mailing address and demographic information. We may also ask for information about your hobbies, interests, preferences and the like, but you’re free to register for our Services without providing this additional information.
+    * Billing and transactional information pursuant to your use of the Services, where appropriate to process a financial transaction you request.
+    * If you provide us feedback or contact us via e-mail, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.
+    * When you post content (such as text, images, messages or comments) in connection with your use of the Services, the information contained in your posting will be stored on our servers and other users will be able to see it.
+    * When you participate in one of surveys, we may collect additional profile information.
+    * We may also collect contact information regarding other individuals when you use the sharing and referral tools available within some of our Services to forward content or offers to your friends and associates. We use this information to facilitate the communications that you request. We rely on you to obtain whatever consents from the third party that may be required by law to allow us to facilitate the communications that you request. You or the third party may contact us at [privacy@sunset.com](mailto:privacy@sunset.com) to request the removal of this information from our database.
 
-**Changes to Our Privacy Policy**
 
-**Contact Information**
+  * **Information Collected Using Technology**. 
+    1. **Information Collected By Our Servers.  **To make our Services more useful to you, our servers (which may be hosted by a third-party service provider) collect information from you, including your browser type, operating system, internet protocol (IP) address, domain name, and/or a date/time stamp for your visit.
+    2. **Log Files.  **Like most websites, we gather certain information automatically and store it in log files. This information may include IP address, internet service provider (ISP), browser type, referring/exit pages, operating system, date/time stamp and clickstream data. We use this information to analyze trends, administer the Services, track users’ movements around the Services, gather demographic information regarding our user base as a whole, and better tailor our Services to our users’ needs. Except as noted in this Privacy Policy, we do not link this automatically collected data to personal data.
+    3. **Like many online services, we use cookies to collect information.**  Cookies are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive user experience. This type of information is collected to make our Services more useful to you and to tailor the experience with us to meet your special interests and needs. You will not be able to access certain areas of our websites if your computer does not accept cookies from us. We do not respond to browser-based “do not track” signals.
+    4. **Pixel Tags.  **Our websites may also use small pieces of code called “pixel tags” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. Pixel tags can recognize certain types of information, such as a user’s cookie number, time and date of a page view, and description of the page where the pixel tag is placed. These pixel tags may be used to deliver cookies that conform to our cookie policy above.
+    5. **Flash LSOs.  **When we post videos, third parties may use local shared objects, knows as Flash Cookies to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+    6. **Advertising On Third-Party Websites and Ad Networks.  **We partner with third parties to manage our advertising on the Services and third-party websites, which may include serving or tracking advertisements on or relating to the Services. We may use the following data, whether separately or combined: 
+      *         * Data from advertising technologies on and off our Services, like web beacons, pixels, ad tags, cookies, and device identifiers.
+        * Subscriber or visitor-provided information.
+        * Data from your use of the Services (g. hashed data, click stream information, browser type, geographic location, time and date, information about your interactions with advertisements and other content).
+        * Information from advertising partners. Our advertising partners may place or recognize cookies, web beacons or other technology to track certain activities about our website users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the Services. An advertiser or ad server may also be able to collect your device’s identifier in the course of serving an ad. In many cases, this information could be used to show you ads on other websites based on your interests.
+        * Information inferred from the data described above.
 
-**WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
+If you do not want this information used by third parties for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if you are located in the European Union, click [here](http://www.youronlinechoices.eu/) or if you are in Canada, click [here](http://youradchoices.ca/choices)). Following these processes will opt you out of receiving ads that are targeted to you. You may, however, continue to receive generic ads that are targeted to the general public.
 
-You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and collect certain information automatically. We also use contact lists and other information we may obtain from third parties. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. All information we have about you will be available to all of our brands and affiliates at HistoryNet.
+    7. **We use analytics to help analyze how users utilize the Services.**  Our analytics service providers may use Cookies to collect information such as how often users visit the Services, what pages they visit, and what other sites they used prior to coming to our Services. We use this information only to improve our Services. The analytics service providers collect only the IP address assigned to you on the date you visit the Services, rather than your name or other personal data. We do not combine the information generated through the use of analytics with your personal data. Although the analytics service provider places a persistent Cookie on your web browser to identify you as a unique visitor the next time you visit the Services, the Cookie cannot be used by anyone but that particular analytics service provider. The ability of the analytics service providers, Google Analytics and Parse.ly, to use and share information collected about your use of the Services is restricted by their terms of use and privacy policy.
+  *     8. **Location Information.** Some of our mobile applications may deliver content based on your current location if you choose to enable that feature of the app. We will ask you to opt-in before we use GPS or other tools to identify your precise location. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store location information.
 
-_**Personal Information**_
 
-We collect personally identifiable information, such as names, mailing addresses, and/or e-mail addresses, when you subscribe to one of our magazines, place an order (see the section below for more information on subscriptions and orders), or register at one of our web sites. Website visitors may register to receive one of our e-mail updates, respond to a survey, or enter online contests and sweepstakes; we may offer offline contests and sweepstakes as well. Registration may be required to participate in message boards, bulletin boards, or chat rooms at our websites or to take advantage of special offers.
 
-Sometimes registration can be accomplished by submitting only a user name and password. Other types of offerings require submission of additional information. The information we collect may include your e-mail address, name, address, phone number, age, gender, hobbies, family information, and similar demographic information or information related to your interests. Some of our sites may offer you the opportunity to receive offers directly from third parties, or to match you directly with a trusted fulfillment partner. In the latter case, in addition to contact information and other details, we will ask you to provide a social security number and certain financial and credit-related information to facilitate a response from our fulfillment partners. Registration forms will indicate what information is required and what information (if any) is optional.
+  * **Other Third Parties**
+    * We may receive personal and/or anonymous data about you from companies that offer their products and/or services through our Services and/or companies that otherwise collect such information. These third-party companies may supply us with personal data. We may add this information to the information we have already collected from you via the Services in order to improve Services we provide to you.
 
-**_Subscriptions and Orders_**
 
-If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. In addition to the customary information needed to fill your order (full name, email address, physical address, ship-to name and address, gift information, etc.), subscriptions and orders necessitate collection of your credit card number and credit card expiration date. Electronic order acknowledgments are sent when an subscription or order is placed online. Most of our websites allow visitors to subscribe to our publications online, and some sites also offer areas where you may purchase items online. We may offer online and offline subscribers a “bill me” option if they do not wish to use a credit card, but visitors should check online stores to see if other payment options are permitted for online store purchases apart from credit cards.
 
-**_Information Collected Automatically_**
+### III. WHAT DO WE DO WITH THE INFORMATION WE COLLECT?
 
-Our websites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. In addition, we use cookies to track usage patterns at our site and to control the display of ads, as well as to offer other functionalities (such as screening for age, helping to track items in your shopping basket at sites which offer online shopping opportunities, and “recognizing” you to speed up your log-in when you visit our sites). See below for more detail on cookies.
+How we use your personal data depends upon which Services you use, how you use those Services and the choices you make. We use the data that we have about you to provide and personalize the Services, so that they can be more relevant and useful to you and others, including as follows:
 
-_**Other Information**_
+**Provide And Manage The Services You Request.**
 
-We conduct market research in an effort to continually improve our publications and websites and may purchase lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information is included in our database. That helps us, for example, minimize multiple mailings and e-mailings, and provide information tailored to your interests.
+We use the information we gather about you to enable your use of the Services and fulfill your requests for certain products and services, such as: sending out newsletters; enabling you to participate in online forums or communities; allowing you to download e-books, webcasts, and whitepapers; and enabling you to participate in polls, contests, sweepstakes and other events. Our Services allow you to stay informed about news and events. We may use the data that we have about you to recommend relevant content on our Services. We may also use the data (which can include your communications) to investigate, respond to and resolve complaints and Service issues.
 
-_**What We Do Not Collect**_
+**To Contact You.**
 
-We do not collect any information about your online activities with websites unrelated to HistoryNet or your particular online preferences other than your browsing of HistoryNet websites. We will not recognize Web browser “do not track” signals.  Because we link to social media sites, and from time to time may include third-party advertisements, other parties may collect your personally identifiable information about your online activities over time and across different web sites when you visit any HistoryNet website.
+We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, new features that you are entitled to access, and other important information.
 
-**WHAT DO WE DO WITH COLLECTED INFORMATION?**
+**To Better Understand Our Readers And Users.**
 
-We use information you provide to fulfill your requests, improve our publications, products and services, and operate our business. For example, we use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, e-mails, features, promotional material, surveys and other updates, information or offers to our users and subscribers. A user may, at any time, opt out of receiving promotional offers by mail, telephone or e-mail. We also use collected information to evaluate and administer our products and services, fulfill customer requests, like subscription and other orders, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users, and to put you in touch with trusted fulfillment partners who can provide services that we cannot.
+We perform statistical, demographic and marketing analyses of users of the Services, to better understand and serve our users, and to improve our products, services and customer relationships.
 
-We allow users of our website to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent, and do not share “send a friend” e-mail addresses with third parties.
+**Customize Your Experience.**
 
-Of course, we use personal information to allow you to subscribe online or to make product purchases at certain of our websites. Rest assured that we and our technical and fulfillment agents and consultants follow careful procedures to safeguard credit card data in connection with your transactions.
+We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most germane. We also use this information to customize certain features of the Services, such as providing you with an enhanced experienced based on the type of device you are using to access the Services.
 
-We may produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers.
+**Relevant Advertising.**
 
-**HOW DO WE SHARE PERSONAL INFORMATION?**
+We serve you tailored ads both on and off our Services. We may use demographic and preference information to facilitate the delivery of targeted ads, promotions and offers. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. We offer you choices regarding personalized ads but you cannot opt-out of seeing other ads. We may transmit website usage information about your use of the Services to third parties in order to show you advertising when you visit other sites. For more information about our third-party ad server, and to learn about your choices about targeted advertising, please [click here.](https://www.google.com/policies/technologies/ads/) We adhere to self-regulatory principles for interest-based advertising and participate in industry opt-outs from such ads. This does not opt you out of receiving all advertising; you will continue to get other ads by advertisers not listed with these self-regulatory tools. You can opt-out from interest-based advertising [here](https://www.aboutads.info/choices) or in the EU, [here](https://www.youronlinechoices.eu/), or in Canada, [here](http://youradchoices.ca/choices). Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
-Personal information is available to HistoryNet, including its brands and affiliates, and its or their technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information is available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below. If you wish to know more about this practice or would like to know about your options, you can visit the network Advertising Initiative (“NAI”) web-site: [http://www.networkadvertising.org](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
+**Audience Measurement Providers**.
 
-_**HistoryNet  and Its Agents**_. HistoryNet may access both anonymous, aggregate demographic data and any personal information you provide for internal marketing or other business purposes, including sending you notices of subscription renewal deadlines, new publications, services or products we offer likely to be of interest, and filling subscription and other orders. To facilitate subscriptions and orders, HistoryNet will cache your order information, and create an authorization with a merchant account (i.e., your credit card company). There are many companies who may be required to assist HistoryNet in making its publications, products and web sites available to you. Web host firms, technical and database consultants, advertising agencies, and fulfillment firms, including firms assisting us in offering contests and promotions, may have access to personally identifiable information in the course of making our products and services available. All companies working for HistoryNet must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.
+Some of our advertisers may seek to measure advertising ratings across many platforms, including on our Services. Sunset may permit the use of third-party measurement software that enables third parties (such as Nielsen) to collect data, which may identify you as a user of our Services, which is aggregated to create ratings reports for advertisers and publishers. According to Nielsen, these reports measure campaign performance on an aggregate level within various demographic categories and do not identify you personally. For more information about Nielsen’s information collection practices and any related opt-out choices, please see the Nielsen.com privacy policy [here](https://www.nielsen.com/us/en/privacy-statement.html). From time to time, we may offer contests, sweepstakes or other promotions that are sponsored or co-sponsored by or presented with identified third parties. If you choose to participate in such activities, we will collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other identified third parties. Sunset has no control over the third parties’ use of this information.
 
-_**Participating Vendors**_. Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. HistoryNet is not responsible for their privacy policies, and urges you to inquire about their information practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers do.
+**To Protect The Rights Of The Services And Others.**
 
-_**Credit Card Companies**_. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. HistoryNet will not otherwise provide any personal data to your credit card company.
+We may use your personal information as we believe is necessary or appropriate to protect, enforce or defend the legal rights, privacy, safety or property of the Services, its employees or agents, or other users and to comply with applicable law. We may otherwise use your information with your consent or at your direction.
 
-_**Advertisers, Sponsors and Promotional and Business Partners**_. We share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at sites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers, and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with specific vendors with whom you place an online order.
+### IV. HOW DO WE DISCLOSE THE INFORMATION WE COLLECT?
 
-Offline and online contact information is handled differently. As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. **You must opt-out if you do not wish to receive information from us or third parties by mail.**
+**Affiliates**.
 
-We may extend e-mail offers to you on behalf of our business partners about their products or services, but only if you have indicated that you would like to receive such offers. Although HistoryNet may receive a fee from our business partners for this service, HistoryNet sends those offers on behalf of the business partner, and does not share your e-mail address with them. Of course, you may opt out of receiving those offers at any time.
+If you have registered to use the Services, we may disclose your personally identifiable information to Sunset affiliates for internal management and administrative purposes on our behalf. In the future, we may sell, buy, merge, or partner with other companies or businesses. In such transactions, we may include your information among the transferred assets.
 
-At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. HistoryNet is not responsible for the privacy policies and procedures of any third party.
+**Service Providers**.
 
-**_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with HistoryNet. If you decide to accept these offers, we will provide your contact information to the third party. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies.
+We contract with other companies to provide products, services or functions on our behalf, including credit card and billing processing, ad serving, email distribution, analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them. These service providers are restricted from using personal information in any way other than to provide services for Sunset, and they may not share, resell or use the data for their own direct marketing purposes.
 
-_**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through HistoryNet’s websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. HistoryNet has no control over this use of your personal information.
+**Business Partners.**
 
-_**Important Note**_
+We may share your personal data with our channel partners to fulfill obligations and requests in connection with the Services, and/or conduct contests or sweepstakes. The privacy policies of such third parties apply to their use and disclosure of your information that we collect and disclose to such third-party companies.
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property and assure adherence to our terms of use; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation or process.
+**Law Enforcement**.
 
-**HOW DO WE USE COOKIES?**
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
 
-Your Web browser offers so-called “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. Our third party advertisers may also use cookies.
+**Social Networking Sites (SNS)**
 
-**HOW DO WE USE WEB BEACONS?**
+Our Services may enable you to post content to a SNS. If you choose to do this, we will provide information to the SNS in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third-party provider of such SNS. We will not be responsible or liable for: (i) the availability or accuracy of such SNS; (ii) the content, products or services on or availability of such SNS; or (iii) your use of any such SNS.
 
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
+**Third Parties.**
 
-**WHAT ABOUT THIRD PARTY ADVERTISERS?**
+If you are a print subscriber, we may exchange or rent your name and mailing address (but not your email address) and certain other information, such as when you first subscribed to Sunset publications with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out by emailing us at [opt-out@sunset.com](mailto:opt-out@sunset.com), or write to us at Opt-Out Postal, 1919 Gallows Road, Suite 400, Vienna, VA 22182. Please include your account number and phone number in the body of your email or letter and include “Opt-Out” in the subject line. We may also share information with third parties about our users in aggregate, de-identified form.
 
-Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by HistoryNet in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc.
+**Otherwise With Your Consent Or At Your Direction.**
 
-**HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
 
-We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences.
+### V. THIRD-PARTY WEBSITES
 
-1\. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
+Our Services may contain links to third-party websites. When you click on a link to any other website or location, you will leave our Services and go to another site, and other entity may collect information from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your personal data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third-party websites or locations are for your convenience and do not signify our recommendation of such third parties or their products, content or websites.
 
-2\. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <http://www.palmcoastd.com/ows-img/weider/Subscriber_Services.htm>.
+### VI. YOUR CHOICES REGARDING INFORMATION
 
-3\. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
+**Postal Mail.**
 
-4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: HistoryNet Magazines, Inc., c/o Privacy Coordinator, 1919 Gallows Road, Suite 400 Vienna, Virginia 22182. In those instances, we will retain your information in a “do not promote” file in our database.
+To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt-out of receiving marketing offers by mail, please email us at [opt-out@sunset.com](mailto:opt-out@sunset.com), or write to us at Opt-Out Postal, Sunset Publishing Corpration, 55 Harrison Street, Ste. 200, Oakland, CA 94607. Please note that if you choose to opt-out of Sunset’s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe. If you prefer not to receive e-mail marketing from Sunset Publishing Corporation or any of its affiliates, please follow the “unsubscribe” instructions near the bottom of each email or email us at [opt-out@sunset.com](mailto:opt-out@sunset.com). If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. If you feel you have received an email or newsletter from us in error, please contact [privacy@sunset.com](mailto:privacy@sunset.com). If you decide at any time that you no longer wish to accept Cookies from our site or Services for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Services or all functionality of the Services.
 
-5\. You may also contact us at comments {[@]} historynet.com.
+**Changing or Deleting Your Personal Data.**
 
-We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail.
+You may change any of your personal data in your account by editing your profile within your account. You may request deletion of your personal data by us and we will use commercially reasonable efforts to honor your request.
 
-**SECURITY OF YOUR PERSONAL INFORMATION**
+### VII. ADDITIONAL RIGHTS FOR EUROPEAN ECONOMIC AREA USERS
 
-We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. We take special precautions to safeguard your credit card data in our system.
+If you live in the European Economic Area, or a similar international area, you may have additional privacy rights available to you under applicable laws. We will obtain consents and process your requests in accordance with applicable data protection laws. If you would like to exercise any of the below rights, please contact [privacy@sunset.com](mailto:privacy@sunset.com) so that we may consider your request in accordance with applicable law:
 
-Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.
+  * Change or Correct Data : You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it is inaccurate.
 
-Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. HistoryNet employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those HistoryNet employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any personal information you post in chat rooms or message boards is available to anyone. We ask our agents, promotional and business partners, and trusted fulfillment partners to provide assurances of reasonable security, but are not responsible for the privacy or security practices of any third party.
 
-**CHILDREN’S PRIVACY**
+  * Object to, or Limit or Restrict, Use of Data : You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. HistoryNet is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-**LINKS**
+  * Request Erasure : You can ask us to erase your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to use of data, where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
 
-HistoryNet may offer links to or from Web sites it controls to other sites within the HistoryNet family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
 
-**CHANGES IN CORPORATE STRUCTURE**
+  * Right to Access, Transfer and/or Take Your Data : You can ask us for a copy of your personal data, including in a machine-readable format or transfer of your personal data to a third party.
 
-In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+  * Withdraw Consent at any Time : Where we are relying on consent to process your personal data, you may withdraw your consent at any time. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Under the California “Shine the Light” Law (Civil Code § 1798.83), California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to comments {[@]} historynet.com and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
-**VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
 
-Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of New York in the United States. Any information you provide in subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use.
+We will respond to inquiries regarding correction or deletion of data within a reasonable time frame in accordance with applicable laws. To protect your privacy, we will take reasonable steps to verify your identity before granting access or making corrections. If you are located in the European Union and wish to raise a concern about our use of your information, please contact the Data Protection Officer [here](mailto:dpo@sunset.com). You also have the right to do so with your local supervisory authority or where any alleged infringement of data protection laws occurred. We would, however, appreciate the chance to deal with your concerns before you approach the data protection authority so please contact us in the first instance. Sunset has a lawful basis to collect, use, and share data about you. Our lawful bases for the collection and processing of personal data include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g. to deliver the Services you have requested) and for the purpose of advancing legitimate interests in engaging in commerce, offering products and services of value to the users of the Services, preventing fraud, ensuring information and network security and complying with industry standards and practices. Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time, and where we rely on legitimate interests, you have the right to object. If you have any questions regarding the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer [here](mailto:dpo@sunset.com).
 
-**CHANGES TO OUR PRIVACY POLICY**
+### VIII. YOUR CANADIAN PRIVACY RIGHTS
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will e-mail registered website visitors information on material changes to this policy. Your continued use of the Site means you accept the updated privacy policy.
+Canadian Residents may have additional rights under Canadian law. Please see the information provided by the Office of the Privacy Commissioner of Canada for additional details. You, and we, confirm that it is our wish that this Privacy Policy and all other related policies be drawn up in English. Vous reconnaissent avoir exigé la rédaction en anglais du présent document ainsi que tous les documents qui s’y rattachent.
 
-**CONTACT INFORMATION**
+### IX. YOUR CALIFORNIA PRIVACY RIGHTS
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at comments {[@]} historynet.com. Please include the URL of the Web site and/or name of the publication involved in your request. Requests under the California “Shine the Light” Law (Civil Code § 1798.83), should be directed to comments {[@]} historynet.com and include the information noted in Your California Privacy Rights.
+Under the California “Shine The Light” law, California residents may opt-out of Sunset’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by emailing us at [opt-out@sunset.com](mailto:opt-out@sunset.com), or submitting a request to Opt-Out Postal, Sunset Publishing Corporation, 55 Harrison Street, Ste. 200, Oakland, CA 94607. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
-Or you can contact us by mail at:
+### X. KIDS AND PARENTS
 
-HistoryNet  
-Privacy Coordinator  
-1919 Gallows Road, Suite 400  
-Vienna, Virginia 22182
+The Services are not intended for use by children, especially those under thirteen. Sunset will not knowingly allow anyone under the age of thirteen to register for any of our Services or provide any personally identifying information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Services, we will delete such information from our records.
 
-Updated March 11, 2016
+### XI. SECURITY, RETENTION, AND STORAGE OF INFORMATION
+
+Sunset is committed to protecting the security of your personal data. We use a variety of industry-standard security technologies and procedures to help protect your personal data. No system can be completely secure, however. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet. We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws.
+
+### XII. INTERNATIONAL TRANFERS
+
+Sunset is headquartered in the United States. Please be aware that if information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law. Sunset (as Data Controller and Data Exporter) has, where local data protection regulations so require, put in place security measures for the export of personal data from its jurisdiction. For instance, where required, Sunset takes steps to ensure that your personal data is processed only in accordance with EU Data Protection laws. If you wish to learn more about international transfers of your personal data, you may contact our Data Protection Officer [here](mailto:dpo@sunset.com).
+
+### XIII. CHANGES TO OUR PRIVACY POLICY
+
+This Privacy Policy may be updated from time to time for any reason. If we decide to change our Privacy Policy in the future, we will post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted. Continued use of our Services, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes. If you do not agree, you should immediately discontinue your use of the Services.
+
+### XIV. HOW TO CONTACT US
+
+If you have any questions or concerns about the Sunset Publishing Corporation Privacy Policy or its implementation, please contact us via email at [privacy@sunset.com](mailto:privacy@sunset.com) or in writing to: Legal Department Sunset Publishing Corporation 55 Harrison Street, Ste. 200 Oakland, CA 94607 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. This Privacy Policy was revised May 22, 2018.
