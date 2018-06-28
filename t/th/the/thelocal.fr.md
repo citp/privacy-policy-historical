@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.fr privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203033342id_/http%3A//www.thelocal.fr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.fr privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629013035id_/https%3A//www.thelocal.fr/privacy) for the most accurate reproduction.*
 
 # Your privacy on The Local - The Local
 
@@ -59,5 +59,13 @@ Third party cookies also include those from our data analytics providers. These 
 At all times, you may adjust your computer's web browser settings to refuse all cookies. However, by doing so, you may not be able to use certain features on web sites and, if you wish to use our discussion forums or comment on articles, you will be asked to log in each time you visit.
 
 You can also remove all cookies from your computer – or specific cookies that you wish to remove –by opening your internet browser’s settings and finding the privacy or content settings.
+
+  
+**Advertising opt-outs**
+
+  * <http://optout.aboutads.info/#!/>
+  * <http://optout.networkadvertising.org/#!/>
+
+
 
 ##  More information
