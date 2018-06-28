@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217012531id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628052957id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CourseNotes
 
 This is the web site of **Course-Notes.Org**. 
 
-We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1b0b5bcb8bfb8a2a5a3b0a5bea391b2bea4a3a2b4fcbfbea5b4a2ffbea3b6)  
+We can be reached via e-mail at [administrator@course-notes.org](mailto:administrator@course-notes.org)  
 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
