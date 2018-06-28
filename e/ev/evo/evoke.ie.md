@@ -1,147 +1,292 @@
-> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054824id_/http%3A//evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628133400id_/https%3A//evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - EVOKE.ie
 
-This Privacy & Cookies Policy dated 30/08/2016 replaces our previous policies. Please take the time to review before you continue to use our products and services.
+## **ASSOCIATED NEWSPAPERS (Ireland) LIMITED**
 
-This Privacy & Cookie Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
+##  **Privacy & Cookies Policy (the “Policy”) **
 
-By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy.
+###  **What this Policy is for?**
 
-If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
+This Policy explains how we protect and handle any information you provide to us, including via our websites mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties. It also provides you with an overview of the rights you can exercise regarding what we do with your information.
 
- **About us**
+By using our products and services, including browsing our websites, registering or logging in, we may use your information as outlined in this Policy.
 
-[ **DMG Media**](http://www.dmgmedia.co.uk/) is an international multichannel media company which is home to some of Ireland and the UK’s most popular ** **[ **brands**](http://www.dmgmedia.ie/#!our-brands/uxwho), including the Irish Daily Mail, The Irish Mail on Sunday, MailOnline, Metro, The Daily Mail and the Mail on Sunday. These brands are trading styles of Associated Newspapers Ltd. Associated Newspapers Ltd and Associated Newspapers (Ireland) Ltd are part of the Daily Mail and General Trust plc group (“DMGT”). Members of the DMGT group may, use and share, within that group, the information you provide and other information held about you for the purposes set out below. For more information about the DMGT group please see the [ **DMGT website**](http://www.dmgt.com/). 
+###  **Who we are**
 
- **Information we may hold about you**
+ **[DMG Media](https://www.dmgmedia.co.uk/)**  is an international multichannel media company which is home to some of Ireland and the UK’s most popular  **[brands](http://www.dmgmedia.ie/our-brands)** , including Evoke.ie, Extra.ie, MailOnline and Metro. These brands are trading styles of Associated Newspapers Ltd./ Associated Newspapers (Ireland) Ltd which are part of the Daily Mail and General Trust plc group (“DMGT”). Members of the DMGT group may, use and share, within that group, the information you provide and other information held about you for the purposes set out below. For more information about the DMGT group please see the **[ DMGT website](https://www.dmgt.com/)**. ** **
 
-  * Information you’ve provided to us 
-  * Information about products and services you’ve ordered, enquired about or shown an interest
-  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you, including from specialist data companies
-  * Information about your interaction with our websites, mobile apps and other products and services, including adverts
-  * Information we collect using cookies stored on your device about your use of our websites and/or selected third party websites.
-  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
-  * Your IP address, which is a number that identifies a specific network device on the internet which allows your device to communicate with websites and apps.
-  * Technical information from your device relating to the service you receive
-  * Information relating to the location of your device.
+ **1.What kinds of information do we collect:**
+
+  * ###  **Information you’ve provided to us:**
 
 
 
-In line with industry best practice guidelines, we have a central database where we compile and hold all the information we have about our customers. In the industry this is often known as a “single customer view”.
 
- **How we may use your information  **
+We collect information about you when you provide it to us, including when you create an online account, subscribe to one of our titles, respond to one of our promotions, order or register your interest in one of our products, or post a comment under an article. This could be via your computer browser, via an app, by telephone, or by post.
 
-By using our websites, apps and other products and services, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services and developing our business which shall include (without limitation):        
-
-  * Verifying your identity (for example when you return to our websites or mobile apps)
-  * Personalising the content and advertisements you see on our websites and apps
-  * Developing the design and style of our products and services to make improvements
-  * Understanding more about you, such as your location and demographic information
-  * Informing you about the latest changes to our products and services
-  * Informing you of promotional offers that you might find interesting
-  * Dealing with, and responding to you about, a comment you have submitted for or on any message boards, blogs and other such user generated content facilities we provide
-  * Enabling you to share our content with others e.g. using “Email a friend” and “Share this article”
-  * Customer services and support
-  * Informing you if you have been successful in any competitions or promotions
-  * Compiling customer reviews
-  * Conducting market research
-  * Carrying out statistical, technical and logistical analysis and strategic development
-  * According to your preferences, communicating (and personalising such communication) with you
-  * To send you periodic newsletters about your chosen services
-  * To send you direct marketing. This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers
-  * To provide you with personalised services, such as providing you with recommendations on our websites, apps and in direct marketing, and tailored advertising. This includes where we use cookies or similar technologies in relation to the devices you use, for example to make some of the adverts you see more relevant to you 
-  * To provide you with location based services such as weather information based on your location and to provide advertising relevant to your location and previous locations 
-  * To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies and similar technologies when you visit our websites and apps 
-  * To block disruptive use and to ensure the security of our products and services
-  * To ensure the integrity of votes, competitions and polls 
-  * To comply with laws and other circumstances permitted under the Data Protection Act 1988 and other data protection laws. 
+  * ###  **Information from your device:**
 
 
 
- **How we may use your information in specific products or services**
 
- **Registration**
+We collect information from and about the device you are using when you interact with one of our websites, apps or other products/services, including adverts.
 
-If you’ve registered on our websites or apps, you’ll receive personalised recommendations, newsletters and marketing. These are tailored to you based upon your registration details and other information you provide us, your browsing history interactions with our emails and information we receive from our trusted partners and specialist data companies to help us understand what you might be interested in. This information may be collected using cookies and similar technologies. Please see our  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01) **below for more details.
+This may include:
 
- **Message boards, blogs and other public forums**
+(i) **Device Type:**  Information about your operating system, hardware, software, browser type in order to tailor the experience to your device (e.g. screen resolution).
 
-Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our [ **Terms**](https://evoke.ie/terms-conditions) and our **[House Rules](https://evoke.ie/house-rules)** for more information. ** **
+(ii)  **Device Operations:**  Information about your operations and behaviours performed on your device to tailor the experience based on how you or similar users have interacted with our content.
 
- **“Email a friend” and “share this article”**
+(iii)  **Unique identifiers:**  device IDs in order to save your preferences against an identifier to refer to on subsequent pages.
+
+(iv)  **Device Settings:**  Information from your device’s setting such as access to your GPS location/Information related to the location of your device so that we know which version of the website to serve you;
+
+(v)  **Network/connections:**  Your IP address, so that we can recognise if you have visited us before and allow your device to communicate with our websites and apps.
+
+(vi)  **Cookies:**  Data from cookies or similar technologies placed on your device which tells us about your use of our websites and/or selected third party websites. Please see  **Section 10  “Cookies” **below for more information about our use of cookies and other similar technologies.
+
+  * ###  **Information about transactions made**
+
+
+
+
+If you purchase anything or make any other financial transactions on any of our websites/apps, we collect information about your purchase and ask for information including your name, e-mail address and delivery address to be forwarded on to the vendors who are responsible for delivering your order. This does not include payment information such as your credit/debit card number.
+
+  * ###  **Information from partners**
+
+
+
+
+Where you have registered or created an account with one of our websites, we may obtain information about you from other companies who have obtained your permission (through their own privacy policies) to share information about you. For more information about this, please see  **“Personalisation/Identifying Your Interests”**  in  **Section 2**  below.
+
+  * ###  **Social media:**
+
+
+
+
+If you log-in to our websites through a social media site, such as Facebook, you are granting permission to Facebook to share your user information with us. This will include your name, email address, date of birth, location, plus any other information you have permitted Facebook to share with third parties. If you remove the app from your Facebook account, we will no longer have access to this information.
+
+  * ###  **Information about other people**
+
+
+
+
+By supplying us with information about someone else, you confirm that they have authorised you to provide us with their information (including sensitive personal data) on their behalf.
 
 Before you use “email a friend” or “share this article” buttons please make sure that anyone you wish to email or share with are happy for this to occur and expect to receive the email or article. You may only share the details of another person with us where you have their express permission.
 
- **Location based services**
+ **2\. How we may use your information**
 
-Where we provide services that utilise your device’s location, such as local weather or news, your location will be determined either from a lookup of your IP address in a “GeoIP” database which lists information provided by your ISP (usually your closest town or borough) or your precise location directly from the device (such as through GPS or Wifi on mobile devices) where you have granted permission for us to access this location information. If you have given us permission to use your location, we may use it for marketing and advertising purposes.
+  * ###  **Delivering services**
 
- **Push and in-app notifications on apps**
 
-Where you install one of our apps on your mobile device, this may use push notifications or in-app notifications. These notifications are used for a variety of reasons, for example push notifications may be used to trigger an automatic download of new content (such as a new edition) or to send you an update on new “editorial”, or breaking news message. Please see the app download or install page for each app for more information on how it uses notifications. Within the app, you may be able to select to receive only certain types of notifications.
 
- **Tailored advertising**
 
-We use advertising to fund our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. You may opt-out of online behavioural advertising at any time, please see our  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01)**  for details.
+By using our websites, apps and other products and services, we may process your information for the purpose of providing you with such products and services and managing our relationship with you, which shall include (without limitation):
 
-Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own website.
+– communicating with you in relation to your account or service, service updates or other non-marketing communications;
 
-Other times we will arrange for our customers to be shown advertisements on our own or other websites or apps. These advertisements are tailored to you with information we have obtained from your browsing on our websites and apps and from information about your likely interests that we obtain from our partners and specialist data companies, where they have your permission to share this information with us in line with their privacy policies.
+– contacting you where a checkout journey is not completed if you have provided your information;
 
-Where we arrange for our customers to be shown advertisements, we use technological and contractual mechanisms to protect your cookie data and to ensure that your browsing data used for advertising is not used by advertisers or other website owners for other purposes, such as linking online behavioural advertising data with your contact details, unless you have provided the advertiser or other website with your express permission to do this. 
+– delivering customer services and support;
 
-If you have registered on our websites or apps, we may analyse the information we hold on you in aggregate with our other customers to improve our advertising systems.
+– dealing with, and responding to you about a comment you have submitted for or on our message boards, blogs and other such user generated content facilities;
+
+– ensuring the integrity of votes, competitions and polls;
+
+– maintaining records of our communications with you if you get in contact with us;
+
+– obtaining customer reviews and conducting market research.
+
+– responding to press complaints submitted both direct to us and via the Press Council of Ireland
+
+ **Legal basis for these processing activities: Legitimate Interests**
+
+– running competitions effectively and informing you if you have been successful in any competitions or promotions;
+
+ **Legal basis for this processing activity: Contract**
+
+  * ###  **Communicating with you**
+
+
+
+
+In accordance with your preferences and data protection legislation, we may use your information to send you direct marketing communications. This may include communications by post, telephone, email or SMS about our products and services, events and special offers.
+
+We may also send you periodic newsletters about your chosen services, inform you of promotional offers that you might find interesting, and inform you about the any changes to our products and services where we have permission to do so.
+
+ **Legal basis for processing this data: Consent/Legitimate Interests**
+
+  * ###  **Personalisation/Identifying your interests**
+
+
+
+
+We may use your information to provide you with a greater personalised experience when you visit/use one of our sites/apps, and for insight and marketing purposes.
+
+We provide personalisation by using data you submit to us, cookies, IP addresses, web beacons or similar technologies in relation to the devices you use. By doing so, we can provide you with editorial content and/or advertising that we believe is more relevant to your interests. Please see  **Section 10**  on  **Cookies**  below for more information about our use of cookies and similar technologies and how you can adjust your settings.
+
+ **Legal basis for this processing activity: Consent**
+
+We may also overlay demographic and lifestyle data from  ** _[CACI](https://www.caci.co.uk/privacy-policy)_**  and  ** _[Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/)_**  to help us understand what you might be interested in for insight and marketing purposes (also known as  **“profiling”** ).  ** _[CACI](https://www.caci.co.uk/privacy-policy)_**  and  ** _[Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/)_**  data are built using a variety of sources, including publically available data (such as the electoral register and Census records) or from surveys and polls where you have given permission for your data to be shared. For more information on these partners and how you can opt-out of having your data shared with us from these sources for profiling purposes, please see the section entitled  **“Marketing Personalisation”**  in  **Section 4**  below.
+
+ **Legal basis for this processing activity: Legitimate Interests**
+
+  * ###  **Tailored advertising**
+
+
+
+
+We use advertising to fund some of our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. For more information on controlling your tailored advertising preferences, please see  **Section 10**  on  **Cookies**  below.
+
+Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own websites.
+
+Other times we will arrange for our customers to be shown advertisements on our own or other websites or apps. These advertisements are tailored to you with information we have obtained from your browsing on our websites and apps via cookies.
+
+Where we arrange for our customers to be shown advertisements, we use technological and contractual mechanisms to protect your cookie data and to ensure that your browsing data used for advertising is not used by advertisers or other website owners for other purposes, such as linking online behavioural advertising data with your contact details, unless you have provided the advertiser or other website with your express permission to do this.
 
 When you are shown an advertisement, our advertising systems do not know who you are or your contact details (such as your name, email address or postal address).
 
-Where you have granted permission to access your device’s location to us, our advertising partners or specialist data companies, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
+Demographic information from your registration on our websites and apps (such as your age, gender and city) may also be used to tailor the advertising we arrange to be shown. Your demographic information is not shared with advertisers.
 
- **How we may share your information**
+We may also target advertising on social media sites to specifically include customers who have registered for our products and services.
 
-We may share information about you with suppliers that we engage to help us provide the services and/or functionality, e.g. online payment processing and suppliers of any of the goods or services that you buy. We will use reasonable endeavours to ensure these third parties process your data securely.
+ **Legal basis for this processing activity: Consent**
 
-As discussed above, we may share your personal information with other companies within the DMGT group of companies.
+  * ###  **Location based services and advertising**
 
-We may also share personal information about you to third parties, where you have given us permission or where the third party can confirm that they have your permission for us to do this.
 
-We may also provide third parties with certain aggregate statistical data about our customers’ use of our websites and apps, which may include demographic data such as age range and/or geographic location of groups of our customers. This aggregate data does not include contact details (such as the customer’s name or postal address).
 
-We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or re-organisation of our business.
 
-We may also share your information as required by law and as contemplated by the Data Protection Act 1988 and other data protection laws.
+Where we provide services that utilise your device’s location, such as local weather or news, your location will be determined either from a lookup of your IP address in a “GeoIP” database which lists information provided by your ISP (usually your closest town or borough) or your precise location directly from the device (such as through GPS or Wifi on mobile devices) where you have granted permission for us to access this location information via your device settings. We use such information to provide you with a more tailored, relevant experiences when using our websites/apps.
 
- **Safeguards and security for your information  **
+Where you have granted permission to access your device’s location and consented to us to use your data for advertising purposes, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
 
-We have measures in place to protect the security of your personal information from unauthorised access or use, such as by using encryption technology.
+ **Legal basis for this processing activity: Consent**
 
-We comply with the Data Protection Act 1988 and related data protection laws. For more information on the Data Protection Act 1988 and your related rights please see the Data Commissioner’s Office website [www.dataprotection.ie](http://www.dataprotection.ie/) .
+  * ###  **Measurement and analytics**
 
- **Your choices**
 
-Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences. For your cookie choices, please the  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01) **below.
 
- **Email & SMS marketing**
 
-You can opt out of a particular marketing campaign or newsletter subscription by clicking on the ‘unsubscribe’ link in each email.
+We may use certain information (such as the websites that you visit and advertisements you see or click on) to help advertisers and other promotional partners measure the effectiveness and distributions of their advertisements and promotions.
 
-Your can opt-out of marketing text messages by replying ‘STOP’.
+ **Legal basis for this processing activity: Legitimate Interests/Consent**
+
+  * ###  **Improving our services and products**
+
+
+
+
+We may use your information to monitor and improve our products, content and services. This may include (without limitation):
+
+– developing the design and style of the our products and services to make improvements
+
+– carrying out statistical, technical and logistical analysis to inform our strategic development
+
+– blocking disruptive use and ensuring the security of our products and services
+
+If you have registered on our websites or apps, we may analyse the information we hold on you in aggregate with our other customers to improve our advertising systems.
+
+ **Legal basis for this processing activity: Legitimate Interests**
+
+  * ###  **Message boards, blogs and other public forums**
+
+
+
+
+Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our  ** _[Terms](https://evoke.ie/terms-conditions)_**  and  ** _[House Rules](https://evoke.ie/house-rules)_**  for more information.
+
+ **Legal basis for processing this data: Consent**
+
+  * ###  **Regulatory compliance**
+
+
+
+
+We may share your personal data with the Audit Bureau of Circulations Ltd so they can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following this  ** _[link](https://www.abc.org.uk/privacy-policy)_**.
+
+ **Legal basis for processing this data: Legitimate Interest**
+
+ **3\. Legal Bases for processing your data**
+
+ **Contract:**  We process some of your data as a necessary part of performing our contractual obligations to you. For example, ensuring products you buy can be delivered to you.
+
+ **Consent:**  Some processing activities will only be done where we have sought your prior consent. If we require your consent, we will provide you with full details of the information that we would like and the reason we need it. Once given, you have the right to withdraw your consent again at any point and we will be obliged to stop processing your data and delete it unless we can demonstrate that another legal basis applies.
+
+ **Legitimate Interests:**  We process some of your data because it is in our Legitimate Interests to do so. Where this is the case, we have considered the impact using your information may have on you, and limited our use to only what is strictly necessary. Where we are using this as our basis, we can provide you with an explanation of why the processing is in our interests and you are free to contest this decision if you wish.
+
+ **4\. How we may share your information**
+
+  * ###  **Sharing with third-party partners**
+
+
+
+
+ **Vendors:**  When you purchase goods or services from us, we partner with specialist companies to fulfil your order and provide certain customer services. This includes vendors on [ **MailShop**](https://www.mailshop.co.uk/) who you may have bought something from and specialist companies who assist us in obtaining ratings and reviews of product(s) and/or service(s). We usually remain the data controller of your information and the other companies only process data under our instructions and cannot use the information for their own purposes. If one of our third party partners acts as data controller of your personal data (whether or not as a data controller in common with us) we will let you know before you register for the service.
+
+ **Promotions:**  Sometimes we bring you promotions in association with other companies. If you enter such promotions, the other company will use the information you submit and we provide to them as a data controller in line with their own privacy policies. We’ll let you know the precise arrangement at the time you provide your personal information.
+
+ **Affiliates:**  We regularly partner with industry affiliates to bring you special deals on products and packages you may find of interest. These include travel providers on [ **MailTravel**](https://www.mailtravel.co.uk/) and financial service providers on [ **MailFinance**](https://www.mailfinance.co.uk/) or  ** _[This Is Money](http://www.dailymail.co.uk/money/index.html)_**. These providers collect marketing permissions for us and share data back with us about your purchases in order for us to measure the effectiveness of our marketing campaigns.
+
+If you decide to book a holiday with an affiliate, use their advisory services or set up an account, or purchase a financial product, these affiliates will be data controllers of the information you have provided them in order to administer your relationship with them and will handle your information in accordance with their own privacy policies.
+
+ **Functionality:**  We may share information about you with suppliers that we engage to help us provide our services and/or functionality of our websites and apps. For example, we share data with Google to prevent certain website functions from being abused. Where this happens your data will be processed in accordance with Google’s  ** _[Privacy Policy](https://policies.google.com/privacy?hl=en)_**.
+
+ **Advertisers:**  We may provide third party advertisers with reports containing aggregate statistical data about our customers’ use of our websites and apps to determine the kinds of people viewing their ads and how they are performing. This aggregated information may include demographic data such as age range and/or geographic location of groups of our customers.
+
+This aggregated data does not include contact details (such as names, addresses or email addresses) that can be used to personally identify you or contact you.
+
+ **Marketing personalisation:**  We may match your data with data held by  ** _[CACI](http://www.caci.com/)_**  and  ** _[Acxiom](https://www.acxiom.com/)_** , to add extra lifestyle and demographic insight information to your account with us which we then use to make our marketing more relevant to you (subject to your communication preferences and our internal policies and procedures). We can only obtain this information where they have your permission to share this information with us in line with their privacy policies. You can opt-out of having your personal information profiled in this way by contacting us or adjusting your account settings. For more information on these partners and the data it provides, and to opt out of their programmes directly, please visit them at  ** _[CACI](https://www.caci.co.uk/privacy-policy)_**  and  ** _[Acxiom](https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/)_**.
+
+ **DMGT Group:**  Associated Newspapers Ltd. is part of the Daily Mail and General Trust plc Group (“DMGT”). Members of DMGT may, use and share, within that group, the information you provide and other information held about you for the purposes set out in this Policy. For more information about the DMGT group please see the  ** _[DMGT website](https://www.dmgt.com/)_**  and the  ** _[DMGT Privacy Policy](https://www.dmgt.com/site-services/privacy-policy)_**.
+
+Change of Control: We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+
+ **5\. Details of transfers to third countries and safeguards**
+
+Any organisation who has access to your information in the course of providing services on our behalf will be governed by contractual restrictions to make sure they protect your information and comply with applicable data protection legislation.
+
+Where these organisations are based outside of the EEA in a jurisdiction that has not been deemed adequate by the EU, we enter into EU approved model clauses with them to ensure appropriate safeguards are in place.
+
+ **6\. How our brands work together**
+
+The  ** _[Daily Mail](https://www.dmgmedia.co.uk/brands/daily-mail/)_** ,  **[The Mail on Sunday](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/)** , [ **MailOnline**](http://www.dailymail.co.uk/home/index.html), **[Evoke](https://evoke.ie/)** , **[Extra](https://extra.ie/)** ,  **[Metro](https://metro.co.uk/)** ,  **[This Is Money](http://www.dailymail.co.uk/money/index.html)** ,  ** _[YouMagazine](https://www.you.co.uk/)_** ,  ** _[MyMail](https://www.mymail.co.uk/home)_** ,  ** _[MailPlus](https://www.dailymailplus.co.uk/)_** ,  ** _[MailShop](https://www.mailshop.co.uk/)_** ,  ** _[MailTravel](https://www.mailtravel.co.uk/)_**  and  ** _[MailFinance](https://www.mailfinance.co.uk/)_**  share infrastructure, systems and technology and all fall under the data control of Associated Newspapers Ltd and Associated Newspapers Ireland Ltd. These brands work together to understand how our users interact with our products and services, and to share insights to improve our products and services.
+
+ **7\. How can you exercise your rights under the GDPR**
+
+  *  **Access:**  If you wish to exercise your right to access a free copy of your data, you can contact us at the contact details provided below at  **Section 12**.
+  *  **Deletion:**  To ask us to delete your personal data, please contact us at the contact details provided below at  **Section 12**. However, there may be circumstances where we are legally entitled to retain it.
+  *  **Rectification:** If you wish to update or rectify your data, you can do this directly by accessing your account settings.
+  *  **Revoke consent:**  If you wish to object to the processing of your data for direct marketing or online behavioural advertising purposes, you can opt-out by updating your settings or, for direct marketing, clicking on the “unsubscribe” link in any marketing email or newsletter you receive from us.
+  *  **Objection to automated profiling:**  If you wish to opt-out of having your personal information profiled for personalisation purposes you can adjusting your account settings or contact us directly.
+  *  **Objection to legitimate interests:**  If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party please contacting us as at the contact details provided below stating the nature of and reasons for such objection.
+  *  **Complain:**  You also have the right to lodge a complaint about us with our supervisory authority, the  **[Data Protection Commissioner’s Office](https://www.dataprotection.ie/docs/GDPR/1623.htm)**
+
+
+
+If you are contacting us to exercise any of your rights under the GDPR, you will have to provide valid proof of identification. We are required to respond to your request within 1 month.
+
+ **8\. Data retention and account deletion**
+
+We store your data for no longer than necessary in relation to the purpose under which such data was collected. This is determined on a cases by case basis and depends on things such as the nature of the data provided, why it was collected, the legal basis we rely upon to process the data, and our relevant legal or operation retention requirements. For example, if you request to delete your account we still have to retain some data for fraud prevention purposes and financial auditing.
+
+ **9\. Children & young people**
+
+Our websites, apps and other products and services are not aimed at children. We do not target, intend to collect, or knowingly collect or otherwise process information from anyone under the age of 13.
+
+If you are under the age of 13, we request that you do not provide us with your information and do not use our websites and apps.
+
+If you are a parent or guardian of a child under 13, please contact us if you are aware that your child has used our websites or apps or otherwise provided their information to us without your consent. We will delete or otherwise cease processing your child’s personal information within a reasonable time.
+
+If you are aged 13, 14 or 15, we request that you seek your parent or guardian’s permission before providing us with your information or using our websites or apps.
 
 In accordance with industry best practice guidelines, we may retain your information for a reasonable amount of time to make sure that we do not contact you in the future.
 
- **Use of your location**
+ **10\. Cookies**
 
-You can choose whether to provide us with your precise location from your device through your browser’s “Help” menu, or through the “Location” or “Location Services” in the settings on your mobile device.
-
- **Use of push notifications**
-
-You will be prompted to choose whether to receive push notifications the first time you run each app, and you can update your preferences at any time through the settings on your device.
-
-##  **Cookies Policy  **
-
-You should be aware that when you use our websites and apps we may collect information using cookies or similar technologies.
-
-When you visit our pages on social media or other websites, the social media site or other website may also use cookies in line with their own cookies policies.
+When you use our websites and apps we may collect information using cookies or similar technologies.
 
  **What are cookies and how do they work?**
 
@@ -149,103 +294,124 @@ Cookies are small files that are downloaded to your computer or mobile device wh
 
  **Do you use other technologies which are similar to cookies?**
 
-Our websites, apps and emails often contain small invisible images known as ‘web beacons’ or ‘tracking pixels’. These are used in a way similar to cookies, to understand when a particular part of a webpage, email or app is viewed.
+Yes, we use the following:
 
-Our apps often use device identifiers in the same way as cookies are used on web browsers. A device identifier is a unique number on your device which allow us to remember your device.
+  *  **Web beacons:**  Our websites, apps and emails often contain small invisible images known as ‘web beacons’ or ‘tracking pixels’. These are used in a way similar to cookies to:
+
+
+
+– understand when a particular part of a webpage, email or app is viewed,
+
+– understand how successful an article or an email marketing campaign has been
+
+– verify any clicks through to links or advertisements contained in emails
+
+  *  **Flash cookies:**  In certain situations we use Adobe Flash Player to deliver video clips. Local Shared Objects (Flash cookies) are used to provide functions such as remembering your settings and preferences.
+  *  **Tracking URLs:**  These are web links that allows us to measure when a link is clicked on. They help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
+  *  **Device identifiers:**  We use device identifiers on mobile devices in the same way as cookies are used on web browsers. A device identifier is a unique number on your device which allow us to remember your device.
+
+
 
 We use these similar technologies on websites, emails and apps, for the same purposes and in much the same way as we use cookies on websites. We will use “cookies” and “websites” below as shorthand for “cookies and similar technologies” on “websites, emails and in apps”.
 
- **What do we use cookies for?**
+###  **What do you use cookies for?**
 
-Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+Cookies and other online tracking technologies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites.
 
- **(i) Cookies that are needed to provide the service you have asked for**
+There are many different uses for cookies, but for within our sites, they fall into the following groups:
 
-Some cookies are essential so you can move around the website and use its features. Without these cookies, services you’ve asked for can’t be provided. These cookies don’t gather information about you that could be used for marketing or remembering your browsing history. For example:
+ **(i) Cookies that are needed to provide the service you have asked for (Essential)**
 
-  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
-  * When you add something to the online shopping basket, cookies make sure it’s still there when you get to the checkout.
+Some cookies are essential so you can move around our websites and use their features. Without the use of these cookies parts of our websites would not function.
 
+ **(ii) Cookies that collect information about your choices and preferences (Functional / Preference)**
 
-
- **(ii) Cookies used to improve your browsing experience**
-
-These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. For example:
-
-  * Remembering your preferences and settings, including marketing preferences.
-  * Remembering if you’ve filled in a survey, so you’re not asked to do it again.
-  * Showing you information that’s relevant to products of ours that you have.
-  * Showing ‘related article’ links that are relevant to the page you’re looking at.
-  * Remembering a location you’ve provided us with to provide local weather forecasts.
-  * Linking your browsing history collected by analytics cookies to your registration details to provide you with recommended content and marketing
-  * Restricting the number of times you’re shown a particular advertisement. This is sometimes called ‘frequency capping’.
-
-
-
-Cookies are also used to enable social media components on our websites, such as embedded content from social media sites such as Facebook or Twitter, share buttons and videos. The cookies are set by the relevant social media provider. For more information about these cookies, including how to set your preferences for these cookies, please refer to the relevant social media provider’s website for more information.
+These cookies collect information about your choices and preferences, and allow us to remember things like:
 
  **(iii) Cookies used to understand how people use our products and services (Analytics)**
 
-We like to keep track of what pages, links and sections of our apps are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. It’s also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get ‘error messages’ from web pages.
+We use analytics cookies to gather information about what pages, links and sections of our apps are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. They are also useful to be able to identify trends of how people navigate our sites so we can identify improvements to make to the customer journey
 
-We use cookies, which are often called ‘analytics cookies’, to gather this information. These cookies don’t store your contact details (such as your name or postal address). We may, however, combine information collected by analytics cookies with other information that you provide to us. For instance, if you have registered for an account with us, we may combine your contact details and other information you provide us with the browsing history from your device collected by analytics cookies (including data collected from before you registered and when you are signed-out). We use this information to provide you with personalised content recommendations and marketing communications. We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems.
+We may combine information collected by analytics cookies with other information that you provide to us. For instance, if you have registered for an account with us, we may combine your contact details other information you provide us with the browsing history from your device collected by analytics cookies (including data collected from before you registered and when you are signed-out).
 
- **(iv) Cookies used to show advertising that is relevant to you**
+We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems.
 
-Some advertising, known as “online behavioural advertising” or “OBA” is tailored to you and uses information collected by first party and third party cookies. Please see our [ **Privacy Policy**](https://evoke.ie/privacy-policy-cookies#link02) above for further information about how we use online behavioural advertising.
+ **(iv) Cookies used to show advertising that is relevant to you (Tracking and Advertising)**
 
-We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+Some advertising, known as “online behavioural advertising” is tailored to you and uses information collected by first party and third party cookies based your web browsing activity. Cookies are placed on your browser to remember the websites you have visited. Advertising based on what you have been looking at is then displayed to you when you visit websites who use the same advertising networks.
 
-We also use cookies on our own and advertisers’ sites to understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
+To help us deliver relevant advertising using cookies, we use Google Double Click. Click  ** _[here](https://www.google.com/intl/bg/doubleclick/)_**  to find out more about Google Double Click.
 
-In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called “ad verification”.
+We also use these cookies in order to:
 
-We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services. 
+  * know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+  * understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
+  * protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called “ad verification”.
 
-Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral.
 
- **Your cookie choices**
 
-Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences.
+ **Ad-blockers:**  We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services. We reserve the right to restrict your access to some or all of our website while you have an ad blocker turned on.
 
-You can opt-out of receiving cookies by changing your web browser settings. For more information on how to achieve this, please see our ** **[ **Privacy Policy and Cookies FAQ’s**](https://evoke.ie/cookies-faq). 
+ **Do Not Track:**  Our websites do not respond to “Do Not Track” (DNT) browser settings.
 
-You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. You can opt-out of analytics cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](https://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page. Where you use our apps, similar technologies to cookies are used for analytics. Is it not presently possible to opt-out of these similar technologies. If you are not happy to be included in our analysis, please do not use our apps.
+##  **Managing Cookies**
 
- **Your ad choices**
+You can change your cookie settings on this website at any time via your  ** _Privacy Settings._**
 
-You can opt-out of online behavioural advertising cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](https://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page.
+Cookies can also be controlled using the following instructions:
 
-When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
+  *  **Mobile Devices:**  When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
+  *  **OBA Cookies:**  If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to  ** _[Your Online Choices](http://www.youronlinechoices.com/uk/)_**.
+  *  **Web-Beacons:**  You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. Please see the  ** _[All About Cookies](http://www.allaboutcookies.org/)_** website for further information about managing your options.
+  *  **Flash Cookies:**  You can manage the use of Flash technologies with the Flash management tools available at  ** _[Adobe’s website](https://www.adobe.com/devnet/flashplayer/articles/privacy.html)_**.
+  *  **Browsers:**  The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
 
-Please note that you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.
 
- **Contacting us and accessing your personal information**
 
-If you have any queries or comments about this Privacy & Cookies Policy please contact us at:
+–  ** _[Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)_**
 
- [dataprotection@evoke.ie](mailto:dataprotection@evoke.ie)  
+– **[ Internet explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)**
 
-If you wish to review or receive a copy of the personal information we hold about you, please write to us at:
+–  ** _[Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)_**
 
-Legal Department
+–  ** _[Safari OS X](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)_**
 
-DMG MEDIA IRELAND
+–  ** _[Safari iOS](https://support.apple.com/en-gb/HT201265)_**
+
+–  ** _[Android](https://support.google.com/chrome/answer/2392709?hl=en-GB)_**
+
+–  ** _[Blackberry](https://uk.blackberry.com/legal/cookies)_**
+
+–  ** _[Windows phone](https://support.microsoft.com/en-us/help/11696/windows-phone-7)_**
+
+Please note that our website, apps and other products and services may not work correctly (or at all) if you change certain preferences. For example, you may not be able to purchase products via our websites. However, you may still be able to place an order via our telephone order line.
+
+Where you use our apps, similar technologies to cookies are used for analytics. It is not presently possible to opt-out of these similar technologies. If you are not happy to be included in our analysis, please do not use our apps.
+
+Please also note that after applying these settings, you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.
+
+ **11\. Updates to this Policy**
+
+We reserve the right to make changes to this Policy. Where changes are made, we will post the revised Policy here with an updated effective date. Please check regularly for any changes to this Policy.
+
+ **12\. How to contact us:**
+
+If you have any queries or comments about this Policy or to exercise any of your rights under the GDPR, please contact us by email at:
+
+[dataprotection@dmgmedia.ie](mailto:dataprotection@dmgmedia.ie)
+
+Alternatively, you can write to us at:
+
+Legal Department – Data Protection & Privacy
+
+DMG Media Ireland Ltd
+
+Third Floor
 
 Embassy House
-
-Herbert Park Lane
 
 Ballsbridge
 
 Dublin 4
 
-D04 H6Y0
-
-Republic of Ireland
-
-We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
-
- **Changes to this Privacy & Cookies Policy**
-
-We reserve the right to make changes to our Privacy & Cookies Policy. Where changes are made, we will post the revised Policy here with an updated effective date. Your continued use of our websites, apps, or other products or services will signify your acceptance of these changes.
+ **Last updated:**  24 May 2018
