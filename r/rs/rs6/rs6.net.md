@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230215802id_/http%3A//www.constantcontact.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629011922id_/http%3A//www.constantcontact.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact
+
+This Privacy Policy applies to all users who sign up for services **before** May 23, 2018. Beginning on **May 23, 2018** , our new Privacy Policy will apply to all new users and all users in the EU/EEA member countries. The new Privacy Policy will be effective on **June 23, 2018** for users outside the EU/EEA member countries who signed up for services before May 23, 2018. The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference. <https://www.endurance.com/privacy/privacy>
 
 **Effective December 27th, 2017**
 
@@ -213,7 +215,7 @@ Back to Top
 
 #### Accountability
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=92fbb66e-13d8-4918-8668-f14412c1e0b3 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=e295bdb8-2205-4b5d-bdb2-78ff2021f349)
 
 Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact is committed to subjecting all personal data received from European Union (“EU”) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles. To learn more about the Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
