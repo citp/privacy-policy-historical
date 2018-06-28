@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514033558id_/http%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628094051id_/http%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | VSCO
 
@@ -16,6 +16,7 @@ Click on the links below to jump to each section:
   6. Links to other websites and services
   7. How to contact us
   8. Changes to our Privacy Policy
+  9. EU Addendum
 
 
 
@@ -96,11 +97,11 @@ We collect the following types of information about you:
 > If you have any questions about this Privacy Policy or the Service, please contact us at [support@vsco.co](mailto:support@vsco.co).
 
 > 
->     1500 Broadway, Suite #300
->     Oakland, CA 94612
+>         1500 Broadway, Suite #300
+>         Oakland, CA 94612
 >     
->     1 (510) 545-3844
->     
+>         1 (510) 545-3844
+>         
 
 > Please note that we do not offer phone support, but if you have questions regarding our products or your order, please visit our [Support page](http://support.vsco.co/), or you may contact our Support team at [support@vsco.co](mailto:support@vsco.co).
 
@@ -108,4 +109,36 @@ We collect the following types of information about you:
 
 > VSCO may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy in a material manner, we will update the ‘last modified’ date at the bottom of this page.
 
-> This Privacy Policy was last modified on June 7, 2016.
+#### 9\. EU Addendum
+
+> **Controller.** Visual Supply Company is the controller of the personal data that we have about you and can be reached at: 1500 Broadway, Suite 300, Oakland, CA 94612 or [support@vsco.co](mailto:support@vsco.co). 
+
+> **Your rights.** You may ask us to take the following actions: 
+> 
+>   * **Access.** Provide you with information about our processing of your personal data and give you access to it.
+>   * **Correct.** Update or correct inaccuracies in your personal data.
+>   * **Delete.** Delete your personal data.
+>   * **Export.** Export a machine-readable copy of your personal data that you can use with a different service.
+>   * **Restrict.** Restrict the processing of your personal data.
+>   * **Object.** Object to our reliance on our legitimate interests as the legal basis of processing your personal data if that processing adversely impacts your legal rights.
+> 
+
+> 
+> To request one of these actions, contact us at [support@vsco.co](mailto:support@vsco.co). We may request information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.
+
+> **Marketing emails.** You can always opt out of our marketing emails by following the unsubscribe prompt in the message. You may still receive administrative or other non-marketing messages. 
+
+> **Legal bases.** We generally process your personal data on the following legal bases: 
+> 
+>   * **Contractual necessity.** You have entered a contract with us and we need to use some of your personal data to provide services you have requested or take steps that you request prior to providing services. For example, we cannot create an account for you if you do not provide required information like your email address or phone number. If you do not provide information indicated as required or mandatory within our service, or that is otherwise necessary to provide a requested service or feature within the service, it will not be available to you.
+>   * **Compliance with law.** We may have to process or share your personal data to comply with legal obligations, such as to comply with a subpoena or legal process.
+>   * **Legitimate interests.** We process your personal data for purposes that constitute our legitimate interests, such as fraud prevention and safety; protecting our, your or others’ property rights; exercising or defending legal claims; investigating violations of and enforcing our Terms of Use; analyzing and improving our services; and marketing and advertising.
+>   * **Consent.** In some cases, we may process your personal data based on your consent, such as where we request access to data on your mobile device through the prompts in your device’s operating system. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated at the time consent is requested.
+> 
+
+
+> **Updates.** Privacy laws are undergoing significant changes in Europe and we may need to further update our Privacy Policy as laws take effect and regulators provide additional guidance. While we will always notify you of any material updates, we encourage you to revisit our Privacy Policy from time to keep current with any changes. 
+
+> **Questions, concerns, complaints.** If you have any questions or concerns, please email us at [support@vsco.co](mailto:support@vsco.co). In addition, you can always submit a complaint to your data protection regulator. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
+
+_This Privacy Policy was last modified on May 25, 2018._
