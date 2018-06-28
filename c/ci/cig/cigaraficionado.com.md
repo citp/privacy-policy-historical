@@ -1,31 +1,41 @@
-> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907191913id_/http%3A//www.cigaraficionado.com/display/show/id/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628224900id_/https%3A//www.cigaraficionado.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cigar Aficionado
+
+This is the web site of Cigar Aficionado, published by M. Shanken Communications.
 
 * * *
 
-This is the Web site of Cigar Aficionado, published by M. Shanken Communications. 
+###### Postal Address
 
-Our postal address is: 
+825 Eighth Avenue  
+33rd Floor  
+New York, NY 10019
 
-825 Eighth Avenue   
-33rd Floor   
-New York, NY 10019 
+* * *
 
-We can be reached via e-mail at caonline@mshanken.com, or you can reach us by telephone at 212-684-4224. 
+###### General Information
 
-The information we collect is used to improve the content of our Web Site, used to notify consumers about updates to our Web Site, and used by us to contact consumers for marketing purposes. We do not share the information with other organizations for any purpose. 
+We can be reached via e-mail at [caonline@mshanken.com](mailto:caonline@mshanken.com "Email us at caonline@mshanken.com"), or you can reach us by telephone at 212-684-4224.
 
-When you set up an account, we ask your permission to send you e-mail. We do allow you to opt-out. 
+The information we collect is used to improve the content of our Web Site, used to notify consumers about updates to our Web Site, and used by us to contact consumers for marketing purposes. We do not share the information with other organizations for any purpose.
 
-If you supply us with your postal address, you may receive periodic mailings from us with information on products and services or upcoming events. 
+When you set up an account, we ask your permission to send you e-mail. We do allow you to opt-out.
 
-If at any time you no longer wish to receive such e-mail or postal mailings from us, please let us know by calling, writing or sending e-mail to us telling us that you do not want to receive mail or e-mail from our company anymore. Please provide us with your exact name and address. We will be sure your name is removed from our lists for such purposes. 
+If you supply us with your postal address, you may receive periodic mailings from us with information on products and services or upcoming events.
 
-If you supply us with your telephone number or fax number, you may receive telephone contact from us with information regarding orders your have placed on-line or your on-line user account. We will only contact you by phone on an as needed basis. Your phone number will not be used for solicitations. 
+If at any time you no longer wish to receive such e-mail or postal mailings from us, please let us know by calling, writing or sending e-mail to us telling us that you do not want to receive mail or e-mail from our company anymore. Please provide us with your exact name and address. We will be sure your name is removed from our lists for such purposes.
 
-Third Party Advertising  
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
+If you supply us with your telephone number or fax number, you may receive telephone contact from us with information regarding orders your have placed on-line or your on-line user account. We will only contact you by phone on an as needed basis. Your phone number will not be used for solicitations.
 
-Third Party Cookies  
+* * *
+
+###### Third Party Advertising
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy "more information about DoubleClick, cookies, and how to opt-out").
+
+* * *
+
+###### Third Party Cookies
+
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
