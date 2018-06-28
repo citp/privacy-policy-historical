@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the apkreal.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917134515id_/http%3A//apkreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkreal.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628031910id_/https%3A//apkreal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Latest Download
 
-[](http://apkreal.com/ "APKReal - Your Premium Store to Download Android Apps & Games also with Mods For Free!") APKReal.com - Secure Android Apps & Games Reviews
+[](https://apkreal.com/ "APKReal - Your Premium Store to Download Android Apps & Games also with Mods For Free!") APKReal.com - Secure Android Apps & Games Reviews
 
 UPDATED ON: Tuesday, February 7, 2017
 
-APKReal.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect our users but also increase users confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. APKReal.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. By using our site, you consent to our website’s privacy policy and [Terms of use](http://apkreal.com/terms-and-conditions/ "Terms of use Privacy Policy - Privacy Policy").
+APKReal.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect our users but also increase users confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. APKReal.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. By using our site, you consent to our website’s privacy policy and [Terms of use](https://apkreal.com/terms-and-conditions/ "Terms of use Privacy Policy - Privacy Policy").
 
 How We Gather Information and Technologies We Use?
 
@@ -37,4 +37,4 @@ APKReal.com reserves the right to change or update this Privacy Policy at any ti
 
 Contacting the Site
 
-This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy, please feel free to contact us [here](http://apkreal.com/contact-us/ "Contact APKPure Privacy Policy - Privacy Policy").
+This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy, please feel free to contact us [here](https://apkreal.com/contact-us/ "Contact APKPure Privacy Policy - Privacy Policy").
