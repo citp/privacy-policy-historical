@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172659id_/http%3A//www.comparometer.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628194657id_/http%3A//www.comparometer.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+###  How we collect information?
+
 Comparometer always respects your Privacy and we use the best IT security measures to keep all your personal information safe and protected. We At comparometer.IN want you to know how, what and when we collect and use information that you decide to share with us while using comparometer. in such as your name, mailing address, phone number, and email address ("personal information"). If we make any changes to our privacy policy, we will post a revised Privacy Policy on this page. If you have any questions, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) By using/browsing/registering with comparometer.in and by submitting your personal data on the Website, you agree to be bound by this Privacy Policy.
 
-###  How we collect information
+### What Information is collected?
 
 The information personal or non personal is collected when you access, visit, browse our website or shop through it.
 
-### What Information is collected?
+### Why we collect information?
 
 We collect information about you to offer an enhanced shopping experience with us. This is categorized into 2 types –
 
@@ -28,15 +30,9 @@ We collect information about you to offer an enhanced shopping experience with u
 
 \- How long you viewed our websites and which services and features you used
 
-### Why we collect information
+### How the information is used?
 
 The information is collected to make your shopping experience even better with us. We work on various possibilities and factors to empower you with the seamless, exciting and transparent shopping experience. Shopping should be fun, not a chore! That’s why the website is full of useful tools, to make your shopping all the more interesting.
-
-### How the information is used
-
-We understand the security of your personal information. We have various security norms to safeguard your privacy. Comparometer will not sell, trade, discloses your personal information to any third party unless:
-
-1) it is absolutely necessary in order to provide you with a specific Service you would have requested 2) it is required of Comparometer in order to comply with a legal process in any applicable jurisdiction (e.g., court order, search warrant, law enforcement 3) it is required by our partner websites, affiliates, advertisers etc. 4) they are the service providers or vendors whom we assign the contract for email messaging, sms services, conduct surveys or provide us analytics to how our website is being used etc.
 
 ### Cookies
 
@@ -46,10 +42,14 @@ Comparometer.in contains links to the websites of third parties. We should not b
 
 ### Copyright
 
-All content of this website, including, but not limited to, artwork, graphics, images, illustrations, photographs, text, video, audio clips, logos, and designs are the intellectual property of the Company, it affiliates, or third parties who have licensed the materials to us. All content is protected by copyright, trademark, and other intellectual property laws of India. This website in its entirety including, without limitation, the design, layout, selection, coordination, and enhancement of the content, is protected by all copyright and applicable laws.
+We understand the security of your personal information. We have various security norms to safeguard your privacy. Comparometer will not sell, trade, discloses your personal information to any third party unless:
+
+1) it is absolutely necessary in order to provide you with a specific Service you would have requested 2) it is required of Comparometer in order to comply with a legal process in any applicable jurisdiction (e.g., court order, search warrant, law enforcement 3) it is required by our partner websites, affiliates, advertisers etc. 4) they are the service providers or vendors whom we assign the contract for email messaging, sms services, conduct surveys or provide us analytics to how our website is being used etc.
 
 ### Children`s privacy
 
-We may not be able to serve the children below 18 years old. We may not collect any information for a child below 18 years knowingly. We respect & feel our social responsibility towards children below 18 years; therefore the website may not allow kids below 18 to create an account with us. If you think we have fallen short at any time, we would love to hear from you - you can be sure we will always listen and work to put it right.
+All content of this website, including, but not limited to, artwork, graphics, images, illustrations, photographs, text, video, audio clips, logos, and designs are the intellectual property of the Company, it affiliates, or third parties who have licensed the materials to us. All content is protected by copyright, trademark, and other intellectual property laws of India. This website in its entirety including, without limitation, the design, layout, selection, coordination, and enhancement of the content, is protected by all copyright and applicable laws.
 
-Please feel free to contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+### Please feel free to contact us at: 
+
+We may not be able to serve the children below 18 years old. We may not collect any information for a child below 18 years knowingly. We respect & feel our social responsibility towards children below 18 years; therefore the website may not allow kids below 18 to create an account with us. If you think we have fallen short at any time, we would love to hear from you - you can be sure we will always listen and work to put it right.
