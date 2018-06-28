@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135617id_/http%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628060344id_/https%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
 
 # Medindia Privacy Policy
 
@@ -39,6 +39,10 @@ Advertisements appearing on any of our websites may be delivered to users by adv
 ### Privacy Policy Changes
 
 Medindia may change its Privacy Policy from time to time, and in Medindia’s sole discretion. Medindia encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+
+### Legitimate Interest
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 ### Contact Us
 
