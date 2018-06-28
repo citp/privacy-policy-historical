@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toeflgoanywhere.org privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630164222id_/https%3A//www.ets.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toeflgoanywhere.org privacy policy that was archived on 2018-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628201317id_/https%3A//www.ets.org/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 		
@@ -10,9 +10,8 @@
 		<meta name="description" content="">
 		<meta name="keywords" content=" ">
 
-		<link rel="stylesheet" type="text/css" href="/rsc/css/ets-base.css">
-		<link rel="stylesheet" type="text/css" href="/rsc/css/jquery-ui.min.css">
-
+		<link rel="stylesheet" href="/rsc/css/base.min.css">
+		
 		
 			
 	</head>
@@ -24,15 +23,6 @@
 	
 	<body class="ets-org init  ">
 <!--stopindex-->
-
-		<div role="navigation" id="access-links">
-			<a href="#main">skip to contents</a>
-			<a href="#mm">skip to navigation</a>
-			<a href="#search-trigger">skip to search</a>
-			<a href="#footer">skip to footer</a>
-		</div>
-		
-		<div id="ie-warn"></div><!-- /ie-warn -->
 
 		<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<defs>
@@ -99,9 +89,18 @@
 				</symbol>
 			</defs>
 		</svg>
+
+		<div role="navigation" id="access-links" class="access-links">
+			<a href="#main">skip to contents</a>
+			<a href="#mm">skip to navigation</a>
+			<a href="#search-trigger">skip to search</a>
+			<a href="#footer">skip to footer</a>
+		</div>
 		
-		
-		<div id="wrap-head">
+		<div id="ie-warn"></div><!-- /ie-warn -->
+
+	<div class="wrap-scroll">
+		<div id="wrap-head" class="wrap-head brand-header">
 			<header>
 
 			<!-- begin top horizontal nav area -->
@@ -129,12 +128,12 @@
 		
 
 
-<div id="logos"><div id="logo-ets" class="logo"><a href="/"><img src="/rsc/img/logo/ets_logo.svg" alt="ETS" height="46" width="68"></a></div> <div class="logo" id="logo-text"><a href="/legal">Legal</a></div></div>
+<div class="logos"><div class="logo" id="logo-ets"><a href="/"><img width="68" height="46" alt="ETS" src="/rsc/img/logo/ets_logo.svg"></a></div> <a class="logo-text" href="/legal">Legal</a></div>
 
 
 
 	
-				<nav id="nav-site" role="navigation">	
+				<nav class="nav-site" role="navigation">	
 				<!-- Top Nav Links -->
 
 
@@ -151,19 +150,32 @@
 
 
 				
-	<div id="search" role="search" class="nav-item"><a href="http://search.ets.org" id="search-trigger" class="nav-trigger"> <svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg> <span class="label">Search</span> </a></div>
-<!-- /search -->
-</nav><!-- /nav-site -->			
-				<div id="site-search" class="nav-slider">
-					<form action="http://search.ets.org/query.html" name="site-search-form" id="site-search-form" method="get">
-						<label for="site-search-form-keyword" class="hide">Search:</label>
-						<input type="text" name="qt" id="site-search-form-keyword" value="" placeholder="Search for…">
-						<input type="submit" name="site-search-form-go" id="site-search-form-go" value="Go">
-					</form>
-				</div>
-						
-				<div class="clear"></div>
+					<div class="wrap-trigger" id="wrap-search-trigger">
+						<a href="http://search.ets.org" id="search-trigger" role="button" aria-controls="site-search" aria-label="search form" aria-expanded="false">
+							<svg class="icon icon-search">
+								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search"></use>
+							</svg>
+							<span class="label hide">Search</span>
+						</a>
+					</div>
+					<div role="search" class="nav-item search" id="site-search">
+						<form action="http://search.ets.org/query.html" name="site-search-form" id="site-search-form" method="post">
 				
+							<label for="site-search-form-keyword" class="hide">Search:</label>
+							<input type="text" name="qt" id="site-search-form-keyword" value="" placeholder="Search for…">
+							<button type="submit"><span class="label">Search</span></button> <a href="" id="site-search-corp-close">Cancel</a>
+						</form>
+					</div>
+					<!-- /search -->
+
+					<div class="wrap-trigger" id="wrap-corp-nav-trigger">
+						<a href="" id="brand-nav-trigger" role="button" aria-controls="mm" aria-label="ets navigation" aria-expanded="false">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+							<span class="label hide">ETS Navigation</span>
+						</a>
+					</div>
+				</nav><!-- /nav-site -->	
+
 				<!-- Audience Links / Section Navigation -->
 
 
@@ -175,14 +187,13 @@
 		
 
 
-<div class="auds" id="auds"> </div>
+<div class="auds" id="aud-trigger"> </div>
 <!--end "auds"-->
 
 
 
 			<!-- end top horizontal nav area -->
 			</header>
-		</div>	
 				<!-- begin header area -->
 				
 
@@ -198,10 +209,12 @@
 
 
 
-<div class="wrap-outer" id="crumbs-and-support">
-			<div id="brand-bar"></div>
-
-<!-- Breadcrumb Trail --><div class="wrap-crumbs">
+<div class="wrap-outer crumbs-and-support" id="crumbs-and-support">
+	<div class="brand-bar"></div>
+	
+	<div class="wrap-crumb-content">
+	
+<!-- Breadcrumb Trail -->
 
 
 
@@ -212,20 +225,20 @@
 		
 
 
-<div id="breadcrumbs">
-<div class="wrap-links">
+<div class="breadcrumbs">
 <a href="/">ETS Home</a>
 <span aria-hidden="true">&gt;</span>
 <a href="/legal/">Legal</a>
 <span aria-hidden="true">&gt;</span>
 <a href="/legal/privacy/">Privacy and Security</a>
 </div>
-</div>
 
 
-</div>
-			<div id="support-links">
+
+			
 			<!-- Support Links -->
+			<div class="support-links">
+				
 
 
 
@@ -242,13 +255,16 @@
 		
 			</div>
 		
+			
 		</div><!-- /brand-home-crumbs-and-support -->
 
-		<div class="wrap-outer">
-			<!-- #brand-image, #brand-msg OR slick carousel -->
-			<!-- even if empty, keep the div -->
-			<div id="wrap-hero">
-			<!-- Hero Image -->
+	</div>
+	
+	<div class="wrap-outer wrap-heading">
+		<!-- #brand-image, #brand-msg OR slick carousel -->
+		<!-- even if empty, keep the div -->
+		<div id="wrap-hero">
+		<!-- Hero Image -->
 
 
 
@@ -264,12 +280,12 @@
 
 
 
-			</div>
+		</div>
 
-			<!-- add this contents.misc here -->
-			<!-- not sure what it will be used for, but they wanted it -->
-			<div class="contents misc">
-				<!-- Misc Content -->
+		<!-- add this contents.misc here -->
+		<!-- not sure what it will be used for, but they wanted it -->
+		<div class="contents misc">
+			<!-- Misc Content -->
 
 
 
@@ -284,10 +300,10 @@
 
 
 	
-			</div>
+		</div>
 
-			<div id="wrap-important-updates">
-				<!-- Important Updates -->
+		<div id="wrap-important-updates">
+			<!-- Important Updates -->
 
 
 
@@ -302,20 +318,21 @@
 
 
 
-			</div>
-		</div><!-- /.wrap-outer -->		
+		</div>
+	</div><!-- /.wrap-outer -->
+		
+		</div>
+		<main aria-label="main contents">
+		
+			<div class="wrap-outer wrap-heading">
+				<div class="contents misc">
+					<!-- div to hold channel-wide content -->
+					<!-- ideally, there would also be one of these .contents.misc divs as the first item in .contents.left -->
+				</div>
 
-			<div class="wrap-outer">
-				<div id="main" role="main" aria-label="main contents">
-				
-					<div class="contents misc">
-						<!-- div to hold channel-wide content -->
-						<!-- ideally, there would also be one of these .contents.misc divs as the first item in .contents.left -->
-					</div>
-
-					<div class="contents heading">
-						
-						<!-- Contents Heading --><h1>
+				<div class="contents heading">
+					
+					<!-- Contents Heading --><h1>
 
 
 
@@ -330,14 +347,13 @@ Privacy and Security
 
 
 </h1>
-					</div>
+				</div>
 
-					<div class="clear"></div>
-				
-				<!-- begin page content area -->
-				
+			</div>
+			<!-- begin page content area -->
+			
 <!-- tmplt ETSorg2015 - PT-13 - Document -->
-		<div id="main-contents" class="wrap-flex">
+		<div id="main-contents" class="page-contents wrap-flex wrap-outer">
 			
 					<div class="contents left">
 
@@ -423,129 +439,165 @@ Privacy and Security
 
 
 
-<!--startindex--><p>Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. In addition to the commitments set out in this Privacy Policy, ETS has taken steps to meet legal obligations in various countries with the aim of compliance with worldwide data privacy requirements. ETS will strive to treat your "personal data" according to applicable local laws&nbsp;that regulate inter-country process, access and transfer of personal data. This Privacy Policy ("Policy") discloses our information-gathering and-dissemination practices for this website at <a href="/">www.ets.org</a> ("Website").</p>
-<p>By using this Website, you agree to be bound by the terms and conditions of this Policy and the <a href="/legal/terms/">Terms of Use</a>. You may also be subject to another privacy policy or other terms and conditions that are posted on ETS's Website specific to a particular ETS program or service ("Other Agreement"). Based upon your specific relationship(s) with ETS, we may collect, use or disclose Personal Information (defined below) in ways described in more detail in one or more Other Agreements. To the extent the Other Agreement includes additional terms that are not covered by or are inconsistent with this Policy, the terms and conditions of the Other Agreement will supersede this Policy.</p>
-<p>Within this Policy you will find:</p>
+<!--startindex--><p>Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. This privacy notice describes our practices related to personal information privacy and security.&nbsp;</p>
+<p>ETS has a global privacy program to protect all “Personal Information.” Personal Information is any information that we can use to identify you (such as your name, username or identification number) or contact you (such as your email address or telephone number). Personal Information includes other types of information (such as test scores or demographic data) when that information is associated with your Personal Information.</p>
+<p>In this notice, the term "Website" includes all ETS websites, platforms and applications that collect personal information from you.</p>
+<p>By using an ETS Website and providing us with Personal Information, you agree to our privacy terms. You can contact us at any time with questions or concerns about privacy by sending an email to <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a> or by writing to us at the addresses in the Contact section below.</p>
+<p>Within this Privacy Notice, you will find information about:</p>
 <ul class="nobullets">
 <li><a href="#Children">Children</a></li>
-<li><a href="#Collect">Information We Collect</a>
-<ul class="nobullets">
-<li><a href="#Personal">Personal Information</a></li>
-<li><a href="#NonPersonal">Nonpersonal Information</a></li>
-<li><a href="#Cookies">Cookies</a></li>
-<li><a href="#Advertisers">Third-party Advertisers</a></li>
-</ul>
-</li>
+<li><a href="#Collect">Information We Collect</a></li>
 <li><a href="#HowWeUse">How We Use Your Personal Information</a></li>
 <li><a href="#Disclosure">Disclosure of Your Personal Information</a></li>
-<li><a href="#OptOut">Choice to Opt Out and Access to Your Information</a></li>
-<li><a href="#Links">Links to Third-party Sites</a></li>
+<li><a href="#Cookies">Cookies and Other Data Collection Technologies</a></li>
+<li>
+<ul class="nobullets">
+<li><a href="#Advertisers">Third-Party Advertisers</a></li>
+<li><a href="#Social">Social Media Interactions and Interest-based Ads</a></li>
+</ul>
+</li>
+<li><a href="#OptOut">Choice to Opt Out and Access to Your Personal Information</a></li>
+<li><a href="#Links">Links to Third-Party Sites</a></li>
 <li><a href="#Security">Security</a></li>
 <li><a href="#Changes">Changes</a></li>
-<li><a href="#Governing">Governing Law and Jurisdiction</a></li>
+<li><a href="#International">International Users and Transfers of Data and Information </a></li>
 <li><a href="#Contact">Contact Information</a></li>
-<li><a href="#Protect">Protect Yourself: Watch Out for Online Fraud</a></li>
 <li><a href="#California">Special Notice to California Residents</a></li>
+<li><a href="#European">Special Notice to Residents in the European Economic Area</a></li>
 </ul>
 <h2 id="Children">Children</h2>
-<p>We do not knowingly collect Personal Information (as defined below) online from children under the age of 13. If a child provides us with this type of information online, please contact us to have the account deactivated by sending us an email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a> or by calling us at <span class="text-bold">1-609-921-9000</span>.</p>
+<p>We do not knowingly collect Personal Information on our Website directly from children under the age of 13. Parents and schools may use our Website to create accounts for children, such as registering them for tests. We encourage parents and teachers to spend time online with children and to monitor their online activities.&nbsp;</p>
+<p>If you believe that a child has created an account on our Website, please contact us to have the account deactivated by sending us an email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a> or by calling us at <span class="text-bold">1-609-921-9000</span>.</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="Collect">Information We Collect</h2>
-<h3 id="Personal">Personal Information</h3>
-<p>We collect and store Personal Information that you provide voluntarily when using our Website. Personal Information is information that can identify you as a specific individual ("Personal Information"). You are responsible for providing accurate and complete information. For example, you might provide us with the following information: responses and survey information and/or site registrations, test registration information, order information and payment information. Personal data does not include anonymized aggregate or statistical information from which such identification cannot be reconstituted.</p>
-<p>If you register for a test, create an online account, or request one of our other services, we may collect the following Personal Information: full name, home address, email address, telephone number, Social Security number, passport number, and your answers to other similar background information questions, the test you are registering for, test date, payment information and how you specifically use our Website. Depending on how you use the Website, your test results may also be accessed through the Website.</p>
-<p><a href="#top">Back to Top</a></p>
-<h3 id="NonPersonal">Nonpersonal Information</h3>
-<p>When you visit any page on our Website, we use a program that monitors and evaluates the Website's traffic. It automatically records every visitor's host, domain name, pages visited, length of user session, browser type and/or IP address. This information does not contain Personal Information. We use this information to find out how many people visit the Website to determine the areas of greatest interest on our Website, and to make improvements to the Website.</p>
-<p>When you visit and interact with our Website, ETS and third parties with whom ETS has contracted to provide services to ETS may collect nonpersonal information (for example, a catalog of the site pages you visit, or your IP address).</p>
-<p><a href="#top">Back to Top</a></p>
-<h3 id="Cookies">Cookies</h3>
-<p>Generally, as an enterprise, our systems do not support "Do Not Track" capabilities.</p>
-<p>As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. We may collect the following types of information about your visit including: the domain from which you access the Internet; IP address; operating system and information about the device or browser used when visiting the site; date and time of your visit; content you visited or downloaded; and website (such as google.com or bing.com) and website referral source (email notice or social media site) that connected you to the Website. ETS uses third-party measurement software to collect the information listed above.</p>
-<p>There are two types of cookies: single-session (temporary) and multi-session (persistent). Temporary cookies last only as long as your web browser is open, and are used for technical purposes such as enabling better navigation through our site. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods and are used for purposes including tracking the number of unique visitors to our site and information such as the number of views a page gets, how much time a user spends on a page, and other pertinent web statistics.</p>
-<p>Cookies, by themselves, will not be used by ETS to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit the Website. If you want to disable the use of cookies or remove them at any time from your computer, you can disable or delete them using your browser (consult your browser's "Help" menu to learn how to delete cookies); however, you must enable cookies to access certain information on our Website. Note that in limited instances, such as when you register for a test or create an online account, cookies may contain and be associated with the Personal Information we collect.</p>
-<p>We may also collect data by using "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "pixel tags") that allow us to know when you visit our Website. Through pixel tags, we obtain nonpersonal information or aggregate information (i.e., your IP address, the areas of the Website you visit, your operating system, your browser version and the URL you came from), which can be used to enhance your online experience and understand traffic patterns.</p>
-<p><a href="#top">Back to Top</a></p>
-<h3 id="Advertisers">Third-party Advertisers</h3>
-<p>In addition, we may use third-party advertisers to serve or track advertisements on other websites. Please note that these third parties also may use cookies, pixel tags and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. ETS does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.</p>
+<p>We collect the following types of Personal Information from you when you use our Website:&nbsp;</p>
+<ul>
+<li><span class="text-bold">Contact Information</span> that allows us to communicate with you, such as your name, username, mailing address, telephone numbers, email address or other addresses that allow us to send you messages.</li>
+<li><span class="text-bold">Relationship Information</span> that helps us do business with you. For test takers, this may include the types of tests that you want to take, your school affiliation, expected degree and graduation date, and similar information that can help us offer you personalized content. For professionals, this may include your professional credentials and affiliations and the products and services that may interest you or your school.</li>
+<li><span class="text-bold"> Transaction Information </span> from your online activities, registrations and purchases, including your registration records, purchase history, order information about your use of our content (such as if you access your scores online, use test prep material or complete surveys), customer account information (such as if you email us for support) and payment card information as needed to process your payments.</li>
+</ul>
+<p>In some cases, we may need to collect additional information in order to administer tests to you or to fulfill other requests that you may make. For example:</p>
+<ul>
+<li>As permitted by law (and as needed for your test), we may collect additional Personal Information at the test center such as your photograph, your fingerprint, voiceprint, writing samples, and images and voices in videotapes and audiotapes (including from premises monitoring equipment).</li>
+<li>If you request an accommodation from us regarding test arrangements for medical or religious reasons, we may collect Personal Information relevant to your request. Similarly, if you request a fee waiver, fee reduction or scholarship, we may collect Personal Information about your financial situation. Providing Personal Information about your religion, disability or medical condition, and/or financial status is optional, but if you are requesting an accommodation from ETS, you must provide the information so that we can process your request.</li>
+</ul>
+<p>When you visit and interact with our Website, we may also collect information that uses cookies and other data collection technologies. Please see the section on Cookies below to learn more. This Privacy Notice governs us when we associate the information we collect using cookies and other technology with your Personal Information.&nbsp;&nbsp;</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="HowWeUse">How We Use Your Personal Information</h2>
-<p>We use your Personal Information to:</p>
+<p>We may use your Personal Information to:</p>
 <ul>
-<li>complete any registration, purchases or other transactions you request online</li>
-<li>improve the Website</li>
-<li>improve our products and services, and identify, develop and offer new or expanded products and services</li>
-<li>personalize your experience on the Website, and customize the content and/or format of the pages you visit</li>
-<li>notify you about updates, products, services and/or special offers from ETS, its affiliates and selected third parties</li>
-<li>ask you to participate in brief surveys</li>
-<li>generate aggregate statistical studies and conduct research related to our products and services and the use of our Website</li>
+<li>Provide you with the products, content or services selected by you, such as to register you for and deliver tests, and send you service-related communications, such as identity verification, score delivery, customer service and account management.</li>
+<li>Subject to your choices, provide you with marketing communications, surveys and offers for products and services from ETS and our partners, including personalized offers based on your usage of our products and to manage your communications preferences.</li>
+<li>Improve our products and services (including for test usability and design, security and research), and to identify, develop and offer new or expanded products and services.</li>
+<li>Understand how you use our products, content and services, including associating you with different devices that you may use to access our content, to help personalize your experience on the Website, and customize the content and/or format of the pages you visit.</li>
+<li>Manage our everyday business needs, such as payment processing and financial account management, contract management, Website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance.</li>
+<li>Generate aggregate statistical studies and conduct research ourselves or jointly with others related to our products and services and the use of our Website.</li>
 </ul>
-<p>Based upon your specific relationship(s) with ETS, we may use your Personal Information in ways described in more detail in one or more Other Agreements.</p>
+<p>&nbsp;We may also use your Personal Information in other ways, if you consent to those uses. &nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="Disclosure">Disclosure of Your Personal Information</h2>
-<p>We disclose your Personal Information to certain third parties with whom we have a direct or indirect business or contract relationship, to provide the products and services you have requested. For example, when you register for a test, we will provide certain registration information to entities that administer the tests in your area. If you ask us to, we will disclose your test scores to schools and others.</p>
-<p>When you request other services, we will provide your personal data to third parties with whom we arrange for those services to be provided. We may also disclose information to third parties that provide administrative or processing services for us — for example, printing, mailing and/or payment processing.</p>
-<p>ETS's use of third parties to provide services to you (e.g., payment services) is subject to the terms of use and privacy policies of those third-party websites and such third parties are responsible or liable for their use of your personal data.</p>
-<p>We may also disclose Personal Information collected on the Website, in accordance with applicable law, to assert or defend our rights and property, to prevent harm to others, to collect a debt, or in response to legal processes such as subpoenas. We may also provide (or reserve the right to provide) Personal Information to credit reporting agencies and to cooperate with law enforcement authorities or other governmental authorities consistent with applicable laws.</p>
-<p>If you have consented to our doing so, we may also share your personal data with third parties in order that they may offer you information about their goods and services.</p>
-<p>Because nonpersonal information does not personally identify you, we may use or disclose such information for any purpose. In some instances, we may combine nonpersonal information with Personal Information (such as embedding email addresses in cookies).If we do combine any nonpersonal information with Personal Information, the combined information will be treated by us as Personal Information in accordance with this Policy.</p>
-<p>Based upon your specific relationship(s) with ETS, we may disclose your Personal Information in ways described in more detail in one or more Other Agreements.</p>
+<p>We will only disclose your Personal Information as follows:</p>
+<ul>
+<li>We may disclose your Personal Information to our affiliates, who will only use your Personal Information for the purposes listed above.</li>
+<li>We may disclose your Personal Information to third parties that provide services to us. For example, when you register for a test, we will provide certain registration information to third parties that administer the tests in your area. We use service providers for other functions as well, such as printing, mailing and/or payment processing. We require such third-party processors to use your Personal Information in accordance with our directions and these processors may not use your Personal Information for their own purposes.&nbsp;</li>
+<li>We may disclose your Personal Information as needed to provide services to you. For example, if you ask us to, we will disclose your test scores to schools and others. We may also share your Personal Information with our partners, but only to the extent that you have a relationship with such partner or you authorize the sharing. We may share information with test prep providers, if you elect to use the materials or as needed to validate referrals and operate the platforms.</li>
+<li>We may also disclose Personal Information in accordance with applicable law, in connection with any sale or transfer of our business or assets, to assert or defend our rights and property, or to prevent harm to others. For example, we may disclose Personal Information to third parties when we investigate claims of misconduct, invalid test scores or other incidents that may occur in our test centers. We will also always disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the United States and other countries where we operate.</li>
+</ul>
+<p>Please note that we may also use and disclose information about you that is not personally identifiable. For example, we may publish reports that contain aggregated and statistical data. These reports do not contain any Personal Information.</p>
 <p><a href="#top">Back to Top</a></p>
-<h2 id="OptOut">Choice to Opt Out and Access to Your Information</h2>
-<p>When you register for a test online or create an account, you will have the ability to opt out of receiving certain communications from ETS, including voicemail or email. If you do not opt out at registration, but later decide that you would prefer not to receive email communications from ETS, please contact that particular testing program through <a href="/">www.ets.org</a>. Remember, however, that ETS may still send email or call you in order to provide a product or service that you request.</p>
-<p>Except as otherwise specified in an Other Agreement, you can also access your Personal Information to update or correct factual errors in your Personal Information by sending us an email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a>. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+<h2 id="Cookies">Cookies and Other Data Collection Technologies</h2>
+<p>When you visit our Website, we collect certain information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs and web beacons.</p>
+<p>In many cases, the information we collect using cookies and other tools is only used in a non-identifiable way, without any reference to Personal Information. For example, we use information we collect about all website users to optimize our Websites and to understand website traffic patterns.</p>
+<p>In some cases, we do associate the information we collect using cookies and other technology with your Personal Information. This Privacy Notice governs how we use that information when we associate it with your Personal Information.</p>
+<p><span class="text-bold"> Cookies</span> <br> When you visit our Website, we place cookies on your computer. Cookies are small text files that websites send to your computer or other internet-connected device to uniquely identify your browser or to store information or settings in your browser. We use both temporary (session) cookies and persistent cookies, which allow us to recognize you when you return. Cookies help us provide a customized experience and enable us to detect certain kinds of fraud. In many cases, you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser. All browsers are different, so visit the “help” section of your browser to learn about cookie preferences and other privacy settings that may be available.</p>
+<p><span class="text-bold"> Flash Cookies </span> <br> We may use Flash cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience<em>.&nbsp;</em>A Flash cookie is a small data file placed on a computer using Adobe® Flash technology.The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.</p>
+<p>We use Flash cookies to personalize and enhance your online experience and to deliver content for Flash players. We may also use Flash cookies for security purposes, to gather certain website metrics and to help remember settings and preferences. Flash cookies are managed through a different interface than the one provided by your web browser.&nbsp;To manage Flash cookies, please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">visit Adobe’s website</a>. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain content and product features.</p>
+<p><span class="text-bold"> Pixel Tags and Web Beacons</span> <br> Pixel tags and web beacons are tiny graphic images placed on our Website(s) or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action. These tools allow us to measure response to our communications and improve our web pages and promotions.&nbsp;</p>
+<p><span class="text-bold"> Server Logs and Other Technologies</span> <br> We collect many different types of information from server logs and other technologies. For example, we may collect information from the device you use to access our Website, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address of the device you use to connect to the Internet. An IP address is a unique identifier that devices use to identify and communicate with each other on the internet. We may also collect information about the website you were visiting before you came to ETS and the website you visit after you leave our site.&nbsp;</p>
 <p><a href="#top">Back to Top</a></p>
-<h2 id="Links">Links to Third-party Sites</h2>
-<p>This Website may contain links to other third-party websites. ETS does not control the privacy policies or practices of these third-party sites. You should review those policies before providing any information. ETS is not responsible for the content or practices of any linked third-party sites, and we provide these links solely for the convenience and information of our visitors. Specifically, if you use a credit card to pay for any products or services, ETS is not responsible for any information you provide regarding the credit card on this Website or by linking through to a credit card processor's website.</p>
+<h3 id="Advertisers">Third-Party Advertising Companies and Browser Tracking Information</h3>
+<p>We have relationships with third-party advertising companies to place advertisements on this Website and other websites, and to perform tracking and reporting functions for this Website and other websites. These third-party advertising companies may place cookies on your computer when you visit our Website or other websites so that they can display targeted advertisements to you. &nbsp;</p>
+<p>These third-party advertising companies do not collect Personal Information in this process, and we do not give any personal information to them as part of this process. However, this Privacy Notice does not cover the collection methods or use of the information collected by these companies. For more information about third party advertising, please <a href="http://www.networkadvertising.org">visit the Network Advertising Initiative (NAI) website</a>. You can opt out of being targeted by many third-party advertising companies by visiting <a href="http://www.networkadvertising.org/consumer/opt_out.asp">NAI’s Opt-Out page</a> or <a href="http://preferences.truste.com/truste/">the TrustArc website</a>.</p>
+<p>Additional information from the third-party advertising companies that we work with:</p>
+<ul>
+<li><span class="text-bold"> Google Analytics™: </span> For information on how Google Analytics uses data, please visit <a href="http://www.google.com/policies/privacy/partners/">How Google uses data when you use our partners’ sites or apps</a></li>
+</ul>
+<p>Although our Websites currently do not have a mechanism to recognize the various web browser Do Not Track signals, we do offer our customers choices to manage their cookie preferences as described in the previous section. To learn more about browser tracking signals and the Do Not Track browser setting, please visit <a href="http://www.allaboutdnt.org/">All About Do Not Track</a>.</p>
+<p><a href="#top">Back to Top</a></p>
+<h3 id="Social">Social Media Interactions and Interest-based Ads</h3>
+<p>Our Websites may enable you to interact with us and others via social media platforms, such as Facebook®, LinkedIn®, Twitter®, Pinterest® and Instagram®. While we respect each social media platform’s privacy policies, we may collect Personal Information about you and your friends/connections if you choose to use these tools.</p>
+<p>For example, we may allow you to sign into ETS Websites and applications using Facebook Connect. If you choose to do this, we may collect information necessary to facilitate social interactions such as friend lists, birthday, check-ins, basic profile information and your profile picture but only if the privacy settings you and your friends set within Facebook allow it. We will use the information to facilitate an interactive social experience.</p>
+<p>We may display interest-based ads to you when you are using platforms such as Facebook and Google®. These platforms allow us to personalize the ads that we display to you.&nbsp;We do not share any of your Personal Information with these platforms, although we may convert your email address into a unique number which can be matched by the platform with its user to allow delivery of the advertising.&nbsp;Although we do not provide any personal information to these platforms, they may gain insights about individuals who respond to the ads we serve.</p>
+<p><a href="#top">Back to Top</a></p>
+<h2 id="OptOut">Choice to Opt Out and Access to Your Personal Information</h2>
+<p>When you register for a test online or create an account, we ask you to provide your contact details, including email address, telephone and mobile phone details. We use this information so that we can quickly provide you with information regarding the products and services you have requested.</p>
+<p>If we have your consent (or if you have not objected), we may send other communications to you, such as surveys and information about other testing products and services. You can limit these communications at any time. To opt out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message. Remember, however, that we may still send emails or call you in order to provide the testing services you have purchased or otherwise requested from us.</p>
+<p>We also respect your right to reasonably access and correct your Personal Information. If you have an online account, you can log into your account at any time to access and update the information you have provided to us (with the exception of your name, gender, birthdate or Social Security number, if provided).&nbsp; Additionally, ETS complies with all laws regarding access and correction. If you need assistance updating your Personal Information, please contact us via email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a>.</p>
+<p><a href="#top">Back to Top</a></p>
+<h2 id="Links">Links to Third-Party Sites</h2>
+<p>This Website may contain links to other third-party websites. In particular, the Website may contain links to ETS social media pages, including, but not limited to Facebook, Instagram, LinkedIn and Twitter. ETS does not control the privacy policies or practices of these third-party sites. You should review those policies before providing any information, including on a social media page for ETS. ETS is not responsible for the content or practices of any linked third-party sites, and we provide these links solely for the convenience and information of our visitors.&nbsp; &nbsp;</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="Security">Security</h2>
-<p>ETS has established safeguards to help prevent unauthorized access to or misuse of your Personal Information, but cannot guarantee that your Personal Information will never be disclosed in a manner inconsistent with this Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or relevant Web policies).</p>
-<p>If you register for a Web account, you will be asked to select a password to help protect your information. These passwords help us verify your identity before granting access or making corrections to any of your Personal Information. You should never disclose your password to anyone. ETS will never ask you for your password in an unsolicited phone call or email. You are responsible for maintaining the secrecy of your passwords and any account information.</p>
-<p>When you provide credit card information, it is transmitted using SSL technology to help prevent unauthorized access to or misuse of that information. You will know that SSL is being used when you see a full yellow key in a blue box in the lower left-hand corner of your browser or a full "lock" in the status bar of your Internet Explorer<sup class="”reg”">®</sup> browser.</p>
-<p>ETS has contracted with a company to host our <a href="http://store.ets.org/store/ets/DisplayHomePage">online store</a>. This company uses its own Secure Sales Server technology (S3) along with SSL encryption technology on every order transaction.</p>
+<p>ETS has established safeguards to help prevent unauthorized access to or misuse of your Personal Information.</p>
+<p>If you register for a Website account, you will be asked to select a password to help protect your information. These passwords help us verify your identity before granting access or making corrections to any of your Personal Information. You should never disclose your password to anyone. ETS will never ask you for your password in an unsolicited phone call or email. You are responsible for all of your actions relating to the secrecy of your passwords and your account information.</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="Changes">Changes</h2>
-<p>ETS reserves the right to change this Policy to respond to new laws, regulations or technology, or for other business reasons. Please check this Website from time to time to review any such changes.</p>
+<p>ETS reserves the right to change this Privacy Policy at any time, including to respond to new laws, regulations, or technology, or for other business reasons. Please check this Website from time to time to review any such changes. Changes will become effective when posted on the Website for all Personal Information collected after the date of the change. If the changes will materially affect the way we use or disclose previously-collected Personal Information, we will notify you about the change by sending a notice to the primary email address associated with your account.</p>
 <p><a href="#top">Back to Top</a></p>
-<h2 id="Governing">Governing Law and Jurisdiction</h2>
-<p>You agree that any claim, action or proceeding arising out of this Policy, or your use of the Website, shall be governed by and construed in accordance with the laws of the United States and the State of New Jersey, without regard to principles of conflict of laws. Any claim, action or proceeding related to this Policy will be resolved exclusively in the state or federal courts located in the State of New Jersey and you consent to the jurisdiction of those courts.</p>
+<h2 id="International">International Users and Transfers of Data and Information</h2>
+<p>ETS, its Website, and its servers are located in the United States. Therefore, your information, including Personal Information, will be transferred from your location to the United States. It may also be transferred to other countries who provide processing services to ETS at the direction of ETS. However, regardless of where your Personal Information is transferred, we will protect it in accordance with this Privacy Notice.</p>
 <p><a href="#top">Back to Top</a></p>
 <h2 id="Contact">Contact Information</h2>
-<p>If you have any questions or concerns about the Website or security policies, you may contact us by:</p>
+<p>If you have any questions or concerns about the Website, this Privacy Notice or our security policies, you may contact us by:</p>
 <dl class="contact-info"><dt>Email:</dt><dd><a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a></dd><dt>Mail:</dt><dd>ETS<br> Rosedale Road<br> P.O. Box 6666<br> Princeton, NJ 08541-6666<br> USA</dd></dl>
 <p><a href="#top">Back to Top</a></p>
-<h2 id="Protect">Protect Yourself: Watch Out for Online Fraud</h2>
-<h3>Don't get reeled in.</h3>
-<p>In a technique called "phishing," thieves set up fraudulent websites that look official. They may send emails to draw you to the site. Often, people visit the site and give Personal Information in an unsecured environment, making Social Security numbers and credit card information available to thieves.</p>
-<h3>Note the secure pages.</h3>
-<p>When you submit Personal Information, there are two (2) things you should look for when you come to secure or safe pages:</p>
-<ol>
-<li>A lock symbol or icon will appear on the right side of the bottom bar on the page.</li>
-<li>The letters "https" will appear first in your address bar at the very top of the page.</li>
-</ol>
-<h3>Don't respond to phony emails.</h3>
-<p>ETS will <span class="text-bold">never</span> send you an email asking for credit card or bank account numbers or any other financial information. If you receive a suspicious message that looks like it came from ETS, do not respond.</p>
-<p>ETS frequently sends email promotions and invitations to students and educators. If you follow a link in an email and are directed to a website that is not ETS's official site, do not provide your Personal Information.</p>
-<h3>Report fraud immediately.</h3>
-<p>Send a copy of the suspicious message and any related details to <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a>.</p>
-<h3>What to do if you're a victim:</h3>
-<p>If you suspect that you may be a victim of phishing:</p>
-<ul>
-<li>Check with your credit card company and bank to see if anyone else has illegally used your account(s).</li>
-<li>Change your passwords on all online accounts.</li>
-<li>Contact the appropriate credit bureaus or agencies to report the incident.</li>
-<li>Write a letter to the credit card companies, banks and any other institutions or agencies documenting what happened. Keep a copy for yourself.</li>
-<li>Keep records of everything.</li>
-</ul>
-<p><a href="#top">Back to Top</a></p>
 <h2 id="California">Special Notice to California Residents</h2>
-<p>Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared Personal Information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an email to <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a>&nbsp;and include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty (30) days of receiving such a request.</p>
-<p>Effective Date: July 21, 2011</p>
+<p>ETS does not share any California consumer personal information with third parties for marketing purposes without consent.</p>
+<p><a href="#top">Back to Top</a></p>
+<h2 id="European">Special Notice to Residents in the European Economic Area</h2>
+<p>ETS is providing this supplemental privacy notice to give individuals in the European Economic Area (EEA) the additional information required by the EU General Data Protection Regulation. These provisions, together with the statements in the ETS Privacy Notice, explain our practices with regard to EEA personal data.</p>
+<h3>Information about ETS</h3>
+<p>This notice is being given by ETS in the United States, for itself, its EU Representative (ETS Global BV) and its other <span style="text-decoration: underline;">EEA affiliates</span>.</p>
+<dl class="contact-info"><dt>U.S. Mail:</dt><dd>Educational Testing Service (ETS)<br> 660 Rosedale Road<br> Princeton, NJ 08541 USA</dd><dt>EU Mail:</dt><dd>ETS Global BV<br> Academic &amp; Business Assessments<br> Strawinskylaan 929<br> 1077 XX Amsterdam - The Netherlands</dd><dt>Email:</dt><dd><a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a></dd></dl>
+<p><span class="text-bold">The Purposes and Legal Basis for Processing, Including Legitimate Interests</span> <br> The Privacy Notice explains the reasons why we process your Personal Information. We only process Personal Information when we have a legal basis for the processing, such as:</p>
+<ul>
+<li>To fulfill a contract with you, such as to provide you with an ETS test or a test offered by another company through ETS.</li>
+<li>For closely-related purposes, such as payment processing and financial account management, contract management, website administration, business continuity and disaster recovery, security and fraud prevention, corporate governance, reporting and legal compliance.</li>
+<li>With your consent (or provided you have not objected, as may be applicable), such to provide you with marketing communications or to send your scores to your designated recipients.</li>
+</ul>
+<p>We may also process your Personal Information for the purposes of our legitimate interests, provided that such processing shall not outweigh your rights and freedoms. In particular, we may process your Personal Information as needed to:</p>
+<ul>
+<li>Protect you, us or others from threats (such as security threats or test fraud)</li>
+<li>Improve ETS’s tests and support ETS Research Initiatives</li>
+<li>Comply with the laws that are applicable to us around the world</li>
+<li>Enable or administer our business, such as for quality control, consolidated reporting and customer service</li>
+<li>Manage corporate transactions, such as mergers or acquisitions&nbsp;</li>
+<li>Understand and improve our business, improve test integrity and for research purposes</li>
+</ul>
+<p><span class="text-bold"> Automated Decision Making and Profiling </span> <br> ETS may use automated processes in connection with scoring tests and for similar purposes, as needed to provide the test services that you have requested. All such decisions are subject to human review. We will not make automated decisions about you that may significantly affect you, unless (1) the decision is necessary as part of a contract that we have with you, (2) we have yourexplicit consent, or (3) we are required by law to use the technology. You can learn more about test scoring by reading the information posted on our Website about each of our tests.</p>
+<p>In some cases, we use certain elements of personal data for ETS Research. For example, we may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Our research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that are our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment. Our research results do not contain any identifiable data, and are not used to target or profile individuals. Learn more about <a href="https://www.ets.org/research">ETS Research</a>.</p>
+<p><span class="text-bold"> When You are Required to Provide Personal Information to ETS</span> <br> In most cases, you are not required by law to provide any Personal Information to ETS. You are required to provide certain Personal Information to enable us to enter into a contract with you so that you can use our products and services. Our registration forms indicate which data elements are required for our contracts. If you do not provide these data elements, we cannot do business with you.</p>
+<p>If you request an accommodation from ETS, such as special testing conditions needed because of a health condition or disability, you may be required to submit additional Personal Information (including special categories of data) as needed for us to evaluate and respond to your request.</p>
+<p><span class="text-bold"> Your Rights </span> <br> As stated in the Privacy Notice, you always have the right to object to our marketing communications. To opt out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. To revoke permissions that you may have given to send text messages, text STOP in response to any message.</p>
+<p>ETS also respects the rights of EEA residents to access, correct and request erasure or restriction of their personal information as required by law. This means:</p>
+<ul>
+<li>You generally have a right to know whether or not ETS maintains your Personal Information. If we do have your Personal Information, we will provide you with a copy (subject to the rights of others). If your information is incorrect or incomplete, you have the right to ask us to update it.</li>
+<li>You have the right to object to our processing of your Personal Information.</li>
+<li>You may also ask us to delete or restrict your Personal Information.</li>
+</ul>
+<p>To exercise these rights, please contact us via email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a> or write us at the U.S. address above, and a member of our Privacy Team will assist you. Please understand that we may need to verify your identify before we can process your request. Additionally, our ability to delete Personal Information will be limited in those cases where we are required to retain records, such as in connection with score reports and test security processes.</p>
+<p>If you believe that we have processed your Personal Information in violation of applicable law, you may file a complaint with the ETS Office of General Counsel or with a supervisory authority.</p>
+<p><span class="text-bold"> International Transfers</span> <br> As stated in the Privacy Notice, your Personal Information may be transferred to, stored at or processed in the United States and other countries which may not have equivalent privacy or data protection laws.</p>
+<p>We generally use approved Standard Contractual Clauses to assure that Personal Information is adequately protected when it is transferred out of the EEA or Switzerland, but we may also make transfers to recipients with approved Binding Corporate Rules or to recipients in the United States who have certified to the EU-U.S. and/or Swiss-U.S. Privacy Shield Framework.</p>
+<p>Please contact us via email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a> if you would like more information about cross-border transfers or to obtain a copy of the Standard Contractual Clauses.</p>
+<p><span class="text-bold"> Data Retention </span> <br> We will retain your Personal Information for as long as the information is needed for the purposes set forth above and for any additional period that may be required or permitted by law. You may request that we delete your Personal Information by contacting us via email to etsinfo@ets.org. Unless we are required by law or have a legitimate interest to retain your information, we will delete it within 30 days of your request. &nbsp;</p>
+<p><span class="text-bold"> How to Contact Us </span> <br> Please contact us if you have any questions or comments about our privacy practices or this Privacy Notice. You can always reach us via email at <a href="mailto:etsinfo@ets.org">etsinfo@ets.org</a>. You can also reach us via mail at the addresses given above.</p>
+<p><a href="#top">Back to Top</a></p>
+<p>Effective Date: April 3, 2018</p>
 <h2>See also:</h2>
 <ul>
-<li><a href="/legal/terms/">Site Terms of Use</a></li>
-<li><a href="http://store.ets.org/store/ets/DisplayPrivacyAndSecurityPage">Link to detailed information on online store security</a></li>
-<li><a href="/legal/privacy/test_takers">Privacy and Information Security Policy for Test Takers</a></li>
+<li><a href="/legal/terms/">ETS.org Terms of Use </a></li>
 </ul><!--stopindex--><div class="clearboth"> </div>
 
 
@@ -661,87 +713,7 @@ Privacy and Security
 
 
 
-<div id="wrap-triggers">
-	<div class="relative">
-		<div id="mm-trigger">
-			<a href="" class="trigger">
-				<span class="svg"><svg class="icon icon-bars"><use xlink:href="#icon-bars"></use></svg></span>
-			</a>
-		</div><!-- /mm-trigger -->
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-
-
-
-
-
-
-
-
-
-		
-
-
-<div class="auds" id="aud-trigger"> </div>
-<!--end "auds"-->
-
-
-
-
-	
-
-
-
-
-
-
-
-
-</div>
-	</div>
-
-
-
-
-	
-
-
-
-
-
-
-
-
-<nav id="mm" role="navigation" aria-label="section navigation">
-
+<nav id="mm" class="wrap-mm" role="navigation" aria-label="section navigation">  
 
 
 
@@ -827,7 +799,7 @@ Privacy and Security
 		
 
 
-<div class="panel organizer current only-panel"><h2><a href="/legal/"> <span class="hide">Navigation for </span> Legal Home</a></h2><div class="wrap-groups"><div class="group"><h3><a href="/legal/terms/">Terms of Use</a></h3></div><div class="group current"><h3 class="current"><a href="/legal/privacy/">Privacy and <span class="nowrap">Security<span class="icon">▼</span></span></a></h3>						<ul>						<li><a href="/legal/privacy/test_takers/">Test Takers</a></li>						</ul>						</div><div class="group"><h3><a href="/legal/permissions/">Permissions</a></h3></div><div class="group"><h3><a href="/legal/trademarks/">Trademark <span class="nowrap">Use<span class="icon">▼</span></span></a></h3>						<ul>						<li><a href="/legal/trademarks/owned/">Trademarks Owned by ETS</a></li>						</ul>						</div></div></div>
+<div class="panel organizer current only-panel"><h2><a href="/legal/"> <span class="hide">Navigation for </span> Legal Home</a></h2><div class="wrap-groups"><div class="group"><h3><a href="/legal/terms/">Terms of Use</a></h3></div><div class="group current"><h3 class="current"><a href="/legal/privacy/">Privacy and Security</a></h3></div><div class="group"><h3><a href="/legal/permissions/">Permissions</a></h3></div><div class="group"><h3><a href="/legal/trademarks/">Trademark <span class="nowrap">Use<span class="icon">▼</span></span></a></h3>						<ul>						<li><a href="/legal/trademarks/owned/">Trademarks Owned by ETS</a></li>						</ul>						</div></div></div>
 
 
 
@@ -893,12 +865,9 @@ Privacy and Security
 			<div class="clearboth"></div>
 		</div><!-- /main-contents --> <!-- tmplt ETSorg2015 - PT-13 - Document --><!-- end page content area -->
 
-				</div><!-- /main -->
-			</div><!-- /.wrap-outer -->
-				
-			<div class="wrap-outer">
-				<!-- begin footer area -->				
-				
+		</main>		
+			<!-- begin footer area -->				
+			
 
 
 
@@ -909,8 +878,14 @@ Privacy and Security
 
 
 
-		<footer id="footer" role="contentinfo" aria-label="footer">				
-			<div class="wrap-flex">
+		<footer class="ets-footer" id="footer" role="contentinfo" aria-label="footer">				
+			<div class="wrap-arc">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 388.031 612 15.938" xml:space="preserve">
+					<path class="arc" d="M612,403.969H0v-2.489c0,0,109.81-13.448,306.159-13.448C502.51,388.031,612,401.479,612,401.479V403.969z"></path>
+				</svg>
+			</div>
+
+			<div class="wrap-ets-links">
 			            <!-- Bottom Nav Links -->
 
 
@@ -923,81 +898,75 @@ Privacy and Security
 
 
 <div class="col">
-<p><span class="text-bold">ETS</span></p>
+<p class="text-bold">ETS</p>
 <ul>
-<li><a href="/">Home</a></li>
 <li><a href="/about">About ETS</a></li>
-<li><a href="/research">Research</a></li>
 <li><a href="/careers">Careers</a></li>
-<li><a href="http://news.ets.org">Newsroom</a></li>
-<li><a href="/conferences">Conferences</a></li>
+<li><a href="/contact">Contact Us</a></li>
 <li><a href="/disabilities">Disabilities</a></li>
 <li><a href="/store">ETS Store</a></li>
-<li><a href="/contact">Contact Us</a></li>
+<li><a href="http://news.ets.org/">News: Open Notes</a></li>
+<li><a href="/research">Research</a></li>
 </ul>
 </div>
 <div class="col">
-<p><span class="text-bold">Who We Serve</span></p>
+<p class="text-bold">Learning Solutions</p>
 <ul>
-<li><a href="/k12">K–12 Student Assessment Programs</a></li>
-<li><a href="/educator_licensure">Educator Licensure Assessments</a></li>
-<li><a href="/highered">Higher Education Community</a></li>
-<li><a href="/global">Global Programs and Services</a></li>
-<li><a href="/ella">English Learners and Teachers</a></li>
-<li><a href="/workplace">Workplace Community</a></li>
-<li><a href="/services">View All</a></li>
+<li><a href="/educator_licensure">Educator Licensure</a></li>
+<li><a href="/ella">English Language Learning</a></li>
+<li><a href="/highered">Higher Education</a></li>
+<li><a href="/k12">K–12 Student Programs</a></li>
+<li><a href="/workplace">Workplace &amp; Training</a></li>
 </ul>
 </div>
 <div class="col">
-<p><span class="text-bold">Tests and Products</span></p>
+<p class="text-bold">Products</p>
 <ul>
 <li><a href="/gre">GRE Tests</a></li>
 <li><a href="http://hiset.ets.org/">HiSET Exam</a></li>
-<li><a href="/praxis">The Praxis Series Tests</a></li>
-<li><a href="/toefl">TOEFL Test</a></li>
+<li><a href="/praxis">Praxis Tests</a></li>
+<li><a href="/toefl_family">TOEFL Tests</a></li>
 <li><a href="/toeic">TOEIC Tests</a></li>
-<li><a href="/portfolio_products?view=educatorseries">ETS Educator Series</a></li>
-<li><a href="/portfolio_products?view=performance">ETS Performance Portfolio</a></li>
-<li><a href="/portfolio_products?view=skillbuilders">ETS SkillBuilders</a></li>
-<li><a href="/portfolio_products?view=techconnect">ETS Tech Connect</a></li>
-<li><a href="/tests_products/alpha">View All</a></li>
+<li><a href="/products/">View All</a></li>
 </ul>
 </div>
 
 
 						
-			</div><!-- /.wrap-flex -->
-			
-			<div aria-hidden="true" id="oo-inline">
-				<p><a href="/contact" id="oo_lab_link"><img src="/rsc/opinionlab/v5/oo_icon.gif" alt="" width="9" height="9"> Send Feedback</a></p>
+			</div><!-- /.wrap-ets-links -->
+
+			<div class="wrap-feedback">
+				<ul>
+					<li><a href="/contact" id="oo_lab_link"><img src="/rsc/opinionlab/v5/oo_icon.gif" alt="" width="9" height="9"> Send Feedback</a></li>
+				</ul>
 			</div>
 
-			<ul id="cya-links">
-				<li><a href="/legal">Legal</a></li>
-				<li><a href="/legal/privacy">Privacy and Security</a></li>
-				<li><a href="/legal/trademarks/owned">ETS Trademarks</a></li>
-				<li><a href="http://get.adobe.com/reader/">Get Adobe Reader (for PDFs)</a></li>
-			</ul>
-
-			<div id="ets-tagline-text">
-				<p>ETS — <span class="text-italic">Measuring the Power of Learning.</span>®</p>
+			<div class="wrap-legal">
+				<ul>
+					<li><a href="/legal">Legal</a></li>
+					<li><a href="/legal/privacy">Privacy and Security</a></li>
+					<li><a href="/legal/trademarks/owned">ETS Trademarks</a></li>
+					<li><a href="http://get.adobe.com/reader/">Get Adobe Reader (for PDFs)</a></li>
+				</ul>
 			</div>
 
-			<div id="cya">
-					<p>Copyright <span aria-hidden="true">©</span> 2017 by Educational Testing Service. <span class="nowrap">All rights reserved.</span><br>
-					   All trademarks are property of their respective owners.</p>
-				</div> <!-- end: cya -->
+			<div class="wrap-tagline-text">
+				<p>ETS — <span class="text-italic">Measuring the Power of Learning.</span><sup>®</sup></p>
+			</div>
+
+			<div class="wrap-cya">
+					<p>Copyright <span aria-hidden="true">©</span> 2018 by Educational Testing Service. <span class="nowrap">All rights reserved.</span><br>
+					   All trademarks are the property of their respective owners.</p>
+				</div> <!-- end: wrap-cya -->
 				
-			<div id="ets-tagline">
-				<img aria-hidden="true" alt="" src="/rsc/img/ets-logo_50x35.png" width="50" height="35">
+			<div class="wrap-knockout-logo">
+				<img src="/rsc/img/logo-ets-knockout.svg" class="svg-img" height="50" alt="ETS">
 			</div>
 		</footer> <!-- end: footer --><!-- end footer area -->
-			</div>
+	</div>
 		
 
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/rsc/js/jquery.min.js"></script>
-	<script type="text/javascript" src="/rsc/js/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="/rsc/js/ets-base.js"></script>
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/rsc/js/base.min.js"></script>
 	<!-- Page Specific scripting -->
 
 
@@ -1014,7 +983,9 @@ Privacy and Security
 
 
 				
+		<!-- analytics -->
 	<script type="text/javascript" src="/Media/Global/script/dcs_tag.js"></script>
+
 	<script type="text/javascript">
 	/* <![CDATA[ */
 		$(document).ready(function(){
@@ -1032,13 +1003,12 @@ Privacy and Security
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-44416257-1', 'ets.org');
+  ga('create', 'UA-44416257-2', 'ets.org');
   ga('set', 'anonymizeIp', true);
   ga('send', 'pageview');
 	/* ]]> */
 	</script>
-
-	<script type="text/javascript">
+<script type="text/javascript">
        /* <![CDATA[ */
        (function() {
               $("head").append("<link>");
@@ -1046,10 +1016,9 @@ Privacy and Security
               css.attr({ rel: 'stylesheet', type: 'text/css', href: '/rsc/opinionlab/v5/oo_style.css' });
        })();
        /* ]]> */
-	</script>
-	<script type="text/javascript" src="/rsc/opinionlab/v5/oo_engine.min.js"></script>
-	<script type="text/javascript" src="/rsc/opinionlab/v5/oo_conf_tab.js"></script>
-
+</script>
+<script type="text/javascript" src="/rsc/opinionlab/v5/oo_engine.min.js"></script>
+<script type="text/javascript" src="/rsc/opinionlab/v5/oo_conf_tab.js"></script>
 <!--startindex-->
 
 
@@ -1058,6 +1027,6 @@ Privacy and Security
 
 
 
-<!--126-->
+<!--341-->
 
 </body></html>
