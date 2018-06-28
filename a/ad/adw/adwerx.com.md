@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218152122id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628040643id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
 
 # Adwerx
 
@@ -62,8 +62,8 @@ California law permits certain users of our site who are California residents to
 
 Adwerx, Inc.  
 Attn: Legal Department - Privacy  
-P.O. Box 2086   
-Durham, North Carolina 27702 
+P.O. Box 3848   
+Durham, North Carolina 27701 
 
 You may also email us at: [privacy@adwerx.com](mailto:privacy@adwerx.com). 
 
@@ -77,10 +77,10 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 Adwerx, Inc.  
 Attn: Legal Department - Privacy   
-P.O. Box 2086  
-Durham, North Carolina 27702 
+P.O. Box 3848  
+Durham, North Carolina 27701 
 
 **DISPUTES**  
 Any disputes regarding this Privacy Policy are subject to our General Terms and Conditions and will be governed by the laws of the State of North Carolina, applicable to agreements made and performed there. 
 
-© 2015 Adwerx, Inc. All rights reserved. 
+© 2018 Adwerx, Inc. All rights reserved. 
