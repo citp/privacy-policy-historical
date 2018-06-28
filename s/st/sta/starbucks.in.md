@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227211832id_/http%3A//www.starbucks.in/card/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628175734id_/http%3A//www.starbucks.in/card/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
@@ -107,21 +107,21 @@ Our Customer Relations can be contacted by phone at 18602660010, via email at [C
 
 Tata Starbucks Private Limited   
 Customer Care   
-1002(B), 10th Floor, Tower 2   
-Indiabulls Finance Center   
-Senapati Bapat Road   
-Elphinstone Road - West   
-Mumbai - 400013
+WeWork Marol, 2nd Floor,   
+The Masterpiece Building,   
+Next to Marol Metro Station,   
+Andheri East,   
+Mumbai - 400059
 
 In case of any grievances you can contact:
 
 Tata Starbucks Private Limited   
 Customer Care   
-1002(B), 10th Floor, Tower 2   
-Indiabulls Finance Center   
-Senapati Bapat Road   
-Elphinstone Road - West   
-Mumbai - 400013
+WeWork Marol, 2nd Floor,   
+The Masterpiece Building,   
+Next to Marol Metro Station,   
+Andheri East,   
+Mumbai - 400059
 
 ### Consent
 
