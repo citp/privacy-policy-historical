@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iheart.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231082541id_/https%3A//iheart.com/content/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheart.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628162601id_/https%3A//www.iheart.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | iHeartRadio
 
 [Versión en Español](https://web.archive.org/content/poltica-de-privacidad-y-cookies/)
 
-UPDATED AS OF: November 10, 2016
+UPDATED AS OF: June 27, 2018
 
 iHeartMedia, Inc. ("iHeartMedia", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application ("Platforms").
 
@@ -30,6 +30,8 @@ iHeartMedia, Inc. ("iHeartMedia", "we", "us", or "our") is committed to maintain
  **Information You Provide To Us**
 
 We or our service providers may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age and gender), location information, or payment information (such as account or credit card number). The types of Personal Information collected may vary depending on your use of the features of the Platforms. For example, your credit card number and other payment related information may be collected in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer's name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial.
+
+You may choose to create a personal iHeartRadio Code by enabling this feature through the settings in the App. The iHeartRadio Code is connected to a unique identifier that ties back to your iHeartRadio account and the information associated with your account (e.g., email, year of birth, gender). The iHeartRadio Code can be scanned to enter iHeartMedia contests, access events, and other exclusive promotions and to interact with our Services.  We may use the iHeartRadio Code for our administering our contests, promotions, events and for advertising, marketing and related business purposes. We may share the iHeartRadio Code and the associated unique identifier (and underlying account data as well as your name and phone number), with third parties, including our business partners for marketing purposes and as set forth in the applicable sections of our privacy policy governing the use and sharing of such data.
 
  **Information Collected Automatically**
 
@@ -69,7 +71,7 @@ We may receive information about you from third parties. For example, if you are
 
 ### 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
 
-You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@iheartradio.com](mailto:privacy@iheartradio.com); (iii) contacting us by mail at iHeartMedia Digital Customer Service, 200 E. Basse Road Suite 100, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
+You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@iheartradio.com](mailto:privacy@iheartradio.com); (iii) contacting us by mail at iHeartMedia Digital Customer Service, 20880 Stone Oak Pkwy, San Antonio, TX 78258; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
 If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@iheartradio.com](mailto:privacy@iheartradio.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
@@ -109,7 +111,7 @@ If you have any questions or concerns about this Privacy Statement, the practice
 
 Attn: Privacy Questions  
 iHeartMedia, Inc.  
-200 E. Basse Road, Suite 100  
-San Antonio, TX 78209  
+20880 Stone Oak Pkwy  
+San Antonio, TX 78258  
 Re: iHeartMedia Privacy Statement  
 E-Mail: [privacy@iheartradio.com](mailto:privacy@iheartradio.com)
