@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119201611id_/https%3A//support.chairish.com/hc/en-us/articles/115007232828-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628193624id_/https%3A//support.chairish.com/hc/en-us/articles/115007232828-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Chairish Help Center
 
-Effective Date: April 21, 2016
+Effective Date: June 25, 2018
 
 ## Our Core Principles
 
@@ -40,7 +40,7 @@ You can edit your Chairish account information, including your marketing prefere
 
 While our Services may not operate properly without these technologies, you can set your web browser to refuse all cookies.
 
-Also, for more information about Internet-based ads, or to opt out of having your online information used for behavioral advertising purposes, please visit[www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+Also, for more information about Internet-based ads, or to opt out of having your online information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## How We Share Your Information
 
@@ -49,7 +49,7 @@ Also, for more information about Internet-based ads, or to opt out of having you
   * Chairish may disclose such information (a) if we are required to do so by law or subpoena, (b) to enforce our terms and policies; or (c) to exercise or protect the rights, property, or safety of Chairish, our users or others.
   * We may store information in physical locations outside the direct control of Chairish (for instance, on servers or databases co-located with hosting providers).
   * Chairish may share your information with trusted third party service providers that Chairish has contracted with to provide you the Service.
-  * Chairish may share your information with trusted third party service providers that Chairish has contracted with to provide advertising services using information that our customers provide. If you prefer that Chairish not share your information with these third party service providers, you can opt out by emailing us at[support@chairish.com](mailto:support@chairish.com).
+  * Chairish may share your information with trusted third party service providers that Chairish has contracted with to provide advertising services using information that our customers provide. If you prefer that Chairish not share your information with these third party service providers, you can opt out by emailing us at [support@chairish.com](mailto:support@chairish.com).
   * Chairish may transfer such information if Chairish is acquired as a business or its assets are sold, as is typical when a business is acquired or merged.
 
 
