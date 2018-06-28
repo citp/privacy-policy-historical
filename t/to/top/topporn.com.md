@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topporn.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228165321id_/http%3A//www.topporn.com/page/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topporn.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628175855id_/http%3A//www.topporn.com/page/info/privacy_policy) for the most accurate reproduction.*
 
 # Top Porn Privacy Policy
 
@@ -54,4 +54,4 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 
 Each user should carefully read each of the terms and conditions of use for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from user.
 
-If you have any questions or concerns about this privacy policy statement please email info@topporn.com
+If you have any questions or concerns about this privacy policy statement please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
