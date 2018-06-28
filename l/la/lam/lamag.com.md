@@ -1,169 +1,382 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226234534id_/http%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628172604id_/http%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Los Angeles Magazine
 
-##  PRIVACY POLICY 
+##  Privacy Policy and Cookies Policy 
 
-**1\. Introduction**  
-Emmis Publishing, L.P. ("Company," "We," or "Us") respects your privacy and is committed to protecting it through compliance with this policy.  
-This policy describes the types of information we may collect from you or that you may provide when you visit this Website (defined below) and our practices for collecting, using, maintaining, protecting and disclosing that information.  
-This policy applies to information we collect:
+**Effective: June 1, 2018**
 
-  * On this Website.
-  * In e-mail, text and other electronic messages between you and this Website.
+Hour Media, LLC ("us", "we", or "our") operates the [http://www.lamag.com](http://www.lamag.com/) website (the "Service").
 
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [http://www.lamag.com](http://www.lamag.com/)
 
-It does not apply to information collected by:
+## **Definitions**
 
-  * Us offline or through any other means, including on any other website operated by Company or any third party.
-  * Any third party, including through any application or content that may link to or be accessible from or on the Website.
+  * **Service**
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Service is the [http://www.lamag.com](http://www.lamag.com/) website operated by Hour Media, LLC
 
-**2\. Children Under the Age of 13**  
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13, we will delete that information. (including any associated profile) to the extent that it is in a system we control. If you believe we might have any information from or about a child under 13, please contact us at the email address listed at the end of this Privacy Policy.
-
-**3\. Information We Collect About You and How We Collect It**  
-We collect several types of information from and about users of our Website, including information:
-
-  * By which you may be personally identified, such as name, postal address, e-mail address, username and password, phone number, and date of birth ("personal information").
-  * About your internet connection, the equipment you use to access our Website and usage details.
+  * **Personal Data**
 
 
 
-We collect this information:
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-  * Directly from you when you provide it to us.
-  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
-
-
-
-**4\. Information You Provide to Us**  
-The information we collect on or through our Website may include:
-
-  * Information that you provide by registering for our Website., including through any social media platform through which you register. This includes information provided at the time of registering to use our Website or such information that is designated as public information through any social media platform through which you register for our Website. We may also ask you for information when you enter a contest or promotion sponsored by us, fill out a survey, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your search queries on the Website.
-  * Any other information that you permit a social media platform to share with our Website.
+  * **Usage Data**
 
 
 
-You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-**5\. Usage Details, IP Addresses And Cookies/, Cookies and Other Technologies**  
-As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
-
-  * Details of your visits to our Website, including traffic data, location data, and other communication data and the resources that you access and use on the Website.
-  * Information about your computer and internet connection, including your IP address, operating system and browser type.
+  * **Cookies**
 
 
 
-The information we collect automatically is statistical data, and does not identify any individual. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-  * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
-  * Speed up your searches.
-  * Recognize you when you return to our Website.
-  * Understand which parts of the Website to optimize based on user traffic.
-  * Provide targeted advertising or relevant content.
-  * Provide only news and information relevant to usage data.
+  * **Data Controller**
 
 
 
-The technologies we use for this automatic data collection may include:
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
-  * **Web Beacons.** Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-
-
-**6\. Third-party Advertiser Use of Cookies and Other Tracking Technologies**  
-Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.
-
-**7\. How We Use Your Information**  
-We use information that we collect about you or that you provide to us, including any personal information:
-
-  * To present our Website and its contents to you.
-  * To provide you with information, products or services that you request from us.
-  * To fulfill any other purpose for which you provide it.
-  * To provide you with notices about your account/subscription, including expiration and renewal notices.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * To notify you about changes to our Website or any products or services we offer or provide though it.
-  * To allow you to participate in interactive features on our Website.
-  * To process and deliver contest entries and rewards.
-  * In any other way we may describe when you provide the information.
-  * For any other purpose with your consent.
+  * **Data Processors (or Service Providers)**
 
 
 
-We may also use your information to contact you about our own goods and services that may be of interest to you. If you do not want us to use your information in this way, you may opt out by visiting our [website](http://indianapolismonthly.com/), logging in, editing your profile preferences and following the directions to opt out. We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-**8\. Disclosure of Your Information**  
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.  
-We may disclose personal information that we collect or you provide as described in this privacy policy:
+We may use the services of various Service Providers in order to process your data more effectively.
 
-  * To our subsidiaries and affiliates.
-  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Emmis Publishing L.P.'s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Emmis Publishing, L.P. about our Website users is among the assets transferred.
-  * To fulfill the purpose for which you provide it.
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
+  * **Data Subject (or User)**
 
 
 
-We may also disclose your personal information:
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Emmis Publishing L.P., our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+## **Information Collection and Use**
 
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
+### **Types of Data Collected**  
+ 
 
-**9\. Choices About How We Use and Disclose Your Information**  
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+**Personal Data**  
+While using our Service, we may ask you to provide us with certain
 
-  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company.** If you do not wish to have your e-mail address used by the Company to promote our own or third parties' products or services, you may opt out by visiting our [website](http://indianapolismonthly.com/), logging in, editing your profile preferences and following the directions to opt out. You may also unsubscribe by using the link in the email message you received.
-  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you may opt out by visiting our [website](http://indianapolismonthly.com/), logging in, editing your profile preferences and following the directions to opt out.
+personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-
-
-We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
-
-  * **Geographic** **Location.** If you do not want us to collect information regarding your geographic location, you can disable geographic location tracking by adjusting your device’s settings or by declining such tracking when prompted. Note that some services may no longer work as a result of disabling location tracking.
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City Cookies and Usage Data
 
 
 
-**10\. Accessing and Correcting Your Information**  
-You can review and change your personal information by logging into the Website and visiting your account profile page.  
-You may send us an e-mail at the email address listed at the end of this Privacy Policy to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.  
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-**11\. California Privacy Rights**  
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to the email address listed at the end of this Privacy Policy. We do not respond to Do Not Track browser signals.
+**Usage Data**
 
-**12\. Data Security**  
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls.  
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**13\. Changes to Our Privacy Policy**  
-It is our policy to post any changes we make to our Privacy Policy on this page with a notice that the Privacy Policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the e-mail address specified in your account or through a notice on the Website home page. The date the Privacy Policy was last revised is identified at the top of this policy. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this Privacy Policy to check for any changes.
+**Location Data**
 
-**14\. Your Comments and Concerns**  
-This Website is operated by Emmis Publishing L.P., One EMMIS Plaza, 40 Monument Circle, Suite 700, Indianapolis, IN 46204.  
-All feedback, comments, requests for technical support, notices of copyright infringement and other communications relating to the Website should be directed to the contact set forth below for this Website.
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
 
-**15\. Website Definition and Contact Information:**  
-This “Website” is the website through which you accessed these Terms of Use set forth below:  
-[www.atlantamagazine.com](http://www.atlantamagazine.com/) – Atlanta Magazine – [eflorio@atlantamagazine.com](mailto:eflorio@atlantamagazine.com?subject=Privacy%20Policy)  
-[www.cincinnatimagazine.com](http://www.cincinnatimagazine.com/) – Cincinnati Magazine – [ABrownlee@cincinnatimagazine.com](mailto:ABrownlee@cincinnatimagazine.com?subject=Privacy%20Policy)  
-[www.indianapolismonthly.com](http://www.indianapolismonthly.com/) – Indianapolis Monthly – [JPScott@IndianapolisMonthly.com](mailto:JPScott@IndianapolisMonthly.com?subject=Privacy%20Policy)  
-[www.lamag.com](http://www.lamag.com/) – Los Angeles Magazine – [ILemus@lamag.com](mailto:ILemus@lamag.com?subject=Privacy%20Policy)  
-[www.orangecoast.com](http://www.orangecoast.com/) – Orange Coast Magazine – [LAllen@OrangeCoastMagazine.com](mailto:LAllen@OrangeCoastMagazine.com?subject=Privacy%20Policy)  
-[www.texasmonthly.com](http://www.texasmonthly.com/) – Texas Monthly – [DSuch@texasmonthly.com ](mailto:DSuch@texasmonthly.com?subject=Privacy%20Policy)  
-– See more at: [http://www.indianapolismonthly.com/privacy/](http://www.indianapolismonthly.com/privacy/#sthash.VyGG7Egb.dpuf)
+You can enable or disable location services when you use our Service at any time, through your device settings.
+
+**Tracking & Cookies Data **
+
+We use cookies and similar tracking technologies to track the activity
+
+on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## **Use of Data**
+
+Hour Media, LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+
+
+
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## **Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)**
+
+If you are from the European Economic Area (EEA), Hour Media, LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Hour Media, LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## **Retention of Data**
+
+Hour Media, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Hour Media, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to
+
+improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## **Transfer of Data**
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Hour Media, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## **Disclosure of Data**
+
+**Disclosure for Law Enforcement**
+
+Under certain circumstances, Hour Media, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+## **Legal Requirements**
+
+Hour Media, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Hour Media, LLC To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## **Security of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## **"Do Not Track" Signals**
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## **Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Hour Media, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Hour Media, LLC relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## **Service Providers**
+
+We may employ third party companies and individuals to facilitate our
+
+Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## **Analytics**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+
+## **Advertising**
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie **
+
+
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://adssettings.google.com/anonymous?hl=en&sig=ACi0TCjs6qNe7TyJVIYtZ6mlw1_VkbIv83c89mTb0Yuj5Ib7ZX5iZbkr9JgyieUY8bH0IK39hlWCgBTTSsimhVcXD0aYVMhKPQ)
+
+## **Behavioral Remarketing**
+
+Hour Media, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://adssettings.google.com/anonymous?sig=ACi0TCiRQfq-7Vo-hV5T90pBZl8HJXSBIXkrMrLDrwEVvJ3r7u7SufS02---09WU67QAMbdHjVxnkNweVdzcnxh1eL7Jwa3bhw&hl=en)
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> — for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+  * **Facebook**
+
+
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:[ https://www.facebook.com/privacy/explanation](http://https//www.facebook.com/privacy/explanation)
+
+## **Payments**
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **PayPal or Braintree**
+
+
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+## **Links to Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## **Children's Privacy**
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## **Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+By email: editorial@hourdetroit.com  
+By visiting this page on our website: http://www.hourdetroit.com/Hour-Detroit/Privacy-Policy/ By phone number: 248.691.1800  
+By mail: 5750 New King Drive, Troy, MI 48098
+
+Effective: June 01, 2018
+
+Hour Media, LLC ("us", "we", or "our") uses cookies on the [http://www.lamag.com ](http://www.lamag.com/)website (the "Service"). By using the Service, you consent to the use of cookies.
+
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
+
+Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
+
+Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
+
+## **How Hour Media, LLC uses cookies**
+
+When you use and access the Service, we may place a number of cookies files in your web browser.
+
+We use cookies for the following purposes:
+
+  * To enable certain functions of the Service To provide analytics
+
+
+
+  * To store your preferences
+  * To enable advertisements delivery, including behavioral advertising
+
+
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
+
+  * Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service.
+  * Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality.
+  * Analytics cookies. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
+  * Advertising cookies. These type of cookies are used to deliver advertisements on and through the Service and track the performance of these advertisements. These cookies may also be used to enable third-party advertising networks to deliver ads that may be relevant to you based upon your activities or interests.
+
+
+
+## **Third-party cookies**
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+
+## **What are your choices regarding cookies**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+For the Chrome web browser, please visit this page from Google:
+
+<https://support.google.com/accounts/answer/32050>
+
+For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+
+For the Firefox web browser, please visit this page from Mozilla:
+
+[https://support.mozilla.org/en-US/kb/delete-cookies-remove-info- websites-stored](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-%20websites-stored)
+
+For the Safari web browser, please visit this page from Apple:
+
+<https://support.apple.com/kb/PH21411?locale=en_US>
+
+For any other web browser, please visit your web browser's official web pages.
+
+## **Where can you find more information about cookies**
+
+You can learn more about cookies and the following third-party websites:
+
+AllAboutCookies: <http://www.allaboutcookies.org/>  
+Network Advertising Initiative: <http://www.networkadvertising.org/>
