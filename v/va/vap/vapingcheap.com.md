@@ -1,110 +1,208 @@
-> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124173215id_/https%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628194224id_/https%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Best Vape Deals - Cheap Vape Mods, Tanks & eJuice | Vaping Cheap
+# Privacy Policy - Vaping Cheap
 
-If you have any questions about our Vaping Cheap’s privacy policy feel free to [contact us](http://vapingcheap.com/contact/ "Contact"). 
+Vaping Cheap is committed to safeguarding your privacy. You can [contact us](https://vapingcheap.com/contact/) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you. 
 
-### vapingcheap.com Privacy Policy
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy. 
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+## Table of Contents
 
-What personal information do we collect from the people who visit our blog, website or app? 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your Name, Email address or other details to help you with your experience.
-
-When do we collect information? 
-
-We collect information from you when you subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site. 
-
-How do we use your information? 
-
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
-
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To administer a contest, promotion, survey or other site feature.
-  * To send periodic emails regarding your order or other products and services.
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. How we secure your data
+  7. How long do we retain your data
+  8. Where do we send your data
+  9. Compliance with Children’s Online Privacy Protection Act
+  10. California Online Privacy Protection Act
+  11. Information about cookies
+  12. Contact information
 
 
 
-How do we protect visitor information? 
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**We/us**  (either capitalized or not) – Vaping Cheap 
 
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We do not use an SSL certificate  
-We only provide articles and information, and we never ask for personal or private information 
+We promise to follow the following data protection principles:
 
-Do we use ‘cookies’? 
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered.
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose.
+  * Processing is limited to a time period. We will not store your personal data for longer than needed.
+  * We will do our best to ensure the accuracy of data.
+  * We will do our best to ensure the integrity and confidentiality of data.
 
-We do not use cookies for tracking purposes 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies. 
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly. 
+The Data Subject has the following rights: 
 
-However, you can still place orders .  
-Third Party Disclosure 
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right to [withdraw any given consent](https://web.archive.org/privacy-tools/) for Processing of your Personal Data.
 
-No, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-Third party links 
+#### Information you have provided us with
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+This might be your e-mail address, name, billing address, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address. 
 
-Google 
+#### Comments
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. 
 
-We have not enabled Google AdSense on our site but we may do so in the future. 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment. 
 
-California Online Privacy Protection Act 
+#### Information automatically collected about you
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
+This includes information that is automatically stored by cookies and other session tools. For example, your shopping cart information, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged. 
 
-According to CalOPPA we agree to the following:  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above. 
+#### Cookies
 
-Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By emailing us  
-• By logging in to their account 
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. 
 
-How does our site handle do not track signals?  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. 
 
-Does our site allow third party behavioral tracking?  
-It’s also important to note that we do not allow third party behavioral tracking 
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed. 
 
-COPPA (Children Online Privacy Protection Act) 
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day. 
 
-When it comes to the collection of personal information from children under 13, the Childrenâ€™s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nationâ€™s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect childrenâ€™s privacy and safety online. 
+#### Media
 
-We do not specifically market to children under 13. 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website. 
 
-Fair Information Practices 
+#### Embedded content from other websites
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. 
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via email  
-• Within 7 business days 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. 
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. 
+#### Information from our partners
 
-Contacting Us 
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+#### Publicly available information
 
-vapingcheap.com 
+We might gather information about you that is publicly available. 
 
-PO Box 1967 
+We use your Personal Data in order to: 
 
-Clackamas OR, 97015 
+  * Provide our service to you. This includes, for example, registering your account; providing you with other products and services that you have requested; providing you with promotional items at your request and communicating with you in relation to those products and services; communicating and interacting with you, and notifying you of changes to any services.
+  * Enhance your customer experience;
+  * Fulfill an obligation under law or contract;
 
-[E-Mail us here](http://vapingcheap.com/contact/ "Contact")
 
-Last Edited on 2014-09-09 
+
+We use your Personal Data on legitimate grounds and/or with your Consent. 
+
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes: 
+
+  * To identify you;
+  * To provide you a service or to send/offer you a product;
+  * To communicate either for sales or invoicing;
+
+
+
+On the ground of legitimate interest, we Process your Personal Data for the following purposes: 
+
+  * To send you personalized offers* (from us and/or our carefully selected partners);
+  * To administer and analyze our client base (purchasing behavior and history) in order to improve the quality, variety, and availability of products/ services offered/provided;
+  * To conduct questionnaires concerning client satisfaction;
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behavior to be our legitimate interest. 
+
+With your consent we Process your Personal Data for the following purposes: 
+
+  * To send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * For other purposes we have asked your consent for;
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from the law and/or use your Personal Data for options provided by law. We reserve the right to anonymize Personal Data gathered and to use any such data. 
+
+We will use data outside the scope of this Policy only when it is anonymized. We save your billing information and other information gathered about you for as long as needed for accounting purposes or other obligations deriving from the law, but not longer than. 
+
+We might process your Personal Data for additional purposes that are not mentioned here but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that: 
+
+  * the link between purposes, context, and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be an appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes. 
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks. 
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur. 
+
+If you have an account with us, note that you have to keep your username and password secret. 
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. 
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. 
+
+Visitor comments will be checked through an automated spam detection service. This site uses Akismet to reduce spam. [Learn how your comment data is processed](https://akismet.com/privacy/). 
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+We use cookies and/or similar technologies to analyze customer behavior, administer the website, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us. 
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions. 
+
+#### We use cookies for the following purposes:
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalized features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed on the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organizations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+You can remove cookies stored on your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+#### Use of Google Analytics
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
+
+#### Use of Google AdSense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. 
+
+DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+#### Use of Facebook Pixel
+
+We use the tracking pixel from Facebook Inc on our website. 
+
+This allows user behavior to be tracked after they have been redirected to the provider’s website by clicking on a Facebook ad. This enables us to measure the effectiveness of our ad campaigns. 
+
+The data collected is anonymous to us. However, this data is stored and processed by Facebook, who may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook’s Data Usage Policy <https://www.facebook.com/about/privacy/>. 
+
+A cookie may also be stored on your computer for these purposes. 
+
+  
+Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)  
+Phone: +353 57 868 4800 
+
+Vaping Cheap has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. 
+
+You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+Last modification was made on **June 8, 2018**. 
