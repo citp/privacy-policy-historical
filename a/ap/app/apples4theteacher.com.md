@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075337id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628114926id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apples4theteacher.com Privacy Polcy
 
 Mission Statement
 
-Effective 12/08/15
+Effective 05/25/18
 
 Apples4theteacher.com  [owned and operated by Webstantaneous Web Marketing, LLC](http://www.webstantaneous.com/) was created to help teachers, homeschoolers and parents of school age children. Our mission is to provide free educational resources by thematic units. Almost all resources are printable and can be used in a classroom setting or at home to reinforce educational concepts.  [This privacy policy applies to our site www.apples4theteacher.com](http://www.apples4theteacher.com/). 
 
@@ -70,10 +70,7 @@ Site Analytics Privacy Policies:
 **4\. Advertisers**  
 Apples4theteacher.com has offered free teaching resources since 1999. We have been able to offer our resources for free because ad networks pay us for advertising space on resource pages. While viewing our website, a third party advertiser may place a cookie in your browser. You may view the privacy policy of each ad network that Apples4theteacher.com works with below:
 
-  * [Burst Media](http://www.burstmedia.com/index.php/company/coppa)
   * [Google Adsense](http://www.google.com/privacy.html)
-  * [Media.net](http://www.media.net/privacy-policy)
-  * [Netseer](https://web.archive.org/NetSeer_Apples%20Privacy%20Policy%202014.pdf)
 
 
 
