@@ -1,94 +1,125 @@
-> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116172930id_/http%3A//www.ntd.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntd.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629011024id_/http%3A//www.ntd.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NTD.TV
 
-##### **_Last Updated: March 1, 2017_**
+**Who We Are**
 
-We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+NTDTV (‘we’ or ‘us’ or ‘our’) gathers and processes your personal information in accordance with this privacy notice and in compliance with the relevant data protection Regulation and law. This notice provides you with the necessary information regarding your rights and obligations, and explains how, why and when we collect and process your personal data.
 
-This Privacy Notice discloses the privacy practices of our website, mobile site or app (the “Site”). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+NTDTV’s registered office is at 229 West 28th Street, Suite 700, New York, NY10001, USA. We can be contacted by email: [privacy@NTDTV.com](mailto:privacy@NTDTV.com).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.ntd.tv/terms-of-service/). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+**Information That We Collect**
 
-## **How We Collect Information**
+NTDTV processes your personal information to meet our legal, statutory and contractual obligations and to provide you with our products and services. We will never collect any unnecessary personal data from you and do not process your information in any way, other than already specified in this notice.
 
-**Information You Provide.** We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
+_**The personal data that we collect from is:**_
 
-**Location Information.** We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
+  * – Email (only applicable to our newsletter service and online subscription)
+  * – IP address
+  * – browser type, device type
+  * – operating system
+  * – user activity/behaviors on our websites and
 
-**Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising.** We also collect and store information through a variety of automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App (for example, whether via a particular advertisement for the App), when the App is launched, how many times a particular page within the Site is visited, which features the users interact with, and your device or computer’s connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.
 
-The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
-We also may use “cookies” and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+_**We collect information in the below ways:**_
 
-## **How Information is Used**
+  * – Online form
+  * – Different Cookies
+  * – Other sources
 
-We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
 
-We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.
 
-In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
+**How We Use Your Personal Data** _(Legal Basis for Processing)_
 
-**Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
+NTDTV takes your privacy very seriously and will never disclosure or sell your data without your consent, unless required to do so by law. We only retain your data for as long as is necessary and for the purposes specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw consent at any time. The purposes and reasons for processing your personal data are detailed below:
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
+  * – we collect information about your use of our websites and Apps, in order to improve the contents of the websites and Apps, make them more suitable to your needs and increase their usability
+  * – to make your navigation more pleasant and personalized, with our products (such as contents) and services personalized to you
+  * – to facilitate your experience and social sharing
+  * – to analyze and develop our new products and services for the interest of users
+  * – In specific cases we will be contractually obligated to share your data with one of our trusted third party service partners explained below. In these instances, we will make it clear that the data you share will be transferred to the third party. You will always have the option to not have your data shared by not taking part in that specific program.
 
-## **How Information is Shared**
 
-**Sharing with Affiliates, Partners and Third Party Service Providers.** We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
 
-If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+**Your Rights**
 
-We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner’s use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
+You have the right to access any personal information that NTDTV processes about you and to request information about: –
 
-**Sharing Information with Third Parties for Advertising and Other Promotional Purposes.** We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.
+  * – What personal data we hold about you
+  * – The purposes of the processing
+  * – The categories of personal data concerned
+  * – The recipients to whom the personal data has/will be disclosed
+  * – How long we intend to store your personal data for
+  * – If we did not collect the data directly from you, information about the source
 
-Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice.
 
-For information about use of your information by us and by third-party advertising service providers for advertising, see the section “[Data Collected in Connection with Ad Serving and Targeting.](http://www.courier-journal.com/section/privacy#adchoices)“
 
-Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.ntd.tv/terms-of-service/); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+If you believe that we hold any incomplete or inaccurate data about you, you have the right to ask us to correct and/or complete the information and we will strive to update/correct it as quickly as possible; unless there is a valid reason for not doing so, at which point you will be notified.
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+You also have the right to request erasure of your personal data or to restrict processing in accordance with data protection laws, as well as to object to any direct marketing from us and to be informed about any automated decision-making that we use.
 
-## **Data Collected in Connection with Ad Serving and Targeting**
+If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the releant request; this is to ensure that your data is protected and kept secure.
 
-We operate in compliance with the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/).
+Please bear in mind that if you exercise such rights, this may affect our ability to provide our products and services.
 
-We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+**Sharing and Disclosing Your Personal Information**
 
-We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
+We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this notice or where there is a legal requirement. NTDTV uses trusted third-parties to provide the below services and business functions, those our third-parties collect and process your data governed by their privacy policy.
 
-Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
+We share your personal data with the following categories:
 
-The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting [http://www.google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy). Additionally, many of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
+  * – we use limited services from trusted third-party service providers, such as Google, Facebook, and Lotame, to analyze how users use our websites and Apps, track user interests, trends and patterns in order to provide you with personalized suitable contents to meet your interest from our websites and Apps.
+  * – we use limited third-party advertising companies, to serve users with some of the advertisements that appear on our websites and Apps, in order to provide personalized ads at your interest when experiencing our websites and Apps.
 
-## **Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas**
 
-Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other community posting or social networking areas of our Site – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-## **Children’s Privacy Statement**
+**International transfers of personal information**
 
-This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+Our service providers such as Google, Facebook, and Lotame are U.S. companies. They comply with the EU-U.S. Privacy Shield Framework Principles (the “Privacy Shield Principles”) with respect to the collection, use and transfer of personal data between the European Economic Area and the U.S. This ensures international transfer of personal data between EEA countries and US in full compliance with GDPR, at a high level of the protection of personal data, in case such international transfer takes place.
 
-## **How To Make Changes to Your Information**
+**Safeguarding Measures**
 
-If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.
+NTDTV takes your privacy seriously and we take every reasonable measure and precaution to protect and secure your personal data. We work hard to protect you and your information from unauthorized access, alteration, disclosure or destruction and have certain qualified security measures in place.
 
-## **Security**
+Encryption is our security strategy to ensure the stored personal data can be accessed only by the authorized roles and services with audited access to the encryption keys.
 
-All information we gather on our Site is stored within databases to which only we and services providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+Personal data is encrypted and stored in a private and isolated environment for extended security.
 
-## **Links to Other Sites**
+We store all personal data we collect from EU countries in NTDTV EU Data Center, physically located inside EU, where our processing those data takes place as well.
 
-Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
+**Consequences of Not Providing Your Data**
 
-## **Questions Regarding Privacy**
+You are not obligated to provide your personal information to NTDTV, however, as this information is required for us to provide you with our services/deliver products, we will not be able to offer some/all of our products or services without it.
 
-If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
+**How Long We Keep Your Data**
 
-NTD.tv  
-[[email protected]  
-](https://web.archive.org/cdn-cgi/l/email-protection#85e6eaebf1e4e6f1c5ebf1e1abf1f3)229 West 28th Street, Floor 7  
-New York, New York 10001
+NTDTV retains your personal data for as long as necessary for the purpose for which it is collected, to provide you with our services as our users on websites and Apps.
+
+**Individuals under 16**
+
+NTDTV does not intentionally and knowingly process personal information from individuals under the age of 16. Personal data of users under the age of 16 will be processed only if consent is given or authorized by the holder of parental responsibility over the child. We will make every reasonable effort to verify in such cases.
+
+**Lodging A Complaint**
+
+NTDTV only processes your personal information in compliance with this privacy notice and in accordance with the relevant data protection laws. If, however you wish to raise a complaint regarding the processing of your personal data or are unsatisfied with how we have handled your information, you have the right to lodge a complaint with the supervisory authority.
+
+**NTDTV**
+
+**Address:** 229 West 28th Street, 6th FL, New York, NY10001, USA.  
+**Telephone:** +1-212-736-8535  
+**Fax:** +1-212-736-8536  
+**Email:** [privacy@NTDTV.com](mailto:privacy@NTDTV.com)
+
+**Changes to our privacy notice**
+
+NTDTV may change this notice from time to time. All changes will be posted and updated here. We will notify you directly by email (if we hold one for you) if any significant changes occur. We advise you to check back here frequently to review the most current version of this notice.
+
+_**This statement was last updated on May 25, 2018.**_
+
+**Other questions?**
+
+If you have other questions, contact us by:  
+sending an email to the following address: [privacy@NTDTV.com](mailto:privacy@NTDTV.com)  
+writing to the following postal address:  
+229 West 28th Street, Suite 700, New York, NY 10001, USA.
