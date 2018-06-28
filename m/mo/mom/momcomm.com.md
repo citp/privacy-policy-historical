@@ -1,38 +1,118 @@
-> *The following text is extracted and transformed from the momcomm.com privacy policy that was archived on 2014-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140111164912id_/http%3A//www.momcomm.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcomm.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628232317id_/https%3A//www.blogclarity.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
-# Privacy Policy and Disclosure
+# Privacy Policy and Disclosure - Blog Clarity
 
-**Affiliate Marketing**
+Blog Clarity (“Website”) is governed by the following Privacy Policy.
 
-I participate in affiliate marketing programs where I receive a small commission when products are purchased through links on my blog. I appreciate when you click on those links because they help support me so I can keep writing Momcomm.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website.
 
-**What information does Momcomm collect?**  
-Momcomm collects information from you when you subscribe to the email list or fill out a form. That’s it.
+**_WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?_**
 
-**Does Momcomm use cookies?**
+  * **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile on our online course site, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-****Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. The cookies are only used for the affiliate links. I don’t see them OR eat them.
 
-**California Online Privacy Protection Act Compliance**
+  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
 
-****Because Momcomm values your privacy I’ve taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. Momcomm therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-****Momcomm is in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and does not collect any information from anyone under 13 years of age. This website and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only**
+  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-****This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Changes to our Privacy Policy**
 
-****If I decide to change the privacy policy, I’ll post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on June 27, 2011.
+**_HOW YOUR INFORMATION MAY BE USED_**
 
-**Contacting Us**
+We may use the information collected in the following ways:
 
-****If there are any questions regarding this privacy policy you may contact me using the information below.
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To process payment for purchases you make through the Website; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-[melissa@momcomm.com](mailto:melissa@momcomm.com)
 
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/) (with a little tweaking by Melissa)
+
+**_THIRD-PARTY USE OF PERSONAL INFORMATION_**
+
+We may share your information with third parties when you explicitly authorize us to share your information.
+
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
+
+  * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+  * Payment Processing – this service is used to serve our ecommerce platform to sell our online courses. At no time is your banking information passed to the Website. We receive only information used for order fulfillment.
+  * ConvertKit – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
+
+
+
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+**_ANONYMOUS DATA_**
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+**_PUBLICLY VISIBLE INFORMATION_**
+
+**_  
+_** If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
+
+**_COOKIES_**
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**_ADVERTISING_**
+
+**Display Ads  
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads  
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+**Affiliate Program Participation  
+**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
+
+The Blog Clarity website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**_RIGHTS RELATED TO YOUR PERSONAL INFORMATION_**
+
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at melissa@blogclarity.com to be removed from our mailing list.
+
+**Access** – You may access the personal information we have about you by submitting a request to melissa@blogclarity.com.
+
+**Amend** – You may contact us at melissa@blogclarity.com to amend or update your personal information.
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to melissa@blogclarity.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+**_SENSITIVE PERSONAL INFORMATION_**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**_CHILDREN’S INFORMATION_**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at melissa@blogclarity.com and we will use our best efforts to promptly remove such information from our records.
+
+**_CONTACT INFORMATION_**
+
+At any time, please contact us at melissa@blogclarity.com for questions related to this Privacy Policy.
+
+Last updated: May 18, 2018
+
+### Is Your Blog in Tip-Top Shape? Find Out!
+
+Get this free DIY Blog Critique to see what's missing from your blog's design, navigation, and content.
