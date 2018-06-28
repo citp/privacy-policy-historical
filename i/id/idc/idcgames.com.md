@@ -1,42 +1,75 @@
-> *The following text is extracted and transformed from the idcgames.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226224611id_/https%3A//en.idcgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idcgames.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628155720id_/https%3A//en.idcgames.com/privacy-policy) for the most accurate reproduction.*
 
 # IDC/Games – All your online games for free - MMORPG, MOBA, RTS
 
-## 1\. COOKIES (art. 22.2 LSSI)
+## PRIVACY POLICY
 
-By visiting this website, you consent to store cookies on your device. A cookie is an information file sent by a web site that is kept by the browser and is used to store and retrieve information concerning navigation on the device.
+_(version 3.2, 15-12-2017)_
 
-In this sense, the user authorizes IDC to store and retrieve data using cookies on your browser, you need to manage user session, save user preferences or collect usage statistics, among other things.
+This document describes the Privacy Policy of IDC / Games in relation to the data collected by its web pages and applications for mobile devices, reflecting our commitment to maintain and guarantee secure commercial relationships by protecting personal data and guaranteeing the right to the privacy of each of the users of our services.
 
-The types of cookies that may be used on this Website, and the purpose of them and, where appropriate, third party cookies used (service providers) are:
+Any information provided while visiting our website will be treated in accordance with applicable data protection laws and will only be collected, processed and used for lawful and legitimate purposes of which we inform below.
 
-  * Cookies strictly necessary to provide the services requested by the user on the web. If these cookies are disabled, the user will be unable to properly interact with our content and services.
-
-  * Cookies analysis (for monitoring and statistical analysis of user behavior as a whole), advertising (to manage advertising space such as the frequency with which the ads are displayed) and behavioral (to manage advertising space based on the specific profile). If cookies are disabled, the website will still work, but the information recorded by these cookies about your use of our website and operation of the ads will allow us to improve and get income to provide users with more services for free.
+  1. **Stored data and its purpose**
 
 
 
+Firstly, in order to monitor and prevent unauthorized uses or activities that may be illegal (eg, to maintain and guarantee security in case of attacks to our computer systems), we store technical information, of an anonymous nature, on the equipment from those who access our hosting servers, such as your IP address.
 
-You can get information on how to configure the installation or uninstall cookies through the help section of your browser. If you need further assistance please send an email to [info@idcgames.com](mailto:info@idcgames.com).
+Additionally, through the installation on your computer or mobile device of a type of programs commonly known as "cookies", we collect anonymous information about your browsing history, necessary for our website and application to be properly displayed on your computer or device. This information, which does not include personal data, will be stored and used privately, for the development of analytics and statistics and improve our website and application, as well as to adapt our offers to your preferences. You may refuse to provide us with such information by preventing the installation of "cookies" through the configuration options of your browser, but certain services may not work properly if you do so. Please, consult the instructions and manuals of your browser for further information.
 
-IDC may at any time amend this policy to use cookies. Check this page regularly to keep abreast of changes.
+On the other hand, in order to provide you with the services available through our website and mobile applications, you must first register as a user, during which time we will request a valid email address, and eventually your address and tax identification number (for billing purposes) in case of purchases). This address, in the case of including your real name, is considered personal data, and together with the rest of the requested data will be stored in our user file, duly registered with the Spanish Agency for Data Protection, being necessary that we communicate any update or change that occurs in them.
 
-## 2\. PRIVACY (Act)
+Finally, the ordinary use of our online video game platform or our mobile applications generates a significant volume of technical data (games, duration, rankings, etc.), which must be stored to guarantee your progress as a player. This information is hosted on our servers, and may be shared with third party developers, but does not include identifying data.
 
-Any communication addressed to IDC through this web site or its downloadable applications as well as creating your User Account to use gaming platform IDC (hereinafter the Service), you consent to the processing of your personal details in the files owned by IDC, duly registered with the Spanish Data Protection Agency. IDC may authorize a third party managing these files and therefore the processing of such data.
+  2. **DATA REPORTING**
 
-Also, creating your User Account to use the service too, you consent to the transfer of your data to any of the group companies belonging to IDC, and any others with whom they do business, for use with promotional and / or advertising. This also constitutes your acceptance to receive commercial communications by any means (mail, email, phone, etc.) from IDC, the Group companies to which it belongs, or its partners.
 
-Users may revoke such consent and to exercise their rights of access, rectification, cancellation and opposition by sending an email to the address [info@idcgames.com](mailto:info@idcgames.com) or ordinary to the address of IDC (C / Pasamar mail 1, 3 Las Rozas de Madrid [28231 - Madrid]), stating your name, contact address, and date application made also attaching a copy of your ID card or other valid identification document.
 
-By using third-party services (such as payment providers’) available on IDC’s platform you consent to their particular terms and Privacy policies. We therefore encourage you to read said terms and policies before using them.
+The email address used to register as a user may be communicated to the rest of the entities that make up the group to which IDC / Games belongs, in order to be able to offer you information about other of our products and services.
 
-## 3\. PRIVACY
+  3. **Consent to receiving commercial communications**
 
-Regardless of the processing of personal data specified in the previous section, and as noted below, IDC guarantees not to make available to any third party other than those mentioned any confidential information owned.
 
-Nevertheless, the Service may include various forums, blogs and chat features where you can post User Content, including personal information that can compromise your privacy. IDC cannot guarantee that other users do not make use of the ideas and information that you share. Therefore, if you have ideas or want information to remain confidential and / or do not want others to use, do not post on the Service.
 
-Additionally, You understand and agree that, after the creation of your User Account, your user ID number, your user name and, if applicable, their profile picture (avatar) will be accessible to the public and, therefore, that Internet search engines can index them.
+In relation to the above, acceptance of this Privacy Policy during the registration process as a user implies the provision of your consent for the receipt of such information, in the form of newsletters or other commercial communications.
 
-Finally, you expressly agree that IDC has the right, at any time in its sole discretion, to disclose any User Content, among other things: (a) in response or in connection with a judicial proceeding; (b) upon request by any Administration under any applicable law; (c) to allow run IDC Conditions; and (d) to protect the rights and legal interests of IDC, its members, the group to which it belongs, or its partners.
+  4. **Third-party networks**
+
+
+
+Users can enable access to the web and / or mobile applications of IDC / Games through their account in different social networks, such as Facebook, Twitter, Google+ or YouTube. By enabling this access, they authorize these social networks to communicate certain data included in their profile, such as the user's full name, photos, contact information, personal circumstances, etc.
+
+In the same way, by enabling this access, users expressly authorize us to:
+
+1) access and retain access credentials to those networks;
+
+2) access and preserve the information that these networks communicate to us;
+
+3) publish certain user activity in IDC / Games, such as the user's ranking, in those networks.
+
+On the other hand, certain video games from the IDC / Games catalog are available on third-party platforms, such as Apple Store, Google Play Store or Steam. By registering as a user in these platforms you accept their respective terms of use and privacy policies, but by downloading one of our products you also accept the Privacy Policy of IDC / Games, which will be applied to the data that these platforms communicate about you.
+
+  5. **Right to access, rectify, cancel and oppose (ARCO rights)**
+
+
+
+Owners of personal data have the rights of access, rectification, cancellation and opposition. The fastest and easiest way to exercise those rights is by accessing your user account and change your data directly or delete your account. Any information we need to store, under a legal or contractual obligation will be blocked and only used for these purposes instead of being deleted.
+
+To exercise these rights you can write to IDC / Games (by email to [info@idcgames.com](mailto:info@idcgames.com), or by postal address to C/ Pasamar nº 1, local 3, Las Rozas de Madrid, 28231), attaching a copy of some official identification document.
+
+Through the same channels you can also revoke your consent to the use of your contact data for advertising purposes, market research or development of satisfaction surveys at any time, without retroactive effect.
+
+  6. **LEGAL BASIS**
+
+
+
+In accordance with the General Data Protection Regulations, users are informed that the legal basis on which the processing of personal data described in this Privacy Policy is based is, principally, the full execution of the contract of the provision of services perfected upon the acceptance of the terms of use of the IDC / Games web or applications, and on a secondary basis, the users' own consent.
+
+If a user refuses to supply the data requested by IDC / Games or to consent to the described treatments, including those not related to the provision of the contracted services, he or she may be prevented from using the Service.
+
+  7. **Modifications**
+
+
+
+The Privacy Policy contained on this page may suffer updates, due to changes in legal requirements or improvements and changes on the way we offer and deliver our products and services. These changes will be duly announced in the portal of the website and / or mobile application, and will be effective with the user's subsequent access to them. Notwithstanding the foregoing, we recommend that you visit this page periodically to be able to consult the applicable terms at any given time.
