@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mnetafrica.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607041800id_/http%3A//www.dstv.com/topic/privacy-policy-20150313) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnetafrica.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628091259id_/http%3A//www.dstv.com/topic/privacy-policy-20150313) for the most accurate reproduction.*
 
-# Privacy Policy
+# DStv Website Privacy Policy
 
 6.1    us, namely MultiChoice Africa (Pty) Ltd and/or Electronic Media Network Ltd and/or SuperSport International (Pty) Ltd, or MultiChoice Operations (Pty) Ltd as agents of these entities, and their successors-in-title;    
 6.2    you, namely a person who accesses our site, regardless of the device which you use to access it (e.g. a computer, mobile phone, tablet etc).  
