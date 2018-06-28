@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callcentrehelper.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930084043id_/https%3A//www.callcentrehelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callcentrehelper.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628050616id_/https%3A//www.callcentrehelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Call Centre Helper
+# Privacy Policy
 
 This page explains our approach to privacy and how it affects you.
 
