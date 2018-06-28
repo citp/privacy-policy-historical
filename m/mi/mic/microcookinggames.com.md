@@ -1,46 +1,92 @@
-> *The following text is extracted and transformed from the microcookinggames.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226201202id_/http%3A//www.microcookinggames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcookinggames.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628150750id_/http%3A//www.microcookinggames.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Updated: May 29, 2017
+Last Update: June the 6th, 2018
 
-Microcookinggames is committed to protect your privacy online. To further this commitment, we have adopted an online privacy policy that explains how we collect, store, and use information collected about you online. By using our website, you agree to observe and be bound by this Privacy Policy and you consent to the processing, collection, use and disclosure of your information in accordance with its terms. Please don't use our website if you don't agree with our Privacy Policy.
+MicroCookingGames.com is committed to protect your privacy online. To further this commitment, we have adopted an online privacy policy that explains how we collect, store, and use information collected about you online. By using our website, you agree to observe and be bound by this Privacy Policy and you consent to the processing, collection, use and disclosure of your information in accordance with its terms. Please don't use our website if you don't agree with our Privacy Policy.
 
 ## Cookies
 
-Microcookinggames use cookies to improve the use of our website. A cookie is a small file that websites store on your pc and this is an easy and convenient method for us to personalize your experience on our website. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. Furthermore, Microcookinggames may use cookies and third party vendors to deliver ads related to our website to you while you are surfing other sites and use them to provide social media tools. 
+### What is a cookie ?
 
-**Cookies placed by third parties**  
-Advertising displayed in our website may contain cookies placed by third parties including the advertising party itself. These positions are used to display third party ads and are reserved for advertiser to measure the effectiveness of its advertising campaign. These cookies are also used to recognise you when you browse other websites.
+Cookies are text files containing small amounts of information which are sent to your browser and stored on your computer, when you visit a website. The cookies send information back to the website each time you return. 
 
-**Google Adsense and Google Analytics**  
-We use Google's products to analyze and display ads on our website. For more information on how Google use your information and how to control your data sent to Google, please visit [this website](https://www.google.com/intl/en/policies/privacy/partners/)
+MicroCookingGames.com uses cookies for purposes to serve ads related to your preferences.
 
-If you would like to opt-out google adsense, you may visit [this website](https://www.google.com/settings/ads) to opt-out directly with them.
+### Which cookies do we use ?
 
-If you would like to opt-out google analytics, you may visit [this website](https://tools.google.com/dlpage/gaoptout?hl=en) to opt-out directly with them.
+#### Third Party Cookies : Behavioural advertising cookies
 
-**Cookies for sharing on social media**  
-Our site may contain icons linked to social networks (such as Facebook, Twitter and Google Plus) so that you can share the site’s contents on social networks or give your opinion. Please note that your use of these social media services will be governed by the social networks terms and conditions and privacy policy. Our site has no control over these plug-ins and the procedures used by these social networks for collecting and handling your browsing data. You can look at these social networks privacy policy to learn more about your rights. 
+Advertising displayed in our website may contain cookies placed by third parties including the advertising party itself. These positions are used to display third party ads and are reserved for advertiser to measure the effectiveness of its advertising campaign, limit the number of times you see an advertisement and help measure the delivery. These cookies are also used to recognise you when you browse other websites.
 
-If you would like to opt-out social media, you may visit [Facebook](https://www.facebook.com/help/568137493302217), [Twitter](https://twitter.com/privacy?lang=en), [Google Plus](https://www.google.com/intl/en_us/+/policy/pagesterm.html) to opt-out directly with them.
+Third-party targeted advertising cookies may be placed on your device by third-party advertisers, ad networks, data exchanges, marketing analytics and other service providers. Third-party targeted advertising cookies collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on our websites and online services. Ad networks may share this information with the advertisers using their network. The information collected using these third-party advertising cookies does not identify you personally. They are used for statistical analysis by allowing the advertiser to count how many people have seen their advertisement or have seen it more than once. They might also allow the advertiser to tailor advertising to you when you visit other websites. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy.
 
-**Browsers**  
-Most browser accept cookies but you can refuse all cookies and delete them anytime you want. We added a link for each browser to show you how to remove cookies in your browser.
+#### First Party Cookies
 
-Internet Explorer  
-Here is the [link](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer) to manage cookies with Internet Explorer.
+When browsing MicroCookingGames.com, we automatically store a session cookie and we also store the consent cookie to remember your choice. First party cookies are used by the domain you see on your navigation bar. They are mainly used to remember user's preferences or develop a shop or even a members area. These days, we only use it for administrative authentication and remember your consent choice for individuals from the European Union.
 
-Microsoft Edge  
-Here is the [link](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to manage cookies with Microsoft Edge.
+## What Type of information do we collect ?
 
-Google Chrome  
-Here is the [link](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en) to manage cookies with Google Chrome. 
+When you access or use our website, we may collect information automatically from your computer and/or device about you by using the following information such as persistent Identifier (IP address, language ID, operating system version, device model, country and Mac Address).
 
-Mozilla Firefox  
-Here is the [link](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored) to manage cookies with Mozilla Firefox. 
+To comply with local laws, we may need to collect your IP address to help us determine your country of residence. In that case, if you are an individual from the European Union your IP address is used to present the consent message, but will not be stored or further processed. We do not collect your precise location, at a level more granular than your city, without your explicit consent.
 
-If you would like to opt-out of such ads, you may visit networkadvertising.org/choices to opt-out of such use of cookies. 
+## How the information are collected and how are they used ?
+
+### 1\. We Collect Your Consent For European Union Citizens Only :
+
+MicroCookingGames.com works with advertising partners that may collect information from you as part of their process of serving advertisements in our products. If you are a resident of an EU country and give your consent in accordance of the GDPR (General Data Protection Regulation), we will share your advertising cookies to personalize content and ads through Google Adsense on our website. You can see how and why in our section below.
+
+When we ask for your consent to use Non-personalized ads, you have the right to withdraw or decline your consent at any time by not using our website. Non-personalized ads are ads that are not based on a user’s past behavior. Although non-personalized ads don’t use cookies for ad targeting, they do still use cookies for frequency capping, aggregated ad reporting, and to combat fraud and abuse. By using this website, you consent to use cookies for those purposes.
+
+### 2\. Advertisement
+
+When applicable, we show interest-based ads or contextual ads. Advertising services use cookies and similar technologies to collect data and show you interest-based ads. They are based on previously collected or historical data to determine or influence ad selection. If you disable that option, ads will not use cookies for ad targeting, they will still however use mobile cookies for frequency capping, aggregated ad reporting, and to combat fraud and abuse. Advertising Cookies are non-permanent and can be limited, reseted or removed (see how to limit or opt-out from our Advertising Partners in “What are my opt-out rights” section below).
+
+#### Google Adsense
+
+We use Google Adsense to display advertisements. For more information on how Google use your information and how to control your data sent to Google, please visit this site : 
+
+<https://www.google.com/intl/en/policies/privacy/partners/>
+
+If you want to opt-out google adsense or their partners , you may visit this website : 
+
+<https://www.google.com/settings/ads>
+
+## Browsers : How to remove cookies
+
+Browsers accept cookies but you can refuse all cookies and delete them anytime you want. You can visit those links below for each browser to see how to remove cookies in your browser.
+
+Google Chrome
+
+[https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+
+Mozilla Firefox
+
+<https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+Microsoft Edge
+
+<https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy>
+
+## What are my opt-out rights ?
+
+You can stop all collection of your information easily by not using our website. 
+
+Or,
+
+You may opt-out of interest-based advertisements by adjusting the settings as described in Adsense sections above and you can visit the following websites:
+
+1\. <http://www.youronlinechoices.com/>
+
+2\. <http://optout.networkadvertising.org/>
+
+If an end user opts-out of targeted advertising, they can still receive general advertisements without users past behavior.
+
+## Intellectual property
+
+MicroCookingGames.com, its overall structure and its graphics, texts, images, sounds and videos that make up this structure, are the property of the Publisher. Any representation, reproduction, publication or any use whatsoever and any partial or total exploitation of its contents (including brands, logos, software, information, data, texts, illustrations, photographs, banners, tabs, pop-ups, music or any other distinguishing sign) and services made available by the Site regardless of the procedure is strictly forbidden without the prior written authorisation of the Publisher.
 
 ## User Provided Information
 
@@ -48,28 +94,53 @@ Personal information is information that enables an individual person to be iden
 
 The personal information collected on our website is the result of freely given information communicated via the forms that exist on the website.
 
-This personal information that is given upon registration is, where applicable, taken and handled for the following purposes: to validate your registration and to manage your account. This information will only be used to recognize you when you return on our website. Some information, such as the IP address and user-agent may be automatically collected. Microcookinggames may disclose information to third parties in special cases, such as when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Microcookinggames's property, visitors, or anyone else who could be harmed by such activities or to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas.
+MicroCookingGames.com may disclose information to third parties in special cases, such as when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with MicroCookingGames's property, visitors, or anyone else who could be harmed by such activities or to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas.
 
 The company undertakes not use the information collected for any purpose other than that for which it was intended when collected.
 
-## Intellectual property
+## Children Privacy
 
-Our Site, its overall structure and its graphics, texts, images, sounds and videos that make up this structure, are the property of the Publisher. The entire Site is governed by French and international legislation relating to copyright and intellectual property. Any representation, reproduction, publication or any use whatsoever and any partial or total exploitation of its contents (including brands, logos, software, information, data, texts, illustrations, photographs, banners, tabs, pop-ups, music or any other distinguishing sign) and services made available by the Site regardless of the procedure is strictly forbidden without the prior written authorisation of the Publisher, and may constitute counterfeit in the sense conveyed by Articles L335-2 and subsequent texts of the French Intellectual Property Code.
+MicroCookingGames.com is intended for general audiences. We do not knowingly collect, and do not wish to collect, personal identifiable information about children. As per our Privacy Policy, we will never require a child to disclose information. Where the Services are being used by children under the age of 16, we recommend parents and guardians to regularly clear their browser cache and/or browsing history to clear cookies. Please refer to our cookies section for more information.
 
-Where applicable, the User expressly and willingly concedes to the Publisher all intellectual property rights relating to messages and contents that the User publishes on the Site, particularly in relation to the right to reproduce, represent and adapt content on any media support and in any format presently known and not yet known at this time and through any system and on any network including the Internet, throughout the world and in perpetuity.
+MicroCookingGames.com does not process identifiable personal data of children under the minimum age limit that is prescribed by the legislation in the individual jurisdictions for behavioral advertisements and remarketing advertisements. If you believe that we might have and/or process any information from or about a child under the age prescribed by the legislation in your country, you always have the possibility to contact us on our [contact form](http://www.microcookinggames.com/contact). We will take all reasonable steps to contact our partners and delete the information as soon as possible.
 
-## Security
+We recommend parents to take the time to communicate and educate their children about Internet Safety. For more information on Internet safety, please visit these websites which are specialized about Internet safety information.
 
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our website. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+Internet Safety Links :
 
-## Links to other websites
+[http://www.wiredsafety.org](http://www.wiredsafety.org/)
 
-Our website may contain links to other websites. However, once you have used these links to leave our site, we don't have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide when you visit such sites and other websites are not governed by this privacy statement. You should look at the privacy policy applicable to the website directly.
+<http://www.protectkids.com/>
 
-## Changes
+[http://www.safekids.com](http://www.safekids.com/)
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## Transfer Data to third countries
 
-## Contact us
+We may transfer, in certain circumstances, your personal data collected about you in the United States or any other countries in which MicroCookingGames.com, its business partners, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
 
-If you have any questions regarding privacy while using our website, or have questions about our practices, please contact us via email at support@bwebmedia.eu.
+We only transfer personal data to entities in third countries that have provided appropriate safeguards to ensure that their level of data protection is in agreement with this privacy policy and applicable law.
+
+Therefore, the transfers will only take place based on the following safeguards :
+
+  * If the entity is certified to comply with the principles for data protection under the US-EU Privacy Shield Framework ("Privacy Shield") (you can view the entities certified under Privacy Shield at [http://www.privacyshield.gov](http://www.privacyshield.gov/)), or
+  * If we have entered into standard data protection clauses adopted by the Commission with the entity, which is deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals
+
+
+
+## External Links
+
+Our website contains links to other websites. When you use these links to leave our site, we don't have any control on these websites. Therefore, we can't be responsible for the protection and privacy of any information that you may provide when you visit such sites. Make sure to look their own privacy policy.
+
+## Your rights
+
+To exercise your data related rights, contact us through our [contact form](http://www.microcookinggames.com/contact).
+
+The procedure consists of processing and answering without undue delay and in any event within one month unless a longer period is required due to the complexity of your request, in that case we are allowed to extend it for two additional months.
+
+## Email
+
+If you have any questions about privacy policy while visiting our website, or have a question about our practices, contact us through our [contact form](http://www.microcookinggames.com/contact).
+
+## Update
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
