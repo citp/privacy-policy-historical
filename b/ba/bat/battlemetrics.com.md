@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829223951id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlemetrics.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628084730id_/https%3A//www.battlemetrics.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BattleMetrics
 
@@ -57,6 +57,12 @@ This site collects other information from site visitors. This means that we do n
 Information that we collect from RCON users is for the sole use of the RCON user and those who the RCON user authorizes to view such information. However, we will use some of the information we obtain over the RCON connection to create more accurate player and server data for the public. In no event will we disclose information obtained over the RCON connection to unauthorized users unless that information is already publicly available. For example, player names are always public, whereas IPs are not. In that situation we would only display the player name to the public and not the IP.
 
 We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, third-party networks that serve user-requested emails (e.g., a third party email service provider for Tell-a-Friend user-customized emails), and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, Keynote, Google Analytics and ClickTale; these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
+
+We also use your data for advertising purposes.
+
+We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take your information for profiling and personalizing ads on other sites.
+
+Please review the following for a full list of partners and purposes: -[PubGalaxy (Titan Gate AD)] (<https://www.pubgalaxy.com/privacy-policy.html>)
 
 ### 6\. How We Use the Aggregate or Non-Personally Identifiable Information We Collect
 
@@ -124,7 +130,7 @@ By Mail:
     Ypsilanti, MI 48198
     
 
-OR By Email: staff@battlemetrics.com
+OR By Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 You will be asked for name and address so that we may be able to process your changes. We will use reasonable efforts to correct any factual inaccuracies in your information.
 
@@ -164,7 +170,7 @@ By Mail:
     Ypsilanti, MI 48198
     
 
-OR By Email: staff@battlemetrics.com
+OR By Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We are committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data. We will be happy to respond to your questions and comments.
 
@@ -172,4 +178,4 @@ We are committed to working with consumers to obtain a fair and rapid resolution
 
 Occasionally we may update the privacy statement for this site in order to reflect any changes to the website or our privacy practices. If we make any updates to this statement, including any updates reflecting material changes to our Online Behavioral/Interest-Based Advertising practices, the new statement will be posted to the website prior to the changes taking effect.
 
-The effective date of this privacy statement is February 6, 2017.
+The effective date of this privacy statement is May 29, 2018.
