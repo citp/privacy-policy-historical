@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022181431id_/http%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickseek.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628062118id_/https%3A//brickseek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BrickSeek
 
@@ -178,6 +178,6 @@ Tempe, Arizona 85284
 
 United States
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+support@brickseek.com
 
 Last Edited on 2017-04-20
