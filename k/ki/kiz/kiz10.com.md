@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001808id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628054132id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
 
 # Privacy at Kiz10 - KIZ
 
@@ -8,6 +8,31 @@ Kiz10® is committed to protecting your privacy online. To further this commitme
 
 **What information does Kiz10.com collect?**  
 Kiz10® may request and/or collect non-private information from you when you use Kiz10.com and/or register. For the protection of your privacy, we ask that you avoid sending us any and all personally identifiable information. 
+
+**Privacy and cookies policy contents**  
+Introduction: commitment to privacy; document applies to controlled personal data; consent to use of cookies; website privacy controls; data controller name.  
+How we use your personal data: introduction to categories, purposes and legal bases of processing; processing of usage data; processing of account data; processing of profile data; processing of service data; processing of publication data; processing of enquiry data; processing of customer relationship data; processing of transaction data; processing of notification data; processing of correspondence data; processing of other data; processing for legal claims; processing for risk management; general purposes of processing personal data; disclosure of third party personal data.  
+Automated decision-making: personal data used in automated decisions; logic involved in automated decisions; significance of automated decisions.  
+Providing your personal data to others: intra-group disclosures of personal data; disclosure of personal data to insurers etc; disclosures of personal data to subcontractors; disclosure of personal data to payment services providers; disclosure of personal data to third party suppliers; disclosure of personal data necessary for legal compliance etc.  
+International transfers of your personal data: introduction to international personal data transfers; international transfers within business; international transfers to hosting services provider; international transfers to subcontractors; publication of personal data on internet.  
+Retaining and deleting personal data: data retention introduction; personal data retention default rule; personal data retention specific rules; personal data retention criteria; personal data deletion exception.  
+Security of personal data: appropriate technical and organisational security measures; personal data stored on secure servers and computers; encrypted storage of personal data; security of server-browser communications; unencrypted data sent over internet is insecure; password security.  
+Amendments: amendment by publication; check for changes to policy; notification of changes to policy.  
+Your rights: introduction to data subject rights summaries; list of data subject rights; summary of right to access personal data; summary of right to rectification of personal data; summary to right to erasure of personal data; summary of right to restrict processing of personal data; summary of right to object to processing of personal data; summary of right to object to processing of personal data for direct marketing; summary of right to object to processing of personal data for research purposes; summary of right to personal data portability; summary of right to complain to data protection supervisory authority; summary of right to withdraw consent to personal data processing; exercise of data subject rights.  
+Third party websites: hyperlinks to third party websites; no responsibility for third party privacy policies.  
+Personal data of children: website targeted at persons over specified age; deleting personal data of children.  
+Updating information: correcting or updating personal information.  
+Acting as a data processor: acting as a data processor; not applicable as data processor.  
+About cookies: what are cookies?; persistent and session cookies; cookies and personal information.  
+Cookies that we use: purposes for which cookies are used (including shopping cart).  
+Cookies used by our service providers: use of cookies by services providers; google Analytics cookies; google AdSense cookies; service provider cookies (generic).  
+Managing cookies: how to manage cookies; negative impact of blocking cookies; effects on website use of blocking cookies.  
+Cookie preferences: managing cookie preferences.  
+Our details: website operator name; company registration details; place of business; contact information.  
+Data protection registration: registered with ICO; data protection registration number.  
+Representative within the European Union: identity and contact details of representative of data controller.  
+Data protection officer: data protection officer contact details.  
+
 
 **Cookies**  
 Kiz10® may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. We do not use cookies to store personally identifiable information. Additionally, you can find more information on cookies in www.all acerca cookies.org. 
@@ -50,7 +75,7 @@ More about google policies [here](https://www.google.com/intl/es/policies/privac
 **Third Party Cookies**
 
 **Facebook**  
-Our website contains references (links) to external social network called Facebook. This website is managed exclusively by Facebook Inc. Within kiz10.com, these references are recognized by the Facebook logo or symbol "Like". Clicking on these references, Facebook plugins are activated and the browser will create a direct connection with the Facebook servers. If during your visit to our site, you click on the references and are connected to Facebook with your personal account, it will be transmitted to Facebook the information that you visited our website. This information is transmitted to Facebook and the company saves. To avoid this, you have to disconnect from Facebook before clicking on the reference. The functions assigned to the reference of Facebook, especially the transmission of information and user data are not triggered by the visit to our site, but clicking on the appropriate reference. The purpose and dimensions of data collection by Facebook, as well as processing and use of data within the company, and the corresponding right and possibility of adjusting them to protect their privacy, are governed by policy to use Facebook data (http://es-es.facebook.com/privacy/explanation.php). 
+Our website contains references (links) to external social network called Facebook. This website is managed exclusively by Facebook Inc. Within kiz10.com, these references are recognized by the Facebook logo or symbol "Like". Clicking on these references, Facebook plugins are activated and the browser will create a direct connection with the Facebook servers. If during your visit to our site, you click on the references and are connected to Facebook with your personal account, it will be transmitted to Facebook the information that you visited our website. This information is transmitted to Facebook and the company saves. To avoid this, you have to disconnect from Facebook before clicking on the reference. The functions assigned to the reference of Facebook, especially the transmission of information and user data are not triggered by the visit to our site, but clicking on the appropriate reference. The purpose and dimensions of data collection by Facebook, as well as processing and use of data within the company, and the corresponding right and possibility of adjusting them to protect their privacy, are governed by policy to use Facebook data (//es-es.facebook.com/privacy/explanation.php). 
 
 **Twitter**  
 kiz10.com Twitter uses cookies. These cookies are enabled by a plugin of Twitter on the home page kiz10.com Most cookies are enabled Twitter if you logged into your Twitter account. Twitter uses the information collected for analytical purposes and to offer tailored content based on your interests. For example, you people will suggest who to follow on Twitter. The content tailored just stored with the ID of the browser cookie and separated from other data as the Twitter widget information visit pages. You can see the privacy policy of Twitter in twitter.com/privacy. And the information and deactivation of content personalization: support.twitter.com/articles/20169421. 
@@ -78,7 +103,7 @@ We are commited to safeguarding the privacy of our visitors, this policy establi
 
 Generated information in relation to our website is used to create reports about the use of the website. Google will sotre this information.
 
-Google's privacy policy is available in :  [ http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html).
+Google's privacy policy is available in :  [ //www.google.com/privacypolicy.html](https://www.google.com/privacypolicy.html).
 
 Our advertisers and payment services providers  could also send you cookies. Most of the browsers allow you to refuse cookies. (For example, on Internet Explorer, you can refuse all the cookies by clicking in 'Tools', 'Internet Options', 'Privacy' and selecting the option 'Block all cookies' using the scroll selector. However, this will have a negative impact in the use of a lot of websites.
 
