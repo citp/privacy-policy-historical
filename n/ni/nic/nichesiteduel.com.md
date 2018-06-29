@@ -1,81 +1,180 @@
-> *The following text is extracted and transformed from the nichesiteduel.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520010849id_/http%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichesiteduel.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629064343id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for** smartpassiveincome.com
+**PRIVACY POLICY**
 
-_Effective Date: August 10, 2011_
+Modification Date: May 16, 2018
 
-At SmartPassiveIncome.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
+Effective Date: June 16, 2018
 
-1\. INTRODUCTION
+Hi. Pat here. Just like you, I care about the use of my personal information online, so it is only fair I provide you with insight into the privacy practices employed here at SmartPassiveIncome.com. Particular areas of the world now require different privacy disclosures, so please read the entire policy to make sure you understand our practices fully. 
 
-1.1. PURPOSE OF POLICY. SmartPassiveIncome.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+**I. If You are Located In the EU**
 
-1.2. NOTICE CONCERNING CHILDREN
+A. What Personal Data Do We Collect From You?
 
-PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
+Personal data is information that can be used to identify you such as your name, IP address, and email address. As a business, we collect personal data from you in a number of ways including:
 
-2\. INFORMATION COLLECTION PRACTICES
+(1.) Opt-In To Email Course: Your name and address.
 
-2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?
+(2.) Waiting List: Your name and address.
 
-In operating the Site, Company may include newsletters, online commenting areas, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
+(3.) Transaction: You name, email address, billing information and payment source.
 
-2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
+(4.) Submitting Questions: Your name, email address, and question.
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+(5.) Join My Book Club: Your name and email address.
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
+(6.) Lessons: Your name and email address.
 
-3\. USE AND SHARING OF INFORMATION
+B. What Is The Purpose of Processing Your Personal Data?
 
-3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
+We collect the information above for the following purposes. 
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We will use your information as a greater collection of data related to the site in traffic discussions in articles posted on the blog. No individual users visit, whether you or another visitor, are discussed. The aggregate data is used for education purposes only and no reader of the article will be able to identify you.
+(1.) Opt-In To Email Course: To provide you with information on the course in question and the topic in general.
 
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+(2.) Waiting List: To let you know when a course or service opens or is closing.
 
-(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+(3.) Transaction: To process a purchase you make with us.
 
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+(4.) Submitting Questions: To answer questions you might have for us.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Web site. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.
+(5.) Join My Book Club: To send you messages regarding books Pat has read and reviewed.
 
-(f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6.1 below.
+(6.) Lessons: To send you lessons you are interested in.
 
-4\. SECURITY
+C. What Legal Basis Do We Have For Collecting and Processing Your Information?
 
-The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+Websites must have a legal basis for collecting information from individuals located in the European Union. Our legal basis for each of the ways we collect information from you is as follows. Please note where consent forms the basis, you can withdraw consent at any time by contacting Jessica Lindgren opting out of any email message using the “unsubscribe” link.
 
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+(1.) Opt-In To Email Course: We will ask for your consent first. 
 
-5.1. PUBLIC COMMENTS
+(2.) Waiting List:  We will ask for your consent first.
 
-The Site may include interactive sections such as commenting areas where visitors to the site can post comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+(3.) Transaction: We will collect your information as part of a legal contractual transaction.
 
-5.2. THIRD PARTY WEBSITES
+(4.) Submitting Questions: We have an allowed legitimate interest in providing a response to your questions and need to use your data to do so. We will not use the data for other purposes. 
 
-The Site contains links to other websites. If you choose to visit other websites, we have no control over the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+(5.) Join My Book Club:  We will ask for your consent first.
 
-6\. CONTACT INFORMATION AND POLICY UPDATES
+(6.) Lessons:  We will ask for your consent first.
 
-6.1. CONTACTING US
+“Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you. If you disagree or have questions, please contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) and we will cease the processing of your data under this legal basis.
 
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
+D. Who Has Access To The Data We Collect?
 
-patflynn2”at”gmail.com
+We process and access to the data we collect from you. However, we use third parties to assist us with processing your personal data including the following categories of recipients:
 
-Pat Flynn
+  * Financial transaction processors (processing your payments)
+  * Customer service communication platform
+  * Contest and survey platform
+  * Email communication manager
+  * Marketing funnel providers
+  * Website management services
+  * Website design and programming services
 
-Flynndustries, LLC
 
-9450 Mira Mesa Blvd. STE C224
 
-San Diego, California 92126
+These third parties have signed contract with us in which they are prohibited from utilizing, sharing or retaining your personal data for any purpose other than we dictate. 
 
-(858) 863-7895
+E. Cookies and Similar Technologies
 
-6.2. UPDATES AND CHANGES
+This site uses cookies and similar technologies to track particular aspects of you and other people who visit us. This tracking is done to provide us with information on how people move about the site, what is of interest to them and what is not, how our marketing is performing, and incidental items such as what percentage of users access the site from a personal computer versus a mobile phone. You may block most cookies by adjusting your browser settings as well as responding to the cookie consent notice that appears when you visit this site. To learn more about this technology, please visit our [Cookie Policy](https://www.smartpassiveincome.com/cookie-policy/).
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+F. How Long Do We Keep Your Data?
+
+We keep your personal data for different periods of time depending on the reason it was gathered in the first place.
+
+(1.) Opt-In To Email Course: 36 months
+
+(2.) Waiting List: 24 months
+
+(3.) Transaction: Four years for tax audit purposes.
+
+(4.) Submitting Questions: Five years 
+
+(5.) Join My Book Club: 36 months
+
+(6.) Lessons: 26 months
+
+If a legal claim arises involving your data, we will store and disclose that data until the matter has resolved. 
+
+G. Your Right To Ask For Corrections, Erasure, And Export Of Your Data
+
+You have the right to control your personal data. Specifically, you have the following rights: 
+
+  * The right to be informed: We are informing you now with this policy.
+  * The right of access: We’ll provide you with the data we have about you.
+  * The right to rectification: Request we fix incorrect data about you.
+  * The right to erasure: Request we erase certain data about you.
+  * The right to restrict processing: Ask us to restrict certain type of processing of your personal information.
+  * The right to data portability: Ask us to provide your personal data we have for export.
+  * The right to object: Object to how we use your data.
+  * Rights in relation to automated decision making and profiling: We don’t profile you, but keep in mind you have this right with other sites.
+
+
+
+To exercise any of these rights, please contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request.
+
+H. Your Right To Withdraw Consent
+
+Although this is mentioned above, we want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. If you receive email messages from us, you can use the “unsubscribe” link in each message to withdraw consent and stop the mailings. Alternatively, you can contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request. 
+
+I. Do We Transfer Your Data To Third Countries?
+
+No. We are located in the United States. Your data is collected and held here. 
+
+J. Privacy Concerns, Contacting Us, Complaints.
+
+You can contact Jessica Lindgren at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com) with your request with any questions or requests you have about these policies or your personal data. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
+
+Data Controller
+
+Representative: Pat Flynn
+
+SmartPassiveIncome.com
+
+11315 Rancho Bernardo Road, Ste 126
+
+San Diego, CA 92127
+
+You can also send correspondence by traditional mail to SmartPassiveIncome.com, 11315 Rancho Bernardo Road, Ste 126, San Diego, CA 92127
+
+**II. For Our Friends Located In California**
+
+A. Do Not Track Signals.
+
+Pursuant to the California Online Privacy Protection Act, we hereby disclose that we do not currently honor “do not track” signals issued by browsers or other third party sources.
+
+B. California Eraser Law.
+
+If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request at [support@smartpassiveincome.com](mailto:support@smartpassiveincome.com).
+
+**III. For All Our Valued Friends Regardless of Location**
+
+A. Privacy Policy Modifications and Updates.
+
+We may update and modify this Privacy Policy at any time. In doing so, we will post a notice on the site 30 days before the change goes into effect and forward an email message to you should we have an email address for you.
+
+B. Legal Disclosures of Personal Information.
+
+We may process, store, and disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or (3) act under exigent circumstances to protect the safety of the public or users of the site.
+
+C. DMCA Disclosures
+
+We comply with the Digital Millennium Copyright Act of 1998. As part of the compliance process, we may be required to disclose whatever information we have for you to a copyright holder who has submitted a complaint to us. 
+
+D. Public Comments.
+
+You may leave comments on forum posts. Please remember that any information you provide is not private. The information can be viewed by anyone online including family, friends, the media, investigators, and potential employers conducting background checks. 
+
+E. Third Party Websites.
+
+We link to other sites, but please keep in mind that we do not control the privacy policies of those sites. Make sure to review the policies of any such sites before providing your personal information.
+
+F. Sale of Business
+
+Should we sell this site or our business, your personal information will be an asset transferred to the new owner.
+
+If you have any questions about this Privacy Policy, please contact us.
