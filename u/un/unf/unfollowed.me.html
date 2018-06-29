@@ -1,0 +1,239 @@
+<!--The following is the downloaded HTML source of the unfollowed.me privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629233353id_/http%3A//who.unfollowed.me/main/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<title>Who Unfollowed Me on Twitter</title>
+		<!-- that's so meta -->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://a.pub.network/who-unfollowed-me/pubfig.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+		<meta name="description" content="Track your twitter unfollowers fast and easy with Who Unfollowed Me">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- bookmark icon goodness -->
+		<link rel="icon" href="//who.unfollowed.me/apple-touch-icon.png">
+		<link rel="apple-touch-icon" href="//who.unfollowed.me/apple-touch-icon.png">
+		<link rel="apple-touch-icon-precomposed" href="//who.unfollowed.me/apple-touch-icon.png">
+		
+		<!-- ico icon goodness -->
+		<link rel="shortcut icon" href="//who.unfollowed.me/favicon.ico" type="image/x-icon">
+		
+		<!-- GOOGLE FONTS -->
+		<link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.5.0/pure-min.css">
+		<!--[if lte IE 8]>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.5.0/grids-responsive-old-ie-min.css">
+		<![endif]-->
+		<!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.5.0/grids-responsive-min.css">
+		<!--<![endif]-->
+		<link href="/assets/css/basev4.css?v=4.7" rel="stylesheet" type="text/css">
+		<link href="/assets/js/jqplot/jquery.jqplot.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		
+		<!-- jquery / jquery ui -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<!-- <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" /> -->
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+		
+		<script src="/assets/js/min/wumquery-min.js" type="text/javascript"></script>
+		
+		
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+	
+	// Tag IDs set here, must match Tags served in the Body for proper setup
+  
+	
+  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/who-unfollowed-me";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+</script>
+
+</head>
+	<body>
+		
+		<header class="clearfix"><div class="width clearfix">
+		<a href="http://who.unfollowed.me/" id="wumlogo" title="who unfollowed me"><img src="/assets/img/wum-logo.png" class="pure-img"></a>
+		
+		<nav id="main_nav" class="clearfix">
+										<ul id="nav-pre">
+						<li><a href="http://who.unfollowed.me/why-use" title="why use who unfollowed me">why<span class="md-empty sm-show"> use who.unfollowed.me</span>?</a></li>
+						<li><a href="http://who.unfollowed.me/plans-pricing" title="plans and pricing">plans<span class="md-empty sm-show"> &amp; pricing</span></a></li>
+						<!-- <li><a href="http://who.unfollowed.me/support">support</a></li> -->
+						<li class="xtra"><a href="http://who.unfollowed.me/twitter/oauth" class="button-signin pure-button" title="sign in to who unfollowed me">sign in <span class="md-empty sm-show">w/ twitter</span></a></li>
+						</ul>
+								</nav>
+</div></header>
+		
+		<section id="content">
+		<div class="width">
+			<h1>Privacy Policy</h1>
+
+<p>This policy describes how and why who.unfollowed.me collects non-personally identifiable data from users and website visitors to http://who.unfollowed.me, and how that data will be used. WhoUnfollowedMe is committed to respecting the privacy of non-personal identifiable data gathered.</p>
+
+<p>Who.Unfollowed.Me's Privacy Policy is incorporated into and subject to the Who.Unfollowed.Me's Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.</p>
+
+<h3>Information That Is Collected</h3>
+
+<p>When you provide us with contact or other information in connection with a particular activity, product or service, including your email address, you expressly consent to our communicating with you about our products or services using the information you provided to us. This means we may contact you, by e-mail. </p>
+
+<h3>Information you provide to us</h3>
+
+<p>In order to provide the Services, we collect the following types of information from you:</p>
+
+<p>Personally Identifiable Information (user-provided information)</p>
+
+<p>Personally identifiable information is any information that may be used to identify or contact you personally, such as your name, email address, postal or other physical address. If you register for an account, then we may collect certain personally identifiable information during the registration process, including your name, email address. You may also provide personal information to us when participating in a survey or poll or when you post information via our social networking platform. Whether or not to provide this information is your choice; however, certain personally identifiable information is required to access and use some of the Services.</p>
+
+<p>Non-Personal Information/ Anonymous Data (automatically collected information which doesn't identify the user).</p>
+
+<p>Non-personal/anonymous data is any data or information that does not personally identify you. We obtain non-personal information about you from information that you provide to us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you use our Services and may include such information as your Internet Protocol address, your browser, and your activity on our websites or website of our partners .</p>
+
+<p>We use non-personally identifiable data collected from users and website visitors in order to:</p>
+
+
+<p>1: To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.</p>
+<p>2: To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.</p>
+<p>3: To provide you with support and handle inquires.</p>
+<p>4: To enforce our terms of use.</p>
+<p>5: To comply with any applicable law and assist law enforcement agencies as required.</p>
+<p>6: To conduct surveys and market researches.</p>
+<p>7: We may use anonymous, statistical or aggregated information about the website's use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.</p>
+<p>8: To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.</p>
+<p>9: To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to unsubscribe@unfollowed.me</p>
+<p>10: To provide you with Email marketing offers, reader surveys and other promotional material.</p>
+
+<h3>Information You Disclose Publicly</h3>
+
+<p>Who.Unfollowed.Me may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information . We or others may reproduce, publish, distribute or otherwise use this Content in any media or format (currently existing or hereafter developed). Others may have access to this Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your Personal Content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Site. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Site.</p>
+
+<h3>Third Party Content and links To Third Party Sites</h3>
+
+<p>Who.Unfollowed.Me may contain content that is supplied by a third party, and those third parties may collect Site   usage information when you browse web pages from the Site or content served to your browser. In addition, when you are on the Site you may be directed to other web sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third parties or third party web sites. For example, if you "click" on a banner advertisement, the "click" may take you off the Site   onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to note when you leave our Site   and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.</p>
+
+<h3>Cookies , Web Beacons and Log Files</h3>
+
+<p>Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our Policy to use cookies to make navigation of our website easier for visitors</p>
+
+<p>Cookies: When you use our Services, we may send one or more "cookies" (small data files) to your computer to uniquely identify your browser and enable us to help you log in faster and generally enhance your navigation through the Services. Cookies save you time, for example, if you personalize a web page, or navigate within the Services, a cookie recalls your specific information on subsequent visits. A cookie file can contain information such as a user ID that the website uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to use the Services. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. In addition to enhancing the user experience, we may use cookies to track traffic user traffic patterns. We do this to determine the usefulness and efficiency of our Services and its various pages, and to analyze traffic patterns, in order to constantly improve the Services and better serve our customers.</p>
+
+<p>Web Beacons/Pixel Tracking: Who.Unfollowed.Me may employ a common technique usually referred to as "pixel tracking" to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as "clear gifs," "Web beacons" or "1-by-1 gifs") that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us</p>
+
+<p>Log Files: Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.</p>
+
+<p>If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.</p>
+
+<p>In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.</p>
+
+<h3>Age limit</h3>
+
+<p>To use this website you must be at least 13 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 13. If you are not 13 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.</p>
+
+<h3>Security</h3>
+
+<p>We have taken every reasonable step to safeguard and to help prevent the loss, misuse and alteration of information under our control. However, no data transmission over the Internet or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet. Please note that we cannot ensure the security of any information you transmit to us, and your use of the Site indicates that you are willing to assume this risk.</p>
+
+<h3>Opt-out</h3>
+
+<p>To opt-out from any of our direct promotions, please email unsubscribe@unfollowed.me</p>
+
+<p>Who.Unfollowed.Me uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by <a href="http://www.networkadvertising.org/choices/">clicking here.</a></p>
+
+<h3>Changes to Policy</h3>
+
+<p>From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this Policy will be notified on the website, at our sole discretion, and will take effect immediately.</p>
+
+<h3>Governing Law</h3>
+
+<p>This Privacy Policy is governed by and construed in accordance with the laws of Costa Rica. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Costa Rica.</p>
+
+<h3>Contact us</h3>
+
+<p>Please direct all questions in connection with this Policy via e-mail to: collin(AT)unfollowed(DOT)me.</p>
+
+<p>Our Maipng Address is</p>
+
+<p>CJGraphix<br>
+63276 Eastview Dr<br>
+Bend, OR 97701</p>
+	
+		</div></section>
+		
+		<div class="pure-g ad-ribbon" style="padding: 20px 0;">
+		<div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+				<!-- whounfollowedme_300x250_320x50_300x100_300x50_Left -->
+			<div align="center" id="whounfollowedme_300x250_320x50_300x100_300x50_Left">
+			<script data-cfasync="false" type="text/javascript">
+			    freestar.queue.push(function () { googletag.display('whounfollowedme_300x250_320x50_300x100_300x50_Left'); });
+			</script>
+			</div>
+		</div>
+				
+		<div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+				<!-- whounfollowedme_300x250_320x50_300x100_300x50_Middle -->
+				<div align="center" id="whounfollowedme_300x250_320x50_300x100_300x50_Middle">
+				<script data-cfasync="false" type="text/javascript">
+				    freestar.queue.push(function () { googletag.display('whounfollowedme_300x250_320x50_300x100_300x50_Middle'); });
+				</script>
+				</div>
+		</div>
+			
+		<div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+				<!-- whounfollowedme_300x250_320x50_300x100_300x50_Right -->
+				<div align="center" id="whounfollowedme_300x250_320x50_300x100_300x50_Right">
+				<script data-cfasync="false" type="text/javascript">
+				    freestar.queue.push(function () { googletag.display('whounfollowedme_300x250_320x50_300x100_300x50_Right'); });
+				</script>
+				</div>
+		</div>
+</div>
+
+<footer>
+<div class="pure-g width" style="text-align: center;">
+<div class="pure-u-1">
+<img src="/assets/img/question-mark.png" id="logomark" width="50" style="margin: 5px;">
+<h3>Who Unfollowed Me | © 2018 </h3>
+
+<p>
+		<a href="http://who.unfollowed.me/why-use">Why Use Who Unfollowed Me</a> | 
+		<a href="http://who.unfollowed.me/plans-pricing">Plans and Pricing</a> | 
+		<a href="http://who.unfollowed.me/frequently-asked-questions">Frequently Asked Questions</a> | 
+		<a href="http://who.unfollowed.me/contact">Contact Us</a> | 
+		<a href="http://who.unfollowed.me/about">About Us</a> |
+		<a href="http://who.unfollowed.me/main/privacy_policy">Privacy Policy</a>
+</p>
+
+</div>
+
+<div class="pure-u-1 pure-u-md-1-3">
+<a href="http://soforgetful.com" target="_blank">SoForgetful</a>
+</div>
+
+<div class="pure-u-1 pure-u-md-1-3">
+<a href="http://howlonghavei.com" target="_blank">How Long Have I</a>
+</div>
+
+<div class="pure-u-1 pure-u-md-1-3">
+<a href="http://twush.com" target="_blank">Twush</a>
+</div>
+
+</div>
+
+</footer>
+
+	<!-- GOOGLE ANALYTICS -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-1275111-16");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+		
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a01275cf00","applicationID":"2106505","transactionName":"NVIEbBAEWEpTWkFeDQwYJ1sWDFlXHXRUXgxNRxRRFARVQG1JWlsLAU4=","queueTime":0,"applicationTime":35,"atts":"GRUHGlgeS0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
