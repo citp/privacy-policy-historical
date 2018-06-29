@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025204634id_/https%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145243id_/https%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NEA Member Benefits
 
