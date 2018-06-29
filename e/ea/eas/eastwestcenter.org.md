@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904085823id_/https%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629034032id_/https%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | East-West Center | www.eastwestcenter.org
 
@@ -18,16 +18,29 @@ I. **What this Privacy Statement and Policy Covers**
 
  We collect certain types of information automatically whenever you access and use our website. Examples of the information we collect automatically include: (1) the Internet protocol (IP) address of the computer you are using; (2) the browser software you are using; (3) your operating system; and (4) the date and time you access our website. This information is not cross-referenced with registrant names or any other registrant information and therefore is not personally identifiable. This information is used solely for statistical purposes and to ensure that you are able to access the website properly on your computer.
 
- C. **Google Analytics and AddThis**
+ C. **Cookies**
 
- “This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics maintains their own privacy policy located [here](https://www.google.com/analytics/learn/privacy.html). This website also uses AddThis.com's services for social sharing of web content. Addthis.com's privacy statement is located [here](http://www.addthis.com/privacy). Occasionally, the East-West Center website may embed content from other websites (such as videos from YouTube.com or Vimeo.com). Please refer to those separate companies for their specific privacy policies.
+Cookies are small text files that are placed on your computer or mobile phone when you browse websites. 
+
+Our cookies help us:
+
+  * Make our website work as you'd expect
+  * Improve the speed/security of the site
+  * Allow you to share pages with social networks like Facebook
+
+
+
+  
+ D. **Google Analytics and AddThis**
+
+ This website uses _Google Analytics_ , a web analytics service provided by Google, Inc. (“Google”).  Google Analytics maintains their own privacy policy located [here](https://www.google.com/analytics/learn/privacy.html). This website also uses _AddThis.com_ 's services for social sharing of web content. Addthis.com's privacy statement is located [here](http://www.addthis.com/privacy). Occasionally, the East-West Center website may embed content from other websites (such as videos from YouTube.com or Vimeo.com). Please refer to those separate companies for their specific privacy policies.
 
  III. **Use of Personally Identifiable Information**
 
  The East-West Center uses your personal information for three general purposes: 
 
 1) to fulfill your requests for products, services and information,  
-2) to respond to your inquiries, and   
+2) to respond to your inquiries, and  
 3) to contact you about new products and services.
 
  IV. **Information Sharing and Disclosure**
@@ -38,7 +51,7 @@ I. **What this Privacy Statement and Policy Covers**
 
  V. **Editing Your Personal Information**
 
-You have the ability to edit any personal information you provide to us by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org) . You can also find out what personal information we have on record for you by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org).
+You have the ability to edit personal information you provide to us by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org). You can also find out what personal information we have on record for you by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org).
 
  VI. **Your Ability to "Opt-out" of Receiving Future Communications from Us**
 
@@ -70,4 +83,4 @@ The East-West Center may amend this policy from time to time. If we make any sub
 
 For your convenience, this website may contain links to other websites  operated by third parties ("third party websites"). In making these hyperlinks available, the Center is not endorsing those third-party websites, their content, products or services they offer, nor the owners of these third party websites. It is your responsibility to ensure that you obtain all information relevant to making a decision and that you read the privacy and security policy on those third-party websites. We have no control over such third-party websites and will not be liable for any loss or damage you suffer, whether directly or indirectly, as a result of your use of third party websites. You agree that where you access third party websites, you do so entirely at your own risk.
 
-© 4/4/2013 East-West Center. All Rights Reserved.
+© 5/14/2018 East-West Center. All Rights Reserved.
