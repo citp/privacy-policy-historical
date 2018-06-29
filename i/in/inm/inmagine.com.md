@@ -1,13 +1,79 @@
-> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226225522id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629041528id_/https%3A//www.123rf.com/privacy.php) for the most accurate reproduction.*
 
-# Royalty Free Photos, Stock Photos, Photography and Royalty Free Images at Inmagine
+# Stock Photos, Vectors and Royalty Free Images from 123RF
 
-Inmagine® respects every user's privacy. Once you register with Inmagine®and sign in to our services, you are not anonymous to us. Inmagine® uses the information provided to enhance your surfing experience such as lightbox and to share with you on special promos and new products. The information we collect may be shared (with your consent upon registration) with our subsidiaries for similar purposes.
+**What does this policy cover?**
 
-By using this website, you understand that all information collected from your registration will be collected indefinitely; and may be stored and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction. Inmagine® may use the information collected for a variety of purposes including direct marketing via email and snail mail (unless you select not to receive such information when registering).
+This policy describes how 123RF Limited and other companies in our group (also referred to as '123RF', 'we' or 'us') will make use of your data to purchase services from our website (123RF.com).  
 
-When you visit Inmagine's website, we place a text file call cookie in your computer hard disk. This file allows us to provide you with more convenience such as the lightbox and enhance your surfing experience. Most browsers allow you to reject cookies, but if you were to do so, these pages may not display properly. We collect information about your use of the website in order to improve our services and your browsing experience. Inmagine® reserves the right to disclose your personal information if required to do so by law, or in good faith that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public. If you register or license an image from Inmagine your name, address, telephone number, credit card details or other personal details will be recorded to complete the transaction and for delivery purpose. 
+It also describes your data protection rights, including a right to object to some of the processing which 123RF carries out. More information about your rights, and how to exercise them, is set out in the 'What rights do I have?' section.
 
-Inmagine.com will not send you unsolicited emails except for site wide announcements, or specific notifications that are delivered directly to your account. You may also choose to receive or not to receive monthly newsletters, offers and promotional email during your initial registration or by updating your contact preferences in your [Personal Profile](https://web.archive.org/register_edit.php) page at any time after registration.
+ **Summary of how we use your data**
 
-Inmagine® uses as much effort as possible to ensure the accuracy and reliability of the content, but makes no representations or warranties as to the contents accuracy, or reliability. 
+  * 123RF uses your personal data to manage your relationship with us, allow you to purchase services from us, deal with invoicing and ensure that we can communicate with you efficiently.
+  * Data is shared with other members of the 123RF group of companies and third party agents who assist us with the sale and provision of our services.
+  * Where we rely on your consent, such as for direct marketing, you can withdraw this consent at any time.
+
+
+
+ **What information do we collect?**
+
+We collect and process personal data about you when you interact with us and our websites, and when you purchase services from us. This includes: 
+
+  * your name
+  * your email address
+  * your phone number 
+  * your address
+  * your payment details (including your billing address or PayPal account or bank details, as appropriate)
+  * information related to the browser or device you use to access our website;
+
+
+
+ **How do we use this information, and what is the legal basis for this use?**
+
+We process this personal data for the following purposes:
+
+  * To fulfil a contract, or take steps linked to a contract: this is relevant where you make a purchase from us. This includes:
+    * verifying your identity;
+    * taking payments; 
+    * communicating with you;
+    * providing customer services and arranging the delivery or other provision of services;
+  * Where we have a legitimate interest. This includes:
+    * providing an enhanced online user experience such as 'likebox'. 
+    * to conduct research, analysis and analytics.
+  * Where you give us consent:
+    * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. 
+    * we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
+    * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
+
+
+
+ **Withdrawing consent or otherwise objecting to direct marketing**
+
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests.  You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out below.
+
+ **What rights do I have?**
+
+You have the right to **ask us for a copy** of your personal data; to **correct, delete** or **restrict** (stop any active) processing of your personal data; and to **obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format** , and to ask us to **share (port) this data to another controller.**
+
+In addition, you can **object to the processing** of your personal data in some circumstances (in particular, where we don't have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing). 
+
+These **rights may be limited** , for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. 
+
+To exercise any of these rights, you can get in touch with us - or our data protection officer - using the details set out below. If you have unresolved concerns, you have the **right to complain** to an EU  data protection authority where you live, work or where you believe a breach may have occurred. 
+
+**How do I get in touch with you?**
+
+We hope that we can satisfy queries you may have about the way we process your data. If you have any concerns about how we process your data, or would like to opt out of direct marketing, you can get in touch at [info@123rf.com. ](mailto:info@123rf.com)
+
+**Which 123RF entity is my data controller, and which affiliates might my data be shared with?**
+
+The data controller for your information is 123RF Limited.  Your personal data may be shared with other members of our group and certain third party agents.  
+
+ **How long will you retain my data?**
+
+Where we process registration data, we do this for as long as you are an active user of our sites and for 12 months after this.
+
+Where we process personal data for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+
+Where we process personal data in connection with performing a contract, we keep the transactional data for six years from your last interaction with us (or such longer period as may be required by law). 
