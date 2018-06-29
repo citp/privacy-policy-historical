@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105085413id_/https%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092739id_/https%3A//www.home.neustar/privacy) for the most accurate reproduction.*
 
 # Privacy | Neustar
 
 **Highlights of the Neustar Privacy Policy**
 
-_Updated: October 10, 2017_
+_Updated: May 18, 2018_
 
 Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles)
 
@@ -26,7 +26,7 @@ Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) o
 
 ### Cookies, Advertising IDs and Other Technologies
 
-Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://web.archive.org/marketing/identity) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
+Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://www.marketing.neustar/identity-data-management-platform) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
 
 Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the technologies we use:
 
@@ -36,13 +36,13 @@ Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) o
 
 
 
-### Transparency and Choice; Opt-Out
+### Transparency and Choice; Privacy Choices
 
 ##### Cookies
 
-  * You can opt out of the use of [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and [AK Cookies](https://web.archive.org/privacy/privacy-policy#cookies) for Neustar Marketing Services on the [Opt-Out page](https://web.archive.org/privacy/opt-out) of our website.
-  * You can also opt out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <http://www.aboutads.info/choices/> page.
-  * You can opt out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <http://aboutads.info/choices>.
+  * You can opt-out of the use of [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and [AK Cookies](https://web.archive.org/privacy/privacy-policy#cookies) for Neustar Marketing Services on the [Privacy Choices page](https://web.archive.org/privacy/opt-out) of our website.
+  * You can also opt-out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <http://www.aboutads.info/choices/> page.
+  * You can opt-out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <http://aboutads.info/choices>.
 
 
 
@@ -55,9 +55,9 @@ Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) o
 
 Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
 
-Your choice to opt out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.
+Your choice to opt-out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.
 
-We comply with opt-out requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, an opt-out request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
+We comply with privacy choice requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, a privacy choice request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
 
 ### Accountability
 
@@ -69,7 +69,7 @@ Aggregate Knowledge adheres to the European Interactive Digital Advertising Alli
 
 ### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Neustar and its subsidiaries (i.e., .CO Internet S.A.S., Neustar Information Services, Inc., Aggregate Knowledge, Inc., and MarketShare Holdings, Inc., together, “Neustar”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+Neustar, Inc. and its subsidiaries (i.e., Neustar Information Services, Inc., Aggregate Knowledge, Inc., MarketShare Holdings, Inc., Registry Services, LLC, Data Solutions Services, LLC, and Security Services, LLC, together, “Neustar”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 Neustar is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Neustar complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -95,4 +95,4 @@ Our privacy practices and policies may be updated from time to time. We will pos
 
 ### Questions? Comments?
 
-Send us an email at: [privacy@neustar.biz](mailto:privacy@neustar.biz)
+Send us an email at: [privacy@team.neustar](mailto:privacy@team.neustar)
