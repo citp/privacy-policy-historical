@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629124359id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629135607id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
 # Sony Electronics Inc
-
-## 
-
-##  
 
 ## Sony Electronics Inc.
 
 Effective: June 2001
 
 Last Update: March 2016
-
-##  
 
 ## Your Privacy
 
@@ -23,8 +17,6 @@ While SEL does not generally require that you provide us with personally identif
 ### Notice to California Residents - Your California Privacy Rights:
 
 If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom Sony Electronics Inc. may have disclosed, within the past year, Personal Information (as defined herein) pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of Personal Information disclosed. To obtain such information, please email your request to [Privacy@am.sony.com](mailto:Privacy@am.sony.com). **]**
-
-##  
 
 ## Collection of Information: 
 
@@ -58,8 +50,8 @@ please send an email to: [Privacy@am.sony.com](mailto:Privacy@am.sony.com) or wr
 
 Sony Electronics Inc.   
 Personal Information Management Office  
-1 Sony Drive, MD 1E4   
-Park Ridge, New Jersey 07656
+115 West Century Road Suite 250  
+Paramus, NJ, 07652
 
 ### System Information.
 
@@ -81,21 +73,15 @@ Note that your browser settings may allow you to automatically transmit a "Do No
 
 In addition, note that third parties may collect personal information about your online activities over time and across different websites when you visit our websites or other online websites and services.
 
-##  
-
 ## Use and Disclosure of Anonymous Aggregated Information 
 
 SEL may also collect, aggregate and maintain anonymous information about you, such as your hobbies, interests, purchases, downloads, page visits, music preferences, and the like. This data can then be used to, among other things, tailor SEL's promotions, advertising, and communications to deliver a better experience for you. SEL may also share such aggregate information with advertisers, business partners, sponsors, and other third parties; for example, to inform them about the percentage of male/female visitors to our sites.
-
-##  
 
 ## Advertising, Analytics and Similar Third Party Services and Your Choices 
 
 We may partner with third party advertising companies to either display advertising on our websites or to manage our advertising on other sites, and we may use third party analytics service providers to evaluate and provide us with information about the use of our websites and viewing of our content. Ad network providers, advertisers, sponsors, analytics service providers and/or similar third parties may set and access their own cookies, web beacons and embedded scripts on your device, may collect, set and use unique or non-unique identifiers, and they may otherwise collect or have access to information about you. 
 
 We and our network advertisers may target advertisements and offers to you, both on our websites and elsewhere online, based on your visits to our websites and online services and those of third parties. Cookies, web beacons, and other technologies, including those set by third party network advertisers, may be used to, among other things, target advertisements, limit the number of times you see the same advertisements, conduct research regarding the usefulness of certain advertisements to you, track how our users interact with our websites, link various devices you may use, and learn more about users. We may share information about our users with third party companies for the same purposes. We may use a variety of companies to serve advertisements. Some of these third parties may collect personal information from you over time when you visit our websites and services or other websites and services. This Privacy Policy does not cover any use of information that such third parties may have collected themselves from you. You may be able to opt out of certain targeted advertising by visiting [TRUSTe's website here.](http://preferences-mgr.truste.com/) These opt-outs may be device specific and may not work on all devices. Please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected. Also, know that even if you opt out of targeted online advertising, you will continue to receive generic ads online. 
-
-##  
 
 ## Security, Retention and Monitoring
 
@@ -104,8 +90,6 @@ Unless otherwise required by law, we are not responsible for monitoring or recor
 We seek to maintain reasonable security measures designed to help protect your information (including Personal Information) against unauthorized or accidental disclosure, access, misuse, loss, or alteration. There is no such thing as perfect security. Although we strive to protect your information, we cannot ensure or warrant the security of such information.
 
 We may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Policy. In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by applicable law, we shall delete your information. Even if we delete your information from active databases, the information may remain on backup or storage media.
-
-##  
 
 ## Notice To/Regarding Children Under the Age of 13 
 
@@ -116,8 +100,8 @@ If you are under 13 years of age, you should not provide any Personal Informatio
 (i) The name, address, telephone number, and email address of the operator collecting or maintaining Personal Information from children through this website are as follows:
 
 Sony Electronics Inc.  
-1 Sony Drive, MD 1E4  
-Park Ridge, New Jersey 07656  
+115 West Century Road Suite 250  
+Paramus, NJ, 07652  
 Telephone: 201-930-4800  
 e-mail address: 
 
@@ -135,13 +119,10 @@ e-mail address:
 
 Sony Electronics Inc.  
 Personal Information Management Office  
-1 Sony Drive   
-MD 1E4  
-Park Ridge, New Jersey 07656
+115 West Century Road Suite 250  
+Paramus, NJ, 07652
 
 Except as permitted by law, before any collection of a child's Personal Information takes place at a website directed to children or where SEL is knowingly collecting children's Personal Information, the child will be asked to provide his/her parent's or guardian's e-mail address so that SEL can contact the child's parent or guardian. SEL will then send an email (the "Initial Notification") to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child's information from SEL's database or records. Upon receipt of the Initial Notification, a parent or guardian may respond back to SEL to grant his/her consent or to deny consent in which case SEL will delete the parent/guardian's email address and any other Personal Information, if any, previously obtained for securing parental consent. Upon SEL's receipt of the parent/guardian consent, SEL will send a confirming email to the parent/guardian's email address or take such other action as may be required to verify the consent. If SEL desires to use a child's information for purposes other than that for which the parent/guardian consent was previously given, SEL will not do so without first getting the parent/guardian consent.
-
-##  
 
 ## Consent to Processing: 
 
@@ -159,22 +140,15 @@ We may, but we do not have an obligation to, monitor your communications, such a
 
 From time to time we may offer links to other websites from our sites. Other websites may also reference, advertise, or link to our sites. However, we do not endorse or sponsor other websites, are not responsible for the privacy policies, practices or the content of such websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other websites. You may arrive at one of these websites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on any of our website pages. These websites might issue their own cookies or collect Personal Information, so please use caution when visiting an external site. You should also be aware we sometimes permit third parties to offer subscription and registration-based services on our services. We are not responsible for the actions or policies of such third parties with respect to Personal Information or other information you may give them, and you should carefully read and understand the applicable privacy policy whenever you provide Personal Information to anyone.
 
-##  
-
 ## Policy Governs Use: Changes to Privacy Policy 
 
 The terms of this Privacy Policy will govern the use of any information collected while it is in place. SEL reserves the right to change this Privacy Policy at any time, so please re-visit this page often. In case of any material change, we will change the "Last Update Date" in this Privacy Policy and/or post a notice. Changes to this Privacy Policy are effective as of the stated "Last Update Date" and your continued use of the SEL Properties on or after the "Last Update Date" will constitute acceptance of, and agreement to be bound by, those changes.
-
-##  
-
-## Questions:
 
 If you have any questions or comments about our Personal Information practices or about this Privacy Policy, please feel free to send us an email at [Privacy@am.sony.com](mailto:Privacy@am.sony.com) or write us at:
 
 Sony Electronics Inc.   
 Personal Information Management Office   
-1 Sony Drive   
-MD 1E4  
-Park Ridge, New Jersey 07656
+115 West Century Road Suite 250  
+Paramus, NJ, 07652
 
 If you have questions regarding products or services, please click [here](http://esupport.sony.com/) for further information.
