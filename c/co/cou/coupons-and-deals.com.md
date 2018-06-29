@@ -1,59 +1,42 @@
-> *The following text is extracted and transformed from the coupons-and-deals.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511211847id_/http%3A//www.coupons-and-deals.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupons-and-deals.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629214557id_/http%3A//www.coupons-and-deals.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Coupons and Deals
 
-**Our Commitment to Privacy**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.coupons-and-deals.com/p/contact-us.html](mailto:lianelson267@gmail.com).  
+At www.coupons-and-deals.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.coupons-and-deals.com and how we use it.   
+**Log Files**  
+Like many other Web sites, www.coupons-and-deals.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+**Cookies and Web Beacons**  
+www.coupons-and-deals.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.   
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on www.coupons-and-deals.com.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.coupons-and-deals.com and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>   
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
-Our Privacy Policy was developed as an extension of our commitment to combine quality coupons and deals for products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
-
- **What Information Do We Collect?**
-
-When you visit our site you may provide us with two types of information: personal information you actively choose to disclose ("Active Information") and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site ("Passive Information").
-
- **No Use of Our Site by Persons Under 13**
-
-No person under 13 should disclose information on this site. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy.
-
- **Active Information You Choose to Provide**
-
-In order to receive coupons via email (become a "user"), we require you to disclose the following information:
-
-  * Your email address
+  * Google
+  * Amazon
 
 
 
- **Passive Information Collected**
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.coupons-and-deals.com._  
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.coupons-and-deals.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.   
+www.coupons-and-deals.com has no access to or control over these cookies that are used by third-party advertisers.   
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.coupons-and-deals.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)  
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.coupons-and-deals.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.coupons-and-deals.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.   
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.  
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
-Our site utilizes a standard technology called "cookies" to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser; please consult the "Help" section of your browser to correctly do so.
+**Update**  
+This Privacy Policy was last updated on: Monday, December 4th, 2017. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
- **What is a Cookie?**
+  
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
-
- **How Do We Use the Information Collected?**
-
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other product or service coupons or deals we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at webmaster@coupons-and-deals.com.
-
-We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site.
-
- **Your Information In Relation to Others We Link To**
-
-You are be able to access other websites through coupons-and-deals.com. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
-
- **Sharing Information with Advertisers or Other Third Parties**
-
-We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.
-
- **Sharing Information with the Government or As Otherwise Required by Law**
-
-We may be required by law or government agency to disclose both Active and Passive Information you have provided to us.
-
- **How Do We Secure Active Information and Passive Information?**
-
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Communications you may have with us via email or U.S. Mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
-
- **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
-
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to webmaster@coupons-and-deals.com.
-
- _We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you._
