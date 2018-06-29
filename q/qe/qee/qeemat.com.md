@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qeemat.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224051955id_/http%3A//www.qeemat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qeemat.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629140310id_/http%3A//www.qeemat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Prices in PakistanPrices in Pakistan
 
@@ -29,4 +29,4 @@ If you have any question or concern about our website than you can email us on f
 
 Or you can send email through our Contact Us form on the following link,
 
-**[www.qeemat.com/contact/](https://web.archive.org/web/20171224051955id_/http://www.qeemat.com/privacy/www.qeemat.com/contact/)**
+**[www.qeemat.com/contact/](https://web.archive.org/web/20180629140310id_/http://www.qeemat.com/privacy/www.qeemat.com/contact/)**
