@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415095523id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629133323id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: June 20, 2016
+Last updated: March 5th, 2018
 
 Please note that all calls with the company may be recorded or monitored for quality assurance and training purposes.
 
-## Verified by TRUSTe: June 20, 20161
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=e0c88ae4-c80c-4c6c-9e69-ba3500ae3c5f "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=e0c88ae4-c80c-4c6c-9e69-ba3500ae3c5f)
 
 This Online Privacy Policy applies to www.nationaldebtrelief.com, owned and operated by National Debt Relief, LLC (sometimes referred to as “Company”), and any Company affiliate or subsidiary online interface that links to this Policy, (each, a “Site,” and collectively, the “Sites”). This Policy describes how National Debt Relief, LLC collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
 **Agreement to this Policy** : By using this Site you consent to this Online Privacy Policy, including your consent to our use and disclosure of information about you in the manner described herein.
 
-1 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected behind the login and through software downloaded from the website.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **Collection and Use of Personal Information** We collect the following personal information from you.
 
@@ -43,13 +39,11 @@ We use this information to
 
 **Information Obtained from Third Parties** We purchase marketing data about our customers from third parties and combine it with the personally identifiable information customers provide us, to offer advertising and products in which we think our customers will be interested. We do not disclose this information to any third parties other than agents or service providers working on our behalf. Those agents or service providers are obligated to use this information only for the purpose for which we provided it to them.
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
 **Information Sharing** We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell, rent, trade, or otherwise share your personal information with third parties without first providing you notice and choice.
 
 _We may provide your personal information to agents or service providers acting on our behalf for limited purposes_. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information only to perform the service they are providing for us.
 
-_We reserve the right to disclose your personal information as required by law_ (e.g., to comply with a subpoena, warrant, court order, or similar legal process served on our website) _and when we believe that disclosure is necessary to protect_ our _rights_ , protect your _safety_ or the safety of others, _investigate fraud, and/or respond to a government request_.
+_We reserve the right to disclose your personal information as required by law_ (e.g., to comply with a subpoena, warrant, court order, or similar legal process served on our website) _and when we believe that disclosure is necessary to protect_ our _rights_ , protect your _safety_ or the safety of others, _investigate fraud, and/or respond to a government request_. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. 
 
 _In the event Nationaldebtrelief.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred_. You will be notified via email and/or a prominent notice on our website of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -59,23 +53,19 @@ _In the event Nationaldebtrelief.com goes through a business transition, such as
 
 _Cookies_
 
-We, National Debt Relief and our marketing partners , affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
-
-We use cookies to personalize your experience on the site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+National Debt Relief, LLC and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 _Log Files_
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or page views.
 
-We use this information, which does not usually identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
 We may record your IP addresses when you place an order through our site in order to detect and prevent fraud.
 
-We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
-
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/> (or if located in the European Union click here). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-**Correcting and Updating Your Personal Information** If you wish to request access, or deletion of your personal information please contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com). We will respond to your request within a reasonable timeframe.
+**Correcting and Updating Your Personal Information** Upon request we will provide you with information about whether we hold any of your personal information. If you wish to request access, or deletion of your personal information please contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com). We will respond to your request within a reasonable timeframe.
 
 **Data Retention** We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -119,16 +109,16 @@ This Online Privacy Policy is intended to cover collection of information on our
 
 **Protecting Children’s Privacy Online**
 
-The Site is not directed to individuals under the age of thirteen (13) **,** and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13 without parental consent. Visit the Federal Trade Commission website for more information about the Children’s Online Privacy Protection Act (COPPA). If you believe that we have received information from a child or other person who is not of a majority age in their relevant jurisdiction, please contact us at our email or physical mailing address listed in the “Contact Us” section below and we will take all reasonable efforts to remove the information.
+The Site is not directed to individuals under the age of thirteen (13) **,** and we request that these individuals do not provide Personal Information through the Site. We do not knowingly collect information from children under 13. Visit the Federal Trade Commission website for more information about the Children’s Online Privacy Protection Act (COPPA). If you believe that we have received information from a child or other person who is not of a majority age in their relevant jurisdiction, please contact us at our email or physical mailing address listed in the “Contact Us” section below and we will take all reasonable efforts to remove the information.
 
 **Notification of Privacy Statement Changes.** We may update this policy from time to time as our information practices are modified or changed. If we make changes to the Privacy Notice, we will revise the “Last Updated” date at the top of this Notice. Any changes to this Notice will become effective when we post the revised Notice on the Site. Your use of the Site following these changes means that you accept the revised Notice.
 
 **Contact Information** You can contact us by writing or email us at the address below.
 
-Nationaldebtrelief.com  
+National Debt Relief, LLC  
 11 Broadway 16th Floor  
 New York NY 10004  
 [service@nationaldebtrelief.com ](mailto:info@nationaldebtrelief.com)  
-888-703-4948
+800-300-9550
 
 **Please print and retain a copy of this privacy policy for your records.**
