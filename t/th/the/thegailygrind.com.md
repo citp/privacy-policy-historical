@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119200031id_/https%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629065349id_/https%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|The Gaily Grind
 
@@ -17,7 +17,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 **  
 How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at adriangarcia@thegailygrind.com or mailing us at: Miami Media Group LLC 20260 NW 4TH ST Miami Florida United States 33029
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or mailing us at: Miami Media Group LLC 20260 NW 4TH ST Miami Florida United States 33029
 
 **SECTION 3 – DISCLOSURE**
 
