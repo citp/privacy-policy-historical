@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messagetoeagle.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024335id_/http%3A//www.messagetoeagle.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagetoeagle.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629152006id_/http%3A//www.messagetoeagle.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy And Cookies Policy | MessageToEagle.com
 
@@ -56,7 +56,6 @@ A cookie is a small text file that a website saves on your computer or mobile de
   * Improve the speed/security of the site
   * Allow you to share pages with social networks like Facebook
   * Continuously improve our website for you
-  * Post comments on our site
 
 
 
@@ -74,6 +73,6 @@ The majority of web browsers accept cookies, but you can usually change the web 
 
 However, please be aware that, if you refuse or disable cookies, some of the website’s functionality may be lost. In addition, disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser. If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies, we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will likely mean that our site will not work as you would expect.
 
-If you have any queries in relation to this notice, please contact us at editor@messagetoeagle.com
+If you have any queries in relation to this notice, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **MessageToEagle.com**
