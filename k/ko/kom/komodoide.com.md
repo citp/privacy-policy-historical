@@ -1,117 +1,192 @@
-> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002065648id_/https%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629223753id_/https%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ActiveState
+# Privacy Policy/Statement | ActiveState
 
-Version effective date: January 17, 2014
+Effective date: **April 15, 2018**
 
-ActiveState is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire ActiveState site (including [www.activestate.com](http://www.activestate.com/ "ActiveState") and [aspn.activestate.com](http://aspn.activestate.com/)).
+Thanks for entrusting ActiveState with your open source language needs and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it. ActiveState is committed to respecting your right to privacy while using our sites and solutions. This Privacy Statement contains information regarding our privacy practices for the entire ActiveState suite of sites and solutions. 
 
-## Information Collection and Use
+* * *
 
-ActiveState is the sole owner of the customer information collected on this site. We will not share this information in any ways other than those disclosed in this statement. ActiveState collects information from our users at several points on our website.
+##  What information ActiveState collects and why 
 
-## Information Requests
+###  Information from website browsers 
 
-Throughout our site, you are provided with the opportunity to contact us via email to ask questions, request information and materials, register for online presentations, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you to provide information about our products or services. We may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+If you're **just browsing the website** , we collect the same basic information that most websites collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not. 
 
-## Online Forms with Mollom
+The information we collect about all visitors to our website includes the visitor’s browser type, language preference, referring site, additional websites requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. Our website servers also generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users' movements, and gather broad demographic information to improve the performance of our site. 
 
-ActiveState uses Mollom for online form processing.
+####  Why do we collect this? 
 
-This privacy policy explains how Mollom BVBA processes your personal data. Please read it carefully, as it specifies which rights you have and how you can exercise your rights.
+We collect this information to better understand how our website visitors use ActiveState sites and solutions, and to monitor and protect the security of the website and solutions. 
 
-_Mollom web service_ – Mollom operates a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called "spam"). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Mollom's service screens messages before they are posted to the website. 
+###  Information from Mailing Lists 
 
-_How Mollom works_ – When you post a message on a website that uses Mollom service (called "the website" in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to Molloms server. Molloms server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.). 
+Users are offered the option of subscribing to relevant mailing lists at the time of purchase, and at various other locations throughout the site, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. It is not necessary to subscribe to any of our mailing list to use our web sites but it is necessary to purchase our products. Some of our web sites includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly. 
 
-If Molloms server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Please note that it is sometimes possible that our server wrongfully determines the actual quality of the content of your message, or wrongfully considers your message as spam or abuse. 
+###  Information from users with accounts 
 
-_What Mollom stores about you_ – Mollom stores all information provided to us by the website. This will include, in particular, the following personal data about you (to the extent effectively provided to us by the website): the content of your message, your name or nickname, IP address, user ID, OpenID, e-mail address, URL of your website, and the date and time you post a message. 
+If you **create an account** , we require some basic information at the time of account creation. You will create your own user name and password, and we will ask you for a valid email account. You also have the option to give us more information if you want to, and this may include "User Personal Information." 
 
-_How long Mollom stores this data_ – Your data is stored in Molloms databases for at most two months. After this period of two months, Mollom can continue to store your data in anonymized way for a period of two years.
+"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name and password, an email address, a real name, and a photograph are examples of “User Personal Information.” 
 
-_How Mollom uses your personal data_ – Mollom uses your personal data to assess the quality of your message, and to find out whether your message constitutes spam, by comparing your data with all other data of all other users in our databases. Afterwards, Mollom also uses your personal data to make similar assessments for all other websites that use our service, as the more information we store in Molloms database, the better Mollom can assess whether a message is genuine. 
+User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service. 
 
-While Mollom sometimes provide statistical information (trends, numbers, etc.) generated from our databases to third parties, please rest assured that you cannot be identified on the basis of this statistical information. 
+####  Why do we collect this? 
 
-_Note that Mollom hates spam as much as you do_ – in fact, Mollom's service is specifically targeted at removing spam. So, Mollom will never provide your email address to third parties, and Mollom will never send any spam themselves to you. In most cases, Mollom will not even be aware of your e-mail address. 
+  * We need your User Personal Information to create your account, and to provide the services you request.
+  * We use your User Personal Information, specifically your user name, to identify you on an ActiveState solution.
+  * We use it to fill out your profile and share that profile with other users if you ask us to.
+  * We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section below on email communication for more information.
+  * We limit our use of your User Personal Information to the purposes listed in this Privacy Statement, unless specified differently in another agreement that you are party to with ActiveState. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile for the ActiveState solution you are using.
 
-Also note that Mollom can provide access to your personal data in case of illegal or abusive use, or in case we receive orders from a competent legal authority. 
 
-_How Mollom protects you_ – Mollom is bound by the strict rules of Belgian and European data protection legislation, which prevents them from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction. 
 
-_Your rights_ – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact Mollom](http://mollom.com/contact).
+* * *
 
-## Cookies
+##  What information ActiveState does not collect 
 
-A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the on-site experience. 
+  * We do not intentionally collect **sensitive personal information** , such as social security numbers, genetic data, health information, or religious information. Although ActiveState does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a project. If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, which are in the United States and or Canada.
+  * We do not intentionally collect information that is **stored in your projects** or other free-form content inputs. Information in your projects belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [ActiveState® Platform Terms Of Use And Service Agreement](https://web.archive.org/sites/default/files/pdf/eula/activestate_platform_terms_service_agreement.pdf "ActiveState® Platform Terms Of Use And Service Agreement"). ActiveState employees do not access projects unless required to do so for security or maintenance, or for support reasons, with the consent of the project owner.
+  * If your project is public, anyone (including us) may view its contents. If you have included private or sensitive information in your public project, such as email addresses, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your projects, we may scan our servers for certain tokens or security signatures.
+  * If you're a **child under the age of 13** , you may not have an account on ActiveState. ActiveState does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [ActiveState® Platform Terms Of Use And Service Agreement](https://web.archive.org/sites/default/files/pdf/eula/activestate_platform_terms_service_agreement.pdf "ActiveState® Platform Terms Of Use And Service Agreement") for information about account termination.
 
-## Information Collected
 
-We may collect information that personally identifies you (“Personal Information”) when you contact us and participate in our surveys, webinars, download our whitepapers or participate in promotional activities on our website. Personal Information may include the following categories of information: Contact Data (such as your name, company, address, email address); and Demographic Data (such as zip code). If you communicate with us by email, post messages to any of our social media channels, or otherwise complete online forms, surveys, any information provided in such communication may be collected as Personal Information. 
 
-We have opted-in to The LeadLander Contact Network. LeadLander is a web analytics tool, similar to Google Analytics. However, The LeadLander Contact Network pools together contact information collected through any of our forms or email campaigns and any other LeadLander opted-in website forms or email campaigns to identify a visitor to the Site. Whenever a visitor goes to any LeadLander opted-in website, LeadLander can display the visitor by their name and email address in its reports to its subscribers. 
+* * *
 
-We work with Twitter to collect user data for conversion tracking and serving ads targeted to users’ interests. You can opt out of interest-based advertising through methods that Twitter may specify from time to time [here](https://support.twitter.com/articles/20170405). 
+##  How we share the information we collect 
 
-We comply with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.). We use your email only to communicate with you about products or services that may be of interest to you. You can opt out of receiving emails from us by sending an email to [unsubscribe@activestate.com](mailto:unsubscribe@activestate.com). 
+  * We **do not** share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
+  * We do not disclose User Personal Information outside ActiveState, except in the situations listed in this section or in the section below on compelled disclosure.
+  * We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use ActiveState, or how our users respond to our other offerings, such as our conferences or events or working with our solutions. However, we do not sell this information to advertisers or marketers.
+  * We do not host advertising on ActiveState. We may occasionally embed content from third party sites, such as YouTube, and that content may include ads. While we try to minimize the number of ads our embedded content contains, we can't always control what third parties show.
+  * We may share User Personal Information with your permission, so we can perform services you have requested.
+  * We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under Privacy Shield (as defined herein), we remain responsible for it.
+  * We may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information. The organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Statement or in our Terms of Service.
 
-## Log Files
 
-Our website servers generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users' movements, and gather broad demographic information to improve the performance of our site. 
 
-## Requested Services and Product Evaluations
+###  Public Information on ActiveState 
 
-We communicate with our users to provide requested services, and in regard to issues relating to their account via email or phone. Expiration reminder notices are sent by email for all Pro Studio bundle subscriptions. Expiration reminder notices are sent by email to users who have obtained at trial license for any of our products. 
+If your content is public-facing, third parties may access and use it in compliance with our [ActiveState® Platform Terms Of Use And Service Agreement](https://web.archive.org/sites/default/files/pdf/eula/activestate_platform_terms_service_agreement.pdf "ActiveState® Platform Terms Of Use And Service Agreement"). We do not sell that content; it is yours. However, if we do allow third parties, such as research organizations or archives, to compile public-facing ActiveState information. 
 
-## Downloads
+Your Personal Information, associated with your content, may be gathered by third parties in these compilations of ActiveState data. If you do not want your Personal Information to appear in third parties’ compilations of ActiveState data, please do not make your Personal Information publicly available and be sure to set your projects to “private”. 
 
-When a user downloads our software, they will be given the option of opting in to receive marketing material and information via email. 
+If you would like to compile ActiveState data, you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where an ActiveState user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from ActiveState, and to respond promptly to complaints, removal requests, and "do not contact" requests from ActiveState or ActiveState users. 
 
-## Community Sites
+Similarly, projects on ActiveState may include publicly available Personal Information collected as part of the collaborative process. In the event that an ActiveState project contains publicly available Personal Information that does not belong to ActiveState users, we will only use that Personal Information for the limited purpose for which it was collected, and we will secure that Personal Information as we would secure any User Personal Information. If you have a complaint about any Personal Information on ActiveState, please see our section below on resolving complaints. 
 
-When a user enrolls on one of our community sites, they will be asked to provide certain personal information in order for us to create their online account. The user will also be given the option of opting in to receive marketing material via email. 
+* * *
 
-## Ordering
+##  Our use of cookies and tracking 
 
-We request user information during the account setup and purchase processes. Users may be asked to provide contact information (e.g. name and shipping address) and financial information (e.g. credit card number, expiration date). This information is used for billing and order fulfillment. If we have difficulty processing an order, the contact information may be used to contact the customer. 
+###  Cookies 
 
-## Mailing Lists
+  * ActiveState uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of ActiveState.
+  * A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting ActiveState; however, a cookie may store a unique identifier for each logged in user. The cookies ActiveState sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you may not be able to log in or use ActiveState’s services.
 
-Users are offered the option of subscribing to relevant mailing lists at the time of purchase, and at various other locations throughout the site, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. ActiveState's ASPN "Announce" mailing lists are "receive-only" lists for announcements regarding ActiveState products, services, or promotions. ActiveState's ASPN "Discuss" mailing lists are moderated lists that provide discussion forums for ActiveState products and technologies. It is not necessary to subscribe to any ASPN mailing list to use our Web site or purchase our products. ASPN includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly. 
 
-## Surveys & Contests
 
-From time to time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user can decide whether or not to disclose their information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age range). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of improving our products and our site. 
+###  Google Analytics & Other Third-Party Tracking Services 
 
-## Security
+  * We use Google Analytics as a third-party tracking service, or such other services, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use ActiveState. This helps us evaluate our users' use of ActiveState; compile statistical reports on activity; and improve our content and website performance.
+  * Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of ActiveState. We do not link this information to any of your personal information such as your user name.
+  * ActiveState will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
+  * Certain pages on our site may set other third-party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third-party cookies, we can’t always control what cookies this third party content sets.
+  * We also have opted-in to The LeadLander Contact Network. LeadLander is a web analytics tool, similar to Google Analytics. However, The LeadLander Contact Network pools together contact information collected through any of our forms or email campaigns and any other LeadLander opted-in website forms or email campaigns to identify a visitor to the Site. Whenever a visitor goes to any LeadLander opted-in website, LeadLander can display the visitor by their name and email address in its reports to its subscribers.
+  * We also work with Twitter to collect user data for conversion tracking and serving ads targeted to users’ interests. You can opt out of interest-based advertising through methods that Twitter may specify from time to time [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads).
+  * Other services we work with, but not necessarily limited to, include Marketo (marketing automation), Unbounce (landing pages), Crazyegg (tracking what you mouseover or click on), and FaceBook pixel (tracking conversions from ads).
 
-Our website takes every precaution to protect our users' information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open. 
 
-## Suppliers
 
-We outsource shipping and credit card processing. The companies that perform these services do not retain, share, store or use personally identifiable information for any secondary purposes 
+###  Tracking 
 
-## Links
+  * "[Do Not Track](https://www.eff.org/issues/do-not-track)" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of [here](https://tools.google.com/dlpage/gaoptout). Because we do not share this kind of data with third party services or permit this kind of third party data collection on ActiveState for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
+  * If you are interested in turning on your browser’s privacy and Do Not Track settings, the [Do Not Track](https://www.eff.org/issues/do-not-track) website has browser-specific instructions.
+  * Please see our section on how we communicate with you below to learn about our use of pixel tags in marketing emails.
 
-This website contains links to other sites. Please be aware that ActiveState is not responsible for the privacy practices of other sites. We encourage our users to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the ActiveState website. 
 
-## Public Forums
 
-ASPN makes mailing list archives, chat rooms, forums, message boards, and/or news groups available to its users. As any information that is disclosed in these areas becomes public, caution should be exercised when disclosing personal information. 
+* * *
 
-## Choice/Opt-in
+##  How ActiveState secures your information 
 
-Our users are given the opportunity to "opt-in" to having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-in" mechanism so purchasers who wish to receive marketing material can add their email address to our lists. We only add users to our lists when they expressly agree to be added. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+  * ActiveState takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+  * No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
-## Opting Out
 
-Periodically, ActiveState notifies our users of new products, announcements, upgrades, and updates. To unsubscribe from ActiveState email updates, click "unsubscribe" at the bottom of the next email you receive from us. Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services. 
 
-## Notification of Changes
+* * *
 
-If we change our privacy policy, we will post notification of those changes on our homepage so our users are aware of changes to the information we collect, how it is used, and under which circumstances, if any, it is disclosed. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+##  ActiveState's global privacy practices 
 
-## Questions
+**Information that we collect will be stored and processed in the United States and or Canada** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs. 
 
-If you have questions, or if you feel we are in violation of this privacy policy, please email [website-feedback@ActiveState.com](mailto:website-feedback@ActiveState.com). - ActiveState
+We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. 
+
+We comply with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.). We use your email only to communicate with you about products or services that may be of interest to you. You can opt out of receiving emails from us by sending an email to [unsubscribe@activestate.com](mailto:unsubscribe@activestate.com "mailto:unsubscribe@activestate.com"). 
+
+* * *
+
+##  Resolving Complaints 
+
+If you have concerns about the way ActiveState is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by email at [legal@activestate.com](mailto:legal@activestate.com?Subject=Privacy%20Shield%20Concerns "mailto:legal@activestate.com") with the subject line "Privacy Shield Concerns". 
+
+###  Dispute Resolution Process 
+
+In the unlikely event that a dispute arises between you and ActiveState regarding our handling of your User Personal Information, we will do our best to resolve it. 
+
+###  Independent Arbitration 
+
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+
+* * *
+
+##  How we respond to compelled disclosure 
+
+ActiveState may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large. 
+
+In complying with court orders and similar legal processes, ActiveState strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances. 
+
+* * *
+
+##  How you can access and control the information we collect 
+
+If you're already an ActiveState user, you may access, update, alter, or delete your basic user profile information by contacting ActiveState Support at [support@activestate.com](mailto:support@activestate.com "mailto:support@activestate.com"). 
+
+###  Data Retention and Deletion 
+
+ActiveState will retain User Personal Information for as long as your account is active or as needed to provide you services. 
+
+We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely. 
+
+If you would like to cancel your account or delete your User Personal Information, you may do so by contacting ActiveState at [support@activestate.com](mailto:support@activestate.com "mailto:support@activestate.com"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days. 
+
+* * *
+
+##  How we communicate with you 
+
+  * We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through ActiveState. You may manage your communication preferences in your user profile.
+  * Depending on your email settings, ActiveState may occasionally send notification emails about changes in a project you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
+  * Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email. If you prefer not to receive pixel tags, please opt out of marketing emails.
+
+
+
+* * *
+
+##  Changes to our Privacy Statement 
+
+Although most changes are likely to be minor, ActiveState may change our Privacy Statement from time to time. 
+
+* * *
+
+##  License 
+
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). 
+
+* * *
+
+##  Contacting ActiveState 
+
+Questions regarding ActiveState's Privacy Statement or information practices should be directed to [legal@activestate.com](mailto:legal@activestate.com?Subject=Privacy%20Practices "mailto:legal@activestate.com") with the subject line titled, “Privacy Practices”. 
