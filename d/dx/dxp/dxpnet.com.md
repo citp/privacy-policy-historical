@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110034937id_/https%3A//www.dxpnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629234809id_/https%3A//www.dxpnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | dxpnet
-
-Privacy Policy
 
 Effective as of March, 7, 2008
 
