@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mphonline.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228142143id_/http%3A//www.mphonline.com/disclaimer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mphonline.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629201922id_/http%3A//www.mphonline.com/disclaimer/privacy.aspx) for the most accurate reproduction.*
 
 # MPHONLINE.COM - Malaysia's No. 1 Online Bookstore
 
