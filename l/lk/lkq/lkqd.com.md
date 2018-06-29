@@ -1,92 +1,154 @@
-> *The following text is extracted and transformed from the lkqd.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232225id_/http%3A//lkqd.com/%3Fpage_id%3D392) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkqd.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113035id_/http%3A//www.lkqd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LKQD
+# Privacy Policy – LKQD
 
-Thank you for your interest in this website located at www.lkqd.com (the “Website”) that is owned, operated and controlled by Likqid Media, LLC (collectively “Likqid Media,” “we,” “our”, or “us”).
+1\. General
 
-Your personal privacy is important to us. This Privacy Policy, effective July 1, 2014, explains our information practices. Please read carefully to understand when do we collect your information, what type of information do we collect, how we collect, how we use, with whom do we share and what steps do we take to protect your information.
+LKQD, a division of Nexstar Digital Digital LLC (“LKQD”, “we”, “our”, or “us”), provides a range of online advertising services, including an advertising platform that our customers use to deliver advertisements to viewers. This privacy policy (the “Privacy Policy”) describes, among other things, the types of information collected through use of our services (“Services”), including how such information may be used and/or disclosed, and our practices for data choice. To review our privacy policy governing our corporate website, please go to Corporate Privacy Policy. Through the Services, LKQD utilizes its proprietary infrastructure to provide its clients a myriad of inventory sources. Such infrastructure affords LKQD the opportunity, on behalf of its clients, to display and serve ads to consumers who access a particular website, mobile application, or online content.
 
-#### WHEN DO WE COLLECT INFORMATION?
+LKQD is committed to safeguarding your privacy and participates in the Digital Advertising Alliance’s (“DAA”) self-regulatory organization and strives to comply with the organizations’ self-regulatory principles. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future. 
 
-We may collect information about you anytime you interact with Likqid Media such as when you (i) access or browse the Website, (ii) use or subscribe to Likqid Media services, (iii) communicate with us either by e-mail, over the telephone or in any other manner including when you call our support teams, (iv) receive ads delivered by our platform, (v) create or open user accounts, or (vi) request information about our products and services.
+2\. The LKQD Advertising Platform
 
-#### WHAT INFORMATION DO WE COLLECT?
+The LKQD Platform helps publishers and advertiser groups power their business by generating revenue from advertisements. To help publishers and advertiser groups serve accurate and relevant ads, we collect and use a variety of information through our platform, which we describe below
 
-Information we collect is generally of two types – personally identifiable information and non-personally identifiable information.
+3\. About Data Collected and Used by the LKQD Platform
 
-Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, and telephone number.
+We collect information about viewers of the advertisements that are made available through our platform. The primary purpose for collecting this information is to enhance the likelihood that an advertisement seen by a viewer is relevant to the viewer. We also use the data we collect to improve and analyze our service, create new services, and report performance metrics to our customers. The information we collect is not intended to personally identify a specific viewer. For example, we do not collect a viewer’s name, address, phone number, or account information. Instead, we collect information that indicates that a specific device tends to be used in ways that suggest certain types of advertisements would be relevant to the device’s user.
 
-Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website or our services that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used.
+The data the LKQD Platform collects and uses includes, but is not limited to:  
+a. The type of browser, hardware model, operating system, unique device identifiers, your Internet provider, and IP address.  
+b. Device IDs associated with a User’s mobile device. This includes mobile advertising identifiers such as Apple’s IDFA and Android’s Advertising ID.  
+c. Information about websites, applications, and other content that you interact with, which may be tied to a unique identifier, and can include the date and time of your visit to a website, and the referring URL or mobile application name.  
+d. Web pages and advertisements you view.  
+e. Clickstream data.  
+f. Unique identifiers that we, or a partner of LKQD has associated with a User’s browser, through browser cookies, web beacons, or similar locally stored objects or code that can identify the physical location of mobile devices and operating system device identifiers.  
+g. Information about your interaction with video content, such as the type of content viewed.  
+h. Information or inferences about a user’s interests.  
+(collectively, “Services Data”)
 
-#### HOW DO WE COLLECT YOUR PERSONAL INFORMATION? AND WHY?
+In addition to data that we collect, we receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the terms of the data collector and the website using the data; it is not governed by LKQD. Additionally, we may associate user’s devices using probabilistic methodologies to accurately target and serve ads across devices.
 
-General  
-We do not collect personally identifiable information, except when you specifically and knowingly disclose such information. This information is generally collected when you subscriber to our services, fill out surveys, enter promotional events, correspond with us or discuss a service issue on the phone with an associate. If you disclose your personal information, we will only store and use such information that we need to meet your requests and our legitimate business objectives. We primarily use your personal information to provide you an improved and customized online experience and service. We may also use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance.
+Services Data does not include information that by itself, individually identifies an individual, such as your e-mail address, phone number, or name.
 
-Service Subscriptions  
-To subscribe to our services through the Website, we may require you to register and provide us with your first and last name, home or other physical address, including your street name and address and name of your city or town, your telephone number, your e-mail address or other personal contact information.
+For the purposes of EU data protection law, some Services Data such as an IP address, device ID and other data may be considered personal data. LKQD does not however collect any "sensitive" or "special categories" as defined under EU data protection law. LKQD is the controller of the personal information it collects from you. 
 
-User Accounts  
-You are required to set up your unique password-protected user accounts to use our services. When you set up your account, we may ask for name, address and e-mail.
+4\. How We Collect Information?
 
-Personal Contact Information  
-We use your contact information to complete and support your service subscriptions, to facilitate and improve your use of the Website and our services, to communicate with you, and to comply with any requirements of law.
+When LKQD, or LKQD, on behalf of a client, purchases online advertisements on a website/application, and such individual interacts with such advertisement or visits the website/application, Services Data is collected on such website or application through the use of cookies, web beacons, pixels, tags, and other similar technologies. Once collected, the Services Data may be used by LKQD to target advertisements, measure the effectiveness of advertisements, and to deliver interest-based advertisements on behalf of LKQD’s clients.
 
-Product Updates and Promotional E-mails  
-We regularly send product updates and promotional e-mails as a service to our existing customers. Only if you elect to receive these e-mails, will we use your personal information to send you newsletters and e-mails periodically listing current specials, promotions and deals. This option is provided during your account registration. If you have elected to receive these e-mails and wish to discontinue receiving in the future, please follow the opt-out instructions provided on the e-mails or log into your account on the Website and follow the instructions to make the appropriate changes.
+5\. How We Use the Data We Collect
 
-Correspondence  
-If you contact us by telephone, e-mail or letter to provide feedback, comments or inputs or for any other reason, we may keep a record of that correspondence and collect your personal information to process your inquiries, respond to your requests and improve our services.
+The purpose for collecting this information is to enhance the likelihood that an advertisement seen by a viewer is relevant to the viewer. We also use the data we collect to improve and analyze our service, create new services, and report performance metrics to our customers. The information we collect is not intended to personally identify a specific viewer. For example, we do not collect a viewer’s name, address, phone number, or account information. Instead, we collect information that indicates that a specific device tends to be used in ways that suggest certain types of advertisements would be relevant to the device’s user. We may use the data to create, or collect from LKQD partners, data segments associated with UIDs, cookies, or device advertising IDs. Data Segments may be based on inferred interests or geo-graphic locations, such as those collected by mobile applications.
 
-#### HOW DO WE COLLECT YOUR NON-PERSONAL INFORMATION? AND WHY?
+Cookies. A cookie is a small text file created by a website and stored in a user’s web browser. LKQD uses cookies to store data for: advertising and/or interest-based advertising purposes; delivery and reporting of advertisements; tracking users’ responses to an ad (e.g., click rate and conversions); reviewing the frequency and time of the display of an advertisement; storage of user preferences; and the collection, aggregation and analysis of anonymous tracking data to help measure and track traffic and general user behavior. Further, to better serve relevant ads to you, we may also assign an identifier (“ID”) to your device, computer, or browser when serving an ad. The ID may be implemented on your computer/device through a cookie. Such method does not enable LKQD to personally identify you. The ID can be used to attempt to match an assigned user by inference, based on the user’s activities tracked across multiple devices or browsers. 
 
-General  
-We will automatically collect certain non-personally identifiable information each time you visit the Website, receive an ad delivered from our platform, or use our services. For this purpose, we may use cookies, clear gifs, frames, server log analysis and other technology. We collect anonymous information about our users so that we can understand how people are using the Website or our services and improve the overall quality of our users’ experience.
+Tags, Beacons, and Pixels. Tags are computer codes incorporated into a HTML/JavaScript code of a web page and delivered to a web browser or application when the web page loads. A beacon, web beacon, or a pixel is a transparent web image that can be placed on a web page. Overall, LKQD utilizes tags, beacons, and/or pixels to set cookies, collect data, extend audiences between multiple marketing partners, and to serve more relevant ads. 
 
-Cookies  
-The Website may contain “cookies.” Cookies are bits of electronic information generated by web servers and stored on your hard drive when you visit practically any website on the Internet. Cookies are often used to differentiate users, store user preferences and track user trends in general. We may use cookies to improve the quality of the Website and to better understand how users interact with the Website. We do not use cookies to retrieve individual personally identifying information about you from your computer unless you knowingly and willingly provide such information. You can adjust your web browser security settings to refuse all cookies or to indicate when a cookie is being sent. However, if you disable the use of cookies in your web browser, some features of the Website we offer may not function properly.
+Our third-party service providers, advertisers and affiliates may also use cookies, web beacons and other similar technologies to manage or measure the performance of the information displayed or delivered over a website/application. For more information regarding this use, please see Section 8. “How Do We Work With Third Parties?” section below.
 
-Log Files  
-Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Website, track a user’s movement in the aggregate, and gather broad demographic information for aggregate use. You do not have to register with us before we can collect this anonymous information.
+6\. How Do We Use the Services Data?
 
-Navigational Data  
-As you browse the Website, we may gather navigational data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to facilitate and improve use of the Website; to comply with any requirements of law; to serve, or have a third party serve specialized or relevant advertising content and/or recommendations to you on the Website; and for our internal purposes.
+The Services Data collected may be used by LKQD clients or by LKQD on behalf of its clients to: evaluate and modify existing services and features; compile demographic and geographic information regarding users; identify a target audience to serve an advertisement and obtain the best advertisement response rate; provide interest-based advertising; aggregate statistics related to the Services Data; develop new services and features that may be of interest to you; prepare advertising segments that may be used to target based on demographics, geography and/or relation to the content on the viewing page; control the amount of times a user may see an advertisement; sequentially organize ads for purposes of viewing; and analyze the response of users to the advertisements. Further, Services Data collected from a browser, website, computer, device, or other application may be used on another browser, website, computer, device, or other application linked to the browser, computer, website, or device on which such data was initially collected, or transferred to a third party for such purposes. To manage your preferences related to the collection of Services Data pursuant to such tracking, please see Section 10, “What Are Your Choices”. 
 
-IP Addresses and System Specifications  
-When you access the Website or use our services, our servers may record your IP address. We may use IP addresses for system administration and troubleshooting, ensuring user compliance with our terms of service, investigating security breaches and compiling anonymous non-personal information. Additionally, when you log into your account, your system specifications such as operating system, system configuration, etc. may be collected by us for the purposes of analyzing and optimizing your experience and customer service.
+7\. How Do We Disclose Your Information?
 
-#### HOW DO WE SHARE THE INFORMATION THAT WE COLLECT?
+We may share Services Data with our affiliates, service providers, clients, related companies, and advertisers. We may also disclose your Services Data in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law. We may transfer Services Data to another company, if we are acquired by, sold to or merged with such company. 
 
-General  
-Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy. We sometimes share non-personal information with third parties about our user base, but that information does not include any personally identifiable information. Except as set forth in this Privacy Policy, we do not trade, share, rent, sell or give away information concerning you to third parties.
+Our agents and contractors who have access to your Services Data are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf. 
 
-Our Affiliates  
-We may share your personally identifiable information with legal entities that, directly or indirectly, control, are controlled by, or are under common control with, us. These affiliates may use your personally identifiable information only in accordance with this Privacy Policy.
+We continue to expand our online presence in order to offer users rich and deep interactive experiences. We may share information we collect about you so that we can provide you with information about products and services that might interest you.
 
-Our Service Providers and Strategic Partners  
-We may disclose your personally identifiable information to our service providers and strategic partners. For instance, we will disclose your credit card information to our financial service providers and banks for processing. These third party service providers and partners will have access to personal information needed to perform their functions but may not use it for other purposes.
+We may share aggregated or anonymized Services Data, with third parties. Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on websites/applications and the habits and preferences of our audience. Such aggregated data does not include any information that would identify you personally. We may use such aggregated data and disclose it to third parties as we see fit.
 
-Enforcement  
-We may disclose your personally identifiable information or otherwise use such information to communicate with you if required or permitted to do so by law or in the good-faith belief that such action is necessary to: (i) conform to legal requirements or comply with legal process or any governmental request; (ii) protect and defend the rights or property of Likqid Media and its affiliates, licensors or licensees; (iii) enforce our applicable service agreements; or (iv) protect the personal safety or interests of Likqid Media’s employees and consultants, other users of the Website, or members of the public in urgent circumstances. We may also disclose any of your personal information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of Likqid Media.
+8\. How Do We Work with Third Parties?
 
-Aggregated General Information  
-We may share aggregated general information about the Website or our services with our corporate partners, investors, advertisers or others. Aggregate general information includes without limitation the number of users of the Website or our services, usage statistics and user feedback. Aggregated general information does not include any personally identifying information that could be used to contact or identify you.
+We may work with one or more advertisers, advertising agencies, advertising networks, service providers, and/or audience segment providers to help deliver advertisements or other content. These third parties may utilize cookies, web beacons, or similar technologies on your computer, mobile, or other device to serve you advertisements or content tailored to your perceived or stated interests and/or preferences based on information you provided, and/or your browsing behavior, on their websites and/or other sites and applications you have visited. These third parties may also use such technologies to help determine whether you previously have seen particular advertisements or content and to avoid sending you duplicates, and/or collect information from a browser, website, computer, device, or other application to link such information to another browser, website, computer, device, on which such data was initially collected. In doing so, these third parties collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. In all of the above instances, this Privacy Policy will not apply to any information collected by these third parties. This collection of information is not under our control and such third-party information practices may be different than ours.
 
-Change of Control  
-In the event that another company acquires all or substantially all of the assets related to the Website, or if we experience some other change of control event such as merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We cannot guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.
+Further, these third parties may offer you a way to choose not to have your information used for interest-based advertising purposes. To manage your preference for interest-based advertising provided by third parties, please see Section 10, “What Are Your Choices?” for more information.
 
-#### SECURITY
+9\. Protecting the Data We Collect
 
-We take appropriate security measures to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of, users’ information. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services and the Website. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security. We use Secure Socket Layer (SSL) technology for mutual authentication, data encryption and data integrity. While no computer is 100% safe from outside attacks, we believe that the steps we have taken to protect your personal information drastically reduce the likelihood security problems to a level appropriate to the type of information involved. If you have any questions regarding which measures and techniques we use, feel free to contact us. 
+We take measures to prevent the loss, misuse, and alteration of your information. We carefully limit access to the database in which your personal information is stored. Additionally, we share and transfer your personal information only in the ways set forth in this privacy policy.
 
-#### INTEGRITY
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. We may also (and you authorize us to) disclose personal information about you to credit agencies, collection agencies, and/or merchant database agencies, as we deem necessary.
 
-During the online account registration process you can review, change or remove the information you have submitted. We aim to keep our information about you as accurate as possible and encourage you to promptly update your information if it changes. You may, at any time, access your information to update, modify or delete any inaccuracies by accessing your account through the Website. You may also request us to remove your account information from our databases and we will try to remove as much information as possible. However, as we generally keep information related to past transactions for our records, we will not be able to completely remove your information.
+10\. What Are Your Choices?
 
-#### CHANGES TO PRIVACY POLICY
+**Opt Out.**  
+LKQD adheres to the DAA Self-Regulatory Principles for Online Behavioral Advertising. Through the use of technologies such as cookies, LKQD may collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. LKQD may use such collected information to serve you ads that are tailored and relevant to you. Such practice is known as behavioral advertising or interest-based advertising. You may learn more about interest-based advertising at [http://www.aboutads.info.](http://www.aboutads.info/)
 
-We may change our policy at any time by posting a new version of it on the Website. We encourage you to check the Website regularly for information about revisions to this Privacy Policy. In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change. If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
+If you desire to not receive interest-based advertisements displayed by LKQD on your browser, you may opt out by doing any of the following: 
 
-#### QUESTIONS AND COMMENTS
+Cookies. You may set your browser to block all or certain cookies or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties. 
 
-If you have any questions or comments about this Privacy Policy, you may contact us at info@lkqd.com 
+Mobile Device. On your mobile device, you may use the: Limit Ad Tracking setting on your IOS device; or “Opt out of Interest-Based Ads” setting on your Android device.
+
+Further, we may work with one or more advertisers, advertising agencies, advertising networks, service providers, and/or audience segment providers to help deliver advertisements or other content. These third parties may utilize cookies, web beacons, or similar technologies on your computer, mobile, or other device to serve you advertisements or content tailored to your perceived or stated interests and/or preferences based on information you provided, and/or your browsing behavior, on their websites and/or other sites and applications you have visited. These third parties may also use such technologies to help determine whether you previously have seen particular advertisements or content and to avoid sending you duplicates. In doing so, these third parties collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. In all of the above instances, our privacy policy will not apply to any information collected by these third parties. This collection of information is not under our control and such third party information practices may be different than ours. Such third parties may offer you a way to choose not to have your information used for interest-based advertising purposes.
+
+**To manage your preferences:**  
+(a) for third parties providing interest-based advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at http://www.networkadvertising.org/choices/ and the Digital Advertising Alliance Consumer Choice Page at http://www.aboutads.info/choices/;  
+(b) to limit the collection of cross-app data for interest-based ads from participating companies, for more information, please visit the Digital Advertising Alliance page at: http://youradchoices.com/appchoices; and  
+(c) to limit the collection of location data, go to “settings” on your mobile device. 
+
+We respect your privacy and your ability to choose what communications you receive from us. Please note that if you choose to opt out of interest-based advertising, you may still see advertisements. However, such advertisements will not be based on your online behavior. 
+
+Tips Re: Opt Out  
+1\. If your browser blocks third-party cookies, opting out may not be effective.  
+2\. You must opt out on each browser/device for opt out to be effective for a specific browser/device.  
+3\. When you opt out, a cookie is placed on your browser or device. Each time you delete cookies, you will have to opt out again. 
+
+**Do Not Track**  
+We support the Do Not Track browser setting. When you have Do Not Track enabled in your browser, we will not collect browser-related information about you. For more information regarding Do Not Track, including how to turn on Do Not Track, visit www.donottrack.us. We encourage users who are interested in limiting the information we collect, to search online for tools and services (e.g., NAI’s consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt out of collection.
+
+11\. Our Commitment to Children’s Privacy
+
+We do not knowingly collect or store information about children under the age of 13. In those instances in which we have actual knowledge that: we are collecting geo-location information from children or any personal information; or are applying a persistent identifier that can be used to recognize a child under the age of 13; and the foregoing is accomplished on a website or application used to offer a service directed toward children, we will comply with applicable laws.
+
+12\. Updates
+
+This Privacy Policy is effective as of the date above. Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion. All changes will be promptly posted on this page, with an updated effective date. Your continued viewing, browsing, use or access of the Services or advertisements provided through the Services, following our posting of an updated Privacy Policy, will constitute your binding acceptance of those changes.
+
+13\. Ownership and Contact Information
+
+The Services are provided by LKQD, a division of Nexstar Digital LLC, located at 27422 Portola Parkway, Suite 100, Foothill Ranch, CA 92610. If you have any questions or comments about our Privacy Policy, please send an e-mail to privacy@lkqd.com. 
+
+14\. Jurisdiction
+
+The laws of the State of Texas and the United States of America govern this Privacy Policy. Our servers and services are located in the USA. If you are located outside of the USA, using our service will result in your information being exported to, stored, and used in the USA.
+
+15\. European Privacy Policy
+
+If you are situated in the European Economic Area ("EEA"), the following provisions will apply in addition to the Privacy Policy to any Services Data which constitutes personal data. 
+
+(a) Data Controller  
+For the purposes of European data protection law, Nexstar Digital LLC is the data controller of personal information included in Services Data.
+
+(b) Legal basis for processing  
+We will process your personal data (a) for the purpose of legitimate interests pursued by us; or (b) because you have consented to the processing.  
+Our legitimate interests include storing and accessing information necessary to provide the services; selecting, delivering and reporting on the effectiveness of advertisements; measuring the performance of advertisements and campaigns; personalizing the advertisements you receive; and investigating and preventing fraud.  
+The legal basis for processing will depend on what data we are collecting and what we are using it for. However, we will not use your personal data for the purpose of our legitimate interests when our interests are overridden by the impact on your data protection interests or fundamental rights or freedoms. 
+
+(c) Transferring your information outside Europe  
+We are based in the US. When we collect personal information from you, it is therefore transferred to a destination outside the EEA. You acknowledge that unless you have opted out in accordance with Section 10 above, you consent to the transfer of your personal information to the United States.  
+If we transfer your personal information to a third party service provider outside of the EEA, we will impose obligations on the recipients of that data to protect your information to the standard required in the EEA. 
+
+(d) Retention of data  
+We will keep your personal data only for as long as is necessary for the purposes set out in this Privacy Policy or as required to comply with any legal obligations to which we are subject.  
+If you have opted out in accordance with section 10 above, we will retain your information to enable us to comply with your preferences.
+
+(e) Your rights  
+Under EU data protection laws you have a number of rights in relation to your personal data. We respect and honor these rights and will help you to exercise them insofar as we are able. These rights are not absolute – in some cases they will not apply to you, or to the particular use that we are making of your data, and there are exceptions (for example if we have to process the data to comply with our own legal obligations) but if that is the case we will let you know. We aim to ensure that the information we hold about you is accurate at all times. 
+
+At any time, you have the right:  
+(i) to request access to or a copy of any personal data which we hold about you;  
+(ii) to rectification of your personal data, if you consider that the information we are holding is inaccurate;  
+(iii) to ask us to delete your personal data, if you consider that we do not have the right to hold it;  
+(iv) to withdraw consent to our processing of your personal data (to the extent such processing is based on previously obtained consent);  
+(v) to restrict processing of your personal data;  
+(vi) to data portability (moving some of your personal data elsewhere) in certain circumstances;  
+(vii) to object to your personal data being processed in certain circumstances; and  
+(viii) to not be subject to a decision based on automated processing and to have safeguards put in place if you are being profiled based on your personal data.  
+Any request from you for access to or a copy of your personal data must be in writing and we will endeavour to respond within a reasonable period and in any event within one month in compliance with data protection legislation. Because Services Data does not include your e-mail address, phone number, or name, you will need to provide us with additional information for us to identify the personal data we hold about you in order to respond to any request. 
+
+You also have the right to make a complaint at any time to the supervisory authority in the country you are situated in. You can find the details of your local supervisory authority here: [ http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
