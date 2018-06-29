@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontendmasters.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215063258id_/https%3A//frontendmasters.com/assets/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontendmasters.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629123820id_/https%3A//frontendmasters.com/assets/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Frontend Masters Privacy Policy
 
