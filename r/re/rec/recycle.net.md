@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120005552id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629075959id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,53 +46,53 @@ Any changes to this Privacy Policy will be communicated through our posting an a
 
 #### Your Feedback 
 
-Recycler's World welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your [comments and responses](http://www.recycle.net/cgi-bin/feedback.cgi?w=01). 
+Recycler's World welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your [comments and responses](https://www.recycle.net/cgi-bin/feedback.cgi?w=01). 
 
 |  | 
 
 **About Us**
 
-  * [About RecycleNet](http://www.recyclenet.com/)
-  * [Privacy Policy](http://www.recycle.net/web/policy.html)
-  * [Website Feedback](http://www.recycle.net/cgi-bin/feedback1.cgi?w=01)
-  * [News (RecycleNet Blog)](http://www.recycle.net/blog/)
+  * [About RecycleNet](https://www.recyclenet.com/)
+  * [Privacy Policy](https://www.recycle.net/web/policy.html)
+  * [Website Feedback](https://www.recycle.net/cgi-bin/feedback1.cgi?w=01)
+  * [News (RecycleNet Blog)](https://www.recycle.net/blog/)
 
 | 
 
 **Site Links**
 
-  * [How to use this site](http://www.recycle.net/web/exchange.html)
-  * [Recycler's Exchange](http://www.recycle.net/exchange/)
+  * [How to use this site](https://www.recycle.net/web/exchange.html)
+  * [Recycler's Exchange](https://www.recycle.net/exchange/)
   
 (buy or sell)  
 
-  * [Price Information](http://www.recycle.net/price_reports.html)
-  * [Recycler's Directory](http://www.recycle.net/trade/)
+  * [Price Information](https://www.recycle.net/price_reports.html)
+  * [Recycler's Directory](https://www.recycle.net/trade/)
 
 | 
 
 **Network Link**
 
   * [Cooksmill NetSystems](http://www.cooksmill.com/)
-  * [Scrapindex.com](http://www.scrapindex.com/)
-  * [Cooksmill Network](http://www.cooksmill.net/)
-  * [ROCs](http://www.recycle.net/offsetcredits/revenue.html)
+  * [Scrapindex.com](https://www.scrapindex.com/)
+  * [Cooksmill Network](https://www.cooksmill.net/)
+  * [ROCs](https://www.recycle.net/offsetcredits/revenue.html)
 Recycling Offset Credits 
 
 
-Sunday, 19-Nov-2017 05:27:08 EST  
-File No: 50229 
+Thursday, 28-Jun-2018 05:19:50 EDT  
+File No: 52925 
 
 | 
 
 **Services**
 
-  * [Membership](http://www.recycle.net/web)
-  * [Trader Access](http://www.recycle.net/web/basic-traderaccess.html)
-  * [Advertise](http://www.recycle.net/web/sponsor.html)
-  * [Pay Per Lead Credits](http://www.recycle.net/web/pplead_credits.html)
-  * [Price Subscriptions](http://www.trashinfo.com/)
-  * [NewsGroups](http://www.recycle.net/emf/)
+  * [Membership](https://www.recycle.net/web)
+  * [Trader Access](https://www.recycle.net/web/basic-traderaccess.html)
+  * [Advertise](https://www.recycle.net/web/sponsor.html)
+  * [Pay Per Lead Credits](https://www.recycle.net/web/pplead_credits.html)
+  * [Price Subscriptions](https://www.trashinfo.com/)
+  * [NewsGroups](https://www.recycle.net/emf/)
 
 | 
 
