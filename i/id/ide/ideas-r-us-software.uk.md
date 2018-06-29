@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas-r-us-software.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227122717id_/http%3A//ideas-r-us-software.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-r-us-software.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629141109id_/http%3A//www.ideas-r-us-software.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ideas R Us Software - Privacy Policy
 
@@ -140,7 +140,7 @@
 
 ### 13\. Cookies
 
-13.1 See our Cookies Policy [Cookies](https://web.archive.org/web/20171227122717id_/http%3A//ideas-r-us-software.uk/Legal/CookiesPolicy.aspx).
+13.1 See our Cookies Policy [Cookies](https://web.archive.org/web/20180629141109id_/http%3A//www.ideas-r-us-software.uk/Legal/CookiesPolicy.aspx).
 
 ### 14\. Data protection registration
 
