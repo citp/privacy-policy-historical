@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701050750id_/https%3A//insurancenewsnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629093149id_/https%3A//insurancenewsnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InsuranceNewsNet
 
 [](https://privacy.truste.com/privacy-seal/InsuranceNewsNet-com/validation?rid=d0ba865f-ab16-4b4b-90bb-beaf02f79acf "TRUSTe online privacy certification")
 
-This privacy prolicy covers the site ([www.insurancenewsnet.com](http://insurancenewsnet.com/)).
+This privacy prolicy covers the site ([www.insurancenewsnet.com](https://insurancenewsnet.com/)).
 
 If you have questions or concerns regarding this policy, you should first contact Customer Service by calling 717-441-9357 by email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: InsuranceNewsNet.com, 275 Grandview Avenue, Ste 100 Camp Hill, PA 17011.
 
 ## Uses of Information
 
- **Newsletter Registration**  
+**Newsletter Registration**  
 In order to receive our email newsletters, you must first complete the registration form and provide your contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.
 
 You have the option to provide demographic information (such as occupation, production level, experience, etc) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.
@@ -71,7 +71,7 @@ We **DO NOT** Share Personally Identifiable Information with Third Parties excep
 
 ### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.  If you wish to update or delete your testimonial, you can contact us at [info@insurancenewsnet.com](http://insurancenewsnet.com/info@insurancenewsnet.com).
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.  If you wish to update or delete your testimonial, you can contact us at [info@insurancenewsnet.com](https://insurancenewsnet.com/info@insurancenewsnet.com).
 
 ### Legal Disclaimer
 
@@ -87,7 +87,7 @@ We may also disclose your personally identifiable information:
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com). We offer an opportunity to opt-out of certain communications on our [Subscription Update Page](http://insurancenewsnet.com/subscription_update.aspx), or you may contact us via...
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com). We offer an opportunity to opt-out of certain communications on our [Subscription Update Page](https://insurancenewsnet.com/subscription_update.aspx), or you may contact us via...
 
 ### Telephone
 
@@ -95,7 +95,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 ### Email
 
-[info@insurancenewsnet.com](http://insurancenewsnet.com/info@insurancenewsnet.com) or
+[info@insurancenewsnet.com](https://insurancenewsnet.com/info@insurancenewsnet.com) or
 
 ### Postal Mail
 
@@ -127,7 +127,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 The use of cookies by our partners and tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and tracking utility company use session ID cookies to make it easier for you to navigate our site.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Links to Other Sites
 
@@ -145,7 +145,7 @@ This privacy policy applies only to information collected by this Web site.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page:
 
-[Subscription Update Page](http://insurancenewsnet.com/subscription_update.aspx) or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail:
+[Subscription Update Page](https://insurancenewsnet.com/subscription_update.aspx) or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail:
 
 InsuranceNewsNet.com  
 275 Grandview Avenue, Suite 100  
@@ -180,4 +180,4 @@ Camp Hill, PA 17011
 
 [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com)
 
-[http://www.insurancenewsnet.com](http://insurancenewsnet.com/)
+[http://www.insurancenewsnet.com](https://insurancenewsnet.com/)
