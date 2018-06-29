@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsocial.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225021345id_/http%3A//wpsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsocial.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629134948id_/http%3A//wpsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WP Social
 
@@ -50,7 +50,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at mick535@gmail.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
