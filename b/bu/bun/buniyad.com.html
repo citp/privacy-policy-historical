@@ -1,588 +1,977 @@
-<!--The following is the downloaded HTML source of the buniyad.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625154813id_/http%3A//www.buniyad.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buniyad.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629064354id_/http%3A//buniyad.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Buniyad Real State Services</title>
-<link rel="icon" type="image/jpg" href="images/favicon.ico">
-<link href="css/buniyad.css" rel="stylesheet" type="text/css">
-<!--Dropdown Menu Start Here-->        
-<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css">
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
-<script type="text/javascript"> 
-	var v = 0;
-	function mover()
-	{
-		v = 1;
-		jQuery('#mylink').addClass('sel');
-	}
-	
-	function hideme()
-	{
-		jQuery('#mylink').removeClass('sel');
-	}
-	
-</script>
-<!--Dropdown Menu End Here-->
- 
-<script type="text/javascript"> 
-	//Property Search
-	function propSearch()
-	{			
-		var category	= document.getElementById("property_category").value;
-		var type		= document.getElementById("property_type").value;
-		var city		= document.getElementById("sel_city").value;		
-		//var budget		= document.getElementById("sel_budget").value;
-		var bed			= document.getElementById("sel_bed").value;		
-		//var cat_text	= $("#property_category option:selected").text();
-		
-		//ajax call	
-		var data	= 'category=' + category + '&type=' + type + '&city=' + city + '&bed=' + bed;
-		
-		$.post("property_search_process.php", data,
-			 function(resdata) {		 				
-				$('#project_res_content').html(resdata);	 		 
-			 } 						 
-		);	
-	}
-	
-	
-	//specific page property
-	function resdential_project(pageNo)
-	{		
-		var category	= document.getElementById("property_category").value;
-		var type		= document.getElementById("property_type").value;
-		var city		= document.getElementById("sel_city").value;		
-		//var budget		= document.getElementById("sel_budget").value;
-		var bed			= document.getElementById("sel_bed").value;		
-		//var cat_text	= $("#property_category option:selected").text();
-		
-		//ajax call	
-		var data	= 'category=' + category + '&type=' + type + '&city=' + city + '&bed=' + bed + '&page_no=' + pageNo;
-		
-		//ajax call	
-		//var data	= 'page_no='+pageNo;
-		
-		$.post("property_search_process.php", data,
-		 function(resdata) {
-		   $('#project_res_content').html(resdata)
-		   commercial_project(pageNo);
-		 } 						 
-		);	
-	}	
-</script>
- 
-<!--  Enquiry Form -->
-<script language="javascript" src="js/project/home_main2_js.js"></script>
-<script language="javascript" src="js/project/common_bnd.js"></script>
-<!--  End Enquiry Form -->
- 
-<!--  News Letter -->
-<script language="javascript" src="js/project/right_main_js.js"></script>
-<!--  End News Letter -->
- 
-<!-- Start Signin and Register Button -->
-<script type="text/javascript" src="js/jquery_float.js"></script>  
-<script type="text/javascript"> 
-floatingMenu.add('floatdiv',
-    {
-        targetBottom: 295,
-        prohibitXMovement: true,
-        snap: true
-    });	
-</script>
-<!-- End Signin and Register Button -->
- 
-<script type="text/javascript"> 
-function updateClock() {	
-    var now = new Date(); // current date    
-    var hHour	= now.getHours();
-	var hmin	= now.getMinutes(); // again, you get the idea
-	var meridiem = "AM";
-	
-	if(hHour>12){
-		hHour	= hHour-12;
-		meridiem= "PM";
-	}
-	
-	if(hHour<10)
-		var nhour = "0"+hHour;
-	else
-		var nhour = hHour;
-		
-	if(hmin<10)
-		var nmin = "0"+hmin;
-	else
-		var nmin = hmin;
-	
-	document.getElementById('tHour').innerHTML		 = nhour;
-	document.getElementById('tMinute').innerHTML	 = nmin;
-	document.getElementById('tmeridian').innerHTML	 = meridiem;
-	
-    // call this function again in 1000ms
-    setTimeout(updateClock, 3000);
-}
-</script>
-<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
-	<script src="jsp/prototype.js" type="text/javascript"></script>
-	<script src="jsp/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
-	<script src="jsp/lightbox.js" type="text/javascript"></script>
-    <!-- Start Signin and Register Button -->
-<script type="text/javascript" src="js/jquery_float.js"></script>  
-<script type="text/javascript">
-floatingMenu.add('floatdiv',
-{
-targetBottom: 148,
-prohibitXMovement: true,
-snap: true
-});	
-</script>
-<!-- End Signin and Register Button -->
-</head>
-<body class="innerPage">
-<!--<div class="box1" style="position:absolute; right:0; width:54px;">  
-<div id="floatdiv" class="box1" style="position:absolute; width:54px; height:232px;">
-<div class="register"><a href="#"><img src="images/register.jpg" alt="" border="0" /></a></div>
-<div class="signIn"><a href="#"><img src="images/signIn.jpg" alt="" border="0" /></a></div>     
-</div>  
-</div>	--><div class="buildingDiv">
-          <div id="wrapper"><!-- WRAPPER DIV start -->
-               
-<!-- HEADER BLOCK start -->
-<div id="header">
-	<div class="logo"><a href="http://www.buniyad.com">Buniyad - Real Estate Services</a></div>
-	<div style="float:left;margin-left:50px;"><a href="http://www.buniyad.com/nri-center.html"><img src="http://www.buniyad.com/images/nriquery.gif" border="0"></a></div>
-	<div class="headerRight">
-		 <form name="frm_top_search" id="frm_top_search" action="http://www.buniyad.com/project-search.html" method="post">
-		 <div class="search">
-			  <div class="textboxDiv">
-			 
-			  <input type="text" name="searchword" onfocus="if(this.value=='--Enter search text--') this.value='';" onblur="if(this.value=='') this.value='--Enter search text--';" value="--Enter search text--" class="textBox"></div>
-			  <div class="goDiv"><input type="submit" value="" class="submitBtn"></div>
-		 </div>
-		 
-		   </form>
-			 <div class="clockDiv">		 
-			  <div class="time" id="tHour">06</div>
-			  <div class="minute" id="tMinute">24</div>
-			  <div class="meridian" id="tmeridian">PM</div>
-			  <div class="ist">IST</div>
-			  <div class="dayMonthDate">Mon, Jun 25</div>
-		 </div>
-		 	
-		 <ul class="topLinks">
-			  <li class="first"><a href="http://www.buniyad.com">Home</a></li>
-			  <li>|</li>
-			  <li><a href="http://www.buniyad.com/faq.html">FAQs</a></li>
-			  <li>|</li>
-			  <li><a href="http://www.buniyadgroup.wordpress.coml">Blog</a></li>
-			  <li>|</li>			  
-			  <li><a href="http://www.buniyad.com/careers.html">Careers</a></li>
-			  <li>|</li>
-			  <li class="last"><a href="http://www.buniyad.com/contact.html">Contact us</a></li>
-		 </ul>
-	</div>
-</div><!--HEADER BLOCK end -->   
-			   			   
-               <div id="bodyContent"><!-- BODY CONTENT start -->
-               		<!-- MENU DIV start -->
-					<div id="menu">
-	<div class="menuLeft"><img src="http://www.buniyad.com/images/menu-left-style.png" alt=""></div>	
-	 <div id="smoothmenuMain" class="ddsmoothmenu menu">
-		<ul>
-			<li><a href="http://www.buniyad.com/">Home</a></li>
-			   <li><a href="http://www.buniyad.com/about.html">About US</a>
-				<ul>
-						<li><a href="http://www.buniyad.com/companyprofile.html">The company</a></li>
-						 <li><a href="http://www.buniyad.com/buniyad.html">Brand Buniyad</a></li>
-						 <li><a href="http://www.buniyad.com/top-management.html">Top Management</a></li>
-						 <li><a href="http://www.buniyad.com/awards.html">Awards</a></li>
-						 <li><a href="http://www.buniyad.com/events.html">Events</a></li>
-						 <li><a href="http://www.buniyad.com/media-news.html">Media News</a></li>
-					</ul>
-			   </li>
-			   <li><a href="http://www.buniyad.com/buniyad-retail.html">Projects</a></li>
-			   <li><a href="http://www.buniyad.com/knowledge-center.html">Knowledge Center</a></li>
-			   <li><a href="http://www.buniyad.com/developers.html">Developers</a></li>
-			   <li><a href="http://www.buniyad.com/nri-center.html">NRI Center</a></li>
-			   <!-- <li><a href="http://www.buniyad.com/group-booking.html">Group Bookings</a></li> -->
-			  <!-- <li class="last"><a href="http://www.buniyad.com/quick-links.html">Quick Links</a></li> -->
-		  </ul>
-	 </div>
-	 <div class="menuRight"><img src="http://www.buniyad.com/images/menu-right-style.png" alt=""></div>                    
-</div>					<!-- MENU DIV end -->				
-				
-                    <div class="content"><!-- CONTENT start -->
-                          <!-- TOP LOCATION city start -->
-<div id="smoothmenu1" class="ddsmoothmenu topLocations">
-	<ul>		
-		   <li class="first"><a href="http://www.buniyad.com/retail/property/noida/index.html">Noida</a></li>
-		   <li><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Gurgaon</a></li>
-		   <li><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Mumbai</a></li>
-		   <li><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Greater Noida</a></li>
-		   <li><a href="http://www.buniyad.com/retail/property/delhi/index.html">Delhi</a></li>
-		   					
-	  </ul>
- </div> <!-- TOP LOCATION city end -->
-  <!-- BREADCRUMBS start --><div class="breadcrumbs">
-<a href="http://www.buniyad.com/">Home</a> &gt; <span>Privacy Policy</span>                         
+<!DOCTYPE html><html lang="en" class="js"><head>
+        <!-- FOUC Fix -->
+        <style type="text/css">
+            .js body {
+                display: none;
+            }
+        </style>
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=593810654023042"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?pUh57SMkxWjc4wHiUDsyCEFOOZ14gYB8" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P56F9TB"></script><script type="text/javascript">
+            document.documentElement.className = "js";
+        </script>
+        <!-- FOUC Fix -->
 
-                         </div><!-- BREADCRUMBS end -->
-							 
-						 <div class="leftDiv"><!-- LEFT DIV start -->
-                         <div class="bannerDiv"><!-- HEADER BANNER start -->
-                              	<img src="images/about-banner.jpg" alt="">
-                                   <h2>Privacy Policy</h2>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Privacy Policy - Buniyad.com</title>
+                <meta name="description" content="Privacy Policy - Buniyad.com">
+        <meta name="keywords" content="Privacy Policy - Buniyad.com">
+        <meta name="fragment" content="">
+        <meta name="abstract" content="">
+        <meta name="bulletin-text" content="">
 
-                              </div>
-						   <!-- HEADER BANNER end -->
-<div class="textDiv">
-<p>We, at Buniyad Real Estate Services, are committed to protecting your privacy. We will only use the information that we collect about you lawfully.<br><br>
- 
-We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible services.<br><br>
- 
-We will not e-mail you in the future unless you have given us your consent.<br><br>
- 
-We will give you the chance to refuse any marketing email from us or from another trader in the future.<br><br>
- 
-We will never collect sensitive information about you without your explicit consent.<br><br>
- 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies, we will delete or correct it promptly.<br><br>
- 
-The personal information which we hold will be held securely in accordance with our internal security policy and the Law.<br><br>
- 
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can always modify your browser to prevent this from happening.<br><br>
- 
-The Information collected in this way can be used to identify you unless you modify your browser settings.<br><br>
- 
-If you have any questions/comments about privacy, you should contact us.<br><br>
-Email Id : admin@buniyad.com</p> 
-							  
+        <meta http-equiv="content-type" content="text/html;">
+        <meta name="Author" content="https://www.buniyad.com/">
+        <meta name="copyright" content="©2015-16. Buniyad Real Estate Services, All Rights Reserved">
+        <meta name="robots" content="index, follow">
+        <meta name="rating" content="safe for kids">
+        <meta name="googlebot" content=" index, follow ">
+        <meta name="yahooSeeker" content=" index, follow ">
+        <meta name="msnbot" content=" index, follow ">
+        <meta name="reply-to" content="Info@buniyad.com">
+        <meta name="allow-search" content="yes">
+        <meta name="revisit-after" content="daily">
+        <meta name="distribution" content="global">
+        <meta name="Rating" content="General">
+        <meta name="expires" content="never">
+        <meta name="language" content="english">
+        <link rel="shortcut icon" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/favicon.ico">
 
-                           </div>
-                              
-                            
-                              
-                      </div>
-				   <!-- LEFT DIV end -->
-                         
-                         <!-- RIGHT DIV start -->
-                         
-                           <div class="rightDiv">
-                         	
-						<form name="search" action="http://www.buniyad.com/search.html" method="post">
-<div class="rightBlock"><!-- FIND YPUR PROPERTY start -->
+        <!-- FB Meta -->
+                        <!-- FB Meta -->
 
-	<h5 class="darkBlue">Search Properties</h5>
-	   <div class="block findProperty">                                   	                             
-			<ul class="formList">
-				<li>
-					<div class="label">Project Type<span class="redText">*</span></div>
-					  <div class="textboxDiv">
-						 <select name="project_type" id="project_type" class="select">
-							
-							<option value="Residential" selected="selected">Residential</option>
-							<option value="Commercial">Commercial</option>
-							
-						   </select>
-					  </div>
-				</li> 
-							
-				<li>
-					<div class="label">City<span class="redText">*</span></div>
-					  <div class="textboxDiv">
-						<select name="city" id="city" class="select">
-							<option value="Delhi">Delhi</option>
-							<option value="Gurgaon">Gurgaon</option>
-							<option value="Mumbai">Mumbai</option>
-							<option value="Greater Noida">Greater Noida</option>
-							<option selected="selected" value="Noida">Noida</option>
-							</select>
-					  </div>
-				 </li>				  				
-							 
-				 <li>
-					<div class="label">Bedrooms</div>
-					  <div class="textboxDiv">
-						<select name="no_of_bedroom" id="no_of_bedroom" class="select">
-							<option value="1">1</option>
-							<option value="2" selected="selected">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-							<option value="5">5+</option>										
-					   </select>
-					  </div>
-				 </li>
-				 <li class="last">
-					
-					  <div class="cyanBtnDiv">
-						<input type="submit" value="Search" class="submitBtn">
-						</div>
-				 </li>                                             
-			</ul>
-	   </div>
-	   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-  </div><!-- FIND YPUR PROPERTY end -->
-  </form>								
-	<!-- REQUIREMENT BLOCK start -->     
-<script language="javascript" src="http://www.buniyad.com/validateinterested.js"></script>
-<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" name="form" id="form" onsubmit="return validateinterested(this);">
+            
 
-<input type="hidden" name="oid" value="00DU0000000HDNb">
-<input type="hidden" name="retURL" value="http://www.buniyad.com/thanks.html">
-<input type="hidden" name="lead_source" id="lead_source" value="Buniyad.com">
-     <div class="rightBlock blockTopGap">
+        <meta name="fragment" content="!">
 
-                              	<h5>Submit your Requirement</h5>
+        <link rel="icon" type="image/x-icon" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/favicon.ico">
 
-                                   <div class="block">
+            <link rel="canonical" href="http://www.buniyad.com/privacy-policy.html">
 
-                                   	<div class="rowDiv">
+                <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/select2.css">
+                        <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/loading-bar.css">
+                <link href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/angular-select.min.css" rel="stylesheet">
+                <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/sweet-alert.css">
+                         <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/bootstrap-slider.css">
+                <!-- block used to inject bundle specific style sheets.  -->
+            <!-- Custom styles for this template -->
+        <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/css.css">
+            <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/style.css">
+            <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/details.css">
+            <link rel="stylesheet" href="https://d2ani3uksvp2ht.cloudfront.net/assets-50/css/compiled/media.css">
+    
 
-                                        	<ul class="formList">
-																				
-                                        	<li>
-                                             	<div class="label">First Name<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv"><input type="text" name="first_name" id="first_name" maxlength="40" size="15" class="textBox"></div>
-                                             </li> 
-											 <li>
-                                             	<div class="label">Last Name<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv"><input type="text" name="last_name" id="last_name" maxlength="80" size="15" class="textBox"></div>
-                                             </li> 
-                                        	<li>
-                                             	<div class="label">Email<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv"><input type="text" name="email" id="email" maxlength="80" size="15" class="textBox"></div>
-                                             </li>
-											 <li>
-                                             	<div class="label">Phone<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv"><input type="text" name="phone" id="phone" maxlength="80" size="15" class="textBox"></div>
-                                             </li>
-                                             <li>
-                                             	<div class="label">City<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv">
-												  <select id="city" name="city" title="City">
-												  <option value="Noida">Noida</option>
-												  <option value="Gurgaon">Gurgaon</option>
-												  <option value="Greater Noida">Greater Noida</option>
-												  <option value="Delhi">Delhi</option>
-												  <option value="Mumbai">Mumbai</option>
-</select>
+        <!-- block used to inject bundle specific style sheets.  -->
+        
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- For local -->
+                <!-- For prod -->
+        <base href="/">
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-P56F9TB');</script>
+        <!-- End Google Tag Manager -->
+
+
+
+        <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+            window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+                $.src='//v2.zopim.com/?pUh57SMkxWjc4wHiUDsyCEFOOZ14gYB8';z.t=+new Date;$.
+                        type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+        </script>
+        <!--End of Zopim Live Chat Script-->
+
+
+        <!--Start of Google analytics tracking code Script-->
+        <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40645871-1', 'buniyad.com');
+            ga('send', 'pageview');
+        </script>
+        <!--End of Google analytics tracking code Script-->
+
+    </head>
+    <body style="display: block;">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P56F9TB"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="fb-root"></div>
+    <script type="text/javascript">(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=593810654023042";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+            
+        <div id="wrapper" ng-app="RRCApp">
+        <div ng-controller="GeneralController" ng-cloak="">
+        <div>
+    
+                        <nav class="navbar navbar-inverse innerMenu">
+            
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/" target="_self" class="navbar-brand innerLogo"><img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/buniyad_logo.png" alt="logo"></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav nav-tabs nav-pills inline-tab buyRentTab">
+                    <li ng-class="{'active': (txnType == 'Outright')}"><a ng-click="setTxnType('Outright')" data-toggle="tab" href="#buy-input">BUY</a></li>
+                    <li ng-class="{'active': (txnType == 'Lease')}"><a ng-click="setTxnType('Lease')" data-toggle="tab" href="#lease-input">LEASE</a></li>
+                </ul>
+                <div class="tab-content inline-tab-content">
+                    <div id="buy-input" class="tab-pane fade in active">
+                        <!-- property Search -->
+                        <script type="text/ng-template" id="propertyTemplate.html">
+                            <a ng-if="match.model.url==''">
+                                <i class="fa {[ match.model.icon ]}"></i>
+                                <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+                            </a>
+                            <a ng-if="match.model.url!=''" target="_blank" href ng-href="{[ match.model.url ]}">
+                                <i class="fa {[ match.model.icon ]}"></i>
+                                <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+                                &nbsp;<i class="fa fa-external-link"></i>
+                            </a>
+                        </script>
+                        <div class="input-group header-search inner-serach">
+                            <input ng-show="toggleSearch" type="text" class="form-control serchInput" ng-model="searchSpec.propertyKeywordSearch" typeahead="entry as entry.displayText for entry in getPropertyKeywordSearchData($viewValue)" typeahead-min-length="2" typeahead-loading="searchLoader" typeahead-wait-ms="500" typeahead-template-url="propertyTemplate.html" typeahead-on-select="setSearchSpecOnPropertyKeywordSearch($item);" id="propertyKeywordSearch" aria-describedby="addon-search-icon" autocomplete="off" placeholder="Enter Location, Builder or Building">
+                            <span class="input-group-btn searchLoader" ng-show="searchPropertyLoader"><i class="searchPropertyLoader fa fa-spinner fa-pulse"></i></span>
+
+                            <div class="input-group-btn">
+                                <button type="button" ng-click="searchSubmit()" class="btn btn-default input-addon"><i class="glyphicon glyphicon-search"></i></button>
+                            </div>
+                        </div>
+                        <!-- property Search -->
+                    </div>
+                </div>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="contactNo"><i class="fa fa-phone" aria-hidden="true"></i> +91-9999011115</li>
+                    <li class=""><a href="/" target="_self">HOME</a></li>
+                    <li>
+                        <a href="/#mobile-app" target="_self" id="mobileIConMenu">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/mobile.gif" title="Download app" alt="Mobile App" style="width:22px; margin-top: -8px;" class="hidden-xs">
+                            <div class="visible-xs">
+                                <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/mobile.gif" title="Download app" alt="Mobile App" style="width:22px; margin-top: -8px;">
+                                DOWNLOAD APP
+                            </div>
+                        </a>
+                    </li>
+                                            <li class="">
+                            <a href="/list-your-property.html" target="_self">LIST YOUR PROPERTY</a>
+                        </li>
+                        <li data-toggle="modal" data-target=".bs-login-modal-lg"><a href="javascript:void(0)">LOGIN</a></li>
+                                        <li><a href="#" class="off-canvas-open">
+                        <i class="fa fa-bars hidden-xs"></i>
+                        <span class="visible-xs">MORE MENU</span>
+                    </a></li>
+                </ul>
+            </div>
+        </nav>
+        </div>
+        <div class="main-wrapper">
+                <section class="banner">
+        <div class="options text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block">
+                        <a href="http://blog.buniyad.com/" target="_self">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/blog.png" alt="blog icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/blog_c.png" alt="blog icon" class="colored">
+                            <span class="hidden-xs">BLOG</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block">
+                        <a href="/news-facts.html" target="_self">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/news_facts.png" alt="news facts icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/news_facts_c.png" alt="news facts icon" class="colored">
+                            <span class="hidden-xs">NEWS &amp; FACTS</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block">
+                        <a href="http://careers.buniyad.com" target="_self">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/careers.png" alt="careers icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/careers_c.png" alt="careers icon" class="colored">
+                            <span class="hidden-xs">CAREERS</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block">
+                        <a href="#" data-toggle="modal" data-target=".bs-feedback-modal-lg">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/feedback.png" alt="feedback icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/feedback_c.png" alt="feedback icon" class="colored">
+                            <span class="hidden-xs">FEEDBACK</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block active">
+                        <a href="/privacy-policy.html" target="_self">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/privacy_policy.png" alt="privacy policy icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/privacy_policy_c.png" alt="privacy policy icon" class="colored">
+                            <span class="hidden-xs">PRIVACY POLICY</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 block">
+                        <a href="/terms-and-condition.html" target="_self">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/terms_conditions.png" alt="terms conditions icon" class="gray">
+                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/terms_conditions_c.png" alt="terms conditions icon" class="colored">
+                            <span class="hidden-xs">TERMS AND CONDITIONS</span>
+
+                            <div class="underline"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="privacy-policy-tab">
+        <div class="container">
+            <h4>Privacy Policy</h4>
+
+            <div class="col-xs-12 block-section">
+                <p>This Privacy policy is subject to the terms of the Site Policy (User Agreement) of this website.
+                </p>
+
+                <p> The personal information provided by the users to us will not be provided to third parties without previous consent of the concerned user. Information of a general nature may however be revealed to external parties.
+                </p>
+
+                <p> Every effort shall be made to keep the information provided by the users in a safe manner, the information will be displayed on the website will be done so only after obtaining consent from the users.
+                </p>
+
+                <p> You are solely responsible for maintaining confidentiality of the User password and user identification and all activities and transmission performed by the User through his user identification and shall be solely responsible for carrying out any online or off-line transaction involving credit cards
+                    / debit cards or such other forms of instruments or documents for making such transactions and Buniyad assumes no responsibility or liability for their improper use of information relating to such usage of credit cards / debit cards used by the subscriber online / off-line.
+                </p>
+
+                <p> A user always has the option of not providing the information which is not mandatory
+                </p>
+
+                <p> In order to provide a personalized browsing experience, we may collect personal information from you. Also, we may require you to complete a registration form or ask for some information seeking your preferences regarding the property you are looking for. Based on your preferences, we will be able
+                    to deliver or allow you to access the most relevant information that meets your end.
+                </p>
+
+                <p> To extend this personalized experience we may track the IP address of a User's computer / device and save certain information on your system in the form of cookies. A User has the option of accepting or declining the cookies of this website by changing the settings of your browser.
+                </p>
+
+                <p> Any User browsing this website, is not required to disclose his identity or provide any of his information every time. It is only at the time of registration, the User is required to furnish the details in the registration form. You agree that Buniyad may use personal information provided by you to
+                    improve its marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings, and customize the Site's content, layout, and services. This shall further improve the website content and help us to tailor it to meet your needs, and to provide a smooth,
+                    efficient, safe and customized experience while using this website.
+
+                </p>
+
+                <p> You agree that Buniyad Real Estate Services may use your personal information to contact you and deliver information to you that, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, forum comments and reviews, your portfolio related
+                    updates, and communications relevant to your use of this website. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, you may opt out of the receipt of certain communications in your profile. You may make changes to
+                    your profile at any time. It is the belief of Buniyad that privacy of a person can be best guaranteed by working in conjunction with the Law enforcement authorities.
+                </p>
+
+                <p> All Buniyad websites including this website fully comply with all Indian Laws applicable. Buniyad has always cooperated with all law enforcement inquires. Buniyad may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide
+                    requirement to prevent an imminent breach of the law.
+                </p>
+
+                <p> Buniyad has taken all reasonable steps to ensure that all the information on this website is authentic. Users are advised to research independently the credential of the advertisers provided on this website. Buniyad shall not have any responsibility in this regard. We also recommend that you visit
+                    link to User Agreement for more comprehensive information on this aspect.
+                </p>
+
+                <p> Buniyad has implemented and uses Display Advertising. Buniyad is using Remarketing with Google Analytics to advertise online. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager. Third-party vendors, including Google,
+                    show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our
+                    website.</p>
+            </div>
+
+        </div>
+    </section>
+            <section class="footer">
+            <div class="container">
+        <div class="col-lg-3 col-md-4 col-sm-6 hidden-xs">
+            <h4>ABOUT BUNIYAD</h4>
+            <p>BUNIYAD is a thorough leader in retail and personal real estate ownership. We provide professional services for buying, selling, leasing and renting of commercial, industrial, institutional, retail and residential properties. Corporate Leasing is another feather in the cap of Buniyad. We also provide assistance in documentation, investment advisory function and property valuation.</p>
+            <div class="btn btn-footer btn-outline text-uppercase" data-toggle="modal" data-target=".bs-feedback-modal-lg"> send us a message </div>
+        </div>
+        <div class="col-lg-1 col-md-0 col-sm-6 col-xs-12">
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 hidden-xs">
+            <h4 class="xs-text-center">PROJECTS IN INDIA</h4>
+            <ul class="double-col">
+                                                        <li>
+                        <a href="/residential-property/delhi.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Delhi Properties">
+                                Properties in Delhi
+                            </span>
+                        </a>
+                    </li>
+                                                        <li>
+                        <a href="/residential-property/greater-noida.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Greater Noida Properties">
+                                Properties in Greater Noida
+                            </span>
+                        </a>
+                    </li>
+                                                        <li>
+                        <a href="/residential-property/noida.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Noida Properties">
+                                Properties in Noida
+                            </span>
+                        </a>
+                    </li>
+                                                        <li>
+                        <a href="/residential-property/gurgaon.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Gurgaon Properties">
+                                Properties in Gurgaon
+                            </span>
+                        </a>
+                    </li>
+                                                        <li>
+                        <a href="/residential-property/bangalore.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Bangalore Properties">
+                                Properties in Bangalore
+                            </span>
+                        </a>
+                    </li>
+                                                        <li>
+                        <a href="/residential-property/mumbai.html" target="_self">
+                            <span class="inline-block nameBlock text-trim" title="Mumbai Properties">
+                                Properties in Mumbai
+                            </span>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="http://blog.buniyad.com/" target="_self">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/blog.png" class="gray" alt="blog" title="blog">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/blog_c.png" class="color" alt="blog" title="blog"> BLOG</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="/news-facts.html" target="_self">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/news_facts.png" class="gray" alt="new &amp; facts" title="news &amp; facts">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/news_facts_c.png" class="color" alt="new &amp; facts" title="news &amp; facts"> NEWS &amp; FACTS</a>
+                </div>
+            </div>
+            <div class="row ">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="http://careers.buniyad.com" target="_self">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/careers.png" class="gray" alt="Careers" title="careers">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/careers_c.png" class="color" alt="Careers" title="careers"> CAREERS
+                    </a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="" data-toggle="modal" data-target=".bs-feedback-modal-lg">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/feedback.png" class="gray" alt="feedback" title="feedback">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/feedback_c.png" class="color" alt="feedback" title="feedback"> FEEDBACK
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="/privacy-policy.html" target="_self">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/privacy_policy.png" class="gray" alt="privacy policy" title="privacy policy">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/privacy_policy_c.png" class="color" alt="privacy policy" title="privacy policy"> PRIVACY POLICY
+                    </a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 block-link">
+                    <a href="/terms-and-condition.html" target="_self">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/terms_conditions.png" class="gray" alt="terms and conditions">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/terms_conditions_c.png" class="color" alt="terms and conditions"> TERMS AND CONDITIONS
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyrights">
+        <div class="container">
+            <span class="pull-left">©2015-16, Buniyad Real Estate Services</span>
+            <div class="social-links pull-right">
+                                <a href="https://www.facebook.com/Buniyad.RealEstate" target="_blank" title="Facebook">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/fb_g.png" alt="Facebook" title="Facebook" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/fb.png" alt="Facebook" title="Facebook" class="color">
+                    </span>
+                </a>
+                                                <a href="https://twitter.com/buniyaddotcom" target="_blank" title="Twitter">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/twtr_g.png" alt="Twitter" title="Twitter" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/twtr.png" alt="Twitter" title="Twitter" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.linkedin.com/company/buniyad-real-estate-services" target="_blank" title="Linked In">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/link_g.png" alt="Linked In" title="Linked In" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/link.png" alt="Linked In" title="Linked In" class="color">
+                    </span>
+                </a>
+                                                <a href="https://plus.google.com/u/0/+Buniyadrealestate/posts" target="_blank" title="Google Plus">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/gplus_g.png" alt="Google Plus" title="Google Plus" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/gplus.png" alt="Google Plus" title="Google Plus" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.youtube.com/user/webbuniyad" target="_blank" title="You Tube">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/utube_g.png" alt="Youtube" title="Youtube" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/utube.png" alt="Youtube" title="Youtube" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.pinterest.com/buniyaddotcom/" target="_blank" title="Pinterest">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pin_g.png" alt="Pinterest" title="Pinterest" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pin.png" alt="Pinterest" title="Pinterest" class="color">
+                    </span>
+                </a>
+                            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</section>
+<div class="modal fade bs-login-modal-lg homeLoginDiv" tabindex="-1" role="dialog" data-easein="bounceRightIn" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="hspadding clearfix">
+                <span class="right-arrow pull-left" data-dismiss="modal"></span>
+                <a href="#"><span class="close-btn pull-right" data-dismiss="modal"></span></a>
+            </div>
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-3 col-xs-12 gray-logo">
+                        <div class="gray-logo-padding hidden-sm hidden-xs"></div>
+                        <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/buniyad_new_bg.jpg" alt="logo">
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 hpadding gray-logo-box">
+                                                <form id="loginform" class="form-horizontal" role="form" action="/login_check" method="post">
+                            <div class="form-group row">
+                                <div class="input-group">
+                                        <span class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/user.png" alt="user icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </span>
+                                                                        <input type="text" class="form-control" id="username" name="_username" placeholder="Email Address" required="">
+                                </div>
+                                <div class="input-group">
+                                    <div class="input-group-addon">
+                                        <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pw.png" alt="password icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                    </div>
+                                                                        <input type="password" class="form-control" id="password" name="_password" placeholder="Password" required="">
+                                </div>
+                                <div class="hpadding">
+                                    <div class="checkbox">
+                                        <label>
+                                            <input id="login-remember" type="checkbox" name="remember" value="1"> Remember me
+                                        </label>
+                                        <a href="#" class="pull-right" data-toggle="modal" data-target="#forgot-password" id="forgot-password-trigger">Forgot Password?</a>
+                                    </div>
+                                </div>
+                                <div class="hpadding">
+                                    <button type="submit" class="btn btn-green">Login</button>
+                                                                    </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 hpadding">
+                        <div class="row">
+                            <div class="hpadding text-center">
+                                Don't have a Buniyad account?<a href="#" class="signup-modal-link">Sign Up Here</a>
+                            </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-                                             </li>
-                                             <li>
-                                             	<div class="label">Buyer/Seller:</div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv">
-                                                  	<select id="00NU0000002OFzO" name="00NU0000002OFzO" title="Buyer/Seller"><option value="">--None--</option><option value="Buyer">Buyer</option>
-<option value="Seller">Seller</option>
-</select>
-                                                  </div>
-                                             </li>
-											 <li>
-                                             	<div class="label">Query<span class="redText">*</span></div>
-                                                  <div class="colon">:</div>
-                                                  <div class="textboxDiv"><textarea cols="10" rows="2" name="description" id="description" style="border:solid 1px #cccccc; padding:7px 5px;width:140px; height:30px;"></textarea></div>
-                                             </li>
-                                             <li class="last">
-                                             	<div class="label">&nbsp;</div>
-                                                  <div class="textboxDiv"><div class="orangeBtnDiv">
-												  	<input type="submit" value="Submit" class="submitBtn">
-													</div></div>
-                                             </li>
-                                             
-                                        </ul>
-										
-
+<div class="modal fade" id="forgot-password" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">Enter your username</h4>
+            </div>
+            <form id="forgotPasswordForm" action="/forgotpassword" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <input type="email" name="email" class="form-control" id="forgotPasswordEmail" placeholder="Email ID">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                                        <button type="submit" class="btn btn-green">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="modal fade bs-signup-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="hspadding clearfix">
+                <span class="right-arrow pull-left signup-modal-link_back"></span>
+                <a href="#"><span class="close-btn pull-right" data-dismiss="modal"></span></a>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-3 col-xs-12 gray-logo">
+                        <div class="gray-logo-padding hidden-sm hidden-xs"></div>
+                        <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/logo.png" alt="logo">
+                    </div>
+                    <div class="col-lg-8 col-md-9 col-xs-12">
+                        <div class="col-xs-12">All the fields are compulsory.</div>
+                        <form id="signupform" class="form-horizontal" role="form" method="post" action="/register.html">
+                            <div class="col-sm-6 col-xs-12 hpadding">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/user.png" alt="user icon">&nbsp;&nbsp;&nbsp;&nbsp;
                                         </div>
+                                                                                <input type="text" id="form_firstName" name="form[firstName]" required="required" class="form-control" placeholder="Firstname">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/user.png" alt="user icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                                                                <input type="text" id="form_lastName" name="form[lastName]" required="required" class="form-control" placeholder="Lastname">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/email.png" alt="email icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                                                                <input type="email" id="form_username" name="form[username]" required="required" class="form-control" placeholder="Email ID">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/phone.png" alt="phone icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                                                                <input type="text" id="form_mobile" name="form[mobile]" required="required" class="form-control" placeholder="Mobile">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-xs-12 hpadding">
+                                <div class="left-separator row extra-left-padding">
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon">
+                                                <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pw.png" alt="password icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </div>
+                                                                                        <input type="password" id="form_password_first" name="form[password][first]" required="required" class="form-control" placeholder="Choose Password">
+                                        </div>
+                                        <div class="input-group">
+                                            <div class="input-group-addon">
+                                                                                                <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pw.png" alt="password icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </div>
+                                                                                        <input type="password" id="form_password_second" name="form[password][second]" required="required" class="form-control" placeholder="Repeat Password">
+                                        </div>
+                                        <div class="">
+                                            <div class="checkbox">
+                                                <input id="signup-terms" type="checkbox" name="signupTerms" value="1">
+                                                <label for="signup-terms">I agree to Buniyad's
+                                                    <a href="/termsandcondition" target="_blank" class="pull-right"> Terms and Conditions.</a>
+                                                </label>
+                                                <div class="terms-error">Please check the terms and condition</div>
+                                            </div>
+                                        </div>
+                                        <div class="hpadding">
+                                                                                        <input type="hidden" id="form__token" name="form[_token]" value="gcHi-9N6_5k4wqLyetFbXj2XQZ3H6cgHgTVIWmhF0CE">
+                                            <button type="submit" class="btn btn-purple">SIGNUP</button>
+                                        </div>
+                                        <div class="text-center">
+                                            Already have a Buniyad account? <a href="#" class="login-modal-link">Login Here</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-                                        
 
-                                   </div>
 
-                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+<div class="modal fade bs-feedback-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="hspadding clearfix">
+                <span class="right-arrow pull-left"></span>
+                <a href="#"><span class="close-btn pull-right" data-dismiss="modal"></span></a>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <strong>FEEDBACK</strong>
+                    <form id="feedbackform" role="form" method="post" action="/sendFeedback">
 
-                              </div></form>
-							  <!-- REQUIREMENT BLOCK end -->
-                         
-											 
-						  
-                              <div class="block blockTopGap"><a href="http://www.buniyad.com/invest-indian-estate.html"><img src="http://www.buniyad.com/images/invest-indian-estate.jpg" alt="" border="0"></a></div>
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="col-xs-12">
+                                <div class="form-group">
+                                    <div class="input-group first-input">
+                                        <span class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/redheart.png" alt="red heart">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </span>
+                                        <select class="form-control" name="compliment">
+                                            <option value="Compliment">Compliment</option>
+                                            <option value="Highly Satisfied">Highly Satisfied</option>
+                                            <option value="Satisfied">Satisfied</option>
+                                            <option value="Unsatisfied">Unsatisfied</option>
+                                        </select>
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/user.png" alt="user icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                        <input type="text" class="form-control" name="name" placeholder="Full Name">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/email.png" alt="email icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                        <input type="text" class="form-control" name="email" placeholder="Email Address">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
-                              <div class="rightBlockSmall blockTopGap"><!-- SOCIAL BLOCK start -->
-                                   <div class="block">
-<ul class="socialLinks">
-		<li class="facebook"><a href="http://www.facebook.com/Buniyad.RealEstate" target="_blank">Facebook</a></li>
-		 <li class="linkedIn"><a href="http://www.linkedin.com/" target="_blank">LinkedIn</a></li>
-		 <li class="twitter"><a href="http://twitter.com/" target="_blank">Twitter</a></li>
-		 <li class="youtube"><a href="http://www.youtube.com/" target="_blank">Youtube</a></li>
-	</ul>
-</div>                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-                              </div><!-- SOCIAL BLOCK end -->
-                              
-                              <div class="rightBlock blockTopGap"><!-- LATEST NEWS BLOCK start -->
-                              	<h5>Latest News</h5>
-                                   <div class="block newsBlock">
-								   
-								   			
-									<div class="right-white-box">
-Grahapravesham 2012" India's leading property event kicks off in Coimbatore<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120612122348.htm" target="_blank">more..</a><br><br>Sahara introduces 10 lifestyle township projects; another 58 projects to be introduced within FY 2012-13<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120611122234.htm" target="_blank">more..</a><br><br>HDFC RED Launches Its Services In Vadodara<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120608122073.htm" target="_blank">more..</a><br><br>Paharpur Business Centre celebrates World Environment Day to spread awareness on climate change<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120605121802.htm" target="_blank">more..</a><br><br>KG Foundations widens its presence in the city<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120604121654.htm" target="_blank">more..</a><br><br>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="form-group friendDetail">
+                                <div>
+                                    <label>Subject:</label>
+                                    <div class="plain-input input-group">
+                                        <input type="text" class="form-control" name="subject" placeholder="">
+                                    </div>
+                                </div>
+                                <label>Comments:</label>
+                                <div class="input-group plain-textarea">
+                                    <textarea class="form-control" rows="3" name="comments"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                                        <div class="hpadding">
+                                <input type="text" name="formInputClass" class="formInputClass">
+                                <br><br><br><br><br><br>
+                                <button type="submit" class="btn btn-purple">Send Feedback</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade bs-recommend-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="hspadding clearfix">
+                <span class="right-arrow pull-left"></span>
+                <a href="#"><span class="close-btn pull-right" data-dismiss="modal"></span></a>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <form id="recommendform" role="form" method="get" action="/recommendFriends">
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="col-xs-12">
+                                <div class="form-group">
+                                    <strong>About You</strong>
+                                    <label>&nbsp;</label>
+                                    <div class="input-group top20margin">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/user.png" alt="user icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                        <input type="text" class="form-control" name="name" placeholder="Full Name">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/email.png" alt="email icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                        <input type="text" class="form-control" name="email" placeholder="Email Address">
+                                    </div>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <img src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/phone.png" alt="phone icon">&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </div>
+                                        <input type="text" class="form-control" name="mobile" placeholder="Phone Number">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-xs-12">
+                                <div class="form-group">
+                                    <strong>Friends Details</strong>
+                                    <div class="friendDetail">
+                                        <label>Friends Email(s):</label>
+                                        <input type="text" class="form-control" name="friendsEmails" placeholder="">
+                                        <div>(Please enter comma separated entries.)</div>
+                                        <label>Description:</label>
+                                        <textarea class="form-control" rows="2" name="description"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hpadding top10margin">
+                                                        <div class="">
+                                <div class="checkbox">
+                                    <label>
+                                        <input id="recommend-terms" type="checkbox" name="recommendTerms" value="1"> I hereby agree that all the information provided by me is correct.
+                                    </label>
+                                </div>
+                            </div>
+                            <br><br><br><br>
+                            <div class="hpadding">
+                                <input type="text" name="formInputClass" class="formInputClass">
+                                <button type="submit" class="btn btn-purple">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-									</div>	
-										
-                                   </div>
-                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-                              </div>
 
-                              
-                             
-							 <!----------- BANNER BLOCK START ------------->
-							 
-							  <div class="block blockTopGap homeLoanBanner">
-                              	<img src="http://www.buniyad.com/images/home-loan-banner.jpg" alt="" border="0" usemap="#Map">
-                                   <map name="Map" id="Map">
-                                        <area shape="rect" coords="33,175,197,201" href="http://www.buniyad.com/home-loan.html" alt="">
-                                   </map>
-                              </div>
-							  <!----------- BANNER BLOCK END ------------->
-                              
-							 
-							 
-							 
-							 <!----------- NEWSLETTER BLOCK start ------------->		  
-							  
-							  <div class="rightBlock blockTopGap">
-                              	<h5>Newsletter Sign Up</h5>
-                                   <div class="block newsLetter">
-                                        <ul class="formList">
-                                        	<li>
-                                                <div class="textboxDivSmall">
-													<input type="text" id="RightNewsletterEmail" name="RightNewsletterEmail" onfocus="if(this.value=='Enter your email-id') this.value='';" onblur="if(this.value=='') this.value='Enter your email-id';" value="Enter your email-id" class="textBox">
-												</div>
-                                                <div class="cyanBtnDiv">
-												  	<input type="button" value="Subscribe" class="submitBtn" onclick="RightNewsletterFormValidation()">
-												</div>                                                  
-                                             </li>
-                                        </ul>
-                                   </div>
-                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-                              </div>
-							  
-							  <!---------- NEWSLETTER BLOCK end -------->
-                              
-                              
-							 
-							<!-- TESTIMONIAL BLOCK start -->
-							 <div class="rightBlock blockTopGap">
-                              	<h5>Testimonials</h5>
-                                   <div class="block testimonialBlock">							 
-							   																	<p>										
-									
-								"Buniyad" is the best organization for me and my company to establish my own office in the area of Delhi for new market between Germany and India. </p>
-								<p class="boldText">Mr. BERNARD KOLECKO(TRANS CONTI LOGISTICS)</p>
-								<div class="orangeLink"><a href="http://www.buniyad.com/testimonials.html">view all</a></div>								
-																
-								 </div>
-							   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-						  </div>
-						  <!-- TESTIMONIAL BLOCK end -->
-						  
-							  
-                              
-                         </div><!-- RIGHT DIV end -->
-                         <div class="clear"><img src="images/spacer.gif" alt=""></div>
-                    </div><!-- CONTENT end -->
-               </div><!-- BODY CONTENT end -->
-			   
-              <!-- FOOTER start -->
-			   <div id="footer">	
-		<div class="locationDiv">
-			 <div class="rowDiv">
-				
-				  
-				  <div class="col">
-					<h6>Buy Apartments</h6>
-					  <ul class="locations">   
-					  <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Apartments In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Apartments In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Apartments In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Apartments In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Apartments In Delhi</a></li>			   
-					  </ul>
-				 </div>
-				 <div class="col">
-					<h6>Flats</h6>
-					  <ul class="locations">				   
-						   <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Flats In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Flats In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Flats In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Flats In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Flats In Delhi</a></li>	
-						   
-					  </ul>
-				 </div>
-				 <div class="col">
-					<h6>Plots</h6>
-					  <ul class="locations">				   
-						   <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Plots In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Plots In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Plots In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Plots In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Plots In Delhi</a></li>				   
-					  </ul>
-				 </div>
-				 
- 
-							 
- 
- 
-			 </div>
-			 <div class="rowDiv">
-			 <div class="label">Real Estate in India :- </div>
-				  <ul class="locations">
-					  <li><a href="http://www.buniyad.com/retail/property/noida/index.html">Noida</a></li><li> | </li>
-					  <li><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Gurgaon</a></li><li> | </li>
-					  <li><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Mumbai</a></li><li> | </li>
-					  <li><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Greater Noida</a></li><li> | </li>
-					  <li><a href="http://www.buniyad.com/retail/property/delhi/index.html">Delhi</a></li>		
-				  </ul>
-			 <div class="footerImage">
-				<ul>
-					<li><img src="http://www.buniyad.com/images/ifcci.png" alt="" border="0"></li>
-					<li><img src="http://www.buniyad.com/images/iacc.png" alt="" border="0"></li>
-					<li><img src="http://www.buniyad.com/images/cii.png" alt="" border="0"></li>
-					<li><img src="http://www.buniyad.com/images/naredco.png" alt="" border="0"></li>					
-					<li><img src="http://www.buniyad.com/images/footer-image-01.gif" alt="" border="0"></li>
-					   <li><img src="http://www.buniyad.com/images/footer-image-02.gif" alt="" border="0"></li>
-					   <li><img src="http://www.buniyad.com/images/footer-image-03.gif" alt="" border="0"></li>
-					   <li><img src="http://www.buniyad.com/images/footer-image-04.gif" alt="" border="0"></li>
-				  </ul>                         
-			 </div>
-			 </div>
-			 <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-		</div>
-   </div>
+            <div class="off-menu-overlay"></div>
+        </div>
+        </div>
+    </div>
+    <div class="off-menu">
+    <div class="off-menu-list-box">
+        <ul class="off-menu-list text-uppercase">
+            <li>
+                <a href="/" target="_self">
+                    <span class="icons">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/home-color.png" alt="Home" title="Home" class="color">
+                        <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/home.png" alt="Home" title="Home" class="gray">
+                    </span>
+                    <span>home</span>
+                </a>
+            </li>
+            <li>
+                <a href="/about-us.html" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/user-color.png" alt="About Us" title="About Us" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/user.png" alt="About Us" title="About Us" class="gray">
+                </span>
+                    <span>about us</span></a>
+            </li>
+            <li>
+                <a href="/#mobile-app" target="_self" class="to-download-app">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/phone-color.png" alt="Download App" title="Download App" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/phone.png" alt="Download App" title="Download App" class="gray">
+                </span>
+                    <span>download app</span></a>
+            </li>
+            <li>
+                <a href="http://blog.buniyad.com/" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/blog-color.png" alt="Blog" title="Blog" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/blog.png" alt="Blog" title="Blog" class="gray">
+                </span>
+                    <span>blog</span></a>
+            </li>
+            <li>
+                <a href="/news-facts.html" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/news-color.png" alt="News and Facts" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/news.png" alt="News and Facts" class="gray">
+                </span>
+                    <span>news &amp; facts</span></a>
+            </li>
+            <li>
+                <a href="http://careers.buniyad.com" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/careers-color.png" alt="Careers" title="Careers" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/careers.png" alt="Careers" title="Careers" class="gray">
+                </span>
+                    <span>careers</span></a>
+            </li>
+            <li>
+                <a href="" class="feedback-modal-open">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/feedback-color.png" alt="Feedback" title="Feedback" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/feedback.png" alt="Feedback" title="Feedback" class="gray">
+                </span>
+                    <span>feedback</span></a>
+            </li>
+            <li>
+                <a href="/privacy-policy.html" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/privacy-color.png" alt="Privacy Policy" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/privacy.png" alt="Privacy Policy" class="gray">
+                </span>
+                    <span>privacy policy</span></a>
+            </li>
+            <li>
+                <a href="/terms-and-condition.html" target="_self">
+                <span class="icons">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/terms-color.png" alt="Terms and Conditions" title="Terms and Conditions" class="color">
+                    <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/off-menu/terms.png" alt="Terms and Conditions" title="Terms and Conditions" class="gray">
+                </span>
+                    <span>terms and conditions</span></a>
+            </li>
+        </ul>
+    </div>
+    <div class="off-menu-bottom">
+        <div class="off-menu-mailto">
+            <div>Need any help</div>
+            <div class="mailto"><a href="mailto:support@buniyad.com"><i class="glyphicon glyphicon-envelope"></i> support@buniyad.com</a></div>
+        </div>
+        <div class="off-menu-sns">
+            <div class="social-links">
+                                <a href="https://www.facebook.com/Buniyad.RealEstate" target="_blank" title="Facebook">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/fb_g.png" alt="Facebook" title="Facebook" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/fb.png" alt="Facebook" title="Facebook" class="color">
+                    </span>
+                </a>
+                                                <a href="https://twitter.com/buniyaddotcom" target="_blank" title="Twitter">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/twtr_g.png" alt="Twitter" title="Twitter" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/twtr.png" alt="Twitter" title="Twitter" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.linkedin.com/company/buniyad-real-estate-services" target="_blank" title="Linked In">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/link_g.png" alt="Linked In" title="Linked In" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/link.png" alt="Linked In" title="Linked In" class="color">
+                    </span>
+                </a>
+                                                <a href="https://plus.google.com/u/0/+Buniyadrealestate/posts" target="_blank" title="Google Plus">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/gplus_g.png" alt="Google Plus" title="Google Plus" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/gplus.png" alt="Google Plus" title="Google Plus" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.youtube.com/user/webbuniyad" target="_blank" title="You Tube">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/utube_g.png" alt="Youtube" title="Youtube" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/utube.png" alt="Youtube" title="Youtube" class="color">
+                    </span>
+                </a>
+                                                <a href="https://www.pinterest.com/buniyaddotcom/" target="_blank" title="Pinterest">
+                    <span class="sl">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pin_g.png" alt="Pinterest" title="Pinterest" class="gray">
+                            <img data-src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/images/pin.png" alt="Pinterest" title="Pinterest" class="color">
+                    </span>
+                </a>
+                            </div>
+        </div>
+    </div>
+</div>
 
-   <div class="bottomDiv"><!-- BOTTOM DIV start -->
-   <ul class="footerLinks">
-			<li><a href="http://www.buniyad.com/">Home</a></li>
-			 <li>|</li>
-			 <li><a href="http://www.buniyad.com/about.html">About Us</a></li>
-			 <li>|</li>
-			 <li><a href="http://www.buniyad.com/privacy-policy.html">Privacy Policy</a></li>
-			 <li>|</li>
-			 <li><a href="http://www.buniyad.com/disclaimer.html">Disclaimer</a></li>
-			 <li>|</li>
-			 <li><a href="http://www.buniyad.com/contact.html">Contact Us</a></li>
-						 
-	  </ul>
-		<div class="rowDiv">
-		<div class="copyRight">© Copyright 2011-12, Buniyad Real Estate Services, All Rights Reserved.</div>
-		
-		</div>
-		<div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
-   </div>			   <!-- FOOTER end -->
-   <!-- BOTTOM DIV end -->							
-               
-          </div><!-- WRAPPER DIV end -->
-          <div class="clear"><img src="images/spacer.gif" alt=""></div>
-     </div>
-<script type="text/javascript"> 
-updateClock(); // initial call
-</script>
 
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/underscore-min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/bootstrap.min.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/jquery.easing.min.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/moment.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/angular.min.js"></script>
+                    <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/angular-local-storage.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/ui-bootstrap-tpls-0.12.1.min.js"></script>
+                    <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/loading-bar.js"></script>
+                            <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/angular-sanitize.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/angular-select.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/ng-infinite-scroll.min.js"></script>
+
+        <!-- Script for generating Google Map -->
+
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=geometry,places"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/angular-google-maps.min.js"></script>
+                    <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/commonAngular.js"></script>
+                            <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/custom.filters.js"></script>
+                            <script>
+        var TWIG = TWIG || {};
+        TWIG.general_data = '/generalData';
+        TWIG.thank_you_render = '/thank-you';
+        TWIG.property_search_typeahead_field_data = '/propertySearchTypeaheadFieldData';
+        TWIG.property_listing_render = '/property-search';
+        TWIG.property_detail_enquire_for_more_details = '/propertyDetailEnquireForMoreDetails';
+        TWIG.project_detail_enquire_for_more_details = '/projectDetailEnquireForMoreDetails';
+    </script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/GeneralController.js"></script>
+        <script type="text/javascript">
+        $(window).scroll(function() {
+            $(".footer img").each(function(){
+                var imgSrc = $(this).attr('data-src');
+                $(this).attr('src',imgSrc);
+            });
+        });
+
+        $('.off-canvas-open').click(function(){
+            $(".off-menu img").each(function(){
+                var imgSrc = $(this).attr('data-src');
+                $(this).attr('src',imgSrc);
+            });
+        });
+    </script>
+
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+                    <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/ie10-viewport-bug-workaround.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/sweet-alert.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/velocity.min.js"></script>
+        <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/velocity.ui.min.js"></script>
+                <script type="text/javascript" src="https://d2ani3uksvp2ht.cloudfront.net/assets-50/js/compiled/main.js"></script>
+                
+        <!-- FOUC Fix -->
+        <script type="text/javascript">
+            document.body.style.display = "block";
+        </script>
+        <!-- FOUC Fix -->
+
+    <!-- Google Code for Remarketing Tag -->
+    <!--
+    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+    -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 998527238;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/998527238/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+    
 
 </body></html>
