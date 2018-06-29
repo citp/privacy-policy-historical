@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2017-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609025214id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630003356id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="https://ln.is/dhsync-pull?callback=jQuery11130038924116212098125_1580481966836&amp;_=1580481966837"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20190821145633/https://ssl.google-analytics.com/ga.js"></script>
+<!DOCTYPE html><html><head>
 <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon_57x57.png" sizes="57x57">
 <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon_60x60.png" sizes="60x60">
 <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon_72x72.png" sizes="72x72">
@@ -30,7 +30,7 @@
 <meta name="title" content="Privacy policy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy policy for service users - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/css/settings.css?v=6fe9" media="all" rel="stylesheet" type="text/css">
+<link href="/css/settings.css?v=ec54" media="all" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script>
     var LNG = {};
     LNG['index.button.Save']    = 'Save';
@@ -86,6 +86,12 @@
             var url = "http://stat.linkis.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
             var im = new Image();
             im.src = url;
+        }
+    }
+
+    function mixpanelHit(event) {
+        if (event) {
+            mixpanel.track(event);
         }
     }
 
@@ -205,7 +211,7 @@ window.NL_APP_DATA = {
         notification_enabled: 'notification_enabled'
     },
     show_welcome_popup: 0,
-
+    show_ridder_welcome_popup: 0,
         
     show_comeback_popup: 0,
     stat_id: null,
@@ -222,7 +228,10 @@ window.NL_APP_DATA = {
     isMobile: 0,
     dhSyncEnabled: 1,
     dhSyncHost: 'ln.is',
-    dhSyncCookies: ["LNSESS","t6_show_auth_popup","dg-fill-email-remind-later"]};
+    dhSyncCookies: ["LNSESS","t6_show_auth_popup","dg-fill-email-remind-later"],
+    showRestoreAccPopup: 0,
+    showRestoreAccSuccessPopup: 0,
+    ridderDomain: "ridder.co"};
 
 window.onerror = function(msg, url, line, col, error_obj)
 {
@@ -275,21 +284,24 @@ window.onerror = function(msg, url, line, col, error_obj)
 <!-- /Yandex.Metrika counter -->
 
 </head>
-<body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="settings lang-en app_tools_placeholder app_tools_popup app_header app_restore_acc">
+<body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="settings lang-en">
 
 
 
 <div class="common">
-    <div class="confirmationBar confirmationBar_suspention js-suspention">
+            <div class="confirmationBar confirmationBar_ridder js-ridder-notification">
     <div class="confirmationBar-inner">
-        <a href="http://blog.linkis.com/2017/06/02/we-need-you-to-help-to-get-linkis-back-to-work/" target="_blank"><img src="/images/suspention-block-cat@2x.png" alt="Help us" class="confirmationBar-pic"></a>
+        <a href="http://blog.linkis.com/2017/10/12/linkis-has-become-ridder/" target="_blank" class="js-ridder-read-more-link" data-type="img">
+            <img src="/images/ridder/ridder-redirect-block@2x.png" alt="Help us" class="confirmationBar-pic">
+        </a>
         <div class="inner-content">
-            <h2>Linkis got suspended and requires your&nbsp;help</h2>
-            <p>Dear friends. Since 12 of May 2017 Linkis is being suspended due to some misunderstanding. Now we need your help to get it back online. We believe that with your help we can restore its usual flow.</p>
-            <a href="http://blog.linkis.com/2017/06/02/we-need-you-to-help-to-get-linkis-back-to-work/" target="_blank" class="button button_blue">How to help Linkis</a>
+            <h2>Linkis has become Ridder</h2>
+            <p>We’d like to inform you that Linkis was acquired by Ridder in order to renew its operations. You can resume working with your links through <a href="http://ridder.co" target="_blank">Ridder</a> toolset the way you used to.</p>
+            <a href="http://blog.linkis.com/2017/10/12/linkis-has-become-ridder/" target="_blank" class="button button_blue js-ridder-read-more-link" data-type="link">Read more</a>
+            <a href="javascript:void(0);" class="confirmationBar-close icon-close js-close"></a>
         </div>
     </div>
-</div>
+</div>    
     
     
 
@@ -322,7 +334,6 @@ window.onerror = function(msg, url, line, col, error_obj)
 </div>
 
 
-
         <a href="#" class="button button_blue icon-twitter header-signup js-btn-signin-tw js-top-link-login js-main-page-login" data-type="header" data-src="secondary page">Sign in <span class="signup-desktoponly">via Twitter</span></a>
     </div>
 </div>
@@ -337,13 +348,13 @@ window.onerror = function(msg, url, line, col, error_obj)
                 <p>Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Website, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.</p>
 
                 <h3>Information Collected Upon Registration</h3>
-                <p>If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Twitter account. While registering your account, we automatically fetch your username, bio and profile photo from Twitter to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with. </p>
+                <p>If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Facebook account. While registering your account, we automatically fetch your username, bio and full Facebook profile to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with.</p>
 
                 <h3>Use of Contact Information</h3>
                 <p>We don’t share your contact and personal information with third parties. We may use it to provide you with information about our products and services, including but not limited to our Service.</p>
 
                 <h3>Log Data</h3>
-                <p>When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.</p>
+                <p>When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.</p>
 
                 <h3>Cookies</h3>
                 <p>Like many websites, we also use cookie technology to collect additional Website usage data and to improve the Website and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Linkis may use both session cookies and persistent cookies to better understand how you interact with the Website and our Service, to monitor aggregate usage by our users and web traffic routing on the Website, and to improve the Website and our services. A session cookie enables certain features of the Website and our service and is deleted from your computer when you disconnect from or leave the Website. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</p>
@@ -373,8 +384,18 @@ window.onerror = function(msg, url, line, col, error_obj)
 </div>
 
 
-<!-- Popups Template -->
-<div class="js-popups-container popup-container modal-popup js-modal-popup-container"></div>
+
+<!-- New popups Template -->
+<div class="modal-popup js-modal-popup-container">
+    <div class="popup-overlay"></div>
+    <div class="popup-holder">
+        <a href="javascript:void(0);" class="popup-close icon-close js-popup-close-default"></a>
+
+        <div class="js-popups-container popup-container">
+                    </div>
+
+    </div>
+</div>
 
 <div class="footer" id="footer">
     <div class="footer-wrapper">
@@ -394,12 +415,12 @@ window.onerror = function(msg, url, line, col, error_obj)
             <a href="https://plus.google.com/+Linkis_com" class="social-icon icon-googleplus js-footer-google-plus" target="_blank" rel="publisher"></a>
         </div>
 
-        <div class="footer-copyright">© Copyright 2017 by Linkis.com. All rights reserved.</div>
+        <div class="footer-copyright">© Copyright 2018 by Linkis.com. All rights reserved.</div>
     </div>
 </div>
 
 
-    <script src="/js/steal/steal.production.js?prod/userpages/production.js&amp;v=6fe9"></script>
+    <script src="/js/steal/steal.production.js?prod/userpages/production.js&amp;v=ec54"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
@@ -423,6 +444,6 @@ window.onerror = function(msg, url, line, col, error_obj)
 
 
 
-
+<script type="text/javascript">var App = []</script>
 
 </body></html>
