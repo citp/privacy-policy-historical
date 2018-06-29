@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228071624id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629082558id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AT&T
 
@@ -161,6 +161,10 @@ Back to top
 ### We Want to Hear from You
 
 Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our [privacy mailbox](mailto:privacypolicy@att.com).
+
+### For Users of AT&T Business Services in Europe
+
+AT&T is committed to providing global service in compliance with all applicable law. For users of AT&T Business Services in the European Union, AT&T has [published a Privacy Notice](http://link.att.com/GDPRCustomerPrivacyNotice) to provide transparency on our data processing activities, the types of personal data we process, and the legal rights of individuals under the General Data Protection Regulation (GDPR).
 
 ### Welcome DIRECTV Customers
 
