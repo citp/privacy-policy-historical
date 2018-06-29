@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the knightfrank.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knightfrank.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/legals/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Legals | Knight Frank
+# Privacy Statement | Legals | Knight Frank
 
 * * *
 
-Updated on 06 October 2017
+Updated on 24th May 2018
 
-## Information covered by this statement
+## Knight Frank Group Privacy Statement
 
-This Privacy Statement applies to the use and processing of personal information collected and used by certain members of the Knight Frank Group. Information concerning the make-up of the Knight Frank Group can be found [ here](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/resources/knight-frank-group.pdf). Please note, this statement only applies to those Knight Frank Group members who are domiciled within the European Economic Area and [adequate countries](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/resources/adequate-countries.pdf). For information concerning the collection, use or processing of personal information by any other entities within the Knight Frank Group or any of our affiliates, business partners or suppliers (whether or not trading under the name “Knight Frank”) please contact the [relevant office](http://www.knightfrank.co.uk/contact#/offices/AtoZ) directly.
+Information covered by this Statement
 
-The phrases “Knight Frank”, “us” or “we” shall, when used herein, mean those members of the Knight Frank Group on behalf of and in respect of whom this statementis made.
+This Privacy Statement applies to the use and processing of Personal Information collected and used by certain members of the Knight Frank Group. Information concerning the make-up of the Knight Frank Group can be found [here](https://web.archive.org/resources/knight-frank-group-2.pdf) including details of which those members this statement applies to. For information concerning the collection, use or processing of Personal Information by any other entities within the Knight Frank Group or any of our affiliates, business partners or suppliers (whether or not trading under the name “Knight Frank”) please contact the relevant office directly [(Knight Frank Offices)](http://www.knightfrank.co.uk/contact#/offices/AtoZ) directly.
 
-By using Knight Frank websites and mobile applications or otherwise providing your personal information to Knight Frank, you agree to the collection, use and sharing of your information in accordance with this statement. Please read this Privacy Statement carefully and [contact us](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/contact#/) if you have any questions.
+The phrases “Knight Frank”, “us” or “we” shall, when used herein, mean those members of the Knight Frank Group on behalf of and in respect of whom this Statement is made.
+
+By using the Knight Frank websites and/or mobile applications or otherwise providing your Personal Information to Knight Frank, you agree to the collection, use and sharing of your information in accordance with this Privacy Statement. Please read this Privacy Statement carefully and [contact us](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/contact#/) if you have any questions.
 
 Personal information is information, or any combination of separate pieces of information, that could be used to identify you.
 
@@ -111,7 +113,7 @@ We from time to time may collect personal and other information for a co-promoti
 
 ### Third-party service providers
 
-We engage third-party service providers to perform a variety of business operations on our behalf. In so doing, we may share your personal information with them. We provide our service providers with only the personal information they need in order to perform the services we request, and we contractually require that they protect this information appropriately and not use it for any other purpose.
+We engage third-party service providers to perform a variety of business operations on our behalf. In so doing, we may share your Personal Information with them. We provide our service providers with only the Personal Information they need in order to perform the services we request, and we contractually require that they protect this information appropriately and not use it for any other purpose.
 
 For example, we may rely on a 3rd party service provider to:
 
@@ -124,9 +126,9 @@ For example, we may rely on a 3rd party service provider to:
 
 
 
-Where permitted by law, we combine personal information about you that Knight Frank has collected with personal information about you that a business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not be permitted to use Knight Frank data or the combined data for its own, independent marketing purposes. Our service provider will only be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or through this Privacy Statement as indicated above.
+Where permitted by law, we combine Personal Information about you that Knight Frank has collected with Personal Information about you that a business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not be permitted to use Knight Frank data or the combined data for its own, independent marketing purposes. Our service provider will only be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or through this Privacy Statement as indicated above.
 
-Please complete [this form ](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/legals/form.aspx)to receive a list of all third party service providers
+Please click [here ](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/legals/form.aspx)for how to obtain a list of Knight Frank third party service providers
 
 ### Other situations
 
@@ -155,9 +157,7 @@ You can stop receiving promotional email messages from Knight Frank by following
 
 ### Postal Mail
 
-You can stop receiving promotional postal mail from Knight Frank by following the opt-out instructions that may be included within those communications.
-
-You can also stop receiving promotional email or postal communication through this Privacy Statement.
+You can stop receiving promotional postal mail from Knight Frank by following the opt-out instructions that may be included within those communications. You can also stop receiving promotional email or postal communication through this Privacy Statement. Please click here to select your country and learn how to unsubscribe.
 
 ### Mobile Text Messages
 
@@ -165,7 +165,7 @@ We only send you promotional mobile text messages if you explicitly ask to recei
 
 ### Telephone Marketing
 
-We only send you promotional mobile text messages if you explicitly ask to receive these (you opt in). You can stop receiving promotional text messages by following the instructions to opt out provided within that text messaging program.
+We only call you if you explicitly ask us to (you opt in). You can stop receiving telephone marketing calls by either telling us when we call you, or you can call us or email [Marketing.Help@knightfrank.com](mailto:Marketing.Help@knightfrank.com%20)  to opt out.
 
 **PLEASE NOTE:** We will honour your request to stop receiving promotional email, text and postal messages from Knight Frank as practicable. However, we may continue to send you service-related communications. We may keep information for record keeping to ensure we fulfil your request not to send particular types of messages.
 
@@ -175,11 +175,11 @@ To the extent provided for by applicable law, you have certain rights in respect
 
 We take steps to keep your personal information accurate. Many Knight Frank programs provide access to view or update personal information you provided when you registered online. Check where you registered to learn if you can view or update your information there.
 
-If information access and update are not available where you registered, [ click here ](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/) to select your country and to learn how to access and/or update the personal information you provide to Knight Frank. Knight Frank does not charge for this service and responds to reasonable requests in an appropriate timeframe.
+If information access and update are not available where you registered, [ click here ](https://web.archive.org/web/20180629025901id_/http%3A//www.knightfrank.com/) to select your country and to learn how to access and/or update the personal information you provide to Knight Frank. Knight Frank does not charge for this service and responds to reasonable requests in an appropriate timeframe.
 
 ### Data Deletion
 
-You can delete your Knight Frank online account at any time. [Click here ](https://secure.knightfrank.com/?hostname=knightfrank.com&locale=en) to find out how to delete your online account.
+You can delete your Knight Frank online account at any time. [Click here to find out how to delete your online account.](https://emails.knightfrank.com/t/2N9U-15NN5-0D370F2QC1/uns.aspx)
 
 This will erase any personal information in your account that we have about you. And it will mean any data about how you’ve used the online account will be made anonymous.
 
@@ -200,8 +200,6 @@ If you consider that we have processed personal data in violation of applicable 
 Knight Frank and our third-party service providers use a variety of technologies to assess how our sites or mobile applications are used, to personalize your experience and to deliver you marketing, including online content, tailored to your interests. Some technologies we may use include the following:
 
 ### Cookies
-
-Please click [here](https://web.archive.org/web/20171216012349id_/http%3A//www.knightfrank.com/resources/knight-frank-cookies.pdf) to view our full list of website cookies
 
 A cookie is a small file placed on your device when you visit a site that can be understood by the site that issued the cookie. We use the information collected by cookies to remember who you are to log you in and your preferences, to provide you advertisements, offers or other content tailored to your interests and to assess how our sites are used. You can accept or decline cookies through your browser settings. To learn more, please look at the cookie settings available in your specific web browser(s). Please note, however, that without cookies you may not be able to use all of the features of our Sites or other websites and online services. Please click here for a list of all Knight Frank Cookies.
 
@@ -255,10 +253,12 @@ We limit access to personal information to those who have a business need. We ke
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this Privacy Statement.
 
-We have implemented a General Data Transfer Agreement, procedures and controls to help ensure that personal information is protected no matter what country it is stored in or transferred to. Please contact Knight Frank Data Protection Officer at [knightfrank_dpo@knightfrak.com ](mailto:knightfrank_dpo@knightfrak.com)for a copy of the GDTA.
+We have implemented a General Data Transfer Agreement, procedures and controls to help ensure that personal information is protected no matter what country it is stored in or transferred to. Please contact Knight Frank Data Protection Officer at [knightfrank_dpo@knightfrank.com](mailto:knightfrank_dpo@knightfrank.com%20) for a copy of the GDTA.
 
 Our Sites are not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Sites.
 
 Our Sites may provide links to other websites and apps for your convenience and information. These websites and apps may operate independently from us. Linked sites and apps may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked websites or apps are not owned or controlled by us, we are not responsible for their content, any use of the websites or apps, or the privacy practices of the websites or apps.
 
 We will post changes to this Privacy Statementand indicate the effective date when this Privacy Statement is updated. If we make any material changes to this Privacy Statement, we will notify you by sending an e-mail to the e-mail address you most recently provided us or by posting notice of the changes on this site.
+
+For further information concerning what Personal Data we hold about you, how you can access it and our use of Personal Data generally, please [email our Data Protection Officer](mailto:knightfrank_dpo@knightfrank.com "Email link").
