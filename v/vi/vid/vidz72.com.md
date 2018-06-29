@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the vidz72.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119011153id_/http%3A//www.vidz72.com/info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidz72.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629035702id_/http%3A//www.vidz72.com/info%23privacy) for the most accurate reproduction.*
 
-# info | vidz72
+# vidz72 | info
 
 Advertising on vidz72.com
 
 **How can I advertise on vidz72.com?**
 
-To advertise on vidz72.com please contact vidzxbox@yandex.ru
-
-DMCA Statement
-
-please contact dmca@vidz72.com
+To advertise on vidz72.com please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 18 USC 2257 Statement: vidz72.com
 
@@ -45,7 +41,7 @@ When you submit personally identifiable information to us through the use of cer
   * to communicate with you and respond to your inquiries; 
   * to conduct research about your use of the Website; 
   * to help offer you other products, programs, or services that may be of interest;
-  * providing information on content and services offered by us and other companies, selected by you on the basis of your personal preferences; in case you do not wish to receive this information, you can contact the customer service at support@vidz72.com
+  * providing information on content and services offered by us and other companies, selected by you on the basis of your personal preferences; in case you do not wish to receive this information, you can contact the customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * providing of data to third parties if required to do so by law or respond to a court order.
 
 
@@ -76,11 +72,11 @@ vidz72.com has implemented security policies, rules and technical measures to pr
 
 Accessing and updating your data
 
-In case you want to know which data we have recorded of which you are the data subject, or if you want to change your data, please contact our customer service at support@vidz72.com. Please note that deletion of your personally identifiable information from vidz72.com's database will not prevent tubezx from using gathered anonymous information.
+In case you want to know which data we have recorded of which you are the data subject, or if you want to change your data, please contact our customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that deletion of your personally identifiable information from vidz72.com's database will not prevent tubezx from using gathered anonymous information.
 
 Questions
 
-In case you have any further questions on this Privacy Statement or on our privacy policy, please send an email to our customer service at support@vidz72.com.
+In case you have any further questions on this Privacy Statement or on our privacy policy, please send an email to our customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Effective date last modification
 
