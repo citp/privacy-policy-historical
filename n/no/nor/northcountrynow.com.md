@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224010226id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629214102id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
 
 # NorthCountryNow.com Privacy Notice | NorthCountryNow
 
@@ -36,7 +36,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by contacting North Country This Week, P.O. Box 975, 19 Depot St., Potsdam, NY 13676 either in person, by U.S. mail, by telephone at 315-265-1000 or by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04706c6d777361616f444a6b76706c476b716a70767d4a6b732a676b69).
+You can access all your personally identifiable information that we collect online and maintain by contacting North Country This Week, P.O. Box 975, 19 Depot St., Potsdam, NY 13676 either in person, by U.S. mail, by telephone at 315-265-1000 or by e-mail at [thisweek@NorthCountryNow.com](mailto:thisweek@NorthCountryNow.com).
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -44,6 +44,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact North Country This Week, P.O. Box 975, 19 Depot St., Potsdam, NY 13676 either in person, by U.S. mail, by telephone at 315-265-1000 or by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6874756f6b7979775c72736e68747f736972686e6572736b327f7371).
+Should you have other questions or concerns about these privacy policies, please contact North Country This Week, P.O. Box 975, 19 Depot St., Potsdam, NY 13676 either in person, by U.S. mail, by telephone at 315-265-1000 or by e-mail at [thisweek@NorthCountryNow.com](mailto:thisweek@northcountrynow.com).
 
 Effective December 20, 2008
