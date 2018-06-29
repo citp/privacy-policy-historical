@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006040849id_/http%3A//tigerwoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoods.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630013325id_/http%3A//tigerwoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tiger Woods
 
