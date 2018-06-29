@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thursdaythinktank.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114070150id_/http%3A//thursdaythinktank.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thursdaythinktank.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092334id_/http%3A//thursdaythinktank.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy « Thursday
 
