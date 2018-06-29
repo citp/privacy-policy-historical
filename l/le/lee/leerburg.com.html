@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2017-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171105103321id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629150232id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -134,7 +134,7 @@ var supermodal = (function(){
    $overlay = $('<div id="supermodal-overlay" class="smOverlay"></div>');
    $modal = $('<div id="supermodal-modal" class="smModal box-size-fix">');
    $content = $('<div id="supermodal-content"></div>');
-   $close = $('<div id="supermodal-close" class="smClose"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-exMark"></use></svg></div>');
+   $close = $('<div id="supermodal-close" class="smClose"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-exMark"></use></svg></div>');
 
    $modal.hide();
    $overlay.hide();
@@ -344,7 +344,7 @@ var supermodal = (function(){
 	}
 
   // Updates the header to display the current number of items in the cart without reloading the page
-  function updateNumCartItems(){$("#items-in-cart-number").load('//leerburg.com/cart/ajax/cartActions.php?action=updateNumItemsInCart&time=04:32:38');}
+  function updateNumCartItems(){$("#items-in-cart-number").load('//leerburg.com/cart/ajax/cartActions.php?action=updateNumItemsInCart&time=10:02:25');}
 </script><script type="text/javascript">
 $(document).ready(function() {
 	// toggle search on small screens
@@ -414,7 +414,45 @@ $(document).click(function(e) {
 });
 
 
-</script><link rel="stylesheet" type="text/css" href="//leerburg.com/css/global.css?v=4.1"><script>
+</script><script type="text/javascript" src="//leerburg.com/js/jquery.bxslider.min.js"></script><script type="text/javascript"> 
+$(document).ready(function(){ 
+   
+   // every slider should have this class
+   $(".product-slider").each(function() {
+
+      // get unique ids
+      $sliderID = $(this).find('.product-list').attr('id');       // the list
+      $sliderPrev = $(this).find('.slider-prev').attr('id');      // previous arrow
+      $sliderNext = $(this).find('.slider-next').attr('id');      // next arrow
+      $sliderCircle = $(this).find('.slider-circle').attr('id');  // circle (resets slider to start)
+
+      $("#"+$sliderID).bxSlider({
+         
+         // unique ids that change slider to slider
+         pagerCustom: "#"+$sliderCircle,
+         nextSelector: "#"+$sliderNext,
+         prevSelector: "#"+$sliderPrev,
+
+         // unique icons for prev and next
+         nextText: '<span title="Next"><svg class="standard rotate90"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-caret"></use></svg></span>',
+         prevText: '<span title="Previous"><svg class="standard rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-caret"></use></svg></span>',
+
+         // standard settings for product sliders
+         auto: false,
+         speed: 500,
+         autoControls: false,
+         pager:true,
+         mode:'horizontal',
+         maxSlides:4, 
+         minSlides:1,
+         slideWidth:223, 
+         slideMargin:12,
+         infiniteLoop:false,
+         adaptiveHeight:false
+      });
+   });
+});
+</script><link rel="stylesheet" type="text/css" href="//leerburg.com/css/global.css?v=06"><script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -473,6 +511,11 @@ script written by Caitlin for header functions -->
 <!-- accordion (mobile dropdown)  -->
 
 
+<!-- ============================================================
+script written by Caitlin for global product slider functions -->
+
+
+
 <!-- for analytics, internal link tracking -->
 
 
@@ -519,7 +562,7 @@ var modalID='exit-modal-news';
 function TBC(days)
 {
 	debug("tbc "+days+" days\n");
-	$.cookie(modalID,'2017-11-05',{ expires: days, path:'/' });
+	$.cookie(modalID,'2018-06-29',{ expires: days, path:'/' });
 	supermodal.close();
 
 	return false;
@@ -605,7 +648,7 @@ function debug(stuff)
 			<div id="content-container"> 
 				<!-- for mobile -->
 				<div id="small-logo">
-					<a href="//leerburg.com?utm_campaign=header_logo-Mobile_03082017" class="full-link reset-color"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-box-wordmark"></use></svg></a>
+					<a href="//leerburg.com?utm_campaign=header_logo-Mobile_03082017" class="full-link reset-color"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-box-wordmark"></use></svg></a>
 				</div>
 
 				<!-- all screens -->
@@ -614,7 +657,7 @@ function debug(stuff)
 										<a href="https://leerburg.com/cart/login.php">Log In</a> <span class="link-spacer">|</span>
 					<a href="https://leerburg.com/cart/register.php">Sign Up</a>
 										<span class="link-spacer hide365">|</span>
-					<a href="https://leerburg.com/cart/viewwishlist.php?nav=header&amp;content=wishlist_05022017" class="hide365">Wish List</a>
+					<a href="https://leerburg.com/cart/mywishlist.php?nav=header&amp;content=wishlist_03122018" class="hide365">Wish List</a>
 				</div>
 				
 				<!-- for mobile -->
@@ -659,14 +702,14 @@ function debug(stuff)
 				<!-- Logo (desktop) -->
 				<div class="leerburg-logo">
 					<a href="//leerburg.com/index.htm?nav=header&amp;content=logoDesktop_05022017" class="full-link reset-color">
-						<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-wordmark"></use></svg>
+						<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-wordmark"></use></svg>
 					</a>
 				</div>
 
 				<!-- $5.99 Shipping Deal (desktop) -->
 				<div class="nav-ship-container">
 					<a href="//leerburg.com/coupon3.htm?nav=header&amp;content=flatRateShip_05022017" class="full-link reset-color">
-												<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-ship-deal"></use></svg>
+												<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-ship-deal"></use></svg>
 											</a>
 				</div>
 
@@ -691,8 +734,8 @@ function debug(stuff)
 				<ul id="primary-links">
 					<li id="shop-toggle" class="bright left">
 						<a class="full-link" href="#">
-							<svg id="category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-shop-panel"></use></svg>
-							<svg id="mobile-category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-shop-grid"></use></svg>
+							<svg id="category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-shop-panel"></use></svg>
+							<svg id="mobile-category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-shop-grid"></use></svg>
 							<p>SHOP</p>
 						</a>
 					</li>
@@ -713,26 +756,37 @@ function debug(stuff)
 							<svg width="22" height="22" id="spyglass">
 		                  <image xmlns:xlink="//www.w3.org/1999/xlink" xlink:href="//leerburg.com/Photos/search-results/spyglass.svg" src="//leerburg.com/Photos/search-results/spyglass.png" width="22" height="22"></image>
 		               </svg>
-							<svg class="arrow standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-arrow"></use></svg>
+							<svg class="arrow standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-arrow"></use></svg>
 						</a>
 					</li>					
 					<li id="cart-link" class="bright right">
 						<a href="https://leerburg.com/cart/viewcart.php?nav=header&amp;content=cartDesktop_05022017" class="full-link">
-							<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-cart"></use></svg>
+							<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-cart"></use></svg>
 							<p id="items-in-cart-number">CART (0)</p>
 						</a>
 					</li>
 					<li class="darkLinks" id="search-field">
 						<div id="main-search">
-							<form id="formsearch" name="formsearch" method="post" action="//leerburg.com/search/search/submitSearch">
-								<button name="Submit" title="Submit Search">Search</button><!--
-								--><span class="responsive-input"><input type="text" name="SearchTerms" value="" placeholder="Find what your dog needs..."></span>								
-							</form>
+							<form name="form-fsearch" id="form-fsearch" method="post" action="">
+                         		<button name="Submit" title="Submit Search" onclick="submitFSearch()">Search</button>
+                            	<span class="responsive-input"><input type="text" name="FSTerms" id="FSTerms" value="" placeholder="Find what your dog needs..."></span>
+                            </form>
 						</div>
 					</li>					
 				</ul> 
 				<!-- ends #primary-links -->
-
+<script>
+$(function() {
+	$("#FSTerms").keypress(function(e){ if(e.which==13){ submitFSearch(); } });
+});
+function submitFSearch()
+{
+	var terms=document.getElementById("FSTerms").value;
+	var url='https://leerburg.com/fsearch/results.php?terms='+terms;
+	
+	$("#form-fsearch").attr("action",url);
+}
+</script>
 				<!-- Main Dropdown - Desktop and Wide Screen Version; hidden by default -->
 				<div id="dropdown-wrapper">
 
@@ -760,7 +814,7 @@ function debug(stuff)
 							<li><a href="//leerburg.com/apparel.htm?nav=dropdown&amp;content=shop_05022017" id="apparel">Apparel</a></li>
 							<li><a href="//leerburg.com/sportdog.htm?nav=dropdown&amp;content=shop_05022017" id="dogSports">Dog Sports</a></li>
 							<li><a href="//leerburg.com/books.htm?nav=dropdown&amp;content=shop_05022017" id="books">Books</a></li>
-							<li><a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" id="events">Events</a></li> 
+							<li><a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" id="events">On-site Dog Training</a></li> 
 							<li><a href="//leerburg.com/new-and-sales.htm?nav=dropdown&amp;content=shop_05022017" id="newNsales">New &amp; Sales</a></li>          
 							<li><a href="//university.leerburg.com/Catalog/categories/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017" id="onlineCourses">Online Courses</a></li>
 						</ul>
@@ -769,7 +823,7 @@ function debug(stuff)
 						<div class="dropdown-category-sections" id="dvds-div">
 							
 							<!-- DVDS -->
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dvds-30.jpg">
 							</div>
 						
@@ -783,23 +837,13 @@ function debug(stuff)
 
 								<ul class="sub-categories">
 									<!-- big label/link --><li class="non-link-name">Dog Training</li>
-									<li><a href="//leerburg.com/obediencedvds.htm?nav=dropdown&amp;content=shop_05022017">Obedience Training</a></li>
-									<li><a href="//leerburg.com/ellisdvds.htm?nav=dropdown&amp;content=shop_05022017">Michael Ellis</a></li>
-									<li><a href="//leerburg.com/keatingdvds.htm?nav=dropdown&amp;content=shop_05022017">Mark Keating</a></li>
-									<li><a href="//leerburg.com/mickedvds.htm?nav=dropdown&amp;content=shop_05022017">Forrest Micke</a></li>
-									<li><a href="//leerburg.com/tyler-muto-dvds.php?nav=dropdown&amp;content=shop_05022017">Tyler Muto</a></li>									
-									<li><a href="//leerburg.com/gunndvds.htm?nav=dropdown&amp;content=shop_05022017">Janice Gunn</a></li>
+									<li><a href="//leerburg.com/obediencedvds.htm?nav=dropdown&amp;content=shop_05022017">Obedience Training</a></li>						
 									<li><a href="//leerburg.com/ecollardvds.htm?nav=dropdown&amp;content=shop_05022017">Electric Collar</a></li>
 									<li><a href="//leerburg.com/dominantdvds.htm?nav=dropdown&amp;content=shop_05022017">Dominant Dog</a></li>
 									<li><a href="//leerburg.com/manageSocialize.htm?nav=dropdown&amp;content=shop_05022017">Management &amp; Socialization</a></li>
 									<li><a href="//leerburg.com/puppydvds.htm?nav=dropdown&amp;content=shop_05022017">Puppy Training</a></li>
-								</ul>                       
-							
-                                             
-							</div>
-							<!-- end Column 1 -->
-							<!-- Column 2 -->
-							<div class="section-column">
+								</ul> 
+
 								<ul class="sub-categories">
 									<!-- big label/link --><li class="non-link-name">Dog Sports</li>
 									<li><a href="//leerburg.com/flyballdvds.htm?nav=dropdown&amp;content=shop_05022017">Flyball</a></li>	
@@ -807,6 +851,22 @@ function debug(stuff)
 									<li><a href="//leerburg.com/schutzhunddvds.htm?nav=dropdown&amp;content=shop_05022017">Schutzhund</a></li>
 									<li><a href="//leerburg.com/noseworkdvds.htm?nav=dropdown&amp;content=shop_05022017">Nosework</a></li>
 								</ul>
+                                             
+							</div>
+							<!-- end Column 1 -->
+							<!-- Column 2 -->
+							<div class="section-column">
+
+								<ul class="sub-categories">
+									<!-- big label/link --><li class="non-link-name">DVDs by Trainer</li>
+									<li><a href="//leerburg.com/ellisdvds.htm?nav=dropdown&amp;content=shop_05022017">Michael Ellis</a></li>
+									<li><a href="//leerburg.com/keatingdvds.htm?nav=dropdown&amp;content=shop_05022017">Mark Keating</a></li>
+									<li><a href="//leerburg.com/tyler-muto-dvds.php?nav=dropdown&amp;content=shop_05022017">Tyler Muto</a></li>
+									<li><a href="//leerburg.com/mickedvds.htm?nav=dropdown&amp;content=shop_05022017">Forrest Micke</a></li>
+									<li><a href="//leerburg.com/gunndvds.htm?nav=dropdown&amp;content=shop_05022017">Janice Gunn</a></li>
+								</ul>    
+
+	
 								<ul class="sub-categories">
 									<!-- big label/link --><li class="non-link-name">Working Dogs</li>
 									<li><a href="//leerburg.com/policedvds.htm?nav=dropdown&amp;content=shop_05022017">Police Service</a></li>
@@ -826,7 +886,7 @@ function debug(stuff)
 
 						<!-- Leashes -->
 						<div class="dropdown-category-sections" id="leashes-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/leashes-20.jpg">
 							</div>
 
@@ -838,7 +898,9 @@ function debug(stuff)
 							<!-- Column 1 -->
 							<div class="section-column">
 								<ul class="sub-categories">
-									<li><a href="//leerburg.com/amishleashes.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather</a></li>
+									<li><a href="//leerburg.com/amishleashes.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather Leashes</a></li>
+									<li><a href="//leerburg.com/diy-leash.php?nav=dropdown&amp;content=shop_05022017">DIY Leather Leash</a></li>
+									<li><a href="//leerburg.com/allbiothaneleashes.php?nav=dropdown&amp;content=shop_05022017">BioThane Leashes</a></li>
 									<li><a href="//leerburg.com/longlines.htm?nav=dropdown&amp;content=shop_05022017">Long Lines</a></li>
 									<li><a href="//leerburg.com/shortleash.htm?nav=dropdown&amp;content=shop_05022017">Short Leashes</a></li>
 									<li><a href="//leerburg.com/lcone.htm?nav=dropdown&amp;content=shop_05022017">Leash Collar Combos</a></li>
@@ -855,7 +917,7 @@ function debug(stuff)
 
 						<!-- Collars -->
 						<div class="dropdown-category-sections" id="collars-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/collars-20.jpg">
 							</div>
 
@@ -868,6 +930,7 @@ function debug(stuff)
 							<div class="section-column">
 								<ul class="sub-categories">
 									<li><a href="//leerburg.com/leathercollars.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather</a></li>
+									<li><a href="//leerburg.com/diy-collar.php?nav=dropdown&amp;content=shop_05022017">DIY Leather Collar</a></li>
 									<li><a href="//leerburg.com/flatcollars.htm?nav=dropdown&amp;content=shop_05022017">Flat Collars</a></li>
 									<li><a href="//leerburg.com/prongcollars.htm?nav=dropdown&amp;content=shop_05022017">Prong Collars</a></li>
 									<li><a href="//leerburg.com/keepercollars.php?nav=dropdown&amp;content=shop_05022017">Keeper Collars</a></li>
@@ -885,7 +948,7 @@ function debug(stuff)
 
 						<!-- Harnesses and Vests -->
 						<div class="dropdown-category-sections" id="HarnAndVests-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/hnv-20.jpg">
 							</div>
 
@@ -918,7 +981,7 @@ function debug(stuff)
 						
 						<!-- E-Collars -->
 						<div class="dropdown-category-sections" id="e-collars-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/ecollars-20.jpg">
 							</div>
 
@@ -945,7 +1008,7 @@ function debug(stuff)
 					
 						<!-- Muzzles -->
 						<div class="dropdown-category-sections" id="muzzles-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/muzzles-20.jpg">
 							</div>
 
@@ -971,7 +1034,7 @@ function debug(stuff)
 						
 						<!-- Toys -->
 						<div class="dropdown-category-sections" id="toys-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/toys-30.jpg">
 							</div>
 
@@ -1018,7 +1081,7 @@ function debug(stuff)
 						
 						<!-- In the Home -->
 						<div class="dropdown-category-sections" id="houseSupplies-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/inthehome-20.jpg">
 							</div>
 
@@ -1045,7 +1108,7 @@ function debug(stuff)
 
 						<!-- First Aid and Travel -->
 						<div class="dropdown-category-sections" id="first-travel-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/firstntravel-20.jpg">
 							</div>
 
@@ -1058,6 +1121,7 @@ function debug(stuff)
 							<div class="section-column">
 								<ul class="sub-categories">         
 									<li><a href="//leerburg.com/firstaid.htm?nav=dropdown&amp;content=shop_05022017">First Aid</a></li>
+									<li><a href="//leerburg.com/crate.htm?nav=dropdown&amp;content=shop_05022017">Crates</a></li>
 									<li><a href="//leerburg.com/travelaccessories.htm?nav=dropdown&amp;content=shop_05022017">Travel Accessories</a></li>
 									<li><a href="//leerburg.com/temperature.htm?nav=dropdown&amp;content=shop_05022017">Shade &amp; Temperature Control</a></li>
 									<li><a href="//leerburg.com/nighttime.htm?nav=dropdown&amp;content=shop_05022017">Night Time Safety &amp; Fun</a></li>
@@ -1069,7 +1133,7 @@ function debug(stuff)
 
 						<!-- Puppies -->
 						<div class="dropdown-category-sections" id="puppies-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/puppy-20.jpg">
 							</div>
 
@@ -1094,7 +1158,7 @@ function debug(stuff)
 
 						<!-- Obedience Training -->
 						<div class="dropdown-category-sections" id="obedTraining-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/obed-20.jpg">
 							</div>
 
@@ -1109,6 +1173,7 @@ function debug(stuff)
 									<li><a href="//leerburg.com/baitbag.htm?nav=dropdown&amp;content=shop_05022017">Bait Bags</a></li>
 									<li><a href="//leerburg.com/clickertraining.htm?nav=dropdown&amp;content=shop_05022017">Clicker Training</a></li>
 									<li><a href="//leerburg.com/bellswhistles.htm?nav=dropdown&amp;content=shop_05022017">Bells &amp; Whistles</a></li>
+									<li><a href="//leerburg.com/alldumbbells.htm?nav=dropdown&amp;content=shop_05022017">Dumbbells</a></li>
 									<li><a href="//leerburg.com/trainersvests.htm?nav=dropdown&amp;content=shop_05022017">Trainer Vests</a></li>
 								</ul>
 							</div> 
@@ -1118,7 +1183,7 @@ function debug(stuff)
 
 						<!-- Protect Sports -->
 						<div class="dropdown-category-sections" id="protectSports-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/protectsports-20.jpg">
 							</div>
 
@@ -1130,7 +1195,8 @@ function debug(stuff)
 							<!-- Column 1 -->
 							<div class="section-column">
 								<ul class="sub-categories">
-									<li><a href="//leerburg.com/bitesuits.htm?nav=dropdown&amp;content=shop_05022017">Bite Suits &amp; Scratch Pants</a></li>
+									<li><a href="//leerburg.com/bitesuits.htm?nav=dropdown&amp;content=shop_05022017">Bite Suits</a></li>
+									<li><a href="//leerburg.com/scratchpants.php?nav=dropdown&amp;content=shop_05022017">Scratch Pants</a></li>
 									<li><a href="//leerburg.com/bitesleeves.htm?nav=dropdown&amp;content=shop_05022017">Arm Sleeves</a></li>
 									<li><a href="//leerburg.com/legsleeve.htm?nav=dropdown&amp;content=shop_05022017">Leg Sleeves</a></li>
 									<li><a href="//leerburg.com/bitebars.htm?nav=dropdown&amp;content=shop_05022017">Bite Wedges</a></li>
@@ -1145,7 +1211,7 @@ function debug(stuff)
 
 						<!-- Police K9 -->
 						<div class="dropdown-category-sections" id="policeK9-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/police-20.jpg">
 							</div>
 
@@ -1175,8 +1241,8 @@ function debug(stuff)
 
 						<!-- Healthcare -->
 						<div class="dropdown-category-sections" id="healthcare-div">
-							<div>
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/healthcare-20.jpg">
+							<div class="dept-img">
+								<img src="//leerburg.com/photos/dropdown-navigation-imgs/healthcare-30.jpg">
 							</div>
 
 							<!-- ALL label/link -->
@@ -1189,26 +1255,34 @@ function debug(stuff)
 								<ul class="sub-categories">
 									<li><a href="//leerburg.com/digest.htm?nav=dropdown&amp;content=shop_05022017">Digestive Health</a></li>
 									<li><a href="//leerburg.com/fleas.htm?nav=dropdown&amp;content=shop_05022017">Flea, Fly &amp; Tick Prevention</a></li>
-									<li><a href="//leerburg.com/herbsmith.htm?nav=dropdown&amp;content=shop_05022017">Herbsmith</a></li>
+									<li><a href="//leerburg.com/dentalcare.php?nav=dropdown&amp;content=shop_05022017">Dental Care</a></li>
 									<li><a href="//leerburg.com/immune.htm?nav=dropdown&amp;content=shop_05022017">Immune System Support</a></li>
 									<li><a href="//leerburg.com/joint.htm?nav=dropdown&amp;content=shop_05022017">Joint Pain &amp; Arthritic Relief</a></li>
 									<li><a href="//leerburg.com/panocare.htm?nav=dropdown&amp;content=shop_05022017">Pano Care</a></li>
 									<li><a href="//leerburg.com/parvocare.htm?nav=dropdown&amp;content=shop_05022017">Parvovirus Care</a></li>
 									<li><a href="//leerburg.com/skin.htm?nav=dropdown&amp;content=shop_05022017">Skin &amp; Coat</a></li>
-									<li><a href="//leerburg.com/koda.htm?nav=dropdown&amp;content=shop_05022017">Koda for Dogs</a></li>
-									<li><a href="//leerburg.com/legendary-canine.php?nav=dropdown&amp;content=shop_05022017">Legendary Canine</a></li>
 									<li><a href="//leerburg.com/stress.htm?nav=dropdown&amp;content=shop_05022017">Stress Relief for Dogs</a></li>
 									<li><a href="//leerburg.com/firstaid.htm?nav=dropdown&amp;content=shop_05022017">First Aid</a></li>
-									<li><a href="//leerburg.com/workingandperf.htm?nav=dropdown&amp;content=shop_05022017">Performance Supplements</a></li>
+									<li><a href="//leerburg.com/workingandperf.htm?nav=dropdown&amp;content=shop_05022017">Performance Supplements</a></li>									
 								</ul>
 							</div> 
 							<!-- end Column 1 -->
+
+							<!-- Column 2 -->
+							<div class="section-column">
+								<ul class="sub-categories">
+									<li><a href="//leerburg.com/herbsmith.htm?nav=dropdown&amp;content=shop_05022017">Herbsmith</a></li>
+									<li><a href="//leerburg.com/koda.htm?nav=dropdown&amp;content=shop_05022017">Koda for Dogs</a></li>
+									<li><a href="//leerburg.com/legendary-canine.php?nav=dropdown&amp;content=shop_05022017">Legendary Canine</a></li>									
+								</ul>
+							</div> 
+							<!-- end Column 2 -->
 						</div> 
 						<!-- ends Healthcare -->
 
 						<!-- Dog Food -->
 						<div class="dropdown-category-sections" id="dogFood-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogfood-20.jpg">
 							</div>
 							
@@ -1220,9 +1294,12 @@ function debug(stuff)
 							<!-- Column 1 -->
 							<div class="section-column">
 								<ul class="sub-categories">
-									<li><a href="//leerburg.com/rawfood.php?nav=dropdown&amp;content=shop_05022017">Raw Food</a></li>
+									
 									<li><a href="//leerburg.com/kibble.php?nav=dropdown&amp;content=shop_05022017">Kibble</a></li>
 									<li><a href="//leerburg.com/meatrolls.htm?nav=dropdown&amp;content=shop_05022017?nav=dropdown&amp;content=shop_05022017">Meat Rolls</a></li>
+
+									<li><a href="//leerburg.com/rawfood.php?nav=dropdown&amp;content=shop_05022017">Raw Food</a></li>
+									<li><a href="//leerburg.com/grainfreefood.php?nav=dropdown&amp;content=shop_05022017">Grain Free Food</a></li>
 									<li><a href="//leerburg.com/treat.htm?nav=dropdown&amp;content=shop_05022017">Treats</a></li>
 									<li><a href="//leerburg.com/dogdishes.htm?nav=dropdown&amp;content=shop_05022017">Dishes &amp; Bowls</a></li>
 								</ul>
@@ -1233,7 +1310,7 @@ function debug(stuff)
 
 						<!-- Treats -->
 						<div class="dropdown-category-sections" id="treats-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/treats-20.jpg">
 							</div>
 
@@ -1246,9 +1323,12 @@ function debug(stuff)
 							<div class="section-column">
 								<ul class="sub-categories">
 									<li><a href="//leerburg.com/trainingtreat.htm?nav=dropdown&amp;content=shop_05022017">Training Treats</a></li>
+									<li><a href="//leerburg.com/meatrolls.htm?nav=dropdown&amp;content=shop_05022017">Meat Rolls</a></li>
+									<li><a href="//leerburg.com/dentalchews.php?nav=dropdown&amp;content=shop_05022017">Dental Chews</a></li>
+									<li><a href="//leerburg.com/grainfreetreats.php?nav=dropdown&amp;content=shop_05022017">Grain Free Treats</a></li>
 									<li><a href="//leerburg.com/treattoys.htm?nav=dropdown&amp;content=shop_05022017">Treat Toys</a></li>
 									<li><a href="//leerburg.com/baitbag.htm?nav=dropdown&amp;content=shop_05022017">Bait Bags</a></li>
-									<li><a href="//leerburg.com/meatrolls.htm?nav=dropdown&amp;content=shop_05022017">Meat Rolls</a></li>
+									
 								</ul>
 							</div> 
 							<!-- end Column 1 -->
@@ -1257,7 +1337,7 @@ function debug(stuff)
 
 						<!-- Grooming --> 
 						<div class="dropdown-category-sections" id="grooming-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/grooming-20.jpg">
 							</div>
 
@@ -1281,7 +1361,7 @@ function debug(stuff)
 
 						<!-- Apparel -->
 						<div class="dropdown-category-sections" id="apparel-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/apparel-20.jpg">
 							</div>
 
@@ -1305,7 +1385,7 @@ function debug(stuff)
 
 						<!-- Dog Sports -->
 						<div class="dropdown-category-sections" id="dogSports-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogsports-20.jpg">
 							</div>
 
@@ -1331,7 +1411,7 @@ function debug(stuff)
 
 						<!-- Books -->
 						<div class="dropdown-category-sections" id="books-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/books-20.jpg">
 							</div>
 
@@ -1362,7 +1442,7 @@ function debug(stuff)
 
 						<!-- New and Sales -->
 						<div class="dropdown-category-sections" id="newNsales-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/newnsale-20.jpg">
 							</div>
 
@@ -1378,7 +1458,7 @@ function debug(stuff)
 									<li><a href="//leerburg.com/new.htm?nav=dropdown&amp;content=shop_05022017">New Products</a></li>
 									<li><a href="//leerburg.com/clearance.htm?nav=dropdown&amp;content=shop_05022017">Clearance</a></li>
 									<li><a href="//leerburg.com/sls.php?nav=dropdown&amp;content=shop_05022017">Warehouse Sale</a></li>
-									<li><a href="//leerburg.com/daily-deal.php?nav=dropdown&amp;content=shop_05022017">Weekly Deals</a></li>
+									<!--<li><a href="//leerburg.com/daily-deal.php?nav=dropdown&content=shop_05022017">Weekly Deals</a></li>-->
 								</ul>
 							</div> 
 							<!-- end Column 1 -->
@@ -1386,12 +1466,12 @@ function debug(stuff)
 						<!-- ends New and Sales -->		
 
 						<div class="dropdown-category-sections full-image" id="events-div">
-							<a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" class="full-link"><img src="//leerburg.com/photos/dropdown-navigation-imgs/events-30.jpg"></a>
+							<a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" class="full-link"><img src="//leerburg.com/photos/dropdown-navigation-imgs/onsite-30.jpg"></a>
 						</div>  
 						
 						<!-- Online Courses -->
 						<div class="dropdown-category-sections" id="onlineCourses-div">
-							<div>
+							<div class="dept-img">
 								<img src="//leerburg.com/photos/dropdown-navigation-imgs/courses-20.jpg">
 							</div>
 
@@ -1438,8 +1518,8 @@ function debug(stuff)
 	side buttons for large screens -->
 
 	<div id="desktop-tabs">
-		<a href="//leerburg.com/catalog.htm?nav=desktopTabs&amp;content=catalog_05022017" id="tab-catalog" class="black-bg"><span>Free Catalog</span></a>
-		<a href="//leerburg.com/giveaway.htm?nav=desktopTabs&amp;content=giveaway_05022017" id="tab-giveaway" class="theme-gradient"><span>Weekly Giveaway</span></a>
+		<!--<a href="//leerburg.com/catalog.htm?nav=desktopTabs&content=catalog_05022017" id="tab-catalog" class="black-bg"><span>Free Catalog</span></a>-->
+		<!--<a href="//leerburg.com/giveaway.htm?nav=desktopTabs&content=giveaway_05022017" id="tab-giveaway" class="theme-gradient"><span>Weekly Giveaway</span></a>-->
 		<a href="//leerburg.com/newcontact.php?cat=QA&amp;nav=desktopTabs&amp;content=askCindy_05022017" id="tab-contact" class="black-bg">
 			<svg width="21" height="21">
 				<image xlink:href="//leerburg.com/Photos/header-icons-logos/question-mark.svg" src="//leerburg.com/Photos/header-icons-logos/question-mark.png" width="21" height="21"></image>
@@ -1486,7 +1566,7 @@ function debug(stuff)
         </tr>
         <tr>
             <td>Controller:</td>
-            <td>Jeff Frawley</td>
+            <td>Ed Frawley</td>
         </tr>
         <tr>
             <td>Website:</td>
@@ -1531,7 +1611,7 @@ function debug(stuff)
     <p>We do not collect or use personal data for any purpose other than that indicated in the table below.</p>
     <p>If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:</p>
     <ul>
-    	<li>By sending an email - jeff@leerburg.com</li>
+    	<li>By sending an email - frawley@leerburg.com</li>
         <li>By sending postal mail to this address - 406 Technology Dr W, Menomonie, WI 54751</li>
         <li>By calling this telephone number - (715) 235 - 6502</li>
     </ul>
@@ -1569,7 +1649,7 @@ function debug(stuff)
     <h3 class="sub-section">Access to the Personal Data We May Hold About You</h3>
 	<p> Upon request, which you can indicate by:</p>
     <ul>
-        <li>Sending an email - jeff@leerburg.com</li>
+        <li>Sending an email - frawley@leerburg.com</li>
         <li>Sending postal mail to this address - 406 Technology Dr W, Menomonie, WI 54751</li>
         <li>Calling this telephone number - (715) 235-6502</li>
     </ul>
@@ -1594,7 +1674,7 @@ function debug(stuff)
     <table class="basic">
         <tbody><tr>
             <td>Name or designation of the privacy policy person or service: </td>
-            <td>Jeff Frawley</td>
+            <td>Ed Frawley</td>
         </tr>
         <tr>
             <td>URL:</td>
@@ -1621,7 +1701,7 @@ function debug(stuff)
         </tr>
         <tr>
             <td>Name/Designation:</td>
-            <td>Jeff Frawley</td>
+            <td>Ed Frawley</td>
         </tr>
         <tr>
             <td>Dept/Title:</td>
@@ -1642,7 +1722,7 @@ function debug(stuff)
         </tr>
         <tr>
             <td>Email Address:</td>
-            <td>jeff@leerburg.com</td>
+            <td>frawley@leerburg.com</td>
         </tr>
         <tr>
             <td>URL:</td>
@@ -1735,7 +1815,7 @@ function debug(stuff)
       <li>Other</li>
     </ul>
     
-    <p><em>Last updated November 9th, 2015.</em></p>
+    <p><em>Last updated November 27th, 2017.</em></p>
 </div><!-- /main2 -->
 		
 <!-- ================== --> 
@@ -1748,27 +1828,28 @@ function debug(stuff)
 <!-- Then, close the div started in the header include -->    
 </div><!--/container --> 
 
-
-
 <!-- -->
 <!-- Bottom Ad-->
-<div class="bottom-ad"><!-- pages exluding this have custom css on the page itself before the footer include -->
+<!-- pages exluding this have custom css on the page itself before the footer include -->
+<div class="bottom-ad">
 	<div>
-    <a href="//leerburg.com/sls.php?nav=banner&amp;content=warehouse_10162017" target="_blank"><img src="//leerburg.com/photos/banner-ads/warehouse.png" alt="The Never-ending Warehouse Sale"></a>
-    <a href="#" class="closead" style="background-color: #8da62f;"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-exMark"></use></svg></a>
-    </div>
+		<a href="//leerburg.com/newpuppy.htm?nav=banner&amp;content=newpuppy_06282018" target="_blank"><img src="//leerburg.com/Photos/banner-ads/06282018_puppy-article.png" alt="I have a new puppy. What do I need?"></a>
+		<a href="#" class="closead" style="background-color: #891f36;">
+			<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-exMark"></use></svg>
+		</a>
+	</div>
 </div>
 
 <script>
 
 $(function() {
     if (localStorage) { //if local storage
-        if (!localStorage.getItem('10162017-warehouse')) { // if not site is visited before
+        if (!localStorage.getItem('06282018-newpup')) { // if not site is visited before
             $('.bottom-ad').show(); //show element
 			$( "a.closead" ).click(function( event ) { 
 				event.preventDefault();
 				$( ".bottom-ad" ).slideUp();
-				localStorage.setItem('10162017-warehouse', true); //set flag, site now visited
+				localStorage.setItem('06282018-newpup', true); //set flag, site now visited
 				}); 		           
         }
 		else {
@@ -1786,7 +1867,7 @@ $(function() {
 <!-- back to top -->
 <div id="back-top">
 	<div id="link-box"><div><a href="#top">
-		<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-arrowCircle"></use></svg>
+		<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-arrowCircle"></use></svg>
    </a></div></div>
 </div>
 <!-- -->
@@ -1841,19 +1922,19 @@ $(function() {
             <p class="list-title">Follow Us</p>
 				<div id="social-contain">
 					<div title="Leerburg on Facebook" class="social-box"><a href="https://www.facebook.com/leerburg/" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-facebook"></use></svg>
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-facebook"></use></svg>
 					</a></div>
 					<div title="Leerburg on Twitter" class="social-box"><a href="https://twitter.com/leerburg" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-twitter"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-twitter"></use></svg> 
 					</a></div>
 					<div title="Leerburg on YouTube" class="social-box"><a href="https://www.youtube.com/user/leerburg" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-youtube"></use></svg>
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-youtube"></use></svg>
 					</a></div>
 					<div title="Leerburg on Google+" class="social-box"><a href="https://plus.google.com/+LeerburgDogTraining/posts" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-googlePlus"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-googlePlus"></use></svg> 
 					</a></div>
 					<div title="Leerburg on Instagram" class="social-box"><a href="https://instagram.com/leerburg/" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg#icon-instagram"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=07#icon-instagram"></use></svg> 
 					</a></div>                    
 				</div>
         	</div><!-- /social-box -->
@@ -1931,7 +2012,7 @@ $(function() {
             </div><!-- /#copyright -->	            
             <!-- Copyrights -->
             <div id="copyright">
-            	<div id="copy">©1994 - 2017 Leerburg® Enterprises, Inc.</div>
+            	<div id="copy">©1994 - 2018 Leerburg® Enterprises, Inc.</div>
                 <div id="links">
                 	<div id="align-links">
                         <a href="http://leerburg.com/privacy.htm" target="_blank">Privacy Policy</a> 
@@ -2015,11 +2096,13 @@ $(document).ready(function(){
 
 <script>
 /*$(function() {
-	$.post('/ajax/jTracker.php?visitid=5853384&uid=2017110504291734.207.98.73', $("#jtrackerform").serialize(), function(data) {
+	$.post('/ajax/jTracker.php?visitid=0&uid=', $("#jtrackerform").serialize(), function(data) {
 					//$('#'+type+'Values').html(data);
 			});
 });*/
 </script>
+
+
 
 
 
