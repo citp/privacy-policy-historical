@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the legendaryvideos.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074110id_/http%3A//www.legendaryvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendaryvideos.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629123808id_/http%3A//www.legendaryvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Legendary Speed, Inc. has created this privacy statement in order to  
 demonstrate our firm commitment to privacy. The following discloses our  
-information gathering and dissemination practices for this website: LegendaryVideos.com.
+information gathering and dissemination practices for this website: LegendarySpeed.com.
 
 We use your IP address to help diagnose problems with our server,  
 and to administer our Web site.
 
 Our site uses cookies to make sure you don’t see the same ad repeatedly.
 
-This site contains links to other sites. **LegendaryVideos.com** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **LegendarySpeed.com** is not responsible for the privacy practices or the content of such Web sites.
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
