@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109014948id_/https%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629110056id_/https%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@ If you are looking for Cookie Policy, then [you should also read this webpage ab
 
 ## Your Privacy
 
- **** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### Google Adsense and the DoubleClick DART Cookie
 
@@ -14,10 +14,6 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
  
 
 ### Our Commitment To Childrens Privacy
-
-Advertisement
-
-\---
 
 Protecting the privacy of the very young is especially important. For that reason, The Customize Windows will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are not allowed to access our service.
 
