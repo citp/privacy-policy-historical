@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928000108id_/http%3A//www.prospectiv.com/Prospectiv_Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630005203id_/http%3A//prospectiv.com/Prospectiv_Privacy.html) for the most accurate reproduction.*
 
 # Prospectiv - Online Marketing Services for Advertisers and Publishers
 
@@ -24,7 +24,7 @@ Prospectiv collects personally identifiable information only when you register f
 
 Log files are generated on all web sites on the Internet, including Prospectiv.com. These files are set according to the standards for HTTPD web server technology as described by the standards organization, W3C (WorldWideWeb Consortium). These Log files contain 'clickstream information' (i.e., transactions about the web pages viewed during a session, including the originating web site/web page, navigation to another web site/web page, the type of browser used, date/time, and success status of the server transaction, and the originating IP address of the page request). 
 
-Links between pages are described using a URL (Universal Resource Locator) address, e.g. [http://www.prospectiv.com](http://www.prospectiv.com/). Each page viewed has a unique address that is recorded as a transaction in the server log. Transactions about all pages viewed on Prospectiv.com are used for marketing analysis and website administration. The log entries from Prospectiv do not record personally identifiable information. 
+Links between pages are described using a URL (Universal Resource Locator) address, e.g. [http://www.prospectiv.com](https://web.archive.org/web/20180630005203id_/http%3A//prospectiv.com/index.html). Each page viewed has a unique address that is recorded as a transaction in the server log. Transactions about all pages viewed on Prospectiv.com are used for marketing analysis and website administration. The log entries from Prospectiv do not record personally identifiable information. 
 
 ### Cookies
 
