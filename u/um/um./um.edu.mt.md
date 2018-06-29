@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928134921id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629060311id_/https%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - University of Malta
+# Privacy policy - L-Università ta' Malta
 
-The University of Malta is committed to protect the visitors’ privacy whilst viewing University web pages in accordance with the [Data Protection Act 2001](http://www.idpc.gov.mt/article.aspx?art=116). The underlying Privacy Policy explains the types of data collected and how this information will be used.
+The University of Malta is committed to protect the visitors’ privacy whilst viewing University web pages in accordance with the [provisions of the General Data Protection Regulation and all other applicable privacy and data protection legislation](http://www.idpc.gov.mt/article.aspx?art=116). The underlying Privacy Policy explains the types of data collected and how this information will be used.
 
-### Access Information
+## Access Information
 
 The University of Malta web servers automatically log each visit that they receive. This data contains some information about you: the Internet address of the computer you are using, the type of browser and operating system you are using and the Internet address of the web site from which you came from. It also contains some connection information such as the page or service you are requesting and the date and time of the request.
 
 This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages.
 
-### Personal Information
+## Personal Information
 
 #### Submission Forms & Surveys
 
-The University of Malta may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission. In submitting your personal information online, you are agreeing that University staff may use your details for the sole purpose of conducting the business of the University.  
-
+The University of Malta may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission. In submitting your personal information online, you are agreeing that University staff may use your details for the sole purpose of conducting the business of the University.
 
 #### Cookies
 
@@ -41,13 +40,17 @@ While the University alerts/messages that are sent to your contact number may al
 
 The University of Malta does not process card numbers, expiry dates and CVVs that are submitted to effect payments other than for processing of payment. Furthermore, the card numbers, expiry dates and CVVs are not being stored by the University of Malta but are encrypted and transmitted directly to the payment gateway.
 
-### Changes to the Privacy Policy
+## Changes to the Privacy Policy
 
 The University reserves the right to modify this Privacy Policy at any time. Visitors are invited to consult this Privacy Policy from time to time in order to become aware of any changes. The date when this Policy was last updated is indicated at the end of this Policy.  
 
 
-Queries about the Privacy Policy statement should be directed [here](mailto:webmaster@um.edu.mt).   
+Queries about the Privacy Policy statement should be directed [here](mailto:webmaster@um.edu.mt). 
 
+## Data Protection Officer
 
-  
+The University of Malta has appointed Dr Roxanne Meilak Borg as its Data Protection Officer (DPO). The DPO's role is to assist the University in complying with the provisions of the General Data Protection Regulation as well as with all other applicable privacy and data protection legislation. 
 
+For queries or to express any concerns relating to the University's processing of your personal data, kindly contact [our DPO by email](mailto:dpo@um.edu.mt).
+
+_21 May 2018  _
