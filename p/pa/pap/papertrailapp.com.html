@@ -1,0 +1,1566 @@
+<!--The following is the downloaded HTML source of the papertrailapp.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629142045id_/https%3A//papertrailapp.com/info/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+
+    
+
+
+    
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js" type="text/javascript" async=""></script><script>
+    /*! loadCSS: load a CSS file asynchronously. [c]2016 scottjehl, Filament Group, Inc. Licensed MIT */
+    (function (w) {
+        "use strict";
+        /* exported loadCSS */
+        var loadCSS = function (href, before, media) {
+            // Arguments explained:
+            // `href` [REQUIRED] is the URL for your CSS file.
+            // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+            // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+            // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+            var doc = w.document;
+            var ss = doc.createElement("link");
+            var ref;
+            if (before) {
+                ref = before;
+            }
+            else {
+                var refs = (doc.body || doc.getElementsByTagName("head")[0]).childNodes;
+                ref = refs[refs.length - 1];
+            }
+
+            var sheets = doc.styleSheets;
+            ss.rel = "stylesheet";
+            ss.href = href;
+            // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+            ss.media = "only x";
+
+            // wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+            function ready(cb) {
+                if (doc.body) {
+                    return cb();
+                }
+                setTimeout(function () {
+                    ready(cb);
+                });
+            }
+            // Inject link
+            // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+            // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+            ready(function () {
+                ref.parentNode.insertBefore(ss, (before ? ref : ref.nextSibling));
+            });
+            // A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+            var onloadcssdefined = function (cb) {
+                var resolvedHref = ss.href;
+                var i = sheets.length;
+                while (i--) {
+                    if (sheets[i].href === resolvedHref) {
+                        return cb();
+                    }
+                }
+                setTimeout(function () {
+                    onloadcssdefined(cb);
+                });
+            };
+
+            function loadCB() {
+                if (ss.addEventListener) {
+                    ss.removeEventListener("load", loadCB);
+                }
+                ss.media = media || "all";
+            }
+
+            // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+            if (ss.addEventListener) {
+                ss.addEventListener("load", loadCB);
+            }
+            ss.onloadcssdefined = onloadcssdefined;
+            onloadcssdefined(loadCB);
+            return ss;
+        };
+        // commonjs
+        if (typeof exports !== "undefined") {
+            exports.loadCSS = loadCSS;
+        }
+        else {
+            w.loadCSS = loadCSS;
+        }
+    }(typeof global !== "undefined" ? global : this));
+    loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+</script><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
+
+<title>SolarWinds - Privacy Policy</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<meta name="DC.title" content="SolarWinds - Privacy Policy">
+<meta name="DC.description" content="">
+
+
+        <link rel="canonical" href="https://www.solarwinds.com/legal/privacy">
+        <link rel="alternate" hreflang="en" href="https://www.solarwinds.com/legal/privacy">
+
+
+
+<meta name="msvalidate.01" content="6BAF2EFDAC8719FD91494A916D13582C">
+<meta name="google-site-verification" content="MmRPg9TfCHGThQW_kuTL0BB7fFbnkiJN7CgF61lrFbs">
+
+        <link rel="dns-prefetch" href="//m.addthisedge.com">
+        <link rel="dns-prefetch" href="//s3.amazonaws.com">
+        <link rel="dns-prefetch" href="//cdn.brightedge.com">
+        <link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+        <link rel="dns-prefetch" href="//customerportal.solarwinds.com">
+        <link rel="dns-prefetch" href="//now.eloqua.com">
+        <link rel="dns-prefetch" href="//everestjs.net">
+        <link rel="dns-prefetch" href="//facebook.com">
+        <link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+        <link rel="dns-prefetch" href="//googleadservices.com">
+        <link rel="dns-prefetch" href="//google-analytics.com">
+        <link rel="dns-prefetch" href="//apis.google.com">
+        <link rel="dns-prefetch" href="//m.addthisedge.com">
+        <link rel="dns-prefetch" href="//beacon-1.newrelic.com">
+        <link rel="dns-prefetch" href="//data.wa.perf.overture.com">
+        <link rel="dns-prefetch" href="//pixel.everesttech.net">
+        <link rel="dns-prefetch" href="//solarwinds.postclickmarketing.com">
+        <link rel="dns-prefetch" href="//sales.liveperson.net">
+        <link rel="dns-prefetch" href="//cdn.swcdn.net">
+        <link rel="dns-prefetch" href="//solarwinds.tt.omtrdc.net">
+        <link rel="dns-prefetch" href="//solarwinds.postclickmarketing.com">
+        <link rel="dns-prefetch" href="//ssl.gstatic.com">
+        <link rel="dns-prefetch" href="//themes.googleusercontent.com">
+        <link rel="dns-prefetch" href="//srv2.wa.marketingsolutions.yahoo.com">
+        <link rel="dns-prefetch" href="//ad.yieldmanager.com">
+
+<link href="/solarwindscontentv2/css?v=tXlNo1KzI-Y4ZrLLTFhDyevWeRqRX5__FzVNOPo8e001" rel="stylesheet">
+
+
+<script type="text/javascript">
+    //Async Google Fonts
+    WebFontConfig = {
+        google: { families: ['Roboto:400,700'] }
+    };
+    (function () {
+        var wf = document.createElement('script');
+        wf.src = ('https:' === document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+    })(); </script>
+
+<script src="https://use.fortawesome.com/5979041a.js"></script>
+
+<script src="https://assets.adobedtm.com/f621f149f278de13c57fa7bfeaddccafd7f1bda7/satelliteLib-fb69f0a9f50708c2a6a9431adb15862288e326cc.js"></script>
+
+
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        
+
+        <div lang="en">
+
+
+
+
+
+
+<header class="container hidden-xs hidden-sm">
+    <div class="row">
+        <div class="col-sm-3">
+<a href="/" class="logo-link" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/global/logo-types/solarwinds-logo-types/swlogo2x.ashx?h=45&amp;w=195&amp;la=en&amp;hash=74013DF6672932A9B0FA082655A7DD5F6C023615" alt="SolarWinds Logo"></a>        </div>
+        <div class="col-sm-9">
+            <nav class="subnav">
+                <ul>
+                    <li><a href="/federal-government/it-management-solutions-for-government" data-linktype="Default Header" data-linkdetail="TopLink1:Government">Government</a></li>
+                    <li><a href="https://customerportal.solarwinds.com/" data-linktype="Default Header" data-linkdetail="TopLink2:Customer Portal">Customer Portal</a></li>
+                    <li><a href="https://partner.solarwinds.com/" data-linktype="Default Header" data-linkdetail="TopLink3:Partners">Partners</a></li>
+                    <li><a href="https://www.solarwinds.com/company/contact-us" data-linktype="Default Header" data-linkdetail="TopLink4:Contact Us">Contact Us</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            English <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-english">
+                                <li><a href="/de/legal/privacy">Deutsch</a></li>
+                                <li><a href="/es/legal/privacy">Español</a></li>
+                                <li><a href="/fr/legal/privacy">Français</a></li>
+                                <li><a href="/ja/legal/privacy">日本語</a></li>
+                                <li><a href="/zh/legal/privacy">中文</a></li>
+                                <li><a href="/pt/legal/privacy">Português</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <script type="text/javascript">
+                function setUrl() {
+                    window.location.href = 'http://www.solarwinds.com/InternalSearch/Search/Index/?q=' + document.getElementById('SearchText').value;
+                };
+            </script>
+            <form id="searchForm" action="" method="get">
+                <div class="input-group custom-search-form pull-right">
+                    <input type="text" class="form-control input-sm search-btn" placeholder="" id="SearchText">
+                    <span class="input-group-btn">
+                        <button class="btn btn-warning btn-sm" type="button" onclick="setUrl(); return false;">
+                            <span>Search</span>
+                        </button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+
+
+<nav class="navbarUltra navbarUltra-default ultraMenu">
+    <div class="container">
+        
+<div class="navbar-header ultra">
+    <button type="button" class="navbar-toggle ultra collapsed" data-toggle="collapse" data-target="#custom-bootstrap-menu" aria-expanded="false">
+        <span class="sr-only">
+            Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="navbar-toggle-text">Menu</span>
+    </button>
+    <div class="navbar-brand ultra visible-xs-block visible-sm-block">
+<a href="/" class="mobile" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/global/logo-types/solarwinds-logo-types/swlogo2x.ashx?h=45&amp;w=195&amp;la=en&amp;hash=74013DF6672932A9B0FA082655A7DD5F6C023615" alt="SolarWinds Logo"></a>        <a href="/" class="flare" data-linktype="Default Header" data-linkdetail="SolarWinds Logo"><img src="/-/media/solarwinds/swdcv2/header/sw-flame-orange.ashx?h=33&amp;w=41&amp;la=en&amp;hash=D88842C4E22E7F58A39F97CB745FE993BA8228A2" alt="sw-flame-orange"></a>    </div>
+    <div class="navbar-toggle-menu ultra">
+        <a>
+            <span class="email-icon">
+            </span>
+        </a>
+        <a href="tel:866.530.8100">
+            <span class="phone-icon">
+            </span>
+        </a>
+        <a href="#" class="dropdown-toggle language-toggle-ultra" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            English
+            <span class="caret">
+            </span>
+        </a>
+        <ul class="dropdown-menu language-dropdown-ultra">
+                <li><a href="/de/legal/privacy">Deutsch</a></li>
+                <li><a href="/es/legal/privacy">Español</a></li>
+                <li><a href="/fr/legal/privacy">Français</a></li>
+                <li><a href="/ja/legal/privacy">日本語</a></li>
+                <li><a href="/zh/legal/privacy">中文</a></li>
+                <li><a href="/pt/legal/privacy">Português</a></li>
+        </ul>
+    </div>
+</div>
+
+
+        <div class="navbar-collapse ultra collapse" id="custom-bootstrap-menu">
+            <ul class="nav navbarUltra-nav ultraDesktop hidden-xs hidden-sm">
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Products" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Products</a>
+                        <ul class="dropdown-menu ultra-menu">
+
+<div class="tabsContainerMegaMenu">
+    <div id="outerTabs">
+        <ul class="container icons">
+                    <li class="active">
+                        <a href="#tab-1" class="hasTab icon-network" data-linktype="Top Menu" data-linkdetail="Tab:Network Management">
+                            <i class="fort fort-sw-cat-network" aria-hidden="true"></i>
+                            <span>
+                                Network Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-2" class="hasTab icon-systems" data-linktype="Top Menu" data-linkdetail="Tab:Systems Management">
+                            <i class="fort fort-sw-cat-apps-sys" aria-hidden="true"></i>
+                            <span>
+                                Systems Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-3" class="hasTab icon-database" data-linktype="Top Menu" data-linkdetail="Tab:Database Management">
+                            <i class="fort fort-sw-cat-database" aria-hidden="true"></i>
+                            <span>
+                                Database Management
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-4" class="hasTab icon-itSecurity" data-linktype="Top Menu" data-linkdetail="Tab:IT Security">
+                            <i class="fort fort-sw-cat-security" aria-hidden="true"></i>
+                            <span>
+                                IT Security
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-5" class="hasTab icon-itHelpDesk" data-linktype="Top Menu" data-linkdetail="Tab:IT Help Desk">
+                            <i class="fort fort-sw-cat-help-desk" aria-hidden="true"></i>
+                            <span>
+                                IT Help Desk
+                            </span>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tab-6" class="hasTab icon-cloud" data-linktype="Top Menu" data-linkdetail="Tab:Cloud">
+                            <i class="fort fort-sw-cat-cloud" aria-hidden="true"></i>
+                            <span>
+                                Cloud
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/downloads" class="icon-all" data-linktype="Top Menu" data-linkdetail="Tab:All Products">
+                            <i class="fort fort-sw-nav-all-products" aria-hidden="true"></i>
+                            <span>
+                                All Products
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/free-tools" class="icon-free" data-linktype="Top Menu" data-linkdetail="Tab:Free Tools">
+                            <i class="fort fort-sw-nav-free-tools" aria-hidden="true"></i>
+                            <span>
+                                Free Tools
+                            </span>
+                        </a>
+                    </li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="container dropdownMenu">
+    <div class="row">
+        <div id="tabs">
+                <div id="tab-1" class="tabWrapper" style="">
+                <div class="row">
+                        <div class="col-sm-3">
+                            <p class="title">Products</p>
+                            <ul class="submenuItems">
+                                    <li><a href="/network-performance-monitor" data-linktype="Top Menu" title="Network Performance Monitor" data-linkdetail="Products:Network Management:Network Performance Monitor">Network Performance Monitor</a></li>
+                                    <li><a href="/netflow-traffic-analyzer" data-linktype="Top Menu" title="Netflow Traffic Analyzer" data-linkdetail="Products:Network Management:NetFlow Traffic Analyzer">NetFlow Traffic Analyzer</a></li>
+                                    <li><a href="/network-configuration-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Configuration Manager">Network Configuration Manager</a></li>
+                                    <li><a href="/ip-address-manager" data-linktype="Top Menu" title="IP Address Manager" data-linkdetail="Products:Network Management:IP Address Manager">IP Address Manager</a></li>
+                                    <li><a href="/user-device-tracker" data-linktype="Top Menu" title="User Device Tracker" data-linkdetail="Products:Network Management:User Device Tracker">User Device Tracker</a></li>
+                                    <li><a href="/voip-network-quality-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:VoIP &amp; Network Quality Manager">VoIP &amp; Network Quality Manager</a></li>
+                            </ul>
+                            <a href="/network-management-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Network Management:View All Network Management Products">View All Network Management Products</a>
+                        </div>
+                        <div class="col-sm-3">
+                            <ul class="submenuItems colMulti noTitle">
+                                    <li><a href="/log-manager-for-orion-software" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Log Manager for Orion">Log Manager for Orion</a></li>
+                                    <li><a href="/engineers-toolset" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Engineer's Toolset">Engineer's Toolset</a></li>
+                                    <li><a href="/network-topology-mapper" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Topology Mapper">Network Topology Mapper</a></li>
+                                    <li><a href="/kiwi-cattools" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Kiwi CatTools">Kiwi CatTools</a></li>
+                                    <li><a href="/kiwi-syslog-server" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Kiwi Syslog Server">Kiwi Syslog Server</a></li>
+                            </ul>
+                        </div>
+                    <div class="col-sm-3">
+                        <p class="title">Bundles</p>
+                        <ul class="submenuItems colMulti">
+                                <li><a href="/network-bandwidth-analyzer-pack" data-linktype="Top Menu" title="Network Bandwidth Analyzer Pack" data-linkdetail="Products:Network Management:Network Bandwidth Analyzer Pack">Network Bandwidth Analyzer Pack</a></li>
+                                <li><a href="/ip-control-bundle" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:IP Control Bundle">IP Control Bundle</a></li>
+                        </ul>
+                        <p class="title">Unified Solutions</p>
+                        <ul class="submenuItems colMulti">
+                                <li><a href="/network-automation-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Automation Manager">Network Automation Manager</a></li>
+                                <li><a href="/network-operations-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Network Management:Network Operations Manager">Network Operations Manager</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 helpBox">
+                                                            <a href="/log-manager-for-orion-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Network Management:Learn More">
+                                       <!-- 
+                                          <div class="innerHelpBox"> -->
+                                       <h3>Unify log management and infrastructure performance with SolarWinds Log Manager for Orion.</h3>
+                                       <img alt="NPM Network Summary" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/log-manager/images/product-screenshots/lm-real-time-log-stream.ashx">
+                                       <p>Aggregate. Search. Chart.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                       <!-- <a href="/log-manager-for-orion-software" class="learn" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Network Management">Learn More</a> -->
+                                       <!-- 
+                                          </div> -->
+                                    </a>
+
+<style>
+.innerHelpBox h3 {
+    font-size: 15px!important;
+}
+</style>
+                    </div>
+                </div>
+            </div>
+                <div id="tab-2" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-4">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/server-application-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Server &amp; Application Monitor">Server &amp; Application Monitor</a></li>
+                                            <li><a href="/virtualization-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Virtualization Manager">Virtualization Manager</a></li>
+                                            <li><a href="/storage-resource-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Storage Resource Monitor">Storage Resource Monitor</a></li>
+                                            <li><a href="/backup" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:SolarWinds Backup">SolarWinds Backup</a></li>
+                                            <li><a href="/web-performance-monitor" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Web Performance Monitor">Web Performance Monitor</a></li>
+                                    </ul>
+                                        <a href="/system-management-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:View All Systems Management Products">View All Systems Management Products</a>
+                                </div>
+                            <div class="col-sm-5">
+                                    <p class="title">Bundles</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/systems-management-bundle" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Systems Management Bundle">Systems Management Bundle</a></li>
+                                            <li><a href="/application-performance-optimization" data-linktype="Top Menu" title="" data-linkdetail="Products:Systems Management:Application Performance Optimization Pack">Application Performance Optimization Pack</a></li>
+                                    </ul>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                      <a href="/server-application-monitor" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Systems Management:Learn More">
+                                       <h3>Monitor any application, any system, anywhere, with Server &amp; Application Monitor.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/network-performance-monitor/images/product-screenshots/npm-network-summary.ashx">
+                                       <br>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-3" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                <p class="title">Products</p>
+                                <ul class="submenuItems">
+                                    <li><a href="/database-performance-analyzer" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Database Performance Analyzer">Database Performance Analyzer</a></li>
+                                </ul>
+                                <span class="listItemSmall">
+                                    Database and SQL query performance monitoring, analysis, and tuning
+                                </span>
+                                <ul class="miniSubItems">
+                                    <li>
+                                        <span class="listItemItalic">
+                                            Available for these database engines:
+                                        </span>
+                                    </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-sql-server" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:SQL Server">SQL Server</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-oracle-monitoring-tuning" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Oracle">Oracle</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-mysql" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:MySQL">MySQL</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-db2" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:DB2">DB2</a>
+                                </li>
+                                <li>
+                                    <a href="/database-performance-analyzer-sap-ase" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:SAP ASE">SAP ASE</a>
+                                </li>
+                                <li>
+                                    <a href="/cloud-virtualized-database-migration" data-linktype="Top Menu" title="" data-linkdetail="Products:Database Management:Cloud">Cloud</a>
+                                </li>
+                                </ul>
+                                    <a href="/database-performance-monitoring-software" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Database Management:View All Database Management Products">View All Database Management Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/database-performance-analyzer" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Database Management:Learn More">
+                                       <h3>Find causes of slowness in your databases with Database Performance Analyzer.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/database-performance-analyzer/images/product-screenshots/dpa-alerts-and-reports.ashx">
+                                       <p>See your database performance in a whole new way.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-4" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/siem-security-information-event-management-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Security Information and Event Management">Security Information and Event Management</a></li>
+                                            <li><a href="/patch-manager" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Patch Manager">Patch Manager</a></li>
+                                            <li><a href="/serv-u-managed-file-transfer-server" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Secure Managed File Transfer Server">Secure Managed File Transfer Server</a></li>
+                                            <li><a href="/ftp-server-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Security:Secure FTP Server">Secure FTP Server</a></li>
+                                    </ul>
+                                        <a href="/it-security-management-tools" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:IT Security:View All IT Security Products">View All IT Security Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/siem-security-information-event-management-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:IT Security:Learn More">
+                                       <h3>A SIEM that makes easy-to-use logs for security, compliance, and troubleshooting.</h3>
+                                       <img alt="NPM Network Summary" src="/-/media/solarwinds/swdcv2/licensed-products/log-event-manager/images/product-screenshots/lem-ndepth-dashboard.ashx?h=405&amp;w=648&amp;la=en&amp;hash=8E1806AA0FA45BBAD5315B03BEEE44732461D5B6">
+                                       <p>Centralized threat detection, incident awareness, and active response.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-5" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href="/help-desk-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Web Help Desk">Web Help Desk</a></li>
+                                            <li><a href="/remote-support-software" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Dameware Remote Support">Dameware Remote Support</a></li>
+                                            <li><a href="/dameware-mini-remote-control" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Dameware Mini Remote Control">Dameware Mini Remote Control</a></li>
+                                            <li><a href="/help-desk-essentials" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Help Desk Essentials">Help Desk Essentials</a></li>
+                                            <li><a href="/mobile-admin" data-linktype="Top Menu" title="" data-linkdetail="Products:IT Help Desk:Mobile Admin">Mobile Admin</a></li>
+                                    </ul>
+                                        <a href="/it-help-desk" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:View All IT Help Desk Products">View All IT Help Desk Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="/help-desk-software" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:IT Help Desk:Learn More">
+                                       <h3>Simplify your service desk management and start resolving issues faster.</h3>
+                                       <img alt="NPM Network Summary" src="https://www.webhelpdesk.com/-/media/solarwinds/swdcv2/licensed-products/web-help-desk/images/product-screenshots/whd-help-desk-software.ashx">
+                                       <p>Help desk ticketing, asset management, change management, and more.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-6" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                            <div class="col-sm-9">
+                                    <p class="title">Products</p>
+                                    <ul class="submenuItems">
+                                            <li><a href=" https://www.appoptics.com/" data-linktype="Top Menu" title="" target="_blank" data-linkdetail="Products:Cloud:Application &amp; Infrastructure Monitoring">Application &amp; Infrastructure Monitoring</a></li>
+                                                <span class="listItemSmall">
+                                                    Try our next-generation APM, which seamlessly integrates application performance, server, and infrastructure monitoring
+                                                </span>
+                                            <li><a href="/papertrail" data-linktype="Top Menu" title="" data-linkdetail="Products:Cloud:Hosted Log Management">Hosted Log Management</a></li>
+                                                <span class="listItemSmall">
+                                                    Aggregate, tail, and search log data for faster troubleshooting with a frustration-free log management solution
+                                                </span>
+                                            <li><a href="/pingdom" data-linktype="Top Menu" title="" data-linkdetail="Products:Cloud:Website Uptime &amp; Performance">Website Uptime &amp; Performance</a></li>
+                                                <span class="listItemSmall">
+                                                    Get reliable and easy-to-use website uptime, performance, and digital experience monitoring
+                                                </span>
+                                            <li><a href="http://www.loggly.com" data-linktype="Top Menu" title="" target="_blank" data-linkdetail="Products:Cloud:Hosted Log Monitoring &amp; Analytics">Hosted Log Monitoring &amp; Analytics</a></li>
+                                                <span class="listItemSmall">
+                                                    Visualize log data with a simple and affordable log monitoring and log analytics solution
+                                                </span>
+                                    </ul>
+                                        <a href="/cloud-monitoring" class="learnMore" data-linktype="Top Menu" data-linkdetail="Products:Cloud:View All Cloud Monitoring Products">View All Cloud Monitoring Products</a>
+                                </div>
+                            <div class="col-sm-3 helpBox">
+                                    <a href="https://www.appoptics.com/" class="innerHelpBox" data-linktype="Learn More" data-linkdetail="Right Rail Ad:Cloud:Learn More">
+                                       <h3>AppOptics: Next-gen SaaS-based application performance &amp; infrastructure monitoring.</h3>
+                                       <img alt="NPM Network Summary" src="h/-/media/solarwinds/appoptics/products/ao-infrastructure-monitoring-dashboard.ashx?h=405&amp;w=648&amp;la=en&amp;hash=FA4D400B4FCE64A5662687BFF7E658F3149B6CE4">
+                                       <p>APM. Distributed tracing. Easy installation. Starts at $7.50/mo per host.</p>
+                                       <span class="learn">Learn More
+                                       </span>
+                                    </a>
+                            </div>
+                </div>
+            </div>
+                <div id="tab-7" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                </div>
+            </div>
+                <div id="tab-8" class="tabWrapper" style="display:" none;="">
+                <div class="row">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                        </ul>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Support" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Support</a>
+                        <ul class="dropdown-menu ultra-menu">
+
+<div class="container dropdownMenu supportTab">
+    <div class="row">
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Success Center" href="https://support.solarwinds.com/Success_Center" class="dropdown-toggle menu-subheadline">Success Center</a>
+                <p>Find product guides, documentation, training, onboarding information, and support articles.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Success Center:Find product guides, documentation, training, onboarding information, and support articles." href="https://support.solarwinds.com/Success_Center?sid=mnavSC">Access the Success Center</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Success Center:Find product guides, documentation, training, onboarding information, and support articles." href="https://support.solarwinds.com/Success_Center/Smart_Start_Onboarding_Program?sid=mnavSS">Smart Start Onboarding</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Technical Support" href="https://support.solarwinds.com/Success_Center" class="dropdown-toggle menu-subheadline">Technical Support</a>
+                <p>Submit a ticket for technical and product assistance, or get customer service help.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">Americas: +1-512-682-9300</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">EMEA: +353 21 5002900</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="/company/contact-us">APAC: +61 2 8412 4900</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Technical Support:Submit a ticket for technical and product assistance, or get customer service help." href="https://customerportal.solarwinds.com/support/submit-a-ticket?sid=mnavT">Submit a Ticket</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification" href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy" class="dropdown-toggle menu-subheadline">Training &amp; Certification</a>
+                <p>Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification:Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy." href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy?sid=mnavSA">SolarWinds Academy</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Training &amp; Certification:Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy." href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy/Solarwinds_Certified_Professional?sid=mnavCP">SolarWinds Certified Professional</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Customer Portal" href="https://customerportal.solarwinds.com/" class="dropdown-toggle menu-subheadline">Customer Portal</a>
+                <p>Download the latest product versions and hotfixes. Manage your portal account and all your products.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Customer Portal:Download the latest product versions and hotfixes. Manage your portal account and all your products." href="https://customerportal.solarwinds.com/?sid=mnavCP">Access the Customer Portal</a> </li>
+                </ul>
+            </div>
+            <div class="col-sm-2">
+                <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance" href="/maintenance" class="dropdown-toggle menu-subheadline">Renew Maintenance</a>
+                <p>Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training.</p>
+                <ul class="submenuItems boldLinks">
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance:Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training." href="/maintenance?sid=mnavRM">Renew Maintenance</a> </li>
+                        <li> <a data-linktype="Top Menu" data-linkdetail="Renew Maintenance:Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training." href="https://support.solarwinds.com/Success_Center/Customer_Service/Frequently_Asked_Questions_About_Auto-Renewal?sid=mnavAR">Learn about Auto-Renewal</a> </li>
+                </ul>
+            </div>
+    </div>
+</div>                        </ul>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="" data-linkdetail="Community" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-headline" role="button" data-linktype="TopMenu">Community</a>
+                        <ul class="dropdown-menu ultra-menu">
+<div class="container dropdownMenu">
+    <div class="row">
+            <div class="col-sm-3">
+                <a href=" https://thwack.solarwinds.com/welcome" target="_blank" data-linkdetail="Community:THWACK" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">THWACK</a>
+                <p>Connect with more than 130K community members. Get help, be heard by us and do your job better using our products.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://thwack.solarwinds.com/welcome" data-linktype="Top Menu" data-linkdetail="Community:THWACK:View THWACK">View THWACK</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" target="_blank" data-linkdetail="Community:Geek Speak Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Geek Speak Blog</a>
+                <p>Get the latest tips, tricks and advice from your fellow SolarWinds geeks.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linktype="Top Menu" data-linkdetail="Community:Geek Speak Blog:View Geek Speak Blog">View Geek Speak Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="https://logicalread.com/" target="_blank" data-linkdetail="Community:LogicalRead Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">LogicalRead Blog</a>
+                <p>Into databases? Find articles, code and a community of database experts.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="https://logicalread.com/" data-linktype="Top Menu" data-linkdetail="Community:LogicalRead Blog:View LogicalRead Blog">View LogicalRead Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <a href="/certification/network-certification" target="_blank" data-linkdetail="Community:Personal Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Personal Certification</a>
+                <p>Earn the official stamp of your expertise by becoming a SolarWinds Certified Professional.</p>
+                <ul class="submenuItems boldLinks">
+                        <li><a href="/certification/network-certification" data-linktype="Top Menu" data-linkdetail="Community:Personal Certification:View Professional Certification">View Professional Certification</a></li>
+                </ul>
+            </div>
+    </div>
+</div>
+                        </ul>
+                    </li>
+                                    <li class="menu-toggle separator">
+                        <a href="/downloads" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="">FREE DOWNLOADS</a>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="/company/contact-us" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="Contact Sales">Contact Sales</a>
+                    </li>
+                    <li class="menu-toggle separator">
+                        <a href="/onlinequotes" class="dropdown-toggle menu-headline" data-linktype="Top Menu" aria-expanded="false" aria-haspopup="true" data-linkdetail="RightLink2 : ONLINE QUOTE">Online Quote</a>
+                    </li>
+                <li class="view-menu-toggle separator">
+                    <a href="/downloads" class="view-all-products" data-linktype="Top Menu" data-linkdetail="View All Products">View All Products</a>
+                </li>
+                <li class="view-menu-toggle separator">
+                    <a href="/free-tools" class="view-free-tools" data-linktype="Top Menu" data-linkdetail="View Free Tools">View Free Tools</a>
+                </li>
+            </ul>
+            <ul class="nav navbarUltra-nav ultraMobile hidden-md hidden-lg">
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Products" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Products</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href="/network-management-software" data-linkdetail="Products:Network Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Network Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/network-performance-monitor" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Performance Monitor">Network Performance Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/netflow-traffic-analyzer" data-linktype="Top Menu" data-linkdetail="Products:Network Management:NetFlow Traffic Analyzer">NetFlow Traffic Analyzer</a>
+                            </li>
+                            <li>
+                                <a href="/network-configuration-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Configuration Manager">Network Configuration Manager</a>
+                            </li>
+                            <li>
+                                <a href="/ip-address-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:IP Address Manager">IP Address Manager</a>
+                            </li>
+                            <li>
+                                <a href="/user-device-tracker" data-linktype="Top Menu" data-linkdetail="Products:Network Management:User Device Tracker">User Device Tracker</a>
+                            </li>
+                            <li>
+                                <a href="/voip-network-quality-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:VoIP &amp; Network Quality Manager">VoIP &amp; Network Quality Manager</a>
+                            </li>
+                            <li>
+                                <a href="/log-manager-for-orion-software" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Log Manager for Orion">Log Manager for Orion</a>
+                            </li>
+                            <li>
+                                <a href="/engineers-toolset" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Engineer's Toolset">Engineer's Toolset</a>
+                            </li>
+                            <li>
+                                <a href="/network-topology-mapper" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Topology Mapper">Network Topology Mapper</a>
+                            </li>
+                            <li>
+                                <a href="/kiwi-cattools" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Kiwi CatTools">Kiwi CatTools</a>
+                            </li>
+                            <li>
+                                <a href="/kiwi-syslog-server" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Kiwi Syslog Server">Kiwi Syslog Server</a>
+                            </li>
+                            <li>
+                                <a href="/network-bandwidth-analyzer-pack" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Bandwidth Analyzer Pack">Network Bandwidth Analyzer Pack</a>
+                            </li>
+                            <li>
+                                <a href="/ip-control-bundle" data-linktype="Top Menu" data-linkdetail="Products:Network Management:IP Control Bundle">IP Control Bundle</a>
+                            </li>
+                            <li>
+                                <a href="/network-automation-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Automation Manager">Network Automation Manager</a>
+                            </li>
+                            <li>
+                                <a href="/network-operations-manager" data-linktype="Top Menu" data-linkdetail="Products:Network Management:Network Operations Manager">Network Operations Manager</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/system-management-software" data-linkdetail="Products:Systems Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Systems Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/server-application-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Server &amp; Application Monitor">Server &amp; Application Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/virtualization-manager" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Virtualization Manager">Virtualization Manager</a>
+                            </li>
+                            <li>
+                                <a href="/storage-resource-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Storage Resource Monitor">Storage Resource Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/backup" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:SolarWinds Backup">SolarWinds Backup</a>
+                            </li>
+                            <li>
+                                <a href="/web-performance-monitor" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Web Performance Monitor">Web Performance Monitor</a>
+                            </li>
+                            <li>
+                                <a href="/systems-management-bundle" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Systems Management Bundle">Systems Management Bundle</a>
+                            </li>
+                            <li>
+                                <a href="/application-performance-optimization" data-linktype="Top Menu" data-linkdetail="Products:Systems Management:Application Performance Optimization Pack">Application Performance Optimization Pack</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/database-performance-monitoring-software" data-linkdetail="Products:Database Management" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Database Management</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/database-performance-analyzer" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Database Performance Analyzer">Database Performance Analyzer</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-sql-server" data-linktype="Top Menu" data-linkdetail="Products:Database Management:SQL Server">SQL Server</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-oracle-monitoring-tuning" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Oracle">Oracle</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-mysql" data-linktype="Top Menu" data-linkdetail="Products:Database Management:MySQL">MySQL</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-db2" data-linktype="Top Menu" data-linkdetail="Products:Database Management:DB2">DB2</a>
+                            </li>
+                            <li>
+                                <a href="/database-performance-analyzer-sap-ase" data-linktype="Top Menu" data-linkdetail="Products:Database Management:SAP ASE">SAP ASE</a>
+                            </li>
+                            <li>
+                                <a href="/cloud-virtualized-database-migration" data-linktype="Top Menu" data-linkdetail="Products:Database Management:Cloud">Cloud</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/it-security-management-tools" data-linkdetail="Products:IT Security" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">IT Security</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/siem-security-information-event-management-software" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Security Information and Event Management">Security Information and Event Management</a>
+                            </li>
+                            <li>
+                                <a href="/patch-manager" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Patch Manager">Patch Manager</a>
+                            </li>
+                            <li>
+                                <a href="/serv-u-managed-file-transfer-server" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Secure Managed File Transfer Server">Secure Managed File Transfer Server</a>
+                            </li>
+                            <li>
+                                <a href="/ftp-server-software" data-linktype="Top Menu" data-linkdetail="Products:IT Security:Secure FTP Server">Secure FTP Server</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/it-help-desk" data-linkdetail="Products:IT Help Desk" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">IT Help Desk</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href="/help-desk-software" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Web Help Desk">Web Help Desk</a>
+                            </li>
+                            <li>
+                                <a href="/remote-support-software" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Dameware Remote Support">Dameware Remote Support</a>
+                            </li>
+                            <li>
+                                <a href="/dameware-mini-remote-control" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Dameware Mini Remote Control">Dameware Mini Remote Control</a>
+                            </li>
+                            <li>
+                                <a href="/help-desk-essentials" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Help Desk Essentials">Help Desk Essentials</a>
+                            </li>
+                            <li>
+                                <a href="/mobile-admin" data-linktype="Top Menu" data-linkdetail="Products:IT Help Desk:Mobile Admin">Mobile Admin</a>
+                            </li>
+                </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/cloud-monitoring" data-linkdetail="Products:Cloud" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Cloud</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                <ul class="dropdown-menu">
+                            <li>
+                                <a href=" https://www.appoptics.com/" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Application &amp; Infrastructure Monitoring">Application &amp; Infrastructure Monitoring</a>
+                            </li>
+                            <li>
+                                <a href="/papertrail" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Hosted Log Management">Hosted Log Management</a>
+                            </li>
+                            <li>
+                                <a href="/pingdom" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Website Uptime &amp; Performance">Website Uptime &amp; Performance</a>
+                            </li>
+                            <li>
+                                <a href="http://www.loggly.com" data-linktype="Top Menu" data-linkdetail="Products:Cloud:Hosted Log Monitoring &amp; Analytics">Hosted Log Monitoring &amp; Analytics</a>
+                            </li>
+                </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Support" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Support</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center" data-linkdetail="Support:Success Center" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Success Center</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center?sid=mnavSC" data-linktype="Top Menu" data-linkdetail="Support:Success Center:Access the Success Center">Access the Success Center</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Smart_Start_Onboarding_Program?sid=mnavSS" data-linktype="Top Menu" data-linkdetail="Support:Success Center:Smart Start Onboarding">Smart Start Onboarding</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center" data-linkdetail="Support:Technical Support" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Technical Support</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:Americas: +1-512-682-9300">Americas: +1-512-682-9300</a>
+                        </li>
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:EMEA: +353 21 5002900">EMEA: +353 21 5002900</a>
+                        </li>
+                        <li>
+                            <a href="/company/contact-us" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:APAC: +61 2 8412 4900">APAC: +61 2 8412 4900</a>
+                        </li>
+                        <li>
+                            <a href="https://customerportal.solarwinds.com/support/submit-a-ticket?sid=mnavT" data-linktype="Top Menu" data-linkdetail="Support:Technical Support:Submit a Ticket">Submit a Ticket</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy" data-linkdetail="Support:Training &amp; Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Training &amp; Certification</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy?sid=mnavSA" data-linktype="Top Menu" data-linkdetail="Support:Training &amp; Certification:SolarWinds Academy">SolarWinds Academy</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Solarwinds_Academy/Solarwinds_Certified_Professional?sid=mnavCP" data-linktype="Top Menu" data-linkdetail="Support:Training &amp; Certification:SolarWinds Certified Professional">SolarWinds Certified Professional</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://customerportal.solarwinds.com/" data-linkdetail="Support:Customer Portal" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Customer Portal</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://customerportal.solarwinds.com/?sid=mnavCP" data-linktype="Top Menu" data-linkdetail="Support:Customer Portal:Access the Customer Portal">Access the Customer Portal</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/maintenance" data-linkdetail="Support:Renew Maintenance" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Renew Maintenance</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/maintenance?sid=mnavRM" data-linktype="Top Menu" data-linkdetail="Support:Renew Maintenance:Renew Maintenance">Renew Maintenance</a>
+                        </li>
+                        <li>
+                            <a href="https://support.solarwinds.com/Success_Center/Customer_Service/Frequently_Asked_Questions_About_Auto-Renewal?sid=mnavAR" data-linktype="Top Menu" data-linkdetail="Support:Renew Maintenance:Learn about Auto-Renewal">Learn about Auto-Renewal</a>
+                        </li>
+                    </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Community" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Community</a>
+    <ul class="dropdown-menu ultra-menu">
+            <li class="menu-item dropdown">
+                <a href=" https://thwack.solarwinds.com/welcome" data-linkdetail="Community:THWACK" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">THWACK</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://thwack.solarwinds.com/welcome" data-linktype="Top Menu" data-linkdetail="Community:THWACK:View THWACK">View THWACK</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linkdetail="Community:Geek Speak Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Geek Speak Blog</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://thwack.solarwinds.com/community/solarwinds-community/geek-speak_tht/" data-linktype="Top Menu" data-linkdetail="Community:Geek Speak Blog:View Geek Speak Blog">View Geek Speak Blog</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="https://logicalread.com/" data-linkdetail="Community:LogicalRead Blog" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">LogicalRead Blog</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="https://logicalread.com/" data-linktype="Top Menu" data-linkdetail="Community:LogicalRead Blog:View LogicalRead Blog">View LogicalRead Blog</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="menu-item dropdown">
+                <a href="/certification/network-certification" data-linkdetail="Community:Personal Certification" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle menu-subheadline" role="button" data-linktype="Top Menu">Personal Certification</a>
+                <a href="#" data-toggle="dropdown" class="mobile-menu-icon"><span class="expand"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/certification/network-certification" data-linktype="Top Menu" data-linkdetail="Community:Personal Certification:View Professional Certification">View Professional Certification</a>
+                        </li>
+                    </ul>
+            </li>
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="FREE DOWNLOADS" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">FREE DOWNLOADS</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Contact Sales" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Contact Sales</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+<li class="menu-toggle separator">
+    <a href="" data-linkdetail="Online Quote" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle menu-headline" role="button" data-linktype="Top Menu" aria-expanded="false">Online Quote</a>
+    <ul class="dropdown-menu ultra-menu">
+    </ul>
+</li>
+                <li class="view-menu-toggle separator">
+                    <a href="/downloads" class="view-all-products" data-linktype="Top Menu" data-linkdetail="View All Products">View All Products</a>
+                    <a href="/free-tools" class="view-free-tools" data-linktype="Top Menu" data-linkdetail="View Free Tools">View Free Tools</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+</div>
+
+
+        
+
+
+
+
+        <div lang="en">
+
+
+
+
+
+
+
+
+<div id="" class="container-fluid">
+
+    <!-- background color is set by properties in layout -->
+        <div class="container topics-simple-hero">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <h1 class=" ">SolarWinds Privacy</h1>
+
+
+                </div>
+            </div>
+        </div>
+</div></div>
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div lang="en">
+
+
+<p>&nbsp;</p>
+<p>SolarWinds is committed to protecting the privacy of visitors of the SolarWinds website(s), individuals who register to use the products and services, individuals who register to attend the Company’s corporate or other events, and business partners. This Privacy Notice (“Privacy Notice” or “Notice”) describes our privacy practices in relation to the use of SolarWinds websites (including any customer portal or interactive customer website), its software, services, solutions, tools, and related applications, services, and programs, including attendance of corporate events and research and marketing activities, offered by SolarWinds (the “Services”) as well as your choices regarding use, access and correction of personal data.
+</p>
+<p><a href="/general-data-protection-regulation-core-it"><strong>GDPR Statement</strong>:</a> The EU General Data Protection Regulation (GDPR), enforceable as of May 25, 2018, imposes additional requirements upon companies to strengthen the security around and enhance the protection of personal data of EU residents. SolarWinds has a dedicated, cross-functional team overseeing SolarWinds' GDPR readiness. We discuss SolarWinds' efforts and commitment to GDPR in the <a href="/general-data-protection-regulation-core-it"> SolarWinds GDPR Resource Center</a>. </p>
+<p><a href="#privacy" name="privacy"><strong>Privacy Notice</strong>:</a> SolarWinds is committed to protecting the privacy of those involved in its business. This Privacy Notice is meant to help you understand, among other things, what personal data we collect, why we collect it, and what we do with it.</p>
+<p><a href="https://www.solarwinds.com/cookies"><strong>Cookie Policy</strong>:</a> This Cookie Policy addresses how we use cookies when you visit SolarWinds. We want to be clear about how we collect and use data related to you via cookies.</p>
+<a name="privacy" id="privacy"></a>
+<p>
+<strong>PRIVACY NOTICE</strong>
+</p>
+<p>
+<em>Last updated: May 15, 2018</em>
+</p>
+<p>
+SolarWinds Worldwide, LLC and its affiliated companies and subsidiaries
+(“SolarWinds,” “we” or “us”) are committed to protecting the privacy of
+visitors of the SolarWinds website(s), individuals who register to use the
+products and services, individuals who register to attend the Company’s
+corporate events, and business partners (“Customers”). This Privacy Notice
+(“Privacy Notice” or “Notice”) describes our privacy practices in relation
+to the use of SolarWinds websites (including any customer portal or
+interactive customer website), its software, services, solutions, tools,
+and related applications, services, and programs, including attendance of
+corporate events and research and marketing activities, offered by
+SolarWinds (the “Services”) as well as your choices regarding use, access
+and correction of personal data.
+</p>
+<p>
+This Privacy Notice describes how we collect, use, disclose and otherwise
+process personal data collected related to our Services and otherwise in
+the course of our business activities, including the information practices
+of the websites that link to this Privacy Notice (“Sites”).
+</p>
+<p>
+This Privacy Notice does not apply to information collected about
+SolarWinds employees, applicants, or other personnel.
+</p>
+<p>
+The SolarWinds Sites may contain links to other websites; and information
+practices and/or the content of such other websites shall be governed by
+the privacy statements of such other websites.
+</p>
+<p>
+<strong>About Us</strong>
+</p>
+<p>
+SolarWinds provides its Services—which include IT management and monitoring
+solutions such as network, systems and database management, security
+solutions, applications and infrastructure monitoring, and IT helpdesk
+tools—to business customers, directly, and through distributors, resellers,
+and managed service providers (MSPs).
+</p>
+<p>
+SolarWinds Parent Inc. and SolarWinds Worldwide, LLC (and their US subsidiaries listed on the SolarWinds certification page) have complied with the EU-US and Swiss-US Privacy Shield Framework; as part of this, we have certified to the US Department of Commerce that we adhere to the Privacy Shield principles of: Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (the <strong>“Principles”</strong>), with respect to personal data that we process on behalf of our Customers established in the European Union and Switzerland. For more information about our Privacy Shield commitment, refer to the Privacy Shield section below.
+</p>
+<p>
+You can learn more about Privacy Shield at
+<a href="https://www.privacyshield.gov/">
+<strong>www.privacyshield.gov</strong>
+</a>
+and see our Privacy Shield self-certification at
+<a href="https://www.privacyshield.gov/list">
+<strong>www.privacyshield.gov/list</strong></a>. SolarWinds' self-certification to the Privacy Shield is subject to the
+investigatory and enforcement authority of the Federal Trade Commission.
+</p>
+<p>
+<strong>Customer Owned Data</strong>
+</p>
+<p>
+As a provider of Services, we may receive, process or store certain
+information, including personal information, on behalf of our Customers.
+All such information (“<strong>Customer Data</strong>”) is owned and
+controlled by our Customers, who are the data controllers for such
+information with respect to EU data protection law. Customer Data may
+include information from the end points and other systems, tools or devices
+that Customers manage or monitor using our Services, and end user data
+related to individuals activities on Customer’s network and systems. It may
+also include event logs, end user information (such as IP address, email
+address and computer name), and other data where relevant to a support or
+service request. SolarWinds is a data processor for Customer Data. This means that SolarWinds processes Customer Data on the basis of instructions from our Customers. If SolarWinds receives a data subject request, it may point you in the direction of its Customer, as the Customer is the controller of the Customer Data.
+</p>
+<p>
+<strong>Data Relating to Our Customers and Users of Our Sites</strong></p>
+<p>SolarWinds collects information as part of its normal business operations and in the administration of its relationship with Customers, which may include personal data.</p>
+<p>
+<em>
+Business Contact and Customer Relationship Management.
+</em>
+We collect and maintain information about our Customers, which may include
+company name, business contact name and title, phone number, email and
+other contact details. We may also collect billing address, financial
+account, credit card information, order details, subscription and license
+information, and usage details. In addition, we collect user credential and
+profile data (name, contact, authorized users) of Customer’s authorized
+users and account administrators.
+</p>
+<p>
+<em>Data Submitted on Sites.<strong> </strong></em>
+In order to access or use certain portions of the Sites, to enjoy the full
+functionality of the Sites, or to conduct or seek to conduct business with
+us, you may be prompted to provide certain personal data to us, including
+in the following ways:<strong><em></em></strong>
+</p>
+<ul>
+    <li>by filling in forms (for example, a “Contact Us” form) on our Sites or at
+    a trade show or anywhere else we conduct business;
+    </li>
+    <li>by downloading or accessing the SolarWinds Services;
+    </li>
+    <li>by downloading documentation from our Sites;
+    </li>
+    <li>by subscribing to newsletters or other communications; or
+    </li>
+    <li>by corresponding with us by phone, e-mail or otherwise using our contact
+    details.
+    </li>
+</ul>
+<p>
+Typically, the personal data you give us may include name, business
+affiliation, business address, telephone number, and email address, and any
+personal details required to resolve any enquiries or complaints.
+</p>
+<p>
+<em>Third Parties.</em>
+We may also obtain personal data about Customers from third parties, such
+as LinkedIn and other publicly accessible sources.
+</p>
+<p>
+<em>Customer Support and Service.<strong> </strong></em>
+When Customers contact us for support or other customer service requests,
+we maintain support tickets and other records related to the requests,
+including any information provided by Customers related to such support or
+service requests. We may also collect call recordings related to support
+and customer service-related calls.
+</p>
+<p>
+<em>Usage Details.</em>
+We collect information about Customers’ usage of our Services, including IP
+address, Customer ID, email address, and other usage statistics. We do not
+collect usage details about Customer end users, except as necessary for
+support or to provide the Services requested by Customers (in which case we
+are a data processor of such data).
+</p>
+<p>
+When you visit our Sites, our server automatically collects certain browser
+or device generated information, which may in some cases constitute
+personal data, including but not limited to:
+</p>
+<ul>
+    <li>
+    your domain;
+    </li>
+    <li>
+    your IP address;</li>
+    <li>your date, time and duration of your visit;</li>
+    <li>your browser type;
+    </li>
+    <li>
+    your operating system;
+    </li>
+    <li>
+    your page visits;</li>
+    <li>information from third parties;</li>
+    <li>other information about your computer or device; or</li>
+    <li>Internet traffic.
+    </li>
+</ul>
+<p>
+<em>De-identified Data.</em>
+We may de-identify and aggregate certain data we collect such that the
+data no longer identifies or can be linked to a particular customer or an
+individual data subject (“De-identified Data”), subject to the terms of any
+applicable customer agreements. We may use this data to improve our
+Services, analyze trends, publish market research, and for other marketing,
+research or statistical purposes, and may disclose such data to third
+parties for these specific purposes.
+</p>
+<p>
+<em>Other Data</em>. SolarWinds collects, uses and maintains certain data related to its business and the Services it provides to Customers, which is not personal data; this privacy notice does not restrict our use and processing of such data.
+</p>
+<p>
+<strong>Cookies</strong>
+</p>
+<p>
+Our Sites use cookies. More information about our use of cookies can be
+found in our cookie policy at <a href="https://www.solarwinds.com/cookies">
+<strong>www.solarwinds.com/cookies</strong></a>.
+</p>
+<strong>Use of Personal Data</strong>
+<p>&nbsp;</p>
+<p>
+The following is an overview of our purposes for using personal data that we process as a data controller. Additional details on how we process your personal data may be provided to you in a separate notice or contract.
+</p>
+<p>
+For individuals in the European Union, our processing (i.e. use) of your personal data is justified on the following legal bases:
+</p>
+<ul>
+    <li><strong>Performance of Contract:</strong> the processing is necessary to perform a contract with you or take steps to enter into a contract at your request;</li>
+    <li><strong>Compliance with Law:</strong> the processing is necessary for us to comply with a relevant legal obligation (for example, laws which require us to collect tax information from customers, carry out checks on customers, or which compel us to disclose information to public authorities or regulators);</li>
+    <li><strong>Our Legitimate Interests:</strong> the processing is in our legitimate interests, subject to your interests and fundamental rights, and notably our legitimate interest in using applicable data to conduct and develop our business activities, such as developing and maintaining relationships with our customers (the majority of the processing covered by this notice is legitimate interest based);* </li>
+    <li><strong>Defend Our Rights:</strong> where the processing is necessary to the establishment, exercise or defence of legal claims; or</li>
+    <li><strong>With Your Consent:</strong> you have consented to the processing (for example, where we are required by local law to rely upon your prior consent for the purposes of direct marketing).</li>
+</ul>
+<p>* In all cases where legitimate interests is relied upon as a lawful basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights and freedoms.  This is achieved in a number of ways, including through the application of principles of data minimization and security, and by taking steps to ensure that personal data is only collected or otherwise obtained where it is relevant to the lawful business activities, and where using personal data is reasonably necessary for those activities.</p>
+<p>
+<strong>Disclosure of Personal Data</strong>
+</p>
+<p>
+SolarWinds is a global group of companies, and we may share personal data
+with our affiliated businesses as part of our business operations and
+administration of the Services. We may also appoint third party service
+providers (who will operate under our instructions) to assist us in
+providing information, products or services to you, in conducting and
+managing our business, or in managing and improving our Services or the
+Sites. SolarWinds may share your personal data with these affiliates and
+third parties to perform services that the third parties have been engaged
+by SolarWinds to perform on SolarWinds's behalf, subject to appropriate
+contractual restrictions and security measures, or if we believe it is
+reasonably necessary to prevent harm or loss, or it believes that the
+disclosure will further an investigation of suspected or actual illegal
+activities.
+</p>
+<p>
+SolarWinds reserves the right to share any information that is not deemed
+personal data or is not otherwise subject to contractual restrictions.
+</p>
+<p>
+If personal data is transferred outside the EU to other SolarWinds group
+companies or to third party service providers, we will take steps to ensure
+that your personal data receives the same level of protection as if it
+remained within the EU, including by entering into data transfer
+agreements, using the European Commission approved Standard Contractual
+Clauses, or by relying on certification schemes such as the EU - US Privacy
+Shield. For transfers to other SolarWinds group companies in the United
+States (a country that has not received a decision from the European
+Commission determining that the United States provides adequate protection
+to personal data), we have put in place European Commission approved
+Standard Contractual Clauses, which protect personal data transferred
+between SolarWinds entities. You have a right to obtain details of the
+mechanism under which your personal data is transferred outside of the EU
+by contacting <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>.
+</p>
+<p>
+We contractually require agents, service providers, and affiliates who may
+process personal data related to the Services to provide the same level of
+protections for personal data as required under the Principles. SolarWinds
+currently does not transfer personal data to a third party for the third
+party’s own use, but only for SolarWinds’ purposes as outlined above.
+SolarWinds will remain liable under the Principles if one of its third
+party processors processes personal data in a manner inconsistent with the
+Principles, if we are responsible for the event giving rise to the damage.
+</p>
+<p>
+<strong>Other Disclosures</strong>
+</p>
+<p>
+<em>Law Enforcement or National Security</em>. In accordance with our legal obligations, we may also transfer Customer
+Data, subject to a lawful request, to public authorities for law
+enforcement or national security purposes.
+</p>
+<p>
+<em>Additional Disclosures</em>. We may also disclose Customer Data (including any personal data), where
+otherwise required by law.
+</p>
+<p>
+<em>Business Transfers.<strong> </strong></em>
+We may share personal data with third parties in connection with potential
+or actual sale of our company or any of our assets, or those of any
+affiliated company, in which case personal data held by us about our users
+may be one of the transferred assets.
+</p>
+<p>
+<em>Just-in-Time Disclosures.</em> Additional disclosures or information about processing of personal data related to specific websites, mobile applications, products, services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional choices as to how SolarWinds may process your personal data.
+</p>
+<p>
+<strong>Children</strong>
+</p>
+<p>
+The Sites, Services and Portal are not for use by children under the age of
+16 years and SolarWinds does not knowingly collect, store, share or use the
+personal data of children under 16 years. If you are under the age of 16
+years, please do not provide any personal data, even if prompted by the
+Sites to do so. If you are under the age of 16 years and you have provided
+personal data, please ask your parent(s) or guardian(s) to notify
+SolarWinds and SolarWinds will delete all such personal data.
+</p>
+<p>
+<strong>Marketing </strong>
+</p>
+<p>
+Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications, please visit the Email Preference Center on our Site or use the Email Preference Center link in our promotional emails to request that we will stop sending you communications.
+</p>
+<p>
+<strong>Security</strong>
+</p>
+<p>
+SolarWinds aims to safeguard and protect your personal data from
+unauthorized access, improper use or disclosure, unauthorized modification
+or unlawful destruction or accidental loss, and SolarWinds utilizes and
+maintains certain reasonable processes, systems, and technologies to do so.
+However, you acknowledge that no environment is completely secure or
+error-free, and that these processes, systems, and technologies utilized
+and maintained by SolarWinds are subject to compromise. Accordingly, we
+cannot be held responsible for unauthorized or unintended access that is
+beyond our control.
+</p>
+<p>
+<strong>Retention of Your Personal Data</strong>
+</p>
+<p>
+We apply a general rule of keeping personal data only for as long as
+required to fulfil the purposes for which it was collected. However, in
+some circumstances, we may retain personal data for other periods of time,
+for instance where we are required to do so in accordance with legal, tax
+and accounting requirements, or if required to do so by a legal process,
+legal authority, or other governmental entity having authority to make the
+request, for so long as required.
+</p>
+<p>
+In specific circumstances, we may also retain your personal data for longer
+periods of time corresponding to a statute of limitation, so that we have
+an accurate record of your dealings with us in the event of any complaints
+or challenges.
+</p>
+<p>
+<strong>External Links</strong>
+</p>
+<p>
+The Sites may contain links to third party sites. Since SolarWinds does not
+control nor is responsible for the privacy practices of those websites, we
+encourage you to review the privacy policies of these third party sites.
+This Policy applies solely to personal data collected by our Sites or in
+the course of our business activities.
+</p>
+<p>
+<strong>Access and Data Subject Rights</strong>
+</p>
+<p>Individuals have the right to access the personal data processed about them, subject to applicable law; individuals may request to access their personal data processed by us by emailing us at <a href="/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a>.</p>
+<p>
+Subject to applicable law, you may also have some or all of the following rights available to you in respect of your personal data
+</p>
+<ul>
+    <li>to obtain a copy of your personal data together with information about how and on what basis that personal data is processed;
+    </li>
+    <li>to rectify inaccurate personal data (including the right to have incomplete personal data completed);
+    </li>
+    <li>to erase your personal data (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed);
+    </li>
+    <li>to restrict processing of your personal data under certain circumstances
+    </li>
+    <li>to port your data in machine-readable format to a third party (or to you) when we justify our processing on the basis of your consent or the performance of a contract with you;
+    </li>
+    <li>to withdraw your consent to our processing of your personal data (where that processing is based on your consent); and
+    </li>
+    <li>to obtain, or see a copy of the appropriate safeguards under which your personal data is transferred to a third country or international organization.
+    </li>
+</ul>
+<p>
+In addition to the above rights, under EU data protection law, applicable individuals have the right to object, on grounds relating to your particular situation, at any time to any processing of your personal data for which we have justified on the basis of a legitimate interest, including profiling (as opposed to your consent) or to perform a contract with you. You also have the right to object at any time to any processing of your personal data for direct marketing purposes, including profiling for marketing purposes.
+</p>
+<p>
+You also have the right to lodge a complaint with your local supervisory authority for data protection.
+</p>
+<p>
+In relation to all of these rights, please contact us at <a href="/legal/personal-data-request">http://www.solarwinds.com/legal/personal-data-request</a>. Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all applicable timeframes.
+</p>
+<p>
+If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your request to the relevant Customer, and data controller for your personal data.
+</p>
+<p>
+<strong>Privacy Shield Dispute Resolution</strong></p>
+<p>
+We encourage EU and Swiss individuals who have questions or complaints
+about how we process their personal data under Privacy Shield to contact us
+at <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>. We will work to resolve your issue as quickly as
+possible, but in any event, within 45 days of receipt.
+</p>
+<p>
+We commit to refer unresolved Privacy Shield complaints, please contact, free of charge, our dispute resolution provider, JAMS, at <a rel="noopener noreferrer" href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim" target="_blank">www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim</a>.
+</p>
+<p>
+If you are an EU or Swiss individual and unable to resolve any complaints through any of the above methods, you may be able to invoke binding arbitration through a Privacy Shield panel, in accordance with the Privacy Shield Framework at <a rel="noopener noreferrer" href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>.
+</p>
+<p>
+<strong>Contact Information</strong>
+</p>
+<p>
+If you have any questions in relation to this Notice, please contact us at <a href="mailto:privacy@solarwinds.com">privacy@solarwinds.com</a>.
+</p></div>
+
+        </div>
+    </div>
+</div>
+
+        <div lang="en">
+
+<div class="container-fluid footer-top stretch">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-5">
+                 <p>We're Geekbuilt<sup>™</sup>.</p>
+<p>Developed by network and systems engineers who know what it takes to manage today's dynamic IT environments, SolarWinds has a deep connection to the IT community.</p>
+<p>The result? IT management products that are effective, accessible, and easy to use.</p>
+                <ul class="social-icons">
+                    <li class="facebook">                        
+<a href="https://www.facebook.com/SolarWinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/facebook_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=931ADB02E12C11EF99FB14607E7B3BF6D7C3A478" alt=""></a>                    </li>
+                    <li class="twitter">
+<a href="https://twitter.com/solarwinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/twitter_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=AC3284782C573D962E96F922BC238C52DD8A9F96" alt=""></a>                    </li>
+                    <li class="youtube">
+<a href="https://www.youtube.com/user/solarwindsinc" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/youtube_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=7CFE9622B85C705D2EFA1FDC7032AFBDFB32E6A8" alt=""></a>                    </li>
+                    <li class="linkedin">
+<a href="https://www.linkedin.com/company/solarwinds" target="_blank"><img src="/-/media/solarwinds/swdcv2/footer/linkedin_white.ashx?h=40&amp;w=40&amp;la=en&amp;hash=2A68E8B96D28D26C01F7F397378809D49F2907C4" alt=""></a>                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-4 col-sm-offset-3">
+                <div class="row company-links">
+                    <div class="col-xs-6">
+                        <a href="/company/home">Company</a>
+                        <a href="https://solarwinds.jobs/">Career Center</a>
+                        <a href="/resources">Resource Center</a>
+                        <a href="http://launch.solarwinds.com/SW-User-Preferences.html">Email Preference Center</a>
+                        <a href="/solution-finder">Solution Finder</a>
+                    </div>
+                    <div class="col-xs-6">
+                        <a href="https://customerportal.solarwinds.com/" target="_blank">For Customers</a>
+                        <a href="/federal-government/it-management-solutions-for-government">For Government</a>
+                        <a href="https://partner.solarwinds.com/">For Partners</a>
+                        <a href="/general-data-protection-regulation-core-it">GDPR Resource Center</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid footer-bottom stretch">
+    <div class="container trademark">
+        <div class="row"> 
+            <div class="col-sm-8">
+                <a href="/legal/legal-documents">Legal Documents</a>
+                <a href="/information-security">Security Information</a>
+                <a href="/product-documentation">Documentation &amp; Uninstall Information</a>
+                
+                
+                
+            </div>
+            <div class="col-sm-4">
+                <span class="legal">© 2018 SolarWinds Worldwide, LLC. All rights reserved.</span>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ .container-->
+</div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript">var dataLayer = {
+  "site": {
+    "isProduction": "True",
+    "type": "desktop",
+    "majorVersion": "2",
+    "id": "1",
+    "brand": "solarwinds",
+    "country": "US",
+    "language": "en",
+    "SiteID": 1
+  },
+  "event": {
+    "name": []
+  },
+  "page": {
+    "server": "p-win-cd-02",
+    "legacyPageName": "US:Root:Privacy Statement:::"
+  },
+  "visitor": {
+    "loginState": "",
+    "type": "",
+    "swid": "",
+    "ipaddress": "207.241.231.85",
+    "persona": ""
+  }
+};</script>
+
+<div class="full-screen-overlay-carousel">
+    <a href="#" class="close">Close <i class="fa fa-times-circle-o"></i></a>
+    <div class="carousel slide" id="lightbox" data-ride="carousel" data-interval="false"></div>
+    <div class="video-content"></div>
+</div>
+
+<div class="full-screen-overlay">
+    <div class="overlay-contents">
+        <div class="static-content">
+            <div class="inner">{{STATIC CONTENT}}</div>
+            <div class="caption">
+                <input type="checkbox" id="static-caption" name="caption[]">
+                <div class="caption-content">
+                    <label for="static-caption" class="caption-control"></label>
+                    <div class="h3">{{CAPTION_TITLE}}</div>
+                    <p>{{CAPTION_CONTENT}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="overlay-title">
+            <div class="h4">{{TITLE}}</div>
+            <a href="#" class="close"><i class="fa fa-close"></i></a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+<script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/bundles/vendorv2?v=uF-TEng8khyCfigRnBojBTK4iEm5cSJsatn-1SonprU1"></script>
+
+<script src="/bundles/registration?v=ICQ0wOOT5bx_1XQyfMnJ0RKVkqFvJXrKe6-pkFigiYY1"></script>
+
+<script src="/bundles/solarwindsscriptsv2?v=ponWUrhcsHAqPQEzonGh_VHwcjA6vM3A9hWgxKDILzI1"></script>
+
+
+<script type="text/javascript">
+    $(function () {
+        $('img').lazy();
+    });
+</script>
+
+    
+
+
+
+</body></html>
