@@ -1,59 +1,81 @@
-> *The following text is extracted and transformed from the italymag.co.uk privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123235827id_/http%3A//www.italymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italymag.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630003403id_/http%3A//www.italymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ITALY Magazine
 
-Your privacy is critically important to us. At ITALYMagazine,LLC we have a few fundamental principles:
+ItalyMagazine.com is committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by ItalyMagazine.com. The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
-We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+ItalyMagazine.com complies with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. ItalyMagazine.com complies with the EU Data Protection Directive through adherence to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. ItalyMagazine.com has certified with the Department of Commerce adherence to these principles for all personal data received from the European Union. To learn more about the Privacy Shield Frameworks program, and to view ItalyMagazine.com's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+**I. Information We Collect**
 
-We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+**Personal Information**
 
-In our community products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+At various locations on our websites, such as in our order forms (and potentially surveys and polls), we may request that you supply us with "personal information", such as your name, email address, mailing and shipping addresses, home, work or mobile telephone number, and/or credit card information. only collect personal information when you voluntarily submit this information to us through our online forms and questionnaires. You do not have to provide us with any information to visit our websites, however, you may not be able to fully utilize all of the services on our websites if you choose not to provide certain information. If you choose to give us personal information through our websites, we will collect and retain that information subject to the provisions of this Privacy Policy and of the Privacy Shield Framework.
 
-Below is our privacy policy which incorporates these goals:
+**Non-Personal Information**
 
-If you have questions about deleting or correcting your personal data please contact our support team.
+When you use our websites, we may also collect "non-personal information", which is information that, by itself, cannot be used to identify or contact you, such as demographic information (your age, gender, income, education, profession, zip code, etc.). Non-personal information may also include technical information, such as your IP address, the type of browser you are using, the website that you came to our site from, or that you go to directly from our site, and other anonymous data involving your use of our websites. Non-personal information may also include information that you provide us through your use of our website 
 
-ITALYMagazine,LLC (“ITALY”) operates several websites including italymagazine.com. It is ITALY’s policy to respect your privacy regarding any information we may collect while operating our websites.
+**Online Orders**
 
-## Website Visitors
+We collect personal information from you when you purchase products from our online order process and/or mobile App (Application). For example, we require you to provide your name, contact information, shipping and billing addresses, and a credit card number before we process your orders.  
+We also collect information about your transactions with us. We may use the information that you provide to communicate with you about products purchased through our online service, to provide customer support in connection with those products, and to provide information on products related to those you have ordered from us. You can opt-out at any time from receiving information on products related to those you have ordered from us by sending an email to [support@italymagazine.com](mailto:support@italymagazine.com).
 
-Like most website operators, ITALY collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ITALY’s purpose in collecting non-personally identifying information is to better understand how ITALY’s visitors use its website. From time to time, ITALY may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-
-ITALY also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments. ITALY only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
-
-## Gathering of Personally-Identifying Information
-
-Certain visitors to ITALY’s websites choose to interact with ITALY in ways that require ITALY to gather personally-identifying information. The amount and type of information that ITALY gathers depends on the nature of the interaction. For example, we ask visitors who sign up for participation in our community at italymagazine.com to provide a username and email address. Those who engage in transactions with ITALY – by purchasing a product from our shop, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, ITALY collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor’s interaction with ITALY. ITALY does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-## Aggregated Statistics
-
-ITALY may collect statistics about the behavior of visitors to its websites. For instance, ITALY may monitor the most popular post on the italymagazine.com. ITALY may display this information publicly or provide it to others. However, ITALY does not disclose personally-identifying information other than as described below.
-
-## Protection of Certain Personally-Identifying Information
-
-ITALY discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on ITALY’s behalf or to provide services available at ITALY’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ITALY’s websites, you consent to the transfer of such information to them. ITALY will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, ITALY discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when ITALY believes in good faith that disclosure is reasonably necessary to protect the property or rights of ITALY, third parties or the public at large. If you are a registered user of an ITALY website and have supplied your email address, ITALY may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ITALY and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ITALY takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-## Cookies
+**Cookies**
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. ITALY uses cookies to help ITALY identify and track visitors, their usage of ITALY website, and their website access preferences. ITALY visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ITALY’s websites, with the drawback that certain features of ITALY’s websites may not function properly without the aid of cookies.
 
-## Business Transfers
+**II. How We Use the Information**
 
-If ITALY, or substantially all of its assets, were acquired, or in the unlikely event that ITALY goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of ITALY may continue to use your personal information as set forth in this policy.
+**Our Services and Websites**
 
-## Ads
+We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases and to provide information on products related to those you have ordered from us. You can opt-out at any time from receiving information on products related to those you have ordered from us by sending an email to [support@italymagazine.com](mailto:support@italymagazine.com). We use aggregated non-personal information about our users to understand our website’s demographics, such as the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used and to improve the content of our websites, online product offerings, and promotional efforts.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by ITALY and does not cover the use of cookies by any advertisers.
+**Email Communications**
 
-## Comments
+If you send us an email with questions or comments, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from our reply to such an email, should you at any time opt-out of receiving further communications we will not send you emails unless you request a particular service that involves email communications or in order to provide customer support in connection with those products. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications.
 
-Comments and other content submitted to our ITALY anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+**Online Service**
 
-## Privacy Policy Changes
+If you make a purchase through our online ordering service and/or our mobile App, we may use the information you provide to send you important announcements and updates regarding our website or online service. In those instances, and at any other time, you can opt-out at any time by writing an email  
+to [support@italymagazine.com](mailto:support@italymagazine.com). When you provide us with your personal information to make a purchase through our online ordering, we only use this information to process your online order and credit card number.  
+We also use your address and billing information to bill you and provide associated support.
 
-Although most changes are likely to be minor, ITALY may change its Privacy Policy from time to time, and in ITALY’s sole discretion. ITALY encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an italymagazine.com account, you should also check your profile page for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+**III. Disclosure of Information to Third Parties**
 
-Many thanks to [Automattic](http://automattic.com/privacy/) for sharing their privacy policy, upon which this policy is based.
+Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties. This aggregate information does not include your personal information. Our websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, sponsors or other websites to which we provide links from our websites. You should check the applicable privacy policy of the third-party website when linking to other websites.
+
+**Service Providers**
+
+We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may hire a shipping company to help us deliver our products or services to you. We may also use third parties to process online transactions and credit card payments. In those instances, we may need to share your personal information with them. We use these providers based on contractual relationships and require them to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason. In compliance with the Privacy Shield Framework provisions, we remain liable for the onward transfer to third parties.
+
+**Other Disclosures**
+
+We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of ItalyMagazine.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+**IV. Security of Information**
+
+The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. This website takes all reasonable precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is compliant with the Payment Card Industry Data Security Standard (PCI DSS) which is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions and protect cardholders against misuse of their personal information as well as the information is encrypted and protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Amazon.
+
+If you have any questions about the security at our website, you can send an email to [support@italymagazine.com](mailto:support@italymagazine.com).
+
+**V. Right of Access**
+
+You have the right to access your personal information and to limit their use and disclosure. In order to do so, or for any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [support@italymagazine.com](mailto:support@italymagazine.com).  
+After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
+
+**VI. Dispute Resolution**
+
+We encourage you to contact us at [support@italymagazine.com](mailto:support@italymagazine.com) to resolve any issues or complaints. We will respond to your complaint within 45 days.
+
+We would also like to notify you that you have the option of independent recourse free of charge on issues concerning your data at the following independent dispute resolution body based in the USA:
+
+<https://www.jamsadr.com/eu-us-privacy-shield>
+
+Should you find that a claimed violation has not been resolved after having addressed your complaint to us or to the independent dispute resolution mechanism mentioned above, you have the possibility to invoke binding arbitration administered by the Privacy Shield Panel of the Department of Commerce.  
+ItalyMagazine.com is subject to the investigative and enforcement powers of the FTC, the Department of Transportation or any other authorized statutory body concerning compliance with this privacy policy.  
+This Policy is effective as of 22nd May 2018. We reserve the right to change this policy at any time and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis.
