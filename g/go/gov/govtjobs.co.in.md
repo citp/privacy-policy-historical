@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229080348id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629163950id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ You can find additional information in Appendix A of the NAI Self-Regulatory pri
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. Controlling your personal information .
 
-######  Govtjobs co ing, www Govtjobs co, teacher, UP doctor recruitment, www govtjob nic in, Indian Army Vacancy, vacancy for professor in entrepreneurship development, footwear, curator, punjab guest primary teachers vaccancy
+######  safety officer, government job vacancies, gormint job, biotech govt jobs, govt jobs in bhopal, damageddd, government jobs without gate, karnataka aranya ilakhe reqruetment, recruitment in public sector, government job of lecturer in UP
