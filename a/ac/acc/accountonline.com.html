@@ -1,24 +1,66 @@
-<!--The following is the downloaded HTML source of the accountonline.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905095739id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accountonline.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629071942id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" lang_en " lang="en" style="display: block; visibility: visible;"><head><script language="JavaScript" type="text/javascript">
+<!DOCTYPE html><html class=" lang_en " lang="en" style="display: block; visibility: visible;"><head><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta charset="utf-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
 var requiredMajorVersion = 9;
 var requiredMinorVersion = 0;
 var requiredRevision = 124;
 var isCookieDeleteEnabled = false;
 var windowName = 'null';
-</script>
+var isLEChatDisable=false;
+</script> 
+
+
+	
+		
+	
+	
 
 
 
 
 
-
-
-
-
-
-
+	
+		
+	
+	
 
 
 
@@ -44,7 +86,7 @@ var windowName = 'null';
 
 
 <script>
- var SubPortfolioWithSessionID="CBOL:150905055504272036188347";
+ var SubPortfolioWithSessionID="CBOL:180629031942486624003601";
  function getData2()
  {
   return SubPortfolioWithSessionID;
@@ -69,47 +111,11 @@ var PAGE_NAME="navigation";
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<noscript>
-<meta http-equiv="refresh" runat="server" id="mtaJSCheck" content="0; URL=https://online.citi.com/noscript.html" />
-</noscript>
-<script>
-var pageName = '';
-function launchSendMsgPopup()
-{
-launchPopup(
-'/US/jba/mc/InitializeSubApp.do?TTC=268&type=1',
-'sendMsgWindow',
-'toolbar=yes,status=yes,scrollbars=yes,location=no,menubar=no,directories=no,resizable=yes,width=478,height=555,screenX=10,screenY=10,left=10,top=10');
-}
-var pageDef="jUSCBOL_Privacy";
-var isRainbowOffersFallback="false";
-var isCustomerInvestor="N";
-var isPWMInvesterOverlay="N";
-var isCookieDeleteEnabled = false;
-var isExtracashFallback=false;
+<script type="text/javascript"> 
+var encrString='';var initVecString='';var keyString='';var signString='';
+function getData4(encrParam, initParam, keyParam, signParam) {  encrString=encrParam;initVecString= initParam;keyString= keyParam;signString= signParam;}
 </script>
 
-<link rel="stylesheet" type="text/css" href="/JFP/css/CBOLClassic.min.css">
 
 
 
@@ -118,10 +124,72 @@ var isExtracashFallback=false;
 
 
 
+	
+	
+	
+		
+		
+		    
+		
+		
+		
+		
+		
 
 
+		
+		
+	
+	
+	
+		
+		
+		
+		<script>
+		var pageName = '';
+		function launchSendMsgPopup() 
+		{ 
+			launchPopup(
+						'/US/jba/mc/InitializeSubApp.do?TTC=268&type=1',
+						'sendMsgWindow',
+						'toolbar=yes,status=yes,scrollbars=yes,location=no,menubar=no,directories=no,resizable=yes,width=478,height=555,screenX=10,screenY=10,left=10,top=10');
+		}
+		var pageDef="jUSCBOL_Privacy";
+		var isRainbowOffersFallback="false";
+		var isCustomerInvestor="N";
+		var isPWMInvesterOverlay="N";
+		var isCookieDeleteEnabled = false;
+		var isExtracashFallback=false;
+		</script>
+		
+		
+		
+		
+			<link rel="stylesheet" type="text/css" href="/JFP/css/CBOLClassic.min.css">
+		
+		
+		
+		
+			
+			
+			
+		
+		
+		<!--  empty client_id or client_type  - so no robots meta tag-->
+		
+		
+		
+	
+		<!-- Added ensighten for story 571221 start -->
+		
+		
+		
+		<!-- Added ensighten for story 571221 end -->
+		
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		
 
 
 
@@ -131,113 +199,133 @@ var isExtracashFallback=false;
 function getParentLocation(){
 return document.referrer;
 }
+
+
+	
 function isSelfLoc(src){
-var result = false;
-if(src.substring(0, 7) == "http://" || src.substring(0, 8) == "https://") {
-var token = "://";
-var index = src.indexOf(token);
-var part = src.substring(index + token.length);
-var domain = "";
-for(var i=0; i<part.length; i++) {
-var character = part.charAt(i);
-if(character == '/' || character == ':' || character == '#') {
-break;
+
+	var result = false;
+		
+	/** parse out domain to make sure it points to our own **/
+	if(src.substring(0, 7) == "http://" || src.substring(0, 8) == "https://") {
+		var token = "://";
+		var index = src.indexOf(token);
+		var part = src.substring(index + token.length);
+		var domain = "";
+		
+		/** parse up to end, first slash, or anchor **/
+		for(var i=0; i<part.length; i++) {
+			var character = part.charAt(i);
+			
+			if(character == '/' || character == ':' || character == '#') {
+				break;
+			} 
+			else {
+				domain += character;
+			}
+		}
+		
+		if(document.domain == domain){
+			result=true;
+		}		
+	}
+		
+	return result;
 }
-else {
-domain += character;
-}
-}
-if(document.domain == domain){
-result=true;
-}
-}
-return result;
-}
-function isXFSWhiteListed(parentLoc){
-try {
-var result=false;
-var XFSWhitelist="";
-if(XFSWhitelist.toLowerCase() == "null" || XFSWhitelist == "" || XFSWhitelist.length==0 ){
-return false;
-}
-if(parentLoc.toLowerCase() == "null" || parentLoc== "" || parentLoc.length==0 ){
-return false;
-}
-if(isSelfLoc(parentLoc)){
-return true;
-}
-var allowedLocations=XFSWhitelist.split("||");
-var allowedDomains = allowedLocations[0].split(" ");
-var isDomainAllowed = false;
-for (index = 0; index < allowedDomains.length; index++) {
-var token = "://";
-var pos = parentLoc.indexOf(token);
-var prefix=parentLoc.substring(0,pos+token.length);
-var part = parentLoc.substring(pos + token.length);
-var parentDomain = "";
-for(var i=0; i<part.length; i++) {
-var character = part.charAt(i);
-if(character == '/' || character == '#') {
-break;
-} else {
-parentDomain += character;
-}
-}
-parentDomain=prefix+parentDomain;
-if (parentDomain== (allowedDomains[index])) {
-isDomainAllowed = true;
-break;
-}
-}
-if (isDomainAllowed){
-if(allowedLocations[1] == "*"){
-result=true;
-}
-else {
-var allowedPages = allowedLocations[1].split("^");
-for (index = 0; index < allowedPages.length; ++index) {
-if(parentLoc.contains(allowedPages[index]) ) {
-result = true;
-}
-}
-}
-}
-return result;
-}
-catch (err) {
-return false;
-}
-}
+	
+function isXFSWhiteListed(parentLoc){   
+	try {   
+    	var result=false;
+    	var XFSWhitelist="";
+    	
+    	if(XFSWhitelist.toLowerCase() == "null" || XFSWhitelist == "" || XFSWhitelist.length==0 ){
+		    return false;
+	    }
+		if(parentLoc.toLowerCase() == "null" || parentLoc== "" || parentLoc.length==0 ){
+		    return false;
+	    }
+
+	    if(isSelfLoc(parentLoc)){
+		    return true;
+	    }
+	    
+		var allowedLocations=XFSWhitelist.split("||");
+		var allowedDomains = allowedLocations[0].split(" ");
+		var isDomainAllowed = false;
+		for (index = 0; index < allowedDomains.length; index++) {
+			var token = "://";
+			var pos = parentLoc.indexOf(token);
+			var prefix=parentLoc.substring(0,pos+token.length);
+			var part = parentLoc.substring(pos + token.length);
+			var parentDomain = "";
+			for(var i=0; i<part.length; i++) {
+				var character = part.charAt(i);
+
+				if(character == '/' || character == '#') {
+					break;
+				} else {
+					parentDomain += character;
+				}
+			}
+
+		parentDomain=prefix+parentDomain;
+		if (parentDomain== (allowedDomains[index])) {
+				isDomainAllowed = true;
+				break;
+			} 
+		}
+		
+		if (isDomainAllowed){
+			if(allowedLocations[1] == "*"){
+				result=true;
+			}
+			else {  
+				var allowedPages = allowedLocations[1].split("^");
+				for (index = 0; index < allowedPages.length; ++index) {
+					if(parentLoc.contains(allowedPages[index]) ) {
+						result = true;
+					}
+				}
+			}          
+		}			
+		return result;	   
+    }   
+    catch (err) {   
+		return false;   
+    }   
+}  	
+
 </script>
 
-<noscript>
-
-
-
-<STYLE TYPE='text/css'>
-body {display:none;visibility:hidden;}
-</STYLE>
-
-
-
-</noscript>
-
-<style>
-html {  display:none;visibility:hidden; }
-</style>
-<script>
-var parentLocation = getParentLocation();
-var XFSWhitelisted= isXFSWhiteListed(parentLocation);
-if(  self == top || XFSWhitelisted ){
-
-document.documentElement.style.display ='block';
-document.documentElement.style.visibility='visible';
-
-}else{
-top.location = self.location;
-}
-</script>
-
+		<noscript>
+		
+		
+		
+		<STYLE TYPE='text/css'>
+		body {display:none;visibility:hidden;}
+		</STYLE>
+		
+		
+		
+		</noscript>
+		
+		<style>
+			html {  display:none;visibility:hidden; }
+		</style>
+		<script>
+	
+		var parentLocation = getParentLocation();
+   	  var XFSWhitelisted= isXFSWhiteListed(parentLocation);
+			if(  self == top || XFSWhitelisted ){
+				
+	   	 		 document.documentElement.style.display ='block';
+				document.documentElement.style.visibility='visible';
+				
+			}else{
+				top.location = self.location;
+			}
+		</script>
+	
 
 
 <script type="text/javascript">
@@ -245,17 +333,17 @@ top.location = self.location;
 var domainName='online.citi.com';
 
 
-var JFP_CSRF_TOKEN = 'H2JQ1XLS';
+var JFP_CSRF_TOKEN = 'D6OTTYDS';
 
 if (OBJ_JFP_CSRF_TOKEN == undefined) {
 	var OBJ_JFP_CSRF_TOKEN = {};
 }
-OBJ_JFP_CSRF_TOKEN.onlineDOTcitiDOTcom = 'H2JQ1XLS';
+OBJ_JFP_CSRF_TOKEN.onlineDOTcitiDOTcom = 'D6OTTYDS';
 
 var isCSRFAutomationEnabled = true;
 
 </script>
-
+		
 
 <script language="JavaScript">
 function setCookie (name,value,expires,path,domain,secure) {
@@ -269,43 +357,49 @@ if (index == -1) return null;
 var endstr = c.indexOf(";", index);
 if (endstr == -1) endstr = c.length;
 return unescape(c.substring(index+name.length+1, endstr));
-}
+} 
 function areCookiesEnabled() {
-var r = false;
-var theDate = new Date();
-var expiryDate = new Date(theDate.getTime() + 900000);
-setCookie("testcookie", "testcookie", expiryDate, "/", null, true);
-if (getCookie("testcookie") != null) {
-r = true;
-var today = new Date();
-today.setYear(1970);
-setCookie("testcookie", "", today, "/", null, true);
+    var r = false;
+	var theDate = new Date(); 
+	var expiryDate = new Date(theDate.getTime() + 900000); 
+    setCookie("testcookie", "testcookie", expiryDate, "/", null, true);
+    if (getCookie("testcookie") != null) {
+        r = true;
+        var today = new Date();
+        today.setYear(1970);
+        setCookie("testcookie", "", today, "/", null, true);
+    }
+    return r;
 }
-return r;
-}
+
+
+
 
 
 
 
 if (window.location.href.indexOf("file:/") <0)
-if(!areCookiesEnabled()){
-var GetHTMLURL = "/JPS/portal/GetHTMLContent.do?path=/staticfiles/english/CookieHelp.html&JFP_TOKEN=H2JQ1XLS";
-if (GetHTMLURL.indexOf("JFP_TOKEN") > 0){
-GetHTMLURL = GetHTMLURL.split('JFP_TOKEN')[0];
+    if(!areCookiesEnabled()){
+    
+    var GetHTMLURL = "/JPS/portal/GetHTMLContent.do?path=/staticfiles/english/CookieHelp.html&JFP_TOKEN=D6OTTYDS"; 
+    if (GetHTMLURL.indexOf("JFP_TOKEN") > 0){
+        GetHTMLURL = GetHTMLURL.split('JFP_TOKEN')[0]; 
+    }
+    var GetCookieURL = "/US/JPS/portal/NoCookie.do?JFP_TOKEN=D6OTTYDS"; 
+    if (GetCookieURL.indexOf("JFP_TOKEN") > 0){
+    	GetCookieURL = GetCookieURL.split('JFP_TOKEN')[0];
+    }    
+    if((window.location.href.indexOf(GetHTMLURL ) == -1  ) && (window.location.href.indexOf(GetCookieURL ) == -1 )){
+    	window.location.href="/US/JPS/portal/NoCookie.do?JFP_TOKEN=D6OTTYDS";    
+    }
 }
-var GetCookieURL = "/US/JPS/portal/NoCookie.do?JFP_TOKEN=H2JQ1XLS";
-if (GetCookieURL.indexOf("JFP_TOKEN") > 0){
-GetCookieURL = GetCookieURL.split('JFP_TOKEN')[0];
-}
-if((window.location.href.indexOf(GetHTMLURL ) == -1  ) && (window.location.href.indexOf(GetCookieURL ) == -1 )){
-window.location.href="/US/JPS/portal/NoCookie.do?JFP_TOKEN=H2JQ1XLS";
-}
-}
+
 
 
 
 function gC(n){var c=""+document.cookie,i1=c.indexOf(n+"=");if(i1==-1)return null;var e1=c.indexOf(";", i1);if (e1==-1) e1=c.length;return unescape(c.substring(i1+n.length+1, e1));}
 if(window.location.protocol.indexOf("https")!=-1)document.cookie="JSESSIONID="+gC("JSESSIONID")+"; path=/; secure";
+
 var logoffOnLeaving = true;
 var callJBAOnload = false;
 var applicationID="USCBOL";
@@ -314,101 +408,122 @@ var transactionTypeCode="";
 var helpVariant="";
 var callJSOOnload = false;
 var callJBAOnunload = false;
+
 var callJSOOnunload = false;
 var callJPSOnload = false;
+
 function goHome()
 {
 if (startOverUrl != null && startOverUrl != ""){
 if(startOverUrl.indexOf("JFP_TOKEN") > 0)
-{
-window.top.location.href=startOverUrl;
+       {
+       window.top.location.href=startOverUrl;
+       }
+       else
+       {
+              if (startOverUrl.indexOf("?") > 0) {
+                     startOverUrl = startOverUrl+ "&JFP_TOKEN="+JFP_CSRF_TOKEN;
+              } else {
+                     startOverUrl = startOverUrl+ "?JFP_TOKEN="+JFP_CSRF_TOKEN;
+              }
+	 	window.top.location.href=startOverUrl;
+	
+       }
+
+
 }
 else
-{
-if (startOverUrl.indexOf("?") > 0) {
-startOverUrl = startOverUrl+ "&JFP_TOKEN="+JFP_CSRF_TOKEN;
-} else {
-startOverUrl = startOverUrl+ "?JFP_TOKEN="+JFP_CSRF_TOKEN;
+window.top.location.href="/US/JPS/portal/Home.do?JFP_TOKEN=D6OTTYDS";
 }
-window.top.location.href=startOverUrl;
-}
-}
-else
-window.top.location.href="/US/JPS/portal/Home.do?JFP_TOKEN=H2JQ1XLS";
-}
+
 function logOff()
 {
-window.top.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=H2JQ1XLS";
+	window.top.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=D6OTTYDS";
 }
+
+
+//no-op for now. Gets called when link is clicked or form is submitted.
 function processUnload()
 {
-if (callJBAOnunload)
-JBAOnunload();
-if(callJSOOnunload)
-JSOOnunload();
+    if (callJBAOnunload)
+        JBAOnunload();
+    if(callJSOOnunload)
+    	JSOOnunload();
 }
 
 
 function getHelpURL()
 {
-return "/US/JPS/nav/Help.do?JFP_TOKEN=H2JQ1XLS";
+  return "/US/JPS/nav/Help.do?JFP_TOKEN=D6OTTYDS";
 }
+
 var ssChildLoaded = false;
 var SS_NUM_OF_LOOP = 30;
 if(typeof SS_NUM_OF_LOOP == 'undefined')
 {
-SS_NUM_OF_LOOP = 30;
+	SS_NUM_OF_LOOP = 30;
 }
 var ssLoopCount = 1;
 var ssTimeoutID;
 var ssWinHandle;
-var ssURL = "/US/JPS/nav/SummaryRecord.do?JFP_TOKEN=H2JQ1XLS";
+var ssURL = "/US/JPS/nav/SummaryRecord.do?JFP_TOKEN=D6OTTYDS";
 function signoffPortal()
 {
-ssWinHandle = top.window.open(ssURL,"","height=650,width=600,toolbar=no,menubar=yes,resizable=yes,scrollbars=yes,location=no,status=yes");
-ssLogOff();
+	ssWinHandle = top.window.open(ssURL,"","height=650,width=600,toolbar=no,menubar=yes,resizable=yes,scrollbars=yes,location=no,status=yes");
+	ssLogOff();
 }
 function ssLogOff()
 {
-if(ssChildLoaded || (ssLoopCount > SS_NUM_OF_LOOP))
-{
-top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=H2JQ1XLS";
-}
-else
-{
-if(ssWinHandle && !ssWinHandle.closed)
-ssTimeoutID = window.setTimeout('isSSChildLoaded();', 1000);
-else
-top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=H2JQ1XLS";
-}
+	if(ssChildLoaded || (ssLoopCount > SS_NUM_OF_LOOP))
+	{
+    	top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=D6OTTYDS";
+    }
+	else
+	{
+		if(ssWinHandle && !ssWinHandle.closed)
+			ssTimeoutID = window.setTimeout('isSSChildLoaded();', 1000);
+		else
+			top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=D6OTTYDS";
+	}
 }
 function isSSChildLoaded()
 {
-if((!ssWinHandle.closed) && (ssWinHandle.summaryRecord ? true : false)){
-ssChildLoaded = true;
-clearTimeout(ssTimeoutID);
-}else if( ssLoopCount > SS_NUM_OF_LOOP ){
-ssChildLoaded = false;
-clearTimeout(ssTimeoutID);
-}
-ssLoopCount++;
-ssLogOff();
+	if((!ssWinHandle.closed) && (ssWinHandle.summaryRecord ? true : false)){
+    	ssChildLoaded = true;
+    	clearTimeout(ssTimeoutID);
+    }else if( ssLoopCount > SS_NUM_OF_LOOP ){
+	    ssChildLoaded = false;
+    	clearTimeout(ssTimeoutID);
+	}
+    ssLoopCount++;
+	ssLogOff();
 }
 </script>
 
 
 
 
+		
 
+		
+	<script>
+    // Feature - 2942 - CSRFToken Implementation From JSE
 
+	var jfp_token_ambersand = "&JFP_TOKEN="+JFP_CSRF_TOKEN;
+	var jfp_token_question = "?JFP_TOKEN="+JFP_CSRF_TOKEN;
+	
 
-
-
-
-<script type="text/javascript" language="JavaScript" src="/JPS/portal/js/JFPNav.js"></script>
-
-
-
+	</script>
+	
+		
+		
+			<script type="text/javascript" language="JavaScript" src="/JPS/portal/js/JFPNav.js"></script>
+		
+	
+		
+		
+		
+		
 
 
 
@@ -418,80 +533,81 @@ ssLogOff();
 
 L=1;
 
-L1='liHomeHeader';
-if (L1=='null')
-  L1='ruleLiHomeHeader';
+	L1='liHomeHeader';
+	if (L1=='null')
+	  L1='ruleLiHomeHeader';
+	
+	
+				
+	
 
 
 
 
-
-
-
-
-var startOverUrl="/US/JPS/portal/Index.do?JFP_TOKEN=H2JQ1XLS";
+	var startOverUrl="/US/JPS/portal/Index.do?JFP_TOKEN=D6OTTYDS";
 
 </script>
+	
+		
+		
+		
+	
+		<title>
+		
 
 
 
 
-<title>
 
 
 
-
-
-
-
-
+	
 
 Privacy
+
+
+
+
+
 -  Citibank 
 
 
 
 
 
-</title>
+	
+
+
+		</title>
+		 
 
 
 
 
 
 
+		
+		
+			<link rel="stylesheet" href="/JRS/css/US-Regional.css" type="text/css">
+			
 
-<link rel="stylesheet" href="/JRS/css/US-Regional.css" type="text/css">
 
-<script type="text/javascript" src="/CBOL/portal/layout/js/jquery-combined.min.js"></script>
+
+                                          
+                                         
+                                                       <script type="text/javascript" src="/CBOL/portal/layout/js/jquery-combined.min.js"></script>
+                                         
+                                  
+
 <script type="text/javascript" src="/JFP/js/widgets/jfp.branding.js"></script>
-<script type="text/javascript" src="/JPS/portal/js/cssPref.js"></script>
 
 
 
 
-
-
-
-
-
-<script type="text/javascript" src="/JFP/js/widgets/jfp.widgets.js"></script>
-
-
-
-
-
-<script type="text/javascript">var dtacssPh4FallbackVal = "false";</script>
-
-
-<script type="text/javascript" src="/JPS/portal/js/SitecatCampaigns.js"></script>
-
-
-<script language="JavaScript" type="text/javascript" src="/GFC/common/js/citi_Common.js"></script>
-
-
-
-<script language="JavaScript" src="/JFP/js/jquery/plugins/jquery.autocomplete.js"></script>
+         
+         
+                     <script type="text/javascript" src="/JPS/portal/js/cssPref.js"></script>
+          
 
 
 
@@ -503,8 +619,40 @@ Privacy
 
 
 
+			
+			
+				       
+                                         
+                                         
+                                                       <script type="text/javascript" src="/JFP/js/widgets/jfp.widgets.js"></script>
+                                         
+                                  
 
-<link type="text/css" href="/GFC/branding/css/branding_main.css" rel="stylesheet">
+			    
+			
+			
+			
+			
+			
+			<script type="text/javascript">var dtacssPh4FallbackVal = "false";</script>
+			
+			
+				
+					<script type="text/javascript" src="/JPS/portal/js/SitecatCampaigns.js"></script>
+					
+				
+				<script language="JavaScript" type="text/javascript" src="/GFC/common/js/citi_Common.js"></script>
+			
+		
+		
+		
+			<script language="JavaScript" src="/JFP/js/jquery/plugins/jquery.autocomplete.js"></script>
+		
+		
+		
+		
+		
+			
 
 
 
@@ -512,251 +660,293 @@ Privacy
 
 
 
+	
+		<link type="text/css" href="/GFC/branding/css/branding_main_citi.css" rel="stylesheet">
+<link type="text/css" href="/CBOL/IAServicing/css/cbol-topNav.css" rel="stylesheet">
+<script type="text/javascript" src="//nexus.ensighten.com/citi/na_prod/Bootstrap.js"></script>
 
+	
+	
 
-<script>
+		
+		
+			  
+			  
+				    <script>
 var isResponsive = false; 
 </script>
 
+			  
+		
+		<script type="text/javascript">
 
-
-<script type="text/javascript">
 if (window.addEventListener)
 window.addEventListener("load", function()
 {doOnload();}, false)
 else if (window.attachEvent)
 window.attachEvent("onload", function()
 {doOnload();})
+
 </script>
-<script type="text/javascript" charset="iso-8859-1" src="https://chat.online.citi.com/visitor/addons/deploy2.asp?site=70244976&amp;d_id=cbol&amp;default=simpleDeploy"></script></head>
-
-<body id="aUSCBOL_t_sPrivacy" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onunload="doUnload();">
-
-
-
-
+	</head>
+	
+	<body id="aUSCBOL_t_sPrivacy" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onunload="doUnload();">
+	
+	
 
 
+<script>
+var module = "smartSearch";
+var lang = "en_US_USGCB";
+var searchEnable = "null";
+var userRole = "null";
+var visitor="true";
+var isLoggedin = "false";
+if(visitor=="true"||visitor=="Y"){
+	module="PreLogin";
+	userRole="VISITOR";
+}
+</script>
+
+	
+		
+		
+			
+			<div class="cR-citiWrapper">
+				
 
 
 
 
 
-<div class="cR-citiWrapper">
 
 
+	
+		<a href="#maincontent" class="hiddenSkipNav" aria-hidden="true">Skip to main content</a>
+<!-- CitiMainBrandingHeader_USCBOL -->
+ 
+<div role="presentation" id="citilmHeader" tabindex="-1" class="reskinHeader 
 
-
-
-
-
-<a href="#maincontent" class="hiddenSkipNav">Skip to main content</a>
-<!-- MainBrandingHeader_USCBOL -->
-<div role="presentation" id="citilmHeader" tabindex="-1" class="
-
-     public 
+   public 
 
     prelog 
 
 
 br_
 ">
-
-<!-- UTILITY NAVIGATION -->
-<div id="nav_utility" class="citiBrandingNav" role="navigation" tabindex="-1">
-    <!-- BrandingUtilityNavigation -->
-<ul id="nav_home" role="menu" tabindex="-1">
-
-</ul>
-<ul role="menu" tabindex="-1">   
- <li role="menuitem" tabindex="-1"><a role="presentation" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AOProductSelection">Open an Account</a></li>
-
-        <li id="ratesTool" role="presentation" tabindex="-1">
-            <!-- BrandingRatesFlyout_USCBOL -->
-<a role="menuitem" aria-haspopup="true" class="flyoutBtn" href="javascript:void(0);"><span class="cM-whiteCaratArrowDown cM-whiteCaratArrowDown-topNav" tabindex="-1"></span> Rates </a>
-<div id="ratesFlyout" tabindex="-1" role="navigation">
-  <ul role="menubar">
-    <li class="first" role="presentation" tabindex="0"> 
-    	<a tabindex="0" role="menuitem" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CurrentRates"> Personal Banking</a></li>
-    <li role="presentation" tabindex="-1">
-      <div role="presentation" class="flyoutSeparator" tabindex="-1"></div>
-      <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=view-all-credit-cards"> Credit Cards </a></li>
-    <li role="presentation" tabindex="-1">
-      <div role="presentation" class="flyoutSeparator" tabindex="-1"></div>
-      <a role="menuitem" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Mortgages&nbsp;</a></li>
-    <li role="presentation" tabindex="-1">
-      <div role="presentation" class="flyoutSeparator" tabindex="-1"></div>
-      <a role="menuitem" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_equity_rates">Home Equity</a></li>
-    <li class="last" role="presentation" tabindex="-1">
-      <div role="presentation" class="flyoutSeparator" tabindex="-1"></div>
-      <a role="menuitem" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PersonalLinesRates"> Lending </a></li>
-  </ul>
+<div id="customerType" style="display:none">BANK</div>
+<div id="serviceLinkBean" style="display:none">travelNotificationEnabled:null,offerForYouEnabled:null,isTYEligible:N,isCIEligible:Y,isIncomeInformationEligible:null,isSingleCardSPF:null,isZelleEligible:Y,isSpecialOffersEligible:Y,isAuthEmpUser:null,btenabled:null,btstatus:null,isEnrollAlerts:null,isManageAlerts:Y</div>
+<div id="locale" style="display:none">en</div>
+ <!-- ThirdParty SpeedBump -->
+    <div id="overlayWrapper" class="overlayWrapper">
+    <div id="speedbump-dialog-wrapper">
+        <div class="speedbump-dialog">
+            <div class="closeBtnWrapper">
+                <div class="dialog-closeBtn" tabindex="0" role="button" aria-label="Close"></div>
+            </div>
+            <div class="dialogContentWrapper" tabindex="0">
+                <div class="dialogHeader">Important Information</div>
+                <div class="dialogContent">
+                    <p>
+                    <small>
+                        You are leaving a Citi Website and going to a third party site. That site may have a privacy policy different from Citi and may provide less security than this Citi site. Citi and its affiliates are not responsible for the products, services, and content on the third party website. Do you want to go to the third party site?
+                      </small>
+                      </p>                        
+<p>
+<small>
+                        Citi is not responsible for the products, services or facilities provided and/or owned by other companies.
+                    </small>
+</p>
+                </div>
+                <div id="dialogContinueBtn" class="dialogContinueBtn" tabindex="0" role="link">Continue</div>
+            </div>
+        </div>
+    </div>
 </div>
-        </li>
-    
-    
-    <li role="presentation" tabindex="-1">|</li>
- <li id="finderTool" role="menuitem" tabindex="-1">
-	<a onclick="locatorSubmitForm()" href="https://online.citi.com/US/GCL/citilocator/flow.action" class="flyoutBtn" role="presentation" tabindex="0" title="Click to view 'Locations' tool">Locations</a>
-<script>
-function locatorSubmitForm(){
-var findMyCitiURL="/US/GCL/citilocator/flow.action";
-var FindCitiCountryList="AUS^www.findmyciti.com/au|BHR^www.findmyciti.com/bh|CHN^www.findmyciti.com/cn|CZE^www.findmyciti.com/cz/index-en-cz.jsp|GRC^www.findmyciti.com/gr/index-gr-en.jsp|HKG^www.findmyciti.com/hk|HUN^www.findmyciti.com/hu/index-en-hu.jsp|IND^www.findmyciti.com/id|JPN^www.findmyciti.com/jp/index.jsp|KOR^www.findmyciti.com/kr|MYS^www.findmyciti.com/my|PHL^www.findmyciti.com/ph|ROM^www.findmyciti.com/ro|RUS^www.findmyciti.com/ru/index-en-ru.jsp|SGP^www.findmyciti.com/sg|TWN^www.findmyciti.com/tw|THA^www.findmyciti.com/th|TUR^www.findmyciti.com/tr/index.jsp|GBR^www.findmyciti.com/uk/|ARE^www.findmyciti.com/ae|VNM^www.findmyciti.com/vn";
-var FindCitiCountryListObject = FindCitiCountryList.split("|");
-var countryValueFromContent = document.getElementById("countryFlyOut").options[document.getElementById("countryFlyOut").selectedIndex].value;
-var isFindMyCitiFlag = "false";
-for(var index=0;index<FindCitiCountryListObject.length;index++)
-{
-var countryURLPair=FindCitiCountryListObject[index].split('^');
-if(countryValueFromContent == countryURLPair[0])
-{
-isFindMyCitiFlag="true";
-findMyCitiURL =countryURLPair[1];
-}
-}
+    <!-- End ThirdParty SpeedBump -->
+    <!-- UTILITY NAVIGATION -->
+    <div id="nav_utility" class="citiBrandingNav" role="navigation" tabindex="-1">
+        <div class="maxWidth">
+  <!-- CitiBrandingUtilityNavigation -->
 
-if(isFindMyCitiFlag=="true"){
-findMyCitiURL = "http://" + findMyCitiURL;
-window.open (findMyCitiURL ,"mywindow");
-}
-else{
-document.forms['find-form'].submit();
-}
-}
-</script>
-	</li>
+<ul role="presentation">   
+  <li role="presentation">
+    <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AOProductSelection">Open an Account</a>
+  </li>
 
-	
-		<li id="contactTool" role="menuitem" tabindex="-1"><!-- BrandingContactFlyout_USCBOL -->
+  <!-- New Design implementation -->
 
   
- <a role="presentation" tabindex="0" class="flyoutBtn" href="javascript:void(0);" title="This link will open a new tab or window."><span class="cM-whiteCaratArrowDown cM-whiteCaratArrowDown-topNav"> </span>Contact Us</a>
-<div role="navigation" id="contactFlyout">
-     <ul role="menu" tabindex="-1">            
-         <li role="menuitem" tabindex="-1" id="SendAMessage" aria-haspopup="true" class="message  hidden ">
-             <a role="presentation" tabindex="0" href="https://online.citi.com/US/jba/mc/InitializeSubApp.do?TTC=268">Send a Message
-                 <div>Send us a message in a secure email.</div></a>
-         </li>            
-         
-         <li role="menuitem" tabindex="-1" class="contact">
-         
-             <a role="presentation" tabindex="0" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/contactus.do?ID=ContactUsBanking">Contact Us<div>Call, write or tweet us. <strong></strong></div></a>
-         
-         </li>          
-     </ul>
-</div>
-<script>
-         function toggleSecureMessageInFlyOut(){
-         if($('#lpButtonNeedHelp').children('a').length > 0){
-             $('#SendAMessage').hide();
-         }else {
-             $('#SendAMessage').show();
-             console.log('sho');
-         }
-     }
-</script>
-		</li>
-	
-
- <li role="menuitem" tabindex="-1"><a role="presentation" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/helpcenter/main.do">Help</a></li>
- <li role="search" tabindex="-1" class="searchTool">
-  <div id="searchWrapper" class="searchWrapper">
-<span class="cM-searchIcon"></span>
-</div> 
-<input role="button" type="button" onclick="javascript:gsearch();scEvent()" title="Click Here to Search " class="searchBtn" value="| GO" tabindex="0">
- </li>
-    
- <li role="menuitem" tabindex="-1"><a role="presentation" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=SecurityCenter">Security</a></li>
 </ul>
-</div>
-
-<!-- LOGO -->
-
-<a role="banner" href="javascript:lnk('/Welcome.c')" id="headerLogoLink">
-    <img alt="CITI logo" tabindex="-1" src="https://online.citi.com/GFC/branding/img/citilogo_branding_60x35.png">
-</a>
-<div id="headerLogoLinkIE"></div>
-<!-- MAIN NAVIGATION -->
-<div id="nav_main" class="citiBrandingNav" role="navigation" tabindex="-1">
-    
-        <!-- MARKETING NAVIGATION -->
-        <ul class="jfpw-menu sf-js-enabled mm_target testx" role="menubar" tabindex="-1" navbar="true" id="nav_marketing">
-  <li role="menuitem" tabindex="-1" class="submenu" aria-haspopup="true" aria-owns="mm_banking"> 
-  	<a href="#" role="presentation" tabindex="0" id="banking" mm_once="adServe('', 1674636, 'mm_banking_offer');">Banking
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_creditcards"> 
-  	<a href="#" role="presentation" tabindex="0" id="creditcards" mm_once="adServe('', 1674638, 'mm_creditcards_offer');">Credit Cards
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_lending"> 
-  	<a href="#" role="presentation" tabindex="0" id="lending" mm_once="adServe('', 1674642, 'mm_lending_offer');">Lending
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_investing"> 
-  	<a href="#" role="presentation" tabindex="0" id="investing" mm_once="adServe('', 1674644, 'mm_investing_offer');">Investing
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_business"> 
-  	<a href="#" role="presentation" tabindex="0" id="business" mm_once="adServe('', 1674647, 'mm_business_offer');">Business
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_rewards"> 
-  	<a href="#" role="presentation" tabindex="0" id="rewards" mm_once="adServe('', 1674650, 'mm_rewards_offer');">Rewards &amp; Offers
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_services"> 
-  	<a href="#" role="presentation" tabindex="0" id="services" mm_once="adServe('', 1674651, 'mm_services_offer');">Services
-    </a></li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="mm_citigold"> 
-  	<a href="#" role="presentation" tabindex="0" id="citigold" mm_once="adServe('', 3110093, 'mm_citigold_offer');">Citigold®
-    </a></li>
-</ul>
-    <!-- SESSION NAVIGATION -->
-    <!-- BrandingSessionNavigation_USCBOL -->
-
-    <ul role="menu">   
-        
-                <div id="signOnTool" class="user_signOn">
-                    
-    <a role="menuitem" aria-haspopup="true" id="SignOnTo" class="flyoutBtn" href="#"><span class="cM-whiteLock-signOn" role="presentation"></span>Sign On to...<span class="cM-signOntoDownArrowWhite" role="presentation">&nbsp;</span></a>
-    <div id="signOnFlyout">
-        <ul role="menubar">
-            <li role="presentation" tabindex="0">
-                <a role="menuitem" href="javascript:lnk('/JSO/signon/LocaleUsernameSignon.do?locale=en_US')">Bank Accounts</a></li>
-            <li role="presentation">
-				<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-                <a role="menuitem" href="javascript:lnk('/US/JSO/signon/LocaleUsernameSignon.do?locale=es_US')">Bank Accounts en Español</a>
-            </li>
-            <li role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-            	<a role="menuitem" href="javascript:lnk('/JSO/signon/LocaleUsernameSignon.do?userType=Business')">Business Accounts</a></li>
-            <li role="presentation">
-            	<div class="flyoutSeparator"></div>
-            	<a role="menuitem" href="javascript:launchPopup('https://www.privatebank.citibank.com/','privatebankWindow','toolbar=no,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=650,height=450,persist=T')">Citi Private Bank</a></li>
-            <li role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-            	<a role="menuitem" href="javascript:lnk('https://www.citi.com/credit-cards/creditcards/CitiHome.do')">Credit Cards</a></li>
-            <li class="imagebreak" role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-                <a role="menuitem" href="https://www.accountonline.com/cards/svc/Login.do?langId=ESP&amp;locale=es_US">Credit Cards en Español</a></li>
-            <li role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-                <a role="menuitem" href="/JSO/signon/LocaleUsernameSignon.do?userType=Mortgage">Mortgages</a></li>
-            <li role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-                <a role="menuitem" href="javascript:launchPopup('https://studentloan.citibank.com/s/slcsite/manage_your_account.asp','studentloanWindow','toolbar=no,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=650,height=450,persist=T')">Student Loans</a></li>
-            <li class="last" role="presentation">
-            	<div class="flyoutSeparator" role="presentation" tabindex="-1"></div>
-                <a role="menuitem" href="javascript:launchPopup('https://www.thankyou.com/','tynWindow','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451,persist=T')">Citi ThankYou<sup>®</sup> Rewards</a></li>
-        </ul>
+        </div>
     </div>
 
-                </div>
+    <!-- banner logo search -->
+    <div class="blue_banner_header">
+        <div class="maxWidth">
+            <!-- LOGO -->
+            
+
+            <a role="banner" href="javascript:lnk('/Welcome.c')" id="headerLogoLink" class="default"><img alt="CITI logo" tabindex="-1" src="https://online.citi.com/GFC/branding/img/Citi-Enterprise-White.png">
+            </a>
+      
+<!-- CitiSmartSearchBranding_USCBOL -->
+
+<input id="cbolURLSearch" type="hidden" value="https://online.citi.com">
+
+<input id="searchModule" type="hidden" value="Y">
+
+<input id="searchLang" type="hidden" value="en">
+
+<input id="searchUser" type="hidden" value="">
+
+ <link rel="stylesheet" text="text/css" href="https://online.citi.com/NCCS/smartSearch/css/cbol-smartSearch.css">
+  
+   <div id="perso-citi">
+   <div id="perso-page">
+    <div class="perso-head">
+     <div id="personetics-citi-menu" class="citiSearchMenu">
+      <i id="citi-search-icon" class="searchButton" tabindex="0" role="button" aria-controls="citi-autocomplete-content" aria-describedby="focus-change-warning" aria-expanded="false">
+     <img id="searchicon" src="https://online.citi.com/GFC/branding/img/search-white.png" alt="Search Citi.com">
+     </i>
+     <span aria-hidden="true" class="sr-only" id="focus-change-warning">upon clicking, focus moves to the search input field</span>
+     </div>
+    </div>
+   </div>
+  </div>
+   
+        </div>
+    </div>
+    <div id="headerLogoLinkIE"></div>
+   
+    <!-- MAIN NAVIGATION -->
+    <div id="nav_main" class="citiBrandingNav megaMenuColor " role="navigation" tabindex="-1">
+        <div class="maxWidth">
+            <div class="menuOverlay">
+                
+                    <!-- MARKETING NAVIGATION -->
+                    <ul class="jfpw-menu sf-js-enabled mm_target testx" role="menubar" tabindex="-1" navbar="true" id="nav_marketing">
+  <li role="menuitem" class="submenu" aria-haspopup="false" tabindex="-1" aria-owns="creditcards"> 
+    <a role="link" onclick="lnk(this.href);return false;" href="https://www.citi.com/credit-cards/citi.action" tabindex="0" id="creditcards">Credit Cards
+    </a>
+  </li>
+  <li role="menuitem" aria-haspopup="false" tabindex="-1" class="submenu"> 
+    <a role="link" href="/US/banking/citi.action?ID=banking-overview" tabindex="0" id="banking">Banking
+    </a>
+  </li>
+  <li role="menuitem" aria-haspopup="true" class="submenu" tabindex="-1"> 
+    <a href="#" role="link" tabindex="0" onclick="showSubNav(this)" id="lending">Lending
+    </a>
+    <div id="dropdown_lending" class="dropdown-content dropdown_header">
+      <ul role="menubar">
+        <li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PersonalLinesAag">Personal Loans &amp; Lines of Credit</a>
+        </li>
+        <li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a role="link" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Mortgage</a>
+        </li>
+	<li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a role="link" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_heloc">Home Equity</a>
+        </li>
+      </ul> 
+    </div>
+  </li>
+  <li class="submenu" role="menuitem" aria-haspopup="true" tabindex="-1" aria-owns="investing"> 
+    <a href="#" role="presentation" tabindex="0" onclick="showSubNav(this)" id="investing">Investing
+    </a>
+    <div id="dropdown_investing" class="dropdown-content dropdown_header">
+      <ul role="menubar">
+        <li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FinancialGoals" role="link">Your Financial Goals</a>
+        </li>
+        <li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingCiti">Investing with Citi</a>
+        </li>
+          <li class="mm_subnav" role="menuitem" aria-haspopup="false">
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InsightsTools" role="link">Insights and Tools</a>
+        </li>
+      </ul> 
+    </div>
+  </li>
+  <li class="submenu" tabindex="-1" role="menuitem" aria-haspopup="false"> 
+    <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview" role="link" tabindex="0" id="citigold">Citigold<sup class="bsup">®</sup>
+    </a>
+  </li>
+</ul>
+            </div>
+
+            <!-- SESSION NAVIGATION -->
+            <!-- CitiBrandingSessionNavigation_USCBOL -->
+
+    <ul>   
+        
+
+                <li tabindex="0" role="presentation"> 
+                  
+
+<script type="text/javascript" language="javascript">
+//<!--
+jQuery(document).ready(function($) {
+	$("#sign_onOverlayovly").jfpwidget(new CJW.jfp.widget.Overlay(
+	{
+	wrapperSet: "#sign_onOverlayovly",
+	dialog: true,
+	hideTitleBar: false,
+	autoOpen: false
+},
+	{
+	width: 453,
+modal: true,
+},{
+	'/topic/dialogsign_onOverlayovlyopen' : [ 'dialogopen'],
+    '/topic/dialogsign_onOverlayovlyclose' : [ 'dialogclose']}));
+jQuery("#sign_onOverlayovly-trigger").bind('click keydown', function(event) {
+	if ((event.type === "keydown" && event.keyCode === 13) || event.type === "click") {
+				jQuery.ajax({
+				type: 'POST',
+				url: '/US/JSO/loginpage/flow.action?signonModalType=modal_reskin&JFP_TOKEN=D6OTTYDS',
+				success: function(data, status, xhr) {
+					jQuery('#sign_onOverlayovly').html(data);
+					jQuery('#sign_onOverlayovly').jfpwidget('open');
+				}})
+		
+	}		
+});
+jQuery("#sign_onOverlayovly-trigger").bind("remove",function(){
+   	// if the trigger is removed, remove the overlay too.
+	jQuery("#sign_onOverlayovly").jfpwidget('destroy');
+    jQuery("#sign_onOverlayovly").remove();
+});});
+//-->
+</script>
+
+<span id="sign_onOverlayovly-trigger"><a id="cmlink_CitiMODALSIGNONOVLY" target="_top" name="&amp;lid=Signon&amp;lpos=T" rel="gb_page_center[215, 240]" tabindex="0" role="button" onclick="javascript:void(0);return false;">Sign On</a></span>
+<div id="sign_onOverlayovly" style="display:none;"></div>
+
+
+ 
+                <script type="text/javascript" src="/JFP/js/modules/jfpm.autocomplete.off.js"></script>
+        
+                </li>
               
     </ul>
 
-</div>
-<!-- WELCOME NAVIGATION -->
+<!-- Notification Inbox -->
+<!-- Notification Inbox --><!--visitor Notification inbox -->
+<!-- End of Notification Inbox -->
+<!-- End of  Notification Inbox -->
+            <!-- New Search -->
+ 
+   <!-- End New Search -->
+        </div>
+    </div>
+
+    <!-- WELCOME NAVIGATION -->
 <div id="brandingDataTransfer">
 	<span id="brandingData_serverDomain">https://online.citi.com</span>
 	<span id="brandingData_serverPath">/US</span>
 	<span id="brandingData_appPath">https://online.citi.com/US</span>
-	<span id="brandingData_sessID">QR0jaxMnataBfBqQsh1blpz</span>
+	<span id="brandingData_sessID">5wjFF8zqClAs3Fe0pRGWTeP</span>
 	<span id="brandingData_lnkSignOff">/JSO/signoff/SummaryRecord.do?logOff=true</span>
  	<span id="brandingData_loggedState">N</span>
  
@@ -764,717 +954,112 @@ document.forms['find-form'].submit();
 	<span id="brandingData_test">x</span>
 	<span id="brandingData_autocomplete">https://online.citi.com/US/JRS/globalsearch/SearchAutoCompleteJsonP.do</span>
 	 <span id="brandingData_autocompletefalse">/cards/svc/autocomplete.autocomplete?view=ALL</span>
-</div><!-- BrandingMegaMenu -->
-<div id="mm_mask" mm_status="hide">
-    <div id="mm_container">
-        <div id="mm_content">
-            <div id="mm_menus">
-                <!-- CM|SA: Banking Menu START -->
-                <div class="mm_c mm_menu mm_2col_2" id="mm_banking" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                        <li id="link1" tabindex="0" role="separator">
-                          <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=BankingOverview">Banking Overview</a></strong>
-                          <ul role="menu">
-                              <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Checking">Checking Accounts</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Savings">Savings Accounts</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=SvgCDs">Certificates of Deposit (<abbr title="Certificates of Deposit ">CDs</abbr>)</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=IRA"><abbr title="Individual Retirement Account">IRA</abbr>s &amp; Rollovers</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CurrentRates">Rates</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=GlobalClientBanking">Global Client Banking</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c2" role="separator" aria-label="Banking Services" tabindex="0">
-                        <strong>Banking Services</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=OnlineBankingOverview">Online Banking</a>
-                                </li>
-                                <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiMobile">Mobile and Tablet Banking</a>
-
-                                </li>
-                                <li role="presentation">
-                                  <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=MobileCheckDeposit">Mobile Check Deposit</a>
-                                </li>
-                                <li role="presentation">
-                                  <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=WAlerts">Account Alerts</a>
-
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiFinancialTools">Citi Financial Tools</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=OnlineState">Online Bank Statements</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/helpcenter/getHelpContent.do?dispFormat=main&amp;contentId=DeterminingABANumberAccount&amp;contentType=help_item"><abbr title="American Bankers Association">ABA</abbr> Routing Number</a>
-                                </li>
-  
-                            </ul>
-                        </li>
-                        <li class="mm_c3" role="separator" tabindex="0" aria-label=" ">
-                        <strong><a class="mm_noLink" title=" " href="#" tabindex="-1">&nbsp;</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                  <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Ebill">eBills - View bills on Citi Online</a>
-                                </li>
-                                <li role="presentation">
-                                 <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=BillPay">Online Bill Payments</a>
-
-                                </li>
-                                <li role="presentation">
-                                      <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PopMoney">Popmoney<sup>®</sup></a>
-                                </li>
-                                <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=ATMCard">Debit Card</a>
-
-                                </li>
-                                <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=ProtectionServices">Protect Your Money</a>
-                                   </li>
-                                <li role="presentation">
-                                 <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FundTransfers">Transfers</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_offer" id="mm_banking_offer" role="presentation">
-
-                        </li>
-                    </ul>
-                     <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="bankingText"><span style="color:#957F55">Citigold®</span> clients can enjoy premium service, preferred rates and sound advice.</p>
-    </li>
-    <li role="presentation"><a role="link" target="_self" class="learnmore" href="https://online.citibank.com/US/JRS/pands/detail.do?ID=CitigoldOverview&amp;intc=1~7~62~3~081612~1~Citigold~CitigoldAwareness_BankingMMBlurb" style="color:#957F55" aria-describedby="bankingText">Learn More</a> </li>
-  </ul>
 </div>
-                </div>
-                <!-- CM|SA: Banking Menu END -->
 
+    <!-- MegaMenu Removed as per new Oct Implementation -->
 
-
-
-                <!-- CM|SA: Credit Cards Menu START -->
-                <div class="mm_c mm_menu mm_2col" id="mm_creditcards" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                    <li role="separator" id="link2" tabindex="0">
-                    <strong><a role="menuitem" tabindex="0" href="https://www.citi.com/credit-cards/creditcards/CitiHome.do">Credit Cards</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=view-all-credit-cards">View All Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=intro-purchase-apr">0% Intro <abbr title="Annual Percentage Rate">APR</abbr> Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=balance-transfer-credit-cards">Balance Transfer Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=reward-credit-cards">Rewards Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=no-annual-fee-credit-cards">No Annual Fee Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=savings-and-cash-back-credit-cards">Cash Back Cards</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c2" role="separator" tabindex="0" aria-label=" ">
-                        <strong><a class="mm_noLink" title=" " href="#" tabindex="-1">&nbsp;</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=all-small-business-credit-cards">Business Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=all-student-credit-cards">Student Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=secured-credit-card">Secured Credit Card</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=travel-reward-credit-cards">Travel Credit Cards</a>
-                                </li>
-                                   <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=visa-credit-cards">Visa® Credit Cards</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=mastercard-credit-cards">MasterCard® Credit Cards</a>
-                                </li>
-
-                                <li role="presentation">
-                                   <a role="menuitem" href="https://www.citicards.com/cards/credit/application/flow.action?isInvitation=Y">Respond to a Mail Offer</a>
-                                </li>
-                                <li role="presentation">
-                                   <a role="menuitem" href="https://www.citicards.com/cards/credit/application/flow.action?isInvitation=N">See If You're Pre-Qualified for a Card</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c3" role="separator" tabindex="0" aria-label="Services &amp; Tools">
-                        <strong>Services &amp; Tools</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/template.do?ID=credit-card-services">Citi® Online</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=CitiMobileMicroOverview">Mobile Banking</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/template.do?ID=credit-card-rewards">Rewards Programs</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="https://www.citipricerewind.com">Citi Price Rewind</a>
-                                </li>
-                                <li role="presentation">
-                                
-                                <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="https://www.cardbenefits.citi.com/">Card Benefits</a>
-                                
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_creditcards_offer">
-                        </li>
-                    </ul>
-                   <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="creditcardsText">Find the card that's right for you - from low intro rate, no annual fee, rewards, or student credit cards.</p>
-    </li>
-    <li role="presentation"><a role="link" class="learnmore" aria-describedby="creditcardsText" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=most-popular-credit-cards">Apply Online</a> </li>
-  </ul>
 </div>
-                </div>
-                <!-- CM|SA: Credit Cards Menu END -->
-                <!-- CM|SA: Lending Menu STARTING -->
-                <div class="mm_c mm_menu" id="mm_lending" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
+<link rel="stylesheet" text="text/css" href="/JPS/portal/css/BrowserUpgrade.css">
 
-                    <!-- NEW MARKETING PAGES  -->
-                    <li role="separator" id="link3" tabindex="0">
-                         <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=LinesLoansOverview">Lending Products</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_heloc">Home Equity Lines &amp; Loans</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PersonalLinesAag">Personal Lines &amp; Loans</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Mortgages</a>
-
-                                </li>
-                            </ul>
-                    </li>
-                        <li role="separator" class="mm_c2" tabindex="0">
-
-                             <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Homeownership</a></strong>
-
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_buy_home">Buying a Home</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_refinancing">Refinance Your Home</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_heloc">Use Your Home Equity</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_homeowners_support">Homeowner Support</a>
-                                </li>
-                                 <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_check_application_status">Check Mortgage Application Status</a>
-                                </li>
-                            </ul>
-
-                        </li>
-                        <li role="separator" tabindex="0" aria-label="Calculators &amp; Tools">
-                        <strong>Calculators &amp; Tools</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_tools_calculators">Mortgage &amp; Home Equity Calculators</a>
-                                </li>
-
-                                 <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/nccmi/purchase/ratequote/flow.action?fromLanding=true&amp;selectedOption=CUSTOM&amp;selectedOptionValue=CUSTOMpurChaseLanding">Mortgage Rate Selector</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_heloc_rate_tool">Home Equity Rate Selector</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_lending_offer">
-                        </li>
-                    </ul>
-                    <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="lendingText">Receive Alerts about your Citibank<sup>®</sup> and Citi<sup>®</sup> Credit Card Accounts on the Citi Mobile<span class="SupMarks">℠</span> app.</p>
-    </li>
-    <li role="presentation"><a role="link" aria-describedby="lendingText" class="learnmore" href="/US/JRS/pands/detail.do?ID=WAlerts&amp;intc=1~7~51~3~121012~5~Alerts~LendingTabMMblurb">Learn More</a> </li>
-  </ul>
+<div class="cA-upgradeBrowserBanner">
+    <span class="cA-upgradeBrowserAlert"></span> 
+    <span>Your browser is out of date and not supported. We recommend you update your browser for a better online banking experience.</span> 
+    <a href="/US/JPS/portal/BrowserWarning.do" class="cA-upgradeBrowserButton">Learn More</a> 
+    <a href="#" role="button" class="cA-upgradeBrowserClose"> 
+        <span id="upgradeBrowserClose"> 
+            <label for="upgradeBrowserCloseLabel" class="jfpw-hidden-accessible">Close Overlay</label> 
+        </span> 
+        <span class="cA-upgradeBrowserCloseImage" aria-labelledby="upgradeBrowserClose" id="upgradeBrowserCloseLabel"></span>
+    </a>
 </div>
-                </div>
-                <!-- CM|SA: Lending Menu END -->
-                <!-- CM|SA: Investing Menu START -->
-                <div class="mm_c mm_menu" id="mm_investing" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                        <li role="separator" id="link4" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingOverview">Ways to Invest with Citi</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestOnYourOwn">Invest On Your Own</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestWithPersonalAdvisor">Invest with a Personal Advisor</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="separator" class="mm_c2" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingProducts">Products &amp; Services</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingRetirement">Annuities</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingManagedAccounts">Advisory Accounts</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Bonds">Bonds</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Insurance">Insurance</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=IRAInvesting"><abbr title="Individual Retirement Account">IRA</abbr>s and Rollovers</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingMutualFunds">Mutual Funds</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingLending">Securities Backed Lending</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c3" role="separator" tabindex="0" aria-label="Tools">
-                        <strong>Tools</strong>
-                            <ul role="menu">
-                            <!--  -->
-                            <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FinancialGuidance">Financial Education on Wealth Management</a>
-                                </li>
-                                <li role="presentation">
-                                <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="/US/JRS/portal/template.do?ID=RetirementPlanning">Retirement Planning Center</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=LinkingAccounts">Link Your Account</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_investing_offer">
-                        </li>
-                    </ul>
-                    <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="investingText">Track, analyze, and plan your finances with Citibank for iPad®</p>
-    </li>
-    <li role="presentation"><a role="link" class="learnmore" aria-describedby="investingText" target="_blank" href="/US/JRS/portal/template.do?ID=CitiMobileMicroOverview&amp;intc=1~7~51~3~121012~5~iPadKindle~InvestingTabMMblurb">Learn More</a> </li>
-  </ul>
-</div>
-                </div>
-                <!-- CM|SA: Investing Menu END -->
-                <!-- CM|SA: Business Menu START -->
-                <div class="mm_c mm_menu" id="mm_business" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                        <li role="separator" id="link5" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizOverview" aria-label="Small Business Banking Company sales below $5 Million">Small Business Banking</a><span aria-hidden="true">Company sales up to $10 Million</span></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizByNeed">Solutions by Business Need</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizByIndustry">Solutions by Industry</a>
-                                </li>
-                                <li role="presentation">
-                                  <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizProductsServices">Products &amp; Services</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizOnline">Online Banking Solutions</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizToolsResources">Small Business Resources</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="separator" class="mm_c2" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBusinessBanking" aria-label="Business Banking Company sales above $5 Million">Business Banking</a><span aria-hidden="true">Company sales above $5 Million</span></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBBSolutions">Product Solutions</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBBGlobalPresence">Global Presence</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'citiBusinessWindow','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10,persist=T');return false;" href="https://businessaccess.citibank.citigroup.com/cbusol/signon.do">CitiBusiness<sup>®</sup> Online</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" title="Click here to see the complete list of the Business Banking Services" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBusinessBanking">See All</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="separator" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCommercialBanking" aria-label="Commercial Banking Company sales above $20 Million">Commercial Banking</a><span aria-hidden="true">Company sales above $20 Million</span></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCBIndustries">Industry Specialties</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCBSolutions">Product Solutions</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'citiBusinessWindow','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10,persist=T');return false;" href="https://businessaccess.citibank.citigroup.com/cbusol/signon.do">CitiBusiness<sup>®</sup> Online</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" title="Click here to see the complete list of the Commercial Banking Services" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCommercialBanking">See All</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_business_offer">
-                        </li>
-                    </ul>
-                     <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="businessText">Business Credit Cards from Citi<sup>®</sup>-  We've got just the card and the rewards for you. 
-       </p>
-    </li>
-    <li role="presentation"><a role="link" class="learnmore" aria-describedby="businessText" target="_blank" href="https://www.citi.com/credit-cards/compare-credit-cards/detail.do?ID=all-small-business-credit-cards&amp;intc=1~7~51~3~032113~1~CBFamily~BusinessTabMMblurb">Apply Online</a> </li>
-  </ul>
-</div>
-                </div>
-                <!-- CM|SA: Business Menu END -->
-                <!-- CM|SA: Rewards Menu START -->
-                <div class="mm_c mm_menu mm_2col" id="mm_rewards" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                        <li role="separator" id="link6" tabindex="0">
-                        <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Rewards">Rewards Programs</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CBNATYRNRewards">Citi ThankYou<sup>®</sup> Rewards Overview</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'tynWindow','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10,persist=T');return false;" href="https://www.thankyou.com">Visit ThankYou.com</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/template.do?ID=credit-card-rewards">AAdvantage<sup>®</sup></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c2" role="separator" tabindex="0" aria-label=" ">
-                        <strong><a class="mm_noLink" title=" " href="#" tabindex="-1">&nbsp;</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" href="https://www.citi.com/credit-cards/template.do?ID=credit-card-rewards">Citi<sup>®</sup> Cash Back Program</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="https://citieasydeals.com">Citi Easy Deals <span class="SupMark">℠</span></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="separator" tabindex="0" aria-label="Offers">
-                        <strong>Offers</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=SpecialOffers">Special Offers</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="http://www.citiprivatepass.com/">Citi<sup>®</sup> Private Pass<sup>®</sup></a>
-                                </li>
-
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_rewards_offer">
-                        </li>
-                    </ul>
-                     <div class="mm_c mm_tagline">
-  
-</div>
-                </div>
-                <!-- CM|SA: Rewards Menu END -->
-                <!-- CM|SA: Services Menu START -->
-                <div class="mm_c mm_menu mm_2col_2" id="mm_services" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-                        <li role="separator" id="link7" tabindex="0">
-                        <strong><a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AccountAccess">Ways to Bank with Citi</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=OnlineBankingOverview">Online Banking</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiMobile">Mobile and Tablet Banking</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiMobileSMS">Text Banking</a>
-                                </li>
-                                 <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=GlobalClientBanking">Global Client Banking</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c2" role="separator" tabindex="0">
-                            <strong><a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=ServicesOverview">Other Banking Services</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=WAlerts">Account Alerts</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AutoSave">Auto Save</a>
-                                </li>
-                                <li role="presentation">
-                                <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InterInstitution">Inter-Institutions Transfers</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=BillPay">Online Bill Payments</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiFinancialTools">Citi<sup>®</sup> Financial Tools</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'info','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="https://online.citibank.com/US/JRS/portal.c?ID=ApplePay&amp;ProductID=Generic&amp;intc=2~1~52~3~120414~ApplePay~ServicesMM">Citi with Apple Pay <span class="SupMark">™</span></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c3" role="separator" tabindex="0" aria-label=" ">
-                        <strong><a class="mm_noLink" title=" " href="#" tabindex="-1">&nbsp;</a></strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PopMoney">"Pay Other People" Popmoney<sup>®</sup></a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=ProtectionServices">Protect Your Money</a>
-                                </li>
-                                <li role="presentation">
-                                  <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=OverdraftProtection">Overdraft Protection
-</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FraudProtection">Online Fraud Protection</a>
-                                </li>
-                            </ul>
-                        </li>
-                        
-                        <li role="presentation" class="mm_offer" id="mm_services_offer">
-                        </li>
-                    </ul>
-                     <div class="mm_c mm_tagline">
-    <ul class="topC" role="presentation">
-        <li role="presentation">
-            <p id="servicesText">Save a trip to the Bank, Deposit Checks from Anywhere with the Citi Mobile <span class="SupMark">℠</span> App.</p>
-        </li>
-        <li role="presentation"><a role="link" href="/US/JRS/pands/detail.do?ID=MobileCheckDeposit&amp;intc=1~7~51~3~121012~5~MCD~ServicesTabMMblurb" aria-describedby="servicesText" class="learnmore">Learn More</a>
-        </li>
-    </ul>
-</div>
-                </div>
 
 
-                 <!-- CM|SA: citigold Menu STARTING -->
-                <div class="mm_c mm_menu" id="mm_citigold" role="group">
-                    <div class="mm_divider1"></div>
-                    <div class="mm_divider2"></div>
-                    <div class="mm_divider3"></div>
-                    <ul role="menubar">
-
-                    <!-- NEW MARKETING PAGES  -->
-                     <li role="separator" id="link8" tabindex="0">
-                        <strong><a role="menuitem" aria-haspopup="true" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview">Why Citigold?</a></strong>
-
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldAccessAndServices">Access and Service</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldRecognitionAndBenefits">Recognition and Benefits</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldAdviceAndGuidance">Advice and Guidance</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="mm_c2" role="separator" tabindex="0" aria-label="Banking and Wealth Management">
-                        <strong>Banking and Wealth Management</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Citigold">Citigold Interest Checking</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingOverview">Investing at Citi</a>
-                                </li>
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=OnlineBankingOverview">Online Services</a>
-
-                                </li>
-                                 <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiMobile">Mobile and Tablet Services</a>
-                                </li>
-
-                            </ul>
-                        </li>
-                        <li role="separator" tabindex="0" aria-label="Insight and Tools">
-                        <strong>Insight and Tools</strong>
-                            <ul role="menu">
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FinancialGuidance">Financial Education on Wealth Management</a>
-                                </li>
-
-                                <li role="presentation">
-                                    <a role="menuitem" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiFinancialTools">Citi<sup>®</sup> Financial Tools</a>
-                                </li>
-                                 <li role="presentation">
-                                    <a role="menuitem" onclick="launchPopup(this.href,'retirementPlan','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10');return false;" href="/US/JRS/portal/template.do?ID=RetirementPlanning">Retirement Planning Center</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li role="presentation" class="mm_offer" id="mm_citigold_offer">
-                        </li>
-                    </ul>
-                    <div class="mm_c mm_tagline">
-  <ul class="topC" role="presentation">
-    <li role="presentation">
-      <p id="citigoldText"><span style="color:#957F55">Citigold®</span> clients can enjoy premium service, preferred rates and sound advice.
-        </p>
-    </li>
-    <li role="presentation"><a role="link" class="learnmore" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview" style="color:#957F55" aria-describedby="citigoldText">Learn More</a></li>
-  </ul>
-</div>
-                </div>
-                <!-- CM|SA: citigold Menu END -->
-
-            </div>
-        </div>
-        <div class="mm_m mm_m_r"></div>
-        <div class="mm_m mm_m_l"></div>
-        <div class="mm_m mm_m_b"></div>
-        <div class="mm_t mm_t_r"></div>
-        <div class="mm_t mm_t_l"></div>
-        <div class="mm_b mm_b_l"></div>
-        <div class="mm_b mm_b_r"></div>
-        <div class="mm_l mm_l_t"></div>
-        <div class="mm_r mm_r_t"></div>
-        <div class="mm_l mm_l_b"></div>
-        <div class="mm_r mm_r_b"></div>
-        <div class="mm_tl"></div>
-        <div class="mm_tr"></div>
-        <div class="mm_bl"></div>
-        <div class="mm_br"></div>
-        <div class="mm_a"></div>
-    </div>
-</div>
-</div>
+  <div id="citi-autocomplete-content" style="display: none;" aria-labelledby="citi-search-icon"></div>
+ 
 <main role="main" id="maincontent">
+	
+	
+
+			</main></div>
+		
+		<div class="cR-citiWrapper cR-citiBodyWrapper"><div class="cR-citiFloatContainer">
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			
+			
+		
+		
 
 
 
 
-</main></div>
-
-<div class="cR-citiWrapper cR-citiBodyWrapper"><div class="cR-citiFloatContainer">
 
 
 
 
 
+	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Fix for VA Item || SOW # 39677 M10G || Starts -->
 <script type="text/javascript">
+
 $.ajaxSetup({
-cache: false,
-global: false
-});
-$(document).ajaxSend(function(event, jqxhr, settings) {
-if ((settings.url).indexOf("?")!=-1)
-{
-settings.url+='&CUSTOM_SYNC_TOKEN=' + jQuery('input[name=CUSTOM_SYNC_TOKEN]').val();
-}
-else
-{
-settings.url+='?CUSTOM_SYNC_TOKEN=' + jQuery('input[name=CUSTOM_SYNC_TOKEN]').val();
-}
-});
+	cache: false,
+	global: false
+	
+	});
+
+$(document).ajaxSend(function(event, jqxhr, settings) { 	
+		if ((settings.url).indexOf("?")!=-1)
+		{
+			settings.url+='&CUSTOM_SYNC_TOKEN=' + jQuery('input[name=CUSTOM_SYNC_TOKEN]').val();
+		}
+		else
+		{
+			settings.url+='?CUSTOM_SYNC_TOKEN=' + jQuery('input[name=CUSTOM_SYNC_TOKEN]').val();
+			
+	}
+    });
 </script>
-<input type="hidden" name="CUSTOM_SYNC_TOKEN" value="eb1d541ea11c9bedbb7e47cac7fcd6ae">
+
+<!-- Fix for VA Item || SOW # 39677 M10G || Starts -->
+<input type="hidden" name="CUSTOM_SYNC_TOKEN" value="99e759e2e086333006b7aceba87463a1">
+<!-- Fix for VA Item || SOW # 39677 M10G || Ends -->
 
 
 
 
+	
 
 
 
+	
 
 
 
+	
 
 
 
+	
 
 
 
+	
 
 
 
@@ -1482,17 +1067,24 @@ settings.url+='?CUSTOM_SYNC_TOKEN=' + jQuery('input[name=CUSTOM_SYNC_TOKEN]').va
 
 <script>
 
-var _server="jfp/prap31-srv1/jfp";
+
+var _server="jfp/swcrd-cblla107p-srv3/jfp";
 var _site="JFP";
 var _jfp=true;
+
+
 var _j="https://online.citi.com";
 var _jcontext="/US";
 var _d="https://web.da-us.citibank.com";
 var _a="citifi";
 var _c="https://www.citibank.com";
 var _pgi="citi.bridgetrack.com";
+
 var _pid="USCBOL_Privacy";
+
+
 var _u="visitor";
+
 var _f="NO";
 var _sid="";
 var _ssid="";
@@ -1500,16 +1092,21 @@ var _pn="Privacy";
 var mobile = false;
 var deviceType = "0";
 var _locale = "en_US_USPTL";
-var _tyWinID = "winQR0jaxMnataBfBqQsh1blpz";
+
+var _tyWinID = "win5wjFF8zqClAs3Fe0pRGWTeP";
 var _byg = "false";
 var _regionspecific = "F";
-var _regionspecificAttr = "null";
-var _rsid="null";
+
+
+var _regionspecificAttr ="";
+var _rsid="";
+
 var isRainbowOffersFallback=false;
 </script>
 
-<script language="JavaScript" src="/JFP/js/jquery/plugins/modal-overlay-ao.js"></script>
+	<script language="JavaScript" src="/JFP/js/jquery/plugins/modal-overlay-ao.js"></script>
 
+<!--  Removed aoregionalpricing.css because it has been concatenated with regionalpricing.css-->
 <script>
 function inc(filename)
 {
@@ -1521,109 +1118,129 @@ body.appendChild(script);
 }
 var OfferPageContent = "jJRSLINKACCTS_LinkCardStatus|jJRSLINKACCTS_LinkStatus|jJRSMENU_Payments|jJRSMENU_Transfers|jUSCBOL_SpecialOffers|jJRSMENU_PaymentsCardsOnly|jJRSMENU_BenefitsAndServices|jJRSMENU_MyProfile|jJRSOCDT_OCDTConfirmation|jJRSOCDT_OCDTOrderDepositTicketsConfirmation";
 var OfferPageCode = "jjba_ada_125|jjba_exp_700 |j46_700 |j23_700 |j23_257|jjba_exp_110|j46_257|jjba_tfr_common_100|jJPSINFRA_Home|jJRSPLESS_PSOptin|j7_700|jJPSINFRA_MyCitiHome|jJRSWORKAREA_AccountSummary|jJRSOCDT_OCDTInitial|jJRSOCDT_OCDTConfirmation|jJRSOCDT_OCDTOrderDepositTicketsConfirmation";
-if(OfferPageContent.indexOf(pageDef) > -1 && _locale.indexOf('VIP') == -1){
-inc('/JRS/som/js/contextualOffers.js');
-}
-if(OfferPageCode.indexOf(pageDef) > -1  && _locale.indexOf('VIP') == -1){
-inc('/JRS/som/js/contextualOffers.js');
-}
+	if(OfferPageContent.indexOf(pageDef) > -1 && _locale.indexOf('VIP') == -1){
+			inc('/JRS/som/js/contextualOffers.js');
+
+	}
+	if(OfferPageCode.indexOf(pageDef) > -1  && _locale.indexOf('VIP') == -1){
+			inc('/JRS/som/js/contextualOffers.js');
+
+	}
+
 </script>
 
 
 
 
-<script language="JavaScript" src="/JRS/cm/js/sniffer.js"></script>
-<xscript language="JavaScript" src="/JRS/cm/js/branding_text_en_US.js"></xscript>
-<xscript language="JavaScript" src="/JRS/cm/js/branding.js"></xscript>
+	
+		<script language="JavaScript" src="/JRS/cm/js/sniffer.js"></script>
+		<xscript language="JavaScript" src="/JRS/cm/js/branding_text_en_US.js"></xscript>
+		<xscript language="JavaScript" src="/JRS/cm/js/branding.js"></xscript>
+	
+
+
+	
+		<div id="bottom-disclaimer" style="display: none"><!-- PrivacyTopDisclaimer --><p>Citi.com is managed by Citibank, N.A. The web site enables online access to account information and transaction services for clients of Citibank, N.A. and Citigroup Global Markets Inc. and accepts applications for Citibank, N.A. and Citibank, N.A. ("Citi Cards").  This disclosure does not address how information is handled by or the policy of any other affiliate or third party site that may be linked to citi.com</p><p>The products, account packages, promotional offers and services described in this website may not apply to customers of <a id="cmlink_CPCHomepage" href="javascript:launchPopup('http://www.citigoldprivateclient.citi.com','cpc','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold Private Client</a>, <a id="cmlink_CitigoldInternationalHomepage" href="javascript:launchPopup('http://www.citigoldinternational.citi.com','ipbcgd','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold International</a>, <a id="cmlink_IPBhomepage" href="javascript:launchPopup('http://www.internationalpersonalbanking.citi.com','ipb','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">International Personal Banking</a> or <a id="cmlink_GEBhomepage" href="javascript:launchPopup('http://www.globalexecutivebanking.citi.com','geb','resizable,menubar,toolbar,scrollbars,status,location,width=850,height=600')" target="_top">Global Executive Banking</a>. Please click on the appropriate link to obtain such information.</p></div>
+	
+	
+
+
+
+	
 
 
 
 
-<div id="bottom-disclaimer" style="display: none"><!-- PrivacyTopDisclaimer --><p>Citi.com is managed by Citibank, N.A. The web site enables online access to account information and transaction services for clients of Citibank, N.A. and Citigroup Global Markets Inc. and accepts applications for Citibank, N.A. and Citibank, N.A. ("Citi Cards").  This disclosure does not address how information is handled by or the policy of any other affiliate or third party site that may be linked to citi.com</p>The products, account packages, promotional offers and services described in this website may not apply to customers of <a id="cmlink_CPCHomepage" href="javascript:launchPopup('http://www.citigoldprivateclient.citi.com','cpc','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold Private Client</a>, <a id="cmlink_CitigoldInternationalHomepage" href="javascript:launchPopup('http://www.citigoldinternational.citi.com','ipbcgd','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold International</a>, <a id="cmlink_IPBhomepage" href="javascript:launchPopup('http://www.internationalpersonalbanking.citi.com','ipb','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">International Personal Banking</a> or <a id="cmlink_GEBhomepage" href="javascript:launchPopup('http://www.globalexecutivebanking.citi.com','geb','resizable,menubar,toolbar,scrollbars,status,location,width=850,height=600')" target="_top">Global Executive Banking</a>. Please click on the appropriate link to obtain such information.</div>
+	
+
+
+
+	
 
 
 
 
+	
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
 
 
 <div id="body">
+ <!--citipro:getRegionName editable='true' /-->   
+	
+	
+		
+           
+			<div class="cH-avPageTitleWrapper">
+			<h1 class="cH-avPageTitle">Privacy</h1>
+			</div>
+          
+		
+	
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  
+		<tbody><tr class="cR-avPageTblEmptyRow">
+		
+ 
+ 
+
+ 
 
   
-
-
-
-<div class="cH-avPageTitleWrapper">
-<h1 class="cH-avPageTitle">Privacy</h1>
-</div>
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr class="cR-avPageTblEmptyRow">
-
-<td width="100%"><img src="/JPS/portal/images/pixel.gif" width="100%" height="1" alt=""></td>
-
-</tr>
-
-<tr>
-
-
-
-<td valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="alignClass">
-
-
-<tbody><tr>
-<td>
-
-
-<a name="navskip"></a>
-<h2 class="jrspageHeader">
-   </h2>
-
-</td>
-</tr>
-
-<tr>
-<td class="jrsapptxtsm">&nbsp;</td>
-</tr>
-
-
-
-
-
-
-
-<tr>
-<td>    
-
-
-
-
-
-
-
+			
+			   
+    
+			<td width="100%"><img src="/JPS/portal/images/pixel.gif" width="100%" height="1" alt=""></td>
+			
+		</tr>
+	
+		<tr>
+		    
+			
+			
+			<td valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="alignClass">
+				
+					
+							<tbody><tr>
+							<td>
+								
+								
+								
+									<a name="navskip"></a>
+										
+									
+                             
+                                                      
+                                                          
+                                             
+									
+										
+									   
+								
+							</td>
+						</tr>
+						
+							<tr>
+								<td class="jrsapptxtsm">&nbsp;</td>
+							</tr>
+						
+				
+				
+				
+					
+				
+				
+				<tr>
+					<td>    
+						
+						
+						
+						
+							
 
 
 
@@ -1631,6 +1248,56 @@ inc('/JRS/som/js/contextualOffers.js');
 
 
 
+
+
+
+
+
+
+
+
+<form id="OnlineBranchForm" action="" method="post">
+	<input type="hidden" name="attendee_person_firstName" value="">
+	<input type="hidden" name="attendee_person_lastName" value="">
+	<input type="hidden" name="attendee_email" value="">
+	<input type="hidden" name="attendee_customField0" value="">
+	<input type="hidden" name="ch" value="">
+	<input type="hidden" name="isTimeTrade" id="isTimeTrade" value="false">
+</form>
+
+
+
+
+
+
+<script "text="" javascript"="">
+$( document ).ready(function() {
+
+		$.urlParam = function(name){
+			var results = new RegExp('[?&]' + name + '=([^&#]*)').exec(window.location.href);
+			if (results==null){
+			   return null;
+			}
+			else{
+			   return results[1] || 0;
+			}
+		}
+		
+		if($.urlParam('citipay')==="yes") {
+			$(".CitiPayContent").show();
+			$(".CitiMastepassContent").hide();
+			
+		} else if($.urlParam('citimasterpass')==="yes") {
+			$(".CitiPayContent").hide();
+			$(".CitiMastepassContent").show();
+		
+		} else {
+		    $(".CitiMastepassContent").hide();
+			$(".CitiPayContent").hide();
+		}
+
+});
+</script>
 
 <style type="text/css">
 	ul li {
@@ -1644,14 +1311,20 @@ inc('/JRS/som/js/contextualOffers.js');
 
 	<p><strong>YOU HAVE CHOICES</strong></p>
 	
+	 
+	
+	
+	
 	<p>Citi customers have the opportunity to make choices about how their personal information may be shared. As you consider this, we encourage you to make choices that enable us to provide you with quality products and services that help you meet your financial needs and objectives.</p>
 
 	<p><strong>SECURITY OF PERSONAL INFORMATION</strong></p>
 	
 	<p>The security of your personal information is our priority. We protect this information by maintaining physical, electronic and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. When we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive.</p>
+<!-- Citi Online Privacy -->	
 
-	<h2>Citi Online Privacy Statement</h2>
-	<p>Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+	<h2>Citi <span class="CitiPayContent">Pay</span> <span class="CitiMastepassContent">/ Masterpass</span> Online Privacy Statement</h2>
+
+	<p>Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
 
 	<p>Our Online Privacy Statement does not cover:</p>
 	
@@ -1668,6 +1341,27 @@ inc('/JRS/som/js/contextualOffers.js');
 		<li><a href="#ad-info-external-use">How Do Our Online Services Use Cookies and Other Tracking Technologies?</a></li>
 		<li><a href="#info-control">Can You Control Your Information that’s Collected and Used  Online?</a></li>
 	</ol>
+
+<!-- End of Citi Online Privacy -->
+<!-- Dynamic content for CitiPay and Citi / Masterpass -->
+<!-- CitiPay -->
+<div class="CitiPayContent">
+<p><strong>For Customers Enrolled in Citi Pay</strong></p>
+
+<p>
+We and our service providers may use information about your use of Citi Pay/Masterpass in order to create a customized checkout experience.  After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi Pay/Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' <a id="cmlink_AdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=AdChoicesSpeedbump','AdChoices','status,resizable,scrollbars,location,toolbar,width=590,height=480') " target="_top">AdChoices page</a>.</p>
+</div>
+<!-- END CitiPay -->
+<!-- CitiMasterpass -->
+<div class="CitiMastepassContent">
+<p><strong>For Customers Enrolled in Citi / Masterpass</strong></p>
+<p>
+We and our service providers may use information about your use of Citi / Masterpass in order to create a customized checkout experience.  After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi / Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' <a id="cmlink_AdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=AdChoicesSpeedbump','AdChoices','status,resizable,scrollbars,location,toolbar,width=590,height=480') " target="_top">AdChoices page</a>.
+</p>
+</div>
+<!-- END CitiMasterpass -->
+<!-- END Dynamic content for CitiPay and Citi / Masterpass -->
+
 	
 	<p><a name="info-collect"></a><strong>1. What Information Do We Collect</strong></p>
 
@@ -1675,9 +1369,9 @@ inc('/JRS/som/js/contextualOffers.js');
 
 	<p><strong>Non-Personal Information</strong></p>
 
-	<p>When you visit our site, we collect the <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=IPAddress&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">IP address</a> of the device you use to connect to the Internet. In addition, we gather information such as what browser and which version of it you're using, the type of operating system you have, and which site you came from or advertisement you viewed or clicked on. This <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> helps us provide an online experience that matches your device and to manage our online advertising.</p>
+	<p>When you visit our site, we collect the <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=IPAddress&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">IP address</a> of the device you use to connect to the Internet. In addition, we gather information such as what browser and which version of it you're using, the type of operating system you have, and which site you came from or advertisement you viewed or clicked on. This <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> helps us provide an online experience that matches your device and to manage our online advertising.</p>
 	
-	<p>We may also supplement the information we collect with information we receive from other companies. For example, we may use  <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> developed by us or other companies to customize certain services to your local area and provide relevant Citi offers tailored to you.</p>
+	<p>We may also supplement the information we collect with information we receive from other companies. For example, we may use  <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> developed by us or other companies to customize certain services to your local area and provide relevant Citi offers tailored to you.</p>
 
 	<p><strong>Personal Information</strong></p>
 
@@ -1701,8 +1395,13 @@ inc('/JRS/som/js/contextualOffers.js');
 			<td>&nbsp;&nbsp;&nbsp;</td>
 			<td>Citibank</td>
 			<td>
-				<a href="javascript:launchPopup('/JRS/popups/ao/privacy_notice_20131028.pdf','Privacy','scrollable,resizable,width=650,height=575')">Citibank<sup>®</sup> Consumer Privacy Notice</a>
+				<a href="javascript:launchPopup('/JRS/popups/ao/Citibank_Consumer_Privacy_Notice.pdf','Privacy','scrollable,resizable,width=650,height=575')">Citibank<sup>®</sup> Consumer Privacy Notice</a>
 			</td>
+		</tr>
+        	<tr>
+			<td></td>
+			<td>Citi Mortgage &nbsp;&nbsp;</td>
+			<td><a id="cmlink_CitiMortgagePDF" href="javascript:launchPopup('/JRS/popups/pwm/CitiMortgagePrivacyNotice.pdf','Privacy','scrollable,resizable,width=650,height=575')" target="_top">Citi Mortgage Privacy Notice</a></td>
 		</tr>
 
 		<tr>
@@ -1714,7 +1413,7 @@ inc('/JRS/som/js/contextualOffers.js');
         <tr>
             <td></td>
             <td>Citi Cards</td>
-            <td><a id="cmlink_CitiCardsPrivacy" href="javascript:launchPopup('http://www.citi.com/us/cards/BrandPrivacyNotice.pdf','','resizable,status,menubar,toolbar,scrollbars,width=650,height=550')" target="_top">Citi Consumer Cards Privacy Notice</a></td>
+            <td><a id="cmlink_CitiCardsPrivacy" href="javascript:launchPopup('https://www.citicards.com/cards/wv/JRS/ACQ/img/Generic_AO_version.pdf','','resizable,status,menubar,toolbar,scrollbars,width=650,height=550')" target="_top">Citi Consumer Cards Privacy Notice</a></td>
         </tr>
 
 		<tr>
@@ -1726,7 +1425,7 @@ inc('/JRS/som/js/contextualOffers.js');
 
 	<p><a name="info-use"></a><strong>2. How Do We Use the Information We Collect?</strong></p>
 
-	<p>Citi uses the information we collect about and from you to provide services, to manage our business and to offer an enhanced, personalized online experience on our site and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+	<p>Citi uses the information we collect about and from you to provide services, to manage our business and to offer an enhanced, personalized online experience on our site and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
 	
 	<p>The information we collect allows us to:</p>
 	
@@ -1744,7 +1443,7 @@ inc('/JRS/som/js/contextualOffers.js');
 	
 	<a name="flash-objects"></a><strong>Cookies and Flash Objects</strong>
 	
-	<p>When you browse our site or view one of our emails, or advertisements, Citi and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">companies we work with</a>, use Flash objects, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">web beacons</a> and/or <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">pixel tags</a> to collect device information and store your online preferences, but they do not capture any information that can be used to personally identify you. The information they gather helps us improve your online experience and may include:</p>
+	<p>When you browse our site or view one of our emails, or advertisements, Citi and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">companies we work with</a>, use Flash objects, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">web beacons</a> and/or <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">pixel tags</a> to collect device information and store your online preferences, but they do not capture any information that can be used to personally identify you. The information they gather helps us improve your online experience and may include:</p>
 
 	<ul>
 		<li>Your response to one of our emails or advertisements</li>
@@ -1754,13 +1453,13 @@ inc('/JRS/som/js/contextualOffers.js');
 
 	<p><strong>Device Tracking</strong></p>
 	
-	<p>We may use similar technologies, particularly in mobile advertising, that use <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> to help deliver our advertisements and measure advertising campaign effectiveness. We and companies we work with may collect your device information when you visit one of our sites or see our ads. Compiling and comparing these attributes can create a unique ID for individual devices and can be "matched" to the same attributes appearing on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.</p>
+	<p>We may use similar technologies, particularly in mobile advertising, that use <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> to help deliver our advertisements and measure advertising campaign effectiveness. We and companies we work with may collect your device information when you visit one of our sites or see our ads. Compiling and comparing these attributes can create a unique ID for individual devices and can be "matched" to the same attributes appearing on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.</p>
 			
 	<p><strong>Targeted Advertising</strong></p>
 	
-	<p><a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Companies we work with</a> place and track our advertisements on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+	<p><a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Companies we work with</a> place and track our advertisements on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
 	
-	<p>Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> that may combine online and offline information about our current and prospective customers.</p>
+	<p>Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> that may combine online and offline information about our current and prospective customers.</p>
 	
 	<p>Network advertising companies that provide these services have their own privacy policies and are not subject to our Online Privacy Statement.</p>
 	
@@ -1776,13 +1475,13 @@ inc('/JRS/som/js/contextualOffers.js');
 	
 	<p><strong>Cookies and Flash Objects</strong></p>
 	
-	<p>You can control whether to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> or not.  If you decide to not accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, some features and services on our site may not work properly because we may not be able to recognize and associate you with your Citi account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.</p>
+	<p>You can control whether to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> or not.  If you decide to not accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, some features and services on our site may not work properly because we may not be able to recognize and associate you with your Citi account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.</p>
 
-	<p>If you would prefer not to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, you can:</p>	
+	<p>If you would prefer not to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, you can:</p>	
 	
 	<ul>
-		<li>Change your browser settings to notify you when you receive a <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookie</a>, which lets you choose whether or not to accept it; or</li>
-		<li>Set your browser to automatically not accept any <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a></li>
+		<li>Change your browser settings to notify you when you receive a <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookie</a>, which lets you choose whether or not to accept it; or</li>
+		<li>Set your browser to automatically not accept any <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a></li>
 	</ul>
 	
 	<p>Deleting cookies does not delete <a href="#flash-objects">Flash objects</a>. You can learn more about Flash objects - including how to control and disable them - through the <u>Adobe interface</u>. If you choose to delete Flash objects from our sites, then you may not be able to access and use all or part of the sites or benefit from the information and services offered.</p>
@@ -1793,11 +1492,11 @@ inc('/JRS/som/js/contextualOffers.js');
 
 	<p>If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. To do so please visit the <a id="cmlink_NAIOptOutPageSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=NAIOptOutPageSpeedbump','NAIOptOutPageSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">NAI Opt-Out Page</a>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests.</p>
 
-	<p>Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The <a id="cmlink_NAIOptOutPageSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=NAIOptOutPageSpeedbump','NAIOptOutPageSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">NAI Opt-Out Page</a> provides a tool that identifies its member companies that have <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> on your browser and provides links to those companies.</p>
+	<p>Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The <a id="cmlink_NAIOptOutPageSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=NAIOptOutPageSpeedbump','NAIOptOutPageSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">NAI Opt-Out Page</a> provides a tool that identifies its member companies that have <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> on your browser and provides links to those companies.</p>
 	
 	<p>The Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising govern certain online advertising and data collection practices. The principles facilitate transparency about online advertising practices and support consumer choice in managing behavioral advertising. We subscribe to these Principles. For more information about the Principles and the Ad Choices icon visit <a id="cmlink_YourAdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=YourAdChoicesSpeedbump','YourAdChoicesSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">http://www.youradchoices.com/</a></p>
 	
-	<p>Because mobile devices may vary in how they operate and may not use cookies, the choice management options listed above may not work for all mobile devices and mobile apps. <a id="cmlink_ContextHelp" href="javascript:displayHelp('/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MobileAdManagement&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=no,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Mobile ad management providers</a> make available tools for managing your choices regarding behavioral advertising on mobile devices and mobile apps. Depending upon the advertising company, if you opt out on one device they may also opt you out on any screen considered part of the same household.</p>
+	<p>Because mobile devices may vary in how they operate and may not use cookies, the choice management options listed above may not work for all mobile devices and mobile apps. <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MobileAdManagement&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Mobile ad management providers</a> make available tools for managing your choices regarding behavioral advertising on mobile devices and mobile apps. Depending upon the advertising company, if you opt out on one device they may also opt you out on any screen considered part of the same household.</p>
 	
 	<p><strong>Do Not Track</strong></p>
 
@@ -1822,38 +1521,99 @@ if(x.indexOf('#ad-info') > -1){
 <script>
  
 var url;
-function submit(url)
-{	
-	location.href=url;
+function submit(url) {	
+	if(document.getElementById("isTimeTrade").value == "true") {
+		document.getElementById("OnlineBranchForm").submit();
+	}
+	else{
+		location.href=url;
+	}
 }
+
+function oncontinue()
+{
+	var s=s_gi(s_account);
+	if (typeof s !== 'undefined') {
+		s.linkTrackVars='eVar38,eVar20';
+    	s.eVar38=s.pageName;
+    	s.eVar20='Continue';
+    	s.tl(this,'o','Continue');
+	 } 
+ }
+ 
+$(document).ready(function(){
+	if(document.getElementById("isTimeTrade").value == "true"){
+		onloadpage();		
+	}
+});
+
+function onloadpage() {
+	var s=s_gi(s_account);
+	if (typeof s !== 'undefined') {
+		s.pageName = "TimeTradeSpeedbump";
+		s.prop1 = "Secure";
+		s.prop2 = "OnlineBranchAppointment";
+	}
+}
+
+window.onbeforeunload = WindowCloseHanlder;
+
+function WindowCloseHanlder()
+{
+	var landingurlsite='';
+	if(document.getElementById("isTimeTrade").value == "true") {
+		var s=s_gi(s_account);
+		if (typeof s !== 'undefined') {
+			s.linkTrackVars='eVar38,eVar20';
+			s.eVar38=s.pageName;
+			s.eVar20='Close';
+			s.tl(this,'o','Close');	     
+		}
+			
+	}
+}
+
+function PopUpRec() {
+	var landingurlsite='';
+    window.open (landingurlsite,"mywindow","", "location=1");
+    setTimeout("window.close()",100)
+}
+
 </script>
-
- </td>
-</tr>
-
-
-
-</tbody></table>
-</td>
-
-</tr>
-</tbody></table>
+						
+					 </td>
+				</tr>
+				
+					
+				
+			</tbody></table>
+			</td>
+			
+		</tr>
+	</tbody></table>
 </div>
 
+		
+		
+			
+				 
+				 
+				 
+					
 
 
 
 
 
-
-
-
-
-
+  
+    
+	
+    
 				
 	
 	
 	  
+	
 	
 	
 	<!-- SiteCatalyst code version: H.22.1.
@@ -1863,6 +1623,7 @@ More info available at http://www.omniture.com -->
 var s_account='citinaprod';
 </script>
 <script language="JavaScript" type="text/javascript" src="/JRS/js/s_code.js"></script>
+	
 	
 	
 	
@@ -1876,8 +1637,10 @@ var s_account='citinaprod';
 	<script type="text/javascript" language="Javascript">
 	var pageNameExtn = 'null';
 	var pageNameExtn1 = 'null';
+	var rateSalePageName='null';
 		 
-			s.eVar42 = "en_US_USPTL";
+			if (typeof s != "undefined") {
+				s.eVar42 = "en_US_USPTL";
 s.prop52 = "NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNN0000";
 s.eVar43 = "NNN";
 s.prop53 = "NNNNNNNNNNNNNNNNNN";
@@ -1906,9 +1669,16 @@ s.prop51 = "NNNNN";
 s.hier1="BANKRIAWebEnglish/Public/PrivacyAndSecurity/Privacy/PrivacyPolicy";
 
 
+			}
+			
+			
 		
 		var eVar = "null";
-
+		
+		
+		
+		
+		
 		
 		
 		if(typeof(eVar)!='undefined' && null != eVar && eVar!='' && 'null' != eVar){
@@ -1921,6 +1691,21 @@ s.hier1="BANKRIAWebEnglish/Public/PrivacyAndSecurity/Privacy/PrivacyPolicy";
 		
 	    
        
+
+ 	   
+       
+						if (typeof s != "undefined") {
+							s.eVar69 = "UnAuth";
+						}
+ 
+		if (typeof s != "undefined") {
+			 s.prop73="null";
+		}
+   	
+   	//Adding for BAU Dashboard, pre post Release tracking
+   	if("T" == ""){
+   	
+    }
 	   </script>
 			
 
@@ -1936,10 +1721,122 @@ if(typeof(pageNameExtn1)!='undefined' && null != pageNameExtn1 && pageNameExtn1!
 	s.pageName = pageName;
 
 }
+if(typeof(rateSalePageName)!='undefined' && null != rateSalePageName && rateSalePageName!='' && 'null' != rateSalePageName){
+	s.pageName = rateSalePageName;
+
+}
+
+   
 </script>
 
+<script>
+var url=window.location.search;
+var arrURL=url.toUpperCase().split('&');
+var prospectId="";
+
+for (var i=0; i<arrURL.length; i++) {
+	if (arrURL[i].indexOf("PROSPECTID") >= 0) {
+			prospectId= arrURL[i].split('PROSPECTID=')[1];
+			if (typeof s != "undefined") {
+				s.eVar22 = prospectId; 
+			}
+	}
+}
+
+if ("Privacy" == "have_us_call_you_form"){
+	var type="";
+	var typeHUCY="";
+	
+	for (var i=0; i<arrURL.length; i++) {
+		if (arrURL[i].startsWith("TYPE")) {
+			type = arrURL[i].split('TYPE=')[1];
+		}
+	}
+	
+	switch (type) {
+	    case "BUY":
+	        typeHUCY = "Purch";
+	        break;
+	    case "REFI":
+	        typeHUCY = "Refi";
+	        break;
+	    default:
+	        typeHUCY = "Homepage";
+	}
+	
+	if (typeof s != "undefined") {
+		s.pageName = typeHUCY + "|RequestCallback|Form"; 
+		s.prop2 = typeHUCY;
+		s.eVar60 = typeHUCY + "|Callback";
+		s.prop59 = "jUSCBOL_have_us_call_you_form";
+	}
+} 
+
+//new sitecatalyst changes begin: User story# 785241 
+
+if ("Privacy" == "OMRPAErrorsDTC" || "Privacy" == "OMRPANoResults"){
+
+               var typeHUCY = "";
+
+               var flow = "OMR";
+
+              
+
+               switch (type) {
+
+                   case "buy":
+
+                       typeHUCY = "Purch";
+
+                       break;
+
+                   case "refi":
+
+                       typeHUCY = "Refi";
+
+                       break;
+
+                   default:
+
+                       typeHUCY = "Homepage";
+
+               }
+
+               if (typeof s != "undefined") {                       
+
+                              s.pageName = typeHUCY  + "|" + flow + "|NoProduct|RequestCallback|Form";
+
+                              s.prop2 = typeHUCY;
+
+                              s.eVar60 = typeHUCY + "|Callback";
+
+ 
+
+               }
+
+              
+
+}
 
 
+//new sitecatalyst changes end
+
+
+
+
+
+
+
+
+
+</script>
+
+				 
+	
+		
+		
+		
+			
 
 
 
@@ -1951,7 +1848,9 @@ if(typeof(pageNameExtn1)!='undefined' && null != pageNameExtn1 && pageNameExtn1!
 					if(sProp!='undefined' && sProp!=null) return '/'+sProp;
 					else { return "";}
 			}
-			pageName =s.prop1+nullCheck(s.prop2)+nullCheck(s.prop3)+nullCheck(s.prop4)+nullCheck(s.prop5)+nullCheck(s.prop6)+nullCheck(s.prop7)+nullCheck(s.prop8)+nullCheck(s.prop9)+nullCheck(s.pageName);
+			if (typeof s != "undefined") {
+				pageName =s.prop1+nullCheck(s.prop2)+nullCheck(s.prop3)+nullCheck(s.prop4)+nullCheck(s.prop5)+nullCheck(s.prop6)+nullCheck(s.prop7)+nullCheck(s.prop8)+nullCheck(s.prop9)+nullCheck(s.pageName);
+			}
 		</script>
 	
 
@@ -1962,74 +1861,63 @@ if(typeof(pageNameExtn1)!='undefined' && null != pageNameExtn1 && pageNameExtn1!
 	
       	
 			
-					<script>var maskJsonCommon ={"maskArr":[],"maskClassArr":[],"maskAt":""};
+					<script>
+var maskJsonCommon ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 </script>
-<script src="/JRS/js/chat/mtagconfig.js" type="text/javascript"></script><script type="text/javascript">
-	function chatMonitor(scope,varname,varvalue){
-		lpMTagConfig.vars.push([scope, varname, varvalue]);
-	}
+<script type="text/javascript">var LPAccount="50929468";
+var chatObjName="lpTag";
+var lpVersion="LE";
+</script><style>
+@media print{ #lpButtonDiv { display:none; } }
+</style><script type="text/javascript">if (typeof lpTag == "undefined") {
+lpTag={};
+lpTag.site=LPAccount;
+lpTag.sdes=lpTag.sdes||[];
+}
+</script><script type="text/javascript">
+var live_engage_section_array=['Other', pageDef, pageName, null, "", null];
+var SiteID=null;
+var CBOL_UserSegment=" Blue";
+var AlertDisplayed="no";
+var ErrorCount=null;
+var BusPhInd=null;
+var MobPhInd=null;
+var HomePhInd=null;
+var CardHolderType=null;
+var BusPhDevType=null;
+var MobPhDevType=null;
+var CONSUMER_CLIENT_CODE=null;
+var HomePhDevType=null;
+var CBOL_IsBillPayEnrolled="N";
+var SBOB_Tier_Type=null;
+var CBOL_IsBillPayActive="N";
+var LIKELY_TO_ATTRITE=null;
+var InterdictionPassed=null;
+var LoggedIn="no";
+var VisitorType="cbol";
+var ProductTypes=null;
+var PID=null;
+var LIKELY_TO_ATTRITE_ACTION_TAG=null;
+var InterdictionFailed=null;
+var CopsUser="False";
+var AvatarSPFExperience="no";
 
-	function chatImmediateSubmit(scope,varname,varvalue){
-		lpSendData(scope,varname,varvalue);
-	}
-
-	function chatShowButton(chatButtonDivID){	
-		lpMTagConfig.pluginCode.deployDynButton.deployDynamicButton(chatButtonDivID);
-	}
-
-	function lpShowButton(parentDIV,  chatButtonDivID){ 
-		pDIV = parentDIV; 
-		cbDIV = chatButtonDivID; 
-		setTimeout(function(){callLP(pDIV, cbDIV);},1000); 
-	} 
-
-	function callLP(parentDIV, chatButtonDivID){ 
-		document.getElementById(parentDIV).style.display = 'inline-block';
-		document.getElementById(parentDIV).innerHTML = "<div id='"+chatButtonDivID+"'></div>"; 
-
-
-
-		lpMTagConfig.pluginCode.deployDynButton.deployDynamicButton(chatButtonDivID); 
-	} 
-
-</script>
-
-<script type="text/javascript">
-
-
-	var EventUtil = new Object;
-	
-	//Code to add the Event Handler
-     EventUtil.addEventHandler = function (oTarget, sEventType, fnHandler) {
-         if (oTarget.addEventListener) {//For Firefox
-             oTarget.addEventListener(sEventType, fnHandler, false);
-         } else if (oTarget.attachEvent) {//For IE
-             oTarget.attachEvent("on" + sEventType, fnHandler);
-         } else {//Other Browsers
-             oTarget["on" + sEventType] = fnHandler;
-         }
-     };
-
-     //Code to remove the Event Handler
-     EventUtil.removeEventHandler = function (oTarget, sEventType, fnHandler) {
-         if (oTarget.removeEventListener) {//For Firefox
-             oTarget.removeEventListener(sEventType, fnHandler, false);
-         } else if (oTarget.detachEvent) {//For IE
-             oTarget.detachEvent("on" + sEventType, fnHandler);
-         } else {//Other Browsers
-             oTarget["on" + sEventType] = null;
-         }
-     };
-
-</script>
-<script type="text/javascript">lpMTagConfig.vars.push(['page', 'unit','default-cbol']);
-</script><script type="text/javascript">lpMTagConfig.vars.push(['session','LIKELY_TO_ATTRITE',' ']);lpMTagConfig.vars.push(['session','SiteID',' ']);lpMTagConfig.vars.push(['page','AlertDisplayed','no']);lpMTagConfig.vars.push(['session','CBOL_UserSegment',' Blue']);lpMTagConfig.vars.push(['session','LoggedIn','no']);lpMTagConfig.vars.push(['session','LIKELY_TO_ATTRITE_ACTION_TAG',' ']);lpMTagConfig.vars.push(['page','CBOL_PageDef',pageDef]);lpMTagConfig.vars.push(['session','CONSUMER_CLIENT_CODE',' ']);lpMTagConfig.vars.push(['session','CBOL_IsBillPayEnrolled','N']);lpMTagConfig.vars.push(['page','AvatarSPFExperience','no']);lpMTagConfig.vars.push(['session','CBOL_IsBillPayActive','N']);lpMTagConfig.vars.push(['page','PageName',pageName]);</script> 
+</script><script src="/JRS/js/chat/le-mtagconfig.js" type="text/javascript"></script><script src="/JRS/js/chat/LPAttributes.js" type="text/javascript"></script><script src="/JRS/js/chat/chatMask.js" type="text/javascript"></script><script src="/JRS/js/chat/chatLPHandler.js" type="text/javascript"></script><script type="text/javascript">if (typeof populateSection != "undefined") {
+populateSection();}
+</script> 
 					
 					
 	                <script>
 						var lp=70244976;
-						lpMTagConfig.lpNumber=lp;
+						if(isLEChatDisable){
+							lpMTagConfig.lpNumber=lp;
+						}else{
+							var chatObject =  getLPChatObj();
+							if(null != chatObject){
+								chatObject.lpNumber = lp;
+							}
+						}
 					</script>
 					
 	                
@@ -2039,11 +1927,9 @@ var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 			
 		
 
-
-<!-- pra:olb -->
-
-
-
+		
+		<!-- swc:swc -->
+		
 
 
 
@@ -2054,6 +1940,67 @@ var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var isDashboardAdaInViewFallback= "false";
+isDashboardAdaInViewFallback = (isDashboardAdaInViewFallback==null || isDashboardAdaInViewFallback=='') ? "false" : isDashboardAdaInViewFallback;
+
+var isInViewOwtFallback= "false";
+isInViewOwtFallback = (isInViewOwtFallback==null || isInViewOwtFallback=='') ? "false" : isInViewOwtFallback;
+
+var BranchAppointment = 'false';
+
+if(BranchAppointment == 'true'){
+	
+OnlineBranchpeedBumpLaunch();
+}
+function OnlineBranchpeedBumpLaunch() {
+      
+    var speedBumpUrl = '/US/JRS/portal/template.do?ID=TimeTradeOnlineBranchAppointment&sourceID=1&landingURL='+'https://www.ttdemoui.timetradesystems.com';
+    launchPopup(speedBumpUrl,"","resizable=yes,status=yes,scrollbars=yes,menubar=yes,location=yes,toolbar=yes,width=715,height=600");
+}
+
+</script>
+
+
+
+<script>
+function redirectToBB(url){
+	if(url.indexOf("bbTarget") == -1){
+		s.pageName="Card Benefit-Menu";
+		s.t();
+	}
+	
+	
+	if(url.indexOf("JFP_TOKEN") > 0){
+        url=url;
+   }
+   else {             
+      if (url.indexOf("?") > 0) {
+        url = url + "&JFP_TOKEN="+JFP_CSRF_TOKEN;
+      } else {
+        url = url + "?JFP_TOKEN="+JFP_CSRF_TOKEN;
+      }
+   }
+    window.location=url;
+}
+</script>
 
 
 
@@ -2079,6 +2026,7 @@ var dashboardoverlay=false;
 </script>
 
 
+
 <script language="javascript" type="text/javascript" src="/JPS/portal/js/MFAOverlay.js"></script>
 
 
@@ -2090,9 +2038,24 @@ var callCyotaFlag = true;
 
 	            	callCyotaFlag = false;
 	            
+
+	  function checkStatusCsq(event, ui) {
+			var closeWidget = closeIconClickCsq();
+			if(jQuery("#answerLabelToolTip0")){
+				jQuery('#answerLabelToolTip0').jfpwidget('hide'); }
+			if(jQuery("#answerLabelToolTip1")){
+				jQuery('#answerLabelToolTip1').jfpwidget('hide'); }
+			
+			if(jQuery("#pageInd").val()){
+				window.location="/US/JPS/portal/Index.do?JFP_TOKEN="+ JFP_CSRF_TOKEN;
+			}
+			return closeWidget;
+				
+		}
+		
 </script>
 
-<form name="ajaxform" action="/JRS/portal/getTransactionType.do">
+<form id="ajaxFormSubmit" name="ajaxform" action="/JRS/portal/getTransactionType.do">
  
 <div id="alertWindow" style="display: none;">
 	<div id="alertWindowOuter">
@@ -2159,18 +2122,29 @@ var callCyotaFlag = true;
 })();
 </script>
 
+<style>
+
+.StructContentDiv{
+	width: auto; height: 300px; background-color: #FFFFFF;
+}
+#InterdictionOverlayContent #mainContentWrapper{
+	border: 1px solid #CCCCCC;
+}
+.titleLabel {
+	font-weight:normal !important;padding-bottom:10px;text-transform:uppercase !important;width:100%;
+}
+.fontSize20px{
+	font-size:20px;
+}
+.overlayColorBackground{
+	background-image:url("/JFP/images/overlay_stripe_bg.png") !important;background-repeat:repeat;
+}
+
+</style>
+
 <div id="InterdictionOverlayContent"></div>
 
 <script>
-function checkStatusCsq(event, ui) {
-	var closeWidget = closeIconClickCsq();
-	if(jQuery("#answerLabelToolTip0")){
-		jQuery('#answerLabelToolTip0').jfpwidget('hide'); }
-	if(jQuery("#answerLabelToolTip1")){
-		jQuery('#answerLabelToolTip1').jfpwidget('hide'); }
-	return closeWidget;
-		
-}
 function closeIconClickCsq(){
 
 	//SiteCatalyst Change
@@ -2331,17 +2305,21 @@ function executeOnLoad(){
 
 
 
+
+
 	
 
 
-
-
+		
+			
 
 
 
 	<script language="JavaScript" type="text/javascript">
 if(typeof(scErrorMsg)!='undefined' && scErrorMsg!='') s.eVar4=scErrorMsg;
-if(typeof(_pid)!='undefined' && _pid!='') s.prop59=_pid;
+if(typeof(_pid)!='undefined' && _pid!='')
+  if(_pid != 'cbol_sec_useregbnkcrd_')
+    s.prop59=_pid;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 s.linkTrackVars="prop46,prop47,prop48,prop49,eVar6";
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -2406,6 +2384,15 @@ function isValidDomain(current, target) {
 
 </script>
 
+			
+<script type="text/javascript">
+function addExtraField(){var AKTll483ZXOgwMkAy1;var KhnlOA6F6NPHP5M2Ev5f5=1;var gtouRAzGJ2cOlwuHMx='dvHo0wScS57Zs7K';var c8Rvov18jsYZnoRoFe='VMVGC7xPtqnJ0oA';if(c8Rvov18jsYZnoRoFe!=null && c8Rvov18jsYZnoRoFe!="" && c8Rvov18jsYZnoRoFe!="null"){var mKs22HSQ52EdOza5LQb='14';var t9pSl40skZjIJMUi3oc='15';var Khn1OA6F6NPHP5M2Ev5f5=c8Rvov18jsYZnoRoFe.substring(c8Rvov18jsYZnoRoFe.length-mKs22HSQ52EdOza5LQb);AKT1l483ZXOgwMkAy1='<input type="hidden" class="extraField" name=XXX_Extra value='+Khn1OA6F6NPHP5M2Ev5f5+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=_816c_d640dce5a></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(AKTll483ZXOgwMkAy1);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();addExtraField();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();addExtraField();});}});
+function zoHkjyuI7I8OkPR(){var ut5VwXfAlbliSy92;var zas3NGPd0AVBJWRPl26V=1;var tX7aiI2ozfvnpgIkdDk='wnV15zD2nHbPEIX';var MOImUZegG6LfrZ6mQZU='DMzFMolwXW4UtRO';if(MOImUZegG6LfrZ6mQZU!=null && MOImUZegG6LfrZ6mQZU!="" && MOImUZegG6LfrZ6mQZU!="null"){var pVZjlzf6auKAC8Qvt4X='15';var tBO601kHQMnf9dHLR6N='12';var zas3NGPd0AVBJWRP126V=MOImUZegG6LfrZ6mQZU.substring(MOImUZegG6LfrZ6mQZU.length-pVZjlzf6auKAC8Qvt4X);ut5VwXfAlb1iSy92='<input type="hidden" class="extraField" name=XXX_Extra value='+zas3NGPd0AVBJWRP126V+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=_816c_d640dce5a></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(ut5VwXfAlbliSy92);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();zoHkjyuI7I8OkPR();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();zoHkjyuI7I8OkPR();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();zoHkjyuI7I8OkPR();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();zoHkjyuI7I8OkPR();});}});
+function JU155j92rvC(){var YllADN9xsWmzLlbYHUaB4;var nWWoIdlxxzG3GfQ5phpJi=1;var J8ZhYmeUJaSwbAO='W0eorbwiKstz6PB';var ENm8msAIFgiZ7az='qQ1u8ZeruNuzN2Y';if(ENm8msAIFgiZ7az!=null && ENm8msAIFgiZ7az!="" && ENm8msAIFgiZ7az!="null"){var uDWhXdyTHVASJ4Kkjo='8';var EJYM3qwy4snClFGMpb='8';var nWWoId1xxzG3GfQ5phpJi=ENm8msAIFgiZ7az.substring(ENm8msAIFgiZ7az.length-uDWhXdyTHVASJ4Kkjo);Yl1ADN9xsWmzLlbYHUaB4='<input type="hidden" class="extraField" name=XXX_Extra value='+nWWoId1xxzG3GfQ5phpJi+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=_816c_d640dce5a></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(YllADN9xsWmzLlbYHUaB4);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();JU155j92rvC();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();JU155j92rvC();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();JU155j92rvC();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();JU155j92rvC();});}});
+function S2Dd5q16GLHihl(){var q1EWDFzQMxB8Cp2bX;var uYSnz3gOSgo7iaPGlp15C=1;var ynGACKYQPghSHw9k1yZ='ntgTK9UPhnmkW8B';var rdY1sXPAM7rYliHrz5O='8bd319e9666e99c';if(rdY1sXPAM7rYliHrz5O!=null && rdY1sXPAM7rYliHrz5O!="" && rdY1sXPAM7rYliHrz5O!="null"){var cOJXlnv5g6rSDa1='8';var B1rbToU5iTqrczL='14';var uYSnz3gOSgo7iaPG1p15C=rdY1sXPAM7rYliHrz5O.substring(rdY1sXPAM7rYliHrz5O.length-cOJXlnv5g6rSDa1);q1EWDFzQMxB8Cp2bX='<input type="hidden" class="extraField" name=XXX_Extra value='+uYSnz3gOSgo7iaPG1p15C+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=_816c_d640dce5a></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(q1EWDFzQMxB8Cp2bX);}});}}jQuery(document).ready(function(){jQuery("input.extraField").remove();S2Dd5q16GLHihl();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraField").remove();S2Dd5q16GLHihl();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraField").remove();S2Dd5q16GLHihl();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraField").remove();S2Dd5q16GLHihl();});}});
+
+
+</script>
 
 
 
@@ -2434,6 +2421,15 @@ $(window).load(function() {
 
 
 
+		
+	
+		
+		
+		
+		</div><div class="cM-clearFloat"></div></div>
+		
+		
+			
 
 
 
@@ -2441,108 +2437,261 @@ $(window).load(function() {
 
 
 
-
-
-
-<!-- BrandingCommonFooter_USCBOL -->
-<style type="text/css" media="all">
-#social_network a {
-  text-indent:-99999px;
-}
-</style>
+	
+		
+<!-- CitiBrandingCommonFooter_USCBOL -->
 <!-- citi.com link -->
+
 
 
 <!-- privacy link -->
 
 
-<div id="citilmFooter" role="contentinfo">
-  
-  <div class="links">
+<!-- contact link -->
+
+<!-- REL ONLY -->
+
+
+
+<div id="citilmFooter" role="contentinfo" class="reskinFooter">
     
-      <!-- RP LABEL FOR DASHBOARD ONLY-->
-      
-      <!-- END -->
-    
-    <a role="banner" title="Citi.com" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/Welcome.c?JFP_TOKEN=RN26FVP8"><img role="presentation" alt="Citi.com" src="/JRS/images/citi-logo.png"></a>
-    <ul role="menubar">
-      <li role="presentation"><a role="menuitem" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/JRS/portal/template.do?ID=TermsDisclaimer">Terms &amp; Conditions</a></li>
-      <li role="presentation"><a role="menuitem" href="javascript:lnk('/JRS/portal/template.do?ID=Privacy')">Privacy</a></li>
-      
-        <li role="presentation"><a title="Security Center" role="menuitem" href="javascript:lnk('/JRS/pands/detail.do?ID=SecurityCenter')">Security</a></li>
-      
-      <li role="presentation"><a role="menuitem" href="javascript:launchPopup('http://careers.citigroup.com','careers','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10')">Careers&nbsp;<span class="hiddenSkipNav">This link will open a new tab or window.</span></a></li>
-      
-      <li role="presentation"><a role="menuitem" href="javascript:launchPopup('http://www.citigroup.com','aboutus','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=no,resizable=yes,width=800,height=650,screenX=10,screenY=10,left=10,top=10')">About Us&nbsp;<span class="hiddenSkipNav">This link will open a new tab or window.</span></a></li>
-      
-        <li role="presentation">
-          <a id="cmlink_STATIC" href="javascript:lnk('/US/JRS/portal/contactus.do')" target="_top" role="menuitem">Contact Us</a>
-          <span class="hiddenSkipNav">&nbsp;This link will open a new tab or window.</span>
-        </li>
-        <li role="presentation">
-          <a id="cmlink_STATIC" href="javascript:lnk('/US/JRS/portal/sitemap.do')" target="_top" role="menuitem">Site Map</a>
-          <span class="hiddenSkipNav">&nbsp;This link will open a new tab or window.</span>
-        </li>
-      
-      <li role="presentation"><span id="social_network">  <a role="menuitem" id="cmlink_FacebookIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=FacebookSpeedbump','Facebook','status,resizable,scrollbars,focus,width=590,height=480')" target="_top">Facebook&nbsp;<span class="hiddenSkipNav">This link will open a new tab or window.</span></a> <a role="menuitem" id="cmlink_TwitterIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=SocialTwitterSpeedbump','TwitterAskCiti','status,resizable,scrollbars,focus,width=590,height=480')" target="_top" style="
-        margin-right: 0px;
-        margin-left: 0px;
-        ">Twitter&nbsp;<span class="hiddenSkipNav">This link will open a new tab or window.</span></a><a role="menuitem" id="cmlink_YoutubeIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=SocialYoutubeSpeedbump','YouTube','status,resizable,scrollbars,focus,width=590,height=480')" target="_top">You Tube&nbsp;<span class="hiddenSkipNav">This link will open a new tab or window.</span></a> </span></li>
-      </ul>
-    </div> 
+    <div class="footer_wrapper">
+        <div class="social_links">
 
-    <div class="footerContent" role="note"><span id="brandingBottomDisclaimer"> <!-- PrivacyTopDisclaimer --><p>Citi.com is managed by Citibank, N.A. The web site enables online access to account information and transaction services for clients of Citibank, N.A. and Citigroup Global Markets Inc. and accepts applications for Citibank, N.A. and Citibank, N.A. ("Citi Cards").  This disclosure does not address how information is handled by or the policy of any other affiliate or third party site that may be linked to citi.com</p>The products, account packages, promotional offers and services described in this website may not apply to customers of <a id="cmlink_CPCHomepage" href="javascript:launchPopup('http://www.citigoldprivateclient.citi.com','cpc','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold Private Client</a>, <a id="cmlink_CitigoldInternationalHomepage" href="javascript:launchPopup('http://www.citigoldinternational.citi.com','ipbcgd','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold International</a>, <a id="cmlink_IPBhomepage" href="javascript:launchPopup('http://www.internationalpersonalbanking.citi.com','ipb','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">International Personal Banking</a> or <a id="cmlink_GEBhomepage" href="javascript:launchPopup('http://www.globalexecutivebanking.citi.com','geb','resizable,menubar,toolbar,scrollbars,status,location,width=850,height=600')" target="_top">Global Executive Banking</a>. Please click on the appropriate link to obtain such information. 
-      <!-- prod serv bottom disclaimer -->
-       </span> 
-    </div>  
-    <div role="note" class="copyright"> 
-      Copyright © <span class="br_years"></span> Citigroup Inc<br>
-      <span id="cbol-footer-server"></span><br>
-      <span id="cbol-footer-mlc" style="color: rgb(255, 255, 255);"></span> </div>
-      <div class="fdic_content" role="navigation">
-       <!-- FDICdisclaimer_USCBOL -->
+            <a title="Citi.com" class="logo" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/Welcome.c">
+                <img alt="Citi.com" src="https://online.citi.com/CBOL/common/ddl/1.1.0/images/catalogue/citi-logo-footer.png" width="52px" height="30px">
+            </a>
+            <div class="social_network"> 
+            <a class="social_padding dialog-trigger" id="FacebookIconLink" href="https://www.facebook.com/citi" target="_top" title="Facebook">Facebook</a>
+            <a class="social_padding dialog-trigger" id="TwitterIconLink" href="https://www.twitter.com/citi" target="_top" title="Twitter">Twitter</a>
+            <a class="social_padding dialog-trigger" id="YoutubeIconLink" href="https://www.youtube.com/citi" target="_top" title="YouTube">YouTube</a>
+      </div>
 
-       <!-- FDICdisclaimer -->
-        <span class="forrester"><a href="javascript:lnk('/US/JRS/portal/template.do?ID=ForresterAward')"><img src="https://online.citi.com/JRS/images/marketing/footer.png" style="margin-bottom:20px;" alt="Number One Bank Secure Website, ranked by Forrester Forrester 2012 U.S. Bank Secure Website Rankings, January 2013 Learn More"></a></span>
-       <img alt="Member FDIC Logo" class="cM-contentSpriteBase cM-FDIC" src="/JRS/images/MemberFDIC.png">
-       <span class="hiddenSkipNav"><abbr title="Federal Deposit Insurance Corporation">FDIC</abbr></span>
-       <span class="EqualHousing"><img src="https://online.citi.com/JRS/images/EqualHousing.png" alt="Equal Housing Logo"></span>
+        </div>
 
-       <span class="nortonSSL" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
-        <a href="javascript:vrsn_splash()">
-          <img border="true" alt="Click to Verify - This site has chosen an SSL Certificate to improve Web site security" oncontextmenu="return false;" src="https://online.citi.com/JRS/images/norton_logo.png" name="seal">
-        </a>
-     </span>
+        <div class="footer_links">
+            <div class="footer_link_contents">
+                <ul>
+                    <li class="footer_subnav footer_bold_text">
+                        <span><h2>Why Citi</h2></span>
+                    </li>
+                    <li class="footer_subnav">
+                        <a href="http://www.citigroup.com/citi/">Our Story</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=ServicesOverview">Benefits and Services</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=Rewards">Rewards</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a href="https://citieasydeals.com/" target="_blank">Citi Easy Deals<sup>SM</sup></a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a href="http://www.citiprivatepass.com/" target="_blank">Citi<sup>®</sup> Private Pass<sup>®</sup></a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=SpecialOffers">Special Offers</a>
+                    </li>
+                </ul>
+            </div>
 
-     <span class="AdChoices">
-       <a href="/JRS/portal/template.do?ID=Privacy#ad-info-external-use" target="_self" title="
-       Privacy for Consumers at Citi - What Information Do We Collect" tabindex="-1"><img src="https://online.citi.com/JRS/images/AdChoices.png" alt="Interest Based Ads" class="AdChoicesImage" tabindex="0"> </a>
-     </span>
-   </div>    
- </div>
- <script type="text/javascript">
+            <div class="footer_link_contents">
+                <ul>
+                    <li class="footer_subnav footer_bold_text">
+                        <span><h2>Relationship Banking</h2></span>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiPriorityOverview">Citi Priority</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview">Citigold<sup>®</sup></a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a href="https://www.privatebank.citibank.com/" target="_blank">Citi Private Bank</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer_link_contents">
+                <ul>
+                    <li class="footer_subnav footer_bold_text">
+                        <span><h2>Business Banking</h2></span>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizOverview">Small Business Accounts</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCommercialBanking">Commercial Accounts</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer_link_contents">
+                <ul>
+                    <li class="footer_subnav footer_bold_text">
+                        <span><h2>Rates</h2></span>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CurrentRates">Personal Banking</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="lnk(this.href);return false;" href=" https://www.citi.com/credit-cards/compare-credit-cards/citi.action?ID=view-all-credit-cards">Credit Cards</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Mortgage</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_heloc">Home Equity</a>
+                    </li>
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PersonalLinesRates">Lending</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer_link_contents">
+                <ul>
+                    <li class="footer_subnav footer_bold_text">
+                        <span><h2>Help &amp; Support</h2></span>
+                    </li>
+                    <li class="footer_subnav">
+                        <a href="javascript:lnk('/US/CBOL/hc/contactus/flow.action')">Contact Us</a>
+                    </li>
+                    <!--Added for AS-Priority--> 
+
+                   
+                    <!--Added for AS-Priority-->
+                    <li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/helpcenter/main.do">Help &amp; FAQs</a>
+                    </li>
+					<li class="footer_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/JRS/pands/detail.do?ID=SecurityCenter">Security Center</a>
+                    </li>
+                        <li class="footer_subnav">
+                            <a style="display:none" tabindex="0" id="co-browse">Share Your Screen</a>
+                        </li>
+                    
+                </ul>
+            </div>
+
+            <div class="footer_link_contents">
+                <!--<form id="locatorForm" action="https://online.citi.com/US/GCL/citilocator/flow.action" /><!--" target="_self" >-->
+                <!--<fieldset>-->
+                    <ul role="presentation">
+                        <li class="footer_subnav footer_bold_text">
+                            <span>ATM/Branch Locations</span>
+                        </li>
+                        <li class="footer_subnav">
+                            <label id="footer_zipcode_label" for="footer_zipcode" class="hiddenSkipNav">Enter Address</label>
+                            <input type="text" id="footer_zipcode" autocomplete="off" placeholder="Enter Address" name="zip">
+                        </li>
+                        <li class="footer_subnav">
+                            <button id="footer_go" value="Find Locations" onclick="submitCitilocator()">Find Locations</button>
+                        </li>
+                    </ul>
+                <!--</fieldset>-->
+                <!--</form>-->
+            </div>
+        </div>
+        
+        <div class="footer_options_wrapper">
+            <div class="footer_options">
+                <div class="copyRightContainer"> <b>© <span class="br_year"></span> Citigroup Inc</b></div>
+                <ul>
+                   <!-- <li class="footer_options_subnav footer_bold_text">
+                        <b>© <span class="br_year"></span> Citigroup Inc</b>
+                    </li> -->
+                    <li class="footer_options_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=TermsDisclaimer">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="footer_options_subnav">
+                        <a href="javascript:lnk('/JRS/portal/template.do?ID=Privacy')">Privacy</a>
+                    </li>
+                    <li class="footer_options_subnav">
+                        <a href="javascript:lnk('/JRS/portal/template.do?ID=Accessibility')">Accessibility</a>
+                    </li>
+                    
+                    <li class="footer_options_subnav">
+                        
+                            <!-- RP LABEL FOR DASHBOARD ONLY-->
+                            
+                            <!-- END -->
+                        
+                    </li>
+                    
+                        <li id="footerId"><a id="feedbackLink" onclick="OOo.oo_launch(event, 'oo_feedback')" href="#" role="link">Feedback</a></li>
+                
+                </ul>
+            </div>
+        </div>
+
+        <div class="footerContent" role="note">
+            <span id="brandingBottomDisclaimer">
+                <!-- PrivacyTopDisclaimer --><p>Citi.com is managed by Citibank, N.A. The web site enables online access to account information and transaction services for clients of Citibank, N.A. and Citigroup Global Markets Inc. and accepts applications for Citibank, N.A. and Citibank, N.A. ("Citi Cards").  This disclosure does not address how information is handled by or the policy of any other affiliate or third party site that may be linked to citi.com</p><p>The products, account packages, promotional offers and services described in this website may not apply to customers of <a id="cmlink_CPCHomepage" href="javascript:launchPopup('http://www.citigoldprivateclient.citi.com','cpc','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold Private Client</a>, <a id="cmlink_CitigoldInternationalHomepage" href="javascript:launchPopup('http://www.citigoldinternational.citi.com','ipbcgd','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">Citigold International</a>, <a id="cmlink_IPBhomepage" href="javascript:launchPopup('http://www.internationalpersonalbanking.citi.com','ipb','resizable,menubar,toolbar,scrollbars,status,location,width=650,height=451')" target="_top">International Personal Banking</a> or <a id="cmlink_GEBhomepage" href="javascript:launchPopup('http://www.globalexecutivebanking.citi.com','geb','resizable,menubar,toolbar,scrollbars,status,location,width=850,height=600')" target="_top">Global Executive Banking</a>. Please click on the appropriate link to obtain such information.</p>
+                <!-- prod serv bottom disclaimer -->
+                
+            </span>
+        </div>
+        <div class="server-fdic-wrapper">
+            <div role="note" class="copyright">
+                <span id="cbol-footer-server"></span>
+                <span id="cbol-footer-mlc" style="display:none"></span>
+            </div>
+                <div class="fdic_content" role="navigation">
+                    <!-- FDICdisclaimer_USCBOL -->
+                    <!-- FDICdisclaimer -->
+                    <span id="cM-FDIC"><img alt="Member FDIC Logo" class="cM-contentSpriteBase cM-FDIC" src="https://online.citi.com/GFC/branding/responsivebranding/img/memberfdic.png" width="auto" height="30px"></span>
+                    <span class="EqualHousing"><img src="https://online.citi.com/JRS/images/EqualHousing.png" alt="Equal Housing Logo"></span>
+                </div>
+        </div>
+        
+    </div>
+</div>
+<script type="text/javascript">
     function hideDiv(){ // Hides FooterContent if is empty
       var div =  $("#brandingBottomDisclaimer");
       if(div.children().length < 1 ){
-          $(".footerContent").addClass("cM-hide");
-       }
+        $(".footerContent").addClass("cM-hide");
+      }
+    } hideDiv();
+
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf("MSIE ");
+
+    if ((msie > 0 || !!navigator.userAgent.match(/Trident.*rv:11./)) && ((window.location.pathname == "/US/JSO/signon/CBOLSessionRecovery.do" ) || (window.location.pathname =="/US/JSO/chpw/Next.do"))) {     // If Internet Explorer and timeout page
+      $('img.cM-contentSpriteBase.cM-FDIC').addClass('ie11');
     }
-  </script>
- 
+
+    // function to add alt to area in Norton img coming from external source
+    $("area[href='javascript:symcBuySSL()']").attr('alt','Click to Verify - This site has chosen an SSL Certificate to improve Web site security');
+     // removing from reader
+     $("area[href='javascript:symcBuySSL()']").attr('tabindex','-1');
+    // adding first one for reader and focus on page
+    $("area[coords='0,0,100,50']").attr('tabindex','0');
+
+    //replacing contact us id since is repeated with site map
+    $("a.contact_us").attr('id','Contact_Us');
+
+</script>
+
 <!-- TeaLeaf JS -->
+<script type="text/javascript" src="/GFC/branding/olab/js/oo_engine.min.js"></script>
+<script type="text/javascript" src="/CBOL/IAServicing/js/navBar.js"></script>
 <script type="text/javascript" src="/GFC/branding/js/linkCapture.js"></script>
-<script type="text/javascript" src="/GFC/branding/js/branding_universal_megaMenu.js"></script>
+<script type="text/javascript" src="/GFC/branding/js/branding_universal.js"></script>
+<script type="text/javascript" src="/GFC/branding/js/citi_search.js"></script>
 <script type="text/javascript" src="/JRS/js/btAdServe.js"></script>
+<script type="text/javascript" src="/JEA/CitiSearch/nexus-platform/js/citilive-search.js"></script>
+<script type="text/javascript" src="/NCCS/smartSearch/js/cbol-smartSearch-inject.js"></script>
 
+	
+	
 
-
-
-
-
-
-</div><div class="cM-clearFloat"></div></div>
-
-
+		
+		
+		
+	
 
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
@@ -2553,6 +2702,417 @@ $(window).load(function() {
 
 
 
+	
 
 
+
+
+	<script>
+			var isVisitor="true";
+			if(isVisitor!="true"||isVisitor=="N"){
+			if(encrString!=''){
+				var trustRes1=encodeURIComponent(encrString);
+			        var initVecWithChar1=encodeURIComponent(initVecString);
+			$.ajax({
+				type: "POST",
+			        dataType: "json",
+			            url: '/US/REST/amwresource/amwajax.jws',
+			            data: 'encrStr='+trustRes1+'&initVec='+initVecWithChar1,
+			            cache: false,
+			});
+			}else{
+				setTimeout(function(){ var trustRes1=encodeURIComponent(encrString);
+		        var initVecWithChar1=encodeURIComponent(initVecString);
+		      //Fix for defect #12536
+				jQuery.ajax({
+					type: "POST",
+				        dataType: "json",
+				            url: '/US/REST/amwresource/amwajax.jws',
+				            data: 'encrStr='+trustRes1+'&initVec='+initVecWithChar1,
+				            cache: false,
+				}); }, 1000);
+			}
+			}
+		</script>
+
+
+	
+	
+
+
+
+
+	
+
+
+
+
+
+	 
+		<script>
+			function nullCheck(sProp){
+					if(sProp!='undefined' && sProp!=null) return '/'+sProp;
+					else { return "";}
+			}
+			if (typeof s != "undefined") {
+				pageName =s.prop1+nullCheck(s.prop2)+nullCheck(s.prop3)+nullCheck(s.prop4)+nullCheck(s.prop5)+nullCheck(s.prop6)+nullCheck(s.prop7)+nullCheck(s.prop8)+nullCheck(s.prop9)+nullCheck(s.pageName);
+			}
+		</script>
+	
+
+
+ 
+    
+
+	
+      	
+			
+					<script>
+var maskJsonCommon ={"maskArr":[],"maskClassArr":[],"maskAt":""};
+var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
+</script>
+<script type="text/javascript">var LPAccount="50929468";
+var chatObjName="lpTag";
+var lpVersion="LE";
+</script><style>
+@media print{ #lpButtonDiv { display:none; } }
+</style><script type="text/javascript">if (typeof lpTag == "undefined") {
+lpTag={};
+lpTag.site=LPAccount;
+lpTag.sdes=lpTag.sdes||[];
+}
+</script><script type="text/javascript">
+var live_engage_section_array=['Other', pageDef, pageName, null, "", null];
+var SiteID=null;
+var CBOL_UserSegment=" Blue";
+var AlertDisplayed="no";
+var ErrorCount=null;
+var BusPhInd=null;
+var MobPhInd=null;
+var HomePhInd=null;
+var CardHolderType=null;
+var BusPhDevType=null;
+var MobPhDevType=null;
+var CONSUMER_CLIENT_CODE=null;
+var HomePhDevType=null;
+var CBOL_IsBillPayEnrolled="N";
+var SBOB_Tier_Type=null;
+var CBOL_IsBillPayActive="N";
+var LIKELY_TO_ATTRITE=null;
+var InterdictionPassed=null;
+var LoggedIn="no";
+var VisitorType="cbol";
+var ProductTypes=null;
+var PID=null;
+var LIKELY_TO_ATTRITE_ACTION_TAG=null;
+var InterdictionFailed=null;
+var CopsUser="False";
+var AvatarSPFExperience="no";
+
+</script><script src="/JRS/js/chat/le-mtagconfig.js" type="text/javascript"></script><script src="/JRS/js/chat/LPAttributes.js" type="text/javascript"></script><script src="/JRS/js/chat/chatMask.js" type="text/javascript"></script><script src="/JRS/js/chat/chatLPHandler.js" type="text/javascript"></script><script type="text/javascript">if (typeof populateSection != "undefined") {
+populateSection();}
+</script> 
+					
+					
+	                <script>
+						var lp=70244976;
+						if(isLEChatDisable){
+							lpMTagConfig.lpNumber=lp;
+						}else{
+							var chatObject =  getLPChatObj();
+							if(null != chatObject){
+								chatObject.lpNumber = lp;
+							}
+						}
+					</script>
+					
+	                
+											
+					
+					
+			
+		
+
+
+
+<script type="text/javascript" language="javascript">
+(function(){
+	var f = function(){
+		      $jq(function($){ 
+			if($jq("#cobrowseDialogueBox").jfpwidget() === undefined){
+				$jq("#cobrowseDialogueBox").jfpwidget(new CJW.jfp.widget.Overlay(
+	{
+			wrapperSet: "#cobrowseDialogueBox",
+			hideTitleBar: false,
+			dialog: true
+		}, 
+	{
+            draggable: false,
+            resizable: false,
+            position: { my: "center", at: "center", of: window },
+           	width: 780,
+			height: 390, 
+            shadowOffset: 20,
+            hideTitleBar: false,
+            shadow:true,
+            modal: true,
+            closeText: ''
+        }, 
+	{}));
+			}
+		 }
+		  );
+ 	};
+	if (window.$RDY){
+		$RDY('CJW.jfp.widget.Overlay',f);
+	}
+	else{
+		f();
+	}
+})();
+</script>
+<link rel="stylesheet" href="/GPS/portal/css/cobrowse_overlay.css">
+<script>
+function firstCobrowseOverlay() {
+	hideOverlay();
+	if($("div#bodyWrapper.cbolui-ddl").length == 0
+			&& $("div.cbolui-ddl-pre").length == 0) {
+		if (jQuery('#cobrowseDialogueBox').jfpwidget != undefined) {
+		  jQuery('#cobrowseDialogueBox').jfpwidget('open');
+		} else {
+			console.log("showing manualCobrowseOverlay");
+			$('#manualCobrowseOverlay').css("display","block");
+		}
+		  jQuery(".snumber").val("").focus();
+		  
+		} else {
+			if ($('div.DDLCobrowseOverlay').css('display') == "none") {
+				$('div.DDLCobrowseOverlay').css({'display':'inline'});
+			}
+			$("#cobrowseModalWithTextInput").modal('show');
+			$('.DDLCobrowseOverlay').css("visibility","visible"); 
+			$('.modal-backdrop.fade').css("visibility","visible"); 
+			$('.modal-backdrop.fade.in').css("visibility","visible");
+		}
+}
+
+function hideOverlay() {
+	if($("div#bodyWrapper.cbolui-ddl").length != 0
+			|| $("div.cbolui-ddl-pre").length != 0) { 
+		$('.DDLCobrowseOverlay').css("visibility","hidden"); 
+		$('.modal-backdrop.fade').css("visibility","hidden"); 
+		$('.modal-backdrop.fade.in').css("visibility","hidden");
+	} else {
+		if (jQuery('#cobrowseDialogueBox').jfpwidget != undefined) {
+			jQuery('#cobrowseDialogueBox').jfpwidget('close');
+		} else { 
+			$('#manualCobrowseOverlay').css("display","none");
+		}
+	}
+	
+}
+
+function cobrowseOverlay(){
+	if($("div#bodyWrapper.cbolui-ddl").length == 0
+			&& $("div.cbolui-ddl-pre").length == 0) {
+		if (jQuery('#cobrowseDialogueBox').jfpwidget != undefined) {
+		  jQuery('#cobrowseDialogueBox').jfpwidget('open');
+		} else {
+			$('#manualCobrowseOverlay').css("display","block");
+		}
+		  jQuery(".snumber").val("").focus();
+		  
+		} else {
+			$('.DDLCobrowseOverlay').css("visibility","visible"); 
+			$('.modal-backdrop.fade').css("visibility","visible"); 
+			$('.modal-backdrop.fade.in').css("visibility","visible");	
+		}
+}
+
+function showAlert(invalid) {
+	var alertmsg;
+	if (invalid == '1') {
+		if (_locale.indexOf('es_US') == 0) {
+			alertmsg = "El número de servicio no es válido";
+		} else {
+			alertmsg = "The service number is invalid";
+		}
+	} else {
+		if (_locale.indexOf('es_US') == 0) {
+			alertmsg = "Por favor ingrese el número de servicio";
+		} else {
+			alertmsg = "Please enter service number";
+		}
+	}
+	alert(alertmsg);
+}
+
+setTimeout(function() {
+jQuery("#cobrowseModalWithTextInput button.btn.btn-primary").click(function() {
+	  var serviceId;
+	    if (jQuery("#i51").length == 2) {
+	        serviceId = jQuery("#i51:eq(1)").val();
+	            //alert(serviceId);
+	    } else {
+	        serviceId = jQuery("#i51").val();
+	            //alert(serviceId);
+	   }
+	    if (serviceId) {
+	    	hideOverlay();
+	        requestCobrowse(serviceId);
+	    }
+		
+		if (jQuery("#i51").length !== 2 && jQuery("#i51").val() == "") {
+			showAlert(0);
+
+	} else if (jQuery("#i51:eq(1)").val() == "") {
+		showAlert(0);
+
+	} else {
+	}
+		
+});
+
+$('#co-browse').keypress(function(event){
+	if (event.which == 13) {
+		firstCobrowseOverlay();
+	}
+});
+
+jQuery("#co-browse").click(function() {
+	firstCobrowseOverlay();
+});
+
+jQuery(".cancelbtn").click(function() {
+	if (jQuery('#cobrowseDialogueBox').jfpwidget != undefined) {
+		jQuery('#cobrowseDialogueBox').jfpwidget('close');
+	} else {
+		$('#manualCobrowseOverlay').css("display","none");
+	}
+});
+
+jQuery(document).off('click', '#cobrowseDialogueBox .okbtn').on('click', '#cobrowseDialogueBox .okbtn',function(e) {
+    var serviceId = jQuery("#cobrowseDialogueBox .snumber").val();
+    if (serviceId) {   
+    	jQuery('#cobrowseDialogueBox').jfpwidget('close');
+        requestCobrowse(serviceId);
+    } else {
+    	showAlert(0);
+        cobrowseOverlay();
+    }
+});
+
+jQuery(document).off('click', '#manualCobrowseOverlay .okbtn').on('click', '#manualCobrowseOverlay .okbtn',function(e) {
+    var serviceId = jQuery("#manualCobrowseOverlay .snumber").val();
+    if (serviceId) {
+       	$('#manualCobrowseOverlay').css("display","none");
+        requestCobrowse(serviceId);
+    } else {
+    	showAlert(0);
+        cobrowseOverlay();
+    }
+});
+}, 1);
+
+/**
+* Requests a CoBrowse session using an agent's service id. This can be used in phone-only scenarios when
+* CoBrowse cannot be started via chat.
+*
+* Example Usage: requestCobrowse("123456");
+* @param serviceId
+*/
+function requestCobrowse(serviceId) {
+	lpTag.taglets.cobrowse.loadApi(function (visitorApi) {
+		console.log("CoBrowse visitor API loaded");
+		visitorApi.once("sessionRejected", function () {
+			showAlert(1);
+			cobrowseOverlay();
+		});
+		visitorApi.once("sessionOffered", function (event) {
+			console.log("Agent answered the request and offers a CoBrowse session");
+			
+			/*Site catalyst tracking begin*/
+			citiData.pageName="co-browse overlay";
+			citiData.custLink="share your screen success";
+			citiData.customLinkClick ="CoBrowseEvent";
+			Bootstrapper.ensEvent.trigger("customLinkClick");
+			/*site catalyst tracking end*/
+			
+			var automaticallyAcceptOffer = true; // Set to false if you would like to ask the visitor to confirm the session start.
+			
+			if (automaticallyAcceptOffer || confirm("Would you like to start a CoBrowse session with '" + event.agentAlias + "'?")) {
+			visitorApi.acceptSupportOffer(event);
+			} else {
+			visitorApi.cancelSupportOffer(event);
+			}
+		});
+	
+		function sessionReadyCallback(startEvent) {
+			if (startEvent) {
+			console.log("Session is ready and will be started shortly.");
+			}
+		}
+		visitorApi.requestSupport({serviceId: serviceId}, sessionReadyCallback);
+	});
+}
+
+</script>
+
+<div id="cobrowseDialogueBox" role="main" class="appShowNone">
+		<h4 id="overlay_header">Share Your Screen With A Phone Representative</h4>
+		<p>During your call, you may be asked to share your screen for a faster, more efficient experience. If you agree, the phone representative you're speaking with will give you a Service Code to enter below.</p>
+<input type="text" class="snumber" name="servicenumber" placeholder="Service Code">
+<p>If you need assistance from a Citi representative, <a href="javascript:lnk('/US/CBOL/hc/contactus/flow.action')">
+contact us</a> via chat or phone</p>
+<div id="footer">
+<button class="okbtn">OK</button>
+<button class="cancelbtn">Cancel</button>
+</div>
+</div>
+<div id="cover"></div>
+
+<!--- Chat Framework integration with Phone Co browse changes end --->
+
+
+<div class="DDLCobrowseOverlay" style="display:none;">
+	<div class="cbolui-ddl">
+		<div class="modal fade left-justified" id="cobrowseModalWithTextInput" role="dialog" aria-labelledby="myModalWithTextInputLabel" aria-describedby="myModalWithTextInputBody">
+		    <div class="modal-dialog">
+				<div class="modal-content">
+				<div class="modal-header">
+		<h2 class="modal-title" id="myModalWithTextInputLabel">Share Your Screen With A Phone Representative</h2>
+	</div>
+    <div class="modal-body" id="myModalWithTextInputBody">
+		<p>During your call, you may be asked to share your screen for a faster, more efficient experience. If you agree, the phone representative you're speaking with will give you a Service Code to enter below.</p>
+		<div class="form-group col-md-12 col-sm-12 col-xs-12">
+			<label for="i51" id="i51Label" class="text-input-label"></label>
+			<input id="i51" class="form-control" placeholder="Service Code">
+		</div>
+		<p>If you need assistance from a Citi representative, <a href="javascript:lnk('/US/CBOL/hc/contactus/flow.action')">
+contact us</a> via chat or phone</p>
+	</div>
+    <div class="modal-footer text-right">
+		<div class="modal-footer-inner">
+			<button type="button" class="btn btn-primary">OK</button>
+			<button type="button" class="btn btn-link" data-dismiss="modal">Cancel</button>
+		</div>
+	</div>
+	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>				
+				</div>
+		    </div>
+		</div>
+	</div>
+</div>
+<div id="manualCobrowseOverlay" style="display:none;">	
+	<span class="close cancelbtn">×</span>
+	<h1 id="manual_overlay_header">Share Your Screen With A Phone Representative</h1>			
+	<p>During your call, you may be asked to share your screen for a faster, more efficient experience. If you agree, the phone representative you're speaking with will give you a Service Code to enter below.</p>
+	<input type="text" class="snumber" name="servicenumber" placeholder="Service Code">
+	<p>If you need assistance from a Citi representative, <a href="javascript:lnk('/US/CBOL/hc/contactus/flow.action')">contact us</a> via chat or phone</p>
+	<div id="footer_manual" style="text-align: right; ">
+		<button class="okbtn">OK</button>
+		<button class="cancelbtn">Cancel</button>
+	</div>
+</div>
+<!--- Ended changes for Pilot Co-browser--->
 </body></html>
