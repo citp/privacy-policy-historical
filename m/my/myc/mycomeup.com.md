@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycomeup.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109091840id_/http%3A//mycomeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomeup.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629054755id_/https%3A//mycomeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » MyComeUp Digital
+# Privacy Policy » MyComeUp World
 
 MyComeUp.com, (“MyComeUp” or “we”) take your privacy very seriously. MyComeUp knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting MyComeUp.com, you are accepting the practices described in this Privacy Notice.
 
