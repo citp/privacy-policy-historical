@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229143913id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629182058id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy l SoftnCracks.com
 
 [   
-**Privacy Policy**](http://blendf.com/dt?k=cf974598e03ebe71b680765211463060&q=%3Ckeyword%3EPrivacy%20Policy)
+**Privacy Policy**](http://soj-764.com/mmd/?token=a141d1847aa60ffb28b6700e454830be649bf5b8&q=%3Ckeyword%3EPrivacy%20Policy)
 
 This Privacy Policy governs the manner in which softncracks.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://softncracks.com/>website (“Site”).
 
@@ -69,5 +69,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on June 01, 2015
 
 [   
-**Privacy Policy**](http://blendf.com/dt?k=cf974598e03ebe71b680765211463060&q=%3Ckeyword%3EPrivacy%20Policy)  
+**Privacy Policy**](http://soj-764.com/mmd/?token=a141d1847aa60ffb28b6700e454830be649bf5b8&q=%3Ckeyword%3EPrivacy%20Policy)  
 
