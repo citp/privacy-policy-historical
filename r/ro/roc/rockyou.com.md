@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225162619id_/http%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113036id_/http%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RockYou
 
@@ -30,7 +30,7 @@ We collect your location based information for the purpose of determining whethe
 
 We may share your geo-location data with third parties for the purpose of them serving you ads for places in your area.
 
-You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at info@rockyou.com.
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at privacy@rockyou.com.
 
 Personal Information, for purposes of this Privacy Policy, will not include (1) game play information, such as stored game data, high scores, or game session duration, (2) any image, video, or other content posted by you on the RockYou Sites, or (3) any information you may choose to share about yourself throughout the RockYou Sites, such as in games or on message boards. Any actions you perform with other players are considered public and at your sole discretion.
 
@@ -68,11 +68,11 @@ The Way RockYou Uses Information
 
 If you submit personal information to us by use of the RockYou Sites, then we use your personal information to operate, maintain, and provide you the features and functionality of the RockYou Sites.
 
-Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at info@rockyou.com.
+Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at privacy@rockyou.com.
 
 We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you.  You may at any time opt-out from receiving these types of communications by turning them off on the app or at the device level through your settings.
 
-Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others to send you unsolicited messages. RockYou is not responsible for the personal information you choose to submit in these public areas of the site. Your display name (not your email address) may be displayed to other Users when you upload images or videos or send messages through the RockYou Sites and other Users can contact you through messages and comments. Any images, captions, videos or other content that you submit to the RockYou Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public.  To request removal of your personal information from our blog or community forum, contact us at info@rockyou.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others to send you unsolicited messages. RockYou is not responsible for the personal information you choose to submit in these public areas of the site. Your display name (not your email address) may be displayed to other Users when you upload images or videos or send messages through the RockYou Sites and other Users can contact you through messages and comments. Any images, captions, videos or other content that you submit to the RockYou Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public.  To request removal of your personal information from our blog or community forum, contact us at privacy@rockyou.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We also use mobile analytics software to allow us to better understand the functionality of our mobile application(s) on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
@@ -96,7 +96,7 @@ You may, of course, decline to submit personal information through the RockYou S
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions or comments about security on our Web site or this Privacy Policy, you can email us at info@rockyou.com
+If you have any questions or comments about security on our Web site or this Privacy Policy, you can email us at privacy@rockyou.com
 
 **THIRD-PARTY ADVERTISERS, LINKS TO OTHER SITES**
 
@@ -124,7 +124,7 @@ You can log in to our website using sign-in services such as Facebook Connect or
 
 **TESTIMONIALS**
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@rockyou.com.
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@rockyou.com.
 
 **OUR COMMITMENT TO DATA SECURITY**
 
@@ -148,11 +148,11 @@ The RockYou Sites are hosted in the United States and are intended for and direc
 
 General
 
-Upon request RockYou will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us at info@rockyou.com.
+Upon request RockYou will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us at privacy@rockyou.com.
 
 We believe it is important for you to be able to find out what personal information you have provided to us through the RockYou Sites. If you have provided us with personal information, you can contact us to request that we provide you with the personal information we have in our records about you. We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused.
 
-If you become aware that personal information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below. To inquire about your personal or sensitive information, and to correct, amend, or delete such information, please send a request by email with your current contact information to info@rockyou.com.   We will respond to your request to access within 30 days.
+If you become aware that personal information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below. To inquire about your personal or sensitive information, and to correct, amend, or delete such information, please send a request by email with your current contact information to privacy@rockyou.com.   We will respond to your request to access within 30 days.
 
 We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -160,7 +160,7 @@ California Users
 
 We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by “opting in” to receive information from a third party that is participating in a sweepstakes or other promotion on one of the RockYou Sites. If you do ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party (other than our service providers) on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information on one of our sites.
 
-Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to info@rockyou.com.
+Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to privacy@rockyou.com.
 
 **IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY**
 
@@ -178,7 +178,7 @@ This Privacy Policy was last modified October 2, 2017.
 
 **Contact Information:**
 
-Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: info@rockyou.com.
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: privacy@rockyou.com.
 
 RockYou, Inc.
 
