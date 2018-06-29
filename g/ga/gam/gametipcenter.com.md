@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametipcenter.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229074823id_/https%3A//gametipcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametipcenter.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629163254id_/http%3A//gametipcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GameTipCenter
 
