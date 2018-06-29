@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608090045id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629171324id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
 
 # Ticketbud · Privacy Policy
+
+#### Your data and customers are safe with us.
 
 Ticketbud is owned and operated by Ideabud, Inc. (hereinafter, "Ideabud" or "we," "our," or "us"). This Privacy Policy describes Ideabud’s privacy commitment to you as a user of Ideabud. We recognize the potential sensitivity of the information that you may place on Ideabud. This Privacy Policy describes how Ideabud collects personal information about you when you visit our website and how Ideabud uses that information.
 
 ## Personal Data on Ticketbud
 
-Ticketbud will never sell your name, email, or another other data collected (Personal Data) to third parties. 
+Ticketbud will never sell your name, email, or any other data collected (Personal Data) to third parties. 
 
 **Attendees** Whenever you purchase a ticket, register, or donate to an event, the Organizer of that event will be able to view your Personal Data. Organizers may choose to publicly display your name on their event page for website visitors to see. This information is indexed by search engines. Whenever you purchase a ticket, register, or donate to an event on Ticketbud, you agree that we are not responsible for the actions of an Organizer with your Personal Data. You should review the User Content of the Organizer to determine if your Personal Data will be used in a way you agree with before taking any actions. 
 
-**Legal Requirements** Ticketbud may disclose your Personal Data if we are required to by law.
+**Legal Requirements** Ticketbud may disclose your Personal Data if we are required to by law, or if in good faith we feel that it may help avoid legal liabilities or protect the safety of Attendees. 
 
 ## Online Registration
 
@@ -18,7 +20,12 @@ Certain portions of the website may require you to login with a username and/or 
 
 ## Use of Personal Information
 
-If you choose to provide us with personal information by sending us an e-mail, by filling out a form with your personal information and submitting it through our website, or through other means, we use that information to respond to you, to provide products and services, and to help us provide the information that you requested. We may also use your information to provide you with information about products and services of Ideabud or other organizations offering products and services that may be of interest to you. At any time, you may opt-out from such use of your information as described below.
+If you choose to provide us with personal information by sending us an e-mail, by filling out a form with your personal information and submitting it through our website, or through other means, we use that information to respond to you, to provide products and services, and to help us provide the information that you requested. By signing up to Ticketbud or by purchasing a ticket on Ticketbud, you consent to receive email communications from Ticketbud. We may also use your information to provide you with information about products and services of Ideabud or other organizations offering products and services that may be of interest to you. At any time, you may opt-out from such use of your information as described below.
+
+## PCI Compliance
+
+All third party payment processors used by Ticketbud are fully PCI-DSS 3.0 compliant. This means that all credit card information is processed in a completely safe environment.   
+To learn more about PCI Compliance and all it entails, you can find more information and documentation on [PCI Compliance Standards](https://www.pcisecuritystandards.org/pci_security/standards_overview)
 
 ## Information Collected and Stored Automatically
 
@@ -42,7 +49,7 @@ Our website has links to the websites of our partners and other businesses. Plea
 
 ## Applicable Laws and Other Requirements
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information regarding the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To see a copy of the information disclosure provided by Ideabud pursuant to Section 1798.83 of the California Civil Code, please contact Ideabud using one of the methods described in this Privacy Policy. You and Ideabud may have other rights and obligations rights and obligations under the various laws governing privacy and personal information.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information regarding the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To see a copy of the information disclosure provided by Ideabud pursuant to Section 1798.83 of the California Civil Code, please contact Ideabud using one of the methods described in this Privacy Policy. You and Ideabud may have other rights and obligations under the various laws governing privacy and personal information.
 
 ## Children Under the Age of 13
 
