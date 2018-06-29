@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003020209id_/https%3A//www.sans.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629044710id_/https%3A//www.sans.org/privacy) for the most accurate reproduction.*
 
 # SANS Institute | SANS Privacy Policy
 
-Updated: September 20, 2016
+Updated: December 2017
 
 ### Overview
 
@@ -24,7 +24,7 @@ SANS and its affiliates gather and store information in many ways, including but
 
 **_Co-sponsoring organizations:_** Some SANS training events are co-sponsored by other organizations. Examples include SANS Private Training events that are held in conjunction with private industry, government agencies, or education institutions. When you register for one of these events, the co-sponsoring organization may have access to your registration data. The co-sponsor may use this information for purposes related to the event but, unless you are specifically notified otherwise, may not share it with others or use the data for marketing purposes. When you attend a conference, whether sponsored by SANS or otherwise, SANS may collect information concerning your participation and feedback. For example, SANS representatives may scan badges of conference participants, and may share the information from such scans with sponsoring vendors. SANS occasionally presents courses in conjunction with events sponsored by other organizations. In these cases, event registration may be handled by the event sponsor. When attempting to register via a link from the SANS web site, you will be presented with a web page informing you that the registration is not being handled by SANS. In these cases, you should familiarize yourself with the privacy policy of the sponsor organization. SANS is not responsible for the privacy or security policies of these third parties.
 
-**_Your employer:_** Many organizations purchase vouchers that may be used by their employees to pay for SANS training. By using a voucher, the student understands and agrees that their student data, including contact information and course-related data may be shared with the organization's designated contact. If your employer has purchased SANS Securing The Human training, your company email address may have also been provided to us by your organization. This information is used solely for the purposes of deploying purchased training across your organization.
+**_Your employer:_** Many organizations purchase vouchers that may be used by their employees to pay for SANS training. By using a voucher, the student understands and agrees that their student data, including contact information and course-related data may be shared with the organization's designated contact. If your employer has purchased SANS Security Awareness training, your company email address may have also been provided to us by your organization. This information is used solely for the purposes of deploying purchased training across your organization.
 
 **_Vendor-sponsored events/webcasts:_** When you register for a free vendor-sponsored webcast, your contact information may be shared with the sponsoring vendor. The information SANS provides to the vendor is for their organization only and the sponsoring vendor agrees not to share or resell the provided information. The data given to the sponsoring vendor includes email address, first name, last name, title, work phone, company name, address, city, state, postal code and country.
 
@@ -71,13 +71,13 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 We engage third-party companies, including but not limited to Google, to place and track advertisements on third-party websites. Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own marketing segments that may combine online and offline information about our current and prospective customers. In addition, we may use marketing segments provided by online publishers and network advertising companies. You may choose to opt-out of such internet-advertising campaigns by visiting the Network Advertising Initiative's Consumer Opt-Out page at <https://www.networkadvertising.org/choices/>.
 
-Network advertising companies that provide these services have their own privacy policies and are not subject to our Online Privacy Statement. Many of these companies provide ways to avoid targeted advertising provided by, or thru, them. We may base these campaigns on non-personal information collected about you (e.g. We may track site activity and then deliver ads via third-party sites related to cookies associated with these activities), or on personally identifiable information (e.g. We may select a subset of cookies associated with certain courses taken, and customize an informational campaign more relevant to, say, penetration testers than incident responders).
+Network advertising companies that provide these services have their own privacy policies and are not subject to our online privacy statement. Many of these companies provide ways to avoid targeted advertising provided by, or thru, them. We may base these campaigns on non-personal information collected about you (e.g. we may track site activity and then deliver ads via third-party sites related to cookies associated with these activities), or on personally identifiable information (e.g. we may select a subset of cookies associated with certain courses taken, and customize an informational campaign more relevant to, say, penetration testers than incident responders).
 
 ### How We Protect Your Personal Information
 
-SANS safeguards the security of the data you send us with physical, electronic, administrative and managerial procedures. Likewise, we urge you to take every precaution to protect your personal data when you are on the Internet. These precautions include not storing passwords, changing your password often, using a combination of letters, numbers and symbols, and using a secure browser over a secured network.
+SANS safeguards the security of the data you send us with physical, electronic, administrative and managerial procedures. Likewise, we urge you to take every precaution to protect your personal data when you are on the Internet. These precautions include storing passwords in a reputable password manager, using unique passwords for every website or application, changing your password often, using a combination of letters, numbers and symbols, and using a secure browser over a secured network.
 
-The SANS website currently uses at least SSL v3 and TLS v1 encryption on all web pages where personal information is submitted. This is designed to protect the confidentiality of your personal and credit card information as it is transmitted to us over the Internet.
+The SANS website currently uses at least TLS v1 encryption on all web pages where personal information is submitted. This is designed to protect the confidentiality of your personal and credit card information as it is transmitted to us over the Internet.
 
 SANS has designed its system to not store credit card numbers on our servers. Credit card numbers are submitted to a credit card authorization service. This service provides SANS with credit card validation information only. We do not have access to your personal financial data.
 
@@ -85,11 +85,11 @@ SANS may employ independent contractors to help manage data services, and such c
 
 ### Access and Use of Your Personal Information
 
-To review and update your personal contact information, simply click [https://www.sans.org/account/](https://www.sans.org/account) and log in with your email address and password, then select "Personal Information" under your name. We encourage you to review your preferences regularly to keep the information current.
+To review and update your personal contact information, simply visit [https://www.sans.org/account/](https://www.sans.org/account) and log in with your email address and password, then select "Personal Information" under your name. We encourage you to review your preferences regularly to keep the information current.
 
 You may choose to unsubscribe from our marketing communications by following the instructions or unsubscribe mechanism in the message you received.
 
-If at any time after registering for information, your personal data changes, you change your mind about receiving information from us, wish to cancel your account or request that SANS no longer use your information to provide you services, contact us at [sans@sans.org](mailto:sans@sans.org) to have the information changed or removed subject to our need to comply with our legal obligations or contractual agreements.
+If at any time after registering for information, your personal data changes, you change your mind about receiving information from us, wish to cancel your account or request that SANS no longer use your information to provide you services, contact us at [sans@sans.org](mailto:sans@sans.org) to have the information changed or removed, subject to our need to comply with our legal obligations or contractual agreements.
 
 ### Newsletters and Promotional Emails
 
@@ -105,21 +105,15 @@ SANS does not sell or trade your personal information. We may at times receive c
 
 ### Statement Regarding Privacy Shield
 
-SANS complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SANS has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+SANS complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. SANS has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
-In compliance with the EU-US Privacy Shield Principles, SANS commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SANS at [privacy@sans.org](mailto:privacy@sans.org).
+In compliance with the Privacy Shield Principles, SANS commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SANS at [gdprprivacy@sans.org](mailto:gdprprivacy@sans.org).
 
-SANS has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the EU Data Protection Authorities (DPAs). If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the following web site for more information and to file a complaint: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+SANS has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to the EU Data Protection Authorities (DPAs), or where applicable instead, to the Swiss Federal Data Protection and Information Commissioner. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the following web site for more information and to file a complaint with the EU DPAs: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
 
 If you have exhausted all other means to resolve your complaint, you may be able to engage in binding arbitration through the Privacy Shield Panel.
 
 SANS' commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
-
-### Statement Regarding Safe Harbor
-
-SANS complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. SANS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SANS's certification, please visit <http://www.export.gov/safeharbor/>
-
-When we receive formal written complaints about our compliance with our privacy policies, including the Safe Harbor Frameworks, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
 
 ### Changes To This Privacy Statement
 
