@@ -1,123 +1,150 @@
-> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705020141id_/https%3A//readdle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629075145id_/https%3A//readdle.com/privacy) for the most accurate reproduction.*
 
-# Readdle
+# Learn more about Readdle's privacy policy
 
-  1. Our Privacy Principles
-  2. General Readdle Privacy Policy
-  3. Information Collection and Use
-  4. Information Disclosure
-  5. Cookies
-  6. Use of Emails
-  7. Use of App Analytics Services and third party Software
-  8. Confidentiality and Security
-  9. Changes to this Privacy Policy
-  10. Questions and Suggestions
+  1. General
+  2. Data we collect, process and use
+  3. Readdle's cookies policy
+  4. Technical implementation of the services by subcontractors
+  5. Duration of storage of personal data
+  6. Your rights
+  7. Contact
+  8. Keeping your personal data secure
 
 
 
-Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy.
+This Privacy Policy shall apply to the applications published in the Apple App Store by Readdle Inc and that are accessible from mobile devices and personal computers (the " **App** "), and the use of the websites controlled by Readdle Inc in general (the " **Website** "; App, and Website together the " **Services** ").
 
-We are at the business of making best productivity tools out there and selling them directly to you, our customer. While other companies might base their entire existence on selling their users data, we decided that we will never base our business on activities like this and we are committed to this decision.
+## 1\. General
 
-That's why we treat your data very seriously and always try to avoid having access to your data if it is possible by nature of the application or service we provide to you.
+Regarding the Services: Readdle Inc. (" **Readdle** ", " **we** ", " **us** " or " **our** ") is the Data Controller within the meaning of the General Data Protection Regulation (" **GDPR** ").
 
-Most of our mobile app products collect only anonymized or personally unidentifiable usage data that help us make our products better. Some products like Spark have access to more information and thus have their own or additional privacy policies. Below you can find more detailed description of information that we collect at Readdle and how we use it. By using any of our products, you accept the terms of this privacy policy. If you do not agree with our policies and practices, your choice is not to use our website or our products.
+This privacy policy shall inform you on how we collect, process and use (" **Use** ") personal data in connection with the Services.
 
-Readdle takes your privacy seriously. This privacy policy covers how Readdle treats personal information that Readdle collects and receives when you use the Readdle website (“Website”) or products, except Spark and Fluix. If you are using our Spark or Fluix products, please refer to [Spark Privacy Policy](https://sparkmailapp.com/privacy) and [Fluix Privacy Policy](https://fluix.io/privacy-policy) respectively. Please read the following to learn more about our privacy policy.
+## 2\. Data we collect, process and use
 
-Readdle collects information when you use Readdle products or services, when you visit Website pages or the pages of certain Readdle partners. Readdle may combine information about you that we have with information we obtain from business partners or other companies.
+**2.1** In general, you can use the Services without providing any personal information such as e.g. your name, email address, postal address, telephone number, financial information (all such information concerning the personal or material circumstances of an identified or identifiable individual data subject together " **Personal Data** "). Therefore, if you do not provide us directly with Personal Data in another way or actively consent to the Use by us of certain Personal Data, we, in general, do not Use your data with the exception of the following:
 
-Readdle automatically receives and records information on our server logs from your browser, including your IP address, Readdle cookie information, and the page you request.
+**2.1.1** Regarding the Website: your browser transfers certain data so that it can access the Website, namely:
 
-We may collect additional information related to your contact with our customer support team or store results when you respond to a survey. Also, we receive and store your email when you subscribe to Readdle newsletters and marketing communications.
-
-You also may provide information, such as reviews, feedback, comments, etc., which may be published or displayed (" **posted** ") on public areas of the our Website or our blogs or forum, via our products, or transmitted to other users of the Website or third parties (collectively, " **Content** "). Your Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your Content. Therefore, we cannot and do not guarantee that your Content will not be viewed by unauthorized persons.
-
-We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc.
-
-Readdle does not rent, sell, or share personally identifiable information about you with non-affiliated third parties (other than our subsidiaries and affiliates), except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Readdle's terms of use, this privacy policy, or as otherwise required by law.
-  * We believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your personal information.
+  * the IP address
+  * the date and time of the request
+  * the browser type
+  * the operating system
+  * the language and version of the browser software.
 
 
 
-We also use standard technologies, which may include cookies, flash cookies, and other technologies, to collect and track information about how you use our Website and to record certain information. For example, we may collect and/or log Internet protocol addresses, Internet domain names, the Web browser and operating system used to access our Website, the files visited, the time spent in each file, and the time and date of each visit. We may collect these through the use of log files and Web beacons that could enable us to track your activity. Cookies are files that can be sent from a Website via your browser to be placed on your computer's hard drive. Thereafter, when you visit a Website, a message is sent back to the Web server by the browser accessing the Website. You may elect not to accept cookies by changing the designated settings on your Web browser. The information collected from the use of cookies is used and analyzed to improve our Website, such as by gaining a better understanding of your interests and requirements regarding our Website. You can set your browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+**2.1.2** Regarding the App: certain data is transmitted by your mobile device: namely your IP address, the periods of time in which you use the App and the type of device you use (e.g. IPhone, IPad), as well as events within the application recorded with Amplitude analytics in order to give us the possibility to continuously improve the App.
 
-Some our products allows you to subscribe to Readdle newsletters. This process is completely opt-in and you can always opt-out of receiving future e-mail messages and newsletters by ending your subscription. Unsubscribe instructions are located within each newsletter and on our website, or you may contact our [customer support](https://web.archive.org/support) team and ask them to unsubscribe you manually.
+**2.1.3** Regarding the App: in certain cases, such as downloading and installing a free trial of a paid App, we ask you to enter a valid email address to begin your free trial.
 
-When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements or to request your feedback.
+**2.1.4** Regarding the App: certain apps allow you to send documents via Fax. In order for this functionality to work we need to record a fax number and the document intended for transfer. Once the document is sent, the fax number along with the document will be removed after 30 days.
 
-The safety and security of your information also depends on you. You should not share your email user name and password with anyone. If you find out that anyone has improperly obtained your login credentials and accesses your email account through Spark, you should immediately change your password. We are not responsible for such unauthorized access unless the access is our fault.
+**2.1.5** Regarding the email: we save a record of communication including attachments and information you voluntary decide to share with us for troubleshooting purposes whenever you communicate with our support team.
 
-We use third party Software and services such as Google Analytics, Facebook Analytics and Amplitude to collect and analyze how people use Readdle applications. This data helps us improve our products and services and better tailor our advertising campaigns on Google, Facebook and other platforms. Also, we use third party software from Dropbox, Evernote and others to provide you with various useful functions across our apps. All these third parties may collect information about you and your usage of our applications in accordance with their respective privacy policies.
+**2.1.6** Email messages sent by us via third-party services like MailChimp or CampaignMonitor may contain tracking pixel which helps us collect statistics on delivery and opening rates of our correspondence. These pixels do not provide us with any additional personal data about you or your behavior online. You can disable image rendering in your email client which will deactivate this feature, however you will be unable to see any images within other received emails.
 
-We limit access to personally identifiable information about you to employees, contractors and service providers who we believe reasonably need to have access to that information to provide products or services to you or in order to do their jobs.
+The legal basis for the processing of the data described above in section 2.1.1 through 2.1.6 (to the extent such data is to be considered Personal Data) is Art. 6 (1) sentence 1 lit. f GDPR (legitimate interests; regarding section 2.1.1 the legitimate interests to Use such data arises from the fact that without such data the Website cannot be accessed by our customers and/or other users; regarding section 2.1.2 the legitimate interests to Use such data is that we have an interest to continuously improve the App; regarding section 2.1.3 the legitimate reason is that we need to inform you about the end of your free trial; regarding section 2.1.4 the legitimate reason is that we need the information to follow your instructions and send a fax on your behalf; regarding section 2.1.5 the legitimate reason is that we need the information to provide you with the support you requested).
 
-We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect personal information about you.
+**2.2** Only in cases in which you have given us prior consent we also use your Personal Data for other purposes but only to the extent needed in each specific case. The legal basis for the processing of the data described in this section 2.2 is Art. 6 (1) sentence 1 lit. a GDPR (consent).
 
-It is our policy to post any changes we make to our privacy policy on this page. Your continued use of our Website or products after we make changes is deemed to be acceptance of those changes, so please check the privacy policy (posted at [readdle.com/privacy](https://readdle.com/privacy)) periodically for updates.
+**2.3** We may disclose Personal Data to third parties where such disclosure is required by law (for example, upon request of a court or of law enforcement authorities). The legal basis for the processing of the data described in this section 2.3 is Art. 6 (1) sentence 1 lit. c GDPR (legal obligation).
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us.](https://web.archive.org/support)
+**2.4** We may also Use certain data as set forth in section 3 below.
 
-  1. Our Privacy Principles
-  2. General Readdle Privacy Policy
-  3. Information Collection and Use
-  4. Information Disclosure
-  5. Cookies
-  6. Use of Emails
-  7. Use of App Analytics Services and third party Software
-  8. Confidentiality and Security
-  9. Changes to this Privacy Policy
-  10. Questions and Suggestions
+## 3\. Readdle's cookies policy
 
+**3.1** Readdle's websites use cookies to personalize your experience on our sites. Cookies tell us which parts of our websites people have visited, help us measure the performance of ads, and give us insights into user behavior so we can improve our communications and products.
 
+You can disable cookies anytime in your web browser. Here is how it works in Google Chrome and Safari browsers:
 
-Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy.
+**Chrome:**
 
-We are at the business of making best productivity tools out there and selling them directly to you, our customer. While other companies might base their entire existence on selling their users data, we decided that we will never base our business on activities like this and we are committed to this decision.
-
-That's why we treat your data very seriously and always try to avoid having access to your data if it is possible by nature of the application or service we provide to you.
-
-Most of our mobile app products collect only anonymized or personally unidentifiable usage data that help us make our products better. Some products like Spark have access to more information and thus have their own or additional privacy policies. Below you can find more detailed description of information that we collect at Readdle and how we use it. By using any of our products, you accept the terms of this privacy policy. If you do not agree with our policies and practices, your choice is not to use our website or our products.
-
-Readdle takes your privacy seriously. This privacy policy covers how Readdle treats personal information that Readdle collects and receives when you use the Readdle website (“Website”) or products, except Spark and Fluix. If you are using our Spark or Fluix products, please refer to [Spark Privacy Policy](https://sparkmailapp.com/privacy) and [Fluix Privacy Policy](https://fluix.io/privacy-policy) respectively. Please read the following to learn more about our privacy policy.
-
-Readdle collects information when you use Readdle products or services, when you visit Website pages or the pages of certain Readdle partners. Readdle may combine information about you that we have with information we obtain from business partners or other companies.
-
-Readdle automatically receives and records information on our server logs from your browser, including your IP address, Readdle cookie information, and the page you request.
-
-We may collect additional information related to your contact with our customer support team or store results when you respond to a survey. Also, we receive and store your email when you subscribe to Readdle newsletters and marketing communications.
-
-You also may provide information, such as reviews, feedback, comments, etc., which may be published or displayed (" **posted** ") on public areas of the our Website or our blogs or forum, via our products, or transmitted to other users of the Website or third parties (collectively, " **Content** "). Your Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your Content. Therefore, we cannot and do not guarantee that your Content will not be viewed by unauthorized persons.
-
-We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc.
-
-Readdle does not rent, sell, or share personally identifiable information about you with non-affiliated third parties (other than our subsidiaries and affiliates), except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Readdle's terms of use, this privacy policy, or as otherwise required by law.
-  * We believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your personal information.
+  * Go to the Settings in the Chrome menu (Chrome toolbar).
+  * Scroll down the page and click Advanced.
+  * In the "Privacy" section, click the Content settings.
+  * Click "Cookies" and change anything desired.
 
 
 
-We also use standard technologies, which may include cookies, flash cookies, and other technologies, to collect and track information about how you use our Website and to record certain information. For example, we may collect and/or log Internet protocol addresses, Internet domain names, the Web browser and operating system used to access our Website, the files visited, the time spent in each file, and the time and date of each visit. We may collect these through the use of log files and Web beacons that could enable us to track your activity. Cookies are files that can be sent from a Website via your browser to be placed on your computer's hard drive. Thereafter, when you visit a Website, a message is sent back to the Web server by the browser accessing the Website. You may elect not to accept cookies by changing the designated settings on your Web browser. The information collected from the use of cookies is used and analyzed to improve our Website, such as by gaining a better understanding of your interests and requirements regarding our Website. You can set your browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+**Safari:**
 
-Some our products allows you to subscribe to Readdle newsletters. This process is completely opt-in and you can always opt-out of receiving future e-mail messages and newsletters by ending your subscription. Unsubscribe instructions are located within each newsletter and on our website, or you may contact our [customer support](https://web.archive.org/support) team and ask them to unsubscribe you manually.
+  * Go to Preferences.
+  * Click the Privacy tab.
+  * Choose to Block all cookies.
 
-When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements or to request your feedback.
 
-The safety and security of your information also depends on you. You should not share your email user name and password with anyone. If you find out that anyone has improperly obtained your login credentials and accesses your email account through Spark, you should immediately change your password. We are not responsible for such unauthorized access unless the access is our fault.
 
-We use third party Software and services such as Google Analytics, Facebook Analytics and Amplitude to collect and analyze how people use Readdle applications. This data helps us improve our products and services and better tailor our advertising campaigns on Google, Facebook and other platforms. Also, we use third party software from Dropbox, Evernote and others to provide you with various useful functions across our apps. All these third parties may collect information about you and your usage of our applications in accordance with their respective privacy policies.
+For other browsers, please check the documentation your provider provides.
 
-We limit access to personally identifiable information about you to employees, contractors and service providers who we believe reasonably need to have access to that information to provide products or services to you or in order to do their jobs.
+Readdle's cookies don't collect information that personally identify you. Also, other sites or companies won't be able to track you through our cookies.
 
-We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect personal information about you.
+When you disable cookies, our website can no longer provide you with the best user experience and you miss the opportunity to get more personalized information, such as displaying information in your language or displaying prices in your currency.
 
-It is our policy to post any changes we make to our privacy policy on this page. Your continued use of our Website or products after we make changes is deemed to be acceptance of those changes, so please check the privacy policy (posted at [readdle.com/privacy](https://readdle.com/privacy)) periodically for updates.
+## Cookies: use of (further analyzing) tools
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us.](https://web.archive.org/contact)
+Cookies are stored on your computer when using the Website. Cookies are small text files that are stored on your hard disk of the computer with which you visit a website and which are allocated to your browser and through which certain information is submitted to the cookies user that sets the cookie (in this case us). Cookies serve to make the website offering more user-friendly and effective overall.
+
+The Website uses cookies to the following extent:
+
+  * Transient / Session cookies
+  * Persistent / Setting cookies
+  * Analysis cookies
+
+
+
+Transient cookies are automatically deleted when you close your browser. This includes in particular the session cookies. These store a so-called session ID, which identify user session in the browser. Session cookies are deleted when you log out or close your browser.
+
+Persistent cookies help the Website remember your information and settings when you visit them in the future. They are automatically deleted after a specified period, which may differ depending on the cookie.
+
+We also use cookies on our website which enable an analysis of the user's surfing behavior. 
+
+**3.2** The Website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help analyze how you use the Website. The information generated by the cookie about your use of the Website will normally be transmitted to and stored by Google on servers in the United States.
+
+Because IP-anonymization is activated on the Website, your IP address will be truncated within the area of member states of the European Union or within other contracting states to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. Google will use this information on behalf of Readdle for the purpose of evaluating your use of the Website, compiling reports on Website activity and providing other services for Readdle relating to website activity and internet usage.
+
+The IP address that your browser transfers within the scope of Google Analytics will not be associated with any other data held by Google.
+
+You may refuse the use of cookies by selecting the appropriate settings in your browser, however please note that if you do so you may not be able to use all functions of the Website. You can also opt-out from the storage by Google of the data that is created by the cookie and is related to the use of the Website (including your IP address) and the processing of such data by Google by downloading and installing the Google Analytics opt-out Browser add-on available under https://tools.google.com/dlpage/gaoptout?hl=en.
+
+As an alternative to the browser add-on or within browsers on mobile devices, you can click this link in order to opt-out from being tracked by Google Analytics within this Website in the future (this opt-out option applies only for the browser in which you set it and with regard to the Website). In this case an opt-out cookie is put on your device. In case you delete your cookies, you will have to use the aforementioned link again.
+
+For further information on Google Analytics please refer to: http://www.google.com/analytics/terms/, https://support.google.com/analytics/answer/6004245?hl=en and https://policies.google.com/privacy?hl=en&gl=en
+
+**3.3** In order to better understand general usage patters for our Product, we use a third-party tool of Amplitude, Inc, 501 2nd Street, San Francisco, CA 94107, called Amplitude (see https://amplitude.com/privacy). Amplitude is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
+
+**3.4** Our Apps use Facebook SDK of Facebook 1 Hacker Way, Menlo Park (<https://developers.facebook.com/docs/ios/>, <https://developers.facebook.com/policy>) to analyze sources of app installations and how you use the app. Facebook SDK and Analytics is a service which helps us to improve ours Service by better understanding general app usage patterns.
+
+**3.5** If you decide to deactivate (some of) the cookies and tools described above, please note that certain features and functionalities of the Services might not work or might not be accessible to you.
+
+**3.6** The legal basis for the processing of the data described in this section 3 (to the extent such data is to be considered Personal Data) is Art. 6 (1) sentence 1 lit. f GDPR (legitimate interests; the legitimate interests to Use such data is that we use and analyze the respective data to improve our Services, such as by gaining a better understanding of your interests and requirements regarding our Services and to help personalize your user experience).
+
+## 4\. Technical implementation of the services by subcontractors
+
+We partly use service providers who process Personal Data on behalf of us to operate the technical platform for the Services (for example, the documents that you scan and send via the App are processed by a third party fax service provider (whereas the respective servers are exclusively situated in EU member states)). These service providers process the data exclusively according to our instructions (order processing). The legal basis for the data processing described in this section 4 is Art. 6 (1) sentence 1 lit. b GDPR (performance of contract and pre-contractual measures) and Art. 28 GDPR (order processing).
+
+## 5\. Duration of storage of personal data
+
+Unless no shorter storage period is indicated in this privacy policy, we, in general, store Personal Data as long (i) as required for the provision of the Services to you, and/or (ii) as it is necessary with regard to the contractual relationship with you, thereafter only if and to the extent that we are obliged to do so by mandatory statutory retention obligations. If we no longer require the respective Personal Data for the purposes described above, such Personal Data will only be stored during the respective legal retention period and not processed for other purposes.
+
+## 6\. Your rights
+
+You have the right to request information from us at any time about your Personal Data stored by us. If the legal requirements are met, you also have rights vis-à-vis us to request from us access to and rectification or erasure or restriction of processing concerning your Personal Data or to object the processing of your Personal Data as well as the right to receive your Personal Data provided to us in a structured, established and machine-readable format from us (you can transfer this data to other parties or have it transferred; data portability).
+
+If you have given your consent to the use of personal data, you can revoke such consent at any time (for the future).
+
+If you believe that the processing of your Personal Data by us is in breach of the applicable data protection laws, you can issue a complaint with the competent supervisory authority for data protection.
+
+## 7\. Contact
+
+You can contact us (e.g. if you have any questions about data protection regarding Readdle (including regarding the assertion of your rights further explained in section 6 above)), for example, via the address indicated above in section 1 or via the following emails: [rdsupport@readdle.com](mailto:rdsupport@readdle.com) or [dpo@readdle.com](mailto:dpo@readdle.com) (Readdle Data Protection Officer), or at our GDPR Representative Office at the following address:
+
+Readdle GmbH  
+WeWork c/o  
+Stresemannstrasse 123, 10963, Berlin  
+Germany
+
+## 8\. Keeping your personal data secure
+
+We have taken extensive technical and operational precautions to protect the Personal Data retained by us against unauthorized access and misuse. Our security procedures are revised regularly and adapted to reflect technological progress.
