@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchmade.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074042id_/http%3A//www.benchmade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchmade.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629221759id_/http%3A//www.benchmade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,7 +126,7 @@ If you sign up for our email updates, we will contact you to provide information
 
       ** _(c) Collection and Use of Financial Information_**
 
-When you order products through the Website, in order to complete your purchase, you will link to [www.paypal.com](https://web.archive.org/web/20171222074042id_/http%3A//www.benchmade.com/www.paypal.com) where you will input Personally Identifiable Information, such as your name, credit card information, billing address, and/or your PayPal account information. All of this Personally Identifiable Information will be collected by PayPal and is subject to PayPal’s privacy policy, located here as of the Effective Date of this Privacy Statement: <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>. 
+When you order products through the Website, in order to complete your purchase, you will link to [www.paypal.com](https://web.archive.org/web/20180629221759id_/http%3A//www.benchmade.com/www.paypal.com) where you will input Personally Identifiable Information, such as your name, credit card information, billing address, and/or your PayPal account information. All of this Personally Identifiable Information will be collected by PayPal and is subject to PayPal’s privacy policy, located here as of the Effective Date of this Privacy Statement: <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>. 
 
 You will also provide us some Personally Identifiable Information through our Website to allow us to process your transaction. Further, in order to process your transaction, we do obtain from PayPal a token which is not traceable to your twelve-digit card number. We store the token separately from your other Personally Identifiable Information (such as your name and shipping address). We store the token for twelve (12) months after the date of your purchase per the PayPal token expiration policy. 
 
@@ -160,7 +160,7 @@ Please review the Shuttlerock Limited’s privacy policy carefully before submit
 
       ** _(d) Third-Party Operator and Host of[www.benchmadeforum.com](http://benchmadeforum.com/groupee?s=651104622&cdra=Y)_**
 
-When you use and post content to the [www.benchmadeforum.com](https://web.archive.org/web/20171222074042id_/http%3A//www.benchmade.com/www.benchmadeforum.com) forum, you will be providing your Personally Identifiable Information (and automatically collected information as well) to Social Strata, and your information is subject to Social Strata privacy, located here as of the Effective Date of this Privacy Statement: <https://assets.socialstrata.com/docs/privacy_policy.php>
+When you use and post content to the [www.benchmadeforum.com](https://web.archive.org/web/20180629221759id_/http%3A//www.benchmade.com/www.benchmadeforum.com) forum, you will be providing your Personally Identifiable Information (and automatically collected information as well) to Social Strata, and your information is subject to Social Strata privacy, located here as of the Effective Date of this Privacy Statement: <https://assets.socialstrata.com/docs/privacy_policy.php>
 
 Please review the Social Strata’s privacy policy carefully before using the [www.benchmadeforum.com](http://benchmadeforum.com/groupee?s=651104622&cdra=Y) forum. 
 
