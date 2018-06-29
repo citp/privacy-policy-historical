@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iraniansingles.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227211324id_/http%3A//www.iraniansingles.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iraniansingles.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174035id_/http%3A//www.iraniansingles.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Untitled Document
 
-Webico Enterprise ("Webico") is committed to protecting your personal information as part of the www.iraniansingles.com dating site . This privacy statement only applies to activities and transactions in which you do on our website where data gathered on the Webico Websites and email between Webico members. This privacy policy may periodically be modified. Each time you visit or logon the Site or provide Webico with information, you are agreeing and accepting the privacy policy. You must be of minimum age of 18 to use this site.
+Webico Enterprise ("Webico") is committed to protecting your personal information as part of the iraniansingles.com dating site . This privacy statement only applies to activities and transactions in which you do on our website where data gathered on the Webico Websites and email between Webico members. This privacy policy may periodically be modified. Each time you visit or logon the Site or provide Webico with information, you are agreeing and accepting the privacy policy. You must be of minimum age of 18 to use this site.
 
 As part of a dating site, you agree to provide information about you to Webico such as: 
 
@@ -34,7 +34,7 @@ You can opt-out from our mailing list, by clicking on account preferences.
 
 If you have questions or concerns regarding privacy, don’t’ hesitate to email or call us  
 Webico Enterprises  
-www.iraniansingles.com   
+iraniansingles.com   
 575 Anton Blvd Suite 300-125  
 Costa Mesa, Ca. 92626  
 949-387-6166
