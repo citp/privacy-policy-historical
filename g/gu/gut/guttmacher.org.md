@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090233id_/https%3A//www.guttmacher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629102231id_/https%3A//www.guttmacher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guttmacher Institute
 
@@ -27,12 +27,11 @@ The Guttmacher Institute (the “Institute”) is committed to protecting your p
     * You are not required to provide Personally Identifying Information to visit the Website. If you choose not to provide Personally Identifying Information when prompted, you can still visit most of the Website pages.
   2. **USE OF INFORMATION YOU PROVIDE**
     * Personally Identifying Information collected will be used to provide you with information and services, to enable you to participate in features on the Website, to contact you regarding updates about the Website, to provide customer support, and for other purposes described at the point of collection (for example, purchase transactions, requests for printed materials, electronic mailing list sign-up, and requests for download permission for selected online content). 
-    * The Institute may share your Personally Identifying Information with its agents, affiliated entities, and partners. The Institute will not sell, rent, or disclose Personally Identifying Information to unaffiliated mass marketers without your express permission. 
     * If law enforcement or judicial authorities require us to provide them with your Personally Identifying Information, we must cooperate with the authorities if their request is supported with the necessary legal documentation.
     * In the event you make a donation, you grant us permission to access your credit card information. The Institute will use the information you provide for the transaction to complete your donation and to provide you with tools to manage and monitor your transactions. The Institute will not share, rent, or sell this donation-related information to any third parties without your consent, except that your credit card and other personal information will be shared with our credit card processor and then only to process the transaction.
     * Personally Identifying Information may also be used to gather broad demographic information about our user community or to perform analyses of user behavior in order to measure visitor interest in specific areas of the Website.
   3. **DONOR PRIVACY**
-    * The Institute at times exchanges donor names and mailing addresses with other nonprofit organizations working on similar issues. This type of exchange provides us with a cost-effective and reliable way to acquire new donors to support our work. If you would like to opt-out of our exchange program you may email us at [donation@guttmacher.org](mailto:donation@guttmacher.org?subject=Exchange%20Opt-Out) or call 800-355-0244. [View our donor privacy policy](https://www.guttmacher.org/donate/privacy).
+    * The Institute at times exchanges the names and mailing addresses of donors who live in the United States with other nonprofit organizations working on similar issues. This type of exchange provides us with a cost-effective and reliable way to acquire new donors to support our work. If you would like to opt-out of our exchange program you may email us at [donation@guttmacher.org](mailto:donation@guttmacher.org?subject=Exchange%20Opt-Out) or call 800-355-0244. [View our donor privacy policy](https://www.guttmacher.org/donate/privacy).
   4. **COOKIES**
     * This Website uses cookies—small pieces of text stored on the visitor’s computer—to enhance the experience of Website users by keeping track of user sessions across pages.
     * The Website uses [Google Analytics](http://analytics.google.com/) to help analyze how visitors use the Website. Google Analytics uses cookies to collect standard Internet log information and visitor behavior in an anonymous form. This information is transmitted to Google and is used to generate reports to help the Institute improve the Website. The information transmitted does not contain Personally Identifying Information. You can opt out of Google Analytics without affecting how you use the Website. For more information on opting out of tracking by Google Analytics across all websites you use, visit [this Google page](https://tools.google.com/dlpage/gaoptout).
@@ -58,14 +57,16 @@ The Guttmacher Institute (the “Institute”) is committed to protecting your p
     * The Institute is committed to protecting your privacy while providing you with the most useful and timely information. If you have any questions or concerns about this Policy, the practices of this Website or your dealings with the Website, please contact [info@guttmacher.org](mailto:info@guttmacher.org?subject=Requesting%20information%20about%20your%20Privacy%20Policy). 
     * The Institute can also be reached by telephone at 800-355-0244 or by mail at the following address: 
 
-Guttmacher Institute  
-125 Maiden Lane, 7th Floor  
+Guttmacher Institute
+
+125 Maiden Lane, 7th Floor
+
 New York, NY  10038
 
 
 
 
-_Updated: December 2016_
+_Updated: June 2018_
 
 ## Support Our Work
 
