@@ -1,76 +1,123 @@
-> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030080453id_/https%3A//www.metrixlab.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092729id_/https%3A//www.metrixlab.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | MetrixLab
 
-Website Privacy Statement
+MetrixLab B.V. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information that identifies you as an individual or relates to an identifiable person (“ **Personal Information** “).
 
-In this Web Site Privacy Statement (“statement”), we, MetrixLab BV, headquartered in Rotterdam, the Netherlands and San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the “site”).
+By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy. Please read this Privacy Policy carefully so that you understand how we collect and use your Personal Information.
 
-**Scope**  
-This statement covers data collected through the site. This statement does not cover any other data collection or processing, including, without limitation, data collection practices of other web pages to which MetrixLab links or data processing practices of users of our service. When MetrixLab refers to this statement in notices and consent requests related to surveys, special-purpose web pages or otherwise, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
+This Privacy Policy can be stored or printed using your browser’s print function.
 
-**Types of Data and Collection Methods**  
-Through the site, MetrixLab receives data that you actively submit as well as data that MetrixLab tracks:
+## 1\. WHO IS THE CONTROLLER OF YOUR PERSONAL INFORMATION?
 
-_Actively Submitted Data:_ When you request information, subscribe to a mailing list or a service, register as a user, post to one of MetrixLab-hosted forums or communities, send or respond to an online survey or otherwise actively send us data, MetrixLab usually collects data such as your name, email address(es), telephone number(s), country of residency, and certain information related to the business you represent (if any).
+MetrixLab B.V., located at Wilhelminakade 312, 3072 AR Rotterdam, the Netherlands is the company responsible (data controller) for the processing of Personal Information (“ **MetrixLab** “, “ **we** “).
 
-_Passively Tracked Data:_ When you visit the site, MetrixLab also passively tracks information from your computer and Internet connection, such as the IP address of your computer, the date and time you access the site, the Internet address of web sites from which you link to our site, some of the computer technology you are using and your movements and preferences on our site. MetrixLab uses technology that many other web sites employ, including, without limitation, “cookies” or small data files stored on your computer’s hard drive, to collect information such as the aforementioned. In some instances, MetrixLab also uses cookies to collect information in connection with future visits from that web site, to recognize you as a previous visitor and to track your activity at our site. You do not need to have cookies turned on to participate in our surveys or to visit our site. You can refuse cookies by turning them off on your browser, but please note that this may adversely affect user experience and convenience.
+## 2\. WHAT IS THE SCOPE OF THIS PRIVACY POLICY?
 
-_Combinations:_ Unless you actively submit personal information such as your name or address, passively tracked data does not typically allow MetrixLab to identify you personally (even though it can theoretically be done, MetrixLab does not try to find out who you are, unless you identify yourself voluntarily through an active submission of data). To the extent permitted by applicable law, MetrixLab reserves the right to combine passively tracked data or data available via a third party with personal data that you may choose to actively submit. MetrixLab does this on the [www.MetrixLab.com ](http://www.markettools.com/)site and for some survey “panels” (which may be deployed on opinionbar.com or other sites). Specifically if you take surveys from MetrixLab,  we will “fingerprint” your session in order to combat fraud. In generating this “fingerprint” MetrixLab gathers only publically available information from your browser; this includes your IP address, browser version, and other session information.
+This Privacy Policy describes our practices in connection with Personal Information that we collect through:
 
-**Collection Purposes, Use of Data**  
-MetrixLab collects passively tracked data primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to compile aggregated statistics about site usage, and to help personalize your experience on our site. MetrixLab also uses cookies and passively tracked data to protect the integrity of surveys, e.g., to prevent survey respondents from responding to the same survey twice.
+  * the website available at [www.metrixlab.com](https://www.metrixlab.com/), and other websites from which you are accessing this Privacy Policy (the “ **Website(s)** “);
+  * Our social media pages (e.g., MetrixLab-hosted forums or communities) located at <https://www.facebook.com/metrixlab>; <https://twitter.com/metrixlab>;  [https://www.youtube.com/user/MetrixLab, ](https://www.youtube.com/user/MetrixLab)  <https://www.linkedin.com/company/metrixlab/> ,[ https://plus.google.com/u/0/107807185775128324763](https://plus.google.com/u/0/107807185775128324763), <https://www.instagram.com/metrixlab_global/>(collectively, our “ **Social Media Pages** “); and
+  * HTML-formatted email messages and exit polls that we send to you and that link to this Privacy Policy (collectively, the “ **Services** “).
 
-For some survey panels, we will verify the information that you, or a third party, provide us and/or combine the information you provide with information MetrixLab may gather from additional sources. Verification of personal data may be done on our systems, or done by a third party. If your personal data is provided to us for verification purposes only MetrixLab will never store any of your personal information on our systems (MetrixLab store only the result of the verification process).
 
-MetrixLab collects primarily for two purposes: Firstly, for the purpose for which you originally sent us the data e.g., to confirm your registration for a service, to run a survey, to allow you to run a survey, to bill for services or to send you information or materials that you requested – for additional information on our solutions please click here [http://www.metrixlab.com/solutions/](http://www.metrixlab.com/solutions/); secondly, for purposes of informing you about products and services; you can opt out of receiving marketing emails as explained in Opt-Out below.
 
-**Disclosures of Personal Information**  
-MetrixLab is not in the business of selling or renting your information to telemarketers and we do not share your personally identifiable information with others, except as follows:
+This Privacy Policy applies to all users of the Services.
 
-If you use any MetrixLab services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, MetrixLab may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
+## 3\. WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW?
 
-MetrixLab also engages agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements.
+We may collect your Personal Information when you:
 
-MetrixLab may share your information as required by law or in the interest of protecting or exercising our or others’ legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
+  * _Contact us with your questions/comments/ideas/complaints:_ We may collect various information, depending on the manner in which you contact us (e.g., if you send us an email, we will collect your email address) and the reason for contacting us (e.g., if you have a complaint). In any case, we will collect your contact details so we can respond to your query.
+  * _Subscribe to our newsletter mailing list:_ We will collect your first and last names and your email address if you wish to subscribe to our newsletter.
+  * _When you report a problem with one of our Services:_ We will collect your first and last names and your contact details so we can respond to your report. You will also need to describe the problem that you have experienced with one of our Services so we can take care of it.
+  * _When you visit the Websites:_ MetrixLab may also collect certain data from your computer and Internet connection, including the IP address of your computer, the date and time you accessed our Websites, the Internet address of websites from which you link to our Websites, the computer technology you are using (such as laptop or tablet) and your movements and preferences on our Websites. MetrixLab also uses cookies and similar technologies in compliance with our [Cookie Policy](https://www.metrixlab.com/cookie-declaration/).
+  * _From other sources:_ We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from your friends and contacts on social media platforms, as well as from other third parties.
+  * _Offline:_ We may collect Personal Information from you offline, such as when you attend one of our events or call our customer service representatives.
 
-MetrixLab may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
 
-MetrixLab reserves the right to use and disclose any information collected via the site that is not in personally identifiable form.
 
-MetrixLab does not share, sell, rent or trade personally identifiable information, (PII) with third parties for promotional purposes.
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and permit us to use the information in accordance with this Privacy Policy.
 
-Without limiting the generality of the foregoing, note that MetrixLab will NOT share your identity or your individual responses to surveys that MetrixLab conducts itself  with customers who may have commissioned such surveys; MetrixLab only provides aggregate response data to survey customers. But, as noted in the next following section, MetrixLab does not control how others may use our tools when they conduct surveys through our website.
+## 4\. HOW MAY WE USE PERSONAL INFORMATION?
 
-**Third Party Data Collection Through Our Site**  
-When one of our users deploys our tools to send out survey requests or otherwise to collect data, such user will receive and process any responses. MetrixLab will host, but not access such information, except in connection with technical support or with the consent of the user who conducted the survey. MetrixLab posts rules on how our tools should be used, however, MetrixLab cannot control the data processing practices of our users and MetrixLab does not assume any responsibility for actions of our users who conduct surveys or of any other third parties.
+We may use Personal Information:
 
-**Co-branded Sites  
-**From time to time MetrixLab may partner with third parties to provide portions of a site. In the event that you provide personally identifiable information there, this privacy policy will continue to apply. You retain full rights to your data and may either contact us at [privacy@MetrixLab.com](mailto:privacy@markettools.com) to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters;
+  * To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions and policies;
+  * To allow you to participate in prize draws, competitions and promotional activities and to administer these activities (some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully);
+  * To facilitate social sharing functionality;
+  * To allow you to send messages to friends through the Services (by using this functionality, you are telling us that you are entitled to use and provide us with your friends’ names and email addresses);
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving and modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities; and
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal processes; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations and those of any of our affiliates; (f) to protect our rights, privacy, safety and property, and that of our affiliates, you and others; and (g) to allow us to pursue available remedies and limit the damages that we may sustain.
 
-**Opt-Out  
-**In connection with promotions or other projects, MetrixLab may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, MetrixLab will respect your decision. **To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at**[ **privacy@MetrixLab.com**](mailto:privacy@markettools.com) **.** Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests.
 
-**Access**  
-If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it , please update your profile on the site or send an email to [privacy@MetrixLab.com](mailto:privacy@markettools.com). If you wish to delete your profile, please send an email to [privacy@MetrixLab.com](mailto:privacy@markettools.com). Upon receipt of an appropriate request, MetrixLab will update or delete your information within 30 days, but MetrixLab reserves the right to use information previously obtained to verify your identity or take other actions that MetrixLab believes are appropriate.
 
-**Data Retention  
-**We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [](mailto:). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+## 5\. WITH WHOM DO WE SHARE PERSONAL INFORMATION?
 
-**Blog  
-**Our Web site offers a publicly accessible blog. You should be aware that any information you provide in this area may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@MetrixLab.com](mailto:info@markettools.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Your Personal Information may be disclosed:
 
-**Security**  
-Transmissions over the Internet are never 100% secure or error-free. MetrixLab does, take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction. For example, MetrixLab encrypts your registration information using secure socket layer technology (SSL). To learn more about SSL follow this link [http://en.wikipedia.org/wiki/Transport_Layer_Security](http://en.wikipedia.org/wiki/Transport_Layer_Security). It is your responsibility to safeguard any password and User ID you use to access the site and to notify us at [webmaster@MetrixLab.com](mailto:webmaster@markettools.com)if you ever suspect that your password or User ID has been compromised. You are solely responsible for any unauthorized use of the site conducted via your password and User ID.
+  * To our _affiliates_ for the purposes described in this Privacy Policy;
+  * To our third party service providers who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services;
+  * To third-party sponsors of prize draws, competitions and other promotional activities;
+  * To identify you to anyone to whom you send messages through the Services;
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages) Please note that any information you post or disclose will become public information, and may be available to users of the Services and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Services;
+  * To your friends associated with your social media account, to other website users, as well as to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Services account or log into your Services account from your social media account By connecting your Services account and your social media account you authorize us to share information with your social media account provider and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Services account and do not participate in social sharing on the Services;
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings); and
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal processes; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations and those of any of our affiliates; (f) to protect our rights, privacy, safety and property, and that of our affiliates, you and others; and (g) to allow us to pursue available remedies and limit the damages that we may sustain.
 
-**Children’s Privacy**.  
-The site is intended for adults in the United States. MetrixLab does not intentionally or knowingly collect personally-identifiable information from children under the age of 13 and MetrixLab requests that individuals under the age of 13 not submit any personal information on the site.
 
-**Terms of Use**  
-Your use of our site is governed by our Terms of Use, which contain disclaimers, limitations of liability, and a choice of California law and jurisdiction.
 
-**Effective Date, Amendments**  
-This statement is effective as of 2013. MetrixLab reserves the right to change, modify, supplement or replace all or part of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Before any material changes to this privacy policy MetrixLab will post a prominent notice on our home page no less than 30 days before these changes go into effect. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. MetrixLab recommends that users revisit this statement on occasion to learn of any changes.
+## 6\. DO WE USE COOKIES?
 
-**Contact Us**  
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [info@MetrixLab.com](mailto:info@markettools.com) or MetrixLab, 201 Mission Street, Suite 1400, San Francisco, CA 94105.
+We use cookies in accordance with our [Cookie Policy](https://www.metrixlab.com/cookie-declaration/).
+
+## 7\. HOW ABOUT LINKS TO THIRD PARTY SERVICES?
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information and other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Twitter, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+## 8\. HOW DO WE SECURE PERSONAL INFORMATION?
+
+Your Personal Information is treated as strictly confidential and we have taken appropriate technical and organizational security measures against loss and unlawful processing of such information. This includes measures such as firewalls, data scrambling, SSL encryption (RC4 128 Bits), application proxies, monitoring technology and adaptive analysis of network traffic to trace any abuse of our network and its data contents. The Websites communicate with our database using the SSL-protocol, thus ensuring third parties are not able to read or edit any data.
+
+Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us immediately about the problem by contacting us in accordance with the “How Can You Contact Us?” section below.
+
+## 9\. WHAT RIGHTS DO YOU HAVE?
+
+If you would like to review, correct, update, suppress or delete Personal Information that has been previously provided to us by you, you may contact us at: [info@metrixlab.com](mailto:info@metrixlab.com). As noted above, you can also log into your profile setting on the Websites and view, change or replace your own profile data.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database and, if applicable, let us know what limitations you would like to put on our use of your Personal Information that you have provided to us. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+If you are a resident of California, under 18 and a registered user of the Services, you may ask us to remove content or information that you have posted to the Services by contacting us at:  [info@metrixlab.com](mailto:info@metrixlab.com). Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
+
+## 10\. WHAT ABOUT DIRECT MARKETING/ADVERTISING?
+
+We do not use information from website registration to send direct marketing email, SMS or other messages about products and services. We also do not share our website identities or contact details with our clients for their direct marketing purposes.
+
+We may contact you for the purpose of the recruitment process of the new panelists/prospects. For example, when you take part in people’s choice awards on one of our local ”Website of the Year Award” Websites, we may also offer you the opportunity to become our panelist during the voting process.
+
+## 11\. HOW LONG DO WE RETAIN PERSONAL INFORMATION?
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+## 12\. HOW OLD DO I HAVE TO BE TO MAKE USE OF THE SERVICES?
+
+Our Services are not directed at individuals under the age of 18 (with the exception of the Netherlands where the minimum age is 16).
+
+## 13\. WHERE DO WE TRANSFER PERSONAL INFORMATION?
+
+Your Personal Information may be stored on a server located in Rotterdam (The Netherlands), but may also be processed in any country where we have facilities or in which we engage service providers. By using the Services you consent to the transfer of your information to countries outside your country of residence, including the United States, which may have different data protection rules than those of your country.
+
+## 14\. HOW DO WE HANDLE UPDATES TO THIS PRIVACY POLICY?
+
+We may change this Privacy Policy from time to time. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. If we decide to change this Privacy Policy, we will publish these changes on our home page or send you an email with the changes to ensure you are always aware of which information we collect, how we use it and under what circumstances we may publish this information.
+
+## 15\. HOW CAN YOU CONTACT US?
+
+If you have any questions about this Privacy Policy, please contact us by email at  [info@metrixlab.com](mailto:info@metrixlab.com)
+
+Please note that email communications are not always secure; so please do not include any sensitive information in your emails to us.
