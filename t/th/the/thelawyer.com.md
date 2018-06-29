@@ -1,141 +1,182 @@
-> *The following text is extracted and transformed from the thelawyer.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230102235id_/http%3A//www.centaur.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawyer.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629213958id_/http%3A//www.centaur.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy
+# Privacy Policy
 
-## Centaur Media PLC - Privacy & Cookies Policy
+## Centaur Media PLC - Privacy Policy
 
-### 1\. SCOPE
+### 1\. SCOPE AND CONTACT
 
-This policy applies to personal information collected on websites owned or controlled by Centaur Communications Limited and its UK affiliates and their brands (for a list of these brands, please see http://www.centaurmedia.com/brands) (collectively referred to in this policy as “we”, "us" or "our").
+This Privacy Policy applies to personal data collected by Centaur Communications Limited and its UK affiliates and their brands (for a list of these brands, please see www.centaurmedia.com/brands (collectively referred to in this Privacy Policy as “we”, "us" or "our") on websites (including mobile sites and apps) , via registration forms, surveys, competition entries, at events (including awards), or if you contact us (online, by post, telephone or social media).
 
-We comply with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
+Your privacy is very important to us and this Privacy Policy sets out how we will process your personal data and what rights you have in respect of your own personal data. Under data protection legislation (such as the Data Protection Act 1998 and the Regulation (EU) 2016/679 (better known as GDPR)) Centaur Communications Limited is the data controller in respect of your personal data and in this capacity we will securely store and process your personal data which you have provided to us. As data controller we have registered with the Information Commissioner’s Office and our registration number is Z6339550.
 
-The aim of this policy is to tell you how we will use any personal information we collect or you provide through our websites. Please read it carefully before you proceed. The data controller in respect of this website is Centaur Communications Limited.
+The aim of this Privacy Policy is to tell you how we will use any personal data we collect or you provide to us. Please read it carefully before you proceed.
+
+If you have any questions about this Privacy Policy or your rights in respect of your personal data, please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com)
 
 ### 2\. WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-You do not have to give us any personal information in order to use most of this website.
+You do not have to give us any personal information in order to browse our websites.
 
-However, if you wish to register on this website, subscribe to a service, book delegate space at events, request further information, or provide content for inclusion on this website (e.g. blogs or other online forums)we may collect the following personal information from you:
+However, if you wish to register on our websites, subscribe to a service, book places at events, request further information, contact us, complete any surveys, enter competitions, or provide content for inclusion on our websites (e.g. blogs or other online forums) we will collect certain data, including personal data. The data we will collect may include:
 
-  * name, address, phone number and email address; and
-  * gender, salary, employment details, employer details, and education details.
+  * title, name, address, business phone number(s), email address and gender;
+  * employment details, such as your current role and responsibilities, experience, seniority, salary and education ;
+  * information about your organisation and the industry that you work in;
+  * areas of interest which you have notified us about, as well as what we can assume from your engagement with our products and services;
+  * your CV;
+  * your marketing preferences;
+  * your newsletter preferences;
+  * your job alert preferences;
+  * any data recoverable from social networking sites, where permission from you has been obtained; and
+  * any other information that you submit to us.
 
 
 
-We will also keep a record of any financial transaction you make with us but we do not directly collect, process or store your debit or credit card information. Online payments made through this website are processed securely by a third party payment provider Datacash. Please refer to Datacash's Privacy Policy www.datacash.com/mcdatacash/privacy/privacy.html for how your payment card data is processed by them.
+We may receive the above information directly from you, or from your colleague or corporate contact who registers for a subscription or event on your behalf.
 
-You may also choose to provide additional voluntary information in the course of your use of this website.
+Please note that not all of the information we request is mandatory to provide you with the service. You are not required to provide any optional information.
 
-In addition, we may automatically collect information about the website that you came from or are going to. We also collect information about the pages of this website which you visit, IP addresses, the type of browser you use and the times you access this website. However, this information is aggregated and is not used to identify you.
+We will also keep a record of any financial transaction you make with us. Online payments made through our websites are processed securely by the following third party payment providers: Datacash, Authorize.net and Paypal. Please refer to Datacash's privacy policy at http://www.datacash.com/mcdatacash/privacy/privacy.html, Authorize.net’s privacy policy at https://www.authorize.net/company/privacy/ and Paypal’s privacy policy at https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev for details of how your payment card data is processed by them. We do not directly collect or process your debit or credit card information, except in limited circumstances where you provide us with new debit or credit card details over the phone, and we update Authorize.net with these details, or we take a debit or credit card payment over the phone and input these details into Datacash. In such circumstances, we do not retain a copy of your debit or credit card details.
+
+If you respond to surveys, unless we inform you otherwise, your answers will be aggregated and anonymized for research and analysis purposes. However, if you choose to provide any information in your response to a survey which identifies you (e.g. name, job title), we may be able to identify you from this. If you choose to submit your email address to enter into any prize associated with the survey, this will be used to administer the prize only and will not be linked to your survey responses.
+
+In addition, we may automatically collect information about any website that you came from or are going to. We also collect information about the pages of our websites which you visit, the links you click on, IP addresses, the type of browser you use and the times you access our websites. Some of this information is aggregated and is not used to identify you, but we also use analytics software on our websites which allows us to link information about your use of our websites back to you, where you have logged into your account. .We may observe your use of our websites, whether you open emails we have sent to you and/or events that you attend and your activities at those events (such as the exhibitors you interact with). We may infer and derive certain information from these observations such as what additional brands, subscriptions and events you or a user similar to you may be interested in. This information will be used for our own internal and marketing purposes.
+
+We use cookies to collect information about you online. Please read our [Cookie Policy](https://web.archive.org/cookies) for further information on the cookies we use and how you can enable/disable them.
 
 ### 3\. HOW WILL YOUR PERSONAL INFORMATION BE USED AND SHARED?
 
 The personal information we collect allows us to:
 
-  * provide the products and services you have ordered;
-  * verify your identity and details of your payment method or credit card amount;
-  * administer our website and provide customer services;
+  * provide the products and services you have ordered or signed-up to;
+  * register you for events and administer those events;
+  * notify you of key information in relation to your subscription or any events you are attending;
+  * verify your identity and details of your payment method or credit card amount (where payments are required);
+  * administer our websites (such as access controls) and provide customer services;
+  * aggregate information about you with other users to better understand what services our users will be interested in;
   * meet legal, regulatory and compliance requirements;
   * monitor and analyse the use of any account to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime;
-  * gather management information to form statistical and trend analysis;
-  * communicate with you;
-  * investigate any complaints about this website;
-  * personalise your experience of this website; and
+  * gather information to form statistical and trend analysis including to monitor user demographic and to improve our products, services, events and marketing practices;
+  * monitor your use of our products and services and attendance at events and to build up customer profiles (including through use of analytics software) to help us identify content and marketing materials which will be of interest to you and other customers like you;
+  * communicate with you including responding to your enquiries;
+  * investigate any complaints about our websites, products, servicesor events;
+  * personalise your experience of our website, products, services and events, for example, by displaying targeted advertising and content which we believe likely to be relevant and of interest to you (please see below for further details); and
   * contact you about our products and services which we think might be of interest to you (where we have the appropriate permissions to do so; please see Paragraph 5 for more information).
 
 
 
-We may share your personal information with all of our affiliate companies and their brands for the above purposes.
+We may share your personal information with our affiliate companies and their brands for the above purposes, including where a brand that you have subscribed to is managed or partly managed by one of our group companies.
 
-We may employ the services of third party service providers to help us in certain areas, such as website hosting, maintenance, call centre operation. In some cases the third party may receive your information. However, at all times, we will control and be responsible for the use of your information.
+Where you are attending an event organised by us and, where you have provided your consent for us to do so (or we have informed you that we are relying on some other legal basis to share this information) , we may share your name, job title and company with the other attendees of the event (including making this information available via the event app, on social media sites and/or in our event guide).
 
-We may use aggregated information so we can administer and improve our website, analyse trends, gather broad demographic information and detect suspicious or fraudulent transactions. We may pass this information to third parties.
+Where you register to attend certain seminars or presentations at our events hosted by a third party, we may share your registration information with such third party andwe will share your registration information with the sponsors of our events.
 
-If you provide a credit or debit card, we may also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud as well as to process any transaction you attempt via the website.
+Where you indicate that you want us to share your details with exhibitors at events (for example, by scanning your event badge at an exhibitor's stand) we share your information with those exhibitors.
 
-If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
+Where you apply for a job via one of our websites we share your application with the recruiter/employer advertising that job.Where you indicate that you are happy for your CV and contact details to be made available to all other recruiters who have signed up to use our job websites, we share that information with them. If you no longer want to make your CV and contact details available to all recruiters you can contact us [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com) or edit your account settings, but please note that recruiters who have already being given access to your CV prior to you changing your preferences may still contact you.
 
-  * checking details in applications for credit and credit related or other facilities
-  * managing credit and credit related accounts or facilities
-  * recovering debt
-  * checking details on proposals and claims for all types of insurance
+Where your subscription to our service is a part of a wider corporate subscription (i.e. your employer obtains a subscription for all of its employees) we may share information about your use of the service with your employer.
+
+We may share your regsitration informationincluding name, job title and contact details with other third parties for marketing purposes, where you have provided consen for us to do so.
+
+We may employ the services of third party service providers to help us in certain areas, such as website hosting, maintenance, call centre operation and the operation of events. In some cases the third party may receive your personal data. However, at all times, we will control and be responsible for the use of your personal data and we will endeavour to ensure that our service providers are bound by contractual obligations to only process your personal data in accordance with our instructions.
+
+We may use aggregated information so we can administer and improve our website, analyse trends and gather broad demographic information and detect suspicious or fraudulent transactions. We may pass this information to third parties. In most cases this information will be anonmyised, meaning that you will not be able to be identified from it.
+
+We may share some of your information with advertisers, ad servers and ad networks to deliver targeted advertising both on our websites and on selected partner websites but this will not include any information which directly identifies you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. These activities may involve the use of cookies and other similar technologies. Please read our [Cookie Policy](https://web.archive.org/cookies) for further information on the cookies we use and how you can enable/disable them.If you complete a survey, we may share your responses in an aggregated and anonmyised form with third parties carrying out research relating to the topics covered in the survey or, ifthe survey relates to your use of one of our susbcription products, and this forms part of a corporate subscription taken out by your employer for you and other employees,, we may share information provided in your survery responses about your use of the subscription with your employer. If you have included information about yourself in your survey responses (e.g. name, job title), third parties or your employee (as appropriate) may be able to identify you from this.
+
+We may occasionally be required by law, court order or governmental authority to disclose certain types of personal data. Examples of the type of situation where this would occur would be:
+
+  * in the administration of justice; or
+  * where we have to defend ourselves legally.
+
+
+
+### 4\. SALE OF THE BUSINESS
+
+In the event that the business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners of the business.
+
+### 5\. GROUNDS FOR PROCESSING
+
+Our processing of your personal data will be where: (i) it is necessary for the performance of a contract we have with you; (ii) where you have provided your consent; (iii) it is necessary for us to comply with legal obligation that we are under; or (iv) it is in our (or a third party's) legitimate interests and such interests do not prejudice your rights or freedoms. Our (or a third party's) legitimate interests will include:
+
+  * to gather information for statistical and trend analysis including to monitor user demographic so we can better understand those that use our products and services and improve such products and services and marketing practices; to provide employers who hold a corporate subscription with information about how their subscribers are using our services;
+  * to monitor use of our products and services and build up customer profiles (including through use of analytics software) to help identify content and marketing materials which will be of interest to you (save where you have opted-out);
+  * to monitor attendance at events to better understand how best to run future events;
+  * to monitor interactions at events (including tracking which exhibition stands attendees visit during events) to improve our events in the future;
+  * where we require you to submit information about your role when registering for our service so that we can ensure that our content and events are also appropriately targeted;
+  * where we share your information with sponsors of eventsthat you attend to allow us to obtain the most appropriate sponsor for the events and to facilitate business-to-business communication during and after our events;
+  * where we share your information with sponsors of reports that you download and webinars to allow us to obtain the most appropriate sponsor for such reports and webinars and to facilitate business-to-business communication between you and that sponsor, unless you chose not to have your information shared;
+  * where we send you business-to-business marketing about products, services and events of the brand with whose website or event you have registered, and of other brands within our business, and in which we think you may be interested, unless you tell us you do not want to receive such marketing;where we rely on legitimate interests as the condition for processing this data (in which case we will tell you), where we share your information with other attendees of an event to facilitate business-to-business communication between you and that attendee.
+  * where we research individuals for the purposes of including their details in our publications or products or for marketing to you (inless you have opted out of receiving this)
+  * where will publish news and content containing personal data within our publications, products and content.
+
+
+
+### 6\. FRAUD PREVENTION AND AUTOMATED DECISION-MAKING
+
+If you provide a credit or debit card, we may also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud as well as to process any transaction you attempt via our websites. Any decision to deny you services based on the validity of your card details will be made by automated decisions. If you are denied a service because of this automated decision-making you are entitled to request us to further investigate. Please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com) where you have been denied access to a service based on your card details being declared invalid and you consider this to be in error. It may also be that you will need to contact your bank / payment provider.
+
+If false or inaccurate information is provided and fraud is identified, details may be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
+
+  * checking details in applications for credit and credit related or other facilities;
+  * managing credit and credit related accounts or facilities;
+  * recovering debt;
+  * checking details on proposals and claims for all types of insurance; and
   * checking details of job applicants and employees.
 
 
 
-Please email us on customerdata@centaurmedia.com if you want to have details of those fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
+### 7\. TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA
 
-### 4\. TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA
+We may transfer some of your personal information to the United States of America to Singapore and to Australia as we have affiliates in these jurisdictions. We may also transfer some of your personal information to countries in which we hold events, including the United States of America, Spain, the Netherlands and Hong Kong. In addition, we and service providers processing personal data on our behalf, transfer personal data to servers outside the EEA including in the Untied States of America and India or storage purposes. These countries may not have equivalent data protection legislation to the UK. However, when we transfer your personal information in this way we will endeavour to ensure that adequate measures are in place to keep your personal data secure, including via standard contractual clauses and Privacy Shield. .
 
-We may transfer some of your personal information to the United States of America and to Singapore as we have affiliates in both these jurisdictions. These countries may not have equivalent data protection legislation to the UK. However, when we transfer your personal information in this way, we will keep it securely and only use it as outlined in this Privacy & Cookies Policy. By submitting your personal information to this website, you consent to such transfers taking place.
+### 8\. MARKETING COMMUNICATIONS
 
-### 5\. MARKETING COMMUNICATIONS
+Where we have told you that we will do so – such as during the registration process to our websites/website services and events (as applicable) – we may from time to time contact you by email, SMS, telephone or post about our products and services (including from all our brands) that may be of interest to you.
 
-Where you have given us the appropriate permissions during the registration process to the website/website services (as applicable), we may from time to time contact you by email, SMS, telephone or post about our products and services (including from all our brands) that may be of interest to you.
+If at any point, you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at [preferences@centaurmedia.com](mailto:preferences@centaurmedia.com).
 
-If at any point, you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at customerdata@centaurmedia.com.
+### 9\. LINKS
 
-### 6\. COOKIES AND RELATED TRACKING TECHNOLOGIES
+Our site contains links to other websites over which we have no control. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your personal information.
 
-#### 6.1 Use of Cookies on our website
-
-We use cookies to collect information about store your online preference. Cookies are small pieces of information sent by a web server to a web browser which allows the server to uniquely identify the browser on each page.
-
-We use the following categories of cookies on our website:
-
-##### Strictly Necessary Cookies
-
-These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for such as remembering your login details or shopping basket items cannot be provided.
-
-##### Performance Cookies
-
-These cookies collect anonymous information on how people use our website. For example, we use Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
-
-##### Functionality Cookies
-
-These cookies remember choices you make such as the country you visit our website from, language and search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and pleasant. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
-##### Targeting Cookies or Advertising Cookies
-
-These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. The cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers.
-
-##### Social Media Cookies
-
-These cookies allow you to share what you’ve been doing on the website on social media such as Facebook and Twitter. These cookies are not within our control. Please refer to the respective privacy policies for how their cookies work.
-
-If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies.
-
-Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. To find out more about cookies please visit: www.allaboutcookies.org or see www.youronlinechoices.eu which contains further information about behavioural advertising and online privacy.
-
-#### 6.2 Use of Web Beacons.
-
-Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
-
-### 7\. LINKS
-
-Our site contains links to other websites over which we have no control. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage use to review the privacy policies of those other websites so you can understand how they collect, use and share your personal information.
-
-### 8\. SECURITY
+### 10\. SECURITY
 
 We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
-### 9\. SALE OF THE BUSINESS
+### 11\. YOUR RIGHTS
 
-In the event that the business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s adviser and will be passed to the new owners of the business.
+You have the following rights in relation to your personal data:
 
-### 10\. ACCESS TO YOUR PERSONAL INFORMATION
+  * a right of access to your personal data held by us;
+  * a right to receive your personal data in machine-readable format;
+  * a right to object to processing that is likely to cause or is causing you damage or distress;
+  * a right to object to decisions being taken by automated means (including profiling for the purposes of marketing);
+  * a right in certain circumstances to have inaccurate personal data rectified, blocked, erased or destroyed; and
+  * a right to claim compensation for damages caused by a breach of data protection legislation.
 
-You are entitled to see the personal information held about you. If you wish to do this, please contact us at customerdata@centaurmedia.com. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the personal information we hold. Please note that in certain circumstances we may withhold access to your personal information where we have the right to do so under current data protection legislation.
 
-### 11\. UPDATING YOUR PERSONAL INFORMATION
 
-You may review, correct, update or change your personal information at any time by contacting us at customerdata@centaurmedia.com.
+These rights can be exercised by contacting us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com). In order to protect you, we reserve the right to verify your identity before processing any such request.
 
-### 12\. CHANGES TO OUR PRIVACY & COOKIES POLICY
+If you are unsure about your rights or are concerned about how your personal data may be processed you should contact your national data protection regulator. In the UK this will be the Information Commissioner's Office.
 
-If our Privacy & Cookies Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what personal information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+If you contact us in relation to your rights we will do our best to accommodate your request or objection. Please note, however, that not all rights are absolute.
 
-### 13\. HOW TO CONTACT US
+### 12\. UPDATING YOUR PERSONAL INFORMATION
 
-If you have any questions about this statement or your personal information, please contact us at customerdata@centaurmedia.com.
+You may review, correct, update or change your personal information at any time by contacting us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com). Often, where you have signed up for an online account on one of our websites you can also amend you details via that online account.
+
+### 13\. RETENTION
+
+We will retain your personal data for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Accordingly, your personal data shall be maintained for up to seven years following the end of the services we provide to you / your last contact with us. This retention period may be extended if any applicable statutory or regulatory obligation requires us to hold information for a longer period.
+
+### 14\. CHANGES TO OUR PRIVACY POLICY
+
+If our Privacy Policy changes in any way, we will place an updated version on this page and we will take reasonable steps to make you aware of those changes. Regularly reviewing this page ensures that you are always aware of what personal information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+
+### 15\. HOW TO CONTACT US
+
+As a reminder, if you have any questions about this statement or your personal information, please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com).
