@@ -1,125 +1,343 @@
-> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228072854id_/http%3A//www.wesh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629182021id_/http%3A//www.wesh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice | Hearst
 
-**HEARST TELEVISION PRIVACY POLICY**
+**_Privacy Notice – Highlights_**
 
-This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site Terms of Use, which governs your use of this Site in general.
+ **Last Updated:** May 24, 2018 ****
 
-You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "What are my opt-out rights?" section below.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “ **Digital Service** ”) operated or owned by Hearst Television Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices. 
 
-**What information do we collect?**
+**What Information We Obtain**
 
-We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.
+  * Information you provide when you use the Digital Services, including when you sign up for newsletters or news alerts, create an account or register through the Digital Services. This may include your contact, payment or demographic information. 
+  * Information you submit when you choose to participate in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Information you give us about others, such as a friend’s contact information when you share an article.
+  * Information collected by automated means such as cookies or pixels. This may include information about your device and browser, including IP address or mobile device advertising identifiers, as well as information about how you and others use, interact with or respond to the Digital Services. This collection may take place while you are using a Digital Service or while the Digital Service is running in the background of your device.
+  * Precise location information associated with your device when location services are active. 
+  * Information we obtain from other sources, such as business partners, data suppliers and social media platforms.
 
-Personally Identifiable Information: The personally identifiable information we collect about you includes information you submit to us. For example, if you subscribe to online services we offer or register for certain services with us online that require registration, agree to participate in on-line surveys, participate in on-line contests, sweepstakes and promotions sponsored by us and others, make certain on-line information requests to us, participate in various activities on the Site, or want to establish a profile for submission of user-generated content available to other Site visitors and/or the general public, we may ask you to provide "personally identifiable information," such as your contact information (e.g., name, phone number, address and e-mail address) and user demographic information (e.g., gender, age, hobbies or interests). Because participation in these activities is completely voluntary, you choose whether to disclose this information.
 
-**Non-Personally Identifiable Information:** The non-personally identifiable information we collect may include the domain name of the site providing you with Internet access, and the Internet protocol (IP) address used to connect your computer to the Internet. The Site's servers may also collect your browser type and version, screen resolution, the operating system your computer is running, and other Site visit data such as the pages you view, the referring page that linked you to us (e.g., another Web site or a search engine), information you search for, information or ads you click on, the average time spent on the Site, and the Web site you visit after this Site. Much of this information is tracked through log files, which are stored on the Site's servers. Additional information about our use of cookies and tracking pixels to collect non-personally identifiable information is set forth in the "What about cookies and tracking pixels?" section below. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).
 
-**Information Obtained from Third Parties:** We may supplement the information that you provide with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections or from other third parties. The type of information that is shared with us may include user contact information (e.g., name and email address) and user demographic information (e.g., zip code, age or income level), as well as other types of personally identifiable information and non-personally identifiable information.
+Read more here.
 
-**Location Information:** We may, and may enable our advertisers, technology and analytic partners, social networks, and other third parties to, collect your location via certain services we provide through websites and other digital platforms and applications, including mobile websites and applications. You will be informed prior to collection at the time you initially use the product or service. By using such product or service, you hereby consent to the collection, use and disclosure of your location information as described.
+ **How We Use Information We Obtain**
 
-**How may your information be used?**
+  * To process your requests and provide you with the Digital Services, including to deliver customized content or recommendations. Note that we use your payment card information (such as your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others.   
 
-**How Personally Identifiable Information May Be Used:** We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.
+  * To learn about users of the Digital Services and analyze how you and others interact with and respond to the Digital Services.   
 
-We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. **If you want to stop receiving promotional email messages from Hearst Television, you may do so by following the directions in the"What are my opt-out rights?" section below.**
+  * To communicate with you, including to send you marketing and promotional communications.   
 
-**Referral Services:** In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend's name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.
+  * For advertising and marketing purposes, including to deliver interest-based ads, for cross-device linking and to analyze the performance of advertising and marketing activities.   
 
-**How Non-Personally Identifiable Information May Be Used:** Non-personally identifiable information such as that which is collected about your Site visits, anonymous survey information, and certain aggregated demographic information, may be used for various purposes, such as reporting survey results and to allow us to better understand the entire audience that is visiting the Site. We also may track and use your IP address and other non-personally identifiable information to help diagnose problems with our servers, for reporting and profiling purposes, to administer the Site and for other uses and purposes, including sharing with third parties. We also gather anonymous browsing habits of our visitors to better identify content preferences, and we monitor and analyze this information to increase the functionality and user-friendliness of the Site and better tailor the Site to our visitors' needs. We may link any of this information with your personally identifiable information for various purposes. Any or all of the above-described activities with respect to your non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).
+  * To protect our rights and the rights of others.  
 
-**Tracking Requests:** Hearst does not act on Do Not Track requests from your browser. For more information click here.
 
-**Effect of Tracking Requests:** Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.
 
-**How may your information be disclosed?**
 
-**Sharing Personally Identifiable Information In General:** We describe in this Privacy Policy when and how we may share your personally identifiable information. Other than as described in this Privacy Policy (including, for example, as described below), we will not sell, rent, or share your personally identifiable information with unaffiliated third parties without your consent.
+ ****Read more  here.
 
-**Sharing Non-Personally Identifiable Information:** Aggregate demographic and other information of and about our Site users may be published or shared with third parties for various purposes. Also, as further detailed in the section titled "What about cookies and tracking pixels?" below, non-personally identifiable information is shared with advertisers and advertising services that provide us and advertisers with demographic information about our visitors.
+ **How We Share Information**
 
-**Sharing with Service Providers:** Except explained below with respect to IB, we may share your personally identifiable information with our business partners and/or other third party service providers, such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, payment processing companies and other similar vendors and services providers, which perform services for us and which use such information on our behalf (collectively "Service Providers").
+  * Within the Hearst family of companies.   
 
-**Sharing with Third-Party Marketers:** We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of Hearst), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. **If you want to stop receiving promotional email messages from Hearst Television, you may do so by following the directions in the"What are my opt-out rights?" section below.**
+  * With service providers that perform services or handle transactions on our behalf.   
 
-**Legally-Compelled Disclosures:** To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our [Terms of Use](https://web.archive.org/terms-and-conditions) and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.
+  * With advertisers, advertising- and marketing-related services providers and partners as well as companies that help us learn how you and others interact with our content.   
 
-**Information Posted to Public Forums:** This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.
+  * With social media platforms and similar services, including when you interact with our Digital Services that integrate tools and services provided by social medial platforms.   
 
-**What are my opt-out rights?**
+  * With business partners, such as when we partner with a third party to offer products or services on a co-branded basis.   
 
-**Opting Out of the Site's Marketing Communications:** While many of our visitors appreciate the benefits that online registration allows us to provide them, we respect your individual right to control how your personally identifiable information may be used. If you do not wish to receive promotional communications from the Site regarding special offers and product updates and other news and information, you can uncheck the box that allows us to use your information for this purpose when your information is collected (if applicable), or go to your personal profile or account on the Site and edit your email preferences (if applicable). You also will notice that there is an unsubscribe link at the bottom of each of our promotional e-mail messages, which will enable you to opt out of receiving all future promotional emails from the Site. Simply click on that link to go to a page that allows you to unsubscribe from any or all of the lists to which you are subscribed. Please understand that if you opt out of receiving promotional correspondence from the Site, we may still contact you in connection with your relationship, activities, transactions and communications with us, and you may not opt out of these types of messages.
+  * Other parties when required by law or as necessary to protect our rights, and in the context of corporate transactions.   
 
-**Opting Out of Sharing Personally Identifiable Information with Third Parties for Marketing Use:** If you want us to stop sharing your personally identifiable information with third parties (outside of Hearst) for their direct marketing use, go to your personal profile or account on the Site and edit your preferences (if applicable). If you do request to have us stop sharing your personally information with such third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly.
+  * With your consent or otherwise at your direction.  
 
-**California & Canadian Users: **Your California Privacy Rights. California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. The heading Third-Party Advertisers below explains our practices and how you can opt-out of having your information shared with third parties for the third parties' direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Third-Party Advertisers, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Hearst Television Inc., 300 West 57th Street, New York, NY 10019 or contacting us at [hearsttelevision.com](http://www.hearsttelevision.com/). Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section Third-Party Advertisers explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.
 
-**What about messages sent to me at my wireless email address or short message service?**
 
-**Wireless Addresses**
 
-If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
+Read more here.
 
-**Short Message Service and Wireless Internet**
+ **Your Choices, Including Marketing and Interest-Based Ads Opt-Outs**
 
-We may make available services through which you can receive messages on your phone or wireless device via short message service ("SMS Service") or via wireless Internet ("WAP Services"). If you subscribe to one of our SMS or WAP Services, you thereby agree to receive SMS or WAP Service at the address you provide for such purposes. Such messages may come from Hearst, or from third parties who we believe may have goods or services of interest to you (unless you have elected not to receive such messages).
+  * You may take steps to limit the use of your information for interest-based advertising on your browser or mobile device. See here for more information.
+  * You may unsubscribe from our marketing or promotional emails by clicking the “Unsubscribe” link in our emails, or for certain Digital Services, by logging into your account and adjusting your preferences.
 
-You understand that your wireless carrier may charge you for these messages and for access to these services, and that you may opt-out of receiving such messages by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS or WAP Service, and that you are authorized to approve the applicable charges. To use the SMS or WAP Service, you must reside in the United States. You must register and provide all required personally identifiable information, which may include, for example, your name, SMS or WAP address, wireless carrier and, if fees are applicable to the SMS or WAP Service to which you may subscribe, your billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS or WAP Service. We will use the information we obtain in connection with our SMS or WAP Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
-You acknowledge and agree that the SMS or WAP Services are provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS or WAP Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS or WAP Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints.
 
-By signing up for the SMS or WAP Service, you consent to receiving, from time to time, further messages which may include news, promotions and offers from us, unless and until you have opted-out of these activities by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. Please follow the instructions provided to you by third parties to unsubscribe from their messages.
+Read more here.
 
-**What about cookies and tracking pixels?**
+ **Additional Information**
 
-We use technologies such as cookies and tracking pixels to collect information from and/or about you, and we do so, for example, to enhance the information we have about your preferences, to store some of your Site settings and to learn about your visits. A cookie is a piece of information that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie allows us to determine that a visit has occurred within the Site, as well as which pages were viewed. You can decide if and how your computer will accept cookies by configuring your preferences option within your Web browser. If you choose to decline cookies, however, some of the functionality of the Site may be impaired.
+  * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.   
 
-We also may use "tracking pixels" (aka "clear GIFs" or "pixel tags") or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.
+  * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.   
 
-Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).
+  * The Digital Services are not intended for use by children under the age of 13.   
 
-**Third-Party Advertisers**
+  * This Privacy Notice is part of the [Terms of Use](http://www.hearst.com/newsroom/tv-terms-of-use), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.  
 
-We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.
 
-If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at <http://www.networkadvertising.org/choices/>.
 
-**What information is collected from children under the age of 13?**
 
-This Site is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent and unless expressly identified on specific pages of the Site. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.
+Read more here.
 
-**How do we aim to protect personally identifiable information collected on this Site?**
+ **Contact Us**
 
-While we will endeavor to protect the security and integrity of any personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
+If you have questions about our Privacy Notice you can contact us by email at [htvprivacy@hearst.com](mailto:htvprivacy@hearst.com).
 
-If you contact us by e-mail or a "contact us" or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+ ** _PRIVACY NOTICE_**
 
-If we believe that the security of any user's personal information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as the means of such notification.
+ **Last Updated:** May 24, 2018 ****
 
-**How can you access and edit your personally identifiable information?**
+A.  Introduction
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/subscriptions) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.wesh.com/).
+B. What Information We Obtain
 
-**What Web sites does this Privacy Policy cover?**
+C. How We Use Information We Obtain
 
-When you are on the Site, you may have the opportunity to visit, or link to, other sites, including other sites operated by subsidiaries or affiliates of us, or by unaffiliated third parties. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. You should review these sites' privacy policies regarding any information that they may collect about you at their sites. We do not accept any responsibility or liability for the privacy practices of such "third party" sites and your use of such sites is at your own risk.
+D. How We Share Information
 
-**What if I am a non-U.S. user?**
+E. Your Choices, Including Marketing and Interest-Based Ads Opt-Outs
 
-If you are located outside of the United States, please note that the information you provide to us will be collected, maintained, processed and transferred in and to the United States and other countries and territories. By using this Site, you consent thereto. You also consent to the adjudication of any disputes arising in connection with this Site in the federal and state courts of, and in accordance with the laws of, the state of New York.
+F. Additional Information for California Residents
 
-**What happens to your information if there is a corporate change of control?**
+G. How We Protect Your Information
 
-In the event that Hearst Television, any entity of Hearst, or a significant portion of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on the Site may be one of the transferred assets.
+H. Non-U.S. Visitors
 
-**What about changes to this Privacy Policy?**
+I. Children’s Privacy Rights
 
-We reserve the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.
+J. Links to Third-Party Websites, Mobile Apps or Other Services
 
-**How can you ask questions or contact us?**
+K. Careers/Job Opportunities
 
-If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:hearsttelevisionnotice@hearst.com).
+L. Dispute Resolution/Terms of Use
 
-Effective: April 28, 2014
+M. Changes to This Privacy Notice
+
+N. Contact Us
+
+ **A. ** ** _INTRODUCTION_**
+
+This Privacy Notice applies to the U.S. website, mobile application or other digital service (each a “ **Digital Service** ”) linking to this Privacy Notice and owned or operated by Hearst Television Inc. (“we”, “us”, “our” or “Hearst”). This Privacy Notice describes the privacy practices of Hearst only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the Digital Services. 
+
+**B. ** ** _WHAT INFORMATION WE OBTAIN_**
+
+When you use a Digital Service, we may obtain various types of information related to you and your use of the Digital Service. This may include information that directly identifies you such as your name, address, or contact information (this type of information may be called “personal information” or “personally identifiable information”). The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the Digital Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources.
+
+ **1.  ** **Information you give us**
+
+We may ask you to provide information about yourself when you use the Digital Services. For example, to subscribe to one of our newsletters or news alerts, you will need to give us an email address. You may not be able to use certain features if you choose not to submit the requested information. 
+
+The information you give us may include details such as:
+
+  * Contact information (e.g., name, mailing address, email address or phone number).
+  * Demographic, interests and household information (e.g., age, gender or education).
+  * Payment information for purchases made through the Digital Services (e.g., payment card number, expiration date and billing information).
+  * Comments, photos, videos and other content or information you choose to publish on the Digital Services or otherwise share with us. 
+  * Information you provide when you choose to participate in surveys, polls, sweepstakes, contests or promotions (including information about your participation in activities that may generate loyalty or rewards points).
+  * Location information, which may include precise location information when you permit the Digital Services to access device location. To prevent the collection of precise location information, please refer to instructions provided by your mobile service provider or device manufacturer. 
+  * Other information you may allow us to access through your device’s permissions settings, such as your contacts or address book.
+  * Transactional and activity information (e.g., requests, searches or orders). 
+
+
+
+**2\. Information you give us about others**
+
+You may give us information about other people, such as the name and email of a friend or contact with whom you want to share an article. Do not give us information about others unless you are authorized or have their consent to do so. We will use their information for the purposes described in this Privacy Notice.
+
+ **3.  ** **Information automatically collected**
+
+The Digital Services automatically log certaininformation about visits to the Digital Services, such as the number and frequency of visitors, technical information about browsers and devices used to access the Digital Services, and information about crashes or other technical issues. In addition, we and third parties may automatically collect certain information through automated means about your activities over time across the Digital Services as well as across third-party sites, apps or other media. The tools that collect this information vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and software development kits (“SDKs”). These technologies may be included in our web pages, mobile apps, emails, and other digital content. The tools may assign or collect unique cookie IDs or other identifiers associated with your browser or device. The tools may collect information while you are using our Digital Services or while they are running in the background of your device.
+
+The information automatically collected may include :
+
+  * Information about your computer, device, browser and operating system (e.g., type, model, or version).
+  * Internet protocol (IP) address, which may be used to derive your general geographic area (e.g., city and country).
+  * Device identifiers (e.g., mobile advertising IDs).
+  * Information about your interactions with the Digital Services, including browsing activities and clickstream data that reflect the content you have accessed, clicked on, or viewed. 
+  * Information about how you accessed the Digital Services, including details about websites or apps visited immediately before or after accessing aDigital Service.
+  * Demographic, interests and household information.
+  * Information about your interactions with email messages and other communications, such as whether you opened or forwarded the email or clicked on links contained in the email. 
+
+
+
+For more information about the use of automated means in the context of interest-based advertising and how you can limit tracking, see here
+
+ **4.  ** **Information we obtain from other sources**
+
+We receive information about you from other sources and it may be combined with other information about you. For example, we may obtain data from:
+
+  * Operators of third-party sites or apps, content distribution channels and platforms (e.g., Roku, Amazon Fire TV), voice-activated assistants (e.g., Amazon Alexa, Google Home) or other devices and technologies when you interact with our content, products, services or ads available on those channels and platforms. The information we receive may include information about the content you view or access as well as your demographic information and information about your interests.
+  * Third-party data suppliers such as data aggregators, data resellers, public databases and business partners. They may provide us with demographic information, information about your purchases, and other information that helps us learn about you and other users of the Digital Services. 
+  * Social Media Platforms and similar services (“ **Social Media Platforms** ”). When you engage with our content or ads on Social Media Platforms, or interact with features on the Digital Services that contain content or features provided by Social Media Platforms (e.g., login or sign in features or tools that allow you to share our content with others on Social Media Platforms), we may obtain information from Social Media Platforms, including your username, user ID, demographic information and other information, subject to the settings and privacy practices of the relevant Social Media Platform. We may obtain this information directly from the Social Media Platform or through plug-ins, integrations or applications. Please keep in mind that the operators of the Social Media Platforms may also gather information about your use of the Digital Services and their features and tools. 
+
+
+
+**C. ** ** _HOW WE USE INFORMATION WE OBTAIN_**
+
+If you make a purchase or place an order through or in connection with a Digital Service, we use your payment card information (e.g., your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and for the purposes described under the section “To protect our rights or the rights of others” below. 
+
+With respect to information other than your payment card information, we use that information:
+
+ **1.  ** **To provide you with the Digital Services**. This includes:
+
+  * Processing your requests regarding the Digital Services and our products or services, or your participation in a survey, sweepstakes, contest, promotion, event or similar initiative.
+  * Providing customer assistance or technical support.
+  * Customizing content, providing recommendations and enhancing the quality and your overall experience with the Digital Services, including by retaining your user preferences or presenting content in the most effective manner for the browser or device you use to access the Digital Services.
+  * Maintaining, operating, improving and developing the Digital Services and related content, products or services, including developing new products and features based on users’ interactions with the Digital Services.
+  * Learning about users of the Digital Services and analyzing how you and others interact with and respond to the Digital Services, including by measuring and optimizing usage, reliability and performance, conducting market research,analyzing trends, and supporting our operations (e.g., for accounting, auditing, financial, legal or other purposes).
+
+
+
+ **2.  ** **To communicate with you**. This includes:
+
+  * Sending you informational messages about the Digital Services (e.g., to notify you of changes to a Digital Service). 
+  * Delivering marketing or promotional communications, including offers or promotions about our or third parties’ products, services or other initiatives. 
+  * Responding to your questions or addressing your requests.
+  * Communicating with you about surveys, sweepstakes, contests, promotions or events.
+
+
+
+ **3. ** **For advertising and marketing purposes, including interest-based advertising.** This includes:
+
+  * Developing, managing and conducting advertising and marketing campaigns, promotions and offers, including about our content, products and services or third parties’ products, services and other initiatives.
+  * Interest-based advertising (also known as targeted or personalized advertising or ads) is advertising based on your interests as inferred from your activities over time on the Digital Services and online services operated by third parties, as well as information from other sources. Interest-based ads may consist of text ads, images, animations or videos and may be displayed to you based on various factors, including the context of the site or app in which they appear (e.g., sport or travel section), information you provided to the operator of the site or app (e.g., when you created an account), your activities on the site or app (e.g., pages viewed, searches performed or ads clicked), and information such as your demographic, interests and household information.
+    * On the Digital Services and on third-party sites, apps or other media, we, our service providers and third parties may use automated means to (a) collect information for interest-based advertising purposes or (b) serve you interest-based ads. These automated means vary depending on the Digital Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and SDKs. These technologies may use unique identifiers associated with your browser or device to support interest-based advertising.
+    * We may use online and offline information we obtain about you, including your personal information, for interest-based advertising purposes. We may aggregate the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information. 
+    * Interest-based ads may be displayed to you by third parties, such as ad networks or exchanges. 
+    * There are steps you can take to limit the collection of your information for interest-based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about interest-based advertising and opt-out choices, see <http://www.aboutads.info/choices/> and here.
+    * In serving interest-based ads, we adhere to the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance.  
+
+  * Cross-device linking. If you access the Digital Services from multiple browsers or devices, we, our service providers and third parties may try to establish connections among and link the different browsers and devices you use to access the Digital Services and our content or ads published elsewhere. This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads (e.g., so that we don’t show you the same article twice). See here for steps you can take to limit browser and mobile app tracking for interest-based advertising purposes.
+  * Analyzing and measuring the performance, effectiveness and reach of our advertising (including interest-based ads) and marketing efforts on the Digital Services and elsewhere.
+
+
+
+ **4.  ** **To protect our rights or the rights of others**. This includes:
+
+  * Detecting, preventing and responding to fraud or potentially illegal activities, misuse of the Digital Services, intellectual property infringement or other violations of law, this Privacy Notice, our Terms of Use or other Hearst policies. 
+  * Performing audits, assessments and testing or troubleshooting activities. 
+  * Backing up our systems (including for disaster recovery purposes) and enhancing the overall security of the Digital Services.
+  * Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas) and fulfilling contractual obligations.
+
+
+
+ **D. ** ** _HOW WE SHARE INFORMATION_**
+
+We may share the information we obtain with: 
+
+**1.  ** **Affiliates and Subsidiaries**. We work closely with affiliates and subsidiaries within the Hearst family of companies with whom we share your information as necessary or appropriate to operate the Digital Services. 
+
+**2.  ** **Service Providers**. In connection with the operation and provision of the Digital Services, we engage various third parties to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. These service providers use the information we provide to them as necessary or appropriate for the performance of their services.
+
+ **3.  ** **Advertisers, Advertising- and Marketing-Related Service Providers and Partners**. We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads. 
+
+**4.  ** **Content Measurement Companies**. We and third parties seek to measure the performance of content across the internet, including on the Digital Services. We may include third-party measurement software in the Digital Services to enable market research or to measure digital and video content consumption. See [here](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html#choices) to learn how you can opt out of Nielsen video measurement.
+
+ **5.  ** **Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the Digital Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms may collect information. We encourage you to review the privacy policies of the Social Media Platforms that you engage with as we are not responsible for their privacy practices. 
+
+**6.  ** **Business Partners**. We may provide your information to business partners including, without limitation, joint marketing partners and content sponsors, for various purposes. For example, we may partner with a third party to offer products on a co-branded, co-sponsored or cross-promotional basis that involves the sharing of information. These initiatives may be offered on the Digital Services or on other media.
+
+ **7.  ** **Other Parties When Required by Law or As Necessary to Protect Our Rights**. We may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Digital Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities. 
+
+**8.  ** **Corporate Transactions**. We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.
+
+ **9.  ** **With Your Consent or Otherwise at Your Direction**. In addition, we may share your information with third parties when you consent to or request such sharing.
+
+ **E. ** ** _YOUR CHOICES, INCLUDING MARKETING AND INTEREST-BASED ADS OPT-OUTS_**
+
+ **Direct Marketing Opt-Outs**
+
+  1. **Email marketing.** You may opt out of receiving marketing or promotional emails from us by clicking on the “unsubscribe” link contained in such emails. Depending on the Digital Service you use, you also may be able to opt out of marketing or promotional emails by logging into your account and managing your email preferences.Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional emails or other communications relating to your use of the Digital Services (e.g., to inform you of changes to a Digital Service or in response to your password recovery request). 
+  2. **Text message marketing**. If you choose to participate in a text message marketing campaign or promotion offered in connection with a Digital Service, you may opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
+  3. **Direct mail.** You may request that we stop sending you postal mail offers through the US post office by notifying us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies. 
+  4. **Marketing by Third Parties.** We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019\. Please indicate in your correspondence the name of the Digital Service or publication to which your request applies. In addition, you may be able to request that third parties do not use your email address (if we have it) for their own marketing purposes by logging into your account or the preferences center (if available) for the relevant Digital Service and adjusting your email preferences.
+  5. **Co-Branded, Co-Sponsored or Cross-Promotional Offerings**. If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third party involved in that offering may use your information for its own purposes, including advertising and marketing purposes. You must contact the relevant third party directly to exercise your opt out choices with respect to such party’s use of your information. 
+
+
+
+**Interest-Based Ads Opt-Outs**
+
+Some of the ads you see on the Digital Services are interest-based ads. This means that these ads are customized based on the information we and others obtain about you. We describe below steps you can take to limit tracking of your activities and the delivery of interest-based ads in browsers and mobile apps you use to access the Digital Services. Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests. In addition, if you take the steps described below, some automated means may still be used to collect information about your interactions with the Digital Services for the other purposes described in this Privacy Notice (e.g., to remember user preferences or enable specific functionality). 
+
+The technologies used to deliver ads on websites and mobile apps differ. Please also remember that opt-outs are browser and device-specific. 
+
+**Website (Browser) Opt-Out**
+
+ **1.  ** **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies.
+
+  * If you choose to disable the use of cookies in your web browser, some features of the Digital Services may become difficult to use or unavailable. 
+
+
+
+**2.  ** **Opt-out Cookies.** You can follow the instructions provided by the Digital Advertising Alliance (“DAA”) [here](http://www.aboutads.info/) and/or the Network Advertising Initiative (“NAI”) [here](http://optout.networkadvertising.org/) to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. 
+
+  * If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt-out choices for that specific browser. 
+  * The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms. 
+
+
+
+**Mobile App Opt-Out**
+
+ **1.  ** **Device Settings.** To limit interest-based advertising on your mobile device, you can review and adjust the settings provided by your device manufacturer, such as “[Limit Ad Tracking](https://support.apple.com/en-lamr/HT202074)” for iOS or “[Opt-out of interest-based ads](https://policies.google.com/technologies/ads?hl=en)” for Android. 
+
+**2.  ** **AppChoices Application.** You can download the “AppChoices” application provided by the DAA from your app store. AppChoices offers a mechanism to limit the collection of app data used for interest-based ads by participating companies. See [here](http://youradchoices.com/appchoices) for more.
+
+Please keep in mind that as the mobile environment continues to evolve, additional opt-out mechanisms or privacy settings may become available to you. We encourage you to review the information on opt-outs and settings that device manufacturers, technology companies and industry associations make available to you. 
+
+**Measurement Opt-Out**
+
+The Digital Services may include Nielsen proprietary measurement software, which contributes to market research (e.g., Nielsen TV Ratings). To learn more about the information that Nielsen software may collect and the choices you may have, please see the [Nielsen Digital Measurement Privacy Statement](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html) **.**
+
+ **Additional Choices**
+
+ **1.  ** **User account.** If you have created an account on a Digital Service, you may be able to review some of your information for that account by logging in and updating your information or user preferences. 
+
+**2.  ** **Device Settings.** For relevant Digital Services, you may be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect precise location information).
+
+ **3.  ** **Push Notifications.** If a Digital Service enables push notifications on your device, you may review and update your push notification preferences by adjusting the settings on your device. For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.
+
+ **F. ** ** _ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS_**
+
+ **Your California Privacy Rights**
+
+Residents of California may request a list of third parties to which certain personal information (as defined by applicable California law) obtained through a Digital Service was disclosed by Hearst during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at Office of General Counsel, Attn: Privacy, 300 West 57th Street, New York, NY 10019\. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In your request, you need to attest to the fact that you are a California resident and provide a current California address for our response. Please also indicate in your request the name of the Digital Service to which your request applies. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+ **Do Not Track**
+
+Hearst does not currently take steps to respond to browsers “Do Not Track” signals as no uniform standard to respond to such signals has been developed at this time.
+
+ **G. ** ** _HOW WE PROTECT YOUR INFORMATION_**
+
+We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we make reasonable efforts to protect your personal information, we cannot guarantee its absolute security.
+
+ **H. ** ** _NON-U.S. VISITORS_**
+
+We operate the Digital Services from the United States. Any information we obtain about you in connection with your use of the Digital Services may be processed and stored in the United States or other countries.
+
+ **I. ** ** _CHILDREN’S PRIVACY RIGHTS_**
+
+The Digital Services are not intended for use by children, especially those under the age of 13, and we do not knowingly collect personal information from children under the age of 13. 
+
+**J. ** ** _LINKS TO THIRD-PARTY WEBSITES, MOBILE APPS OR OTHER SERVICES_**
+
+The Digital Services may contain links to websites, mobile apps or other services operated by companies not affiliated with Hearst. In addition, the Digital Services may be made available to you through third-party platforms (such as app stores or Social Media Platforms) or other channels. We are not responsible for the privacy practices of any non-Hearst operated websites, mobile apps or other services and channels, and we encourage you to review the privacy policies or notices published by relevant third parties. 
+
+**K. ** ** _CAREERS/JOB OPPORTUNITIES_** ** __**
+
+This Privacy Notice does not apply to web pages hosting our careers or job opportunities. Any information obtained through such pages is governed by the privacy notice published thereon.
+
+ **L. ** ** _DISPUTE RESOLUTION/TERMS OF USE_**
+
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the Terms of Use, which govern your use of the Digital Services. Please take a few minutes to read the [Terms of Use](http://www.hearst.com/newsroom/tv-privacy-notice) before using the Digital Services.
+
+ **M. ** ** _CHANGES TO THIS PRIVACY NOTICE_**
+
+We may update this Privacy Notice from time to time to reflect changes in our privacy practices or applicable laws. In accordance with applicable law, we may make such changes without prior notice. We will publish the updated version on the relevant Digital Services and indicate at the top of the Privacy Notice when it was most recently updated. Your use of the Digital Services will be governed by the then-current version of the Privacy Notice. 
+
+**N. ** ** _CONTACT US_**
+
+If you have any questions about this Privacy Notice, please contact us by email at [htvprivacy@hearst.com](mailto:htvprivacy@hearst.com).
