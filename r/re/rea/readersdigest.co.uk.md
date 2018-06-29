@@ -1,55 +1,21 @@
-> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330133724id_/http%3A//www.readersdigest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629034315id_/https%3A//www.readersdigest.co.uk/cookie-policy) for the most accurate reproduction.*
 
-# Privacy policy | Reader's Digest
+# Cookie Policy - Reader's Digest
 
-### Reader’s Digest Privacy Policy
+[www.readersdigest.co.uk](http://www.readersdigest.co.uk/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customise Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-In over 80 years of providing quality products, Reader's Digest has adhered to the highest standards in assuring our customers' privacy.
+DoubleClick DART Cookie   
+.:: Google, as a third party vendor, uses cookies to serve ads on [www.readersdigest.co.uk](http://www.readersdigest.co.uk/).  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.readersdigest.co.uk](http://www.readersdigest.co.uk/) and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%C2%A0)
 
-All information - including customer accounts, transactions, and all correspondence, is handled with the utmost care and in accordance with all legislative requirements.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense
 
-##### Your email & contact information
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.readersdigest.co.uk](http://www.readersdigest.co.uk/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalise the advertising content that you see. 
 
-Once you enter your email address in a Reader's Digest website, including submitting a form, entering a competition etc., you may receive email correspondence from Reader's Digest. You will always be able to choose not to receive emails from us by following the unsubscribe instructions in each email that we send out.
+[www.readersdigest.co.uk](http://www.readersdigest.co.uk/) has no access to or control over these cookies that are used by third-party advertisers. 
 
-We will use the information you give us to:
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.readersdigest.co.uk's](http://www.readersdigest.co.uk%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-  * Fulfil your orders and administer your account.
-  * Pass information about you to agents, service providers and employees to carry out services you requested or purchased. In the course of providing such services, we may transfer your personal information outside of the European Economic Area. We will employ appropriate security measures to protect your personal information where this is the case.
-  * Disclose information about you to any relevant regulator if they require it or to anyone else if there is a legal duty to do so.
-  * Run any prize draw or competition you may enter.
-  * Complete debtor tracing or debt recovery processes if required.
-  * The information held about you, but not information held at credit reference agencies, may also be used to analyse your shopping preferences as part of our marketing programmes. This information may also be incorporated into our staff training programmes. It may also be used to send you promotional material for our products and services and those of our parent company and its subsidiaries. We may also telephone or email you to discuss account details or for market or service research.
-  * We may use your contact information to send you special offers and really useful information from our approved partner companies.  You won’t get flooded with communications and you’ll be able to unsubscribe at any time.  If you have submitted your contact information to us and wish to retract it now, please write to us at Dept MEC, Reader's Digest, PO Box 3874, Swindon, SN3 9DZ.
-
-
-
-
-##### Fraud Protection 
-
-If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information.
-
-We and other organisations may access and use this information to prevent fraud and money laundering, for example, when:
-
-  * Checking details on applications for credit and credit related or other facilities;
-  * Checking details on proposals and claims for all types of insurance.
-
-
-
-We and other organisations may also access and use from other countries the information recorded by fraud prevention agencies.
-
-##### Cookies 
-
-In order that we can monitor and improve the site, we may gather certain information about you when you use it, including details of your domain name and IP (Internet Provider) address, operating system and browser.
-
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand how you browse, search and navigate our website and which products, pages and advertisements you have viewed. We use cookies to make our web site more user friendly to give you a better experience when you return to our web site by, for example, allowing us to save your password so that you do not have to re-enter it every time you visit and to target our marketing promotions to you.
-
-Cookies are used to enable you to make purchases and store items in your basket whilst on the site. Please note, if your browser is set to reject cookies then unfortunately you will not be able to shop from our website. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie. This will give you the opportunity to decide whether to accept it or not. We may also use cookies to provide you with customised information from our web site.
-
-For further information about cookies and how they are used, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) .
-
-##### Code of practice
-
-Reader's Digest observes the Code of Practice of the Direct Marketing Association, and further details are available from Dept DMA at [this website link](http://dma.org.uk/sites/default/files/PDF/Code%20of%20practice/COP_scheme4-Feb2012.pdf).
-
-If you have any further questions about our Privacy Policy or how we manage the information you give us, [contact us here](https://web.archive.org/web/20140330133724id_/http%3A//www.readersdigest.co.uk/contact-us-0).
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
