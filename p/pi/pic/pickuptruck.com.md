@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickuptruck.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219201158id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dtrucks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickuptruck.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629064801id_/https%3A//www.cars.com/about/privacy/%3Faff%3Dtrucks) for the most accurate reproduction.*
 
 # Privacy Statement | News | Cars.com
 
@@ -131,4 +131,4 @@ If you have any questions about this Privacy Statement, please email us at [fee
 
 ©2017 Cars.com, LLC, 300 S. Riverside Plz., Suite 1000, Chicago, IL 60606
 
-Last Updated — June 22, 2017
+Last Updated — Thu Jun 22 10:41:19 GMT-06:00 2017
