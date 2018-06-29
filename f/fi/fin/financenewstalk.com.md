@@ -1,187 +1,40 @@
-> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726003405id_/http%3A//financenewstalk.com/%3Fpage_id%3D133) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629044525id_/http%3A//financenewstalk.com/privacy/%23) for the most accurate reproduction.*
 
-# Privacy Policy | Finance Newstalk
+# Privacy | A Financial Inform Ation Release Platform
 
-Privacy Policy
+#### You are welcome to visit and use http://financenewstalk.com/ in this privacy notice we declare to the visitor’s privacy promise.Without you agree, we will never put your personal data provided to any third person has nothing to do with this web site service.  
+If you access this web site, you accept this privacy statement.The following text I stand for information collection and use of public.This website’s privacy statement will continue to improve, with the increase of standing service, we will update our privacy statement.  
+You are always welcome to view this statement, and feedback to us your opinion 
 
-Effective May 5, 2015
+1.the special attention of minors  
+If you are under 18, you have no right to use the service, so we hope you will not provide any personal information to us.If you are under 18, you can only be accompanied by a parent or guardian to use the service.
 
-  1. INTRODUCTION
+2.What information we collect you?  
+This website USES Cookies to collect information about how visitors use the site (see the use of Cookies), in some parts of this web site, we will ask you for specific information (see online form and job applicants).In addition, you do not need to provide your information to the use of this web site.
 
+3.Your trading behavior  
+We track the IP address for the truthfulness of the identity and transaction identification, safety and other meet the requirements of the state.If we didn’t find any security issues, we will delete after 60 days we collected by the IP address.We also tracks throughout the page to access the data.Throughout the page to access the data are used to reflect the traffic, so that we can make plans for future growth (for example, increase the server).  
+Because of your trading activity and other data, we will use these statistics to membership classification, so that targeted to provide new services to our members and opportunities.We’ll let you know by your email address to the new services and opportunities.
 
+4.The use of cookies  
+Cookies are small amounts of data, in case you do not refuse to accept cookies, cookies will be sent to your browser, and stored in your computer’s hard drive.We use cookies to the data store you visit our website, when you access or visit our website again, we can identify your identity, and through the analysis of data provide more better service for you.  
+You have the right to accept or refuse to accept cookies.You can change the browser Settings to refuse to accept cookies, but we need to remind you, because you refuse to accept cookies, you might not be able to use depends on the part of cookies on our website.
 
-Jinrong & Company, Inc. and its affiliates (“Jinrong”) want you to be familiar with how we collect, use and disclose information from and about you because we understand you are concerned about your privacy, and we want to maintain your trust.
+5.Information disclosure  
+We will not provide to any third party, sell, rent, share and transaction user’s personal information.When in the following cases, the user’s personal information will be goodwill disclosure of some or all of:  
+1, subject to consent by the user, disclosed to a third party;  
+2, such as user is eligible complainants of intellectual property and has filed a complaint, should be the complainant demands, to be the complainant disclosure, in order to both sides  
+Possible rights disputes;  
+3, according to the relevant provisions of the laws, or administrative or judicial body, disclosed to third parties or administrative, judicial institutions;  
+4, if users in violation of the relevant Chinese law or policy, need to be disclosed to a third party;  
+5, to provide you with the required products and services, and the user’s personal information must be Shared with third parties;  
+6, other site according to the law or the website policy think proper disclosure.
 
-This Privacy Policy applies to information we collect from all sources including in connection with our websites, mobile sites, applications (“apps”), electronic newsletters and widgets (collectively the “Jinrong Online Services”) that link to this Privacy Policy. If there is a conflict between this Policy and a Jinrong Online Services corporate subscription agreement, the Jinrong Online Services corporate subscription agreement will take precedence.
+6\. Links to Other Sites  
+Our Site may contain links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites.
 
-This Policy describes Jinrong’s collection and use of users’ Personal Information. It also describes generally Jinrong’s practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Jinrong Online Services or from a third party to the extent such information is associated with a particular device, user or user account. As described more fully below, we share information with our affiliated companies (“Jinrong Affiliates”) for the purposes described in this privacy policy. A list of Jinrong Affiliates is available here and in annual reports here.. By using the Jinrong Online Services or by providing personal information to us, you agree to the terms and conditions of this Privacy Policy.
+7\. Commitment  
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Seeking Alpha’s Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at support@financenewstalk.com While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
-You may choose not to submit requested information online, or may choose to restrict the use of cookies (see Other Information below, or our Cookie Policy, for more information), but that may limit the services Jinrong is able to provide to you.
-
-The Jinrong Online Services are a network of general audience sites, and are not targeted to, and do not knowingly collect Personal Information from, minors under 18 years of age. We request that these individuals do not provide Personal Information through the Jinrong Online Services.
-
-  2. INFORMATION WE COLLECT
-
-
-
-Jinrong and our service providers may collect the following information from and about you:
-
-Personal Information
-
-“Personal Information” for purposes of this Privacy Policy is the information that identifies you as an individual or relates to an identifiable person, such as name, postal address (including billing and shipping addresses), telephone number, email address, credit or debit card number, or profile picture.
-
-Personal Information from You
-
-We collect Personal Information when, for example, you register for or subscribe to certain products or services; create a profile; participate in a sweepstakes, contest or game; take a survey; visit our Jinrong Online Services; use an interactive feature (such as Chat or Email This); participate in a community forum; or contact customer service.
-
-Personal Information We Receive from Third Parties
-
-We may receive Personal Information about you from third parties, such as social media services, commercially available sources, Jinrong Affiliates, business partners, and, if applicable to you, the third party provider of your subscription. The Personal Information we receive from third parties may include, for example, your name, contact information, information about your transactions, purchase history, or relationships with various product and service providers, and your use of certain applications. For example, if you access a Jinrong Online Service through a social media service or connect a Jinrong Online Service to a social media service, the information we collect may also include your user name associated with that social media service, any information or content the social media service has the right to share with us, such as your profile picture, email address or friends list, and any information you have made public in connection with that social media service. When you access the Jinrong Online Services through social media services or when you connect a Jinrong Online Service to social media services, you are authorizing Jinrong to collect, store, and use such information and content in accordance with this Privacy Policy.
-
-Other Information
-
-“Other Information” is any information that does not reveal your specific identity, such as browser information, app usage data, information collected through cookies and other technologies, demographic information, and aggregated information.
-
-Other Information You Submit
-
-We collect Other Information when you submit it to us. It may include your gender, zip code, birthday, education, occupation, financial information (such as your income, investments, portfolio transactions and value, and other information), and interests.
-
-Other Information We Receive from Third Parties
-
-We may receive Other Information about you from third parties, including, for example, demographic data, social media account number, information about your interests, and information about your activities on other websites.
-
-Other Information We Collect Automatically When You are Online
-
-When you access and interact with our Jinrong Online Services, we and our service providers may automatically collect certain information about those visits. For example, in order to permit your connection to the Jinrong Online Services, our servers receive and record information about your computer, device, and browser, potentially including your IP address, browser type, and other software or hardware information. If you access the Jinrong Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device (“UDID”), geolocation data, or other transactional information for that device.
-
-Jinrong and our service providers also may use cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) when you visit or use the Jinrong Online Services. Third parties that support the Jinrong Online Services by serving advertisements or providing services, such as providing users with the ability to comment on content, allowing users to share content, customizing content based on usage, or tracking aggregate site usage statistics, may also use these technologies to collect Other Information on the Jinrong Online Services and on other websites. Please see the Jinrong Cookie Policy here for more information about our use of these technologies and your choices in connection with these practices.
-
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).
-
-Users can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, http://www.adobe.com/devnet/security.edu.html. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through our Jinrong Online Services.
-
-  3. HOW WE USE YOUR INFORMATION
-
-
-
-We use the Personal Information we collect from and about you for the purposes set forth below. Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information. We may combine Other Information with your Personal Information, and when we do, we treat the combined information as Personal Information.
-
-To improve the quality of our products and services and to personalize your experience by presenting content, products and offers tailored to you, we may also combine the Personal and Other Information we collect with information relating to your use of other Jinrong products, services and websites. In addition, we may supplement the Personal and Other Information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from Jinrong Affiliates or business partners.
-
-To provide and manage our services. We use the information we collect from and about you to provide our products, services and features to you, including: to process and fulfill your subscription, to send you information about your relationship or transactions with us, to measure and improve those services and features, to allow you to comment on content and participate in online games, contests, promotions or rewards programs, use collaboration tools to share content and collaborate with other users, to provide you with customer support, including online chats, and to respond to inquiries. If you choose to use the collaboration tools, some of your Personal Information may be included in a directory that can be viewed and used by other users of these collaboration tools. In addition, if you have multiple product subscriptions, we may use your information to allow you to sign in to several Jinrong websites with the same user ID.
-
-To deliver relevant content and recommendations.To make your experience more interesting and personalized, we may use any of the Personal and Other Information we collect to assist us in delivering content on any of our Jinrong Online Services. For example, if you use WSJ.com and Factiva.com, we may use your WSJ.com reading history to personalize the content delivered to you on Factiva.com.
-
-To deliver relevant online advertising. The Jinrong Online Services and our service providers may use any of the information we collect from and about you (in certain cases, such as with respect to financial information, only with your express permission) to assist us in delivering relevant ads to you when you use the Jinrong Online Services or another service provided by Jinrong, Jinrong Affiliates, or unaffiliated third parties. (See Information We Collect, above, for details on the types of information we may use.) As noted above, we may work with third party online advertising companies and advertisers who help deliver these ads to you. These third parties may collect and use information about your activities on our Jinrong Online Services and on other websites, and Other Information about you, to limit the online ads you encounter to those we believe are consistent with your interests.
-
-To allow social sharing functionality. If you log in with or connect a social media service account with a Jinrong Online Service, we may use Personal and Other Information to facilitate your sharing of information between the Jinrong Online Services and your social media service.
-
-To contact you. Jinrong and Jinrong Affiliates may periodically send promotional materials, surveys, or notifications related to our products and services. To help make these materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you these materials. We may also use your information to contact you, including to respond to your comments, inquiries or requests. If you want to stop receiving these materials from us, please follow the instructions in the Choices and Access section below.
-
-To protect the rights of Jinrong and others. Jinrong may use your Personal Information as we believe to be necessary or appropriate in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Jinrong, our Jinrong Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence.
-
-  4. HOW WE SHARE YOUR INFORMATION
-
-
-
-Information Made Public Through Use of Our Services and User Privacy Settings
-
-Certain features on the Jinrong Online Services give you an opportunity to interact with us and others. These may include the collaboration tools, community forums, chats, submitting a letter to the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features, you should be aware that any information you submit, including your name, user name, location, email address, profile information, picture, likes, status, and comments, including any political or religious or other beliefs you express, may be publicly available to anyone, including other users, search engines, advertisers, third party application developers, and anyone else with access to the Jinrong Online Services. We are not responsible for any information you choose to submit and make public through these interactive features.
-
-Our Disclosure of Information
-
-Jinrong & Company, Inc. and its subsidiaries may share your Personal Information with one another, as well as with Jinrong Affiliates for the purposes described in this Privacy Policy, including for each company’s marketing purposes. Please see the Introduction for more information about the companies that make up the Jinrong Affiliates. Users who visit Jinrong Affiliates? services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Jinrong & Company, Inc. is the party responsible for the management of the jointly-used Personal Information.
-
-In addition, we may share your Personal Information with non-affiliated third parties when sharing is permitted by you or authorized by this Privacy Policy, including:
-
-To manage corporate, third-party, and student subscriptions.If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your Personal Information such as your name or email address.
-
-To allow third-party service providers to assist us in providing and managing our services. We may make your Personal Information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; delivering subscriptions; auditing; processing data or statistics; and serving, customizing or delivering marketing or ads. These outside service providers are required to protect Personal Information entrusted to them and not use it for any other purpose than the specific service they are providing to us.
-
-To provide co-branded services and features. We may offer co-branded services or features, such as conferences, contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on the Jinrong Online Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy.
-
-To permit unaffiliated third parties to send you promotional materials. If you subscribe to the U.S. edition of The Wall Street Journal or Barron?s print publications, we may share your contact information with unaffiliated companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please contact Customer Service as described below in Choices and Access.
-
-If you subscribe solely to any other Jinrong Online Service (and not also the print publications above (Wall Street Journal (U.S. edition) or Barron?s), we may share your Personal Information with unaffiliated third parties for such parties’ own marketing purposes only if you have given us permission to do so.
-
-To allow social sharing functionality. If you log in with or connect a social media service account with a Jinrong Online Service, we may share your user name, picture, and likes, as well as your activities and comments with other Jinrong Online Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Jinrong Online Services account and your social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends, and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your Personal Information shared in this way, please do not connect your social media service account with your Jinrong Online Services account, and do not participate in social sharing on the Jinrong Online Services.
-
-To protect the rights of Jinrong and others. There may be instances when Jinrong may disclose your Personal Information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Jinrong, our Jinrong Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence.
-
-To complete a merger or sale of assets. If Jinrong sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger, bankruptcy, or transfer of all or a material part of its business, Jinrong may transfer your information to the party or parties involved in the transaction as part of that transaction.
-
-  5. SECURITY
-
-
-
-Jinrong uses a combination of administrative, technical, personnel and physical measures to safeguard Personal Information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting Customer Service in accordance with the instructions below.
-
-  6. CHOICES AND ACCESS
-
-
-
-Your Choices Regarding Our Use and Disclosure of Your Personal Information
-
-We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes.
-
-TYou may opt-out from receiving electronic communications from us (including surveys or notifications), or our sharing of your Personal Information with Jinrong Affiliates for their direct marketing purposes by changing your account settings through the appropriate link on the website account services page or following the unsubscribe instructions at the bottom of each email.
-
-You may also opt-out from our sharing of your contact information with unaffiliated third parties for their marketing (which only applies if you are a print subscriber) by contacting Customer Service as detailed below.
-
-Please note that there are certain service notifications that you may not opt-out of, such as renewal notices and notifications of changes to Jinrong products and services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
-
-How To Access, Correct or Update Your Personal Information
-
-You can access, review, correct, update, delete or modify your registration or subscription profile information and modify your marketing preferences by contacting Customer Service, as indicated below. Most subscribers and registered users can also update their Personal Information online by signing on to their accounts and visiting the appropriate account management sections of our websites. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you may need to update your information for each separately.
-
-Here are links to pages where subscribers and registered users may update their personal profile information and marketing preferences:
-
-Wall Street Journal Customer Center
-
-Wall Street Journal Email Setup
-
-Barron’s Customer Center
-
-MarketWatch My Profile
-
-DJX – Factiva Customer Support
-
-You may also contact Jinrong Customer Service at service@dowjones.com or by calling 1-800-DOWJONES (U.S. only) or 212-416-3858 (outside the U.S.). Local contact information for The Wall Street Journal and Barron’s is also available in the Contact Directory. Local contact information for corporate enterprise products is available on the Customer Support site.
-
-For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
-
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion).
-
-Your California Privacy Rights
-
-California Law permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at privacypolicy@dowjones.com Attn: DM Disclosure Manager and include your name and the address to which you would like us to respond.
-
-  7. OTHER IMPORTANT INFORMATION
-
-
-
-Updates to Privacy Policy. Jinrong may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Jinrong Online Services. Your use of the Jinrong Online Services or your provision of personal information to us following these changes means that you accept the revised Privacy Policy.
-
-Do Not Track Disclosure. Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, Jinrong does not currently respond to DNT signals. Jinrong will follow the progress of the W3C in developing the standard.
-
-Location of Data. Your Personal Information may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers, and by using our products and services, you consent to the processing and transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
-
-Data Retention. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
-
-Collection of Personal Financial Information by a Payment Service. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment in such a case, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
-
-Linked Services. The Jinrong Online Services may also be linked to sites operated by third parties, and may carry advertisements or offer content, special offers, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with a Jinrong logo, even though they are not operated or maintained by us. For example:
-
-A portion of The Wall Street Journal Archive is hosted by an unrelated company – ProQuest – through its ProQuest Archiver service, and all article purchases are processed by ProQuest. ProQuest collects and uses your information in accordance with its privacy policy, and makes your information available to us. We will treat all information that ProQuest provides about you in accordance with this Privacy Policy.
-
-The Portfolio feature is provided by a third party, NextCapital. NextCapital collects and uses your information in accordance with its privacy policy, which is separate from this one.
-
-Jinrong is not responsible for the privacy practices of any such third parties, and once you leave the Jinrong Online Services or click an advertisement, or sign up for a special offer, you should check the applicable privacy policy of the other service.
-
-  8. CONTACT US
-
-
-
-If you have questions about this Privacy Policy, please contact us at privacypolicy@dowjones.com.
-
-We ask that you not disclose any sensitive Personal Information (e.g. social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) when contacting us.
+8\. Your Consent  
+By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha’s processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
