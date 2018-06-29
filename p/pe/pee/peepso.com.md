@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the peepso.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512171300id_/https%3A//www.peepso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peepso.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629022612id_/https%3A//www.peepso.com/privacy) for the most accurate reproduction.*
 
 # PeepSo - Privacy Policy | PeepSo
 
-**Our Approach to Protecting Your Privacy**
+Our Approach to Protecting Your Privacy
 
 Thank you for taking the time to read our Privacy Policy.
 
 PeepSo sees itself as the protector of the information it collects, maintains, and uses. Our responsibility is to ensure the safety of the information in our care and to maintain the privacy of our customers through sensible, appropriate, and responsible use.
 
- **The Way We Use Information**
+The Way We Use Information
 
 By using PeepSo, you agree to the collection and use of your personal and/or group information as described in this policy. You should know:
 
@@ -26,12 +26,12 @@ PeepSo displays targeted advertisements based on personal or group information. 
 
 You can update your account information and preferences at any time.
 
- **Images of Your PeepSo Profile in Marketing Materials.**
+Images of Your PeepSo Profile in Marketing Materials.
 
 PeepSo reserves the right to include images of your PeepSo’s header graphic or overview summary page on the PeepSo website or in other marketing materials for demonstration and promotional purposes. We may also display additional images, such as an image of your member profile including your photograph. Care will be taken to present images in a professional manner and without compromising the character of the PeepSo-powered community.
 
 You may specifically request in writing that we not use images of your profile page, PeepSo’s header graphic or other pages by sending a request with the text REMOVE FROM MARKETING MATERIALS in the subject line. Or you may contact us in writing to by sending us a letter, fax, or by any means of written communication.
 
- **Changes**
+Changes
 
 PeepSo may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address in your PeepSo profile or by placing a prominent notice on our site.
