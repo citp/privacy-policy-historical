@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sibelius.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208043609id_/http%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sibelius.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629030335id_/http%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Avid
+# Privacy Policy Statement - Avid
 
 Avid Technology, Inc. has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Avid when you visit our websites or use certain Avid products. In a few cases, Avid’s other websites may contain additional privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites.
 
 PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS SITE. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE THE SITE. BY SUBMITTING ANY PERSONAL INFORMATION TO THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT.
 
-Your use of this site is also subject to the [Terms of Use](https://web.archive.org/legal/terms-of-use). Please review those Terms of Use for additional detail regarding your use of this site.
+Your use of this site is also subject to the [Terms of Use](https://web.archive.org/legal/terms-of-use). Please review those Terms of Use for additional details regarding your use of this site.
 
 #### GENERAL INFORMATION
 
@@ -16,7 +16,17 @@ Generally speaking, you may visit the site while remaining anonymous and not rev
 
 Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors.
 
-Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies. Cookies may also be used to track visitor behavior on the website, which allows visitors to be retargeted with digital advertising that reflects their past behavior on the site.
+Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages, Online Store) will not work without cookies. Cookies may also be used to track visitor behavior on the website, which allows visitors to be retargeted with digital advertising that reflects their past behavior on the site.
+
+#### The Types of Cookies Avid Uses
+
+Session cookies: These cookies are temporary and expire once you leave the site. Session cookies are mainly used by webshops to hold your items in the basket while you are shopping online.
+
+Persistent cookies: Persistent cookies may stay on your disk for a long time after the session is ended. These cookies may hold data such as login details, contact information and account numbers, so that you don’t have to type them in every time you use the site.
+
+Avid also permits third-party advertising partners to use cookies and other technology to collect information about your browsing activities over time and across different websites when you use our site. Through a process called “retargeting,” each service places a cookie on your browser when you visit our site so that they can identify you and serve you ads on other sites around the web based on your browsing activity.
+
+For information on how to disable cookies on your computer, visit the [Managing cookies](https://web.archive.org/legal/managing-cookies) page.
 
 #### Submission of Personal Information
 
@@ -28,15 +38,38 @@ Avid uses information it collects to provide the services and information you se
 
 We also use this information to send you information about Avid, or other topics Avid thinks may be of interest to you, such as product information or updates. As part of its business, Avid works with authorized partners, such as authorized resellers, to provide you with the services and information. As part of those activities, Avid may share your information with those authorized entities so that they can directly provide the information or services to you.
 
+The processing of your data is either based on your consent or in case the processing is necessary for the performance of a contract to which you are a party, or in order to take steps at your request prior to entering into a contract.
+
+If the processing is based on your consent, you may at any time withdraw your consent by contacting us at [privacy@avid.com](mailto:privacy@avid.com) or the address listed below.
+
+In order to enter into a contract regarding the purchase of Avid’s products or services, you must provide us with the required personal data. If you do not to provide us with all the required information, it will not be possible to deliver the product or service.
+
+Avid keeps the information you provide for as long as you remain an active user of the site and recipient of our information.
+
 #### Aggregation and Use of Anonymous Data
 
-Avid aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Avid to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.  Some Avid products use Google Analytics for the collection of anonymous data. [Learn more about how Google uses data collected using Google Analytics. ](http://www.google.com/policies/privacy/partners/ "Learn more about how Google uses data collected using Google Analytics.&nbsp;") 
+Avid aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Avid to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.  Some Avid products and websites use Google Analytics for the collection of anonymous data. [Learn more about how Google uses data collected using Google Analytics.](http://www.google.com/policies/privacy/partners/ "Learn more about how Google uses data collected using Google Analytics.&nbsp;")
+
+The Google Analytics features that Avid employs are as follows:
+
+  * General Features related to browsing behavior such as: browser type/version and language, operating system type/version, device type/version, domains, page views, referring/exit pages, location data such as country, information about how you interact with our Site’s webpages and with third-party links, traffic and usage trends
+  * Demographics and Interest Reports: Age, Gender, Interest Data
+  * Advertising and Remarketing: This includes data from Google's signed-in users who have chosen to enable Google to associate their web and app browsing history with their Google account, and to use such information from their Google account to personalize ads
+  * User ID Tracking: To combine sessions across multiple devices and interactions for logged-in users
+  * Site Search Tracking: What a user typed into the sites search feature
+  * eCommerce Tracking: Information related to product purchased, price, date and time of purchase, order #, etc.
+  * Enhanced eCommerce Tracking: Information related to products viewed, products added/removed to cart, onsite promotions clicked, currency, refunds, etc.
+
+
+
+You can opt out of Google Analytics by using this tool:  
+<https://tools.google.com/dlpage/gaoptout/>
 
 #### Third Parties
 
 Avid does not sell to third parties information you have submitted to this site that identifies you personally.
 
-On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid online store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service. Avid may also work with third party publishers and vendors to serve digital advertising across relevant sites on the Internet. Third party vendors may also use cookies to serve digital ads based on a person’s past visits to the Avid site.
+On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. In addition, if you purchase third party products on the Avid Online Store, Avid may share your information with the manufacturer of that product. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service. Avid may also work with third party publishers and vendors to serve digital advertising across relevant sites on the Internet. Third party vendors may also use cookies to serve digital ads based on a person’s past visits to the Avid site.
 
 #### Declining Information
 
@@ -72,6 +105,10 @@ Avid may permit a third party to sponsor a survey, contest, sweepstakes, or othe
 
 Some of Avid’s websites may appeal to or be intended for children; however, we do not wish to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, Avid’s website by visitors under 18 years of age without the consent of their parent or guardian. For sites that are intended for use by children we have put in place additional privacy practices which are described on those sites.
 
+#### SUPPORT DATA
+
+Support Data will be used only to provide customers with support, including purposes compatible with providing support, such as troubleshooting recurring issues and improvements to support or to products and services. Avid will not use Support Data or derive information from it for advertising or similar commercial purposes without customer’s permission.
+
 #### SECURITY
 
 #### General Issues
@@ -96,7 +133,8 @@ Typically you accept to receive communications when you submit information to th
 
   1. The Profile section of this site may permit you to change a previous selection and decline to receive further communications, or to delete your registration.
   2. A particular service may have an Administration section that allows you to change any previous selections for that service.
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
+  3. You can send an email to [privacy@avid.com](mailto:privacy@avid.com) for assistance in deleting/changing your prior selections.
+  4. To manage marketing email content you receive from us, please [click here](https://connect.avid.com/Email-Preferences-Center.html). You may completely unsubscribe from marketing email communications anytime [here](https://connect.avid.com/Unsubscribe.html).
 
 
 
@@ -106,21 +144,24 @@ This site gives users the following options for changing and modifying informati
 
   1. The Profile section of this site may permit a registered user to change or modify information previously provided.
   2. A particular service may have an Administration section that allows you to change or modify information you previously provided for that service.
-  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections.
+  3. You can send an email to [privacy@avid.com](mailto:privacy@avid.com) for assistance in deleting/changing your prior selections.
 
 
 
-#### CONTACTING THE WEB SITE
+#### RIGHTS UNDER THE GDPR
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the Manager at the following address and email:
+Avid is compliant with the General Data Protection Regulation (GDPR). Under that regulation, you have the right to (a) be informed about Avid’s use of your data, (b) to access the data Avid has collected from you, (c) to correct any mistakes in the data Avid has collected, (d) the right to have the data Avid has collected erased, (e) to restrict processing (f) to portability of the information Avid has collected, (g) to object to the collection and processing of information, and (h) to not be profiled. To exercise any of these rights, please contact Avid at [privacy@avid.com](mailto:privacy@avid.com) or via mail at the address below.
 
-**Manager, Website Strategy & Operations**
+#### CONTACTING THE WEBSITE
 
-Avid Technology, Inc.   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the Data Privacy Officer at the following address and email:
+
+**Data Privacy Officer**  
+Avid Technology, Inc.  
 75 Network Drive  
 Burlington, MA 01803  
 U.S.A   
-[Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com)
+[privacy@avid.com](mailto:privacy@avid.com)
 
 #### NOTICE TO EUROPEAN USERS
 
