@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212222034id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630013426id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
-This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from April 10, 2017.
+This Privacy Policy discloses the general privacy practices for Bangor Daily News websites, which include all sites owned by Bangor Publishing Company. We may change this policy from time to time by updating this page. You should check this page from time to time to be aware of any changes. This policy is effective from May 24, 2018.
 
 Bangor Daily News is committed to respecting your privacy rights when visiting any Bangor Daily News website, such as this one. To protect your personal information, Bangor Daily News has adopted the guidelines outlined below.
 
@@ -42,6 +42,10 @@ Beginning in 2016, Google users could choose to associate their cross-device web
 **May I opt out of personalized ads?**
 
 You can view your activity on web pages, video services, and mobile apps that use Google advertising services on your “My Activity” page. Google collects only activity you engaged in at times when you were signed into Google. You control what’s saved there and can delete past activity from your accounts.
+
+**Will I receive personalized ads if I’m accessing the site from the EEA?**
+
+If you are accessing the site from the European Economic Area (EEA), ads served through Google’s platform will not serve with audience targeting. We are taking efforts to remove all programmatic advertising and most advertising that is not part of a Bangor Daily News website sponsorship.
 
 **IP Addresses**
 
