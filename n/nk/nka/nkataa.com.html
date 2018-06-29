@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nkataa.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229053115id_/http%3A//www.nkataa.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nkataa.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629091726id_/http%3A//www.nkataa.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy policy</title>
@@ -22,8 +22,8 @@
 
 
 <link href="http://dr35ct9ol6mx2.cloudfront.net/images/logos/1/favicon_f9pv-xd.png?t=1509321191" rel="shortcut icon">
-<link type="text/css" rel="stylesheet" href="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/design/themes/basic/css/standalone.afdab0e58917ca4c5cc28cc0ac052d811512997604.css?t=1512997609">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//code.jivosite.com/script/widget/xUNGdHqb83"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/js/tygh/scripts-0cb0cc86ee9717d6121dbfd718457e651512997604.js?t=1512997610"></script>
+<link type="text/css" rel="stylesheet" href="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/design/themes/basic/css/standalone.4d82e52486a63b8afd5c230be4ca64831526654352.css?t=1526654368">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//code.jivosite.com/script/widget/xUNGdHqb83"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/js/tygh/scripts-0cb0cc86ee9717d6121dbfd718457e651526654352.js?t=1526654370"></script>
 <script type="text/javascript">
 //<![CDATA[
 (function(_, $) {
@@ -74,7 +74,7 @@
                     'coefficient': '1.00000'
                 }
             },
-            default_editor: 'ckeditor',
+            default_editor: 'redactor',
             default_previewer: 'prettyphoto',    
             current_path: '',
             current_location: 'http://www.nkataa.com',
@@ -189,12 +189,205 @@ CloudZoom = {
         }
     }
 </script>
+<script type="text/javascript">
+(function($, _) {
+    var Social = function() {
+
+        var appSettings = {};
+
+        var handleInit = function() {
+            appSettings = {"lkey":"SOCIALPROOF-0SRV-Y42H-765H-H2PD","is_fake_enabled_popup":"Y","use_cron":"Y","is_inline_enabled":"Y","is_purchase_count_enabled":"N","is_picture_enabled":"Y","cron_key":"n7f3m9h2k5","is_popup_enabled":"N","purchase_count_for_out_of_stock":"N","display_time":"60","processing_period":"1","purchase_count_show_chance":"100","position":"left","fill_url_cron":"","min_fake_purchase":"6","max_fake_purchase":"100","purchase_count_string_icon_before":"","is_online_on_product_page_enabled":"N","is_fake_enabled_online_on_product_page":"Y","online_on_product_page_show_chance":"100","min_fake_online":"5","max_fake_online":"100","online_on_product_page_string_icon_before":"","is_products_left_enabled":"Y","is_fake_enabled_is_products_left_enabled":"Y","threshold":"10","products_left_show_chance":"100","fake_products_left_quantity_percent_chance":"15","products_left_string_icon_before":"","is_custom_string_enabled":"Y","custom_string_show_chance":"100","custom_string_icon_before":"","status":"A","priority":"10000","unmanaged":"0"};
+
+            handleInlineStrings();
+            handlePopup();
+        };
+
+        var handlePopup = function() {
+            var isShowPopup = true;
+            var isProductPage = 0;
+
+            if (Social.isEnabled(appSettings.is_fake_enabled_popup)) {
+                if (Social.getCookie('numberOfVisitSomePage')) {
+                    var numberOfVisitSomePage = parseInt(Social.getCookie('numberOfVisitSomePage'), 10);
+
+                    if (numberOfVisitSomePage >= 2) {
+                        isShowPopup = true;
+                        Social.setCookie('numberOfVisitSomePage', 0);
+                    } else {
+                        Social.setCookie('numberOfVisitSomePage', ++numberOfVisitSomePage);
+                    }
+                } else {
+                    isShowPopup = true;
+                    Social.setCookie('numberOfVisitSomePage', 1);
+                }
+            } else {
+                if (Social.getCookie('numberOfVisitProductPage')) {
+                    var numberOfVisit = parseInt(Social.getCookie('numberOfVisitProductPage'), 10);
+
+                    if (numberOfVisit > 1) {
+                        isShowPopup = true;
+                        Social.setCookie('numberOfVisitProductPage', 0);
+                    } else if (isProductPage) {
+                        Social.setCookie('numberOfVisitProductPage', ++numberOfVisit);
+                    }
+                } else if (isProductPage) {
+                    Social.setCookie('numberOfVisitProductPage', 1);
+                }
+            }
+
+            if (Social.isEnabled(appSettings.is_popup_enabled) && isShowPopup) {
+                var popupTimerIntervalID;
+                var slideTimerID;
+                var clientDetails = {
+                    userAgent: encodeURIComponent(navigator.userAgent),
+                    lang: encodeURIComponent(navigator.language || navigator.userLanguage || navigator.browserLanguage || navigator.systemLanguage || ""),
+                };
+                var urlGetPopupData = Social.getScriptUrl('get_last_buyers');
+
+                if (!$("#social_proof").length && !$(".social-proof__popup-wrapper").length) {
+                    $("body").append('<div class="social-proof__popup-wrapper"></div>');
+                }
+
+                function popupCallback(message) {
+                    if (message) {
+                        if ($('.social-proof__popup.opened').length) {
+                            $(".social-proof__popup").removeClass('opened');
+
+                            setTimeout(function () {
+                                showPopup(message)
+                            }, 500);
+
+                        } else {
+                            showPopup(message);
+                        }
+
+                        slideTimerID = setTimeout(function() {
+                            $(".social-proof__popup").removeClass('opened');
+                        }, parseInt(appSettings.display_time, 10) * 1000);
+
+                    }
+                }
+
+                function showPopup(message) {
+                    $(".social-proof__popup-wrapper").html(message);
+                    $(".social-proof__popup").css('opacity');
+                    $(".social-proof__popup").addClass('opened');
+                }
+
+                function getPopupData() {
+                    $.ceAjax('request', urlGetPopupData, {
+                        method: 'POST',
+                        data: clientDetails,
+                        hidden: true,
+                        callback: function(message) {
+                            popupCallback(message.text);
+                        }
+                    });
+                }
+
+                popupTimerIntervalID = setInterval(getPopupData, Social.getRandomInt(10, 15) * 1000);
+
+                $('body').on('click', '.social-proof__popup-close', function() {
+                    if (slideTimerID) {
+                        $(".social-proof__popup").removeClass('opened');
+                        clearTimeout(slideTimerID);
+                        slideTimerID = 0;
+                    }
+                });
+            }
+        };
+
+        var calculateInlineWidth = function () {
+            var detailThumbWidth = 350,
+                width = detailThumbWidth ? detailThumbWidth : $('.ty-product-block__img').width();
+            $('.ty-product-block .social-proof__inline--online').css('width', width);
+        }
+
+        var handleInlineStrings = function() {
+                        calculateInlineWidth();
+        };
+
+        return {
+            init: function() {
+                setTimeout(handleInit, 500);
+            },
+
+            recalculateInlineWidth: calculateInlineWidth,
+
+            applyInlineStrings: handleInlineStrings,
+
+            getScriptUrl: function(mode) {
+                var url = fn_url('social_proof.' + mode);
+
+                return url;
+            },
+
+            isEnabled: function(setting) {
+                return setting == 'Y';
+            },
+
+            getRandomInt: function(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            },
+
+            getCookie: function(name) {
+                var matches = document.cookie.match(new RegExp(
+                    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+                ));
+
+                return matches ? decodeURIComponent(matches[1]) : undefined;
+            },
+
+            setCookie: function(name, value, options) {
+                options = options || {};
+
+                var expires = options.expires;
+
+                if (typeof expires == "number" && expires) {
+                    var d = new Date();
+                    d.setTime(d.getTime() + expires * 1000);
+                    expires = options.expires = d;
+                }
+
+                if (expires && expires.toUTCString) {
+                    options.expires = expires.toUTCString();
+                }
+
+                value = encodeURIComponent(value);
+
+                var updatedCookie = name + "=" + value;
+
+                for (var propName in options) {
+                    updatedCookie += "; " + propName;
+
+                    var propValue = options[propName];
+
+                    if (propValue !== true) {
+                        updatedCookie += "=" + propValue;
+                    }
+                }
+
+                document.cookie = updatedCookie;
+            },
+        };
+
+    }();
+
+    $(document).ready(Social.init);
+
+    $.ceEvent('on', 'ce.ajaxdone', function() {
+        Social.applyInlineStrings();
+    });
+
+    $(window).resize(Social.recalculateInlineWidth);
+}(Tygh.$, Tygh));
+</script>
 
 
 <!-- Inline scripts -->
 
 
-</head>
+<script async="" src="https://static.hotjar.com/c/hotjar-774253.js?sv=6"></script></head>
 
 <body>
 
@@ -218,7 +411,7 @@ CloudZoom = {
                     <div class=" top-logo">
         <div class="logo-container">
     <a href="http://www.nkataa.com/" title="Nkataa.com - Bringing The Supermarket To Your Home">
-        <img src="http://dr35ct9ol6mx2.cloudfront.net/images/logos/1/Christmas-logo-4.gif?t=1512083155" style="width:331px; height:70px;" alt="Nkataa.com - Bringing The Supermarket To Your Home" class="logo">
+        <img src="http://dr35ct9ol6mx2.cloudfront.net/images/logos/1/newweblogobig__1_.png?t=1519912902" style="width:331px; height:70px;" alt="Nkataa.com - Bringing The Supermarket To Your Home" class="logo">
     </a>
 </div>
     </div>
@@ -226,7 +419,7 @@ CloudZoom = {
                 
 
 
-    <div class="span5 search-block-grid">
+    <div class="span8 search-block-grid">
                     <div class=" top-search">
         <div class="search-block">
 <form action="http://www.nkataa.com/" name="search_form" method="get">
@@ -252,7 +445,7 @@ CloudZoom = {
                 
 
 
-    <div class="span8 mycart-content">
+    <div class="span5 mycart-content">
                     <div class=" top-cart-content unlogged float-right">
         
 <div class="dropdown-box" id="cart_status_1032">
@@ -315,10 +508,6 @@ CloudZoom = {
 <!--account_info_1027--></div>
 
         </div>
-    </div><div class=" float-right">
-        <div class="wysiwyg-content"><div class="registerbtn">
-     <a href="/profiles-add.html">Register</a>
-</div></div>
     </div>
             </div>
 </div>                
@@ -379,7 +568,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1395267406" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_baby.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1455516136" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_baby.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -452,7 +641,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1010668464" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_bulk.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_513099026" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_bulk.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -475,6 +664,7 @@ CloudZoom = {
                                                 	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/flavoured-drinks/">Flavoured Drinks</a></li>
                                                                                                         	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/juice/">Juice</a></li>
                                                                                                         	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/soft-drinks/">Soft Drinks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/non-alcoholic-wine/">Non-Alcoholic Wine</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
@@ -498,7 +688,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://nkataa.com/caroline/drinks-and-beverages/wine-liquor-and-champagne/"><img class="   pict" id="det_img_1941547423" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_drinks.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://nkataa.com/caroline/drinks-and-beverages/wine-liquor-and-champagne/"><img class="   pict" id="det_img_1395166771" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_drinks.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -594,7 +784,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_633073643" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_food.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1646608364" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_food.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -623,7 +813,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_817603537" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_fresh.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1484587093" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_fresh.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -636,7 +826,7 @@ CloudZoom = {
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/frozen-products/sausages-burgers-and-frankfurters/">Sausages, burgers &amp; frankfurters</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/icecream-and-frozen-yoghurt/">Icecream &amp; Frozen Yoghurt</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/icecream-cheese-and-frozen-yoghurt/">Icecream, Cheese &amp; Frozen Yoghurt</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/frozen-products/icecubes/">Icecubes</a>
                                                                                 </li>
@@ -650,7 +840,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://nkataa.com/caroline/frozen-products/seafood/"><img class="   pict" id="det_img_1253984352" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_seafood.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://nkataa.com/caroline/frozen-products/seafood/"><img class="   pict" id="det_img_326298408" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_seafood.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -737,7 +927,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_291504041" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_beauty.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1021187967" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_beauty.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
@@ -788,7 +978,7 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_2037486950" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_household.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_391269521" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_household.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                             <div class="withoutchild" style="margin:0;">
@@ -827,6 +1017,9 @@ CloudZoom = {
 
                     </li>
                                         <li class="tlli "><a class="tll" href="/clearance-sale">CLEARANCE SALE </a>
+
+                    </li>
+                                        <li class="tlli "><a class="tll" href="/nkataa-service-feedback.html">Feedback </a>
 
                     </li>
                     </ul>
@@ -1042,7 +1235,7 @@ CloudZoom = {
 
 <div class="row-fluid  row-grid-fluid">    <div class="span10 ">
                     <div class="    float-left">
-        <p class="bottom-copyright">© -2017 Nkataa
+        <p class="bottom-copyright">© -2018 Nkataa
 </p>
     </div>
             </div>
@@ -1051,6 +1244,18 @@ CloudZoom = {
 
     <div class="span6 ">
                     <div class=" float-right">
+        <div class="wysiwyg-content"><!-- Hotjar Tracking Code for nkataa.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:774253,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script></div>
+    </div><div class=" float-right">
         <div class="payment-icons">
 	<span class="payment-icon 2checkout">&nbsp;</span>
 	<span class="payment-icon paypal">&nbsp;</span>
