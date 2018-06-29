@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119020420id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629021441id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
-### Effective on: May 17, 2013
+### Effective on: May 25, 2018
 
 These terms are incorporated by reference into Vendio's User Agreement at <http://www.vendio.com/ecommerce/terms> and are subject to such User Agreement. Your use of any of Vendio's services is subject to the User Agreement in its entirety.  **1\. Background** This privacy policy explains: 
 
@@ -24,7 +24,7 @@ You may not disclose your password to any third party. If you lose control of yo
 
 **3.2. Information You Provide.** To post messages on our message center or to use any of our other services we may require you to provide us with contact information, such as your name, street address, phone number, and email address. In the event that you are using a paid service we may collect your credit card number, expiration date, and billing information. We may also transmit your credit card to partners, such as universal registration partners, whom you specifically select to receive this information. 
 
-**3.3. Information We Track.** As you use our services, our servers or third party servers will automatically track certain information about you in log files. This information includes your IP address, the URL that you just came from, which URL you go to next, which browser you are using, and which operating system you are using. This is not unique to our websites as many existing sites automatically collect this information. These log files are not linked to your personal information. Vendio also records participation in our online communities, including messages submitted, contributions through wikis or buying guides, and reviews/ratings. 
+**3.3. Information We Track.** As you use our services, our servers or third party servers will automatically track certain information about you in log files. This information includes your IP address, the URL that you just came from, which URL you go to next, which browser you are using, which operating system you are using, your device screen resolution, mouse events, keypresses, geographic location (country only), preferred language, date and time when pages were accessed. This is not unique to our websites as many existing sites automatically collect this information. These log files are not linked to your personal information. Vendio also records participation in our online communities, including messages submitted, contributions through wikis or buying guides, and reviews/ratings. 
 
 **3.4. Merchants.** Vendio hosts stores on vendio.com and powers stores hosted on other domains. These merchants use Vendio's technology and infrastructure to power the presentation and transaction processing of their stores. Vendio's use of information collected on these sites is covered by this privacy statement. Vendio shares with these merchants certain personally identifiable information necessary for their processing of transactions. Each merchant's use of this personally identifiable information is subject to its own privacy practices. 
 
@@ -71,7 +71,54 @@ You may at any time review and change your personally identifiable information a
 
 **8\. Security**  
 Vendio uses industry standard efforts such as firewalls and Secure Socket Layers to safeguard the confidentiality of your personally identifiable information. However, even the most robust security systems are not foolproof and users should consider this when revealing any personally identifiable information to any party over any form of media.  **9\. Opting Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. However, if a user decides at any time not to receive future communications, the user may remove their information from our database by sending an email [using this form](http://www.vendio.com/ecommerce/contact). **10\. Contacting our Web Site**  
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. However, if a user decides at any time not to receive future communications, the user may remove their information from our database by sending an email [using this form](http://www.vendio.com/ecommerce/contact). **10\. General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Union ("EU") including the United Kingdom, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Data, as outlined below. For this section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Vendio will be the controller of your Personal Data processed in connection with our Services. Note that we may also process Personal Data of our user's customers in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e. not the controller), please contact the controller party in the first instance to address your rights with respect to such data. If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@corp.vendio.com](mailto:privacy@corp.vendio.com) or send a written request to Vendio Services, LLC, 152 W. 25th St. 12th Floor, New York, NY 10001. 
+
+**10.1 What Personal Data Do We Collect From You?**
+
+We collect Personal Data about you when you provide it directly to us, when third parties such as our partners provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our website or services.
+
+**Information we collect directly from you:** We receive Personal Data directly from you when you provide it to us through usage of Vendio's website or services, including, but not limited to: 
+
+  * Your name
+  * Email address
+  * Mailing address
+  * Telephone number
+  * Username
+  * Company name
+
+
+
+**Information we receive from third party sources:** Some third parties provide us with Personal Data about you, such as account information (e.g. eBay account information) or if you use a third party service to login to Vendio (e.g. Facebook Connect). If you share content from our Services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
+
+**Information we automatically collect when you use Vendio:** Some Personal Data is automatically collected when you use Vendio, such as the following: 
+
+  * IP address
+  * Device identifiers
+  * Log data (i.e. hardware and software information)
+  * Web browser information
+  * Cookies
+  * When you last logged into our website
+
+
+
+**How Do We Use Your Personal Data?** We process Personal Data to operate, improve, understand and personalize our Services. As an example, we use Personal Data to: 
+
+  * Personalize Vendio content based on your preferences
+  * Communicate with you about our Services
+  * Contact you about Vendio updates or offers
+  * Protect against or deter fraudulent, illegal or harmful actions
+  * Respond to user inquiries
+  * Provide support and assistance with Vendio
+  * Comply with our legal or contractual obligations
+  * Enforce our Terms of Service or resolve disputes
+
+
+
+**What Security Measures Do We Use?** We seek to protect your Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, we use encryption to keep your Personal data secure. 
+
+**11\. Contacting our Web Site**  
 If you have any questions about this privacy statement, or the privacy practices of Vendio, you can contact the company by sending an email [using this form](http://www.vendio.com/ecommerce/contact). For general inquiries relating to any Vendio website, users may send an email [using this form](http://www.vendio.com/ecommerce/contact&subject=service).   
 You can also contact us at: 
 
@@ -81,6 +128,6 @@ Vendio Services, LLC
 New York, NY 10001  
 
 
-**11\. Notification of Changes.**   
+**12\. Notification of Changes.**   
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our announcements page notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
 
