@@ -1,93 +1,175 @@
-> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119151147id_/https%3A//deals.lockergnome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629081410id_/https%3A//deals.lockergnome.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LockerGnome Deals
 
 ### Privacy Policy
 
-**1\. Introduction.** The operator of this website, StackSocial, Inc. (hereafter, "StackCommerce," "we," "us" or "our") is committed to protecting the privacy of its users – namely, those individuals who navigate and use this website (hereafter, collectively referred to as "Users," "you" or "your"). This Privacy Policy applies to your use of and access to all StackCommerce websites (including, stacksocial.com, stackcommerce.com, citizengoods.com) and any affiliated publisher websites and sub-domains (collectively referred to hereafter as, "the website" or "our website") and your use of any of the services offered through our website, including, but not limited to, product sales and marketplace, promotional offers, information resources, forums, reviews, ratings and blogs (collectively, the "Services"). We collect information about you through our website in an effort to improve your experience and to communicate with you about our services, contests and promotions offered by our website. As described in this Privacy Policy, we may share your information internally, and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular service. 
+**LAST REVISED** : 5/22/18
 
-Please note that StackCommerce is not responsible for the privacy practices of third party websites (even if we offer links to third party websites at our website) and they are under no obligation to comply with this Privacy Policy. Before visiting another website and before providing any information to the party that operates or advertises on that third party website, Users should review the privacy policy and practices of that website to determine how information that they collect from users will be handled. Please further note, depending on a User's particular interaction with our website (e.g. Users who solely navigate our website versus Users who create an account and use the Services at our website), different portions of this Privacy Policy may apply to users at different times. 
+Your privacy is important to us and we are committed to protecting the privacy of our users and the information that you share in connection with our Site.  This Privacy Policy identifies: (i) what information we collect; (ii) how we process and manage such information; (iii) your rights with respect to the use and disclosure of the same.  If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com.
 
-StackCommerce reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time. If we change any portions of its Privacy Policy, which we may do at any time without notice to you, the changes will be updated on this Privacy Policy page and Users should periodically review our Privacy Policy page for any such changes. 
+  1. #### PERSONAL DATA AND NON-PERSONAL DATA
 
-**2\. Your Agreement.** Your use of our website or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE'S [TERMS OF SERVICE](https://web.archive.org/terms). IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
+    1. “Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), as well as any other non-public information about you that is associated with or linked to any of the foregoing data. 
 
-**3\. Information We Collect and How We Use It.** There are a number of services offered by this website that do not require you to register for an account or provide any personally identifiable information to us, such as viewing products, articles and reviews and information about our Services. However, in order to access certain Services, we may require you to register and/or create an account with us and collect the following types of information of personally identifiable information from you: e-mail address, full name, shipping address, and billing information if a purchase is made. For certain services, such as purchasing products, we also request credit card or other payment account information (including PayPal account information) which we maintain in encrypted form on secure servers. (All of the foregoing personally identifiable information shall be referred to hereafter as "Personal Information.") 
+    2. “Non-Personal Data” means data that is not associated with or linked to your Personal Data; Non-Personal Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Non-Personal Data, as described below.
 
-We may combine the Personal Information you submit under your account with information from other StackCommerce Services or third parties in order to provide you with a better experience and to improve the quality of our Services. 
 
-You can elect to provide all or only some of the Personal Information requested by the website during the registration process. However, if you decline to provide certain Personal Information, you may not be able to register for an account or access certain benefits of the Services (including certain deals, offers or opportunities offered by third party websites which are conditioned upon certain eligibility requirements). 
 
-StackCommerce may offer you the option of registering an account with us by logging in with an accounts you have established with certain third party sites (e.g. Facebook.com and Google.com) (hereafter, the "Outside Account"). By logging in via the Outside Account, you are granting StackCommerce the right to access, utilize and store (if applicable) information (including Personal Information) tied to your Outside Account in connection with the Services. Depending on the Outside Accounts you choose and subject to the privacy settings that you have set in such Outside Accounts and on your account with StackCommerce, the information you make accessible via your Outside Accounts (including Personal Information) will be available to StackCommerce and on and through your StackCommerce account. 
+  2. #### WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE USE IT? 
 
-We use email to communicate transactional information regarding purchases and suggest promotions and giveaways We believe are relevant to you. We may receive a confirmation when you open an email from us if your computer or device supports this type of functionality. StackCommerce uses this confirmation to help Us make emails more interesting and helpful, and to improve the Website and Our services. When You receive e-mail from StackCommerce, you can opt out of receiving further e-mails by following the included instructions to unsubscribe. 
+    1. What data is collected. We collect Personal Data that you voluntarily provide us, for example, when you create an Account, register for our newsletter and/or make a purchase we may require your name, email, contact information, billing address, credit card inform and/or other information you may provide us. We also collect information about you from various sources, including from your in-store purchases. We also may collect information about you that we receive from other sources (like public records), to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-In addition to using your Personal Information to provide the Services, we may also use this information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including the website's Terms of Service and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities. In addition, we reserve the right to audit your eligibility or to audit user accounts for possible fraudulent activity. 
+    2. Use of Personal Data.
 
-Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol ("IP") address, occupation, language, unique device identifier, approximate geographic location, and the time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like cookies and web beacons or pixel tags or location based capabilities on your mobile device. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the registration process for the Website. For example, we may combine an approximate geographic obtained from a User's mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User's identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User). 
+We will use your Personal Data to: 
 
-Cookies – As noted above, when you visit our website, we send one or more cookies – a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some StackCommerce features and services may not function properly if your cookies are disabled. 
+    * Make the Site available to you;
 
-Log information - When you use the Services of our website, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+    * Process and fulfill merchandise orders;  
 
-Do Not Track Signals from Web Browsers – Our website is not presently configured to respond to DNT or "do not track" signals from web browsers. 
+    * Enhance the Site;
 
-User communications - When you send email or other communication to StackCommerce, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+    * Respond to your requests or to manage Accounts;
 
-Third Party Websites – We offer some of Services in connection with goods, services and deals offered by web sites operated by third parties which are not operated or controlled by us (hereafter, "Third Party Websites"). Personal information that you provide to those sites may be sent to StackCommerce in order to deliver Services. While any information we process obtained through the Third Party Websites in accordance with this Policy, the Third Party Websites have their own privacy practices and your interactions with the Third Party Websites will be subject to the privacy policies of the Third Party Websites. As such, we strongly recommend that you review their privacy policies before undertaking such interactions. We do not exercise control over Third Party Websites displayed as search results or links from within our website and these Third Party Websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+    * Monitor the security of the Site; and/or
 
-Links – StackCommerce may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. This Privacy Policy applies to our website and Services. 
+    * Provide you with promotional communications.
 
-**4\. No Collection of Children's Personal Information.** Persons under the age of 13 may not use the Website. We do not knowingly collect personal information from anyone under the age of 13, and no part of the website is designed to attract anyone under the age of 13. Because we do not intentionally collect any information from children under the age of 13, we also do not knowingly share or disclose such information to third parties. Minors between the ages of 13 and 18, need their parent's permission before using our website and the Services. Some promotional offers on our website may be subject to further age limitations. If you have reason to believe that a child under 13 years of age has provided us with information, please contact us at legal@stackcommerce.com and we will take appropriate action under applicable law. We reserve the right to delete any information we believe to be in violation of this Privacy Policy. 
 
-**5\. Other Sharing of User Information.** StackCommerce only processes Personal Information and Non-Personally Identifiable Information about Users (collectively referred to hereafter as "User Information") for the purposes described in the Privacy Policy and/or privacy notice for specific services. In addition to the circumstances described above, StackCommerce may also share, release and/or disclose User Information to outside parties in the following circumstances: 
 
-We may share your information with Authorized Third Party Service Providers. We provide certain Services through third party service providers. These "Third Party Service Providers" perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share User Information with such Third Party Service Providers to remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may share your information with Third Party Service Providers to accomplish our administrative tasks. However, we do not grant these entities any rights to use and contractually restrict them from using any information for any purpose other than providing service to us and you. 
+  3. #### DISCLOSURE OF PERSONAL INFORMATION 
 
-We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. Please note that this is not Personal Information as defined above, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us. 
+We disclose Your Personal Data as described below and as described elsewhere in this Privacy Policy.
 
-We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by, another company, or we may file for protection under applicable bankruptcy laws in the future. In such event, User Information obtained and maintained by our website, including Personal Information and Non-Personally Identifiable Information, will transfer to a successor entity in connection with the corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. User Information submitted prior to any such transfer would remain subject to the terms of this Privacy Policy (as it existed on the date of the submission). However, User Information submitted after a transfer to a successor entity may be subject to a new privacy policy adopted by the successor entity. 
+    3. Third-Party Service Provides. We will share your Personal Data with third parties, such as vendors and service providers who provide assistance with billing, payment processing, fraud protection, credit risk reduction, marketing, data analytics support and service associated with the Site and delivery of purchased merchandise. 
 
-We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on us; enforce or apply this Privacy Policy, the Terms of Use or other agreements; or investigate, prevent, or take action suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity; or otherwise protect the rights, property or safety of our website, its Users or others. 
+    4. Compliance with laws and for other legitimate business purposes. 
 
-Please contact us at the address below for any additional questions about the management or use of personal data. 
+We will share your Personal Data when we believe disclosure is necessary or required by law, regulation, to protect users, the integrity of the Site and to defend or exercise our legal rights. We may also disclose your Personal Data when it may be necessary for other legitimate and lawful purposes as reasonably determined by us.
 
-**6\. User Information Security.** We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+    5. Affiliates.
 
-We restrict access to personal information to StackCommerce employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other company’s under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with service providers which do the same, we cannot guarantee the security of any information transmitted to or from our website, and are not responsible for the actions of any third parties that may receive any such information. 
+    6. Corporate restructuring.
 
-Account Information and other password-protected areas of our website can be accessed only with a valid user name and password. Each password owner is responsible for keeping the password confidential and safe, as StackCommerce has no control or responsibility for this type of User Information. If the password may have been stolen or might otherwise be misused, it is the responsibility of the subject User to notify StackCommerce immediately for further action. 
+We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our Company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
 
-**7\. No Liability.** We have made every effort to use industry standards in regards to information security. However, we do not guarantee that any such information will not be misused or disclosed to third parties. We will not have any liability to you for any such misuse or disclosure. If you choose to purchase a product or service offered by another company, any information you share with that company will not be controlled by this Privacy Policy, you do so at your own risk, and we have no liability to you. 
 
-**8\. Public Areas of Our Website.** We may provide areas on the website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, and submit media content. By engaging in such conduct, you acknowledge your understanding that any such information you supply may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others throughout the world. For example, if you post your email address along with a product or service review, you may receive unsolicited messages from other registered users. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. 
 
-**9\. Consent.** By using our website or Services, you consent to the collection and use of your information as set forth in this Privacy Policy. 
+  4. #### NON-PERSONAL DATA WE COLLECT 
 
-**10\. Data Integrity.** StackCommerce processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+    1. Information Collected by Our Servers. To make our Site more useful to you, our servers (which may be hosted by a third-party service provider) collect information from you, including your browser type, operating system, domain name, and/or a date/time stamp for your visit.
 
-**11\. Accessing and Updating Account Information.** When you use our Services (including creating an account through our website), we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
+    2. Log Files. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Site to our users’ needs. For example, some of the information may be collected so that when you visit the Site again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
 
-**12\. Enforcement.** We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of User Information by contacting us at legal@stackcommerce.com. When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between us and an individual. 
+    3. Cookies. Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the Site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive user experience. This type of information is collected to make our Site more useful to you and to tailor the experience with us to meet your special interests and needs.
 
-**13\. Legal Disclaimer.** We operate our website "AS-IS" and "AS-AVAILABLE," without warranties of any other kind. We are not responsible for events beyond our direct control. This Privacy Policy is governed by the laws of the State of California, excluding conflicts of law principles. Any legal actions against us arising out of or related to our website or Services must be commenced in the county of Los Angeles in the state of California in the United States of America. 
+    4. Pixel Tags. In addition, we use “Pixel Tags” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to users. We do not tie the information gathered by Pixel Tags to Personal Data.
 
-**14\. For Users Outside of the United States Only.** Our website is hosted in the United States. If you are a User accessing our website from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, you are transferring your personal data to the United States which may not have the same data protection laws as such other regions. By providing User Information to our website, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and the website's Terms of Service. You are also consenting to the application of United States law in all matters concerning our website and/or Services. 
+    5. Flash LSOs. When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
 
-**15\. For California Residents Only.** California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. In general, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which the business disclosed and shared information in the preceding calendar year. To make such a request, please write to us at the following address:  
-StackCommerce - California Privacy Rights  
-Legal Department  
+    6. Google Analytics. We may use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to our Site. We use the information we get from Google Analytics only to improve our Site. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on Your web browser to identify you as a unique user the next time you visit the Site and use Services, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our Site is governed by the Google Analytics’ Terms of Use and Privacy Policy.
+
+
+
+  5. #### California Privacy Rights
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+
+To request a copy of the information disclosure provided by us pursuant to Section 1798.83 of the California Civil Code, please contact us at the below address:
+
+StackSocial, Inc.  
+Attn:  Legal Department  
+Re: CA Privacy Rights  
 21 Market Street  
 Venice, CA 90291  
+legal@stacksocial.com 
 
 
-**16\. Miscellaneous**
 
-We welcome your questions, comments and requests for additional information regarding privacy of the Service. If you have any questions about this Privacy Policy, or the practices of or your dealings with our website, please email us at legal@stackcommerce.com or write to us at:
+  6. #### CALIFORNIA DO NOT TRACK DISCLOSURE
 
-StackCommerce, Inc.  
-21 Market StreetVenice, CA 90291 
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not recognize or respond to Do Not Track browser settings or signals and we will still receive information.  As a result, we may still collect information about you and your internet activity, even if you have turned on the Do Not Track signal.
 
-You accept and agree to be bound by this Privacy Policy and the Terms of Service. 
+It is possible that some or all of our third-party advertising partners or members of their affiliate network may participate in a consumer opt-out programs.  To learn more about internet-based advertising and consumer opt-out programs go to http://aboutads.info/choices/ or http://www.networkadvertising.org/choices/.  We do not operate or control these sites, and are not responsible for the opt-out choices available there.
+
+
+
+  7. #### YOUR U.K. PRIVACY RIGHTS
+
+Users from the U.K. have the right to ask us to amend or limit the processing of their Personal Data, (as defined by U.K. law) and in particular not to process their Personal Data for marketing purposes. We will inform you (before collecting your personal data) if we intend to use your Personal Data for such purposes or if we intend to disclose your Personal Data to any third party for such purposes. You can exercise your rights to prevent such processing by checking certain boxes on the forms we use to collect your Personal Data. You can also exercise the right at any time by contacting us at: privacy@stacksocial.com.  
+
+The U.K. Data Protection Act 1998 ("the DPA 1998") gives users from the U.K. the right to access information held about you. Your right of access can be exercised in accordance with the DPA 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+
+
+  8. #### INTERNATIONAL TRANSFERS OF INFORMATION
+
+Information, including information collected in the European Economic Area ("EEA") may be transferred, stored and processed by us and our services providers in the United States and other countries whose data protection laws may be different than the laws of your country. We will protect your Personal Data in accordance with this Privacy Policy wherever it is processed and take appropriate steps to protect the information in accordance with applicable laws. 
+
+If you live in the EEA, or a similar international area, you may have additional privacy rights available to you under applicable laws. We will process your requests in accordance with applicable data protection laws. If you would like to exercise any of the below rights, please contact privacy@stacksocial.com so that we may consider your request in accordance with applicable law: 
+
+    * Right not to provide or withdraw consent: You have the right not to provide or withdraw your consent at any time.
+
+    * Right of access: You may have the right to access the Personal Data that you provided us.
+
+    * Right of erasure: You may have the right to the erasure of Personal Data that we hold about you. 
+
+    * Right to object to processing: You may have the right to request that we stop processing your Personal Data and/or to stop sending you marketing communications.
+
+    * Right to rectification: You may have the right to require us to correct any of your Personal Data.
+
+
+
+  9. #### PRIVACY RIGHTS AND DATA PROTECTION OFFICER
+
+a. General. You may modify the information you have provided to us at any time through your Account. You can also opt-out of receiving marketing communications, deactivate, or delete your Account at any time. 
+
+b. Data Protection Officer. We have appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact us at: privacy@stacksocial.com.
+
+
+
+  10. #### INFORMATION SECURITY AND CONFIDENTIALITY 
+
+We maintain (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.
+
+
+
+  11. #### UPDATES
+
+From time to time, this Privacy Policy will be updated in whole or in part, at which time the new date will be reflected above in the “Last Revised” section.  The updated Privacy Policy will immediately replace and supersede any prior Agreements, unless otherwise noted. Accordingly, if you use the Site after an update is published, then you will unconditionally agree to be bound by the updated terms and policies.
+
+
+
+  12. #### UNSUBSCRIBE
+
+You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.  Even if you are removed from any such list, if you use the services provided through the Site, you will continue to receive email correspondence from us related to the services.  Any opt-out by you is not deemed valid until processed by us.  It is your obligation to verify that you have been opted-out.  We will not be liable for problems with the opt-out procedures. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+
+If you register for an Account on the Site, you may review and update your account information by logging in to your account with your username and password at www.stacksocial.com or by contacting customer service at support@stackcommerce.com.
+
+
+
+  13. #### THIRD PARTY WEBSITES
+
+You may have found this Site through a Link located on a third-party website operated by another company or you may choose to click on a link on this Site to websites operated by third parties.  For example, we may at times include links to various social media platforms on this Site, but know that if you interact with these social media tools through this Site, then your experience on those social media sites will be governed by the privacy and other policies of those sites and the privacy settings you have chosen on those sites will determine the degree to which your information is made public.  In short, please be advised that the practices described in this Privacy Policy do not apply to information gathered through any website operated by other companies. We encourage you to read the privacy policies of each and every website that you visit to understand how they collect, use, secure, and share your information.  Further, we encourage you to choose your privacy settings on those websites accordingly.
+
+
+
+  14. #### CONTACT INFORMATION
+
+If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com.  For customer service regarding an order please write, call, or e-mail our Customer Service Department at: 
+
+Customer Service Department  
+StackSocial, Inc.  
+Attn:  Legal Department  
+Re: CA Privacy Rights  
+21 Market Street  
+Venice, CA 90291  
+Telephone: (415) 335-6768  
+Mon. - Fri., 9am to 6pm PST  
+support@stackcommerce.com 
+
+
+
