@@ -1,95 +1,50 @@
-> *The following text is extracted and transformed from the sowetanlive.co.za privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919031215id_/http%3A//www.sowetanlive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sowetanlive.co.za privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629083116id_/https%3A//www.sowetanlive.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Sowetan LIVE
+# Privacy policy
 
-## Privacy policy for the Owner
+We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by Tiso Blackstar Group’s SowetanLIVE website, which includes the Sunday World website.
 
-1.        Introduction
+### What information do you collect and how are you collecting it?
 
-1.1                This privacy policy (" **this Privacy Policy** ") must be read together with the Terms and Condition.  Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
+Every computer connected to the internet is given a domain name and a set of numbers that serve as its IP address. When you visit a page on any website within our network, our web servers recognise your domain name and IP address. We use this information to examine our traffic in aggregate, but do not collect and evaluate the data for individuals. Our servers do not record your email address.
 
-1.2                The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users. 
+### What are cookies?
 
-1.3                In adopting this Privacy Policy, the Owner wishes to balance its legitimate business interests when collecting and using your personal information and Your reasonable expectation of privacy.  In this respect, the Owner will take reasonable steps to prevent unauthorised access to, or disclosure of your personal information.  However, the Owner does not guarantee that Your personal information shall at all times be 100% secure.
+From time to time, Tiso Blackstar Group or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data sent to your browser from a web server and stored on your computer's hard drive. It cannot read data from your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use them to identify which areas of Tiso Blackstar Group’s network of websites you have visited or customised, so the next time you visit, those pages are easily accessible.
 
-1.4                By continuing to use this Web Site, You agree to the terms and conditions of this Privacy Policy.  If You do not agree with this Privacy Policy, please do not continue to Use the Web Site.
+Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. We and our advertisers may use this information to personalise the content, banners and promotions that you see on our sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other websites may be diminished and some features may not work as intended.
 
-1.5                You agree that the Owner may collect, collate, process and/or store Your personal information (as this phrase is defined in the ECT Act) provided by You during the registration process referred to in clause 8 of the Web Site Terms and Conditions (" **Collect** ") for, amongst other things, the purposes of (i) verifying your identity, (ii) providing You with access to the Web Site Content, (ii) customer relations, and (iii) conducting research. 
+### What other information do you request?
 
-1.6                The Owner reserves the right to vary the terms of this Privacy policy, which will be made available on the Web Site.  It is your responsibility to familiarise Yourself with the most recent version of this Privacy Policy.
+We may request your email or postal address or phone number for the purpose of conducting a survey or to provide additional services (for example, subscriptions to email newsletters after you have registered as a user of SowetanLIVE). Whenever we request your identity, we will indicate the purpose of the enquiry before the information is requested.
 
-2.        What personal information is Collected?
+We maintain a strict "no-spam" policy – we will not give your email address to a third party without your consent. In addition, we will not send you email that you have not agreed to receive, although we may from time to time send you an email announcing new products and services.
 
-The Owner may Collect personal information that may include (with limitation), Your name and e-mail address, information relating to Your race, gender, ethnic or social origin, age, well-being, disability, personal opinions, views or preferences. 
+If you choose to supply your postal address in an online form, you may receive mailings from other reputable, third-party companies. If you choose to purchase something online, we need to know your name, email address, mailing address, credit card number and credit card expiry date. This allows us to process and fulfil your order and to notify you of your order status. This information may also be used by us to notify you of related products and services, but will not be shared with or sold to third parties.
 
-3.        When is Your personal information Collected?
+When you enter a contest or other promotion, we may ask for your name, address and email address so we can administer the contest and notify winners.
 
-3.1                Personal information may be Collected in several ways.
+Wherever we collect information, we make an effort to include a link to this privacy policy on that page.
 
-3.2                Some personal information may be Collected when You register on the Web Site, during the carrying out of demographic research, or when you participate in any promotions, competitions or surveys held on the Web Site.
+### Will you disclose the information you collect to third parties?
 
-3.3                You acknowledge that promotions and competitions on the Web Site may be sponsored by third parties, or may be co-sponsored by the Owner together with third parties. You agree that some or all Your personal information may be shared with such third party.  
+We will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
 
-3.4                You also acknowledge that advertisers or other web sites that have links on the Web Site may also Collect Your personal information. You agree that the information processing practices of those advertisers and other web sites are neither under the control of the Owner nor regulated by this Privacy Policy.
+  1. conform to the edicts of the law or comply with a legal process served on Tiso Blackstar Group;
+  2. protect and defend the rights or property of the Tiso Blackstar Group network of websites;
+  3. identify people who may be violating the law, a legal notice or the rights of third parties; or
+  4. co-operate with the investigation of purported unlawful activities.
 
-4.        How Your personal information is used? 
 
-4.1                The primary goal in Collecting Your personal information is to provide You with a better online experience, which may include, interactive communications, online shopping and other services. 
 
-4.2                Your personal information may be used to:
+We use reasonable precautions to keep the information disclosed to us secure. Furthermore, we are not responsible for any breach of security or the actions of any third parties that receive the information. Tiso Blackstar Group also links to various other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users.
 
-4.2.1                        deliver to You more relevant and targeted content and advertisements, such as banner advertisements;
+### What else should I know about my privacy when online?
 
-4.2.2                        conduct research related to demographics, interests and on line habits;
+We do not share with any of the sites to which we link any of the individual information you provide to us, although we may share aggregate data with such websites, such as data on how many people use our site. Please check with those sites to determine their privacy policies.
 
-4.2.3                        compile profiles for statistical purposes.  You agree that the Owner may trade with those profiles and statistical data.  While the Owner will attempt to ensure that the profiles or statistical data cannot be linked to You, the Owner does not guarantee that third parties may not be able to link such profiles and statistical data to You.  You hereby indemnify the Owner against any loss, liability, expense, claim, penalty or damage suffered by You, whether direct, indirect, special or consequential, arising from or in relation to any third party being able to link such profiles and statistical data to You;
+Keep in mind that whenever you voluntarily disclose personal information online, that information can be collected and used by others. In short, if you post personal information that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are the one responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
 
-5.        With whom is Your information shared?
+### Your consent to this agreement
 
-5.1                While the Owner will attempt not to disclose any of Your personal information to third parties, except when we have your permission or in the legitimate business interests of the Owner, the Owner does not guarantee that Your personal information will not be shared with third parties without Your permission.
-
-5.2                Your personal information may also be shared under the following circumstances:
-
-5.2.1                        where the law requires that the Owner disclose Your personal information;
-
-5.2.2                        to monitor web traffic: web servers serving the Web Site automatically collect information about pages You visit. This information is used for internal review, to tailor information to individual visitors and for traffic audits. This information (as well as information from third-party market researchers), on an aggregated, anonymous basis, is provided to advertisers advertising on the Web Site. Should You provide personal information online as part of an online advertising promotion or in order to access a third party service, such information may be provided directly to the advertiser or the third party concerned;
-
-5.2.3                        Promotions: many promotions offer opportunities to request additional information from sponsors or third parties. When You request more information about a particular promotion, Your e-mail address may be shared with the sponsor of that promotion;
-
-5.2.4                        Online shopping: if You make a purchase from an online store or merchant, the information obtained during Your visit to those stores (including tracking information, cookies, credit card number and contact information) is provided to the merchants. This is to enable transactions to take place;
-
-5.2.5                        Marketing purposes: if You expressly consent to us using your personal information for marketing purposes, You agree that the Owner may, from time to time, share Your personal information with any of its affiliates, subsidiaries, holding companies, partners, or third-party providers for the purposes of sending You marketing-related announcements related to the products, goods and/or services made available by the Owner on the Web Site.  You may at any time opt out of receiving such marketing-relating announcements;
-
-5.2.6                        Third parties: online merchants providing services in association with the Owner have separate privacy and data collection practices. You agree that the Owner has no responsibility or liability for third party policies. For more information regarding the merchant, their store, and their privacy policies, return to that store’s home page and click on the appropriate link;
-
-5.2.7                        Editorial purposes: Your personal information may be used by the Owner for editorial purposes. For example, this may include information You provide during an online survey conducted by our editors. 
-
-5.2.8                        Legal: the Owner may also disclose Your personal information in special cases, where the Owner has reason to believe that such disclosure is necessary to identify, contact or bring legal action against a party who may be breaching the Terms and Conditions or may be causing injury to or interference with (either intentionally or unintentionally) the Owner's rights or property, other users, or anyone else that could be harmed by such activities; and
-
-5.2.9                        For statistics and advertisement purposes: the Owner may perform statistical analyses in order to measure interest in the various areas of the Web Site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" on their advertising banners. The Owner also uses demographic information to allow advertising banners on the Web Site to be targeted, in aggregate. 
-
-6.        What are cookies and how are they used?
-
-6.1                Cookies are pieces of information a Web Site transfers to a user’s hard drive for record-keeping purposes. Cookies make surfing the web easier for You by saving Your preferences and, tracking Your online habits, traffic patterns, and making sure You do not see the same advertisement too often. The use of cookies is an industry standard.
-
-6.2                The Owner may place a "cookie" on Your browser to store and sometimes track information about You. 
-
-6.3                While most browsers are initially set up to accept cookies, You can reset Your browser to refuse all cookies or indicate when a cookie is being sent. Please, note that some parts of the Web Site will not function properly if You refuse cookies. You may occasionally get cookies from third party advertisers. The Owner does not control these cookies. The use of advertising cookies sent by third-party advertisers is an industry standard.
-
-7.        Use of IP Address
-
-An IP address is a number that is automatically assigned to a computer whenever it is connected to the Internet.  The Owner also logs IP addresses, or the location of computers on the Internet.  The Owner collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of the Web Site. The Owner does not ordinarily link IP addresses to personal information, which means that Your session may remain anonymous.  However, the Owner cannot guarantee that this will always be the case.  For example, it may be necessary to identify a particular user when it is necessary to enforce compliance with the Terms and Conditions or to protect our service Web Site, customers or other interests.
-
-8.        Security
-
-The importance of security for all personal information associated with You is of the utmost concern to us.  While the Owner exercises great care in providing secure transmission of Your personal information, no data transmission over the Internet can be guaranteed to be 100% secure.  The Owner cannot guarantee the security of any information you transmit to, or from the Owner's Web Site.
-
-9.        E-Mail
-
-The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You. 
-
-10.        This website uses nugg.ad AG (www.nugg.ad) technology to monitor data on controlling advertising.
-
-To this end, nugg.ad saves the frequency of use of various website topics in the form of cookies. These cookies are stored in the browser of your device (e.g. PC, laptop, smart phone etc.) for a maximum period of 26 weeks. nugg.ad's technology may also save basic information on your use of other Internet websites in order to estimate what advertising might interest you the most. If you would like to see advertising on Internet sites that are of interest to you, then you can opt in to receive a further theme-based analysis of your usage behaviour. If you give your agreement, then this opt-in cookie will also be stored in the browser of your device. It will be stored for 1 year. If previously collected nugg.ad cookies are present in the browser of your device, by setting the Opt-In cookie the following will happen: With your permission the nugg.ad cookie lifespan is lengthened to 1 year (calculated from the moment the cookie is set). 
-
-Information stored on nugg.ad cookies prior to Opting- In is retained and will be deleted upon the expiration of cookie (maximum 1 year). You have the right to prevent the recording of information by the nugg.ad system at any time by exercising your right to opt out. If you have already given your consent, you can also cancel it at any time, effective there after. An opt-out will also be stored in a cookie in your browser's device with a lifespan of 10 years, it will be named "nuggstopp", and will be set by "nuggad.net". For further information of nugg.ad's privacy policy, please go to <http://ad-choices.nuggad.net/index.html.en>. The topic monitor will show you how your interests are estimated on the basis of your previous surfing behaviour. I do not want nugg.ad to analyse my surfing behaviour by topic on Internet sites. This objection will be stored in a cookie on my browser, and has a lifespan of 10 years I would like to see advertising that is relevant to me, and agree to nugg.ad's analysis by topic of my surfing behaviour. This permission is limited to the period of one year Please note the following: The cookie is not to be deleted while there is no permission to monitor data. If you delete all the cookies in your browser, you will have to repeat the process. 
+By using our websites, you consent to the collection and use of information by Tiso Blackstar Group as specified above. If we decide to change our privacy policy, we will post those changes so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
