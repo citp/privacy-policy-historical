@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yieldmo.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116133531id_/https%3A//yieldmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldmo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113007id_/http%3A//www.yieldmo.com/privacy) for the most accurate reproduction.*
 
 # Yieldmo | Privacy
 
@@ -89,3 +89,7 @@ It may be necessary from time to time for us to modify this Policy to reflect ch
 If you would like us to delete (or modify if necessary) all records of your personal information, or if you have any other questions or concerns, please contact us at privacy@yieldmo.com or via mail at the address below: Yieldmo, Inc. Attn.: Privacy 218 West 18th St., 2nd Floor New York, NY 10011.
 
 Last Update: 2017
+
+General Data Protection Regulation (GDPR)
+
+On May 25th, 2018, the EU General Data Protection Regulation (GDPR) will fully go into effect. This regulation replaces the 1995 EU Data Protection Directive and strengthens the individuals' rights regarding personal data relating to them.Yieldmo is committed to GDPR-compliance across our services. As May 25th approaches, we will be sharing more details about our transformation towards being compliant. For any questions related to GDPR compliance, or to inquire about exercising your rights as a data subject, please reach out to us [gdprcompliance@yieldmo.com.](mailto:gdprcompliance@yieldmo.com)
