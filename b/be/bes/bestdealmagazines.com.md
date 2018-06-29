@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdealmagazines.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114192647id_/http%3A//www.bestdealmagazines.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdealmagazines.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629084617id_/http%3A//www.bestdealmagazines.com/privacy.asp) for the most accurate reproduction.*
 
 # BestDealMagazines.com - Terms
 
