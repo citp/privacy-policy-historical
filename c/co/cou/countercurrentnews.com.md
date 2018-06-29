@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012938id_/http%3A//countercurrentnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629090544id_/http%3A//countercurrentnews.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Counter Current News
 
-**CounterCurrentNews.com – PRIVACY POLICY**
+**Counter Current News – PRIVACY POLICY**
 
 **A. Our Commitment to Privacy**
 
-COUNTERCURRENTNEWS.COM (“COUNTER CURRENT NEWS”) realizes the importance of respecting and protecting your privacy.
+COUNTER CURRENT NEWS realizes the importance of respecting and protecting your privacy.
 
-This privacy policy (“Privacy Policy”) discloses the information that COUNTER CURRENT NEWS gathers on the web site COUNTERCURRENTNEWS.COM that COUNTER CURRENT NEWS owns (the “Site”), as well as ways in which COUNTER CURRENT NEWS processes and, sometimes, shares such information and how you can correct or change that information. The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
+This privacy policy (“Privacy Policy”) discloses the information that COUNTER CURRENT NEWS gathers on the web site COUNTER CURRENT NEWS owns (the “Site”), as well as ways in which COUNTER CURRENT NEWS processes and, sometimes, shares such information and how you can correct or change that information. The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
 
 Except where otherwise expressly indicated herein or on the Site, this Privacy Policy applies only to information collected on the Site and does not apply to information collected outside of the Site. Before using or submitting information to the Site please review this Privacy Policy carefully.
 
@@ -187,4 +187,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 **9\. Contacting  COUNTER CURRENT NEWS**
 
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to [Contact COUNTER CURRENT NEWS](http://countercurrentnews.com/contact-counter-current-news/)
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to [Contact COUNTER CURRENT NEWS](http://countercurrentnews.info/contact-counter-current-news/)
