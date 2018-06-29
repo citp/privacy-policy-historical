@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesport.tv privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228153826id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesport.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092722id_/http%3A//www.livesport.tv/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Watch Live Sport | Stream Football, Boxing, Cricket + More Online
 
