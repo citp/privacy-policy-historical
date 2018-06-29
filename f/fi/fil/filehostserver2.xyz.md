@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filehostserver2.xyz privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124185247id_/http%3A//filehostserver2.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehostserver2.xyz privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184734id_/http%3A//filehostserver2.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dedicated Server
 
