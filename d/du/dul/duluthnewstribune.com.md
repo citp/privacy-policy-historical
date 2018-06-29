@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthnewstribune.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231070954id_/http%3A//www.duluthnewstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthnewstribune.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629033537id_/https%3A//www.duluthnewstribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Duluth News Tribune
 
@@ -67,7 +67,7 @@ Third party sites linked to and from the site are not necessarily under the cont
 Forum Communications Company cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
 
 **Opting-Out**  
-We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](https://web.archive.org/web/20171231070954id_/http%3A//user/).
+We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](https://web.archive.org/web/20180629033537id_/https%3A//user/).
 
 Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
 
@@ -78,7 +78,7 @@ You may access and maintain all of the personal information that we collect from
 
 You may also, at any time, choose to change or delete your profile from our database using this procedure. You should know that as a result of deregistration, certain areas of our site may no longer be accessible to you.
 
-1\. Go to the [login page](https://web.archive.org/web/20171231070954id_/http%3A//user/) in your browser.  
+1\. Go to the [login page](https://web.archive.org/web/20180629033537id_/https%3A//user/) in your browser.  
 2\. Sign in by entering your username and password. Your account information will then be displayed.  
 3\. Click 'Edit' to modify your information and submit the form.
 
