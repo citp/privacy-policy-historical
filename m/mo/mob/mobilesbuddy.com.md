@@ -1,100 +1,155 @@
-> *The following text is extracted and transformed from the mobilesbuddy.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesbuddy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629134043id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | New York Post
 
-**GoDaddy Respects Your Privacy**
+_Effective Date: March 23, 2017_
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We at NYP Holdings, Inc. (“Company”, “we”, “us” or “our”), publisher of the New York Post, respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company through our services to which this Notice is linked or referenced to, including direct marketing programs, our websites and mobile apps (collectively, the “Services”)
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Click on one of the links below to jump to the listed section:
 
-**Information Collection and Use**
+  * Information We Obtain
+    * _Information Obtained by Automated Means Through Our Services_
+  * How We Use the Information We Obtain
+  * Interest-Based Advertising
+  * Information We Share
+  * Your Choices
+    * _Accessing, Reviewing, Updating and Modifying Personal Information_
+  * Notice to California Residents
+  * How We Protect Personal Information
+  * Transfers of Information
+  * Links to Third-Party Sites, Apps and Services
+  * Updates to Our Privacy Notice
+  * How To Contact Us
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Information We Obtain
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We obtain personal information about customers through the Services, publicly and commercially available sources and from our Company affiliates and/or business partners.  The types of personal information we may obtain include:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * Username and password when you register through our Services;
+  * Geolocation data; and
+  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+#### Information Obtained by Automated Means Through Our Services
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We also may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services. The information we obtain in this manner may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Services, and dates and times you access or use the Services. In connection with our mobile apps, we also may obtain your phone number and details about your mobile carrier.
 
-**Updating Your Information**
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### How We Use the Information We Obtain
 
-      iii.      You may call us at: (480) 505-8800
+We may use the information collected from and about you to:
 
-       iv.      You may fax us at: (480) 505-8844
+  * Provide our products and services;
+  * Create and manage online accounts;
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
+  * Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes;
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business.
 
-**Compliance with Laws and Law Enforcement**
+We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
 
-**Supplementation of Information**
+### Interest-Based Advertising
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests. We and our third-party service providers also may obtain information for this purpose from third-party websites and apps. This section of our Privacy Notice provides details and explains how to exercise your choices.
 
-**Contests/Surveys**
+We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The ad networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  * click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
+  * click [here](http://youradchoices.ca/choices) in Canada.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.
 
-**What Happens to my Personal Information if I Opt Out?**
+We participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, News Corp Connect, who gathers information for the purposes as described above. To learn more about News Corp Connect, and how to opt out, please click [here](http://ncaudienceexchange.com/privacy/).
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We may share customer personal information as described above with
 
-**Transfer of Data Abroad**
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes.  A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
+  * Our third party clients or business partners, such as advertisers and social media services and other third parties, for those third parties’ own marketing purposes, such as to serve targeted advertisements.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.  We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
-**Contacting Our Site**
+### Your Choices
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.
 
-* * *
+To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the How To How To Contact Us section below.
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails.
+
+To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
+
+  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * In Canada: <http://youradchoices.ca/choices>.
+
+
+
+#### Accessing, Reviewing, Updating and Modifying Personal Information
+
+You have the right to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking to access or update his/her personal information records.
+
+### Notice to California Residents
+
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
+
+### How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+### Transfers of Information
+
+The Services may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice.
+
+### Links to Third-Party Sites, Apps and Services
+
+For your convenience and information, our Services may provide links to third-party sites, apps and services that may be operated by companies not affiliated with the Company. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any sites, apps or services not owned by us.
+
+### Updates to Our Privacy Notice
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated.
+
+### How To Contact Us
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us at:
+
+[privacy@nypost.com](mailto:privacy@nypost.com)
+
+or
+
+NYP Holdings, Inc.  
+Attention: Privacy Lead  
+1211 Avenue of the Americas  
+New York, NY 10036
