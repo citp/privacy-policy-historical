@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbpp.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119223736id_/https%3A//www.cbpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbpp.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629231331id_/https%3A//www.cbpp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Center on Budget and Policy Priorities
 
@@ -43,3 +43,9 @@ CBPP has in place administrative, technical, and physical safeguards to protect 
 #### **Consent**
 
 This online privacy policy applies only to information collected through our website and electronic communications, and not to any information collected offline.  By using our site, you consent to this privacy policy.  
+
+#### **Details**
+
+Details of the CBPP website privacy and cookie policies can be viewed using the links below.
+
+[Privacy Policy](https://www.iubenda.com/privacy-policy/24120964 "Detailed Privacy Policy") [Cookie Policy](https://www.iubenda.com/privacy-policy/24120964/cookie-policy "Detailed Cookie Policy")
