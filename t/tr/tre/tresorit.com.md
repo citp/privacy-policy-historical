@@ -1,135 +1,348 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701115307id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629225455id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
-Our mission is to provide a novel approach to secure cloud storage. Tresorit will allow you to share files, and collaborate with your partners, colleagues and friends with cryptographic end-to-end security guarantees. As our objective is to operate such a high-quality service perfectly, we attach great importance to the protection of your Personal Data and your right to self-determination and make every necessary precaution in order to safely handle your Personal Data.
+For Tresorit, security and data privacy are of paramount importance. This Privacy Policy details our commitment to protecting the privacy of individuals in accordance with the GDPR.
 
-This Privacy Policy (hereinafter referred to as: “Policy”) applies to www.tresorit.com owned and operated by Tresorit Kft, and its wholly owned subsidiary, Tresorit AG (together as ”Tresorit”, “we”, “our”, “us”). This Policy provides our policies and procedures for collecting, storing, using, processing and disclosing your personal information and also forms an integral part of the Terms and Conditions of Use (hereinafter referred to as: “Terms”). 
+The main content contains the legally binding full-length version. To help you understand the policies better, we collected some helpful notes at the end of each paragraph to sum up the key points of the main content.
 
-The provisions of this Policy are in conformity with Act CXII of 2011 on the Right of Informational Self-determination and Freedom of Information (hereinafter referred to as: “Data Protection Act”) and EU Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+For Tresorit, security and data privacy are of paramount importance. This Privacy Policy details our commitment to protecting the privacy of individuals in accordance with the GDPR.
 
-Tresorit is dedicated to continuous improvement of all parts of the Service, so if you have any question or feedback on this Policy, please let us know by sending an email to [support@tresorit.com](mailto:support@tresorit.com).
+The main content on the left contains the legally binding full-length version. To help you understand our Privacy Policy better, we collected some helpful notes on the right to sum up the key points of the main content.
 
-In this Policy, unless it is expressly provided otherwise, or the context otherwise requires, the following terms shall have the meaning set forth below:
+## Our Data Privacy Commitment
 
-**“Data Controller”** (also ”Tresorit”, “we”, “our”, “us”) means Tresorit Kft., a company organized and validly existing under the laws of Hungary (registered office: H-1095 Budapest, Lechner Ödön alley 6., Hungary, EU, registering authority: Company Court of Budapest-Capital Tribunal; registration number 01-09-969460; VAT Number: HU23520152) and its wholly owned subsidiary, Tresorit AG, a company organized and validly existing under the laws of Switzerland (registered office: CH-9052 Niederteufen AR, Büelstrasse 7, Switzerland, registering authority: Commercial Register of the Canton of Appenzell Ausserrhoden, registration number CH-300.3.017.920-5) , which determines the purposes and means of the Data Management, makes the decisions on the Data Management (including the means used) and executes and / or appoints a Data Processor to execute such decisions.
+In a nutshell
 
-**“Data Management”** means any operation or set of operations performed by the Data Controller on data, in particular collection, record, organization, storage, alteration, usage, query, transmission, disclosure, alignment, combination, deletion and erasure of data irrespective of the means thereof.
+Our mission is to make privacy and security available to people and businesses. That’s why we use end-to-end encryption to protect files and folders you share and store in the cloud.
 
-**“Data Processing”** means the performance of technical tasks related to Data Management regardless of the method, means and place of application.
+We encrypt all and every transmission containing personal data using Secure Socket Layer technology (SSL) and apply additional, client-side encryption on the files and directories uploaded and stored in protected storage folders (the Encrypted Content).
 
-**“Data Processor”** means a natural or legal person or organization without legal personality performing Data Processing on the basis of a contract concluded with the Data Controller.
+We never collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. However, if you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content may also be accessed by your Subscription Owner.
 
-**“Data Subject”** (also “you”, “your”) means any natural person identified or directly or indirectly identifiable on the basis of Personal Data.
+According to the best of Tresorit’s knowledge, the current state of the art and the public knowledge of the human race, Tresorit is unable to decrypt the Encrypted Content and accordingly, Tresorit cannot access it. As a result, we cannot use Your Encrypted Content to identify any individual.
 
-**“Data Transmission”** means granting access for specified third persons to data.
+However, when using the service, creating and using your user account, you also submit some non-encrypted data, which may include personal data as well.
 
-**“Personal Data”** means any data which can be associated with the Data Subject, in particular first name, last name, personal identification, one or more physical, physiological, mental, economic, cultural or social characteristics, and any conclusions which can be drawn from the data upon the Data Subject.
+Even though we can’t read or access the files and folders you store in Tresorit, we need to process some of your personal data to provide you with services.
 
-Tresorit may collect, record, store, process and transmit your Personal Data and other information only with your consent. By using our services, you give your consent to Tresorit to perform Data Management solely in accordance with this Policy.
+  * Who will process your personal data?
 
-We make all the necessary measures to safeguard and protect your Personal Data and other information you provide to us or we may obtain from your usage of our services. We think privacy is a high priority, therefore this Policy primarily focuses on the authenticity and integrity of Data Management, while the implementation of our scheme tries to take the best available technical and organizational measures in order to obviate any kinds of breach.
+  * What kind of personal data do we process?
 
-The security of your personal data is important to us. When you use our services, we encrypt all and every transmission of information using Secure Socket Layer technology (SSL), and we also apply additional, client side encryption on Your Encrypted Content as defined later. We follow generally accepted standards, and we usually go beyond the standards to protect the personal information submitted to us, both during transmission and once we receive it. We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. Files and some corresponding encryption keys can only be decrypted by the people you explicitly shared with, or in case of a business account with recovery master key, by Your Business Domain Administrator. According to the best of our knowledge, the current state of the art and the public knowledge of the human race, we cannot decrypt Your Encrypted Content. During using the service, you also submit some non-Encrypted Content, like your email address. Although we don’t use client side encryption to those data, the transmission and storage of such data is still highly secured, and access is strictly restricted. Even though we do our best with such data, no method of transmission over the Internet, or method of electronic storage is 100% secure. If you have any questions about security on our site, you can contact us at [support@tresorit.com](mailto:support@tresorit.com).
+  * What is the legal basis for processing?
 
-**The scope of our Data Management includes the followings:**
+  * How do we use your data?
 
-Personal Data and other information you give us: Tresorit account creation process requires giving us certain Personal Data and other contact information. The collected Personal Data may include your e-mail address, first name, last name and a certificate created in relation with such information, and we may also store billing and payment information associated with you. The visibility of your Personal Data is restricted, will be accessible only by us, or in case of a business account, by Your Business Domain Administrator. Your email address, first and last name are visibly by the people you send an invitation to, or from whom you accept an invitation. In case you accept somebody’s invitation, the inviter will be able to access your Personal Data to the same limited extent. You are free to decline any invitation, and if you do so, the inviter will not get access to your Personal Data. Please note that your Personal Data transmitted is encrypted, but stored in non-client-side encrypted format , in order to provide the service, like we need your email address to send you email notices. 
+  * How do you use your personal data?
 
-Your Encrypted Content: The files and directories you upload and store using our services will be encrypted in such a way that neither we nor any third parties can access its content and its encryption keys or files in a readable form. Our encryption process is designed to provide access to such data up to the extent allowed by you, and nobody else is able to decrypt Your Encrypted Content, except in case of a business account, in which case Your Business Domain Administrator might have a master key to Your Encrypted Content. This Policy does not grant us any right to your files or intellectual property, we and the Data Processor mandated by us perform only Data Procession tasks which are needed for providing the services as explained below. You understand that in order to provide the services Tresorit may perform Data Management such as access, transmit across networks and modify the location of Your Encrypted Content solely in an encrypted form.
+  * Do we share your personal data with third parties?
 
-Support Request: You may connect with us using our support system at support.tresorit.com or writing an email to [support@tresorit.com](mailto:support@tresorit.com), or other means. Unless you contributed on our public community site, the visibility of your request is restricted. You understand that those requests are transmitted encrypted, but stored non-encrypted format in order to be able to provide You support.
+  * Where do we transfer your data?
 
-Monitoring / Website / Cookies: Improving our services is really important for us, therefore we collect information for monitoring and debugging purposes. Please note that these types of information are collected automatically as a result of your use of the services or through the use of our website and web analytics services as described below. Such information may include your internet protocol address, your unique software ID, aggregated an anonymized error statistics, the type of browser you use, the site you visit immediately prior to visiting our website etc., but we never collect unencrypted or invertible passwords, encryption keys or files, and Tresorit Application does not monitor your activities of other applications on your device, except the file changes in folders you explicitly choose to sync. When you are using our services or visiting our website, your activities and information regarding these activities are also logged, while the website might use cookies and other tracking technologies in order to collect information for improvement purposes. Cookies are small text files that are placed on your computer by websites that you visit. These text files can be read by these websites and help to identify you when you return to a website. Cookies can be “persistent” or “session” cookies. Persistent cookies remain on your computer, when you have gone offline, while session cookies are deleted, as soon as you close your web browser. You are free to decline these cookies by applying the appropriate browser settings but please note that by doing so, you may experience interference during the use of our website only. You can decline to provide us error statistics in the client, but please note that in this case, it might be more difficult to our support team to find the problem when something goes wrong. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+  * How do we protect your data?
 
-Communication between our users: As a part of our services, Tresorit delivers invitations, for the purpose of which Tresorit stores and accesses such communication between you and the person who invites you or whom you invited. All Personal Data and other information regarding invitations and referrals (e-mail address, name, tresor name and its unique URL, storage account and username of the inviter / invited person), data entered into our forms and any other communication you send us are subject to our Data Management, therefore these types of Personal Data and other information remain in a non-encrypted form until deleted in accordance with Section 5 below.
+  * How long will we retain your information?
 
-As we collect, store, transmit and process various types of Personal Data, such as full name, email address and other information, we feel that it is essential to make clear the purposes for such operations. When you download and use our services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). We do not ask for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or Services. Please note that by creating a Tresorit account and using our services you acknowledge and agree with the following objectives and purposes.
+  * Any further question?
 
-In general, we use the submitted information for functional and improvement reasons, and we do not sell any of the submitted information. It is also important to underline that we want to prevent and take action against any activity that is or may be in breach of the Terms https://tresorit.com/terms-of-use, this Policy or the effective legal provisions. In light of these principles, we detail the purposes of Data Management for the following specific types of data as follows:
 
-Information you give us / Invitation messages: Your e-mail address and your first / last name are used for identification and contact purposes, as they are necessary to create and maintain specific Tresors, as well as keeping up the communication channels among us and our users. The same provision applies to every invitation message sent out, thus we can track our user groups, and improve our service from time to time. When you invite or send a referral to a Third Party, who is not already a Tresorit user, we store the contact details you provided us, like email address, in order to notify such user about your invitation. We might notify an invited user not more than 3 times, and a referred users not more than 1 time, unless you, or another Tresorit user send an invitation or referral again. We don’t sell any Third Party data, and Third Party can choose not to receive more notifications any time, by using the unsubscribe link included in these notifications. 
 
-Monitoring / Website / Log Data: There are mainly statistical reasons behind the storage of such information regarding the visitors of our website, their browser types, the Tresorit client version, internet protocol addresses, aggregated error logs or unique software IDs, the unique file IDs and encrypted filenames you uploaded or downloaded. By storing and analyzing such information, we will be able to create in-depth analysis about our service, which is essential for improvement, security and debugging purposes. Please note that any data stored or collected for statistical purposes will not be disclosed to any third parties, other than included in this policy our in our Terms of Use. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal data to third parties. While we cannot access Your Encrypted Content in a readable, clear text format, you understand that we may need to share some of your Personal Data or other information we obtain from your use of Our Service in the following circumstances:
+## Who will process your personal data?
 
-_Disclosure on legal order or business purposes_
+Tresorit services are provided by Tresorit AG (company registration no: CH-300.3.017.920-5; address: Minervastrasse 3, 8032 Zurich) (Tresorit), a company registered under the laws of Switzerland. If you have a subsciption with Tresorit as an individual user, Tresorit will be the controller of your personal data under EU law.
 
-Tresorit may transmit Personal Data if the applicable legal provisions so require, or when such action is necessary to comply with any laws, such as to comply with a subpoena, or similar legal process, authorities’ or court’s orders, for the protection of our rights and interests, to protect your safety or the safety of others or to investigate fraud.
+Your data is processed by Tresorit. However, if you are a part of a business subscription, certain data is processed upon the instructions of your organization.
 
-If Tresorit is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal information.
+If your account is part of a Business Domain in accordance with section III of our Terms, in certain cases, the ultimate decisions regarding your personal data will be made by your organisation. In such case, your company will be considered as a controller and Tresorit will act as a processor, acting upon the instructions of your organisation.
 
-_Using third party services_
+In any case, certain activites of Tresorit are outsourced to third parties (processors), they may also use your personal data when acting on behalf of Tresorit. You can find more details about our sub-processors [here](https://support.tresorit.com/hc/en-us/articles/216114397-Third-party-services).
 
-You understand and accept that our website, Software and services may contain or implement applications, APIs, tokens, extensions, etc. that may be necessary for the operations of our services or allow you to interface with, link to and/or import content from various websites and services provided by trustworthy third parties, including but not limited to those of the Data Processor, such as Microsoft Azure or third parties for purposes of fraud prevention or to process payment transactions. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+## What kind of personal data do we process?
 
-_Sharing content by You_
+### A) Data that you provide to us
 
-When you share content using our Service with a third party, including sharing through encrypted links or sharing tresors, by the nature of sharing, some of your profile data and the content you share will be shared with that shared party. When you share content, your activity, relevant metadata of file edits or downloads, might be disclosed to the shared party.For example, when you edit a document, the other members of the tresors will see that you carried out this activity after you have uploaded it. If You are using Tresorit DRM, Your activity metadata may also include information about when you opened a DRM –protected document.
+**Registration information.** When you register for our services, you submit some non-encrypted identification and contact data (such as your e-mail address, name, job title or position, address, phone number). The data that we request at the time of registration is necessary for the provision of our services.
 
-_Business Administrator_
+Certain basic information, like your name and email address, is necessary for setting up a Tresorit account.
 
-When you have a business account, we may share your account’s usage, your profile data (e.g. Your name and Your email address), and your Non-Encrypted Content. If your Administrator set up a recovery master key, that Administrator may also be able to access your Encrypted Content. You can always check if such recovery master key is set up inside the application, under the Settings menu. 
+**Billing Information.** At the time of registration, you also need to provide us certain billing information. You might also provide payment information, such as payment card details, which we collect via secure payment processing services. This data is necessary in order to provide you Tresorit services.
 
-## Personal Data
+When you purchase a subscription, you also need to provide payment information, which will be handled by secure processing services.
 
-As a registered user, you can view your Personal Data stored by us at any time at the Settings/Account page in the client or you can connect with our support team at support@tresorit.com for further information. You can edit or delete these data from our database if your Personal Data have changed, or if you decide to stop using our Service, without limitations, by using the same Account page or contacting us at [support@tresorit.com](mailto:support@tresorit.com).
+**Account information.** When you use our services, you provide us access to certain information (such as the name and the permission history of your Tresorit Folders) that is necessary for the provision and maintenance of your user account. For the avoidance of any doubt, Tresorit cannot connect such metadata information to Your Encrypted Content or file names as Tresorit has no access to the Encrypted Content or file names.
 
-You understand and accept that the deletion of your Tresorit account does not mean the immediate deletion of all of your Personal Data stored by us. We will retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. For identification purposes, Tresorit reserves the right to store your e-mail address for 1 year after your user account has been deleted. Same provision applies to the invitations you have sent out, as Tresorit will store such information for at least 90 days, but not more than 1 year after the validity of such invitation has expired. Upon the expiry of the aforementioned deadlines, Tresorit destroys such data in a way that those will not be available again to anyone.
+In order to send and deliver invitations upon your instructions, Tresorit stores and accesses certain personal data (such as the email address, name, Tresor name and its unique URL, storage account and username of the inviter and the invited person). Please note that your email address, first and last name are visible to others when you send them an invitation to, or if you accept an invitation.
 
-You also understand and accept that your Personal Data necessary for sending and receiving invitations may remain accessible to persons to whom you sent an invitation, or from whom you received and accepted an invitation, even if your Tresorit account is deleted or the invitation you sent or accepted has expired, or you stop sharing your Your Encrypted Content with such persons.
+Some information about your Tresorit Folders is unencrypted, like its name, size and members. This is needed for features like your activity wall.
 
-Your email address may also be used for us to send you promotional or marketing emails. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails or you may also contact us at support@tresorit.com. Push notifications may be sent to your device to notify you of new folders being shared. To opt out of push notifications, please edit settings at the device level.
+**Other Information.** You may decide to share further information, including personal data, with us when you contact our Support or Sales Teams, submit forms on our website or otherwise communicate with us. It is solely your decision to share any detailed, non-aggregated logs (which may contain e.g. non-encrypted filenames), your screen or any other data with us during such communications, so our processing of such data will be based on your consent.
 
-## Your Encrypted Content
+Sometimes, when you require assistance from our Sales and Support teams, you may choose to share additional information with us.
 
-As a registered user, you can access, edit or delete Your Encrypted Content. Once your Tresorit account is deleted for any reason, your Your Encrypted Content will be automatically deleted as well.
+**Information that we collect about you on our website.** When you visit our website, we and our partners may use cookies and other information gathering technologies for a variety of purposes. These technologies may provide us with personal data, information about devices and networks you utilize to access our website, and other information regarding your interactions with our website. For detailed information about the use of cookies in the website, please read and review our [Website Cookie Policy](https://web.archive.org/cookie-policy) and [Service Cookie Policy](https://web.archive.org/service-cookie-policy).
 
-You understand and accept that in line with the functionality of our services, in case you make any change to your Your Encrypted Content, based on your Aggregated User Plan, some previous versions of Your Encrypted Content might remain accessible to you and to the persons with whom you shared such previous versions. You may increase the number of the previous versions of your Your Encrypted Content which remains so accessible by upgrading your Tresorit account. You also understand and accept that previous versions of Your Encrypted Content exceeding this number or Your Encrypted Content which is chosen to be deleted by you or the people you gave appropriate permission, or due to the termination of your Tresorit account, might be restored for some days based on your Aggregated User Plan by the people you shared with the Your Encrypted Content. More than 30 days, but not more than 90 days after the expiry of such deadline Your Encrypted Content will be destroyed in a way that those cannot be restored and will not be available again to anyone, including you.
+We collect data through cookies and similar technologies on our website.
 
-Please note, as stated and regulated in Terms, we can delete or revoke access to Your Encrypted Content or to your account any time if you are in violation of Terms. We can also delete Your Encrypted Content or your account if you are a free user and you are inactive for more than 120 days, or if you failed to pay, or paid late as stated and regulated in Terms. 
+**Website statistics.** You can visit the Tresorit website, which is separate from the Tresorit app and service, without providing any direct information about yourself.
 
-You understand that once you shared all or a part of Your Encrypted Content by using Our Service with any person who accepted your invitation, such content goes out of your Control and remains accessible by such person to the extent you granted such person access, even if you select to delete or remove Your Encrypted Content.. Therefore we ask you to pay special attention with whom you share Your Encrypted Content.
+We store access data without direct personal references, namely the visitor’s browser types, the name of your internet service provider, the website from which you have visited us, the name of the requested file, the Tresorit client version you download, and internet protocol addresses.
 
-It is the Policy of this Company to thoroughly investigate and treat seriously any suspicion of a potential breach of its systems that would allow access to Your Encrypted Content in an unencrypted or otherwise readable form by unauthorized third parties. If such an unlikely event were ever to occur, Tresorit would promptly notify you via the e-mail address provided in the Personal Data.
+Unless you choose to identify yourself, either by responding to a promotional offer, opening an account or filling out a web form, this data does not allow us to draw any conclusions regarding your identity. By storing and analyzing such information, we are able to create in-depth analysis about our service, which is essential for improvement, security and debugging purposes.
 
-In the event your Encrypted Content contains Protected Health Information (“PHI”) and is stored by you as a Covered Entity or Business Associate, all as defined under the American Recovery and Reinvestment Act of 2009 (ARRA), including the Health Information Technology for Economic and Clinical Health Act, 42 U.S.C. 17921-17954 (HITECH), and the Health Insurance Portability Act of 1996 (HIPAA), then Tresorit’s handling of such PHI shall comport with the HIPAA and HITECH standards, to the extent Tresorit is a Business Associate and we have executed a HIPAA Business Associate Agreement with you. In the unlikely if not impossible event of a disclosure by Tresorit of the PHI in an unencrypted (or otherwise readable) form to an unauthorized third party, Tresorit shall undertake timely notification to you as a Covered Entity or Business Associate, pursuant to the terms and conditions of the applicable Business Associate Agreement.
+We collect data from our website visitors – we can’t identify you directly without your consent.
 
-Our site includes links to other web sites whose privacy practices may differ from those of Tresorit. If you submit personal data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+**Logs.** As most websites and services provided through the Internet, we gather certain information and store it in log files when you interact with our website or service.
 
-Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community forum, contact us at support@tresorit.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+This information includes internet protocol (IP) addresses as well as browser type, operating system, identification numbers associated with your devices, time of access, and error logs.
 
-You can log in to our support system using sign-in services such as Facebook Connect, Twitter or an Open ID provider, but such login will not give you access to your Encrypted Content. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this web site to your profile page to share with others within your network. We strongly recommend you to use unique password for Your Tresorit Account, which differs from your passwords used elsewhere. 
+We log website visits and application usage statistics to improve our services.
 
-As every high-quality service, Our Service is constantly improved in effort to keep users satisfied, but these improvements necessarily mean changes. Due to the on-going changes in the law and the changing nature of technology, data practices will change from time to time. Thus, Tresorit reserves the right to alter or modify this Policy when it is necessary. If Tresorit makes any material change to this Policy, you as our registered user will receive a 30 day prior written notification in e-mail and these changes will be detailed also on this page in order to ensure that you are fully aware of what information is collected or stored, how it is used and under what circumstances it will be disclosed or transmitted so that you can make your own decision whether or not to continue using our services in light of such changes. Your privacy will not be reduced without your consent. If you are concerned about how your information is collected, stored, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in this Policy, please see Section VIII of this Policy for further contact information.
+**Analytics.** When you download and use our services, we automatically collect information such as the type of device you use, operating system version, your Tresorit client version and the IP addresses associated with you.
 
-IX. Further information and contact options
+### B) Information that we collect from third parties
 
-You are entitled to enquire adjustment or deletion of your stored Personal Data. Furthermore, if you have questions about this Policy or want to know further information or explanation about the data we store about you, please contact us by email at [support@tresorit.com](mailto:support@tresorit.com), or write to us at:
+**Other users of our services.** Other users of Tresorit services may provide information about you while using our service. For example, we receive personal data about you when somebody sends you an invitation or add you to their contacts. Similarly, your Subscription Owner may provide your contact information when they designate you as a user under your company’s policy.
 
-_Tresorit AG_
+We also receive personal data when new users are invited to a business subscription or to a Tresorit Folder.
 
-_Reg. number: CH-300.3.017.920-5_
+**Our resellers and distributors.** From time to time, we engage trusted business partners who help us generate leads, and market, promote and resell our product. We receive information from these partners, such as billing information, contact information, company name and registered address.
 
-_Büelstrasse 7_
+**Other partners.** We receive information about you and your activities on our website from third-party partners, such as advertising partners. Upon your consent, such partners provide us with information about your engagement with our website and online advertisements. If you want to learn more, please see our [Website Cookie Policy](https://web.archive.org/cookie-policy).
 
-_CH-9052 Niederteufen AR_
+We reach out to audiences who might be interested in our product with targeted marketing campaigns.
 
-_Switzerland_
+## What is the legal basis for processing? (for EEA users)
 
-Or to
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. This means we collect and use your information only where:
 
-_Tresorit Kft._
+We only collect and use your personal data with a lawful basis: with your consent, when it is necessary in order to provide our services, when we need to fulfill a legal obligation or when there’s a legitimate business reason behind.
 
-_Reg. number: 01-09-969460_
+## How do we use your data?
 
-_Lechner Ödön alley 6._
+We may process your personal data for several purposes. How we use your personal data depends on your subscription plan, on how you use the Tresorit services, and your preferences you have communicated to us.
 
-_H-1095 Budapest_
+### Services 
 
-_Hungary, EU_
+  * We will use your personal data, such as Registration and Account Information, for the provision and maintenance of your user account, for authentication purposes, and for providing the Tresorit service to you and to other registered Tresorit users as designated by you.
 
-_Hungarian National Authority for Data Protection and Freedom of Information registration number: NAIH-71964/2014._
 
-[Old version of Privacy Policy](https://web.archive.org/legal/privacy-policy-old)
+
+### Billing 
+
+  * We will process your Registration and Billing Information for billing purposes, i.e. to complete transactions, and send you related information, including purchase confirmations and invoices.
+
+
+
+### Communications 
+
+  * We will send you technical notices, updates, security alerts, support and administrative messages. Please be aware that you cannot opt out of receiving certain service messages from us, including necessary security alerts and legal notices.
+  * We also send messages about how to use the services. You may [change your communication preferences](https://web.tresorit.com/account/profile) any time.
+  * Push notifications (in-app) may be sent to your device to notify you of new folders being shared or certain events or user actions regarding the user account or the user’s data. To opt out of push notifications, please edit settings at the device level.
+  * Our service also enables communications between you and others. In particular, sending and delivering invitations, between you and the person who invites you or whom you invited.
+
+
+
+You cannot opt-out of emails which contain necessary information such as security alerts and legal notices.
+
+We will send you emails with tips and tricks on how you can use Tresorit the best. You can change your email preferences anytime.
+
+### Developing Services 
+
+  * We are always looking for ways to make Tresorit services better, faster, smarter, and more secure. We use aggregated web statistics and logs about how people use our services and feedback provided directly to us to troubleshoot and to identify trends, usage, activity patterns and improvement of our services.
+  * We also test and analyze certain new features with some users before rolling the feature out to all users. 
+
+
+
+We collect and analyze usage data from our users – this data is used for the research and development of our services.
+
+### Marketing 
+
+  * If you are an existing customer of Tresorit, we may use your email address and phone number provided to us to send you marketing communications, such as providing you with information about similar Tresorit products and services, unless you have opted-out.
+  * We may also use information about you, including web statistics and logs, to personalize the content and experience you receive on our websites or in our marketing communications, as well as by displaying Tresorit ads on other companies' websites and applications, such as on platforms like Facebook and Google. Where legally required, we also seek your consent for sending marketing communications.
+
+
+
+### Security 
+
+  * We use information about you to secure your profile, verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of our Terms of Use.
+
+
+
+Some of your data is used for authentication. This is required to secure your account and to prevent fraud or theft.
+
+### Customer Support 
+
+  * Occasionally, we connect personal information to information gathered in our log files as necessary to provide better customer experience and to improve our services. In such a case, we would treat the combined information in accordance with this policy.
+  * You may opt-out to send those statistics or logs any time by editing settings at device level, but please note that in this case, it might be more difficult to our support team to find the problem when something goes wrong.
+
+
+
+Tresorit collects your activity and usage statistics to log files, which is also helpful when you require the assistance of our support team.
+
+### Protecting our legitimate business interests and legal rights 
+
+  * Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business. 
+
+
+
+### Aggregate Insights 
+
+  * We use mobile analytics software to allow us to better understand the functionality of our mobile application on your device. This software may record information such as how often you use the mobile application, the events that occur within the mobile application, aggregated usage, and performance data. While we use your information to produce aggregate insights, such insights do not identify you.
+
+
+
+We use your data to generate aggregate user insights that we use to research and develop our product. These insights cannot be used to track your individual actions.
+
+### Other purposes
+
+  * We may also process your data for any other purposes for which we obtain your consent where necessary or otherwise in accordance applicable law and this policy.
+
+
+
+## How do you use your personal data?
+
+Please remember that if you share Your Encrypted Content with someone, you may reveal details about yourself. Your email address, first and last name are visible by the people you send an invitation to, or from whom you accept an invitation. We are not responsible for your use of any otherwise personal data, which you make available to others via invitations, or the activities of other users or other third parties to whom you give or make available your information.
+
+## Do we share your personal data with third parties?
+
+We will share your personal data with third parties only in accordance with this policy. We will never sell your personal data to third parties. However, we may need to share some information, including personal data, we obtain from your use of our service in the following circumstances.
+
+### 1) Complying with legal requirements
+
+Tresorit may transmit personal data if the applicable legal provisions so require, or when such action is necessary to comply with any laws, including to meet national security or law enforcement requirements. We may also need to share personal data for the protection of our rights and interests, to protect your safety or the safety of others or to investigate fraud, in accordance with the applicable laws.
+
+In certain cases, we may need to oblige to national security or law enforcement requirements and provide personal data to authorities.
+
+### 2) Using third-party service providers
+
+In certain cases we need to share information, including personal data with our third-party service providers. We use third-party service providers for a number of services, including application development, backup, storage, payment processing, analytics and other services. We require our third-party service providers to use the personal data that we share with them solely in connection with the services they provide to us. The current list of our service providers is available [here](https://support.tresorit.com/hc/en-us/articles/216114397-Third-party-services).
+
+As any other business, we may need to share personal data with other service providers that we use in our operation for billing, backup, analytics etc.
+
+### 3) Sharing content by you
+
+We may also share personal data with third parties when we have your consent to do so. For example, information, including personal data, will be shared with a third-party when you share content using our service with a third party (e.g. through share links and collaborating in Tresorit Folders). When you share content or content is shared with you – either by accepting, downloading, assessing a Tresorit link or invitation –, your activity, relevant metadata of file edits or downloads, might also be disclosed to the shared party. You acknowledge that once you shared all or a part of Your Encrypted Content by using our service with any person who accepted your invitation, such content goes out of your control and remains accessible to the extent you granted access. Accordingly, we ask you to pay special attention with whom you share Your Encrypted Content.
+
+When you are a member of a shared folder, besides its content, your activity will also be visible to other members.
+
+### 4) Your Subscription Owner
+
+If your account is subject to Advanced Control, your Subscription Owner may also be able to access Your Encrypted Content as set out in section III of our Terms. You can always check whether Advanced Control is set up in respect of your account, under the Settings menu.
+
+By accepting Advanced Control, you give your Subscription Owner permission to have cryptographic access to your files.
+
+### 5) Business Transactions
+
+We may assign or transfer this policy, as well as your account and related information and data, including any personal information, to any person or entity that acquires all or substantially all of our business, stock or assets, or with whom we merge.
+
+Regardless of any changes that might happen in our company, your personal data will be protected the same way as it is right now.
+
+### 6) Testimonials
+
+From time to time, we may post testimonials on our website that may contain personal data. We obtain your consent to post your name along with your testimonial. If you wish to update or delete your testimonial, you can contact us at [support@tresorit.com](mailto:support@tresorit.com).
+
+### 7) Referrals
+
+If you choose to use our referral service to tell a friend about our products and services, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to visit our website and will store this information for the purpose of sending this initial email, tracking the success of our referral program and other marketing activities. We will not contact him or her more than once. Your referral may contact us at [support@tresorit.com](mailto:support@tresorit.com) to request that we remove their information from our database.
+
+## Where do we transfer your data?
+
+Tresorit AG is a company organized and existing under the laws of Switzerland, having affiliates within the territory of the EEA (Hungary). Switzerland was already granted a data protection adequacy status by the European Commission. The effect of such a decision is that, if you are located in the EEA, transfer of your personal data to Switzerland are practically considered as intra-EU transmission of data.
+
+We primarily store personal data within the EEA. Your personal data stored with us may also be transferred to countries outside of the EU. All such transfers of personal data are and will be made in accordance with applicable laws. You can reach the list of our current sub-processors [here](https://support.tresorit.com/hc/en-us/articles/216114397-Third-party-services).
+
+Your data may be transferred outside of the EEA in accordance with legal and regulatory requirements.
+
+## How do we protect your data?
+
+### A) Security
+
+We take appropriate technical and organizational measures to protect your personal data against loss or other forms of unlawful processing. Tresorit is [ISO 27001:2013](https://www.certipedia.com/certificates/01+153+1724272%252F02?locale=en) certified.
+
+### B) Confidentiality
+
+We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them with. If you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content also may be accessed by your Subscription Owner as set out in our Terms.
+
+According to the best of Tresorit’s knowledge, the current state of the art and the public knowledge of the human race, Tresorit is unable to decrypt the Encrypted Content and accordingly, Tresorit cannot access it. As a result, we cannot use Your Encrypted Content to identify any individual.
+
+We protect your data with the highest level of security technology available.
+
+## How long will we retain your information?
+
+### A) Your Personal Data
+
+We will retain your personal data as long as it is needed to fulfill the purposes specified above, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). When we have no ongoing legitimate business need to process your personal data, we will either delete or anonymize it as soon as it is technically possible.
+
+If your personal data is held by us on behalf of your company, we will retain such personal data in accordance with the terms and conditions of our data processing agreement with them, subject to applicable law.
+
+### B) Your Encrypted Content
+
+As a registered user, you can access, edit or delete Your Encrypted Content. Once you delete a Tresorit Folder for any reason, Your Encrypted Content will also be automatically deleted within 90 days. For technical and support reasons, we may keep your data for 60 days from the date when you delete a Tresorit Folder. Please note that after this date, Your Encrypted Content will be destroyed in a way that those cannot be restored and will not be available again to anyone, including you.
+
+You understand that once you shared all or a part of Your Encrypted Content by using Our Service with any person who accepted your invitation, such content goes out of your Control and remains accessible by such person to the extent you granted such person access, even if you select to delete or remove Your Encrypted Content. Therefore we ask you to pay special attention to whom you share Your Encrypted Content with.
+
+### Your privacy rights
+
+You may ask us to:
+
+  * provide information to you about the personal data that we or our processors maintain about you,
+  * correct inaccuracies or amend your personal data,
+  * delete your personal data.
+
+
+
+You can request this by send an email to [support@tresorit.com](mailto:support@tresorit.com). We will respond to your request within thirty days. Please note that, we may ask you to verify your identity before complying with the request.
+
+If you are from a country where the GDPR applies, you may have additional rights such as:
+
+  * In certain circumstances, you may have a broader right to erasure of your personal data. For example, if it is no longer necessary in relation to the purposes for which it was originally collected. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+  * You may have the right to request us to stop processing your personal data and/or to stop sending you marketing communications.
+  * You may have the right to request that we restrict processing of your personal data in certain circumstances (for example, where you believe that the personal data we hold about you is inaccurate or unlawfully held).
+  * In certain circumstances, you may have the right to be provided with your personal data in a structured, machine readable and commonly used format and to request that we transfer the personal data to another data controller without hindrance.
+
+
+
+If you would like to exercise such rights, please contact us at [support@tresorit.com](mailto:support@tresorit.com). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may ask you to verify your identity before complying with the request.
+
+Please note that if your account is part of a Business Domain, we will not independently respond to your request without your organisations’s prior written consent, except where required by applicable law.
+
+You also have the right to complain to a data protection authority or claim damages before the court. For more information, please contact your local data protection authority. A list of contact details for the EU data protection authorities is available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+If you want to exercise your data privacy rights, please email us. We may ask for proof of identity.
+
+### Withdrawal of consent
+
+In cases where the processing of your personal data is based on your consent, you can withdraw your consent any time by editing settings at device level. In addition, you can also contact us at [support@tresorit.com](mailto:support@tresorit.com). If you withdraw your consent, we will no longer process your personal data for the relevant purpose. However, please note that such withdrawal of your consent does not affect the lawfulness of our processing activities based on consent before its withdrawal.
+
+You can change your email settings any time under the Profile tab, in [My Account](https://web.tresorit.com/account/profile).
+
+### Changes to this policy
+
+As every high-quality service, our service is constantly improved in effort to keep users satisfied, but these improvements necessarily mean changes. Due to the ongoing changes in the law and the changing nature of technology, data practices are changing from time to time. Thus, we reserve the right to alter or modify this policy when it is necessary.
+
+If there are any material changes to this policy, you will be notified 30 days prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of our website or our services constitutes your agreement to be bound by such changes to this policy. Your only remedy, if you do not accept the terms of this policy, is to discontinue use of our website and services.
+
+This policy may change from time to time. Check back here every now and then to take a look.
+
+### Third party controllers
+
+Our webpage or services may, from time to time, contain links to and from the websites or services of third parties. This policy does not extend to these external sites or companies, so please refer directly to their privacy policies.
+
+## Any further question?
+
+If you have any questions, please contact us at [support@tresorit.com](mailto:support@tresorit.com).
+
+We have also appointed a data protection officer, whom you can reach at [dpo@tresorit.com](mailto:dpo@tresorit.com). We speak English.
+
+As Tresorit AG is located outside of the EU, we appointed our EU affiliate to represent us in relation to any GDPR-related issues. This does not change the fact that Tresorit AG is the controller who ultimately handles your data. If you wish, you can also contact them directly. The details of our EU located affiliate is available [here](https://web.archive.org/contact).
+
+## Updates: Privacy Policy
+
+We want to be as transparent as possible about the changes we make to our Privacy Policy. In this archive you can see the previous versions of the policy.
+
+  * [Current version](https://web.archive.org/legal/privacy-policy)
+  * [10/24/2017](https://web.archive.org/legal/privacy-policy/archive/10-24-2017)
+
+
