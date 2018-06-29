@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the switzer.com.au privacy policy that was archived on 2017-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208205224id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the switzer.com.au privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629223540id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="chrome  linux"><head>
     <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=005699747301473023477:b5gla_nz5qu"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;amp;version=v2.5"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5C9KL2R"></script><script src="/javascripts/isMobile.min.js" type="text/javascript"></script>
@@ -55,6 +55,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     GA_googleAddSlot("ca-pub-3207504217312552", "Leaderboard");
     GA_googleAddSlot("ca-pub-3207504217312552", "Switzer_ROS_Top_300x250");
     GA_googleAddSlot("ca-pub-3207504217312552", "Switzer_ROS_Bottom_300x250");
+    </script>
+
+    <!-- Right&Left Ad -->
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+      googletag.cmd.push(function() {
+        googletag.defineSlot('/1055893/Switzer_Daily_Left_160x600', [160, 600], 'div-gpt-ad-1524544996673-0').addService(googletag.pubads());
+        googletag.defineSlot('/1055893/Switzer_Daily_Left_160x600', [160, 600], 'div-gpt-ad-1524544996673-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+      });
     </script>
 
     <script type="text/javascript">
@@ -258,9 +273,7 @@ $(function() {
                     </div>
                     <!-- start right side bar -->
 <div class="side-bar2" style="position: relative;">
-
-
-<style type="text/css">
+    <style type="text/css">
 .subscribe-container {
     position: relative;
     background: #fff url("http://switzer.com.au/images/subscribe-banner.png") no-repeat top;
@@ -340,6 +353,9 @@ $(function() {
 <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <script type="text/javascript">
 $(document).ready(function() {
+    //set Default, Daily is checked
+    document.getElementById("fielddybtjyh-0").checked = true;
+
     // hide subscription form
     $('.subscribe-form-overlay').click(function(e) {
         if (e.target !== this) return;
@@ -348,21 +364,37 @@ $(document).ready(function() {
     });
 
     // subscribe button
-    $('.sidebar-subscribe-button').click(function() {
-        console.log("Desktop Register Button Clicked");
-        if($(this).hasClass('disabled-subscribe-button')) { 
-            $('.subscribe-form-overlay, .subscribe-form').hide();
-            return false;
-        } else {
-            $('.subscribe-form-overlay, .subscribe-form').fadeIn();
-        }
-    });
-
+    // $('#dv-sidebar-subscribe-button').on('click', function() {
+    //     if(!$(this).hasClass('disabled-subscribe-button')) { 
+    //         $('.subscribe-form-overlay, .subscribe-form').hide();
+    //         return false;
+    //     } else {
+    //         $('.subscribe-form-overlay, .subscribe-form').fadeIn();
+    //     }
+    // });
 
     // cookie reader
     var popupHidden = retrieveCookie('hidden');
     var userStatus  = retrieveCookie('status');
     var visitCtr    = retrieveCookie('visits');
+
+    //popup appear
+    if (userStatus !== 'subscribed') {
+        document.getElementById("fielddyillrtd").checked = false;
+
+        var pathname = window.location.pathname;
+        var res = pathname.match(/the-experts/g);
+
+        if(res == "the-experts"){
+            setTimeout(function () {
+                showRegForm();
+            }, 35000);
+        }else {
+            setTimeout(function () {
+                showRegForm();
+            }, 5000);
+        }
+    }
 
     if(visitCtr == '1') {
         document.cookie = "visits = 0";
@@ -379,8 +411,37 @@ $(document).ready(function() {
             $('.sidebar-subscribe-button').addClass('disabled-subscribe-button').html('<span class="btn-register">REGISTERED</span>');
         }
     }
+
+    function showRegForm(dialog = '.subscribe-form-overlay') {
+        var formCounter = 0;
+        var getForm = getCookie('subscribeForm');
+
+        if (getForm == null) {
+            var formCounter = 1;
+            setCookie('subscribeForm', formCounter, 30);
+        } else {
+            if (getForm < 1) {
+                getForm++;
+                setCookie('subscribeForm', getForm, 30);
+                $(dialog).css({"display": "block"});                        
+                document.getElementById("fielddyillrtd").checked = true;
+            } else {
+                $(dialog).css({
+                    "display": "none"
+                });
+                document.getElementById("fielddyillrtd").checked = false;
+            }
+        }
+    }
 });
 
+function registerButton() {
+    if(!$(this).hasClass('disabled-subscribe-button')) { 
+        $('.subscribe-form-overlay, .subscribe-form').fadeIn();
+    }
+}
+
+//clicking register button
 function showForm() {
     $('.subscribe-form-overlay').fadeIn('500');
     $('#fieldEmail').focus();
@@ -388,7 +449,25 @@ function showForm() {
 
 // register button
 function register() {
-    if(grecaptcha.getResponse().length !==0){
+    //CHECKING IF DAILY OR WEEKLY IS CHECKED
+    if ($('#fielddybtjyh-0').is(':checked')) {
+        document.getElementById("fielddybtjyu-0").checked = true;
+        document.getElementById("fielddybtjjl-0").checked = true;
+    } else {
+        document.getElementById("fielddybtjyu-0").checked = false;
+        document.getElementById("fielddybtjjl-0").checked = false;
+    }
+
+    if ($('#fielddybtjyk-0').is(':checked')) {
+        document.getElementById("fielddybtjyk-0").checked = true;
+    } else {
+        document.getElementById("fielddybtjyk-0").checked = false;
+    }
+
+    //Checking if the fields are not empty
+    var checkDaily = $('input[name="cm-fo-dybtjyh"]:checked');
+    var checkWeekly = $('input[name="cm-fo-dybtjyk"]:checked');
+    if((grecaptcha.getResponse().length !==0) && ($('input[type="text"]').length > 0) && ((checkDaily.length > 0)) || (grecaptcha.getResponse().length !==0) && ($('input[type="text"]').length > 0) && ((checkWeekly.length > 0))) {
         var isComplete = true;
 
         $('#sd-subscription-form input').each(function(index) {
@@ -412,15 +491,27 @@ function register() {
     }
 }
 
-// close modal
-function closeModal() {
-    $('.subscribe-form-overlay, .validation-txt').fadeOut();
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 
-// close popup
-function hidePopup() {
-    document.cookie = "hidden = true";
-    closeModal();
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
 }
 
 // retrieve cookies
@@ -442,250 +533,55 @@ function retrieveCookie(cookie) {
 <div class="subscribe-container">
     <p class="subscribe-text">Get the latest financial, business, and political expert commentary delivered to your inbox.</p>
 
-    <div class="sidebar-subscribe-button">
+    <div id="dv-sidebar-subscribe-button" class="sidebar-subscribe-button" onclick="registerButton()">
         <span class="btn-register">REGISTER</span>
         <span class="btn-arrow">&gt;</span>
     </div>
 </div>
-
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
-
-<!-- SWIT_300x600 -->
-<script type="text/javascript">
-GA_googleFillSlot("SWIT_300x600");
-</script>
-
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
-
-<!-- iShare WEBINAR -->
-<!-- <a href="http://www.switzer.com.au/events/webinars/2017/ishares-cost"><img src="http://www.switzer.com.au/images/webinar/ishare/Tower_300X360.jpg" width="300" height="360" border="0" vspace="0" /></a> -->
-
-<!--<div class="ad-container">
-	<div class="top"></div>
-	<div class="bottom"></div>
-	<object type="application/x-shockwave-flash" 
-	  data="http://switzer.com.au/flash/300x600_Video.swf" 
-	  width="300" height="600">
-	  <param name="movie" value="http://switzer.com.au/flash/300x600_Video.swf" />
-	  <param name="quality" value="high"/>
-	</object>
-
-	<style type="text/css">
-		.ad-container {
-			position: relative;
-		}
-		.top {
-			position: absolute;
-			top: 0;
-			left: 0;
-			height: 71px;
-			width: 100%;
-			cursor: pointer;
-			}
-					
-		.bottom {
-			position: absolute;
-			bottom: 0;
-			left: 0;
-			height: 336px;
-			width: 100%;
-			  cursor: pointer;
-		}
-	</style>
-
-	<script type="text/javascript">
-		$('.top, .bottom').click(function() {
-			window.open('http://fxasolutions.com.au/content.php?purl=generic&utm_source=switzerBanner&utm_medium=halfpageVideoBanner&utm_campaign=HOSBQ12015','_blank');
-		});
-	</script>
-</div>-->
-
-
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="/ebooks/2015/how-to-build-a-winning-portfolio-with-etfs/"><img src="http://assets.switzer.com.au.global.prod.fastly.net/assets/8400/iShares_ebook_300x250_normal.png"  width="300" height="250" border="0" vspace="0" alt=""  /></a>-->
-
-
-
-
-
-
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="https://www.switzersuperreport.com.au/special-offer/?utm_source=Switzer-Daily&utm_medium=Display&utm_campaign=static-free-trial-ad"><img alt="" border="0" height="250" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5384/SSR_FT_G_300x250_normal.png?1411348391" vspace="0" width="300" /></a>-->
-
-<!--<tr><td style="font-size:0; height:10px;"><img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1" /></td></tr>
-
-<a style="color:#0e9cc0; text-decoration: none;" href="/events/webinars/2015/commercial-property-webinar/"><img alt="" border="0" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6639/CENTURIA_WebinarMREC_normal.jpg?1431244760" vspace="5" width="300" /></a>
-
-
-<tr><td style="font-size:0; height:15px;"><img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1" /></td></tr>-->
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
-
-
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="/ebooks/2015/how-to-build-a-winning-portfolio-with-etfs/"><img src="http://assets.switzer.com.au.global.prod.fastly.net/assets/8400/iShares_ebook_300x250_normal.png"  width="300" height="250" border="0" vspace="0" alt=""  /></a>-->
-
-
-
-
-
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
-
-<!-- iShares EBOOK -->
-<a href="http://www.switzer.com.au/ebooks/2017/how-etfs-can-help-lower-the-cost-of-investing"><img src="http://www.switzer.com.au/images/banner/iShareEbook/eBook_Tower_300X360.jpg" width="300" height="360" border="0" vspace="0"></a>
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
-
-
-
-<!--<tr><td style="font-size:0; height:10x;"><img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10"  vspace="0" hspace="0"></td></tr>
-
-<tr><td style="font-size:0; height:10x;"><img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10"  vspace="0" hspace="0"></td></tr>
-
-
-
-
-<!- Switzer_ROS_Top_300x250 -->
-<script type="text/javascript">
-		GA_googleFillSlot("Switzer_ROS_Top_300x250");
-	</script>
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="/ebooks/2014/your-smsf-investment-guide/"><img alt="" border="0" height="250" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/4709/AMP_MREC_600x500_normal.jpg?1401841683" vspace="0" width="300" /></a>-->
-
-
-
-	
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
-
-
-
-
-<!--<div class="expert-list">
-  <h3>Expert Blogs</h3>
-  <ul>
-  <li>
-      <div class="expert-list">
-<ul><li>
-<a class="img-holder" href="/the-experts/john-mcgrath-property-expert"><img alt="" height="90" src="http://assets.switzer.com.au.global.prod.fastly.net/images/mcgrath_rhs.jpg?1379051028" width="90" /></a>
-<div class="info-side">
-	<span class="title">Property Expert </span>
-	<a class="name" href="/the-experts/john-mcgrath-property-expert">John McGrath</a>
-	
-		
-			<a href="/the-experts/john-mcgrath-property-expert/biggest-boom-winners-20171205/">Biggest property boom winners</a>
-		
-	
-</div>
-</li></ul>
-</div>
-    </li>
-    <li>
-      <div class="expert-list">
-<ul><li>
-<a class="img-holder" href="/the-experts/craig-james-economy-expert"><img alt="" height="90" src="http://assets.switzer.com.au.global.prod.fastly.net/images/james.jpg?1379051028" width="90" /></a>
-<div class="info-side">
-	<span class="title">Economy Expert </span>
-	<a class="name" href="/the-experts/craig-james-economy-expert">Craig James</a>
-	
-		
-			<a href="/the-experts/craig-james-economy-expert/craig-james20171208/">Investor signposts</a>
-		
-	
-</div>
-</li></ul>
-</div>
-    </li>
-  
-  </ul>
-  <a class="view" href="/the-experts">view all experts &#155;</a>
-</div>-->
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
-
-<!--<div style="color:#fff; font-family:'Open Sans', sans-serif; font-size:16px;padding-top:10px;height:30px; background: none repeat scroll 0 0 #54b3d2;">&nbsp;&nbsp;<strong>THE SWITZER FEED</strong></div>
-<a class="twitter-timeline" href="https://twitter.com/peterswitzer" data-widget-id="359478191913594880">Tweets by @peterswitzer</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
-
-
-
-
-<img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
-
-
-
-<!--<a href="https://www.switzersuperreport.com.au/diy-super-smsf-trustees-21-day-free-trial-switzer-super-report/"><img alt="Ssr_ft_g_300x250_normal" border="0" height="250" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5384/SSR_FT_G_300x250_normal.png?1411348391" vspace="5" width="300" /></a>-->
-
-
-
-
-
-
-<!--<object type="application/x-shockwave-flash" data="http://www.switzersuperreport.com.au/assets/Switzer_300x250-2.swf" width="300" height="250">
-  <param name="movie" value="http://www.switzersuperreport.com.au/assets/Switzer_300x250-2.swf" />
-  <a href="https://www.switzersuperreport.com.au/special-offer/"><img src="http://www.switzersuperreport.com.au/assets/300x250.gif" /></a>
-</object>-->
-
-
-<!--	
-
-	<table style="color:#fff;height:30px; background: none repeat scroll 0 0 #54b3d2;">
-
-
-	<thead>
-		<tr>
-			<th width="25%" style="font:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;color:white;font-size:14px;overflow:hidden;">Index</th>
-			<th width="25%"style="font:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;color:white;font-size:14px;overflow:hidden;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current</th>
-			<th width="25%" style="font:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;color:white;font-size:14px;overflow:hidden;">Change</th>
-			<th width="25%" style="font:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;color:white; font-size:14px;overflow:hidden;">%&nbsp;&nbsp;&nbsp;&nbsp;</th>
-		</tr>
-
-	</thead>
-<hr style="color: #333; position: relative; top:302px;"></hr>
-	</table>
-
-	<div class="image"><img alt="Market Summary Quotes" src="http://charts.iguana2.com/switzer/index-home" /></div>
-	<p class="note" style="font:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;colour:#333;font-size:11px;overflow:hidden;">ASX indexes live. Other indicies accurate at end of their market.</p>-->
-
-
-
-	
-
-
-
-
-
-<img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
-
-
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="/free-white-paper-smart-not-harder"><img alt="Amex_sb_wp_normal" border="0" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/1047/AMEX_SB_WP_normal.jpg?1322644531" vspace="5" /></a>-->
-
-<!--<a style="color:#0e9cc0; text-decoration: none;" href="http://www.switzer.com.au/ebooks/12-step-money-makeover/"><img alt="" border="0" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/1362/20121227SWITZERNL_EBOOKAD_normal.jpg?1355718579" vspace="5" width="300" /></a>-->
-
-
-<img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
-
-
-<!-- Switzer_ROS_Bottom_300x250 
-<script type="text/javascript">
-		GA_googleFillSlot("Switzer_ROS_Bottom_300x250");
-	</script>-->
-
-
-
-<img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
-
-
-
-
-
-<!--<script type="text/javascript">
-  GA_googleFillSlot("Switzer_ROS_Bottom2_300x250");
-</script>-->
-
-
-<img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
-
-<!--<div style="width: 300px; float: left; margin-bottom: 10px;">
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+    
+    <!-- SWIT_300x600 -->
+    <script type="text/javascript">
+    GA_googleFillSlot("SWIT_300x600");
+    </script>
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
+    
+    
+    <!-- r:snippet name="promo_webinar" -->
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
+    
+    <!-- r:snippet name="promo_webinar"  -->
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+    
+    <!-- r:snippet name="promo_ebook_1" -->
+    <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+    
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
+    
+    
+        
+            <img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
+        
+    
+    
+        
+            <img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
+        
+    
+    
+        
+            <img alt="Pixel_admin_thumb_300x300" height="15" hspace="0" src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" vspace="0" width="1">
+        
+    
+    <!--<div style="width: 300px; float: left; margin-bottom: 10px;">
 	<h2 style="color:#2B4264;font-size:24px;font-weight:normal;line-height:39px;margin:0;padding:0 0 0 11px;background: none repeat scroll 0 0 #9ee5f1;">Get the best rates</h2>
 	<div class="box4-inner">
 		<ul class="list">
@@ -697,38 +593,18 @@ GA_googleFillSlot("SWIT_300x600");
 	</div>
 	<a class="powered-by" style="margin:5px 0 0;" href="http://www.ratecity.com.au/" target="_new"><img alt="" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/365/RateCity_tagline_110x34_normal.gif?1372808137" style="margin-top: 10px;" /></a>
 </div>-->
-
-
-
-<script type="text/javascript">
-GA_googleFillSlot("Partner_300x100");
-</script>
-	
-
-	
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
-
-
-
-		
-
-
-<img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
-
-
-
-
-
-	
-
-
-
-<!--
+    <script type="text/javascript">
+    GA_googleFillSlot("Partner_300x100");
+    </script>
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+    
+    
+        <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
+    
+    <!--
 <a class="banner" href="#"><img alt="" height="176" src="http://assets.switzer.com.au.global.prod.fastly.net/images/sfs_appointment.gif?1379051028" width="300" /></a>
 -->
-
-
 </div>
                 </div>
             </div>
@@ -746,8 +622,8 @@ GA_googleFillSlot("Partner_300x100");
 	.sub-nav-article-container { position: relative; width: 190px; float: left; overflow: hidden; height: 295px; margin-left: 12px; }
 	.sub-nav-article-container a { width: 100%; padding: 0 !important; }
 	.sub-nav-items { padding-left: 20px; list-style-type: none; width: 130px; float: left; }
-	.sub-nav-items li { background: none !important; float: none !important; height: 25px; margin-bottom: 5px; }
-	.sub-nav-items li a { color: #54b3d2 !important; line-height: 16px; padding: 0 !important; }
+	.sub-nav-items li { background: none !important; float: none !important;  }
+	.sub-nav-items li a { color: #54b3d2 !important; line-height: 16px; padding: 0 !important; margin-bottom: 5px;}
 	.item-title { line-height: 18px; color: #000; font-size: 17px; font-weight: 900; font-family: 'Open Sans', sans-serif; margin: 5px 0 5px; }
 	.item-intro { line-height: 14px; font-size: 12px }
 	.sub-nav-articles > div, .sub-nav-main-container > div { display: none; }
@@ -758,22 +634,24 @@ GA_googleFillSlot("Partner_300x100");
 <script type="text/javascript">
 	$(document).ready(function() {
 		// main nav
-		$('#top-nav').mouseleave(function() {
+		$('#top-nav').mouseleave(function(event) {
+			event.stopPropagation();
 			$('.sub-nav-main-container').animate({
 				height: '0'
 			}, 300, function() { $('.sub-nav-main-container').removeAttr('style'); });
 		});
 
-		$('.dropdown-tab').mouseenter(function () {
+		$('.dropdown-tab').mouseover(function (event) {
 			var subNav       = $(this).attr('data-subnav');
 			var subNavHeight = $('.sub-nav-main-container').height();
 
+			event.stopPropagation();
 			if(subNav != 'none') {
 				if(subNavHeight < 1) {
 					$('.sub-nav-main-container').show().animate({
 						height: '290px',
 						padding: '15px 0'
-					}, 300);
+					}, 100);
 				}
 
 				$('.sub-nav-main-container > div').hide();
@@ -781,7 +659,7 @@ GA_googleFillSlot("Partner_300x100");
 			} else {
 				$('.sub-nav-main-container').animate({
 					height: '0'
-				}, 300, function() { $('.sub-nav-main-container').removeAttr('style'); });
+				}, 100, function() { $('.sub-nav-main-container').removeAttr('style'); });
 			}
 
 		});
@@ -798,13 +676,14 @@ GA_googleFillSlot("Partner_300x100");
 </script>
 
 <ul id="top-nav">
-	<li><a data-subnav="none" class="dropdown-tab active" href="/">&nbsp;HOME&nbsp;</a></li>
-	<li><a data-subnav="#subnav-business-news" class="dropdown-tab " href="/business-news">&nbsp;BUSINESS NEWS&nbsp;</a></li>
-	<li><a data-subnav="#subnav-experts" class="dropdown-tab " href="/the-experts">&nbsp;&nbsp;EXPERTS&nbsp;&nbsp;</a></li>
-	<li><a data-subnav="#subnav-money" class="dropdown-tab " href="/your-money">&nbsp;YOUR MONEY&nbsp;</a></li>
-	<li><a data-subnav="#subnav-tv" class="dropdown-tab " href="/video" id="swizter-tv">&nbsp;&nbsp;SWITZER TV&nbsp;&nbsp;</a></li>
-<li><a data-subnav="none" class="dropdown-tab " href="/lifestyle/health/">&nbsp;HEALTH &nbsp;</a></li>
-	<li><a data-subnav="none" class="dropdown-tab " href="/lifestyle/weekend-switzer">&nbsp;&nbsp;WEEKEND SWITZER&nbsp;</a></li>
+	<li><a data-subnav="none" class="dropdown-tab active" href="/">HOME</a></li>
+	<li><a data-subnav="#subnav-business-news" class="dropdown-tab " href="/business-news">BUSINESS NEWS</a></li>
+	<li><a data-subnav="#subnav-experts" class="dropdown-tab " href="/the-experts">EXPERTS</a></li>
+	<li><a data-subnav="#subnav-money" class="dropdown-tab " href="/your-money">YOUR MONEY</a></li>
+	<li><a data-subnav="#subnav-tv" class="dropdown-tab " href="/video" id="swizter-tv">SWITZER TV</a></li>
+	<li><a data-subnav="none" class="dropdown-tab " href="/switzer-radio" id="swizter-tv">RADIO</a></li>
+	<li><a data-subnav="none" class="dropdown-tab " href="/lifestyle/health/">HEALTH</a></li>
+	<li><a data-subnav="none" class="dropdown-tab " href="/lifestyle/weekend-switzer">WEEKEND SWITZER</a></li>
 	
 
 	<div class="sub-nav-main-container">
@@ -821,35 +700,35 @@ GA_googleFillSlot("Partner_300x100");
 				
          			
 					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/6-things-you-need-to-know-today-20171208/">
+				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today20180629/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
+				      		<div class="item-title">5 things you need to know today</div>
+				      	</a>
+				      	<div class="item-intro">Shorten under pressure, US GDP revised down, ASIC unimpressed with SMSFs, plus more.</div>
+				    </li>
+					
+					<li class="sub-nav-article-container">
+				      	<a href="/business-news/in-the-news/6-things-you-need-to-know-today20180628/">
 				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
 				      		<div class="item-title">6 things you need to know today</div>
 				      	</a>
-				      	<div class="item-intro">Bitcoin hits $US16,000, same-sex marriage signed off and California wildfires.</div>
+				      	<div class="item-intro">Banks forced to raise rates, McKinsey helping Telstra, ABS needs more funding, plus more.</div>
 				    </li>
 					
 					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today20171207-2/">
+				      	<a href="/business-news/in-the-news/6-things-you-need-to-know-today20180627/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
+				      		<div class="item-title">6 things you need to know today</div>
+				      	</a>
+				      	<div class="item-intro">Socceroos exit world cup, US presses allies to end Iranian oil imports, overnight markets, plus more.</div>
+				    </li>
+					
+					<li class="sub-nav-article-container">
+				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today-20180626/">
 				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
 				      		<div class="item-title">5 things you need to know today</div>
 				      	</a>
-				      	<div class="item-intro">Trump announces Jerusalem as the capital of Israel, bitcoin tops $13,000 and oil is on the slide.</div>
-				    </li>
-					
-					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today-20171204/">
-				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
-				      		<div class="item-title">5 things you need to know today</div>
-				      	</a>
-				      	<div class="item-intro">Russia banned from the Olympics, RBA rate and Trump.</div>
-				    </li>
-					
-					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today-20171205/">
-				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
-				      		<div class="item-title">7 things you need to know today</div>
-				      	</a>
-				      	<div class="item-intro">Amazon launches, ACCC takes on tech giants, Carmichael mine and more.</div>
+				      	<div class="item-intro">CBA splits from wealth management, Harley Davidson not so US and ACCC points the finger at private insurance.</div>
 				    </li>
 					
     			
@@ -882,11 +761,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">Peter Switzer</span>
-					      	<a href="/the-experts/peter-switzer-expert/can-australia-cut-the-fang-companies-down-to-size20171208/">
+					      	<a href="/the-experts/peter-switzer-expert/is-bill-shortens-taxing-behaviour-a-death-wish/">
 					      		<div class="item-img"><img alt="Peter_Switzer_200x150_original" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11660/Peter_Switzer_200x150_original_normal.jpg?1478550787" width="200"></div>
-					      		<div class="item-title">Can Australia cut the FANG companies down to size?</div>
+					      		<div class="item-title">Is Bill Shorten's taxing behaviour a death-wish?</div>
 					      	</a>
-					      	<div class="item-intro">The world is watching to see if our consumer cops can reign in digital giants Google and Facebook.</div>
+					      	<div class="item-intro">Business isn't all bad.</div>
 					    </li>
 					
 				
@@ -895,11 +774,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">Paul Rickard</span>
-					      	<a href="/the-experts/paul-rickard/short-sellers-get-smashed-20171207/">
-					      		<div class="item-img"><img alt="rickard_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5642/rickard200x150_normal.png?1414617512" width="200"></div>
-					      		<div class="item-title">Short sellers get smashed</div>
+					      	<a href="/the-experts/paul-rickard/5-last-minute-super-actions-to-take-before-the-end-of-the-financial-year/">
+					      		<div class="item-img"><img alt="BoostSuper_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/2817/BoostSuper_200x150_normal.jpg?1380752166" width="200"></div>
+					      		<div class="item-title">5 last minute super actions to take before the end of the financial year</div>
 					      	</a>
-					      	<div class="item-intro">After so much fanfare, Amazon arrived...and didn’t conquer.</div>
+					      	<div class="item-intro">Get onto it now!</div>
 					    </li>
 					
 				
@@ -908,11 +787,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">David Bassanese</span>
-					      	<a href="/the-experts/david-bassanese/banks-a-buy-in-2018-2/">
-					      		<div class="item-img"><img alt="DavidBassanesenew200" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6814/7_normal.jpg?1433286442" width="200"></div>
-					      		<div class="item-title">Banks a buy in 2018</div>
+					      	<a href="/the-experts/david-bassanese/at-the-whim-of-that-man/">
+					      		<div class="item-img"><img alt="trumpface" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/12536/trumpface_normal.jpg?1488520637" width="200"></div>
+					      		<div class="item-title">At the whim of that man</div>
 					      	</a>
-					      	<div class="item-intro">Don’t laugh – I don’t mean local bank stocks.</div>
+					      	<div class="item-intro">Will sanity eventually prevail on trade as well?</div>
 					    </li>
 					
 				
@@ -997,44 +876,45 @@ GA_googleFillSlot("Partner_300x100");
 		- - - - - - - - - - - - -->
 		<div id="subnav-tv">
 			<ul class="sub-nav-items">
-				<li><a data-subnav=".video-container" class="second-level-nav" href="/video/">Switzer On Sky Business</a></li>
-				<li><a data-subnav=".mad-container" class="second-level-nav" href="/video/mam/">Mad About Money</a></li>
+				<li><a data-subnav=".coffee-container" class="second-level-nav" href="http://www.switzer.com.au/video/coffee-with-switzer">Coffee with Switzer</a></li>
+				<li><a data-subnav=".video-container" class="second-level-nav" href="http://www.switzer.com.au/video/">Switzer On Sky Business</a></li>
+				<li><a data-subnav=".mad-container" class="second-level-nav" href="http://www.switzer.com.au/video/mam/">Mad About Money</a></li>
 			</ul>
 			<ul class="sub-nav-articles">
 				<div class="video-container">
 				    
 						<li class="sub-nav-article-container">
-					      	<a href="/video/michael-mccarthy20171208/">
-					      		<div class="item-img"><img alt="Screen_Shot_2017-12-08_at_2.30.27_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14860/Screen_Shot_2017-12-08_at_2.30.27_pm_normal.png?1512703845" width="200"></div>
-					      		<div class="item-title">Michael McCarthy</div>
+					      	<a href="/video/have-australian-brokers-been-unfairly-targeted/">
+					      		<div class="item-img"><img alt="Screen_Shot_2018-06-26_at_9.01.41_am" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/16049/Screen_Shot_2018-06-26_at_9.01.41_am_normal.png?1529967678" width="200"></div>
+					      		<div class="item-title">Have Australian brokers been unfairly targeted?</div>
 					      	</a>
-					      	<div class="item-intro">The market hasn't had a positive response to the Trump tax cuts, but stocks turned positive on Thursday afternoon. Michael McCarthy from CMC...</div>
+					      	<div class="item-intro">We've heard a lot from the Commission about brokers behaving badly. Now Peter White of the Finance Brokers Association of Australia shares...</div>
 					    </li>
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/andrew-main20171208/">
-					      		<div class="item-img"><img alt="Screen_Shot_2017-12-08_at_2.23.13_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14859/Screen_Shot_2017-12-08_at_2.23.13_pm_normal.png?1512703439" width="200"></div>
-					      		<div class="item-title">Andrew Main</div>
+					      	<a href="/video/trump-and-more-trump/">
+					      		<div class="item-img"><img alt="madaboutmoney" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11674/madaboutmoney_normal.png?1478647780" width="200"></div>
+					      		<div class="item-title">Trump and more Trump!</div>
 					      	</a>
-					      	<div class="item-intro">Switzer Daily business journalist Andrew Main joins Switzer TV to share his views on the Royal Commission to the banks (broadcast Thursday 7...</div>
+					      	<div class="item-intro">Trump's tariffs, Telstra and the Aussie Dollar are the focus in this week's Mad About Money!</div>
 					    </li>
         			
 
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/mad-about-money---episode-130/">
+					      	<a href="/video/gdp-vs-state-of-origin/">
 					      		<div class="item-img"><img alt="madaboutmoney" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11674/madaboutmoney_normal.png?1478647780" width="200"></div>
-					      		<div class="item-title">Mad About Money - Episode 130</div>
+					      		<div class="item-title">GDP vs State of Origin?</div>
 					      	</a>
-					      	<div class="item-intro">In today's Mad About Money, no celebration after Trump's tax announcement, copper prices fall and the retailers fight back. Don't miss it! </div>
+					      	<div class="item-intro">Gaol time for the ANZ, Citi and Deutsche bankers, the CBA's $700 million dollar fine and the 'Game of Growth'. All that on this week's Mad...</div>
 					    </li>
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/mad-about-money---episode-129/">
-					      		<div class="item-img"><img alt="Screen_Shot_2017-11-29_at_9.45.19_am" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14760/Screen_Shot_2017-11-29_at_9.45.19_am_normal.png?1511909138" width="200"></div>
-					      		<div class="item-title">Mad About Money - Episode 129</div>
+					      	<a href="/video/us-down-because-of-the-crazy-italians/">
+					      		<div class="item-img"><img alt="madaboutmoney" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11674/madaboutmoney_normal.png?1478647780" width="200"></div>
+					      		<div class="item-title">US down because of the crazy Italians!</div>
 					      	</a>
-					      	<div class="item-intro">In today's Mad About Money, there's a new kid on the Wall Street Block, the bank's inquiry and all the latest stock market news.</div>
+					      	<div class="item-intro">On this week's episode, the US and European markets are down, the Royal Commission to hurt the housing market and the Productivity...</div>
 					    </li>
         			
 				</div>
@@ -1047,6 +927,39 @@ GA_googleFillSlot("Partner_300x100");
 		
 	</div><!-- end .sub-nav-main-container -->
 </ul>
+
+<!-- LEFT & RIGHT ADS -->
+<div class="dv-left-ad" style="width: 160px;height: 600px;clear: both;z-index: 1;position: absolute;margin-top: 62px;float: left;left: -160px;
+">
+    <!-- /1055893/Switzer_Daily_Left_160x600 -->
+    <div id="div-gpt-ad-1524544996673-0" style="height:600px; width:160px;">
+    <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524544996673-0'); });
+    </script>
+    </div>
+</div>
+
+<div class="dv-right-ad" style="width: 160px;height: 600px;clear: both;z-index: 1;position: absolute;margin-top: 62px;right: -160px;
+">
+    <!-- /1055893/Switzer_Daily_Right_160x600 -->
+    <div id="div-gpt-ad-1524543393148-0" style="height:600px; width:160px;">
+    <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1524543393148-0'); });
+    </script>
+    </div>
+</div>
+
+<!-- Remove the Scroll Button -->
+<style>
+	@media only screen and (max-width: 1329px) {
+		.dv-left-ad { display: none; }
+		.dv-right-ad { display: none; }
+	}
+	@media only screen and (min-width: 1330px) {
+		.back-to-top { display: none; }
+		.scroll-more { display: none; }
+	}
+</style>
 
 	<div class="banner-holder">
 		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Leaderboard -->
@@ -1241,22 +1154,28 @@ _yPageTrack("07GW2CXVR6JLXAAG6KZVGAJG6J");
                     <input id="fieldjjlhtjt" name="cm-f-jjlhtjt" type="text" required="">
                 </p>
                 <p class="clearfix" style="text-align: center">
-                    <label style="max-width: 250px;">Also subscribe me to Switzer Weekly</label>
-                    <input id="fielddybtjyk-0" name="cm-fo-dybtjyk" value="9675110" type="checkbox" checked="check" style="width: auto; position: absolute;"> <label for="fielddybtjyk-0" style="opacity:0; position:absolute; left:9999px;">Receive our weekly update of only the best bits</label>
+                    <label style="max-width: 320px;">How often do you want to receive our newsletters?</label>
                 </p>
-                <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
-                    <label>Switzer Daily</label>
-                    <input id="fielddybtjyh-0" name="cm-fo-dybtjyh" value="9675109" type="checkbox" checked="check"> <label for="fielddybtjyh-0">Receive the Switzer Daily emails each weekday morning</label>
+                <p class="clearfix" style="text-align: center">
+                    <label style="max-width: 100px;">Daily</label>
+                    <input id="fielddybtjyh-0" name="cm-fo-dybtjyh" value="9675109" type="checkbox" checked="check" style="width: auto; position: absolute;"> <label for="fielddybtjyh-0" style="opacity:0; position:absolute; left:9999px;">Receive the Switzer Daily emails each weekday morning</label>
+                </p>
+                <p class="clearfix" style="text-align: center">
+                    <label style="max-width: 100px;">Weekly</label>
+                    <input id="fielddybtjyk-0" name="cm-fo-dybtjyk" value="9675110" type="checkbox" style="width: auto; position: absolute;"> <label for="fielddybtjyk-0" style="opacity:0; position:absolute; left:9999px;">Receive our weekly update of only the best bits</label>
                 </p>
                 <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
                     <label>Promotions</label>
-                    <input id="fielddybtjyu-0" name="cm-fo-dybtjyu" value="9675111" type="checkbox" checked="check"> <label for="fielddybtjyu-0">Receive relevant offers from our partners</label>
+                    <input id="fielddybtjyu-0" name="cm-fo-dybtjyu" value="9675111" type="checkbox"> <label for="fielddybtjyu-0">Receive relevant offers from our partners</label>
                 </p>
                 <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
                     <label>Weekend Switzer</label>
-                    <input id="fielddybtjjl-0" name="cm-fo-dybtjjl" value="9675112" type="checkbox" checked="check"> <label for="fielddybtjjl-0">Receive our Saturday morning updates</label>
+                    <input id="fielddybtjjl-0" name="cm-fo-dybtjjl" value="9675112" type="checkbox"> <label for="fielddybtjjl-0">Receive our Saturday morning updates</label>
                 </p>
-                
+                <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
+                    <label for="fielddyillrtd">Popup</label><br>
+                    <input id="fielddyillrtd" name="cm-f-dyillrtd" type="checkbox" value="Yes">
+                </p>
                     <div class="subscribe-captcha">
                         <div class="g-recaptcha" data-sitekey="6LeNSCwUAAAAAH4BiiHsBOQdFIA8ZtLqif9eVHae"></div>
                     </div>
@@ -1271,5 +1190,65 @@ _yPageTrack("07GW2CXVR6JLXAAG6KZVGAJG6J");
         </div><!-- end .subscribe-form-inner -->
     </div><!-- end .subscribe-form -->
 </div><!-- end .subscribe-form-overlay -->
+
+<script>
+    
+// close modal
+function closeModal() {
+    $('.subscribe-form-overlay, .validation-txt').fadeOut();
+    document.getElementById("fielddyillrtd").checked = false;
+}
+
+// close popup
+function hidePopup() {
+    $(function () {
+        var formCounter = 0;
+        var getForm = getCookie('subscribeForm');
+        if (getForm == null) {
+            var formCounter = 1;
+            setCookie('subscribeForm', formCounter, 365);
+            console.log("getform == null");
+        } else {
+            if (getForm <= 1) {
+                console.log("getform <= 1");
+                getForm++;
+                setCookie('subscribeForm', getForm, 365);
+                $('.subscribe-form-overlay').css({"display": "block"});                        
+                document.getElementById("fielddyillrtd").checked = true;
+
+            } else {
+                $('.subscribe-form-overlay').css({
+                    "display": "none"
+                });
+                document.getElementById("fielddyillrtd").checked = false;
+            }
+        }
+    });
+    
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    closeModal();
+}
+</script>
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
