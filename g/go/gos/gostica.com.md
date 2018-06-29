@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gostica.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831012054id_/http%3A//gostica.com/6104-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostica.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629191229id_/https%3A//gostica.com/6104-2) for the most accurate reproduction.*
 
 # Privacy Policy - Gostica The Spiritual Path
-
-## Privacy Policy
 
 This privacy policy is your guarantee that any personal information given to **Gostica.com**  will remain private. Any personal information gathered will never be sold to any third party for any reason. **Gostica.com**  only collects personal information from visitors in order to process requests initiated by the filling out of forms on our site. **Gostica.com**  is committed to keeping your personal information private. Please review our privacy policy below for more detailed information. At  **Gostica.com** , we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We use your personal information only to process requests for information; we do not share your information with any third parties. That would be really lame of us, wouldn’t it?
 
