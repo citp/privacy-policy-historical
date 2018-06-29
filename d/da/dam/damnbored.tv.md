@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnbored.tv privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207095357id_/http%3A//www.damnbored.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnbored.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629085432id_/http%3A//www.damnbored.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - THE BEST VIDEOS BEFORE THEY GO VIRAL - Damn Bored TV
 
