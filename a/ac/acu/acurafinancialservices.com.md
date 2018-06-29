@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acurafinancialservices.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125084810id_/http%3A//www.acurafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acurafinancialservices.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630004348id_/http%3A//www.acurafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Acura Auto Leasing and Financing - Privacy Policy
 
-**Information Collection**
+**INFORMATION COLLECTION**
 
 **Personally Identifiable Information You Give Us**
 
@@ -52,7 +52,7 @@ Our sites and mobile applications include social media features connected with s
 
 BACK TO TOP
 
-**Use of Information by American Honda**
+**USE OF INFORMATION BY AMERICAN HONDA**
 
 Except as otherwise limited in the Policy, we may use personal and anonymous information collected from the Sites in several ways, including:
 
@@ -74,7 +74,7 @@ Information obtained through our Sites may be merged with other information Amer
 
 BACK TO TOP
 
-**Sharing of Information with Third Parties**
+**SHARING OF INFORMATION WITH THIRD PARTIES**
 
 Except as otherwise limited in the Policy, we may share personal and anonymous information collected from the Sites as outlined in this section.
 
@@ -112,7 +112,7 @@ We will not knowingly share your personal information with any other nonaffiliat
 
 BACK TO TOP
 
-**Online Tracking and Interest-Based Advertisements**
+**ONLINE TRACKING AND INTEREST-BASED ADVERTISEMENTS**
 
 AHM and third parties, which may include Google, Adobe, Facebook and others advertising networks, use cookies, web beacons and similar technologies to gather information about you over time and across different websites or applications in order to help predict your preferences and show you interest-based advertisements.
 
@@ -126,13 +126,13 @@ Some browsers have a “do not track” setting that allows you to tell sites th
 
 BACK TO TOP
 
-**Policy on Collection of Information from Children**
+**POLICY ON COLLECTION OF INFORMATION FROM CHILDREN**
 
 We are committed to protecting children's privacy on the Internet. We do not knowingly collect personal information from children under the age of 13. If your child has provided us with personal information, please contact us at:
 
 Honda Customer Service: 800-999-1009
 
-Acura Client Relations: 800-382-2238
+Acura Client Relations: 800-382-8838
 
 Powersports Customer Service: 866-784-1870
 
@@ -140,7 +140,7 @@ Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
 BACK TO TOP
 
-**Security**
+**SECURITY**
 
 We use, and require our service providers to use, a variety of procedural, technical, and physical controls to help protect your information. Unfortunately, even though we take measures to protect your information, no security measure can be 100% secure, and we cannot guarantee the security of your information.
 
@@ -148,25 +148,25 @@ We will never request your credit card number, social security number or other s
 
 BACK TO TOP
 
-**Links**
+**LINKS**
 
 The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](http://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
 
 BACK TO TOP
 
-**International Users**
+**INTERNATIONAL USERS**
 
 American Honda Sites covered by this website are intended for United States residents only. If you are a resident of another country, please use the corresponding Honda or Acura Sites. In the event that you provide any personal information on American Honda Sites, you consent to the transfer of such information across country borders, and to the use, processing, and disclosure of such information in global locations, including those that may have different levels of privacy protection than in your own country.
 
 BACK TO TOP
 
-**Your California Privacy Rights**
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Under California Civil Code Section 1798.83, California residents with whom we have an established business relationship may request (up to once per year) that we provide the categories of personal information we share with third parties for their direct marketing purposes and the names of such third parties. To make such a request, please contact us at:
 
 Honda Customer Service: 800-999-1009
 
-Acura Client Relations: 800-382-2238
+Acura Client Relations: 800-382-8838
 
 Powersports Customer Service: 866-784-1870
 
@@ -174,13 +174,13 @@ Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
 BACK TO TOP
 
-**Contact Information**
+**CONTACT INFORMATION**
 
 If you have any questions about this Privacy Policy or our online privacy practices, please contact us at:
 
 Honda Customer Service: 800-999-1009
 
-Acura Client Relations: 800-382-2238
+Acura Client Relations: 800-382-8838
 
 Powersports Customer Service: 866-784-1870
 
@@ -188,13 +188,13 @@ Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
 BACK TO TOP
 
-**Policy Updates**
+**POLICY UPDATES**
 
-If we decide to change our privacy policies and procedures, we will post those changes to this Privacy Policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We suggest periodically visiting this page to review our policies and procedures.
+If we decide to change our privacy policies or procedures, we will post those changes to this Privacy Policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We suggest periodically visiting this page to review our policies and procedures.
 
 BACK TO TOP
 
-**American Honda Finance Corporation Financial Privacy Policy**
+**AMERICAN HONDA FINANCE CORPORATION FINANCIAL PRIVACY POLICY**
 
 Last Updated: 10/01/2017
 
@@ -236,25 +236,25 @@ We maintain physical and electronic safeguards and have policies and procedures 
 
 3\. The AHFC family of companies on transactions with us that you have conducted (for example, products that you have purchased, financed or leased, your retail or lease account balance and payment history).
 
-**Sharing of information**
+  **Sharing of information**
 
-We may disclose information that we collect about your direct transactions (for example, account balance and payment history, as a present or former customer) among the AHFC family of companies and our parent company, American Honda Motor Co., Inc.
+ We may disclose information that we collect about your direct transactions (for example, account balance and payment history, as a present or former customer) among the AHFC family of companies and our parent company, American Honda Motor Co., Inc.
 
-_Sharing with carefully selected companies_
+  _Sharing with carefully selected companies_
 
 We may also share information about your transactions with us, our affiliates, or others (for example, your name, address, account terms/activity) with the following:
 
-• Companies that perform marketing services on our behalf or with whom we have joint marketing agreements.
+•   Companies that perform marketing services on our behalf or with whom we have joint marketing agreements.
 
-• Other nonaffiliated financial institutions, including automobile dealers, with which we have joint marketing agreements.
+•   Other nonaffiliated financial institutions, including automobile dealers, with which we have joint marketing agreements.
 
 _Sharing with others, as the law allows_
 
 We may also disclose:
 
-• All of the information (see 1-3, above) that we collect about you as a present or former customer to financial service providers (for example, banks, vendors or service companies that provide statement printing and mailing or other types of services) for your accounts with AHFC, or with the affiliate to which your account may be assigned and for which AHFC provides servicing.
+•   All of the information (see 1-3, above) that we collect about you as a present or former customer to financial service providers (for example, banks, vendors or service companies that provide statement printing and mailing or other types of services) for your accounts with AHFC, or with the affiliate to which your account may be assigned and for which AHFC provides servicing.
 
-• Information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
+•   Information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
 
 _Policy Updates_
 
