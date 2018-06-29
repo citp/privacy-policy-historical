@@ -1,140 +1,103 @@
-> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120004520id_/https%3A//adexchanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184928id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | AdExchanger
+# Access Intelligence :: Privacy Policy
 
-** ** **Last Updated As Of May 12, 2015**
+Access Intelligence is committed to protecting the privacy of the information you share with us when you access and use our websites, applications, products, events, services and other offerings ( **Services** ). This policy describes how we collect, use and share the personally identifiable information ( **PII** ) you provide to us when you register or contract with us to receive Services.
 
-Welcome to adexchanger.com.  This website is operated by Jebbert LLC (“ ** _we_** ," " ** _us_** " or " ** _our_** "). This Privacy Policy (this " ** _Policy_** ") explains how we collect, use and protect information that we learn about you as a result of your interaction with us through adexchanger.com (the " ** _Site_** ") and your use of any services provided through the Site (the " ** _Services_** ").
+This policy may be supplemented by additional privacy terms or notices disclosed to you in connection with your registration for or receipt of Services.
 
-By accessing any part of the Site or using the Services, you agree to our treatment of information you provide to us, and information we otherwise derive from the operation of this Site, in accordance with this Policy. This Policy is part of the [Terms of Service](http://adexchanger.com/terms-conditions/) governing your use of the Site and the Services.  Please read the Terms of Service.   If you do not agree with any part of this Policy, you should not use the Site or the Services.
+**Information Collection**
 
-We may change or revise this Policy at any time, for any reason, and if you use or access the Site or any Services at any time on or after the “Last Updated As Of” date set forth above, you are deemed to have been notified of, and your use or access of the Site or any Services after that date signifies your acceptance of, any changes or revisions arising on or before that date.  For this reason, please visit this page on a regular basis to ensure that you are familiar with the most recent version of this Policy. You can contact us with any questions or concerns you may have about this Policy at privacy@adexchanger.com
+We collect PII and/or anonymous information from you in the course of your use of the Services. That includes information you provide to us when you subscribe or register for any of our digital, in-person or printed products, services, events, or offerings; sign up for newsletters or promotions; participate in a survey; purchase a product or service; use one of our mobile applications; post comments; and/or otherwise communicate with us or interact with the Services.
 
-This Policy is effective as of the “Last Updated” date set forth above.  This policy does not apply to any other website that you may be able to access from the Site, which may have its own data collection and use practices and policies.
+Once you have registered or otherwise interacted with us, we create a profile for you. We keep your profile up to date by adding information about your registrations or subscriptions, the events you attend, the content you access, how you interact with our offerings, and the like. In order to offer you a more consistent and personalized experience in your interactions with us, information collected through one Access Intelligence Service may be combined with information obtained through other Access Intelligence Services.
 
-**Children’s Privacy**
+We also may receive information about you from external sources that are not affiliated with Access Intelligence and add that to the information you have provided to us. For example, we may expand our communities by acquiring names and contact details from other sources that compile contact information. This information might be public information or data you provided to others with authorizations to share it with third parties.
 
-Note Regarding the Use of the Site and Services by Children: The Site and its Services are not directed to individuals under the age of thirteen (13), and we request that such individuals do not use the Site or any Services to provide us with their personal information.
+**Automatic Collection Technologies**
 
-NOTICE: Visit www.OnGuardOnline.gov for tips from the Federal Trade Commission on protecting children’s privacy online.
+Like most website operators, we use cookies (small data files stored on your computer by your web browser upon visiting a website) to operate our Services efficiently and as intended. Through these technologies we gather information about you, such as your browser type, operating system, IP address, mobile device identification number, and navigation history. We may also use these technologies to gather information about your interactions with our Services, such as the time and date when you viewed or used a page or item of content or functionality, which advertisements you have clicked on and whether you filled out an online form. When you receive newsletters or promotional emails from Access Intelligence, we use customized links or similar technologies to determine whether the email has been opened and which links you click, in order to provide you more focused email communications or other information.
 
-We require our users under the age of majority in their jurisdiction to obtain the permission of their parents/guardians before using the Site or any Services and providing us with any personal information.  We do not knowingly collect personal information from children under 13, nor do we want children under 13 to provide such personal information to us.  If a child under 13 contacts us via email to request information or ask a question, we may send a one-time email reply to the email address provided by the child, and after responding to the child, the email address will be deleted.
+We use information gathered through these tools for our internal security audit log, for trend analysis and system administration, to gather broad information about our audiences and their geographic locations, and to otherwise improve the Services. By allowing us to understand how you use our Services, these tools can help us provide you with a better, more relevant online experience. In addition, we may work with third-party advertising companies to target and serve advertising you see on the Services or on third-party sites based on preferences gleaned from such technologies.
 
-We encourage parents and guardians to spend time online with their children and to participate in the activities offered on the Site.  However, because this Site is **not** intended for children younger than 13 years of age, we do not knowingly collect personally-identifiable information from users of the Site who are younger than 13 years of age.If you are younger than 13, do not attempt to register on the Site or for any Services or send information about yourself to us. If you are a minor who is at least 13 years of age, you may only access and use this Site with the permission of your parent or guardian, and you represent to us that you have the permission of a parent or legal guardian to access and use the Site and to provide to us any information provided in the course of your use of the Site.
+You may set your browser to block all cookies, including Access Intelligence’s, while using our Services (in which case some aspects of the Services may not function properly), or you may set your browser to block third-party cookies and allow first-party cookies, which would allow us (but not third parties) to collect such information. Please refer to your browser’s documentation if you wish to block some or all cookies, web beacons, and/or similar tools.
 
-If we become aware that a user is younger than 13, we will use reasonable technical measures to delete all or virtually all personal information from the child’s postings before they are made public and also delete such personal information from our records.  If we have inadvertently collected personal information from a child under 13, the parents/guardians of such a child can contact us at privacy@adexchanger.com to notify us of this collection, request the personal information collected about their child for review, and request the deletion of this personal information.  Please include the child’s user name and the email address of the parents/guardians in the email so that we can better assist you with your request.  We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+We reserve the right to use new technologies, as they become available, to gather additional, relevant information from our users and improve our Services and your experience of them.
 
-These children’s privacy policies have been developed with the recognition that Internet technology evolves rapidly and accordingly, this section is subject to change. In the unlikely event of such changes, they will be posted on this page.  If the changes represent a material departure from our current practice with respect to the use of children's Personal Information, the changes will be posted on this page thirty days prior to taking effect.
+**How We Use Your Information**
 
-If you are the parent or guardian of a child younger than 13 years of age who has provided us with any personal information, you may contact us at [privacy@adexchanger.com](mailto:privacy@adexchanger.com) to arrange for that information to be removed from our databases.
+We may use information about you:
 
-**The Type of Information We Collect and How We Collect It**
+  * To provide you with Services and information that you have requested from us or that we think may be of interest to you.
+  * To send account notices or otherwise manage your account, respond to requests, inquiries, comments or concerns.
+  * To offer you customized content and individualized personalization of the Services to make them more relevant to your professional interests and responsibilities.
+  * To ask for your input to help in our research about our Services.
+  * To contact you with information about, and provide invitations for, products, services, events and research opportunities – ours and other companies’ – directed at your professional interests and responsibilities.
+  * To give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in certain of our subscription-only databases.
 
-By accessing or using the Site, you may provide us with two types of information: (1) personally-identifiable information that you voluntarily choose to disclose to us, such as your name, address, telephone number, email address and credit card information; and (2) non-personally-identifiable information, which we collect through the use of technologies such as "cookies," "web beacons" and/or "web logs."  You do not need to submit personally-identifiable information to access certain areas of the Site, but if you do not want to disclose certain personally-identifiable information to us, you will not be able to access some areas of the Site or use some of the Services.
 
-We collect personally-identifiable information when you create an account through the Services and make changes to your account; subscribe to receive newsletters and/or updates; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in promotions; make a purchase using the Services; post comments, photographs, audio, video, or other content on the Site or otherwise using the Services; contact us using links available on the Site; or receive customer or technical support.
 
-In some instances, we may require you to provide your email address and/or other personal information, and/or to create a user name and password in order to access certain Services or use certain functionality on the Site, such as posting comments.  Once you do so, you may provide us with additional information, such as your name, street address, mobile number and other personal information to complete your "profile" or otherwise take full advantage of a particular Service or Site functionality.  When you purchase products or Services via the Site, we may collect payment and shipping information to process and deliver your purchase.  The information will be retained for our records, which will enable you to place future purchases without the need to re-enter the information.  If we provide links to third party websites to purchase products or services that are featured on the Site, such as a third party vendor or retailer, such transactions will be subject to the terms and policies of such other websites, and accordingly, we take no responsibility for the privacy of your information collected by such websites in connection with your purchase.
+**Consent**
 
-We may collect other types of information (known as demographic information) such as your gender and interests. This demographic information may be associated with your personally-identifiable information, but we will not share it with others in a manner that directly associates it with your personally-identifiable information.
+By using Access Intelligence’s Services (for example, when you register for an account, purchase a product or service, enter a contest or promotion, communicate with us, or use interactive portions of our sites and applications), you consent to our collection, use and sharing of your PII as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to receive information before we are able to send it to you.
 
-**How We Use Your Personally-Identifiable Information**
+**Your Choices**
 
-The personally-identifiable information you provide to us will allow us to provide the Services, fulfill your product or Service order; alert you of new products or Services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of contests, promotions, or special events and offers.  We may also share your personal information with third parties for their direct marketing and promotional purposes, but only with your permission. We may contact you by email with respect to your order of our products or Services or your account.  We also use your email address to send messages to you in response to your request to perform an activity in connection with your use of any of the Services.
+You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Access Intelligence has a number of brands and products and we allow you to opt-out selectively. To remove a specific email address from all of Access Intelligence’s marketing communications, you may send a request to [clientservices@accessintel.com](mailto:clientservices@accessintel.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand or contact the brand directly.
 
-When you provide us with personally-identifiable information, you may be asked if you wish to receive news, updates and promotion announcements.  If you say yes, we may contact you by email occasionally to inform you of such matters.  You are given the opportunity with each email notification to remove yourself from the Site email contact list.
+If you believe the information we have about you needs to be updated, please contact us so we can keep your information accurate. Any data that is no longer needed for the purposes specified in Information Collection will be deleted. If at any point you wish for Access Intelligence to delete information about you, you can simply contact us at [clientservices@accessintel.com](mailto:clientservices@accessintel.com).
 
-When you provide us with personally-identifiable information, you may also be asked if we can share your personal information with third parties for their direct marketing and promotional purposes.  If you say yes, these third parties may use such personally-identifiable information to contact you.  If you authorize us to share your personally identifiable information, we are not responsible for how those third parties use your personally-identifiable information.
+You may receive email marketing messages from us about other companies’ offerings as part of a business partner marketing program. To opt-out of a business partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
-We keep track of your interactions with us and may use your personally-identifiable information and other information relating to your interactions with us to generate information about the popularity of certain of our Services and functionality and how users of the Site utilize different aspects of the Services and functionality.  We may also use such information to design, develop and implement additional services and features of the Site and to improve the existing Services, but in no event will such use result in the disclosure of your personally-identifiable information to our customers or others unless you have clearly authorized us to do so.
+Please note that opting-out of promotional mailings will not affect delivery of your subscription-based products.
 
-**How We Use Your Non-Personally-Identifiable Information**
+To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during/in those communications. To remove a specific phone/fax number from all of Access Intelligence’s marketing communications, you may send a request to [clientservices@accessintel.com](mailto:clientservices@accessintel.com).
 
-A "cookie" is a small file stored on your computer by a website to give you and your computer a unique ID.  A “web beacon” is a small file stored in a website page to identify when that page has been viewed by a particular visitor, and a “web log” is an aggregation of data about use of a particular website (e.g., number of visitors).
+**Access to Your Information**
 
-We use "cookies,"  “web beacons,” “web logs” and similar technologies that may be developed from time-to-time (now or in the future) to collect information, on an aggregate basis, about how the Site is used. This information may include the date and time of visits to the Site and time spent on the Site. The use of these technologies allows us to personalize your use of the Site and to provide greater convenience each time that you visit. Additionally, advertisements appearing on the Site and managed by third parties, as well as the advertisers themselves, may use these technologies to collect non-personal information when you click on or move your cursor over one advertisements appearing on the Site. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information collected by these advertisers as a result of your use of the Site, and this information may permit us to identify other sites that you have visited that are also associated with such advertisers.
+You have the right to request access to the information we have about you. Simply contact us at [clientservices@accessintel.com](mailto:clientservices@accessintel.com) and we will make sure to provide you with a copy of the data we’ve processed about you. In order to comply with your request, we may ask you to verify your identity. Then we will fulfill your request by sending your copy electronically, unless the request expressly specifies a different method. For any subsequent access request, we may charge you with an administrative fee.
 
-Depending on your browser and related programming configurations you utilize, you may be able to disable, block or otherwise control the use of these technologies (please consult instructions for your web browser). However, if you do so, it is possible that some parts of the Services will not be accessible to you.
+**Disclosure of Your Information**
 
-Our servers automatically record information that your browser sends whenever you visit the Site.  This information includes your Internet Protocol address, your browser type and version, which Services you use and when and how long you use them.  We use this information to monitor and analyze how users use the Site and Services, to provide customer service and to maintain and improve the Services.
+Access Intelligence contracts with other companies to provide certain services on our behalf, including customer service, credit card and billing processing, shipping, subscription fulfillment, research, analytics, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information and business services. We only provide these companies with the relevant information required to perform their services and they are explicitly restricted from using any data received from us for their own marketing purposes.
 
-**Sharing of Information** _ _
+We may also provide your information to third parties for marketing and/or analytical purposes as further described below:
 
-We may use your personally-identifiable information to provide analyses of our users in the aggregate to current and prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personally-identifiable information about users.
+_Sponsors and Gated Resources_
 
-In addition, we will share the personally-identifiable information we collect from you under the following circumstances:
+From time to time our sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. If you register for or access Services offered by these vendors, you choose to share your name and contact details directly with those vendors so that they may contact you. For example, if you register for a vendor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that vendor for its own use. We may also keep a copy of that data for our own use, consistent with this privacy policy. We may provide a link to the vendor’s privacy policy (as well as to this policy) on the registration page.
 
-  * **_Protection of rights_**   We will share personally-identifiable information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Services, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Services, or (iv) such action is appropriate to protect our rights, property or safety or the rights, property or safety of our employees, users of the Services or others.
-  * **_Asset transfers_**   If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personally-identifiable information collected from you through your use of the Services, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site.
-  * **_Bankruptcy_**   If we become bankrupt, make an assignment of our assets for the benefit of our creditors, or otherwise become insolvent, we may transfer our rights in your personally-identifiable information to others, but in such event the recipient of those rights will be bound by this Privacy Policy.
-  * **_Service Providers_**   We may share your personally-identifiable information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, we have partnered with other companies to sell products through the Services, fulfill product orders and process payments.  Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data.  While providing services for us, these companies may access your personally-identifiable information.  To the extent applicable, we require these entities to comply with this Policy and appropriate confidentiality and security measures.  ** **
+Similarly, if you access third-party resources in certain registration-only, or “gated” websites, resource centers, or directory services on our websites, we may share your registration information when you access or click on a link to technical resources provided or sponsored by another company. This includes third-party resources sold through our online stores. In addition, we may share your contact information with sponsors of a particular e-newsletter if you click on their information or offerings. If you do not wish to have your information shared, you will be given an opportunity within the e-newsletter to opt-out.
 
+When you register for an in-person or digital event, we will provide your registration information to the sponsor(s) of such event. We may also provide your information to sponsors of special sessions within the larger event.
 
+**Mobile Devices**
 
-Choice/Opt-Out
+Mobile marketing campaigns may involve your sending an email from your mobile device to Access Intelligence or a third-party campaign operator. An email or other response will then be sent to your mobile device. Opting to participate in this type of campaign is your choice. When you engage in these mobile marketing campaigns, Access Intelligence and the third-party campaign operator may collect and use your cell phone number, the name of your wireless service provider, images that you send using your cell phone as part of the campaign, and other relevant information.
 
-Our Site provides you with the opportunity to affirmatively opt-out of receiving communications from us and our partners at the point where we request information about you.  This Site gives you the option to end our use of your information, and to cease receiving or otherwise having access to future communications or Services; however, we will not stop sending you information necessary to fulfill orders or otherwise provide Services that you have purchased from us.
+**Correcting and Updating Your Information**
 
-Your California Privacy Rights
+If you are a registered user, you can access your account information and make corrections or updates upon log-in. The accuracy of such information is solely your responsibility. You may also separately contact us to request access to other PII about you which is in our possession. If you request to deactivate your account or delete your PII, we will endeavor to fulfill your request but some PII may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
 
-A California privacy law that went into effect on January 1, 2005, the "Shine the Light" law, allows California residents to obtain a list of third parties to whom a business has disclosed personal information if it shares such information with third parties for their direct marketing purposes. However, if a business adopts and discloses in its privacy policy a policy of not disclosing customers’ personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and by providing a cost-free means to exercise that right.
+**Information Security**
 
-As stated earlier in this Privacy Policy, personal information submitted at the time of registration or submission may be used for marketing and promotional purposes only with the particular user or visitor’s permission. Whenever a user or visitor to this Site agrees to allow us to collect personal information, we provide that person with an option to prevent such information from being shared for marketing and promotional purposes with third parties.  Furthermore, you may exercise this cost-free option at any time by clicking on the link below:
+We use a variety of technical, physical, and administrative security measures to secure the confidentiality of your PII and to protect it from loss, misuse, alteration, and destruction. However, due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties or by government agencies. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
 
-Because the Site has a comprehensive privacy policy and provides you with details on how you may opt-in or opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with the third party list contemplated under California’s Shine the Light law.
+**Other Important Information**
 
-**Additional Information You Should Know About Third Parties**
+Access Intelligence reserves the right to access and disclose PII to comply with applicable laws, government requests, court orders and other legal requirements, or to investigate alleged or suspected fraud or violations of the terms and conditions governing our Services.
 
-This Policy does not cover the information practices of third party websites linked to the Site. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personally-identifiable information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
+**Changes to This Privacy Policy**
 
-When you follow a link from our Site to a third party site, or when you post or publish content to a third party site, even originating from this Site, this Policy no longer applies and you will need to read the privacy policy of the other site to learn how your personally-identifiable information will be handled on their website.  We are not responsible for any action or policies of any third party in connection with your purchase through or visit to any website through the Site.
+As new products and services are offered or as existing products and services are improved, we may need to update this policy. When we do so we will post the changes here. For material changes we may also email our registered users with the new details. We encourage you to review this policy from time to time to stay informed about how we are protecting the PII you provide. Your continued use of our Services covered by this policy constitutes your consent to the practices in place at the time of your use.
 
-The Services may provide message boards, forums and/or chat areas, where our users can exchange ideas and communicate with one another.  When you post to any message board, forum or chat area, please be aware that the information you post is publicly available on-line and therefore any information you post, including your user name, is at your own risk as it will be readily available to other users.  Individuals under the age of 18 should be especially careful not to provide any personally-identifiable information when participating in any area of the Site where postings are or might become public.
+**How to Contact Us**
 
-**Control of Your Information**
+If you have any questions, comments, or requests regarding this policy or our processing of your information, please contact [clientservices@accessintel.com](mailto:clientservices@accessintel.com), or write/call us at:
 
-You may update or delete your personally-identifiable information or modify certain of your preferences by accessing the "My Account" area of the Site.  You are responsible for keeping your contact information current and accurate. Please note that when you delete your account, we may retain your old account information for the purpose of internal account management and fraud prevention activities.
-
-**Opting Out of Receiving Communications from Us**
-
-If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe from receiving any or all of these services by replying to the "Unsubscribe" link at the bottom of our emails.  Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
-
-**Mediation**
-
-You agree that, in the event any dispute or claim arises out of or relating to this Policy that you will attempt in good faith to negotiate a written resolution of the matter directly with us.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, the parties shall join in mediation services in New York, New York with a mutually agreed mediator in an attempt to resolve the dispute.  The cost of any mediation shall be shared equally by you and us.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
-
-**Our Security Measures**
-
-Protecting your personal information is our priority.
-
-The personally-identifiable information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personally-identifiable information to our employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Site and Services.  All personnel who have access to this information are trained in the maintenance and security of such information.
-
-To the extent that we handle purchases on the Site, we will use Secure Sockets Layer (SSL) technology or other software that meets or exceeds the protection provided by SSL to encrypt your credit card number so that it cannot be read as the information travels over the Internet.
-
-Please be aware, however, that no data transmission over the Internet can be guaranteed to be completely secure, and no system of electronic security is impenetrable.  For this reason, **_we cannot ensure or warrant the security of any information that you transmit to us_** ** _or the security of our Services or databases._   **You agree to assume all risk in connection with the information transmitted to us or collected by us when you use the Site or our Services.
-
-You can help protect your personally-identifiable information by using a combination of letters and numbers in your password, changing your password often, using a secure web browser, and signing off when you are finished with the use of the Site on a shared computer.  **_Please remember that you are responsible for maintaining the secrecy of your screen name and password for your account._**   If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at webmaster@adexchanger.com.
-
-**International Users**
-
-This Site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from United States law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer and to our use of that information in accordance with this policy. When you provide personal data to us or our service providers or vendors, you consent to the processing of your data in the United States as the Site is operated in the United States.
-
-YOU ACKNOWLEDGE THAT THE LAWS OF THE UNITED STATES TREAT YOUR  INFORMATION IN A MANNER THAT MAY BE SUBSTANTIALLY DIFFERENT FROM, AND LESS PROTECTIVE THAN, THE TREATMENT REQUIRED UNDER THE LAWS OF OTHER COUNTRIES AND JURISDICTIONS. IF YOU DO NOT WANT YOUR  INFORMATION TRANSFERRED TO THE UNITED STATES, YOU SHOULD NOT SHARE YOUR INFORMATION WITH US, OR MAKE USE OF THIS WEBSITE.
-
-TO THE EXTENT ALLOWED BY THE LAW OF THE COUNTRY IN WHICH YOU ARE LOCATED, YOU EXPRESSLY WAIVE ANY RIGHT YOU MAY HAVE TO REQUIRE US TO TREAT YOUR IDENTIFYING INFORMATION IN ACCORDANCE WITH THE LAWS OF ANY COUNTRY OR JURISDICTION OTHER THAN THE UNITED STATES.  HOWEVER, THE FOREGOING WAIVER MAY NOT BE LEGALLY BINDING IN SOME COUNTRIES, SUCH AS THE MEMBER STATES OF THE EUROPEAN UNION.  TO THE EXTENT IT IS NOT LEGALLY BINDING IN THE COUNTRY IN WHICH YOU ARE LOCATED, THIS FOREGOING WAIVER DOES NOT APPLY TO YOU.
-
-**_How can you contact us?_**
-
-If you have any questions about our privacy practices or this Policy, please contact us at:
-
-AdExchanger
-
-41 E. 11th St, Floor 11
-
-New York, NY 10003
-
-webmaster@adexchanger.com
-
-©2015, Jebbert LLC, all rights reserved.
-
-**For opt-out of data collection/ad targeting through Google's DoubleClick Bid  Manager, here are links to Google's privacy policy/advertising options functionality. **
+Access Intelligence  
+Customer Service  
+9211 Corporate Blvd, 4th Floor  
+Rockville, MD 20850  
+800-777-5006  
+301-354-2101
