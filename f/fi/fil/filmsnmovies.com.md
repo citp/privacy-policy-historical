@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmsnmovies.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226052512id_/http%3A//www.filmsnmovies.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsnmovies.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629081951id_/http%3A//www.filmsnmovies.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Plicy - Films N Movies
 
