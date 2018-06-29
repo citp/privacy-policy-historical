@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229035037id_/https%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629195441id_/https%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Container Store
 
 ###  By accessing or using The Container Store website, providing information to us through a contact center or at one of our stores, or buying our products, you agree to the terms of the most recent version of this Privacy Policy and our Terms and Conditions. 
 
-Last updated on 8/8/2014 
+Last updated on 2/1/2018 
 
 The Container Store does not sell or share your personal information with other companies for their marketing efforts. We pride ourselves on providing exceptional customer service. Not only are we committed to helping you organize your life, we also want to make sure you clearly understand how we use information about you to provide you with the best possible shopping experience. We value the trust you place in The Container Store and we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place to protect it. 
 
@@ -50,11 +50,7 @@ The following topics are addressed in this Privacy Policy:
 
 
 
-## Acceptance of Terms
-
 By using our Site, our Contact Center, or our Stores, you agree to The Container Store's Privacy Policy. We reserve the right, at our discretion, to change, modify, add or remove portions of this policy at any time. If this policy changes in the future, we will let you know by posting the updated policy on our Site with the most recent modification date. Please check this page periodically for changes. If there are material changes in the way we will use or share personal information about you, we will provide notice of our revised Privacy Policy when you access your online account or provide you with an email notification. Your continued use of our Site, our Contact Center, or our Stores following the posting of the revised policy means you accept the changed policy. 
-
-##  Collecting Personal Information 
 
 We collect information about you when you make a purchase in one of our Stores, through our Contact Center, or through our Site. This information may include your name, mailing and billing address, zip code, phone number, and/or email address. We may also ask for this information if you choose to participate in a survey, sweepstakes, contest, promotion or giveaway. We consider information that personally identifies you, such as your name, email address or billing information, and other data that is linked to such information, to be personal information. 
 
@@ -72,8 +68,6 @@ You may be asked to provide additional information when you use our Site to deve
 
 Finally, The Container Store may allow you to submit information to our Ratings & Reviews, our customers' real-life tips and our "What We Stand For" blog (collectively referred to as "Forums"). Your use of the Forums may reveal your user name, city and state, and may allow you to publish certain other personal information about yourself. Information you submit to our Forums, including your user name, and in some cases, your city and state, becomes publicly available and can be seen, collected, and used by others. Once made public, this information cannot be made private again. Therefore, you should exercise caution when deciding to submit information to our Forums, or disclosing information about yourself or others, and you should not submit or communicate any information to the Forums that you do not want to be seen, collected, or used by others. We may link information you submit to our Forums to other information about you, including but not limited to your personal information and account information, but we will not publicly display your personal or account information other than as explained above. 
 
-##  Browsing Our Website 
-
 When you are using our Site, we log your **IP address** (a number that identifies your computer on the Internet) for system administration, troubleshooting and to examine overall traffic trends. For example, IP addresses help us determine the percentage of people coming from various online gateways, such as Google or Yahoo!. This information is collected in aggregate. It is also linked to your personal information if you provide your personal information to The Container Store. 
 
 Another tool we use is called a **cookie** , which is a small data file stored on your computer that allows us to customize portions of our Site to your preferences. Generally, we use cookies to remind us of who you are, tailor our product selection to you, and to ensure that only you have access to your account and any personal organization projects, wish lists or custom space designs you have created with us. The cookie, by itself, doesn't provide any personal information, such as your name or email address. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) However, you may not be able to use some features of our Site if you set your browser to reject cookies. 
@@ -84,8 +78,6 @@ Google permits you to opt-out of some of their services by using [Google Ads Set
 We also use cookies and other tools to collect information about how you use our Site (for example, information about what pages you look at, what terms you use in searching our Site, or what products you investigate or purchase). This information may be collected directly by us, or it may be collected by a third-party service provider. If you have an account with us, this information may be linked to your account in order to provide you with product recommendations. 
 
 Please know that while some browsers allow you to send a signal indicating that you do not wish to be "tracked", our Site does not recognize or respond to these "Do Not Track" signals. 
-
-##  How We May Use Your Information 
 
 In order to serve you better, we may combine the information you provide us and the information we have from your purchases through our Site, through our Contact Center, online and in our Stores. We may also utilize information that is publicly available. This information, in total, is used to improve your overall experience with our company. Here are the ways we may use information about you in order to enhance your shopping experience at The Container Store: 
 
@@ -101,8 +93,6 @@ In order to serve you better, we may combine the information you provide us and 
 
 
 
-##  Sharing Your Information and Third-party Partnerships 
-
 As previously stated, we do not sell or share your personal information with other companies for their marketing efforts. On occasion, The Container Store shares information collected from our customers with selected third-party companies who help assist us in our own advertising and marketing efforts. For example, we may retain an outside company to help us with customer research or to manage a customer database, to send catalogs or direct mail, or to send email messages. The information we provide to third parties for such purposes may include your name, address, email address, Site usage, and purchase information, which will help us target marketing communications. The Container Store also provides some anonymous information about customer purchases to third-party companies that assist us with advertising and promoting our products and services. 
 
 You can opt out of receiving catalogs, e-mails and other marketing materials from us. Information on how to opt out is provided below. 
@@ -117,11 +107,7 @@ Third parties may receive your personal information because you have visited the
 
 In the event that The Container Store is merged with or acquired by another company, or in the event of a transfer of our assets, we may disclose or transfer personal information and other information about usage of our Site in connection with such a transaction. In the event of such a transfer, we will notify you of the change of control of your personal information. You should also be aware that courts may have the authority under certain circumstances to permit personal information and other information about usage of our Site to be shared or transferred to third parties without your permission. 
 
-##  Disclosure of Your Personal Information 
-
 We will not use or disclose your personal information except: (1) as described in this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to The Container Store, or to others; (4) if we are required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); or, (5) as we otherwise believe is required by law. 
-
-##  Security of Our Site 
 
 The Container Store maintains security procedures designed to keep information we own, license and process from being accessed by any unauthorized person or business. We use a variety of multi-level security systems to control access to our systems and the data that we house. Our enterprise security operations center maintains real-time monitoring for information system vulnerabilities and unauthorized access attempts into our internal systems. We also maintain physical security for our facilities and limit access to certain critical areas of our business. 
 
@@ -131,11 +117,7 @@ Anyone with access to the email address and password you use to create an accoun
 
 You are responsible for maintaining the confidentiality of your account password, and you are responsible for any access to or use of our Site by any person or entity using your password, whether or not such access or use has been authorized by you. 
 
-##  Reviewing and Revising Your Account Information 
-
 You may review and make changes to the personal information that is stored in your user account on our Site by visiting the "My Account" area of our Site. 
-
-##  Opting Out 
 
 While we hope that the information included in this Privacy Policy has helped you better understand how we use and protect your information to provide you with better service, we understand that you may still choose to not receive information from The Container Store or our partners. 
 
@@ -145,23 +127,17 @@ While we hope that the information included in this Privacy Policy has helped yo
 
 
 
-##  Children and Privacy 
-
 Our Site is not directed to children under the age of 13 years. We will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. By using our Site, you represent and warrant that you are at least 13 years old. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information. 
 
 In addition, you must be at least 18 years old in order to establish an online account. By creating an online account with us you represent and warrant that you are at least 18 years of age. 
 
-##  Information Provided When You Apply for a Job Online 
-
 Our Site includes a feature ("Careers") that allows you to submit an online job application. When you submit an online application, you will be required to provide personal information, including but not limited to your name, contact information, job interests, educational and job history, and references. This information will be used by The Container Store to assess and process your application. 
 
-The online application process is hosted and supported by a third-party service provider, HRsmart. HRsmart receives and stores the information you provide. HRsmart does not disclose the personal information it receives and maintains for The Container Store to anyone else. (Click here to see the HRsmart Privacy Policy.) 
+The online application process is hosted and supported by a third-party service provider, iCIMS. iCIMS receives and stores the information you provide. iCIMS does not disclose the personal information it receives and maintains for The Container Store to anyone else. (Click here to see the iCIMS Privacy Policy.) 
 
 If we decide to interview you, we may print your application and use it during the interview process. If you are hired, your application becomes part of your employee file. If you are not immediately hired, your printed application is kept for one year and then typically will be destroyed. We may ask you to provide additional information during the interview or hiring process. We may also use the information you provide to contact you about your application; for example, to ask you to agree to a background check or to send you an offer letter. 
 
-We do not share the information you provide in the online application to anyone outside of The Container Store and HRsmart, except as we believe is required by law. 
-
-##  Questions 
+We do not share the information you provide in the online application to anyone outside of The Container Store and iCIMS, except as we believe is required by law. 
 
 If you need any other information, please submit your requests or questions to The Container Store, ATTN: Customer Solutions Department, 500 Freeport Parkway, Coppell, TX 75019 or email us at [contain@containerstore.com](mailto:contain@containerstore.com) Please allow 30 days for a response. 
 
