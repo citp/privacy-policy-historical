@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706221036id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629201209id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Experience Life
+# Privacy Policy – Experience Life
 
 Welcome to Experience Life. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and Terms of Service.
 
 ## Our Organization and Web Site
 
-_Experience Life_ Magazine is published monthly except for January/February and July/August by Life Time Fitness, a healthy lifestyle brand consisting of health and fitness centers, healthy living products, and educational services.
+_Experience Life_ Magazine is published monthly except for January/February and July/August by Life Time, a healthy lifestyle brand consisting of health and fitness centers, healthy living products, and educational services.
 
 The information contained in the magazine is intended to provide broad understanding and knowledge of healthcare topics. This information should not be considered complete and should not be used in place of a visit, call, consultation or advice from your physician or other healthcare provider. We recommend you consult your physician or healthcare professional before beginning or altering your personal exercise, diet or supplementation program.
 
-Life Time Fitness Corporate Headquarters  
+Life Time Corporate Headquarters  
 2902 Corporate Place  
 Chanhassen, MN 55317
 
@@ -58,7 +58,7 @@ Upon submitting your subscription order, we will disclose your name, address and
 
 We have implemented security policies, rules and technical measures to protect your personal data that we have under our control from:
 
-  *  Unauthorized access
+  * Unauthorized access
   * Improper use and disclosure
   * Unauthorized modification
   * Unlawful destruction or accidental loss.
@@ -77,7 +77,7 @@ Registration is not required for using this site. Should you choose to register 
 
 [ExperienceLife.com](https://www.experiencelife.com/) publishes 12 monthly newsletters and 52 weekly newsletters annually, along with occasional special promotion emails (no more than one per month). In order to subscribe, you must provide your email address; we will not share this with other organizations.
 
-All e-newsletters sent by _Experience Life_ are in compliance with the CAN-SPAM Act of 2003, and contain an opt-out option, the postal address for Life Time Fitness, and accurate and explanative subject lines and headers. Users may cancel their subscription to our e-newsletter at any time by sending us as email or by using the opt-out option.
+All e-newsletters sent by _Experience Life_ are in compliance with the CAN-SPAM Act of 2003, and contain an opt-out option, the postal address for Life Time, and accurate and explanative subject lines and headers. Users may cancel their subscription to our e-newsletter at any time by sending us an email or by using the opt-out option.
 
 ## Security
 
@@ -105,4 +105,4 @@ This policy was last updated on November 12, 2012.
 
 If you have an inquiry or concern about this policy, please contact [jmartin@experiencelife.com](mailto:jkuenster@experiencelife.com?subject=ExperienceLife.com%20Privacy%20Policy%20Inquiry/Concern).
 
-[](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ELF&cds_page_id=120263)
+* * *
