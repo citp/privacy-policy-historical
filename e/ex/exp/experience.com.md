@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204161005id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629042245id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Symplicity
 
@@ -104,6 +104,10 @@ Please include your name and email address in email requests, and your name and 
 
 If you have any questions, concerns, or complaints regarding this Privacy Policy or privacy issues relating to the Site, you can contact us, at [privacy@symplicity.com](mailto:privacy@symplicity.com).
 
-### PRIVACY SHIELD AND SWISS SAFE HARBOR
+### E.U. AND SWISS PRIVACY SHIELD
 
-Symplicity complies with the EU-U.S. Privacy Shield Framework and the U.S-Swiss Safe Harbor as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. [See our Privacy Shield Statement](https://web.archive.org/support/privacy-shield-statement). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. To see our Swiss Safe Harbor certification, please visit <https://safeharbor.export.gov/swisslist.aspx>
+Symplicity complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See our [Privacy Shield Statement](https://www.symplicity.com/support/privacy-shield-statement). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
+
+### GDPR
+
+On May 25, 2018, the General Data Protection Regulation (GDPR) takes effect in the European Union (EU). The GDPR is a new EU law that expands the privacy rights of EU individuals and places new obligations on organizations that market, track, or handle EU personal data. Symplicity is committed to helping our customers comply with the GDPR through our robust privacy and security protections.  For more information, please see our GDPR information page [here](http://www.symplicity.com/gdpr).
