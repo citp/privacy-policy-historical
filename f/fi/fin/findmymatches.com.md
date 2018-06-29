@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findmymatches.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225190953id_/http%3A//www.findmymatches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmymatches.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629161941id_/http%3A//www.findmymatches.com/privacy.php) for the most accurate reproduction.*
 
 # FindMyMatches - Privacy Policy
 
-### Effective Date: June 28, 2013
+### Effective Date: May 24, 2018
 
 Our postal address is   
 **FindMyMatches.com  
