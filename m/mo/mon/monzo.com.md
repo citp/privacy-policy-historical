@@ -1,87 +1,127 @@
-> *The following text is extracted and transformed from the monzo.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112173523id_/https%3A//monzo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monzo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629091703id_/https%3A//monzo.com/privacy) for the most accurate reproduction.*
 
-# Monzo – It's time for a new kind of bank
+# Monzo – Privacy Policy
 
-Monzo Bank Ltd ("we", "our", "us"), operating as Monzo, is committed to protecting and respecting your privacy. 
+Version 1.2 — May 22, 2018
 
-This Privacy Policy, together with our Terms and Conditions, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
+### Who are we?
 
-Information we may collect from you 
+We are Monzo Bank Limited (“we”, “our”, “us”) and operate under the name of Monzo.
 
-We may collect and process the following personal data about you: 
+We’re committed to protecting and respecting your privacy. If you have any questions about your personal information please chat with us through the Monzo app, or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d2528213d0d2022233722632e2220), or by writing to us at 1st Floor, 230 City Road, London, EC1V 2QY.
 
-  1. Information that you provide directly via our website or mobile application, for example during registration; 
-  2. Information that you provide when you enter a competition or promotion sponsored by us or third parties, and when you report any problem with our website; 
-  3. If you contact us, we may keep a record of that correspondence, including any phone number or email address you use; 
-  4. Information that you provide when completing surveys that we use for research purposes; 
-  5. Details of transactions (including details of payment cards and bank accounts used) that you carry out through our website, mobile application, or using the Monzo card. 
-  6. Details of your usage of our mobile application and website including, but not limited to, traffic data, location data, logs, error- & crash-reporting, and other communication data and the resources that you access. 
-  7. Information available about your usage or configuration of your mobile device, including the presence of other applications, unique device-identifying information, and any cellular network, IP, wifi or bluetooth data; 
-  8. Information you give us explicit permission to access from your mobile device, including your address book, photos, geolocation, gyroscopes, data from your cameras or microphones. You may choose not to give permission to share this data, but it may restrict the usage of certain features of the mobile application; 
-  9. Information from any social network or other online accounts that you choose to share with us. 
+We’re registered with the Information Commissioner’s Office under number ZA108184.
 
+### The information we hold about you 👀
 
+  * **Information submitted through our app or website**
 
-## Use of personal information
+For example, when you sign up to the app and provide details such as your name, ID, selfie and address, or details we collect about how you use the app and website
 
-We process personal information for the purposes of: 
+There may be times when you give us ‘sensitive’ information, which includes things like your racial origin, political opinions, religious beliefs, trade union membership details or biometric data. We’ll only use this information in strict accordance with the law.
 
-  1. providing you with our services; 
-  2. monitoring, analysing and improving those services; 
-  3. prevention of money-laundering, fraud & illegal activities, and the prosecution of offenders; 
-  4. direct-marketing of our products and services, advising you of news and industry updates, events, promotions and competitions, reports and other information and carrying out market research campaigns; and 
-  5. providing you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * **Details about your transactions with us**
 
+including any cards and accounts you use.
 
+  * **Information on how you use your phone**
 
-## Marketing
+For example the mobile network you use, your IP address or operating system and the settings on your phone.
 
-We will not share identifiable personal data with third parties for the purposes of direct marketing without your explicit consent. 
+  * **Information you give us permission to access on your phone**
 
-We may use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes. 
+Things you give us explicit permission to see, like your address book, photos, geolocation and data from your camera.
 
-## Use of IP addresses and cookies
+  * **Information from social networks or online accounts**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system information and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+Information from any accounts that you share with us.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. A cookie is a small data file which is sent from a web server to a web browser when that browser visits the server's website. We use cookies to identify you when you visit this website, keep track of your browsing patterns and build up a demographic profile. They help us to improve our website and deliver a better and more personalised service. 
+  * **Cookie information**
 
-They enable us to: 
-
-  1. Estimate our audience size and usage pattern; 
-  2. Store information about your preferences, and so allow us to customise our website according to your individual interest; 
-  3. Speed up your searches; and 
-  4. Recognise when you return to our website. 
+Read our [Cookie Policy](https://web.archive.org/cookies) for more info on what cookies are and how we use them.
 
 
 
-If you do not wish to have cookies placed on your computers, you should set your browser to refuse cookies. However, switching off cookies will restrict your use of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website. 
 
-## ￼Where we store your personal data
+### How we use your information 🔍
 
-The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+To provide our services. We use it to:
 
-## Disclosure of your information
-
-We may disclose your personal information to any member of our group of companies, which includes our subsidiaries, our ultimate owner and any undertakings owned by it. 
-
-We may disclose your personal information to third parties: 
-
-  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
-  2. If Monzo Bank Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
-  3. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions or other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; 
-  4. If you give explicit permission to do so. 
+  * Help us manage your account.
+  * Track, analyse and improve the services we give you and other customers.
 
 
 
-## Access to information
+To meet our legal obligations. We use it to:
 
-You have a right to access the personal data held about you or to obtain a copy of it. Any access request may be subject to a statutory fee to meet our costs in providing you with details of the information we hold about you. We may ask you to verify your identity and for more information about your request. To obtain a copy of the personal information we hold about you, please write to us at 16-28 Tabernacle Court, Tabernacle Street, EC2A 4DD. 
+  * Search your record at immigration and fraud prevention agencies.
+  * Prevent illegal activities like money laundering, tax evasion and fraud.
+  * Make responsible lending decisions, like offering you an overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app.
 
-## Changes to our Privacy Policy
 
-Any material changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. 
 
-## Contact
+To exercise what’s known as our legitimate interests. This is when we use data for a reason which is in your and/or our interest, and which doesn't involve overriding your privacy rights. We use it to:
 
-If you have any requests concerning your personal information or any queries with regard to these practices please contact us through emailing us or writing to 16-28 Tabernacle Court, Tabernacle Street, EC2A 4DD. If you're a current user, you can email [help@monzo.com](mailto:help@monzo.com) and if you're not yet a user, email us on [hello@monzo.com](mailto:hello@monzo.com). 
+  * Market products and services generally in app.
+  * Search your record at credit reference agencies when you sign up (this is a 'soft search' and shouldn't impact your credit score).
+
+
+
+With your permission. We use it to:
+
+  * Check your credit history if you apply for a credit product like an overdraft (this is a 'hard search', it might impact your credit score and chances of getting credit elsewhere).
+  * Market and communicate our products and services and those of affiliated partners where we think these will be of interest to you by email. You can always unsubscribe from receiving these if you want to, by email and via the app.
+
+
+
+We may share your personal information with:
+
+  * Anyone who works for us when they need it to do their job.
+  * Any organisation which supports any of our services you use, when they need it to offer those services. That includes: 
+    * Card producers and networks.
+    * Credit reference agencies (for information on how they use data please read the [Credit Reference Agency Information Notice](https://www.callcredit.co.uk/crain)).
+    * Analytical, Know Your Customer (KYC) and cyber security service providers.
+    * Customer ‘interface’ providers (like the ones who manage our in-app chat service).
+.
+  * Companies that do advertising for us (but we won’t share identifiable personal data with third parties for their own direct marketing unless you give us permission, and you can opt out any time).
+  * Certain authorities that detect and prevent terrorism (including authorities outside the UK if one of your payments is processed through a worldwide payment system).
+  * Anyone who you give us explicit permission to share it with.
+
+
+
+We’ll also share it to comply with the law; to enforce our Terms and Conditions or other agreements; or to protect the rights, property or safety of us, our customers or others.
+
+### How long we keep it 📁
+
+We keep your data as long as you’re using Monzo, and for 6 years after that to comply with the law. In some circumstances, like cases of anti-money laundering or fraud, we may keep data longer if we need to and/or the law says we have to.
+
+### Your rights ✅
+
+You have a right to:
+
+  * Access the personal data we hold about you, or to get a copy of it.
+  * Make us correct inaccurate data.
+  * Ask us to delete, 'block' or suppress your data, though for legal reasons we might not always be able to do it.
+  * Object to us using your data for direct marketing and in certain circumstances ‘legitimate interests’, research and statistical reasons.
+  * Withdraw any consent you’ve previously given us.
+
+
+
+To do so, please contact us through the app or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab2bfb6aa9ab7b5b4a0b5f4b9b5b7).
+
+### Where we store your data 🔒
+
+We might transfer and store the data we collect from you somewhere outside the European Economic Area (‘EEA’). People who work for us or our suppliers outside the EEA might also process your data. We may share data with organisations and countries that:
+
+  * The European Commission say have adequate data protection.
+  * We’ve agreed standard data protection clauses with.
+
+
+
+### How to make a complaint 😔
+
+If you have a complaint, please contact us through the app or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8909d9488b89597968297d69b9795) and we’ll do our best to fix the problem. If you’re still not happy, you can refer your complaint to the Financial Ombudsman Service. For more details you can visit their website at [www.financial-ombudsman.org.uk](http://www.financial-ombudsman.org.uk/).
+
+### Changes to this policy 📝
+
+We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know by email.
