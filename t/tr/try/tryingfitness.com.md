@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210072520id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629071109id_/http%3A//www.trying.fitness/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trying Fitness
 
@@ -26,13 +26,13 @@ We do not sell or rent your personal information or share your personal informat
 **Cookies and Other Tracking Methods**  
 Cookies are small pieces of information stored on your computer. We may use cookies or, in a limited number of cases and IP addresses for a number of reasons. Cookies allow us to better understand how users use our site and can help us to tailor our Web site or a marketing message to better match your needs and interests. Cookies can also help you remember your user name and password on protected areas of Web sites. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit .
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.google.com/privacy_ads.html>.
 
 **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on www.TryingFitness.com
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.TryingFitness.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 
 
@@ -45,8 +45,8 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
 **Notification of Changes**  
-Correction of Personal Information; Opt-Out Right We ask that you notify us of any changes to your personal information via our .
+Correction of Personal Information; Opt-Out Right We ask that you notify us of any changes to your personal information via our [contact form](https://web.archive.org/contact/).
 
-You may at any time request to be removed from our email list by clicking the unsubscribe link in any email you receive from us. Alternatively, you may notify us via our . In the event you elect not to receive any future contacts from us, we will endeavor to remove your name from our email list within 10 business days.
+You may at any time request to be removed from our email list by clicking the unsubscribe link in any email you receive from us. Alternatively, you may notify us via our [contact form](https://web.archive.org/contact/). In the event you elect not to receive any future contacts from us, we will endeavor to remove your name from our email list within 10 business days.
 
 If we are going to use your personal information in a manner different from that stated at the time of collection through this Web site, we will notify you. In addition, if we make any material changes in our privacy practices that affect user information already collected through our site, we will post a notice on our web site notifying users of the change.
