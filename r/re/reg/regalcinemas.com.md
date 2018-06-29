@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928195007id_/https%3A//www.regmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629200427id_/https%3A//www.regmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Regal Cinemas & Regal Entertainment Group
 
@@ -32,7 +32,7 @@ At any time you may opt-out of receiving marketing communications from us or req
 
 **Opt-Out - To Remove Your Name and Information From Our Lists** You have the choice to opt-out of receiving marketing communications from us, and to limit our disclosure of your information to other companies. You can also change or modify information previously provided. You may opt out by e-mailing our customer service department at privacy@regalcinemas.com. In addition, if you would like to contact us regarding this Privacy Policy, the practices of this site, or your interaction with this site, please write us at:
 
-Regal Cinemas, Inc. 7132 Regal Lane Knoxville, TN 37918 Attention: Customer Service
+Regal Cinemas, Inc. 101 E. Blount Avenue, Knoxville, TN 37920 Attention: Customer Service
 
 Or call us at: 865.922.1123
 
@@ -40,6 +40,6 @@ You can also opt-out of receiving future text messages at any time by texting ST
 
 **Policy Modifications** We reserve the right to change the terms of this Privacy Policy from time to time. We will post any changes here, so please check back periodically. Your continued use of our web site after any change has been posted constitutes acceptance of the change to this Privacy Policy.
 
-This privacy policy was last updated January 3, 2014.
+This privacy policy was last updated April 9, 2018.
 
 View the [Mobile Application Privacy Policy](https://web.archive.org/legal/mobile-app-privacy-policy "Mobile Application Privacy Policy").
