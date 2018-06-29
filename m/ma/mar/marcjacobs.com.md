@@ -1,344 +1,174 @@
-> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003140309id_/https%3A//www.marcjacobs.com/legal-copy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629210311id_/https%3A//www.marcjacobs.com/legal-copy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marc Jacobs
 
-Marc Jacobs International, LLC - **Online / Digital Privacy Policy** :
+Date revised and posted: May 25, 2018
 
-Date revised and posted: November 3, 2016
+Marc Jacobs International, LLC and its affiliates and subsidiaries (collectively “MJI” “We” Us” or “Our”) respect your concerns about privacy. This Privacy Policy applies to personal information We collect on this website (“MJI Website”) and any other website, mobile device application, social media Internet property or related services owned or operated by MJI (collectively, the “Sites”). Marc Jacobs International, LLC will be the owner and data controller of any personal information collected from you via the Site(s). This Privacy Policy does not apply to information collected through any other website, including other sites owned or controlled by LVMH Moët Hennessy Louis Vuitton (“LVMH”) or its subsidiaries or affiliates. From time to time, MJI may modify this Privacy Policy. In that event, the modified Privacy Policy will appear at this location. In certain circumstances, you may be notified of such changes by email or other means. This Privacy Policy is incorporated into, and is part of, the MJI “Terms of Use” which govern your use of the Sites. Your access to and use of the Sites is undertaken at Your own risk. If You do not want your personal information used for the purposes set out in this Privacy Policy, then We recommend that you do not visit the Sites or otherwise disclose any personal information to Us. 
 
-The website marcjacobs.com (the “MJ Website”), is published and maintained by Marc Jacobs International, LLC, 72 Spring Street, New York, New York 10012, +1-212-965-4000 (or 1-877-707-6272 if dialing within the United States of America) (“MJI”). This policy (the “Privacy Policy”) applies to your use of the MJ Website and to information collected through the MJ Website and any other website, microsite, mobile device application, social media or other Internet property owned or operated by MJI or its affiliates or subsidiaries (collectively “We” or “Us” or “Our”) and related services (collectively, the “Site(s)”). This Privacy Policy does not apply to information collected through any other website, including other sites owned or controlled by LVMH Moët Hennessy – Louis Vuitton or its subsidiaries or affiliates. By visiting the Site(s) or using the related services, you agree to abide by this Privacy Policy. From time to time, MJI may modify this Privacy Policy. In that event, the modified Privacy Policy will appear at this location. In certain circumstances, you may be notified of such changes by email or other means. This Privacy Policy is incorporated into, and is part of, the Marc Jacobs Terms of Use which govern your use of the Site(s). Your access to and use of the Site(s) is undertaken at Your own risk. If You do not agree to this Privacy Policy or are dissatisfied with the Site(s) or any content therein, Your sole and exclusive remedy is to stop using the Site(s) and its/their information, content and services, and You may not access or otherwise use the Site(s).
+NOTE FOR INTERNATIONAL USERS: If you are accessing the Sites from outside of the United States of America (“United States”) and place an order, then you will be subject to the Terms & Conditions and Privacy Policy of MJI’s international fulfillment partner, Borderlinx Inc., 420 Lexington Avenue, Suite 300, New York, New York 10170 (“Borderlinx”) which may be found, respectively, at: http://www.borderlinx.com/pages/terms-and-conditions and http://www.borderlinx.com/en/pages/privacy. Borderlinx will be a data controller in its own right in respect of any personal information it holds to arrange delivery or tracking for example, such as Your name, address and other contact information. Please review Borderlinx’s terms and policies before placing an order with Borderlinx through the Sites. Borderlinx may share information with Us and, in that event, We will treat your information in accordance with this Privacy Policy. You further understand that your information is being sent to the United States, whose laws may not provide as many protections as those in your country (see the “Data Transfer” section below for more information). 
 
-NOTE FOR INTERNATIONAL USERS: If you are accessing the Site(s) from outside of the United States of America or Canada and place an order, you agree to and will be subject to the [Terms & Conditions](http://www.borderlinx.com/pages/mji-tcs-sale-and-international-shipping) and [Privacy Policy](http://www.borderlinx.com/pages/mji-payment-privacy-policy) of MJI’s international fulfillment partner, Borderlinx Inc., 420 Lexington Avenue, Suite 300, New York, New York 10170 (“Borderlinx”). Please review Borderlinx’s terms and policies before placing an order with Borderlinx. Borderlinx may share information with Us and, in that event, We will treat your information in accordance with this Privacy Policy. You further understand that your information is being sent to the United States of America, whose laws may not provide as many protections as those in your country.
+For further information on how We process your personal information, please use the links below to jump to the listed section: 
 
-**1\. Purpose**
+1\. Purpose  
+2\. What Information Is Collected?
 
-Your privacy is important to Us. This Privacy Policy has been developed as an extension of Our commitment to combine the finest quality products and services with the highest level of integrity in dealing with Our customers. This Privacy Policy describes how We collect, store and use information about customers and prospects, including what Personally-Identifiable Information and other information is collected from you via the Site(s) and why; how We use this information; when We share this information with third parties; the choices you can make about how your Personally-Identifiable Information is collected, used, or shared; and the data security, accuracy, and access measures We have adopted to protect your information.
+  *    • User-Provided Information
+  *    • Information We Obtain Through Cookies and Other Technologies
 
-Please take a few minutes to read this Privacy Policy so that you understand how We treat your information. Please be assured that We take your concerns about privacy seriously and We intend to take every reasonable effort to protect it. This Privacy Policy will be periodically assessed against new technologies, business practices and Our customers’ changing needs.
 
-**2\. What Information Is Collected?**
 
-User-Provided Information:  
-Personally-Identifiable Information is collected to the extent that We deem reasonably necessary to serve a legitimate business or marketing purpose. We may collect Personally-Identifiable Information from users of the Site(s), for example, through such users’ activities, transactions and completion of online forms on the Site(s). Information we collect may include your name, contact information and birthdate. We might also collect information about your purchases. Such information is collected, for example, when users register or subscribe for accounts, electronic newsletters or features on the Site(s), make online purchases, enter sweepstakes or contests, complete surveys, post materials, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that We may make available on or through the Site(s), submit a comment or question to Us using the “Contact” feature or similar feature on the Site(s), send Us an email or in any other way submit Personally-Identifiable Information to Us via Our Site(s). We may also keep a record of your product interests and purchases online and in stores. You may be able to send information about Our products and services to your friends and family members through the Site(s) by clicking on an “Email to Friend” or similar button on the Site(s) or in an email that We have sent you. In some of these cases (unless you simply forward Our email on your own), you may provide the name and email address of your friend or family member to Us. You should only do this if you know your friend or family member would consent to such sharing. Such information will be treated in accordance with this Privacy Policy and applicable law. You may also be able to send an online card or message to a friend or family member, or send them a gift or gift certificate. If so, you may be required to provide Us with your friend’s or family member’s Personally-Identifiable Information. You should only do this if you know your friend or family member would consent to such sharing. Such information will be treated in accordance with this Privacy Policy and applicable law.
+3\. How Is the Collected Information Used?
 
-We collect Personally-Identifiable Information only if you choose to share such information with Us. Whether or not you provide any of your Personally-Identifiable Information is your own choice. If you choose not to provide the information We request, you may be unable to purchase products or access certain services, offers or content on Our Site(s). Please be aware that if you disclose Personally-Identifiable Information on social media sites, website message boards or chat areas, that information may be collected and used by third parties without Our knowledge and may result in unsolicited communications from third parties. Such activities are beyond Our control.
+  *    • Use of Cookies and Other Automated Technologies
+  *    • Interest-Based Advertising
 
-NOTE FOR INTERNATIONAL USERS: The Personally-Identifiable Information that We collect from you or that We may receive from Our third-party vendors, including Borderlinx, may be transferred to and stored at locations in the United States of America, outside of the country or other economic area in which you reside (including the European Economic Area (“EEA”)). The information may also be processed by staff who work for MJI, its affiliates or service providers, and who are located outside the country or economic area (including the EEA) where you reside. Such staff may engage in fulfillment of your order, processing of your payment and provision of support services, among other things. By submitting your Personally-Identifiable Information and using the Site(s), you agree to this transfer, storing and processing.
 
-Cookies:  
-The Site(s) may use cookies and other tracking code in order to keep and track analytics and information about you. Please follow this link to [learn more about cookies and the other tracking tools We use, and to learn about your tracking choices](http://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html).
 
-IP Address and Clickstream Data:  
-Our server automatically collects data about your server's Internet address when you visit the Site(s). This information, known as an Internet Protocol address (an “IP Address”), is a number that is automatically assigned to your computer by your Internet service provider. When you visit the Site(s), Our servers may log your IP Address, domain name, location, language preferences, Internet service provider and other aggregate information. Our servers may also record the referring website or search engine that brought you to the Site(s); the pages you visit on the Site(s); the website you visit after the Site(s); the ads you view or click on; your product interests and purchases; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on the Site(s) or a referral site; and other web usage activity and data logged by Our web servers. We use this information for internal system administration, to help diagnose problems with Our server and to administer the Site(s). We may also link this information with your Personally-Identifiable Information. Any or all of these activities with regard to website Usage Information may be performed on Our behalf by Our service providers including, for example, Borderlinx and ExactTarget.
+4\. When Do We Share Personally-Identifiable Information and Usage Information with Others?
 
-**3\. How Is the Collected Information Used?**
+  *    • The LVMH Family
+  *    • Co-Sponsored Contests, Sweepstakes and Offerings
+  *    • Service Providers
+  *    • Legally Compelled Disclosures
+  *    • Business Transfer
 
-We will use the Personally-Identifiable Information to respond to your requests and to provide you with product and service offerings. For example, We will process your orders, respond to your inquiries and offer you products, services and features through the Site(s). We may also use your Personally-Identifiable Information to help Us develop and improve the Site(s), tailor the Site(s) to your interests and maintain Our internal records. We may match information collected from you through different means or at different times, including both Personally-Identifiable Information and Usage Information, and use this information with information obtained from other sources. In addition, We may send you notices (for example, emails, mailings and the like) and correspond with you about products, services, companies, promotions, sweepstakes, contests or events sponsored by Us or others that We think might interest you. MJI may offer electronic newsletters and emails as a service to Our users. You will only receive a newsletter or promotional email from MJI if you agree during your activities on or through the Site(s) or using Our newsletter signup form to receive these items. Instructions on how to unsubscribe are included in each electronic newsletter and email. You may also opt out of receiving such notices by following the instructions in the “Choice to Opt Out” section below, or by sending an email to legal@marcjacobs.com. We may analyze user behavior as a measure of interest in, and use of, the Site(s) and emails, both on an individual basis and in the aggregate. We may also use the Personally-Identifiable Information for fraud protection or credit risk reduction.
 
-**4\. When Do We Share Personally-Identifiable Information and Usage Information with Others?**
 
-Whenever MJI permits a third party to access Personally-Identifiable Information, We will require the third party to agree to use commercially appropriate procedures to help ensure that such information is used only for authorized purposes by authorized persons in a manner consistent with the choices customers and prospects have made under this Privacy Policy, and that the security, integrity and privacy of the information is maintained.
+5\. How Long We Retain Personal Information  
+6\. Your Choices  
+7\. Your Rights  
+8\. Your California Privacy Rights  
+9\. Data Transfers  
+10\. Security  
+11\. Third-Party Features  
+12\. Children’s Privacy  
+13\. How to Contact Us
 
-The LVMH Family:  
-MJI is part of the LVMH Moët Hennessy Louis Vuitton (“LVMH”) corporate family. MJI, together with LVMH and its affiliates, are collectively referred to in this Privacy Policy as the “LVMH Family.” Unless you opt out as described in the “Choice to Opt Out” section below, We may share your Personally-Identifiable Information and Usage Information among the LVMH Family, both for business purposes and for advertising and promotional purposes. A list of the current members of the LVMH Family may be found at [www.lvmh.com](http://www.lvmh.com/).
+1\. Purpose
 
-Co-Sponsored Contests, Sweepstakes and Offerings:  
-Some of Our contests, sweepstakes and other offerings that made available on or through the Site(s) from time to time may be co-sponsored by another company. In those situations, unless you instruct Us otherwise, the information We obtain from you in connection with such contest, sweepstakes or offering may be shared with Our co-sponsor and in accordance with terms disclosed in such contest, sweepstakes or offerings. In those situations, Our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies and in particular in accordance with any specific disclosures made to you at the time you participate in such contest, sweepstakes or offering. We are not responsible for how Our co-sponsors may use your information.
+Your privacy is important to Us. This Privacy Policy has been developed as an extension of Our commitment to combine the finest quality products and services with the highest level of integrity in dealing with Our customers. This Privacy Policy describes the types of personal information We obtain about you when you visit Our Sites, how We use this information, with whom We share it, and the choices available regarding Our use of the information. We also describe the measures We have adopted to protect your information and how you can contact Us about Our privacy practices.
 
-We may also share or cross-reference such information, including your Personally-Identifiable Information, with unrelated companies you may be interested in so that the companies can directly market their products or services to you.
+2\. What Information Is Collected?
 
-Service Providers:  
-We use third party partners to provide Our e-commerce solution and to help operate the Site(s) and deliver Our products and services. We may share your information with third party e-commerce solution partners, third-party payment providers (e.g., Visa, Mastercard and American Express), Our affiliates, service providers and other third parties that provide products or services for or through the Site(s) or for Our business (such as site hosting or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, wireless device applications and other similar service providers that use such information on Our behalf). We require Our service providers to agree to maintain the confidentiality of your Personally-Identifiable Information.
+User-Provided Information
 
-Aggregate Statistics:  
-We may disclose to third parties aggregate statistics regarding user behavior to measure interest in, and use of, the Site(s) and emails in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. Aggregate information is non-personally identifiable anonymous information about you such as age, gender, types of products purchased, pages accessed most frequently or search terms used. Aggregate information is used in a collective manner and no single person can be identified by that compiled information. For example, the number of people who visit the MJ Website who are 25 years of age is aggregate information that does not personally identify a specific user.
+We collect personal information from users of the Sites through users’ activities, transactions and completion of online forms. Information We collect may include your name, contact information and birthdate. We might also collect information about your purchases. Such information is collected, for example, when users register or subscribe for accounts, electronic newsletters or features on the Sites, make online purchases, enter sweepstakes or contests, complete surveys, post materials, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that We may make available on or through the Sites, submit a comment or question to Us using the “Contact” feature or similar feature on the Sites, send Us an email or in any other way submit personal information to Us via Our Sites. We may also keep a record of your product interests and purchases online and in stores. You may be able to send information about Our products and services to your friends and family members through the Sites by clicking on an “Email to Friend” or similar button on the Sites or in an email that We have sent you. In some of these cases (unless you simply forward Our email on your own), you may provide the name and email address of your friend or family member to Us. You may also be able to send an online card or message to a friend or family member, or send them a gift or gift certificate. If so, you may be required to provide Us with your friend’s or family member’s personal information. Please ensure the recipient’s contact information or other personal information is accurate and that he or she has consented to such sharing or receiving email communications from Us. The information you provide about the recipient will be treated in accordance with this Privacy Policy. 
 
-Legally Compelled Disclosures:  
-We cooperate with law enforcement inquiries and other third parties to enforce laws, intellectual property rights and other rights. We may disclose Personally-Identifiable Information and other information when We believe it is necessary to identify, contact, or bring legal action against persons or entities to protect MJI or Our customers or when We believe that disclosure is required by the law or legal process. We may disclose user information to government authorities or to other third parties when compelled to do so by government authorities, at Our discretion or as required by law in Our good faith belief, including but not limited to in response to court orders and subpoenas and as otherwise required in connection with a judicial or government proceeding or legal process. This may include in connection with the enforcement of this Privacy Policy or Our Terms of Use. We also may disclose user information when We have reason to believe that someone is causing injury to or interfering with Our rights or property, other users of the Site(s), or anyone else who could be harmed by such activities.
+We collect the information described in this section only if you choose to share such information with Us. If you choose not to provide the information We request, then We may not be able to respond to your or provide you with Our products services. 
 
-Business Transfer:  
-If MJI, any of its affiliates, any entity of the LVMH Family, or substantially all of the assets of any of the foregoing entities, is acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personally-Identifiable Information may be one of the transferred assets. We may share Personally-Identifiable Information and other information with entities controlling, controlled by or under common control with MJI.
+We receive personal information, such as users who came to Our Sites but did not purchase goods, from various third-party sources. 
 
-Third Party Ad Servers:  
-We may use third-party advertising companies to serve ads when you visit the Site(s). These companies may use information about your visits to the Site(s) and other websites in order to provide advertisements about goods and services of interest to you. Please follow this link to [learn more about how these companies serve ads to you](http://www.marcjacobs.com/legal-copy/privacy-policy.html#aboutads).
+Information We Obtain Through Cookies and Other Technologies
 
-Wireless Addresses:  
-If you provide us a wireless email address, you agree to receive messages at such address from MJI and the rest of the LVMH Family. Your wireless carrier’s standard rates apply to these messages, and you may change your mind at any time by following the instructions in the “Choice to Opt Out” section below. You represent that you are the owner or authorized user of the wireless device on which messages will be received and that you are authorized to approve the applicable charges.
+When you interact with Our Sites, We obtain certain information using cookies, web beacons (including pixels and tags), web server logs and other automated technologies. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
 
-**5\. Choice to Opt Out**
+We may use these automated technologies to collect information about your equipment, browsing actions, and usage patterns. The information We obtain in this manner may include your device IP Address and other identifiers associated with your device, domain name, location, language preferences, web browser characteristics, and device characteristics. We may also record the referring website or search engine that brought you to the Sites; the pages you visit on the Sites; the website you visit after the Sites; the ads you view or click on; your product interests and purchases; any search terms you have entered on the Sites or a referral site; and other web usage activity. With respect to location information, We collect information (1) when a user subscribes to Our Newsletter, in which case We capture the user’s full shipping, billing, and IP addresses and the information provided by the user’s browser, including language and country setting and (2) when a purchase is made, in which case We capture the user’s full shipping, billing, and IP addresses and the information provided by the user’s browser, including language and country setting.
 
-You will be given the opportunity to opt out of certain of Our uses of your Personally-Identifiable Information. For example, at the time you are requested to provide Personally-Identifiable Information on the Site(s), you may have the opportunity to elect to, or not to receive correspondence from Us. If you wish to opt out of Our correspondence, you may also do so at any time by updating your communication preferences at marcjacobs.com and clicking the “Unsubscribe” feature or by email: legal@marcjacobs.com. If you would like to access, verify, correct, update or delete your email address, mailing address or other information, please contact Us the same way. You may also opt out of MJI’s promotional emails at any time by clicking on the opt-out link within the email you receive. Please note that it may take up to two weeks for your request to become effective and during such time you may receive email notifications from MJI. If you opt out of receiving promotional correspondence from Us, We may still contact you in connection with your relationship, activities, transactions and communications with Us. Also, We will not be responsible for any communications that you may receive from entities that received your Personally-Identifiable Information prior to such request. In these cases, please contact that entity directly.
+To learn more about cookies and the other automated technologies We use, and to learn how to change your cookie settings, click <https://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html>. To the extent required by applicable law, We will obtain your consent for using cookies or similar technologies.
 
-You can control certain cookies and tracking tools through your browser. Please follow this link to [learn more about tracking and how to manage how We and Our vendors use cookies and other tracking tools](http://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html).
+3\. How Is the Collected Information Used?
 
-**6\. Security**
+We use the personal information We obtain as described in this Privacy Policy and rely on a number of legal bases to do so as described further below, including where (1) necessary for the performance of a contract with you or to take pre-contractual steps at your request; (2) necessary for Our legitimate business interests or those of third parties; (3) necessary for compliance with a legal obligation, a court order, or to exercise or defend legal claims; or (4) you consent to the processing, which consent you can withdraw at any time. 
 
-Protecting your information is a priority for Us. MJI has implemented reasonable safeguards to ensure the security, integrity and privacy of Personally-Identifiable Information provided to the Site(s). However, due to the inherent nature of the Internet, We cannot guarantee that information stored on our system or transmitted on the Internet will be absolutely safe from intrusion by hackers. No data transmission over the Internet can be guaranteed to be 100% secure. It may be possible for third parties not under the control of MJI to intercept or access transmissions or private communications unlawfully. While We strive to protect your personal information, We cannot and do not guarantee or warrant the security of any information you transmit to Us. Any such transmission is done so at your own risk.
+We use the information We collect where necessary to perform a contract with you or to take steps at your request prior to entering into a contract, including to (1) provide customer support; (2) transact with you and provide you with Our products and services; (3) process and fulfill your order and keep you informed about the status of your order; and (4) create and manage your account with MJI. 
 
-If you contact Us by email, you should be aware that your transmission might not be secure. A third party could view information you send by these methods.
+In addition, We use the information We collect if We have a legitimate interest to do so, including to (1) operate, develop, evaluate and improve the Sites and Our business (including developing new products and services; enhancing and improving Our products and services; managing Our communications; analyzing Our products and services and customer base; analyzing the effectiveness of Our marketing efforts; performing data analytics; and performing accounting, auditing and other internal functions); (2) personalize and improve your experience with Our Sites and Our products and services; (3) send you promotional materials and other communications (for example, emails, mailings, newsletters and the like); (4) communicate with you about Our products and services; (5) communicate with you and administer your participation in contests, sweepstakes, events, surveys or market research; (6) protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; (7) reduce credit risk and manage collections; (8) improve security and administer the Sites; and (9) comply with relevant industry standards and policies, including this Privacy Policy and Our Terms of Use. 
 
-If you create an account on the Site(s) with a username and password, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site(s) by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify MJI of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify MJI when you wish to cancel your account on the Site(s). To the maximum extent permitted by law, (x) We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision and (y) you agree to indemnify and hold harmless MJI, its affiliates and other members of the LVMH Family for any improper, unauthorized or illegal use of your account.
+We also process your personal information to comply with and enforce applicable legal requirements to which We are subject and for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. 
 
-We will have no liability for disclosure of your information due to errors or unauthorized acts of any third party. In the unlikely event that We believe that the security of your Personally-Identifiable Information in Our possession or control may have been compromised, We may seek to notify you of that development. If a notification is appropriate, We would endeavor to do so as promptly as possible under the circumstances, and if We have your email address, We may notify you by email. You consent to Our use of email as a means of such notification.
+FOR USERS OUTSIDE OF THE UNITED STATES: To the extent required by applicable law, if We plan to use the personal information We obtain for any other purpose, then We will provide an additional notice to you to describe the purposes for which We will use the information and Our legal basis for doing so. 
 
-Third Party “Linked-To” Websites:  
-Through the Site(s) you may have the opportunity to visit or link to other sites not operated by MJI, including other sites operated by other members of the LVMH Family or by unaffiliated third parties. These sites may collect Personally-Identifiable Information about you. While MJI will employ commercially-appropriate procedures to help ensure that your information is only used for the authorized purposes described in this Privacy Policy, MJI does not control sites that are operated by these entities and is not responsible for the information practices and privacy policies of these sites.
+Use of Cookies and Other Automated Technologies
 
-Phishing:  
-It has become increasingly common for unauthorized individuals purporting to represent a legitimate company, such as a bank or on-line merchant, to send emails to consumers requesting that the consumer provide personal or sensitive information. Sometimes, the domain name of the email address from which the email appears to have been sent, and the domain name of the website requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity is known as “phishing.”
+We use information collected through cookies, web beacons, web server logs and other automated means to (1) remember your information so you will not have to re-enter it; (2) track and understand how you use and interact with the Sites; (3) tailor Our products and services around your preferences; (4) measure the usability of Our Sites and the effectiveness of Our communications; and (5) otherwise manage and enhance the Sites and Our products and services, and help ensure they are working properly. Please see Our Cookie Policy here <https://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html> for more information and for instructions on how to change your cookie preferences. 
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your password for the Site(s) or credit/debit card information) via email or to a website or individual that does not seem to be affiliated with the Site(s), or that otherwise seems suspicious to you, please do not disclose such information, and report such request to Us by calling +1-212-965-4000 (or 1-877-707-6272 if dialing within the United States of America) or by submitting a report through the “Contact” feature on the MJ Website or the Site(s) or by email: [legal@marcjacobs.com](mailto:legal@marcjacobs.com).
+We also use third-party analytics services on Our Sites, which use cookies and similar automated technologies to collect data (such as IP address) to evaluate use of and interaction with Our Sites. To the extent required by applicable law, We will obtain your consent before using cookies for analytics purposes. 
 
-Children’s Privacy Statement:  
-MJI is concerned about the safety of children when they use the Internet. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Site(s) are intended for adults. Accordingly, We do not knowingly collect Personally-Identifiable Information from children under the age of 13 (or other age where parental consent may be required) without prior verifiable parental consent when legally required. If We become aware that We have inadvertently received Personally-Identifiable Information from a customer without the legally required prior verifiable parental consent, We will delete such information from Our records.
+On Our Sites, We use the tracking technology (1) Demandware Analytics - We use Demandware Analytics to help administer and optimize the ecommerce portions of Our Sites; (2) Channel Intelligence by Google - We use this tool to track orders, sales and traffic on Our Sites. We use this information to improve Our Sites and the e-commerce experience; (3) DoubleClick, DoubleClick Floodlight, Google Tag Manager and Marin Search Marketer - We use these tracking tools to track user behavior over time and across third-party sites to improve the effectiveness of Our online advertising; (4) We collect information about what ads users view and whether they click on the ads. We use this information to improve and customize Our advertising; and (5) Google Analytics - We use Google Analytics to collect information about how visitors use Our Sites. For example, We collect details of Our Sites where the visitor has come from and the total number of times a visitor has been to Our Sites. 
 
-Information posted on social media, message boards, chat areas, club and home pages are available to the general public. Please use caution when posting any such information.
+To learn more about these analytics services and how to opt out, please visit the relevant websites for these companies, such as Google Analytics which is listed here: <https://policies.google.com/privacy> and <https://tools.google.com/dlpage/gaoptout>.
 
-**7\. Your Access Rights & Corrections**
+Interest-Based Advertising
 
-You may review and correct the Personally-Identifiable Information that has been collected by MJI and is stored in your user account on the MJ Website by logging in at “MyMJ” or by resubmitting your information using the “Subscribe” feature located on the MJ Website or by contacting Us by email at legal@marcjacobs.com. You may provide Us new or updated information at any time. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, We may ask you to verify your identity and to provide other details to help Us address your request.
+When you visit the Sites, both We and certain third-parties (such as Our advertising networks, digital advertising partners and social media platforms) collect information about your online activities, over time and across third-party websites (such as on websites that serve our ads). We may use such information to provide you with tailored advertisements about goods and services of interest to you. We also may obtain information for this purpose from third-party websites on which Our ads are served. You may see certain ads on other websites because We engage third-party ad buying networks (such as Facebook and Google). Through such buying networks, We can target Our messaging to users through demographic, interest-based and contextual means. The information Our ad networks may collect on Our behalf includes data about your visits to websites that serve MJI ads, such as the pages or ads you view and the actions you take on the websites. This data collection takes place both on Our Sites and on third-party websites that participate in these ad networks. This process helps us track the effectiveness of Our marketing efforts.
 
-**8\. Consent to Processing**
+To learn how to opt out of this ad network interest-based advertising, click aboutads.info/choices and networkadvertising.org/choices. In the European Union, please visit <http://www.youronlinechoices.eu/>. To the extent required by applicable law, We will obtain your consent before using your information for interest-based advertising.
 
-The MJ Website is hosted and operated in the United States of America, pursuant to United States law and this Privacy Policy shall be interpreted under the laws of the United States of America. By providing Personally-Identifiable Information to the MJ Website, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States of America and other countries and territories.
+To learn more about how these companies serve ads to you and how to exercise your choices (such as changing your cookie preferences), click <https://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html>.
 
-NOTE FOR INTERNATIONAL USERS: If you are a user located in a member state of the EEA, please be aware that the laws of the United States of America and other countries and territories may not provide legal protection of your Personally-Identifiable Information that is of the same level as that applicable under the laws of the EEA member state in which you are located.
+4\. When Do We Share Personally-Identifiable Information and Usage Information with Others?
 
-**9\. Choice of Law / Arbitration**
+We do not disclose personal information We collect about you, except as described in this Privacy Policy.
 
-Any dispute or claim arising out of or in connection with this Privacy Policy or Your use of the Site(s) shall be governed by and construed in accordance with the laws of the State of New York and shall be referred to and finally resolved by confidential arbitration in New York, New York in accordance with the Commercial Arbitration Rules of the American Arbitration Association then in effect, which rules are deemed to be incorporated by reference. The award or decision rendered by the arbitrator shall be final, binding and conclusive, and judgment may be entered upon such award by any court. Each party will bear its own expenses.
+The LVMH Family
 
-**10\. Your California Privacy Rights**
+MJI is part of the LVMH corporate family. MJI, together with LVMH and its affiliates, are collectively referred to in this Privacy Policy as the “LVMH Family.” Unless you opt out as described in the “Your Choices” section below, We may share your personal information among the LVMH Family for the purposes described in this Privacy Policy. We will only do this to the extent permitted by applicable law. A list of the current members of the LVMH Family may be found at <https://www.lvmh.com/houses/>.
 
-If you reside in California, you have the right to ask Us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make such a request, please send Us an email or write to Us at Marc Jacobs International, LLC, Attn: General Counsel – Legal Department, 72 Spring Street, 2nd Floor, New York, New York 10012. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+Co-Sponsored Contests, Sweepstakes and Offerings
 
-**11\. Questions and comments**
+Some of Our contests, sweepstakes and other offerings that are made available on or through the Sites from time to time may be co-sponsored by another company. In those situations, unless you instruct Us otherwise, the information We obtain from you in connection with such contest, sweepstakes or offering may be shared with Our co-sponsor and in accordance with terms disclosed in such contest, sweepstakes or offerings. In those situations, Our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies and in particular in accordance with any specific disclosures made to you at the time you participate in such contest, sweepstakes or offering. We are not responsible for the privacy practices of Our co-sponsors.
 
-This Privacy Policy has been developed out of respect for the privacy preferences and choices of Our customers. We have established procedures to ensure that reasonable effort is made to address your concerns. Questions or comments may be directed to: Tel: +1-212-965-4000 (or 1-877-707-6272 if dialing within the United States of America), email: legal@marcjacobs.com.
+Service Providers
 
-Marc Jacobs International, LLC Privacy Policy Effective Date: January 8, 2015
+We use third party partners to provide Our e-commerce solution and to help operate the Sites and deliver Our products and services. We may share your information with third party e-commerce solution partners, Our affiliates, service providers and other third parties that provide products or services for or through the Sites or for Our business (such as loyalty program or membership program service providers, site hosting or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, wireless device applications, or other similar service providers that use such information on Our behalf). With respect to payment processing, for United States sales, We interface directly with Our partner Radial, which then shares your information with payment providers (e.g., PayPal) for the purpose of processing payments. Similarly, for international sales, We interface directly with Our partner Borderlinx, which then shares your information with Adyen for the purpose of payment processing. Neither Radial nor Borderlinx uses your information for any purpose other than payment processing. As required by law, all service providers have entered into legally binding agreements requiring them to (1) use personal information only as necessary to perform services on Our behalf and (2) implement appropriate data security and confidentiality obligations, in accordance with applicable law.
 
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
+Legally Compelled Disclosures
 
-Marc Jacobs International, LLC US - **Retail Privacy Policy** :
+We cooperate with law enforcement inquiries and other third parties to enforce laws, intellectual property rights and other rights. We may disclose personal information and other information when We believe it is necessary to identify, contact, or bring legal action against persons or entities to protect MJI or Our customers or when We believe that disclosure is required by the law or legal process. We may disclose user information to government authorities or to other third parties when compelled to do so by government authorities, at Our discretion or as required by law in Our good faith belief, including but not limited to in response to court orders and subpoenas and as otherwise required in connection with a judicial or government proceeding or legal process. This may include in connection with the enforcement of this Privacy Policy or Our Terms of Use. We also may disclose user information when We have reason to believe that someone is causing injury to or interfering with Our rights or property, other users of the Sites, or anyone else who could be harmed by such activities.
 
-Date revised and posted: June 3rd, 2016
+Business Transfer
 
-The company Marc Jacobs International, LLC, (“ **Marc Jacobs** ” or “ **we** ”) provides you the following information on the processing of your personal data collected from the beginning of your relationship with Marc Jacobs. We process your personal data with and without the use of electronic tools, in line with applicable privacy law, including as to maintaining adequate security. Data may be used to update and correct the information previously collected on our customers.
+We also reserve the right to transfer personal information We have about you in the event We, Our affiliates, or any entity of the LVHM Family, sell or transfer all or a portion of Our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation).
 
-**1.** You may provide personal data to Marc Jacobs by lling in our customer card, during informal chats when you visit our stores or interact with Marc Jacobs, also through Marc Jacobs’s websites, internet functionalities and mobile applications (Retail Privacy Policy available at www.marcjacobs.com). In line with privacy law, we may also collect your personal data from third parties in the course of our activities. Marc Jacobs processes your personal data for the following purposes:
+5\. For Users Outside of the United States:How Long We Retain Personal Information
 
-a. managing the sale of our products, sale and post-sale services, e.g. administrative activities, accounting, returns, warranties, fraud prevention, customer relationship management;
+To the extent permitted by applicable law, We typically retain personal information We obtain about you for as long as it is needed (1) for the purposes for which We obtained it, in accordance with the terms of this Privacy Policy, which generally means that We will keep your personal information for the duration of Our relationship or as long as you keep your account open with us; or (2) to take into account applicable statute of limitation periods and comply with mandatory applicable laws. As described in the “Your Rights” section of this Privacy Policy, to the extent provided by the law of your jurisdiction, you may request that We delete your information or restrict the processing of such information by contacting us as indicated below.
 
-b. compliance with legal obligations (including anti-money laundering laws) and enforcement of our rights;
+6\. Your Choices
 
-c. market research, analysis, promotional and marketing activities performed through traditional mail, email, telephone, newsletter, text/SMS, and MMS messaging, including periodic sending of promotional materials on products, services and promotions of Marc Jacobs, including events organized by Marc Jacobs or to which Marc Jacobs participates as well as invitations to said events;
+We offer you certain choices in connection with the personal information We collect about you. For example, at the time you are requested to provide personal information on the Sites, you may have the opportunity to elect to, or not to receive correspondence from Us. If you wish to opt out of Our correspondence, you may also do so at any time by updating your communication preferences at marcjacobs.com and clicking the “Unsubscribe” feature or by contacting Us as indicated in the “How to Contact Us” section. You may also opt out of MJI’s promotional emails at any time by clicking on the opt-out link within the email you receive. Please note that it may take up to two weeks for your request to become effective and during such time you may receive email notifications from MJI. If you opt out of receiving promotional correspondence from Us, We may still contact you in connection with your relationship, activities, transactions and communications with Us. Also, unless required by applicable law, We will not be responsible for any communications that you may receive from entities that received your personal information prior to such request. In these cases, please contact that entity directly.
 
-d. creation of group and individual profiles - understanding of your interests, preferences and purchase history.
+Where required by applicable law, We will obtain your consent to send you marketing communication and newsletters about Our products and services, and invite you to participate in events, contests, sweepstakes and surveys.
 
-If you provide us with personal information of third parties (e.g., your family members, other customer or prospects of Marc Jacobs), you should make sure that said third parties are informed and authorized the use of their data as described in this privacy policy. 
+To learn more about managing your preferences in relation to the data We collect on an automated basis, please <https://www.marcjacobs.com/legal-copy/ad-and-cookie-policy.html>. Certain web browsers allow you to instruct your browser to send Do Not Track (“DNT”) signals to websites you visit, informing those sites that you do not want your online activities to be tracked. Our Sites check whether user DNT settings are turned. When they are turned on, We act accordingly to prohibit tracking, which may impact the product recommendations and other features that users see on Our Sites.
 
-**2.** Our authorized personnel may access your personal data. We also share your personal data with the following third parties:
+7\. For Users Outside of the United States: Your Rights
 
-a. public entities and authorities for their institutional activities and as laws require us to do, including third parties in case of extraordinary operations (mergers, acquisitions, transfer of assets) during our business activities;
+To the extent provided by the law of your jurisdiction, you may request access to the personal information We maintain about you or request that We correct, update, amend, or delete your information, or restrict the processing of such information by contacting Us as indicated below. You also may review and correct the personal information that has been collected by MJI and is stored in your user account on the MJ Website by logging in at “MyMJ” or by resubmitting your information using the “Subscribe” feature located on the MJ Website or by contacting Us as indicated below.
 
-b. third parties that we use to provide technical and organizational services functional to the purposes above described, e.g. consultants, delivery companies and other companies providing services such as marketing, market analysis and research services, management of payments, information system management;
+Subject to applicable law, you also have the right to receive, in a structured, commonly used and machine-readable format, the personal information that you have provided to Us about you, with your consent or based on a contract to which you are party. You have the right to have this information transmitted to another company, where it is technically feasible.
 
-c. companies affiliated to Marc Jacobs or under common control for all the purposes described under point 1 above, including to send you promotional materials on products, services and promotions. 
+To exercise these rights, please contact Us as indicated in the “How to Contact Us” section below. If you are a resident of the EEA, you also may lodge a complaint with a data protection authority if you are not satisfied with Our response, in particular in the EEA country of your habitual residence, place of work, or of an alleged infringement of the EU General Data Protection Regulation.
 
-Marc Jacobs provides to the above listed third parties only the information necessary to perform the relevant functions; they act as data controllers or processors, as the case may be. It is understood that, save for what is speci ed under letter 2. c) above, ****Marc Jacobs does not share with other third parties your personal data for their own marketing activities and/or analysis of your interests****. Some of the above listed subjects, for example companies af liated to Marc Jacobs or under common control, may be established abroad, in countries not providing for an adequate level of data protection as your country. Marc Jacobs transfers data abroad after adoption of the precautions set forth by applicable privacy laws. 
+We will endeavor to respond to your request as soon as practicable. Before We are able to respond to your request, however, We may ask you to verify your identity and to provide other details to help Us address your request.
 
-**California Residents** : You have the right to request information about our disclosure, during the preceding year, of certain personal data about you to third parties for their direct marketing purposes, along with the names and addresses of such third parties. To make a request, please email us or write us using the contact information provided below. When writing us, please include “Request for California Privacy Information” in the subject or address line. 
+8\. Your California Privacy Rights
 
-**3.** Marc Jacobs International, LLC is the data controller, available as follows: Privacy Officer, Marc Jacobs International, LLC, 72 Spring Street, New York, NY 10012, email: [retail.privacy@marcjacobs.com](mailto:retail.privacy@marcjacobs.com).
+If you reside in California, you have the right to ask Us one time each year if We have shared personal information with third parties for their direct marketing purposes. To make such a request, please send Us an legal@marcjacobs.com or write to Us at Marc Jacobs International, LLC, Attn: General Counsel – Legal Department, 72 Spring Street, 11th Floor, New York, New York 10012. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
-You can contact us at the above address to have the updated list of third parties that we share with your personal data and to enforce at any time your privacy rights, for example to access your data, ask that data be updated, amended, deleted and you may oppose use of your data, including for marketing purposes. 
+9\. For Users Outside of the United States: Data Transfers
 
-Marc Jacobs International, LLC US Privacy Policy Effective Date: June 3rd, 2016
+The personal information that We collect from you or that We may receive from third parties, including Borderlinx, will be processed by MJI in the United States. We also may share this information with Our affiliates, including those located in the United States. In addition, Our service providers may be located in countries other than the country in which you originally provided your personal information, including in France where, along with the United States, Borderlinx hosts some user personal information. These countries may not have the same data protection laws as the country in which you provided the personal information. In particular, the United States has not been recognized by the European Commission as providing an adequate level of data protection. When We transfer your personal information to other countries, We will protect that information as described in this Privacy Policy.
 
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
+If you are located in the European Union (“EU”) or Switzerland, We will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EU that have not been recognized as providing an adequate level of data protection. In this event, We will implement appropriate safeguards, including by entering into data transfer agreements based on the European Commission’s standard contractual clauses in accordance with Article 46 of the EU General Data Protection Regulation, or selecting U.S. service providers that are certified to the EU-U.S. and Swiss-U.S. Privacy Shield. You may obtain a copy of these safeguards by contacting Us as indicated in the “How to Contact Us” section below.
 
-Marc Jacobs Macau Distribution Company LTD - **Retail Privacy Policy** :
+10\. Security
 
-Date revised and posted: October 7, 2015
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-The company Marc Jacobs Macau Distribution Company Ltd (“ **Marc Jacobs** ” or “ **we** ”) provides you the following information on the processing of your personal data collected from the beginning of your relationship with Marc Jacobs. We process your personal data with and without the use of electronic tools, in line with applicable privacy law, including as to maintaining adequate security. Data may be used to update and correct the information previously collected on our customers.
+11\. Third-Party Features
 
-**1.** You may provide personal data to Marc Jacobs by filling in our customer card, during informal chats when you visit our stores or interact with Marc Jacobs, also through Marc Jacobs’s websites, internet functionalities and mobile applications. In line with privacy law, we may also collect your personal data from third parties in the course of our activities. Marc Jacobs processes your personal data for the following purposes:
+Our Sites may provide links to other online services for your convenience and information, and may include third-party features such as apps, tools, widgets and plug-ins (e.g., Facebook or Twitter). These online services and third-party features may operate independently from Us. The privacy practices of the relevant third parties, including details on the information they may collect about you, is subject to the privacy statements of these parties, which We strongly suggest you review. To the extent any linked online services or third-party features are not owned or controlled by Us, MJI is not responsible for these third parties’ information practices.
 
-a. managing the sale of our products, sale and post-sale services, e.g. administrative activities, accounting, returns, warranties, fraud prevention, customer relationship management;
+Please be aware that if you disclose personal information on social media sites, website message boards or chat areas, that information may be collected and used by third parties without Our knowledge and may result in unsolicited communications from third parties. Such activities are beyond Our control and subject to those third parties’ privacy statements.
 
-b. compliance with legal obligations (including anti-money laundering laws) and enforcement of our rights;
+12\. Children’s Privacy
 
-c. market research, analysis, promotional and marketing activities performed through traditional mail, email, telephone, newsletter, text/SMS, and MMS messaging, including periodic sending of promotional materials on products, services and promotions of Marc Jacobs, including events organized by Marc Jacobs or to which Marc Jacobs participates as well as invitations to said events;
+MJI is concerned about the safety of children when they use the Internet. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Sites are designed for a general audience and are not directed at children. Accordingly, We do not knowingly collect personal information from children under the age of 13 (or other age where parental consent may be required) without prior verifiable parental or guardian consent when legally required. If We become aware that We have inadvertently received personal information from a customer without the legally required prior verifiable parental or guardian consent, We will delete such information from Our records.
 
-d. creation of group and individual profiles - understanding of your interests, preferences and purchase history.
+13\. How to Contact Us
 
-If you provide us with personal information of third parties (e.g., your family members, other customer or prospects of Marc Jacobs), you should make sure that said third parties are informed and authorized the use of their data as described in this privacy policy. 
+Marc Jacobs International LLC, 72 Spring Street, New York, New York 10012, +1-212-965-4000 (or 1-877-707-6272 if dialing within the United States) is the data controller and is responsible for the processing of your information as describes in this Policy.
 
-**2.** Our authorized personnel may access your personal data. We also share your personal data with the following third parties:
-
-a. public entities and authorities for their institutional activities and as laws require us to do, including third parties in case of extraordinary operations (mergers, acquisitions, transfer of assets) during our business activities;
-
-b. third parties that we use to provide technical and organizational services functional to the purposes above described, e.g. consultants, delivery companies and other companies providing services such as marketing, market analysis and research services, management of payments, information system management;
-
-c. companies affiliated to Marc Jacobs or under common control for all the purposes described under point 1 above. 
-
-Marc Jacobs provides to the above listed third parties only the information necessary to perform the relevant functions; they act as data controllers or processors, as the case may be. It is understood that, save for what is specified under letter 2. c) above, Marc Jacobs does not share with other third parties your personal data for their own marketing activities and/or analysis of your interests. Some of the above listed subjects, for example companies affiliated to Marc Jacobs or under common control, may be established abroad, in countries not providing for an adequate level of data protection as your country. Marc Jacobs transfers data abroad after adoption of the precautions set forth by applicable privacy laws. 
-
-**3.** Marc Jacobs Macau Distribution Company Ltd is the data controller, available as follows: Marc Jacobs Inter- national, LLC, 72 Spring Street, New York, NY 10012, email: retail.privacy@marcjacobs.com
-
-You can contact us at the above address to have the updated list of third parties that we share with your personal data and to enforce at any time your privacy rights, for example to access your data, ask that data be updated, amended, deleted and you may oppose use of your data, including for marketing purposes. 
-
-Marc Jacobs Macau Distribution Company LTD. Privacy Policy Effective Date: October 7, 2015
-
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
-
-Marc Jacobs Hong Kong Distribution Company Ltd. - **Retail Privacy Policy** :
-
-Date revised and posted: October 7, 2015
-
-The company Marc Jacobs Hong Kong Distribution Company Ltd. (“ **Marc Jacobs** ” or “ **we** ”) provides you the following information on the processing of your personal data collected from the beginning of your relationship with Marc Jacobs. We process your personal data with and without the use of electronic tools, in line with applicable privacy law, including as to maintaining adequate security. Data may be used to update and correct the information previously collected on our customers. 
-
-**1.** You may provide personal data to Marc Jacobs by filling in our customer card, during informal chats when you visit our stores or interact with Marc Jacobs, also through Marc Jacobs’s websites, internet functionalities and mobile applications. Your provision of personal data is voluntary, however, if you do not provide us with your personal data, we may not be able to provide the products or services you need. In line with privacy law, we may also collect your personal data from third parties in the course of our activities. Marc Jacobs processes your personal data for the following purposes: 
-
-a. managing the sale of our products, sale and post-sale services, e.g. administrative activities, accounting, returns, warranties, fraud prevention, customer relationship management; 
-
-b. compliance with legal obligations (including anti-money laundering laws) and enforcement of our rights; 
-
-c. market research, analysis, promotional and marketing activities performed through traditional mail, email, telephone, newsletter, text/SMS, and MMS messaging, including periodic sending of promotional materials on products, services and promotions of Marc Jacobs, including events organized by Marc Jacobs or to which Marc Jacobs participates as well as invitations to said events; 
-
-d. creation of group and individual profiles - understanding of your interests, preferences and purchase history. 
-
-If you provide us with personal information of third parties (e.g., your family members, other customer or prospects of Marc Jacobs), you should make sure that said third parties are informed and authorized the use of their data as described in this privacy policy. 
-
-**2.** Our authorized personnel may access your personal data. We also share your personal data with the following third parties: 
-
-a. public entities and authorities for their institutional activities and as laws require us to do, including third parties in case of extraordinary operations (mergers, acquisitions, transfer of assets) during our business activities; 
-
-b. third parties that we use to provide technical and organizational services functional to the purposes above described, e.g. consultants, delivery companies and other companies providing services such as marketing, market analysis and research services, management of payments, information system management; 
-
-c. companies affiliated to Marc Jacobs or under common control for all the purposes described under point 1 above. 
-
-Marc Jacobs provides to the above listed third parties only the information necessary to perform the relevant functions; they act as data users or processors, as the case may be. It is understood that, save for what is specified under letter 2. c) above, Marc Jacobs does not share with other third parties your personal data for their own marketing activities and/or analysis of your interests. Some of the above listed subjects, for example companies affiliated to Marc Jacobs or under common control, may be established abroad, in countries not providing for an adequate level of data protection as your country. Marc Jacobs transfers data abroad after adoption of the precautions set forth by applicable privacy laws. 
-
-**3.** Marc Jacobs Hong Kong Distribution Company Ltd. is the data user, reachable as follows: Privacy Officer, Marc Jacobs International, LLC, 72 Spring Street, New York, NY 10012, email: retail.privacy@marcjacobs.com. 
-
-You can contact us at the above address to have the updated list of third parties that we share with your personal data and to enforce at any time your privacy rights, for example to access your data, ask that data be updated, amended, deleted and you may oppose use of your data for marketing purposes. 
-
-Marc Jacobs Hong Kong Distribution Company Ltd. Privacy Policy Effective Date: October 7, 2015
-
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
-
-Marc Jacobs France Distribution Company Ltd. - **Retail Privacy Policy** :
-
-Date revised and posted: October 7, 2016
-
-The company Marc Jacobs International France, 82, rue de Rivoli, 75004 Paris, (“ **Marc Jacobs** ” or “ **we** ”) provides you the following information on the processing of your personal data collected from the beginning of your relationship with Marc Jacobs. We process your personal data with and without the use of electronic tools, in line with applicable privacy law, including as to maintaining adequate security. Data may be used to update and correct the information previously collected on our customers. 
-
-**1.** You may provide personal data to Marc Jacobs by filling in our customer card, during informal chats when you visit our stores or interact with Marc Jacobs, also through Marc Jacobs’s websites, internet functionalities and mobile applications. In line with privacy law, we may also collect your personal data from third parties in the course of our activities. Marc Jacobs processes your personal data for the following purposes: 
-
-a. managing the sale of our products, sale and post-sale services, e.g. administrative activities, accounting, returns, warranties, fraud prevention, customer relationship management; 
-
-b. compliance with legal obligations (including anti-money laundering laws) and enforcement of our rights; 
-
-c. market research, analysis, promotional and marketing activities performed through traditional mail, email, telephone, newsletter, text/SMS, and MMS messaging, including periodic sending of promotional materials on products, services and promotions of Marc Jacobs, including events organized by Marc Jacobs or to which Marc Jacobs participates as well as invitations to said events; 
-
-d. creation of group and individual profiles - understanding of your interests, preferences and purchase history. 
-
-If you provide us with personal information of third parties (e.g., your family members, other customer or prospects of Marc Jacobs), you should make sure that said third parties are informed and authorized the use of their data as described in this privacy policy. 
-
-**2.** Our authorized personnel may access your personal data. We also share your personal data with the following third parties: 
-
-a. public entities and authorities for their institutional activities and as laws require us to do, including third parties in case of extraordinary operations (mergers, acquisitions, transfer of assets) during our business activities; 
-
-b. third parties that we use to provide technical and organizational services functional to the purposes above described, e.g. consultants, delivery companies and other companies providing services such as marketing, market analysis and research services, management of payments, information system management; 
-
-c. companies affiliated to Marc Jacobs or under common control for all the purposes described under point 1 above. 
-
-Marc Jacobs provides to the above listed third parties only the information necessary to perform the relevant functions; they act as data controllers or processors, as the case may be. It is understood that, save for what is specified under letter 2. c) above, ****Marc Jacobs does not share with other third parties your personal data for their own marketing activities and/or analysis of your interests.****
-
-Some of the above listed recipients, notably companies affiliated to Marc Jacobs or under common control, may be established abroad, in countries located outside the European Economic Area, not providing for an adequate level of data protection as your country, including China, Hong Kong , Macau, Japan and the United States. Marc Jacobs transfers your personal data to these countries after adoption of the precautions set forth by applicable privacy laws, including entering into data transfer agreements based on the European Commission model clauses with the data recipients. 
-
-**3.** Marc Jacobs International France is the data controller, available as follows: Privacy Officer, Marc Jacobs International, LLC, 72 Spring Street, New York, NY 10012, email: retail.privacy@marcjacobs.com. 
-
-You can contact us at the above address to have the updated list of third parties that we share with your personal data and to enforce at any time your privacy rights, for example to access your data, ask that data be updated, amended, deleted and you may oppose use of your data, including for marketing purposes. 
-
-Marc Jacobs France Distribution Company Ltd. Privacy Policy Effective Date: October 7, 2016
-
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
-
-Marc Jacobs France Distribution Company Ltd. - **CHARTE DE PROTECTION DES DONNEES A CARACTERE PERSONNEL** :
-
-La société Marc Jacobs International France, 82, rue de Rivoli, 75004 Paris, (ci-après « Marc Jacobs » ou « nous ») vous communique les informations suivantes à propos du traitement de vos données à caractère personnel collectées depuis le début de votre relation avec Marc Jacobs. Nous traitons vos données à caractère personnel avec et sans recours à des outils électroniques, conformément à la loi applicable en matière de protection des données à caractère personnel, y compris en ce qui concerne le maintien d’un niveau de sécurité adéquat. Les données peuvent être utilisées pour mettre à jour et corriger les informations antérieurement collectées sur nos clients.. 
-
-**1.** Vous pouvez fournir des données à caractère personnel à Marc Jacobs lorsque vous remplissez le formulaire de notre carte client, lors de discussions informelles lorsque vous visitez nos boutiques ou interagissez avec Marc Jacobs, ainsi que par le biais des sites web de Marc Jacobs, de ses fonctionnalités Internet et applications mobiles. Conformément à la loi applicable en matière de protection des données à caractère personnel, nous pouvons également collecter vos données à caractère personnel auprès de tiers dans le cadre de nos activités. Marc Jacobs traite vos données à caractère personnel aux fins suivantes : 
-
-a. gestion de la vente de nos produits, services commerciaux et après-vente, ex : activités administratives, comptabilité, retours, garanties, prévention des fraudes, gestion de la relation client ; 
-
-b. respect des obligations légales (y compris les lois relatives au blanchiment d’argent) et exercice de nos droits ; 
-
-c. sous réserve de l’obtention de votre consentement le cas échéant, études de marché, analyses, activités promotionnelles et marketing réalisées par courrier postal, courrier électronique, téléphone, lettre d’information, texto/SMS et MMS, y compris l’envoi périodique de documents promotionnels sur les produits, services et promotions de Marc Jacobs, y compris les événements organisés par Marc Jacobs ou auxquels Marc Jacobs participe ainsi que des invitations à de tels événements ; 
-
-d. création de profils groupes et individuels - compréhension de vos centres d’intérêts, de vos préférences et de votre historique d’achat, sauf si vous vous opposez à ce traitement. 
-
-Si vous nous communiquez des données à caractère personnel de tiers (ex : des membres de votre famille, d’autres clients ou prospects de Marc Jacobs), vous devez vous assurer que lesdits tiers soient informés et aient autorisé l’utilisation de leurs données tel que décrit dans la présente charte. 
-
-**2.** Notre personnel autorisé pourra accéder à vos données à caractère personnel sous réserve qu’il ait besoin de connaître ces données pour les finalités décrites ci-avant. Nous partageons également vos données à caractère personnel avec les tiers suivants : 
-
-a. autorités et entités publiques dans le cadre de leurs activités institutionnelles et tel que la loi nous l’impose, y compris les tiers impliqués dans des opérations exceptionnelles (fusions, acquisitions, cession d’actifs) dans le cadre de nos activités commerciales ; 
-
-b. tiers auxquels nous avons recours pour fournir des services techniques et organisationnels pour les finalités susmentionnées, ex : consultants, sociétés de livraison et autres sociétés fournissant des services tels que des services marketing, d’analyse et d’étude de marché, de gestion des paiements et de gestion du système d’information ; 
-
-c. sociétés affiliées à Marc Jacobs ou placées sous contrôle commun pour toutes les finalités décrites au point 1 ci-dessus. 
-
-Marc Jacobs ne divulgue aux tiers susmentionnés que les informations nécessaires à l’exercice de leurs fonctions ; ils interviennent en qualité de responsables de traitement ou de sous-traitants, selon le cas. Il est entendu que, à l’exception de ce qui est précisé au point 2. c) ci-dessus, ****Marc Jacobs ne partage pas vos données à caractère personnel avec d’autres tiers pour des finalités liées à leurs propres activités marketing et/ou pour l’analyse de vos intérêts.****
-
-Certains des destinataires énumérés ci-dessus, notamment les sociétés affiliées à Marc Jacobs ou sous le même contrôle, peuvent se trouver à l’étranger, dans des pays situés en dehors de l’Espace Economique Européen, pays n’offrant pas le même niveau de protection des données que celui qui existe dans votre pays, par exemple en Chine, à Hong-Kong, à Macao, au Japon et aux Etats-Unis. Marc Jacobs transfère vos données à caractère personnel à destination de ces pays après avoir adopté les précautions prévues par les lois applicables en matière de protection des données, y compris la conclusion avec les destinataires des données de contrats de transfert des données basés sur les clauses contractuelles types de la Commission Européenne. 
-
-**3.** Marc Jacobs International France est le responsable de traitement et peut être contacté(e) comme suit : Privacy Officer (Responsable Données Personnelles), Marc Jacobs International, LLC, 72 Spring Street, New York, NY 10012, Etats-Unis, e-mail: 
-
-retail.privacy@marcjacobs.com. 
-
-Vous pouvez nous contacter à l’adresse ci-dessus pour obtenir la liste à jour des tiers avec lesquels nous partageons vos données à caractère personnel et faire valoir à tout moment vos droits en matière de protection des données à caractère personnel, par exemple pour accéder à vos données, pour demander leur mise à jour, modification, suppression et pour vous opposer à leur utilisation, y compris à des fins marketing. 
-
-Marc Jacobs France Distribution Company Ltd. 
-
-\------------------------------------------------------------------------------------------------------------------------------------------------ 
-
-Marc Jacobs UK Distribution Company Ltd. - **Retail Privacy Policy** :
-
-Date revised and posted: October 7, 2016
-
-The company Marc Jacobs International (UK) Limited, (“ **Marc Jacobs** ” or “ **we** ”) provides you the following information on the processing of your personal data collected from the beginning of your relationship with Marc Jacobs. We process your personal data with and without the use of electronic tools, in line with applicable privacy law, including as to maintaining adequate security. Data may be used to update and correct the information previously collected on our customers. 
-
-**1.** You may provide personal data to Marc Jacobs by filling in our customer card, during informal chats when you visit our stores or interact with Marc Jacobs, also through Marc Jacobs’s websites, internet functionalities and mobile applications. In line with privacy law, we may also collect your personal data from third parties in the course of our activities. Marc Jacobs processes your personal data for the following purposes: 
-
-a. managing the sale of our products, sale and post-sale services, e.g. administrative activities, accounting, returns, warranties, fraud prevention, customer relationship management; 
-
-b. compliance with legal obligations (including anti-money laundering laws) and enforcement of our rights; 
-
-c. market research, analysis, promotional and marketing activities performed through traditional mail, email, telephone, newsletter, text/SMS, and MMS messaging, including periodic sending of promotional materials on products, services and promotions of Marc Jacobs, including events organized by Marc Jacobs or to which Marc Jacobs participates as well as invitations to said events; 
-
-d. creation of group and individual profiles - understanding of your interests, preferences and purchase history. 
-
-If you provide us with personal information of third parties (e.g., your family members, other customer or prospects of Marc Jacobs), you should make sure that said third parties are informed and authorized the use of their data as described in this privacy policy. 
-
-**2.** Our authorized personnel may access your personal data. We also share your personal data with the following third parties: 
-
-a. public entities and authorities for their institutional activities and as laws require us to do, including third parties in case of extraordinary operations (mergers, acquisitions, transfer of assets) during our business activities; 
-
-b. third parties that we use to provide technical and organizational services functional to the purposes above described, e.g. consultants, delivery companies and other companies providing services such as marketing, market analysis and research services, management of payments, information system management; 
-
-c. companies affiliated to Marc Jacobs or under common control for all the purposes described under point 1 above. 
-
-Some of the above listed subjects, for example companies affiliated to Marc Jacobs or under common control, may be established abroad, in countries not providing for an adequate level of data protection as your country. Marc Jacobs transfers data abroad after adoption of the precautions set forth by applicable privacy laws. 
-
-**3.** Marc Jacobs International (UK) Limited is the data controller, available as follows: Privacy Officer, Marc Jacobs International, LLC, 72 Spring Street, New York, NY 10012, email:retail.privacy@marcjacobs.com. 
-
-You can contact us at the above address to have the updated list of third parties that we share with your personal data and to enforce at any time your privacy rights, for example to access your data, ask that data be updated, amended, deleted and you may oppose use of your data, including for marketing purposes. 
-
-Marc Jacobs International UK Limited Privacy Policy Effective Date: October 7th, 2016"
-
-  
-
+This Privacy Policy has been developed out of respect for the privacy preferences and choices of Our customers. Questions or comments may be directed to: Tel: +1-212-965-4000 (or 1-877-707-6272 if dialing within the United States), email: [legal@marcjacobs.com](mailto:legal@marcjacobs.com). 
