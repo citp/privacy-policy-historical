@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011080128id_/https%3A//www.womenshealth.gov/about-us/website-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629041428id_/https%3A//www.womenshealth.gov/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | womenshealth.gov
 
@@ -33,7 +33,7 @@ Womenshealth.gov retains this data as long as needed to support the mission of t
 
 ## How are persistent cookies used?
 
-The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows federal agencies to use session and persistent cookies and defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." The policy says, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected."
+The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) allows federal agencies to use session and persistent cookies and defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." The policy says, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected."
 
 We use persistent cookies to help us recognize new and returning visitors to womenshealth.gov. Persistent cookies remain on your computer between visits to womenshealth.gov until they expire. We do not use this technology to identify you or any other individual site visitor. Womenshealth.gov is running the American Customer Satisfaction Survey (ACSI), which uses persistent cookies to block repeated invitations to take the ACSI survey.
 
