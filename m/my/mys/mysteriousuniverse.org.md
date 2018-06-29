@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117194442id_/http%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629170517id_/http%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mysterious Universe
 
@@ -61,7 +61,7 @@ The Mysterious Universe site does not publish content that is targeted to childr
 
 ###### ENFORCEMENT
 
-If for some reason you believe Mysterious Universe has not adhered to these principles, please notify us by e-mail at feedback@mysteriousuniverse.org, an d we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe Mysterious Universe has not adhered to these principles, please notify us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), an d we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 ###### CUSTOMER PROFILES
 
