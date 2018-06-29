@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the routinejournal.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225154605id_/http%3A//routinejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routinejournal.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629124320id_/http%3A//routinejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# - RoutineJournal
+# RoutineJournal
 
 This Privacy Policy governs the manner in which RoutineJournal collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.RoutineJournal.com website (“Site”).
 
@@ -40,6 +40,13 @@ Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+RoutineJournal participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>. We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
+
+How to opt out  
+<http://optout.networkadvertising.org/#!/>
+
 Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
@@ -60,4 +67,4 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@RoutineJournal.com.
 
-This document was last updated on February 07, 2017
+This document was last updated on June 11, 2018 
