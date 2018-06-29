@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114103318id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629191420id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -14,7 +14,7 @@ prince.org collects personally identifiable information when you register for a 
 
 ## Information Sharing and Disclosure
 
-prince.org will not sell or rent your personally identifiable information to anyone. prince.org may send personally identifiable information about you to other companies or people in response to subpoenas, court orders or legal process, or we find that your actions on our web sites violate the prince.org [User Agreement](http://prince.org/user_agreement.html). 
+prince.org will not sell or rent your personally identifiable information to anyone. prince.org may send personally identifiable information about you to other companies or people in response to subpoenas, court orders or legal process, or we find that your actions on our web sites violate the prince.org [User Agreement](http://www2.prince.org/user_agreement.html). 
 
 ## Cookies
 
@@ -34,7 +34,7 @@ prince.org may amend this policy from time to time. If we make any substantial c
 
 ## Copyright
 
-See the [terms of service](https://web.archive.org/web/20171114103318id_/http%3A//prince.org/$SITEMAP\[agreement\]) for more information about copyright and other intellectual property. 
+See the [terms of service](https://web.archive.org/web/20180629191420id_/http%3A//prince.org/$SITEMAP\[agreement\]) for more information about copyright and other intellectual property. 
 
 ## Questions or Suggestions
 
