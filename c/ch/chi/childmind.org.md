@@ -1,123 +1,114 @@
-> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929002113id_/https%3A//childmind.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629170428id_/https%3A//childmind.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Child Mind Institute
+# Online Privacy Statement | Child Mind Institute
 
-We at Child Mind Institute, Inc. and Child Mind Medical Practice, PLLC (together, “CMI”) want this site to be a safe and private place for users. We will do our part by not requiring you to register or provide any information at all to use most sections and features of this Web site. In turn, you can do your part by reading this policy and taking the steps outlined below.
+Effective May 24, 2018
 
-There are certain actions and areas of the site that will require you to provide personal information. These include:
+We at Child Mind Institute, Inc. and Child Mind Medical Practice, PLLC (together, “CMI”) want the CMI website to be a safe and private place for users. We will do our part by not requiring you to register or provide any information at all to use most sections and features of the CMI website. In turn, you can do your part by reading this Online Privacy Statement and taking the steps outlined below.
 
-  * becoming a member of our network
+  1. Acceptance
+
+
+
+During your use of the CMI website (which includes childmind.org and related CMI sites, such as projecturok.org and healthybrainnetwork.org) you may be prompted to provide personal information. This is information you provide which personally identifies you, including, but not limited to, your name, email address, mailing address, and telephone number. Any time you provide personal information to us, this Statement will govern our use of the information you have provided. This Statement does not apply to information collected by third parties or offline.
+
+By submitting personal information to us, you agree that we may use the information in accordance with this Statement. We will update this Statement as we deem necessary, and we will post any changes here so that you are continually aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You should be sure to reread this Statement in its entirety from time to time. Your continued use of the CMI website will constitute your acceptance of such changes.
+
+  2. Information Collection and Use
+
+
+
+There are certain actions and areas of the CMI website that will require you to provide personal information. These include, but are not limited to:
+
   * signing up for email or newsletters
-  * commenting
-  * sending an email question
+  * downloading certain reports or other documents
   * making a donation
-  * applying for a part-time, full-time, or volunteer position
-  * accessing the patient portal
+  * requesting an appointment
+  * submitting user content
 
 
 
-Any time you provide personal information to us, this privacy policy will govern our use of the information you have provided.
+If you do submit information to us, we will use that information for the purposes for which it was submitted. We may also use your information to personalize communications to you and keep you informed about other CMI-related activities, or as otherwise disclosed to you at the point of collection.
 
-**By submitting personal information to us, you agree that we may use the information in accordance with this privacy policy.** We will update this privacy policy as we deem necessary. You should be sure to reread this policy in its entirety from time to time.
+We automatically collect and store some information about your computer and your visit and store it in log files. This information includes information such as your computer’s IP address and the domain from which you access the Internet. We use this information to formulate statistics that show the number of visitors to the different sections of the CMI website and to help us make this website more useful to visitors. These statistics do not reveal personal information.
 
-**Personal Information You Choose to Provide**
+  3. Information Sharing
 
-In order to gain access to certain areas of our site or to use certain features, you may choose to provide personal information. **If you do submit information to us, we will use that information for the purposes for which it was submitted. We may also use your information in other ways, such as to contact you about other CMI-related activities and/or fundraising campaigns or as otherwise disclosed to you at the point of collection, and we may share your information with other like-minded organizations, including other CMI entities, for similar purposes.**
 
-**For example:**
 
-If you make an online donation to us, your information will be added to one or more of our supporter lists and databases and you will be contacted about other CMI activities, news and/or fundraising campaigns.
+We use third-party vendors to provide services on the CMI website and in our offline business operations. The information that you submit on this website may be provided to those vendors on a confidential basis so that those vendors can provide services on our behalf. These services include, but are not limited to, donor contact management, credit card processing, email delivery, web analytics, and job application processing. A third-party vendor’s collection and use of personal information is governed by the policies of that vendor.
 
-If you join or opt in to our e-mail list, you will receive informational updates and action alerts about child and adolescent mental health-related issues. Our list is electronic, and therefore we need an e-mail address to contact you.
+  4. Charitable Contributions
 
-**We also may provide opportunities for you to submit additional personal information,  **such as website feedback. By submitting this information to us, you give us permission to receive it, review it, edit it, store it, post it on our website and use it in appropriate settings. To protect your privacy, please do not include any identifying information in your submissions.
 
-You should be aware that we use third-party vendors to provide services on this site and in our off-line business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our databases, sending e-mail messages to activists or supporters, facilitating our fundraising activities and campaigns, or processing credit card transactions) on our behalf.
 
-**Other than as described in this privacy policy, or as may be necessary to protect the rights, property and safety of our organization, our clients or others, or as may be necessary to comply with applicable law, we will not give away or sell the personal information you provide online. We reserve the right to share personal information you provide with legal authorities if it is, in our sole opinion, necessary to investigate, prevent or take action regarding suspected fraud or situations involving threats or potential harm, or if required by law (such as by a subpoena, court order or other legal means).**
+We do not sell, rent, or trade our donor’s names or personal information to or with any other entity, nor do we send mailings to our donors on behalf of other organizations. If you choose to make an online donation, you will have to provide your credit card billing information to a third-party payment processor. The third-party payment processor will process your credit card transaction and send CMI a transaction report that contains some of the personal information it collects (e.g. name and contact information) but not your credit card information.
 
-**Financial Information You Choose to Provide**
+  5. Email a Friend
 
-If you choose to make an online donation, you will have to provide your credit card billing information. As this information is collected and transferred over the Internet to our secure server, it is encrypted using Secure Socket Layer (SSL) technology, the industry-standard security technology that is designed to protect sensitive information. If you are making a donation, the credit card information that you provide at the time of donation is used only to process your donation and will not be used for any other purposes.
 
-**Information Automatically Collected and Stored**
 
-As is true of most websites, we automatically collect and store some information about your computer and your visit and store it in log files. This information includes information such as your computer’s (or your ISP’s) Internet Protocol (IP) address (this is not your e-mail address); the domain from which you access the internet (e.g., “verizon.net” or “Stanford.edu”); the name, version and specifications of your computer and your computer’s operating system; the URL of the website, if any, from which you came to our site; the date and time you arrived at our site and how long you spent on the site; and which pages you visited.
+If you use the Email a Friend service to tell a friend about the CMI website or newsletter, we will ask you for your email address and your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit this website using your email address as the “from” email address. CMI does not use your email address or your friend’s email address for any other purpose. We will use the information you provide only to send the email you request.
 
-We use this information to formulate statistics (possibly with the help of outside experts) that show the number of visitors to the different sections of our site and to help us make our site more useful to visitors. For example, we use the browser information to help us design our website so that as many people as possible will be able to view the pages correctly. These statistics do not reveal personal information.
+  6. Special Information for Children Under 13 and Their Parents
 
-**E-mail a Friend**
 
-If you use our E-mail a Friend service to tell a friend about our site or newsletter, we will ask you for your name, your e-mail address and your friend’s e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site using your name and e-mail address as the “from” e-mail address. CMI does not use your name, your e-mail address or your friend’s e-mail information for any other purpose. We will use the information you provide only to send the e-mail you request.
 
-**Public Forums**
+CMI is committed to providing a safe and secure online experience for children who visit the CMI website and their families. Consistent with the Children’s Online Privacy Protection Act of 1998, CMI does not knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If you are under 13 and would like to access any areas of the CMI website that require your information, please have your parent or guardian send an email to the address below with a verifiable identity, giving us permission to allow you to utilize these areas. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by CMI if parental consent is not obtained after a reasonable time.
 
-The CMI website features several community areas and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by medical or healthcare experts. Our communities are open to the public and should not be considered private.
+If we have not received parental consent for a user who states or is found to be under 13, we cannot, by law, provide information to or respond to questions from that user. If we learn that we have collected information from a child under 13 without parental consent, we will delete that information. Parents can request to review personal information collected from children, ask that information about their children be deleted, or revoke their consent by contacting us via email. To do this, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting and using information from that child.
 
-**Any information you share in any online community area (including personally identifiable and personal health information) is by design open to the public and is not private. You should think carefully before posting any personally identifiable or personal health information in any public forum. What you post can be seen, disclosed to, or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines such as Google, Yahoo, MSN, Bing, etc.**
+  7. Visitors Outside the United States
 
-**Website Registration and Interactive Tools**
 
-After you have registered as a member of the CMI website, you may choose to use certain interactive content, tools and services that may ask you to voluntarily provide other types of information, including personal health information.
 
-**Special Information for Children under 13 and Their Parents**
+If you are located outside the United States, you should be aware that the laws of the United States may be deemed to have inadequate data protection by your country. If you are located outside the United States and voluntarily submit personal information through the CMI website, you consent to the use of that information as provided by this Statement and to the transfer of that information to, and storage of that information in, the United States.  The personal information we collect is processed in accordance with this Statement and applicable law, wherever your information is located.
 
-The Child Mind Institute is committed to providing a safe and secure online experience for children who visit our site. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If you are under 13 and would like to participate in the message forums or other areas of the site that require your information, please have your parent or guardian send an e-mail with a verifiable identity, giving us permission to allow you to register. If we have not received parental permission for a user who states to be or is found to be under 13, we cannot, by law, respond to questions or publish any content from that user.
+If we have collected data from you in the European Economic Area, the General Data Protection Regulation outlines your rights, including:
 
-Parents can revoke their consent and ask that information about their children be deleted from the site, by contacting us via e-mail. To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
+  * Access: You may access a copy of your personal information we have collected by contacting us.
+  * Correct: To request that CMI update or correct your personal information, please contact us.
+  * Delete: You may request that we remove your personal information from our systems by contacting us, although in some cases we may refuse your request in accordance with applicable law.
+  * Restrict: To request that we restrict processing of your personal information, please contact us.
+  * Object: You may object to CMI’s processing of your personal information by contacting us.
+  * Withdraw: If we rely on your consent to process your personal information, you have the right to withdraw that consent at any time.
+  * Complain: If you have a concern about our privacy practices, including how we handle your personal information, you may report it to the Information Commissioner’s Office or other relevant data protection authority.
 
-**Use of Cookies**
 
-Cookies are small text files that are placed either on your computer’s hard drive (“persistent cookies”) or in your computer’s random-access memory (“session cookies”). We use both persistent cookies and session cookies for various sections of our website.
+  8. Use of Cookies
 
-Session Cookies: We use session cookies to make it easier for you to navigate certain sections of our website. If you choose to provide personal information by using an interactive application on our site, such as by joining our e-mail list, making an online donation, or asking a question, we place a session cookie on your computer so that you will be recognized as you move around our web pages. Unless you opt in to change these session cookies to persistent cookies (see “Persistent Cookies” below), the information is used for only the duration of your browser session. For example, if you join our activist network and then navigate different pages of our website, the cookie will maintain the information you entered when you filled out the activist registration page. As you move through the site, any fields requiring information about you that has already been captured will be prepopulated. However, once you close your browser window, the session cookie times out. If you open a new browser window and return to our Web site, your personal information fields will not be prepopulated.
 
-Persistent Cookies: We use persistent cookies in some sections of our website to provide greater accuracy in our analysis of the information that is automatically collected about your visit to our site. A persistent cookie remains on your hard drive for an extended period of time. These cookies do not collect personal information. We do not link the information collected through these cookies with other personal data that you provide to us.
 
-In certain circumstances, you may be given the option to turn a session cookie into a persistent cookie on your computer (e.g., “Would you like us to remember your password?” messages). If you opt to turn a session cookie into a persistent cookie, that persistent cookie will remember your personal information (e.g., user name and password) and will not time out at the end of your browser session. See “Your Help Is Needed” for more information.
+Cookies are small text files that are placed either on your computer’s hard drive or in your computer’s random-access memory. We use cookies to make the CMI website easier to navigate, store visitor preferences, and record past activity to provide better service. Most browsers allow a user to accept or deny cookies. If you deny cookies, you may still use the CMI website, but certain website functions may not work properly.
 
-Disabling Cookies: Persistent cookies leave a record on your computer that you have visited our site. However, you have the ability to remove cookies from your computer. Your internet browser’s “Help” section will give you information on how to delete cookies. In addition, there are many websites that provide browser- and operating system-specific information on how to delete cookies. When thinking about whether you want to delete cookies, you should be aware that some sites require cookies to function properly. If you delete cookies, you may have to reregister with some sites or you may notice difficulty in browsing some sites after you delete cookies.
+The CMI website uses Google Analytics, a web analytics service provided by Google, Inc., to collect and analyze information about how users use this website. Information generated by cookies about your use of the CMI website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
 
-**Google Analytics**
+  9. Do Not Track
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-**Security**
 
-**Information submitted via the Internet, including through a web page or e-mail, is subject to interception or incorrect routing, and the internet is not a fully secure communications channel. Please consider this prior to submitting any information to us via this website.**
+Do Not Track is a privacy preference that users can set in certain web browsers. When a user turns on the Do Not Track preference, the browser sends signals to websites requesting them not to track the user. The CMI website does not recognize or respond to Do Not Track signals or similar mechanisms.
 
-Certain sections of this website have heightened security measures in place to protect the loss, misuse, and alteration of the information you have provided. The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology, firewalls and internal policies to maintain the security of stored data. While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+  10. Security
 
-When you register with or donate to us, or become a member of our supporter community through this website, you will have a personal subscription management page, where you will be able to edit your personal information as well as review your messaging, advocacy, and/or donation records. Access to your personal subscription management page is controlled to protect the privacy of your data — our website requires that you log on with your e-mail address and personal password to access your personal subscription management page. The log-on process may be automated if you choose to accept the placement of a persistent cookie on your PC. See “Use of Cookies” and “Your Help Is Needed” for more information on persistent cookies.
 
-Remember, breaches of security also can occur when users are not vigilant in protecting their own information. The next section of our privacy policy suggests some actions you can take to help control the security of your personal information.
 
-**Your Help Is Needed**
+We follow generally accepted industry standards to protect the personal information submitted to us in order to protect against the loss, misuse, and alteration of the information you have provided. The security measures used on the CMI website include, but are not limited to, industry-standard Secure Socket Layer technology, firewalls and internal policies to maintain the security of stored data. However, no method of transmission over the Internet or of electronic storage is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you are worried because your communication is very sensitive, do not send it electronically.
 
-Although we do our best to protect your privacy on our site, we need your help.
+  11. Links to Third-Party Websites
 
-You have control over your own privacy. Think carefully before providing any personal or financial information online.
 
-Although this site has security measures in place to protect the loss, misuse, and alteration of the information you have provided, no e-mail or Web transmission is completely secure against interception. If you are worried because your communication is very sensitive, do not send it electronically.
 
-Remember that we cannot protect your privacy once you leave our site, such as by “hyperlink.” So when you visit other websites, check each one’s privacy policy yourself and be careful about the information you submit or share.
+The CMI website contains links to other websites that are owned or operated by third parties. In some cases, the CMI website may also include embedded tools or widgets that are provided and controlled by third parties, or that permit you to submit information to third parties (e.g. Facebook).  CMI is not able to protect your privacy once you leave the CMI website. When you visit other websites, check each one’s privacy policy yourself and be careful about the information you submit or share.
 
-You should be aware that in some areas of this site we utilize personalization measures designed to make your site experience more enjoyable (i.e., personalized links in e-mail that allow data fields to be prepopulated with certain personal information). We need your help to protect the information embedded in these links. You should always keep your e-mail account information secure and not allow others to access your e-mail account.
+  12. How to Unsubscribe or Contact Us About Your Information
 
-In addition, you should forward our e-mail messages or other website information (such as volunteer or job postings) to others only through the buttons or links provided within the e-mail or Web site. When you use your e-mail system’s forwarding capabilities, others may be able to take actions in your name and/or access your personal information.
 
-You may be given the option to turn on a persistent cookie on your computer (see “Use of Cookies” above). Remember that once you have set a persistent cookie that is linked to your personal information, anyone can access your personal information by using your computer.
 
-In addition to the records left on your computer by cookies, your browser and operating system contain other records of your web browsing and other actions (e.g., browser history). As with cookies, in your browser’s “Help” section or through other Web sites that provide detailed information for each browser and operating system, you can find information about how to clear these history trails. See “Use of Cookies — Disabling Cookies” above.
+If you do not want to receive any email from us in the future, click the “unsubscribe” link at the bottom of an email you have received. Note that your records will remain in CMI’s databases, but your email address will be deactivated.
 
-**How to Unsubscribe or Contact Us about Your Information**
+If you wish to review or update the personal information we have on file for you, if you wish to inform us how you would like your personal information to be used, or if you no longer wish for CMI to use your personal information, please contact us by mail, email or telephone, as follows:
 
-If you do not want to receive any e-mail from us in the future, visit your personal subscription management page to deactivate your account. Note that your records will remain in CMI’s databases, but your log-in and e-mail address will be deactivated.
-
-If you wish to review the contact information we have on file for you, correct your contact information, provide a change of address or inform us how you wish your contact information to be used, please contact our staff (see below).
-
-You may contact us by mail, email or telephone, as follows:
-
-Mail: Child Mind Institute, 445 Park Avenue, New York, NY 10022
-
-If we decide to change our privacy policy, we will post those changes here, so that you are continually aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify our privacy policy at any time, so please review it frequently.
+Mail: Child Mind Institute, 101 East 56th Street, New York, NY 10022  
+Email: info@childmind.org  
+Telephone: 212-308-3118
