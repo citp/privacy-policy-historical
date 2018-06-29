@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045739id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629193758id_/https%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evangelical Lutheran Church in America
 
@@ -8,7 +8,7 @@ Last modified: April 26, 2017
 
 The Evangelical Lutheran Church in America (“ELCA”) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit [www.elca.org](http://www.elca.org/), all elca.org websites, [www.livinglutheran.org](http://www.livinglutheran.org/), [www.womenoftheelca.org](http://www.womenoftheelca.org/), [www.lutheranmeninmission.org](http://www.lutheranmeninmission.org/), and the content, features, and functionality of these websites (collectively, “ **Website** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit [www.elca.org](https://www.elca.org/), all elca.org websites, [www.livinglutheran.org](http://www.livinglutheran.org/), [www.womenoftheelca.org](http://www.womenoftheelca.org/), [www.lutheranmeninmission.org](http://www.lutheranmeninmission.org/), and the content, features, and functionality of these websites (collectively, “ **Website** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -29,7 +29,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ## Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [Contact Us](http://www.elca.org/tools/contact_us).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [Contact Us](https://www.elca.org/tools/contact_us).
 
 ## Information We Collect About You and How We Collect It.
 
@@ -141,7 +141,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law, or legal process, including responding to any government or regulatory request.
-  * To enforce or apply our [terms of use](http://www.elca.org/About/Terms%20and%20Conditions) or terms of any agreement you enter into with us, and other agreements, including for billing and collection purposes.
+  * To enforce or apply our [terms of use](https://www.elca.org/About/Terms%20and%20Conditions) or terms of any agreement you enter into with us, and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the ELCA, its employees, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -162,7 +162,7 @@ We do not control third parties' collection or use of your information to serve 
 
 You may send us an e-mail at [constituent.care@elca.org](mailto:constituent.care@elca.org) to request access to, correct or delete any personal information that you have provided to us. If you have a user account, we cannot delete your personal information associated with that account except by also deleting that user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](http://www.elca.org/About/Terms%20and%20Conditions).
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://www.elca.org/About/Terms%20and%20Conditions).
 
 ## Your California Privacy Rights
 
