@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policyboss.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229200314id_/http%3A//www.policyboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policyboss.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629211414id_/http%3A//www.policyboss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policyboss
 
@@ -75,4 +75,4 @@ From time to time, we may make changes to this Privacy Policy at our sole discre
 
 **Contact**
 
-Please contact Mr. Milind Chilate (“Grievance Officer”) at [privacy@policyboss.com](mailto:privacy@policyboss.com), if you would like to review, change and/or delete the Personal Information submitted by you or discontinue our use of your personal information or generally would like to know more about our privacy policy. 
+Please contact Mr. Jolly Asija (“Grievance Officer”) at [privacy@policyboss.com](mailto:privacy@policyboss.com), if you would like to review, change and/or delete the Personal Information submitted by you or discontinue our use of your personal information or generally would like to know more about our privacy policy. 
