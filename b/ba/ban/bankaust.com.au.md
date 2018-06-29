@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006172700id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629195052id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank Australia
 
@@ -36,7 +36,6 @@ This privacy policy sets out how we manage your information. It sets out:
   * how you can make a complaint
   * how we will deal with your complaint
   * in what overseas countries we are likely to disclose your information.
-  * Information we collect and hold
 
 
 
@@ -104,7 +103,7 @@ We also collect and hold personal information as required by law, for example:
 
   * for our register of members
   * to verify your identity
-  * to assess your capacity to pay a loan.
+  * to assess your capacity to repay a loan.
 
 
 
