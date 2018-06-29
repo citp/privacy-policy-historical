@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130041008id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112859id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smaato
 
-Effective Date: October 5, 2017
+Effective Date: **May 25, 2018**
 
 Smaato, Inc. (“Smaato,” “we,” “our,” or “us”) provides this privacy policy to explain how we collect, use, and share information. This privacy policy (“Policy”) covers Smaato’s handling of two types of information: 
 
-  1. Information we receive about end users (“End Users”) of third-party mobile applications (“apps”) that use our Software Development Kit (“SDK”), the Smaato Demand Platform (“SDX”), or the Smaato Publisher Platform (“SPX”) (collectively, the “Smaato Ad Services”), and 
-  2. Information we receive through our corporate website at [www.smaato.com](https://www.smaato.com/) or any other website on which this Policy is posted, as well as information we get through other corporate services and web portals we make available to clients and business partners (“Smaato Websites”). We describe the information received through the Smaato Websites in Section 5 below, entitled “Privacy Practices for the Smaato Websites.” 
+  1. Information we receive about end users (“End Users”) of third-party mobile applications (“apps”) that use our Software Development Kit (“SDK”), other collection interfaces (collectively, “APIs”), the Smaato Demand Platform (“SDX”), or the Smaato Publisher Platform (“SPX”) (collectively, the “Smaato Ad Services”), and 
+  2. Information we receive through our corporate website at [www.smaato.com](https://www.smaato.com/) or any other website on which this Policy is posted, as well as information we get through other corporate services and web portals we make available to clients and business partners (“Smaato Websites”). We describe the information received through the Smaato Websites in Section 5 below, titled “Privacy Practices for the Smaato Websites.” 
 
 
 
-We encourage consumers to learn about how information (including information we collect) can be used to market to them, and how to exercise their choices to permit or limit such marketing. We describe ways consumers can exercise that choice or opt out of marketing in Section 4 below, entitled “Consumer Control and Opt-Out Options.” 
+We encourage consumers to learn about how information (including information we collect) can be used to market to them, and how to exercise their choices to permit or limit such marketing. We describe ways consumers can exercise that choice or opt out of marketing in Section 4 below, titled “Consumer Control and Opt-Out Options.” 
 
-## 1\. INTRODUCTION AND BACKGROUND
+## 1\. Introduction and Background
 
-Smaato provides mobile advertising technology services that facilitate transactions among advertisers, app developers, publishers of mobile websites and/or apps, and ad exchanges (collectively, “Clients”), and service providers and other data partners (collectively “Partners”). We do this by making available the Smaato Ad Services and other tools to Clients. Clients use the Smaato Ad Services and other tools to deliver advertising to End Users, and we in turn provide our services to help Clients (and their own customers) to deliver ads that are of interest to End Users. We explain what SDKs are in Section 3 below, entitled “Cookies, Pixel Tags, and SDKs,” which also explains how cookies and similar technologies (which we also use to provide the Smaato Ad Services) work. 
+Smaato provides mobile advertising technology services that facilitate transactions among advertisers, app developers, publishers of mobile websites and/or apps, and ad exchanges (collectively, “Clients”), and service providers and other data partners (collectively “Partners”). We do this by making available the Smaato Ad Services and other tools to Clients. Clients use the Smaato Ad Services and other tools to deliver advertising to End Users, and we in turn provide our services to help Clients (and their own customers) to deliver ads that are of interest to End Users. We explain what SDKs and APIs are in Section 3 below, titled “Cookies, Pixel Tags, and SDKs,” which also explains how cookies and similar technologies (which we also use to provide the Smaato Ad Services) work. 
 
-## 2\. PRIVACY PRACTICES FOR THE SMAATO AD SERVICES
+## 2\. Privacy Practices for the Smaato Ad Services
 
-### a. INFORMATION COLLECTED THROUGH THE SMAATO AD SERVICES
+### a. Information Collected Through the Smaato Ad Services
 
 Through the Smaato Ad Services, we may (but do not necessarily, or always) collect a variety of information about End Users (whether through our SDK or through other partnerships and tools such as Client-facing APIs), including: 
 
@@ -30,9 +30,8 @@ Through the Smaato Ad Services, we may (but do not necessarily, or always) colle
   * Device type and other device information (e.g., whether you are using a smartphone or tablet, and related information); 
   * Network provider; 
   * Mobile browser (e.g., Firefox, Safari, and Chrome); 
-  * Carrier user ID (a number uniquely allocated to you by your network provider); 
-  * Other unique identifiers that may be associated with an End Users’ device, including identifiers provided by Clients or their service providers; and 
-  * Email addresses, which we generally handle in or convert to “hashed” (i.e., machine-readable, but non-human readable) form. 
+  * Carrier user ID (a number uniquely allocated to you by your network provider); and 
+  * Other unique identifiers that may be associated with an End Users’ device, including identifiers provided by Clients or their service providers. 
 
 
 
@@ -47,12 +46,12 @@ We use the Service Information to provide a variety of services to our Clients r
   * Create inferences about End Users categorized into “Audience Segments” or to help Clients do so. For example, if the information we collect indicates that an End User likes apps (or clicks on ads) about travel, we may categorize the End User of that device as someone who is interested in travel; 
   * Develop and use data models that try to predict End Users’ potential future behavior and interests on a per-device basis or across devices; 
   * Analyze ad performance, for example, by attributing End Users’ app installations or mobile web visits to ad campaigns; 
-  * Resolve identities across multiple devices, such as to match IP addresses or hashed emails to link an End User across, for example, mobile browsers, mobile devices, tablets, set top boxes, or other devices; and 
-  * Combine the Service Information to perform (including by working with Clients and Partners) any of the above functions, or other advertising, marketing, or analytics services. Or, we may aggregate and create data models to do this, by creating algorithms in order to predict common interests among End Users. We may provide End Users’ email addresses (which we generally hash) to Clients that match this information to online cookies or Mobile IDs in their system, and tie the information or associated IDs to additional interest-based or demographic data about End Users. This may be done, for example, to target advertising or provide analytics to other parties. 
+  * Resolve identities across multiple devices, such as to match IP addresses to link an End User across, for example, mobile browsers, mobile devices, tablets, set top boxes, or other devices; and 
+  * Combine the Service Information to perform (including by working with Clients and Partners) any of the above functions, or other advertising, marketing, or analytics services. Or, we may aggregate and create data models to do this, by creating algorithms in order to predict common interests among End Users. 
 
 
 
-We or our Clients may deploy online cookies to track End Users across mobile websites and/or apps, or to associate End Users and these cookies with Mobile IDs. We or our Clients may perform such functions to resolve End Users’ identities across mobile devices and to better or more accurately target relevant ads to End Users (such as to a brand’s customers). We may also append or combine certain elements of the Service Information (such as hashed email addresses) to other information provided by third party data providers, to learn more about End Users or to provide advertising and analytics services. You can learn more about cookies and similar technologies, such as web beacons and SDKs, in Section 3 below, entitled “Cookies, Pixel Tags, and SDKs.” 
+We, or our Clients, may deploy online cookies to track End Users across mobile websites and/or apps, or to associate End Users and these cookies with Mobile IDs. We, or our Clients, may perform such functions to resolve End Users’ identities across mobile devices and to better or more accurately target relevant ads to End Users (such as to a brand’s customers). We may also append or combine certain elements of the Service Information to other information provided by third-party data providers, to learn more about End Users or to provide advertising and analytics services. You can learn more about cookies and similar technologies, such as web beacons and SDKs, in Section 3 below, titled “Cookies, Pixel Tags, and SDKs.” 
 
 ### c. How We Share Information We Collect Through the Smaato Ad Services
 
@@ -68,7 +67,7 @@ Generally, we share the Service Information with Clients and Partners in order t
 
 Even when you no longer access our SDK, we may continue to use and share your information as described in this Policy. 
 
-The processes we described above often involve cookies or similar technologies, which may be associated with other information about End Users, such as End Users’ interests, demographics, or transactions. This is generally known as “interest-based advertising.” We encourage individuals who are interested in controlling or learning about this type of advertising to go to Section 4 below, entitled “Consumer Control and Opt-Out Options,” or go to the Digital Advertising Alliance’s (DAA’s) website at [www.aboutads.info](https://www.aboutads.info/). 
+The processes we described above often involve cookies or similar technologies, which may be associated with other information about End Users, such as End Users’ interests, demographics, or transactions. This is generally known as “interest-based advertising.” We encourage individuals who are interested in controlling or learning about this type of advertising to go to Section 4 below, titled “Consumer Control and Opt-Out Options,” or go to the Digital Advertising Alliance’s (DAA’s) website at [www.aboutads.info](https://www.aboutads.info/). 
 
 We may also share Service Information with third parties: 
 
@@ -79,7 +78,7 @@ We may also share Service Information with third parties:
 
 
 
-## 3\. COOKIES, PIXEL TAGS, AND SDKs
+## 3\. Cookies, Pixel Tags, and SDKs
 
 ### a. Cookies and Pixel Tags
 
@@ -87,25 +86,27 @@ Cookies are small data files containing a string of characters, such as unique b
 
 A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages. When you access a web page with a pixel tag, the pixel tag may generate a generic notice of the visit, and permit us, or our Clients or Partners, to set or read cookies. Pixel tags are used in combination with cookies to track the activity on a website by a particular browser on a particular device. If you disable cookies, pixel tags simply detect a given website visit. 
 
-We, alone or with our Clients and Partners, may use cookies to, for example, “remember” you, track trends, and collect information about how you use our Clients’ or Partners’ websites or interact with advertising. We, and our Clients and Partners, use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests. If you wish to opt out of interest-based mobile advertising, please see Section 4 below, entitled “Consumer Control and Opt-Out Options.” Please note that disabling cookies may prevent you from accessing some of the Smaato Websites’ functionalities and offerings, and those of other websites you visit. 
+We, alone or with our Clients and Partners, may use cookies to, for example, “remember” you, track trends, and collect information about how you use our Clients’ or Partners’ websites or interact with advertising. We, and our Clients and Partners, use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests. If you wish to opt out of interest-based mobile advertising, please see Section 4 below, titled “Consumer Control and Opt-Out Options.” Please note that disabling cookies may prevent you from accessing some of the Smaato Websites’ functionalities and offerings, and those of other websites you visit. 
 
 ### b. Mobile Device Identifiers and SDKs
 
-We, or our Clients or Partners, may use or work with mobile SDKs (including our own SDK(s), which are described in more detail in this Policy) to collect information, such as mobile identifiers (e.g., iOS IDFAs and Android Advertising IDs), and information related to how mobile devices and their users interact with our Smaato Ad Services and those using our Smaato Ad Services. The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. We may use this technology, for example, to analyze or measure certain advertising through apps and browsers based on information associated with your mobile device. If you would like to opt out from having ads tailored to you in this way on your mobile device, please follow the instructions in Section 4 below, entitled “Consumer Control and Opt-Out Options.” 
+We, or our Clients or Partners, may use or work with mobile SDKs (including our own SDK(s), which are described in more detail in this Policy) to collect information, such as Mobile IDs, and information related to how mobile devices and their users interact with our Smaato Ad Services and those using our Smaato Ad Services. The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. Sometimes, we obtain data through other (generally, simpler) interfaces that deliver similar data to us, which are commonly referred to (and which we refer to) as APIs. We may use these technologies, for example, to analyze or measure certain advertising through apps and browsers based on information associated with your mobile device. If you would like to opt out from having ads tailored to you in this way on your mobile device, please follow the instructions in Section 4 below, titled “Consumer Control and Opt-Out Options.” 
 
 Our Clients or Partners may use the above technologies (sometimes, in combination with each other or other data such as IP addresses or hashed or de-identified data files) to coordinate identifiers across platforms, browsers, or devices, in order to more efficiently analyze or target advertising. 
 
-## 4\. CONSUMER CONTROL AND OPT-OUT OPTIONS
+## 4\. Consumer Control and Opt-Out Options
 
 In most cases, consumers have control over whether or not they would like to receive relevant ads and marketing email from our Clients. 
 
 ### a. Opting Out of Online Interest-Based Advertising
 
-You can opt out of many of the platforms and service providers we work with that support online interest-based advertising by visiting the Digital Advertising Alliance’s consumer education and opt-out page at [http://www.aboutads.info](http://www.aboutads.info/) (or the European Interactive Digital Advertising Alliance’s opt-out page at [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) if you are located in the European Union). This type of opt out is cookie-based, which means that if you replace or upgrade your browser, or delete your cookies, you will need to opt out again. Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you. 
+You can opt out of many of the platforms and service providers we work with that support online interest-based advertising by visiting the Digital Advertising Alliance’s consumer education and opt-out page at [http://www.aboutads.info](https://www.aboutads.info/) (or the European Interactive Digital Advertising Alliance’s opt-out page at [http://www.youronlinechoices.eu](https://www.youronlinechoices.eu/) if you are located in the European Union). This type of opt out is cookie-based, which means that if you replace or upgrade your browser, or delete your cookies, you will need to opt out again. Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you. 
+
+Although we do not ourselves deliver interest-based advertising on browsers, we or companies that we work with may sometimes use them for “cross device” advertising. For instance, they may use the mobile identifiers that we collect and share to try to connect user identities across different platforms, channels and devices — such as by using a common IP address to “match” a use on a mobile device to a use on a browser. The above opt-out methods will in most cases opt your device out of browser-based online advertising. 
 
 ### b. Opting Out of Cross-App Advertising on Mobile Devices
 
-You can opt out of having your mobile advertising identifiers used for certain types of interest-based mobile advertising (also called “cross-app advertising”), including those performed by Smaato, by accessing the settings on your Apple or Android mobile device, as follows: 
+You can opt out of having your Mobile IDs used for certain types of interest-based mobile advertising (also called “cross-app advertising”), including those performed by Smaato, by accessing the settings on your Apple or Android mobile device, as follows: 
 
   * Apple Devices: If you have an Apple device, you can opt out of most cross-app advertising by updating to iOS 6.0 or higher and enabling “Limit Ad Tracking.” 
     * iOS 7 and Higher: Go to Settings → Privacy → Advertising, and toggle “Limit Ad Tracking” to ‘ON.’
@@ -114,15 +115,15 @@ You can opt out of having your mobile advertising identifiers used for certain t
 
 
 
-Please note that these platforms control how these settings work, so the above instructions may change. Likewise, if your device uses other platforms not described above, please check the settings for those devices. 
+Please note that these platforms control how these settings work, so the above instructions may change, and the precise language may be different on certain (particularly, on older) devices. Likewise, if your device uses other platforms not described above, please check the settings for those devices. 
 
 ### c. Additional Choices
 
 Advertisers may also provide ways for you to opt out from, or limit their collection of, certain information from and about you. Please refer to the privacy policies for retailers, apps, and mobile websites to learn more about their privacy practices. 
 
-You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [marketing@smaato.com](mailto:marketing@smaato.com). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
+You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5a8a4b7aea0b1acaba285b6a8a4a4b1aaeba6aaa8). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
 
-## 5\. PRIVACY PRACTICES FOR THE SMAATO WEBSITES
+## 5\. Privacy Practices for the Smaato Websites
 
 ### a. Information We Collect Through the Smaato Websites
 
@@ -134,9 +135,9 @@ When registering for an account, expressing an interest in obtaining additional 
 
 ### ii. Automatically-Collected Information
 
-When you visit the Smaato Websites, we may use cookies and pixel tags that we associate with unique identifiers to keep track of visitor interactions and personalize your experience on the Smaato Websites. For more information, please see Section 3 above, entitled “Cookies, Pixel Tags, and SDKs.” 
+When you visit the Smaato Websites, we may use cookies and pixel tags that we associate with unique identifiers to keep track of visitor interactions and personalize your experience on the Smaato Websites. For more information, please see Section 3 above, titled “Cookies, Pixel Tags, and SDKs.” 
 
-We may also use third party-services, such as Google Analytics, that gather information such as your IP address, browser type, the web page from which you came to the Smaato Websites, and the times of your visit. In addition, as you browse the Smaato Websites, advertising cookies may be placed on your computer so that we can “remember” your interests. Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the Smaato Websites. To opt out of such interest-based mobile advertising, please see Section 4 above, entitled “Consumer Control and Opt-Out Options.” Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you. 
+We may also use third-party services, such as Google Analytics, that gather information such as your IP address, browser type, the web page from which you came to the Smaato Websites, and the times of your visit. In addition, as you browse the Smaato Websites, advertising cookies may be placed on your computer so that we can “remember” your interests. Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the Smaato Websites. To opt out of such interest-based mobile advertising, please see Section 4 above, titled “Consumer Control and Opt-Out Options.” Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you. 
 
 ### b. How We Use Information We Collect Through the Smaato Websites
 
@@ -170,56 +171,110 @@ We may share the information we collect through the Smaato Websites in the follo
 
 With respect to aggregated or de-identified information, we may share such information without restriction. 
 
-## 6\. DATA ACCESS AND RETENTION
+## 6\. Data Access and Retention
 
 Generally speaking, we retain the information collected from the Smaato Websites and Smaato Ad Services for as long as necessary to achieve our objectives as detailed in this Policy, and to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you are a resident of the European Union, you may obtain a copy of the information we have about you by contacting us at [privacy@smaato.com](mailto:privacy@smaato.com). Please be advised that, due to the manner in which we collect information, we will only be able to provide you with such information if we can determine that the information is identifiable to you. Under extenuating circumstances, we reserve the right to charge a fee for providing you with such information, and that fee will be based on costs and fees we incur to fulfill your request. 
+If you are a resident of the European Economic Area (EEA), Switzerland, or the United Kingdom (UK), you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d4d6cdd2c5c7dde4d7c9c5c5d0cb8ac7cbc9). You may read more about this and other rights in Section 12 below. 
 
-## 7\. DATA SECURITY
+## 7\. Data Security
 
 We have administrative, technical, and physical safeguards in place in our physical facilities and in our computer systems, databases, and communications networks that are designed to protect the information from loss, misuse, or alteration. No method of electronic transmission or storage is 100% secure. Therefore, we cannot guarantee absolute security of your information. 
 
 To assist with data security, you understand that YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF ANY ACCOUNT CREDENTIALS THAT CAN BE USED TO ACCESS ANY ACCOUNT WITH SMAATO. ANY ACTIONS TAKEN USING YOUR ACCOUNT CREDENTIALS ARE YOUR SOLE RESPONSIBILITY. 
 
-## 8\. THIRD-PARTY WEBSITES AND APPS
+## 8\. Third-Party Websites and Apps
 
 This Policy only applies to the Smaato Websites and the Smaato Ad Services. We are not responsible for the privacy practices or disclosures of websites, developers, or apps that access or use the Smaato Websites or Smaato Ad Services. Likewise, when you access the Smaato Websites, you may be directed to other websites that are also beyond our control. We encourage you to read the applicable privacy policies and terms and conditions of such third parties and websites, and the industry tools that we have referenced in this Policy. 
 
-## 9\. USERS FROM OUTSIDE THE UNITED STATES
+## 9\. Users from Outside the United States
 
 The Smaato Websites and Smaato Ad Services are provided, supported, and hosted in the United States, and their operation is governed by United States law. If you are using the Smaato Websites or Smaato Ad Services from outside the United States, be aware that your Information may be transferred to, stored, and processed in the United States and other countries where our facilities are located. The data protection and other laws of the United States might not be as comprehensive as those in your country. By using the Smaato Websites or Smaato Ad Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share your information as described in this Policy. 
 
-## 10\. CALIFORNIA DO-NOT-TRACK STATEMENT
+Please see Section 12 below, titled “The EU General Data Protection Regulation (GDPR)” for additional information we provide for the benefit of residents of the EEA, Switzerland, and the UK. 
 
-We do not currently recognize or respond to browser-initiated Do-Not-Track signals, as there is currently no industry-wide consensus as to uniform Do-Not-Track standards, implementations, or solutions. Please review Section 4 above, entitled “Consumer Control and Opt-Out Options,” for information about your marketing choices. 
+## 10\. California Do-Not-Track Statement
 
-## 11\. PRIVACY SHIELD
+We do not currently recognize or respond to browser-initiated Do-Not-Track signals, as there is currently no industry-wide consensus as to uniform Do-Not-Track standards, implementations, or solutions. Please review Section 4 above, titled “Consumer Control and Opt-Out Options,” for information about your marketing choices. 
 
-As a business under the jurisdiction of the Federal Trade Commission, Smaato has certified with the Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. Smaato certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these Principles, where Smaato uses service providers to process personal data of European Union or Swiss residents, Smaato shall remain liable where the agent processes such personal data of European Union or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. To learn more about the Privacy Shield framework, and to view the list of entities who have current certifications under the Privacy Shield, please visit this [page](https://www.privacyshield.gov/list). 
+## 11\. Privacy Shield
 
-If you have any questions or complaints about Smaato’s privacy practices, you may contact Smaato at the contact information in Section 13 below, entitled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the European Union or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices. 
+As a business under the jurisdiction of the Federal Trade Commission, Smaato has certified with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (the “Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union (EU) member countries and Switzerland. Smaato certifies that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Consistent with these Principles, where Smaato uses service providers to process personal data of EU or Swiss residents, Smaato shall remain liable where the agent processes such personal data of EU or Swiss residents in a manner inconsistent with the Privacy Shield Principles, except where Smaato establishes that Smaato is not responsible for the damages caused by the agent. To learn more about the Privacy Shield, and to view the list of entities who have current certifications under the Privacy Shield, please visit this [page](https://www.privacyshield.gov/list). 
 
-If you are a resident of the European Union or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance from our designated Privacy Shield independent recourse mechanism, the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program: 
+If you have any questions or complaints about Smaato’s privacy practices, you may contact Smaato at the contact information in Section 14 below, titled “Contacting Us,” and we will work with you to resolve your issue. If you are a resident of the EU or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices. 
+
+If you are a resident of the EU or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance from our designated Privacy Shield independent recourse mechanism, the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program: 
 
 <https://www.jamsadr.com/eu-us-privacy-shield>
 
 Claims shall be arbitrated free of charge by our arbitration provider, JAMS, though each party shall be responsible for its own attorneys’ fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles. 
 
-Under certain conditions, residents of the European Union and Switzerland who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
+Under certain conditions, residents of the EU and Switzerland who have unresolved complaints after: (1) contacting Smaato to resolve the issue; (2) seeking assistance from our independent recourse mechanism; and (3) contacting the U.S. Department of Commerce (either directly or through a European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner) and affording the Department of Commerce time to attempt to resolve the issue, may elect to invoke binding arbitration through the Privacy Shield arbitration process, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
 
-## 12\. CHANGES TO THIS PRIVACY POLICY
+## 12\. The EU General Data Protection Regulation (GDPR)
+
+As of May 25, 2018, a new data privacy law known as the EU General Data Protection Regulation (the “GDPR”) will be in effect through the EEA, Switzerland, and the UK. The GDPR requires Smaato and those using our services to provide users with certain information about the processing of their “Personal Data.” “Personal Data” is a term used under the GDPR that means, generally, data that identifies or can identify a particular unique user or device – for instance, names, addresses, cookie identifiers, Mobile IDs, precise location data, and biometric data. 
+
+To comply with the GDPR, we provide the below representations and information, which are specific to persons located in the EEA, Switzerland, or the UK. 
+
+### a. Legal Grounds for Processing Personal Data
+
+The GDPR requires us to tell you about the legal ground we are relying on to process any Personal Data about you. The legal grounds for us processing your Personal Data for the purposes set out in Sections 1 and 2 above (and Section 5 as to the Smaato Websites) will typically be because: 
+
+  * You provided your consent. In order to store and gain access to information stored on your device, we rely on your consent. For this “cookie consent” (which applies not only to “cookies” but also to Mobile IDs), we rely on mobile app developers and oblige them contractually to pass on only legally obtained data. We do so to fulfill our obligations under the ePrivacy Directive. We may choose to obtain consent in other cases as well, in which case we will adhere to applicable laws relating to such consent and its withdrawal; 
+  * The processing is in our legitimate interest. In some cases, we rely on legitimate interest as a legal basis for processing Personal Data, in order to provide our and/or other data controllers’ services. Such processing goes beyond the original collection of Mobile IDs. A legitimate interest we rely on, for instance, is the tailoring of promotional communications within mobile apps and services, which is beneficial to End Users and is an integral part of the ecosystem by which freely available content is funded through advertising revenue. This also may include providing analysis of and reporting about ad campaigns. We also rely on legitimate interest when we use Personal Data to maintain the security of our services, such as to detect fraud or to ensure that bugs are detected and fixed; 
+  * Contractual relationships. Sometimes, we process certain data as necessary under a contractual relationship we have (such as our customer records and contact information); 
+  * Legal obligations. Finally, some processing of data may be necessary for us to comply with our legal or regulatory obligations. 
+
+
+
+### b. Transfers of Personal Data
+
+As Smaato works with global companies and technologies, we may need to transfer your Personal Data outside of the country from which it was originally provided. For instance, we may transfer your data to third parties that we work with who may be located in jurisdictions outside of the EEA, Switzerland, or the UK, and which have no data protection laws or laws that are less strict in comparison to those in Europe. 
+
+When we transfer Personal Data outside of the EEA, Switzerland, or the UK, we take steps to ensure appropriate safeguards are in place to protect your Personal Data. For example, Smaato is Privacy Shield certified, and thus self-certifies to protect Personal Data from the EEA, Switzerland, and the UK in accordance with established data privacy principles. You can learn more about Smaato’s Privacy Shield certification in Section 11 above, titled “Privacy Shield.” Please contact us at the contact information below for more information about the safeguards we have put in place to protect your Personal Data and privacy rights in these circumstances. 
+
+### c. Personal Data Retention
+
+As a general matter, we retain your Personal Data for as long as necessary to provide our Smaato Ad Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements. We generally render Mobile IDs inactive within 13 months, provided that we may retain them if we have a legal or significant operational need to do so, such as for auditing, corporate record-keeping, compliance accounting, or bug-fixes. 
+
+If you are a Client of ours and thus have an account with us, we will typically retain your Personal Data for a period of 3 years after you have requested that your account be closed, or such account has been inactive. 
+
+### d. Your Rights as a Data Subject
+
+The GDPR provides you with certain rights in respect to Personal Data that data controllers hold about you, including certain rights to access Personal Data, to request correction of the Personal Data, to request to restrict or delete Personal Data, and to object to our processing of your Personal Data (including profiling for online ad targeting). 
+
+  * Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e7e7c67786f6d774e7d636f6f7a61206d6163). When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access. We will then assess requests to exercise data access rights on a case-by-case basis; in doing so, we consider the difficulty of verifying whether a mobile identifier and data we have linked to it truly and solely belongs to the data subject making the request, as well as the potential adverse effects on disclosure of personal data to the wrong individual. Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available. Please note that we will only grant requests submitted via email for Personal Data for which we are a data controller, as explained further below. Where we act as a data processor for one of our Clients, we will refer your request to that Client. Please identify the Client your request refers to (if possible), to simplify this process. 
+  * Right to Correct: If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below. 
+  * Right to Object to Processing or to Withdraw Consent: By using the device-based “opt-out” signals described in Section 4(b) above, you may withdraw consent for processing on which we rely on consent. If you do so, we will cease processing your Personal Data for purposes of our services within 30 days or less. We either collect these opt-out signals ourselves or receive them from the mobile apps we work with. 
+  * Right to Erasure. You also have the right to obtain the erasure of Personal Data concerning you that we hold as a data controller. The above opt-out process satisfies this right. When an End User opts-out through device settings, and we receive this signal from our Clients, the Personal Data we use to provide our services will be deleted within 30 days (if you have an Android device) or permanently rendered disconnected to your device (if you have an iOS device). We will also manually delete your Personal Data, subject our identity verification process mentioned above, if you prefer that we do so; please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d2d2f342b3c3e241d2e303c3c2932733e3230) for further instructions on exercising this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal, or bug detection. We will retain your Personal Data for the period necessary to fulfill any important purposes that we have in retaining it, principally regarding legal, auditing, accounting, and billing obligations. 
+  * Right to Lodge Complaints. You have the right to lodge a complaint with a supervisory authority. However, we hope that you will first consult with us, so that we may work with you to resolve any complaint or concern you might have. 
+
+
+
+### e. Smaato as a Data Controller and a Data Processor
+
+EU data protection law makes a distinction between organizations that process Personal Data for their own purposes (known as “data controllers”) and organizations that process Personal Data on behalf of other organizations (known as “data processors”). If you have a question or complaint about how your Personal Data is handled, we encourage you to direct your inquiry to the relevant data controller, since data controllers hold primary responsibility for your Personal Data. 
+
+Smaato may act as either a data controller or a data processor in handling your Personal Data, depending on the precise circumstances. For instance, for Personal Data that we use internally and independently to create our own data tools and operate the Smaato Ad Services, and for Personal Data that we collect about our Clients, we are a data controller. But when we handle Personal Data strictly on behalf of our Clients or Partners in order to provide our services to them, we are a data processor. Thus, for instance, if you have questions about data that is used primarily by a mobile app on which our technology is embedded – or companies that serve ads that use our technology – you should contact those companies regarding questions about the Personal Data they handle and control. 
+
+### f. Questions or Concerns
+
+If you are a resident of the EEA, Switzerland, or the UK and have concerns regarding this Section 12, you may contact our data protection officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#18686a716e797b61586b7579796c77367b7775) or by post to the following address: 
+
+External Data Protection Officer  
+ePrivacy GmbH  
+represented by Prof. Dr. Christoph Bauer  
+Große Bleichen 21, 20354 Hamburg, Germany 
+
+## 13\. Changes to This Privacy Policy
 
 We may occasionally update this Policy to reflect changes to our privacy practices. The amended Policy will be displayed on the Smaato Websites. Please check our Policy regularly to ensure you have read the latest version and to stay informed of our privacy practices. Your continued access to and use of the Smaato Websites and Smaato Ad Services constitute your acknowledgement of this Policy and any updates. 
 
-## 13\. CONTACTING US
+## 14\. Contacting Us
 
-If you have any questions regarding this Policy, please contact us at [privacy@smaato.com](mailto:privacy@smaato.com) or: 
+If you have any general questions regarding this Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3747455e4156544e77445a565643581954585a) or mailing the following address: 
 
 Smaato, Inc.  
 240 Stockton Street, 10th Floor  
 San Francisco, CA 94108 
-
-+1 (650) 286-1198 (AMERICAS)  
-+49 (0)40 3480 9490 (EMEA)  
-+65 3157 1444 (APAC) 
