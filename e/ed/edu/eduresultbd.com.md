@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214002346id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629040445id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |eduresultbd.com
 
@@ -66,4 +66,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 eduresultbd@gmail.com
 
-This document was last updated on March 28, 2013
+This document was last updated on March January, 2018
