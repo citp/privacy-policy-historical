@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogerzoom.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617160636id_/http%3A//www.blogerzoom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogerzoom.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629073737id_/http%3A//www.blogerzoom.com/privacy.html) for the most accurate reproduction.*
 
 # Blogerzoom.com | Privacy Policy - Perfect Place For Advertising And Marketing, SEO Services, Badge Advertising, Link Exchange
 
