@@ -1,94 +1,315 @@
-> *The following text is extracted and transformed from the twit.tv privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909211939id_/https%3A//twit.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twit.tv privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629102822id_/https%3A//twit.tv/about/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-## INTRODUCTION
+## Introduction
 
-TWiT, LLC ("TWiT" or "TWiT.tv") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "TWiT Services"). By using TWiT Services, you agree to the terms and conditions of this Privacy Policy.
+Our Privacy Policy Explains what information we collect and why, how we use it, and how to review and update it.
 
-As set forth in our [Terms of Use](http://twit.tv/terms-use), the TWiT Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+Our Terms Of Use Describes the rules you agree to when using our services.
 
-This Privacy Policy applies to all users, including both those who use the TWiT Services without being registered with or subscribing to a TWiT Service and those who have registered with or subscribed to a TWiT Service. This Privacy Policy applies to TWiT's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally TWiT's practices for handling non-personal information (for example, interests, demographics and services usage).
+For our Terms of Use see <https://twit.tv/terms-use>
 
-## COLLECTION OF INFORMATION
+## Privacy Policy
 
-TWiT and our service providers collect the following information from and about you:
+Effective date: May 24, 2018
 
- **Registration Information** is the information you submit to register for a TWiT Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
+TWiT LLC ("us", "we", or "our") operates the [twit.tv](https://twit.tv/) website, related RSS feeds, media content and API (the "TWiT Core Services").
 
- **Public Information and Posts** consist of comments or content that you post to the TWiT Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our TWiT Core Services and the choices you have associated with that data. We minimize use of personal data to just the information necessary to provide and improve the TWiT Core Services. By using the TWiT Core Services, you agree to the collection and use of information in accordance with this policy.
 
- **Information from Social Media.** If you access or log-in to a TWiT Service through a social media service or connect a TWiT Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the TWiT Services through social media services or when you connect a TWiT Service to social media services, you are authorizing TWiT to collect, store, and use such information and content in accordance with this Privacy Policy.
+The TWiT Core Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 18 years of age.
 
- **Activity Information.** When you access and interact with the TWiT Services, we may collect certain information about those visits. For example, in order to permit your connection to the TWiT Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the TWiT Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser "Do Not Track" signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
+Additionally, TWiT LLC operates the TWiT IRC ([irc.twit.tv](http://irc.twit.tv/)), TWiT Wiki ([wiki.twit.tv](http://wiki.twit.tv/)) and TWiT Newsletter ([twit.tv/newsletter](https://twit.tv/newsletter)), (the “TWiT Optional Services”)
 
-Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the TWiT Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. If TWiT wishes to combine your personal information with information we obtain through these technologies in order to determine what messages TWiT provides to you, we will obtain your express affirmative consent.
+This page also informs you of our policies regarding the collection, use, and disclosure of personal data when you use our TWiT Optional Services and the choices you have associated with that data.
 
-Third parties that support the TWiT Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate TWiT Services usage statistics, may also use these technologies to collect similar information. TWiT does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
+By using the TWiT Optional Services, you agree to the collection and use of additional information in accordance with this policy. Collectively, these two services are known as “The TWiT Services”.
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe's website, see [http://www.adobe.com/devnet/security.html​](http://www.adobe.com/devnet/security.html). Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the TWiT Services.
+## Definitions
 
-Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our TWiT Affiliates or business partners.
+ **TWiT Core Services**
 
-## USE AND DISCLOSURE
+TWiT Core Services means the twit.tv website, related RSS feeds, media content and API operated by TWiT LLC.
 
-We use the information we collect from and about you to provide the TWiT Services and features to you, including: to measure and improve those TWiT Services and features; to improve your experience with both online and off-line TWiT Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content and to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
+ **TWiT Optional Services**
 
-We use the information we collect from and about you for these additional purposes:
+TWiT Optional Services means the TWiT IRC ([irc.twit.tv](http://irc.twit.tv/)), TWiT Wiki ([wiki.twit.tv](http://wiki.twit.tv/)) and TWiT Newsletter ([twit.tv/newsletter](https://twit.tv/newsletter)), (the “TWiT Optional Services”), operated by TWiT LLC.
 
- **To allow service providers to assist us in providing and managing the TWiT Services.** TWiT may make your information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the TWiT Services.
+ **The TWiT Services**
 
- **To allow social sharing functionality.** If you log in with or connect a social media service account with TWiT Services, we may share your user name, picture, and likes, as well as your activities and comments with other TWiT Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your TWiT Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your TWiT Services account and do not participate in social sharing on TWiT Services.
+The TWiT Services means the combined “TWiT Core Services” and “TWiT Optional Services” as listed above and will be used below when applicable to both services for clarity.
 
- **To deliver relevant advertisements.** TWiT and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the TWiT Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to opt-out of such advertising networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). TWiT adheres to the Digital Advertising Alliance's Self-Regulatory Principles.
+ **TWiT Social Media**
 
- **To contact you.** TWiT may periodically send promotional materials or notifications related to the TWiT Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the TWiT Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+TWiT Social Media means the combined and various official social media accounts on platforms such as Facebook, Twitter, YouTube, Google+, Instagram, etc.
 
- **To share with our TWiT Affiliates.** TWiT may share your information with TWiT Affiliates for the purposes described in this Privacy Policy. Users who visit Affiliated Companies' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
+ **Personal Data**
 
- **To share with business partners.** TWiT may share your information with business partners to permit them to send you marketing communications consistent with your choices.
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-To protect the rights of TWiT and others. There may be instances when TWiT may disclose your information, including situations where TWiT has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of TWiT, our TWiT Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the TWiT Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
+ **Usage Data**
 
- **To complete a merger or sale of assets.** If TWiT sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, TWiT may transfer your information to the party or parties involved in the transaction as part of that transaction.
+Usage Data is data collected automatically either generated by the use of The TWiT Services or from The TWiT Services infrastructure itself (for example, the duration of a page visit or an IP address).
 
-## SECURITY
+ **Cookies**
 
-TWiT uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification.
+Cookies are small pieces of tracking data stored on your device (computer or mobile device).
 
-## USER ACCESS AND CONTROL
+ **Data Controller**
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
+ **Data Processors (or Service Providers)**
 
- **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the unsubscribe instructions in the email.
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively or provide our services.
 
- **Cancelling your account.** To cancel your account, email [info@twit.tv](mailto:info@twit.tv?subject=Delete%20My%20Account), subject, "Delete My Account" and include the email address that you registered your account with (if different from the email address you're sending the email from). Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances - where, for example, you have shared information with a third-party application or web site. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
+ **Data Subject (or User)**
 
-## OTHER IMPORTANT INFORMATION
+Data Subject is any living individual who is using The TWiT Services and is the subject of Personal Data.
 
- **Updates to Privacy Policy.** TWiT may modify this Privacy Policy. This Privacy Policy was last revised on Dec. 19, 2014. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the TWiT Services. If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information.
+## Information Collection and Use
 
- **Location of Data.** The TWiT Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+We collect several different types of information for various purposes to provide and improve The TWiT Services to you.
 
- **Linked Services.** The TWiT Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. TWiT is not responsible for the privacy practices of unaffiliated companies, and once you leave the TWiT Services or click an advertisement you should check the applicable privacy policy of the other service.
+### Types of Data Collected
 
- **Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+ **Personal Data**
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+While using The TWiT Core Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
- **Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the TWiT Services or otherwise.
+  * Cookies and Usage Data
 
-## CONTACT US
 
-If you have questions about this Privacy Policy, please contact us at:
 
-Email: [info@twit.tv](mailto:info@twit.tv)
+Additionally, while using TWiT Optional Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Mail:
+  * E-Mail Address
+  * Social Media Username and related Data when interacting with TWiT Social Media
+  * IRC Username
+  * Full Name
 
-TWiT LLC  
-PO Box 1018  
-Petaluma, CA 94953  
-Attention: Legal Department
+
+
+ **Usage Data**
+
+We may also collect information how The TWiT Services is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of The TWiT Services that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+We do not try to identify individuals or otherwise collect Identifiable Information from IP addresses or web log information. IP addresses and web log information are used by TWiT LLC to, among other things, administer the Site, help diagnose technical problems, to track and analyze aggregate data associated with the Site, to design this Site and identify popular features.
+
+We may aggregate IP addresses and/or web log information, and may store, analyze, manipulate, display, disclose, distribute, retain and otherwise use such non personally identifiable information. We may also provide IP addresses and/or web log information to law enforcement agencies if someone tries to damage The TWiT Services or use them in an unauthorized or illegal way.
+
+ **Tracking Cookies Data**
+
+We use cookies and similar tracking technologies to track the activity on The TWiT Services and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze The TWiT Services.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of The TWiT Services.
+
+Examples of Cookies we use:
+
+  *  **Session Cookies.** We use Session Cookies to operate The TWiT Services.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
+  *  **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+TWiT LLC uses the collected data for various purposes:
+
+  * To provide and maintain The TWiT Services
+  * To provide support for The TWiT Services
+  * To gather analysis or valuable information so that we can improve The TWiT Services
+  * To monitor the usage and security of The TWiT Services
+  * To detect, prevent and address technical issues
+
+
+
+We also use the collected data to deliver relevant ads to you when you use The TWiT Services. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to opt-out of such advertising networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). TWiT adheres to the Digital Advertising Alliance's Self-Regulatory Principles.
+
+If you are a user of the TWiT Optional Services, TWiT may periodically send promotional materials or notifications on the “TWiT Social Media” social media accounts. If you want to stop receiving promotional materials, you can follow the unfollow or unsubscribe instructions in the relevant social media services. We do not store the content posted on these services. For privacy policies and terms of use, refer to the relating social media service in question.
+
+If you have subscribed to the TWiT Newsletter service, you can follow the unsubscribe instructions at the bottom of each email. If you have signed up as a contributor for the TWiT Wiki, you may delete your account or contact us to have it deleted.
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), TWiT LLC’s legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+TWiT LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * To comply with the law
+
+
+
+We may engage with third party hosting and content providers who act as our Data Processors under the GDPR and provide us sufficient guarantees to implement appropriate technical and organizational measures that their processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.
+
+## Retention of Data
+
+TWiT LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+TWiT LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of The TWiT Services, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+TWiT LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+ **Business Transaction**
+
+If TWiT LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+ **Disclosure for Law Enforcement**
+
+Under certain circumstances, TWiT LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+ **Legal Requirements**
+
+TWiT LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of TWiT LLC or their Employees
+  * To prevent or investigate possible wrongdoing in connection with the TWiT Services
+  * To protect the personal safety of users of the TWiT Services or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. TWiT LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+In certain circumstances, you have the following data protection rights:
+
+  *  **The right to access, update or to delete the information we have on you.** As we do not provide user accounts or profiles with the TWiT Core Services, you can only access, update or request deletion of your Personal Data by contacting us to assist you. If you are a user of the TWiT Optional Services you may delete your account or unsubscribe from the services, or contact us to assist you.
+  *  **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  *  **The right to object.** You have the right to object to our processing of your Personal Data.
+  *  **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  *  **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  *  **The right to withdraw consent.** You also have the right to withdraw your consent at any time where TWiT LLC relied on your consent to process your personal information.
+
+
+
+Please note that we do not attempt to tie IP address information to individual users as part of our processing of Usage Data for the TWiT Services.
+
+You may be required to provide proof of ownership of an IP address from the relevant ISP at each time of use for each removal if you wish us to remove IP address information from our records. This is to protect the privacy of other users information as IP addresses can be shared by multiple users.
+
+However, IP address data is only collected for as long as necessary for the security of the TWiT Services and access to the IP information is restricted to the appropriate administrators and service providers.
+
+Please note that we may require you to verify your identity via postal mail for your data security and protection. Valid, identified requests will be responded to within the 30 day requirements of the GDPR upon receipt of the request. Contact privacy@twit.tv for more information.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate The TWiT Services ("Service Providers"), to provide the TWiT Services on our behalf, to perform Service-related services or to assist us in analyzing how The TWiT Services are used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of The TWiT Services.
+
+ **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of The TWiT Services. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the TWiT Services available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain The TWiT Services.
+
+ **DoubleClick for Publishers**
+
+DoubleClick for Publishers is an advertising service provided by Google.
+
+For more information about DoubleClick for Publishers, please visit their Privacy Policy: <https://www.google.com/doubleclick/publishers/small-business/terms.html>
+
+### Newsletter
+
+As a part of the TWiT Optional Services, and with your opt-in consent, we may use third-party Service Providers to send email newsletters and track the interaction with them to provide you with the newsletter.
+
+ **MailChimp**
+
+MailChimp is a newsletter service provided by The Rocket Science Group LLC.
+
+For more information about MailChimp, please visit their Privacy Policy: <https://mailchimp.com/legal/privacy/>
+
+### Behavioral Remarketing
+
+TWiT LLC uses remarketing services to advertise on third party websites to you after you visited The TWiT Services. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to The TWiT Services.
+
+ **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+**Twitter**
+
+Twitter remarketing service is provided by Twitter Inc.
+
+You can opt-out from Twitter's interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
+
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+
+**Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+## Links to Other Sites
+
+The TWiT Services may contain links to other sites or applications that are not operated by us, including fan created content and applications not controlled by TWiT LLC. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site and application you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+We do not knowingly collect or request personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we will take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via a prominent notice on the TWiT.tv home page and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By mail: TWiT LLC, Attn: Legal Department, 1351-B Redwood Way, Petaluma, CA 94954, United States
+  * By email: privacy@twit.tv
+
+
