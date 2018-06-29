@@ -1,102 +1,173 @@
-> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119145424id_/https%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629085057id_/https%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Asian Correspondent
 
-**Consumer Privacy at Asian Correspondent, a Hybrid News Limited venture**
+Last update 11th May 2018
 
-At Asian Correspondent we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will store and use this information.
 
-Asian Correspondent is a Hybrid News Limited venture. For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/)
+Hybrid News Limited is the principle company and the Data Controller in the Hybrid Group of brands.
 
-At Hybrid News Limited, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites.
+We create and distribute more compelling media content across influential digital brands for our audiences. This is defined as our Legitimate Business Interest. We process your personal data to help you make informative decisions when selecting learning, software and travel providers. We do that by:
 
-We may collect information that can identify you (”personal information”), such as your name and e-mail address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other Hybrid News Limited businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
-
-We also may collect other types of information in the following ways when you visit our website:
-
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
-  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
-  * We may use standard Internet tools, such Google Analytics, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+  * Providing extensive sector information
+  * Recommending things we think you’ll like, such as hotels or learning providers
+  * Dealing with any requests you make or content you submit
+  * Getting in touch if we need to tell you about something, like a change to our policies or issues with our service
+  * Monitoring usage and performance in order to improve the services we offer.
 
 
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
+This privacy notice applies to all our website and app users whether registered or not, including people responding to surveys and writing reviews.
 
-We may allow third-party advertising companies or ad networks to display advertisements on our websites.
+Keeping your information safe and private is very important to us. All our services are designed with privacy and security in mind.
 
-  * We do not provide any personal information to these companies.
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+**Collecting and using your personal data**
 
+You can browse our websites without providing any personal information. However, to use some of our enhanced functionality will sometimes ask for additional information in order to process your request. For example:
 
-
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
-
-We may use information to:
-
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Customize the advertising and content that you see on our website;
-  * Facilitate use of our website;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our website, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce our Terms of Use.
+  * Providing your name, email, and contact details to request a prospectus or make an enquiry to an education and technology provider.
 
 
 
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+The details we request for each piece of enhanced functionality will depend on what is required to perform the action. For example:
 
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+  * If we need to contact you by email, we will request your email address.
+  * If you are making a payment to Hybrid News Limited, you will be asked for you card and billing details.
 
 
 
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
+Details of why we collect each piece of information is displayed clearly next to the field used to enter the data.
 
-You may choose:
+A full list of the data collected by each website is available on the site-specific data collection notice.
 
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the contact address at the bottom of this policy.
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
-  * To review and update your personal information by contacting us at the e-mail address below or, if you have an online account on our website, by logging into that account.
+We also collect some technical information while you use our websites. For example, information on the type of browser you use and your IP address. This information is used to maintain and monitor the performance of our websites.
+
+**Cookies**
+
+We use cookies on our websites to provide login and preferences functions, and to collect anonymised data on user interactions. For example, we use cookies to:
+
+  * Understand and save your user preferences for future personalised experience and to allow us to deliver the type of content and products in which you are most interested.
+
+
+  * Compile anonymised data about site traffic and site interactions in order to offer better site experiences and tools in the future. We use tools such as Google Analytics to do this.
+  * To provide targeted content and advertising based on your preferences and previous interactions. We work with third-party companies to provide targeted advertising. Personal data is not shared with these companies. Further details of the companies we work with are available within our Cookie Policy.
 
 
 
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration or disclosure.
+Personal information is never held on any of our first-party cookies.
 
-**Changes to our Privacy Policy**
+You can choose to have your computer block some or all cookies for you. You do this through your browser settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+If you disable cookies, some advanced features will be disabled and some of our services may not function as intended.
 
-**How to contact us**
+You can read more about how we use cookies on our [Cookie Policy](http://asiancorrespondent.com/cookie-policy).
 
-If you have any questions about this summary or our information practices, please contact us by email or postal mail below:
+**Anonymised analytics and insights**
 
-Content Manager
+Occasionally, we will ask for additional information to help us monitor the reach and effectiveness of our services. For example, when creating an account, we may ask for your country of residence or postcode. This data will only ever be used in an anonymised format to help us demonstrate the effectiveness and improve the products and services we offer.
+
+We use Google Analytics to log review aggregated use data across all of our websites. No personal data is shared with Google Analytics.
+
+**Geographical data and geotargeting**
+
+As with all websites, your IP address is sent to us each time a webpage is viewed. For some functionality we use this, along with geo-location information provided by your browser to provide location-specific content within our websites and apps. Your IP address and location information is stored anonymously, and not associated with any other personal details. You can stop sharing this information by changing your browser settings.
+
+**Mobile app specific settings**
+
+We offer push notifications, location based services, and targeting advertising through our apps. When you first use one of our apps, you will be asked whether or not you want to turn-on these services. You can opt-out of these services at any time using the changing the permissions through your device settings.
+
+**Storing your data**
+
+The personal data you provide is stored in a secure hosting environment based in the UK. We employ a range of technology and procedures to ensure that this data is secure, including encryption, anti-virus and anti-malware software, intrusion detection, data usage policies, and mandatory security and privacy staff training.
+
+**How long will you keep my information for?**
+
+We will keep your data for as long as we are required to, either:
+
+  * By law, for example to meet financial regulations relating to payments
+  * For as long as we require the data to provide a service to you. For example, we will retain your email address for as long as you are subscribed to one of our newsletters.
+
+
+
+Personal data is deleted in accordance with our internal retention policy. All identifiable personal data is deleted five years following your last interaction with this website.
+
+**Your rights**
+
+**Reviewing and updating your data**
+
+You can update the information we store on your behalf by requesting a data update by contacting the Hybrid Privacy Manager.
+
+In line with the GDPR regulations, you have the following rights:
+
+**The right to be informed**
+
+You have the right to be informed why and how we collect your personal data, how we will use this information, who we share it with, what are the security measures we take to protect this information and what are you are your individual rights. We will publish this information in this Privacy Notice.
+
+**The right of access**
+
+You have the right to access the information we hold for you by contacting the Hybrid Privacy Manager. If you need further information, you can make a Subject Access Request by contacting the Hybrid Privacy Manager.
+
+**The right to rectification**
+
+You have the right for inaccurate or incomplete data we hold to be updated. You can make a request to have your data updated through the Hybrid Privacy Manager.
+
+**The right to erasure**
+
+You have the right to be forgotten at any point by contacting the Privacy Manager or emailing [dpo@Hybrid.co](mailto:dpo@Hybrid.co). At your request, we will remove all the data we have for you which we are not required legally to retain.
+
+**The right to restrict processing**
+
+You have the right to restrict processing when you have exercised one of the above right and it may take some time to process that request. For example: when you contact us to update your details you have the right to request restriction until your details are updated.
+
+**Right to withdraw consent**
+
+For the processing activities where we have asked you for consent, you have the right to withdraw this consent at any point by clicking on the unsubscribe link in any email we send you, or contacting the Privacy Manager.
+
+**The right to object**
+
+You can object to the processing of your personal data at any point by contacting the Privacy Manager. There may be instances where we may not be able to fulfil those requests, but we will provide you with explanation when replying back to you.
+
+**Right to not be subject to automated decisions and profiling**
+
+None of our processing activities are purely automated. There are instances where we process data to analyse or predict behaviour but we will ask you for explicit consent when this processing will involve your personal data.
+
+**Right to data portability**
+
+If you have provided us with your personal data with consent or under the contact obligations, you have the right to request the data you have provided to us in a machine-readable format should you decide to move to another data controller.
+
+**Sharing your data with partners**
+
+We work with a range of providers that advertise products on our platforms and have agreements and procedures in place to ensure your personal data is protected through the service you receive from us.
+
+Your personal data will only be shared with the providers you have chosen to engage with via our websites. For example, when you make an enquiry or a request to a provider, your details relating to that enquiry will be provided to the provider so that they may answer your enquiry directly.
+
+We also provide anonymised site usage data to providers to enable them to monitor conversions from users who use our websites.
+
+We have data sharing agreements in place with these providers to make sure they apply security operational and technical measures when processing your personal information.
+
+In the future, if Hybrid may be sold, acquired, or merged with another business. Under these circumstances, we may share the personal data we hold with the parties involved.
+
+**Links to other websites**
+
+On our website there are lots of links to providers websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
+
+**Changes to Hybrid Privacy Notice details**
+
+The date of the most recent version will appear on the top of the page. From time to time we may be updating this Privacy Notice, please review it each time you are to submit personal information. If we make any significant changes to this notice we will send you an email informing you of these amendments. If you do not agree with these changes please do not use our websites to provide personal information.
+
+**Further questions**
+
+If you have any question regarding your personal data, please contact the Privacy Manager at the address below:
+
+Privacy Manager
 
 Hybrid News Limited  
-Colston Tower  
-Colston St,  
-Bristol, United Kingdom  
+Colston Tower, Level 9  
+Colston Street  
+Bristol  
 BS1 4UX
 
-Phone:  +44 (0) 1172443750  
-Company No:  06993551
+dpo@hybrid.co
 
-**Cookies:**
-
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
-
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID on www.asiancorrespondent.com and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
-
-You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
-
-We may allow third-parties, including IAC companies, advertising companies and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness.
-
-**Web Beacons:**
-
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in e-mail) and are about the size of the period at the end of this sentence.
-
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website
+If you feel we have been intrusive to your privacy or misused your data you have the right to complain to the ICO https://ico.org.uk/for-the-public/raising-concerns/
