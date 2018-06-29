@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415143027id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629055048id_/https%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
 
 # Souq.com | Privacy policy
+
+  *   * [](https://uae.souq.com/ae-en/)
+
+
+
+**Let us wish you a happy birthday!**
+
+**Date of Birth**
+
+Please fill in a complete birthday Enter a valid birthday
+
+_×_
 
 **Introduction**
 
