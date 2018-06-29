@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228142121id_/http%3A//www.stonybrook.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184501id_/http%3A//www.stonybrook.edu/sb/privacy) for the most accurate reproduction.*
 
 # Stony Brook University, New York | Privacy Policy
 
@@ -57,7 +57,7 @@ Any _user_ may submit a request to Stony Brook University's records access offic
 > 291 Administration Building  
 >  Stony Brook, New York 11794-1308  
 > E-Mail: [RecordsAccessOfficer@ stonybrook.edu  
-> ](mailto:RecordsAccessOfficer@stonybrook.edu)[http://www.stonybrook.edu/comm cms/audit/freedom.html](http://www.stonybrook.edu/commcms/audit/freedom.html)
+> ](mailto:RecordsAccessOfficer@stonybrook.edu)[https://www.stonybrook.edu/comm cms/audit/freedom.html](http://www.stonybrook.edu/commcms/audit/freedom.html)
 
 The records access officer shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefor; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment. 
 
