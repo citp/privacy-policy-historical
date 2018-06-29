@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the puupnewsapp.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128095853id_/http%3A//www.puupnewsapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puupnewsapp.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630004209id_/http%3A//www.puupnewsapp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – puupnews.com
-
-.
+# Privacy Policy – puupnewsapp
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:info@www.puupnewsappapp.com).
 
@@ -63,3 +61,6 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Tuesday, December 20th, 2016.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+Advertising   
+
