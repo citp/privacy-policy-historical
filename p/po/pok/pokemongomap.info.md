@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the pokemongomap.info privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209115914id_/http%3A//www.pokemongomap.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongomap.info privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629161514id_/http%3A//www.pokemongomap.info/privacy.html) for the most accurate reproduction.*
 
 # PokemonGoMap.Info - Privacy Policy
 
 Privacy Policy for Pokemon Go Map  
-Last Updated August 28th, 2016
+Last Updated May 25th, 2018
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [hello@cyansub.com](mailto:hello@cyansub.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by PM through [Reddit](https://www.reddit.com/message/compose/?to=PokemonGoMap).
 
 At pokemongomap.info we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information collected and recorded by pokemongomap.info and how we use it. 
+
+[Google's use of your information](https://policies.google.com/technologies/partner-sites)
 
 **Log Files**  
 Like many other Web sites, pokemongomap.info makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
@@ -40,4 +42,4 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms. You also consent to the usage of cookies. 
 
 **Update**  
-This Privacy Policy was last updated on: Sunday, August 28th, 2016. 
+This Privacy Policy was last updated on: May 25th, 2018. 
