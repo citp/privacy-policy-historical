@@ -1,141 +1,244 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120084521id_/https%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629163404id_/https%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | The O2
 
-Who We are  
-This Website (http://www.theo2.co.uk) (the “Site”) is provided by (i) Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd), a company registered in England and Wales with a registered office at: The O2, London SE10 0DX (Data Protection Registration Number Z8689382) (“AEG” / “We” / “Us” / “Our”).
+**Privacy Policy**
 
-We are a subsidiary of Anschutz Entertainment Group, Inc. This Site is one of several sites relating to and/or operated by the sports and live entertainment venues and properties owned and/or operated by Anschutz Entertainment Group, Inc and its subsidiaries (the “AEG Group”).
+**Introduction**
 
-AEG is committed to protecting Your privacy. The purpose of this Privacy Policy is to explain how We may use any data We collect about You (“You” / “Your”), how You can instruct Us if You prefer to limit the use of that data and for Us to tell You about the policies and procedures that We have in place to safeguard Your privacy.
+The O2 is committed to respecting your privacy. The purpose of this Privacy Policy is to explain how we will use any personal data we collect about you, the rights you have over any personal data we hold about you, and to tell you about the policies and procedures that we have in place to respect your privacy and keep your personal data secure.
 
-Summary  
-When You buy tickets for events or attractions at The O2 or sign up to one of Our newsletters or other services, We will use Your personal information to provide You with the service You have requested. We may share Your information with any event sponsor or promoter.
+This Privacy Policy applies to you if you visit The O2, purchase a ticket for an event or service at The O2, or use our products or services at The O2, over the phone, online, through our mobile applications or otherwise by using any of our websites or interacting with us on social media (our “ **Services** ”).
 
-We will also use Your personal information for market research, to analyse site usage and Our customer base. We will share Your personal information with other companies in the AEG group who are also subject to this privacy policy.
+**Who are we?**
 
-If You have consented:
+The O2 is one of the sports and live entertainment venues and properties owned and/or operated by Anschutz Entertainment Group, Inc. and its subsidiaries (“ **Our Group** ”).
 
-We and other companies in the AEG Group will use Your information for marketing or promotional purposes;  
-We will share Your information with other trusted third parties, for example the artists or promoters We work with, so that they can use Your information for marketing, promotions and related purposes.  
-Some of these organisations may be situated in countries outside the European Economic Area. If We transfer Your data to these countries We will take steps to ensure Your information is appropriately protected. By submitting Your information to us, You consent to this transfer of Your data.
+References to The O2 include (without limitation) The O2 arena, indigo at The O2, Up at The O2, Icon at The O2, the Quadrant and Building Six, which are operated by the following companies in Our Group:
 
-When You use this Website We may track data about how You navigate the Site to analyse Site usage, to manage the Site, and to report aggregate information to Our advertisers and sponsors.
+  * Anschutz Sports Holdings Limited
+  * Ansco Arena Limited
+  * Ansco Events Limited
+  * Ansco Management Limited
+  * Ansco Music Club Limited
+  * Ansco Piazza Building 1 Limited
+  * Ansco Roofwalk Limited
+  * Ansco Services Limited
+  * The Waterfront Limited Partnership
 
-We reserve the right to use Your information for other purposes set out in this privacy policy, for example to respond to legal requests, or to transfer Your data to a purchaser of Our business.
 
-If You would like to learn more about Our data collection policies and practices, please read the following.
 
-Your data  
-When do We collect Your data?  
-How We use Your data?  
-Disclosure of Your data to third parties and overseas transfers of Your data  
-How do We protect Your data?  
-Links to other Websites  
-Notification of changes to the Privacy Policy  
-Unsubscribing and amending Your data  
-Contact Us
+**Our contact details**
 
-Your data  
-“Your data” means any data about You from which You can be identified such as Your name, address, telephone number, email address, financial details or other data which You may disclose to Us via the Site at any time.
+If you have any comments or questions about this Privacy Policy or our data processing practices, please address them to us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk) or address the letter for the attention of our Data Protection Officer, who can be contacted at AEG Europe, Almack House, 28 King Street, London SW1Y 6QW.
 
-When do We collect Your data?
+**The categories of personal data we collect and use**
 
-We collect Your data which You submit to Us when signing up for services provided on the Site. We may combine this with data which You have submitted to other companies within the AEG Group, or with demographic and other information from other sources. We also collect Your information automatically when You enter and use this Site. Automatic data collection is explained in more detail here
+The categories of personal data we collect and use include:
 
-General Data Collection  
-IP addresses and click-stream data
+  * name;
+  * address;
+  * email address;
+  * telephone number;
+  * gender;
+  * date of birth, age and/or age range;
+  * information about any device you have used to access our Services or the websites or mobile applications of other companies in Our Group or the websites of AXS Europe Limited (axs.com) or the O2 Wifi service at The O2 (such as your device’s make and model, device identifier, operating system, browser, MAC address or IP address);
+  * information about the pages or sections you have visited on the websites or mobile applications provided by us, the other companies in Our Group or by AXS Europe Limited, including the pages or sections you visited, the website or mobile application you were referred from, and when you visited or used them;
+  * information about the Services we provide to you (including for example, what we have provided to you, when and where and, if applicable, how much you paid);
+  * information about transactions you make with other companies for events and services at The O2 (including for example, what they have provided to you, when and where and, if applicable, how much you paid);
+  * bank account details, payment card information, and information from credit reference agencies;
+  * location data (for example, if you use Wi-Fi at The O2 or our mobile applications, we will record the dates and times you visited The O2 and which parts of The O2 you visited);
+  * your account login details, including your user name and password;
+  * information you provide to us with when you contact us by phone, email, post, or when you communicate with us via social media;
+  * information you provide to us about your health (for example when you are buying tickets for wheelchair accessible spaces, when you request a sign language interpreter, or when we are investigating an accident which may have happened at The O2);
+  * your vehicle registration number (when you use our car parks or access The O2 back of house areas in a vehicle);
+  * CCTV images when you visit The O2 and areas adjacent to The O2;
+  * information about electronic communications you receive from us, including whether that communication has been opened and if you have clicked on any links within that communication;
+  * answers you provide when you respond to competitions, votes and surveys;
+  * your identity, public profile, follows and likes from a social network such as Facebook (this may include your employment or education information if you include it in your public profile);
+  * information from specialist market research companies who provide us with additional personal data about you and your household such as income, number of children, occupation, social grade, home ownership status, the products and services you use or intend to use or purchase, and your interests; and
+  * other personal data which you may disclose to us when you use our Services at any time.
 
-An IP address is a number which is automatically assigned to Your computer whenever You access the Internet. When You access Our Site, We log Your IP address and can identify You from it. Click-stream data is information collected by Us when You navigate the Site, for example the specific Web pages You looked at, the order You looked at them and the time of Your visit. This data helps Us analyse how visitors arrive at the Site and what content is most popular and We may use it for administration purposes or to report aggregate information to Our advertisers, sponsors and event promoters. We collect this information using cookies. You can read more about how cookies work in Our cookies policy. Our Site pages also contain electronic images known as web beacons which are used along with cookies to compile aggregated statistics to analyse how Our Site is used. Web beacons may also be used in some of our emails to let us know which emails and links have been opened by recipients.
 
-Optional and Future Services  
-There are several optional services which You may choose to sign up to. The information required will vary for each service which is offered. This section explains the information We collect for each service, and how We may use it. These uses are in addition to the uses described in sections 7 and 8 of this privacy policy.
 
-Registration
+**Sources of personal data**
 
-You may be asked to fill out a registration form with Your data and/or to choose a user ID and password in order to take advantage of certain features the Site may have to offer. If you register with the site, your information and information related to purchases you make on any of our Sites will be aggregated and maintained as part of your profile and may be accessed or used by us.
+We will receive your personal data when you provide them to us yourself or when you use or purchase one or more of our Services.
 
-Newsletters, emails and alerts
+We also receive personal data about you from third parties. Third parties who provide us with personal data about you include:
 
-You may sign up to receive a newsletter or other alerts either by choosing to register for one or in conjunction with a special feature or membership for which You have registered. When You sign up, We will ask You if You would like to receive information about other companies in Our group or about Our business partners, advertisers or sponsors. If You agree, We may share Your information with them. You can cancel Your subscription to newsletters, Site emails and alerts by contacting Us via the email address which You will normally find at the bottom of the newsletter or email in question.
+  * ticket agents such as AXS, Ticketmaster and others,who transfer personal data to us when you purchase a ticket from them for an event at The O2;
+  * specialist market research companies, who provide us with additional personal data about you and your household;
+  * Facebook Inc., who, if you have consented, transfer personal data to us when you register for one of our Services using your Facebook account; and
+  * Telefónica UK Limited, who, if you have consented, transfer personal data to us when you use the O2 Wifi service at The O2.
 
-Remember, if you consent to receive texts from us, your mobile network may impose a charge on incoming texts. Please check with your mobile network provider for details.
 
-Competitions
 
-We sometimes operate competitions through the Site which may require registration. The data You provide Us with may be used to notify You that You have won, to confirm delivery of a prize or for other related purposes. On occasion, We may publicly post some of Your data on the Site, (for example acceptance of a prize may also require you (unless prohibited by law) to allow us to post publically some of your information on the Site, such as on a winners page). However, We will not post Your data on the Site without Your express consent.
+We will combine any personal data about you that we receive from you, from other companies in Our Group, and from third parties.
 
-In some instances, a third party may operate or host a competition on the Site, and collect Your data. In those cases, where We are not the operator or host of the contest or sweepstake, We have no control over the data collected and accordingly urge You to review the third party’s privacy policy before participating.
+**How we use your personal data**
 
-Surveys or voting
+All personal data that we obtain about you will be used in accordance with current data protection law and this Privacy Policy. We, or third party data processors acting on our behalf, will process your personal data as follows:
 
-From time-to-time We may request data from You via surveys or voting polls made available on or through the Site. Participation is voluntary but may involve disclosure of Your data. Each survey or voting poll will explain how such data is used.
+  * As necessary, to **perform a contract with you** , such as a contract to process an order from you for one or more of our Services including, where applicable, taking payment and carrying out fulfilment and delivery.
+  
 
-Transaction information
+  * As necessary, to **comply with a legal obligation** , for the following purposes: 
+    * where you exercise your rights under data protection law and make requests; and
+    * to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity.
+  
 
-We may offer products for sale, or offer subscriptions for services. If You order any information from Our Site, buy any of Our products or subscribe for any other services offered on Our Site, We will ask You to complete an order form that will request certain information from You, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that You have requested, i.e., to deliver the information, products or other services that You order, and to invoice You. Such information is collected and stored through encrypted means for Your protection. We only share financial information with service providers where necessary for fulfilment of your order.
+  * As necessary, for our **legitimate interests** in providing the Services and ensuring they operate safely, securely and in a commercially suitable way which is tailored to your use and interests, for the following purposes: 
+    * to provide you with the Services;
+    * to verify your identity for security purposes;
+    * to help us to ensure our customers are genuine and to prevent fraud;
+    * to ensure the security of our websites, mobile applications and other technology systems;
+    * for the good governance of our business, including keeping financial records, to allow us to pay suppliers and to charge, invoice or refund customers;
+    * to search credit reference agencies before we provide you with credit;
+    * by using CCTV, to prevent and detect crime and to keep people who visit and work at The O2 safe and secure;
+    * to record and investigate health and safety and other incidents which have happened or may have happened at The O2;
+    * by using CCTV, to count the numbers of people who visit The O2 and to analyse flows of people around the building for safety and commercial purposes (we do this using software which analyses CCTV camera images);
+    * to manage access to specific areas of The O2 (for example, we will use lists of people and/or vehicles to allow us to manage access to backstage or VIP areas);
+    * to provide you with information about our Services, to contact you about administrative matters, and to manage and respond to any queries or complaints you make or any correspondence you send us;
+    * to help us to return lost property to its rightful owner;
+    * to process your competition entries and your survey or voting information;
+    * for the purpose of marketing our Services and goods and services from other companies, including sending marketing communications and, where applicable, processing your registration, creating custom marketing audiences on third-party websites such as Facebook, and profiling and automated decision-making relating to our marketing;
+    * to “geo-fence” marketing so that you receive marketing communications or see advertisements which are relevant to your location;
+    * to operate competitions, including notifying you if you have won, to confirm delivery of a prize or for other related purposes; and
+    * for market research and statistical analysis and to analyse the use of our Services so that we can improve them.
+  
 
-Fantasy Games
+  * Based on **your consent** , for the following purposes: 
+    * to send you marketing communications.
+  
 
-We may offer fantasy games in connection with the Site. If You register to play such fantasy games, You may be asked to provide personal information. Each game will explain how such data is used.
+  * Based on **your explicit consent** , when you provide us with personal data about your health, for the following purposes: 
+    * to provide you with tailored services (for example, a wheelchair accessible space or a sign language interpreter); and
+    * to help us investigate an incident which may have taken place at The O2.
 
-Chat Rooms, Forums and Message Boards
 
-We may make message boards available to Our users. You are not required to provide any personal information when using these areas but You may choose to do so. If You post personal information online, it will be publicly available and You may receive unsolicited messages from other parties. AEG cannot ensure the security of any information You choose to make public on a message board. In addition, We cannot ensure that parties who have access to such publicly available information will respect Your privacy. Please exercise caution when deciding to disclose personal information in this area.
 
-Social Networks
+If you win a competition, we may publicly post some of your data on our website or mobile application (for example acceptance of a prize may also require you (unless prohibited by law) to allow us to post publically some of your personal data such as on a winners page). However, we will not post your data publically without your express consent.
 
-We may ask you to share information about you stored on social networks and other third-party services in order to personalise your experience on the Site. You may choose not to provide this information.
+We will collect and aggregate on an anonymous basis information about you, your spending and use of our Services with information about other users of the Services in order to identify trends (“ **Aggregated Data** ”). We may pass Aggregated Data to the third parties referred to in the section below, such as partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.
 
-Our Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**Sharing your personal data**
 
-You can log in to our Site using sign-in services such as Facebook Connect, which will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address.
+We will share your personal data with other companies in Our Group.
 
-How We use Your data  
-All data that We obtain about You will be used in accordance with current data protection legislation and this Privacy Policy. We will use Your data to process Your registrations, Your subscriptions to newsletters and site emails, Your competition entries, Your survey or voting information, Your transactions or Your involvement in fantasy games or message boards. We will also use it to analyse Site usage and for marketing or promotional purposes. We believe this allows Us to develop and improve the Site and to provide a better service to You, for example by displaying advertising based on Your interests, or identifying offers and promotions which are more likely to be relevant to you.
+We will share your personal data with the data processors that help us to provide the Services. Any data processors with whom we share your personal data are limited (by law and by contract) in their ability to use your personal data for any purpose other than to provide services for us. We will always ensure that any data processors with whom we share your personal data are subject to privacy and security obligations consistent with this Privacy Policy and applicable laws.
 
-With Your express consent We may also use Your data to send You information about related products or services that may be of interest to You.
+If you have consented, we will share your personal data with other trusted third parties, for example the artists, promoters or sponsors we work with, so that they can use your personal data for marketing or promotional purposes by sending you information about related products or service that may be of interest to you.
 
-We may occasionally use Your email address and, in rare situations, postal address or phone number, to contact You regarding administrative matters or notices.
+We will also disclose your personal data to third parties in the following circumstances:
 
-We may also use Your data to deal with any enquiries made by You, to resolve disputes and to troubleshoot problems.
+  * if we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us will be one of the transferred assets;
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity;
+  * in order to enforce or apply Our Terms of Use or any other agreement or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity; or
+  * to protect the rights, property, or safety of us, our customers or other persons. This may include exchanging personal data with other organisations for the purposes of fraud protection and credit risk reduction.
 
-Disclosure of Your data to third parties and overseas transfers of Your data  
-We will share Your data with certain parties, depending upon the purpose for which the information was provided, the consents which you give at the time the information is provided and the context in which the information was provided, as described in the following sections.
 
-We may share Your information with other companies in the AEG Group who are also subject to this privacy policy and to event sponsors or promoters. With Your express consent:
 
-We and other companies in the AEG Group may use Your data for marketing, promotions and related purposes;  
-We may share Your data with Our partners or other trusted third parties so that they may use Your data for marketing, market research, promotions and related purposes;  
-We may send You offers from AEG, its affiliates and Our promotional partners based on the data You have given Us.  
-We may also pass Your data to other parties as follows:
+Save as expressly detailed above in this section, we will never share, sell or rent any of your personal data to any third party without notifying you and/or obtaining your consent.
 
-to Our employees and agents to administer Your account and the products and services provided to You by Us now or in the future; or  
-to the police, regulatory bodies, legal advisers or parties whose request We reasonably consider to be justified in connection with any alleged criminal offence, any suspected breach of the AEG Terms of Use or any other abuse of Our services by You.  
-Some of the organisations to which We may disclose Your data are situated outside the European Economic Area. Some of these countries do not have laws that protect Your privacy rights as extensively as those in the United Kingdom. However, if We do transfer Your data to other territories, We will take proper steps to ensure that Your data is properly protected and processed only in accordance with this Privacy Policy. By consenting to this Privacy Policy You are consenting to this transfer.
+**International transfers of your personal data**
 
-In the unlikely event that We sell or otherwise dispose of some or all of Our business to another party, We reserve the right to transfer Your data as part of any assets sold or disposed of.
+Your personal data may be transferred to, and processed in a location outside of the European Economic Area (EEA).
 
-If You have previously given Your consent to Our passing Your data to third parties or overseas and would like us to stop doing so, please post Your written request to “Compliance Officer, The Studio, The O2, London SE10 0DX.” Your request must include Your name, email address and postal address. Written requests sent by post must also be signed. Please allow seven working days for Us to process Your request.
+In particular, your personal data may also be processed by staff operating in the United States or outside the EEA working for us, other members of Our Group or third-party data processors. Such staff may be engaged in, among other things, the provision of our Services to you, the processing of transactions and/or the provision of support services.
 
-How do We protect Your data?  
-We use industry standard efforts to safeguard the confidentiality of Your data. All the data collected by Us is stored on a secure server. However, please keep in mind that the internet and the World Wide Web are not secure mediums.
+Some countries outside the EEA do not have laws that protect your privacy rights as extensively as those in the United Kingdom. However, if we do transfer your personal data to other territories, we will put in place appropriate safeguards to ensure that your personal data are properly protected and processed only in accordance with this Privacy Policy. Those safeguards include imposing contractual obligations of adequacy or requiring the recipient to subscribe to or be certified with an ‘international framework’ of protection. You can obtain more information about the safeguards we put in place by contacting us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk).
 
-Links to other websites  
-The Site contains links to other websites, for example links from advertisers, sponsors and partners. AEG is only responsible for the privacy practices and security of this Site. AEG is not responsible for the privacy policies, content or security of any linked websites. We recommend that You check the privacy and security policies of each and every website that You visit through Our Site. Please also see Our Terms & Conditions for further information on third party sites.
+**How long do we keep your personal data?**
 
-Notification of changes to the Privacy Policy  
-This privacy policy was last updated on [October 2013]. AEG reserves the right to change the policy from time to time. Any such changes will be posted on this page, so that We can keep You informed of Our information collection practices. However, We encourage users to be responsible about their privacy and recommend that You consult this page frequently so that You are aware of Our latest policy and can update Your preferences if necessary. Your continued use of this Site shall constitute Your acceptance of any revised privacy policy.
+We will normally retain your personal data for as long as you use our Services and for up to two years after your last use of our Services or your last interaction with us (for example, the last time you opened an electronic communication from us or visited one of our websites).
 
-Unsubscribing and amending Your data  
-You are entitled by law to find out what data of Yours is held by AEG. You have the right to receive a copy of the data We hold about You for which We may charge a small administration fee.
+However, in some circumstances we will retain your personal data for a shorter period, including:
 
-You can also amend or remove information You give Us via the Site at any time. You can do this by writing to Us at AEG, The O2, London SE10 0DX.
+  * we will retain recorded CCTV footage at The O2 for no longer than one month, unless we are required to retain it for longer (for example, if we are investigating an incident, or have been asked to retain specific CCTV footage for a longer period by government or law enforcement officials); and
+  * we do not retain CCTV footage that is used to count the numbers of people who visit The O2 and to analyse flows of people around the building (the software that measures this works in real time and discards any personal data straight away).
 
-Contact Us  
-If You have any comments or questions about this privacy policy, the practices of this Site, or Your dealings with this Site, please send a letter to:
 
-Attn: Compliance Officer  
-AEG, The Studio, The O2, London SE10 0DX.
 
-By registering on or by otherwise using the Site, You expressly consent to the use of Your data in accordance with this Privacy Policy.
+We will retain your personal data for longer if we believe we may need them in order to respond to any claims, to protect our rights or the rights of a third party, and we will retain your personal data for longer if we are required to retain them in order to comply with applicable laws.
+
+We will always retain your personal data in accordance with data protection law and never retain your personal data for longer than is necessary.
+
+**Automated decision-making and profiling**
+
+We will combine any personal data about you that we receive from you, from other companies in Our Group, and from third-parties in order to create marketing profiles.
+
+Marketing profiles include personal data such as information about Services you have used or purchased previously, information about when you have visited The O2 in the past and which parts of the building you visited or events you attended, demographic data and data from your social media profiles.
+
+For example, we may analyse the personal data of people who have purchased tickets for a particular future event at The O2 and then compare them with other people in our database. If we identify people in our database who have similar personal data to the original purchasers, we may then target marketing about that event to the new people we have identified in our database, for example by sending direct marketing emails. We may conduct the profiling and send the direct marketing emails automatically.
+
+We conduct these automated decision-making and profiling activities for our legitimate interests in providing the Services and ensuring they operate in a commercially suitable way which is tailored to your use and interests.
+
+We will ensure that the automated decision-making and profiling does not produce legal effects concerning you or similarly significantly affects you.
+
+**Your rights**
+
+You may contact our Data Protection Officer by email at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk) at any time, to:
+
+  * request that we provide you with a copy of the personal data which we hold about you;
+  * request that we update any of your personal data which are inaccurate or incomplete;
+  * request that we delete any of your personal data which we are holding;
+  * request that we restrict the way that we process your personal data;
+  * request that we provide your personal data to you or a third-party provider of services in a structured, commonly-used and machine-readable format;
+  * object to us processing personal data based on our legitimate interests, including profiling; or
+  * object to us processing your personal data for direct marketing purposes.
+
+
+
+Your request must include your name, email address and postal address and we may request proof of your identity. Please allow at least seven working days for us to process your request.
+
+**Withdrawing your consent**
+
+Where we are processing your personal data based on your consent, you may change your mind and withdraw your consent at any time.
+
+You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email or by adjusting the push message settings for the mobile application.
+
+You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by contacting us at [privacy@theo2.co.uk](mailto:privacy@theo2.co.uk).
+
+The consequence of you withdrawing consent might be that we cannot do certain things for you.
+
+**Right to lodge a complaint with a supervisory authority**
+
+You may also make a complaint to a supervisory authority for data protection matters. In the UK, this would be the UK Information Commissioner’s Office (<https://ico.org.uk/>). If you live in another EEA country, you may complain to the supervisory authority in your country. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
+
+**How do we protect your personal data?**
+
+We use industry standard technical and organisational security measures to protect your personal data. We keep your personal data secure by implementing policies, procedures and access controls so that only authorised members of our staff or authorised third parties can access your personal data. We protect our information technology systems with firewalls and anti-virus and anti-malware software and other information security technology solutions. When we transfer your personal data to third parties we use encryption.
+
+We cannot guarantee the security of your personal data when you transmit it to us. For example, if you email us your personal data, you should be aware that email is not a secure transmission method. As such, you acknowledge and accept that we cannot guarantee the security of your personal data transmitted to us and that any such transmission is at your own risk. Once we have received your personal data, we will use strict procedures and security features to prevent unauthorised access.
+
+Where we have given you (or where you have chosen) a password which enables you to access one of our Services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+**Links to other websites and mobile applications**
+
+We sometimes provide you with links to other websites or mobile applications, but these websites and mobile applications are not under our control. We are only responsible for the privacy practices and security of our Services. We are not responsible for the privacy policies, content or security of any linked websites or mobile applications. We recommend that you check the privacy and security policies of each and every website and mobile application that you visit.
+
+In some instances, a third party may operate or host a competition on our website or mobile application, and collect your personal data. In those cases, where we are not the operator or host of the competition, we have no control over the personal data collected and accordingly urge you to review the third party’s privacy policy before participating.
+
+**Cookies and other tracking technologies**
+
+We use cookies and web beacons on our websites. Third parties also view, edit, or set their own cookies or place web beacons on our websites. Cookies and web beacons allow us and third parties to distinguish you from other users of the website.
+
+Cookies and web beacons are used by us and third parties for the following purposes:
+
+  * to enable certain features of our websites (for example, to allow a customer to maintain a basket when they are shopping at an online store);
+  * to analyse the traffic to our websites (for example, we can count how many people have looked at a specific page, or see how visitors move around the website when they use it, and use this information to improve the website);
+  * to help target advertisements which are more likely to be of interest to you;
+  * to allow us carry out retargeting (this is when advertisements are presented to you for products or services which you have previously looked at on a website, but have not purchased);
+  * to allow you to interact with our websites on social media platforms.
+
+
+
+The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy, except as required by law.
+
+**Changes to our Privacy Policy**
+
+We reserve the right to change our Privacy Policy from time to time. Any such changes will be posted on this page so that we can keep you informed about how we process your personal data. We recommend that you consult this page frequently so that you are aware of our latest Privacy Policy and can update your preferences if necessary. Your continued use of our Services shall constitute your acceptance of any revised Privacy Policy.
+
+This Privacy Policy was last updated on 9 May 2018.
