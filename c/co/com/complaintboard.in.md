@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830154737id_/https%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629121800id_/https%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -66,3 +66,6 @@ If we merge with or are acquired by another company, the resulting combined comp
 ### Share this site with others
 
 ### Recently Updated Complaints
+
+[tspsc - FEE REFUND](https://web.archive.org/complaints-reviews/tspsc-l428893.html)  
+RESPECTED DEAR SIR/MADAM I HAVE TRIED TO APPLY FOR VRO...
