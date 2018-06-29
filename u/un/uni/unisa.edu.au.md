@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125045938id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629095150id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - About UniSA - University of South Australia
 
@@ -22,8 +22,8 @@ The University makes a record of your visit to its website using Google Analytic
 
 ### Internal Users of the University Computer Environment
 
-The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy relating to [privacy on the University's IT network](http://w3.unisa.edu.au/policies/policies/corporate/c22.asp) formalises this commitment.
+The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy relating to [privacy on the University's IT network](https://i.unisa.edu.au/policies-and-procedures/university-policies/corporate/c-22/) formalises this commitment.
 
 ### Privacy Policy
 
- For information on how the University holds, uses and discloses personal information collected generally, please view the University’s policy on [Privacy](http://w3.unisa.edu.au/policies/policies/corporate/Privacy/Policy.asp).
+ For information on how the University holds, uses and discloses personal information collected generally, please view the University’s policy on [Privacy](http://i.unisa.edu.au/policies-and-procedures/privacy/privacy-policy/).
