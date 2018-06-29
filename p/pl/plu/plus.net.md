@@ -1,202 +1,339 @@
-> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117221925id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162456id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Help & Support - Plusnet
 
-In the below we’ve detailed what personal information we’ll collect when you interact with us and the reasons why we collect it. We’ll then use your personal information for these reasons.
+## Our privacy policy
 
-* * *
+As a straight talking provider we want you to understand why we need to collect personal information, how we use that information and to feel confident we'll protect it.
 
-### When you browse the Plusnet website:
+We've tried to set this out as simply as possible below.
 
-  * **What we collect:** we record how you use our website (for example, where you accessed it from, where you go on our website and how long you stay on each page). We also collect information on the browsers and operating system you use.
+This policy applies to the products and services we provide (like phone, mobile, TV, broadband and email), browsing our website and if you are a member of the [Plusnet Community](https://community.plus.net/). It applies to our consumer, sole trader and partnership customers but doesn't apply to the information we hold about companies or organisations.
 
-  * **Why we collect it:** we do this so we can see whether there are problems in how people navigate around our website and work to improve the experience of using our website. When we collect this information we may associate it with a unique identifier so we can link together all the ways you interact with us and our site (for example so we can tell if a particular part of our website isn't helpful, as people who visit it tend to call us afterwards).
+It also applies even if you're not one of our customers and you interact with us as part of running our business, such as by:
 
+  * using one of our products or services - paid for by someone else,
 
+  * taking part in a survey or trial,
 
+  * entering a prize promotion,
 
-* * *
+  * calling our helpdesk, or
 
-### When you call us:
+  * generally enquiring about our services or otherwise providing your personal information to us.
 
-  * **What we collect:** when you call us we'll ask you for your name, address, phone number and email address. If you’re already a customer, we’ll also ask you some security questions (e.g. what is your username and password), and if you call about a fault we might also collect information on your router or service settings (or something similar). We’ll keep a record of the call.
 
-  * **Why we collect it:** we ask for your name so we can speak to you in a friendly way and we ask you security questions to ensure we’re talking to the right person. Keeping a record of the call allows us to meet our legal obligations and carry out staff training and performance monitoring. We only collect information on your router or service settings (or something similar) where we’re trying to fix a fault with your service.
 
 
+If you need to give us personal information about someone else in relation to our products and services, the privacy policy will also apply. And if we need the permission of the other person to use that information, we'll ask you to check they are OK with this.
 
+Technology is a fast-changing area and can be complicated. We've included a [glossary](https://www.plus.net/help/legal/privacy-policy/#glossary-info) which explains the meaning of any technical terms we use.
 
-* * *
+## Accessing and updating how we use your information
 
-### When you chat with us online:
+You can access and update the information we hold about you using our [online form](https://www.productsandservices.bt.com/consumer/edw/privacypolicy/copyform/pn/). Once we've looked at your request, we'll let you know when you can expect to hear from us.
 
-  * **What we collect:** we’ll keep a record of our conversation and we’ll collect information on the length of the chat, the name you provide us and any information that you choose to disclose.
+We'll always try to help you with your request but we can refuse if we believe doing so would have a negative effect on others or the law prevents us. And even though we have to complete your request free of charge, we are allowed to reject requests if:
 
-  * **Why we collect it:** we do this for training and monitoring purposes. We also may carry out some analytics on an anonymised basis to identity key trends and improve the functionality and experience of chatting with us online.
+  * they're repetitive;
 
+  * you don't have the right to ask for the information; or
 
+  * the requests made are excessive.
 
 
-* * *
 
-### When you sign up for our service(s):
 
-  * **What we collect:** when you sign up for a service or services with us we'll ask you for your name, address, phone number, email address, mobile number, payment information and some other general information about how you want to use the service(s) and what other services you have. We’ll ask you to create a username and a password and we’ll also create a unique identifier for you. For some services we’ll also collect some extra information, such as your date of birth and previous addresses.
+If that's the case, we'll explain why we believe we don't have to fulfil the request.
 
-  * **Why we collect it:** we ask you for this information so we’re able to place your order, contact you about your order’s progress, process your payment and provide you with the service(s). We may also use it to check or confirm your identity. Your address and phone number, and the general information you provide on how you want to use our services, allow us to check what services we can provide you and to discuss the best service option for you. If you sign up for Plusnet Mobile we may also do a credit or fraud prevention check.
+## What information we collect and what we use it for
 
+The **personal information** we collect depends on the products and services you have and how you use them. We've explained the different ways we use your personal information below.
 
+### To provide you with products and services 
 
+We'll use your personal information to provide you with products and services. This applies when you register for or buy a product or service from us. Or if you register for an online account with us or download and register on one of our apps.
 
-* * *
+This means we'll:
 
-### When you use any of our services:
+  * record details about the products and services you use or order from us;
 
-  * **What we collect:** our network records information on how much you use our services (for example, the number of texts you send, how long you connect to the Internet, how long you speak on the phone, and what numbers you call). We also collect information on the websites you visit. We’ll also use some of the information you provide when you sign up when you use our services.
+  * send you product or service-information messages (we'll send you messages to confirm your order and tell you about any changes that might affect your service, like when we have infrastructure work planned or need to fix something);
 
-  * **Why we collect it:** we collect this information so we can provide our services, manage demand across our network, manage faults and bill you for the service. We may also use some of this usage information (including IP addresses and other traffic data) to look at how we can make our services better or to decide what marketing or products you might be interested in.
+  * update you on when we'll deliver, connect or install your products and services;
 
+  * let you create and log in to the online accounts we run;
 
+  * charge you and make sure your payment reaches us;
 
+  * filter any **content** you ask us to, through your Parental Controls settings (or any **content** our partners ask us to, such as for a wi-fi hotspot);
 
-We’re legally required to keep this information. Sometimes court orders and agreements also mean we have to collect this information. The information might also be necessary if we need to contact you if you are using our service to access third party content in an unlawful way, or if we need to notify you about changes to our services (for example, to tell you that we have upgraded the service on your line, or to tell you when new technologies, such as fibre broadband, are available).
+  * give information to someone else (if we need to for the product or service you've ordered) or to another communications provider if you're buying some services from them and us (if we do this, we still control your personal information and we have strict controls in place to make sure it's properly protected); and
 
-* * *
+  * support you more if you are a vulnerable customer.
 
-### When you use Plusnet Safeguard:
 
-  * **What we collect:** we capture and store information about whether you’ve activated Plusnet Safeguard and the settings that you’ve selected. Plusnet SafeGuard doesn’t record details of your individual Internet activity or any specific websites that might be blocked by this service. We may record anonymous and aggregated information about the websites that are blocked by Plusnet SafeGuard for the purpose of monitoring any problems or faults with the service.
 
-  * **Why we collect it:** it is essential to collect this information for Plusnet SafeGuard to work properly and for it to be able to block unsuitable websites.
 
+We use the following to provide products and services and manage your account.
 
+  * Your contact details and other information to confirm your identity and your communications with us. This includes your name, gender, address, phone number, date of birth, email address, passwords and credentials (such as the security questions and answers we have on your account).
 
+  * Your payment and financial information.
 
-* * *
+  * Your communications with us, including emails, webchats and phone calls. We'll also keep records of any settings or communication preferences you choose.
 
-### When you take Plusnet Mobile:
+  * Information from cookies placed on your connected devices that we need so we can provide a service.
 
-  * **What we collect:** we’ll capture and collect certain location information. Normally it’s only an approximate location, which is based on where you are relative to the nearest mobile phone masts. So we can’t tell if you’re in a particular house or shop. We’ll also collect details about the mobile phone you’re using, such as your hardware model, operating system version, unique device identifier and advertising identifiers on your device. And we’ll collect the setting you’re using on your phone, for example if you’ve got roaming on or off. We might collect some information about your broadband account with us as well.
 
-  * **Why we collect it:** we use the [information you give us when you sign up](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information), the [information we collect when you use our services](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-use-any-of-our-services-#what-information), some location information and the device information to be able to provide our mobile service. We’ll also use location information to make sure you’re getting the most from your network coverage, to manage our network, and for reporting of network issues in particular areas. We may collect some information about your broadband account to see if you’re eligible for any special offers.
 
 
+We use this information to carry out our contract (or to prepare a contract) and provide products or services to you. If you don't give us the correct information or ask us to delete it, we might not be able to provide you with the product or service you ordered from us.
 
+If you tell us you have a disability or otherwise need support, we'll note that you are a vulnerable customer, but only if you give your permission or if we have to for legal or regulatory reasons. For example, if you told us about a disability we need to be aware of when we deliver our services to you, we have to record that information so we don't repeatedly ask you about it. We will also record the details of a **Power of Attorney** we have been asked to log against your account.
 
-We may use information on the countries where you use your mobile so we can bill you appropriately and so we can determine if a [surcharge](https://web.archive.org/help/legal/mobile-fair-usage-policy/) is applicable. We don’t use location data to do this and don’t know where within that country you are using our service.
+### Because it is in our legitimate interests as a business to use your information 
 
-When you install some apps, they might ask that your mobile phone collects location, calling and other personal information. We aren’t responsible for how these apps use your personal information so we’d recommend you look at these apps privacy policies before installing them.
+We'll use your personal information if we consider it is in our legitimate business interests so that we can operate as an efficient and effective business. We use your information to:
 
-Location information might be shared with the emergency services if you make an emergency call so they can respond more quickly to the call. Sometimes public authorities will use location data to get in touch with you in the event of a public emergency. For example, the Environment Agency might send a warning about very severe flooding in your area.
+  * Identify, and let you know about, products and services that interest you;
 
-* * *
+  * share within the BT Group for administrative purposes;
 
-### When you take YouView TV from Plusnet:
+  * create aggregated and anonymised information for further use;
 
-  * **What we collect:** when you subscribe to YouView TV from Plusnet we may take details of the devices you use to connect to the service, the channels and programmes you watch, and adverts and services you access (for example, how you view, record or fast forward them).
+  * detect and prevent fraud; and
 
-  * **Why we collect it:** we do this so we can provide you with a personalised service, like viewing recommendations and tailored advertising. You can turn this off but you’ll get general content recommendations and adverts.
+  * secure and protect our network.
 
 
 
 
-Further information on the YouView TV services’ use of personal information can be found in YouView’s privacy policy.
+### To market to you and to identify products and services that interest you 
 
-* * *
+We'll use your personal information to send you direct marketing and to better identify products and services that interest you. We do that if you're one of our customers or if you've been in touch with us another way (such as entering a prize promotion or competition).
 
-### When you use the Plusnet Community:
+This means we'll:
 
-  * **What we collect:** we capture the information you provide when you register to be a Plusnet Community user, and any information you provide in your contributions. We also compile statistics on the usage of the Community (for example, how many visitors there are to the Community, when they visited, for how long and which areas of the Community were visited). In respect of any personal information you may upload or post on the Community, it is your decision to do so and we don’t determine the purposes for which (and manner in which) you’ve uploaded or posted the information.
+  * create a profile about you to better understand you as a customer and tailor the communications we send you (including our marketing messages);
 
-  * **Why we collect it:** we capture the registration information to be able to create your Plusnet Community account. We use information on Community usage for trend analysis purposes and to help us make improvements to the Community and to the services we make available. We don’t use this information to identify individuals visiting the Community forums.
+  * tell you about other products and services you might be interested in;
 
+  * recommend better ways to manage what you spend with us, like suggesting a more suitable product based on what you use;
 
+  * try to identify products and services you’re interested in; and
 
+  * show you more relevant online advertising and work with other well-known brands to make theirs more suitable too.
 
-As the Community is publically available, we're not responsible for the security of any personal information you upload or post within the public section of the Community, or any further use of that information by third parties.
 
-Personal information that you have made publicly available on the Community may be used by our community provider to measure your influence and interests, and improve the Community platform. Their [Privacy Policy](https://klout.com/corp/privacy/) provides more information on this and how you can opt-out of this use of your information.
 
-* * *
 
-### When you are taking advantage of our referrals scheme:
+We use the following for marketing and to identify the products and services you're interested in.
 
-  * **What we collect:** where you have referred a customer to us, we’ll collect information about your account (normally the username of the broadband account and maybe the post code) from the person you’ve referred.
+  * Your contact details. This includes your name, gender, address, phone number, date of birth and email address.
 
-  * **Why we collect it:** we do this so you can receive your referral bonus.
+  * Your payment and financial information.
 
+  * Information from **cookies** and **tags** placed on your connected devices.
 
+  * Information from other organisations such as **aggregated** demographic data, data brokers (such as Acxiom and Edit), our partners and publicly available sources like the electoral roll and business directories.
 
+  * Details of the products and services you've bought and how you use them – including your **call** , **browser** (including **IP address** ) and **TV records**.
 
-If you’re a customer who has been referred to us, we have to let the person who referred you know whether they are still eligible to receive a referral bonus. As this eligibility depends on a number of things you do (for example remaining a customer and making payments on time), this may involve indirectly letting the person who referred you know certain limited information about you. However, we’ll never provide the exact reason why they are no longer eligible to receive a referral bonus.
 
-* * *
 
-### When someone in your family is taking advantage of discounts or benefits because you already take a Plusnet service:
 
-  * **What we collect:** where a family member or someone in your household gets a discount or benefit because you’ve got broadband or another service with us, we’ll collect information about your account (normally your username and post code).
+We'll send you information (about the products and services we provide) by phone, post, email, **text message** , online banner advertising or a notice using our apps or on your TV set-top box. We also use the information we have about you to personalise these messages wherever we can as we believe it is important to make them relevant to you. We do this because we have a legitimate business interest in keeping you up to date with our products and services, making them relevant to you and making sure you manage your spending with us. We also check that you are happy for us to send you marketing messages by **text** or **email** before we do so. In each message we send, you also have the option to opt out.
 
-  * **Why we collect it:** we do this to check if the customer is eligible to receive the discounts or benefits.
+We'll only use your call, browser and some TV records (such as programmes you watch on channels we provide that are produced by other organisations) to personalise our offers as long as you are happy for us to do so.
 
+We'll only market other organisations’ products and services if you have said it is OK for us to do so.
 
+You can ask us to stop sending you marketing information or withdraw your permission at any time, as set out [above](https://www.plus.net/help/legal/privacy-policy/#how-to-contact-us).
 
+Read our [cookie policy](http://home.bt.com/pages/cookies/more-about-cookies.html) for more details on how we use cookies.
 
-If you’ve given your details out so a family member, or someone in your household, gets a discount or benefit, you need to make sure they are someone you can trust with these details. In addition, we have to let people with these discounts or benefits know when they aren’t eligible to receive them anymore. As this eligibility depends on things you do (for example remaining a customer), this may involve indirectly letting them know certain limited information about you.
+### To create aggregated and anonymised data 
 
-* * *
+We'll use your personal information to create **aggregated** and **anonymised** information. Nobody can identify you from that information and we'll use it to:
 
-### Where you use comparison or cashback service providers:
+  * make sure our network is working properly and continuously improve and develop our network and products and services for our customers;
 
-  * **What we collect:** we may collect information via cookies (see below) and other tracking devices. We may also create unique identifiers that match our records with these providers’ records. Where you sign up for service(s), either online or via the phone, through one of these providers, these providers may collect the information to sign you up for the service(s) on our behalf, rather than us collecting the information from you directly.
+  * run management and corporate reporting, research and analytics, and to improve the business; and
 
-  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20171117221925id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
+  * provide other organisations with **aggregated** and **anonymous** reports.
 
 
 
 
-Please note that these comparison websites and cashback providers have their own privacy policies and may use your personal information for wider purposes. We’d recommend you check these policies before you submit any personal information to them.
+We use the following to generate **aggregated** and **anonymised** information.
 
-* * *
+  * Your gender, address and date of birth.
 
-### Where you are entitled to cashback or similar rewards:
+  * Information about what you buy from us, how you ordered it and how you pay for it, for example, broadband ordered online and paid for on a monthly basis.
 
-  * **What we collect:** sometimes we may also ask you to provide or confirm certain information about your account (e.g. your address or username), either to us or our third party providers who are providing the cashback or reward services.
+  * Information from **cookies** and **tags** placed on your computer.
 
-  * **Why we collect it:** we may ask you to provide this information so we or our third party providers can validate if you’re entitled to receive the cashback or rewards as part of one of our offers or deals.
+  * Information from other organisations who provide aggregated demographic information, data brokers (such as Acxiom and Edit), our partners and publicly available sources like the electoral roll and business directories.
 
+  * Details of the products and services you've bought and how you use them – including your **call** , **browser** (including **IP address** ) and **TV records**.
 
 
 
-* * *
 
-### When you take the BT Sport App via Plusnet:
+We have a legitimate interest in generating insights that will help us operate our network and business or would be useful to other organisations.
 
-  * **What we collect:** when you subscribe to the BT Sport App via Plusnet, a unique identifier is created. BT will also provide us with your BT ID. BT may also provide us with details on your use of the service (for example how often the service is used, devices you use, the channels, programmes and adverts you watch on them, how long you watch for and what actions you take when doing so).
+### To develop our business and build a better understanding of what our customers want 
 
-  * **Why we collect it:** the unique identifier is created so both us and BT can identify if you’re entitled to use the service. BT provide us with your BT ID so we can manage and raise with BT any faults you might have with the service. We use the information on your use of the service to understand how the service is being used and to decide how we market it and other services.
+This means we’ll:
 
+  * maintain, develop and test our network (including managing the traffic on our network), products and services, to provide you with a better service;
 
+  * train our people and suppliers to provide you with products and services (but we make the information anonymous beforehand wherever possible);
 
+  * create a profile about you to better understand you as our customer;
 
-Your BT ID, BT Account and the BT Sport App is managed by BT. Further information on how BT use your personal information when you use the BT Sport App can be found on in [BT Privacy Policy](http://www.productsandservices.bt.com/products/static/privacy-policy/?page=TV).
+  * share personal information within the **BT Group** for administrative purposes, such as sharing contact details so we can get in touch with you;
 
-If you have other BT services, and you use the same BT ID that’s associated with these service when you take the BT Sport App via Plusnet, we will be able to see limited details on these other services.
+  * make and defend claims to protect our business interests; and
 
-* * *
+  * run surveys and market research about our products.
 
-### General:
 
-There are couple of other circumstances where we might collect or use your personal information not covered by the above:
 
-  * We generally carry out market research and analysis on our products and services, customer base and generally to see what we can improve in the future. To do this we, or our third party market research providers, may contact you by text or email so you can provide feedback on our customer service or our services generally, if you want to. This market research and analysis may also involve us sharing or obtaining personal information with companies that pull together information from multiple sources. When we can, we'll make sure that you can't be identified after your participation in the research has ended.
 
-  * We try to use dummy information to test our software but sometimes we have to use personal information. We’ll only do this where strictly necessary and in secure pre-production environments.
+We use the following information to do this.
 
-  * Sometimes court orders and legal and regulatory obligations change, which mean we have to use your personal information in different ways to comply with these requirements.
+  * Your contact details.
 
-  * If you fail to pay us, and still don’t do so after we remind you, your details may be passed onto a third party debt collection agency. This agency may conduct certain searches with credit reference agencies (like Experian or Equifax) and of other public data sources. They do this to better understand your circumstances (such as if the details we provided are up to date or to assess your ability to make payment). These searches may be visible to you if you check your credit record (but not to third parties, although they may be used by the credit reference agencies to inform your credit scores).
+  * Your payment and financial information.
 
-  * If we provide you with an email address or a static IP address we’ll use the username you use to access your account within this address, so any personal information within your username may be visible to third parties. If you ask us, we can change your static IP address so that the rDNS does not display your username.
+  * Your communications with us, including emails, webchats and phone calls (and any recordings made).
 
+  * Information from cookies placed on your connected devices.
 
+  * Details of the products and services you’ve bought and how you use them – including your **call** , **browser** (including **IP address** and **static IP address** , if it applies) and **TV records**.
 
+
+
+
+If we use this information for market research, training, testing, defend or bring claims, development purposes or to create a profile about you, we do so because it is in our legitimate business interests of running an efficient and effective business which can adapt to meet our customers’ needs.
+
+We create a profile about you based on what you have ordered from us and how you use our products and services. This helps us tailor the offers we share with you. You can ask us to stop profiling you for marketing purposes at any time, as set out [above](https://www.plus.net/help/legal/privacy-policy/#how-to-contact-us).
+
+### To run credit and fraud prevention checks 
+
+Before we provide you with a product or service (including upgrades or renewals), or sometimes when you use our products and services, we'll use personal information you have given us together with information we have collected from **credit reference agencies** (such as Experian or Equifax), the Interactive Media in Retail Group (IMRG) security alert, or **fraud prevention agencies** (such as Cifas). We use this information to manage our credit risk, and prevent and detect fraud and money laundering. We'll also use these organisations to confirm your identity. When they get a search from us, a 'footprint' goes on your file which other organisations might see. We might also share the information with other organisations. We do this because it's in our, and the organisations', legitimate interests to prevent fraud and money laundering, and to check identities, to protect our business and to keep to laws that apply to us.
+
+Details of the personal information that will be used include your name, address, date of birth, contact details, financial information, employment details and device identifiers, including **IP address** and vehicle details.
+
+If you don't become one of our customers, we'll still keep the result of our credits checks about you if we have a legal obligation and it's in our legitimate interests to help prevent or detect fraud. Fraud prevention agencies can hold your personal information for different periods of time, and if you are considered to pose a fraud or money laundering risk, your information can be held by us and the organisations we share it with for up to six years.
+
+If you give us false or inaccurate information which we identify as fraudulent, we'll pass that on to fraud prevention agencies. We might also share it with law enforcement agencies, as may the agencies we have shared the information with.
+
+If you tell us you're associated with someone else financially (for example, by marriage or civil partnership), we'll link your records together. So you must make sure you have their agreement to share information about them. The agencies we share the information with also link your records together and these links will stay on your and their files – unless you or your partner successfully asks the agency to break that link.
+
+If we, a credit reference or fraud prevention agency, decide that you are a credit, fraud or money laundering risk, we may refuse to provide the services or financing you have asked for, or we may stop providing existing services to you.
+
+The credit reference and fraud prevention agencies will keep a record of any fraud or money laundering risk and this may result in other organisations refusing to provide services, financing or employment to you. If you have any questions about this, please contact us using the details [below](https://www.plus.net/help/legal/privacy-policy/#how-to-contact-us).
+
+We send credit reference and fraud prevention agencies information about applications, and they keep that information. We might also give them details of your accounts and bills, including how you manage them. This includes telling them about your account balances, what you pay us and if you miss a payment (going back in the past, too). So if you don't pay your bills on time, credit reference agencies will record that. They, or a fraud prevention agency, might tell others doing similar checks – including organisations trying to trace you or recover money you owe them.
+
+There are different credit reference agencies in the UK (for example, Callcredit, Equifax and Experian). Each one might hold different information about you. If you want to find out what information they have on you, they may charge you a small fee.
+
+Whenever credit reference and fraud prevention agencies transfer your personal information outside of the European Economic Area, they place contractual responsibilities on the organisation receiving it to protect your information to the standard required in the European Economic Area. They may also make the organisation receiving the information subscribe to ‘international frameworks' aimed at sharing information securely.
+
+Here are links to the information notice for each of the three main Credit Reference Agencies:
+
+[Callcredit](https://www.callcredit.co.uk/crain)
+
+[Equifax](https://www.equifax.co.uk/crain)
+
+[Experian](http://www.experian.co.uk/crain/index.html)
+
+### To collect debt 
+
+If you don't pay your bills, we might ask a debt-recovery agency to collect what you owe. We'll give them information about you (such as your contact details) and your account (the amount of the debt) and may choose to sell the debt to another organisation to allow us to receive the amount due.
+
+### To prevent and detect crime 
+
+We'll use your personal information to help prevent and detect crime and fraud. We'll also use it to prevent and detect criminal attacks on our network or against your equipment. We monitor traffic over our network, trace nuisance or malicious calls, and track malware and cyber-attacks.
+
+To do that we use the following information, but only where strictly necessary.
+
+  * Your contact details and other information to confirm your identity and communications with us. This includes your name, gender, address, phone number, date of birth, email address, passwords and credentials (for example, security questions). We do not store the original copy of your password. Instead we keep it in a form that allows us to authenticate you but does not allow us to work out what your original password is.
+
+  * Your payment and financial information.
+
+  * Information from credit reference and fraud prevention agencies.
+
+  * Details of the products and services you've bought and how you use them – including your **call** , **browser** (including **IP address** ) and **TV records**.
+
+  * CCTV footage in our shops and buildings.
+
+
+
+
+We use this personal information because we have a legitimate interest in protecting our network and business from attacks and to prevent and detect crime and fraud. We also share it with other organisations (such as other communications providers and banks) who have the same legitimate interests. Doing this helps make sure our network works properly and helps protect you from attacks.
+
+If you call the emergency services, we'll give them information about you and where you are so they can help. We do this because it is necessary to protect you, or another person, and because it is in our interests to help the emergency services in providing help to you.
+
+### To meet our legal and regulatory obligations 
+
+We might have to release personal information about you to meet our legal and regulatory obligations.
+
+**To law enforcement agencies**
+
+Under investigatory powers legislation, we might have to share personal information about you to government and law-enforcement agencies, such as the police, to help detect and stop crime, prosecute offenders and protect national security. They might ask for the following details.
+
+  * Your contact details. This includes your name, gender, address, phone number, date of birth, email address, passwords and credentials (such as your security questions and answers) needed to confirm your identity and your communications with us.
+
+  * Your communications with us, such as calls, emails and webchats.
+
+  * Your payment and financial information.
+
+  * Details of the products and services you've bought and how you use them – including your **call, browser** (including IP address) and **TV records**.
+
+
+
+
+The balance between privacy and investigatory powers is challenging. We share your personal information when the law says we have to, but we have strong oversight of what we do and get expert advice to make sure we're doing the right thing to protect your right to privacy. You can read more about our approach to investigatory powers in the **BT Group** report on [Privacy and free expression in UK communications](https://www.btplc.com/Thegroup/Ourcompany/Ourvalues/Privacyandfreeexpression/index.htm). And you can see the terms of reference for the BT Group oversight body [here](https://www.btplc.com/Thegroup/Ourcompany/Theboard/Boardcommittees/InvestigatoryPowers/index.htm).
+
+We'll also share personal information about you where we have to legally share it with another person. That might be when a law says we have to share that information or because of a court order.
+
+In limited circumstances, we may also share your information with other public authorities, even if we do not have to. However, we would need to be satisfied that a request for information is lawful and proportionate (in other words, appropriate to the request). And we would need appropriate assurances about security and how the information is used and how long it is kept.
+
+**For regulatory reasons**
+
+We'll also use your **call, browser** (including **IP address** ) and **TV records** to find the best way of routing your communications through the various parts of our network, equipment and systems as required by our regulator.
+
+If you order a residential phone service, we'll only add your details to directory services such as the Phone Book if you ask us to. If you do, we'll publish your details and share that information with other providers of directory services. Ex-directory numbers aren't included and will not appear in The Phone Book. If you order a business phone service we'll add you to directory services unless you ask us not to.
+
+## Sharing your information
+
+We share your personal information with other companies within the **BT Group**. We have a group-wide arrangement, known as **binding corporate rules** , to make sure your personal information is protected, no matter which company in the BT Group holds that information. You can ask for a copy of our binding corporate rules by **contacting** our data protection officer.
+
+### Using other service providers 
+
+We use other providers to carry out services on our behalf or to help us provide services to you. We may use them to:
+
+  * provide customer-service, marketing, infrastructure and information-technology services;
+  * personalise our service and make it work better;
+  * process payment transactions;
+  * carry out fraud and credit checks and collect debts;
+  * analyse and improve the information we hold (including about your interactions with our service); and
+  * run surveys.
+
+
+
+Where we use another organisation, we still control your personal information. And we have strict controls in place to make sure it's properly protected.
+
+Finally, the section above describes the situations in which your personal information is shared to other organisations, government bodies and law-enforcement agencies. When we share your information with other organisations we'll make sure it's protected, as far as is reasonably possible.
+
+If we need to transfer your personal information to another organisation for processing in countries that aren't listed as **['adequate'](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)** by the European Commission, we'll only do so if we have **model contracts** or other appropriate safeguards (protection) in place.
+
+If there's a change (or expected change) in who owns us or any of our assets, we might share personal information to the new (or prospective) owner. If we do, they'll have to keep it confidential.
+
+For more details, or if you'd like a copy of our binding corporate rules or other information about a specific transfer of your personal information, get in touch with us [here](https://www.plus.net/help/legal/privacy-policy/#how-to-contact-us). The fraud prevention section above provides details on transfers fraud prevention agencies may carry out.
+
+**BT Group** is a large multinational organisation. Our **binding corporate rules** reflect how we operate. They include a list of countries (below) which are structured to allow us to transfer personal information to the countries where we have a presence. For us, after the UK and wider EU, India and the Philippines are where most of our processing of personal information takes place. Your personal information is used for customer or IT support or operations purposes in these countries. While our binding corporate rules allow us to transfer personal information to these countries, the information won't always include your personal information in every case. Algeria, Argentina, Australia, Bahrain, Bangladesh, Barbados, Bermuda, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Canada, China, Colombia, Costa Rica, Cote d'Ivoire, Dominican Republic, Ecuador, Egypt, El Salvador, Ghana, Gibraltar, Guatemala, Honduras, Hong Kong, India, Indonesia, Isle of Man, Israel, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kenya, Republic of Korea, Lebanon, Macedonia, Malawi, Malaysia, Mauritius, Mexico, Moldova, Montenegro, Morocco, Mozambique, Namibia, Nicaragua, Nigeria, Norway, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Russian Federation, Serbia, Singapore, South Africa, Sri Lanka, Switzerland, Taiwan, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam, British Virgin Islands, Zambia and Zimbabwe.
