@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldcasinodirectory.com privacy policy that was archived on 2017-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204181413id_/https%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcasinodirectory.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629061930id_/https%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy : World Casino Directory</title>
@@ -12,7 +12,11 @@
 		<script src="//www.worldcasinodirectory.com/assets/js/skel-layers.min.js"></script>
 		<script src="//www.worldcasinodirectory.com/assets/js/init.js?v=2"></script>
 <script src="//www.worldcasinodirectory.com/assets/jui/jquery-ui.js"></script>
-
+<script type="text/javascript"> 
+    $(document).ready(function () {
+        $("div h2:contains('Click a state for current lottery results')").hide(); 
+    }); 
+</script>
 
 <link rel="stylesheet" href="//www.worldcasinodirectory.com/assets/admin/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="//www.worldcasinodirectory.com/assets/jui/jquery-ui.css">
@@ -24,6 +28,10 @@
                 <!--script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js"></script-->
 		<script type="text/javascript" src="//www.worldcasinodirectory.com/assets/js/slick.js"></script>
 		<script type="text/javascript" src="//www.worldcasinodirectory.com/assets/js/jquery.totemticker.min.js"></script>
+                
+                
+                
+                
 		
 		<noscript>
 			<link rel="stylesheet" href="//www.worldcasinodirectory.com/assets/css/skel.css" />
@@ -92,8 +100,8 @@
             <div class="9u" style="padding-right: 1em;">
                 
 <div class="bannerHeader clearfix"> 
-	<a target="_blank" rel="nofollow noopener" href="http://www.winadaycasino.eu/en/latestcasinobonuses?p=73091287">
-		<img src="https://a1.latestcasinobonuses.com/system/modules/casino/banners/attachments/000/221/606/original/winaday-1g-welcome-bonus-468x60.gif?1512086715" onerror="this.onerror=null;this.style='display:none';" style="display: none;">
+	<a target="_blank" rel="nofollow noopener" href="http://www.libertyslots.eu/?c=69&amp;s=9">
+		<img src="https://a2.latestcasinobonuses.com/system/modules/casino/banners/attachments/000/249/659/original/9.gif?1529625897" onerror="this.onerror=null;this.style='display:none';" style="display: none;">
 	</a>
 </div>            </div>	
 
@@ -150,7 +158,7 @@
                                 <li id="mm-poker" data-tab="poker"><a href="//www.worldcasinodirectory.com/poker.htm">Poker</a></li>
                                 <li id="mm-bingo" data-tab="bingo"><a href="//online.worldcasinodirectory.com/bingo">Bingo</a></li>
                                 <li id="mm-sports" data-tab="sports"><a href="//www.worldcasinodirectory.com/sportsbetting">Sports</a></li>
-                                <li id="mm-racing" data-tab="racing"><a href="//www.worldcasinodirectory.com/horseracing">Racing</a></li>
+                                <li id="mm-racing" data-tab="racing"><a href="https://online.worldcasinodirectory.com/racebooks">Racing</a></li>
                                 <li id="mm-lottery" data-tab="lottery"><a href="//www.worldcasinodirectory.com/lotto.htm">Lottery</a></li>
                                 <li id="mm-search" class="sticky-header" style="display:none;"><a id="search-slide" href="#s"></a></li>
                             </ul>
@@ -184,8 +192,32 @@ $(document).ready(function(){
       				div+='<li><a class="breaking-news-header-link" href="https://news.worldcasinodirectory.com/' + posts[i].post_name+ '-'+posts[i].ID+'">'+posts[i].post_title+'</a></li>';
     			} 
     			$("#news-header").html(div);
-  			}      
+  			
+var div='<div class="row">';
+            posts=result.recent_blog_posts;
+            for (i = 0; i < 3; i++) {
+     
 
+              div+='<div class="3u"><div class="news-thumb-container"><div class="news-thumb-headline"><a class="news-thumb-link" href="//news.worldcasinodirectory.com/' + posts[i].post_name+ '-'+posts[i].ID+'">'+posts[i].post_title+'</a></div>'
+
+              if(posts[i].thumbnail){
+                 div+='<a  href="//news.worldcasinodirectory.com/' + posts[i].post_name+ '-'+posts[i].ID+'"><img width=266 src="' + posts[i].thumbnail +'" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt=""/></a>'
+              }
+              div+='</div><div class="news-thumb-stats"><i class="fa fa-clock-o"></i> <span class="news-thumb-date">' +posts[i].post_date_nice+ '</span>'
+              if(posts[i].comment_count>0){
+                 div+='&nbsp;&nbsp;<i class="fa fa-comment"></i> <span class="news-thumb-date">'+posts[i].comment_count+ ' comment'
+                 if (posts[i].comment_count > 1) { div+='s' } 
+                 div+='</span>'
+              }
+              div+='</div></div>';
+            }
+            div+='</div>';
+            $("#menu-header-news").html(div);
+$('#loading-news-header').hide();
+
+  
+ 
+}
 	});
 }); 
 </script>
@@ -215,7 +247,7 @@ $(document).ready(function(){
                                     <ul class="sub-menu">
                                         <li id="menu-item-29147" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat current-menu-item menu-item-29147"><a href="https://news.worldcasinodirectory.com/calendars/category/poker-tournaments">Poker Tournaments</a></li>
                                         <li id="menu-item-29150" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-29150"><a href="https://news.worldcasinodirectory.com/calendars/category/gaming/igaming">iGaming Conferences</a></li>
-                                        <li id="menu-item-29149" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-29149"><a href="https://news.worldcasinodirectory.com/calendars/category/gaming/land-based">Land-Based Conferences</a></li>
+                                    
                                     </ul>
                                 </li>
 
@@ -307,19 +339,18 @@ $(document).ready(function(){
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="world-casinos">
                 <li>
-                    Continents
-                    <ul class="depth3">
-                        <li><a href="//www.worldcasinodirectory.com/northamerica-casinos.asp">North America</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/southamerica-casinos.asp">South America</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/centralamerica-casinos.asp">Central America</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/caribbean-casinos.asp">Caribbean</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/westeurope-casinos.asp">West Europe</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/easteurope-casinos.asp">East Europe</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/africa-casinos.asp">Africa</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/fareast-casinos.asp">East Asia</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/centralasia-casinos.asp">Central Asia</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/australasia-casinos.asp">Oceania</a></li>
-                        <li><a href="//www.worldcasinodirectory.com/middleeast-casinos.asp">Middle East</a></li>
+                    Continents                    <ul class="depth3">
+                        <li><a href="//www.worldcasinodirectory.com/region/north-america">North America</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/south-america">South America</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/central-america">Central America</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/caribbean">Caribbean</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/western-europe">West Europe</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/eastern-europe">East Europe</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/africa">Africa</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/east-asia">East Asia</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/central-asia">Central Asia</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/oceania">Oceania</a></li>
+                        <li><a href="//www.worldcasinodirectory.com/region/middle-east">Middle East</a></li>
                         <li class="last"><a href="//www.worldcasinodirectory.com/oceanliner-casinos.asp">Cruiseships</a></li>
                     </ul>
                 </li>
@@ -342,8 +373,7 @@ $(document).ready(function(){
                     </ul>
                 </li>
                 <li class="last">
-                    Industry related features
-                    <ul class="depth3">
+                    Industry related features                    <ul class="depth3">
                         <li><a href="http://www.worldcasinosales.com">Casinos for Sale</a></li>
                         <li><a href="//www.worldcasinodirectory.com/statistics">Casino Statistics</a></li>
                         <li><a href="http://www.worldcasinojobs.com">Employment</a></li>
@@ -356,8 +386,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="//online.worldcasinodirectory.com">Online Casinos</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="online-casinos">
-                <li>Casinos by category
-                    <ul class="depth3">
+                <li>Casinos by category                    <ul class="depth3">
                         <li><a href="//online.worldcasinodirectory.com/casinos">Online casino directory</a></li>
                         <li><a href="//online.worldcasinodirectory.com/newest-casinos">New online casinos</a></li>
                         <li><a href="//online.worldcasinodirectory.com/livedealers">Live dealer casinos</a></li>
@@ -393,8 +422,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="https://news.worldcasinodirectory.com/">News</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="news">
-                <li class="last">Categories
-                    <ul class="depth3">
+                <li class="last">Categories                    <ul class="depth3">
                         <li><a href="//www.worldcasinodirectory.com/casinoopenings.htm">Casino Openings</a></li>
                         <li><a href="https://news.worldcasinodirectory.com/in-the-news/casino-news/casino-closures">Casino Closings</a></li>
                         <li><a href="https://news.worldcasinodirectory.com/gaming-industry/gaming-law-legal-issues">Gaming Law &amp; Legislation</a></li>
@@ -450,8 +478,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="//www.worldcasinodirectory.com/poker.htm">Poker</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="poker">
-                <li>Play online
-                    <ul class="depth3">
+                <li>Play online                    <ul class="depth3">
                         <li><a href="https://online.worldcasinodirectory.com/poker">Online poker rooms</a></li>
                         <li class="last"><a href="https://online.worldcasinodirectory.com/poker-games">Online poker games</a></li>
                     </ul>
@@ -490,8 +517,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="//www.worldcasinodirectory.com/sportsbetting">Sports</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="sports">
-                <li>Sports Betting 101
-                    <ul class="depth3">
+                <li>Sports Betting 101                    <ul class="depth3">
                         <li><a href="//www.worldcasinodirectory.com/basics-of-sports-betting">The basics of sports betting</a></li>
                         <li><a href="//www.worldcasinodirectory.com/different-types-of-sports-bets">Different types of sports bets</a></li>
                         <li><a href="//www.worldcasinodirectory.com/selecting-a-sportsbook">Tips for selecting a sportsbook</a></li>
@@ -499,8 +525,7 @@ $(document).ready(function(){
                         <li class="last"><a href="//www.worldcasinodirectory.com/betting-on-sports-futures-props-and-lay-bets">Betting on sports futures, props and lay bets </a></li>
                     </ul>
                 </li>
-                <li>Daily Fantasy Sports
-                    <ul class="depth3">
+                <li>Daily Fantasy Sports                    <ul class="depth3">
                         <li class="last"><a href="https://online.worldcasinodirectory.com/daily-fantasy-sports">Daily fantasy sports</a></li>
                     </ul>
                 </li>
@@ -515,8 +540,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="//www.worldcasinodirectory.com/horseracing">Racing</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="racing">
-                <li class="last">Horse Racing
-                    <ul class="depth3">
+                <li class="last">Horse Racing                    <ul class="depth3">
                         <li><a href="//online.worldcasinodirectory.com/racebooks">Horse Racing</a></li>
                         <li><a href="//www.worldcasinodirectory.com/types-of-horse-races">Types of horse races</a></li>
                         <li><a href="//www.worldcasinodirectory.com/greyhounds.htm">Greyhound</a></li>
@@ -529,8 +553,7 @@ $(document).ready(function(){
             <a class="floatLeft" href="//www.worldcasinodirectory.com/lotto.htm">Lottery</a>
             <span class="chevron floatRight"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></span>
             <ul class="depth2" data-parent-ul="lottery">
-                <li class="last">World lottery results
-                    <ul class="depth3">
+                <li class="last">World lottery results                    <ul class="depth3">
                         <li><a href="//www.worldcasinodirectory.com/usa_lottery_results.htm"><img src="//www.worldcasinodirectory.com/images/allflags/us.gif" height="11" width="16"> USA lottery results</a></li>
                         <li><a href="//www.worldcasinodirectory.com/canadian_lottery_results.htm"><img src="//www.worldcasinodirectory.com/images/allflags/ca.gif" height="11" width="16"> Canadian lottery results</a></li> 
                         <li><a href="//www.worldcasinodirectory.com/uk_lottery_results.htm"><img src="//www.worldcasinodirectory.com/images/allflags/gb.gif" height="11" width="16"> UK lottery results</a></li>
@@ -658,17 +681,17 @@ We have proper security measures in place at the physical location of all server
         <div class="2u">
             <b class="mm-h1">Continents</b>
             <ul>
-                <li><a href="//www.worldcasinodirectory.com/northamerica-casinos.asp">North America</a></li>
-                <li><a href="//www.worldcasinodirectory.com/southamerica-casinos.asp">South America</a></li>
-                <li><a href="//www.worldcasinodirectory.com/centralamerica-casinos.asp">Central America</a></li>
-                <li><a href="//www.worldcasinodirectory.com/caribbean-casinos.asp">Caribbean</a></li>
-                <li><a href="//www.worldcasinodirectory.com/westeurope-casinos.asp">West Europe</a></li>
-                <li><a href="//www.worldcasinodirectory.com/easteurope-casinos.asp">East Europe</a></li>
-                <li><a href="//www.worldcasinodirectory.com/africa-casinos.asp">Africa</a></li>
-                <li><a href="//www.worldcasinodirectory.com/fareast-casinos.asp">East Asia</a></li>
-                <li><a href="//www.worldcasinodirectory.com/centralasia-casinos.asp">Central Asia</a></li>
-                <li><a href="//www.worldcasinodirectory.com/australasia-casinos.asp">Oceania</a></li>
-                <li><a href="//www.worldcasinodirectory.com/middleeast-casinos.asp">Middle East</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/north-america">North America</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/south-america">South America</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/central-america">Central America</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/caribbean">Caribbean</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/western-europe">West Europe</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/eastern-europe">East Europe</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/africa">Africa</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/east-asia">East Asia</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/central-asia">Central Asia</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/oceania">Oceania</a></li>
+                <li><a href="//www.worldcasinodirectory.com/region/middle-east">Middle East</a></li>
                 <li><a href="//www.worldcasinodirectory.com/oceanliner-casinos.asp">Cruiseships</a></li>
             </ul>
         </div>
@@ -681,14 +704,14 @@ We have proper security measures in place at the physical location of all server
                 <li><a href="//www.worldcasinodirectory.com/france"><img src="//www.worldcasinodirectory.com/images/allflags/fr.gif" height="11" width="16"> France</a></li>
                 <li><a href="//www.worldcasinodirectory.com/philippines"><img src="//www.worldcasinodirectory.com/images/allflags/ph.gif" height="11" width="16"> Philippines</a></li>
                 <li><a href="//www.worldcasinodirectory.com/singapore"><img src="//www.worldcasinodirectory.com/images/allflags/sg.gif" height="11" width="16"> Singapore</a></li>
-                <li><a href="//www.worldcasinodirectory.com/netherlands"><img src="//www.worldcasinodirectory.com/images/allflags/nl.gif" height="11" width="16"> Netherlands</a></li>
-                <li><a href="//www.worldcasinodirectory.com/united-kingdom"><img src="//www.worldcasinodirectory.com/images/allflags/gb.gif" height="11" width="16"> United Kingdom</a></li>
+                <li><a href="//www.worldcasinodirectory.com/netherlands"><img src="//www.worldcasinodirectory.com/images/allflags/nl.gif" height="11" width="16"> Netherlands </a></li>
+                <li><a href="//www.worldcasinodirectory.com/united-kingdom"><img src="//www.worldcasinodirectory.com/images/allflags/gb.gif" height="11" width="16"> United Kingdom </a></li>
                 <li><a href="//www.worldcasinodirectory.com/canada"><img src="//www.worldcasinodirectory.com/images/allflags/ca.gif" height="11" width="16"> Canada</a></li>
                 <li><a href="//www.worldcasinodirectory.com/argentina"><img src="//www.worldcasinodirectory.com/images/allflags/ar.gif" height="11" width="16"> Argentina</a></li>
-                <li><a href="//www.worldcasinodirectory.com/germany"><img src="//www.worldcasinodirectory.com/images/allflags/de.gif" height="11" width="16"> Germany</a></li>
+                <li><a href="//www.worldcasinodirectory.com/germany"><img src="//www.worldcasinodirectory.com/images/allflags/de.gif" height="11" width="16"> Germany </a></li>
                 <li><a href="//www.worldcasinodirectory.com/estonia"><img src="//www.worldcasinodirectory.com/images/allflags/ee.gif" height="11" width="16"> Estonia</a></li>
                 <li><a href="//www.worldcasinodirectory.com/peru"><img src="//www.worldcasinodirectory.com/images/allflags/pe.gif" height="11" width="16"> Peru</a></li>
-                <li><a href="//www.worldcasinodirectory.com/russia"><img src="//www.worldcasinodirectory.com/images/allflags/ru.gif" height="11" width="16"> Russia</a></li>
+                <li><a href="//www.worldcasinodirectory.com/russia"><img src="//www.worldcasinodirectory.com/images/allflags/ru.gif" height="11" width="16"> Russia </a></li>
             </ul>
         </div>
         <div class="2u">
@@ -835,7 +858,8 @@ $(document).ready(function(){
                     }else{
                         div+=casino.casinoname;
                     }
-                    div+='</td> <td class="bonus"><a  rel="nofollow noopener" target="_blank" href="'+casino.bonusurl+'">';
+                    div+='</td> <td class="bonus">';
+                    if(country_code != 'GB') {  // dont show bonuses for UK players
                      if (typeof casino.bonus_percent == 'undefined'){casino.bonus_percent=casino.bonuspercent}
                     if(casino.text_1){
                         if(casino.text_1.indexOf("up to")!==-1){
@@ -847,7 +871,8 @@ $(document).ready(function(){
                     if ( casino.bonus_type!==null) {
                       div+='<span class="currency_symbols">'+casino.currency_symbols+casino.text_2+'</span>';
                     }
-            		div+='</a></td>';
+                    }
+            		div+='</td>';
                     div+='<td style="width: 3em;"><a rel="nofollow noopener" target="_blank" data-name="'+casino.casinoname+'" data-spot="'+casino.position+'" class="button-mini toplist-link" href="'+casino.casinourl+'">'+play+'</a></td></tr>'
             	});
         	
@@ -919,7 +944,7 @@ $(document).ready(function(){
         <li><a href="//online.worldcasinodirectory.com/craps">Craps</a></li>
         <li><a href="//online.worldcasinodirectory.com/unique-casino-games">Fixed Odds</a></li>
         <li>&nbsp;</li>
-        <li class="mm-h2">Slots</li>
+        <li class="mm-h2"><a href="https://online.worldcasinodirectory.com/slots" style="font-family:'Oswald';color: #a5804e; font-size: 1.0em">Slots</a></li>
         <li><a href="//online.worldcasinodirectory.com/newest-slots">Newest slots</a></li>
         <li><a href="//online.worldcasinodirectory.com/video-slots">Video slots</a></li>
         <li><a href="//online.worldcasinodirectory.com/progressive-slots">Progressive slots</a></li>
@@ -1004,44 +1029,7 @@ $(document).ready(function(){
 
     </div>
 </div>
-<script>
-$(document).ready(function(){
-    
-        $.ajax({url: "https://news.worldcasinodirectory.com/api.php?key=lcAWxG96k2h5z6pA&search=wcdprivpol.htm&nobp=3", success: function(result){
-            
-            var div='<div class="row">';
-            posts=result.recent_blog_posts;
-            for (i = 0; i < posts.length; i++) {
-     
 
-              div+='<div class="3u"><div class="news-thumb-container"><div class="news-thumb-headline"><a class="news-thumb-link" href="//news.worldcasinodirectory.com/' + posts[i].post_name+ '-'+posts[i].ID+'">'+posts[i].post_title+'</a></div>'
-
-              if(posts[i].thumbnail){
-                 div+='<a  href="//news.worldcasinodirectory.com/' + posts[i].post_name+ '-'+posts[i].ID+'"><img width=266 src="' + posts[i].thumbnail +'" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt=""/></a>'
-              }
-              div+='</div><div class="news-thumb-stats"><i class="fa fa-clock-o"></i> <span class="news-thumb-date">' +posts[i].post_date_nice+ '</span>'
-              if(posts[i].comment_count>0){
-                 div+='&nbsp;&nbsp;<i class="fa fa-comment"></i> <span class="news-thumb-date">'+posts[i].comment_count+ ' comment'
-                 if (posts[i].comment_count > 1) { div+='s' } 
-                 div+='</span>'
-              }
-              div+='</div></div>';
-            }
-            div+='</div>';
-            $("#menu-header-news").html(div);
-          }
-        });
-   
-  var $loading = $('#loading-news-header').hide();
-  $(document)
-    .ajaxStart(function () {
-      $loading.show();
-    })
-    .ajaxStop(function () {
-    $loading.hide();
-    })
-});
-</script>
 
 
 
@@ -1096,21 +1084,11 @@ $(document).ready(function(){
                 <li><a href="//online.worldcasinodirectory.com/keno">Keno</a></li>
                 <li><a href="//online.worldcasinodirectory.com/craps">Craps</a></li>
                 <li><a href="//online.worldcasinodirectory.com/unique-casino-games">Fixed Odds</a></li>
-<!--                <li>&nbsp;</li>
-                <li class="mm-h2">Slots</li>
-                <li><a href="//online.worldcasinodirectory.com/newest-slots">Newest slots</a></li>
-                <li><a href="//online.worldcasinodirectory.com/video-slots">Video slots</a></li>
-                <li><a href="//online.worldcasinodirectory.com/progressive-slots">Progressive slots</a></li>
-                <li><a href="//online.worldcasinodirectory.com/reel-slots">Reel slots</a></li>-->
-
-
-
             </ul>
         </div>
         <div class="3u">
-            <b class="mm-h1">Slots</b>
+            <b class="mm-h1"><a href="https://online.worldcasinodirectory.com/slots" style="font-family:'Oswald';color: #a5804e; font-size: 1.0em">Slots</a></b>
             <ul>
-                <!--<li class="mm-h2">Slots</li>-->
                 <li><a href="//online.worldcasinodirectory.com/newest-slots">Newest slots</a></li>
                 <li><a href="//online.worldcasinodirectory.com/video-slots">Video slots</a></li>
                 <li><a href="//online.worldcasinodirectory.com/progressive-slots">Progressive slots</a></li>
@@ -1190,7 +1168,8 @@ $(document).ready(function(){
                     }else{
                         div+=casino.casinoname;
                     }
-                    div+='</td> <td class="bonus"><a  rel="nofollow noopener" target="_blank" href="'+casino.bonusurl+'">';
+                    div+='</td> <td class="bonus">';
+                    if(country_code != 'GB') {  // dont show bonuses for UK players
                      if (typeof casino.bonus_percent == 'undefined'){casino.bonus_percent=casino.bonuspercent}
                     if(casino.text_1){
                         if(casino.text_1.indexOf("up to")!==-1){
@@ -1202,7 +1181,8 @@ $(document).ready(function(){
                     if ( casino.bonus_type!==null) {
                       div+='<span class="currency_symbols">'+casino.currency_symbols+casino.text_2+'</span>';
                     }
-            		div+='</a></td>';
+                    }
+            		div+='</td>';
                     div+='<td style="width: 3em;"><a rel="nofollow noopener" target="_blank" data-name="'+casino.casinoname+'" data-spot="'+casino.position+'" class="button-mini toplist-link" href="'+casino.casinourl+'">'+play+'</a></td></tr>'
             	});
         	
@@ -1355,7 +1335,8 @@ $(document).ready(function(){
                     }else{
                         div+=casino.casinoname;
                     }
-                    div+='</td> <td class="bonus"><a  rel="nofollow noopener" target="_blank" href="'+casino.bonusurl+'">';
+                    div+='</td> <td class="bonus">';
+                    if(country_code != 'GB') {  // dont show bonuses for UK players
                      if (typeof casino.bonus_percent == 'undefined'){casino.bonus_percent=casino.bonuspercent}
                     if(casino.text_1){
                         if(casino.text_1.indexOf("up to")!==-1){
@@ -1367,7 +1348,8 @@ $(document).ready(function(){
                     if ( casino.bonus_type!==null) {
                       div+='<span class="currency_symbols">'+casino.currency_symbols+casino.text_2+'</span>';
                     }
-            		div+='</a></td>';
+                    }
+            		div+='</td>';
                     div+='<td style="width: 3em;"><a rel="nofollow noopener" target="_blank" data-name="'+casino.casinoname+'" data-spot="'+casino.position+'" class="button-mini toplist-link" href="'+casino.casinourl+'">'+play+'</a></td></tr>'
             	});
         	
@@ -1454,7 +1436,8 @@ $(document).ready(function(){
                     }else{
                         div+=casino.casinoname;
                     }
-                    div+='</td> <td class="bonus"><a  rel="nofollow noopener" target="_blank" href="'+casino.bonusurl+'">';
+                    div+='</td> <td class="bonus">';
+                    if(country_code != 'GB') {  // dont show bonuses for UK players
                      if (typeof casino.bonus_percent == 'undefined'){casino.bonus_percent=casino.bonuspercent}
                     if(casino.text_1){
                         if(casino.text_1.indexOf("up to")!==-1){
@@ -1466,7 +1449,8 @@ $(document).ready(function(){
                     if ( casino.bonus_type!==null) {
                       div+='<span class="currency_symbols">'+casino.currency_symbols+casino.text_2+'</span>';
                     }
-            		div+='</a></td>';
+                    }
+            		div+='</td>';
                     div+='<td style="width: 3em;"><a rel="nofollow noopener" target="_blank" data-name="'+casino.casinoname+'" data-spot="'+casino.position+'" class="button-mini toplist-link" href="'+casino.casinourl+'">'+play+'</a></td></tr>'
             	});
         	
@@ -1646,159 +1630,173 @@ $(document).ready(function(){
     <div class="row">
 
         <div class="3u">
-            
-<h3 class="flush-bottom">Top World Lotteries</h3>
+            <h3 class="flush-bottom">Top World Lotteries</h3>
 
 <div class="main-toplist marginB20" style="background-size: auto 100%;background-position: right top; padding: 1em;">
 <table>
 <tbody><tr>
-	<td class="top-lottery-jackpot-row1">
-		<a rel="nofollow noopener" target="_blank" href="https://www.thelotter.com/play.aspx?lotteryid=25&amp;itemid=1&amp;tl_affid=8179" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/101.png" class="lottery-sml-logo" alt="Buy Powerball tickets">
-				</a>
+	<td class="top-lottery-jackpot-row1" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/us-mega-millions" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/2.png" class="lottery-sml-logo" style="width: 80%" title="Mega Millions">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row1" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="https://www.thelotter.com/play.aspx?lotteryid=25&amp;itemid=1&amp;tl_affid=8179">$193,000,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row1" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=2&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$232,000,000"> $232,000,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.thelotter.com/play.aspx?lotteryid=25&amp;itemid=1&amp;tl_affid=8179">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=2&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row0">
-		<a rel="nofollow noopener" target="_blank" href="https://www.thelotter.com/play.aspx?lotteryid=60&amp;itemid=1&amp;tl_affid=8179" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/113.png" class="lottery-sml-logo" alt="Buy MEGA Millions tickets">
-				</a>
+	<td class="top-lottery-jackpot-row0" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/la-primitiva-spain" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/157.png" class="lottery-sml-logo" style="width: 80%" title="Spain - La Primitiva">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row0" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="https://www.thelotter.com/play.aspx?lotteryid=60&amp;itemid=1&amp;tl_affid=8179">$160,000,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row0" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=19&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$63,582,417"> €55,000,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.thelotter.com/play.aspx?lotteryid=60&amp;itemid=1&amp;tl_affid=8179">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=19&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row1">
-		<a rel="nofollow noopener" target="_blank" href="https://www.thelotter.com/play.aspx?lotteryid=99&amp;itemid=1&amp;tl_affid=8179" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/801.png" class="lottery-sml-logo" alt="Buy EuroMillions tickets">
-				</a>
+	<td class="top-lottery-jackpot-row1" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/us-powerball" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/1.png" class="lottery-sml-logo" style="width: 80%" title="Powerball">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row1" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="https://www.thelotter.com/play.aspx?lotteryid=99&amp;itemid=1&amp;tl_affid=8179">$85,000,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row1" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=3&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$60,000,000"> $60,000,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.thelotter.com/play.aspx?lotteryid=99&amp;itemid=1&amp;tl_affid=8179">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=3&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row0">
-		<a rel="nofollow noopener" target="_blank" href="http://www.worldcasinodirectory.com/canadian_lottery_results.htm" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/203.png" class="lottery-sml-logo" alt="Buy Lotto Max tickets">
-				</a>
+	<td class="top-lottery-jackpot-row0" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/euromillions" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/105.png" class="lottery-sml-logo" style="width: 80%" title="Euro Millions">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row0" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="http://www.worldcasinodirectory.com/canadian_lottery_results.htm">$55,000,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row0" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=8&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$41,617,582"> €36,000,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="http://www.worldcasinodirectory.com/canadian_lottery_results.htm">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=8&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row1">
-		<a rel="nofollow noopener" target="_blank" href="https://www.thelotter.com/play.aspx?lotteryid=28&amp;itemid=1&amp;tl_affid=8179" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/CA1.png" class="lottery-sml-logo" alt="Buy SuperLotto Plus tickets">
-				</a>
+	<td class="top-lottery-jackpot-row1" style="padding-right: 3px ; line-height: 1;">
+                                    <span style="font-size: 1.3rem;"> <img src="//www.worldcasinodirectory.com/assets/images/lottery/original/103.png" class="lottery-sml-logo" style="width: 80%" title="Canada - Lotto Max"></span>
+  
+                        		
 	</td>
 
-	<td class="top-lottery-jackpot-row1" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="https://www.thelotter.com/play.aspx?lotteryid=28&amp;itemid=1&amp;tl_affid=8179">$37,000,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row1" style="text-align: right; padding-right: 3px;">
+                            <span style="font-size: 1.3rem; color:#e0e0e0;" title="$37,503,188">CA$50,000,000</span>
+            	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.thelotter.com/play.aspx?lotteryid=28&amp;itemid=1&amp;tl_affid=8179">Tickets		</a>
-	</td>
+        	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row0">
-		<a rel="nofollow noopener" target="_blank" href="http://www.worldcasinodirectory.com/ohio-lottery-results.htm" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/OH5.png" class="lottery-sml-logo" alt="Buy Classic Lotto tickets">
-				</a>
+	<td class="top-lottery-jackpot-row0" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/swiss-lotto" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/167.png" class="lottery-sml-logo" style="width: 80%" title="Swiss Lotto">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row0" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="http://www.worldcasinodirectory.com/ohio-lottery-results.htm">$24,500,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row0" style="text-align: right; padding-right: 3px;">
+                            <span style="font-size: 1.3rem; color:#e0e0e0;" title="$16,825,069">CHF16,800,000</span>
+            	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="http://www.worldcasinodirectory.com/ohio-lottery-results.htm">Tickets		</a>
-	</td>
+        	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row1">
-		<a rel="nofollow noopener" target="_blank" href="" data-style="lotteryToggle">
-		Lotto America		</a>
+	<td class="top-lottery-jackpot-row1" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/hoosier-lotto" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/73.png" class="lottery-sml-logo" style="width: 80%" title="Hoosier Lotto">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row1" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="">$16,070,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row1" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=22&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$10,500,000"> $10,500,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=22&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row0">
-		<a rel="nofollow noopener" target="_blank" href="http://www.worldcasinodirectory.com/illinois-lottery-results.htm" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/IL4.png" class="lottery-sml-logo" alt="Buy Lotto tickets">
-				</a>
+	<td class="top-lottery-jackpot-row0" style="padding-right: 3px ; line-height: 1;">
+                                    <span style="font-size: 1.3rem;"> <img src="//www.worldcasinodirectory.com/assets/images/lottery/original/156.png" class="lottery-sml-logo" style="width: 80%" title="Spain - El Gordo"></span>
+  
+                        		
 	</td>
 
-	<td class="top-lottery-jackpot-row0" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="http://www.worldcasinodirectory.com/illinois-lottery-results.htm">$15,250,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row0" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=12&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$10,173,187"> €8,800,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="http://www.worldcasinodirectory.com/illinois-lottery-results.htm">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=12&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row1">
-		<a rel="nofollow noopener" target="_blank" href="http://www.thelotter.com/LotteryResults.aspx?id=24" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/UK1.png" class="lottery-sml-logo" alt="Buy LOTTO tickets">
-				</a>
+	<td class="top-lottery-jackpot-row1" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/california-super-lotto" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/21.png" class="lottery-sml-logo" style="width: 80%" title="California - SuperLotto Plus">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row1" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="http://www.thelotter.com/LotteryResults.aspx?id=24">$10,900,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row1" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=4&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$10,000,000"> $10,000,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="http://www.thelotter.com/LotteryResults.aspx?id=24">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=4&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 <tr>
-	<td class="top-lottery-jackpot-row0">
-		<a rel="nofollow noopener" target="_blank" href="http://www.worldcasinodirectory.com/lotto.htm" data-style="lotteryToggle">
-				<img src="//www.worldcasinodirectory.com/images/icons/lottery/PR3.png" class="lottery-sml-logo" alt="Buy Loto Plus tickets">
-				</a>
+	<td class="top-lottery-jackpot-row0" style="padding-right: 3px ; line-height: 1;">
+             		<a rel="nofollow noopener" target="_blank" href="//www.worldcasinodirectory.com/lottery/superenalotto-italy" data-style="lotteryToggle">
+		  		<img src="//www.worldcasinodirectory.com/assets/images/lottery/original/166.png" class="lottery-sml-logo" style="width: 80%" title="Italy - SuperEnalotto">
+                   
+</a>
+				
 	</td>
 
-	<td class="top-lottery-jackpot-row0" style="text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="jackpot" style="text-decoration: none;" href="http://www.worldcasinodirectory.com/lotto.htm">$8,550,000		</a>
-	</td>
+	<td class="top-lottery-jackpot-row0" style="text-align: right; padding-right: 3px;">
+            		<a rel="nofollow noopener" target="_blank" href="https://www.wintrillions.com/play_lottery.php?lot_id=18&amp;account=wcdaccount&amp;track=WCD" class="jackpot" title="$9,595,165"> €8,300,000</a>
+	    	</td>
 
 	<td style="width: 6em; text-align: right;">
-		<a rel="nofollow noopener" target="_blank" class="button-mini" href="http://www.worldcasinodirectory.com/lotto.htm">Tickets		</a>
-	</td>
+        		<a rel="nofollow noopener" target="_blank" class="button-mini" href="https://www.wintrillions.com/play_lottery.php?lot_id=18&amp;account=wcdaccount&amp;track=WCD">Tickets		</a>
+          	</td>
 </tr>
 </tbody></table>
 </div>        </div>
@@ -1924,17 +1922,6 @@ $(document).ready(function(){
                         <div class="row">
 
                             
-                            <!-- <div class="3u">
-                                  <ul class="link-list last-child">
-
-                                      <h2>Lottery results</h2>
-
-                                      <li>Have you struck it rich? Find out with our worldwide <a href="//www.worldcasinodirectory.com/lotto.htm">lottery results</a>.</li>
-                                      <li>Our global lottery ticket agent now allows you to purchase your <a href="//www.worldcasinodirectory.com/lotteryticketsales">lottery tickets online</a>.</li>
-
-                                  </ul>
-                              </div>
-
                             <!--start Trusted Partners -->
                             <div class="12u partnersWrapper">
                                
@@ -1974,12 +1961,12 @@ $(document).ready(function(){
 
                 <!-- Blurb -->
                 <section>
-                    <h2>Please note</h2>
-                    <p>
-                        There are thousands of jurisdictions worldwide with access to the internet. It is <u>your</u> responsibility to determine whether it is legal for you to place a wager in the jurisdiction in which you are located based on local regulatory and age restrictions. World Casino Directory is an independent information provider and does not process any money. The links on our site are for entertainment and informational purposes only. Accuracy is intended but is not guaranteed.                    </p>
-                    <h2>Play responsibly</h2>
-                    <p>
-                        Know when to stop before you start. If you think you or someone you know may have a problem with gambling, visit <a href="http://www.gamcare.org.uk/" rel="nofollow noopener" target="_blank">GamCare</a> for support.                    </p>
+                  
+                     <div class="logosHolder">
+                        <a href="http://www.gamcare.org.uk/" target="blank"><img src="//www.worldcasinodirectory.com/assets/images/gamecare.png"></a>
+                        <a href="//www.worldcasinodirectory.com/wcdtac.htm"><img src="//www.worldcasinodirectory.com/assets/images/18plus.png"></a>
+                        <a class="third" href="https://www.begambleaware.org/" target="blank"><img src="//www.worldcasinodirectory.com/assets/images/be_gamble_aware.png"></a>
+                    </div>
                 </section>
 
                 <script type="text/javascript">
@@ -2014,17 +2001,34 @@ $(document).ready(function(){
                 </script>
 
                 
-                <!-----------array(1) {
-  [1]=>
-  array(1) {
-    ["url"]=>
-    string(45) "//www.worldcasinodirectory.com/wcdprivpol.htm"
-  }
-}
--->
+                
             </div>
         </div>
     </footer>
+<div class="cookie-bar-alert"><p> World Casino Directory uses cookies, this enables us to provide you with a personalised experience.<a class="cookie-bar-more-info" href="https://www.worldcasinodirectory.com/wcdprivpol.htm">More Info</a><button class="hide-cookie-bar">Got It!</button></p></div>
+<script>
+$(document).ready(
+	function(){
+		$('.cookie-bar-alert').delay(3000).show(1000);
+		$('.hide-cookie-bar').click(function(){
+				$('.cookie-bar-alert').fadeOut('fast');
+				createCookie('using_cookie', "cookie notification", 365);
+				console.log("done");
+			}
+		)
+	}
+)
+
+function createCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+</script>
 </div>
 
 
@@ -2032,11 +2036,12 @@ $(document).ready(function(){
 
 <!-- Copyright -->
 <div id="copyright">
-    © 2003-2017 E3WD Inc. All rights reserved. | <!--a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a>| -->
+    © 2003-2018 E3WD Inc. All rights reserved. | <!--a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a>| -->
     <a href="//www.worldcasinodirectory.com/contact">Contact us</a> |
     <a href="//www.worldcasinodirectory.com/about">About us</a> |
     <a href="//www.worldcasinodirectory.com/wcdtac.htm">Terms &amp; Conditions</a> |
     <a href="//www.worldcasinodirectory.com/wcdprivpol.htm">Privacy Policy</a>
+    <div class="12u"></div>
     <div class="admin-edit-link"></div>
 
 </div>
@@ -2230,5 +2235,8 @@ $(document).ready(function(){
         s.parentNode.insertBefore(bh, s);
     })(document, 'script');
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8f9be20493","applicationID":"7760893","transactionName":"NgdbYRNWCkUEVhINVw9NbEcIGA1YAVAeSkgJEg==","queueTime":0,"applicationTime":1894,"atts":"GkBYF1tMGUs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8f9be20493","applicationID":"7760893","transactionName":"NgdbYRNWCkUEVhINVw9NbEcIGA1YAVAeSkgJEg==","queueTime":0,"applicationTime":1700,"atts":"GkBYF1tMGUs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
