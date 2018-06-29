@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2017-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171216113213id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629145046id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
   <meta charset="UTF-8">
@@ -29,6 +29,20 @@
     <!--[if lt IE 9]>
     <link rel="stylesheet" type="text/css" href="http://st.cdjapan.co.jp/assets/css/ie.css" />
     <![endif]-->
+    <style type="text/css">
+  .cal_list .bx-wrapper .bx-controls-direction a {
+    top: 100%;
+    margin-top: 0;
+    height: 30px;
+    width: 17px;
+  }
+  .cal_list .bx-wrapper .bx-prev {
+    background: url(http://st.cdjapan.co.jp/assets/lib/bxslider/images/slider-left.png);
+  }
+  .cal_list .bx-wrapper .bx-next {
+    background: url(http://st.cdjapan.co.jp/assets/lib/bxslider/images/slider-right.png);
+  }
+    </style>
 
     <!-- <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/modernizr.custom.01598.js"></script> -->
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T78BL6X"></script><script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
@@ -57,7 +71,7 @@
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.dotdotdot.min.js"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.scrolldepth.min.js"></script>
 
-    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=16072001"></script>
+    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=18061201"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/api.js?v=2013110802"></script>
     <script src="//www.c-rings.net/crj/cr_web_access.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -94,6 +108,7 @@
 
     <script type="text/javascript">
       var nwapi = new neowing_api();
+      var nwcar = new ProductCarousel();
       var nw_cust_info = undefined;
       $(function(){
         moment.lang('en');
@@ -133,6 +148,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T78BL6X');</script>
 
     <script src="//media.richrelevance.com/rrserver/js/1.2/p13n.js"></script>
+<script type="text/javascript">
+$(function() {
+  var _cb = RR.jsonCallback;
+  RR.jsonCallback = function() {
+    _cb();
+    DisplayNewShoppers();
+  }
+
+  function DisplayNewShoppers() {
+    for (var key in RR.data.JSON.content) {
+      if ( RR.data.JSON.content[key]['placement_name'].match(/newshoppers/) ) {
+        var p = RR.data.JSON.content[key]['clickthrough_URL'].split("?", 2);
+        var p2 = p[1].split("&");
+        var newp = [];
+        for (var i in p2) {
+          if (!(p2[i].match(/^ct=/))) {
+            newp.push(p2[i]);
+          }
+        }
+        var linkElement = document.createElement("a");
+        linkElement.href = RR.data.JSON.content[key]['raw_url'];
+        linkElement.setAttribute('onclick',
+          "rr.log_click('" + p[0] + "?" + newp.join("&") +
+          "');ga('send', 'event', 'header-banner-eng-click', 'click', '" +
+          RR.data.JSON.content[key]['raw_url'].replace(/'/g,'%27') + "')");
+        linkElement.setAttribute('style',
+          'display:block;line-height:0;text-decoration:none;background-color:#'
+          + ( RR.data.JSON.content[key]['header_color'] || 'fff' ) );
+        var alt_txt = RR.data.JSON.content[key]['title'] || '';
+        var imgElement = document.createElement("img");
+          imgElement.src = RR.data.JSON.content[key]['asset_image_URL'] || '';
+          imgElement.title = alt_txt;
+          imgElement.alt = alt_txt;
+        linkElement.appendChild(imgElement);
+        var targetdiv = document.getElementById('newshoppers');
+        if ( targetdiv ) targetdiv.appendChild(linkElement);
+      }
+    }
+  }
+});
+</script>
     <script charset="utf-8" type="text/javascript">
       var ck = GetCookies();
       var R3_COMMON = new r3_common();
@@ -429,7 +485,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="container">
   <section id="content">
     <div class="content_header">
-      <a href="http://www.cdjapan.co.jp/daiko/" style="display:block;line-height:0;text-decoration: none;background-color: #cc17e0;"><img src="http://st.cdjapan.co.jp/pictures/cms/c/proxy_slim_banner.jpg" alt="looking for rare stuff?"></a>
+      <a href="/info/20180523" style="display:block;line-height:0;text-decoration:none;background-color:#fff;"><img src="http://st.cdjapan.co.jp/pictures/cms/c/shipping_delay_180528.png" alt="Shipping Facility Relocation"></a>
     </div>
 <div class="row sdw">
   <ul class="small-breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
@@ -477,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <h2>Releasing Personal Information</h2>
 
-<p> We may release personal information in circumstances in which we reasonably believe it is appropriate for complying with law, or for protecting the rights, safety, and property of CDJapan (Neo Wing Co.), our users, or others. Also, we may share personal information with third-party companies as detailed in Sharing Personal Information With Third Parties. Otherwise, we do not release any personal information to others for any purpose or reason.</p>
+<p>We may release personal information in circumstances in which we reasonably believe it is appropriate for complying with law, or for protecting the rights, safety, and property of CDJapan (Neo Wing Co.), our users, or others. Also, we may share personal information with third-party companies as detailed in Sharing Personal Information With Third Parties. Otherwise, we do not release any personal information to others for any purpose or reason.</p>
 
 <p><a name="5" id="5"></a></p>
 
@@ -540,7 +596,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p>CDJapan (Neo Wing Co.) complies with all applicable laws and regulations of Japan pertaining to the protection of personal information and continues to review and make efforts to improve its compliance program, including this Privacy Policy.</p>
 
+<p><a name="10" id="11"></a></p>
+
+<h2>Privacy Protection for EEA Users (Updated: May 5, 2018 )</h2>
+
+<p>For users receiving orders in the EEA (European Economic Area), that is, the EU (European Union) countries, Iceland, Liechtenstein and Norway, please be advised of the following additional terms.</p>
+
+<p>Your user data are being transferred and kept on a server located in JAPAN, managed and maintained by CDJapan (Neowing Corporation). Although the Council of Europe has not yet approved the Japanese data protection standard, CDJapan (Neowing Corporation) will manage and use these data appropriately and in a responsible way.</p>
+
+<p>CDJapan does not intend to collect and or exchange personal information of underaged individuals. Any personal information regarding a person under the age of 13 received without the permission from a legal guardian is to be removed from our server immediately at the time of discovery.</p>
+
+<p>Upon request, the user may access, modify and delete the data submitted, please contact us at info@cdjapan.co.jp for further information. After agreeing to this policy, the user retains the right to terminate the agreement (see the ‘Termination’ section below) at will, and to report any mishandling of personal data by CDJapan (Neowing Corporation) to the relevant EEA authority.</p>
+
+<p><a name="10" id="12"></a></p>
+
+<h2>Termination</h2>
+
+<p>Termination of this agreement implies the COMPLETE removal of its correlated user account and the information contained within. Similarly, the removal of a user account*, would also terminate the agreement between CDJapan (Neowing Corporation) and its respective user.</p>
+
+<p>*For security purposes, CDJapan reserves the right to remove malicious accounts at its own discretion.</p>
+
 <p>Established: April 1, 2005
+Last Updated: May 5, 2018
 Fumio Katagiri
 President, Neo Wing Co.</p>
 
@@ -742,7 +819,7 @@ President, Neo Wing Co.</p>
     </div>
 
   </div>
-  <div class="copyright">© 2003-2017 Neowing. All Rights Reserved.</div>
+  <div class="copyright">© 2003-2018 Neowing. All Rights Reserved.</div>
 </footer>
   
 
