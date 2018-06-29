@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the monzo.com privacy policy that was archived on 2017-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112173523id_/https%3A//monzo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monzo.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629091703id_/https%3A//monzo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js terms"><head>
+<!DOCTYPE html><html class="no-js  async-hide" lang="en" dir="ltr"><head>
   
   
 
@@ -14,8 +14,9 @@
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1">
   <meta name="format-detection" content="telephone=no">
   <meta name="description" content="Monzo is a bank that makes life easier, not harder.">
+  <meta name="theme-color" content="#14233C">
 
-  <title>Monzo – It's time for a new kind of bank</title>
+  <title>Monzo – Privacy Policy</title>
 
   <link rel="shortcut icon" href="/static/images/favicon.png">
   <link rel="image_src" href="/static/images/mondo-mark-01.png">
@@ -24,7 +25,7 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="">
+  <meta property="og:title" content="Privacy Policy">
   <meta property="og:url" content="https://monzo.com/privacy/">
   <meta property="og:description" content="Monzo are building a smart bank on your smartphone and we need your help to create the bank of the future.">
   <meta property="og:image" content="https://monzo.com/static/images/facebook-campaign-image-01.png">
@@ -33,7 +34,7 @@
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@monzo">
-  <meta name="twitter:title" content="">
+  <meta name="twitter:title" content="Privacy Policy">
   <meta name="twitter:description" content="Get early access now! Monzo are building a bank as smart as your phone.">
   <meta name="twitter:image" content="https://monzo.com/static/images/twitter-card.png">
 
@@ -47,9 +48,59 @@
 
   
 
-  <link rel="stylesheet" href="/static/css/main.css?v13">
+  
+    <link rel="stylesheet" href="/static/css/monzo-framework.min.css?v21">
+  
 
   
+
+  <style>
+    .c-cookie-policy {
+      align-items: center;
+      font-size: 14px;
+      background-color: rgba(255, 255, 255, .95);
+      border: 0;
+      bottom: 0;
+      display: none;
+      flex-basis: 100%;
+      justify-content: center;
+      line-height: 18px;
+      padding: 12px 8px 8px 16px;
+      position: fixed;
+      margin: 0 auto;
+      z-index: 9000;
+    }
+
+    .c-cookie-policy[open="open"] {
+      display: -webkit-flex;
+      display: -ms-flex;
+      display: flex;
+    }
+
+    .c-cookie-policy .c-cookie-policy__button {
+      background-color: rgba(0, 160, 214, .1);
+      color: #00a0d6;
+      border: 0;
+      font-size: 14px;
+      margin: 0 0 0 16px;
+    }
+
+    @media screen and (min-width: 768px) {
+      .c-cookie-policy {
+        background-color: white;
+        bottom: 20px;
+        border-radius: 8px;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, .2);
+        font-size: 16px;
+        flex-basis: auto;
+        padding-top: 8px;
+      }
+
+      .c-cookie-policy .c-cookie-policy__button {
+        font-size: 16px;
+      }
+    }
+  </style>
 
   <!-- Scripts -->
   <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
@@ -74,17 +125,32 @@
   
 
   
-
+    
+      <script defer="" src="/static/scripts/table-of-contents.js?v21"></script>
+    
   
 
   
-  <script>
+
+  
+  <style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-WPM2MRF':true});</script>
+
+<script>
   (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
   function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
   e=o.createElement(i);r=o.getElementsByTagName(i)[0];
   e.src='//www.google-analytics.com/analytics.js';
   r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-  ga('create','UA-63104269-1');ga('send','pageview');
+  var branch = 'master';
+  ga('create','UA-63104269-1');
+  ga('require', 'GTM-WPM2MRF');
+  ga('set', 'dimension1', branch);
+  ga('send','pageview', { 'dimension1': branch });
 </script>
 
 <script>
@@ -95,178 +161,318 @@
   * the hit be sent using 'navigator.sendBeacon' in browser that support it.
   */
   var trackOutboundLink = function(url) {
+    var branch = 'master';
     ga('send', 'event', 'outbound', 'click', url, {
+      'dimension1':  branch,
       'transport': 'beacon',
       'hitCallback': function(){document.location = url;}
     });
   }
 </script>
 
+  <style>
+  @media screen and (max-width: 768px) {
+    .c-header.js-scroll-up.is-active {
+      top: 0;
+    }
+  }
+  </style>
 </head>
 
   <body class="anim">
-    <div class="article__content" id="article__content">
-  <div class="container--lg">
-    <h1>Monzo Privacy Policy</h1>
-    <p>
-      Monzo Bank Ltd ("we", "our", "us"), operating as Monzo, is committed to protecting and respecting your privacy.
-    </p>
-    <p>
-      This Privacy Policy, together with our Terms and Conditions, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
-    </p>
-    <p>
-      Information we may collect from you
-    </p>
-    <p>
-      We may collect and process the following personal data about you:
-    </p>
-    <ol>
-      <li>
-        Information that you provide directly via our website or mobile application, for example during registration;
-      </li>
-      <li>
-        Information that you provide when you enter a competition or promotion sponsored by us or third parties, and when you report any problem with our website;
-      </li>
-      <li>
-        If you contact us, we may keep a record of that correspondence, including any phone number or email address you use;
-      </li>
-      <li>
-        Information that you provide when completing surveys that we use for research purposes;
-      </li>
-      <li>
-        Details of transactions (including details of payment cards and bank accounts used) that you carry out through our website, mobile application, or using the Monzo card.
-      </li>
-      <li>
-        Details of your usage of our mobile application and website including, but not limited to, traffic data, location data, logs, error- &amp; crash-reporting, and other communication data and the resources that you access.
-      </li>
-      <li>
-        Information available about your usage or configuration of your mobile device, including the presence of other applications, unique device-identifying information, and any cellular network, IP, wifi or bluetooth data;
-      </li>
-      <li>
-        Information you give us explicit permission to access from your mobile device, including your address book, photos, geolocation, gyroscopes, data from your cameras or microphones. You may choose not to give permission to share this data, but it may restrict
-        the usage of certain features of the mobile application;
-      </li>
-      <li>
-        Information from any social network or other online accounts that you choose to share with us.
-      </li>
-    </ol>
+    
+<header class="c-header" id="navigation">
+  <div class="c-header__container">
+    <a href="/" class="c-header__logo" title="Monzo home page">Monzo</a>
+    <nav class="c-header__nav" aria-labelledby="menu-toggle">
+      <button class="c-header__toggle" id="menu-toggle" aria-expanded="false" title="menu" aria-controls="menu">
+        <span class="c-header__open">Menu <span aria-hidden="true">≡</span></span>
+        <span class="c-header__close">Close menu <span aria-hidden="true"><svg width="10" height="10" xmlns="http://www.w3.org/2000/svg"><path d="M5 3.586L8.182.404a.5.5 0 0 1 .707 0l.707.707a.5.5 0 0 1 0 .707L6.414 5l3.182 3.182a.5.5 0 0 1 0 .707l-.707.707a.5.5 0 0 1-.707 0L5 6.414 1.818 9.596a.5.5 0 0 1-.707 0L.404 8.89a.5.5 0 0 1 0-.707L3.586 5 .404 1.818a.5.5 0 0 1 0-.707L1.11.404a.5.5 0 0 1 .707 0L5 3.586z" fill="#FFF" fill-rule="evenodd"></path></svg></span></span>
+      </button>
+      <div class="c-header__menu" id="menu" aria-hidden="true">
+        <ul class="c-header__list" role="menu">
+          <li class="c-header__item" role="menuitem"><a href="/about" class="c-header__link">About</a></li>
+          <li class="c-header__item" role="menuitem"><a href="/blog" class="c-header__link">Blog</a></li>
+          <li class="c-header__item" role="menuitem"><a href="/community" class="c-header__link">Community</a></li>
+          <li class="c-header__item" role="menuitem"><a href="/faq" class="c-header__link">FAQ</a></li>
+        </ul>
+        <a class="c-header__button" href="/download">Sign up</a>
+      </div>
+    </nav>
+  </div>
+</header>
+<script>
+  var header = document.querySelector('#navigation');
+  var toggle = document.querySelector('#menu-toggle');
+  var menu = document.querySelector('#menu');
+  var menuItems = document.querySelectorAll('#menu li a');
 
-    <h2>Use of personal information</h2>
-    <p>
-      We process personal information for the purposes of:
-    </p>
-    <ol>
-      <li>
-        providing you with our services;
-      </li>
-      <li>
-        monitoring, analysing and improving those services;
-      </li>
-      <li>
-        prevention of money-laundering, fraud &amp; illegal activities, and the prosecution of offenders;
-      </li>
-      <li>
-        direct-marketing of our products and services, advising you of news and industry updates, events, promotions and competitions, reports and other information and carrying out market research campaigns; and
-      </li>
-      <li>
-        providing you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-      </li>
-    </ol>
+  toggle.addEventListener('click', function(){
+    if (menu.classList.contains('is-active')) {
+      this.setAttribute('aria-expanded', 'false');
+      menu.setAttribute('aria-hidden', 'true');
+      menu.classList.remove('is-active');
+      header.classList.remove('is-active');
+    } else {
+      menu.classList.add('is-active');
+      header.classList.add('is-active');
+      menu.setAttribute('aria-hidden', 'false');
+      this.setAttribute('aria-expanded', 'true');
+    }
+  });
+</script>
 
-    <h2>Marketing</h2>
-    <p>
-      We will not share identifiable personal data with third parties for the purposes of direct marketing without your explicit consent.
-    </p>
-    <p>
-      We may use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.
-    </p>
 
-    <h2>Use of IP addresses and cookies</h2>
-    <p>
-      We may collect information about your computer, including where available your IP address, operating system and browser type, for system information and to report aggregate information to our advertisers. This is statistical data about our users' browsing
-      actions and patterns, and does not identify any individual.
-    </p>
-    <p>
-      For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. A cookie is a small data file which is sent from a web server to a web browser when that browser
-      visits the server's website. We use cookies to identify you when you visit this website, keep track of your browsing patterns and build up a demographic profile. They help us to improve our website and deliver a better and more personalised service.
-    </p>
-    <p>
-      They enable us to:
-    </p>
-    <ol>
-      <li>
-        Estimate our audience size and usage pattern;
-      </li>
-      <li>
-        Store information about your preferences, and so allow us to customise our website according to your individual interest;
-      </li>
-      <li>
-        Speed up your searches; and
-      </li>
-      <li>
-        Recognise when you return to our website.
-      </li>
-    </ol>
-
-    <p>
-      If you do not wish to have cookies placed on your computers, you should set your browser to refuse cookies. However, switching off cookies will restrict your use of our website. Unless you have adjusted your browser setting so that it will refuse cookies,
-      our system will issue cookies when you log on to our website.
-    </p>
-
-    <h2>￼Where we store your personal data</h2>
-    <p>
-      The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged
-      in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably
-      necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-    </p>
-
-    <h2>Disclosure of your information</h2>
-    <p>
-      We may disclose your personal information to any member of our group of companies, which includes our subsidiaries, our ultimate owner and any undertakings owned by it.
-    </p>
-    <p>
-      We may disclose your personal information to third parties:
-    </p>
-
-    <ol>
-      <li>
-        In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-      </li>
-      <li>
-        If Monzo Bank Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-      </li>
-      <li>
-        If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions or other agreements; or to protect the rights, property, or safety of us, our customers,
-        or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
-      </li>
-      <li>
-        If you give explicit permission to do so.
-      </li>
-    </ol>
-
-    <h2>Access to information</h2>
-    <p>
-      You have a right to access the personal data held about you or to obtain a copy of it. Any access request may be subject to a statutory fee to meet our costs in providing you with details of the information we hold about you. We may ask you to verify
-      your identity and for more information about your request. To obtain a copy of the personal information we hold about you, please write to us at 16-28 Tabernacle Court, Tabernacle Street, EC2A 4DD.
-    </p>
-
-    <h2>Changes to our Privacy Policy</h2>
-    <p>
-      Any material changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
-    </p>
-
-    <h2>Contact</h2>
-    <p>
-      If you have any requests concerning your personal information or any queries with regard to these practices please contact us through emailing us or writing to 16-28 Tabernacle Court, Tabernacle Street, EC2A 4DD. If you're a current user, you can email
-      <a href="mailto:help@monzo.com">help@monzo.com</a> and if you're not yet a user, email us on <a href="mailto:hello@monzo.com">hello@monzo.com</a>.
-    </p>
+    <main id="main" class="main">
+      <div class="split-container">
+  <aside class="split-container__side">
+    <div class="split-container__side-content">
+      <aside class="c-toc u-padding-right-large-lg">
+        <div class="c-toc__container">
+          <div class="c-toc__content">
+            <div class="c-toc__header">
+              <h3 class="c-toc__title">Table of Contents</h3>
+              <i class="fa fa-angle-up" aria-hidden="true"></i>
+              <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </div>
+            <nav class="c-toc__nav">
+              <ol class="c-toc__list">
+                
+                  
+                    <li class="c-toc__item c-toc__item--active">
+                      <a href="#who-are-we">Who are we?</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#information-hold">The information we hold about you</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#information-use">How we use your information</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#share">Who we share it with</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#rights">Your rights</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#data">Where we store your data</a>
+                    </li>
+                  
+                
+                  
+                    <li class="c-toc__item">
+                      <a href="#complaints">How to make a complaint</a>
+                    </li>
+                  
+                
+              </ol>
+            </nav>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </aside>
+  <div class="split-container__main">
+    <div class="split-container__main-content u-padding-bottom-large u-padding-top-huge-lg u-padding-bottom-huge-lg u-padding-left-huge-lg">
+      <h1>Monzo Privacy Policy</h1>
+      <p>Version 1.2 — May 22, 2018</p>
+      <h3 class="u-font-maison" id="who-are-we">Who are we?</h3>
+      <p>We are Monzo Bank Limited (“we”, “our”, “us”) and operate under the name of Monzo.</p>
+      <p>We’re committed to protecting and respecting your privacy. If you have any questions about your personal information please chat with us through the Monzo app, or by emailing us at <a href="/cdn-cgi/l/email-protection#4d2528213d0d2022233722632e2220"><span class="__cf_email__" data-cfemail="ddb5b8b1ad9db0b2b3a7b2f3beb2b0">[email&nbsp;protected]</span></a>, or by writing to us at 1st Floor, 230 City Road, London, EC1V 2QY.</p>
+      <p>We’re registered with the Information Commissioner’s Office under number ZA108184.</p>
+      <h3 class="u-font-maison" id="information-hold">The information we hold about&nbsp;you&nbsp;👀</h3>
+      <ul>
+        <li>
+          <b>Information submitted through our app or website</b>
+          <p>For example, when you sign up to the app and provide details such as your name, ID, selfie and address, or details we collect about how you use the app and website</p>
+          <p>There may be times when you give us ‘sensitive’ information, which includes things like your racial origin, political opinions, religious beliefs, trade union membership details or biometric data. We’ll only use this information in strict accordance with the law.</p>
+        </li>
+        <li>
+          <strong>Details about your transactions with us</strong>
+          <p>including any cards and accounts you use.</p>
+        </li>
+        <li>
+          <strong>Information on how you use your phone</strong>
+          <p>For example the mobile network you use, your IP address or operating system and the settings on your phone.</p>
+        </li>
+        <li>
+          <strong>Information you give us permission to access on your phone</strong>
+          <p>Things you give us explicit permission to see, like your address book, photos, geolocation and data from your camera.</p>
+        </li>
+        <li>
+          <strong>Information from social networks or online accounts</strong>
+          <p>Information from any accounts that you share with us.</p>
+        </li>
+        <li>
+          <strong>Cookie information</strong>
+          <p>Read our <a href="/cookies">Cookie Policy</a> for more info on what cookies are and how we use them.</p>
+        </li>
+      </ul>
+      <h3 class="u-font-maison" id="information-use">How we use your information 🔍</h3>
+      <p>To provide our services. We use it to:</p>
+      <ul>
+        <li>Help us manage your account.</li>
+        <li>Track, analyse and improve the services we give you and other customers.</li>
+      </ul>
+      <p>To meet our legal obligations. We use it to:</p>
+      <ul>
+        <li>Search your record at immigration and fraud prevention agencies.</li>
+        <li>Prevent illegal activities like money laundering, tax evasion and fraud.</li>
+        <li>Make responsible lending decisions, like offering you an overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app.</li>
+      </ul>
+      <p>To exercise what’s known as our legitimate interests. This is when we use data for a reason which is in your and/or our interest, and which doesn't involve overriding your privacy rights. We use it to:</p>
+      <ul>
+        <li>Market products and services generally in app.</li>
+        <li>Search your record at credit reference agencies when you sign up (this is a 'soft search' and shouldn't impact your credit score).</li>
+      </ul>
+      <p>With your permission. We use it to:</p>
+      <ul>
+        <li>Check your credit history if you apply for a credit product like an overdraft (this is a 'hard search', it might impact your credit score and chances of getting credit elsewhere).</li>
+        <li>Market and communicate our products and services and those of affiliated partners where we think these will be of interest to you by email. You can always unsubscribe from receiving these if you want to, by email and via the app.</li>
+      </ul>
+      <h3 class="u-font-maison" id="share">Who we share it with 🤝</h3>
+      <p>We may share your personal information with:</p>
+      <ul>
+        <li>Anyone who works for us when they need it to do their job.</li>
+        <li>
+          Any organisation which supports any of our services you use, when they need it to offer those services. That includes:
+          <ul>
+            <li>Card producers and networks.</li>
+            <li>Credit reference agencies (for information on how they use data please read the <a href="https://www.callcredit.co.uk/crain">Credit Reference Agency Information Notice</a>).</li>
+            <li>Analytical, Know Your Customer (KYC) and cyber security service providers.</li>
+            <li>Customer ‘interface’ providers (like the ones who manage our in-app chat service).</li>
+          </ul>
+        .</li>
+        <li>Companies that do advertising for us (but we won’t share identifiable personal data with third parties for their own direct marketing unless you give us permission, and you can opt out any time).</li>
+        <li>Certain authorities that detect and prevent terrorism (including authorities outside the UK if one of your payments is processed through a worldwide payment system).</li>
+        <li>Anyone who you give us explicit permission to share it with.</li>
+      </ul>
+      <p>We’ll also share it to comply with the law; to enforce our Terms and Conditions or other agreements; or to protect the rights, property or safety of us, our customers or others.</p>
+      <h3 class="u-font-maison">How long we keep it 📁</h3>
+      <p>We keep your data as long as you’re using Monzo, and for 6 years after that to comply with the law. In some circumstances, like cases of anti-money laundering or fraud, we may keep data longer if we need to and/or the law says we have to.</p>
+      <h3 class="u-font-maison" id="rights">Your rights ✅</h3>
+      <p>You have a right to:</p>
+      <ul>
+        <li>Access the personal data we hold about you, or to get a copy of it.</li>
+        <li>Make us correct inaccurate data.</li>
+        <li>Ask us to delete, 'block' or suppress your data, though for legal reasons we might not always be able to do it.</li>
+        <li>Object to us using your data for direct marketing and in certain circumstances ‘legitimate interests’, research and statistical reasons.</li>
+        <li>Withdraw any consent you’ve previously given us.</li>
+      </ul>
+      <p>To do so, please contact us through the app or by emailing <a href="/cdn-cgi/l/email-protection#dab2bfb6aa9ab7b5b4a0b5f4b9b5b7"><span class="__cf_email__" data-cfemail="0d6568617d4d6062637762236e6260">[email&nbsp;protected]</span></a>.</p>
+      <h3 class="u-font-maison" id="data">Where we store your data 🔒</h3>
+      <p>We might transfer and store the data we collect from you somewhere outside the European Economic Area (‘EEA’). People who work for us or our suppliers outside the EEA might also process your data. We may share data with organisations and countries that:</p>
+      <ul>
+        <li>The European Commission say have adequate data protection.</li>
+        <li>We’ve agreed standard data protection clauses with.</li>
+      </ul>
+      <h3 class="u-font-maison" id="complaints">How to make a complaint 😔</h3>
+      <p>If you have a complaint, please contact us through the app or by emailing <a href="/cdn-cgi/l/email-protection#f8909d9488b89597968297d69b9795"><span class="__cf_email__" data-cfemail="2a424f465a6a474544504504494547">[email&nbsp;protected]</span></a> and we’ll do our best to fix the problem. If you’re still not happy, you can refer your complaint to the Financial Ombudsman Service. For more details you can visit their website at&nbsp;<a href="http://www.financial-ombudsman.org.uk">www.financial-ombudsman.org.uk</a>.</p>
+      <h3 class="u-font-maison">Changes to this policy 📝</h3>
+      <p>We’ll post any changes we make to our privacy notice on this page and, if they’re significant changes we’ll let you know by email.</p>
+    </div>
   </div>
 </div>
 
+    </main>
     
-  <script src="/cdn-cgi/scripts/84a23a00/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.ravenjs.com/3.12.0/raven.min.js"></script>
+<footer class="c-footer">
+  <div class="container">
+    <nav class="grid-row">
+      <div class="grid-col-12 grid-col-1-md">
+        <img class="logo" src="https://d33wubrfki0l68.cloudfront.net/673084cc885831461ab2cdd1151ad577cda6a49a/92a4d/static/images/favicon.png" width="38" alt="">
+      </div>
+      <div class="grid-col-6 grid-col-2-md">
+        <ul class="o-no-bullet-list">
+          <li><a class="c-footer__link" href="/about">About us</a></li>
+          <li><a class="c-footer__link" href="/blog">Blog</a></li>
+          <li><a class="c-footer__link" href="/press">Press</a></li>
+          <li><a class="c-footer__link" href="/careers">Careers</a></li>
+        </ul>
+      </div>
+      <div class="grid-col-6 grid-col-2-md">
+        <ul class="o-no-bullet-list">
+          <li><a class="c-footer__link" href="/community">Community</a></li>
+          <li><a class="c-footer__link" href="/transparency">Transparency</a></li>
+          <li><a class="c-footer__link" href="/university">University</a></li>
+          <li><a class="c-footer__link" href="/tone-of-voice">Our tone of voice</a></li>
+        </ul>
+      </div>
+      <div class="grid-col-6 grid-col-2-md">
+        <ul class="o-no-bullet-list">
+          <li><a class="c-footer__link" href="/faq" aria-label="Frequently Asked Questions">FAQ</a></li>
+          <li><a class="c-footer__link" href="/terms">Terms &amp; Conditions</a></li>
+          <li><a class="c-footer__link" href="/fscs-information">FSCS information</a></li>
+          <li><a class="c-footer__link" href="/privacy">Privacy Policy</a></li>
+          <li><a class="c-footer__link" href="/cookies">Cookie Policy</a></li>
+        </ul>
+      </div>
+      <div class="grid-col-12 grid-col-5-md u-align-center u-align-right-md">
+        <p class="u-margin-top u-margin-top-none-md">
+          <a href="https://itunes.apple.com/gb/app/mondo/id1052238659" onclick="trackOutboundLink('https://itunes.apple.com/gb/app/mondo/id1052238659'); return false;" class="o-badge-ios" title="External link to the iOS app store">Download the Monzo app on iOS</a>
+          <a href="/-play-store-redirect" onclick="trackOutboundLink('/-play-store-redirect'); return false;" class="o-badge-android" title="External link to the Google play store">Download the Monzo app on Android</a>
+        </p>
+        <nav class="c-footer__social">
+          <a class="c-footer__social-link" href="https://twitter.com/monzo">
+            <img src="https://d33wubrfki0l68.cloudfront.net/7c4833acc25609b5b10eb8fa93eda189c6499943/375bf/static/images/twitter.svg" alt="Twitter">
+          </a>
+          <a class="c-footer__social-link" href="https://www.facebook.com/monzobank">
+            <img src="https://d33wubrfki0l68.cloudfront.net/78c691dfe4746cb8a7c995d185d9ae2303a81eb2/efc18/static/images/facebook.svg" alt="Facebook">
+          </a>
+          <a class="c-footer__social-link" href="https://www.linkedin.com/company/monzo-bank">
+            <img src="https://d33wubrfki0l68.cloudfront.net/736e5ecac35e0ff72b923877cfffef4abf57edce/73171/static/images/linkedin.svg" alt="LinkedIn">
+          </a>
+          <a class="c-footer__social-link" href="https://www.youtube.com/monzobank">
+            <img src="https://d33wubrfki0l68.cloudfront.net/35aba7d7de6c8cb76e23f3ea072cdda077a9ecf0/434bf/static/images/youtube.svg" alt="Youtube">
+          </a>
+        </nav>
+      </div>
+    </nav>
+  </div>
+  <div class="c-footer__disclaimer">
+    <div class="container">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <ul class="o-inline-list">
+            <li class="o-inline-list__item">Existing customers</li>
+            <li class="o-inline-list__item u-margin-left-large-md"><a class="c-footer__link" href="mailto:help@monzo.com"><span class="__cf_email__" data-cfemail="90f8f5fce0d0fdfffeeaffbef3fffd">[email&nbsp;protected]</span></a></li>
+            <li class="o-inline-list__item u-margin-left-large-md">UK Tel:&nbsp;&nbsp;<a class="c-footer__link" href="tel:08008021281">0800 802 1281</a></li>
+            <li class="o-inline-list__item u-margin-left-large-md">Abroad Tel:&nbsp;&nbsp;<a class="c-footer__link" href="tel:+442038720620">+44 203 872 0620</a></li>
+          </ul>
+        </div>
+        <div class="grid-col-12 grid-col-8-md u-padding-top-md">
+          <p>
+            Monzo Bank Limited is a company registered in England and Wales (No. 09446231).
+            Monzo Bank Ltd is authorised by the Prudential Regulation Authority (PRA) and
+            regulated by the Financial Conduct Authority and the PRA.
+            Our Financial Services Register number is 730427.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+  <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.ravenjs.com/3.12.0/raven.min.js"></script>
   <script>
-    var GIT_COMMIT = '75bd784d8669c207f84940f1e745e9562d2b69c5';
+    var GIT_COMMIT = '';
     Raven
       .config('https://af042385e52a4bbeb38110405e88a21f@sentry.io/144332', {
         release: GIT_COMMIT,
@@ -282,18 +488,23 @@
 
 <script src="/bower_components/zepto/zepto.js"></script>
 
-<!-- Libraries -->
-<script src="/static/scripts/utils.js?v13"></script>
-<script src="/static/scripts/config.js?v13"></script>
-<script src="/static/scripts/third-party/lytics.js?v13"></script>
+
+  <!-- Libraries -->
+  <script src="/static/scripts/utils.js?v21"></script>
+  <script src="/static/scripts/config.js?v21"></script>
+  <script src="/static/scripts/third-party/lytics.js?v21"></script>
+  <script src="/static/scripts/cookie-policy.js?v21"></script>
+
 
 
 
 <!-- custom_js -->
 
 
-<script defer="" src="/static/scripts/main.js?v13"></script>
-<script defer="" src="/static/scripts/sticky-header.js?v13"></script>
+
+
+<script defer="" src="/static/scripts/main.js?v21"></script>
+<script defer="" src="/static/scripts/sticky-header.js?v21"></script>
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -318,7 +529,7 @@
 <!-- End Facebook Pixel Code -->
 
 <!-- Twitter Conversion Tracking -->
-<script defer="" src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script defer="" src="//platform.twitter.com/oct.js"></script>
 <!-- End Twitter Conversion Tracking -->
 
 <!-- Google Code for Remarketing Tag -->
@@ -327,14 +538,14 @@
  or placed on pages related to sensitive categories. See more information and
  instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
 -->
-<script type="text/javascript">
+<script>
   /* <![CDATA[ */
   var google_conversion_id = 863263319;
   var google_custom_params = window.google_tag_params;
   var google_remarketing_only = true;
   /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<!-- <script defer src="//www.googleadservices.com/pagead/conversion.js"></script> -->
 <noscript>
   <div style="display:inline;">
       <img
@@ -366,6 +577,13 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+ <dialog open="open" role="alertdialog" class="c-cookie-policy" aria-labelledby="cookie-policy-title" aria-describedby="cookie-policy-content">
+ <p class="c-cookie-policy__content" id="cookie-policy-content" role="document"> By using this website you agree to our
+ <a href="https://web.archive.org/web/20180927070514/https://www.monzo.com/cookies">
+ cookie policy
+</a> </p>
+ <button class="c-cookie-policy__button o-button-text js-close-cookie-policy" aria-label="Close this cookie policy notification">Dismiss</button>
+</dialog>
 
   
 
