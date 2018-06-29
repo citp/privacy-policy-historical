@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225002540id_/http%3A//www.wkyt.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629132504id_/http%3A//www.wkyt.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
 Posted: Wed 3:24 PM, Mar 04, 2015  | 
 
-Updated: Thu 3:10 PM, May 11, 2017 
+Updated: Mon 8:34 AM, Jun 18, 2018 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
@@ -14,7 +14,7 @@ This Privacy Policy has been updated; please [_click here_](https://web.archive.
 
 **_NOTICE_** : This Privacy Policy has been updated to simplify information about our privacy practices and principles and to include new features and activities. Although we offer new features and digital technology to distribute and monitor our content, we have not materially changed your opt-out or opt-in choices for previous features and activities. We remain committed to protecting the privacy, accuracy and reliability of your personally identifiable information (“Personal Information”).
 
-This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, [_CLICK HERE_](http://gray.tv/index.php?page=interactive-map).
+This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, [_CLICK HERE_](https://gray.tv/index.php?page=station-list).
 
 By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into the GTI Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the [_TOU_](https://web.archive.org/content/news/?article=158511785).
 
