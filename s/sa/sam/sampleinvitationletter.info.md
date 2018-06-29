@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201548id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629155658id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
 
-# Privacy - Sample Invitation Letters
+# Privacy | Sample Invitation Letters
 
-Effective Date: **April 30, 2016**
+Effective Date: **May 30, 2018**
 
   1. SampleInvitationLetter.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of SampleInvitationLetter.com (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you insight into our information collection and use practices for people visiting the Site.
   2. INFORMATION COLLECTION PRACTICES
@@ -17,7 +17,7 @@ Effective Date: **April 30, 2016**
 
 (c) Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please contact us using the Contact link on the menu of the Site. You may also remove your information from any mailings by “opting out” as indicated in the mailing.
 
-(d) Effective Date: The effective date shall be April 30, 2016.
+(d) Effective Date: The effective date shall be May 30, 2018.
 
 (e) Do Not Track Signals.  We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
