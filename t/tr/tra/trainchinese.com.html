@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229224552id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629092044id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -156,9 +156,15 @@
                         <button title="Sign in" type="button" class="btn-link-nav" onclick="TClogin('')"> 
                         <span class="glyphicon glyphicon-log-in visibleSM"></span> <span class="hideXXSS">Sign in</span>     </button>
                 </span>                           
-        </div>
-        
-     <!-- navigation -->
+        </div> 
+<div class="alert alert-warning alert-dismissible" id="cookieBanner" style="margin:0">
+<button onclick="document.cookie=&quot;cookiesAccepted=29-06-2018 17:20;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+           $(&quot;#cookieBanner&quot;).hide();" type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+
+      This website uses cookies. <span class="hidden-xs">By using the site you agree to the use of cookies.</span> <a href="mcookies.php?rAp=0&amp;tcLanguage=en" class="btn btn-default btn-xs" role="button">Find out more</a> or 
+      <button type="button" class="btn btn-default btn-xs" onclick="document.cookie=&quot;cookiesAccepted=29-06-2018 17:20;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+           $(&quot;#cookieBanner&quot;).hide();">agree</button>.
+      </div>     <!-- navigation -->
 
      <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
@@ -247,7 +253,7 @@
 					<p>When you register at trainchinese, we collect personal details about you to create an account.</p>
 
 					<p>Your e-mail address is collected via our registration form, while other personal data such as name, country of residence, other languages you speak, level of Chinese etc. is voluntary information collected in separate forms. 
-            When you visit the site, we also collect web site usage information and information about your computer and internet connection, thee type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. 
+            When you visit the site, we also collect web site usage information and information about your computer and internet connection, the type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. 
             We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. 
             Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). 
             We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.</p>
@@ -260,7 +266,7 @@
     We have appropriate measures in place to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within our server environment.</p>
 
 					<h4>Cookies</h4>
-					<p>trainchinese uses cookies to save some temporary data which is used for keeping some session variables in your browser when you are using the site.</p>
+					<p>trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our <a href="mcookies.php?rAp=0&amp;tcLanguage=en">cookie policy</a></p>
 
 					<h4>E-mails</h4>
 					<p>trainchinese does send newsletters to inform you of new products or services or other information that may be of interest. 
@@ -293,11 +299,8 @@ Your public contributions to Word discussions and/or Q&amp;A will survive deleti
 					<p>Molatra Ltd does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our services without the consent of a parent or legal guardian.</p>
                     
                     <h4>Advertisements</h4>
-                    <p>Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics. 
-Interests, demographics, and other data may be used by Google to serve better targeted ads to the user. </p>
-                    <p>To complement personalized advertising (formerly known as interest-based advertising), 
-Google Ads Settings lets users view and edit their interests and demographics. 
-Some users may choose to opt out of personalized ads.</p>
+                    <p>Trainchinese.com does no show advertisements.</p>
+                    <p>For apps, we have instructed Google not to show personalized advertisements on our apps in the European Economic Area.</p>
                     
                     <h4>Crashlytics</h4>
                     <p>Most of the apps provided by Moltatra Ltd. make use of Crashlytics, a business division of Google Inc., 
@@ -358,6 +361,7 @@ information relating to how an application functions, and the physical location 
              <ul class="list-inline">  
                <li><a href="mterms.php?rAp=0&amp;tcLanguage=en" target="_parent">Terms and Conditions</a></li>
                <li><a href="mprivacy.php?rAp=0&amp;tcLanguage=en" target="_parent">Privacy Policy</a></li>
+               <li><a href="mcookies.php?rAp=0&amp;tcLanguage=en" target="_parent">Cookie Policy</a></li>
                <li><a href="maboutus.php?rAp=0&amp;tcLanguage=en" target="_parent">About us</a></li>
                <li><a href="feedback.php?rAp=0&amp;tcLanguage=en" target="_parent">Contact</a></li>
                <li><a href="mlinks.php?rAp=0&amp;tcLanguage=en" target="_parent">Links</a></li>
@@ -449,7 +453,7 @@ function TClogin(msg,uname,pw,rememberMe){
         rememberMe='checked';
     
     $('#popupTitle').html('Sign in');
-    $('#popupContent').html(msg+'   <form class="form" action="https://www.trainchinese.com/v2/index.php" method="post" accept-charset="iso-8859-1" enctype="ISO-8859-1" >     <input type="hidden" name="difTimeMin" id="difTimeMin" value="" />     <div class="form-group">       <label for="uname">Nickname or email</label>       <input type="text" class="form-control" id="uname" name="uname" value="'+uname+'" placeholder="Nickname or email"/>     </div>     <div class="form-group">       <label for="pass"> Password </label>       <input type="password" class="form-control" id="pass" name="pass" value="'+pw+'"  placeholder="Password"/>     </div>  				     <div class="checkbox">       <label>       <input type="checkbox" name="rememberMe" value="1" checked="checked"/> &#160;&#160;&#160;&#160;Remember me       </label>     </div>     <input type="hidden" id="goTo" name="goTo" value="" />     <input type="hidden" id="tcLanguage" name="tcLanguage" value="en" />     <button type="submit" class="btn btn-primary" name="go" >sign in</button>           &#160;&#160;&#160;&#160;     <a type="button" class="btn btn-default" href="https://www.trainchinese.com/v2/indexResetPassword.php?tcLanguage=en">     forgot password?</a>   </form>');
+    $('#popupContent').html(msg+'    <form class="form" action="https://www.trainchinese.com/v2/index.php" method="post" accept-charset="iso-8859-1" enctype="ISO-8859-1" >     <input type="hidden" name="difTimeMin" id="difTimeMin" value="" />     <div class="form-group">       <label for="uname">Nickname or email</label>       <input type="text" class="form-control" id="uname" name="uname" value="'+uname+'" placeholder="Nickname or email"/>     </div>     <div class="form-group">       <label for="pass"> Password </label>       <input type="password" class="form-control" id="pass" name="pass" value="'+pw+'"  placeholder="Password"/>     </div>  				     <div class="checkbox">       <label>       <input type="checkbox" name="rememberMe" value="1" checked="checked"/> &#160;&#160;&#160;&#160;Remember me       </label>     </div>     <input type="hidden" id="goTo" name="goTo" value="" />     <input type="hidden" id="tcLanguage" name="tcLanguage" value="en" />     <button type="submit" class="btn btn-primary" name="go" >sign in</button>            &#160;&#160;&#160;&#160;     <a type="button" class="btn btn-default" href="https://www.trainchinese.com/v2/indexResetPassword.php?tcLanguage=en">     forgot password?</a>   </form>');
     $('#goTo').val(location.href);    
     
     $('#popupFooter').html('<a type="button" class="btn btn-default" href="https://www.trainchinese.com/v2/indexRegister.php?rAp=0&tcLanguage=en">Not a user?</a>');
