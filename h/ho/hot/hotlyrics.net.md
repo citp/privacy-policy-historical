@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotlyrics.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120014135id_/http%3A//www.hostsg.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlyrics.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630005022id_/http%3A//www.hostsg.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # HostSG Legal Agreement
 
