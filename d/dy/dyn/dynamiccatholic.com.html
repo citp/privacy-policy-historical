@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the dynamiccatholic.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229115015id_/https%3A//dynamiccatholic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dynamiccatholic.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629091859id_/https%3A//dynamiccatholic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0025/7168.js?438994" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEEUFBSDRAGVlFWBgYOVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K3BBNKV"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <title>Privacy Policy | Dynamic Catholic</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="INDEX, FOLLOW">
 <link rel="icon" href="https://dynamiccatholic.com/media/favicon/default/favicon1.ico" type="image/x-icon">
 <script>window.Mage||(Mage={});Mage.baseURL='https://dynamiccatholic.com/';Mage.skinURL='https://dynamiccatholic.com/skin/frontend/dynamic/default/'</script>
 <link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/enterprise/default/css/amasty/amlabel/amlabel.css">
+<link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/amasty/ampromo/styles.css">
 <link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/base/default/css/mirasvit/fpc/mirasvit_fpc.css">
 <link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/base/default/css/mirasvit/searchautocomplete/amazon.css">
 <link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/base/default/css/mirasvit_searchindex.css">
-<link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/style.css">
-<link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/dc/dci-styles.min.css">
+<link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/style.1528386932.css">
+<link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/dc/dci-styles.1523984321.css">
 <link rel="stylesheet" href="//dynamiccatholic.com/skin/frontend/dynamic/default/css/vendor/flexslider/flexslider.css">
 <script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0/prototype.js"></script>
 <script>window.Prototype||document.write('<script src="//dynamiccatholic.com/js/prototype/prototype.js"><\/script>');</script><script src="//dynamiccatholic.com/js/prototype/prototype.js"></script>
@@ -33,10 +34,9 @@
 <script src="//dynamiccatholic.com/js/mage/translate.js"></script>
 <script src="//dynamiccatholic.com/js/mage/cookies.js"></script>
 <script src="//dynamiccatholic.com/js/amasty/amlabel/amlabel_height.js"></script>
-<script src="//dynamiccatholic.com/js/google/ga.js"></script>
+<script src="//dynamiccatholic.com/js/amasty/ampromo/items.js"></script>
 <script src="//dynamiccatholic.com/js/iwd/all/iwd-jquery-2.1.3.min.js"></script>
 <script src="//dynamiccatholic.com/js/iwd/all/modal.js"></script>
-<script src="//dynamiccatholic.com/js/mirasvit/core/jquery.min.js"></script>
 <script src="//dynamiccatholic.com/js/mirasvit/core/underscore.js"></script>
 <script src="//dynamiccatholic.com/js/mirasvit/core/backbone.js"></script>
 <script src="//dynamiccatholic.com/js/mirasvit/code/searchautocomplete/form.js"></script>
@@ -44,6 +44,7 @@
 <script src="//dynamiccatholic.com/skin/frontend/enterprise/default/js/scripts.js"></script>
 <script src="//dynamiccatholic.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
 <script src="//dynamiccatholic.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<script src="//dynamiccatholic.com/skin/frontend/base/default/js/pfsweb_gtmdatalayer/events.js"></script>
 <script src="//dynamiccatholic.com/skin/frontend/dynamic/default/js/vendor/modernizr.min.js"></script>
 <script src="//dynamiccatholic.com/skin/frontend/dynamic/default/js/custom-scripts.js"></script>
 <script src="//dynamiccatholic.com/skin/frontend/dynamic/default/js/app.js"></script>
@@ -65,57 +66,19 @@ Mage.Cookies.domain = '.dynamiccatholic.com';
 <script>
 optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/dynamiccatholic.com\/","name":"Dynamic Catholic"}</script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@id":"https:\/\/dynamiccatholic.com\/","name":"Home"},"position":0},{"@type":"ListItem","item":{"name":"Privacy Policy | Dynamic Catholic"},"position":1}]}</script> 
-<script type="text/javascript">
-        //<![CDATA[
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        
-ga('create', 'UA-16535806-1', 'auto');
-
-ga('send', 'pageview');
-        
-        //]]>
-    </script>
-
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/dynamiccatholic.com\/","name":"Dynamic Catholic"}</script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@id":"https:\/\/dynamiccatholic.com\/","name":"Home"},"position":0},{"@type":"ListItem","item":{"name":"Privacy Policy | Dynamic Catholic"},"position":1}]}</script><script>dataLayer = [];</script>
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy | Dynamic Catholic">
 <meta property="og:description" content="">
 <meta property="og:url" content="https://dynamiccatholic.com/privacy-policy">
 <meta property="og:site_name" content="Dynamic Catholic">
-<script>var Translator = new Translate([]);</script><meta name="google-site-verification" content="oMOLjeaij6w1ZiRb7BJn1p2TMDxvp6YcgUfT1mb3Kxs">
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0025/7168.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<script type="text/javascript">
-(function() {
-  var didInit = false;
-  function initMunchkin() {
-    if(didInit === false) {
-      didInit = true;
-      Munchkin.init('299-HHO-377');
-    }
-  }
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//munchkin.marketo.net/munchkin.js';
-  s.onreadystatechange = function() {
-    if (this.readyState == 'complete' || this.readyState == 'loaded') {
-      initMunchkin();
-    }
-  };
-  s.onload = initMunchkin;
-  document.getElementsByTagName('head')[0].appendChild(s);
-})();
-
-</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
+<script>var toPushToDatalayer = ({"pageAuthor":"","pageBlogTag":"","pageCatalogCategory":"","pageFiltersApplied":"","pageName":"content:Privacy Policy | Dynamic Catholic","pageType":"content","pageWordCount":"","userID":"","userLoginState":"guest"}); dataLayer.push(toPushToDatalayer);</script><script>var Translator = new Translate([]);</script><meta name="google-site-verification" content="oMOLjeaij6w1ZiRb7BJn1p2TMDxvp6YcgUfT1mb3Kxs"> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3BBNKV');</script>
+</head>
 <body class="cms-page-view cms-privacy-policy">
 <div class="wrapper">
 <noscript>
@@ -127,7 +90,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             </div>
         </div>
     </noscript>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3BBNKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <header id="header" class="header flex-container-row">
+<span class="additional-js-data" data-user="" data-from-search="false" data-user-type="guest" data-referrer="content:Privacy Policy | Dynamic Catholic" data-page-type="content"></span>
 <div class="header__quick-access flex-container-row">
 <h1 class="header__quick-access--mobile-logo flex-one">
 <a href="https://dynamiccatholic.com/">
@@ -157,7 +125,7 @@ Contact </a>
 </li>
 <div class="account-login skip-content" id="login">
 <form action="https://dynamiccatholic.com/customer/account/loginPost/" method="post" id="login-form-toplinks">
-<input type="hidden" name="form_key" value="fQ8Tnlbh7dVw4wLr">
+<input type="hidden" name="form_key" value="QM4iskJDqaNELus3">
 <div class="col-2 registered-users">
 <div class="content">
 <ul class="form-list">
@@ -212,173 +180,303 @@ Contact </a>
 <p class="header__branding--tagline">Meeting people where they are . . . Leading them to where <span class="accent-font secondary-color">God calls them to be!</span></p>
 </div>
 <nav class="header__main-nav">
+
 <ul>
-<li class="order1"><i class="icon-resources"></i> Free Resources
+<li class="order1">
+<i class="icon-resources"></i> Free Resources
 <div class="sub-nav has-addon">
 <ul>
-<li><a href="/shop/free-resources/books">Books</a></li>
-<li><a href="/best-advent-ever">Best Advent Ever</a></li>
-<li><a href="/daily-reflections">Daily Inspiration</a></li>
-<li><a href="http://marriageprep.dynamiccatholic.com">Marriage Prep</a></li>
-<li><a href="/confirmation">Confirmation Prep</a></li>
-<li><a href="/everyday-life">Everyday Life</a></li>
-<li class="last_item"><a href="/blessed">First Communion Prep &amp; First Reconciliation Prep</a></li>
+<li>
+<a href="/shop/free-resources/books">Books</a>
+</li>
+<li>
+<a href="/bestlentever">Best Lent Ever</a>
+</li>
+<li>
+<a href="/daily-reflections">Daily Inspiration</a>
+</li>
+<li>
+<a href="/better-together">Marriage Prep</a>
+</li>
+<li>
+<a href="/confirmation">Confirmation Prep</a>
+</li>
+<li>
+<a href="/everyday-life">Everyday Life</a>
+</li>
+<li class="last_item">
+<a href="/blessed">First Communion Prep &amp; First Reconciliation Prep</a>
+</li>
 </ul>
 <div class="callout-block callout-block__full-width free-resources-bg">
 <div class="center_cta">
 <h3 class="white">Daily Inspiration</h3>
 <p class="white">Sign up to receive daily inspirational emails directly to your inbox!</p>
-<a href=" /daily-reflections" class="button-white" onclick="_gaq.push(['_trackEvent', ' MegaMenu', ‘Click', 'Daily Inspiration Get Inspired')">Get Inspired</a></div>
+<a href=" /daily-reflections" class="button-white">Get Inspired</a></div>
 </div>
 </div>
 </li>
-<li class="order2"><i class="icon-parish"></i> For Parishes
+<li class="order2">
+<i class="icon-parish"></i> For Parishes
 <div class="sub-nav has-addon">
 <ul>
-<li><a href="/confirmation">Confirmation Prep</a></li>
-<li><a href="/shop/parish-pricing">Parish Pricing</a></li>
-<li><a href="/better-together">Marriage Prep</a></li>
-<li><a href="/book-program">Book Program</a></li>
-<li><a href="/welcome">Welcome CRHP 2.0 Retreat</a></li>
-<li><a href="/parish-champion">Parish Champion</a></li>
-<li class="last_item"><a href="/blessed">First Communion Prep &amp; First Reconciliation Prep</a></li>
+<li>
+<a href="/confirmation">Confirmation Prep</a>
+</li>
+<li>
+<a href="/shop/parish-pricing">Parish Pricing</a>
+</li>
+<li>
+<a href="/better-together">Marriage Prep</a>
+</li>
+<li>
+<a href="/book-program">Book Program</a>
+</li>
+<li>
+<a href="/welcome">Welcome CRHP 2.0 Retreat</a>
+</li>
+<li>
+<a href="/parish-champion">Parish Champion</a>
+</li>
+<li class="last_item">
+<a href="/blessed">First Communion Prep &amp; First Reconciliation Prep</a>
+</li>
 </ul>
 <div class="callout-block callout-block__half-width for-parishes-bg">
-<div class="callout-image"><img src="https://files.dynamiccatholic.com/home/Mega+Menu+Banners/for-parishes/Blessed_logo.png"></div>
+<div class="callout-image">
+<img src="https://s3-us-west-2.amazonaws.com/dynamic-catholic.com/home/Mega+Menu+Banners/for-parishes/Blessed_logo.png">
+</div>
 <h3 class="white">First Communion &amp; First Reconciliation Program</h3>
-<div class="callout-cta"><a href="/blessed" class="button-orange" onclick="_gaq.push(['_trackEvent', ' MegaMenu', ‘Click', 'Blessed Explore Blessed')">Explore Blessed</a></div>
+<div class="callout-cta">
+<a href="/blessed" class="button-orange">Explore Blessed</a>
+</div>
 </div>
 <div class="callout-block callout-block__half-width for-parishes-bg-two"></div>
 </div>
 </li>
-<li class="order3"><i class="icon-events"></i> Events
+<li class="order3">
+<i class="icon-events"></i> Events
 <div class="sub-nav has-addon">
 <ul>
-<li><a href="/events">Find Event</a></li>
-<li><a href="/events/host-an-event">Host an Event</a></li>
-<li><a href="/events/passion-and-purpose">Passion &amp; Purpose</a></li>
-<li><a href="/events/find-your-greatness">Find Your Greatness</a></li>
-<li><a href="/events/passion-and-purpose-for-marriage">Passion &amp; Purpose for Marriage</a></li>
-<li><a href="/events/ordinary-lives-extraordinary-mission">Ordinary Lives Extraordinary Mission</a></li>
-<li><a href="/events/holiness-revolution">Holiness Revolution</a></li>
-<li><a href="/pilgrimages">Pilgrimages</a></li>
+<li>
+<a href="/events">Find Event</a>
+</li>
+<li>
+<a href="/events/host-an-event">Host an Event</a>
+</li>
+<li>
+<a href="/events/passion-and-purpose">Passion &amp; Purpose</a>
+</li>
+<li>
+<a href="/events/find-your-greatness">Find Your Greatness</a>
+</li>
+<li>
+<a href="/events/passion-and-purpose-for-marriage">Passion &amp; Purpose for Marriage</a>
+</li>
+<li>
+<a href="/events/ordinary-lives-extraordinary-mission">Ordinary Lives Extraordinary Mission</a>
+</li>
+<li>
+<a href="/events/holiness-revolution">Holiness Revolution</a>
+</li>
+<li>
+<a href="/pilgrimages">Pilgrimages</a>
+</li>
 </ul>
 <div class="callout-block callout-block__full-width tertiary-color-background events-bg">
 <div class="copy-wrapper">
 <h3>Bring our newest event to your parish!</h3>
-<div class="callout-cta"><a href="/events/find-your-greatness" class="button-navy" onclick="_gaq.push(['_trackEvent', ' MegaMenu', ‘Click', 'Find Your Greatness Learn More')">Learn More</a></div>
+<div class="callout-cta">
+<a href="/events/find-your-greatness" class="button-navy">Learn More</a>
+</div>
 </div>
 </div>
 </div>
 </li>
-<li class="order9"><i class="icon-shop"></i> Shop
+<li class="order9">
+<i class="icon-shop"></i> Shop
 <div class="sub-nav has-addon">
+<style>.TBL_banner{
+  overflow: hidden;
+background: url(https://files.dynamiccatholic.com/home/book-release/the-biggest-lie-in-the-history-of-christianity/book_release_TBLheader.jpg) !important; 
+    background-position: center bottom !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+</style>
 
-
-<div class="callout-block callout-block__half-width quinary-color-background shop">
-<div class="callout-image"><a href="/childrens-prayer-process-cards-free"><img alt="Childrends Prayer Process Cards" src="https://legacyfiles.dynamiccatholic.com/Product+Images/Children's+PrayerCards.jpg"></a></div>
+<div class="callout-block callout-block__half-width TBL_banner shop">
+<div class="callout-image"><a href="/the-biggest-lie-in-the-history-of-christianity-hardcover"><img alt="The Biggest Lie in the History of Christianity by Matthew Kelly" src="https://dynamiccatholic.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/b/tblfront_dc1_1.gif"></a></div>
 <div class="mega-menu-copy-wrapper">
-<h3 style="color:#fff;">Featured Product</h3>
-<p class="book_title_menu primary-color title">Children's Prayer Process Cards</p>
-<p class="book_title_menu free-copy">Get Your <strong>FREE</strong> Cards <br> <span>just pay shipping<span></span></span></p>
-<div class="callout-cta"><a href="/childrens-prayer-process-cards-free" class="button-orange">ORDER NOW</a></div>
+<h3 class="white">Matthew Kelly's NEW Book</h3>
+<p class="book_title_menu white title" style="font-size: 22px;"><span class="strong">The Biggest Lie in the History of&nbsp;Christianity</span></p>
+<div class="callout-cta"><a href="/the-biggest-lie-in-the-history-of-christianity-hardcover" class="button-light-blue">Pre-Order Now</a></div>
 </div>
 </div>
 <ul>
-<li><a href="/shop/books">Books</a></li>
-<li><a href="/shop/events">Event Tickets</a></li>
-<li><a href="/shop/cds">CDs</a></li>
-<li><a href="/shop/pilgrimages">Pilgrimages</a></li>
-<li><a href=" /shop/programs">Sacramental Prep</a></li>
-<li><a href="/shop/merchandise">Merchandise</a></li>
-<li class="last_item"><a href="/shop">View All Products</a></li>
+<li>
+<a href="/shop/books">Books</a>
+</li>
+<li>
+<a href="/shop/events">Event Tickets</a>
+</li>
+<li>
+<a href="/shop/cds">CDs</a>
+</li>
+<li>
+<a href="/shop/pilgrimages">Pilgrimages</a>
+</li>
+<li>
+ <a href=" /shop/programs">Sacramental Prep</a>
+</li>
+<li>
+<a href="/shop/sale">Sale Items</a>
+</li>
+<li class="last_item">
+<a href="/shop">View All Products</a>
+</li>
 </ul>
 </div>
 </li>
-<li class="order5" id="more"><i class="icon-more"></i> <a href="#">More</a></li>
-<li class="main-nav-donate" style="order: 6;"><a href="/give"><i class="icon-donate"></i>Donate</a></li>
-<li class="main-nav-contact" style="order: 7;"><i class="icon-contact"><a href="/contact-us"></a></i><a href="/contact-us">Contact</a></li>
-<li class="order8"><i class="icon-about-us"></i> About Us
+<li class="order5" id="more">
+<i class="icon-more"></i>
+<a href="#">More</a>
+</li>
+<li class="main-nav-donate" style="order: 6;">
+<a href="/give">
+<i class="icon-donate"></i>Donate</a>
+</li>
+<li class="main-nav-contact" style="order: 7;">
+<i class="icon-contact">
+<a href="/contact-us"></a>
+</i>
+<a href="/contact-us">Contact</a>
+</li>
+<li class="order8">
+<i class="icon-about-us"></i> About Us
 <div class="sub-nav has-addon" id="about-us">
 <div class="callout-block callout-block__full-width careers-bg">
 <div class="get-involved">
 <div class="mega-menu-copy-wrapper">
-<h3 class="white">It's more than a job.<br> It's a mission.</h3>
-<div class="callout-cta"><a href="/mission/join-our-team" class="button-light-blue" onclick="_gaq.push(['_trackEvent', ' MegaMenu', ‘Click', 'Its More Than a Job View Careers')">VIEW CAREERS</a></div>
+<h3 class="white">It's more than a job.
+<br> It's a mission.</h3>
+<div class="callout-cta">
+<a href="/mission/join-our-team" class="button-light-blue">VIEW CAREERS</a>
+</div>
 </div>
 </div>
 </div>
 <ul class="bdr-left">
-<li><a href="/mission">Mission and Vision</a></li>
-<li><a href="/mission/free-philosophy">Free Philosophy</a></li>
-<li><a href="/mission/our-team">Our Team</a></li>
-<li><a href="/mission/join-our-team">Join Our Team</a></li>
-<li><a href="/mission/board-of-directors">Board of Directors</a></li>
-<li><a href="/catholic-moments">Catholic Moments</a></li>
+<li>
+<a href="/mission">Mission and Vision</a>
+</li>
+<li>
+<a href="/mission/free-philosophy">Free Philosophy</a>
+</li>
+<li>
+<a href="/mission/our-team">Our Team</a>
+</li>
+<li>
+<a href="/mission/join-our-team">Join Our Team</a>
+</li>
+<li>
+<a href="/mission/board-of-directors">Board of Directors</a>
+</li>
+<li>
+<a href="/catholic-moments">Catholic Moments</a>
+</li>
 </ul>
 </div>
 </li>
-<li class="order4"><i class="icon-get-involved"></i> Get Involved
+<li class="order4">
+<i class="icon-get-involved"></i> Get Involved
 <div class="sub-nav has-addon">
 <div class="callout-block callout-block__full-width get-involved-bg">
 <div class="get-involved--right">
 <div class="center_cta">
 <h3 class="white">There Is Genius in Catholicism</h3>
 
-<a href="/give/share-the-genius/ways-to-share" class="button-white reverse">Ways to Share</a></div>
+<a href="/give/share-the-genius/ways-to-share" class="button-white reverse">Ways to Share</a>
+</div>
 </div>
 </div>
 <ul class="bdr-left">
-<li><a href="/give">Donate</a></li>
-<li><a href="/prayer-request">Pray</a></li>
-<li><a href="/give/planned-giving">Planned Giving</a></li>
-<li><a href="/mission/volunteer">Volunteer</a></li>
-<li><a href="/parish-champion">Parish Champion</a></li>
-<li><a href="/events/host-an-event">Host An Event</a></li>
-<li class="last_item"><a href=" /give/the-ambassadors-club">Join the Ambassador's Club</a></li>
+<li>
+<a href="/give">Donate</a>
+</li>
+<li>
+<a href="/prayer-request">Pray</a>
+</li>
+<li>
+<a href="/give/planned-giving">Planned Giving</a>
+</li>
+<li>
+<a href="/mission/volunteer">Volunteer</a>
+</li>
+<li>
+<a href="/parish-champion">Parish Champion</a>
+</li>
+<li>
+<a href="/events/host-an-event">Host An Event</a>
+</li>
+<li class="last_item">
+<a href=" /give/the-ambassadors-club">Join the Ambassador's Club</a>
+</li>
 </ul>
 </div>
 </li>
-<li class="main-nav-search order10"><a href="#">Search</a></li>
+<li class="main-nav-search order10">
+<a href="#">Search</a>
+</li>
 </ul>
 <style>
+    <!-- .order1 {
+        order: 1;
+    }
 
-.order1{
-    order: 1;
-}
-.order2{
-    order: 2;
-}
-.order3{
-    order: 3;
-}
-.order4{
-    order: 9;
-    @include mediaQmin($mobile-break){
+    .order2 {
+        order: 2;
+    }
+
+    .order3 {
+        order: 3;
+    }
+
+    .order4 {
+        order: 9;
+        @include mediaQmin($mobile-break) {
             order: 4;
+        }
     }
-}
-.order5{
-    order: 5;
-}
-.order6{
-    order: 6;
-}
-.order7{
-    order: 7;
-}
-.order8{
-    order: 8;
-}
-.order9{
-    order: 4;
-    @include mediaQmin($mobile-break){
+
+    .order5 {
+        order: 5;
+    }
+
+    .order6 {
+        order: 6;
+    }
+
+    .order7 {
+        order: 7;
+    }
+
+    .order8 {
+        order: 8;
+    }
+
+    .order9 {
+        order: 4;
+        @include mediaQmin($mobile-break) {
             order: 9;
+        }
     }
-}
-.order10{
-    order: 10;
-}
+
+    .order10 {
+        order: 10;
+    }
+
+    -->
 </style> <form class="searchautocomplete UI-SEARCHAUTOCOMPLETE" id="search-form-mini" action="https://dynamiccatholic.com/catalogsearch/result/" method="get" data-tip="Search" data-url="//dynamiccatholic.com/searchautocomplete/ajax/get/" data-minchars="2" data-delay="200">
 
 
@@ -518,7 +616,7 @@ Sign up here and choose the ways you would like us to keep you inspired!
 <div class="footer-bottom">
 <div class="container">
 <div class="flex-container space-between">
-<span class="footer-bottom__copyright">Copyright © 2017 The Dynamic Catholic Institute.&nbsp;&nbsp;A 501(C)(3) nonprofit organization.</span>
+ <span class="footer-bottom__copyright">Copyright © 2018 The Dynamic Catholic Institute.&nbsp;&nbsp;A 501(C)(3) nonprofit organization.</span>
 <div class="footer-bottom__links">
 <a href="/site-map">Sitemap</a>
 <a href="/privacy-policy">Privacy Policy</a>
@@ -529,8 +627,12 @@ Sign up here and choose the ways you would like us to keep you inspired!
 </div>
 <script>
 <!--- SI SST ID --->
+<!--683052beee6e4bb4036e62cd5a184279-->
+</script>
+<script>
+<!--- SI SST ID --->
 <!--2d62284af6e3811f87dec1556a8198b1-->
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b6f4a25c5b","applicationID":"62041790,76780387","transactionName":"NAcHZEYEDUZTBRVZWQ1NJFNADAxbHQUMQxkTAwJVGxMKUEU=","queueTime":0,"applicationTime":240,"atts":"GEAEEg4eHkg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b6f4a25c5b","applicationID":"92125760,76780387","transactionName":"NAcHZEYEDUZTBRVZWQ1NJFNADAxbHQUMQxkTAwJVGxMKUEU=","queueTime":0,"applicationTime":529,"atts":"GEAEEg4eHkg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
