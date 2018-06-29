@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacred-texts.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228031123id_/http%3A//sacred-texts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-texts.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629052919id_/http%3A//sacred-texts.com/privacy.htm) for the most accurate reproduction.*
 
 # sacred-texts.com: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 The Internet Sacred Texts Archive is committed to the privacy and anonymity of its viewers. This page answers questions about the level of privacy you can expect at our site. Recent events on the web have created an atmosphere of paranoia which can only be dispelled by factual information. Viewers of this site are entitled to full disclosure concerning exactly what information is tracked here, what that information is used for, and who it is shared with. These policies are subject to change. If we change them we will update this page. 
 
-[There is a page for privacy issues specific to purchasing the Sacred Texts CD-ROM at this link.](https://web.archive.org/web/20171228031123id_/http%3A//sacred-texts.com/cdshop/privacy.htm)
+[There is a page for privacy issues specific to purchasing the Sacred Texts CD-ROM at this link.](https://web.archive.org/web/20180629052919id_/http%3A//sacred-texts.com/cdshop/privacy.htm)
 
 ### Who runs this site?
 
