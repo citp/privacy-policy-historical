@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118192611id_/http%3A//www.komu.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629120156id_/http%3A//www1.komu.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ KOMU 8 may update this Privacy Policy from time to time. In the event that KOMU 
 
 ## Governing Law
 
-By choosing to visit our website or otherwise provide information to KOMU 8, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of Missouri. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Service (available at <http://www.komu.com/pages/terms-of-service>) or other agreement we have with you
+By choosing to visit our website or otherwise provide information to KOMU 8, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of Missouri. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Service (available at <https://www.komu.com/pages/terms-of-service>) or other agreement we have with you
 
 ## Updating You Information or Giving Suggestions
 
