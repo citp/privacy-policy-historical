@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sftimes.co privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201161620id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sftimes.co privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629161402id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,6 +72,8 @@ _Privacy Policy and Third Party Web Sites, Links, Advertisements and Services_
 You should be aware that while you are using our Service, you may be directed to other sites that are beyond our control and for which we are not responsible. Additionally, third parties provide advertisements and offer other products and services to you when you are using our Service, which may receive your IP address or other technology such as cookies, web beacons and the like. By using the Service, you consent to such use by third parties of your personal information, which is subject to the privacy policies of these third parties.
 
 You should consult the privacy policies of these third parties for more detailed information.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
 
 _California_ _Privacy Rights_
 
