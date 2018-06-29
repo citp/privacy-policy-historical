@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addresses.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217072456id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addresses.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629024854id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
 
 # PeopleConnect Privacy Policy
 
