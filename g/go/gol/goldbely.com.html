@@ -1,50 +1,68 @@
-<!--The following is the downloaded HTML source of the goldbely.com privacy policy that was archived on 2017-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170520064106id_/https%3A//www.goldbely.com/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldbely.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629045818id_/https%3A//www.goldbely.com/privacy-and-security) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><!-- <![endif]--><head>
-<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/0slics4f70/analytics.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script type="text/javascript">var _rollbarConfig = {"accessToken":"ba281166c494442a84c0e6a8c350c5db","captureUncaught":true,"payload":{"environment":"production","person":{}}};</script>
-<script type="text/javascript">!function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);</script>
+<!DOCTYPE html><html><head>
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/c1136m4c"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/0slics4f70/analytics.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.9/rollbar.min.js" async=""></script><script>
+  var _rollbarConfig = {
+      accessToken: "ba281166c494442a84c0e6a8c350c5db",
+      captureUncaught: true,
+      captureUnhandledRejections: true,
+      payload: {
+          environment: "production"
+      }
+  };
+  // Rollbar Snippet
+  !function(r){function e(n){if(o[n])return o[n].exports;var t=o[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,e),t.loaded=!0,t.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var n=o(1),t=o(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.9/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,e){this.options=r,this._rollbarOldOnError=null;var o=s++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}function a(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(e);return n(function(){e.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),e.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=e.autoInstrument;return e.enabled!==!1&&(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[o]=t,t})()}}function l(r){return n(function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=o(2),s=0,d=o(3),c=function(r,e){return new t(r,e)},p=d.bind(null,c);t.prototype.loadFull=function(r,e,o,t,a){var l=function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,t,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(e);break}}"function"==typeof a&&a(e)},i=!1,s=e.createElement("script"),d=e.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,o||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,e){"use strict";function o(r,e,o){if(r){var t;"function"==typeof e._rollbarOldOnError?t=e._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,e._rollbarOldOnError=t);var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};a.belongsToShim=o,r.onerror=a}}function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),e.handleUncaughtException.apply(e,n),o&&o.apply(r,n)}function t(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){t="[unhandledrejection] error getting `detail` from event"}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,e,o){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(e,r[t].prototype,o)}}function l(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports={captureUncaughtExceptions:o,captureUnhandledRejections:t,wrapGlobals:a}},function(r,e){"use strict";function o(r,e){this.impl=r(e,this),this.options=e,n(o.prototype)}function n(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}o.prototype._swapAndProcessMessages=function(r,e){this.impl=r(this.options);for(var o,n,t;o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=o},function(r,e){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){r=r||{};for(var o,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+  // End Rollbar Snippet
+</script>
+
 <script>
   var _sf_startpt=(new Date()).getTime()
 </script>
 <meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"cec148ed57","applicationID":"2425079","transactionName":"eldbRxRdCFsEFh9XS0lUWkEDHQFFEwVEUxxJSlxFB1EdaBIBU0dBUExM","queueTime":5,"applicationTime":185,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4GUFdWGwEEVlRSAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 <title>Goldbely | Privacy and Security</title>
 <meta content="Goldbely is a curated marketplace for Gourmet Food &amp; Food Gifts. We feature America’s most legendary and iconic foods and gifts that you can order directly to your door." name="description">
 <meta content="goldbely, goldbelly, gourmet food, gourmet food gifts, food gifts, gift baskets, corporate gifts, foodie gifts, mail order food, order food, order bbq, order ice cream, order brownies, new york food, chicago food, new orleans food" name="keywords">
 <meta content="e6641fc7c902ab274dbbf34c22d14aad" name="p:domain_verify">
-<link href="//stowage0.goldbely.com" rel="dns-prefetch">
-<link href="//stowage1.goldbely.com" rel="dns-prefetch">
+<link href="//cdn0.goldbely.com" rel="dns-prefetch">
+<link href="//cdn1.goldbely.com" rel="dns-prefetch">
 <link href="https://pantograph0.goldbely.com" rel="dns-prefetch">
-<link rel="shortcut icon" type="image/x-icon" href="https://stowage1.goldbely.com/assets/favicon-afe8a3a9d649357c461eb5ec712d5c26.ico">
-<link rel="shortcut icon" type="image/png" href="https://stowage1.goldbely.com/assets/favicon-ba43ffcb7a25de0b34916fdfd45cb6e2.png">
-<link rel="apple-touch-icon" type="image/png" href="https://stowage1.goldbely.com/assets/apple-touch-icon-8b9eaea8b82119696ecd75961a613b67.png">
-<link rel="apple-touch-icon" type="image/png" href="https://stowage1.goldbely.com/assets/apple-touch-icon-8b9eaea8b82119696ecd75961a613b67.png" sizes="76x76">
-<link rel="apple-touch-icon" type="image/png" href="https://stowage1.goldbely.com/assets/apple-touch-icon-120x120-9851063e2fb9c86dfffca7b1e6a11340.png" sizes="120x120">
-<link rel="apple-touch-icon" type="image/png" href="https://stowage0.goldbely.com/assets/apple-touch-icon-152x152-57ed48b09c6d27c9c7f7806fe3defe75.png" sizes="152x152">
+<link rel="shortcut icon" type="image/x-icon" href="https://cdn0.goldbely.com/assets/favicon-12faaf7322bb6a0b764e95a91ac5c2b5b835991ea61c5f65f6272a80395742f9.ico">
+<link rel="shortcut icon" type="image/png" href="https://cdn1.goldbely.com/assets/favicon-9aa8c29dd98f0145d854a05312f8f547e1fabff186edc0f8bbc0700cfc9142c1.png">
+<link rel="apple-touch-icon" type="image/png" href="https://cdn0.goldbely.com/assets/apple-touch-icon-5f6a0420513fa8acb5c22ebeceeba409856bbf5c99869d7cd6e8a29b62b88794.png">
+<link rel="apple-touch-icon" type="image/png" href="https://cdn0.goldbely.com/assets/apple-touch-icon-5f6a0420513fa8acb5c22ebeceeba409856bbf5c99869d7cd6e8a29b62b88794.png" sizes="76x76">
+<link rel="apple-touch-icon" type="image/png" href="https://cdn0.goldbely.com/assets/apple-touch-icon-120x120-3eb4afdd8eedb9030697f0ff3dee7b5453aa13c31af602e32f263bc0e25260f1.png" sizes="120x120">
+<link rel="apple-touch-icon" type="image/png" href="https://cdn1.goldbely.com/assets/apple-touch-icon-152x152-895652c47e4bacdb36e1be36c009b7e7e8cd7fc83131778fccb7ae1a719ac874.png" sizes="152x152">
 
-<meta content="https://stowage1.goldbely.com/assets/browserconfig-7ae9b9d0c3d3ca42d03d9fd6312c5bf7.xml" name="msapplication-config">
+<meta content="https://cdn0.goldbely.com/assets/browserconfig-adb3ab426c177b778e6319d857b130000087605c4f92291e7d0ea82be2dcab3f.xml" name="msapplication-config">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-<script async="" data-turbolinks-track="reload" src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 <script>
-  WebFontConfig = {
-    google: { families: [ 'Cabin:400,700:latin' ] }
+  if ( this.GB == null ) { this.GB = {}; }
+  this.GB.ready = function( fn ) {
+    if ( document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading" ) {
+      fn();
+    }
+    else {
+      document.addEventListener( 'DOMContentLoaded', fn );
+    }
   }
 </script>
-<link rel="stylesheet" media="all" href="https://stowage1.goldbely.com/assets/application-0c1dfde245868cdbb41105f80b0883ed.css" data-turbolinks-track="reload">
+
+<link rel="stylesheet" media="all" href="https://cdn0.goldbely.com/assets/application-2cb341cd96fb3964c75a1e119f0974ede5d1678f930d1455b1b324e54c3ca000.css" data-turbolinks-track="reload">
 <!--[if lte IE 9]>
-<link rel="stylesheet" media="all" href="https://stowage0.goldbely.com/assets/application_split2-75167f2cdeb17897c539a58f7b93cb75.css" data-turbolinks-track="reload" />
+<link rel="stylesheet" media="all" href="https://cdn1.goldbely.com/assets/application_split2-80a355b16657829d0b67ce0ac290ab07ee013585e8b4a5d439515e77dcb22c16.css" data-turbolinks-track="reload" />
 <![endif]-->
 
 <meta content="585465618" property="fb:admins">
 <meta content="685765060" property="fb:admins">
 <meta content="615171578" property="fb:admins">
 <meta content="163000002" property="fb:admins">
+<meta content="328091087287454" property="fb:app_id">
 <meta content="Goldbely" property="og:site_name">
 <meta name="twitter:site" value="@goldbely">
 <meta name="twitter:domain" value="Goldbely.com">
-<meta content="NOODP" name="robots">
+<meta content="noodp" name="robots">
+<link href="https://www.goldbely.com/privacy-and-security" rel="canonical">
 
 <!--
 .  .      .      .      .      .      .      .      .      .      .      .
@@ -76,21 +94,15 @@
 .      .      .      .      .      .      .      .      .      .      .      .
 -->
 
-<meta content="pk_735dBFib8LcskVG7DVYJryF9bUTar" name="stripe-key">
+<meta content="pk_live_CcIzux3723p69VVoA3FJLzh4" name="stripe-key">
 <meta content="3TiFwnec3CZxxq1rvUru" name="swiftype-key">
 <meta content="enabled" name="email-modal">
 <meta content="4483580154951682655" data-debug="false" name="smartystreets-key">
 <!--[if lt IE 9]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js" data-turbolinks-track="reload"></script>
 <![endif]-->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" data-turbolinks-track="reload"></script>
-<script>
-  window.jQuery || document.write('<script src="https://stowage0.goldbely.com/assets/jquery.min-4c53b9b14986fc0397d0d9fbbc582658.js"><\/script>');
-</script><script src="https://stowage0.goldbely.com/assets/jquery.min-4c53b9b14986fc0397d0d9fbbc582658.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js" data-turbolinks-track="reload"></script>
-<script>
-  window.jQuery().button || document.write('<script src="https://stowage1.goldbely.com/assets/bootstrap.min-8bcca8e960e990d39cfd131cc16eda5f.js"><\/script>');
-</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" defer="defer" data-turbolinks-track="reload"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js" defer="defer" data-turbolinks-track="reload"></script>
 
 <script>
   if (window.__data == null) {
@@ -106,13 +118,21 @@
   __data.promotions = {
     firstOrderDiscount: {
       amount: "$15",
-      imageUrl: "https://stowage0.goldbely.com/assets/sequences/first-order/15-c72ba28d4a3985b0fc399d1e9a5736f2.png"
+      numberOfUses: "3",
+      imageUrl: "https://cdn1.goldbely.com/assets/sequences/first-order/15-491d211b35efab25ce8ed80280d2947d0130a55b52d32b47969e4bb9e0b5839a.png",
+      imageGetThisShippedUrl: "https://cdn1.goldbely.com/assets/modal/get-this-shipped-9a85ef7310829ed379fc84230e9f9776ba665793ad286d1a0cfa3166f038c48d.png",
+      imageLikeABossUrl: "https://cdn0.goldbely.com/assets/modal/like-a-boss-8e3b03d30609676bc5323b8ca3520178f6ac4c02d3960c38517430d7323264a5.png"
     }
   }
+  
+  __data.pageType = "other";
+  __data.productId = null;
+  __data.productPrice = null;
 </script>
 <script>
   window.isMobile = false;
 </script>
+<script src="https://cdn.ywxi.net/js/1.js" defer="defer" data-turbolinks-track="reload"></script>
 
 <script>
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -122,34 +142,18 @@
   document,'script','https://connect.facebook.net/en_US/fbevents.js');
   
   if ( window.fbq != null ) {
-    fbq('init', '1774517649433672');
+    var pixelIds = ["1774517649433672"];
+    for ( var i = 0; i < pixelIds.length; i++ ){
+      fbq('init', pixelIds[ i ] );
+    }
     fbq('track', "PageView");
   }
 </script>
-<noscript>
-https://www.facebook.com/tr?ev=PageView&amp;id=1774517649433672&amp;noscript=1
-</noscript>
-
-<script async="" data-turbolinks-track="reload" src="//static.criteo.net/js/ld/ld.js"></script>
-<script>
-  window.criteo_q = window.criteo_q || [];
-  window.criteo_q.push(
-    { event: 'setAccount', account: 37077 },
-    { event: 'setHashedEmail', email: '' },
-    { event: 'setSiteType', type: 'd' }
-  );
-</script>
 
 <script>
-  !function(){var analytics=window.analytics=window.analytics||[];if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.0";
-    analytics.load( __data.segmentKey );
-    analytics.page(
-      {},
-      {
-        integrations: __data.segmentIntegrations
-      }
-    );
-    }}();
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load( __data.segmentKey );
+  }}();
 </script>
 
 <script type="application/ld+json">
@@ -179,8 +183,6 @@ https://www.facebook.com/tr?ev=PageView&amp;id=1774517649433672&amp;noscript=1
 {
 "@context" : "http://schema.org",
 "@type" : "WebSite",
-"name" : "Goldbely",
-"alternateName" : "Goldbely.com",
 "url" : "https://www.goldbely.com",
 "potentialAction": {
 "@type": "SearchAction",
@@ -189,63 +191,289 @@ https://www.facebook.com/tr?ev=PageView&amp;id=1774517649433672&amp;noscript=1
 }
 }
 </script>
+<link href="/opensearch.xml" rel="search" type="application/opensearchdescription+xml">
 
-<script src="//d79i1fxsrar4t.cloudfront.net/jquery.liveaddress/2.7/jquery.liveaddress.min.js" defer="defer" data-turbolinks-track="reload"></script>
+<script src="//d79i1fxsrar4t.cloudfront.net/jquery.liveaddress/5.1/jquery.liveaddress.min.js" defer="defer" data-turbolinks-track="reload"></script>
 <script src="https://js.stripe.com/v2/" defer="defer" data-turbolinks-track="reload"></script>
+<script src="https://js.stripe.com/v3/" defer="defer" data-turbolinks-track="reload"></script>
 <script src="//www.googleadservices.com/pagead/conversion_async.js" defer="defer" data-turbolinks-track="reload"></script>
 <script>
-  (function() {
-    var remarketing;
-  
-    remarketing = {
+  var remarketing;
+  remarketing = function() {
+    return {
       google_conversion_id: 989018299,
       google_conversion_language: 'en',
       google_conversion_format: '2',
       google_conversion_color: 'ffffff',
       google_conversion_label: '8Jt6CP3cwQUQu_HM1wM',
-      google_conversion_value: 0
-    };
-  
-    $(document).ready(function() {
-      if ($('body').data('turbolinks')) {
-        return $(document).on('turbolinks:load', function() {
-          return GB.analytics.trackConversion(remarketing);
-        });
-      } else {
-        return GB.analytics.trackConversion(remarketing);
+      google_conversion_value: 0,
+      google_custom_params: {
+        ecomm_pagetype: __data.pageType,
+        ecomm_prodid: __data.productId,
+        ecomm_totalvalue: __data.productPrice
       }
-    });
+    };
+  };
   
-  }).call(this);
+  GB.ready( function() {
+    return $( document ).on( 'turbolinks:load', function() {
+      return GB.analytics.trackConversion( remarketing() );
+    });
+  });
 </script>
 
 <script>
-  (function() {
-    window.fbAsyncInit = function() {
-      return FB.init({
-        appId: "328091087287454",
-        version: 'v2.9',
-        cookie: true,
-        status: true,
-        xfbml: true
-      });
-    };
-  
-  }).call(this);
+  window.fbAsyncInit = function() {
+    return FB.init({
+      appId: "328091087287454",
+      version: 'v2.9',
+      cookie: true,
+      status: true,
+      xfbml: true
+    });
+  };
 </script>
 <script src="//connect.facebook.net/en_US/sdk.js" defer="defer" data-turbolinks-track="reload"></script>
-<script src="https://stowage1.goldbely.com/assets/turbolinks_wrapper-21ec6390acf5685cc3c1756509d5b8c9.js" defer="defer" data-turbolinks-track="reload"></script>
-<script src="https://stowage0.goldbely.com/assets/application-d75a185d4bf79b28cc39e301de86d800.js" defer="defer" data-turbolinks-track="reload"></script>
+<script src="https://cdn1.goldbely.com/assets/turbolinks_wrapper-0dc4a56bfd46b403512b7f1a402df4204b29290ba5768d2abdce97803abcac8b.js" defer="defer" data-turbolinks-track="reload"></script>
+<script src="https://cdn1.goldbely.com/assets/application-25960929c3aeb63cd996d1451e8131430787dd8a3f8d4d9ca613ca7241f4817e.js" defer="defer" data-turbolinks-track="reload"></script>
+<script>
+  window.apiPath = "/api/v2/";
+</script>
+<script src="https://cdn1.goldbely.com/packs/explore/index-7f0e456cfb9e634462fd.js" defer="defer" data-turbolinks-track="reload"></script>
 
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="rZVnQDQRlyWnbara4hppJIfLdz4ahjMJuB3Gk/99wiXXztEzNz3mgYsI1qkN+Jc4t4y02AznzFpAbOXu1em9tg==">
+<meta name="csrf-token" content="SFZA/YfAdxUJ+VHXJpI1N1CvCbGBGnLnPsQ/E+JAz/MjACLYs4iKDmKMyhu0pvXf/jdcH4GLR4+kutDZ0fN2xw==">
+<script>
+  document.addEventListener('turbolinks:load', function() {
+    (function() {
+      var scripts = document.getElementsByTagName('script');
+      for (var i = scripts.length; i--;) {
+        if (scripts[i].src.indexOf('usefomo.com') != -1) {
+          scripts[i].remove();
+        }
+      }
+  
+      window.fomo = null;
+  
+      var fomoJS = document.createElement('script');
+      fomoJS.type = 'text/javascript';
+      fomoJS.src = 'https://e.usefomo.com/api/v1/9cvBoq5Fzo1I_LY0gyDwSQ/load.js';
+      fomoJS.defer = true;
+      fomoJS.id = 'fomosnippet';
+      var firstScript = document.getElementsByTagName('script')[0];
+      firstScript.parentNode.insertBefore(fomoJS, firstScript);
+    })();
+  });
+</script>
 </head>
 <body class="privacySecurity  analytics__logged-out" data-action="privacy_security" data-controller="errata" data-turbolinks="true" id="errata">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="svg-definitions">
+<defs>
+<symbol id="icon-arrow-left" viewBox="0 0 32 32">
+<title>arrow left</title>
+<path d="M22.15 0c0.95 0 1.9 0.35 2.6 1.075 0.725 0.725 1.075 1.675 1.075 2.6 0 0.95-0.35 1.9-1.075 2.6l-9.675 9.725 9.7 9.7c0.725 0.725 1.075 1.675 1.075 2.6 0 0.95-0.35 1.9-1.075 2.6-0.725 0.725-1.675 1.075-2.6 1.075-0.95 0-1.9-0.35-2.6-1.075l-12.35-12.3c-0.725-0.725-1.075-1.675-1.075-2.6 0-0.95 0.35-1.9 1.075-2.6l12.325-12.325c0.725-0.725 1.65-1.075 2.6-1.075z"></path>
+</symbol>
+<symbol id="icon-calendar" viewBox="0 0 32 32">
+<title>calendar</title>
+<path d="M2 10v-4c0-1.1 0.9-2 2-2h2v-2c0-1.1 0.9-2 2-2s2 0.9 2 2v2h12v-2c0-1.1 0.9-2 2-2s2 0.9 2 2v2h2c1.1 0 2 0.9 2 2v4h-28zM2 12v18c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-18h-28z"></path>
+</symbol>
+<symbol id="icon-cart" viewBox="0 0 32 32">
+<title>cart</title>
+<path d="M19.7 27.325c0 0.675 0.25 1.25 0.725 1.725s1.075 0.725 1.725 0.725 1.25-0.25 1.725-0.725c0.475-0.475 0.725-1.075 0.725-1.725s-0.25-1.25-0.725-1.725c-0.475-0.475-1.075-0.725-1.725-0.725s-1.25 0.25-1.725 0.725c-0.5 0.475-0.725 1.050-0.725 1.725zM2.45 27.325c0 0.675 0.25 1.25 0.725 1.725s1.075 0.725 1.725 0.725 1.25-0.25 1.725-0.725c0.475-0.475 0.725-1.075 0.725-1.725s-0.25-1.25-0.725-1.725c-0.475-0.475-1.075-0.725-1.725-0.725s-1.25 0.25-1.725 0.725c-0.475 0.475-0.725 1.050-0.725 1.725zM0 6.4v9.85c0 0.3 0.1 0.575 0.325 0.825 0.2 0.225 0.475 0.375 0.775 0.425l20.075 2.35c-0.175 0.775-0.25 1.225-0.25 1.35 0 0.2 0.15 0.625 0.45 1.225h-17.675c-0.325 0-0.625 0.125-0.875 0.375s-0.375 0.525-0.375 0.875 0.125 0.625 0.375 0.875 0.525 0.375 0.875 0.375h19.7c0.325 0 0.625-0.125 0.875-0.375s0.375-0.525 0.375-0.875c0-0.15-0.050-0.35-0.15-0.6-0.1-0.275-0.2-0.5-0.3-0.7s-0.25-0.45-0.425-0.775c-0.175-0.325-0.275-0.5-0.3-0.575l3.4-15.825h3.925c0.325 0 0.625-0.125 0.875-0.375s0.375-0.525 0.375-0.875-0.125-0.625-0.375-0.875-0.525-0.375-0.875-0.375h-4.925c-0.2 0-0.4 0.050-0.55 0.125s-0.275 0.175-0.375 0.3-0.175 0.275-0.25 0.475-0.125 0.375-0.15 0.5c-0.025 0.125-0.050 0.325-0.1 0.575s-0.075 0.4-0.075 0.5h-23.15c-0.325 0-0.625 0.125-0.875 0.375-0.225 0.225-0.35 0.525-0.35 0.85z"></path>
+</symbol>
+<symbol id="icon-check" viewBox="0 0 32 32">
+<title>check</title>
+<path d="M12 30c0.075 0 0.15 0 0.225 0 1.125-0.075 2.2-0.6 2.9-1.5l16-20c0.6-0.75 0.875-1.625 0.875-2.5 0-1.175-0.525-2.325-1.5-3.125-0.75-0.6-1.625-0.875-2.5-0.875-1.175 0-2.325 0.525-3.125 1.5l-13.2 16.5-4.85-4.825c-0.775-0.775-1.8-1.175-2.825-1.175s-2.050 0.4-2.825 1.175c-0.775 0.775-1.175 1.8-1.175 2.825s0.4 2.050 1.175 2.825l8 8c0.75 0.75 1.775 1.175 2.825 1.175v0z"></path>
+</symbol>
+<symbol id="icon-clock" viewBox="0 0 32 32">
+<title>clock</title>
+<path d="M0 16c0-8.825 7.175-16 16-16s16 7.175 16 16c0 8.825-7.175 16-16 16s-16-7.175-16-16zM23.675 21.1c0.625-0.925 0.375-2.15-0.55-2.775l-5.125-3.4v-8.925c0-1.1-0.9-2-2-2s-2 0.9-2 2v10c0 0.675 0.325 1.3 0.9 1.675l6 4c0.35 0.225 0.725 0.325 1.1 0.325 0.65 0 1.275-0.3 1.675-0.9z"></path>
+</symbol>
+<symbol id="icon-close-arrow-left" viewBox="0 0 32 32">
+<title>close arrow left</title>
+<path d="M32 6v20c0 1.1-0.9 2-2 2h-18c-0.525 0-1.050-0.2-1.425-0.575l-10-10c-0.375-0.4-0.575-0.925-0.575-1.425s0.2-1.025 0.575-1.425l10-10c0.375-0.375 0.875-0.575 1.425-0.575h18c1.1 0 2 0.9 2 2zM22.825 16l2.575-2.575c0.4-0.4 0.575-0.9 0.575-1.425 0-0.5-0.2-1.025-0.575-1.425-0.375-0.375-0.9-0.575-1.4-0.575s-1.025 0.2-1.425 0.575l-2.575 2.6-2.575-2.6c-0.4-0.375-0.925-0.575-1.425-0.575s-1.025 0.2-1.425 0.575c-0.375 0.4-0.575 0.925-0.575 1.425s0.2 1.025 0.575 1.425l2.6 2.575-2.6 2.575c-0.375 0.4-0.575 0.925-0.575 1.425s0.2 1.025 0.575 1.425c0.4 0.375 0.925 0.575 1.425 0.575s1.025-0.2 1.425-0.575l2.575-2.6 2.575 2.575c0.4 0.4 0.925 0.6 1.425 0.6s1.025-0.2 1.425-0.575c0.4-0.4 0.575-0.9 0.575-1.425 0-0.5-0.2-1.025-0.575-1.425l-2.6-2.575z"></path>
+</symbol>
+<symbol id="icon-close-arrow-right" viewBox="0 0 32 32">
+<title>close arrow right</title>
+<path d="M0 6v20c0 1.1 0.9 2 2 2h18c0.525 0 1.050-0.2 1.425-0.575l10-10c0.375-0.4 0.575-0.925 0.575-1.425s-0.2-1.025-0.575-1.425l-10-10c-0.375-0.375-0.875-0.575-1.425-0.575h-18c-1.1 0-2 0.9-2 2zM9.175 16l-2.575-2.575c-0.4-0.4-0.575-0.9-0.575-1.425 0-0.5 0.2-1.025 0.575-1.425 0.375-0.375 0.9-0.575 1.4-0.575s1.025 0.2 1.425 0.575l2.575 2.6 2.575-2.6c0.4-0.375 0.925-0.575 1.425-0.575s1.025 0.2 1.425 0.575c0.375 0.4 0.575 0.925 0.575 1.425s-0.2 1.025-0.575 1.425l-2.6 2.575 2.6 2.575c0.375 0.4 0.575 0.925 0.575 1.425s-0.2 1.025-0.575 1.425c-0.4 0.375-0.925 0.575-1.425 0.575s-1.025-0.2-1.425-0.575l-2.575-2.6-2.575 2.575c-0.4 0.4-0.925 0.6-1.425 0.6s-1.025-0.2-1.425-0.575c-0.4-0.4-0.575-0.9-0.575-1.425 0-0.5 0.2-1.025 0.575-1.425l2.6-2.575z"></path>
+</symbol>
+<symbol id="icon-close-circle" viewBox="0 0 32 32">
+<title>close circle</title>
+<path d="M16 0c-8.825 0-16 7.175-16 16s7.175 16 16 16 16-7.175 16-16-7.175-16-16-16zM24.125 19.875c0.575 0.575 0.875 1.35 0.875 2.125s-0.3 1.525-0.875 2.125c-0.575 0.575-1.35 0.875-2.125 0.875s-1.525-0.3-2.125-0.875l-3.875-3.875-3.875 3.875c-0.575 0.575-1.35 0.875-2.125 0.875s-1.525-0.3-2.125-0.875c-0.575-0.6-0.875-1.35-0.875-2.125s0.3-1.525 0.875-2.125l3.875-3.875-3.875-3.875c-0.575-0.6-0.875-1.35-0.875-2.125s0.3-1.525 0.875-2.125c0.575-0.575 1.35-0.875 2.125-0.875s1.525 0.3 2.125 0.875l3.875 3.875 3.875-3.875c0.575-0.575 1.35-0.875 2.125-0.875s1.525 0.3 2.125 0.875c0.575 0.575 0.875 1.35 0.875 2.125s-0.3 1.525-0.875 2.125l-3.875 3.875 3.875 3.875z"></path>
+</symbol>
+<symbol id="icon-close-x" viewBox="0 0 32 32">
+<title>close x</title>
+<path d="M30.45 22.9c1.050 1.050 1.55 2.4 1.55 3.775s-0.525 2.725-1.55 3.775c-1.050 1.050-2.4 1.55-3.775 1.55s-2.725-0.525-3.775-1.55l-6.9-6.9-6.9 6.9c-1.050 1.050-2.4 1.55-3.775 1.55s-2.725-0.525-3.775-1.55c-1.050-1.050-1.55-2.4-1.55-3.775s0.525-2.725 1.55-3.775l6.9-6.9-6.9-6.9c-1.025-1.025-1.55-2.4-1.55-3.775s0.525-2.725 1.55-3.775c1.050-1.025 2.425-1.55 3.775-1.55 1.375 0 2.725 0.525 3.775 1.55l6.9 6.9 6.9-6.9c1.050-1.050 2.4-1.55 3.775-1.55s2.725 0.525 3.775 1.55c1.050 1.050 1.55 2.4 1.55 3.775s-0.525 2.725-1.55 3.775l-6.9 6.9 6.9 6.9z"></path>
+</symbol>
+<symbol id="icon-facebook" viewBox="0 0 32 32">
+<title>facebook</title>
+<path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path>
+</symbol>
+<symbol id="icon-foursquare" viewBox="0 0 32 32">
+<title>foursquare</title>
+<path d="M27.611 2.815c-0.377-0.513-0.975-0.815-1.611-0.815h-19c-1.105 0-2 0.895-2 2v24c0 0.809 0.487 1.538 1.235 1.848 0.247 0.102 0.507 0.152 0.765 0.152 0.521 0 1.032-0.203 1.415-0.586l7.414-7.414h5.172c0.875 0 1.648-0.569 1.909-1.403l5-16c0.19-0.607 0.079-1.269-0.298-1.781zM22.030 10h-7.030c-1.105 0-2 0.895-2 2s0.895 2 2 2h5.78l-1.25 4h-4.53c-0.53 0-1.039 0.211-1.414 0.586l-4.586 4.586v-17.172h14.28l-1.25 4z"></path>
+</symbol>
+<symbol id="icon-giftbox" viewBox="0 0 32 32">
+<title>giftbox</title>
+<path d="M32 16h-32v-4c0-1.1 0.9-2 2-2h7.55c-0.275-0.1-0.525-0.2-0.725-0.275-0.975-0.375-1.875-0.725-2.625-1.050-0.65-0.325-2.2-1.075-2.2-2.675 0-0.4 0-1.575 2.2-3.8 2.225-2.2 3.4-2.2 3.8-2.2 1.050 0 2 0.525 4.85 3.65 0.4 0.45 0.8 0.875 1.15 1.275 0.35-0.4 0.75-0.85 1.15-1.275 2.85-3.125 3.8-3.65 4.85-3.65 0.4 0 1.575 0 3.8 2.2 2.2 2.225 2.2 3.4 2.2 3.8 0 1.6-1.55 2.35-2.2 2.65-0.725 0.35-1.65 0.7-2.625 1.050-0.225 0.075-0.475 0.175-0.725 0.275h7.55c1.1 0 2 0.9 2 2v4.025zM2 30c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-12h-28v12z"></path>
+</symbol>
+<symbol id="icon-google-plus" viewBox="0 0 32 32">
+<title>google plus</title>
+<path d="M10.181 14.294v3.494h5.775c-0.231 1.5-1.744 4.394-5.775 4.394-3.475 0-6.313-2.881-6.313-6.431s2.838-6.431 6.313-6.431c1.981 0 3.3 0.844 4.056 1.569l2.762-2.662c-1.775-1.656-4.075-2.662-6.819-2.662-5.631 0.006-10.181 4.556-10.181 10.188s4.55 10.181 10.181 10.181c5.875 0 9.775-4.131 9.775-9.95 0-0.669-0.075-1.181-0.163-1.688h-9.613z"></path>
+<path d="M32 14h-3v-3h-3v3h-3v3h3v3h3v-3h3z"></path>
+</symbol>
+<symbol id="icon-instagram" viewBox="0 0 32 32">
+<title>instagram</title>
+<path d="M16 2.881c4.275 0 4.781 0.019 6.462 0.094 1.563 0.069 2.406 0.331 2.969 0.55 0.744 0.288 1.281 0.638 1.837 1.194 0.563 0.563 0.906 1.094 1.2 1.838 0.219 0.563 0.481 1.412 0.55 2.969 0.075 1.688 0.094 2.194 0.094 6.463s-0.019 4.781-0.094 6.463c-0.069 1.563-0.331 2.406-0.55 2.969-0.288 0.744-0.637 1.281-1.194 1.837-0.563 0.563-1.094 0.906-1.837 1.2-0.563 0.219-1.413 0.481-2.969 0.55-1.688 0.075-2.194 0.094-6.463 0.094s-4.781-0.019-6.463-0.094c-1.563-0.069-2.406-0.331-2.969-0.55-0.744-0.288-1.281-0.637-1.838-1.194-0.563-0.563-0.906-1.094-1.2-1.837-0.219-0.563-0.481-1.413-0.55-2.969-0.075-1.688-0.094-2.194-0.094-6.463s0.019-4.781 0.094-6.463c0.069-1.563 0.331-2.406 0.55-2.969 0.288-0.744 0.638-1.281 1.194-1.838 0.563-0.563 1.094-0.906 1.838-1.2 0.563-0.219 1.412-0.481 2.969-0.55 1.681-0.075 2.188-0.094 6.463-0.094zM16 0c-4.344 0-4.887 0.019-6.594 0.094-1.7 0.075-2.869 0.35-3.881 0.744-1.056 0.412-1.95 0.956-2.837 1.85-0.894 0.888-1.438 1.781-1.85 2.831-0.394 1.019-0.669 2.181-0.744 3.881-0.075 1.713-0.094 2.256-0.094 6.6s0.019 4.887 0.094 6.594c0.075 1.7 0.35 2.869 0.744 3.881 0.413 1.056 0.956 1.95 1.85 2.837 0.887 0.887 1.781 1.438 2.831 1.844 1.019 0.394 2.181 0.669 3.881 0.744 1.706 0.075 2.25 0.094 6.594 0.094s4.888-0.019 6.594-0.094c1.7-0.075 2.869-0.35 3.881-0.744 1.050-0.406 1.944-0.956 2.831-1.844s1.438-1.781 1.844-2.831c0.394-1.019 0.669-2.181 0.744-3.881 0.075-1.706 0.094-2.25 0.094-6.594s-0.019-4.887-0.094-6.594c-0.075-1.7-0.35-2.869-0.744-3.881-0.394-1.063-0.938-1.956-1.831-2.844-0.887-0.887-1.781-1.438-2.831-1.844-1.019-0.394-2.181-0.669-3.881-0.744-1.712-0.081-2.256-0.1-6.6-0.1v0z"></path>
+<path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219c0-4.537-3.681-8.219-8.219-8.219zM16 21.331c-2.944 0-5.331-2.387-5.331-5.331s2.387-5.331 5.331-5.331c2.944 0 5.331 2.387 5.331 5.331s-2.387 5.331-5.331 5.331z"></path>
+<path d="M26.462 7.456c0 1.060-0.859 1.919-1.919 1.919s-1.919-0.859-1.919-1.919c0-1.060 0.859-1.919 1.919-1.919s1.919 0.859 1.919 1.919z"></path>
+</symbol>
+<symbol id="icon-lock" viewBox="0 0 32 32">
+<title>lock</title>
+<path d="M26 14h-2v-6c0-4.4-3.6-8-8-8s-8 3.6-8 8v6h-2c-1.1 0-2 0.9-2 2v14c0 1.1 0.9 2 2 2h20c1.1 0 2-0.9 2-2v-14c0-1.1-0.9-2-2-2zM12 8c0-2.2 1.8-4 4-4s4 1.8 4 4v6h-8v-6z"></path>
+</symbol>
+<symbol id="icon-map-pin" viewBox="0 0 32 32">
+<title>map pin</title>
+<path d="M28 12c0 8.725-10.15 18.975-10.575 19.425-0.4 0.4-0.9 0.575-1.425 0.575-0.5 0-1.025-0.2-1.425-0.575-0.425-0.45-10.575-10.7-10.575-19.425 0-6.625 5.375-12 12-12s12 5.375 12 12zM16 18c3.325 0 6-2.675 6-6s-2.675-6-6-6-6 2.675-6 6c0 3.325 2.675 6 6 6z"></path>
+</symbol>
+<symbol id="icon-pencil" viewBox="0 0 32 32">
+<title>pencil</title>
+<path d="M20.075 4.5l-18.775 18.8c-0.15 0.15-0.25 0.35-0.275 0.575l-1 7c-0.050 0.3 0.050 0.625 0.275 0.85 0.2 0.2 0.45 0.3 0.7 0.3 0.050 0 0.1 0 0.15 0l7-1c0.225-0.025 0.425-0.125 0.575-0.275l18.775-18.825-7.425-7.425zM2 30l1-6 5 5-6 1zM31.7 7.7l-2.775 2.8-7.425-7.425 2.8-2.775c0.4-0.4 1.025-0.4 1.425 0l6 6c0.375 0.375 0.375 1.025-0.025 1.4z"></path>
+</symbol>
+<symbol id="icon-pinterest" viewBox="0 0 32 32">
+<title>pinterest</title>
+<path d="M16 2.138c-7.656 0-13.863 6.206-13.863 13.863 0 5.875 3.656 10.887 8.813 12.906-0.119-1.094-0.231-2.781 0.050-3.975 0.25-1.081 1.625-6.887 1.625-6.887s-0.412-0.831-0.412-2.056c0-1.925 1.119-3.369 2.506-3.369 1.181 0 1.756 0.887 1.756 1.95 0 1.188-0.756 2.969-1.15 4.613-0.331 1.381 0.688 2.506 2.050 2.506 2.462 0 4.356-2.6 4.356-6.35 0-3.319-2.387-5.638-5.787-5.638-3.944 0-6.256 2.956-6.256 6.019 0 1.194 0.456 2.469 1.031 3.163 0.113 0.137 0.131 0.256 0.094 0.4-0.106 0.438-0.338 1.381-0.387 1.575-0.063 0.256-0.2 0.306-0.463 0.188-1.731-0.806-2.813-3.337-2.813-5.369 0-4.375 3.175-8.387 9.156-8.387 4.806 0 8.544 3.425 8.544 8.006 0 4.775-3.012 8.625-7.194 8.625-1.406 0-2.725-0.731-3.175-1.594 0 0-0.694 2.644-0.863 3.294-0.313 1.206-1.156 2.712-1.725 3.631 1.3 0.4 2.675 0.619 4.106 0.619 7.656 0 13.863-6.206 13.863-13.863 0-7.662-6.206-13.869-13.863-13.869z"></path>
+</symbol>
+<symbol id="icon-plus" viewBox="0 0 32 32">
+<title>plus</title>
+<path d="M28 12h-8v-8c0-2.2-1.8-4-4-4s-4 1.8-4 4v8h-8c-2.2 0-4 1.8-4 4s1.8 4 4 4h8v8c0 2.2 1.8 4 4 4s4-1.8 4-4v-8h8c2.2 0 4-1.8 4-4s-1.8-4-4-4z"></path>
+</symbol>
+<symbol id="icon-pointer-down" viewBox="0 0 32 32">
+<title>pointer-down</title>
+<path d="M0 4c0-0.35 0.1-0.7 0.275-1 0.35-0.625 1-1 1.725-1h28c0.725 0 1.375 0.375 1.725 1 0.175 0.3 0.275 0.65 0.275 1s-0.1 0.7-0.275 1l-14 24c-0.35 0.625-1.025 1-1.725 1s-1.375-0.375-1.725-1l-14-24c-0.175-0.3-0.275-0.65-0.275-1z"></path>
+</symbol>
+<symbol id="icon-refresh" viewBox="0 0 27 32">
+<title>refresh</title>
+<path d="M26.982 18.857c0 0.036 0 0.089-0.018 0.125-1.518 6.321-6.732 10.732-13.321 10.732-3.482 0-6.857-1.375-9.393-3.786l-2.304 2.304c-0.214 0.214-0.5 0.339-0.804 0.339-0.625 0-1.143-0.518-1.143-1.143v-8c0-0.625 0.518-1.143 1.143-1.143h8c0.625 0 1.143 0.518 1.143 1.143 0 0.304-0.125 0.589-0.339 0.804l-2.446 2.446c1.679 1.571 3.911 2.464 6.214 2.464 3.179 0 6.125-1.643 7.786-4.357 0.429-0.696 0.643-1.375 0.946-2.089 0.089-0.25 0.268-0.411 0.536-0.411h3.429c0.321 0 0.571 0.268 0.571 0.571zM27.429 4.571v8c0 0.625-0.518 1.143-1.143 1.143h-8c-0.625 0-1.143-0.518-1.143-1.143 0-0.304 0.125-0.589 0.339-0.804l2.464-2.464c-1.696-1.571-3.929-2.446-6.232-2.446-3.179 0-6.125 1.643-7.786 4.357-0.429 0.696-0.643 1.375-0.946 2.089-0.089 0.25-0.268 0.411-0.536 0.411h-3.554c-0.321 0-0.571-0.268-0.571-0.571v-0.125c1.536-6.339 6.804-10.732 13.393-10.732 3.5 0 6.911 1.393 9.446 3.786l2.321-2.304c0.214-0.214 0.5-0.339 0.804-0.339 0.625 0 1.143 0.518 1.143 1.143z"></path>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 32 32">
+<title>search</title>
+<path d="M30.8 30.8c-0.8 0.8-1.8 1.2-2.8 1.2s-2-0.4-2.8-1.2l-6.3-6.3c-1.8 1-3.8 1.5-5.9 1.5-7.2 0-13-5.8-13-13s5.8-13 13-13c7.2 0 13 5.8 13 13 0 2.1-0.5 4.1-1.4 5.9l6.3 6.3c1.5 1.5 1.5 4.1-0.1 5.6zM13 20c3.9 0 7-3.1 7-7s-3.1-7-7-7c-3.9 0-7 3.1-7 7s3.1 7 7 7z"></path>
+</symbol>
+<symbol id="icon-speech-bubble" viewBox="0 0 32 32">
+<title>speech-bubble</title>
+<path d="M26 4h-20c-3.3 0-6 2.7-6 6v10c0 3.3 2.7 6 6 6v4c0 0.8 0.475 1.55 1.225 1.85 0.25 0.1 0.5 0.15 0.775 0.15 0.525 0 1.025-0.2 1.425-0.575l5.4-5.425h11.175c3.3 0 6-2.7 6-6v-10c0-3.3-2.7-6-6-6z"></path>
+</symbol>
+<symbol id="icon-twitter" viewBox="0 0 32 32">
+<title>twitter</title>
+<path d="M32 7.075c-1.175 0.525-2.444 0.875-3.769 1.031 1.356-0.813 2.394-2.1 2.887-3.631-1.269 0.75-2.675 1.3-4.169 1.594-1.2-1.275-2.906-2.069-4.794-2.069-3.625 0-6.563 2.938-6.563 6.563 0 0.512 0.056 1.012 0.169 1.494-5.456-0.275-10.294-2.888-13.531-6.862-0.563 0.969-0.887 2.1-0.887 3.3 0 2.275 1.156 4.287 2.919 5.463-1.075-0.031-2.087-0.331-2.975-0.819 0 0.025 0 0.056 0 0.081 0 3.181 2.263 5.838 5.269 6.437-0.55 0.15-1.131 0.231-1.731 0.231-0.425 0-0.831-0.044-1.237-0.119 0.838 2.606 3.263 4.506 6.131 4.563-2.25 1.762-5.075 2.813-8.156 2.813-0.531 0-1.050-0.031-1.569-0.094 2.913 1.869 6.362 2.95 10.069 2.95 12.075 0 18.681-10.006 18.681-18.681 0-0.287-0.006-0.569-0.019-0.85 1.281-0.919 2.394-2.075 3.275-3.394z"></path>
+</symbol>
+<symbol id="icon-youtube" viewBox="0 0 32 32">
+<title>youtube</title>
+<path d="M31.681 9.6c0 0-0.313-2.206-1.275-3.175-1.219-1.275-2.581-1.281-3.206-1.356-4.475-0.325-11.194-0.325-11.194-0.325h-0.012c0 0-6.719 0-11.194 0.325-0.625 0.075-1.987 0.081-3.206 1.356-0.963 0.969-1.269 3.175-1.269 3.175s-0.319 2.588-0.319 5.181v2.425c0 2.587 0.319 5.181 0.319 5.181s0.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563 0.244 10.881 0.319 10.881 0.319s6.725-0.012 11.2-0.331c0.625-0.075 1.988-0.081 3.206-1.356 0.962-0.969 1.275-3.175 1.275-3.175s0.319-2.587 0.319-5.181v-2.425c-0.006-2.588-0.325-5.181-0.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+</symbol>
+<symbol id="icon-star" viewBox="0 0 30 32">
+<title>star</title>
+<path d="M29.714 11.554c0 0.321-0.232 0.625-0.464 0.857l-6.482 6.321 1.536 8.929c0.018 0.125 0.018 0.232 0.018 0.357 0 0.464-0.214 0.893-0.732 0.893-0.25 0-0.5-0.089-0.714-0.214l-8.018-4.214-8.018 4.214c-0.232 0.125-0.464 0.214-0.714 0.214-0.518 0-0.75-0.429-0.75-0.893 0-0.125 0.018-0.232 0.036-0.357l1.536-8.929-6.5-6.321c-0.214-0.232-0.446-0.536-0.446-0.857 0-0.536 0.554-0.75 1-0.821l8.964-1.304 4.018-8.125c0.161-0.339 0.464-0.732 0.875-0.732s0.714 0.393 0.875 0.732l4.018 8.125 8.964 1.304c0.429 0.071 1 0.286 1 0.821z"></path>
+</symbol>
+<symbol id="icon-user" viewBox="0 0 32 32">
+<title>user</title>
+<path d="M21.325 22.175c-0.55-0.2-1.1-0.4-1.6-0.7-0.45-0.275-0.6-0.8-0.725-1.275-0.050-0.25-0.075-0.5-0.1-0.775 1.65-2.25 2.725-5.9 2.725-8.9 0-4.675-2.65-6-5.9-6-3.275 0-5.9 1.3-5.9 5.975 0 3.1 1.175 6.925 2.9 9.125-0.025 0.175-0.025 0.35-0.075 0.525-0.1 0.475-0.275 1-0.725 1.275-0.5 0.3-1.050 0.475-1.6 0.675-2.25 0.75-4.6 1.425-6.6 2.775-0.15 0.1-0.275 0.2-0.425 0.325 2.925 3.8 7.525 6.25 12.675 6.25 5.075 0 9.575-2.35 12.5-6.025-0.175-0.175-0.375-0.325-0.575-0.475-1.975-1.3-4.325-2.025-6.575-2.775z"></path>
+<path d="M16 0c-8.825 0-16 7.175-16 16s7.175 16 16 16 16-7.175 16-16-7.175-16-16-16zM16 30.15c-7.8 0-14.15-6.35-14.15-14.15s6.35-14.15 14.15-14.15c7.8 0 14.15 6.325 14.15 14.15s-6.35 14.15-14.15 14.15z"></path>
+</symbol>
+
+<symbol id="play-button" viewBox="0 0 100 100">
+<circle fill="#000" opacity=".6" cx="50" cy="50" r="47.5"></circle>
+<path d="M35.9,28.5c-1.5-0.7-2.7,0-2.7,1.7v39.8c0,1.7,1.2,2.4,2.7,1.7L76,51.3c1.5-0.7,1.5-2,0-2.7L35.9,28.5z"></path>
+<circle fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="5" cx="50" cy="50" r="47.5"></circle>
+</symbol>
+</defs>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1">
+<defs>
+<symbol id="icon-amex" viewBox="0 0 25 16">
+<title>amex</title>
+<path d="M23.154 0h-21.397c-0.968 0-1.756 0.789-1.756 1.756v12.487c0 0.968 0.789 1.756 1.756 1.756h21.397c0.968 0 1.756-0.789 1.756-1.756v-12.487c0-0.968-0.789-1.756-1.756-1.756zM0.958 6.943l1.127-2.625h0.964l1.102 2.558v-2.558h1.057l0.849 1.833 0.779-1.833h1.079v2.702h-0.664l-0.003-2.114-0.939 2.114h-0.568l-0.942-2.117v2.117h-1.319l-0.249-0.604h-1.351l-0.252 0.6h-0.671v-0.073zM23.952 9.543h-1.15c-0.118 0-0.195 0.003-0.262 0.048s-0.096 0.109-0.096 0.195c0 0.102 0.057 0.172 0.141 0.201 0.067 0.022 0.141 0.032 0.249 0.032l0.351 0.010c0.354 0.010 0.591 0.070 0.735 0.217 0.010 0.010 0.019 0.019 0.029 0.026v1.099c-0.166 0.201-0.46 0.303-0.849 0.303h-1.252v-0.578h1.246c0.125 0 0.211-0.016 0.262-0.067 0.045-0.042 0.077-0.102 0.077-0.176 0-0.080-0.032-0.141-0.080-0.179-0.048-0.042-0.115-0.061-0.23-0.061-0.61-0.019-1.367 0.019-1.367-0.837 0-0.393 0.249-0.805 0.929-0.805h1.268v0.572zM23.952 8.434h-1.169c-0.361 0-0.626 0.086-0.811 0.22v-0.22h-1.776c-0.284 0-0.616 0.070-0.773 0.22v-0.22h-3.168v0.22c-0.252-0.182-0.677-0.22-0.875-0.22h-2.089v0.22c-0.198-0.192-0.642-0.22-0.913-0.22h-2.338l-0.537 0.578-0.501-0.578h-3.497v3.768h3.43l0.553-0.584 0.521 0.584 2.114 0.003v-0.888h0.208c0.281 0.003 0.61-0.006 0.904-0.131v1.019h1.744v-0.984h0.083c0.109 0 0.118 0.003 0.118 0.112v0.872h5.292c0.335 0 0.687-0.086 0.881-0.243v0.243h1.68c0.335 0 0.664-0.045 0.92-0.16v2.197c0 0.441-0.358 0.798-0.798 0.798h-21.397c-0.441 0-0.798-0.358-0.798-0.798v-6.684h1.076l0.249-0.6h0.559l0.249 0.6h2.178v-0.46l0.195 0.46h1.131l0.195-0.466v0.466h5.416l-0.003-0.984h0.105c0.073 0.003 0.096 0.010 0.096 0.131v0.856h2.801v-0.23c0.227 0.121 0.578 0.23 1.041 0.23h1.178l0.252-0.6h0.559l0.246 0.6h2.271v-0.568l0.345 0.568h1.82v-3.768h-1.801v0.444l-0.252-0.444h-1.849v0.444l-0.233-0.444h-2.494c-0.418 0-0.786 0.057-1.083 0.22v-0.22h-1.721v0.22c-0.188-0.166-0.447-0.22-0.731-0.22h-6.291l-0.425 0.971-0.434-0.974h-1.983v0.444l-0.217-0.444h-1.689l-0.754 1.721v-3.756c0-0.441 0.358-0.798 0.798-0.798h21.397c0.441 0 0.798 0.358 0.798 0.798v6.678zM20.845 10.689c-0.051-0.042-0.118-0.061-0.23-0.061-0.607-0.019-1.367 0.019-1.367-0.837 0-0.393 0.246-0.805 0.926-0.805h1.3v0.575h-1.188c-0.118 0-0.195 0.003-0.259 0.048-0.070 0.045-0.096 0.109-0.096 0.195 0 0.102 0.061 0.172 0.141 0.201 0.067 0.022 0.141 0.032 0.252 0.032l0.348 0.010c0.351 0.010 0.594 0.070 0.741 0.217 0.128 0.131 0.195 0.294 0.195 0.572 0 0.581-0.364 0.853-1.019 0.853h-1.261v-0.578h1.258c0.121 0 0.211-0.016 0.265-0.067 0.045-0.042 0.077-0.102 0.077-0.176-0.003-0.080-0.038-0.141-0.083-0.179zM18.884 10.038v0.553h-1.479v0.537l1.517 0.003v0.559h-2.162v-2.702h2.162v0.562h-1.517v0.492h1.479v-0.003zM16.243 10.66c0.093 0.131 0.105 0.255 0.109 0.492v0.537h-0.652v-0.339c0-0.163 0.016-0.402-0.105-0.53-0.096-0.096-0.24-0.121-0.476-0.121h-0.693v0.99h-0.652v-2.702h1.498c0.329 0 0.568 0.016 0.779 0.128 0.204 0.125 0.332 0.291 0.332 0.6 0 0.431-0.287 0.652-0.46 0.719 0.147 0.054 0.265 0.15 0.319 0.227zM13.483 9.878c0 0.751-0.562 0.904-1.127 0.904h-0.808v0.907h-1.261l-0.798-0.894-0.83 0.894h-2.568v-2.702h2.606l0.798 0.885 0.824-0.885h2.073c0.514 0.003 1.092 0.144 1.092 0.891zM10.526 5.365v0.553h-1.482v0.54h1.517v0.559h-2.165v-2.702h2.165v0.562h-1.517v0.489h1.482zM13.477 5.991c0.093 0.134 0.109 0.255 0.109 0.495v0.53h-0.655l-0.003-0.342c0-0.163 0.016-0.396-0.102-0.527-0.096-0.096-0.24-0.115-0.473-0.115h-0.696v0.984h-0.648v-2.702h1.491c0.332 0 0.575 0.010 0.786 0.131 0.204 0.121 0.329 0.297 0.329 0.597 0 0.431-0.287 0.652-0.457 0.719 0.141 0.054 0.262 0.15 0.319 0.23zM13.991 7.016v-2.702h0.661v2.702h-0.661zM15.815 6.301c0.099 0.105 0.281 0.141 0.45 0.141h0.291l0.913-2.124h0.971l1.099 2.555v-2.555h0.987l1.14 1.881v-1.881h0.664v2.702h-0.92l-1.226-2.031v2.028h-1.319l-0.252-0.604h-1.348l-0.246 0.604h-0.76c-0.316 0-0.715-0.070-0.939-0.3-0.227-0.23-0.345-0.54-0.345-1.032 0-0.399 0.070-0.766 0.348-1.057 0.211-0.214 0.537-0.316 0.984-0.316h0.626v0.578h-0.613c-0.236 0-0.37 0.035-0.498 0.16-0.112 0.115-0.185 0.329-0.185 0.613 0 0.294 0.057 0.501 0.179 0.639zM17.942 4.778l-0.447 1.076h0.894l-0.447-1.076zM12.79 4.95c-0.077-0.045-0.195-0.048-0.307-0.048h-0.798v0.6h0.789c0.128 0 0.233-0.003 0.319-0.054 0.083-0.045 0.134-0.137 0.134-0.255 0-0.121-0.051-0.204-0.137-0.243zM2.568 4.778l-0.441 1.076h0.885l-0.444-1.076zM10.897 11.43v-2.165l-0.996 1.067 0.996 1.099zM12.378 9.543h-0.846v0.687h0.837c0.249 0 0.406-0.125 0.406-0.358s-0.163-0.329-0.396-0.329zM15.559 9.59c-0.080-0.048-0.195-0.048-0.31-0.048h-0.798v0.607h0.789c0.125 0 0.233-0.003 0.319-0.054 0.083-0.051 0.134-0.144 0.134-0.259s-0.048-0.201-0.134-0.246zM6.735 9.543v0.492h1.424v0.553h-1.424v0.537h1.594l0.741-0.792-0.709-0.786-1.626-0.003z"></path>
+</symbol>
+<symbol id="icon-discover" viewBox="0 0 25 16">
+<title>discover</title>
+<path d="M1.756 0.958h21.397c0.441 0 0.798 0.358 0.798 0.798v7.023c0 0-2.414 1.632-5.212 2.759-4.442 2.053-10.877 3.503-11.318 3.503h-5.665c-0.441 0-0.798-0.358-0.798-0.798v-12.487c0-0.441 0.358-0.798 0.798-0.798zM0 1.756v12.487c0 0.971 0.786 1.756 1.756 1.756h21.397c0.971 0 1.756-0.786 1.756-1.756v-12.487c0-0.971-0.786-1.756-1.756-1.756h-21.397c-0.971 0-1.756 0.786-1.756 1.756v0z"></path>
+<path d="M2.152 5.25v3.165h0.958c0.508 0 0.878-0.112 1.201-0.364 0.383-0.3 0.61-0.75 0.61-1.217 0-0.936-0.741-1.584-1.804-1.584h-0.964zM3.883 7.63c-0.208 0.176-0.473 0.252-0.897 0.252h-0.176v-2.095h0.176c0.425 0 0.68 0.070 0.897 0.255 0.227 0.192 0.364 0.485 0.364 0.789-0.003 0.303-0.137 0.607-0.364 0.798v0z"></path>
+<path d="M5.222 8.415h0.655v-3.165h-0.655v3.165z"></path>
+<path d="M7.483 6.457c-0.393-0.137-0.508-0.227-0.508-0.399 0-0.198 0.204-0.351 0.489-0.351 0.198 0 0.358 0.077 0.53 0.255l0.342-0.422c-0.281-0.233-0.62-0.351-0.987-0.351-0.594 0-1.048 0.39-1.048 0.907 0 0.438 0.211 0.658 0.827 0.869 0.255 0.086 0.386 0.144 0.454 0.179 0.131 0.080 0.198 0.195 0.198 0.329 0 0.255-0.217 0.447-0.508 0.447-0.313 0-0.565-0.147-0.715-0.422l-0.425 0.383c0.303 0.418 0.664 0.604 1.166 0.604 0.68 0 1.159-0.428 1.159-1.041-0.006-0.501-0.227-0.731-0.974-0.987z"></path>
+<path d="M8.658 6.828c0 0.929 0.776 1.651 1.776 1.651 0.281 0 0.524-0.051 0.824-0.185v-0.725c-0.262 0.246-0.495 0.348-0.792 0.348-0.661 0-1.131-0.45-1.131-1.092 0-0.607 0.485-1.089 1.099-1.089 0.313 0 0.549 0.105 0.824 0.358v-0.728c-0.287-0.137-0.524-0.195-0.808-0.195-0.996 0-1.792 0.735-1.792 1.657z"></path>
+<path d="M16.457 7.371l-0.897-2.127h-0.715l1.428 3.248h0.354l1.45-3.248h-0.712l-0.907 2.127z"></path>
+<path d="M18.373 8.415h1.862v-0.537h-1.204v-0.853h1.159v-0.537h-1.159v-0.703h1.204v-0.537h-1.862v3.165z"></path>
+<path d="M22.831 6.186c0-0.594-0.434-0.936-1.191-0.936h-0.974v3.165h0.655v-1.271h0.086l0.907 1.271h0.808l-1.057-1.335c0.492-0.093 0.766-0.409 0.766-0.894v0zM21.515 6.707h-0.192v-0.958h0.201c0.409 0 0.629 0.16 0.629 0.469 0 0.319-0.22 0.489-0.639 0.489v0z"></path>
+<path d="M11.468 6.834c0 0 0 0 0 0 0-0.933 0.802-1.683 1.788-1.683s1.788 0.754 1.788 1.683v0c0 0.929-0.802 1.683-1.788 1.683s-1.788-0.754-1.788-1.683z"></path>
+</symbol>
+<symbol id="icon-mastercard" viewBox="0 0 25 16">
+<title>mastercard</title>
+<path d="M23.154 16h-21.397c-0.968 0-1.756-0.789-1.756-1.756v-12.487c0-0.968 0.789-1.756 1.756-1.756h21.397c0.968 0 1.756 0.789 1.756 1.756v12.487c0 0.968-0.789 1.756-1.756 1.756zM1.756 0.958c-0.441 0-0.798 0.358-0.798 0.798v12.487c0 0.441 0.358 0.798 0.798 0.798h21.397c0.441 0 0.798-0.358 0.798-0.798v-12.487c0-0.441-0.358-0.798-0.798-0.798h-21.397z"></path>
+<path d="M7.54 13.924v-0.789c0-0.303-0.185-0.498-0.485-0.498-0.16 0-0.329 0.054-0.447 0.224-0.093-0.144-0.224-0.224-0.422-0.224-0.15-0.006-0.294 0.064-0.38 0.185v-0.16h-0.249v1.261h0.249v-0.722c0-0.224 0.131-0.329 0.316-0.329s0.291 0.118 0.291 0.329v0.722h0.249v-0.722c0-0.224 0.131-0.329 0.316-0.329s0.291 0.118 0.291 0.329v0.722h0.271zM11.641 12.675h-0.46v-0.38h-0.249v0.38h-0.262v0.224h0.262v0.594c0 0.291 0.105 0.46 0.422 0.46 0.118-0.003 0.236-0.035 0.342-0.093l-0.080-0.224c-0.070 0.045-0.153 0.067-0.236 0.067-0.131 0-0.198-0.080-0.198-0.211v-0.604h0.46v-0.214zM13.982 12.637c-0.137-0.003-0.268 0.067-0.342 0.185v-0.16h-0.249v1.261h0.249v-0.709c0-0.211 0.105-0.342 0.275-0.342 0.057 0.003 0.115 0.010 0.169 0.026l0.080-0.236c-0.061-0.013-0.121-0.022-0.182-0.026v0zM10.446 12.768c-0.131-0.093-0.316-0.131-0.514-0.131-0.316 0-0.511 0.144-0.511 0.396 0 0.211 0.144 0.329 0.422 0.367l0.131 0.013c0.144 0.026 0.236 0.080 0.236 0.144 0 0.093-0.105 0.16-0.303 0.16-0.15 0.003-0.297-0.042-0.422-0.131l-0.131 0.198c0.185 0.131 0.409 0.16 0.54 0.16 0.367 0 0.565-0.169 0.565-0.409 0-0.224-0.16-0.329-0.434-0.367l-0.131-0.013c-0.118-0.013-0.224-0.051-0.224-0.131 0-0.093 0.105-0.16 0.249-0.16 0.16 0 0.316 0.067 0.396 0.105l0.131-0.201zM14.256 13.295c0 0.38 0.249 0.658 0.658 0.658 0.185 0 0.316-0.038 0.447-0.144l-0.131-0.198c-0.093 0.077-0.208 0.118-0.329 0.118-0.224 0-0.396-0.169-0.396-0.422s0.169-0.418 0.396-0.418c0.118 0 0.236 0.042 0.329 0.118l0.131-0.198c-0.131-0.105-0.262-0.144-0.447-0.144-0.396-0.026-0.658 0.249-0.658 0.629v0 0zM12.497 12.637c-0.367 0-0.616 0.262-0.616 0.658s0.262 0.658 0.645 0.658c0.185 0.003 0.367-0.057 0.514-0.169l-0.131-0.185c-0.105 0.083-0.233 0.128-0.367 0.131-0.169 0-0.354-0.105-0.38-0.329h0.933v-0.105c-0.006-0.396-0.243-0.658-0.597-0.658v0 0zM12.484 12.873c0.185 0 0.316 0.118 0.329 0.316h-0.683c0.038-0.185 0.156-0.316 0.354-0.316v0zM9.076 13.295v-0.632h-0.249v0.16c-0.093-0.118-0.224-0.185-0.409-0.185-0.354 0-0.616 0.275-0.616 0.658 0 0.38 0.262 0.658 0.616 0.658 0.185 0 0.316-0.067 0.409-0.185v0.16h0.249v-0.632zM8.067 13.295c0-0.236 0.144-0.422 0.396-0.422 0.236 0 0.38 0.185 0.38 0.422 0 0.249-0.16 0.422-0.38 0.422-0.252 0.013-0.396-0.185-0.396-0.422zM17.779 12.637c-0.137-0.003-0.268 0.067-0.342 0.185v-0.16h-0.249v1.261h0.249v-0.709c0-0.211 0.105-0.342 0.275-0.342 0.057 0.003 0.115 0.010 0.169 0.026l0.080-0.236c-0.057-0.013-0.118-0.022-0.182-0.026v0 0zM16.808 13.295v-0.632h-0.249v0.16c-0.093-0.118-0.224-0.185-0.409-0.185-0.354 0-0.616 0.275-0.616 0.658 0 0.38 0.262 0.658 0.616 0.658 0.185 0 0.316-0.067 0.409-0.185v0.16h0.249v-0.632zM15.796 13.295c0-0.236 0.144-0.422 0.396-0.422 0.236 0 0.38 0.185 0.38 0.422 0 0.249-0.16 0.422-0.38 0.422-0.252 0.013-0.396-0.185-0.396-0.422zM19.344 13.295v-1.131h-0.249v0.658c-0.093-0.118-0.224-0.185-0.409-0.185-0.354 0-0.616 0.275-0.616 0.658 0 0.38 0.262 0.658 0.616 0.658 0.185 0 0.316-0.067 0.409-0.185v0.16h0.249v-0.632zM18.331 13.295c0-0.236 0.144-0.422 0.396-0.422 0.236 0 0.38 0.185 0.38 0.422 0 0.249-0.16 0.422-0.38 0.422-0.249 0.013-0.396-0.185-0.396-0.422v0 0zM18.542 3.468c-1.632-1.635-4.206-1.849-6.087-0.508-1.444-1.028-3.337-1.162-4.912-0.351s-2.561 2.434-2.561 4.206c0 1.769 0.987 3.395 2.561 4.206s3.468 0.677 4.912-0.351c1.444 1.028 3.337 1.162 4.912 0.351s2.561-2.434 2.561-4.206c0.003-1.258-0.495-2.462-1.386-3.347v0zM12.455 9.919c-1.715-1.52-1.871-4.139-0.354-5.854 0.112-0.125 0.23-0.243 0.354-0.354 1.715 1.52 1.871 4.142 0.351 5.854-0.109 0.125-0.227 0.243-0.351 0.354zM9.715 10.954c-2.283 0-4.139-1.852-4.139-4.139 0-2.283 1.852-4.139 4.139-4.139 0.802-0.003 1.587 0.23 2.255 0.671-1.913 1.785-2.018 4.787-0.23 6.7 0.073 0.080 0.15 0.156 0.23 0.23-0.671 0.444-1.453 0.677-2.255 0.677zM15.195 10.954c-0.802 0.003-1.584-0.23-2.255-0.671 1.913-1.788 2.015-4.79 0.227-6.703-0.073-0.080-0.15-0.153-0.227-0.227 0.671-0.441 1.453-0.674 2.255-0.671 2.283 0 4.139 1.852 4.139 4.139 0 2.28-1.852 4.133-4.139 4.133v0 0z"></path>
+</symbol>
+<symbol id="icon-visa" viewBox="0 0 25 16">
+<title>visa</title>
+<path d="M23.154 15.968h-21.397c-0.968 0-1.756-0.789-1.756-1.756v-12.487c0-0.968 0.789-1.756 1.756-1.756h21.397c0.968 0 1.756 0.789 1.756 1.756v12.487c0 0.968-0.789 1.756-1.756 1.756zM1.756 0.926c-0.441 0-0.798 0.358-0.798 0.798v12.487c0 0.441 0.358 0.798 0.798 0.798h21.397c0.441 0 0.798-0.358 0.798-0.798v-12.487c0-0.441-0.358-0.798-0.798-0.798h-21.397z"></path>
+<path d="M9.364 11.12l1.067-6.253h1.705l-1.067 6.253h-1.705z"></path>
+<path d="M17.223 5.004c-0.339-0.128-0.865-0.262-1.527-0.262-1.683 0-2.871 0.849-2.881 2.063-0.010 0.897 0.846 1.399 1.495 1.699 0.664 0.307 0.888 0.501 0.885 0.776-0.003 0.418-0.53 0.61-1.019 0.61-0.683 0-1.044-0.096-1.603-0.329l-0.22-0.099-0.24 1.399c0.399 0.176 1.134 0.326 1.897 0.332 1.792 0 2.954-0.837 2.967-2.137 0.006-0.712-0.447-1.252-1.431-1.699-0.597-0.291-0.961-0.482-0.958-0.776 0-0.259 0.31-0.537 0.977-0.537 0.556-0.010 0.961 0.112 1.274 0.24l0.153 0.073 0.23-1.354z"></path>
+<path d="M21.608 4.87h-1.316c-0.409 0-0.712 0.112-0.891 0.517l-2.529 5.729h1.788c0 0 0.294-0.77 0.358-0.939 0.195 0 1.935 0.003 2.181 0.003 0.051 0.22 0.208 0.936 0.208 0.936h1.581l-1.38-6.247zM19.519 8.907c0.141-0.361 0.68-1.747 0.68-1.747-0.010 0.016 0.141-0.361 0.227-0.597l0.115 0.54c0 0 0.326 1.491 0.396 1.804h-1.418z"></path>
+<path d="M5.464 5.397c-0.102-0.396-0.402-0.514-0.773-0.527h-2.747l-0.022 0.131c0.674 0.163 1.274 0.399 1.801 0.693l1.514 5.416 1.804-0.003 2.683-6.24h-1.804l-1.67 4.267z"></path>
+</symbol>
+<symbol id="icon-paypal" viewBox="0 0 130 32">
+<title>paypal</title>
+<path d="M96.272 4.766h-7.898c-0.545 0-0.953 0.409-1.089 0.953l-3.268 20.426c0 0.409 0.272 0.817 0.681 0.817h4.085c0.409 0 0.681-0.272 0.817-0.681l0.953-5.719c0.136-0.545 0.545-0.953 1.089-0.953h2.451c5.174 0 8.306-2.587 8.987-7.489 0.409-2.315 0-4.085-0.953-5.311-1.089-1.226-3.132-2.043-5.855-2.043zM97.226 12.255c-0.409 2.86-2.587 2.86-4.766 2.86h-1.226l0.817-5.311c0-0.272 0.272-0.545 0.681-0.545h0.545c1.498 0 2.723 0 3.54 0.817 0.409 0.409 0.545 1.226 0.409 2.179zM39.626 4.766h-7.898c-0.545 0-0.953 0.409-1.089 0.953l-3.268 20.426c0 0.409 0.272 0.817 0.681 0.817h3.813c0.545 0 0.953-0.409 1.089-0.953l0.817-5.447c0.136-0.545 0.545-0.953 1.089-0.953h2.451c5.174 0 8.306-2.587 8.987-7.489 0.408-2.179 0-3.949-0.953-5.174-1.089-1.362-2.996-2.179-5.719-2.179zM40.579 12.255c-0.408 2.86-2.587 2.86-4.766 2.86h-1.226l0.817-5.311c0-0.272 0.272-0.545 0.681-0.545h0.681c1.498 0 2.723 0 3.54 0.817 0.272 0.409 0.408 1.226 0.272 2.179zM63.455 12.119h-3.813c-0.272 0-0.545 0.272-0.681 0.545l-0.136 1.089-0.272-0.272c-0.817-1.226-2.723-1.634-4.494-1.634-4.221 0-7.762 3.132-8.443 7.626-0.408 2.179 0.136 4.357 1.362 5.855 1.226 1.362 2.86 1.906 4.766 1.906 3.404 0 5.311-2.179 5.311-2.179l-0.136 1.089c0 0.409 0.272 0.817 0.681 0.817h3.404c0.545 0 0.953-0.409 1.089-0.953l1.906-13.072c0.136-0.409-0.136-0.817-0.545-0.817zM58.145 19.608c-0.408 2.179-2.043 3.677-4.357 3.677-1.089 0-2.043-0.409-2.587-1.089s-0.817-1.634-0.545-2.723c0.408-2.179 2.043-3.677 4.221-3.677 1.089 0 1.906 0.408 2.587 1.089 0.545 0.681 0.817 1.634 0.681 2.723zM120.102 12.119h-3.813c-0.272 0-0.545 0.272-0.681 0.545l-0.136 1.089-0.272-0.409c-0.817-1.226-2.723-1.634-4.494-1.634-4.221 0-7.762 3.132-8.443 7.626-0.409 2.179 0.136 4.357 1.362 5.855 1.226 1.362 2.86 1.906 4.766 1.906 3.404 0 5.311-2.179 5.311-2.179l-0.136 1.089c0 0.409 0.272 0.817 0.681 0.817h3.404c0.545 0 0.953-0.409 1.089-0.953l2.043-13.072c0-0.272-0.272-0.681-0.681-0.681zM114.791 19.608c-0.409 2.179-2.043 3.677-4.357 3.677-1.089 0-2.043-0.409-2.587-1.089s-0.817-1.634-0.545-2.723c0.409-2.179 2.043-3.677 4.221-3.677 1.089 0 1.906 0.408 2.587 1.089 0.545 0.681 0.817 1.634 0.681 2.723zM83.609 12.119h-3.813c-0.409 0-0.681 0.136-0.953 0.545l-5.174 7.762-2.179-7.489c-0.136-0.409-0.545-0.817-1.089-0.817h-3.813c-0.409 0-0.817 0.409-0.681 0.817l4.221 12.392-3.949 5.583c-0.272 0.409 0 1.089 0.545 1.089h3.813c0.409 0 0.681-0.136 0.953-0.409l12.664-18.383c0.409-0.409 0-1.089-0.545-1.089zM124.596 5.447l-3.268 20.698c0 0.409 0.272 0.817 0.681 0.817h3.268c0.545 0 0.953-0.409 1.089-0.953l3.268-20.426c0-0.409-0.272-0.817-0.681-0.817h-3.677c-0.409 0-0.681 0.272-0.681 0.681z"></path>
+<path opacity="0.68" d="M22.877 7.626c0.409-2.315 0-3.949-1.226-5.311-1.498-1.634-3.949-2.315-7.217-2.315h-9.26c-0.681 0-1.226 0.408-1.362 1.089l-3.813 24.647c-0.136 0.545 0.272 0.953 0.817 0.953h5.719l-0.409 2.451c0 0.409 0.272 0.817 0.681 0.817h4.902c0.545 0 1.089-0.409 1.089-0.953v-0.272l0.953-5.719v-0.272c0.136-0.545 0.545-0.953 1.089-0.953h0.681c4.63 0 8.306-1.906 9.396-7.353 0.409-2.315 0.272-4.221-0.953-5.583-0.136-0.681-0.545-0.953-1.089-1.226z"></path>
+<path opacity="0.7" d="M22.877 7.626c0.409-2.315 0-3.949-1.226-5.311-1.498-1.634-3.949-2.315-7.217-2.315h-9.26c-0.681 0-1.226 0.408-1.362 1.089l-3.813 24.647c-0.136 0.545 0.272 0.953 0.817 0.953h5.719l1.498-9.123v0.272c0.136-0.681 0.681-1.089 1.362-1.089h2.723c5.311 0 9.532-2.179 10.757-8.443-0.136-0.409 0-0.545 0-0.681z"></path>
+<path d="M9.532 7.626c0-0.409 0.272-0.681 0.681-0.817 0.136-0.136 0.272-0.136 0.545-0.136h7.353c0.817 0 1.634 0 2.451 0.136 0.272 0 0.409 0.136 0.681 0.136 0.136 0 0.409 0.136 0.545 0.136s0.136 0 0.272 0.136c0.409 0.136 0.681 0.272 0.953 0.409 0.409-2.315 0-3.949-1.226-5.311-1.634-1.634-4.085-2.315-7.353-2.315h-9.26c-0.681 0-1.226 0.408-1.362 1.089l-3.813 24.647c-0.136 0.545 0.272 0.953 0.817 0.953h5.719l1.498-9.123 1.498-9.94z"></path>
+</symbol>
+<symbol id="icon-android-pay" viewBox="0 0 25 16">
+<title>android-pay</title>
+<path d="M23.154 16h-21.397c-0.968 0-1.756-0.789-1.756-1.756v-12.487c0-0.968 0.789-1.756 1.756-1.756h21.397c0.968 0 1.756 0.789 1.756 1.756v12.487c0 0.968-0.789 1.756-1.756 1.756zM1.756 0.958c-0.441 0-0.798 0.358-0.798 0.798v12.487c0 0.441 0.358 0.798 0.798 0.798h21.397c0.441 0 0.798-0.358 0.798-0.798v-12.487c0-0.441-0.358-0.798-0.798-0.798h-21.397z"></path>
+<path d="M3.325 7.055v0 2.098c0 0.278-0.224 0.501-0.501 0.501s-0.501-0.224-0.501-0.501v0-2.098c0-0.278 0.224-0.501 0.501-0.501s0.501 0.227 0.501 0.501zM9.214 7.055c0-0.278-0.224-0.501-0.501-0.501s-0.501 0.224-0.501 0.501v0 2.098c0 0.278 0.224 0.501 0.501 0.501s0.501-0.224 0.501-0.501v0-2.098zM3.51 6.467c0-0.022 0-0.045 0-0.067 0-0.153 0.019-0.303 0.054-0.447 0.141-0.553 0.537-1.022 1.073-1.297l-0.348-0.642c-0.022-0.038-0.006-0.089 0.032-0.112s0.089-0.006 0.112 0.032l0.351 0.648c0.3-0.131 0.636-0.201 0.99-0.201 0.351 0 0.687 0.070 0.984 0.198l0.351-0.645c0.022-0.038 0.070-0.054 0.112-0.032s0.054 0.070 0.032 0.112l-0.345 0.639c0.562 0.287 0.971 0.786 1.095 1.373 0.013 0.067 0.026 0.134 0.032 0.201v0.243l-4.525-0.003zM6.588 5.455c0 0.118 0.096 0.214 0.214 0.214s0.214-0.096 0.214-0.214c0-0.118-0.096-0.214-0.214-0.214-0.121 0-0.214 0.096-0.214 0.214zM4.525 5.455c0 0.118 0.096 0.214 0.214 0.214s0.214-0.096 0.214-0.214c0-0.118-0.096-0.214-0.214-0.214s-0.214 0.096-0.214 0.214zM3.529 6.643h-0.026v3.299c0 0.275 0.224 0.501 0.501 0.501h0.431v1.15c0 0.278 0.224 0.501 0.501 0.501s0.501-0.224 0.501-0.501v0-1.15h0.674v1.15c0 0.278 0.224 0.501 0.501 0.501s0.501-0.224 0.501-0.501v0-1.15h0.422c0.275 0 0.501-0.224 0.501-0.501v-3.299h-4.509z"></path>
+<path d="M12.241 9.718c-0.492 0-0.945-0.233-1.191-0.626-0.016-0.022-0.038-0.061-0.038-0.128v-1.376c0.003-0.064 0.026-0.109 0.042-0.128 0.255-0.383 0.696-0.616 1.188-0.616 0.782 0 1.418 0.645 1.418 1.437s-0.636 1.437-1.418 1.437v0 0zM11.012 11.347v-1.587c0.323 0.323 0.766 0.517 1.271 0.517 1.092 0 1.958-0.891 1.958-1.993s-0.865-1.996-1.958-1.996c-0.505 0-0.948 0.195-1.271 0.514v-0.438h-0.575v4.979h0.575v0.003zM16.626 9.715c-0.786 0-1.421-0.645-1.421-1.437 0-0.789 0.636-1.434 1.421-1.434 0.492 0 0.955 0.23 1.191 0.626 0.013 0.022 0.038 0.061 0.038 0.128v1.36c-0.003 0.070-0.026 0.112-0.042 0.131-0.255 0.38-0.696 0.626-1.188 0.626v0 0zM18.43 10.197v-3.832h-0.575v0.438c-0.323-0.323-0.766-0.514-1.271-0.514-1.095 0-1.958 0.888-1.958 1.99s0.862 1.996 1.958 1.996c0.505 0 0.948-0.195 1.271-0.514v0.438h0.575zM22.611 6.362h-0.648l-1.405 3.366h0.287l-1.402-3.363h-0.667l1.59 3.689-0.128 0.287c-0.141 0.319-0.409 0.457-0.667 0.457h-0.211v0.578h0.204c0.572 0 1.022-0.307 1.265-0.888l1.782-4.126z"></path>
+</symbol>
+<symbol id="icon-apple-pay" viewBox="0 0 25 16">
+<title>apple-pay</title>
+<path d="M23.154 0h-21.397c-0.968 0-1.756 0.789-1.756 1.756v12.487c0 0.968 0.789 1.756 1.756 1.756h21.397c0.968 0 1.756-0.789 1.756-1.756v-12.487c0-0.968-0.789-1.756-1.756-1.756zM23.952 14.244c0 0.441-0.358 0.798-0.798 0.798h-21.397c-0.441 0-0.798-0.358-0.798-0.798v-12.487c0-0.441 0.358-0.798 0.798-0.798h21.397c0.441 0 0.798 0.358 0.798 0.798v12.487z"></path>
+<path d="M2.296 7.626c0.010-0.086 0.019-0.172 0.032-0.255 0.099-0.604 0.367-1.095 0.92-1.396 0.402-0.22 0.824-0.252 1.258-0.080 0.121 0.048 0.246 0.093 0.37 0.141 0.134 0.051 0.265 0.045 0.396-0.003 0.195-0.070 0.386-0.147 0.581-0.208 0.594-0.188 1.319 0.042 1.677 0.521 0.019 0.026 0.038 0.051 0.057 0.080-0.482 0.332-0.76 0.776-0.722 1.376 0.038 0.597 0.364 1.003 0.894 1.268-0.035 0.096-0.067 0.192-0.109 0.287-0.176 0.425-0.425 0.805-0.731 1.146-0.134 0.15-0.291 0.268-0.492 0.316-0.204 0.048-0.402 0.010-0.594-0.067-0.144-0.057-0.287-0.118-0.438-0.153-0.262-0.057-0.517-0.016-0.763 0.083-0.134 0.054-0.268 0.109-0.406 0.144-0.268 0.067-0.495-0.022-0.699-0.195-0.166-0.141-0.297-0.313-0.422-0.485-0.364-0.495-0.604-1.047-0.728-1.648-0.032-0.163-0.048-0.332-0.070-0.498-0.003-0.019-0.006-0.038-0.010-0.057-0.003-0.105-0.003-0.211-0.003-0.316z"></path>
+<path d="M18.973 12.477c-0.054-0.006-0.109-0.016-0.169-0.022 0-0.246 0-0.489 0-0.741 0.038 0.003 0.077 0.003 0.115 0.006 0.15 0.010 0.3 0.013 0.45-0.029 0.211-0.057 0.354-0.198 0.438-0.393 0.067-0.15 0.112-0.31 0.166-0.466 0.006-0.019-0.003-0.042-0.010-0.061-0.463-1.284-0.926-2.564-1.389-3.848-0.067-0.188-0.134-0.374-0.204-0.562-0.006-0.016-0.010-0.032-0.016-0.051 0.019 0 0.032-0.003 0.045-0.003 0.303 0 0.607 0 0.91 0 0.035 0 0.051 0.010 0.064 0.045 0.364 1.182 0.731 2.363 1.095 3.545 0.006 0.022 0.016 0.042 0.035 0.064 0.006-0.016 0.013-0.029 0.016-0.045 0.367-1.182 0.731-2.366 1.099-3.548 0.016-0.048 0.035-0.064 0.086-0.064 0.284 0.003 0.565 0 0.849 0 0.019 0 0.038 0 0.061 0-0.016 0.045-0.029 0.083-0.042 0.125-0.556 1.558-1.111 3.117-1.667 4.672-0.099 0.278-0.22 0.546-0.393 0.786-0.246 0.339-0.578 0.521-0.99 0.565-0.051 0.006-0.099 0.013-0.15 0.019-0.134 0.006-0.268 0.006-0.399 0.006z"></path>
+<path d="M6.365 4.139c0.006 0.192-0.006 0.383-0.070 0.565-0.163 0.457-0.454 0.786-0.923 0.942-0.115 0.038-0.233 0.051-0.358 0.042-0.019-0.102-0.016-0.198 0.003-0.294 0.121-0.6 0.476-1.003 1.057-1.198 0.067-0.022 0.141-0.035 0.211-0.054 0.026-0.003 0.051-0.003 0.080-0.003z"></path>
+<path d="M10.501 8.683c0 0.709 0 1.408 0 2.111-0.319 0-0.639 0-0.958 0 0-2.060 0-4.12 0-6.186 0.022 0 0.042 0 0.057 0 0.741 0 1.485 0 2.226 0 0.418 0 0.818 0.083 1.175 0.31 0.454 0.284 0.725 0.696 0.84 1.214 0.093 0.428 0.080 0.856-0.073 1.271-0.236 0.642-0.699 1.035-1.354 1.207-0.198 0.051-0.402 0.070-0.61 0.070-0.412 0-0.827 0-1.239 0-0.016 0.003-0.035 0.003-0.064 0.003zM10.504 7.869c0.016 0 0.029 0.003 0.042 0.003 0.361 0 0.722 0.006 1.083-0.003 0.147-0.003 0.297-0.019 0.441-0.054 0.409-0.099 0.687-0.348 0.798-0.763 0.077-0.284 0.073-0.572-0.010-0.856-0.093-0.313-0.294-0.53-0.594-0.658-0.192-0.083-0.396-0.115-0.604-0.118-0.374-0.003-0.744 0-1.118 0-0.013 0-0.022 0.003-0.035 0.003-0.003 0.818-0.003 1.629-0.003 2.446z"></path>
+<path d="M17.054 8.121c-0.010-0.204 0.022-0.402-0.035-0.6-0.054-0.182-0.16-0.323-0.332-0.402-0.351-0.16-0.709-0.163-1.060 0-0.204 0.096-0.335 0.259-0.39 0.482-0.003 0.010-0.006 0.019-0.010 0.032-0.284 0-0.572 0-0.859 0-0.003-0.131 0.026-0.252 0.067-0.374 0.131-0.367 0.393-0.62 0.735-0.792 0.348-0.172 0.719-0.233 1.102-0.217 0.3 0.010 0.591 0.061 0.865 0.188 0.393 0.179 0.671 0.463 0.789 0.888 0.038 0.137 0.051 0.275 0.051 0.418 0 1 0 1.999 0 2.999 0 0.016 0 0.032 0 0.054-0.297 0-0.588 0-0.888 0 0-0.246 0-0.489 0-0.735-0.003-0.003-0.010-0.003-0.013-0.006-0.010 0.010-0.019 0.019-0.026 0.032-0.249 0.422-0.629 0.648-1.099 0.731-0.37 0.064-0.738 0.026-1.079-0.137-0.422-0.201-0.671-0.537-0.725-1-0.045-0.38 0.038-0.728 0.323-1.006 0.198-0.192 0.441-0.3 0.699-0.374 0.249-0.070 0.508-0.099 0.766-0.112 0.323-0.019 0.642-0.038 0.964-0.057 0.048-0.010 0.096-0.010 0.153-0.013zM17.060 8.773c-0.026 0-0.032 0-0.042 0-0.351 0.022-0.703 0.042-1.054 0.064-0.169 0.013-0.335 0.038-0.495 0.102-0.156 0.064-0.291 0.16-0.354 0.323-0.102 0.265-0.038 0.607 0.316 0.751 0.434 0.176 0.853 0.125 1.239-0.144 0.195-0.137 0.326-0.329 0.358-0.568 0.029-0.172 0.022-0.348 0.032-0.527z"></path>
+</symbol>
+<symbol id="icon-paypal-pay" viewBox="0 0 25 16">
+<title>paypal</title>
+<path d="M23.154 16h-21.397c-0.968 0-1.756-0.789-1.756-1.756v-12.487c0-0.968 0.789-1.756 1.756-1.756h21.397c0.968 0 1.756 0.789 1.756 1.756v12.487c0 0.968-0.789 1.756-1.756 1.756zM1.756 0.958c-0.441 0-0.798 0.358-0.798 0.798v12.487c0 0.441 0.358 0.798 0.798 0.798h21.397c0.441 0 0.798-0.358 0.798-0.798v-12.487c0-0.441-0.358-0.798-0.798-0.798h-21.397z"></path>
+<path d="M5.378 5.426c-0.268-0.185-0.62-0.278-1.051-0.278h-1.67c-0.131 0-0.204 0.067-0.22 0.198l-0.68 4.263c-0.006 0.042 0.003 0.080 0.032 0.115s0.064 0.051 0.105 0.051h0.795c0.141 0 0.217-0.067 0.23-0.198l0.188-1.15c0.006-0.054 0.032-0.102 0.073-0.137s0.093-0.057 0.156-0.067c0.064-0.010 0.121-0.016 0.179-0.016 0.054 0 0.121 0.003 0.198 0.010s0.125 0.010 0.147 0.010c0.6 0 1.070-0.169 1.412-0.508s0.511-0.805 0.511-1.405c-0.003-0.406-0.137-0.706-0.406-0.888zM4.516 6.703c-0.035 0.243-0.125 0.402-0.271 0.479s-0.354 0.115-0.626 0.115l-0.345 0.010 0.179-1.118c0.013-0.077 0.061-0.115 0.137-0.115h0.198c0.278 0 0.479 0.042 0.607 0.121 0.121 0.083 0.163 0.252 0.121 0.508z"></path>
+<path d="M23.020 5.148h-0.773c-0.077 0-0.121 0.038-0.137 0.115l-0.68 4.346-0.010 0.022c0 0.035 0.013 0.067 0.042 0.099s0.064 0.048 0.105 0.048h0.69c0.131 0 0.204-0.067 0.22-0.198l0.677-4.276v-0.010c0-0.099-0.045-0.147-0.134-0.147z"></path>
+<path d="M13.678 6.831c0-0.035-0.013-0.067-0.042-0.099s-0.061-0.048-0.093-0.048h-0.805c-0.077 0-0.141 0.035-0.188 0.105l-1.108 1.629-0.46-1.568c-0.035-0.112-0.112-0.166-0.23-0.166h-0.782c-0.035 0-0.067 0.016-0.093 0.048-0.029 0.032-0.042 0.064-0.042 0.099 0 0.013 0.067 0.22 0.204 0.616s0.281 0.824 0.438 1.284c0.156 0.46 0.24 0.703 0.246 0.731-0.572 0.779-0.856 1.198-0.856 1.255 0 0.089 0.045 0.137 0.137 0.137h0.805c0.077 0 0.141-0.035 0.188-0.105l2.663-3.845c0.010-0.016 0.016-0.038 0.016-0.073z"></path>
+<path d="M21.17 6.684h-0.795c-0.099 0-0.156 0.115-0.179 0.345-0.182-0.278-0.511-0.418-0.993-0.418-0.501 0-0.929 0.188-1.281 0.565s-0.527 0.818-0.527 1.329c0 0.412 0.121 0.738 0.361 0.984 0.24 0.243 0.562 0.367 0.968 0.367 0.201 0 0.409-0.042 0.616-0.125s0.374-0.195 0.492-0.335c0 0.006-0.006 0.038-0.022 0.093-0.013 0.054-0.022 0.099-0.022 0.125 0 0.112 0.045 0.166 0.137 0.166h0.722c0.131 0 0.208-0.067 0.23-0.198l0.428-2.727c0.006-0.042-0.003-0.080-0.032-0.115-0.026-0.038-0.061-0.054-0.102-0.054zM19.807 8.741c-0.179 0.176-0.393 0.262-0.642 0.262-0.201 0-0.364-0.054-0.492-0.166-0.125-0.112-0.188-0.265-0.188-0.46 0-0.259 0.086-0.476 0.262-0.652 0.172-0.179 0.39-0.265 0.648-0.265 0.195 0 0.358 0.057 0.485 0.172s0.195 0.275 0.195 0.476c-0.003 0.246-0.089 0.46-0.268 0.632z"></path>
+<path d="M9.3 6.684h-0.795c-0.099 0-0.156 0.115-0.179 0.345-0.188-0.278-0.517-0.418-0.993-0.418-0.501 0-0.929 0.188-1.281 0.565s-0.527 0.818-0.527 1.329c0 0.412 0.121 0.738 0.361 0.984 0.24 0.243 0.562 0.367 0.968 0.367 0.195 0 0.396-0.042 0.607-0.125 0.208-0.083 0.377-0.195 0.501-0.335-0.029 0.083-0.042 0.156-0.042 0.22 0 0.112 0.045 0.166 0.137 0.166h0.722c0.131 0 0.208-0.067 0.23-0.198l0.428-2.727c0.006-0.042-0.003-0.080-0.032-0.115-0.029-0.042-0.064-0.057-0.105-0.057zM7.936 8.747c-0.179 0.172-0.396 0.255-0.651 0.255-0.201 0-0.364-0.054-0.485-0.166s-0.182-0.265-0.182-0.46c0-0.259 0.086-0.476 0.262-0.652 0.172-0.179 0.39-0.265 0.648-0.265 0.195 0 0.358 0.057 0.485 0.172s0.195 0.275 0.195 0.476c-0.003 0.252-0.093 0.469-0.271 0.639z"></path>
+<path d="M17.246 5.426c-0.268-0.185-0.62-0.278-1.051-0.278h-1.661c-0.141 0-0.217 0.067-0.23 0.198l-0.68 4.263c-0.006 0.042 0.003 0.080 0.032 0.115s0.064 0.051 0.105 0.051h0.856c0.083 0 0.141-0.045 0.166-0.137l0.188-1.21c0.006-0.054 0.032-0.102 0.073-0.137s0.093-0.057 0.156-0.067c0.064-0.010 0.121-0.016 0.179-0.016 0.054 0 0.121 0.003 0.198 0.010s0.125 0.010 0.147 0.010c0.6 0 1.070-0.169 1.412-0.508s0.511-0.805 0.511-1.405c0-0.406-0.134-0.706-0.402-0.888zM16.176 7.144c-0.153 0.105-0.383 0.156-0.69 0.156l-0.335 0.010 0.179-1.118c0.013-0.077 0.057-0.115 0.137-0.115h0.188c0.153 0 0.275 0.006 0.367 0.022 0.089 0.013 0.179 0.057 0.262 0.131s0.125 0.179 0.125 0.319c-0.003 0.291-0.080 0.489-0.233 0.594z"></path>
+</symbol>
+</defs>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1">
+<defs>
+<symbol id="goldbely" viewBox="0 0 220 50.2">
+<title>Goldbely</title>
+<path d="M27.5 15.3c1 6.5 1.9 12.9 2.9 19.4 1.3 8.9-2.1 13.2-11.8 14.9-9 1.6-12.3-.6-12.9-3.9-.5-2.7.9-5.3 4.2-7-4.8-.1-8.7-3.6-9.7-8.5C-1 24.6 2.3 19.1 8.5 18c3.1-.6 5.9.1 8 1.7-.1-.8-.3-1.6-.4-2.4 3.8-.8 7.6-1.4 11.4-2zM11.8 29c.4 2 1.9 3.4 3.7 3.1 1.9-.3 2.8-2.2 2.5-4.2-.3-1.9-1.9-3.4-3.8-3-1.9.3-2.8 2.1-2.4 4.1zm7.6 8.2s-4.3 1.2-3.8 4.2c.3 1.4 1.2 2.1 2.5 1.8 1.4-.3 2.1-1.3 1.8-3-.2-1-.3-2-.5-3zM61.8 23c.6 7.7-5.5 12.7-13.2 13.6-7.7.9-14.9-2.5-16.1-10.2-1.2-7.7 5.1-13.1 13.3-14.1 8-.9 15.4 2.9 16 10.7zm-11.2 1.1c-.2-2.2-1.8-3.9-3.9-3.7-2.1.3-3.2 2.3-3 4.5.3 2.2 1.9 3.9 3.9 3.7 2.1-.3 3.2-2.4 3-4.5zM63.4 1.9c4.1-.3 8.1-.6 12.2-.9.6 10.8 1.3 21.6 2 32.5-3.8.2-7.7.5-11.5.8L63.4 1.9zm33.9 9.7C97.2 7.8 97.1 4 97 .1c4.1-.1 8.1-.1 12.2-.1v32.5c-3.7 0-7.3 0-11 .1 0-1 0-2-.1-3-1.7 2.2-4.2 3.7-7.2 3.8-6 .2-10.3-5.1-10.7-11.8S84.1 9.2 90.5 8.9c2.9-.1 5.1 1 6.8 2.7zm1.1 9.3c0-2.2-1.5-3.9-3.5-3.8-2.1.1-3.4 1.9-3.3 4 .1 2.2 1.5 3.9 3.5 3.8 2 0 3.4-1.8 3.3-4zm44.3 1c-.5 6.7-4.8 12-10.8 11.7-3-.1-5.4-1.6-7.1-3.8 0 1-.1 2-.1 3-3.7-.1-7.3-.2-11-.2L114 .1c4.1 0 8.1.1 12.2.3-.1 3.9-.2 7.7-.4 11.6 1.9-1.8 4.3-2.8 7.2-2.7 6.3.1 10.2 5.9 9.7 12.6zm-11.3-.6c.1-2.2-1.2-4-3.3-4.1-2.1-.1-3.5 1.7-3.5 3.8-.1 2.2 1.3 4 3.3 4 2 .1 3.4-1.6 3.5-3.7zm23.9 4.2c.8 2.1 3.3 2.8 6.4 3.1 2.3.2 4.4 0 6.4-.4.1 2.2.3 4.5.4 6.7-2.9.7-6.7.9-10.3.6-7.7-.7-13.8-5.1-13.3-13.6.5-7.3 7-11.5 14.3-10.9 10.5 1 13.4 7.9 11.3 16.1-5-.7-10.1-1.2-15.2-1.6zm6.3-4.7c-.1-1.7-.8-3.2-2.6-3.3-1.9-.2-3 1.2-3.5 2.8 2 .1 4 .3 6.1.5zm0 0c-2-.2-4.1-.4-6.1-.6 2 .2 4 .4 6.1.6zm15.2-16.7c4.1.5 8.1 1 12.1 1.6-1.5 10.7-3.1 21.5-4.7 32.2-3.8-.6-7.6-1.1-11.4-1.5 1.4-10.7 2.7-21.5 4-32.3zM220 20.6c-1.3 6.4-2.6 12.8-4 19.2-1.9 8.8-6.5 11.7-16.2 9.9-9-1.6-11.3-4.8-10.8-8.1.4-2.6 2.5-4.5 6-5-4-1-5.8-3.5-5.3-7 .7-4.6 1.4-9.3 2.1-14 4 .6 7.9 1.3 11.9 1.9-.7 4.1-1.5 8.3-2.2 12.4-.2 1.2.6 2.3 1.7 2.5 1.2.2 2.3-.6 2.5-1.8.8-4.1 1.5-8.3 2.3-12.4 4.1.8 8.1 1.5 12 2.4zm-15.5 17.6s-4.2-.2-4.8 2.9c-.2 1.1.1 2.1 1.5 2.4 1.6.3 2.4-.7 2.6-2.2.3-1 .5-2 .7-3.1z"></path>
+</symbol>
+<symbol id="get-15-off" viewBox="0 0 278.5 85.3">
+<title>Get $15 Off</title>
+<path d="M277.7 5c-6.3 4.9-18.1 40.8-19.9 52.4 7.3-1.2 13.8-22 15.8-22 2.2 0-6 25.4-13.8 25.6 4.8 4.1 1.3 23.9-6.6 24-2.4 0-6.4-1.9-6.5-8-.1-5.6 1.1-14 3-23.3-2.4 4.2-5.3 7.6-8.1 7.6 4.8 4.1 1.3 23.9-6.6 24-2.4 0-6.4-1.9-6.5-8-.1-6.9 1.7-18.2 4.5-30.1-1.3 1.7-3.2 3.4-5.8 4.5-3.4 7.9-7.9 14.2-15.1 14.4-6.2.1-10.9-4.3-11.1-12.6-.2-13.1 6.8-29.2 18-29.4 7.9-.1 11.2 5.1 11.3 11.1.1 4-.8 8-1.4 11 3.7-2.1 5.4-5.6 5.7-5.6C239.8 20.2 247.1.3 251.2.3c3.7-.1 9.2 2.9 9.2 4.3 0 .5-.6.4-.8.7-6.3 4.9-18.1 40.8-19.9 52.4 5.5-.9 10.6-13 13.6-18.9 5-19.8 12.1-38.7 16-38.8 3.7-.1 9.2 2.9 9.2 4.3 0 .5-.6.4-.8.7zm-56 24.4c-5.9.1-16 31-9.7 30.9 2 0 4.2-3 6.1-7-3.3.1-2.4-5.4.6-5.4h1.5c2.4-7.7 4.3-18.6 1.5-18.5zm17.2 33.4c-.7 0-4.5 16.7-2.4 16.6 2.9 0 4.9-16.6 2.4-16.6zm18.2-.3c-.7 0-4.5 16.7-2.4 16.6 2.9 0 4.9-16.6 2.4-16.6zm-67.8-46.1c-1 0-4.7-.3-8.5-.5-2.3 1.5-6.6 12.5-6 12 .4-.4 3.4-2 6.1-2.1 8.2-.1 9 6.4 9.1 10.4.2 10.8-12.7 30.2-19.8 30.3-8.2.1-12.7-8.4-12.6-10.3.1-1.9 3.2-2.2 3.6-1.8.3.3-1.5 4.6 2.5 4.5 6.4-.1 18.8-17.4 19.5-24.9.1-1.5-1.4-1.4-1.7-1.4-3.9.1-10.4 6.6-10.7 7-3.2.1-8.6-2.9-8.7-5.9 0-2.6 8.9-24.1 11.2-24.2.9 0 13.2.9 18 .8 2.3 0 3.3-.2 3.2 1.4-.2 1.8-1.8 4.6-5.2 4.7zm-47.8 50.9c-.4 2.8-7.9-1.4-8-5.3-.1-4.1 8-31.4 14.3-46-2.5 1.7-5.3 3.4-6 3.5-3 .1-4-4-3.3-4.1 1.4 0 10.8-6 13.7-7.8 3.5-2.6 11.5 1.7 10.5 2.5-3.9 3.4-19.3 45-21.2 57.2zm-3.2-43.7c-.7 6.1-10 17.2-12.1 17.2-1.6 0-3.7-1.3-4.8-2.7l-2.3 6.4c5.2 1.5 11 3.1 10.4 7.1-.5 4-9.9 12.6-18.9 15-1.2 3.4-2.1 5.5-2.2 5.5-1.7.4-4.3-.3-4.4-1.8-.1-.2.3-1.3 1-3.2-6.3-1.3-3.9-13.5-.8-13.6.5 0-.8 1-.9 2.8-.1 1.3 1.2 2.5 2.6 2.4.6 0 1.3 0 2-.1 1.1-3.3 2.4-7.1 3.9-11.1-4.7-1.7-8.9-4.6-8.3-9.8 1.1-8.1 11.4-20.1 20.3-24.3 1.6-5 2.8-8.4 2.8-9.1.1-1.1 0-1.6.5-1.6.2 0 4.7.7 4.8 2.7.1.7-.5 3.1-1.7 6.6 7.6.1 8.5 8.6 8.1 11.6zM122.2 51c.1-.5-2.1-.9-4.8-1.6-1 2.7-2 5.2-2.9 7.5 4.3-1.8 7.4-4.5 7.7-5.9zm-10.8-11.1c-.1 1.2.8 2 2.2 2.8l5.3-14.8c-3.8 3.9-7.1 8.3-7.5 12zm16-18.8c-1.6 4.4-3.3 9.4-5.1 14.5 3.3-1.3 12.9-14.2 11.4-16.1-.8-1-3.3-.2-6.3 1.6zM81.7 25c0 .1 0 .1 2.2.1 4-.1 2.8-.5 3.4-.5 1 0-.6 5.5-3.9 5.6-.7 0-3.1-.2-3.6-.2-3.9 10.8-7 22.7-6.9 29.2 0 2.6 1.4 2.7 1.7 2.7 4-.1 13.1-23.1 14.7-23.1 2.2 0-7.4 29.4-16.9 29.6-4.7.1-8.7-3.5-8.8-11.1v-1.1c-3.2 6.7-7.9 12.9-14 13-8.2.1-13.1-5.3-13.2-13.3 0-1.6.1-3.5.5-5.4h-.3c-2.1 4.6-4.8 12-5.6 20.4-.9 9.2 5.2 9.7 1.6 9.8-7.1.1-9.3-4.9-8.5-13.2.1-1.4.4-3.7.6-5-3 4.6-8.5 9.9-12.8 10C4.2 72.6.2 64.8 0 56-.4 34.5 17.8 8 32.3 7.8c9.3-.2 11.2 7.6 10.8 11.4.1 10.4-16.7 21.7-17.3 21.8-1.4 0 10.9-16 11.6-23.7.2-.9-.3-1.5-1.1-1.4C27.6 15.9 9.7 43.8 10 60c.1 3.2 1.6 5.3 3.9 5.3 4-.1 9.4-7.6 13.4-14.8-1.2-.1-2.1-.1-3-.1-4.7.1-6.1-2.1-5.7-6.3.1-1.7.8-2.4 1.5-2.4 1.9 0 .1 2.4 5.3 2.3 5.8-.1 5.2-.7 12.7-.8.3 0 .5.1.7.2 3-8.3 8.5-16.1 15.3-16.2 6.4-.1 9.7 6.7 9.1 12.1-.7 7.4-6 12.8-13.6 13-.9 0-2-.2-2.9-.6-.2 1.1-.4 2.2-.5 3.4-.4 4.7 1.2 8.3 3.8 8.3 7.1-.1 12.3-13.4 15.6-20.2 1-4.5 2.4-9.4 3.9-14.2-1.4-.2-3-.6-3.5-.6-1.2 0-.1-2.9 2.4-3h2.3c4-11.7 8.6-21.8 11.5-21.9 4.6-.1 9.2 3.4 9.2 4.3 0 .5-.5.4-.8.7-2.6 2.5-5.9 9-8.9 16.5zM58.8 36.2c.1-1.4-.1-2.5-.9-2.5-2.6 0-7.2 5.5-9.9 12.6l-.8 2.7c2.9-.2 11-7.2 11.6-12.8z"></path>
+</symbol>
+</defs>
+</svg>
+
 <script class="js-tip-modal-template" type="text/template">
 <div class='modal-content modal-content--tip'>
 <h1>Share good taste with us!</h1>
 <div class='sub_text'>Tell us what awesome dishes and places you wish you could have on Goldbely!</div>
-<form class="tip_form" data-prefix="tip" data-remote="true" id="new_tip" action="/tips" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/xQhM13Nt7TJgy+02sobCjEsVyW8SzxFQUJ2+drYHAmFT5dAXuHGEOXmU8c1KOUWAWuUw6oqwxa5M1WE8Exjmg==" /><div class='message'></div>
+<form class="tip_form" data-prefix="tip" data-remote="true" id="new_tip" action="/tips" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OKjX281GKJkJC6l47v6VoAFvBPx1Ji9EnnctEbCXtCtT/rX++Q7VgmJ+MrR8ylVIr/dRUnW3GiwECcLbgyQNHw==" /><div class='message'></div>
 <input type="text" name="nickname" id="nickname" />
 <div class='field_group'>
 <label for="name">Your Name:</label>
@@ -280,37 +508,7 @@ Submit This Wish
 </div>
 </script>
 
-<script class="email_modal_template" data-click-limit="2" type="text/template">
-<div class='modal-content spec__newsletter-signup-modal'>
-<div class='newsletter_signup'>
-<div class='close-button close'>Close window</div>
-<header class='newsletter-signup__header'>
-{{imageLeft}}
-<div class='product-image' style='background-image: url({{productImage}});'>
-<div class='product-image__overlay'></div>
-</div>
-{{imageRight}}
-</header>
-<div class='bottom newsletter-signup__bottom'>
-<p>
-{{copy}}
-</p>
-<form class="new_list_email" id="new_list_email" action="/list_emails" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input value="www.producthunt.com" type="hidden" name="list_email[referrer]" id="list_email_referrer" />
-<input value="/privacy-and-security" type="hidden" name="list_email[submit_page]" id="list_email_submit_page" />
-<div class='field_group'>
-<label class="ie-only" for="list_email_email">Enter Your Email:
-</label><input type="email" placeholder="{{placeholder}}" id="modal_email_address_email" class="js-mailcheck-email-field email-field" name="list_email[email]" />
-<button name='commit' type='submit'>Go!</button>
-</div>
-</form>
-<p class='mobile-copy'>
-{{mobileCopy}}
-</p>
-</div>
-</div>
-</div>
-
-</script>
+<div data-lazy-load="/referrals/refer_a_friend_modal.js" data-lazy-load-name=""></div>
 <!-- if invited or referred -->
 <script class="email_modal_template_success" type="text/template">
 <div class='email_modal spec__email-modal'>
@@ -327,11 +525,6 @@ Check your email for further details…
 </p>
 <div class='continue-button'>Show me yummy stuff now</div>
 </div>
-<div class='bottom'>
-<div class='icon-modal-eat-well-and-prosper-cream'>
-Eat well and prosper.
-</div>
-</div>
 </div>
 </div>
 
@@ -344,7 +537,15 @@ Eat well and prosper.
 </div>
 </script>
 
-<div class="site-headers js__site-headers spec__site-header">
+<div class="site-headers js__site-headers spec__site-header" role="banner">
+<div class="site-header--notify js__header-notify">
+<strong>TODAY ONLY:</strong>
+Get $15 Off Your First
+3 Orders.
+<span class="site-header__notify-link js__newsletter-signup-recall" role="button" tabindex="0">
+Sign&nbsp;Up&nbsp;Now
+</span>
+</div>
 <div class="site-header--primary js__site-header--primary">
 <div class="gb-container container--header-primary js__header-affix-padding-offset">
 <div class="site-header__side-cols-outer">
@@ -354,167 +555,192 @@ Eat well and prosper.
 <div class="site-header__small-links site-header__small-links--left">
 <a class="site-header__link" href="/about">About</a>
 <a class="site-header__link" href="/press">Press</a>
-<a class="site-header__link site-header__link--emphasis" href="http://sellers.goldbely.com/">Sell on Goldbely</a>
+<span class="site-header__link site-header__link--emphasis js__newsletter-signup-recall" role="button" tabindex="0">
+$15
+Off First
+3
+Orders
+</span>
 </div>
 
 <div class="site-header__slide-on-scroll-container">
-<div class="site-header__learn-more">
-<div class="learn-more__emblem">Epic food shipped nationwide</div>
-</div>
 <h2 class="site-header__logo site-header__logo--left">
-<a title="Goldbely Home" href="/">Goldbely</a>
-</h2>
+<a class="site-header__logo-link" href="/"><div class="scaling-svg-container" style="padding-bottom: 22.82%"><svg role="img" viewBox="0 0 220 50.2" class="scaling-svg"><use xlink:href="#goldbely"></use></svg></div>
+</a></h2>
 </div>
 </div>
 <div class="site-header__col--right">
 <div class="site-header__small-links site-header__small-links--right js__header-side-affix-height-offset"><a class="site-header__link" href="/corporate-gifting">Corporate Gifts</a><a class="site-header__link" href="https://help.goldbely.com/hc/en-us">Customer Care</a></div>
-<a title="View cart and check out" class="site-header__chunk site-header__chunk--link site-header__cart spec__view-cart-link js__header-cart-link site-header__link" data-turbolinks="false" href="/cart"><div class="fa fa-shopping-cart">
+<a title="View cart and check out" class="site-header__chunk site-header__chunk--link site-header__cart spec__view-cart-link js__header-cart-link site-header__link" href="/checkout"><div class="fa fa-shopping-cart">
 <div class="cart__count js__header-cart-items-count"></div>
 </div>
 <div class="cart-container__text label">
 Cart
 </div>
 </a>
-<div class="header__login-container spec__login-container js__header-login-container">
-<noscript>
-<a class="header__sign-up-link" data-modal="authenticate" href="/sign-up">Sign Up</a>
-<a class="header__log-in-link" data-modal="authenticate" href="/log-in">Log In</a>
-</noscript><div class="site-header__chunk site-header__chunk header__login--out site-header__link-item">
-<a class="site-header__chunk--link header__sign-up-link spec__header-sign-up-link site-header__link" data-modal="authenticate" href="/sign-up">Sign Up</a>
-<a class="site-header__chunk--link header__log-in-link spec__header-log-in-link site-header__link" data-modal="authenticate" href="/log-in">Log In</a>
-</div></div>
-<a class="site-header__chunk site-header__chunk--link site-header__link site-header__search-trigger js__search-trigger spec__search-trigger" href="#"><div class="fa fa-search"></div>
+<a class="site-header__chunk site-header__chunk--link site-header__chunk--search-trigger site-header__link js__search-trigger spec__search-trigger" href="#"><div class="fa fa-search"></div>
 <div class="label">Search</div>
-</a></div>
+</a><div class="header__login-container spec__login-container js__header-login-container"><div class="site-header__chunk site-header__chunk--user header__login header__login--out site-header__link-item">
+<a class="site-header__chunk--link header__sign-up-link spec__header-sign-up-link site-header__link js__auth-trigger" data-auth-mode="signup" href="/sign-up">Sign Up</a>
+<a class="site-header__chunk--link header__log-in-link spec__header-log-in-link site-header__link js__auth-trigger" data-auth-mode="login" href="/log-in">Log In</a>
+</div></div>
+</div>
 </div>
 </div>
 </div>
 <div class="site-header__col--mid">
 <h2 class="site-header__logo site-header__logo--centered hidden-header-bp-tablet-sm js__header-middle-affix-offset">
-<a title="Goldbely Home" class="icon-logo-centered" href="/">Goldbely: Discover America's great food makers &amp; artisans</a>
-</h2>
-<ul class="site-header__nav site-header__nav--primary spec__header-nav-primary"><li class="site-header__link-item site-header__link-item--our-picks dropdown--hover dropdown--default">
+<a class="site-header__logo-link" href="/"><div class="scaling-svg-container" style="padding-bottom: 22.82%"><svg role="img" viewBox="0 0 220 50.2" class="scaling-svg"><use xlink:href="#goldbely"></use></svg></div>
+</a></h2>
+<ul aria-label="main site navigation" class="site-header__nav site-header__nav--primary spec__header-nav-primary" role="navigation"><li aria-haspopup="true" class="site-header__link-item site-header__link-item--our-picks dropdown--hover dropdown--default js__dropdown-hover" role="menuitem" tabindex="0">
 <a class="site-header__link" href="/collections">In Season</a>
-<div class="dropdown-menu dropdown-menu--header dropdown-menu--md">
-<div class="close js__close">
-<div class="fa fa-times"></div>
+<div class="dropdown-menu dropdown-menu--header dropdown-menu--md js__dropdown-menu" role="menu">
+<div class="close js__close" role="button">
+<div class="svg-icon svg-icon--icon-close-x svg-icon--baseline"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-close-x"></use></svg></div>
 <div class="text">Close dropdown</div>
 </div>
 <div class="section-menu__subsection">
 <a class="section-menu__subsection-title" href="/collections">In Season
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Memorial Day Feasts" class="subsection-menu__link" href="/memorial-day-food">Memorial Day Feasts</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="4th of July" class="subsection-menu__link" href="/the-best-july-4th-foods">The Best 4th of July Feasts!</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Gifts For Grads" class="subsection-menu__link" href="/best-graduation-gifts">Best Graduation Gifts</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="July 4th Desserts" class="subsection-menu__link" href="/july-4th-desserts">Red, White and Blueberry Desserts</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Chocolate by Chef Johnny Iuzzini" class="subsection-menu__link" href="/chocolate-by-chef-johnny-iuzzini">Chocolate by Chef Johnny Iuzzini</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Milk Bar SHIPS FREE" class="subsection-menu__link" href="/goldbely-exclusive-offers">Milk Bar's Best SHIPS FREE</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Texas Legend Southside Market!" class="subsection-menu__link" href="/texas-legend-southside-market">Texas Legend Southside Market!</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Hot Dogs" class="subsection-menu__link" href="/hot-dogs">All-American Hot Dogs</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Spring Cakes" class="subsection-menu__link" href="/spring-cakes">Spring Cakes</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="NEW Eats" class="subsection-menu__link" href="/new-products">New Food, WHO 'DIS?</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Georgia Peaches" class="subsection-menu__link" href="/georgia-peaches">Farm-Fresh Georgia Peaches</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Summer Grilling All-Stars" class="subsection-menu__link" href="/best-foods-for-your-grill">Summer Grilling All-Stars</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Ice Cream" class="subsection-menu__link" href="/ice-cream">Ice Cream</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Funfetti Everything" class="subsection-menu__link" href="/funfetti-everything">Funfetti Everything</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Design the Perfect Burger" class="subsection-menu__link" href="/the-perfect-burger">Design the Perfect Burger</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Newly Added Shops" class="subsection-menu__link" href="/new-shops">Newly Added Shops</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Subscriptions" class="subsection-menu__link" href="/goldbely-subscriptions">Epic Food Subscriptions</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Philippe The Original French Dip" class="subsection-menu__link" href="/philippe-the-original-french-dip">Philippe The Original French Dip</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Doughnut Plant" class="subsection-menu__link" href="/the-doughnut-plant-in-nyc">Doughnut Plant From NYC</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Cardiff Crack From Seaside Market" class="subsection-menu__link" href="/cardiff-crack-from-seaside-market">Cardiff Crack From Seaside Market</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Trending Products" class="subsection-menu__link" href="/trending-products">Popular Right Now </a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gluten Free" class="subsection-menu__link" href="/gluten-free">Gluten Free</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Keki Cheesecakes" class="subsection-menu__link" href="/keki-cheesecakes">Keki Cheesecakes</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Woman Owned Shops" class="subsection-menu__link" href="/woman-owned-shops">Woman Owned Shops</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Saturday Delivery" class="subsection-menu__link" href="/saturday-delivery">Saturday Delivery</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Free Shipping!" class="subsection-menu__link" href="/free-shipping">Free Shipping!</a>
 </li>
-<li class="subsection-menu__item">
-<a title="In Season NOW!" class="subsection-menu__link" href="/in-season">In Season NOW!</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Spring Sales" class="subsection-menu__link" href="/spring-sales">On Sale Now!</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Oprahs Favorites " class="subsection-menu__link" href="/oprahs-o-list-picks">Oprah's O List Picks</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Subscriptions" class="subsection-menu__link" href="/goldbely-subscriptions">Epic Food Subscriptions</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Martha Stewart" class="subsection-menu__link" href="/martha-stewart">The Martha Stewart Collection</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Southern Living's Tastiest Towns" class="subsection-menu__link" href="/southern-living-souths-tastiest-towns">Southern Living's Tastiest Towns</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="USA Today's Favorite American Eats" class="subsection-menu__link" href="/usa-today">USA Today's Favorite American Eats</a>
 </li>
 </ul>
 </div>
 </div>
 
-</li><li class="dropdown--default dropdown--hover site-header__link-item site-header__link-item--tastes">
+</li><li aria-haspopup="true" class="dropdown--default dropdown--hover js__dropdown-hover site-header__link-item site-header__link-item--tastes" role="menuitem" tabindex="0">
 <a class="site-header__link" href="#">Foods</a>
-<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg">
-<div class="close js__close">
-<div class="fa fa-times"></div>
+<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg js__dropdown-menu" role="menu">
+<div class="close js__close" role="button">
+<div class="svg-icon svg-icon--icon-close-x svg-icon--baseline"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-close-x"></use></svg></div>
 <div class="text">Close dropdown</div>
 </div>
 <div class="section-menu__subsection">
 <a class="section-menu__subsection-title" href="/sweets">Sweets
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Selling Sweets" class="subsection-menu__link" href="/top-sweets">Top Sweets</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="America's Greatest Pies" class="subsection-menu__link" href="/pies">Pies</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Boozy Treats" class="subsection-menu__link" href="/mail-order-booze-infused-desserts">Boozy Treats</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Brownies" class="subsection-menu__link" href="/brownies">Brownies</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Cakes" class="subsection-menu__link" href="/cakes">Cakes</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Cookies" class="subsection-menu__link" href="/cookies">Cookies</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Cheesecakes" class="subsection-menu__link" href="/cheesecakes">Cheesecakes</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Chocolate" class="subsection-menu__link" href="/chocolate">Chocolate</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Cupcakes" class="subsection-menu__link" href="/cupcakes">Cupcakes</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Doughnuts" class="subsection-menu__link" href="/doughnuts">Doughnuts</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Funfetti Everything" class="subsection-menu__link" href="/funfetti-everything">Funfetti Everything</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Gluten Free Desserts" class="subsection-menu__link" href="/mail-order-gluten-free-sweets">Gluten Free Sweets</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gluten Free" class="subsection-menu__link" href="/gluten-free">Gluten Free</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Ice Cream" class="subsection-menu__link" href="/ice-cream">Ice Cream</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Marshmallow Desserts" class="subsection-menu__link" href="/marshmallow-desserts">Marshmallow</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Truffles" class="subsection-menu__link" href="/truffles">Truffles</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Red Velvet" class="subsection-menu__link" href="/best-red-velvet-desserts">Red Velvet</a>
 </li>
-<li class="subsection-menu__item">
-<a title="America's Greatest Pies" class="subsection-menu__link" href="/pies">Pies</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Pastries" class="subsection-menu__link" href="/pastries">Pastries</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="S'mores" class="subsection-menu__link" href="/smores">S'mores</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Tea Time Treats" class="subsection-menu__link" href="/tea-time">Tea Time Treats</a>
 </li>
 </ul>
 
@@ -523,49 +749,61 @@ Cart
 <a class="section-menu__subsection-title" href="/meats">Meats
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Selling Meats" class="subsection-menu__link" href="/top-meats">Top Meats</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Bacon" class="subsection-menu__link" href="/bacon">Bacon</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Steaks" class="subsection-menu__link" href="/steaks">Steaks</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="BBQ" class="subsection-menu__link" href="/bbq">BBQ</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Beef" class="subsection-menu__link" href="/beef">Beef</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Burgers" class="subsection-menu__link" href="/burgers">Burgers</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Bacon" class="subsection-menu__link" href="/bacon">Bacon</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Charcuterie" class="subsection-menu__link" href="/charcuterie">Charcuterie</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Deli" class="subsection-menu__link" href="/deli">Deli</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Pork" class="subsection-menu__link" href="/pork">Pork</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Poultry" class="subsection-menu__link" href="/poultry">Poultry</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Ham" class="subsection-menu__link" href="/ham">Ham</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Hot Dogs" class="subsection-menu__link" href="/hot-dogs">Hot Dogs</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Turkey &amp; Turducken" class="subsection-menu__link" href="/mail-order-turkeys-and-turducken">Turkey &amp; Turducken</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Poultry" class="subsection-menu__link" href="/poultry">Poultry</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Lamb + Veal" class="subsection-menu__link" href="/lamb-veal">Lamb + Veal</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Pork" class="subsection-menu__link" href="/pork">Pork</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Ribs" class="subsection-menu__link" href="/ribs">Ribs</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Sandwiches" class="subsection-menu__link" href="/sandwiches">Sandwiches</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="All-American Hot Dogs" class="subsection-menu__link" href="/hot-dogs">Hot Dogs</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Burgers" class="subsection-menu__link" href="/burgers">Burgers</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Sausages" class="subsection-menu__link" href="/sausages">Sausages</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Steaks" class="subsection-menu__link" href="/steaks">Steaks</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Charcuterie" class="subsection-menu__link" href="/charcuterie">Charcuterie</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Turkey &amp; Turducken" class="subsection-menu__link" href="/mail-order-turkeys-and-turducken">Turkey &amp; Turducken</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Sandwiches" class="subsection-menu__link" href="/sandwiches">Sandwiches</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="America's Greatest Chicken Wings" class="subsection-menu__link" href="/chicken-wings">Chicken Wings</a>
 </li>
 </ul>
 
@@ -574,30 +812,30 @@ Cart
 <a class="section-menu__subsection-title" href="/seafood">Seafood
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Selling Seafood" class="subsection-menu__link" href="/top-seafood">Top Seafood</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Crab" class="subsection-menu__link" href="/Crab">Crab</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Crabcakes" class="subsection-menu__link" href="/crabcakes">Crabcakes</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Crawfish" class="subsection-menu__link" href="/crawfish">Crawfish</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Fish" class="subsection-menu__link" href="/fish">Fish</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Lobster" class="subsection-menu__link" href="/lobster">Lobster</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Oysters" class="subsection-menu__link" href="/oysters">Oysters</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Shellfish" class="subsection-menu__link" href="/shellfish">Shellfish</a>
 </li>
 </ul>
@@ -607,75 +845,75 @@ Cart
 <a class="section-menu__subsection-title" href="/more-foods">More Foods
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Pizza" class="subsection-menu__link" href="/pizza">Pizza</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Bagels" class="subsection-menu__link" href="/bagels">Bagels</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Breads, Bagels, Biscuits &amp; Rolls" class="subsection-menu__link" href="/biscuits-breads-bagels-and-rolls">Breads + Biscuits</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gluten Free" class="subsection-menu__link" href="/gluten-free">Gluten Free</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Kosher" class="subsection-menu__link" href="/kosher">Kosher</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Vegan" class="subsection-menu__link" href="/vegan">Vegan</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Sandwiches" class="subsection-menu__link" href="/sandwiches">Sandwiches</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Sides + Appetizers" class="subsection-menu__link" href="/sides-appetizers">Sides + Appetizers</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Gluten Free Desserts" class="subsection-menu__link" href="/mail-order-gluten-free-sweets">Gluten Free Sweets</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Gluten-Free Feasts" class="subsection-menu__link" href="/americas-best-gluten-free-feasts">Gluten Free Feasts</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Snacks" class="subsection-menu__link" href="/snacks">Snacks</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Soups &amp; Chowders" class="subsection-menu__link" href="/soups-and-chowders">Soups &amp; Chowders</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Biscuits, Bagels, Breads &amp; Rolls" class="subsection-menu__link" href="/biscuits-breads-bagels-and-rolls">Breads + Biscuits</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Chowders, Bisques &amp; Broth" class="subsection-menu__link" href="/soups-and-chowders">Soups &amp; Chowders</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Sauces, Dips &amp; Condiments" class="subsection-menu__link" href="/condiments">Condiments</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Breakfast and Brunch" class="subsection-menu__link" href="/breakfast-and-brunch">Breakfast and Brunch</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Coffee &amp; Cold Brew" class="subsection-menu__link" href="/coffee">Coffee</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Drinks" class="subsection-menu__link" href="/drinks">Drinks</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Kosher" class="subsection-menu__link" href="/kosher">Kosher</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Farm to Table " class="subsection-menu__link" href="/farm-to-table">Farm to Table </a>
 </li>
-<li class="subsection-menu__item">
-<a title="Ethnic Foods" class="subsection-menu__link" href="/ethnic-foods">Ethnic Foods</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Sides + Appetizers" class="subsection-menu__link" href="/sides-appetizers">Sides + Appetizers</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Snacks" class="subsection-menu__link" href="/snacks">Snacks</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Spices &amp; Mixes" class="subsection-menu__link" href="/spices-and-mixes">Spices &amp; Mixes</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Pickled" class="subsection-menu__link" href="/pickles">Pickled</a>
 </li>
 </ul>
 
 </div>
 </div>
 
-</li><li class="site-header__link-item site-header__link-item--regions dropdown--hover dropdown--default">
+</li><li aria-haspopup="true" class="site-header__link-item site-header__link-item--regions dropdown--hover dropdown--default js__dropdown-hover" role="menuitem" tabindex="0">
 <a class="site-header__link" href="#">Regions</a>
-<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg">
-<div class="close js__close">
-<div class="fa fa-times"></div>
+<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg js__dropdown-menu" role="menu">
+<div class="close js__close" role="button">
+<div class="svg-icon svg-icon--icon-close-x svg-icon--baseline"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-close-x"></use></svg></div>
 <div class="text">Close dropdown</div>
 </div>
 <div class="section-menu__subsection">
 <div class="section-menu__subsection-title">Regions</div>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from The Northeast" class="subsection-menu__link" href="/featured/regions/the-northeast">The Northeast</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from The South" class="subsection-menu__link" href="/featured/regions/the-south">The South</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from The Midwest" class="subsection-menu__link" href="/featured/regions/the-midwest">The Midwest</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from The West" class="subsection-menu__link" href="/featured/regions/the-west">The West</a>
 </li>
 </ul>
@@ -683,105 +921,147 @@ Cart
 <div class="section-menu__subsection">
 <div class="section-menu__subsection-title">Top States</div>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from New York" class="subsection-menu__link" href="/states/new-york">New York</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from California" class="subsection-menu__link" href="/states/california">California</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Texas" class="subsection-menu__link" href="/states/texas">Texas</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Pennsylvania" class="subsection-menu__link" href="/states/pennsylvania">Pennsylvania</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Louisiana" class="subsection-menu__link" href="/states/louisiana">Louisiana</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from New Jersey" class="subsection-menu__link" href="/states/new-jersey">New Jersey</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Ohio" class="subsection-menu__link" href="/states/ohio">Ohio</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Maryland" class="subsection-menu__link" href="/states/maryland">Maryland</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from Wisconsin" class="subsection-menu__link" href="/states/wisconsin">Wisconsin</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food from North Carolina" class="subsection-menu__link" href="/states/north-carolina">North Carolina</a>
 </li>
 </ul>
 </div>
 </div>
 
-</li><li class="dropdown--default dropdown--hover site-header__link-item site-header__link-item--shops">
+</li><li aria-haspopup="true" class="dropdown--default dropdown--hover js__dropdown-hover site-header__link-item site-header__link-item--shops" role="menuitem" tabindex="0">
 <a class="site-header__link" href="#">Shops</a>
-<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg">
-<div class="close js__close">
-<div class="fa fa-times"></div>
+<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg js__dropdown-menu" role="menu">
+<div class="close js__close" role="button">
+<div class="svg-icon svg-icon--icon-close-x svg-icon--baseline"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-close-x"></use></svg></div>
 <div class="text">Close dropdown</div>
 </div>
 <div class="section-menu__subsection">
 <a class="section-menu__subsection-title" href="/popular-shops">Popular Shops
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Doughnut Plant" class="subsection-menu__link" href="/doughnut-plant">Doughnut Plant</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Seaside Market" class="subsection-menu__link" href="/seaside-market">Seaside Market</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Joe's Pizza" class="subsection-menu__link" href="/joes-pizza">Joe's Pizza</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Philippe The Original French Dip" class="subsection-menu__link" href="/philippe-the-original">Philippe The Original French Dip</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Milk Bar" class="subsection-menu__link" href="/momofuku-milk-bar">Milk Bar</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Pearson Farm" class="subsection-menu__link" href="/pearson-farm">Pearson Farm</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Prantl's Bakery" class="subsection-menu__link" href="/prantls-bakery">Prantl's Bakery</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="The Peach Truck" class="subsection-menu__link" href="/peach-truck">The Peach Truck</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Callie's Charleston Biscuits" class="subsection-menu__link" href="/callies-charleston-biscuits">Callie's Biscuits</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Alphonso Mangoes" class="subsection-menu__link" href="/alphonso-mangoes">Alphonso Mangoes</a>
 </li>
-<li class="subsection-menu__item">
-<a title="American Coney Island" class="subsection-menu__link" href="/american-coney-island">American Coney Island</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="McLoons Lobster Shack" class="subsection-menu__link" href="/mcloons-lobster-shack">McLoons Lobster Shack</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Jacques Torres Chocolate" class="subsection-menu__link" href="/jacques-torres-chocolate">Jacques Torres Chocolate</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Ladurée Paris" class="subsection-menu__link" href="/laduree">Ladurée Paris</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Keki Modern Cakes" class="subsection-menu__link" href="/keki-modern-cakes">Keki Modern Cakes</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Tipsy Scoop Boozy Ice Cream" class="subsection-menu__link" href="/tipsy-scoop">Tipsy Scoop Boozy Ice Cream</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Ess-a-Bagel" class="subsection-menu__link" href="/ess-a-bagel">Ess-a-Bagel</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Louie Mueller Barbecue" class="subsection-menu__link" href="/louie-mueller-barbecue">Louie Mueller Barbecue</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Oneg Bakery" class="subsection-menu__link" href="/oneg-bakery">Oneg Bakery</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Humphry Slocombe" class="subsection-menu__link" href="/humphry-slocombe">Humphry Slocombe</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Milk Bar" class="subsection-menu__link" href="/momofuku-milk-bar">Milk Bar</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Prince's Hot Chicken" class="subsection-menu__link" href="/princes-hot-chicken">Prince's Hot Chicken</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Junior's Cheesecake" class="subsection-menu__link" href="/juniors-cheesecake">Junior's Cheesecake</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Carnegie Deli" class="subsection-menu__link" href="/carnegie-deli">Carnegie Deli</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Primanti Bros." class="subsection-menu__link" href="/primanti-bros">Primanti Bros.</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Little G Ice Cream" class="subsection-menu__link" href="/little-g-ice-cream">Little G Ice Cream</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Hancock Gourmet Lobster Co." class="subsection-menu__link" href="/hancock-gourmet-lobster-co">Hancock Lobster</a>
-</li>
-<li class="subsection-menu__item">
-<a title="The Bagel Nook" class="subsection-menu__link" href="/the-bagel-nook">The Bagel Nook</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Central Grocery Muffulettas" class="subsection-menu__link" href="/central-grocery">Central Grocery Muffulettas</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Allen Brothers" class="subsection-menu__link" href="/allen-brothers">Allen Brothers</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Jim's Steaks" class="subsection-menu__link" href="/jims-steaks">Jim's Steaks</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Magnolia Bakery" class="subsection-menu__link" href="/magnolia-bakery">Magnolia Bakery</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Yonah Schimmel Knishes" class="subsection-menu__link" href="/yonah-schimmel-knishes">Yonah Schimmel Knishes</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gino's East" class="subsection-menu__link" href="/ginos-east">Gino's East</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Mighty Quinn's BBQ" class="subsection-menu__link" href="/mighty-quinns-bbq">Mighty Quinn's BBQ</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Killer Brownie®" class="subsection-menu__link" href="/killer-brownie">Killer Brownie®</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Central Grocery Muffulettas" class="subsection-menu__link" href="/central-grocery">Central Grocery Muffulettas</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Primanti Bros." class="subsection-menu__link" href="/primanti-bros">Primanti Bros.</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Hancock Gourmet Lobster Co." class="subsection-menu__link" href="/hancock-gourmet-lobster-co">Hancock Lobster</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Louie Mueller Barbecue" class="subsection-menu__link" href="/louie-mueller-barbecue">Louie Mueller Barbecue</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Cookie DŌ" class="subsection-menu__link" href="/cookie-do">Cookie DŌ</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Pappy's Smokehouse" class="subsection-menu__link" href="/pappys-smokehouse">Pappy's Smokehouse</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Ed Mitchell &amp; Son's 'Que" class="subsection-menu__link" href="/ed-mitchell-and-sons-que">Ed Mitchell &amp; Son's 'Que</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Doughnut Plant" class="subsection-menu__link" href="/doughnut-plant">Doughnut Plant</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Sparky's Hatch Green Chile Burgers" class="subsection-menu__link" href="/sparkys">Sparky's Hatch Green Chile Burgers</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Joe's Pizza" class="subsection-menu__link" href="/joes-pizza">Joe's Pizza</a>
 </li>
 </ul>
 
@@ -790,79 +1070,97 @@ Cart
 <a class="section-menu__subsection-title" href="/food-makers">Food Makers
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a class="subsection-menu__link subsection-menu__link--inverted" href="/featured-shops">See All Shops</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Newly Added Shops" class="subsection-menu__link" href="/new-shops">Newly Added Shops</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Artisans" class="subsection-menu__link" href="/artisans">Artisans</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Bakeries" class="subsection-menu__link" href="/bakeries">Bakeries</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Butchers" class="subsection-menu__link" href="/butchers">Butchers</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Chocolatiers" class="subsection-menu__link" href="/chocolatiers">Chocolatiers</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Confectioners" class="subsection-menu__link" href="/confectioners">Confectioners</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Delicatessens" class="subsection-menu__link" href="/delicatessens">Delicatessens</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Food Trucks" class="subsection-menu__link" href="/food-trucks">Food Trucks</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Ice Cream Shops" class="subsection-menu__link" href="/ice-cream-shops">Ice Cream Shops</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Pitmasters" class="subsection-menu__link" href="/pitmasters">Pitmasters</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Pizzerias" class="subsection-menu__link" href="/pizzerias">Pizzerias</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Restaurants" class="subsection-menu__link" href="/restaurants">Restaurants</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Seafood Shops" class="subsection-menu__link" href="/seafood-shops">Seafood Shops</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Farm Fresh" class="subsection-menu__link" href="/farm-fresh">Farm Fresh</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Woman Owned Shops" class="subsection-menu__link" href="/woman-owned-shops">Woman Owned Shops</a>
 </li>
 </ul>
 
 </div>
 </div>
 
-</li><li class="dropdown--default dropdown--hover site-header__link-item site-header__link-item--gifts-collection">
+</li><li aria-haspopup="true" class="dropdown--default dropdown--hover js__dropdown-hover site-header__link-item site-header__link-item--gifts-collection" role="menuitem" tabindex="0">
 <a class="site-header__link" href="#">Gifts</a>
-<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg">
-<div class="close js__close">
-<div class="fa fa-times"></div>
+<div class="dropdown-menu dropdown-menu--header dropdown-menu--lg js__dropdown-menu" role="menu">
+<div class="close js__close" role="button">
+<div class="svg-icon svg-icon--icon-close-x svg-icon--baseline"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-close-x"></use></svg></div>
 <div class="text">Close dropdown</div>
 </div>
 <div class="section-menu__subsection">
 <a class="section-menu__subsection-title" href="/best-gifts">Best Gifts
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a class="subsection-menu__link" href="/gift_cards/new">E-Gift Cards</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Goldbely Subscriptions" class="subsection-menu__link" href="/subscriptions">Subscriptions</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gift Cards + Boxes" class="subsection-menu__link" href="/goldbely-gift-cards">Gift Cards + Boxes</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Goldbely Subscriptions" class="subsection-menu__link" href="/subscriptions">Subscriptions</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Our Best Gifts of 2018" class="subsection-menu__link" href="/food-gifts">Best Gifts of 2018</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a class="subsection-menu__link" href="/corporate-gifting">Corporate Gifts Help</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Our Best Gifts of 2017" class="subsection-menu__link" href="/best-gourmet-food-gifts">Best Gifts of 2017</a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Corporate Gifts" class="subsection-menu__link" href="/corporate-gifts">Corporate Gifts</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Best Christmas Foodie Gifts" class="subsection-menu__link" href="/christmas-food-gifts">Christmas Gifts</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Apparel &amp; Merchandise" class="subsection-menu__link" href="/merchandise">Merchandise</a>
 </li>
 </ul>
 
@@ -871,69 +1169,72 @@ Cart
 <a class="section-menu__subsection-title" href="/gifts-by-price">Gifts by Price
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Best Gifts Under $30" class="subsection-menu__link" href="/food-gifts-under-30">Gifts Under $30</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Best Gifts Under $100" class="subsection-menu__link" href="/food-gifts-under-100">Gifts Under $100</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Gifts Under $50" class="subsection-menu__link" href="/food-gifts-under-50">Gifts Under $50</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Best Gifts Under $100" class="subsection-menu__link" href="/food-gifts-under-100">Gifts Under $100</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Best Gifts Under $30" class="subsection-menu__link" href="/food-gifts-under-30">Gifts Under $30</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts Under $200" class="subsection-menu__link" href="/gifts-under-200">Gifts Under $200</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Splurge Gifts" class="subsection-menu__link" href="/splurge-gifts">Splurge Gifts</a>
 </li>
 </ul>
 
 </div>
 <div class="section-menu__subsection">
-<a class="section-menu__subsection-title" href="/gifts">Gifts By Taste
+<a class="section-menu__subsection-title" href="/gifts">2018 Gift Guide
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
-<a title="Our Best Gifts of 2017" class="subsection-menu__link" href="/best-gourmet-food-gifts">Best Gifts of 2017</a>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Our Best Gifts of 2018" class="subsection-menu__link" href="/food-gifts">Best Gifts of 2018</a>
 </li>
-<li class="subsection-menu__item">
-<a title="Best Corporate Gifts" class="subsection-menu__link" href="/corporate-gifts">Corporate Gifts</a>
-</li>
-<li class="subsection-menu__item">
-<a title="Gifts for the Sweet Tooth" class="subsection-menu__link" href="/gifts-for-dessert-lovers">Sweet Gifts </a>
-</li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Epic Food Subscriptions" class="subsection-menu__link" href="/goldbely-subscriptions">Subscriptions</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Best Corporate Gifts" class="subsection-menu__link" href="/corporate-gifts">Corporate Gifts</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="The Best Gifts From NYC" class="subsection-menu__link" href="/best-mail-order-nyc-gifts">Gifts From NYC</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gifts for the Sweet Tooth" class="subsection-menu__link" href="/gifts-for-dessert-lovers">Sweet Gifts </a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gift Cards &amp; Gift Card Boxes" class="subsection-menu__link" href="/gift-card">Gift Card Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts for the Meat Head" class="subsection-menu__link" href="/gifts-for-meat-lovers">Meat Gifts </a>
-</li>
-<li class="subsection-menu__item">
-<a title="Gifts for the Chef" class="subsection-menu__link" href="/gifts-for-the-chef">Chef Gifts</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
+<a title="Gifts for the Chef" class="subsection-menu__link" href="/gifts-for-the-chef">Chef Gifts</a>
+</li>
+<li class="subsection-menu__item" role="menuitem">
 <a title="For the Sandwich Connoisseur" class="subsection-menu__link" href="/sandwich-gifts">Sandwich Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts for the Ice Cream Obsessed" class="subsection-menu__link" href="/ice-cream-gifts">Ice Cream Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts for the Chocoholic" class="subsection-menu__link" href="/chocolate-gifts">Chocolate Gifts </a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Dude Food Gifts" class="subsection-menu__link" href="/dude-food-gifts">Dude Food Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts for the Sea Foodie" class="subsection-menu__link" href="/seafood-gifts">Seafood Gifts </a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Gifts for the Cheese Head" class="subsection-menu__link" href="/gourmet-cheese-gifts">Cheese Gifts</a>
 </li>
 </ul>
@@ -943,21 +1244,21 @@ Cart
 <a class="section-menu__subsection-title" href="/occasions">Occasions
 <div class="section-menu__subsection-view-all">View All</div>
 </a><ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Best Corporate Gifts" class="subsection-menu__link" href="/corporate-gifts">Corporate Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Thank You Gifts" class="subsection-menu__link" href="/thank-you-gifts">Thank You</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Birthday Gifts" class="subsection-menu__link" href="/birthday-gifts">Birthday</a>
 </li>
 </ul>
 <ul class="subsection-menu__list">
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Wedding Gifts" class="subsection-menu__link" href="/wedding-gifts">Wedding Gifts</a>
 </li>
-<li class="subsection-menu__item">
+<li class="subsection-menu__item" role="menuitem">
 <a title="Housewarming Gifts" class="subsection-menu__link" href="/housewarming-gifts">Housewarming</a>
 </li>
 </ul>
@@ -965,14 +1266,14 @@ Cart
 </div>
 </div>
 
-</li><li class="site-header__link-item site-header__link-item--best-graduation-gifts">
-<a class="site-header__link site-header__link--emphasis" href="/best-graduation-gifts">Gifts For Grads</a>
+</li><li aria-haspopup="true" class="site-header__link-item site-header__link-item--the-best-july-4th-foods" role="menuitem" tabindex="0">
+<a class="site-header__link site-header__link--emphasis" href="/the-best-july-4th-foods">4th of July</a>
 </li></ul>
 
 </div>
 </div>
 <div class="search-overlay__backdrop js__search-backdrop spec__search-backdrop"></div>
-<div class="search-overlay js__search-overlay spec__search-overlay">
+<div class="search-overlay js__search-overlay spec__search-overlay" role="search">
 <a class="search-overlay__close close js__close-search" href="#">
 <span class="text">Close Search</span>
 <div class="icon"></div>
@@ -981,13 +1282,12 @@ Cart
 <div class="search-overlay__title">Search America's Best Dishes</div>
 <div class="site-search js__search-container">
 <form class="site-search__form js__search-form">
-<div class="site-search__wrap-inner js__search-wrap">
-<div class="search-icon"></div>
-<div class="loading-icon"></div>
-<input class="site-search__input js__search-input spec__search-input" placeholder="Search for food or shops" type="text">
-<div class="site-search__delete-query js__delete-query">
-<i></i>
-</div>
+<div class="site-search__wrap js__search-wrap">
+<input class="site-search__input js__search-input spec__search-input" placeholder="Search America’s Greatest Foods &amp; Gifts..." type="search">
+<button class="site-search__btn" type="submit">
+<div class="svg-icon svg-icon--icon-search"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-search"></use></svg></div>
+<div class="svg-icon svg-icon--icon-refresh"><svg aria-hidden="true" role="presentation"><use xlink:href="#icon-refresh"></use></svg></div>
+</button>
 </div>
 </form>
 </div>
@@ -1264,20 +1564,22 @@ support@goldbely.com or by postal mail to Goldbely Attn: Customer Support;
 </div>
 
 </div>
-<div class="footer--secondary__container js__secondary-footer">
+<div class="footer--secondary__container">
 <div class="container">
 <div class="row social-footer">
 <div class="col-md-12 newsletter-signup js__footer-newsletter-signup">
 <p class="success">Got it! I see yummy emails in your future…</p>
-<form data-success-message="You've successfully signed up!" class="new_email_address" id="new_email_address" action="/email_addresses" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><h2>I want more stuff like this!</h2>
+<form data-success-message="You've successfully signed up!" class="js__new_email_address" id="new_list_email" action="/api/list_emails" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><h1 class="spec__seo-tagline">
+The Best Gourmet Food, Food Gifts &amp; Mail Order Foods Shipped Nationwide
+</h1>
 <p>
 Subscribe and never miss out on finds &amp; deals delivered to your inbox.
 <br>
 </p>
 <fieldset>
 <div class="form-group">
-<label class="ie-only" for="email_address_email">Enter Your Email:
-</label><input required="required" placeholder="Enter Your Email" type="email" name="email_address[email]" id="email_address_email">
+<label class="ie-only" for="list_email_email">Enter Your Email:
+</label><input required="required" placeholder="Enter Your Email" type="email" name="list_email[email]" id="list_email_email">
 <button class="btn btn-primary" type="submit">Sign Me Up Now!</button>
 </div>
 </fieldset>
@@ -1286,8 +1588,8 @@ Subscribe and never miss out on finds &amp; deals delivered to your inbox.
 </div>
 </div>
 </div>
-<div class="footer--primary js__primary-footer">
-<div class="footer-inner"><div class="footer__column">
+<div class="footer--primary">
+<div class="footer-inner"><div aria-label="get to know goldbely navigation" class="footer__column" role="navigation">
 <div class="footer__column-heading">Get to Know Us</div>
 <ul class="footer__column-links">
 <li>
@@ -1306,7 +1608,7 @@ Subscribe and never miss out on finds &amp; deals delivered to your inbox.
 <a href="http://sellers.goldbely.com/">Sell on Goldbely</a>
 </li>
 </ul>
-</div><div class="footer__column">
+</div><div aria-label="product discovery navigation" class="footer__column" role="navigation">
 <div class="footer__column-heading">Discover + Shop</div>
 <ul class="footer__column-links">
 <li>
@@ -1322,7 +1624,7 @@ Subscribe and never miss out on finds &amp; deals delivered to your inbox.
 <a href="/videos">Videos</a>
 </li>
 </ul>
-</div><div class="footer__column">
+</div><div aria-label="goldbely policies navigation" class="footer__column" role="navigation">
 <div class="footer__column-heading">Policies</div>
 <ul class="footer__column-links">
 <li>
@@ -1338,18 +1640,24 @@ Subscribe and never miss out on finds &amp; deals delivered to your inbox.
 <a href="/privacy-and-security">Privacy + Security</a>
 </li>
 </ul>
-</div><div class="footer__column">
+</div><div aria-label="goldbely customer care navigation" class="footer__column" role="navigation">
 <div class="footer__column-heading">Customer Care</div>
 <ul class="footer__column-links">
 <li>
 <a target="_blank" href="https://help.goldbely.com/hc/en-us">Customer Care</a>
 </li>
 <li>
+<a target="_blank" href="/reviews">Reviews</a>
+</li>
+<li>
 <a href="/corporate-gifting">Corporate Gifts</a>
 </li>
 <li>
 <a class="js__newsletter-signup-recall" href="#">
-New to Goldbely? Get $15 off
+$15
+Off First
+3
+Orders
 </a>
 </li>
 <li>
@@ -1357,17 +1665,25 @@ New to Goldbely? Get $15 off
 </li>
 </ul>
 </div><div class="footer__column--right">
-<div class="footer__kudos">
-<img alt="GoDaddy Verified &amp; Secured" class="footer__ssl-logo" width="122" height="32" src="https://stowage0.goldbely.com/assets/godaddy-ssl-logo-b72745a9e0ecf001f348dcbda6951990.png">
-<img alt="BBB Acredited Business with A+ rating" class="footer__bbb-logo" width="130" height="38" src="https://stowage1.goldbely.com/assets/bbb-logo-cart-85e81fc8a2bd71d7c47d58c77c1bced0.png">
+<div aria-label="web accreditation navigation" class="footer__kudos" role="navigation">
+<img alt="GoDaddy Verified &amp; Secured" class="footer__ssl-logo" width="122" height="32" src="https://cdn0.goldbely.com/assets/godaddy-ssl-logo-b72745a9e0ecf001f348dcbda6951990.png">
+<img alt="BBB Acredited Business with A+ rating" class="footer__bbb-logo" width="130" height="38" src="https://cdn1.goldbely.com/assets/bbb-logo-cart-85e81fc8a2bd71d7c47d58c77c1bced0.png">
 </div>
-<div class="footer__social-icons"><a class="belicon belicon-social-facebook-f" href="https://www.facebook.com/Goldbely" title="Goldbely on Facebook"></a><a class="belicon belicon-social-twitter-logo" href="https://twitter.com/goldbely" title="Goldbely on Twitter"></a><a class="belicon belicon-social-instagram" href="http://instagram.com/goldbely" title="Goldbely on Instagram"></a></div>
+<div aria-label="external social media navigation" class="footer__social-icons" role="navigation"><a class="belicon belicon-social-facebook-f" href="https://www.facebook.com/Goldbely" title="Goldbely on Facebook"></a><a class="belicon belicon-social-twitter-logo" href="https://twitter.com/goldbely" title="Goldbely on Twitter"></a><a class="belicon belicon-social-instagram" href="http://instagram.com/goldbely" title="Goldbely on Instagram"></a></div>
 </div>
-<div class="footer__copyright">©2017 Goldbely, Inc. All rights reserved.</div>
+<div class="footer__copyright">©2018 Goldbely, Inc. All rights reserved.</div>
 </div>
 </div>
 
 <div class="modal-backdrop hidden"></div>
+<script>
+  analytics.page(
+    {},
+    {
+      integrations: __data.segmentIntegrations
+    }
+  );
+</script>
 <noscript>
 <img height="1" width="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/989018299/?value=0&amp;amp;label=8Jt6CP3cwQUQu_HM1wM&amp;amp;guid=ON&amp;amp;script=0" alt="?value=0&amp;amp;label=8jt6cp3cwququ hm1wm&amp;amp;guid=on&amp;amp;script=0" />
 </noscript>
@@ -1426,5 +1742,10 @@ New to Goldbely? Get $15 off
 
 
 <div data-turbolinks-permanent="" id="fb-root"></div>
+<div id="auth-root"></div>
+<div id="fod-root"></div>
+<div class="v2-cart__container v2-cart__container--precart" id="pre-cart-root"></div>
+<script id="IntercomSettingsScriptTag">window.intercomSettings = {"app_id":"c1136m4c"};(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/c1136m4c';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}};})()</script>
+
 
 </body></html>
