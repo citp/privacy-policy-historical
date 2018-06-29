@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acrcloud.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729070225id_/https%3A//www.acrcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acrcloud.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162426id_/https%3A//www.acrcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ACRCloud
 
-Privacy Policy
+﻿Privacy Policy
 
 ACRCloud is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.
 
@@ -108,15 +108,15 @@ YOUR CHOICES REGARDING OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-– Receiving telephone calls from us: If you no longer want to receive marketing-related telephone calls from us on a going-forward basis, you may opt-out of receiving these marketing-related telephone calls by sending an email to contact@acrcloud.com
+– Receiving telephone calls from us: If you no longer want to receive marketing-related telephone calls from us on a going-forward basis, you may opt-out of receiving these marketing-related telephone calls by sending an email to support@acrcloud.com
 
-– Receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by sending an email to contact@acrcloud.com
+– Receiving electronic communications from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by sending an email to support@acrcloud.com
 
 – We aim to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or unaffiliated third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
 HOW YOU CAN ACCESS, CHANGE OR SUPPRESS YOUR PERSONAL INFORMATION
 
-– If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at contact@acrcloud.com
+– If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at support@acrcloud.com
 
 – In your request, please make clear what information you would like to have changed, whether you would like to have your personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your personal Information. We will try to comply with your request as soon as reasonably practicable.
 
@@ -138,12 +138,12 @@ We ask that you not send us, and you not disclose, any sensitive personal inform
 
 UPDATES TO THIS PRIVACY POLICY
 
-We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the bottom of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
 CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us by email at contact@acrcloud.com
+If you have any questions about this Privacy Policy, please contact us by email at support@acrcloud.com
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
 
-Last Updated: 25th August, 2015
+Last Updated: May 25th, 2018
