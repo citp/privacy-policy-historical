@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the patreon.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228120112id_/http%3A//www.patreon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patreon.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629155746id_/https%3A//www.patreon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Patreon
+
+Effective May 25, 2018
 
 ## Welcome to Patreon!
 
@@ -42,6 +44,7 @@ A creator is someone who creates a Patreon page requesting financial support fro
   4. Country of citizenship
   5. Foreign tax identification number
   6. Date of birth
+  7. Your nonprofit registration number, if you are a nonprofit business
 
 
 
@@ -67,13 +70,13 @@ We use third-party advertising cookies to present you with opportunities while o
 
 We use Google Analytics, Amplitude, and KissInsights analytics cookies to see how you use Patreon so we can improve in a variety of ways. We encourage you to read the [Google privacy policy](https://www.google.com/policies/privacy/). If you prefer to not have data reported by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). We also encourage you to read more about [Amplitude](https://amplitude.com/) and their [privacy policy](https://amplitude.com/privacy), and about [KissInsights](https://www.kissmetrics.com/), their [privacy policy](https://www.kissmetrics.com/privacy/) and their [opt-out instructions](https://www.kissmetrics.com/user-privacy/).
 
-While we try to keep this list up to date, we often experiment with new third party analytics providers, and this list may not be exhaustive.
+We also use third party vendors to provide delivery of rewards which you can read about in our “Information Shared with Third Parties” section below.
 
 ## How We Use Your Information
 
 We never sell your information to anyone. We use your information to:
 
-  1. provide Patreon to you.
+  1. provide Patreon services to you.
   2. allow you to sign in to your account.
   3. allow you to support creators through Patreon.
   4. allow you to collect money as a creator.
@@ -92,9 +95,9 @@ If you are a patron, the following information is shared with the creators you s
 
   1. Your email address and other profile information.
   2. Any messages you send them through Patreon.
-  3. Your address if you have signed up for a reward that requires shipping.
-  4. All information about your pledge, including amount and start date.
-  5. Some information about how you use Patreon. This is aggregated or anonymized so that it cannot be linked back to any individual user.
+  3. Your physical address, city, state, country, and phone number, if you have signed up for a reward that requires shipping.
+  4. All information about your pledge, including amount and start date, but not your full payment card information.
+  5. Some aggregated and anonymized data about how you use Patreon that cannot be linked back to any individual user.
 
 
 
@@ -102,10 +105,11 @@ If you are a patron, the following information is shared with the creators you s
 
 Personally Identifiable Information (PII) is data that includes a personal identifier like your name, email or address, or data that could reasonably be linked back to you. We will only share this data under the following circumstances:
 
-  1. With your permission, with creators or services used by creators to deliver content and rewards.
+  1. With your permission, with service providers used by creators to deliver content and rewards.
   2. With companies that are contractually engaged in providing us with services, such as order fulfillment, email management, analyzing data trends, credit card processing and fraud detection and prevention. These companies may have access to personal information to perform their services and are obligated by contract to safeguard any PII they receive from us.
-  3. If we believe that disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., subpoenas or warrants served on us), to protect the security or integrity of Patreon, and to protect the rights, property, or safety of Patreon, its employees, users, or others. If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited by law from doing so.
-  4. We may disclose or transfer your data in connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company. We will notify you if a different company receives your PII. The promises in this privacy policy apply to any data transferred to a new entity.
+  3. To protect the security or integrity of Patreon, and to protect the rights, property, or safety of Patreon, its employees, users, or others, if we believe that disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., subpoenas or warrants served on us). If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited by law from doing so.
+  4. In connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company. We will notify you if a different company receives your PII. The promises in this privacy policy apply to any data transferred to a new entity.
+  5. Our [apps directory](https://www.patreon.com/apps/featured) displays our most updated list of third party apps providers who help us deliver rewards. While we try to keep this list up to date, we often experiment with new third party apps providers, and this list may not be exhaustive.
 
 
 
@@ -116,37 +120,52 @@ The following information is publicly accessible:
   1. Your profile, and your social media links and location if you add that information.
   2. By default the creators you support are publicly displayed. If you flag your account as private, we will not display the creators you support.
   3. Any posts or comments you make on a creator’s page.
-  4. We may share aggregated or anonymized usage data in blog posts, press releases, or in other ways to share information about Patreon’s usage. Aggregated or anonymized data cannot be linked back to any individual Patreon user.
+  4. Your aggregated or anonymized usage data in blog posts, press releases, or in other ways to share information about Patreon’s usage. Aggregated or anonymized data cannot be linked back to any individual Patreon user.
 
 
 
-## Your Choices
+## Your Preferences and Rights over Data
 
-### Settings
+### Choosing Your Preferences
 
-You can modify or delete certain information associated with your account on the settings pages.
+The Settings link is located by clicking on your avatar or profile at the top right hand of your screen. Settings lets you see the what your account preferences are. You can see and adjust your settings by viewing your preferences and, if you wish, by changing your selections.
 
-### Disable Account
+### Exercising Your Data Rights
 
-You can remove your public facing information by emailing [disable@patreon.com](mailto:disable@patreon.com) to have your account disabled and removed from public view. When we disable an account we remove your password information and profile image from the database, but if you wish to delete any other information permanently you should change it prior to disabling the account.
+You can exercise rights over your data in the following ways:
 
-Even if an account is disabled, all information may be retained by our analytics providers on their own servers.
+  1. ### Modifying the Information in Your Account
 
-### Emails
+You can modify or delete certain information associated with your account on the settings pages, as described in the “Choosing Your Preferences” section above.
 
-You can change which emails you receive through your email settings. While this removes most emails, some service related emails are still sent.
+  2. ### Disabling Your Account
 
-### Mobile Notifications
+You can disable your account if you go to your [account settings](https://www.patreon.com/settings/account) while you are logged into Patreon. Click the “Disable My Account” link to have your account immediately disabled and removed from public view. Please be aware that this is a final act and you cannot log into your account again after clicking this link. When you disable your account, we immediately remove your ability to log in. If you create a new account, you will be asked to use a different email address from the one you used previously. Even if an account is disabled, some information may be retained by our analytics providers on their own servers.
+
+  3. ### Removing Marketing Emails
+
+You can stop receiving marketing emails by changing your email settings. While this removes your marketing emails, service related emails are still sent, including how you can optimize your Patreon experience and suggestions for which creators to follow.
+
+  4. ### Turning off Mobile Notifications
 
 If you download the Patreon App you may also receive notifications on your mobile device. These can be disabled in the App settings.
+
+  5. ### Understanding Our Data Retention Periods
+
+We retain your information for ten years, unless you disable your account information from your [account settings](https://www.patreon.com/settings/account). Please note that once you disable your account, you will not be able to log in again. If you want to log into Patreon again by creating a new account, you may be prompted to use a new email address from the one you previously used on your disabled account.
+
+  6. ### Additional Questions Related to Privacy
+
+For additional privacy-related questions about your account, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82f2f0ebf4e3e1fbc2f2e3f6f0e7edecace1edef).
+
+
+
 
 ## European Union Data Transfer
 
 ### Transfer of Data to the United States
 
 We are based in the United States. By using our services you consent to the transfer of your personal data to the United States, and to the processing and use of that personal data in the United States. This processing and use is limited to what is described in this privacy policy and the terms of use.
-
-You also recognize that the processing of your personal data in the United States might not provide for an equal level of data protection as is granted in countries within the European Union.
 
 ### Marketing Activities
 
@@ -166,6 +185,6 @@ Patreon is not directed at children under the age of 13, and they may not create
 
 We may sometimes make changes to this policy. If we make material changes that adversely affect your rights under this policy, we will let you know by posting an announcement on the site or sending you an email prior to the changes coming into effect. Continuing to use Patreon after a change to this policy means you accept the new policy.
 
-If you have any questions, please email [legal@patreon.com](mailto:legal@patreon.com).
+If you have any questions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3e4e4c57485f5d477e4e5f4a4c5b5150105d5153).
 
-Effective November 1st, 2016. Last updated on July 25th, 2017
+Effective May 25, 2018. Last updated on May 22, 2018
