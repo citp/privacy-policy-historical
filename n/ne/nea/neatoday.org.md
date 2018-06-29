@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatoday.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219230101id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatoday.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629174004id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
 
 # NEA - Privacy Statement
 
