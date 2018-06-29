@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaste.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218190842id_/http%3A//www.spaste.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaste.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629215338id_/http%3A//www.spaste.com/site/privacy) for the most accurate reproduction.*
 
 # Get paid to paste | Shrink Link Earn Money | Get paid To Share Your Link
 
