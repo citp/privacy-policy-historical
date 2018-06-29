@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airbike.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221154510id_/http%3A//www.airbike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airbike.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629213835id_/http%3A//www.airbike.com/privacy-policy) for the most accurate reproduction.*
 
 # AIRBIKE – Original Airbike Products Privacy Policy
 
-Airbike owned by Metem Polska Sp. z o.o., does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
+Airbike owned by Airbike Teknoloji A.Ş., does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
 
 Airbik, does not keep any credit card information and consequently it does not ask or demand such information within the scope of the membership procedures. During the shopping process nobody, including any of the Airbike employees, may be able to see your Credit Card information and the Credit Card information are transmitted to the relevant banks through the most secure dual connection systems.
 
