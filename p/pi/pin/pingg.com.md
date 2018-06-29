@@ -1,130 +1,178 @@
-> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225000339id_/http%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629204347id_/http%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Pingg.com
 
-Pingg® recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
+### Introduction
 
-  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, use our mobile applications, place orders through social media applications (such as our Facebook App) or otherwise contact us via telephone, email, fax or mail (collectively, our “Services”), 
-  * why we gather information from you, 
-  * how we collect it, 
-  * how we use it, and 
-  * the choices you have regarding our use of personal information you have provided. 
+**Pingg, LLC** ( **"Company"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy. 
 
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [ www.pingg.com ](https://web.archive.org/web/20180629204347id_/http%3A//www.pingg.com/info/www.pingg.com) (our **"Website"** ) and our practices for collecting, using, maintaining, protecting, and disclosing that information. 
 
+This policy applies to information we collect: 
 
-Note: _You must be 18 years or older_ and the age of majority in your place of residence to use, subscribe or register as a member of Pingg.com® (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age. 
-
-### Why do we gather information?
-
-Pingg.com® gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from us, our affiliated brands and selected third parties. 
-
-### What information do we gather?
-
-We collect information through our Web Site, emails, mail, fax, telephone, mobile applications and social media applications (such as our Facebook App) including when you: 
-
-  * place an order, 
-  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and 
-  * engage in other activities, services, products and resources we make accessible to our customers, members or users. 
+  * On this website. 
+  * In email, text, and other electronic messages between you and this Website. 
+  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website. 
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy. 
 
 
 
-Depending on how you are interact with us, we collect some or all of the following types of information: 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-  * your name, address, telephone number, email address, 
-  * billing information (credit/debit card number, expiration date, alternate or additional billing information and billing address), 
-  * gender and birth date, if you choose, or are otherwise required to, enter such information, 
-  * products purchased and occasion type (for example, Mother's Day), 
-  * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles), 
-  * Message and gift recipients' names, addresses, telephone numbers and email addresses, and 
+### Children Under the Age of 13
+
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [ support@pingg.com. ](mailto:support@pingg.com)
+
+### Information We Collect About You and How We Collect It
+
+We collect several types of information from and about users of our Website, including information: 
+
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card information or any other identifier by which you may be contacted online or offline ("personal information"); 
+  * that is about you but individually does not identify you; 
+  * about your internet connection, the equipment you use to access our Website and usage details. 
 
 
 
-Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Other Members do not have the right to view and edit your Address Book entries. 
+We collect this information: 
 
-### How we use "Cookies" and "Action Tags".
+  * Directly from you when you provide it to us. 
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies. 
+  * From third parties, for example, our business partners. 
 
-A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly. 
 
-We have relationships with third parties who may receive non-personal information directly from the cookies placed by our Services on your computer to assist in analyzing our business and customers. 
 
-Our Services may also use a common web technology "called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. However, our Services do not use action tags to collect or transfer personal information. In addition, third parties may set their own cookies and tags through our Services (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access. 
+**Information You Provide to Us.** The information we collect on or through our Website may include: 
 
-### Interest-based advertising
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website. 
+  * Records and copies of your correspondence (including email addresses), if you contact us. 
+  * Your responses to surveys that we might ask you to complete for research purposes. 
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website. 
+  * Your search queries on the Website. 
 
-#### Other services
 
-Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information, but rather, upon your online activities. 
 
-We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities. However, you may opt-out of being tracked online by certain companies by visiting <http://www.aboutads.info/choices/> OR [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/). If you opt-out, you will still receive advertisements, but they will not be delivered to you based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, so if you delete your cookies or use a different computer, you will have to repeat this process. 
+You also may provide information to be published or displayed (hereinafter, **"posted"** ) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, **"User Contributions"** ). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
 
-#### Our services
+**Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
 
-In addition, from time-to-time, our Services may also carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based, for example, on commercial interests you have expressed during your online activities. You may opt-out of receiving this type of targeted advertising by visiting <http://www.aboutads.info/choices/> OR [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/) to learn more about online behavioral advertising and how to opt-out from interest-based advertising ads served by some or all participating companies. Once again, if you opt-out, you will still receive advertisements, but they will not be delivered to you based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, so if you delete your cookies or use a different computer, you will have to repeat this process. 
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. 
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type. 
 
-### How we use the information we collect
 
-We use information we collect to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience, to inform you and your gift and message recipients of offers and discounts from Pingg.com® and our affiliated brands and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit/debit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. 
 
-However, without your consent, we do not make your or your gift or message recipients' email addresses, available to “third parties” (as that term is defined and limited below). For example, we may make your postal address available to third parties for marketing purposes, however we would not share your email address without your consent. In addition, you may instruct that other personal information about you or your message or gift recipients' that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below. 
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). Send an email to [ support@pingg.com ](mailto:support@pingg.com) for information on how you can opt out of behavioral tracking on this website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking. 
 
-We may combine information we receive from you via our Services with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy. 
+The information we collect automatically is statistical data and may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to: 
 
-### Consent to Transfer and Submission
+  * Estimate our audience size and usage patterns. 
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests. 
+  * Speed up your searches. 
+  * Recognize you when you return to our Website. 
 
-Our Services are operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to and stored in the United States. By using the Services or otherwise providing us with information, you hereby consent to this transfer. 
 
-Although personal information collected by us through the our Services will be used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries. 
 
-### Links to Other Services
+The technologies we use for this automatic data collection may include: 
 
-Pingg.com® wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party services, you will be subject to the privacy policies and terms of use of those services, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other service. 
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
+  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
-### Security and Passwords
 
-If you place an order on our Web site, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
 
-Portions of the Services (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Services (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
+**Third-Party Use of Cookies and Other Tracking Technologies**
 
-We may provide you with the ability to log into our Services using a social media account, such as Facebook Connect. We do not control the activities of such social media services and have no control over the data they collect or their privacy practices. You should review their privacy practices before using any such social media service. 
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
 
-### How to Limit the Use of Personal Information
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
 
-We want to communicate with you only to the extent you want to hear from us. If you prefer not to have personal information collected from you via the Services shared with third parties, or to set your preferences concerning promotional communications, please follow the directions below. 
+**How We Use Your Information**
 
-### From Third Parties
+We use information that we collect about you or that you provide to us, including any personal information: 
 
-We do not share email addresses you provide with third parties without your consent. In addition, if you prefer that other personal information provided by you not be shared with third parties, please let us know by emailing, writing or calling us as described below and identify the personal information that you would prefer not to be shared. Your instructions will be processed as soon as reasonably practicable and in accordance with law. 
+  * To present our Website and its contents to you. 
+  * To provide you with information, products, or services that you request from us. 
+  * To fulfill any other purpose for which you provide it. 
+  * To provide you with notices about your account, including expiration and renewal notices. 
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection. 
+  * To notify you about changes to our Website or any products or services we offer or provide though it. 
+  * To allow you to participate in interactive features on our Website. 
+  * In any other way we may describe when you provide the information. 
+  * For any other purpose with your consent. 
 
-Emailing us at: [support@pingg.com](mailto:support@pingg.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or 
 
-(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call). 
 
-### From our Affiliates
+**Disclosure of Your Information**
 
-If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our "Affiliates." 
+We may disclose aggregated information about our users without restriction. 
 
-### From Pingg.com
+We may disclose personal information that we collect or you provide as described in this privacy policy: 
 
-If you also prefer that we not use the personal information you have provided to contact you or your message or gift recipients for our own marketing and promotional purposes, please indicate in your email or letter that you wish your instructions to apply to "Pingg." These instructions, however, do not apply to non-promotional transactional messages from us. 
+  * To our subsidiaries and affiliates. 
+  * To contractors, service providers, and other third parties we use to support our business. 
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Pingg, LLC's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Pingg, LLC about our Website users is among the assets transferred. 
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. 
+  * To fulfill the purpose for which you provide it. For example, if you give us an email address to use the "email a friend" feature of our Website, we will transmit the contents of that email and your email address to the recipients. 
+  * For any other purpose disclosed by us when you provide the information. 
+  * With your consent. 
 
-_Please note that your instructions (above) do not govern the use of information you have provided directly to our Affiliates or to third parties (including any merchants referenced or accessible via our Service). The use of information you have provided directly to our Affiliates or to third parties is governed by their respective privacy policies and terms of use._
 
-Any promotional email we send to you or your gift or message recipients will include a link to our Privacy Policy and a link to use to opt-out of receiving further promotional emails from the sender. 
 
-### Corrections
+We may also disclose your personal information: 
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [support@pingg.com](mailto:support@pingg.com). 
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request. 
+  * To enforce or apply our terms of use or terms of sale and other agreements, including for billing and collection purposes. 
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Pingg, LLC our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
-Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page. 
 
-### Your Consent and Changes to this Policy
 
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will endeavor to post any material changes to the Privacy Policy and/or Terms of Use on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
+**Choices About How We Use and Disclose Your Information**
 
-The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each). 
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 
-By using Pingg.com®, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part. 
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. 
+  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by sending us an email stating your request to [ support@pingg.com ](mailto:support@pingg.com)
+  * **Promotional Offers from the Company.** If you do not wish to have your email address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or sending us an email stating your request to [ support@pingg.com. ](mailto:support@pingg.com) If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions. 
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by sending us an email stating your request to [ support@pingg.com. ](mailto:support@pingg.com)
+  * We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website. 
 
-### Your Comments
 
-Pingg® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [support@pingg.com](mailto:support@pingg). 
+
+**Accessing and Correcting Your Information**
+
+You can review and change your personal information by logging into the Website and visiting your account profile page. 
+
+You may also send us an email to support@pingg.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
+
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use. 
+
+**Your California Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@pingg.com or write us at: Pingg, LLC, 1313 North Market St., Suite 303, Wilmington, DE 19801 
+
+**Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. 
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes. 
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
+
+Pingg, LLC 
+
+1313 North Market 
+
+Suite 303 
+
+Wilmington, DE 19801 
+
+or 
+
+[ support@pingg.com ](mailto:support@pingg.com)
