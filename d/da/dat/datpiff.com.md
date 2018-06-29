@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211712id_/http%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629141750id_/https%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
 
 # DatPiff :: Privacy Policy
+
+Put Simply
+
+We collect IP address and cookie information from users who interact with the site. This includes listening to or downloading content.
+
+When creating an account, we also store the email address you provide to us.
+
+We do not provide this information to ANYONE outside of our organization without a legal request.
+
+You may update your account information at any time.
+
+You may [contact](https://web.archive.org/contact) us to disable your account. However, we may retain certain information used to help fight piracy.
 
 Our Commitment to Privacy
 
@@ -24,6 +36,10 @@ Home and business phone number
 E-mail Information
 
 In addition to providing the foregoing information to our partners, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+
+If you choose to register with us, we also store the information that you provide to us to aid in accessing and servicing your account.
+
+Additionally, when interacting with our website, we may store information to assist in statistical reporting.
 
 **2\. Web Site Use Information**
 
@@ -49,9 +65,13 @@ Sharing Information with Affiliates
 
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies.
 
+We do NOT provide your personal information to these affiliates.
+
 Sharing Information with Strategic Partners
 
 We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data that we may have.
+
+We will make every effort to notify users when an alliance or partnership would result in the sharing of their information.
 
 Notice of New Services and Changes
 
@@ -61,17 +81,13 @@ How Do We Secure Information Transmissions?
 
 When you send confidential personal credit card information to our processors like PayPal and Google, from our Web site, a secure server software which they have licensed encrypts all information you input before it is sent to them. The information is scrambled en route and decoded once it reaches their Web site.
 
-Other e-mail that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured e-mail.
+Other e-mail that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as email or account passwords to us through an unsecured e-mail.
 
 How Do We Protect Your Information?
 
 **Information Security.**
 
-We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
-
-**Evaluation of Information Protection Practices.**
-
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
+We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction. All password information stored with us is encoded and not stored in plaintext. 
 
 **Employee Access, Training and Expectations.**
 
