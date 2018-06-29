@@ -1,351 +1,222 @@
-> *The following text is extracted and transformed from the denydesigns.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816093456id_/https%3A//www.denydesigns.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denydesigns.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630003529id_/https%3A//www.denydesigns.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DENY Designs Home Accessories
+# Privacy Policy | Deny Designs
 
-  * [ DORM SHOP ](https://web.archive.org/pages/back-to-school-shop-2017)
-    * [Trend Collections>](https://web.archive.org/pages/featured-collections-to-love)
-      * [Moroccan](https://web.archive.org/pages/moroccan-home-collection)
-      * [Future Is Female](https://web.archive.org/pages/future-is-female-girlboss-art-of-fierce-deny-females)
-      * [Americana](https://web.archive.org/pages/americana-home-trend-collection)
-      * [Vintage Floral](https://web.archive.org/pages/vintage-floral-home-collection)
-      * [Indie Indigo](https://web.archive.org/pages/indie-indigo-hygge-collection)
-      * [Plant Life Bedding](https://web.archive.org/collections/plant-life-bedding)
-    * [Student Discount](http://blog.denydesigns.com/student-save-big)
-    * [Gift Cards](https://web.archive.org/products/gift-card)
-  * [ NEW ](https://web.archive.org/pages/new-arrivals)
-    * [New Art](https://web.archive.org/collections/new-art)
-    * [New Artists](https://web.archive.org/collections/new-artists)
-    * [Featured Collections](http://www.denydesigns.com/pages/featured-collections-to-love)
-    * [Blog](http://blog2.denydesigns.com/?cam=blog&src=new)
-  * [ BED + BATH ](https://web.archive.org/pages/bed-bath)
-    * [Bedding>](https://web.archive.org/pages/bedding)
-      * [Bed in a Bag ](https://web.archive.org/collections/bed-in-a-bag)
-      * [Duvet Covers ](https://web.archive.org/collections/duvet-covers)
-      * [Comforters ](https://web.archive.org/collections/comforters)
-      * [Sheet Sets](https://web.archive.org/collections/sheet-sets)
-      * [Comforter Insert](https://web.archive.org/products/alternative-down-comforter-insert)
-    * [Bath>](https://web.archive.org/pages/bath)
-      * [Shower Sets](https://web.archive.org/collections/shower-sets)
-      * [Shower Curtains](https://web.archive.org/collections/shower-curtains)
-      * [Bath Mats](https://web.archive.org/collections/bath-mats)
-      * [Shower Curtain Liner](https://web.archive.org/products/shower-curtain-liner)
-      * [Shower Curtain Rings](https://web.archive.org/products/shower-curtain-rings)
-    * [Pillows>](https://web.archive.org/pages/pillows)
-      * [Throw Pillows](https://web.archive.org/collections/throw-pillows)
-      * [Oblong Pillows](https://web.archive.org/collections/oblong-throw-pillows)
-      * [Floor Pillows](https://web.archive.org/collections/floor-pillows)
-      * [Outdoor Throw Pillows](https://web.archive.org/collections/outdoor-throw-pillows)
-    * [Sherpa Fleece Throw Blankets](https://web.archive.org/collections/fleece-throw-blankets)
-  * [ FURNITURE ](https://web.archive.org/pages/furniture)
-    * [Credenza](https://web.archive.org/collections/credenza)
-    * [Bench](https://web.archive.org/collections/bench)
-    * [Stools>](https://web.archive.org/collections/stools)
-      * [Bar Stool](https://web.archive.org/collections/bar-stool)
-      * [Counter Stool](https://web.archive.org/collections/counter-stool)
-    * [Side Tables>](https://web.archive.org/collections/side-table)
-      * [Square Side Table](https://web.archive.org/collections/side-table)
-      * [Round Side Table](https://web.archive.org/collections/round-side-table)
-    * [Coffee Table](https://web.archive.org/collections/coffee-table)
-    * [Desks ](https://web.archive.org/collections/desks)
-    * [Round Table](https://web.archive.org/collections/round-table)
-  * [ WALL ](https://web.archive.org/pages/everything-wall)
-    * [Wood Wall Mural](https://web.archive.org/collections/wood-wall-mural)
-    * [Framed Wall Art](https://web.archive.org/collections/framed-wall-art)
-    * [Art Print + Hanger](https://web.archive.org/collections/art-print-and-hanger)
-    * [Art Prints](https://web.archive.org/collections/art-prints)
-    * [Art Canvas](https://web.archive.org/collections/art-canvas)
-    * [Tapestries](https://web.archive.org/collections/tapestries)
-    * [Clocks>](https://web.archive.org/collections/clocks)
-      * [Round Clocks](https://web.archive.org/collections/round-clocks)
-      * [Baroque Clocks](https://web.archive.org/collections/baroque-clocks)
-      * [Quatrefoil Clocks](https://web.archive.org/collections/quatrefoil-clocks)
-    * [Mirrors>](https://web.archive.org/collections/mirrors)
-      * [Baroque Mirrors](https://web.archive.org/collections/baroque-mirrors)
-      * [Quatrefoil Mirrors](https://web.archive.org/collections/quatrefoil-mirrors)
-    * [Blingboxes](https://web.archive.org/collections/blingboxes)
-  * [ OUTDOOR ](https://web.archive.org/pages/outdoor)
-    * [Outdoor Throw Pillows ](https://web.archive.org/collections/outdoor-throw-pillows)
-    * [Tabletop >](https://web.archive.org/pages/tabletop)
-      * [Tablecloth ](https://web.archive.org/collections/tablecloth)
-      * [Table Runner](https://web.archive.org/collections/table-runner)
-      * [Placemats ](https://web.archive.org/collections/placemat)
-      * [Cloth Napkins ](https://web.archive.org/collections/cloth-napkin)
-    * [Trays>](https://web.archive.org/collections/trays)
-      * [Square Trays](https://web.archive.org/collections/square-trays)
-      * [Rectangular Trays](https://web.archive.org/collections/rectangular-trays)
-    * [Coaster Sets ](https://web.archive.org/collections/coaster-sets)
-    * [Cornhole](https://web.archive.org/collections/cornhole-set)
-  * [ ACCESSORIES ](https://web.archive.org/pages/accessories)
-    * [Tabletop>](https://web.archive.org/pages/tabletop)
-      * [Tablecloth ](https://web.archive.org/collections/tablecloth)
-      * [Table Runner](https://web.archive.org/collections/table-runner)
-      * [Placemats ](https://web.archive.org/collections/placemat)
-      * [Cloth Napkins ](https://web.archive.org/collections/cloth-napkin)
-    * [Cutting Boards](https://web.archive.org/collections/cutting-board)
-    * [Trays>](https://web.archive.org/collections/trays)
-      * [Square Trays](https://web.archive.org/collections/square-trays)
-      * [Rectangular Trays](https://web.archive.org/collections/rectangular-trays)
-    * [Coffee Mugs](https://web.archive.org/collections/coffee-mugs)
-    * [Coaster Sets](https://web.archive.org/collections/coaster-sets)
-    * [Pouch](https://web.archive.org/collections/pouch)
-    * [Jewelry Storage>](https://web.archive.org/collections/jewelry-storage)
-      * [BlingBox](https://web.archive.org/collections/blingboxes)
-      * [Jewelry Boxes](https://web.archive.org/collections/jewelry-boxes)
-    * [Cell Phone Case](https://web.archive.org/collections/cell-phone-case)
-    * [Essentials>](https://web.archive.org/collections/essentials)
-      * [Comforter Insert](https://web.archive.org/products/alternative-down-comforter-insert)
-      * [Shower Curtain Liner](https://web.archive.org/products/shower-curtain-liner)
-      * [Shower Curtain Rings](https://web.archive.org/products/shower-curtain-rings)
-      * [Rug Pad](https://web.archive.org/products/non-slip-indoor-rug-pad)
-    * [Pet Collection>](https://web.archive.org/collections/pet-collection)
-      * [Pet Beds](https://web.archive.org/collections/pet-beds)
-      * [Pet Bandanas](https://web.archive.org/collections/pet-bandanas)
-    * [Gift Card](https://web.archive.org/products/gift-card)
-  * [ ARTIST GALLERIES ](https://web.archive.org/collections/artists)
-  * [ JOIN ](https://web.archive.org/pages/join-the-fun)
-    * [Be a Deny Artist](https://support.denydesigns.com/hc/en-us/articles/115000629671-Become-a-Deny-Artist-)
-    * [Wholesale](https://support.denydesigns.com/hc/en-us/articles/115000751551)
-    * [Deny District E-Club](https://web.archive.org/pages/join-the-fun)
-    * [Student Discount](http://blog.denydesigns.com/student-save-big)
-  * [ ABOUT US ](https://web.archive.org/pages/we-are-deny-designs-utm_source-about-us-utm_medium-navigation-utm_term-utm_campaign-navigation)
+******Last Updated:** April 25, 2018
+
+This privacy policy (“ **Privacy Policy** ”) describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a “ **Service** ”, collectively the “ **Services** ”) and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (“ **Leaf Group** ”, “ **we** ”, “ **us** ”, or “ **our** ”), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
+
+  1. **Our Privacy Principles**
 
 
 
-  * [](https://web.archive.org/)
-  * n
 
-  * [ c ](https://web.archive.org/cart)
-  * s
+We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable law.
 
-  * 
+Effective May 25th, 2018, if you are from the European Economic Area (“ **EEA** ”), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation (“ **GDPR** ”).
 
-
-  * [ DORM SHOP ](https://web.archive.org/pages/back-to-school-shop-2017)
-    * [Trend Collections](https://web.archive.org/pages/featured-collections-to-love)
-      * [Moroccan ](https://web.archive.org/pages/moroccan-home-collection)
-      * [Future Is Female ](https://web.archive.org/pages/future-is-female-girlboss-art-of-fierce-deny-females)
-      * [Americana ](https://web.archive.org/pages/americana-home-trend-collection)
-      * [Vintage Floral ](https://web.archive.org/pages/vintage-floral-home-collection)
-      * [Indie Indigo ](https://web.archive.org/pages/indie-indigo-hygge-collection)
-      * [Plant Life Bedding ](https://web.archive.org/collections/plant-life-bedding)
-    * [Student Discount](http://blog.denydesigns.com/student-save-big)
-    * [Gift Cards](https://web.archive.org/products/gift-card)
-  * [ NEW ](https://web.archive.org/pages/new-arrivals)
-    * [New Art](https://web.archive.org/collections/new-art)
-    * [New Artists](https://web.archive.org/collections/new-artists)
-    * [Featured Collections](http://www.denydesigns.com/pages/featured-collections-to-love)
-    * [Blog](http://blog2.denydesigns.com/?cam=blog&src=new)
-  * [ BED + BATH ](https://web.archive.org/pages/bed-bath)
-    * [Bedding](https://web.archive.org/pages/bedding)
-      * [Bed in a Bag ](https://web.archive.org/collections/bed-in-a-bag)
-      * [Duvet Covers ](https://web.archive.org/collections/duvet-covers)
-      * [Comforters ](https://web.archive.org/collections/comforters)
-      * [Sheet Sets ](https://web.archive.org/collections/sheet-sets)
-      * [Comforter Insert ](https://web.archive.org/products/alternative-down-comforter-insert)
-    * [Bath](https://web.archive.org/pages/bath)
-      * [Shower Sets ](https://web.archive.org/collections/shower-sets)
-      * [Shower Curtains ](https://web.archive.org/collections/shower-curtains)
-      * [Bath Mats ](https://web.archive.org/collections/bath-mats)
-      * [Shower Curtain Liner ](https://web.archive.org/products/shower-curtain-liner)
-      * [Shower Curtain Rings ](https://web.archive.org/products/shower-curtain-rings)
-    * [Pillows](https://web.archive.org/pages/pillows)
-      * [Throw Pillows ](https://web.archive.org/collections/throw-pillows)
-      * [Oblong Pillows ](https://web.archive.org/collections/oblong-throw-pillows)
-      * [Floor Pillows ](https://web.archive.org/collections/floor-pillows)
-      * [Outdoor Throw Pillows ](https://web.archive.org/collections/outdoor-throw-pillows)
-    * [Sherpa Fleece Throw Blankets](https://web.archive.org/collections/fleece-throw-blankets)
-  * [ FURNITURE ](https://web.archive.org/pages/furniture)
-    * [Credenza](https://web.archive.org/collections/credenza)
-    * [Bench](https://web.archive.org/collections/bench)
-    * [Stools](https://web.archive.org/collections/stools)
-      * [Bar Stool ](https://web.archive.org/collections/bar-stool)
-      * [Counter Stool ](https://web.archive.org/collections/counter-stool)
-    * [Side Tables](https://web.archive.org/collections/side-table)
-      * [Square Side Table ](https://web.archive.org/collections/side-table)
-      * [Round Side Table ](https://web.archive.org/collections/round-side-table)
-    * [Coffee Table](https://web.archive.org/collections/coffee-table)
-    * [Desks ](https://web.archive.org/collections/desks)
-    * [Round Table](https://web.archive.org/collections/round-table)
-  * [ WALL ](https://web.archive.org/pages/everything-wall)
-    * [Wood Wall Mural](https://web.archive.org/collections/wood-wall-mural)
-    * [Framed Wall Art](https://web.archive.org/collections/framed-wall-art)
-    * [Art Print + Hanger](https://web.archive.org/collections/art-print-and-hanger)
-    * [Art Prints](https://web.archive.org/collections/art-prints)
-    * [Art Canvas](https://web.archive.org/collections/art-canvas)
-    * [Tapestries](https://web.archive.org/collections/tapestries)
-    * [Clocks](https://web.archive.org/collections/clocks)
-      * [Round Clocks ](https://web.archive.org/collections/round-clocks)
-      * [Baroque Clocks ](https://web.archive.org/collections/baroque-clocks)
-      * [Quatrefoil Clocks ](https://web.archive.org/collections/quatrefoil-clocks)
-    * [Mirrors](https://web.archive.org/collections/mirrors)
-      * [Baroque Mirrors ](https://web.archive.org/collections/baroque-mirrors)
-      * [Quatrefoil Mirrors ](https://web.archive.org/collections/quatrefoil-mirrors)
-    * [Blingboxes](https://web.archive.org/collections/blingboxes)
-  * [ OUTDOOR ](https://web.archive.org/pages/outdoor)
-    * [Outdoor Throw Pillows ](https://web.archive.org/collections/outdoor-throw-pillows)
-    * [Tabletop ](https://web.archive.org/pages/tabletop)
-      * [Tablecloth ](https://web.archive.org/collections/tablecloth)
-      * [Table Runner ](https://web.archive.org/collections/table-runner)
-      * [Placemats ](https://web.archive.org/collections/placemat)
-      * [Cloth Napkins ](https://web.archive.org/collections/cloth-napkin)
-    * [Trays](https://web.archive.org/collections/trays)
-      * [Square Trays ](https://web.archive.org/collections/square-trays)
-      * [Rectangular Trays ](https://web.archive.org/collections/rectangular-trays)
-    * [Coaster Sets ](https://web.archive.org/collections/coaster-sets)
-    * [Cornhole](https://web.archive.org/collections/cornhole-set)
-  * [ ACCESSORIES ](https://web.archive.org/pages/accessories)
-    * [Tabletop](https://web.archive.org/pages/tabletop)
-      * [Tablecloth ](https://web.archive.org/collections/tablecloth)
-      * [Table Runner ](https://web.archive.org/collections/table-runner)
-      * [Placemats ](https://web.archive.org/collections/placemat)
-      * [Cloth Napkins ](https://web.archive.org/collections/cloth-napkin)
-    * [Cutting Boards](https://web.archive.org/collections/cutting-board)
-    * [Trays](https://web.archive.org/collections/trays)
-      * [Square Trays ](https://web.archive.org/collections/square-trays)
-      * [Rectangular Trays ](https://web.archive.org/collections/rectangular-trays)
-    * [Coffee Mugs](https://web.archive.org/collections/coffee-mugs)
-    * [Coaster Sets](https://web.archive.org/collections/coaster-sets)
-    * [Pouch](https://web.archive.org/collections/pouch)
-    * [Jewelry Storage](https://web.archive.org/collections/jewelry-storage)
-      * [BlingBox ](https://web.archive.org/collections/blingboxes)
-      * [Jewelry Boxes ](https://web.archive.org/collections/jewelry-boxes)
-    * [Cell Phone Case](https://web.archive.org/collections/cell-phone-case)
-    * [Essentials](https://web.archive.org/collections/essentials)
-      * [Comforter Insert ](https://web.archive.org/products/alternative-down-comforter-insert)
-      * [Shower Curtain Liner ](https://web.archive.org/products/shower-curtain-liner)
-      * [Shower Curtain Rings ](https://web.archive.org/products/shower-curtain-rings)
-      * [Rug Pad ](https://web.archive.org/products/non-slip-indoor-rug-pad)
-    * [Pet Collection](https://web.archive.org/collections/pet-collection)
-      * [Pet Beds ](https://web.archive.org/collections/pet-beds)
-      * [Pet Bandanas ](https://web.archive.org/collections/pet-bandanas)
-    * [Gift Card](https://web.archive.org/products/gift-card)
-  * [ ARTIST GALLERIES ](https://web.archive.org/collections/artists)
-  * [ JOIN ](https://web.archive.org/pages/join-the-fun)
-    * [Be a Deny Artist](https://support.denydesigns.com/hc/en-us/articles/115000629671-Become-a-Deny-Artist-)
-    * [Wholesale](https://support.denydesigns.com/hc/en-us/articles/115000751551)
-    * [Deny District E-Club](https://web.archive.org/pages/join-the-fun)
-    * [Student Discount](http://blog.denydesigns.com/student-save-big)
-  * [ ABOUT US ](https://web.archive.org/pages/we-are-deny-designs-utm_source-about-us-utm_medium-navigation-utm_term-utm_campaign-navigation)
+  2. ******Information that We Collect from You**
 
 
 
-**DENY DESIGNS PRIVACY POLICY**
+**Account Data You Directly and Voluntarily Provide to Us**
 
-Last Updated: August 8, 2017
+We may collect and process some or all of the following information you make available to us if you register, download or use the Services, such as your:
 
-By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its wholly-owned subsidiary/affiliate Deny Designs, LLC (each a “Service," collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Deny Designs, LLC (“Deny Designs”) and Leaf Group Ltd. (collectively, “Leaf Group,” “we,” “us,” or “our”) use, share and manage this information.
-
-Leaf Group Ltd., and its wholly-owned subsidiary/affiliate Deny Designs, LLC are subject to the investigative and enforcement authority of the US Federal Trade Commission (“FTC”).
-
-  1. ******Data Collection and Use.**
-    1. _Information You Directly and Voluntarily Provide to Us_. We may collect and store some or all of the following information you make available to us:
-
-
-  * If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, telephone number, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service. If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.
-  * Information you provide when you contact us for technical or customer support or with questions about your use of the Service. 
-    1. _Information Automatically Collected from You_. In addition to the information you provide to us, the Service may collect and store additional information automatically, this information may include:
-  * Device registration data (e.g., the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type)
-  * Device settings (e.g., language preference)
-  * Mobile carrier
-  * Information about how you use the Service (for example, how many times you use the Service each day)
-  * Requested and referring URLs
-  * Location data collected through your device (including, for example, precise location data such as GPS and WiFi information) 
-    1. _Information You Publicly Post through the Service_. If you post information on public areas of the Service, such as reviews, comments or forums, that information may be collected and used by Leaf Group, other users of the Service, and the public generally. We strongly recommend that you do not post any information through the Service that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
-    2. _How We Use the Information We Collect from You_. We and our service providers may use the information you provide or that is collected through the Service to operate and improve the Service, our other sites, applications, products and services, or to contact you from time to time to provide you with important information, notices and marketing promotions relating to the Service. If you wish to opt-out of receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can opt-out of receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
-
-
-  1. ******Collection of Information by Third Parties.**
-    1. _Advertising and Analytics_.
+  * **Name**
+  * **Email Address**
+  * **Mailing Address**
+  * **Phone Number**
+  * **Interests**
+  * **User Name**
+  * **Password**
+  * **Other Registration Information**
+  * **Customer Support or Technical Information you provide when you contact us with questions about your use of the Services**
 
 
 
-The Service may be supported through advertising, and we may work with third-party advertisers and advertising networks to provide advertising through the Service. We may provide these third-party advertisers and advertising networks with the ability to collect information about how you interact with the Service and, if applicable, your mobile device. This information may include the unique device or advertising identifier associated with your device and your precise location information, in order to help analyze and serve targeted advertising on the Service and elsewhere (including third-party sites and applications).
+**User Profile Data**
 
-We may also work with third party analytics companies to help us understand how the Service is being used, such as data collection, reporting, ad response measurement, and website and mobile application analytics, as well as to assist with delivery of relevant marketing messages and advertisements. We may use Google Analytics, an analytics service provided by Google, Inc., or other third party analytics services providers (“Analytics Services”) to collect information about your use of the Service. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Service will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Service.
+We may also offer you the option to create a user profile that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.
 
-We encourage you to review your device and Service settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain information by the Service by updating your applicable device settings, or you may uninstall the Service. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
+**Public Data You Post through the Services**
 
-  1. _Third Party Links and Content_. In addition, the Service may include third-party advertising, links to third-party websites, and other content from third-party businesses. These third parties may use cookies, pixels and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. For information about how tracking works for online advertising purposes you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/)or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices/). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit. In addition, some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at: <http://www.networkadvertising.org/managing/opt_out.asp>.
-  2. _Do Not Track Requests_. If you access the Service through a browser, your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Service in response to any “do not track” requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Service.
+If you post information on public areas of the Services, that data may be collected and used by us, other users of the Services, and the public generally, such as reviews, comments, and user content. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public. 
+
+**Usage Data We Automatically Collect from You**
+
+In addition to the information you provide to us, the Services may collect and process additional data automatically, this data may include your:
+
+  * **Device Registration Data** (for example, the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type),
+  * **Device Settings** (for example, your language preference)
+  * **Mobile Carrier**
+  * **Information about how you use the Services** (for example, how many times you use the Services each day)
+  * **Requested and Referring URLs**
+  * **Location Data collected through your Device** (including, for example, precise location data such as GPS and WiFi information)
 
 
-
-Here is a list of most cookies that we use. We’ve listed them here so you can choose if you want to opt-out of cookies or not. If you access Deny Designs using a browser, your browser should allow you to manage your Do Not Track settings. This should allow you to disable any of your tracking settings which will not allow Deny Designs to track using cookies.
-
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
-
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
-
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
-
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
-
-_secure_session_id, unique token, sessional
-
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
-
-Google Analytics, unique token, sessional, Allows Google Analytics to store information about your session (referrer, landing page, etc).
-
-Facebook, unique token, sessional, Allows Facebook to store information about your session (referrer, landing page, etc).
-
-Pinterest, unique token, sessional, Allows Pinterest to store information about your session (referrer, landing page, etc).
-
-Log.olark.com, Allows Olark our chat engine to store information about your conversation with Deny Designs Customer support.
-
-  1. _Payment Processors_. If you make a purchase through the Service, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Service. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
-  2. _Shopify_. The Deny Designs store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+  3. ******How We Use Your Information**
 
 
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+**Improving the Services, Providing Support, and Communicating With You**
 
-Payment: If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to communicate with you about marketing promotions.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+**Advertising and Third Party Content and Links**
 
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+The Services may be supported through advertising, and we may work with advertisers and advertising networks to provide advertising through the Services. We may provide these advertisers and advertising networks with the ability to collect data about how you interact with the Services and, if applicable, your mobile device. This data may include the unique device or advertising identifier associated with your device and your precise location data, in order to help analyze and serve targeted advertising on the Services and elsewhere (including third-party sites and applications). In addition, the Services may include third-party content and links to other third-party websites. These advertisers, advertising networks, and third parties may use cookies, pixels, and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user.
 
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+For information about how tracking works for online advertising purposes you can visit <http://www.aboutads.info/choices> or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit.
 
-  1. _Promotions, Sweepstakes, and Contests_. From time to time, we may host a promotion, sweepstakes, or content on the Service. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
+If you access the Services through a browser, your browser may allow you to adjust your browser settings so that “Do Not Track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Services in response to any Do Not Track requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Services.
+
+**Analytics Services**
+
+We may also work with third party analytics companies to help us understand how the Services are being used, such as data collection, reporting, ad response measurement, website and mobile application analytics, and to assist with delivery of relevant marketing messages and advertisements.
+
+We may use Google Analytics, an analytics service provided by Google or other third party analytics services providers (“ **Analytics Services** ”) to collect information about your use of the Services. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Services will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Services.
+
+We encourage you to review your device and Services settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain data by the Services by updating your applicable device settings, or you may uninstall the Services. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer. 
+
+**Purchases and Payment Processors**
+
+If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+
+**Promotions, Sweepstakes, and Contests**
+
+From time to time, we may host a promotion, sweepstakes, or content on the Services. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
+
+If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
+
+**Social Media and Sharing**
+
+The Services may use social networking or “share functionality” or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.
+
+We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable. 
+
+  4. ******How We Share Your Information**
 
 
-  * ******Social Media Services.** The Service may use social networking or “share functionality” or may contain links to third-party social media sites or applications that are not owned or controlled by Leaf Group. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature. Leaf Group has no control over, and assumes no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. You are subject to the policies of those third parties when and where applicable. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Service. Please review your privacy settings for your applicable social media site or application account, as those settings determine what information may be made available to us when you access the Service through the applicable social media site or application.
+
+We may share the information you provide or that we collect in some circumstances as follows:
+
+**With Advertisers**
+
+We may share your information with advertisers, third-party advertising networks and analytics companies who may use it to deliver targeted advertisements to you on the Services or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
+
+**With Our Company Affiliates**
+
+We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with the Services, products and other services.
+
+**With Our Partner Programs**
+
+If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Services utilized. 
+
+**For Marketing Campaigns**
+
+From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at  **legal@leafgroup.com**.
+
+**With Our Service Providers**
+
+We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
+
+**As Required By Law or to Protect Rights and to Comply with Our Policies**
+
+To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if required to do so by law, or if requested in response to a subpoena or court order, we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or we believe that you have abused the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our [Terms of Use](https://www.hunker.com/terms-of-use). You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+
+**Business Transfers or Bankruptcy**
+
+In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable. 
+
+  5. ******Your Access and Control of Your Information**
 
 
 
-We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+We acknowledge your right to access and control your personal data **.  **
 
-  13. **Children Under Age 13**. The Service is not intended for children under age 13. We do not knowingly collect or distribute personal information from or about children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com). 
-    1. ******How We Share Your Information**. We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield Frameworks, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:
-  14. _Advertisers_. We may share your information with advertisers, third-party advertising networks and analytics companies as described above in Section II(A) who may use it to deliver targeted advertisements to you on the Service or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
-  15. _Corporate Affiliates_. We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with our Services, products and other services.
-  16. _Partner Programs_. If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Service utilized.
-  17. _Marketing Campaigns_. From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at legal@leafgroup.com.
-  18. _Service Providers_. We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
-  19. _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies_. To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if: (i) required to do so by law, or if requested in response to a subpoena or court order; (ii) we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our  ** _Terms of Use_**. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
-  20. _Business Transfers; Bankruptcy_. In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Service to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable. 
-    1. ******Managing Your Information**. We acknowledge the right of individuals to access their personal data. You may send an e-mail to [legal@leafgroup.com](mailto:legal@leafgroup.com) or a letter to Leaf Group Ltd., Attn: Legal Department; 1655 26th Street, Santa Monica, CA 90404 requesting access to or correction of your personal information. Please include your registration information you provided through the Service. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account. If you’d like us to delete information that you have provided through the Service, please contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com) and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Service to function properly or may be automatically retained in backup storage or records retention archival storage.
+**Accessing, Correcting or Deleting Your Information**
+
+To request access to or correction of your personal data, you may send an e-mail to  **legal@leafgroup.com**  or a letter to:
+
+**Leaf Group Ltd.**
+
+**Attn: Legal Department**
+
+**1655 26 th Street**
+
+**Santa Monica, CA 90404**
+
+Please include your registration information you provided through the Services. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+
+If you'd like us to delete information that you have provided through the Services, please contact us at **legal@leafgroup.com** and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.
+
+**Portability of Your Personal Data**
+
+Data portability is the ability to obtain some of your information in a format you can move from one service provider to another. Depending on the context, this applies to some of your information, but not to all of your information. Should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control.
+
+**California Residents**
+
+If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to  **legal@leafgroup.com** ; and (b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
+
+  6. ******Transfer of Data Outside Your Country of Residence**
 
 
 
-In addition, if you are a California resident under the age of 18 and are a registered user of the Service, you may request that we remove content or information about you that you posted on the Service by (A) submitting a request in writing to [legal@leafgroup.com](mailto:legal@leafgroup.com) (B) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
+If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
 
-  * ******Use of Information Outside Your Country of Residence**. The Service is directed to users located in the United States. If you are located outside of the United States and you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Service represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained in the United States, you should not use the Service.
-  * ******EU-US and Swiss-US Privacy Shield**. Leaf Group complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+**Privacy Shield**
+
+We comply with the **EU-US Privacy Shield Framework** and the **Swiss-US Privacy Shield Framework** as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:
+
+  * **Notice**
+  * **Choice**
+  * **Accountability for Onward Transfer**
+  * **Security**
+  * **Data Integrity and Purpose Limitation**
+  * **Access**
+  * **Recourse, Enforcement and Liability**
 
 
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [ **https://www.privacyshield.gov/**](https://www.privacyshield.gov/).
 
-We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at **  legal@leafgroup.com**.
+
+We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the **BBB EU PRIVACY SHIELD** , a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [ **http://www.bbb.org/EU-privacy-shield/for-eu-consumers/**](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-  1. ******Security**. We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
-  2. ******Updates to this Privacy Policy**. We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
-  3. **Contact Information**. If you have questions about this Privacy Policy, you may contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
+  7. ******The Privacy of Children**
 
 
 
-__
+The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at  **legal@leafgroup.com**. ** **
+
+  8. ******Security Measures**
+
+
+
+We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk. ** **
+
+  9. ******Updates to this Privacy Policy**
+
+
+
+We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy. 
+
+  10. ******Contact Us**
+
+
+
+If you have questions about this Privacy Policy, you may contact us at  **legal@leafgroup.com** or send a letter to:
+
+**Leaf Group Ltd.**
+
+**Attn: Legal Department**
+
+**1655 26 th Street**
+
+**Santa Monica, CA 90404**
+
+We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
