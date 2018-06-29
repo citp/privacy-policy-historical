@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realfarmacy.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225163516id_/http%3A//www.realfarmacy.com/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realfarmacy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629165354id_/http%3A//realfarmacy.com/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |REALfarmacy.com | Healthy News and Information
+# Privacy Policy – REALfarmacy.com
 
 This Privacy Policy governs the manner in which Real Farmacy collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.realfarmacy.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Real Farmacy.
 
