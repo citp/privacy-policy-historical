@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155420id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629114739id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | GatheringMagic.com - Magic: The Gathering Website
 
@@ -6,7 +6,7 @@ This page will outline both our Disclosure Policy as well as our Privacy Policy.
 
 ## Disclosure Policy
 
-This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Adam Styborski (stybs@gatheringmagic.com).
+This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Evan Erwin (evan@coolstuffinc.com).
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions, or other forms of compensation.
 
@@ -79,9 +79,9 @@ This policy was last modified on March 2nd, 2012.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 CoolStuffInc.com  
-3592 Aloma Ave, Suite 6  
-Winter Park, FL 32792  
+8550 S. US Hwy 17-92  
+Maitland, FL 32751  
 USA  
-stybs@gatheringmagic.com
+evan@coolstuffinc.com
 
 * * *
