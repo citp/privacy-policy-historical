@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216113213id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145046id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
 # CDJapan : Privacy Policy
 
@@ -67,4 +67,20 @@ If you have any questions or suggestions, please contact us by [email](mailto:in
 
 CDJapan (Neo Wing Co.) complies with all applicable laws and regulations of Japan pertaining to the protection of personal information and continues to review and make efforts to improve its compliance program, including this Privacy Policy.
 
-Established: April 1, 2005 Fumio Katagiri President, Neo Wing Co.
+## Privacy Protection for EEA Users (Updated: May 5, 2018 )
+
+For users receiving orders in the EEA (European Economic Area), that is, the EU (European Union) countries, Iceland, Liechtenstein and Norway, please be advised of the following additional terms.
+
+Your user data are being transferred and kept on a server located in JAPAN, managed and maintained by CDJapan (Neowing Corporation). Although the Council of Europe has not yet approved the Japanese data protection standard, CDJapan (Neowing Corporation) will manage and use these data appropriately and in a responsible way.
+
+CDJapan does not intend to collect and or exchange personal information of underaged individuals. Any personal information regarding a person under the age of 13 received without the permission from a legal guardian is to be removed from our server immediately at the time of discovery.
+
+Upon request, the user may access, modify and delete the data submitted, please contact us at info@cdjapan.co.jp for further information. After agreeing to this policy, the user retains the right to terminate the agreement (see the ‘Termination’ section below) at will, and to report any mishandling of personal data by CDJapan (Neowing Corporation) to the relevant EEA authority.
+
+## Termination
+
+Termination of this agreement implies the COMPLETE removal of its correlated user account and the information contained within. Similarly, the removal of a user account*, would also terminate the agreement between CDJapan (Neowing Corporation) and its respective user.
+
+*For security purposes, CDJapan reserves the right to remove malicious accounts at its own discretion.
+
+Established: April 1, 2005 Last Updated: May 5, 2018 Fumio Katagiri President, Neo Wing Co.
