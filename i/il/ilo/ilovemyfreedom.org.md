@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119064752id_/https%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629154326id_/https%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ We know that you care how your information is used, and we appreciate your trust
   1.  **What Personal Information Do We Collect?**
 
 
-  * Information You Provide. We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in. Please see the “opt-in/opt-out” selection in Section 4 of this policy.
+  * Information You Provide. We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in. Please see the “opt-in/opt-out” selection in Section 3 of this policy.
   * Like many websites, we use “cookies”. Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
   * Other Information: Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
   * Information from Other Sources. We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
@@ -51,6 +51,6 @@ Various Web sites may be linked to from this site. If you link to another site
 
 
 
-If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us for assistance at our Support Desk.
+If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us for assistance at our [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
- **No portion of this website can be copied without written permission from the author.**
+ **No portion of this website can be copied without written permission of I Love My Freedom.**
