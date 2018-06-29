@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123234925id_/http%3A//www.tradedoubler.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092813id_/http%3A//www.tradedoubler.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Tradedoubler
 
 ## Introduction
 
-The integrity of individuals is an important factor of Tradedoubler’s business success. Tradedoubler’s advertisers, publishers, media agencies and other customers (hereafter the “Client/Clients”) that from time to time provide Tradedoubler with personal data, as well as web surfers whose digital data is processed by Tradedoubler as part of its provision of services to it’s Clients (hereafter the “User/Users”), must be able to trust that data is processed by Tradedoubler in accordance with applicable privacy laws and regulations.
+The integrity of individuals is an important factor of Tradedoubler’s business success. Tradedoubler’s advertisers, publishers, media agencies and other customers (hereafter the “Client/Clients”) that from time to time provide Tradedoubler with personal data, as well as web surfers whose digital data is processed by Tradedoubler as part of its provision of services to its Clients (hereafter the “User/Users”), must be able to trust that data is processed by Tradedoubler in accordance with applicable privacy laws and regulations.
 
-This Privacy Policy was created in order for Clients and Users to better understand how information relating to them is processed by Tradedoubler. The Privacy Policy is not exhaustive, but contains certain fundamental privacy principles applied by Tradedoubler which Tradedoubler considers to be of particular importance for Clients and Users to be aware of.
+This Privacy Policy was created in order for Clients and Users to better understand how information relating to them is processed by Tradedoubler. The Privacy Policy is not exhaustive, but contains certain fundamental privacy principles applied by Tradedoubler which Tradedoubler considers to be of particular importance for Clients and Users to be aware of. If you do not agree to this Privacy Policy and/or other terms and conditions stated in connection with the collection, please do not provide personal data to Tradedoubler. Tradedoubler reserves the rights not to provide you certain products or services should you choose not to provide required personal data.
 
   * Part 1 of the Privacy Policy contains Tradedoubler’s general privacy principles with regard to its processing of personal data provided by Clients, Users or other individuals.
-  * Part 2 of the Privacy Policy contains information regarding Tradedoubler’s processing of digital information about Users in relation to Tradedoubler’s Interest Based Advertising and Retargeting activities. It also contains requirements on publishers with whom we have contracted to serve Interest Based Advertising, Retargeting and other marketing services, to notify Users about TradeDoubler’s services on their websites and obtain User´s consent when required by applicable laws.
+  * Part 2 of the Privacy Policy contains information regarding Tradedoubler’s processing of digital information about Users in relation to Tradedoubler’s Interest Based Advertising and Retargeting activities. It also contains requirements on publishers with whom we have contracted to serve Interest Based Advertising, Retargeting and other marketing services, to notify Users about Tradedoubler’s services on their websites and obtain User´s consent when required by applicable laws.
   * Part 3 of the Privacy Policy contains contact information for different kinds of inquiries and requests relating to Tradedoubler’s processing of data and this Privacy Policy.
 
 
 
-This Privacy Policy was last revised on 9th May 2016. Tradedoubler may at any time and without notice change it, e.g. to keep it compliant with applicable laws. You should therefore read this Privacy Policy each time you intend to provide Tradedoubler with personal data.
+This Privacy Policy was last revised on 5 April 2018. Tradedoubler may at any time and without notice change it, e.g. to keep it compliant with applicable laws. You should therefore read this Privacy Policy each time you intend to provide Tradedoubler with personal data.
+
+Information about GDPR compliance is available on <https://www.tradedoubler.com/en/gdpr-compliance/>[  
+](https://www.tradedoubler.com/en/gdpr-compliance/)
 
 ## Part 1 – General privacy principles
 
@@ -31,7 +34,8 @@ Personal data for which Tradedoubler is controller may be provided by you to us 
   * If you are a Client you may be required to provide us with personal and corporate information, such as name, address, email address and other account information, in order to be able to access and use our services;
   * As part of our sales efforts, we may collect and store data through online forms for contact purposes;
   * If you are a prospect Client, you may provide us with personal data through this Site when applying to join our network;
-  * You may provide us with personal data when you send us inquiries relating to our services or in relation to this Privacy Policy.
+  * You may provide us with personal data when you send us inquiries relating to our services or in relation to this Privacy Policy. The collection of personal data is based on legitimate interest according to the above and for the performance of a contract to which you and Tradedoubler are the parties.
+  * The collection of personal data is based on legitimate interest according to the above and for the performance of a contract to which you and TradeDoubler are the parties.
 
 
 
@@ -53,7 +57,7 @@ Where it is required by law or where Tradedoubler otherwise deems it appropriate
 
 ### Withdrawal of consent
 
-You are at all times entitled to withdraw your consent to process personal data that you have provided to Tradedoubler. In such case Tradedoubler will not process your personal data based on consent any more.
+You are at all times entitled to withdraw your consent to process personal data if you have provided consent to Tradedoubler. In such case Tradedoubler will not process your personal data based on consent any more.
 
 You are entitled to request that Tradedoubler shall not process your personal data for direct marketing purposes.
 
@@ -61,11 +65,11 @@ Contact details for withdrawal of consent and/or for request that Tradedoubler s
 
 ### Right to information and rectification of personal data
 
-Tradedoubler will take reasonable measures to rectify, block or erase personal data that it is shown incorrect without undue delay. Part 3 of this Privacy Policy contains information about who you should contact if you would like us to correct personal data that we hold on you and which you consider incorrect.
+Tradedoubler will take reasonable measures to rectify incorrect information, block or erase personal data without undue delay. You also have the right to contact Tradedoubler in order to object the processing or use the right to data portability.  Part 3 of this Privacy Policy contains information about who you should contact if you would like us to correct personal data that we hold on you and which you consider incorrect.
 
 To the extent required by law, we will inform you about Tradedoubler’s processing of your personal data in connection with the initial collection or registration of your personal data. Such information may e.g. be provided by notifying you about this Privacy Policy.
 
-You may request a copy of the personal data that Tradedoubler holds about you (“Subject Access Request”). You are entitled to such information free of charge once a year. This information will include information regarding what personal data Tradedoubler processes about you, where such information has been collected, for which purpose the information is being processed, and to whom, or to which categories of persons, the information is being disclosed. Contact information for Subject Access Request is set out in Part 3 of this Privacy Policy.
+You may request a copy of the personal data that Tradedoubler holds about you (“Subject Access Request”). This information will include information regarding what personal data Tradedoubler processes about you, where such information has been collected, for which purpose the information is being processed, and to whom, or to which categories of persons, the information is being disclosed. Contact information for Subject Access Request is set out in Part 3 of this Privacy Policy.
 
 ### Destruction of personal data
 
@@ -101,7 +105,7 @@ From the drop down menu in the top left hand corner select ‘Options’. In the
 
 From the settings drop down menu in the top right hand corner select ‘Preferences’. Select the ‘Security’ tab and from here you can adjust your cookie settings.
 
-In addition, Tradedoubler may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. Please [click here](http://publisher.tradedoubler.com/include/functions/optout.html) for more information about Tradedoubler ad serving or to opt-out of the Tradedoubler ad-serving cookie.
+In addition, Tradedoubler may serve ads on this and other websites using our own ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie. For more information about Tradedoubler ad serving or to opt-out of the Tradedoubler ad-serving cookie read the instructions below in section “Tradedoubler’s targeting technologies.
 
 The table below explains the cookies we use and why.
 
@@ -155,9 +159,9 @@ There exists a range of different kinds of online Interest Based Advertising and
 
 Tradedoubler’s Interest Based Advertising and Retargeting services use a combination of cookie- and cookieless technologies.. “Cookies” are small simple text files (not programs or spyware) stored on the hard drive of a web surfer’s computer. Cookie-less solutions gather data points from the User´s device to create a unique ID for the device. The data points collected are non-PII (non-Personally Identifiable Information). Based on the anonymous information stored in the User’s cookie, Tradedoubler is able provide more relevant advertising to the User on behalf of our Clients. For example, a User that visits sports sites often will be categorized in the “sports fan” segment, and will primarily be served advertisements that are relevant to the interests of a sports fan, and a User that shows interest in a certain car model or a certain computer model, may be served advertisements or specific offers for such car model or computer model.
 
-Tradedoubler may also link multiple devices used by a single User into an anonymous user profile. This is done withhashed (anonymous, de-identified) User login IDs used across various devices to login to websites belonging to Tradedoubler’s Advertising Network by the User. Such linking enables Tradedoubler to offer its IBA and Retargeting services across devices but not to identify the User.
+Tradedoubler may also link multiple devices used by a single User into an anonymous user profile. This is done  withhashed (anonymous, de-identified) User login IDs used across various devices to login to websites belonging to Tradedoubler’s Advertising Network by the User. Such linking enables Tradedoubler to offer its IBA and Retargeting services across devices but not to identify the User.
 
-The fundamental integrity principle underlying all Tradedoubler’s processing of digital data relating to Users, is that such data shall be anonymous. Therefore, we do not store IP addresses on the cookie of a User, only a unique randomly generated ID that does not allow Tradedoubler to trace the User; we do not have, and will not initiate, any co-operation with Internet Service Providers in order to trace the identities of Users. The data stored on the cookie is limited to information collected at the User’s visits to websites belonging to Tradedoubler’s Advertising Network. With the exception of a marginal proportion of cookie data saved for statistical purposes solely, a User’s cookie can only be viewed by Tradedoubler when the User visits a website that belongs to our Advertising Network.
+The fundamental integrity principle underlying all Tradedoubler’s processing of digital data relating to Users, is that such data shall be anonymous. Therefore, we do not store IP addresses on the cookie of a User, only a unique randomly generated ID that does not allow Tradedoubler to identify the User; we do not have, and will not initiate, any co-operation with Internet Service Providers in order to identify Users. The data stored on the cookie is limited to information collected at the User’s visits to websites belonging to Tradedoubler’s Advertising Network. With the exception of a marginal proportion of cookie data saved for statistical purposes solely, a User’s cookie can only be viewed by Tradedoubler when the User visits a website that belongs to our Advertising Network.
 
 ## Targeting information
 
@@ -165,7 +169,7 @@ The fundamental integrity principle underlying all Tradedoubler’s processing o
 
 The cookie information stored on the User’s hard drive for Interest Based Advertising and Retargeting purposes is: (i) User segment hits or information on a specific product, service, brand or model in which the User has shown interest during its visit to a certain website (for example a User that visits a sport site of one of Tradedoubler’s Clients, will record a hit in the ‘sports’ segment and a User that has shown interest in a certain car model will record a hit of that car model) and (ii) time and date stamp of the latest update of the User profile. The User segments used by Tradedoubler for cookie hits are: (1) Animals; (2) Humanities; (3) Automotive (4) Business; (5) Computers & electronics; (6) Entertainment; (7) Finance; (8) Food & drink; (9) Gaming; (10) Health & beauty; (11) Home & garden; (12) Insurance; (13) Lifestyle & society; (14) News & current events; (15) Reference; (16) Shopping & retail; (17) Social; (18) Sports & recreation; and (19) Telecom & utilities
 
-For the sake of clarity, no segments relating to information which Tradedoubler considers sensitive have been or will be created, such as segments relating to political opinions, religious beliefs, physical or mental health conditions or sexual life. Further, Tradedoubler is very sensitive to the issue of children’s privacy and marketing directed to children. No segments are intended to be established for the profiling of children.
+For the sake of clarity, no segments relating to sensitive information have been or will be created, such as segments relating to political opinions, religious beliefs, physical or mental health conditions or sexual life. Further, Tradedoubler is very sensitive to the issue of children’s privacy and marketing directed to children. No segments are intended to be established for the profiling of children.
 
 ### Use of collected digital data
 
@@ -179,7 +183,7 @@ Our employees are made aware of and must comply with Tradedoubler’s security m
 
 ### Opt-out
 
-You may at any time easily block further Interest Based Advertising and Retargeting activities which are based on cookie-, cookieless or Cross-device tracking from Tradedoubler by opting-out. To opt-out of Interest Based Advertising please follow the instructions above in section “Tradedoubler’s targeting technologies”.. To opt-out of Retargeting activities please [click here ](http://ads.heias.com/x/heias.optout/adserver.php)and follow the instructions.
+You may at any time easily block further Interest Based Advertising and Retargeting activities which are based on cookie-, cookieless or Cross-device tracking from Tradedoubler by opting-out. To do so please follow the instructions above in section “Tradedoubler’s targeting technologies”..
 
 In addition, note that you are always able to prevent cookies from any website from being installed on your computer by readjusting your browser settings. For more information about cookies and how to disable them, you should consult the help section of your browser.
 
@@ -189,7 +193,7 @@ If the cookie is deleted by the User, all profile data is removed.
 
 If you are a publisher, please note that you are obligated to notify visitors of your website about third parties who are serving advertisements on your website by way of use of cookies. If using Tradedoubler’s cross-device tracking solution, you are required to notify visitors to your website of this fact, gain their consent for passing data to Tradedoubler and to hash the data in accordance with Tradeoubler´s instructions before sending it to Tradedoubler. As a party to the publisher agreement with Tradedoubler, you agree to provide clear and unambiguous notice about this. In relation to Tradedoubler’s Interest Based Advertising and Retargeting (if you have chosen to be provided with such services), such information shall at least include the following text:
 
-“By using our website you consent to our Privacy policy [Link] includingthird-party advertising companies serving ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In order to do this, our advertising partners may place a cookie (a small text file) on your computer; or collect device ids or other device data and link you various devices to the same anonymous user profile using hashed (de-identified) user login ids. Please, read our Privacy policy [Link] for detailed information and for instructions to disable third-party advertising.
+“By using our website you consent to our Privacy policy [Link] including _third-party advertising companies serving ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In order to do this, our advertising partners may place a cookie (a small text file) on your computer; or collect device ids or other device data and link you various devices to the same anonymous user profile using hashed (de-identified) user login ids. Please, read our Privacy policy [Link] for detailed information and for instructions to disable third-party advertising._
 
 For avoidance of doubt, please note that the foregoing requirement of notification does not limit any of your obligations according to applicable law. You are yourself as a publisher responsible for providing relevant and accurate information required by law, including applicable privacy laws.
 
@@ -197,8 +201,8 @@ For avoidance of doubt, please note that the foregoing requirement of notificati
 
 Contact details for inquiries and requests:
 
-  * For general inquiries concerning this Privacy Policy or Tradedoubler’s processing of data, please send an e-mail to the following address: [privacy@Tradedoubler.com](mailto:privacy@Tradedoubler.com);
-  * For: (i) a withdrawal of a consent to process your personal data previously provided by you to Tradedoubler; (ii) a request that Tradedoubler shall not process your personal data for direct marketing purposes; (iii) a requirement that Tradedoubler shall rectify certain personal data held on you, or; (iv) a Subject Access Request, please send an e-mail to the following address: [privacy@Tradedoubler.com](mailto:privacy@Tradedoubler.com);
+  * For general inquiries concerning this Privacy Policy or Tradedoubler’s processing of data, please send an e-mail to the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8d8f948b9c9e84bda98f9c99989992889f91988fd39e9290);
+  * For: (i) a withdrawal of a consent to process your personal data previously provided by you to Tradedoubler; (ii) a request that Tradedoubler shall not process your personal data for direct marketing purposes; (iii) a requirement that Tradedoubler shall rectify certain personal data held on you, or; (iv) a Subject Access Request, please send an e-mail to the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7000021906111309302402111415141f05121c15025e131f1d);
 
 
 
