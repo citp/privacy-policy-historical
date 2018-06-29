@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231013934id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630014009id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Humans Are Free
 
