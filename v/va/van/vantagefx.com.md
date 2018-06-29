@@ -1,255 +1,272 @@
-> *The following text is extracted and transformed from the vantagefx.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208152142id_/http%3A//www.vantagefx.com/wp-content/uploads/2017/07/Vantage_FX_Privacy_Policy1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagefx.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629211138id_/https%3A//www.vantagefx.com/wp-content/uploads/2017/07/Vantage_FX_Privacy_Policy1.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Privacy Policy
-VANTAGE FX PTY LTD                                                         How We Collect Personal Information
-                                                                           Vantage FX collects personal information in a number of ways, including:
-Our Commitment
-                                                                                 ♦     directly from you, when you attend a face-to face interview;
-Vantage FX Pty Ltd ("Vantage FX", "we", "our", "us") is committed to
-providing you with the highest levels of client service. We recognise that
-                                                                                 ♦     directly from you, when you provide information through a
-                                                                                       data collection form;
-your privacy is very important to you. The Privacy Act 1988 (Cth) and the
-“private sector amendments” contained in the Privacy Amendment                   ♦     directly from you, when you provide information by phone;
-(enhancing Privacy Protection) Act 2012 (Cth) sets out a number of                     and
-Australian Privacy Principles (APPs). Our aim is to both support and             ♦     directly from you via an email or the internet.
-ensure that we comply with these principles. Further information on
-privacy in Australia may be obtained by visiting the website of the Office
-of the Australian Information Commissioner www.oaic.gov.au
-                                                                           How We Use Your Personal Information
-Vantage FX believes that this Privacy Policy discloses how the personal
-information you provide to us and our representatives, is collected, used,
-held, disclosed and disseminated.                                          The information in this document details how we comply with the
-                                                                           Privacy Act including:
-Vantage FX is required to meet particular legislative and regulatory
-requirements which requires us to collect certain personal information           ♦     What is the purpose?
-from you for the purposes of:                                                    ♦     Who is my information disclosed to?
-                                                                                 ♦     What law requires collection?
-      ♦     Providing you with the relevant product or service                   ♦     What are the consequences?
-      ♦     Managing and administering the product or service
-      ♦     Protecting against fraud                                       Primarily, your personal information is used in order to:
-We encourage you to check our website regularly for any updates to our           ♦     Meet particular legislative and regulatory requirements;
-Privacy Policy.                                                                  ♦     To assist in providing services to you;
-                                                                                 ♦     To assist with any calls you make to us;
-                                                                                 ♦     To communicate relevant information to you;
-                                                                                 ♦     For our product development, marketing,              planning,
-Your Personal Information                                                              administration and credit control procedures..
-We are subject to certain legislative and regulatory requirements which    From time to time, we may provide you with direct marketing material.
-necessitate us to obtain personal information about you, including s945A   This will include emails, articles and newsletters that may be of interest
-of the Corporations Act. Detailed below is some of the information         to you. If, at any time, you do not wish to receive this information any
-Vantage FX may hold on you:                                                further, you may contact us with this request. We will endeavour to meet
-                                                                           your request within 1 week. We maintain a Register for those individuals
-                                                                           not wanting direct marketing material.
-      ♦     Name, address, telephone number(s)
-      ♦     Date of birth
-      ♦     Email address
-      ♦     Occupation and job title
-                                                                           When We Disclose Your Personal Information
-      ♦     Transaction details associated with your trading through us
-      ♦     Additional information provided to us and recorded by
-            telephone                                                      In line with modern business practices common to many financial
-                                                                           institutions and to meet your specific needs we may disclose your
-      ♦     Information you provided to us on client agreement forms       personal information to the organisations described below. The
-      ♦     Nominated bank account details                                 Corporations Act has provided the Australian Securities and Investments
-      ♦     Statement of assets and liabilities                            Commission with the authority to inspect certain personal information
-      ♦     Information regarding guarantees of company accounts           that is kept on our files about you. We collect information about you for
-                                                                           the purpose of reporting to AUSTRAC under the Anti-Money Laundering
-      ♦     Tax file number                                                and Counter-Terrorism Financing Act 2006.
-      ♦     Employer
-                                                                           For the purposes set out above, we may disclose your personal
-If you provide inaccurate or incomplete information we may not be able     information to organisations outside Vantage FX. The organisations to
-to provide you with the products or services you are seeking.              which we disclose information may include:
-                                                                                 ♦     other product providers in order to manage or administer
-                                                                                       your product or service;
-Version Date 3.0
-Date Prepared: 12th March 2014
+                                             VANTAGE FX PTY LTD
+                                                ACN 140 903 886
+                           PRIVACY POLICY AND COLLECTION STATEMENT
+                                                   JULY 2018
+1.      INTRODUCTION
+Vantage FX Pty Ltd ACN 140 903 886 (referred to as Vantage, we, our, us) is bound by the Privacy
+Act 1988 (Privacy Act), including the Australian Privacy Principles (APPs) and recognises the
+importance of ensuring the confidentiality and security of your personal information.
+To the extent that it is necessary to do so Vantage also complies with the requirements of the EU
+General Data Protection Regulation (GDPR) as adopted by EU Member States. The AAPs and the
+GDPR Policy share many common requirements. Where an obligation imposed by the AAPs and the
+GDPR are the same, but the terminology is different, Vantage will comply with the terminology and
+wording used in the AAPs, and this will constitute Vantage’s compliance with the equivalent
+obligations in the GDPR.
+If the GDPR imposes an obligation on Vantage that is not imposed by the APPs, or the GDPR
+obligation is more onerous than the equivalent obligation in the APPs, Vantage will comply with the
+GDPR.
+All third parties (including clients, suppliers, sub-contractors, introducing brokers, or agents) that have
+access to or use personal information collected and held by Vantage must abide by this Policy and
+Collection Statement. Vantage makes this Policy and Collection Statement available free of charge
+and can be downloaded from its website www.vantagefx.com
+In this Policy and Collection Statement:
+     • Disclosure of information means providing information to persons outside of Vantage;
+     • Personal information means information or an opinion relating to an individual, which can be
+        used to identify that individual;
+     • Privacy Officer means the contact person within Vantage for questions or complaints
+        regarding Vantage’s handling of personal information;
+     • Sensitive information is personal information that includes information relating to a person's
+        racial or ethnic origin, political opinions, religion, trade union or other professional or trade
+        association membership, sexual preferences and criminal record, and also includes health
+        information; and
+     • Use of information means use of information within Vantage.
+2.      WHAT KIND OF PERSONAL INFORMATION DO WE COLLECT AND HOLD?
+We may collect and hold a range of personal information about you to provide you with our services,
+including:
+     • name;
+     • address;
+     • phone number
+     • date of birth;
+     • postal or email address; or
+     • phone numbers, including home, mobile and work;
+     • information relating to an individual’s income and source of wealth;
+     • occupation;
+     • credit card details;
+     • bank account details, including institution name, branch, account name, bank identifier, and
+        account number or IBAN;
+     • information relating to your trading experience;
 
 
-      ♦    compliance consultants to ensure that our representatives are    Personal information will be treated as confidential information and
-           meeting our compliance standards;                                sensitive information will be treated highly confidential. It is a legislative
-                                                                            requirement that we keep all personal information and records for a
-      ♦    mailing houses;
-                                                                            period of 7 years. Should you cease to be a client of ours, we will
-      ♦    your professional advisers, including your solicitor or          maintain your personal information on or off site in a secure manner for
-           accountant as authorised by you;                                 7 years. After this, the information will be destroyed.
-      ♦    information technology service providers to maintain, review
-           and develop our business systems, procedures and
-           infrastructure including testing or upgrading our computer
-           systems;
-      ♦    government and regulatory authorities and other                  Ensure Your Personal Information Is Correct
-           organisations, as required or authorised by law, for example,
-           to government or regulatory bodies for the purposes related      Vantage FX takes all reasonable precautions to ensure that the personal
-           to public health or safety, the prevention or detection of       information we collect, use and disclose is accurate, complete and up-to-
-           unlawful activities or to protect public revenue.                date. To ensure we can maintain this level of accuracy and completeness,
-      ♦    another authorised representative of Vantage FX if necessary;    we recommend that you:
-      ♦    a potential purchaser/organisation involved in the proposed
-           sale of our business for the purpose of due diligence,
-           corporate re-organisation and transfer or all or part of the
-                                                                                  ♦     inform us of any errors in your personal information as soon
-                                                                                        as possible; and
-           assets of our business.
-      ♦    where you have given your consent including your legal
-                                                                                  ♦     update us with any changes to your personal information as
-                                                                                        soon as possible.
-           advisers;
-      ♦    a new owner of our business that will require the transfer of
-           your personal information.
-                                                                            Access to Your Personal Information
-In addition, our employees and the outsourcing companies/contractors
-are obliged to respect the confidentiality of any personal information      You have a right to access your personal information, subject to certain
-held by Vantage FX.                                                         exceptions allowed by law. We ask that you provide your request for
-                                                                            access in writing (for security reasons) and we will provide you with
-                                                                            access to that personal information. Access to the requested personal
-Vantage FX takes its obligations to protect your information seriously,     information may include:
-this includes when we operate throughout Australia and overseas, as
-part of our operations some uses and disclosures of your information
-may occur outside your State or Territory and/or outside of Australia. In         ♦     providing you with copies;
-some circumstances we may need to obtain your consent before this                 ♦     providing you with the opportunity for inspection; or
-occurs.
-                                                                                  ♦     providing you with a summary.
-Our ability to enforce the Australian Privacy Principles or any other
-contractual privacy obligation against overseas recipients and to take      If charges are applicable in providing access to you, we will disclose these
-action in relation to any breach may be very limited and/or far less        charges to you prior to providing you with the information.
-effective than it would be if such recipients were Australian based. As
-Australian Privacy Principles may not be enforceable against or apply to    Some exceptions exist where we will not provide you with access to your
-overseas regulation we understand that you may choose not to                personal information if:
-disclosure your personal information to us. However, if you choose not
-to provide the information we require to fulfil your request for a specific
-product or services, we may not be able to provide you with the                   ♦     providing access would pose a serious threat to the life or
-requested product or service.                                                           health of a person;
-                                                                                  ♦     providing access would have an unreasonable impact on the
-In the event of that we propose to sell the business, we may disclose                   privacy of others;
-your personal information to potential purchasers for the purpose of              ♦     the request for access is frivolous or vexatious;
-them conducting due diligence investigations. Disclosure will be made in          ♦     the information is related to existing or anticipated legal
-confidence and it will be a condition of that disclosure that no personal               proceedings between us and would not be discoverable in
-information will be used or disclosed by them.                                          those proceedings;
-                                                                                  ♦     providing access would reveal our intentions in relation to
-                                                                                        negotiations with you in such a way as to prejudice those
-                                                                                        negotiations;
-How We Store and Secure Your Personal Information                                 ♦     providing access would be unlawful;
-                                                                                  ♦     denying access is required or authorised by or under law;
-We keep your personal information in your client file. These files are
-                                                                                  ♦     providing access would be likely to prejudice certain
-                                                                                        operations by or on behalf of an enforcement body or an
-accessible to authorised personnel only and are appropriately secured
-                                                                                        enforcement body requests that access not be provided on
-out of hours. Your personal information may also be held on our
-                                                                                        the grounds of national security.
-computer database. All computer-based information is protected
-through the use of access passwords. Data is backed up regularly and
-stored securely off site. Other measures taken are:                         Should we refuse you access to your personal information, we will
-                                                                            provide you with a written explanation for that refusal.
-      ♦    Confidentiality requirements for our employees
-      ♦    Security measures for systems access
-      ♦    Providing a discreet environment for confidential discussions
-Version Date 3.0
-Date Prepared: 12th March 2014
+     • identification documentation, as required under the Anti-Money Laundering and Counter
+        Terrorism Financing Act 2006 (“AML/CTF Act”), including:
+              o    passport;
+              o    driver’s licence;
+              o    national identity card;
+              o    utility bills;
+              o    trust deed;
+     • any other information that is relevant to the services that we provide.
+3.      HOW WE COLLECT PERSONAL INFORMATION
+We generally collect personal information directly from you. For example, personal information will be
+collected through our application processes, forms and other interactions with you in the course of
+providing you with our products and services, including when you visit our website, use a mobile app
+from us, call us or send us correspondence.
+We may also collect personal information about you from a third party, such as electronic verification
+services, referrers, marketing agencies, affiliates, friends or family members. If so, we will take
+reasonable steps to ensure that you are made aware of this Policy and Collection Statement. We may
+also use third parties to analyse traffic at our website, which may involve the use of cookies.
+Information collected through such analysis is anonymous.
+We will not collect sensitive information about you without your consent unless an exemption in the
+APPs applies. These exceptions include if the collection is required or authorised by law or necessary
+to take appropriate action in relation to suspected unlawful activity or serious misconduct.
+If the personal information we request is not provided by you, we may not be able to provide you with
+the benefit of our services, or meet your needs appropriately.
+We do not give you the option of dealing with them anonymously, or under a pseudonym. This is
+because it is impractical, and in some circumstances illegal, for Vantage to deal with individuals who
+are not identified.
+4.      UNSOLICITED PERSONAL INFORMATION
+We may receive unsolicited personal information about you. We destroy or de-identify all unsolicited
+personal information we receive, unless it is relevant to our purposes for collecting personal
+information. We may retain additional information we receive about you if it is combined with other
+information we are required or entitled to collect. If we do this, we will retain the information in the
+same way we hold your other personal information.
+5.      WHO DO WE COLLECT PERSONAL INFORMATION ABOUT?
+The personal information we may collect and hold includes (but is not limited to) personal information
+about:
+     • clients;
+     • potential clients;
+     • client’s agents;
+     • company directors and officers;
+     • trustees;
+     • partners;
+     • beneficial owners of the client;
+     • service providers or suppliers;
+     • prospective employees, employees and contractors; and
+     • other third parties with whom we come into contact.
+6.      WEBSITE COLLECTION
+                                                                                                    July 2018
 
 
-Using Government Identifiers                                               is saved on your hard disk by your computer's browser. It holds
-                                                                           information a site may need to personalise your experience and to
-                                                                           gather web site statistical data, such as which pages are visited, what is
-Although in certain circumstances we are required to collect government    downloaded, the internet provider's domain name and country that our
-identifiers such as your tax file number, Medicare number or pension       visitors come from and the addresses of sites visited immediately before,
-card number, we do not use or disclose this information other than         and after, coming to our site. However, none of this is associated with
-when required or authorised by law or unless you have voluntarily          you as an individual. It is measured only in aggregate. The information in
-consented to disclose this information to any third party.                 the cookies lets us trace your "click stream" activity (i.e., the paths taken
-                                                                           by visitors to our site as they move from page to page.) Cookies do not
-                                                                           capture your individual email address or any private information about
-                                                                           you.
-Dealing with us anonymously
-                                                                           We also use standard web server log files to help us count visitors and
-                                                                           evaluate our site's technical capacity. We use this information to find out
-You can deal with us anonymously where it is lawful and practicable to     how many people visit our site, help us arrange the pages in the most
-do so. For example, if you telephone requesting our postal address.        user-friendly way, keep the site browser-friendly, and to make our pages
-                                                                           more useful to our visitors. We record information on site traffic but not
-                                                                           information on individual visitors to our site, so no information about you
-                                                                           in particular will be kept or used.
-Your sensitive information
-                                                                           To browse without cookies, you can configure your browser to reject all
-                                                                           cookies, or to notify you when a cookie is set. (Each browser is different,
-Without your consent we will not collect information about you that        so check the "Help" menu of your browser to learn how to change your
-reveals your racial or ethnic origin, political opinions, religious or     cookie preferences.)
-philosophical beliefs or afflations, membership of professional or trade
-association, membership of a trade union, details of health, disability,
-sexual orientation, or criminal record.
-This is subject to some exceptions including:                              Spam Act
-      ♦     the collection is required by law; and                         Spam is a generic term used to describe electronic ‘junk mail’- unwanted
-                                                                           messages sent to a person’s email account or mobile phone. In Australia,
-      ♦     when the information is necessary for the establishment,       spam is defined as ‘unsolicited commercial electronic messages’.
-            exercise or defence of a legal claim.
-                                                                           ‘Electronic messaging’ covers emails, instant messaging, SMS and other
-                                                                           mobile phone messaging, but not cover normal voice-to-voice
-Complaints Resolutions                                                     communication by telephone.
-Please contact our Privacy Officer if you wish to complain about any       Vantage FX complies with the provisions of the Spam Act when sending
-breach or potential breach of your privacy rights. Your complaint will be  commercial electronic messages.
-responded to within 7 days. If you are not satisfied with the outcome of
-your complaint, you are entitled to contact the Office of the Australian
-Information Commissioner.                                                  Equally importantly, Vantage FX makes sure that our practices are in
-                                                                           accordance with the Australian Privacy Principles in all activities where
-                                                                           they deal with personal information. Personal information includes our
-                                                                           clients contact details.
-Our Website
-Vantage FX website provides links to third party websites. The use of      ‘Do Not Call’ Register
-your information by these third party sites is not within the control of
-Vantage FX and we cannot accept responsibility for the conduct of these
-organisations. Other websites are not subject to our privacy standards,    Unless you call 1300 945 517 and ask us not to contact you about
-policies and procedures. You will need to contact or review those          products or services and not to disclose your information to others for
-websites directly to ascertain their privacy stands, policies and          that purpose; by accessing our website www.vantagefx.com you consent
-procedures.                                                                to us contacting you by telephone while you hold any product or receive
-                                                                           any services from us notwithstanding registration at any time of your
-                                                                           telephone number on the ‘do not call’ register.
-You may register with us to receive newsletters and other information.
-By doing so, your name and email address will be collected and stored on
-our database. We take care to ensure that the personal information you
-give us on our website is protected. For example, our website has
-electronic security systems in place, including the use of firewalls and   Internal Procedure for dealing with communications
-data encryption.
-                                                                           The three key steps Vantage FX follows:
-If you do not wish to receive any further information from us, or you wish
-to update your registration details, please email your request to us. We
-will endeavour to meet your request within 5 working days.                       ♦     Consent – Only commercial electronic messages are sent with
-                                                                                       the addressee’s consent – either express or inferred consent.
-We may use cookie technology as part of our websites statistical
-reporting. A cookie is a small piece of information sent by a website that
-Version Date 3.0
-Date Prepared: 12th March 2014
+We collect personal information from our web site (www.vantagefx.com) when we receive emails and
+online forms. We may also use third parties to analyse traffic at that web site, which may involve the
+use of cookies. Information collected through such analysis is anonymous. Our website privacy policy
+can be accessed by clicking on the privacy button on our website.
+To use our web site, you must consent to our use of cookies. You can withdraw or modify your
+consent to our use of cookies at any time. If you no longer wish to receive cookies you can use your
+web browser settings to accept, refuse and delete cookies. To do this, follow the instructions
+provided by your browser. Please note that if you set your browser to refuse cookies, you may not be
+able to use some parts of our websites.
+Cookies do not contain personal information in themselves but can be used to identify a person when
+combined with other information. Cookies are small text files which are transferred to your computer’s
+hard drive through your web browser that enables our web site to recognise your browser and capture
+and remember certain information.
+We also use cookies to understand how users interact with our web site, to compile aggregate data
+about our web site traffic, including where our web site visitors are located, and interaction so that we
+can offer better user experiences.
+We will delete all data obtained through cookies every 90 days.
+We also use analytics on the Site. We do not pass any personally identifiable information through this
+function; however the data we collect may be combined with other information which may be
+identifiable to you.
+7.      WHY DO WE COLLECT AND HOLD PERSONAL INFORMATION?
+    We may use and disclose the information (excluding credit information) we collect about you for
+        the following purposes:
+    • provide you with our products and services;
+    • review and meet your ongoing needs;
+    • provide you with information we believe may be relevant or of interest to you;
+    • let you know about other products or services we offer, send you information about special
+        offers or invite you to events;
+    • consider any concerns or complaints you may have;
+    • comply with relevant laws, regulations and other legal obligations;
+    • help us improve the products and services offered to our customers and enhance our overall
+        business.
+We may use and disclose your personal information (excluding credit information) for any of these
+purposes. We may also use and disclose your personal information for secondary purposes which are
+related to the primary purposes set out above, or in other circumstances authorised by the Privacy
+Act.
+Sensitive information will be used and disclosed only for the purpose for which it was provided (or a
+directly related secondary purpose), unless you agree otherwise or an exemption in the Privacy Act
+applies.
+8.      WHO MIGHT WE DISCLOSE PERSONAL INFORMATION TO?
+We disclose personal information (excluding credit information) with our related entities and third
+parties that we outsource functions to or partner with, in certain limited situations where it’s necessary
+for us to provide our products and services or perform associated business activities. These entities
+and third parties include:
+    • a related entity of Vantage;
+    • an agent, affiliate, introducing broker, contractor or service provider we engage to carry out our
+        functions and activities, such as our lawyers, accountants, debt collectors or other advisors;
+    • organisations involved in a transfer or sale of all or part of our assets or business;
+    • organisations involved in managing payments, including payment merchants and other financial
+        institutions such as banks;
+                                                                                                   July 2018
 
 
-      ♦     Identify – Electronic messages will include clear and accurate
-            information about the person and the company that is
-            responsible for sending the commercial electronic message.
-      ♦     Unsubscribe – We ensure that a functional unsubscribe facility
-            is included in all our commercial electronic messages and deal
-            with unsubscribe requests promptly.
-Consented to such communications
-Commercial messages will only be sent to you when you have given
-consent. This may be express consent – a direct indication that it is okay
-to send the message, or messages of that nature or inferred consent
-based on our business or other relationship with you and your conduct.
-Comply with the law regarding viral messages
-Vantage FX ensures that Commercial Communications that include a
-Forwarding Facility contain a clear recommendation that the Recipient
-should only forward the Commercial Communication to persons with
-whom they have a relationship, where that relationship means that
-person could be said to have Consented to receiving Commercial
-Communications.
-Comply with the age sensitive content of commercial
-communication
-Where the content of a Commercial Communication seeks to promote or
-inspire interaction with a product, service or event that is age sensitive,
-the Vantage FX takes reasonable steps to ensure that such content is
-sent to Recipients who are legally entitled to use or participate in the
-product service or event.
-Contact Details
-Privacy Officer
-Vantage FX Pty Ltd
-Suite 405, 68 York Street,
-Sydney NSW 2000
-Phone:      1300 945 517
-Fax:        +61 2 9279 2652
-Email:      support@vantagefx.com
-Version Date 3.0
-Date Prepared: 12th March 2014
+    • regulatory bodies, government agencies, law enforcement bodies and courts;
+    • financial product issuers and credit providers; and
+    • anyone else to whom you authorise us to disclose it or is required by law.
+If we disclose your personal information to service providers that perform business activities for us,
+they may only use your personal information for the specific purpose for which we supply it. We will
+ensure that all contractual arrangements with third parties adequately address privacy issues and will
+make third parties aware of this Policy and Collection Statement.
+We may disclose the following personal information to CRBs, in order to comply with our obligations
+under the Anti-Money Laundering and Counter Terrorism Financing Act 2006 (Cth) (AML/CTF
+obligations):
+    • name;
+    • date of birth; and
+    • residential address.
+The purpose of disclosing this information is to enable us to verify whether the personal information
+collected matches the identification information held by the CRB. We may, upon request, provide you
+with an alternative method of verification, however, any alternative verification method must also
+comply with the AML/CTF legislation.
+9.     MANAGEMENT OF PERSONAL INFORMATION
+We recognise the importance of securing the personal information of our customers. We will take
+steps to ensure your personal information is protected from misuse, interference or loss, and
+unauthorised access, modification or disclosure.
+Your personal information is generally stored in our computer database. Any paper files are stored in
+secure areas. In relation to information that is held on our computer database, we apply the following
+guidelines:
+    •  passwords are required to access the system and passwords are routinely checked;
+    •  data ownership is clearly defined;
+    •  we change employees’ access capabilities when they are assigned to a new position;
+    •  employees have restricted access to certain sections of the system;
+    •  the system automatically logs and reviews all unauthorised access attempts;
+    •  unauthorised employees are barred from updating and editing personal information;
+    •  all computers which contain personal information are secured both physically and electronically;
+    •  data is encrypted during transmission over the network; and
+    •  print reporting of data containing personal information is limited.
+10.    DIRECT MARKETING
+We may only use personal information we collect from you for the purposes of direct marketing
+without your consent if:
+    • the personal information does not include sensitive information; and
+    • you would reasonably expect us to use or disclose the information for the purpose of direct
+       marketing; and
+    • we provide a simple way of opting out of direct marketing; and
+    • you have not requested to opt out of receiving direct marketing from us.
+If we collect personal information about you from a third party, we will only use that information for the
+purposes of direct marketing if you have consented (or it is impracticable to obtain your consent), and
+we will provide a simple means by which you can easily request not to receive direct marketing
+communications from us. We will draw your attention to the fact you may make such a request in our
+direct marketing communications.
+You have the right to request us not to use or disclose your personal information for the purposes of
+direct marketing, or for the purposes of facilitating direct marketing by other organisations. We must
+give effect to the request within a reasonable period of time. You may also request that we provide
+                                                                                                 July 2018
+
+
+you with the source of their information. If such a request is made, we must notify you of the source of
+the information free of charge within a reasonable period of time.
+11.    IDENTIFIERS
+We do not adopt identifiers assigned by the Government (such as driver’s licence numbers) for our
+own file recording purposes, unless one of the exemptions in the Privacy Act applies.
+12.    HOW DO WE KEEP PERSONAL INFORMATION ACCURATE AND UP-TO-DATE?
+We are committed to ensuring that the personal information it collects, uses and discloses is relevant,
+accurate, complete and up-to-date.
+We encourage you to contact us to update any personal information we hold about you. If we correct
+information that has previously been disclosed to another entity, we will notify the other entity within a
+reasonable period of the correction. Where we are satisfied information is inaccurate, we will take
+reasonable steps to correct the information within 30 days, unless you agree otherwise. We do not
+charge you for correcting the information.
+13.    ACCESSING YOUR PERSONAL INFORMATION
+Subject to the exceptions set out in the Privacy Act, you may gain access to the personal information
+that we hold about you by contacting the Vantage Privacy Officer. We will provide access within 30
+days of the individual’s request. If we refuse to provide the information, we will provide reasons for
+the refusal.
+We will require identity verification and specification of what information is required. An administrative
+fee for search and photocopying costs may be charged for providing access.
+14.    UPDATES TO THIS POLICY AND COLLECTION STATEMENT
+This Policy and Collection Statement will be reviewed from time to time to take account of new laws
+and technology, and changes to our operations and the business environment.
+15.    INCIDENTS/COMPLAINTS HANDLING/MAKING A COMPLAINT
+We have an effective complaints handling process in place to manage privacy risks and issues.
+The complaints handling process involves:
+    • identifying (and addressing) any systemic/ongoing compliance problems;
+    • increasing consumer confidence in our privacy procedures; and
+    • helping to build and preserve our reputation and business.
+You can make a complaint to us about the treatment or handling of your personal information by
+lodging a complaint with the Privacy Officer. More information about dispute handling procedure is
+available at https://www.vantagefx.com/company-profile/dispute-handling/
+If you have any questions about this Policy and Collection Statement, or wish to make a complaint
+about how we have handled your personal information, you can lodge a complaint with us by:
+    • writing – Privacy Officer, Vantage FX Pty Ltd, Level 29, 31 Market St, SYDNEY NSW 2000
+    • emailing – compliance@vantagefx.com
+If you are not satisfied with our response to your complaint, you can also refer your complaint to the
+Office of the Australian Information Commissioner by:
+    • telephoning - 1300 363 992
+    • writing - Director of Complaints, Office of the Australian Information Commissioner, GPO Box
+       5218, SYDNEY NSW 2001
+    • emailing - enquiries@oaic.gov.au
+                                                                                                  July 2018
+
+
+16.    CONTRACTUAL ARRANGEMENTS WITH THIRD PARTIES
+We ensure that all contractual arrangements with third parties adequately address privacy issues, and
+make third parties aware of this Policy and Collection Statement.
+Third parties will be required to implement policies in relation to the management of your personal
+information in accordance with the Privacy Act. These policies include:
+    • regulating the collection, use and disclosure of personal and sensitive information;
+    • de-identifying personal and sensitive information wherever possible;
+    • ensuring that personal and sensitive information is kept securely, with access to it only by
+       authorised employees or agents of the third parties; and
+    • ensuring that the personal and sensitive information is only disclosed to organisations which
+       are approved by us.
+17.      YOUR RIGHTS
+This Privacy Policy and Collection Statement contains information about how:
+    • you may access the personal information we hold about you;
+    • you may seek the correction of your personal information; and
+    • you may ask us to provide an alternative means of identity verification for the purposes of the
+       Anti-Money Laundering and Counter Terrorism Financing Act 2006 (Cth);
+    • you may complain about a breach of the Privacy Act, including the APPs; and
+    • we will deal with a privacy complaint.
+                                                                                                July 2018
