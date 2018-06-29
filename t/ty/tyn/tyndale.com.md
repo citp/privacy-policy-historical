@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119031055id_/https%3A//www.tyndale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629195209id_/https%3A//www.tyndale.com/privacy) for the most accurate reproduction.*
 
-# Tyndale.com: Privacy Policy
+# Tyndale | Privacy Policy
+
+Effective May 25, 2018
 
 Tyndale.com, the Internet site located at http://www.tyndale.com (the "Site"), is operated and maintained by Tyndale House Publishers ("Tyndale"). This Privacy Policy describes Tyndale's policies and procedures for the collection of personal information by this Site, and our use and dissemination of such information. If you do not feel comfortable with Tyndale's Privacy Policy, please do not use this Site or allow your children to use it.
 
@@ -14,13 +16,20 @@ I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER COLLECTION OF PERSONALLY I
 
 General. Personally identifiable information about visitors to this Site (that is, information such as a visitor's name, email address, mailing address, or telephone number) is collected only when knowingly and voluntarily submitted. Such information may be requested in connection with our sweepstakes, contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, guestbooks, requests for suggestions, visitors' requests for products or services, and visitors' requests for additional information. Tyndale does not require a visitor to disclose more information than is reasonably necessary to participate in the online activity he or she is interested in.
 
-Joint Collection of Personal Information. Sometimes Tyndale collects personal information jointly with business partners or sponsors. The identity of the entities collecting personal information will be clear at the time your personal information is collected.
+Joint Collection of Personal Information. Sometimes Tyndale collects Personal Information jointly with business partners or sponsors. The identity of the entities collecting Personal Information will be clear at the time your Personal Information is collected.
 
 WHAT TYNDALE DOES (AND DOESN'T DO) WITH THE PERSONAL INFORMATION WE COLLECT
 
 General. Tyndale uses personally identifiable information only for the purpose for which it is submitted unless we disclose other uses at the time of collection, in which case you will have the opportunity to instruct us not to use your data in other ways (i.e., "opt-out").
 
-Sharing Personal Information. Tyndale may share personally identifiable information with our affiliates or with some of our business partners who would like to send you information about their products or services. However, when we collect your information you will have the opportunity to instruct us not to share your information in these ways (i.e., "opt-out").
+Sharing Personal Information. Tyndale may share personally identifiable information in the following circumstances: 
+
+  * With our affiliates or with some of our business partners who would like to send you information about their products or services if we have your consent to do so. When we collect your information you will have the opportunity to instruct us not to share your information in these ways (i.e., "opt-out"). 
+  *   * With third parties (including our service providers and government entities) to detect, prevent, or otherwise address fraud, security, or technical issues.
+
+
+
+We may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant, or other lawful requests for information we receive, or to otherwise protect our rights.
 
 LINKS/CO-BRANDED SITES
 
@@ -40,15 +49,37 @@ Although the cookie itself does not collect any personally identifiable informat
 
 Tyndale does not save credit card information in a cookie.
 
+For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+
+Our Site can contain pixel tags, web beacons, and clear gifs embedded in web pages, videos, or emails, allow a web server to read certain types of information from your browser, check whether and when you have viewed a particular web page or email message, and determine, among other things, the IP address of your computer and the URL of the web page from which the pixel tag was viewed.
+
 You should consult your browser owner's manual for instructions on how to refuse cookies.
 
 REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION
 
-Visitors may review or delete personal information from our records at any time. If you would like to know the types of personal information Tyndale collects from visitors to the Site, please contact us using the form on our contact page (click [click here](https://web.archive.org/contact)) or write to us at Tyndale House Publishers Attn: Internet Group, 351 Executive Drive, Carol Stream, IL 60188. If you would like to know whether we have collected personal information about you, please provide us with the activities that you participated in on the Site, which requested personal information. After we have reviewed the relevant databases, we will confirm whether we have collected such information about you. Prior to changing or deleting such information, we require that you provide us with proof of your name and address, such as a valid driver's license. Once we have received such proof and determined that it is satisfactory, we will immediately delete or modify your information in our database and refrain from collecting any other personally identifiable information from you, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+Visitors may review or delete personal information from our records at any time. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by filling this form. According to the Privacy Shield Principles, the EU GDPR, and other applicable privacy laws, you have the right to:
+
+  * Know what Personal Information Tyndale has about you;
+  * Ensure your Personal Information is accurate and relevant for the purposes for which Tyndale collected it;
+  * Make your Personal Information portable to another data controller;
+  * Withdraw your consent to Tyndale processing your Personal Information; and
+  * Have your Personal Information erased.
+
+
+
+If you would like to review, correct, receive a copy of, or erase the Personal Information we have about you or withdraw your processing consent, please send us your request using our contact page ([click here](https://web.archive.org/contact)) or write to us at Tyndale House Publishers Attn: Internet Group, 351 Executive Drive, Carol Stream, IL 60188. Unless a legal exemption applies, we will respond to all such requests within thirty (30) days. If you would like to know whether we have collected personal information about you, please provide us with the activities that you participated in on the Site, which requested personal information. After we have reviewed the relevant databases, we will confirm whether we have collected such information about you. Prior to changing or deleting such information, we require that you provide us with proof of your name and address, such as a valid driver's license. Once we have received such proof and determined that it is satisfactory, we will immediately delete or modify your information in our database and refrain from collecting any other personally identifiable information from you, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, email address, and phone number. We refer to this information as “Order Information.” Your payment information is collected by our payment processor (Cybersource) and is not stored within our Site.
+
+When we talk about “Personal Information” in this Privacy Policy, we are talking about both Device Information and Order Information.
 
 SECURITY AND INTEGRITY OF PERSONAL INFORMATION
 
-Tyndale has established and maintains reasonable procedures to protect the confidentiality, security and integrity of personal information collected by this Site.
+Tyndale has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of Personal Information collected by this Site.
+
+We hold your Personal Information in a combination of hard copy and electronic files for the period necessary to support the Site, comply with our legal obligations, resolve disputes, or otherwise fulfill the purposes outlined in this Privacy Policy. Even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. We do not always remove or delete all of your non-personally identifiable account information for a number of reasons due to technical and systems constraints, or contractual, financial, or legal requirements.
+
+The security of your Personal Information is important to us. If Tyndale learns of a security breach that may affect your data, we will notify you electronically so that you can take appropriate protective steps. We may communicate with you electronically regarding security, privacy, and administrative issues related to your use of the Site.
 
 II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13 KIDS AND INTERNET SAFETY
 
@@ -85,3 +116,12 @@ Parents of children under age 13 may review or delete personal information about
 YOUR ACCEPTANCE OF THESE TERMS
 
 By using this site, you signify your assent to Tyndale House Publishers and Tyndale.com. If you do not agree to this policy, please do not use our sites. Your continued use of the Tyndale.com and affiliated sites after the posting of changes to these terms will mean you accept those changes.
+
+This privacy policy is subject to change without notice and was last updated on May 25, 2018.
+
+* * *
+
+  
+
+
+## Enter your email to opt out.
