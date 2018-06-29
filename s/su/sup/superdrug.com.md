@@ -1,207 +1,339 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607022211id_/http%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629100439id_/https%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Superdrug
 
-**Privacy Policy  
-. Information  
-. Your Consent To This Privacy Policy  
-. Information That We Collect About You  
-. How We Use Your Personal Data  
-. Marketing Messages  
-. Processing Your Information  
-. Where We Transfer And Process Your Information  
-. Protecting Your Personal Data  
-. Changes In Our Privacy Policy  
-. Your Rights And Who To Contact
+## SHORT VERSION
 
-Cookie Policy  
-. Introduction  
-. More Information About Cookies  
-. First Party Cookies  
-. Third Party Cookiesn  
-. Peerius Cookie Set  
-. External Website Cookies
+At Superdrug, we take privacy seriously.
 
-**
+The categories of personal data that we process depends on how you use our services. We use your personal data to provide our online services in alignment with your preferences, to process your requests, to contact you regarding products and services which may be of interest to you, to provide prize draws or competitions, or to carry out relevant administrative services. All personal data is processed in accordance with applicable data protection laws.
 
-## 1\. Introduction
+We only disclose your personal data to third parties that assist us with providing you with our services and, if you authorise us explicitly, to our affiliated companies for the purpose of customer relationship management, analytics and marketing.
 
-Superdrug Stores plc is committed to safeguarding your privacy and ensuring that your personal data is protected. This privacy policy applies to [www.superdrug.com](http://www.superdrug.com/) (the " **Site** ") and to personal data collected about you by Superdrug Stores plc (registered number 807043) of 51 Sydenham Road, Croydon Surrey, CR0 2EU, ("we", "us", or "our"). Superdrug Stores plc is a member of the AS. Watson group of companies (" **AS. Watson Group** ").
+With your consent we also use cookies for marketing, performance and statistical purposes.
 
-## 2\. Your Consent To This Privacy Policy
+As our valued customer, we also offer you various choices to control how your personal data is used. For example, if you would like to update your ‘cookie preferences’, click on the Cookie Consent Tool located at the bottom right of our website.
 
-By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term in this policy, please do not use the Site.
+In addition, if you have an electronic account with us (on the website or mobile app), you can update your contact information and your Privacy Preferences under the ‘My Account’ section. Alternatively, you can contact our Customer Team by phone - [03456 710 709](tel:+443456710709) (UK) or [1 890 949 899](tel:+3531890949899) (Republic or Ireland) or by sending an email to [help@superdrug.com](mailto:help@superdrug.com).
 
-## 3\. Information That We Collect About You
+If you would like more information about the processing of your personal data by us and on the cookies that we use, see below the full version of our Privacy Policy.
 
-In this privacy policy your "personal data" means information or pieces of information relating to you or that could allow you to be directly or indirectly identified.
+## LONG VERSION
 
-We may collect personal data about you from different sources, including collecting personal data: (i) from you directly; (ii) when you visit the Site; and (iii) from other sources.
+### Our Privacy Principles
 
-### _3.1 Types of personal data we collect from you directly_
+At Superdrug we have 5 Privacy Promises which explain how we use and look after your information. We will:
 
-We may collect personal data from you directly when you provide us with personal data so that you can register as a member of our loyalty program, register for prize draws or competitions, receive information or mailings, use Superdrug applications, buy a product or service from us, complete a survey, make a comment or enquiry, contact our customer services or for a variety of other reasons. Please be assured that we will not collect any personal data unless you provide this information voluntarily.
+1\. ALWAYS use your personal data in line with data protection law.  
+2\. ALWAYS tell you what information we collect, what we do with it, who we share it with and who to contact if you have any concerns.  
+3\. ALWAYS provide options to say 'STOP' if you don’t want marketing communications.  
+4\. ALWAYS take steps to protect your information and make sure no unauthorised person accesses it.   
+5\. ALWAYS respond to questions about your personal data without delay.
 
-The types of data we may collect from you directly include your:  
-• name;  
-• postal address;  
-• email address;  
-• home telephone number or mobile number;  
-• loyalty card number;  
-• passwords;  
-• order history/wishlist;  
-• payment history;  
-• age;  
-• date of birth;  
-• gender.
+### Our Privacy Policy
 
-### _3.2 Types of personal data we collect when you visit the Site (cookies)_
+Last Updated: April 2018
 
-We use cookies and similar technologies to collect data about you when you visit the Site. We use cookies on our Site. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our Site before. We use cookies to give you the best possible experience on our Site. If you would like more information about the types of cookies we use and how we use them, please read our Cookies Policy. The types of data we may collect from you when you visit the Site include:  
-• information about the type of browser you use;  
-• details of the web pages you have viewed;  
-• your IP address;  
-• the hyperlinks you have clicked; and  
-• the websites you visited before arriving at our Site.
+We are committed to safeguarding your privacy rights and ensuring that your personal data is protected.
 
-### _3.3 Types of personal data we collect from other sources_
+This Privacy Policy explains the types of personal data we collect and how we process and protect that data in connection with the services we offer. This includes information collected **offline** in our stores or through our customer services, and **online** through our websites, applications (including mobile apps) and third party platforms **(“Sites”)**.
 
-We may receive personal data about you from other sources, which could include commercially available sources, such as public databases and data aggregators to the extent permitted by applicable Data Protection Laws.
+This Privacy Policy also applies to our targeted content, including online offers and advertisements for products and services, which you may see on third party websites, platforms and applications **(“Third Party Sites”)** based on your online activity. These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites.
 
-The types of data we may collect from such sources include:  
-• name;  
-• street address;  
-• age;  
-• your shopping habits;  
-• preferences and information about your lifestyle such as your hobbies and interests; and  
-• publicly available information such as user-generated content, blogs and postings
+#### 1  
+Who is responsible for what happens with your data?
 
-## 4\. How We Use Your Personal Data
+Superdrug Stores plc ("Superdrug" or “we”) are responsible for processing your personal data on our Sites. Superdrug is a member of the A.S. Watson group of companies (“ASW Group”), which is part of the multinational conglomerate CK Hutchison Holdings Limited (“CK Hutchison”).
 
-Subject to your prior consent where required under applicable Data Protection Laws, we may use your personal data:  
-• to process your application;  
-• to provide the services;  
-• to respond to your queries or comments;  
-• for the purposes of promotion, prize draws or competitions that you have entered;  
-• to send you products or samples that you have requested;  
-• to evaluate the use of our Site, products and services and understand your browsing and shopping habits;  
-• to make product recommendations to you;  
-• to carry out analytics and market research;  
-• to analyse the effectiveness of our advertisements;  
-• to profile your purchases of products (including health products both in store and online;  
-• to prevent or detect fraud or other crimes and/or verify your identity;  
-• to verify/check your credit/payment status; and  
-• to process payment instructions.
+#### 2  
+How do I contact the Data Protection Officer?
 
-We may supplement the personal data you provide to us with other information that we hold or that we may receive from third parties. We do this for marketing purposes to provide you with more targeted products and services.
+If you have a question in relation to how we process your personal data you can contact our Data Protection Officer via email [dataprotectionofficer@superdrug.com](mailto:dataprotectionofficer@superdrug.com) or via post at Group Information Security, 17 Nijborg , 3927 DA Renswoude, The Netherlands.
 
-## 5\. Marketing Messages
+#### 3  
+What is Personal Data?
 
-We may send you, by post, email or push notification, details of products, services, special offers, promotions and other information that we think may be of interest to you based on your previous purchases and information you have given to us. Third parties may also, working on our behalf, market to you via social media channels. From time to time we may also contact you for customer research purposes. You can unsubscribe from such communications at any time, by changing your communication preferences in the 'My Account' section of the Site, via the unsubscribe link that you will find at the bottom of every marketing email we send or by contacting the Superdrug Customer Team on 03456 710 709 or by email at [help@superdrug.com](mailto:help@superdrug.com). However if you do unsubscribe you may miss out on some great offers.
+Personal Data means information that can directly or indirectly identify you (" **Personal Data** "). This typically includes information such as your name, address, email address, and telephone number, but can also include other information such as IP address, shopping habits, information about your health and information about your lifestyle or preferences such as your hobbies and interests. Information about health are called “special categories of Personal Data” that require special protection because of their sensitivity.
 
-### _Email a friend_
+#### 4  
+What happens when you provide us with your Personal Data or when we otherwise receive your personal data?
 
-We may from time to time operate a 'refer a friend' or 'email a friend' service to enable you to easily recommend a product, offer or other information to a friend. If you use this facility please ensure that you have obtained your friend's consent before you provide us with their personal data. When we contact the friend we will always tell them the name and email address of the person who made the referral. We will not use your friend's information for any other purpose unless they consent to us doing so.
+We collect your Personal Data directly in a number of ways, for example when you provide us with your information to register as a customer for our Sites or as a Health & Beautycard member, register for prize draws or competitions, subscribe to our newsletter, receive information or mailings, use our applications, buy a product or service from us, complete a survey, complete a beauty or health diagnostic test, make a comment or enquiry or contact our Customer Team.
 
-## 6\. Processing Your Information
+When you provide us with your Personal Data, we will process it in accordance with this Privacy Policy. If you do not wish us to process your Personal Data in this way, please do not provide us with your personal information.
 
-We may share your personal data with or pass it onto other companies within the AS. Watson Group and third parties which directly support our promotional activities and Site administration. We may use third parties to help us process and analyse your personal data, to give us insights that we can use to improve our products and services, and to track the effectiveness of a particular promotion or campaign. Also, if you order a product or service from us, we may share your personal data with our suppliers and other third parties to allow delivery of the products and services you have ordered. Any such suppliers or third parties are not authorised by us to use your personal data in any other way and will be required by us to implement measures to protect your personal data. Please note that we may need to disclose your personal data if we are required to do so by law, or by a warrant, subpoena or court order.
+We may also receive your Personal Data from other sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties. If you do not want us to receive your Personal Data from other sources, please communicate your preferences directly with the relevant sources.
 
-We will delete your personal data when there has been no activity on your account for 3 years.
+We process your Personal Data to provide you with our services as further explained below. In certain instances, we only process your Personal Data if you have given us permission to do so, for example in most cases where we process your Personal Data for marketing purposes, use cookies or location data or where we process your sensitive personal information. In other instances we may rely on other legal grounds for processing your personal data, such as performance of the contract with you or legitimate interests, like fraud prevention.
 
-## 7\. Where We Transfer And Process Your Information
+If you become a Health & Beautycard member, we may infer in a transparent manner that you would like us to process your Personal Data for marketing purposes. You can always opt out of marketing communications without detriment to your loyalty benefits.
 
-We may need to transfer your personal data to a location outside of the European Economic Area ("EEA"), including to countries that do not offer the same level of protection with respect to personal data as required in the EEA, on a need-to-know basis for analysis and administrative purposes. By subscribing to and using our services, you acknowledge and consent to these potential transfers. We will ensure that we will place obligations on the recipient of the data to provide an adequate level of protection to the standard as required in the EEA.
+Where we process your Personal Data on the basis of your consent, we will ask for your consent explicitly and only for a particular purpose. We will also ask you to provide additional consent if we need to use your Personal Data for purposes not covered by this Privacy Policy.
 
-## 8\. Protecting Your Personal Data
+Please refer to the table in Section 6.1 for details of the various types of Personal Data we may collect, the relevant purposes and the legal basis for such processing.
 
-We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing.
+#### 5  
+What happens if our customer is a child?
 
-The Site may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit.
+Our Sites are intended for adults, but there could be instances where some customers under the age of 13 view or purchase products on our Sites. If we know a customer is under the age of 13, we will not use such customer’s Personal Data for marketing purposes unless parental consent is provided to us.
 
-## 9\. Changes In Our Privacy Policy
+To provide parental consent to marketing, please ask your parent or guardian to call or write to the Customer Team.  (Phone: [03456 710 709](tel:+443456710709) (UK) or [1 890 949 899](tel:+3531890949899) (Republic or Ireland) or email: [help@superdrug.com](mailto:help@superdrug.com))  (applicable to Health & Beautycard or online account members only).
 
-We may change this privacy policy from time to time by posting the updated version of the privacy policy here. We encourage you to visit this area frequently to stay informed.
+In some cases, we will infer from your actions that you obtained parental consent. We then reserve the right to decide whether you will receive our marketing until you reach the eligible age.
 
-**This privacy policy was last updated on July 2016.**
+Note however that access to certain parts of our Sites and/or eligibility to receive prizes, samples or other rewards may be limited to users over a certain age. We may use your Personal Data to carry out age verification checks and enforce any such age restrictions.
 
-## 10\. Your Rights And Who To Contact
+#### 6  
+For which purposes do we process your Personal Data?
 
-Please do not hesitate to contact us if you have any questions, comments or concerns about this privacy policy. You have the right to tell us if you:  
-• don't want to be contacted in the future by us;  
-• would like a copy of the personal data which we hold about you;  
-• would like us to correct or update your personal data in our records;  
-• wish to report any violations of the privacy policy.
+##### 6.1 To see which categories of Personal Data we collect for which purposes, click on the headings below:
 
-You can send an email to Superdrug Customer Team on [help@superdrug.com](mailto:help@superdrug.com), you can also call our helpline on 03456 710 709 or write to us at: Superdrug Stores plc, 51 Sydenham Road, Croydon Surrey, CR0 2EU, United Kingdom.
+**What personal information may we collect?**
 
-## Superdrug Stores plc Cookies Policy
+Information about the type of browser you use when visiting our Sites, your IP and device address, hyperlinks that you have clicked, websites you visited before arriving at our Sites and information collected by cookies or similar tracking devices. Your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the "Like" functionality on Facebook).
 
-## 1\. Introduction
+**What is the Purpose of the processing?**
 
-**1.1** We use cookies on our Site. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. We use cookies to give you the best possible experience on our Site. This Cookies Policy gives you more details on the cookies used on our Site.
+We (and third party service providers acting on our behalf) use cookies and similar technologies to process data about you when you visit our Sites. We would like to know whether you have visited us before and your preferences to provide you with a tailored experience of our Sites.
 
-**1.2** You can disable the cookies from your browser at any point in time and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the Site and being able to make any purchases from the Site. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting www.allaboutcookies.org. To make full use of the online shopping and personalised features on our Site, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised and essential features of the Site by using them.
+**How long do we store your Personal Data?**
 
-## 2\. More Information About Cookies
+Please check the Cookie Consent Tool to learn about the storage periods for each cookie.
 
-**2.1** Our Site uses cookies for the following purposes:  
-• To remember your language and country preferences on the Site;  
-• To remember what items you put in your basket on your last visit, so that we can keep your basket contents for you if you did not buy them; and  
-• To track customer behaviour such as the pages visited on your way through the Site, and the rate of basket abandonment. This helps us to improve the Site and your browsing experience.
+**What is our legal basis for the processing?**
 
-**2.2** We do not use cookies or other tracking technologies to collect information from, or to store information on, your personal computer or other device used to visit our Site, or to track your online activities when you are not on our Site.
+Your consent when you click “agree and proceed” in our Cookie Consent Tool in our Sites. In some cases, and always when permitted by law, we will infer from your actions that you agree to Cookies. Please note that we need to process certain basic surfing data in order to provide core Sites functionalities such as secure log-in or remember how far you are through an order.
 
-**2.3** Our Site also uses some third-party tools such as Google Analytics and Facebook and these third-parties may also place cookies via our Site.
+You can always revisit your cookie preferences via our Cookie Consent Tool or by changing your browser settings.
 
-**2.4** Here is a full list of the cookies used on our Site. Please note that:  
-• some cookies are set by our Site (‘first party cookies’) and some are set by others such as Google and Facebook (‘third party cookies’); and  
-• some cookies are removed from your computer when you close your browser. These are called 'session cookies'. Others stay on your computer for longer, until they expire after a fixed time. These are called 'persistent cookies', and can be used to store information between your browsing sessions, such as your preferred settings on a website, or the items that you added to your basket on your last visit.
+**What Personal Data may we collect?**
 
-## 3\. List Of Cookies Used On Our Site
+Name, title, postal address, email address, home telephone, mobile number, Health & Beautycard number, passwords, order history, payment history, payment information (i.e. bank or credit card details), order history/ wishlist, age/date of birth, gender, information on the handling of your request (including information relating to prescription or pharmacy medicines and other medicine or beauty products that you order), and other Personal Data you voluntarily provide to us.
 
-**SUPERDRUG.COM**  
----  
-**FIRST-PARTY COOKIES**  
-**Cookie** | **Originating Page** | **Used by** | **Essential for Checkout?** | **Expiry**  
-LoginToken | Homepage | Platform | NO | 1 day  
-acceleratorSecureGUID | Homepage | Platform | NO | End of session  
-bvf_(client checksum) |   | Platform | NO | Session  
-BVImpl |   | Platform | NO | Session  
-StarBuysDisplay |   | Platform | NO | 7 days  
-acceptance |   | Platform | NO | 1 day  
-_ga | First GA-enabled page viewed | A cookie used by Google Analytics to distinguish users and allow us to measure and analyse how our customers use the site and improve the experience. | NO | 2 years  
-_gat_UA | First GA-enabled page viewed | A cookie used by Google Analytics to control and limit the number of requests that have to be made to GA. | NO | 10 minutes  
+**What is the Purpose of the processing?**
+
+We process Personal Data to provide you with our products or services that you request from us, including sending you products you have purchased or samples that you have requested.
+
+**How long do we store your Personal Data?**
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period.
+
+**What is our legal basis for the processing?**
+
+We need this information to process your order or any other service you request from us (performance of a contract). If we need information about you that is considered sensitive (e.g. information on your health for medication) we will inform you in a transparent manner about our legal obligations to process such personal data.
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, home telephone, mobile number, Health & Beautycard number, passwords, order history, payment history, payment information (i.e. bank or credit card details), order history/ wishlist, age/date of birth, gender, information on the handling of your query, posts and other content you submit to our Sites, and further information submitted by you in relation to a purchase or service request or other query (including sensitive personal information).
+
+**What is the Purpose of the processing?**
+
+We process your Personal Data whenever you contact us and when we respond to your enquries and comments.
+
+**How long do we store your Personal Data?**
+
+General enquiries and comments relating to service issues, store standards, stock availability etc. three years from last communication with you. Communications relating to personal injuries, accidents and other health and safety issues may need to be kept for a longer period in case of legal claims or settlements.
+
+**What is our legal basis for the processing?**
+
+To process your enquiries, comments or complaints at your request (performance of a contract or quasi-contract).
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, mobile number, Health & Beautycard number, order history/wishlist (including purchases you make on our Site, mobile app, in-store or pharmacy), payment history, age, date of birth, gender, products you view on our Site, brands you prefer, favourite store, actions you take on our website or when viewing our emails, answers you provide in surveys or competitions, your shopping habits and preferences and information about your lifestyle, such as your hobbies and interests.
+
+**What is the Purpose of the processing?**
+
+To suggest tailored products or services (including those of relevant third parties) that we think may be of interest to you based on your shopping history and behaviour, your preferences, and our market segmentation strategies. We may do this by sending you - via post, email, newsletter, SMS, push notifications or phone - details of products, services, special offers, promotions and other information. We may also contact you to offer the opportunity to take part in customer research surveys, promotions, prize draws or competitions. You may also receive in-store promotions (such as special coupons) from us when you have an account with us or are a Health & Beautycard member.
+
+**How long do we store your Personal Data?**
+
+As long as you keep shopping with us. If you are a Health & Beautycard member and after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by the law to store it for a longer period. If you purchase online through guest check-out, we will retain your data for one year from the date of transaction. If you have signed up to any of our newsletters, we will retain your Personal Data until you unsubscribe.
+
+**What is our legal basis for the processing?**
+
+You may authorise us to do so if you become a Health & Beautycard member by accepting our Terms & Conditions (performance of a contract).
+
+If you are not a Health & Beautycard member, you will authorise us by signing up to our newsletters or creating an online account.
+
+If you purchase online through guest check-out we will contact you with related offers based on legitimate interest and always within the limits of the law, including spamming laws.
+
+You can always opt-out of our marketing via your "Privacy Preferences" in your profile (if you have one), by calling our Customer Team or via the unsubscribe button in any our marketing communications.
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, home telephone or mobile number, age, date of birth, gender, user generated content or any other Personal Data that you submit – as required for the competition or prize draw.
+
+**What is the Purpose of the processing?**
+
+To carry out prize draws or competitions which you chose to participate in and to determine the winner or to provide the prize if you win.
+
+**How long do we store your Personal Data?**
+
+Three months after the competition or game was completed, unless we are required by law to store them for a longer period.
+
+**What is our legal basis for the processing?**
+
+We may need this information for identification purposes and to provide you with the prize if applicable (performance of a contract). Where we intend to use your personal data for marketing purposes, we will clearly inform you before we collect your personal data and ask you for your consent.
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, home telephone or mobile number, information about products you order, (including health products or medicines if you order from our online pharmacy), order history, details about your purchase, payment information, payment history, age.
+
+**What is the Purpose of the processing?**
+
+To process your online purchase and deliver the product to you as ordered. Your payment related Personal Data may be transferred to payment providers to process your payments.
+
+**How long do we store your Personal Data?**
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period. If you check out as a guest, we will retain your Personal Data for one year from the date of transaction.
+
+**What is our legal basis for the processing?**
+
+We need this information to provide you with your online order (performance of a contract). For processing of information about health and beauty or diagnostic data (your consent).
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, home telephone or mobile number, information about products you order using your Health & Beautycard (including health products or medicines if you order from our online pharmacy), transactions relevant for the Health & Beautycard programme account status and details regarding points collected and redeemed, payment information (i.e. bank details), payment history, age.
+
+**What is the Purpose of the processing?**
+
+To provide you with all services under the Health & Beautycard programme including exclusive offers and points schemes.
+
+**How long do we store your Personal Data?**
+
+As long as you are a Health & Beautycard member. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by law to store it for a longer period.
+
+**What is our legal basis for the processing?**
+
+By signing up to Health & Beautycard you authorise us to process your personal data to provide you with all services under the Health & Beautycard programme (performance of a contract).
+
+**What Personal Data may we collect?**
+
+Name, title, postal address, email address, home telephone or mobile number, information about health or diagnostic data, NHS number (UK only), payment information (i.e. bank details), payment history, age.
+
+**What is the Purpose of the processing?**
+
+To carry out administrative services, including processing any application you submit to us for providing the services, preventing or detecting fraud or other crimes, verifying your identity and credit/payment status, or processing payment instructions. Your payment related Personal Data may be transferred to payment providers to process your payments or the police for fraud prevention purposes.
+
+**How long do we store your Personal Data?**
+
+As long as you keep shopping with us. If after three years, you have no transactions, we delete or anonymise your Personal Data, unless we are required by the law to store them for a longer period.
+
+**What is our legal basis for the processing?**
+
+For the prevention and detection of fraud to ensure that your identity and transactions are secured (balancing of interest with our interest being to prevent fraud and protect our customers).
+
+We perform other administrative services to provide you with the respective underlying services (performance of a contract).
+
+When you visit our Sites you may access services which are provided on third party websites (for example, the Superdrug Online Doctor and Superdrug Online Opticians). In this instance these third parties will be responsible for your Personal Data and will act as Data Controller in respect of your Personal Data.
+
   
-## Third Party Cookies
 
-**THIRD-PARTY COOKIES**  
----  
-**Cookie** | **Origin ating Page ** | **Description** | **Essential for Check out? ** | **Expiry**  
-__utma | First GA-enabled page viewed | The unique ID for the Customer used to track repeat visits. | NO | 2 years  
-__utmb | First GA-enabled page viewed | Used by ga.js to determine the Customer's session information. | NO | 30 minutes  
-__utmc | First GA-enabled page viewed | Used by ga.js to determine the Customer's session information. | NO | Session  
-___utmv | First GA-enabled page viewed | Used only if custom variables are set to report on the particular data that it is configured to gather (e.g., a custom demographic). | NO | 2 years  
-___utmx | First GA-enabled page viewed | Used only if Website Optimizer is installed and correctly configured. When the optimizer script executes, this cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on the Client's Site. See Website Optimizer Help Centre for more information. | NO | 2 years  
-__utmz | First GA-enabled page viewed | Stores the referral information for the Customer; e.g. whether they found the page by a search engine result, direct link, ad, etc. | NO | 6 Months  
-DS3 |   | Cookie set by DoubleClick. DoubleClick uses cookies to target advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen. | NO | End of session  
-BVID |   | Allows internal BV (Bazaar Voice) web analytics to be correlated to the same user for interactions across the BV network. | NO | 18 months  
-BVSID |   | Allows internal BV web analytics to be correlated to the same user browsing session for interactions across the BV network. | NO | 30 minutes of inactivity  
-aw2026 | *.awin1.com | Click cookie set during transition from click on an affiliate publisher sites to a page on superdrug.com. This cookie contains: the publishers ID, a unix timestamp and information on any banners which the click originated from. | NO | 30 days  
-optimizelybuckets |   | Cookie set by the Optimizely website optimisation plaftform. Used to store the page variants assigned to a user for A/B performance testing. This ensures the visitor gets a consistent experience and sees the same variation, even over multiple sessions. | NO | 10 years  
-optimizelyEndUserId |   | Cookie set by the Optimizely website optimisation plaftform to store a visitor’s unique user identifier. | NO | 10 years  
-optimizelySegments |   | Cookie set by the Optimizely website optimisation plaftform. It holds audience segmentation information for a visitor including browser, campaign, mobile, source type, and any custom dimensions that may be configured. | NO | 10 years  
-__atuvc |   | This cookie is associated with the AddThis social sharing widget which enables visitors to see an updated count if they share a page and return to it before the website count cache has updated. It stores an updated page share count. | NO | 2 years  
-__zlcmid |   | Allows Zopim to provide online live chat services. This cookie stores Zopim Live Chat ID and identify a device across visits, and also across a single chat session. | NO | 1 year  
-  
-## Peerius Cookie Set
 
-**Peerius Cookie Set**  
----  
-**Data stored and/or accessed <TAG> ** | **Function** | **Who sets the cookie?** | **Duration** | **Intrusive ness**  
-Peerius_user | Stores the cookie ID of the visitor as a string of numbers and sticks to the user’s browser until the cache is cleared. Allows recognition across visitor sessions to help understand returning visitor to provide a more relevant personalised experience. | Retailer | Indefinite | Moderately intrusive  
-Peerius_sess | Session Cookie, gathers information on the visitors current session to provide a better visitor experience for that visit | Retailer | Expires after 4 hours of inactivity | Moderately Intrusive  
-Peerius_rid | If a user clicks a recommendation, this holds the id for the clicked recommendation. This cookie lives for a few seconds. When the user clicks a recommendation, our JavaScript adds the cookie. When the next page is loaded, our JavaScript reads the cookie and sends it to our server so that our server is aware of the click. | Retailer | Few seconds | Minimally intrusive  
-Peerius_ct | A temporary cookie used to check if the user has cookies enabled | Retailer |   | Exempt  
-  
-**This cookie policy was last updated on February 2017.**
+##### 6.2 Cookies and Similar Technologies
+
+We use cookies and similar technologies (“Cookies”) to improve our products and your experience on our Sites by collecting information on how you use our Sites. Some of the Cookies we use are required to enable core site functionality, for example to provide secure log-in or to remember how far you are through an order, but we also use Cookies that allow us to analyse site usage (so we can measure and improve performance), and advertisement Cookies which are used by advertising companies to serve ads that are relevant to your interests.
+
+We may also tailor our Sites and our products to your interests and needs, by collecting information about your device and linking this to your Personal Data so as to ensure that our Sites present the best web experience for you.
+
+Where we use Google Analytics, we have set up the service to anonymise your IP address as soon as data is received by the Analytics Collection Network  <https://support.google.com/analytics/answer/2763052?hl=en>  , before any storage or processing takes place. To opt out of being tracked by Google Analytics across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
+
+You can view more information on the Cookies we use and adjust your preferences via the Cookie Consent Tool on our Sites. Please note, however, that without cookies you may not be able to use all of the features of our Sites or online services.
+
+#### 7  
+Who do we share your Personal Data with?
+
+##### 7.1 Our Service Providers
+
+We share your Personal Data with the following data processors (i.e. service providers that help us to perform the above tasks):
+
+  * relevant companies of the ASW Group and subsidiaries of CK Hutchison for the purposes of Customer Relationship Management and analytics, in particular with A.S. Watson (Health & Beauty UK) Limited.
+  * relevant companies of the ASW Group and trusted third parties which directly support our promotional activities, Sites administration and the Health & Beautycard programme, in particular A.S. Watson (Health & Beauty Continental Europe) B.V. for IT management (hosting, maintenance and test).
+  * trusted third parties to help us process and analyse your Personal Data for us, to support us when suggesting products & services which may interest you in line with Section 6.1 above.
+  * if you order a product or service from us, trusted third parties to allow payment and delivery of the products and services you have ordered.  Unless you provided consent, any such trusted third parties are not authorised by us to use your Personal Data in any other way and will be required by us to implement adequate technical and organisational measures to protect your Personal Data.
+
+
+
+These processors are bound by us to strict requirements as required under applicable data protection laws to only handle your Personal Data for us and to comply with high IT security standards.
+
+##### 7.2 Other Recipients
+
+We share your Personal Data with the following third parties that process your Personal Data for their own purposes (i.e. these third parties are no processors; they rather use your Personal Data because they have their own interest or because you had consented):
+
+  * interested third parties (that are not relevant companies of the ASW Group and subsidiaries of CK Hutchison) that will send you marketing, but only if you consented to receive such communications from them.
+  * law enforcement or other agencies if we are required to do so by law, or by a warrant, subpoena or court order to disclose your Personal Data.
+
+
+
+Please note that we never share your Personal Data with social media platforms. When we engage in audience building or customer matching activities with social media platforms like Facebook or Google, your Personal Data is always anonymised before the transfer. If there are any changes in the future and we have to share your Personal Data with a social media platform, we will ask for your consent.
+
+##### 7.3 Sharing your Site Usage Information
+
+With your consent, we will share Site usage information with trusted third parties (e.g. advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content which may be of interest to you based on your prior activity on our Site. These trusted third parties may set and access their own Cookies, web beacons and similar tracking technologies on your device in order to help us deliver customised content and advertising to you when you visit our relevant Sites. Please see Section 6.2 for more information about Cookies and how to opt out.
+
+You can also visit the website www.youronlinechoices.com to choose which companies can deliver customised advertisements.
+
+Please note that even if you opt out, you may still receive advertisements from us that are not customised based on your Site usage information.
+
+#### 8  
+To which countries do we transfer your Personal Data?
+
+Many of our trusted third parties and ASW Group companies and CK Hutchison companies are based in countries that provide an adequate level of data protection, such as the European Economic Area.
+
+We also transfer your data to Ukraine (where our web development team sits), USA and India (where some of our suppliers have back office services), and Canada (where some of our suppliers that provide us with data analytics and personalisation services are located).
+
+When we need to transfer your Personal Data to a trusted third party or ASW Group or CK Hutchison company based in a country where data protection laws are considered not to offer the same level of protection, we ensure adequate data protection safeguards by relying on other legitimate means, such as the Privacy Shield certification and/or Standard Contractual Clauses.
+
+More details on the transfer mechanism can be obtained from our Data Protection Officer (see contact details in Section 2).
+
+#### 9  
+How long do we process your Personal Data?
+
+We will store your Personal Data only until the aforementioned purposes for which we have collected or received your Personal Data are fulfilled and once our statutory obligations to preserve records have expired as further described in Section 6.1.
+
+#### 10  
+What are your rights?
+
+If certain requirements are fulfilled, you have the right to:
+
+  * Obtain from us confirmation as to whether or not we process Personal Data from you and, where that is the case, access to your Personal Data;
+  * Rectification of inaccurate Personal Data;
+  * Erasure of Personal Data;
+  * Objection to the processing of Personal Data;
+  * Restriction of processing of Personal Data; and
+  * Portability of Personal Data - receive the Personal Data you have provided to us in a structured, commonly used and machine-readable form and transmit it to another data controller.
+
+
+
+You can learn more about these rights here: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>. To exercise your rights, please contact the Data Protection Officer (see Section 2 for contact details) or get in touch with our Customer Team on the details set out below.
+
+Note that you do not need to contact our Data Protection Officer to excerise your rights to stop receiving marketing communications from us. You can opt out of receiving such communications by going to the Privacy Preferences section of your ‘My Account’ if you have an account with us, directly from the communications we send you or by contacting our Customer Team by phone - [03456 710 709](tel:+443456710709) (UK) or [1 890 949 899](tel:+3531890949899) (Republic or Ireland) or by sending an email to [help@superdrug.com](mailto:help@superdrug.com)
+
+#### 11  
+Can you withdraw your consent to the processing of personal data?
+
+Where your consent is the legal basis for the processing of your Personal Data, you can withdraw your consent for:
+
+  * Marketing communications: by logging into your account under Privacy Preferencesor using the unsubscribe link in any of our marketing communications.
+  * Use of Cookies: via our Cookie Consent Tool at the bottom of our Sites.
+  * Other purposes: by sending us an email to [dataprotectionofficer@superdrug.com](mailto:dataprotectionofficer@superdrug.com) or by contacting our Customer Team as detailed in Section 10.
+
+
+
+Please note that withdrawing your consent will not affect the lawfulness of the processing before the withdrawal.
+
+#### 12  
+Can you complain with the data protection authorities?
+
+If you think that the processing of Personal Data by us violates data protection laws, you can lodge a complaint with the Information Commissioner in the UK (www.ico.org.uk) or the Data Protection Commissioner in the Republic of Ireland (www.dataprotection.ie).
+
+#### 13  
+How do we protect your Personal Data?
+
+We maintain appropriate technical and organisational measures to protect the Personal Data you provide to us against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to your Personal Data.
+
+#### 14  
+Can we change our Privacy Policy?
+
+We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy here. We encourage you to visit this area frequently to stay informed.
