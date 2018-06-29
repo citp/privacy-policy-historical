@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gocricket.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005156id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocricket.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629022913id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cricbuzz.com
+
+## Privacy Policy
 
 #### Introduction
 
@@ -115,7 +117,7 @@ HN Plaza,100 Ft Ring road,
 6th Main, BSK 3rd Stage,  
 Bangalore . 560085, INDIA  
 Ph: 080-40965631  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0661746f6370676865634665746f6564737c7c2865696b)
+Email: [grievance@cricbuzz.com](mailto:grievance@cricbuzz.com)
 
 We request you to please provide the following information in your complaint:
 
@@ -125,5 +127,167 @@ We request you to please provide the following information in your complaint:
   * The address, telephone number or e-mail address of the complaining party.
   * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
   * A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
+
+
+
+## Privacy Policy for Cricbuzz
+
+This Privacy Policy ("Policy") describes the information which Akuate Internet Services Private Limited ("We" or "Us") collects from you when you download, access, or use its Website: CricBuzz ("Website"). When you use the Website ("TIL Services") you expressly consent to this policy.
+
+If you do not agree with this Policy, you must not use TIL Services.
+
+This Policy shall not apply if you access or use Website or TIL Services outside of the European Union ("EU").
+
+#### Important Notice
+
+  * While we may allow You to access and use the Website even if you are residing or located in the European Union, the Website and TIL Services is not intended or targeted towards users who are residing or are located in the European Union.
+  * Website may have links to third party websites or services. This Policy does not apply to such third-party website and services. If you click links to such third-party website or services then terms of those website or services will apply on you.
+
+
+
+#### What happens to your data collected by us prior to May 25, 2018?
+
+If our systems can identify from the information we possess that such information belongs to a user from the EU region, then we shall delete such information. If you have any query, then you can contact our Grievance Officer at the email address provided below.
+
+While deleting your information, we may choose to archive and retain some information for legal purposes. Once such information is archived, we will not use it for any purpose and shall disclose it only to comply with any applicable law, court order, or request from governmental authority or law enforcement agencies.
+
+In some cases, Website may have stored some of your information in your device (computer, mobile, tablet). You will have to delete such information from your device manually. If you have accessed Website and TIL Services from multiple devices, then you will have to delete the information stored in each of such device manually.
+
+#### Accessing Website and TIL Services Through VPN
+
+You should not access or use the Website or TIL Services by means of any mechanism or technology which conceals your actual geo-location or provides incorrect details of your location (for example, use a virtual private network (VPN) to access TIL Services, proxy server etc).
+
+We will not be responsible or liable for any collection, storage or processing of your personal information or data if you use any mechanism or technology to access or use Website or TIL Services which conceals your actual geo-location.
+
+#### Cookies
+
+The Website uses cookies and other similar technologies which are necessary to its functioning and to provide TIL Services. Without these cookies and permission to drop to them in your browser, we cannot provide you TIL Services and allow you to browse the site. For more information about essential cookies we use, please refer to our Cookie Policy.
+
+We do not collect your personal data through these cookies.
+
+#### Do Not Track
+
+The Website and TIL Services currently do not process or respond to “Do Not Track” requests/signals which some internet browsers have the ability to send out.
+
+#### Contact Us:
+
+Questions, comments and requests regarding this policy are welcomed and should be addressed to  
+Mr. Harsha Kishan (Grievance Officer).  
+Akuate Internet Services Pvt Ltd.  
+[www.cricbuzz.com](https://web.archive.org/)  
+No. 190-B, 1st Floor,  
+HN Plaza, 100 Ft Ring road,  
+6th Main, BSK 3rd Stage,  
+Bangalore 560085,  
+India.  
+Ph: 080-40965631
+
+You can contact our designated grievance officer under the Information Technology Act, 2000 via email at [grievance@cricbuzz.com](mailto:grievance@cricbuzz.com).
+
+#### UPDATES AND CHANGES
+
+We reserve the right to amend the terms of this Policy from time to time.
+
+## Cookie Policy
+
+This Cookie Policy ("Cookie Policy") describes the information which Times Internet Limited ("We" or "Us") collect from you when you download, access, or use its Website CricBuzz ("Website").
+
+To provide you access and use of the Website and TIL Services, we place small data files called cookies on your device.
+
+#### What are cookies?
+
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
+#### How do we use cookies?
+
+We use cookies to collect and store information when you access Website and use TIL Services. We use cookies for various purposes such as:
+
+  1. to provide you TIL Services and non-personalized advertisements
+  2. to identify your location
+  3. to identify your browser and device.
+  4. analytics and research,
+  5. Measure and analyze the audience for each page in order to subsequently improve the ergonomics, browsing, or visibility of content;
+  6. Measure the reliability of Website by analyzing the number of visits to its pages in real time, and offer varied ads that are adapted to users’ areas of interest;
+  7. Cookies may also be saved by social media tools if you use these functionalities (e.g. Twitter).
+
+
+
+#### Type of Cookies
+
+##### 1\. First-party cookies
+
+These cookies are set by the Website. And only that website can read them. Also called internal cookies. We use these cookies as they are absolutely necessary to provide you TIL Services. If you choose to opt out of these cookies, then we may not be able to provide you TIL Services The table below would help you to understand what these necessary cookies do.
+
+  
+
+
+##### 2\. Third-party cookies
+
+These cookies are set by someone other than us when you access or use the Website. We have no control over third-party cookies - you can turn them off, but not through us.
+
+The cookies placed on the Website include:
+
+Cookie Name| What's it for  
+---|---  
+First Party Cookies (Internal Cookies)| To provide you TIL Services  
+Comscore| Performance cookie| [Opt out](https://www.scorecardresearch.com/preferences.aspx)| [Privacy policy](https://www.comscore.com/About-comScore/Privacy-Policy)  
+Google Adwords| Advertising cookie| [Opt out](https://support.google.com/ads/answer/2662922?hl=en-GB)| [Privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk)  
+Google Adx| Advertising cookie| [Opt out](https://privacy.google.com/#)| [Privacy policy](https://policies.google.com/privacy)  
+Google Analytics| Performance cookie| [Opt out](https://tools.google.com/dlpage/gaoptout/)| [Privacy policy](https://policies.google.com/privacy?hl=en)  
+Google DoubleClick| Advertising cookie| [Opt out](https://adssettings.google.com/authenticated?hl=en)| [Privacy policy](https://policies.google.com/privacy)  
+Nielsen| Advertising cookie| [Opt out](https://www.nielsen.com/content/corporate/policy/en/cookie-policy.html)| [Privacy policy](https://www.nielsen.com/uk/en/privacy-policy.html)  
+  
+##### Accepting or Refusing Cookies
+
+When you visit Website for the first time, a banner informs you of the use of cookies and provides a direct link to this information page. If you confirm your acceptance of cookies, or if you continue to browse the Website, your consent is considered as obtained. The cookie acceptance banner will no longer display on your screen.
+
+You may still choose at any time to delete or disable all or part of these cookies using your browser, with the exception of the First Party Cookies which are necessary for the Website to function.
+
+##### Choices available through your browser
+
+All browsers offer configuration options to:
+
+  * inform you of the cookies saved on your computer;
+  * allow you to accept or refuse them, on either a case-by-case basis or outright.
+
+
+
+The configuration of each browser is different. We suggest you consult the help menu on your browser in order to configure your browser as you wish.
+
+##### Consenting to cookies
+
+The saving of a cookie on a device is governed by user-defined settings for the user’s browsing software.
+
+If you have accepted the saving of cookies through your browser, they will be integrated into the pages and content you have viewed and may be temporarily stored in a dedicated location on your device. They will only be readable by their issuer.
+
+#### How To Manage Cookies
+
+How to implement your choice according to the browser you use?
+
+When it comes to managing cookies and your choices, the configuration of each browser is different. More information can be found in the help menu of your browser, which will inform you of the proper procedure to follow:
+
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+  * [Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=en_US)
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Opéra](https://help.opera.com/Windows/10.20/en/cookies.html)
+
+
+
+At any time you may view the cookie management settings used by your browser, and delete any cookies it has stored, which must be done one by one. To make your search easier, please find below a list of direct links for each of the main browsers in use:
+
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/windows?os=windows-7)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB&hlrm=en)
+  * [Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=en_US)
+  * [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+  * [Opera](https://help.opera.com/Windows/10.20/en/cookies.html)
+
+
+
+This configuration is different on your cell phone or tablet:
+
+  * [iOS](https://support.apple.com/en-gb/HT201265)
+  * [Android](https://www.wikihow.com/Disable-Cookies#Android_Devices)
+  * [Blackberry](https://global.blackberry.com/en/legal/privacy-policy#types-info-d)
 
 
