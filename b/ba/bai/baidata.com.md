@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baidata.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902092047id_/https%3A//www.bareinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baidata.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162544id_/https%3A//www.bareinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BARE International
 
@@ -26,7 +26,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: webmaster@bareinternational.com  
+By e-mail: dataprivacy@bareinternational.com  
 By Phone: [800-296-6699](tel:800-296-6699)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
