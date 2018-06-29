@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the studiodaily.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225150953id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiodaily.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184928id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
 
 # Access Intelligence :: Privacy Policy
-
-Last Revised: August 06, 2015
 
 Access Intelligence is committed to protecting the privacy of the information you share with us when you access and use our websites, applications, products, events, services and other offerings ( **Services** ). This policy describes how we collect, use and share the personally identifiable information ( **PII** ) you provide to us when you register or contract with us to receive Services.
 
@@ -39,20 +37,25 @@ We may use information about you:
 
 
 
-**  
-Consent**
+**Consent**
 
-By using Access Intelligence’s Services (for example, when you register for an account, purchase a product or service, enter a contest or promotion, communicate with us, or use interactive portions of our sites and applications), you consent to our collection, use and sharing of your PII as described in this policy. In some cases we may also ask you to confirm your knowledge of the terms of this policy; however, we are not obligated to do so.
+By using Access Intelligence’s Services (for example, when you register for an account, purchase a product or service, enter a contest or promotion, communicate with us, or use interactive portions of our sites and applications), you consent to our collection, use and sharing of your PII as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to receive information before we are able to send it to you.
 
 **Your Choices**
 
 You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Access Intelligence has a number of brands and products and we allow you to opt-out selectively. To remove a specific email address from all of Access Intelligence’s marketing communications, you may send a request to [clientservices@accessintel.com](mailto:clientservices@accessintel.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand or contact the brand directly.
+
+If you believe the information we have about you needs to be updated, please contact us so we can keep your information accurate. Any data that is no longer needed for the purposes specified in Information Collection will be deleted. If at any point you wish for Access Intelligence to delete information about you, you can simply contact us at [clientservices@accessintel.com](mailto:clientservices@accessintel.com).
 
 You may receive email marketing messages from us about other companies’ offerings as part of a business partner marketing program. To opt-out of a business partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
 Please note that opting-out of promotional mailings will not affect delivery of your subscription-based products.
 
 To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during/in those communications. To remove a specific phone/fax number from all of Access Intelligence’s marketing communications, you may send a request to [clientservices@accessintel.com](mailto:clientservices@accessintel.com).
+
+**Access to Your Information**
+
+You have the right to request access to the information we have about you. Simply contact us at [clientservices@accessintel.com](mailto:clientservices@accessintel.com) and we will make sure to provide you with a copy of the data we’ve processed about you. In order to comply with your request, we may ask you to verify your identity. Then we will fulfill your request by sending your copy electronically, unless the request expressly specifies a different method. For any subsequent access request, we may charge you with an administrative fee.
 
 **Disclosure of Your Information**
 
@@ -84,7 +87,8 @@ We use a variety of technical, physical, and administrative security measures to
 
 Access Intelligence reserves the right to access and disclose PII to comply with applicable laws, government requests, court orders and other legal requirements, or to investigate alleged or suspected fraud or violations of the terms and conditions governing our Services.
 
-**Changes to This Privacy Policy**  
+**Changes to This Privacy Policy**
+
 As new products and services are offered or as existing products and services are improved, we may need to update this policy. When we do so we will post the changes here. For material changes we may also email our registered users with the new details. We encourage you to review this policy from time to time to stay informed about how we are protecting the PII you provide. Your continued use of our Services covered by this policy constitutes your consent to the practices in place at the time of your use.
 
 **How to Contact Us**
