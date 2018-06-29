@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227171426id_/http%3A//www.agriculture.gov.ie/legalnotices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629044807id_/http%3A//www.agriculture.gov.ie/legalnotices/privacy) for the most accurate reproduction.*
 
 # DAFM - Privacy
 
 This statement relates to the Department of Agriculture, Food and the Marine's privacy practices in connection with its **websites**. The Department is not responsible for the content or privacy practices of any other websites.
 
-For more general information on the processing of our customers personal data please see the [Data Protection](https://web.archive.org/dataprotection/) page.
+**For more general information on the processing of our customers personal data please see the[Data Protection](https://web.archive.org/dataprotection/) page.**
 
 ## Collection and use of personal information
 
