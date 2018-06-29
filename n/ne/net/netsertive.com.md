@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619081025id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsertive.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629080942id_/https%3A//www.netsertive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Netsertive
+# Privacy Policy |
 
-### Last Updated: 8.5.16
+### Last Updated: 5.25.18
 
 Netsertive, Inc. (“Netsertive”, the “Company,” “us,” “we,” or “our”) is committed to protecting the privacy of users (“user”, “you” or “your”) of our website (“Site”), [netsertive.com](https://www.netsertive.com/), and our products and services (“Product” or “Products”). Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site and our Products. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. This Privacy Policy applies to this Site and our Products and governs data collection and usage at this Site and our Products.
 
 ### User Consent
 
-By visiting [netsertive.com](https://www.netsertive.com/) or using our Products, you agree to the terms of this Privacy Policy. You expressly consent to the processing of your Personal Information (as defined below) according to this Privacy Policy. Personal Information may be processed by Netsertive or Netsertive’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+We use a banner on our website to inform you of our use of cookies and obtain consent. We hope you’ll trust us to use cookies responsibly and click ‘I Accept’. However, if your browser settings are adjusted to accept cookies and you continue to use our website, we will take this as your consent to use cookies.
 
 ### Information We Collect About You and How We Collect It
 
