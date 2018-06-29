@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229224552id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092044id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
 
 # train chinese dictionary and flashcards|Privacy policy
 
@@ -12,7 +12,7 @@ Third party partners of trainchinese.com and other websites you may access via t
 
 When you register at trainchinese, we collect personal details about you to create an account.
 
-Your e-mail address is collected via our registration form, while other personal data such as name, country of residence, other languages you speak, level of Chinese etc. is voluntary information collected in separate forms. When you visit the site, we also collect web site usage information and information about your computer and internet connection, thee type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.
+Your e-mail address is collected via our registration form, while other personal data such as name, country of residence, other languages you speak, level of Chinese etc. is voluntary information collected in separate forms. When you visit the site, we also collect web site usage information and information about your computer and internet connection, the type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.
 
 With your account, we keep detailed information on the vocabulary you decided to learn and your training activities particularly words, phrases you are learning or have learned. This information is also synchronized between our apps and our server so that you always have access to your newest data set.
 
@@ -22,7 +22,7 @@ Your personal information is kept on our servers in such a way that it can only 
 
 #### Cookies
 
-trainchinese uses cookies to save some temporary data which is used for keeping some session variables in your browser when you are using the site.
+trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20180629092044id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
 
 #### E-mails
 
@@ -58,9 +58,9 @@ Molatra Ltd does not seek to collect any information from or engage in any trans
 
 #### Advertisements
 
-Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics. Interests, demographics, and other data may be used by Google to serve better targeted ads to the user. 
+Trainchinese.com does no show advertisements.
 
-To complement personalized advertising (formerly known as interest-based advertising), Google Ads Settings lets users view and edit their interests and demographics. Some users may choose to opt out of personalized ads.
+For apps, we have instructed Google not to show personalized advertisements on our apps in the European Economic Area.
 
 #### Crashlytics
 
