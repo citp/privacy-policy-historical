@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109050944id_/https%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629055048id_/https%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
 
 # Souq.com | Privacy policy
 
