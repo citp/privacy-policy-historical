@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111195145id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629131019id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bench
-
-**[View our financial privacy policy](https://web.archive.org/financial-privacy/)**
 
 We take privacy and data security seriously. We are committed to being fair and transparent in the collection and use of your data. The Privacy Policy below describes how we protect you and how we use your data to provide you with our services.
 
