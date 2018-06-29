@@ -1,39 +1,85 @@
-> *The following text is extracted and transformed from the pixiefaire.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123041117id_/https%3A//www.pixiefaire.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiefaire.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629041716id_/https%3A//www.pixiefaire.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixie Faire
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
-Liberty Jane Clothing, (Liberty Jane), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Liberty Jane Clothing of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.pixiefaire.com (the “Site”). 
 
-THEREFORE, this Privacy Policy Agreement shall apply to Liberty Jane Clothing, and thus it shall govern any and all data collection and usage thereof. Through the use of www.pixiefaire.com you are herein consenting to the following data procedures expressed within this agreement. Collection of Information This website collects various types of information, such as: 
+PERSONAL INFORMATION WE COLLECT
 
-Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
+We collect Device Information using the following technologies:
 
-Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org or https://cookies.insites.com/disable-cookies/
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service. It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
 
-**Use of Information Collected:** Liberty Jane Clothing may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from www.pixiefaire.com. Liberty Jane Clothing may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
-Liberty Jane Clothing does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties. Liberty Jane Clothing may find it beneficial to share specific data with our trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required, in accordance with this agreement, to maintain the strictest of confidentiality with regards to all your information.
+ Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number.  We refer to this information as “Order Information.”
 
-Liberty Jane Clothing may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Liberty Jane Clothing may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Liberty Jane Clothing and/or our website; Maintain, safeguard and/or preserve all the rights and/or property of Liberty Jane Clothing; and Perform under demanding conditions in an effort to safeguard the personal safety of users of www.pixiefaire.com and/or the general public.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
 
-Children Under Age of 13 Liberty Jane Clothing does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+  1. Communicate with you;
+  2. Screen our orders for potential risk or fraud; and provide you with information or advertising relating to our products or services.
+  3. We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-**Unsubscribe or Opt-Out:** All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to support@pixiefaire.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. Links to Other Web Sites Our website does contain links to affiliate and other websites. Liberty Jane Clothing does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information.
 
-The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
 
-**Security:** Liberty Jane Clothing shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user's personal information under our control. The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users' trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
+SHARING YOUR PERSONAL INFORMATION
 
-**Changes to Privacy Policy Agreement:** Liberty Jane Clothing reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at www.pixiefaire.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Liberty Jane Clothing decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. Acceptance of Terms Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. 
 
-**How to Contact Us:** If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address. Email: support@pixiefaire.com Telephone Number: 425-802-9852 Mailing Address: Liberty Jane Clothing P.O. Box 8058 Bonney Lake, Washington 98391 08/11/2014 
+We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+**Enhanced Email Marketing Campaigns:**
+
+We use your Personal Information to send several types of email campaigns based on your browsing history. We refer to these as “abandoned cart” emails.
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+If you would like to opt-out of these emails, you can do it simply by clicking “unsubscribe” from any one of them. You will still receive our Tuesday & Friday general newsletters, unless you also unsubscribe from those. Here is a picture showing you where to find the unsubscribe option, at the bottom of our emails:
+
+ 
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
+
+DO NOT TRACK
+
+If you'd like to learn more about Cookies, and how to disable them, visit this site: <https://cookies.insites.com/disable-cookies/>. Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+support@pixiefaire.com
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+The Site is not intended for individuals under the age of 16.
+
+CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@pixiefaire.com or by mail using the details provided below: 
+
+218 E. Main Street, Auburn, WA, 98002, United States
+
+\-------------------------------------------
+
+Updated May 24, 2018
