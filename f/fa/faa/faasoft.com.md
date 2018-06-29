@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faasoft.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226024322id_/http%3A//www.faasoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faasoft.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629153317id_/http%3A//www.faasoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Faasoft
 
