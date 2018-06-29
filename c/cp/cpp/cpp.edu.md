@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227212529id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629173917id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
-Pursuant to California Government Code Section 11015.5, Cal Poly Pomona may collect personal information on some of its web pages. Specific web pages may have their own privacy notifications, with specific information. The information below pertains to all other web pages in the csupomona.edu domain.
+Pursuant to California Government Code Section 11015.5, Cal Poly Pomona may collect personal information on some of its web pages. Specific web pages may have their own privacy notifications, with specific information. The information below pertains to all other web pages in the cpp.edu domain.
 
 ## Gathering of information
 
@@ -22,7 +22,7 @@ Personal information may be entered in BroncoDirect, and may be requested by oth
 
 ### Browser cookies
 
-Browser cookies are small pieces of information written to your computer by your web browser, at the instruction of a web page. Cal Poly Pomona uses browser cookies to tie together multiple pages of a form, to allow you to remain authenticated for a period of time after you log in, to remove that authentication if you should forget to log out, and to track cumulative use of our web pages by all visitors. No information from browser cookies that we produce can be read by entities outside of the csupomona.edu domain. No personal information is recorded in browser cookies other than encrypted session identifiers (which are meaningless except to the web application you logged in to), and all page use statistics are cumulative, and do not identify you (although such identification may be possible, especially if you use a computer belonging to Cal Poly Pomona). Some sites, including BroncoDirect and Identity Management Services, require the use of browser cookies. You will not be able to use these sites if you have disabled cookies in your web browser.
+Browser cookies are small pieces of information written to your computer by your web browser, at the instruction of a web page. Cal Poly Pomona uses browser cookies to tie together multiple pages of a form, to allow you to remain authenticated for a period of time after you log in, to remove that authentication if you should forget to log out, and to track cumulative use of our web pages by all visitors. No information from browser cookies that we produce can be read by entities outside of the cpp.edu domain. No personal information is recorded in browser cookies other than encrypted session identifiers (which are meaningless except to the web application you logged in to), and all page use statistics are cumulative, and do not identify you (although such identification may be possible, especially if you use a computer belonging to Cal Poly Pomona). Some sites, including BroncoDirect and Identity Management Services, require the use of browser cookies. You will not be able to use these sites if you have disabled cookies in your web browser.
 
 ## The length of time that browser cookies remain on your computer
 
