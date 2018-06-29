@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928051525id_/https%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629093344id_/https%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement at Bare Necessities
 
-Effective Date: February 2, 2017
+Effective Date: May 10, 2018
 
 This Privacy Policy applies to BareWeb, Inc. (collectively, “BareWeb,”, “our,” “us,” or “we”) and describes how BareWeb collects, uses and shares customer information from our websites, mobile websites, mobile applications, and the services provided by us in connection with the sites and applications that link to this Privacy Policy. It also provides guidance on how you can manage the personal information that you provide to us. Please also read our full Privacy Policy.   
 
@@ -35,7 +35,7 @@ You can control whether you want to receive promotional communications from us. 
 
 ### Arbitration. 
 
-Any disputes under this Privacy Policy will be resolved in accordance binding arbitration as outlined in the [Terms](https://web.archive.org/termsofuse.aspx?).on arbitration
+Any disputes under this Privacy Policy will be resolved in accordance binding arbitration as outlined in the [Terms](https://web.archive.org/termsofuse.aspx).on arbitration
 
 ### Updates to this Privacy Policy. 
 
@@ -52,7 +52,7 @@ Questions about our Privacy Policy or the use of your information may be sent to
   
 
 
-## Effective Date: February 2, 2017
+## Effective Date: May 10, 2018
 
   
 
@@ -91,7 +91,7 @@ From time to time you may choose to submit personal information about other peop
 
 ### Tracking Technologies. 
 
-In addition to any information that you choose to submit to us, we and our business partners may use a variety of tracking technologies such as cookies, flash cookies, web beacons/GIFs, HTML5, embedded scripts, e-tags/cache browsers/web logs ("Tracking Technologies"), that automatically (or passively) collect certain information from your Device whenever you visit or interact with the Services or third party websites. This information may include your Device identifier, the type and version of Internet browser software you use, and your operating system. We may also collect password information from you when you log in, as well as computer and connection information. During some visits, we may use these tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. Certain features of our Services are only available through the use of Tracking Technologies. You may encounter tracking technologies/cookies from our third party service providers that we have allowed on our Services who assist us with various aspects of our operations and Services. We use Google to serve first party cookies (such as Google Analytics cookie) to report how our ad impressions, and interactions with these ad impressions and ad services are related to visits to the Services. To learn about Google Analytics’ current available opt-outs for the web, click [here](https://tools.google.com/dlpage/gaoptout). To learn more about how Google uses cookies in interest based advertising, you can visit the Google ad and content network privacy policy located [here](https://www.google.com/policies/privacy/). You can opt-out of receiving interest based Google ads, or customize the ads Google shows you by clicking [here](https://support.google.com/ads/answer/2662922?hl=en). You can opt-out and find out more information about other third party analytics providers and their practices and your choices for data collection by clicking [here](https://web.archive.org/thirdpartyproviders.aspx?). Please be aware that if you choose to block certain cookies, you may not be able to sign in or use those cookie dependent features, and preferences that are dependent on cookies may be lost. Tracking Technologies are used for a variety of purposes, including the following:
+In addition to any information that you choose to submit to us, we and our business partners may use a variety of tracking technologies such as cookies, flash cookies, web beacons/GIFs, HTML5, embedded scripts, e-tags/cache browsers/web logs ("Tracking Technologies"), that automatically (or passively) collect certain information from your Device whenever you visit or interact with the Services or third party websites. This information may include your Device identifier, the type and version of Internet browser software you use, and your operating system. We may also collect password information from you when you log in, as well as computer and connection information. During some visits, we may use these tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. Certain features of our Services are only available through the use of Tracking Technologies. You may encounter tracking technologies/cookies from our third party service providers that we have allowed on our Services who assist us with various aspects of our operations and Services. We use Google to serve first party cookies (such as Google Analytics cookie) to report how our ad impressions, and interactions with these ad impressions and ad services are related to visits to the Services. To learn about Google Analytics’ current available opt-outs for the web, click [here](https://tools.google.com/dlpage/gaoptout). To learn more about how Google uses cookies in interest based advertising, you can visit the Google ad and content network privacy policy located [here](https://www.google.com/policies/privacy/). You can opt-out of receiving interest based Google ads, or customize the ads Google shows you by clicking [here](https://support.google.com/ads/answer/2662922?hl=en). You can opt-out and find out more information about other third party analytics providers and their practices and your choices for data collection by clicking [here](https://web.archive.org/thirdpartyproviders.aspx). Please be aware that if you choose to block certain cookies, you may not be able to sign in or use those cookie dependent features, and preferences that are dependent on cookies may be lost. Tracking Technologies are used for a variety of purposes, including the following:
 
 #### Operationally Necessary.
 
@@ -126,7 +126,7 @@ Please note that the opt-out is cookie-based and will only affect the specific c
 
 ### Cross Device Tracking. 
 
-To better understand your purchasing preferences, we may use third party vendors (such as Bazaarvoice) that provide tracking tools that recognize and collect Usage Information and information about your Devices that you may use to connect with our Services and the Internet. When these tools are enabled, the data that we and our third party service providers collect about these Devices is used to enable delivery of product recommendations, advertising or other promotional materials across Devices to deliver more relevant information to you, or to measure the effectiveness of our Services and advertising. When you visit this website on a specific Device, a unique ID is created for that Device which allows us and our third party vendors to deliver relevant product recommendations, personalized content and advertising based on your interests gathered across multiple sites. This data may be combined with the same information from another browser or Device if you use multiple browsers or Devices. You may opt-out of this tracking information collection for use in serving interest based ads by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. This opt-out applies to the specific Device/browser combination on which you are browsing. To opt-out of other Device/browser combinations you will need to opt-out of those as well. You will continue to receive generic ads.
+To better understand your purchasing preferences, we may use third party vendors (such as Coremetrics) that provide tracking tools that recognize and collect Usage Information and information about your Devices that you may use to connect with our Services and the Internet. When these tools are enabled, the data that we and our third party service providers collect about these Devices is used to enable delivery of product recommendations, advertising or other promotional materials across Devices to deliver more relevant information to you, or to measure the effectiveness of our Services and advertising. When you visit this website on a specific Device, a unique ID is created for that Device which allows us and our third party vendors to deliver relevant product recommendations, personalized content and advertising based on your interests gathered across multiple sites. This data may be combined with the same information from another browser or Device if you use multiple browsers or Devices. You may opt-out of this tracking information collection for use in serving interest based ads by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. This opt-out applies to the specific Device/browser combination on which you are browsing. To opt-out of other Device/browser combinations you will need to opt-out of those as well. You will continue to receive generic ads.
 
 ### Browser “Do Not Track” Signals. 
 
@@ -284,8 +284,9 @@ Edison, NJ 08837
 
 When contacting us, please include your full name, address, phone number, and email address, and indicate the specific nature of your request.
 
-**Copyright © 2017 BareWeb, Inc. All rights reserved.**
+  
 
-As of February 2, 2017
 
-[ANALYTICS PROVIDERS](https://web.archive.org/thirdpartyproviders.aspx?)
+As of June 5, 2018
+
+[ANALYTICS PROVIDERS](https://web.archive.org/thirdpartyproviders.aspx)
