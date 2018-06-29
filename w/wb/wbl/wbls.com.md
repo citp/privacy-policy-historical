@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115003506id_/http%3A//www.emmis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629201109id_/http%3A//www.emmis.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Emmis Communications Emmis Communications
 
@@ -6,7 +6,7 @@ English | **E _s_ pañol**
 
 **Privacy Policy**
 
-Last modified: August 30, 2017
+Last modified: June 12, 2018
 
   1. **Introduction**
 
@@ -98,6 +98,7 @@ The technologies we use for this automatic data collection may include:
   * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
   * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
   * **Web Beacons.** Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * **Google Analytics Demographics and Interest Reporting.**
 
 
   6. **Third-party Advertiser Use of Cookies and Other Tracking Technologies**
@@ -175,7 +176,7 @@ We do not control third parties’ collection or use of your information to serv
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-You may send us an e-mail at the email address listed at the end of this Privacy Policy to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an e-mail at the email address listed at the end of this Privacy Policy to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. Any user account that remains inactive for at least one (1) year may be deleted by Company.
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
 
@@ -223,7 +224,7 @@ Chicago, Illinois 60654
 
 **Política de Privacidad **
 
-Última modificación: 30 de agosto de 2017 
+Última modificación: 13 de junio de 2018 
 
 **1\. Introducción  
 **
@@ -306,6 +307,7 @@ Las tecnologías que usamos para esta recopilación automática de datos pueden 
   * **Cookies (o cookies de navegador).** Una cookie es un archivo pequeño colocado en el disco duro de su computadora. Usted puede negarse a aceptar las cookies de navegador al activar la configuración correspondiente en su navegador. Sin embargo, si usted selecciona esta configuración, usted no podrá acceder a ciertas partes de nuestro Sitio Web. A menos que haya ajustado la configuración de su navegador de manera que rechace las cookies, nuestro sistema emitirá cookies cuando use su navegador para ingresar a nuestro Sitio Web. 
   * **Cookies en Flash.** Ciertas funciones de nuestros Sitio Web pueden usar objetos almacenados localmente (o cookies en Flash) para recopilar y almacenar información sobre sus preferencias y navegación hacia, desde y en nuestro Sitio Web. Las Flash cookies no se administran con las mismas configuraciones de navegador que se utilizan para las cookies de navegador. 
   * **Web Beacons.** Las páginas de nuestro Sitio Web pueden contener archivos electrónicos pequeños conocidos como web beacons (también se les conoce como clear gifs. pixel tags y single-pixel gifs) que le permiten a la Compañía, por ejemplo, contar los usuarios que han visitado esas páginas o para otras estadísticas relacionadas con el sitio web (por ejemplo, registrar la popularidad de cierto contenido del sitio web y verificar la integridad del sistema y el servidor). 
+  * **Google Informes de intereses y datos demográficos.**
 
 
 
@@ -374,7 +376,7 @@ No controlamos la recopilación o el uso de su información por terceros para pu
 
 Puede revisar y cambiar su información personal iniciando sesión en el Sitio Web y visitando su página del perfil de la cuenta. 
 
-Puede enviarnos un correo electrónico a la dirección de correo electrónico que aparece al final de esta Política de Privacidad para solicitar acceso, corregir o eliminar cualquier información personal que nos haya proporcionado. No podemos eliminar su información personal, excepto que también borremos su cuenta de usuario. Es posible que no aceptemos una solicitud de cambio de información si creemos que el cambio violaría cualquier ley o requisito legal o hará que la información sea incorrecta. 
+Puede enviarnos un correo electrónico a la dirección de correo electrónico que aparece al final de esta Política de Privacidad para solicitar acceso, corregir o eliminar cualquier información personal que nos haya proporcionado. No podemos eliminar su información personal, excepto que también borremos su cuenta de usuario. Es posible que no aceptemos una solicitud de cambio de información si creemos que el cambio violaría cualquier ley o requisito legal o hará que la información sea incorrecta. Cualquier cuenta de usuario que permanezca inactiva durante por lo menos un año puede ser eliminada por la Compañia. 
 
 Si elimina las Contribuciones de Usuario del Sitio Web, las copias de sus Contribuciones de Usuario pueden permanecer visibles en páginas almacenadas en caché y archivadas, o pueden haber sido copiadas o almacenadas por otros usuarios del Sitio Web. El acceso adecuado y el uso de la información proporcionada en el Sitio web, incluyendo las Contribuciones del Usuario, se rigen por nuestros Términos de Uso. 
 
