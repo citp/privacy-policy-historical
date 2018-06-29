@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkis.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609025214id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkis.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630003356id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Linkis.com
 
@@ -14,7 +14,7 @@ Our primary goals in collecting personally identifiable information are to provi
 
 ### Information Collected Upon Registration
 
-If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Twitter account. While registering your account, we automatically fetch your username, bio and profile photo from Twitter to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with. 
+If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Facebook account. While registering your account, we automatically fetch your username, bio and full Facebook profile to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with.
 
 ### Use of Contact Information
 
@@ -22,7 +22,7 @@ We don’t share your contact and personal information with third parties. We ma
 
 ### Log Data
 
-When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.
+When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.
 
 ### Cookies
 
