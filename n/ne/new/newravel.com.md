@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newravel.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229055920id_/http%3A//newravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newravel.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629150845id_/http%3A//newravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Newravel.com
+# Privacy policy |
 
 We are committed to safeguarding the privacy of visitors to the Newravel website (the “Site”); this policy sets out how we will treat your personal information.
 
