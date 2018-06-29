@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122005511id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629130922id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # PodOmatic | Best Free Podcasts
 
-Thank you for visiting PodOmatic, the largest independent podcasting community. PodOmatic is committed to honoring the privacy of Our members and visitors. This privacy policy, part of Our overall Terms of service (<http://www.podomatic.com/about/tos>) (“Terms of Service”), covers personal information shared through PodOmatic. 
+Thank you for visiting PodOmatic, the largest independent podcasting community. PodOmatic is committed to honoring the privacy of Our members and visitors. This privacy policy, part of Our overall Terms of service (<https://www.podomatic.com/about/tos>) (“Terms of Service”), covers personal information shared through PodOmatic. 
 
 This privacy policy applies to [https://www.podOmatic.com](https://www.podomatic.com/) (the “Website”), owned and operated by PodOmatic, Inc. (“PodOmatic”, “We”, “Our”, “Us”). This privacy policy describes how We collect and use the personal information you provide on the Website. It also describes the choices available to you regarding Our use of your personal information and how you can access and update this information. 
 
@@ -10,13 +10,17 @@ PodOmatic, Inc. complies with the EU-US Privacy Shield Framework as set forth by
 
 The Federal Trade Commission (FTC) has jurisdiction over PodOmatic's compliance with the Privacy Shield. 
 
-In compliance with the EU-US Privacy Shield Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f8f1f3f5f8d4c4fbf0dbf9f5e0fdf7baf7fbf9) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
+In compliance with the EU-US Privacy Shield Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#432f2624222f03132c270c2e22372a206d202c2e) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
 
-PodOmatic, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint 
+PodOmatic, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint 
 
 Finally, as a last resort and in limited situations, EU individuals may invoke last resort binding arbitration before a Privacy Shield Panel. 
 
 PodOmatic takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third-parties in ways other than described in this Privacy Policy. By using PodOmatic, including services available at the PodOmatic.com domains, you are using a service provided by PodOmatic, Inc. (collectively, the “Service”) and you agree to be bound by the Terms of Service and this Privacy Policy. Some capitalized terms used in this Privacy Policy and not otherwise defined may be defined in the Terms of Service. This Privacy Policy only addresses activities from Our servers. 
+
+By accessing our Service, you accept our Privacy Policy and Terms of Use, and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. In addition, by using our Service, or services across partnered and unaffiliated sites, you are accepting the policies and practices described in this Privacy Policy. Each time you visit our website, or use the Service, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this Privacy Policy. Whether or not you register or create any kind of account with us, this Privacy Policy applies to all users of the website and the Service. 
+
+By using the Service, you represent that you are at least 18 years of age. 
 
 * Information Collection & Use
 
@@ -36,7 +40,7 @@ If you choose to continue service with PodOmatic via a paid account, PodOmatic w
 
 PodOmatic uses third party payment processors to assist it in processing your personally identifiable payment information securely. Such third party processors’ use of your personal information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this privacy policy. Payments are currently processed and managed using the third party vendors below. We will inform you which payment processors are used when processing your payments. 
 
-<http://www.cybersource.com/privacy/> <https://stripe.com/us/privacy>
+<https://www.cybersource.com/privacy/> <https://stripe.com/us/privacy>
 
 #### Server Logs
 
@@ -134,7 +138,7 @@ We use cookies for authentication, tracking user sessions, preferences, and move
 
 * Behavioral Targeting / Re-Targeting
 
-We partner with third parties to either display advertising on Our Website or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with third parties to either display advertising on Our Website or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://www.networkadvertising.org/managing/opt_out.asp) (or if located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 * Canada and California Visitors
 
@@ -152,11 +156,11 @@ You should be aware that the United States and other countries have not harmoniz
 
 * Bulletin Boards / Chat Rooms / Member Websites / Testimonials
 
-If you use a bulletin board or chat room on the Website, or on any PodOmatic member website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from Our blog or community forum, contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca0a9abada08c9ca3a883a1adb8a5afe2afa3a1). In some cases, We may not be able to remove your personal information, in which case We will let you know if We are unable to do so and why. 
+If you use a bulletin board or chat room on the Website, or on any PodOmatic member website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from Our blog or community forum, contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d41484a4c416d7d424962404c59444e034e4240). In some cases, We may not be able to remove your personal information, in which case We will let you know if We are unable to do so and why. 
 
 Certain information, such as your name and IP address, is logged by Our system when posting messages, and is made available to the owner of the website you are posting on. These items may be displayed to readers of the site you are posting on, depending on the settings of that particular site. If you would not like to have these details disclosed, refrain from posting messages to any PodOmatic bulletin board or chat room. 
 
-We display personal testimonials of satisfied customers on Our site in addition to other endorsements. With your consent We may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2aea7a5a3ae8292ada68dafa3b6aba1eca1adaf). 
+We display personal testimonials of satisfied customers on Our site in addition to other endorsements. With your consent We may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f49891939598b4a49b90bb9995809d97da979b99). 
 
 * Links to Other Sites
 
