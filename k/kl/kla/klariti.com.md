@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229070917id_/http%3A//klariti.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629162246id_/http%3A//klariti.com/legal-privacy-policy) for the most accurate reproduction.*
 
-# Klariti - Privacy Policy
+# Klariti – Privacy Policy
 
 Thank you for using Klariti. This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive when you use this website and our iOS application.
 
