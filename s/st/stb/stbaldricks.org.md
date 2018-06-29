@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903182127id_/https%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629071627id_/https%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St. Baldrick's Foundation
 
@@ -12,9 +12,7 @@ As you browse StBaldricks.org, trusted third party vendors may place anonymous c
 
 St. Baldrick's periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our Web site and to use such information to improve on our Web site's ability to serve you better. Personally identifiable information collected in these surveys will not be shared.
 
-Our Web site has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. All databases containing personal information are securely stored on a separate system.
-
-Our server is encrypted to protect credit card and other information submitted via the forms on this site. St. Baldrick's follows the Association of Fundraising Professional's (AFP) Ethical Guidelines to the Code of Ethical Principles and Standards of Professional Practice.
+We care about the security of your transactions and apply industry-standard practices and technologies to safeguard your credit card information. We also employ other best practice security protocols to protect your personally identifiable information from unauthorized access by users inside and outside the organization. Security best practices include encrypting all web traffic, testing for security vulnerabilities and correcting all critical and/or high vulnerabilities, and securing St. Baldrick’s websites and applications with Web Application Firewalls and Intrusion Protection Systems.
 
 To protect your privacy, the St. Baldricks Foundation does not sell, rent, exchange or otherwise share personal information about donors, shavees or other participants with any other organization or individual.
 
