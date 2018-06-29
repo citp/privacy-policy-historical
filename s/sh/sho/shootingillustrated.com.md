@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shootingillustrated.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205045233id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootingillustrated.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629181756id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
 
 # National Rifle Association - Privacy Policy
 
-Updated with posted changes: January 27, 2017
+Updated with posted changes: June 26, 2018
 
 ### Privacy
 
@@ -40,7 +40,22 @@ We also use your information to send you notices in the mail or by email about s
 
 **Editing Your Personal Information**
 
-Three ways you can edit or update your personal information: (1) visiting [NRA Member Services](http://www.nramemberservices.org/); (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
+Ways you can edit or update your personal information: (1) visiting [NRA Member Services](http://www.nramemberservices.org/); (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
+
+### The GDPR and Additional Information for Individuals in the European Economic Area ("EEA")
+
+To the extent that the EU General Data Protection Regulation (GDPR) applies to the NRA, if you are an individual in the European Economic Area ("EEA"), it is your right to be informed of and to request a copy of the personal data the NRA holds about you. We also want to make sure your personal data is accurate and up-to-date; accordingly, you have a right to rectify or supplement your personal data. Under certain circumstances, you may also have a right to erase, restrict the processing of, transmit, or object to the processing of your personal data. If you would like to access, rectify, erase, restrict, transfer, or object to the processing of your personal data, please email us at [GDPR-SAR@nrahq.org](mailto:GDPR-SAR@nrahq.org) or write us at the following address: 
+
+National Rifle Association of America  
+ATTN: Data Protection Officer  
+11250 Waples Mill Road  
+Fairfax, VA 22030 
+
+Please note that in some circumstances, we may not be able to fully comply with your requests, or we may ask you to provide us with additional information in connection with your request if we need to verify your identity or the nature of your request. 
+
+We may process your data based upon your consent, when it is necessary for services you request, when it is necessary for compliance with a legal obligation, or for any other lawful basis of processing. For all personal data collected and processed based upon your consent, you have a right to withdraw your consent at any time. 
+
+If you have additional questions, or concerns, please contact us at the above email or mailing address. If you remain dissatisfied, you can make a compliant with the applicable supervisory authority. 
 
 ### Data Security
 
