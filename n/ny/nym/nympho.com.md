@@ -1,33 +1,57 @@
-> *The following text is extracted and transformed from the nympho.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414042048id_/http%3A//nympho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nympho.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629073952id_/https%3A//tour.trueanal.com/privacy) for the most accurate reproduction.*
 
-# Nympho.com / Privacy / The newest FREE Adult Mega Site-100% FREE XXX PORN!! ONLY AN E-MAIL ADDRESS REQUIRED!
+# True Anal
 
-  
-This privacy statement covers the site [Nympho.com](http://www.nympho.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should contact our [Privacy Department](mailto:support@nympho.com?subject=Nympho%20Mega%20Site).
+## Privacy policy
 
- **What This Privacy Policy Covers**  
-This policy covers how Nympho.com treats personal information and e-mail addresses that Nympho.com collects and receives. The only personal information we collect is your e-mail address. This policy does not apply to the practices of companies that Nympho.com does not own or control or to people that Nympho.com does not employ or manage.
+This Privacy Policy applies to the following website: TRUEANAL.COM
 
- **General**   
-Nympho.com only collects and stores your e-mail address when you register for Nympho.com membership access and the Nympho.com blacklist. We do not collect your e-mail address under any other circumstances. Nympho.com automatically receives and records information on our server logs from your browser, including your IP address, Nympho.com cookie information, and the page you request.   
-• Except in emergencies dealing with fraud, we do not connect this general internet traffic data with your specific e-mail address. Nympho.com uses information for the following general purposes:   
-• Your e-mail address is used to contact you on a transactional basis. More specifically, we will send you an e-mail when you sign up for your membership, choose to cancel it, or request that your password be sent to you in case you have forgotten it.   
-• Your e-mail address is used to send you our newsletter featuring website updates. Nympho.com does not rent, sell, or share your personal information or e-mail address with any third-parties. The only persons with access to your e-mail address are trusted high-level Nympho.com employees.  
-•We reserve the right to disclose your personally identifiable information or email address as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
-•We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Nympho.com's terms of use, or as otherwise required by law.  
-•We transfer information about you if Nympho.com is acquired by or merged with another company. In this event, Nympho.com will notify you before information about you is transferred and becomes subject to a different privacy policy.  
-This privacy statement covers the website Nympho.com and all pages on its domain name. When you click a link or otherwise leave this domain, our privacy policy will no longer apply. Our website may participate in co-branding agreements which use the Nympho.com brand name, domain name, or the general "look and feel" of our site to work with another company. In these cases, your personally identifiable information will NOT be shared with our co-branding partners. Our privacy policy will not be applicable in such cases; however, we will require that our partners post their own company name and privacy policy on any co-branded site.
+We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.
 
-**Cookies**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies on this site but we do NOT link the information we store in cookies to any personally identifiable information you submit while on our site. We use only session ID cookies which make it easier for you to navigate our site. A session ID cookie expires when you close you browser. We do NOT use persistent cookies which remain on your hard drive for an extended period of time. If you reject cookies, you may still use our site, but you may have to re-enter your username and password more often and you may experience some other unexpected browsing inconveniences. Advertisers or other companies do not have access to Nympho.com's cookies. **Your Ability to Access, Edit and Delete Your Personal Information and E-mail Address**  
-As part of your membership, you are required to keep a current e-mail address on file with Nympho.com where we may send you transaction-based e-mails as well as our newsletter. If at any time you wish to unsubscribe from receiving our e-mails, you must delete your account with Nympho.com by emailing [support@nympho.com](mailto:support@nympho.com), you will receive one final e-mail confirmation that your account has been deleted and you will never be contacted again for any reason. If you have any further questions about your personally identifiable information or email address changes, or if you no longer desire our service, you may contact us by e-mail at [support@nympho.com](mailto:support@nympho.com). **Confidentiality and Security**   
-We follow generally accepted industry standards to protect the personal information and e-mail addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and e-mail address, we cannot guarantee its absolute security. We limit access to your personal information and e-mail address to employees whom we believe reasonably need to come into contact with that information.
+### Information Collection and Use
 
-**Minors**  
-Nympho.com is an adult site and access to persons under the age of 18 is strictly prohibited. Nympho.com has no intention of collecting any personally-identifiable information from individuals under eighteen years of age. Nympho.com specifically instructs minors not to submit such information on our website. If a minor has provided us with personally-identifiable information, a parent or guardian of that minor should contact us using the contact form listed on these pages and we will remove this information from our existing files.
+We are the sole owner of the information collected on the Sites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points throughout our Sites.
 
-**Changes to this Privacy Policy**  
-Nympho.com may update this policy. We will notify you about significant changes in the way we treat personal information or e-mail addresses by sending a notice to the primary email address specified in your Nympho.com account or by placing a prominent notice on our site.
+### Registration and Order Forms
 
-**Changes in E-Mail Practices**   
-If we decide to make changes in our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to the way we use your email address, we will notify you here, by email, or by means of a notice on our home page.
+In order to gain access to our Site, you may be requested to provide us with your date of birth. In addition, in order to purchase goods and services from our Sites, or to become a member of our Sites, a user must complete the on-line registration/order form. During registration, a user is required to provide us with certain contact information (which may include your name, mailing address, phone number, fax number, and e-mail address). If we have trouble processing an order or otherwise need to contact a user, the contact information is used to get in touch with the user. From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs.
+
+### Law Enforcement
+
+We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. We will also notify the appropriate authorities if we suspect that any of our users are engaged in illegal activities, such as obscenity or child pornography.
+
+### Links
+
+The Sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Sites they should read the privacy statements of each and every web site that collects personally identifiable information.
+
+### Security
+
+We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to contact us if you are interested in learning more about our security measures.
+
+### Third Party Sources of Information
+
+From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources.
+
+### Children
+
+We do not collect personally identifiable information from them. We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.
+
+### Correction/Updating Personal Information
+
+If a user's personally identifiable information changes (such as phone number), or if a user no longer desires our service, you may contact us to correct or update this information.
+
+### Choice/Opt-out
+
+From time to time, we may send our users e-mail or other notices regarding new services, promotions, or other information which may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us.
+
+### Notification of Changes
+
+We reserve the right to modify this Privacy Policy at any time by posting such changes on our Sites. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use any of our Sites, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use any of our Sites after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
+
+If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes. You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to "opt-out" so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may "opt-out" so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
+
+### Contact Information
+
+If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker.
+
+For any additional information please [contact us](http://www.customercare.co/contact-us.html).
