@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119215406id_/http%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629032242id_/https%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Electronic Cigarettes Wholesale Distributor,Vape,e-Cig,eLiquid,Flavor - HealthCabin
 
@@ -84,6 +84,10 @@ _
 
 Besides the regulations stated above, when your information may probably be disclosed to the third party, you will receive a notification and you are justified to choose not to share this information with the third party.  
 
+
+## Does healthcabin.net collect personal information in compliance with the EU GDPR?
+
+We (healthcabin) only share user data with 3rd parties essential to complete business transactions.We will provide a complete copy of user data upon request. This applies to all residents of the EU.We will delete any user data upon request. This applies to all residents of the EU.
 
 ## On how secure my information will be
 
