@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountonline.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095739id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountonline.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629071942id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Citibank
 
@@ -14,7 +14,7 @@ Citi customers have the opportunity to make choices about how their personal inf
 
 The security of your personal information is our priority. We protect this information by maintaining physical, electronic and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. When we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive.
 
-## Citi Online Privacy Statement
+## Citi Pay / Masterpass Online Privacy Statement
 
 Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on third-party websites.
 
@@ -33,6 +33,14 @@ We encourage you to read the privacy policies on these sites.
   4. Can You Control Your Information that’s Collected and Used Online?
 
 
+
+**For Customers Enrolled in Citi Pay**
+
+We and our service providers may use information about your use of Citi Pay/Masterpass in order to create a customized checkout experience. After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi Pay/Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' AdChoices page.
+
+**For Customers Enrolled in Citi / Masterpass**
+
+We and our service providers may use information about your use of Citi / Masterpass in order to create a customized checkout experience. After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi / Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' AdChoices page. 
 
 **1\. What Information Do We Collect**
 
@@ -61,8 +69,9 @@ If you are a Citi customer, the personal information you provide online is held 
 
 Please see our Privacy Notices, which we provide to all our individual customers, for a comprehensive explanation of how we collect, use and share personal information and what you can do to limit the use and sharing of your information as our customer. If you have a retail store or gas card issued by Citibank, N.A., you may call the number that appears on the Privacy Statement you receive. All customers may also call Customer Service at any time with questions or to make privacy choices.
 
-|     | Citibank |  Citibank® Consumer Privacy Notice   
+    | Citibank |  Citibank® Consumer Privacy Notice   
 ---|---|---  
+| Citi Mortgage    | Citi Mortgage Privacy Notice  
 | Citi Personal Wealth Management    | Citi Personal Wealth Management Privacy Notice  
 | Citi Cards | Citi Consumer Cards Privacy Notice  
 | Citi Private Bank | [Internet Privacy Policy & Statement](https://www.privatebank.citibank.com/privacy.htm#1)  
