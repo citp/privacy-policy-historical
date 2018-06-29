@@ -1,300 +1,269 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230004201id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629093852id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
 
-# Privacy | SEGA
+# SEGA US - Privacy Policy | SEGA
 
-## SEGA of AMERICA'S ONLINE PRIVACY POLICY
+Effective Date: May 25, 2018
 
-[](http://www.esrb.org/confirm/sega-confirmation.jsp?)SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
+## **Sega of America, Inc. Privacy Policy**
 
-This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
+## **Introduction**
 
-Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:
+[](http://www.esrb.org/confirm/seganetworks-confirmation.aspx "ESRB")
 
-  * The scope of this Privacy Policy;
-  * Exactly what information SEGA may collect from you online;
-  * How SEGA will use the information it collects;
-  * What are the consequences if you refuse to provide your personal information to SEGA when requested;
-  * Whether SEGA uses cookies, tracks IP addresses, or uses other passive means to collect information about your visit our websites;
-  * Who collects the information that you disclose on a SEGA website;
-  * SEGA's policy regarding links to websites operated by other companies;
-  * How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;
-  * The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;
-  * The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;
-  * How will I know if this privacy policy has changed? and,
-  * SEGA's policy regarding the collection of information from children under 13.
+Sega of America, Inc. (with certain affiliates under the same direct or indirect control, “ **we** ” or “ **us** ”) collects information about you when you use our online products and services (" **Products** ").
 
+This privacy policy explains how we collect, use, share and protect your information when you use our Products, as well as your rights and choices about such use and sharing.
 
+By using our Products you acknowledge that you have read and understand the terms of this privacy policy, including how we use personal information.
 
- 
+Sega of America Inc., located at the address set forth in Section 7 “Contact Us” is the data controller for the information collected via our Products.
 
-In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list. Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline. In addition, this Privacy Policy applies to SEGA only, and not to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies. SEGA is therefore not responsible for the content or activities provided on such sites.
+The ESRB certification seal shown in this privacy policy confirms that Sega of America Inc. is a valid licensee, and participating member, of the [Entertainment Software Rating Board’s Privacy Certified Program](http://www.esrb.org/privacy/index.jsp) (“ **ESRB Privacy Certified** ”). To help protect your privacy, we have voluntarily undertaken this privacy initiative and have had all of the Products where this privacy policy is displayed, reviewed and certified by ESRB Privacy Certified to meet established online data collection, use and disclosure practices. As a licensee of this privacy program, we are subject to audits of our Products and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
-By using and submitting personal information to any of our websites, you signify your assent to SEGA's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites will signify your acceptance of these changes.
+The privacy policy may be revised periodically, and any such revisions will be reflected by the “Effective Date” above. Please revisit this page to stay aware of any changes. If we make material changes to this privacy policy, we will provide you with additional notice of such changes by providing in-Product alerts or via email to you.
 
-## SOCIAL MEDIA INTERACTION
+**________________________________________________________________________**
 
-You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
+## **Summary**
 
-When you provide information from your social media account, it can help enable SEGA to do things like (1) give you exclusive content, (2) personalize your online experience with SEGA within and outside SEGA's websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to SEGA through an application, on SEGA's websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+Our privacy policy will help explain what information we collect, how we use it and what options you have in relation to it. The key points of our privacy policy are provided below, however you can also learn more by simply following the link below or by continuing to scroll down:
 
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+## 1\. Information we collect and receive
 
-## WHAT TYPES OF INFORMATION DOES SEGA COLLECT?
+We collect personal information about you and the devices you use to access and interact with us and our Products. We collect:
 
-In order to give you the best experience on our websites, SEGA may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information if you decide to:
+  1. Registration information: information you give us when you sign up to access our Products, or other information you choose to give us.
+  2. Technical and device information: information from your mobile or computer device when you use our Products.
+  3. Feedback: your questions, suggestions or views on the Products. 
 
-  * Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);
-  * Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);
-  * Access and participate in message boards;
-  * Participate in an online contest, beta test, tournament, or other event;
-  * Email a question to our customer service desk;
-  * Register a product online; and/or,
-  * Purchase a product or service online (e.g., Phantasy Star Online subscription).
-  * Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails
 
 
+_Learn more_
 
-Please note that before you can use some of the activities above, you may be required to register. The ability to access certain areas and features of our websites by simply logging in is only available to those web users that have already created a username and password during an earlier visit to one of our websites.The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information.
+## 2\. Our use of collected information
 
-For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine your demographic information with your personal information.
+Collected information may be used in the following ways:
 
-## HOW DOES SEGA USE THE INFORMATION IT COLLECTS?
+(a )Registration information:
 
-Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you email us a question using our online Customer Service form, your personal information will only be used to provide a response to your inquiry. Similarly, information collected from those who register on one of our websites account is used to provide registrants the benefits that come along with registration, which often include a subscription to our newsletter, access to the latest game news and special offers, contests, and other features. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest). If you choose to receive these additional services, we will use your information to provide them to you. If you choose to opt-in to receive e-mails from one of our partner companies (during registration for or participation in one of these events), we encourage you to visit such partner's website and read their policy before agreeing to provide your information to them.
+(i)to create your profile and so you can access our Products;
 
-Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any SEGA website are not retained by SEGA and are only used to send a one-time email notification on your behalf.
+(ii)to provide Products you request;
 
-From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
+(iii)to identify you when you sign-in;
 
-We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes.
+(iv)to give you access to your user preferences;
 
-In addition, personal and/or demographic information collected through one of the activities set forthabove may be used for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and better meet your needs. Additionally, we may use information that we collect to ensure that someone who is cheating is excluded, and to enforce our rights under our Terms of Service.
+(v)to contact you for your views on our Products;
 
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
+(vi)to allow participation in special events or contests (if specifically approved by you);
 
-Please be advised that information submitted by individuals acting solely in a business capacity (e.g., resume from job applicant) is not subject to this Privacy Policy. However, we want to assure you that information obtained from your resume will be used solely for the purpose of accepting and evaluating your submission for a job opening.
+(vii)to notify you of changes or updates to our Products; and
 
-**A Special Note about our Message Boards**
+(viii)for marketing purposes, based on your communication preferences.
 
-Please note that whenever you give out personal information in public areas such as on our message board, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security and privacy of any information that you post in these areas.
+(b) Technical and device information:
 
-## WHAT HAPPENS IF I REFUSE TO PROVIDE MY PERSONAL INFORMATION TO SEGA?
+(i)to provide you with an optimal experience;
 
-If you choose not to submit personal information when requested, you may not be able to use many of the features offered on our websites. For example, if you were to refuse to disclose your name or email address, you would not be able to register a product online or submit a question to customer service. However, to simply browse and view certain content on our websites, you do not need to give us any personal information.
+(ii)to understand how you interact with our Products;
 
-## DOES SEGA USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?
+(iii)to provide Products you request; 
 
-**Cookies**
+(iv)to measure and analyze the use and effectiveness of our Products;
 
-We may use cookies on our websites. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, SEGA uses cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features on our websites.
+(v)to understand which of your devices are using our Products;
 
-**IP Addresses**
+(vi)to provide safe and fair gaming environments;
 
-An Internet Protocol (IP) address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. Although we do not generally collect IP addresses, we may collect and use your IP address when we feel it is necessary to protect our service, websites, customers, or others.
+(vii)to track consents for use of personal information related to our Products;
 
-**MAC Addresses**
+(viii)to serve advertisements within the Products;
 
-If you play a SEGA video game online, we may collect your MAC address, which is a unique number associated with a computer's identity on a network.
+(ix)to customize and optimize the targeting of advertising both on our Products and across third party websites, apps and products;
 
-**Log Files**
+(x)to operate and improve our Products; and
 
-The only other information that may be passively collected by SEGA is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously, and enable SEGA to gather statistics about users' browsing habits, assess overall website activity, track interest in advertised sales, and maintain website security. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users.
+(xi)to fix errors.
 
-## WHO IS COLLECTING MY PERSONAL INFORMATION AND IS IT SHARED WITH ANYONE?
+(c) Feedback:
 
-Generally, the information that you disclose on a SEGA website is collected by SEGA or by a vendor on SEGA's behalf, and is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our websites and who only use the information we share with them for the purpose of carrying out the service you've requested (e.g., newsletter delivery and fulfillment of online purchases and contest entries).
+(i)to reply to your questions or queries;
 
-From time to time, we may run contests, tournaments, or other events or activities ("events") on our websites. Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor or co-sponsor or shared with other reputable third party (that provides products or services that may be of interest to you). While we have no control over the third party's use of such information, we will attempt to ensure that they agree to protect the confidentiality, security, and integrity of any personal information collected through our website. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected.
+(ii)to record comments and information which you provide on our gaming forums; and
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
+(iii)to conduct analysis and research to improve and develop the Products.
 
-In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, SEGA's customer information may be transferred to its successor or assign, if permitted by and done in accordance with applicable law.
+_Learn more_
 
-SEGA may also share aggregate information about our visitors within the SEGA family such as with SEGA Mobile. For example, we may say a particular game title's audience is X% female and Y% male. This data is used to customize the content and advertising of SEGA's websites to deliver better experience for our visitors. It can also help tailor SEGA's products and services to meet the needs of our customers.
+## 3\. When we share information
 
-SEGA sends to your web browser most of the advertisements you see when you visit our websites. However, SEGA may allow other companies, called third party ad servers, to serve advertisements within our web pages. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit each of the company's websites individually and opt-out.
+We may share the information we collect about you (subject to the necessary security, contractual and transfer safeguards).  These are some of the partners we may share your personal information with:
 
-## WHAT IS SEGA'S POLICY REGARDING LINKS TO THIRD PARTY SITES?
+(a)Affiliates within the wider SEGA group.
 
-You should be aware that while you are browsing one of our websites, you may be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
+(b)New owners or re-organized entities and their advisors in the event of a business restructure, sale, purchase or joint venture affecting our business.
 
-## CAN I CHOOSE HOW MY PERSONAL INFORMATION IS USED?
+(c)Where we are under a duty, are authorized by law or for law enforcement purposes.
 
-Your California Privacy Rights
+Personal information may be transferred to other countries where we or our service providers maintain operations. These countries may not have equivalent data protection laws to the country from where you access the Products.
 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us:
+_Learn more_
 
-SEGA  
-Customer Service Department  
-350 Rhode Island Street  
-Suite 400  
-San Francisco, CA 94103  
-[privacy@segaamerica.com](mailto:privacy@segaamerica.com)
+## 4\. Security and data retention
 
-If you do not want to receive our newsletters (such as the SEGA NewsBlast) or other email communications from SEGA, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please use one of the following two methods to opt-out:
+Your privacy is important to us and we take reasonable technical and organizational measures to protect your information from unauthorized access and against unlawful processing, accidental loss, destruction and damage.
 
-  * To opt-out of receiving emails, simply go to the site (either SEGA.com or SEGAmobile.com) and follow the instructions on that particular site.
-  * Click the "unsubscribe" link at the bottom of your most current email from SEGA. You will either be presented with an email to send us your unsubscribe request, or be taken to a web page on which you can confirm your unsubscribe request. On the web page, click the appropriate link to unsubscribe from the SEGA email list. Either of these methods will unsubscribe you from the SEGA email list. If you are experiencing problems with opting out, please contact SEGA at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+Your personal information will be kept by Sega of America Inc. for the duration of your relationship with us and for as long as you use our Products and may be retained for a period after this time if it is necessary and relevant to our legitimate operations, our terms with you and in accordance with applicable laws.
 
+_Learn more_
 
+## 5\. Your choices and rights
 
-## HOW CAN I ACCESS MY PERSONAL INFORMATION?
+You have options and choices over how we use your personal information. You may be required to register or sign in to use or access some of our Products, and may need to provide personal information to create a user profile which is associated with your use of our Products.  Where you are required to sign in to use or access our Products, you can also manage the personal information that you provide to us.
 
-If you wish to view, correct, or delete the personal information collected about you, or you wish to subscribe or cancel your subscription to our promotional emails and newsletters, you can easily do so online. To modify your Phantasy Star Online (PSO) or Phantasy Star Universe (PSU) account info, please go to the PSO or PSU website, log in using your current username and password, select the areas you wish to change, and edit or delete your information. The information you delete online will be immediately removed from our database. If you are experiencing problems with changing your information online, you may contact us at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+You have control over if we, and/or our partners, use personal information to provide targeted advertisements and you may withdraw consent related to the use of personal information to serve you targeted advertisements.
 
-## WHAT SAFEGUARDS DOES SEGA USE TO PROTECT MY PERSONAL INFORMATION?
+If you sign up to our marketing communications, you will be asked to confirm your communication preferences and given the opportunity to unsubscribe at any time.
 
-SEGA maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about you. These safeguards include, among other things, limiting access to such data to those employees performing a legitimate business function; technical security measures, such as encryption or passwords, to prevent unauthorized access; and the storage of data on secure servers or computers inaccessible by modem.
+You can contact us directly with requests to correct, erase, restrict, object to, or move your personal information. If you do not want us to process and/or access your personal information, you may be unable to use some of our Products.
 
-We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by requesting that they submit information such as their username and password. We also take reasonable steps to ensure that third parties to whom we transfer personal information provide sufficient protection of such data.
+_Learn more_
 
-## HOW DO I ASK A QUESTION OR FILE A COMPLAINT? (CONTACT INFORMATION)
+## 6\. Children’s information
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at (800) 872-7342, via email [atprivacy@segaamerica.com](mailto:atprivacy@segaamerica.com), or by writing to:
+Protecting the privacy of young children is especially important to Sega of America Inc. For that reason, we do not knowingly collect or maintain personal information or non-personally identifiable information from users under 13 years of age in the United States, and under the applicable age of consent in the European Union, other than as permitted by law in support of our internal operations (in the U.S.) and legitimate interests (outside the U.S.).
 
-SEGA  
-Customer Service Department  
-350 Rhode Island Street  
-Suite 400  
-San Francisco, CA 94103
+_Learn more_
 
-SEGA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
+## 7\. Your questions and how to contact us
 
-Attn: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
+If you have any questions or comments about this privacy policy you can contact us.
+
+_Contact details_
+
+____________________________________________________________________
+
+**More information**
+
+## 1\. Information we collect
+
+We collect personal information about you and the devices you use to access our Products and interact with us. We collect:
+
+(a)Registration information
+
+When you register or sign up to use our Products, for contests or special events, we will collect information about you, which, depending on the Product, contest or event, may include your name, contact details, a password and security answers and may collect additional information that you choose to provide such as age, gender or personal preferences. We will also collect your contact information when you sign-up to receive our marketing communications.
+
+You can also choose to sign-up for our Products using third party services such as your Facebook, Google, Twitter or Instagram (“Social Network”) account in which case the Social Network may ask your permission to provide certain personal information such as your username, date of birth and contact details. The Social Network may share this personal information with us subject to the Social Network's privacy policy and the privacy settings of your Social Network account.  This may also enable the Social Network and us to link your activities with your personal registration information at their site, and may include notifying your friends about your activities whilst using our Products. This may also involve the use by us of analytics technologies to link your online activities so that we can serve targeted ads.  First party platforms, such as Apple’s App Store or Google’s Google Play store may for example share anonymized ids with us to help optimise our offerings to you and to help us understand how you are using our Products. If the first party platform shares this information with us it does so subject to its privacy policy, and the privacy settings of your first party platform account. If you sign-up via third party services you should visit the third party website and review their privacy policy and your registration profile or account to understand how your data is processed by them.
+
+We do not control (nor act as the controller of) the information that is sent from your device to third parties, including social media platforms, analytics companies and advertising networks that receive information in the normal course of your online activities.
+
+(b)Technical and device information
+
+We collect information from your device and activity about the way you use our Products. We may also collect information about you from the notifications or messages you post or send online as well as what you look at and engage with. Information obtained from social features related to Products, such as public forums or chat, may be stored, copied or used by Sega of America Inc., the public, or third party companies.
+
+By accessing our Products, we will collect technical information from your mobile or computer device, for example your location information where you choose to share this with us, which devices are connected to the Internet, hardware settings, components of your devices, installed software, updates and plugins to facilitate the use of our Products. We will automatically collect information such as your operating system, Internet Protocol address, country and language settings, MAC address, your browser type, installed Products, hardware type, browser language preferences and when, how often and how long you interact our Products, as well as other application usage data. We also use software to enable us to provide safe and fair gaming environments for all users of our Products. When you log in to one of our Products, or make purchases, we, and or our third party suppliers may use cookies and similar technologies, or collect data about your device(s) to create a device fingerprint of the components of your specific device(s) and/or a build an individual profile of you.
+
+                        See also our Cookie Policy:  [www.sega.com/cookiepolicy](http://www.sega.com/cookiepolicy)
+
+_(c)Feedback:_
+
+We will collect personal information from the messages and reviews you post on our social forums, and when you contact us, for example with a question, problem or comment. If you contact our customer services team by email or post, we will keep copies of your correspondence with  us for a limited period of time after completing your query.
+
+## 2\. How we use the information we collect
+
+We use the personal information we collect for the following purposes:
+
+(a)Registration information
+
+Your registration information enables us to provide you with access to the Products and to supply the Products under the relevant terms of service. It helps us to authenticate your access, to contact you for your views and to notify you of important changes or updates to our Products.  
+
+Where we have your consent and in accordance with your stated communication preferences, we may also contact you for marketing purposes to let you know by post, email, telephone, mobile or in-app messaging about our other products and services.
+
+If you no longer want us to use your data in this way or generally change your mind about receiving marketing communications, you can unsubscribe at any time, either by using the unsubscribe option in the communication you receive or by changing your communication settings. Please note that we will retain a record of the user information when you unsubscribe from our marketing information for the legitimate purpose of ensuring that we do not contact you further in this way, during the period of your objection.
+
+(b)Technical and device information
+
+We analyze information about how you engage with our Products to understand how our Products are used and to provide you with an optimal gaming experience, such as by rolling out performance-optimizing updates for our Products.   We use anonymous data in order to analyze and produce statistics relating to the habits, usage patterns and demographics of users as a group or as individuals. 
+
+When you interact or visit our websites, we will automatically collect information about you such as the type of internet browser or mobile device you use, any website from which you have come to any of the Sega of America Inc. sites, your IP address (the quasi-unique address which identifies your device on the internet), country where the device is located, language settings and your operating system, which are automatically recognized by our web server.
+
+We use log files to monitor traffic on our Products, resolve technical problems and to detect and prevent fraud.  We use these technologies to provide us with information, such as when an email is opened, or to develop statistics on the effectiveness of advertising or marketing on our websites and for and in our Products. In some cases, including working with third party partners, we use this information to send you ads for our Products or other’s products based on your interests.
+
+We also use technical and device information to operate and improve our Products, enable online matchmaking, facilitate sharing, measure our effectiveness, set up and maintain accounts, track consents to use of personal data, identify and fix errors and to help keep online content fair and safe and to resolve related disputes. We also use this information to deliver you personalized content, help us understand the features of our Products that appeal to you and allows us to manage advertising.
+
+_(C)Feedback_
+
+We use your feedback to reply to your questions or queries, to provide customer support and resolve problems relating to any of our Products under the relevant terms of service. We will also publish reviews that you submit to us for this purpose about the Products and will conduct analysis of feedback for the purpose of improving and developing the Products.
+
+## 3\. When we share information
+
+In delivering the Products to you, we may share your personal information with:
+
+  * Companies within the SEGA group (which means our subsidiaries and affiliates, our ultimate holding company and its subsidiaries and affiliates) who act for us for the purposes set out in this policy.
+  * If our business enters into a joint venture, purchases or is sold to or merged with another business entity, your information may be disclosed or transferred to the target company, or new business partners or owners or their advisors.
+  * We may use the information that you provide if we are under a duty to disclose or share your information in order to comply with (and/or where we believe we are under a duty to comply with) any legal obligation; or to enforce the relevant terms of service and any other agreement; or to protect our rights or the rights of third parties. This includes exchanging information with other companies and organizations such as credit agencies, law enforcement or government bodies or the courts in connection with a criminal investigation, suspected illegal activity, fraud prevention and detection or in legal proceedings.
+
+
+
+We do not control information which is sent from your browser to third parties, and may not control certain information which is sent from our Products to third parties, including social media platforms, analytics companies and advertising networks that receive information in the normal course of your online activities.
+
+Personal information may be transferred to other countries where we or our service providers maintain operations. These countries may not have equivalent data protection laws to the country from where you access the Products or, in the case of transfers subject to European law, may not be subject to an adequacy decision by the European Commission (EC).   An adequacy decision is a decision taken by the EC establishing that a third country provides a comparable level of protection of personal data to that in the EU, through its domestic law or its international commitments.
+
+When we transfer personal information, we will seek to take account of any applicable legal obligations relevant to personal information transfers.  In the case of transfers of personal information out of the European Economic Area, we will, in the absence of an EC adequacy decision relevant to the destination country, seek to rely on appropriate safeguards such as a valid Privacy Shield certification (in the case of a data transfer to a Privacy Shield certified US recipient -  <https://www.privacyshield.gov/welcome>) or enter into appropriate EC approved standard contractual clauses relevant  to personal data transfers between data controllers or between a data controller and a data processor, (see <http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm>).
+
+## 4\. Security and data retention
+
+We take rasonable physical, technical and organizational measures, to protect your information from unauthorized access and against unlawful processing, accidental loss, destruction and damage.
+
+Your personal information will be retained by us for the duration of your use or access to our Products and may be retained for a period after this time as necessary and relevant to our legitimate operations, our terms with you and in accordance with applicable laws and obligations. This may include retention necessary to meet our tax reporting requirements as well as time required to enforce the relevant terms of service, any game “sun-setting” requirements or to identify, issue or resolve legal proceedings. 
+
+We may retain a record of your stated objection to the processing of your data, including in respect of an objection to receiving marketing communications, for the sole purpose of ensuring that we can continue to respect your wishes to not contact you further, during the term of your objection.
+
+We will take appropriate steps to seek to destroy or permanently de-identify personal information at the point this information is no longer needed by us for our business or legal purposes, when you withdraw consent (as applicable) or at your request.
+
+## 5\. Your choices and rights
+
+You have options and choices over how we use your information. We provide you with tools to access and update specific information relating to your use of the Products at any time. If you need to sign in to access certain Products, you can update and amend your key contact information directly.
+
+We respect the rights you may have under applicable law to request access to your personal information and where applicable, to request to receive that information in a commonly used electronic format (or ask for this information to be provided in that format to a third party where feasible). You may also have the right under applicable law to request the correction or erasure of your personal information, to seek to object to the further processing under certain circumstances of your information or to request that the processing of specific information about you is restricted while we verify or investigate your concerns about this information.  We do not verify the correctness of your personal information.
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms.  For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+Please contact us as described in Section 7 to exercise any of these rights.
+
+If you remain unhappy with a response you receive, and are in the European Union, you can also refer the matter to your data protection supervisory authority (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>).
+
+California Civil Code Section 1798.83 (“Shine the Light”) permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us as described below in Section 7 “Contact Us”. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.
+
+In addition, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact Sega of America Inc.’s Data Protection Officer ([DPO@sega.net](mailto:DPO@sega.net)) or the ESRB at <https://www.esrb.org/privacy/contact.jsp>, or
+
+ESRB
+
+Attn: Privacy Certified Program
+
+420 Lexington Avenue, Suite 2024
+
+New York, NY 10170
+
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
-## HOW WILL I KNOW IF THIS PRIVACY POLICY HAS CHANGED?
+## 6\. Children’s information
 
-We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+If we learn that we have collected personal information of users under the age of 13 or other applicable age of consent, other than persistent identifiers for support of the internal operations of the Products (in the U.S.) and/or for our legitimate interests (outside the U.S.), then we will take reasonable steps to remove such information. We may collect non-personally identifiable information from children, such as country settings and language settings to ensure compliance with the applicable law for the specified country. If you believe that we may have unintentionally collected personal information about your child, you may contact us using the details provided below.
 
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+## 7\. Your questions and how to contact us
 
-## SEGA'S POLICY REGARDING CHILDREN UNDER 13:
+If you have any questions or comments about this policy or our practices you can contact us:
 
-We do not knowingly collect personal information such as name and email address from children under 13. From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or parental permission. Such portions of our sites operate activities or provide services in a way that does not require prior parental consent. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
+By email at:   [help@sega.co.uk](mailto:help@sega.co.uk)        
 
-## PARENTS OF SEGA FANS -- WELCOME TO SEGA.COM!
+By writing to us at:
 
-We want to reassure you that SEGA.com is a safe website for your children to visit. We take privacy issues very seriously for all our site visitors, and particularly for our younger visitors. Please take a moment to read about the specific measures we've taken to insure your child's safety while exploring our site.
+Sega of America Inc
 
-If a child states that he or she is under 13 years old, we do not collect or store any contact information for them. This is in compliance with current Federal Trade Commission regulations. Children under 13 are allowed to enter contests and provide contact information should they win, however we delete this information once the contest is over. We do not collect any information that is not necessary to operate our site and we do not sell the data we collect to outside parties.
+6400 Oak Canyon, Suite 100
 
-Children of all ages are encouraged to send their artwork for posting in our Sonic Fan Art Gallery. We protect the privacy of our users by posting only their first name and last initial. After the artwork is posted, their e-mail is deleted.
+Irvine, CA 92618
 
-All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB ratingplus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
-
-We hope this page has answered many of your questions about our site. For more detailed information, see our [Privacy Policy](http://www.sega.com/privacy "Privacy Policy") and [Terms of Use](http://www.sega.com/terms "Terms of Use"). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](https://segaofamerica.zendesk.com/home "Customer Support Online Form") and a customer support representative will answer your question shortly.
-
-## ESRB RATING CATEGORIES
-
-The following are ratings given to video games by the Entertainment Software Rating Board (ESRB) based upon the type of game content. For more information about the ESRB and their ratings system, please see their website at: [www.esrb.org](http://www.esrb.org/ "www.esrb.org").
-
-Early Childhood Titles rated "Early Childhood (EC)" have content that may be suitable for children ages three and older and do not contain any material that parents would find inappropriate.
-
-Everyone Titles rated "Everyone (E)" have content that may be suitable for persons ages six and older. These titles will appeal to people of many ages and tastes. They may contain minimal violence, some comic mischief (for example, slapstick comedy), or some crude language.
-
-Everyone 10+ Titles rated E10+ (Everyone 10 and older) have content that may be suitable for ages 10 and older. Titles in this category may contain more cartoon, fantasy or mild violence, mild language, and/or minimal suggestive themes.
-
-Teen Titles rated "Teen (T)" have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language, and/or suggestive themes.
-
-Mature Titles rated "Mature (M)" have content that may be suitable for persons ages 17 and older. Titles in this category may contain mature sexual themes, more intense violence and/or strong language.
-
-Adults Only Titles rated "Adults Only (AO)" have content suitable only for adults. Titles in this category may include graphic depictions of sex and/or violence. Adults Only products are not intended to be sold or rented to persons under the age of 18.
-
-Rating Pending Product has been submitted to the ESRB and is awaiting final rating.
-
-## CONTENT DESCRIPTORS
-
-When consumers look on the back of a package, they may see any of the following phrases that further describe the product's content.
-
-**Alcohol Reference**  
-Reference to and/or images of alcoholic beverages.
-
-**Animated Blood**  
-Discolored and/or unrealistic depictions of blood.
-
-**Blood**  
-Contains depictions of blood.
-
-**Blood and Gore**  
-Depictions of blood or the mutilation of body parts.
-
-**Cartoon Violence**  
-Violent actions involving cartoon-like situations and characters. May include violence where a character is unharmed after the action has been inflicted.
-
-**Comic Mischief**  
-Depictions or dialogue involving slapstick or suggestive humor.
-
-**Crude Humor**  
-Depictions or dialogue involving vulgar antics, including "bathroom" humor.
-
-**Edutainment**  
-Content of product provides user with specific skills development or reinforcement learning within an entertainment setting. Skill development is an integral part of product.
-
-**Fantasy Violence**  
-Violent actions of a fantasy nature, involving human or non-human characters in situations easily distinguishable from real life.
-
-**Gambling**  
-The depiction of betting-like behavior.
-
-**Informational**  
-Overall content of product contains data, facts, resource information, reference materials, or instructional text.
-
-**Intense Violence**  
-Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons, and depictions of human injury and death.
-
-**Language**  
-Mild to moderate use of profanity.
-
-**Lyrics**  
-Mild references to profanity, sexuality, violence, alcohol, or drug use in music.
-
-**Mild Violence**  
-Scenes or activities which depict characters in unsafe and/or violent situations.
-
-**Sexual Themes**  
-Mild to moderate sexual references and/or depictions. May include partial nudity.
-
-**Simulated Gambling**  
-Player can gamble without betting or wagering real cash or currency.
-
-**Some Adult Assistance May Be Needed**  
-Early Childhood descriptor only.
-
-**Strong Language**  
-Explicit and/or frequent use of profanity.
-
-**Strong Lyrics**  
-Profanity and explicit references to sexuality, violence, alcohol, or drug use in music.
-
-**Strong Sexual Content**  
-Graphic references to and/or depictions of sexual behavior, possibly including nudity.
-
-**Suggestive Themes**  
-Mild provocative references or material.
-
-**Tobacco Reference**  
-Reference to and/or images of tobacco products.
-
-**Use of Alcohol**  
-The consumption of alcoholic beverages.
-
-**Use of Drugs**  
-The consumption or use of illegal drugs.
-
-**Use of Tobacco**  
-The consumption of tobacco products.
-
-**Violence**  
-Scenes involving aggressive conflict.  
- 
-
-## ESRB HELPS PARENTS CHOOSE THE RIGHT GAMES FOR THEIR FAMILIES
-
-The ESRB rating system is designed to give parents the information they need to evaluate a computer or video game before making a purchasing decision. The ratings are not meant to recommend which games consumers should buy or rent or to serve as the only basis for choosing a product. Rather, parents should use the ESRB ratings in conjunction with their own tastes and standards and their individual knowledge about what's best for their kids.
-
-ESRB recommends that parents learn about games before making a purchasing decision. Game reviews printed in newspapers and publisher web sites can be excellent sources of information. To search for games that are appropriate based on age categories and content, use our online ratings search feature.
-
-ESRB also urges parents to talk with their children about their favorite games. Playing the games with your children helps stimulate those discussions, and playing games as a family can also be a fun way to spend time together.
+You can also contact our data protection officer at [dpo@sega.net](mailto:dpo@sega.net)
