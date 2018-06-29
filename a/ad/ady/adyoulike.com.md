@@ -1,88 +1,107 @@
-> *The following text is extracted and transformed from the adyoulike.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101182546id_/http%3A//www.adyoulike.com/privacy-uk/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyoulike.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113033id_/https%3A//www.adyoulike.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Adyoulike Privacy Policy
+# ADYOULIKE I Deep Native Advertising
 
-Adyoulike considers it a priority to respect your privacy.   
-By visiting this page you will be informed about how we manage your personal data, why we analyse it and the different ways we protect it. 
+## ADYOULIKE and its partners are committed to protecting your privacy
 
-NATIVE ADVERTISING
+#### // ADYOULIKE considers it a priority to respect your privacy.
 
-Adyoulike specialises in in-feed native advertising which respects the user journey. The user reaches the content they are looking for before seeing the advert (a paid placements on a publisher site) which is integrated into the publisher site with the same look and feel as the rest of the page. Adyoulike's technology is constantly evolving and we always respect and protect the data that is collected. 
+By visiting this page you will be informed about how we treat your personal data, why we analyze it and the means we use to protect your data. All processing of personal data implemented by ADYOULIKE complies with the provisions of Law No. 78-17 of 6 January 1978 (hereinafter "Data Protection Act") and Regulation (EU) 2016/679 on data protection (hereinafter 'GDPR').
 
-  * __
+#### // ADYOULIKE RESPONSIBLE FOR TREATMENT
 
-### Distribution Native Advertising
-
-  * __
-
-### Quality content
-
-  * __
-
-### Respect your privacy
-
-  * __
-
-### Changing technology
-
-  * __
-
-### Publisher sites compensation source
+  * your navigation data by its Cookies,
+  * and your personal information (name, surname, email, and phone number), via its contact form, via its demo product request form, via its registration form as a publisher of the website and via its form as an advertiser.
 
 
 
+This information is collected in order to be able to answer your requests, and to be used within the framework of commercial prospections, to present you new products which could according to your profile (publisher, advertiser, visitor) you are interested. This information is intended solely for the internal service of ADYOULIKE.
 
-TARGET
+The Data Protection Officer (DPO) is: Rudy LELLOUCHE, who can be contacted at [rgpd@adyoulike.com](mailto:rgpd@adyoulike.com)
 
-Our goal is to provide personalised advertising, contextualised and targeted ads based on the data collected. That way we build your user profile and your recent browsing behaviour while respecting your privacy. The user experiences native advertising as part of their usual online browsing while discovering advertising offers, products, videos, images and websites, as with any web content. 
+#### // DURATION OF STORAGE OF COLLECTED DATA
 
-USER CHOICE
+The personal data that we collect via our website, in particular via the contact form, are kept for the time strictly necessary for the management of the commercial relationship.
 
-If you would like to opt out from Adyoulike tracking your user data you can disable here: "Opt-out ON OFF". This will stop us tracking anonymised data but will not stop the delivering of ads. 
+The collected browsing data is kept for a maximum of thirteen months (13 months) after the date of collection. Our cookies expire three months after their last update.
+
+#### // RIGHTS OF THE USER RELATING TO HIS PERSONAL DATA
+
+In accordance with the Data Protection Act and the GDPR, you have a right to access, rectify and delete personal data about you, as well as a right to portability of your data. You have a right to limit treatment, a right to oppose the treatment and a right to set guidelines on the fate of your personal data after your death.
+
+You can exercise these rights by writing to [rgpd@adyoulike.com](mailto:rgpd@adyoulike.com) or to the address ADYOULIKE SERVICE RGPD 37 RUE BOISSIERE 75116 PARIS.
+
+In accordance with the law, you have the legal right to lodge any claim with a supervisory authority <https://www.cnil.fr/en/home>
+
+### ADYOULIKE'S "NATIVE ADVERTISING ", WHAT IS IT?
+
+#### // Native Advertising
+
+ADYOULIKE specializes in the diffusion (creation, programming) of native advertising respecting your user journey. You consume the content that you have come to look for before viewing the advertisement (remuneration source of the publisher sites) that is integrated in your navigation or in the contextual flow of the publisher site. Thus by the view of the advertisement, you allow the publisher site to be paid and to continue to present you with quality content.
+
+  * Distribution  
+Native Advertising
+  * Quality  
+content
+  * Respect your  
+privacy
+  * Changing  
+technology
+  * Publisher sites  
+sources
+
+
+
+As part of its Native Advertising services, ADYOULIKE collects, as a subcontractor, on behalf of its customers, your browsing data via Cookies posted on advertising sites or the websites of its advertising partners.
+
+### WHY DO WE TARGET YOU?
+
+#### // Target
+
+Our goal is to provide personalized, contextualized, targeted advertising based on the data collected and your recent browsing behavior while respecting your anonymity. Advertising is an integral part of your navigation, allowing you to discover advertising offers, products, videos, images, websites, like any other web content.
+
+### CONSENT OF THE USER
+
+When consulting the ADYOULIKE website or the websites of its advertising partners, an information banner on these sites informs you of the deposit of advertising cookies and asks you to consent to them. However, if you want ADYOULIKE to no longer drop an advertising cookie on the browser you are currently using, you can disable them here. This will prevent ADYOULIKE from collecting anonymous data but will not interrupt the ad serving.
 
 ON
 
-Adyoulike targeting services are enabled on your browser. The ads we display are customised according to your preferences. Adyoulike will not be able to improve the relevance of the ads we display on your browser by disabling cookies. 
+ADYOULIKE targeting services are enabled on your browser. The advertisements we display are customized, and optimized based on your anonymous user profile. If you disable them, ADYOULIKE will no longer be able to improve the relevance of the advertisements we display on your browser. 
 
-We respect your privacy
+#### // WE RESPECT YOUR PRIVACY
 
-We collect information through cookies placed in your browser. Adyoulike “tags” visitors to sites containing advertising and its advertising partners´ websites with advertising cookies. A technical identifier is then assigned to the user. We do not collect any personal data and information (i.e.: address, date of birth...) that could allow us to identify you. We do not use or store your IP address for targeted advertising *. 
+We collect information through cookies placed on your browser. Thus, ADYOULIKE "tag" the visitors of the sites diffusing advertising or the websites of its advertising partners with advertising cookies. A technical identifier is assigned to the users of these cookies. We do not collect any data and information (addresses, dates of birth ...) to identify you personally.
 
-We do not use or store your IP address for targeted advertising *. 
+We do not use or store your IP address for advertising targeting purposes *
 
-* As per industry best practices, we use IP addresses only to detect fraud. The aim is to identify situations that may be related to robots which serve a high volume of clicks within a limited time; or to steal geographic information. 
+* In line with industry best practices, we use IP addresses for fraud detection purposes. The goal is to identify situations that can be associated with robots as a large volume of clicks in a limited time; or to extract geographic information.
 
-For what purpose?
+#### // DATA PROTECTION
 
-Adyoulike uses cookies to prevent you from seeing the same ad repeatedly and to serve ads that are likely to be more relevant depending on your language or country for example. Cookies are mainly used to improve the relevance of the ads you see depending on where you are, the content you see, and your user profile. The cookies are used to improve the relevance of the ads served and allow the publisher sites to remain free. 
+ADYOULIKE attaches the utmost importance to the security of the information we collect for advertising targeting purposes. We have implemented industry-standard security measures that include the use of encryption and firewalls.
 
-Data protection
+#### // ADYOULIKE´S THIRD PARTIES
 
-Adyoulike works towards the highest security standards to collect data from targeted audiences. We have implemented security measures within industry standards, such as encryption and firewalls. The data collected is kept for a maximum period of thirteen months (13 months) from the date of collection. Our cookies expire thirteen months after their last update. 
+As part of its services, ADYOULIKE can also use anonymous data for statistical purposes intended to be published in various specialized media, on the ADYOULIKE website or via email campaigns aimed at professionals of the Adtech business or Advertising without naming the client, or the publisher site. Some cookies that we issue are provided by third-party service providers that are linked to campaign delivery by advertising partners or by audience analysis services such as Google Analytics.
 
-Adyoulike´s third parties
+### ADYOULIKE: MEMBER OF IAB
 
-Adyoulike may also use data for statistical purposes to be published without mentioning the client or the publisher site. Some of the cookies we issue are provided by third-party providers. Those are related to the campaign’s ‘diffusion by advertising partners or by audiences’ analysis services such as Google Analytics. 
+ADYOULIKE is a member of the IAB France (www.iabfrance.com) and IAB UK (www.iabuk.net) and is committed to working towards a regulatory framework ensuring greater transparency and better monitoring practices related to targeted advertising distribution across the Internet.
 
-Adyoulike is a member of the IAB France ([www.iabfrance.com](http://www.iabfrance.com/)) and IAB UK ([www.iabuk.net](http://www.iabuk.net/)) and is committed to working towards a regulatory framework ensuring greater transparency and better monitoring practices related to targeted advertising distribution across the Internet. 
+### GLOSSARY
 
-What is a cookie? 
+#### // WHAT IS COOKIE?
 
 A cookie is a small text file stored on a user´s device (computer, mobile or tablet) for registration purposes. When it is linked to the browser and disappears when it closes, it is called "cookie session or browser cookie". When it allows to record and identify the users´ interests and to enhance their advertising experience, then it is called "advertising cookie". Those last ones, are stored for a longer period of time. You can remove them using the "Help" section in your browser.
 
-What is a pixel? 
+#### // WHAT IS A PIXEL?
 
-An Adyoulike pixel can be placed on a partner or publisher site and corresponds to an invisible graphic image no bigger than a 1x1 pixel. This pixel allows us to set a cookie on your device while browsing - if the configuration allows. 
+An ADYOULIKE pixel can be placed on a partner or publisher site and corresponds to an invisible graphic image no bigger than a 1x1 pixel. This pixel allows us to set a cookie on your device while browsing - if the configuration allows.
 
-What is a publisher? 
+#### // WHAT IS A PUBLISHER?
 
-A publisher is a website with web content (html, text, image, video etc.) which offers services that can be accessed from hardware (computer, mobile or tablet) through a web browser and may content advertising. 
+A publisher is a website with web content (html, text, image, video etc.) which offers services that can be accessed from hardware (computer, mobile or tablet) through a web browser and may content advertising.
 
-* Updated: 4th February 2016    
-Please note that we may need to change this privacy policy. In case of an update, we will post those changes in this page and where necessary to inform you about our data collection, how we use it, under what circumstances, and -if so- how we share it. 
+*Updated: April 2018 
 
-## 
-
-"La technologie Adyoulike est en évolution constante, toujours dans le respect et la protection des données que nous collectons." 
-
-JULIEN VERDIER, FOUNDER ADYOULIKE NATIVE ADVERTISING
+© 2018 All rights reserved. Native Advertising in a registered trade mark of ADYOULIKE SA.
