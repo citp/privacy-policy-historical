@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230234619id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629234802id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Vimeo
 
-Last Updated: July 13, 2016
+Last Updated: May 23, 2018
 
 Vimeo, Inc. respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of [Vimeo.com](https://web.archive.org/) or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -20,10 +20,10 @@ _In General_. We may collect personal information that can identify you, such as
 
 
 
-_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site. For more information on Cookies, please see our [Cookie Policy](https://web.archive.org/cookie_policy).
+_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site and third party sites on which we display ads or serve our video player. For more information on Cookies, please see our [Cookie Policy](https://web.archive.org/cookie_policy).
 
   * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. You may also clear or delete existing cookies from standard internet browsers.
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
   * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
@@ -103,13 +103,13 @@ We may provide areas on our websites where you can post information about yourse
 
 Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
 
-## Visiting Our Websites from Outside the United States
-
-This Privacy Policy is intended to cover collection of information on or via our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
-
 ## No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+## Data Transfer
+
+Vimeo is headquartered in the United States and uses computer systems, servers, and databases located in the U.S. If you reside outside the U.S., your data will be transferred to, stored in, and processed in the U.S. To facilitate the transfer of data from certain countries in Europe to the U.S., we adhere to the self-regulatory regulatory EU-US and Swiss-US Privacy Shield frameworks and comply with the EU General Data Protection Regulation (GDPR). Please read our [Data Transfer Statement](https://web.archive.org/transfer_statement) for more information about these frameworks and laws, your rights, and how you may resolve complaints with us.
 
 ## Changes to This Privacy Policy
 
@@ -124,4 +124,4 @@ If you have any questions about this Privacy Policy or our information-handling 
 >  New York, New York 10011  
 > 
 
-©2017 Vimeo, Inc. All rights reserved.
+©2018 Vimeo, Inc. All rights reserved.
