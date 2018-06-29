@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207082240id_/https%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareteachers.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629121028id_/https%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WeAreTeachers
 
@@ -24,7 +24,7 @@ You can browse the Site without telling us who you are or revealing any personal
 
 To become a member of WeAreTeachers, you must first complete the registration forms found on the Site. To establish a User ID and password, we require your name and e-mail address. This information is stored on WeAreTeachers’ secure servers and is not shared with any outside parties except as described in this Privacy Policy. If you forget your password, follow the process set up by WeAreTeachers and a new password will be sent to you.
 
-**We may also use your registration information**
+ **We may also use your registration information**
 
   * to provide you with personalized content programming, instructions and services;
   * to provide you with information, through the Site or via e-mail, about our (and our affiliates) products and services as well as news, events, and promotions;
@@ -59,17 +59,17 @@ Users should be aware that other websites visited before entering WeAreTeachers 
 
 WeAreTeachers may need to provide your registration and other personal information to third parties as described in this section.
 
-**. . . to Service Providers  
-**WeAreTeachers may need to provide your registration and other personal information to third parties to deliver specific services to you (such as hosting or support services).
+ **. . . to Service Providers  
+** WeAreTeachers may need to provide your registration and other personal information to third parties to deliver specific services to you (such as hosting or support services).
 
-**. . . to Law Enforcement  
-**WeAreTeachers may disclose registration and any other personal information if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of WeAreTeachers or any third party.
+ **. . . to Law Enforcement  
+** WeAreTeachers may disclose registration and any other personal information if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of WeAreTeachers or any third party.
 
-**. . . to Affiliates  
-**WeAreTeachers may share some or all of your personal information with our affiliates, in which case we will seek to require our affiliates to honor this Privacy Policy.
+ **. . . to Affiliates  
+** WeAreTeachers may share some or all of your personal information with our affiliates, in which case we will seek to require our affiliates to honor this Privacy Policy.
 
-**. . . in the Event of a Change in Ownership  
-**In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of WeAreTeachers’s registration information and User Content, including email addresses, to a separate entity. WeAreTeachers will notify users via a posting on this site or email (in WeAreTeachers’s discretion) of such a transfer, and users may choose to modify their registration information at that time. This means if you are concerned about your personal information migrating to a new owner, you can deactivate your account.
+ **. . . in the Event of a Change in Ownership  
+** In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of WeAreTeachers’s registration information and User Content, including email addresses, to a separate entity. WeAreTeachers will notify users via a posting on this site or email (in WeAreTeachers’s discretion) of such a transfer, and users may choose to modify their registration information at that time. This means if you are concerned about your personal information migrating to a new owner, you can deactivate your account.
 
 #### Security
 
