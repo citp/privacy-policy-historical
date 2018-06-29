@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165517id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145808id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Get Paid To Answer Online Surveys | American Consumer Opinion Panel
 
@@ -8,65 +8,80 @@ This Privacy Policy is reviewed and updated annually.
 
 The American Consumer Opinion Panel® and www.acop.com are owned and operated by [Decision Analyst, Inc](http://www.decisionanalyst.com/)., a global marketing research and analytical consulting firm headquartered in the Dallas-Fort Worth area. Decision Analyst, Inc. subscribes to the privacy, confidentiality, and ethics policies of these organizations: 
 
-  * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode)
+  * [Insights Association](http://www.insightsassociation.org/)
   * [Marketing Research Association (MRA)](http://www.mra-net.org/)
   * [ESOMAR (The World Association of Research Professionals)](http://www.esomar.org/)
-  * [EU Privacy Shield](https://www.privacyshield.gov/)
-  * [US - Swiss Safe Harbor](http://2016.export.gov/safeharbor/)
+  * [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/)
 
 
 
 ### The American Consumer Opinion Panel® BELIEVES THAT ITS MEMBERS HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY ADHERING TO THESE STANDARDS:
 
   * [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/childrens-privacy) issued by the Federal Trade Commission (FTC). 
-  * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode) Standards. 
+  * [Insights Association](http://www.insightsassociation.org/) Standards. 
   * [ESOMAR Guidelines and Standards](http://www.esomar.org/). 
 
 
 
 Privacy Shield Principals as developed by the U.S. Department of Commerce in consultation with the European Commission. 
 
-  * [EU Privacy Shield](https://www.privacyshield.gov/)
-  * [US - Swiss Safe Harbor](http://2016.export.gov/safeharbor/)
-
-  
-_EU-US Privacy Shield Framework_
-
-Decision Analyst complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Decision Analyst has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
-
-In compliance with the EU-US Privacy Shield Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at: 
-
-Internet Operations Department   
-Decision Analyst, Inc.   
-604 Avenue H East   
-Arlington, Texas 76011   
-Phone numbers:   
-Within the U.S., 1-817-649-5241   
-International, 1-817-640-6166   
-Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
-
-Decision Analyst has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.  
+  * [EU-US and Swiss-US Privacy Shield Framework](https://www.privacyshield.gov/)
 
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-Decision Analyst submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing Decision Analyst’s adherence to these practices. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Decision Analyst is potentially liable.
+European Union General Data Protection Regulation created and enacted by the European Parliament and European Council. 
 
-_US-Swiss Safe Harbor Framework_
+  * [EU GDPR](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)
 
-Decision Analyst complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Decision Analyst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/.
+_EU-US and Swiss-US Privacy Shield Framework_
 
-In compliance with the US-Swiss Safe Harbor Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at:
+Decision Analyst complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European and Switzerland to the United States, respectively. Decision Analyst has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at: 
 
 Internet Operations Department   
 Decision Analyst, Inc.   
 604 Avenue H East Arlington, Texas 76011   
 Phone numbers:   
 Within the U.S., 1-817-649-5241   
-International, 1-817-640-6166   
+Outside the U.S., +1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
-Decision Analyst has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20170606165517id_/https://acop.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Decision Analyst has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Decision Analyst submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing Decision Analyst’s adherence to these practices. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Decision Analyst is potentially liable.
+
+  
+_European Union General Data Protection Regulation_
+
+Decision Analyst adheres to the provisions set forth by the European Parliament and the European Council in the General Data Protection Regulation (GDPR). GDPR offers European data subjects (that is, European residents) a number of rights, including:
+
+  * The right to know if we are processing your data.
+  * The right to know why we are processing your data and how we are processing it.
+  * The right to correct any incorrect information we have about you.
+  * The right to consent to the processing of your data and the ability to revoke your consent at any time.
+  * The right to obtain a copy of your personal data.
+  * The right to have your personal data removed from our systems.
+  * The right to object to our processing of your data.
+  * The right to object to our automated processing of your data.
+
+
+
+In addition to these rights, Decision Analyst’s systems are designed with the intent of protecting the privacy of data subjects, as required by GDPR. Any new modifications or designs will continue to, at a minimum, uphold the requirements outlined in this regulation as well as uphold any additional regulations in the future. You can contact Decision Analyst’s Data Protection Officer with any questions, concerns, or objections involving the processing and/or automated processing of your personal data at:
+
+Internet Operations Department   
+Decision Analyst, Inc.   
+Attn: Data Protection Officer   
+604 Avenue H East Arlington, Texas 76011   
+United States   
+Phone numbers:   
+Within the U.S., 1-817-649-5241   
+Outside the U.S., +1-817-640-6166   
+Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
+
+Additional information in regards to these rights and American Consumer Opinion Panel® can be found in the subsequent sections of this privacy policy. More information about GDPR in general can be found at an official website of European Union law, [Eur-Lex](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679).
 
 Back to top
 
@@ -77,6 +92,7 @@ We collect information from you during the registration process and during parti
   * During the registration process (and at times during surveys), we collect your name, address, email address, phone numbers, and the names, dates of birth, and genders of those in your household. We also collect the IP address from your computer, the type of device (PC, tablet computer, smartphone), and your computer's "digital fingerprint," so that we can identify duplicate surveys and detect and prevent fraud. 
   * We also gather information on your household-such as dwelling type, household membership, education level, gender, income, marital status, ethnicity, and occupation. We may ask about products and services used by members of your family, and about your brand preferences, shopping patterns, and buying behavior. 
   * Decision Analyst may collect personal information and demographic information from information services bureaus, other research firms and/or sample providers/suppliers, social media platforms, and other data sources. Decision Analyst may use your personal or demographic information for data validation, data appending, fraud detection and prevention, and/or sending emails to invite you to participate in a survey and/or join another Panel. 
+  * Specific personal information is required from you in order for you to become a member of American Consumer Opinion Panel®. This personal information includes first name, last name, country, province or state, address, city, postal code, and email address. In addition to the previous information, other information may be required to access certain surveys and/or features. 
 
 
 
@@ -91,7 +107,7 @@ We use your personal information for several purposes including, without limitat
 
   * We use your personal information to verify you are who you say you are, and live where you say you live. Any evidence of false or dishonest information will result in the permanent loss of your Membership and the loss of any Points in your Member Account. 
   * We may use your contact information, such as email address, registration data, and IP address, to verify the opt-in nature of our email list, when asked to do so by an Internet Service Provider. 
-  * We will not use mobile phone numbers for text messaging without separately obtaining your consent for the sending of text messages. 
+  * Automated decision-making utilizing your personal information is performed when determining whether or not you qualify for surveys. 
 
 
 
@@ -100,7 +116,25 @@ Back to top
 ### Who We Share Your Information With
 
   * We share your personal information with third parties, including, without limitation, service providers (e.g. email distribution or mailing companies, rewards vendors, companies providing fraud detection/prevention services, companies providing data validation services, companies shipping products to you for use in connection in-home usage testing, etc.), market research companies, and third parties providing data matching and appending services. 
-  * We may share your personal information and/or social-demographic information, including, without limitation, a unique identification number ("UID"), zipcode, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and information on household members, for each member of the American Consumer Opinion Panel® , with Survey Sampling International, LLC ("SSI") for the purpose of allowing SSI to identify survey opportunities that you may be eligible for through SSI's services. If you are eligible for a survey available through SSI, SSI will provide Decision Analyst with your UID and a link to a survey and Decision Analyst will email you an invitation to participate in the survey. Decision Analyst will not share your name, address, email address, or phone number with SSI. If you have questions about how SSI uses the data we share, please review SSI's privacy policy available [here]. The sharing of your information by Decision Analyst with SSI and your participation in a survey available through SSI, **does not** make you a member of any panel owned and/or operated by SSI and does not qualify you for, or entitled you to receive, any benefit(s) or incentive(s) offered to the members of the panels owned and/or operated by SSI. If you would like to opt-out of this sharing of your information, please contact Decision Analyst at 1-800-262-5974 or you can email us at aparks@acop.com and Decision Analyst will (i) stop sharing your information with SSI and (ii) request that SSI delete all of your information that Decision Analyst previously shared with SSI. 
+  * We may share your personal information and/or social-demographic information, including, without limitation, a unique identification number ("UID"), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the following purposes: 
+
+
+    1. Identifying client survey opportunities that you may be eligible for through the Third Party MR Companies; and
+  
+
+    2. Disclosing such data elements to clients of the Third Party MR Companies for audience measurement services; and
+  
+
+    3. Appending such data elements to completed client surveys and delivering the appended survey data to clients of the Third Party MR Company(ies) for analytical or research purposes; and
+  
+
+    4. Other uses as set forth in their privacy policy.
+  
+
+
+
+If you are eligible for a client survey opportunity offered through a Third Party MR Company, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the client survey through email or through your account page. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States, and by agreeing to this privacy policy you are agreeing to the processing and exportation of your personal information as set forth in this Section. If you have any questions about this data sharing please contact Decision Analyst by emailing us at aparks@acop.com or you can opt-out through your account page or by emailing Decision Analyst at aparks@acop.com. If you opt-out, it is the responsibility of us to inform the Third Party MR Companies. Please note that Decision Analyst is solely liable and responsible for managing all opt-out requests. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
+
   * We may contract with an email service provider to help us send email invitations to surveys. In such cases, we will have a nondisclosure agreement with the email service provider to ensure your personal contact information is protected and private. 
   * Decision Analyst may disclose or share personal and other information collected through Decision Analyst's services with other companies as follows: 
   *     * In response to a subpoena or an order of a court or government agency. 
@@ -223,9 +257,9 @@ Back to top
 
 If you believe Decision Analyst, Inc. has violated this Privacy Policy with respect to your personal information, please contact us so that we can investigate and correct any errors or mistakes. If you are a US resident and you are not satisfied with our response, you may file a complaint with the 
 
-_Council of American Survey Research Organizations (CASRO)_
+_Insights Association_
 
-, 170 North Country Road, Suite 4, New York 11777 or, if you are an EU or Swiss resident, you may file a complaint with the BBB EU Safe Harbor at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program). 
+, 170 North Country Road, Suite 4, New York 11777 or, if you are an EU or Swiss resident, you may file a complaint with the EU Privacy Shield at <https://www.privacyshield.gov/>. 
 
 Back to top
 
@@ -235,19 +269,11 @@ We welcome your questions or comments regarding our data-protection practices an
 
 Internet Operations Department   
 Decision Analyst, Inc.   
-604 Avenue H East   
-Arlington, Texas 76011   
+604 Avenue H East Arlington, Texas 76011   
 Phone numbers:   
 Within the U.S., 1-817-649-5241   
-International, 1-817-640-6166   
+Outisde the U.S., +1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
-
-For more information about Internet privacy and the privacy guidelines we follow: 
-
-  * [Safe Harbor Overview](http://www.export.gov/safeharbor/index.asp)
-  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp)
-  * 
-
 
 Back to top
 
