@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theliquorbarn.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218035055id_/http%3A//www.theliquorbarn.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theliquorbarn.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629123813id_/http%3A//www.theliquorbarn.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Liquor Barn | Privacy Policy
 
