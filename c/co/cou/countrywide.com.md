@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224153629id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629233123id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
 
-# Bank of America Privacy and Security
+# Bank of America Security Center
 
 [U.S. Online Privacy Notice FULL PAGE VERSION ](https://web.archive.org/privacy/online-privacy-notice.go)
 
 ## Bank of America U.S. Online Privacy Notice
 
-Last updated July 24, 2014
+Last updated May 1, 2018
 
 This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface (i.e., website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).  The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you, and explains how information may be collected and used for advertising purposes.
 
-Bank of America provides other online interfaces not covered by this Notice.  If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
+Bank of America provides other online interfaces not covered by this Notice. If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
 
-For U.S. account holders and visitors to this Site, we will use and share any information that we collect from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go), which provides choices in the use and sharing of information. For Non-U.S. account holders utilizing this Site, we will use and share your account information in accordance with the privacy disclosure that covers your account and with the privacy and security rules applicable to the Bank of America affiliate or subsidiary that provides that account to you.
+For visitors to this Site, we will use and share any information that we collect on this site from or about you in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://www.bankofamerica.com/privacy/consumer-privacy-notice.go).
 
-Additional information on our Privacy & Security practices may be found on our Sites and within [Frequently Asked Questions (FAQs)](https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
+Additional information on our Privacy & Security practices may be found on our Sites and within [Frequently Asked Questions (FAQs)](https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go). Although the additional information is provided as a resource, the terms and conditions of this Notice control, and by using the Site, you agree to the terms and conditions of this Notice.
 
 ### Collecting and Using Information
 
@@ -32,10 +32,10 @@ We may use Personal Information:
   * to personalize your experience on the Site;
   * to allow you to apply for products or services (e.g., to prequalify for a mortgage, apply for a credit card, or to open a retirement account, investment account or other financial product) and evaluate your eligibility for such products or services;
   * to verify your identity and/or location (or the identity or location of your representative or agent) in order to allow access to your accounts, conduct online transactions and to maintain measures aimed at preventing fraud and protecting the security of account and Personal Information;
-  * to allow you to participate in surveys and other forms of market research, sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which may contain additional information about how Personal Information is used and shared;
-  * to allow you to use some Site financial planning tools. Information that you enter into one of these planning tools may be stored for future access and use. You have the option not to save the information;
-  * collected through aggregation services such as My Portfolio® and My Financial Picture® in order to consolidate your financial account information at one online location; understand what product or service may be of interest to you; and present you with offers;
-  * collected through our social media pages and other online interactions with you to assist in verifying your identity and account status.  We may combine this online information with information collected from offline sources or information we already have;
+  * to allow you to participate in surveys and other forms of market research, sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which may contain additional information about how Personal Information is used and shared;
+  * to allow you to use some Site financial planning tools. Information that you enter into one of these planning tools may be stored for future access and use. You have the option not to save the information;
+  * collected through aggregation services such as My Portfolio® and My Financial Picture® in order to consolidate your financial account information at one online location; understand what product or service may be of interest to you; and present you with offers;
+  * collected through our social media pages and other online interactions with you to assist in verifying your identity and account status. We may combine this online information with information collected from offline sources or information we already have;
   * for business purposes, including data analysis, audits, developing and improving products and services, enhancing the Site, identifying usage trends and determining the effectiveness of promotional campaigns;
   * for risk control, for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
   * to allow you to utilize features within our Sites by granting us access to information from your device such as contact lists, or geo-location when you request certain services.
@@ -48,16 +48,16 @@ Please see the [Bank of America U.S. Consumer Privacy Notice](https://www.bankof
 
 #### Other Information We Collect Online
 
-Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data.  
+Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data.
 
 #### How We Collect and Use Other Information
 
 We and our third-party service providers may collect and use Other Information in a variety of ways, including:
 
-  * **Through your browser or device:** Certain information is collected by most browsers and/or through your device, such as your Media Access Control (MAC) address, device type, screen resolution, operating system version and internet browser type and version. We use this information to ensure Sites function properly, for fraud detection and prevention, and security purposes.
-  * **Using cookies:** Cookies are pieces of information stored directly on the device you are using. Cookies we use do not contain or capture unencrypted Personal Information. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and your relationship with us. We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize/tailor your experience while engaging with us, and to recognize your device to allow your use of our online products and services. We collect statistical information about the usage of the Site in order to continually improve the design and functionality, to monitor responses to our advertisements and content, to understand how account holders and visitors use the Site and to assist us with resolving questions regarding the Site. We also utilize cookies for advertising purposes. Please see the **Advertising** section below for more information. 
+  * **Through your browser or device:** : Certain information is collected by most browsers and/or through your device, such as your Media Access Control (MAC) address, device type, screen resolution, operating system version and internet browser type and version. We use this information to ensure Sites function properly, for fraud detection and prevention, and security purposes.
+  * **Using cookies:** Cookies are pieces of information stored directly on the device you are using. Cookies we use do not contain or capture unencrypted Personal Information. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and your relationship with us. We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize/tailor your experience while engaging with us, and to recognize your device to allow your use of our online products and services. We collect statistical information about the usage of the Site in order to continually improve the design and functionality, to monitor responses to our advertisements and content, to understand how account holders and visitors use the Site and to assist us with resolving questions regarding the Site. We also utilize cookies for advertising purposes. Please see the **Advertising** section below for more information. 
 
-You can refuse to accept these cookies and most devices and browsers offer their own privacy settings for cookies.  You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products and services.  For example, we will not be able to recognize your device and you will need to answer a challenge question each time you log on.  You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.
+You can refuse to accept these cookies and most devices and browsers offer their own privacy settings for cookies. You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products and services. For example, we will not be able to recognize your device and you will need to answer a challenge question each time you log on. You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.
 
   * **Other technologies including  pixel tags, web beacons, and clear GIFs:** These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising, and to assist us in resolving account holders’ questions regarding use of our Site. Please see our **Advertising** section below for more information regarding our use of other technologies.
   * **Flash objects:** As part of our solutions for online authentication, we use Flash objects (sometimes referred to as “Local Shared Objects”) to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content. We do not use Flash objects for any online behavioral advertising purpose. Deleting cookies does not delete Flash objects. You can learn more about Flash objects - including how to control and disable them - through the Adobe interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
@@ -98,7 +98,7 @@ We or our advertising service providers may use certain information about you
 
 #### Advertising on third party sites and mobile apps
 
-Bank of America contracts with advertising companies to advertise our products and services on sites and mobile apps not affiliated with us.  We may use Aggregated and De-identified Data and information provided by you to these third party sites and mobile apps to select which of our advertisements or offers may appeal to you, display them to you and monitor your responses.  Third Party sites and mobile apps are not subject to Bank of America Privacy Notices. Please visit the individual sites and mobile apps for additional information on their data and privacy practices and opt out policies.
+Bank of America contracts with advertising companies to advertise our products and services on sites and mobile apps not affiliated with us. We may use Aggregated and De-identified Data and information provided by you to these third party sites and mobile apps to select which of our advertisements or offers may appeal to you, display them to you and monitor your responses. Third Party sites and mobile apps are not subject to Bank of America Privacy Notices. Please visit the individual sites and mobile apps for additional information on their data and privacy practices and opt out policies.
 
 #### Online Behavioral Advertising on third party sites and mobile apps
 
@@ -106,7 +106,7 @@ Some of our tailored ads are online behavioral advertising, and may be served u
 
 ### Advertising Choices
 
-You may set your choices for advertising in the following ways:
+**You may set your choices for advertising in the following ways:**
 
 **Online Behavioral Advertising:** If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may opt out of online behavioral advertising.
 
