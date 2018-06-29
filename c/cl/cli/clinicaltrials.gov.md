@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222021209id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629120154id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -90,7 +90,7 @@ Common third-party website privacy policies used by NLM include:
   * [Facebook Data Policy](https://www.facebook.com/policy.php)
   * [Flickr Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/)
   * [GitHub Privacy Policy](https://enterprise.github.com/privacy)
-  * [Google and YouTube Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+  * [Google and YouTube Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and you can [manage the privacy settings for your Google account](https://myaccount.google.com/privacy)
   * [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
   * [Pinterest Privacy Policy](https://about.pinterest.com/en/privacy-policy)
   * [Twitter Privacy Policy](https://twitter.com/privacy?lang=en)
@@ -118,15 +118,16 @@ On some portions of our website we have enabled Google Analytics and other third
 
 You can opt-out of receiving DoubleClick advertising at <https://support.google.com/ads/answer/2662922?hl=en>.
 
-  * **ForeSee:** NLM also uses the ForeSee survey to collect opinions and feedback from a random sample of visitors and to understand our visitors’ satisfaction with the NLM website. This survey does not collect PII and participation in the survey is voluntary. If you decline the survey, you will still have access to the identical information and resources on the NLM website as those who take the survey. Answers to the survey help NLM improve its website to make it easier to use and more responsive to the needs of our visitors. The ForeSee Privacy Policy is available at <https://www.foresee.com/about-us/privacy-policy/>.
+  * **Survey tools:** NLM also uses surveys to collect opinions and feedback from a random sample of visitors and to understand our visitors’ satisfaction with the NLM website. These surveys do not collect PII and participation is voluntary. If you decline a survey, you will still have access to the identical information and resources on the NLM website as those who take the survey. Answers to surveys help NLM improve its websites to make them easier to use and more responsive to the needs of our visitors. The following privacy policies are available at 
+    * **ForeSee** : <https://www.foresee.com/about-us/privacy-policy/>.
+    * **Qualtrics** : <https://www.qualtrics.com/privacy-statement/>
+    * **Survey Monkey** : <https://www.surveymonkey.com/mp/legal/privacy-policy/>
 
 
 
 ## Web Measurement and Customization Tools
 
 NLM uses the specified software and features below:
-
-**AddThis:** NLM offers AddThis on its websites, giving visitors the option to bookmark and share NLM website content on certain social media sites.  Using AddThis on NLM websites does not require registration or personally identifiable information. The AddThis Privacy policy is available at <https://www.addthis.com/privacy>.
 
 **Bit.ly and Go.USA.gov:** NLM uses Bit.ly and Go.USA.gov to shorten long URLs for use in email and social media messages.
 
