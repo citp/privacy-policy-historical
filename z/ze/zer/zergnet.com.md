@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zergnet.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114224610id_/http%3A//www.zergnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zergnet.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113045id_/http%3A//zergnet.com/privacy) for the most accurate reproduction.*
 
 # ZergNet - You make great content. We help you promote it.
 
-## Privacy Policy
+##  ZergNet.com Privacy Policy 
 
-### Privacy
+##  ZergNet Widget Data Protection Summary
 
 7hops.com Inc. (“ZergNet”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of ZergNet’s website, located at the domain zergnet.com (the “ZergNet Website"). Please note that this Privacy Policy only applies to the ZergNet Website.
 
@@ -45,3 +45,70 @@ The ZergNet Website is not directed to children under 18. If a parent or guardia
 ### Changes to this Privacy Policy
 
 ZergNet reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here. You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at info@zergnet.com.
+
+* * *
+
+This will help to explain the practices regarding the collection, use and disclosure of your personal data by 7Hops.com Inc. (“ZergNet”) in connection with the ZergNet widget appearing on third party websites.
+
+### The Purpose Of the ZergNet Widget and Legitimate Interest for this Processing
+
+ZergNet and the publishers (“Publisher”) of one or more websites you visit (“Publisher Website”) have a commercial arrangement for ZergNet to provide the Publisher with javascript code that displays the ZergNet widget (“ZergNet Widget”) displaying content in which you may be interested. In order for ZergNet to do so, it must collect and process a limited amount of personal data and place a cookie on your browsing device. 
+
+### Data Collected by the ZergNet Widget
+
+The ZergNet Widget collects only the following data:
+
+• the IP address of the device which displayed the ZergNet Widget
+
+• the user agent (what kind of device and browser) which displayed the ZergNet Widget
+
+• the identity of the Publisher Website on which the ZergNet Widget was displayed
+
+• the content links you clicked on (if any), which is recorded in a cookie stored on a browser device along with other cookies containing an identifier for the Publisher Website on which you viewed the ZergNet Widget, and an identifier for the precise version of the ZergNet Widget you were viewing 
+
+### The ZergNet Widget Cookie
+
+• The “ZergNet Widget Cookies” are small data files that ZergNet’s servers transfer to your computer’s hard disk when you view the ZergNet Unit. The ZergNet Widget Cookies are named “recent_crc”, “recent_clicks”, and “seen_crc”. As noted above, the ZergNet Widget Cookies contain only the content links you clicked on (if any), an identifier for the Publisher Website on which you viewed the ZergNet Widget, and an identifier for the precise version of the ZergNet Widget you were viewing, for the sole purpose of ensuring that you receive a variety of ZergNet content (also called “frequency-capping”). 
+
+• It is possible to opt out of cookies via your browser’s cookie settings. Most browsers allow you to opt out of all cookies, or just “third party cookies”. Either will prevent the ZergNet Widget from placing a cookie on your browsing device. 
+
+• You may also opt-out by visiting our opt-out page [here](https://web.archive.org/optout). Please note that after choosing to opt-out, if you use a different computer or a different browser, or if you delete or block browser cookies, you may need to repeat the opt-out steps. 
+
+### What ZergNet Does with that Data
+
+• ZergNet keeps logs of IP addresses, user agent information, and Publisher Website identity (but not the cookie information) for 30 days in their raw form. We aggregate the data into categories and counts necessary for the business relationship with the relevant Publisher (to count, sort and report impressions and to make payment), and then we delete the logs. The aggregated data does not contain any data which is identifiable to any natural person (for example, IP addresses). While we have the logs in their raw form, we may also use them for performance and security auditing. ZergNet will also retain personal data as necessary to comply with its legal obligations, resolve disputes, and enforce its agreements. 
+
+• ZergNet uses the information stored in the ZergNet Widget Cookies to avoid displaying content to you that you already clicked on from the specific Publisher Website identified in the cookie. ZergNet does not store this data, and you can delete the cookie at any time. ZergNet does not use cookies or other mechanisms to track user behavior across multiple Publisher Websites. 
+
+### Exceptions For Extreme Circumstance
+
+Your personal data may be used when necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or if otherwise required by law to do so (such as a subpoena).
+
+### Transfer of Data Outside of Europe And Outside of the United States
+
+Your personal data will be processed by ZergNet in the United States and possibly other countries outside of Europe. ZergNet abides by the principles of the EU – U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Frameworks.
+
+### Who Else Will Receive The Data
+
+ZergNet will share your personal data with third party service providers that work with us to provide our services such as providers to host ZergNet’s infrastructure solution. These third-party service providers have access to your personal data only for the purpose of performing services on our behalf. ZergNet may share aggregated, non-identifying information with other third parties, including other users, to enhance the effectiveness of our services and for industry research and analysis, benchmarking, and other similar purposes. For example, ZergNet may share aggregated, non- identifying statistics with other website publishers as part of ZergNet’s sales and marketing efforts and to allow publisher to optimize their use of the ZergNet Unit. Finally, ZergNet may also transfer your personal data if its business assets are ever sold to or purchased by another company. (The data records are part of ZergNet’s business.)
+
+### What Rights Do I Have?
+
+Under the applicable laws of various countries, you may have certain rights, such as under EU law, the right to access to, rectification or erasure of, and/or restriction of processing or objection to processing of your personal data. ZergNet’s contact information is below. However, please note that given the limited information ZergNet collects, ZergNet will almost certainly not be able to verify your identity from its records.
+
+### Right to Lodge A Complaint With Data Protection Authorities
+
+If you are a resident in the European Union, you have right to at no cost to lodge a complaint with EU data protection authorities. This right also exists in other countries. If you have questions please contact us or the data protection authority in your country.
+
+### How To Contact ZergNet
+
+ZergNet can be reached at:   
+ZergNet   
+443 Park Avenue South, Suite 501   
+New York, NY 10016   
+Attn: PRIVACY   
+privacy@zergnet.com 
+
+### Scope of Coverage
+
+This Data Protection Summary only covers data collected by ZergNet through the ZergNet Widget. It does not cover data collected by ZergNet from any other source. It does not cover the data practices of any Publisher or Publisher Website.
