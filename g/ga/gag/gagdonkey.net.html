@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gagdonkey.net privacy policy that was archived on 2017-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212200143id_/http%3A//www.gagdonkey.net/en/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gagdonkey.net privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629111507id_/http%3A//www.gagdonkey.net/en/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -39,6 +39,36 @@
     <!-- DO NOT MODIFY -->
     <!-- End Facebook Pixel Code -->
     
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eaf7f7",
+      "text": "#5c7291"
+    },
+    "button": {
+      "background": "#56cbdb",
+      "text": "#ffffff"
+    }
+  },
+  "position": "top",
+  "type": "opt-out",
+  "content": {
+    "deny": "Decline",
+    "href": "http://www.gagdonkey.net/en/static/privacy"
+  },
+  onStatusChange: function(status) {
+      $('.cc-top').hide();
+      console.log(this.hasConsented() ?
+        'enable cookies' : 'disable cookies');
+      
+    },
+})});
+</script>
+
 </head>
 
 
