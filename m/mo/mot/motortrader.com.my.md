@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225073558id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629185647id_/http%3A//www.motortrader.com.my/privacy/index.html) for the most accurate reproduction.*
 
 # Motor Trader - Privacy Policy
 
@@ -69,4 +69,4 @@ We advise you to only select the "Remember me" option if the computer you use is
 
 #### PUBLIC FORUMS
 
-This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your Personal Data. We respect freedom of speech and request that users respect one another in exercising said freedom. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your Personal Data. We respect freedom of speech and request that users respect one another in exercising said freedom. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may email us at info@proto-g.my 
