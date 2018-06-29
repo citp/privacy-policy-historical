@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214161619id_/http%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629184509id_/http%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | British History Online
 
@@ -51,9 +51,9 @@ Shibboleth | **JSESSIONID, _idp_session, _saml_idp** | If you access BHO Premium
   
 You can find out more about cookies, including a list of browser extensions which will automatically control and monitor them, on the Institute of Historical Research's [privacy policy](http://www.history.ac.uk/legal/privacy#cookies).
 
-## The Data Protection Act
+## Data Protection
 
-Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We keep strict security standards to prevent any unauthorised access to it. Subject to the terms of the Act, we shall not pass on your details to any third party or government department unless you give us permission to do so.
+The Institute of Historical Research and British History Online are part of the University of London. Where we collect, manage or store your personal data we are subject to data protection law. You can view the University's data protection policy at the following link: <https://london.ac.uk/about-us/how-university-run/policies/data-protection-policy>.
 
 ## The Information we collect
 
