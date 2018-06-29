@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runnersblueprint.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226045722id_/http%3A//www.runnersblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersblueprint.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629203338id_/http%3A//www.runnersblueprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – RUNNER'S BLUEPRINT
+# Privacy Policy — RUNNER'S BLUEPRINT
 
 This Privacy Policy governs the manner in which Runners Blueprint collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.runnersblueprint.com/> website (“Site”).
 
