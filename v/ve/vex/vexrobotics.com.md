@@ -1,35 +1,6 @@
-> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220171755id_/https%3A//www.vexrobotics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629051441id_/https%3A//www.vexrobotics.com/privacy-policy) for the most accurate reproduction.*
 
 # VEX Robotics Privacy Policy - VEX Robotics
-
-VEX Robotics will be closed for the holidays from December 25 - January 1. All orders and e-mails received during this time will be processed beginning on Tuesday, January 2.
-
-Please note that orders must be placed by these dates to arrive in time for Christmas:
-
-2 Day (to residential addresses) - 3:00 pm CST on December 21  
-Overnight (to residential addresses) - 3:00pm CST on December 22
-
-Have a great holiday season! 
-
-VEX Robotics will be closed for the holidays from December 25 - 29. Due to this, calls and emails will be delayed until our return on Monday, January 2.
-
-Orders must be placed by these dates to arrive in time for Christmas:
-
-Express -3:00 pm EST on December 19
-
-Have a great holiday season!
-
-VEX Robotics will be closed for the holidays from December 25 - January 1. All orders and e-mails received during this time will be processed beginning on Tuesday, January 2.
-
-Have a great holiday season!
-
-VEX Robotics will be closed for the holidays from December 25 - January 1. All orders and e-mails received during this time will be processed beginning on Tuesday, January 2.
-
-Have a great holiday season!
-
-VEX Robotics will be closed for the holidays from December 22 - January 1. All orders and e-mails received during this time will be processed beginning on Tuesday, January 2.
-
-Have a great holiday season!
 
 ## VEX Robotics Privacy Policy
 
