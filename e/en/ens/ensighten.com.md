@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512202532id_/http%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092651id_/https%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
 
-# Ensighten Privacy Policy - Ensighten
+# Ensighten Privacy Policy
 
-Last Updated November 18, 2015
+Last Updated May 23, 2018
 
 ### **PART I. GENERAL INFORMATION**
 
@@ -38,7 +38,6 @@ We will use this information:
 
 
 
-   
 **Information you give to us when using the Websites**
 
 We may also collect any personal information that you choose to send to us or provide to us on our online forms (such as our “Resume Submission” or “Request for Information” forms).
@@ -105,85 +104,27 @@ When you visit our Websites we may send one or more cookies to your browser. The
 
 The table below explains what cookies are used on the Websites.
 
-**
-
-Types of cookie
-
-** | **
-
-Who serves these cookies
-
-** | **
-
-How to refuse
-
-**  
+Types of cookie | Who serves these cookies | How to refuse  
 ---|---|---  
-  
-**Essential website cookies:** These cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas.
-
-| 
-
-Ensighten ([www.ensighten.com](https://web.archive.org/)), Marketo ([www.marketo.com](http://www.marketo.com/))
-
-| 
-
-Because these cookies are strictly necessary to deliver the Websites to you, you cannot refuse them.
+**Essential website cookies:** These cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas. | Ensighten ([www.ensighten.com](https://web.archive.org/)), Marketo ([www.marketo.com](http://www.marketo.com/)), Wistia ([www.wistia.com](http://www.wistia.com/)) | Because these cookies are strictly necessary to deliver the Websites to you, you cannot refuse them. 
 
 You can block or delete them by changing your browser settings however, as described below.  
   
-**Performance and functionality cookies:** These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.   However, without these cookies, certain functionality may become unavailable.
-
-| 
-
-LiveChat Inc. ([www.livechatinc.com](http://www.livechatinc.com/)), Vimeo ([www.vimeo.com](http://www.vimeo.com/)), Wistia ([www.wistia.com](http://www.wistia.com/))
-
-| 
-
-You can block or delete them by changing your browser settings however, as described below.  
-  
-**Analytics and customisation cookies:** These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or to help us customise our Websites for you.
-
-| 
-
-Google Analytics ([analytics.google.com](http://analytics.google.com/)), Crazy Egg ([www.crazyegg.com](http://www.crazyegg.com/))
-
-| 
-
-To refuse these cookies, please follow the instructions below under the heading “How can I control cookies?”
+**Performance and functionality cookies:** These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these cookies, certain functionality may become unavailable. | LiveChat Inc. ([www.livechatinc.com](http://www.livechatinc.com/)), Vimeo ([www.vimeo.com](http://www.vimeo.com/)) | To refuse these cookies, use Ensighten’s Consent Management Tool or follow the instructions below under the heading “How can I control cookies?”  
+**Analytics and customization cookies:** These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or to help us customize our Websites for you. | Google Analytics ([analytics.google.com](http://analytics.google.com/)), Ensighten Pulse (measure.ensighten.com) | To refuse these cookies, use Ensighten’s Consent Management Tool or follow the instructions below under the heading “How can I control cookies?” 
 
 Alternatively, please click on the relevant opt-out link below:
 
 <https://tools.google.com/dlpage/gaoptout>  
-<https://www.crazyegg.com/opt-out>  
+<http://measure.ensighten.com/pc/user?optOut=true>  
   
-**Advertising cookies:** These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.
-
-| 
-
-Adroll ([www.adroll.com](http://www.adroll.com/)), Bing ([www.microsoft.com](http://www.microsoft.com/)), DEMANDBASE ([www.demandbase.com](http://www.demanbase.com/))  
-Google Ads ([www.google.com](http://www.google.com/))
-
-| 
-
-To refuse these cookies, please follow the instructions below under the heading “How can I control cookies?”
+**Advertising cookies:** These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests. | Google Ads ([www.google.com](http://www.google.com/)) | To refuse these cookies, use Ensighten’s Consent Management Tool or follow the instructions below under the heading “How can I control cookies?” 
 
 Alternatively, please click on the relevant opt-out link below:
 
-<https://help.adroll.com/hc/en-us/articles/203845070-How-do-I-opt-out->  
-<https://choice.microsoft.com/en-us/opt-out>  
-<https://www.demandbase.com/privacy-policy/>  
 <https://www.google.com/settings/u/0/ads/authenticated>  
   
-**Social networking cookies:** These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites. These cookies may also be used for advertising purposes too.
-
-| 
-
-Facebook ([www.facebook.com](http://www.facebook.com/)), Google+ ([plus.google.com](http://plus.google.com/)), LinkedIn ([www.linkedin.com](http://www.linkedin.com/)), Twitter ([www.twitter.com](http://www.twitter.com/))
-
-| 
-
-To refuse these cookies, please follow the instructions below under the heading “How can I control cookies?”
+**Social networking cookies:** These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites. These cookies may also be used for advertising purposes too. | Facebook ([www.facebook.com](http://www.facebook.com/)), Google+ ([plus.google.com](http://plus.google.com/)), LinkedIn ([www.linkedin.com](http://www.linkedin.com/)), Twitter ([www.twitter.com](http://www.twitter.com/)) | To refuse these cookies, use Ensighten’s Consent Management Tool or follow the instructions below under the heading “How can I control cookies?” 
 
 Alternatively, please click on the relevant opt-out link below:
 
@@ -192,14 +133,40 @@ Alternatively, please click on the relevant opt-out link below:
 <https://www.linkedin.com/legal/cookie_policy>  
 <https://support.twitter.com/articles/20170405>  
   
-   
-**Blocking cookies**
+**  
+Blocking cookies**
 
-You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by clicking on the appropriate opt-out links provided in the cookie table above.
+You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by using Ensighten’s Consent Management Tool or by clicking on the appropriate opt-out links provided in the cookie table above.
 
 You can also set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser’s help menu for more information.
 
 ### **Part VI. Other important information**
+
+**GDPR Privacy Policy**  
+At Ensighten, we have always been dedicated to privacy, security, compliance and transparency. This commitment extends to keeping our customers’ and partners’ compliant with EU data protection requirements as outlined by the General Data Protection Regulation (“GDPR”) legislation that becomes into effect on May 25, 2018.
+
+Ensighten helps customers and partners maintain control of their privacy and data security in numerous ways:
+
+  * **Data Security:** We provide our customers and partners compliance with high security standards, such as encryption of data in motion over public networks, auditing standards (SOC 2, ISO 27001, ISO 27018), Distributed Denial of Service (“DDoS”) mitigations, and global support team available to assist.
+  * **Disclosure of Customer Service Data:** Ensighten only discloses Service Data to third parties where disclosure is necessary to provide the services or as required to respond to lawful requests from public authorities.
+  * **Trust:** Ensighten enacted security protections and control processes to help our customers ensure a secure environment for their information. Independent third-party experts have verified Ensighten’s adherence to high industry standards.
+  * **Access Management:** Ensighten provides an advanced set of access and encryption features to help our customers and partners effectively protect their information. Ensighten does not access or use customer or partner content for any purpose other than providing, maintaining and improving Ensighten services and as otherwise required by law.
+
+
+
+**GDPR Pulse Product Readiness**  
+Permission  
+Pulse (Ensighten data collection technology) has functionality available to our customers and partners to allow them to present their audience/visitor the choice of opt-in and opt-out from tracking services.
+
+Right to Erasure  
+Our customers can request for access or removal of data from our systems. Requests are triaged and addressed after acknowledgment of receipt. A unique identifier must be provided to allow those records to be located for access or erasure.
+
+Transparency  
+A list of domains where data is collected by Pulse on behalf of our customers and partners is available [here](https://web.archive.org/data-collection-domains). In addition to this list, some of our customers may choose to disclose their data collection domains through their own privacy policy.
+
+**Safe Harbor Statement**
+
+Ensighten, Inc. and its subsidiaries comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ensighten has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ensighten’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 **Other websites**
 
@@ -211,7 +178,7 @@ If we change our Privacy Policy, we will post those changes on this page in addi
 
 **How to Contact Us**
 
-If you have any issues our complaints, which relate to this Privacy Policy or our collection of your personal information more generally, then please contact Ensighten by, e-mail at [privacy@ensighten.com](mailto:privacy@ensighten.com). We will do our best to address your concerns.
+If you have any questions related to this Privacy Policy, our collection of your personal information or to submit request for access or erasure of your data, please contact [privacy@ensighten.com](mailto:privacy@ensighten.com). For your protection, we only fulfill requests for the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before fulfilling your request.
 
 If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
 
@@ -219,5 +186,5 @@ Should you have other questions or concerns about this Privacy Policy, the pract
 
 Ensighten, Inc.  
 Attn: Privacy & Security Department  
-1741 Technology Drive, Suite 500  
+226 Airport Pkwy, Suite 390  
 San Jose, CA 95110
