@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotsoftware.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129181958id_/https%3A//www.patriotsoftware.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotsoftware.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629074237id_/https%3A//www.patriotsoftware.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Patriot Software Privacy Policy
 
