@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707051238id_/https%3A//www.koleimports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koleimports.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629194400id_/https%3A//www.koleimports.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,5 +52,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 24600 Main Street  
 Carson, California 90254  
 United States  
-[email@koleimports.com  
-](mailto:email@koleimports.com)18008747766167
+[[email protected]  
+](https://web.archive.org/cdn-cgi/l/email-protection#88ede5e9e1e4c8e3e7e4ede1e5f8e7fafcfba6ebe7e5)18008747766167
