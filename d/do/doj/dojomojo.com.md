@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dojomojo.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113122634id_/http%3A//dojomojo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dojomojo.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629031506id_/http%3A//dojomojo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DojoMojo
+# Privacy Policy - DojoMojo
 
 **MASTER MINDS CONSULTING PRIVACY POLICY**  
 Master Minds Consulting, operated by Dojo Mojo (“Master Minds Consulting,” “we,” or “our”), recognizes the importance of your personal privacy.  Therefore, we have created this Privacy Policy so that you know how we use and disclose your information when you make it available to us.  The Privacy Policy below discloses our practices regarding information collection and usage for the Master Minds Consulting website, mobile website, and mobile application (collectively, the “Websites”), and the service provided thereon (the “Service”).
