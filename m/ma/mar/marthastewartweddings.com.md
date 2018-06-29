@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204130512id_/http%3A//www.meredith.com/legal/privacy-mso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629234431id_/http%3A//www.meredith.com/legal/privacy-mso) for the most accurate reproduction.*
 
 # Meredith Privacy Policy (MSO) | Meredith
 
@@ -6,6 +6,7 @@ Pursuant to a 10-year Licensing Agreement between Meredith Corporation (“Mered
 
 ### Quick Links
 
+  * To read our EU privacy policy click [here](http://www.meredith.com/legal/eu-privacy)
   * To read our detailed privacy policy click here
   * To opt-out of many third-party tracking technologies for interest-based advertising, follow the instructions here
   * To opt-out of precise location tracking of your mobile device, follow the instructions here
