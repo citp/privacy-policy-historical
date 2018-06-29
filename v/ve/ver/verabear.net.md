@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213002534id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabear.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629202626id_/http%3A//verabear.net/privacy) for the most accurate reproduction.*
 
-# Privacy – Verabear
+# Privacy – Stitches & Words
 
 **Verabear.net’s Privacy Policy**
 
@@ -28,10 +28,10 @@ This website contains links to other websites. Please be aware that I am not res
 
 I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
 
-I currently work with several advertising networks and companies, such as: Google Adsense, Bidvertiser, Nuffnang and Clickbank . If you have any questions, please check their websites for their respective privacy policies.
+I currently work with several advertising networks and companies, such as: Google Adsense, and Nuffnang. If you have any questions, please check their websites for their respective privacy policies.
 
 **Webmaster Contact Information**
 
-If you have any questions or suggestions regarding the Verabear.Net’s privacy policy, please feel free to contact me at vera (at) verabear.net.
+If you have any questions or suggestions regarding this privacy policy, please feel free to contact me at vera (at) verabear.net.
 
 Thanks to [AaronCook.com](ttp://www.aaroncook.com/) for the Privacy Policy.
