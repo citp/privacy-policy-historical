@@ -1,108 +1,68 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210020720id_/http%3A//youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629175634id_/https%3A//www.youthcentral.vic.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy Laws | What Are Privacy Laws? - Youth Central
+# Privacy | Youth Central
 
-Organisations are required by law to protect the privacy of your personal information. There are three laws that help protect all Victorians' privacy:
+## Privacy Statement
 
-  * The _Privacy Act (Commonwealth),_ which covers Federal government departments and agencies and the private sector
-  * The  _Privacy and Data Protection  (Vic), _which covers Victorian public sector agencies and local councils
-  * The _Health Records Act (Vic),_ which deals specifically with health information
+Youth Central is the Victorian Government's website for young people aged 12-25.
 
+Youth Central values the privacy of every individual's personal information. Protecting your privacy and your personal information is an important aspect of the way we create, organise and implement our activities on-line and off-line.
 
+You can access our website and browse our site without disclosing personal information. Youth Central will only record your email address and/or contact details if you send a message or use one of the website's submission forms. The information you provide is collected for the purposes of responding to the matters raised in your electronic correspondence. In addition to responding to your correspondence, Youth Central or our contractors may use your personal information for purposes related to the operation, administration, development or enhancement of the information available on the Youth Central website.
 
-## 10 Information Privacy Principles
+We have implemented technology and security policies, rules and measures to protect your personal information that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction and accidental loss. There are risks associated with providing information over the internet. If you are concerned about these risks you may prefer to contact us by mail or telephone.
 
-The _  Privacy and Data Retention Act _covers the way that the Victorian Government and local councils collect and handle your personal information.
+Should you wish to gain access to or correct your personal information collected by Youth Central please contact us by email, mail or telephone as detailed below.
 
-This law contains 10 Information Privacy Principles. All Victorian government organisations, including local councils, have to observe these principles (although there are some exceptions).
+We will remove personal information where it is no longer required (except where archiving is required and in compliance with the Public Records Act 1973).
 
-Non-government organisations that work for government under contract may also be required to observe these principles. 
+This website may also collect information about use of the Youth Central website through cookies or collection of clickstream data.
 
-The principles, in simple terms, state that, when an organisation collects personal information, it should:
+This privacy statement does not extend beyond this website. When linking to other sites from this website, we recommend that you read the privacy statement of those sites to familiarise yourself with their privacy principles.
 
-  *  **Collect only what it needs,** collect it lawfully and fairly without intruding unreasonably, and let people know that their information is being collected _(Principle 1)_
-  *  **Use and disclose people's personal information only for the purpose which they collected it** , or a related purpose those people would reasonably expect (some important interests, such as protecting health and safety or a legal requirement, can justify use and disclosure without consent) _(Principle 2)_
-  *  **Keep the information it collects** accurate, complete, up-to-date and secure _(Principles 3 & 4)_
-  *  **Be open about what it does** with other people's information _(Principle 5)_
-  *  **Let people see their information** and correct it if necessary _(Principle 6)_
-  *  **Minimise using records and information** in a way that can be used to match information about people with information about the same people from other sources _(Principle 7)  _
-  *  **Give people, when possible, the option of not identifying themselves** when providing information _(Principle 8)_
-  *  **Make sure that the protection of people's private information** is ensured if that information is transported or transmitted anywhere outside the organisation that collected the information _(Principle 9)_
-  *  **Not collect sensitive information about people** – like their ethnic background, religion, political views, sexual preference or criminal record – without checking the relevant laws first _(Principle 10)_
+## Community Guidelines
 
+Here at Youth Central, we want our social media spaces (Facebook, Twitter, YouTube and Flickr) to be safe places for young people to share comments, thoughts and ideas, view information, provide feedback and feel part of their community.
 
+So these spaces are safe for everyone, we need to make sure that what is published is not potentially harmful for any member.
 
-## What is "Personal Information"?
+For this reason, we may remove any comments, posts, tweets, images, graphics, video or other material that contains the following:
 
-"Personal information" means recorded information or opinions, whether true or not, about a person who can be identified as being the person that information or those opinions are about.
-
-Personal information can be almost any information linked to someone, including:
-
-  * Name and address
-  * Sex
-  * Age
-  * Financial details
-  * Marital status
-  * Education
-  * Criminal record
-  * Employment history
+  * Disrespectful or derogatory remarks about any other member;
+  * Disrespectful or derogatory remarks about a Government department, Minister, or Victorian Public Service employee;
+  * Expletives or foul language;
+  * Details or graphic descriptions or depictions of harm to yourself or to others, or about suicide;
+  * Details, descriptions or depictions of illicit drugs or drug use;
+  * Sexually explicit material, nudity or pornography;
+  * Content that promotes violence or contains threats against others;
+  * Content that is racist, sexist, homophobic or in any way discriminates against others;
+  * Advertising material or personal contact details;
+  * Content that is likely to offend other members;
+  * Content that contains advice we believe is damaging or unhelpful to others.
 
 
 
-## What Can I Do if My Privacy Has Been Breached?
+If any content posted indicates risk of self-harm or harm to others, we may contact you and offer referral to Lifeline ( **13 11 14** ) or Kids Help Line ( **1800 55 1800** ) phone lines.
 
-If you believe an organisation that holds your personal information has breached your privacy, here is what you can do.
+The Department of Human Services follows the Mindframe guidelines which can be found at <http://www.mindframe-media.info/>.
 
-### 1\. Contact the Organisation
+If you are feeling bullied, harassed or are at risk of harm or in need of immediate assistance, please contact Lifeline on **13 11 44** or KidsHelpLine on **1800 55 1800**.
 
-Contact the organisation and ask to speak to their privacy officer or someone who deals with complaints.
+For information about staying safe online, check out these resources:
 
-Once you know who you should be speaking to you can write to them, explaining the situation and what you would like to see happen (e.g., you might want them to remove or delete the information, or issue an apology).
-
-Make sure you give the organisation a reasonable amount of time to respond.
-
-### 2\. If You're Not Happy with Their Response
-
-If you're not satisfied **** with the way the organisation responds you have the right to [complain to the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/menu-resources/resources-privacy/videos) (new window). The Commissioner will try to solve your problem.
-
-### 3\. If a Solution Fails or Isn't Possible
-
-If a solution to the problem is not possible, or if an attempt at a solution fails, your complaints may go to the [Victorian Civil and Administrative Appeals Tribunal (VCAT)](https://www.vcat.vic.gov.au/), the official body for complaint and dispute resolution in Victoria.
-
-### 4\. What Happens if You Win the Dispute
-
-If you win your dispute because the organisation is found to have not followed one or more of the Information Privacy Principles, they might have to:
-
-  * Make an apology
-  * Change a procedure
-  * Correct or delete personal information
-  * Pay compensation
+  * [Youth Central Online safety](https://web.archive.org/advice-for-life/staying-safe/online-safety)
+  * [Facebook safety centre](https://www.facebook.com/help/safety)
+  * [Twitter safety centre - Protecting your personal information](https://support.twitter.com/articles/18368#)
 
 
 
-## The Office of the Commissioner for Privacy and Data Protection
+Youth Central's social media channels will be monitored during standard business hours, 9am - 5pm Monday to Friday AEDST, excluding public holidays.
 
-The Office of the Commissioner for Privacy and Data Protection (formerly Privacy Victoria) regulates the way the Victorian government and local councils collect and handle personal information. 
+## Contact
 
-It is an independent organisation whose goal is to get privacy better understood and respected, both inside and outside the Victorian Government.
-
-As part of this goal, the [Office of the Commissioner for Privacy and Data Protection's website](https://www.cpdp.vic.gov.au/ "Privacy Victoria Website \(external link\)") (new window) has heaps of information about privacy, how to protect it, and what you can do if you think your privacy has been breached.
-
-## Who Else Protects Your Privacy?
-
-There are other organisations in Australia that protect your privacy within other jurisdictions.
-
-  * The [Victorian Health Services Commissioner](http://www.health.vic.gov.au/hsc/ "Health Services Commissioner's website \(external link\)") (new window) protects the privacy of health information under the _Health Records Act_
-  * The [Federal Privacy Commissioner](https://www.oaic.gov.au/ "Privacy Australia Website \(external link\)") (new window) protects personal information held by federal government agencies, like Centrelink or the Tax Office, and private companies in Australia 
-
-
-
-If you have a privacy complaint that relates to either the actions of the Federal Government, or that relates to information about your health, these two organisations may be able to help.
-
-## Links
-
- **[Office of the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/)**  
-Regulating the way that the Victorian government and local councils collect and handle personal information, and handling complaints about the way your personal information has been handled.
-
- **[Victorian Civil and Administrative Appeals Tribunal (VCAT)](https://www.vcat.vic.gov.au/)**  
-Low cost, accessible and independent dispute resolution service available to all Victorians.
+Department of Health & Human Services  
+Youth Central  
+ **Email:** [youthcentral@dhhs.vic.gov.au](mailto:youthcentral@dhhs.vic.gov.au)  
+ **Postal Address:** GPO BOX 4057, MELBOURNE, VIC 3001  
+ **Street Address:** 50 Lonsdale Street, MELBOURNE, VIC 3000  
+ **Tel:** 1300 650 172
