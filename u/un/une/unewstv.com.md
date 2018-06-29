@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unewstv.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204053916id_/http%3A//www.unewstv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unewstv.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629164152id_/http%3A//www.unewstv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UNewsTV
 
@@ -14,7 +14,7 @@ Privacy Policy Cookies & 3rd Party Advertisements
 
 DMCA
 
-  * All the Videos are Posted by the Users of this website and we do not host any video on our servers, All the Videos on our site can be found around the world wide web. Most of the Videos are hosted at youtube, dailymotion, tune.pk, facebook etc. If You have any DMCA Complaint against any of the video or content on our site, Then Immediately send us your complaint at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We Will delete the post and Respond back Immediately.
+  * All the Videos are Posted by the Users of this website and we do not host any video on our servers, All the Videos on our site can be found around the world wide web. Most of the Videos are hosted at youtube, dailymotion, tune.pk, facebook etc. If You have any DMCA Complaint against any of the video or content on our site, Then Immediately send us your complaint at dmca@unewstv.com. We Will delete the post and Respond back Immediately.
 
 
 
@@ -24,7 +24,7 @@ Terms of Service
   * In the Events that the terms "You" or "Usersv arise in this document then you should clearly understand that this means the users browsing the website.
   * The term "the website" clearly defines "www.unewstv.com".
   * We DO NOT host any videos on this website. All videos found on our site are found freely available around the web on sites such as Youtube, Tune.pk, Dailymotion, Justin.tv Etc. We make no guarantees or promises in our service and take no liability for our users actions. We are not affiliated nor claim to be affiliated with any of the owners of videos/streams played on our site. All content is copyright of their respective owners.
-  * We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files (Youtube, Tune.pk, Dailymotion, Justin.tv Etc) If you still want to contact us email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files (Youtube, Tune.pk, Dailymotion, Justin.tv Etc) If you still want to contact us email us at admin@unewstv.com.
   * This document contains the Terms and Conditions of using this website.
 
 
