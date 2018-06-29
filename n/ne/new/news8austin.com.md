@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904063335id_/http%3A//www.twcnews.com/tx/austin/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629202731id_/http%3A//spectrumlocalnews.com/tx/austin/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Austin Texas | Spectrum News
 
 The information TWC’s parent, Charter Communications, Inc. ("Spectrum") collects about you at this site and its sub domains (the "Site") is used to administer the Site and to provide information to visitors about the Site's various services and tools, and to provide general news, information and entertainment. Spectrum, together with Road Runner and Spectrum-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Spectrum."
 
@@ -38,7 +38,7 @@ Spectrum sites (other than this Site), as well as any other third party content,
 
 Some of the information described above is collected or maintained through "cookies," which are small data files that are sent to your browser or related software from a web server and stored on your computer's hard drive. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies (technically known as Flash "local shared objects"). However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Site or certain areas or features.
 
-Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information.  You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php).
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information.  You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php).
 
 Content on this Site, including advertisements, may be recommended to you or customized to your interests and preferences, based on your personally identifiable information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
@@ -74,4 +74,4 @@ We may change this Policy by amending the on-line version. If you continue to us
 
 **Contacting Us**
 
-If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Site, you may contact us at [Privacy@Charter.com](mailto:Privacy@Charter.com).
+If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Site, you may contact us at [Privacy@Charter.com](mailto:Privacy@Charter.com).
