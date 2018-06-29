@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citicards.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405085815id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citicards.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629071942id_/https%3A//online.citi.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Citibank
 
@@ -63,6 +63,7 @@ Please see our Privacy Notices, which we provide to all our individual customers
 
     | Citibank |  Citibank® Consumer Privacy Notice   
 ---|---|---  
+| Citi Mortgage    | Citi Mortgage Privacy Notice  
 | Citi Personal Wealth Management    | Citi Personal Wealth Management Privacy Notice  
 | Citi Cards | Citi Consumer Cards Privacy Notice  
 | Citi Private Bank | [Internet Privacy Policy & Statement](https://www.privatebank.citibank.com/privacy.htm#1)  
