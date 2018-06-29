@@ -1,53 +1,84 @@
-> *The following text is extracted and transformed from the uw.edu privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228024702id_/http%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uw.edu privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112502id_/http%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
 
 # University of Washington Online Privacy Statement | Website Information
 
-**1\. Acceptance of Terms.** Welcome to this website (“website”) which is published by a University of Washington education, research, patient care, or service area (internal or external to University of Washington). Use of this website is voluntary. By using this website, you consent to the collection and use of your personally identifiable information (“PII”) and non-personal information as described in this Online Privacy Statement. This Online Privacy Statement only governs the use and disclosure of information collected through this website.
+This Online Privacy Statement applies to this website, which is published by a University of Washington (UW) education, research, patient care or service area. The UW is committed to respecting individuals’ privacy. By choosing to continue to use this UW website, you agree to the UW’s collection and use of personal information and non-personal information as described in this Online Privacy Statement. This Online Privacy Statement only governs the use and disclosure of information collected through this website.
 
-**2\. Non-Personal Information University of Washington Collects From You.** University of Washington automatically collects information about your Internet connection, including but not limited to:
+### **Collection of Information**
+
+The UW automatically collects the following information:
 
   * The Internet Protocol (IP) address and name of the Internet domain you used to access the Internet;
-  * The IP address of the website from which you linked directly to a University of Washington website;
-  * The date and time you accessed a University of Washington website;
-  * The pages you visited; and
-  * The web browser and operating system you used to access a University of Washington website.
+  * The URL of the website from which you linked directly to the UW website;
+  * The date and time you accessed the UW website;
+  * The pages you visited, including the information requested through your browser, the response from your browser, the size of the page you received in response to the request, and the marketing email or web page that referred you to the page you visited; and
+  * The web browser and operating system you used to access the UW website.
 
 
 
-This information (“non-personal information”) does not identify you personally. University of Washington uses this non-personal information to monitor the effectiveness of this website and to consider potential improvements to this website.
+Additionally, the UW may request that you provide certain personal information such as name, username, email address, mailing address, telephone numbers, or social network account information. The UW may aggregate information collected from your visit to this website with other information at the UW.
 
-**3\. Personally Identifiable Information University of Washington Might Collect From You.** University of Washington may request that you voluntarily provide certain personally identifiable information (“PII”) to participate in the password-protected areas, download information, join University of Washington mailing lists, engage in payment transactions, or for other purposes (as defined in the [Website Terms and Conditions of Use](http://www.uw.edu/online/terms)). University of Washington does not collect any PII about you when you visit this website unless you give University of Washington that information. You may choose not to provide PII via this website.
+### **Use of Information**
 
-University of Washington is a state agency, and as such, subject to the laws governing the Preservation and Destruction of Public Records (RCW 40.14). As University of Washington determines is appropriate, University of Washington will maintain or destroy PII you voluntarily provide.
+The UW will only use your personal data on a lawful basis to fulfill a legitimate interest of the UW. The UW may use information collected from your visit to this website to:
 
-**4\. Use of Your Personally Identifiable Information.** Unless there are restrictions on use of your PII or unless University of Washington tells you otherwise, University of Washington (or third parties engaged by University of Washington) may use your PII to:
+  * Manage and improve the user experience and preferences associated with this website and UW communications;
+  * Track how often people gain access to or read the UW content;
+  * Foster further communications and manage your subscription(s) to UW publications;
+  * Invite and/or register you (upon request) to events that may be of interest to you;
+  * Optimize and personalize your online interactions with the UW;
+  * Fulfill your online requests for goods or services;
+  * Conduct online research, education, training, or surveys;
+  * Identify anomalies in web traffic in order to help protect personal and UW institutional information; and
+  * Exercise the UW’s legal rights, defend against legal claims, or respond to subpoenas, court orders, or other legal processes.
 
-  * Administer your participation in this website;
-  * Communicate information University of Washington thinks may be of interest to you;
-  * Fulfill your requests for services or materials;
-  * Contact you;
-  * Conduct research or surveys;
-  * Respond to subpoenas, court orders or legal process; and
-  * Establish or exercise University of Washington’s legal rights or defend against legal claims.
 
 
+The collection and use of personal information for any other purpose than described herein requires supplemental and more specific notification or consent. Please see [Provide Privacy Notice](https://privacy.uw.edu/design/provide-privacy-notice/)  and [Obtain Consent](https://privacy.uw.edu/design/obtain-consent/) webpages for specific examples.
 
-**5\. Sharing Your Information.** Through display, University of Washington may disclose your PII to other authorized users of this website. University of Washington may use third party service providers and suppliers to facilitate this website and the services University of Washington provides, and they may have access to PII. Authorized users are University of Washington employees or third parties who have been granted access and have a need to know the information collected in order to fulfill University of Washington’s mission. University of Washington may disclose PII to other affiliated institutions and/or if University of Washington is required to do so by law. University of Washington is a state agency, and as such, University of Washington is subject to the Washington Public Records Act, RCW 42.56. As University of Washington determines it is appropriate to do so, University of Washington will disclose PII requested pursuant to this law.
+### **Disclosure or Sharing of Information**
 
-**6\. Use of Cookies and Applets.** University of Washington sometimes transfers “cookies” and “applets” to your computer’s hard drive through your web browser to collect non-personal information about your visit to this website. Cookies are alphanumeric identifiers that University of Washington uses to identify your computer. Applets are small computer applications that relate information back to University of Washington.
+The UW may use third party service providers and suppliers to facilitate this website or the services the UW provides. Those providers and suppliers may have access to the information the UW collects in order to fulfill their obligations to the UW.  The UW is a state agency, and as such may disclose or share information in recognition of applicable state, federal, or international laws. This includes, but is not limited to the [Washington Public Records Act, Revised Code of Washington 42.56](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56).
 
-University of Washington may use information from cookies and applets for purposes such as website administration or assessing the technical function of this website. University of Washington may also use cookies and applets to track information about which pages you visit within this website to help University of Washington gauge the effectiveness of this website or University of Washington content.
+### **Collection Methods**
 
-The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, but this may limit your ability to use some features of this website.
+The UW may use various technologies such as cookies, applets, scripts, server logs, custom URL parameters, tracking images, information and correspondence, or web analytics to collect information. Depending on your browser you may be able to disable certain collection methods. This may limit your ability to use some features of this website.
 
-**7\. Linked Sites.** University of Washington may provide links on this website to other sites of interest. Your use of such linked websites is subject to the privacy statements of the providers of those websites. University of Washington encourages you to be aware when you leave this website and to read the privacy statements of each website you visit.
+### **Non-UW Websites**
 
-**8\. Security Measures.** University of Washington works hard to protect the security of the information that you provide to University of Washington. While University of Washington strives to protect your information through measures that protect University of Washington systems, such security cannot be guaranteed. Consequently, University of Washington does not insure or warrant the security of information you transmit, and you do so at your own risk.
+The UW may provide links on this website to other non-UW websites. The UW may also partner with third parties to place UW related ads on non-UW websites. Your use of non-UW websites is subject to the terms and conditions or privacy statements of the providers of those websites.
 
-**9\. Reviewing Information.** You may contact us via one of the contact methods described in the [Website Terms and Conditions of Use](http://www.uw.edu/online/terms) if you wish to discuss any issues regarding your PII.
+### **Data Protection**
 
-**10\. Changes.** University of Washington may change this Online Privacy Statement from time to time. If University of Washington does make a change, University of Washington will post the revised Online Privacy Statement on this website. University of Washington encourages you to review this Online Privacy Statement periodically.
+The UW strives to protect information through measures described in the UW Administrative Policy Statements [2.2 University Privacy Policy](http://www.washington.edu/admin/rules/policies/APS/02.02.html) and [2.6 Information Security Controls and Operational Practices](http://www.washington.edu/admin/rules/policies/APS/02.06.html).
 
-Questions, comments or complaints about the University of Washington Online Privacy Statement should be submitted to University of Washington via the methods described in the [Website Terms and Conditions of Use](http://www.uw.edu/online/terms).
+### **Children or Minors**
 
-**April 26, 2011**
+The UW does not knowingly collect personal information from children or minors as defined by the Children’s Online Privacy Protection Act (COPPA) on its general websites. The collection and use of personal information from children or minors for other purposes is subject to supplemental and more specific notification or consent terms. Please see [Provide Privacy Notice](https://privacy.uw.edu/design/provide-privacy-notice/)  and [Obtain Consent](https://privacy.uw.edu/design/obtain-consent/) webpages for specific examples.
+
+### **Retention**
+
+The UW retains your data for at least the minimum required retention according to applicable [UW Records Retention Schedule(s)](https://finance.uw.edu/recmgt/retentionschedules) or for the duration of your relationship with the UW.
+
+### **Additional Rights You May Have Regarding Your Data**
+
+Applicable laws may give you additional rights to request access to, or to request the erasure, correction or transfer of, your data.  For example, the European Union’s General Data Protection Regulation (EU GDPR) provides certain rights to persons who were/are residing in the European Union when data were/are collected. If the EU GDPR applies to your data then you may ask to see your data or request, to the extent allowed by law, to have your data corrected or erased. You may also object to or request restrictions on how your data will be processed. You may ask that your data be forwarded or transferred to another organization. Finally, to the extent allowed by law, you may withdraw consent you have given to certain data processing, without penalty. If you do decide to withdraw consent at a later date, your withdrawal will not affect the legality of the processing of your data up to that point.
+
+### **Questions**
+
+If you have questions about the collection or use of information you should contact the UW organizational area to which you provided your information. The individual responsible for decisions about the online collection, use and protection of personal data that is described herein and is subject to EU GDPR is identified as the EU GDPR Controller on the organizational website.
+
+If your privacy related questions or concerns are not addressed after contacting the UW organizational area to which you provided data, then you may also contact:
+
+Ann Nagel  
+Institutional Privacy Official  
+Associate Vice Provost for Privacy  
+EU GDPR Data Protection Officer  
+UW Privacy Office  
+[uwprivacy@uw.edu](mailto:uwprivacy@uw.edu)
+
+### **Changes to this Online Privacy Statement**
+
+The UW may periodically update this Online Privacy Statement. The revised statement will be posted at uw.edu/online/privacy.
+
+Updated May 24, 2018
