@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003043026id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629230946id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
 
 # Privacy Policy | SurveySavvy
 
@@ -61,6 +61,10 @@ Luth Research and SurveySavvy never spam or send unsolicited commercial emails. 
 ### General
 
 By visiting this Web site, you agree that this Privacy Policy and the Terms and Conditions govern your use of the Web site. All disputes over privacy shall be governed as set forth in this Privacy Policy or in the Terms and Conditions, including applicable law, arbitration rules and limitations on damages. You should review the Web site periodically for any changes to this Privacy Policy and the Terms and Conditions.
+
+### Law, Harm, and the Public Interest
+
+Notwithstanding anything to the contrary in this Privacy Policy or controls we may otherwise offer to you, we may preserve, use, or disclose your personal data if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services, or to explain why we have removed content or accounts from our services; to address fraud, security, or technical issues; or to protect our rights or property or the rights or property of those who use our services. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your personal data.
 
 ### Contact Us
 
