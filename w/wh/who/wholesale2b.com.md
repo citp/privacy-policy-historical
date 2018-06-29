@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118222314id_/http%3A//wholesale2b.com/wholesale2b-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale2b.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629053612id_/http%3A//www.wholesale2b.com/wholesale2b-privacy-policy.html) for the most accurate reproduction.*
 
 # Wholesale2b Privacy Policy
 
