@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the grabcad.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115081305id_/https%3A//grabcad.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabcad.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629163433id_/https%3A//grabcad.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+This English version of the GrabCAD® Privacy Policy is used as the binding agreement for all legal purposes. 
+
+To reference a translated version, see here: [French](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c51879033600698173a16/FR-GrabCADPrivacyPolicy.pdf), [German](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c519ac6979106d373763e/DE-GrabCADPrivacyPolicy.pdf), [Italian](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c51ecc6979106d3737640/IT-GrabCADPrivacyPolicy.pdf), [Japanese](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c51f4c6979106d3737641/JP-GrabCADPrivacyPolicy.pdf), [Korean](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c5209c6979106d3737644/KO-GrabCADPrivacyPolicy.pdf), [Russian](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c5214c6979106d3737645/RU-GrabCADPrivacyPolicy.pdf), [Simplified Chinese](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c5225c6979106d3737647/CHS-GrabCADPrivacyPolicy.pdf), [Spanish](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c5232c6979106d3737649/ES-SA-GrabCADPrivacyPolicy.pdf), [Traditional Chinese](https://s3.amazonaws.com/helpscout.net/docs/assets/53270ae2e4b0f23288a842c7/attachments/583c523e9033600698173a21/CHT-GrabCADPrivacyPolicy.pdf)
 
 **GrabCAD® Privacy Policy**
 
