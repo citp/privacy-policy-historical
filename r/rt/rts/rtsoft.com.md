@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rtsoft.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222204134id_/http%3A//www.rtsoft.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsoft.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629105503id_/http%3A//www.rtsoft.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Robinson Technologies - Privacy Policy
 
 **PRIVACY POLICY NOTICE  
-Effective Date: August 13, 2017  
-(Last Updated: August 11, 2017)**
+Effective Date: May 25, 2018  
+(Last Updated: May 25, 2018)**
 
 We respect the privacy rights of our customers and protect the personal information collected, stored and used in connection with our products, services and websites. Your privacy is important to us. To further this commitment, we have adopted this privacy policy notice ("Privacy Policy Notice" or "Privacy Policy") to guide you on how we collect, store, and use the information you may provide to us.?Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
@@ -127,7 +127,7 @@ Please note that if you are logged into a Facebook and/or Twitter account, those
 
 Our Game
 
-We use Tapjoy (Ads) and a restricted version of Flurry (Analytics) for our Game. You can learn more about Tapjoy, including how to opt out, by visiting <https://home.tapjoy.com/info/about-tapjoy/privacy-policy/>. You may also choose not to watch the ads served in-app by Tapjoy and/or control your ad settings through your device. You can learn more about Flurry, including how to opt out, by visiting <http://www.flurry.com/privacy-policy.html>. 
+We may use Tapjoy (Ads) and a restricted version of Flurry (Analytics) for our Game. You can learn more about Tapjoy, including how to opt out, by visiting <https://home.tapjoy.com/info/about-tapjoy/privacy-policy/>. You may also choose not to watch the ads served in-app by Tapjoy and/or control your ad settings through your device. You can learn more about Flurry, including how to opt out, by visiting <http://www.flurry.com/privacy-policy.html>. 
 
 We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to our Site or Game, you should consult that website's privacy policy before providing any personal information. 
 
@@ -153,7 +153,11 @@ Back to top
 
 _8\. What Choices Do You Have Regarding the Collection, Use, and Distribution of Your Personal Information?_
 
-You have the right to see what personally identifiable information we hold about you if you request it. If your request is particularly complex or requires detailed searching of our records, there may be a cost to you in order for us to provide you with this information. In order to place a request, please contact us using our information provided at the end of this Privacy Policy. 
+You have the right to see what personally identifiable information we hold about you if you request it.
+
+You also have the right to be forgotten and your data removed upon request in applicable cases.
+
+In order to place a request, please contact us using our information provided at the end of this Privacy Policy.
 
 Back to top
 
@@ -169,7 +173,7 @@ Under the laws of the State of California, California Residents who have an esta
 
 Do Not Track Signals
 
-In September 2013, California enacted amendments to the California Online Privacy Protection Act (California Business & Professions Code Â§Â§22575-22579) which require operators of websites to disclose how they respond to "do not track" (DNT) signals from browsers used by consumers or other mechanisms that provide consumers a choice regarding the collection of personally identifiable information about the consumer's online activities over time and across different websites or online services. While some newer browsers have incorporated "Do Not Track" features which, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish your online activity to be tracked, a DNT protocol that can be implemented across multiple devices and sites has not yet been widely adopted. Currently, our computer system does not support, and cannot act on DNT signal headers that we may receive; accordingly, the choices that we provide you concerning our collection and use of personally identifiable information will continue to operate as described in this policy. 
+In September 2013, California enacted amendments to the California Online Privacy Protection Act (California Business & Professions Code §§22575-22579) which require operators of websites to disclose how they respond to "do not track" (DNT) signals from browsers used by consumers or other mechanisms that provide consumers a choice regarding the collection of personally identifiable information about the consumer's online activities over time and across different websites or online services. While some newer browsers have incorporated "Do Not Track" features which, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish your online activity to be tracked, a DNT protocol that can be implemented across multiple devices and sites has not yet been widely adopted. Currently, our computer system does not support, and cannot act on DNT signal headers that we may receive; accordingly, the choices that we provide you concerning our collection and use of personally identifiable information will continue to operate as described in this policy. 
 
 For Minors
 
