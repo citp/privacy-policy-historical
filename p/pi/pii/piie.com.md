@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piie.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119211909id_/https%3A//piie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piie.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113513id_/https%3A//piie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PIIE
 
@@ -26,7 +26,7 @@ Peterson Institute reserves the right to change this Privacy Policy at any time 
   * **Legal Action:** Peterson Institute may disclose PII when legally required to do so in accordance with government requests or regulations or legal proceedings. Peterson Institute may also disclose PII to protect against misuse or unauthorized use of the Website or as is otherwise required to limit legal liability, protect or defend Peterson Institute's rights, property, or interests, or protect the safety, rights, or property of Peterson Institute’s users.
 
 
-  1. **Children’s Privacy.   **Peterson Institute cares about the safety of children on the Website and encourages parents and guardians to monitor their children’s use of the Internet.  Although the Website is suitable for a general audience, this Website is intended for use only by users who are over 13 years of age.  Accordingly, Peterson Institute does not knowingly solicit PII from children under the age of 13 and reserves the right to limit participation in particular activities on or through Website to individuals above a certain age.
+  1. **Children’s Privacy.   **Peterson Institute cares about the safety of children on the Website and encourages parents and guardians to monitor their children’s use of the Internet.  Although the Website is suitable for a general audience, this Website is intended for use only by users who are over 16 years of age.  Accordingly, Peterson Institute does not knowingly solicit PII from children under the age of 16 and reserves the right to limit participation in particular activities on or through Website to individuals above a certain age.
   2. **Cookies & Computer-Related Information.  **Peterson Institute or its contractors may use cookies, web beacons, tags, log-in files, and/or other similar data collection or tracking techniques to enhance and/or monitor your experience while using the Website.  Cookies and other related techniques are generally pieces of information, which Peterson Institute uses for record-keeping purposes and which the Website may transfer to us and/or your computer’s Web-browser for storage on our server(s) or your computer’s hard drive.  Cookies and other related techniques enable Peterson Institute to manage and/or customize your experience on the Website, including available advertisements.  Cookies and other related techniques also make Web-surfing or site review easier by automatically performing certain functions such as saving your personal preferences and by providing targeted content.  Peterson Institute, however, will not use cookies to record passwords or credit card or other financial information. 
 
 
@@ -44,4 +44,4 @@ Many consider the use of cookies and such identifiers to be an industry standard
 
 
 
-**You may contact us at:** Peterson Institute for International Economics, 1800 Massachusetts Avenue, NW Second Floor, Washington, DC 20036 ([comments@piie.com](mailto:comments@piie.com) (email) or 202.328.9000 (phone))
+**You may contact us at:** Peterson Institute for International Economics, 1750 Massachusetts Avenue NW, Washington, DC 20036, +1.202.328.9000 (phone), or [comments@piie.com](mailto:comments@piie.com) (e-mail).
