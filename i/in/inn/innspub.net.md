@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innspub.net privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124101657id_/http%3A//www.innspub.net/innspub-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innspub.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629053248id_/http%3A//www.innspub.net/innspub-privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - International network for natural sciences - research journal
+# Privacy Statement
 
   * [__Home](http://www.innspub.net/)
   * [__Login](http://rjm.innspub.net/)
