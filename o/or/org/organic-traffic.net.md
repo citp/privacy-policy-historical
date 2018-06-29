@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organic-traffic.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226170905id_/https%3A//organic-traffic.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organic-traffic.net privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629102702id_/https%3A//organic-traffic.net/privacy) for the most accurate reproduction.*
 
 # Privacy Notice by Perfect Business Group (organic-traffic.net)
 
