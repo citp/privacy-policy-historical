@@ -1,265 +1,380 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018032654id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629090336id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
 # Free Community-based GPS, Maps & Traffic Navigation App | Waze
 
-## **WAZE - PRIVACY POLICY**
+Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services and Carpool services to users of [www.waze.com](https://web.archive.org/) (the “Website”) and/or users of Waze’s mobile applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
-Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (" Waze " or the "Company" ) offer mapping, GPS navigation and community based services to users of [www.waze.com](https://www.waze.com/) (the " Website ") and/or users of Waze'smobile application (the " Application ") (collectively referred to as the " Services "). 
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, and delete your information. This Privacy Policy covers:
 
-This Privacy Policy describes:- 
+  * User Accounts & Accessing the Services
+  * Information that is being collected
+  * Why Waze collects data
+  * Sharing your information
+  * Visibility
+  * Integration with social networks
+  * Integration with other third party services
+  * Controlling your personal information
+  * How Waze retains data we collect
+  * How does Waze use aggregated information
+  * Cookies
+  * Advertising campaigns
+  * Information security
+  * Compliance & cooperation with regulators
+  * Changes to this Privacy Policy
 
-●      the information that Waze collects from users; 
 
-●      how that information is used by Waze; and 
 
-●      the rights and options available to users. 
+This Privacy Policy is incorporated as part of the [Waze Terms of Use](https://web.archive.org/legal/tos) and [Waze Carpool Terms of Use](https://web.archive.org/carpool/legal/tos) (the “Terms of Use” or the “Terms”). **Your use of the Services is subject to the Terms of Use,[Copyright Policy](https://web.archive.org/legal/copyright) and this Privacy Policy and indicates your consent to them.**
 
-This Privacy Policy is incorporated as part of the Waze [Terms of Use](https://www.waze.com/legal/tos) (the " Terms of Use " or the " Terms "). 
+To use our Services you must be 16 years of age or older. If you are under 16, you may not download or use the Services.
 
-**Your use of the Services is subject to the Terms of Use, Copyright Policy and this Privacy Policy and indicates your consent to them.**
+In this Privacy Policy, the term “personal information” means information which you provide to us which personally identifies you, such as your name, email address or billing information, and, in certain circumstances, your location and route information or other data which can be reasonably linked to such information by Waze.
 
-The Services are not intended for use by persons under the age of 13. If you are under 13, you may not download or use the Application. 
+You can adjust your **Privacy Settings** in the Waze app and choose which personal information we may collect about you and how your information is used.
 
-In this Privacy Policy, the term "personal information" means any information collected by us or provided by you that, with reasonable efforts, may be used to identify you, which may include first and last name, home address, email address and, in certain circumstances, your location and route information. 
+If you have any questions about this Privacy Policy, or if you believe that your privacy has been compromised in the course of using the Services, please contact Waze at: [privacy@waze.com](mailto:privacy@waze.com). You may send Waze other requests, responses, questions and complaints by email at: [support@waze.com](mailto:support@waze.com).
 
-**Contact Waze / Abuse reports**
+Please note that when you install the Application on your mobile device, Waze will set up an account associated with that mobile device (the “Account” or “Waze Account”). After installation, Waze will collect and use your information, including meta-data (as described below), in accordance with this Privacy Policy. This use may include linking your information with your Account. This is the case irrespective of whether or not you choose to create a Waze username and password in the Waze Application (as explained below).
 
-If you believe that your privacy has been compromised by any person, in the course of using the Services, then please contact Waze at: privacy@waze.com . 
+Waze may allow you to use the Waze Application **whether or not you choose to set up a username for yourself**. If you choose to use the Waze Services without setting up a username you may do so by skipping the username setup stage of the application installation process. If you do so:
 
-You may send Waze other requests, responses, questions and complaints by email at support@waze.com . 
+  * Waze will still link all of your information with your Account and a unique identifier generated by Waze in accordance with this Privacy Policy. This helps us do things like find you the best route.
+  * With the exception described in the bullet below, and as explained in the section “Visibility” below, your Account and the information associated with your Account (including your unique identifier) will be visible only to Waze; and
+  * When using the Application, your approximate location and other information you may choose to contribute will be visible to other users associated with the general username “Wazer”.
+  * Note that in order to access certain features of the Services (for example map editing, ranking, moods) you will need to set up a unique username to identify yourself.
 
-**Information that is being collected**
 
-Waze allows you to use the Services whether or not you choose to set up a username for yourself. If you choose to use the Services without setting up a username you may do so by skipping the username setup stage of the application installation process. Waze will still link all of your information with your account and a unique identifier generated by Waze in accordance with this Privacy Policy. Note that in order to access certain features of the Services (for example as map editing, ranking, moods) you will need to set up a username. 
 
-The categories of information collected by Waze will include all or just some of the following, depending on how you choose to use the Services. 
+If you do set up a Waze username and password in the Application:
 
-Once you installed the Application on your device, Waze will collect:- 
+  * Waze will link all of your information with your Account and that username. This includes information received from all mobile devices running the Application on which you have chosen to sign in using your username and password;
+  * With the exception described in the bullet below and as explained in the section “Visibility” below, your Account and information associated with your Account will be visible only to Waze; and
+  * When using the Application, your approximate location and other information you may choose to contribute will be visible to other users associated with that username.
+  * Waze may also establish and require from time to time additional or different means of identification and authentication for logging in and accessing the Services or for accessing certain features or designated sections of the Services.
+  * Your login details are your responsibility. You are fully accountable for any use or misuse of your Account and personal details as a result of conveying your login details to someone else. You must maintain your login details in absolute confidentiality and avoid disclosing them to others. Make sure that you change your password frequently and at least once every six months.
 
-●      detailed location and route information, for example in the form of GPS signals and other information sent by your mobile device on which the Application is installed and activated. Waze uses this location and route information to create a detailed location history of all of the journeys you have made while using the Application; and 
 
-●      information about your use of the Services and the device on which the Application is installed, as explained in the section "Meta-data that we collect", below; 
 
-If you choose to use the Services in a manner detailed below, Waze may also collect:- 
+**We want you to understand the types of information we collect as you use our services**
 
-●        information that you choose to share with Waze, including a username you have chosen, reports associated with your username, "home" or "work", other "favorites", destinations you may travel to, chat messages, search queries, calendar information, files you have uploaded to the service, including voice and audio files, if applicable. In addition, i f you choose to opt in to the 'find friends' feature Waze will collect: 
+Waze collects information to provide better services to all its users - from figuring out stuff like what’s the best route, to more complex things like monitoring traffic so you know when to leave, and showing you relevant ads while using Waze. The information Waze collects, and how that information is used, depends on how you choose to use our services and how you manage your privacy controls.
 
-  * periodically, all of the phone numbers which are stored on your device's phone book . We only collect numbers in a form which is anonymous to Waze, we will not collect names, addresses or other information from your device's phone book. This information will be used as part of the 'find friends' feature to help find and create a list of other Waze users who you may know and with whom you may wish to connect; and/ or 
-  * your phone number. Your phone number will be used to verify your account and as part of the 'find friends' feature to help find and create a list of other Waze users who you may know and with whom you may wish to connect. See [here](https://support.google.com/waze/answer/6100208) for more information;
+### Information you create or provide to us:
 
+  * **Account Information:** information required when setting up a username you have chosen, such as your name and gender. Bear in mind that false, incorrect, or out-dated information may impair Waze’s ability to provide you with the Services and to contact you when necessary. Waze will explicitly indicate the fields for mandatory completion. If you do not enter the requisite data in these fields, you may not be able to set up a username (but you may still use our Services as explained in the above section “User Accounts & Accessing the Services”); and/or
 
+  * **Information that you choose to share with Waze:** information that you choose to share with Waze, including a username you have chosen, reports associated with your username, phone number, “home” or “work”, other “favorites”, destinations you may travel to, search queries, calendar information (if you choose to activate and use certain Service features like time to leave reminders) and files you have uploaded to the service, including voice and audio files, if applicable. You can also choose to add payment information to your Account, if applicable, specifically for paid services (such as Waze Carpool). Even if you aren’t signed in to a Waze Account, you might choose to provide us with information - like an email address to receive updates about our services.
 
-●      information required when setting up a username you have chosen, such as your name and gender. Bear in mind that false, incorrect, or out-dated information may impair Waze's ability to provide you with the Services and to contact you when necessary. Waze will explicitly indicate the fields for mandatory completion. If you do not enter the requisite data in these fields, you may not be able to set up a username; and/ or 
+  * **Communication which you choose to conduct through the Waze Services:** if you choose to use Waze to communicate with other Waze users or third parties through the Waze Services, such as chat messages or sending pinned locations on the Waze platform. We may also collect information when you exchange communication with Waze, for example, if you submit a request, contact Waze’s support team, or report a violation to the abuse team.
 
-●      information shared from your social network accounts. See "Integration with social networks", below. 
+  * **Information from your social networks which you choose to connect to your Waze Account:** you may choose to connect your Waze Account to your social network account(s). If you choose to do so, you may choose to share with Waze and/or other users information from your social network accounts, such as your Facebook profile photo or other personal information shared by you. For more information see Integration with social networks, below.
 
-Please note that when you install the Application on your mobile device, Waze will set up an account associated with that mobile device (the "Account" ). After installation, Waze will collect and use your information, including meta-data (as described below), in accordance with this Privacy Policy. This use may include linking your information with your Account. This is the case irrespective of whether or not you choose to create a Waze username and password in the Application. 
+  * **“Find friends feature”:** if you use the “find friends” feature, Waze will collect:
 
-In order to access certain features of the Services (for example, map editing, ranking, moods), you will need to set up a username. 
+    * Periodically, Waze will collect all of the phone numbers which are stored on your device’s phone contacts book. With regards to the “find friends” feature we only collect numbers in a form which is anonymous to Waze; This information will be used to help us find and create a list of other Waze users who you may know and with whom you may wish to connect. Note that we will not collect names, addresses or other information from your device’s phone contacts book, however some of this information may be saved locally on your device and may be used within searches for your friend’s name or address within the Services. and/or
+    * Your phone number. Your phone number will be used to verify your account and as part of the “find friends” feature , if applicable, to help find and create a list of other Waze users who you may know and with whom you may wish to connect.
 
-If you do set up a Waze username and password in the Application:- 
 
-●        Waze will link all of your information with your Account and that username. This includes information received from all mobile devices running the Application on which you have chosen to sign in using your username and password; 
 
-●        with the exception described in the bullet below, your Account and information associated with your Account will be visible only to Waze; and 
+You may also provide additional information that will be used to personalize the Services and enhance your experience with the Services. For example, if you provide us with your “home” and “work” information, we may provide you with what we think is the preferred route between those locations.
 
-●        when using the Application, your approximate location and other information you may choose to contribute will be visible to other users associated with that username. 
+### Information we collect as you use our services
 
-If you do not set up a Waze username and password in the Application (by skipping the username setup stage of the application installation process):- 
+We collect information about your activity in the Services, which we use to provide you with the Services of Waze, including features which are meant to personalize your experience. This includes things like finding you the preferred route and propose favorites or destinations commonly traveled by you to streamline your search and travel. The activity information we collect may include:
 
-●        Waze will still link all of your information with your Account and a unique identifier generated by Waze; 
+  * **Detailed location, travel and route information**. Location and route information is collected for example in the form of GPS signals (combined with a time-stamp) and other information sent by your mobile device on which the Application is installed and activated. This location and route information is saved to a route history of all of the journeys you have made while using the Application. The types of location data we collect depends in part on your device and account settings. For example, depending on your selected device settings and/or your account settings we may collect information about your location and travel (or lack thereof) also while you are not using the app, in order to be able to tell you when to leave for planned drives, notify you about bad traffic in your area, provide you parking assistance, analyze how effective our ads are and more;
+  * Terms or venues you searched;
+  * Your views and interactions with content and ads;
+  * Your voice and audio information when you use voice and audio features;
+  * Communication or other content you chose to share with any third party, including Waze users through the Services;
+  * Your activity on third-party sites and apps that you chose to link to your Waze account or that you interact with through the Service.
 
-●        with the exception described in the bullet below, your Account and information associated with your Account (including your unique identifier) will be visible only to Waze; and 
 
-●        when using the Application, your approximate location and other information you may choose to contribute will be visible to other users associated with the username "Wazer". 
 
-**Uses of information**
+### Meta-data (information about your device, browser and app use):
 
-Waze may use information collected from or provided by you for the following purposes: 
+Once you install the Application, Waze collects information about the use of the Services and information from the device you have Waze installed on. For example:
 
-●        to provide you with the Services. For example, Waze may:- 
+  * Waze may collect and record how often you use the app and for how long, your device type, unique identifiers, operating system type & version, battery usage, the third party web pages or applications you visit or use or interact with via the Application, information that you viewed on our Services, advertisements that are shown to you or that you view or click on, the fact that you used the Services to communicate with other users and the fact that you used third parties application/services via Waze to communicate with third parties, and the duration of such communications, the Internet Protocol (IP) address and the name of the domain that serves you to access the Services, and the geographic location of the device that you are using to log in and use Waze on.
 
-  * use your location and route information and/or search query history to provide navigation services and to provide information and advertisements about sites, shops and other places and attractions in your close vicinity, or that we believe, based on your search query history and metadata, you may find interesting; and 
-  * (if you have opted in to the 'find friends' feature), use your phone number and the phone numbers which are stored in your device's phone book to find and create a list of other Waze users who you may know and with whom you may wish to connect. See [here](https://support.google.com/waze/answer/6100208) for more information.
+  * Waze may also collect information about apps installed on your device that Waze can link with - such as third party music or media audio service apps (e.g. Spotify).
 
+  * We also collect information about the interaction of your devices with our Services, including, crash reports, system activity, and the date, time, and referrer URL of your request.
 
 
-●        to operate the Services and to improve and customize your experience with the Services. For example, Waze may use your "home" and "work" information or location history to offer routes based on how you've chosen to travel between favorite destinations in the past; 
 
-●        to improve the experience of other users. For example, Waze may use your route information to improve the accuracy of its mapping and navigation data; 
 
-●      to provide you with support and handle requests and complaints; 
+### Information we collect about you from our partners
 
-●      to send you updates, notices, announcements, and additional information related to the Services; 
+We work with ad partners, including entities that belong to the Google group of companies, in order to show you more relevant and useful ads based on your Waze activity and information associated with your device’s identifier (i.e, Advertising identifiers or similar technologies) shared with us by our ad partners. Your device’s identifier can be managed in your device’s settings (for more information: see [here](https://support.apple.com/en-us/HT202074) and [here](https://policies.google.com/technologies/ads)).
 
-●      for advertising services, in accordance with the section titled 'Advertising Campaigns' under this Privacy Policy. For example, Waze may use your location information to display advertisements for businesses in your close vicinity, or use your search terms to show you adverts for potentially relevant businesses; 
+You can decide whether we’ll show you personalized ads or not through your in-app **Privacy Settings– >Ads personalization**. Note: turning Ads personalization off does not turn off ads - only their personalization. For more information see section titled ‘Advertising campaigns’ under this Privacy Policy.
 
-●        subject to your prior indication of consent, we may also use the email address that you provide when setting up a username to send you marketing material. At any time you may choose not to receive such material by:- (i) changing the email preferences in your Account accessed via the Website; or (ii) clicking on the "Unsubscribe" link in the e-mail messages that we may send to you. In any case, Waze will not knowingly share your personal information with any advertisers, without your explicit consent and as allowed for under this Privacy Policy; 
+We may also receive aggregated, non-personally identifiable information and analysis from third parties measurement services which help us understand how our users interact with our ads. We may also receive information from third party services about how Waze’s own marketing efforts performed on third party sites or platforms.
 
-●        to create aggregated and/ or anonymous data (where such data does not enable the identification of a specific user). See "How does Waze use aggregated information", below; 
+We use various technologies to collect and store information, including, cookies, Advertising ID available on Android mobile devices or similar technologies, local storage, browser web storage, application data caches, databases, and server logs.
 
-●      to conduct surveys and questionnaires; 
+**Waze may use information collected from or provided by you for the following purposes:**
 
-●      to share your submissions with other users of the Services and to facilitate communication between you, Waze and other users; 
+### Provide our services
 
-●      to enforce the Terms of Use; 
+We use your information to deliver our services. For example:
 
-●      to contact you when Waze believes it to be necessary; 
+  * Use your location and route information and/or search query history to provide navigation services, best route choices, traffic alerts and to provide information about sites, shops and other places and attractions in your close vicinity; and
+  * (If you have opted in to the “find friends” feature), use your phone number and the phone numbers which are stored in your device’s phone book to find and create a list of other Waze users who you may know and with whom you may wish to connect.
+  * To provide advertising services, including personalized ads, in accordance with the section titled ‘Advertising campaigns’ under this Privacy Policy.
+  * To share your submissions with other users of the Services and to facilitate communication between you, Waze and other users.
 
-●      to comply with any applicable law and assist law enforcement agencies under any applicable law, when Waze has a good faith belief that Waze's cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards and procedures; 
 
-●      to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Services; 
 
-●      to handle breakdowns and malfunctions; 
+### Maintain & improve our services
 
-●      to take any action in any case of dispute, or legal proceeding of any kind between you and the Service, or between you and other users or third parties with respect to, or in relation with the Service; 
+  * We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues you report to us. And we use your information to improve the service or to develop new features or services. For example, Waze may use your route information to improve the accuracy of its mapping and navigation data.
 
-●        for purposes provided under this Privacy Policy and the Terms of Use. 
 
-Please note that the username you choose will be used to identify you when you use the Services. Your username will be included along with any information you submit for posting (such as traffic reports or chat messages). It will therefore be visible to others. If you prefer to remain invisible to other users of the Services for a particular drive, you can set the Application not to show your location on the map. To do so you should go to the Application Settings Menu and adjust accordingly. If you make this choice, while you will be invisible to other users, your location and route information will continue to be collected by Waze for the purposes listed in this Privacy Policy. 
 
-You may also provide additional information that will be used to personalize the Services and enhance your experience with the Services. For example, if you provide us with your "home" and "work" information, we may provide you with what we think is the shortest route between those locations. 
+### Provide personalized services, including content and ads
 
-Further information may be collected when Waze exchanges communications with you, for example, if you submit a request, contact Waze's support team, or report a violation to the abuse team. 
+  * We use the information we collect to operate the Services and to customize your experience with the Services. For example, Waze may use your “home” and “work” and other “favorites” information (if you choose to provide such information) or route history to offer routes based on how you’ve chosen to travel between favorite destinations in the past. Based on your past activity on the Services we may also suggest to you common destinations where you use the app to navigate to.
+  * We may also use the information to provide you with support and handle requests and complaints.
+  * Depending on your settings, we may also show you personalized ads based on your interests and past activity. For more information see section titled ‘Advertising campaigns’ under this Privacy Policy.
 
-**Personal information that you share**
 
-The Services are based on a community of users publicly sharing information with Waze and with other members of that community. 
 
-In particular, users choose to share personal information such as name, age, gender, picture, their location information, reports and other files. This information may be shared either directly to the Service and to all users, such as in the case of traffic reports, or just to your friends on Waze via the 'find friends' feature . This information may also be shared via third party services (such as social networks) which interact with the Service upon such users' choice. 
+### Measure performance
 
-**The content that you share to all users is neither private nor confidential and you should not have any expectation of privacy with respect to it.** Information you upload will be posted along with other personal information. Certain road incidents you report may include your driving path within the vicinity of those incidents. Therefore, you must exercise caution and common sense when submitting information. At the very least you should demonstrate the same degree of caution as when publishing personal information by means other than the Internet and cellular services. 
+  * We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your usage of the Services to do things like optimize product design. We also use the data we collected about the ads you view or interact with (e.g. click on) to help advertisers understand the performance of their ad campaigns and to provide them with aggregated reports. We may also use data to measure the usability and effectiveness of Waze’s own marketing efforts on third party sites or platforms.
 
-You can decide whether or not to upload content to the Services. However any content that you submit for posting, may be viewed by all users of the Services and by Waze. 
 
-In any event (but except as detailed below with respect to information shared from your social network accounts according to your privacy settings for such social network accounts), your email address will not be visible to others through any reports or user posts that you share or upload. 
 
-Waze collects voice information, including voice files if you either record your own voice, or use the voice command features If, after recording your own voice, you chose to share your voice recordings, other Waze users and other people will be able to download and use your voice recordings. Once downloaded, Waze may not have any control over the voice files, so you should only share content that you are comfortable being made public. 
+### Communicate with you
 
-We, at Waze, take great measures to provide you with the best experience you can have while using the Service. However, Waze has no control over the conduct of any user and disclaims all liability in this regard. Users are advised to carefully and thoroughly consider whether or not to make public or available any information and carefully examine all necessary details related to any communication with other users prior to any engagement or communication being made. 
+  * We also use your information to send you updates, notices, announcements, and additional information related to the Services;
+  * We may also use your information to conduct surveys and questionnaires; And if you contact Waze we may keep a record of your request in order to help solve any issues you might be facing.
+  * Subject to your prior indication of consent (to the extent required under applicable law), we may also use the email address that you provided to send you promotional and/or marketing materials. At any time you may choose not to receive such materials by clicking on the “Unsubscribe” link in the email messages that we may send to you. In any case, Waze will not share your contact details with any advertiser, unless explicitly permitted or required by law.
 
-Participating in any user's activities as a result, directly or indirectly, from using Waze, is entirely at your own risk. Waze is not a party to any agreement entered into between the users in any circumstances. The user has the sole and ultimate responsibility regarding compliance with all laws, regulation or any other duty. We do not accept any liability for any loss, damage, cost or expense that you may suffer or incur as a result of or in connection with your participation in any activity or event initiated, held or conducted by a user or a third party nor in connection to any agreement between the users or third parties, including any activity or event related in any way, directly or indirectly, the Services or the use thereof. 
 
-**Integration with social networks**
 
-You may choose to share information between your Account and your social network account (such as Facebook). Through this option, you may choose to have personal information and other content about you available from social networks, transmitted and shared through the Services. Similarly, you may choose to have personal information and other content about you available from Waze, including your location and route information, transmitted to and shared through your social network account. 
+### To protect Waze, our users, the public and for Legal reasons
 
-By setting your Account to integrate with social networks including by signing onto Waze by using your social network account (such as your Facebook account), you agree to share information (including personal information) between Waze and such social networks, for the purposes provided under this Privacy Policy. 
+We may also use and process your information and content, using different technologies to the following purposes:
 
-The social network's use of information made available by Waze is governed by that social network's privacy policy and controlled by the social network, not by this Privacy Policy or Waze. 
+  * To enforce the Terms of Use or Privacy Policy;
+  * To contact you when Waze believes it to be necessary;
+  * To comply with any applicable law and assist law enforcement agencies under any applicable law, when Waze has a good faith belief that Waze’s cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards and procedures;
+  * To detect abuse and illegal activity; to detect and prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Services;
+  * To handle breakdowns and malfunctions;
+  * To take any action in any case of dispute, or legal proceeding of any kind between you and the Services, or between you and other users or third parties with respect to, or in relation with the Services;
+  * For purposes provided under this Privacy Policy and Terms of Use;
+  * To help improve the safety and reliability of our Services. This includes detecting, preventing, and responding to security risks, and technical issues that could harm waze, our users, or the public;
+  * To create aggregated and/or anonymous data (where such data does not enable the identification of a specific user). See “How does Waze use aggregated information”, below;
 
-When you connect to the social network account through the Services for the first time or otherwise make the Services interact with your social network account, you will be asked to permit the social network to share your personal information stored on such social network with the Services. We collect your information from your social network account only in accordance with your privacy settings you have set up under your social network accounts. 
 
-Accordingly we only collect such information which you allowed the social network(s) to share with third parties (such as your name, email address, list of friends, profile picture, other information you make publicly available via the applicable social network). You understand that the Services may access, make available and store (if applicable and as permitted by the third party social network and authorized by you) such information so that it is available on and through your Account. For example, Waze may allow you to share your location with your Facebook friends, via the Application. 
 
-Please note that certain information which you have defined as private on your third party social network accounts may become public to other Waze Users through the Services if you have defined such information to be public on the Services. For example, if you designate your social network username as "private"in your social network account (to the extent possible under said settings), but have elected to set your Waze account settings as public, then the username will become public on the Waze service. 
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
 
-**Integration with other third party services**
+The Services are based on a community of users publicly sharing information with Waze and with other members of that community.
 
-Waze offers you the option to link Waze to third party services that may be useful to you. Where Waze detects an integration may be available (either because a third party service attempts to link to Waze, or Waze detects an installed service on the device which has an integration option), Waze will ask for confirmation to connect the accounts. If you choose to connect the accounts and after connecting, Waze will ask for your permission to share data with the third party service. You should only agree to connect accounts if you are comfortable with the third party service receiving the data set out at the time of connecting the accounts and Waze is not responsible for the third party service's use of data. You can disconnect Waze and the third party service at any time and Waze will cease sharing data with that service. 
+In particular, users may choose to share personal information such as name, age, gender, picture, their location information, reports and other files. This information may be shared either directly to the Services and to all users, such as in the case of traffic reports or your Carpool profile, or just to your friends on Waze. This information may also be shared via third party services (such as social networks) which interact with the Services upon such users’ choice.
 
-**Meta-data that we collect**
+**You can decide whether or not to upload content to the Services. However any content that you choose to share and submit for posting is neither private nor confidential and you should expect that it may be made public and known to others.** Information you choose to upload will be posted along with your user name and other information including personal information you attached to your publicly available user profile . You should note that certain road incidents you report may include your driving path within the vicinity of those incidents. Therefore, you must exercise caution and common sense when submitting information. At the very least you should demonstrate the same degree of caution as when publishing personal information by means other than the Internet and cellular services.
 
-Waze collects information about the use of the Services and information from the device you have Waze installed on. For example, Waze may record the frequency and scope of your use of the Services, the duration of your sessions, device name, operation system type, operating system version, battery usage, the web pages that you visit via the Application, information that you viewed, content that you use or create, advertisements that you view or click on, your communications with other users and third parties, the Internet protocol (IP) address and the name of the domain that serve you to access the Services, and the geographic location of the device that you are using to log-in and use Waze on. 
+In any event (but except as detailed below with respect to information shared from your social network accounts according to your privacy settings for such social network accounts), your email address will not be visible to others through any reports or user posts that you share or upload.
 
-**Accessing the Services**
+if you choose to either record your own voice onto the Service, or to use the voice command features, Waze will collect the voice information related to such use, including voice files. If, after recording your own voice, you chose to share your voice recordings, other Waze users and other people will be able to download and use your voice recordings. Once downloaded, Waze may not have any control over the voice files, so you should only share content that you are comfortable being made public.
 
-In order to access certain features of the Services (for example, map editing, ranking, moods), you will need to set up a username. 
+We, at Waze, take great measures to provide you with the best experience you can have while using the Services. However, Waze has no control over the conduct of any user and disclaims all liability in this regard. Users are advised to carefully and thoroughly consider whether or not to make public or available any information and carefully examine all necessary details related to any communication with other users prior to any engagement or communication being made.
 
-Waze may also establish and require from time to time additional or different means of identification and authentication for logging in and accessing the Services or for accessing certain features or designated sections of the Services. 
+Participating in any user’s activities as a result, directly or indirectly, from using Waze, is entirely at your own risk. Waze is not a party to any agreement entered into between the users in any circumstances. The user has the sole and ultimate responsibility regarding compliance with all laws, regulations or any other duty. We do not accept any liability for any loss, damage, cost or expense that you may suffer or incur as a result of or in connection with your participation in any activity or event initiated, held or conducted by a user or a third party nor in connection to any agreement between the users or third parties, including any activity or event related in any way, directly or indirectly, the Services or the use thereof.
 
-Your log-in details are your responsibility. You are fully accountable for any use or misuse of your Account and personal details as a result of conveying your details to someone else. You must maintain your log-in details in absolute confidentiality and avoid disclosing them to others. Make sure that you change your password frequently and at least once every six months. 
+### When Waze shares your information
 
-**Sharing information with others**
+Waze does not sell, rent or lease your personal information to third parties.
 
-Waze does not sell, rent or lease your personal information to third parties. 
+Waze will not share your personal information with others, without your permission, except for the following purposes and to the extent necessary in Waze’s good-faith discretion:
 
-Waze will not share your personal information with others, without your consent, except for the following purposes and to the extent necessary in Waze's good-faith discretion: 
+  * As necessary for the facilitation and operation of the Services. For example, making public road incidents you report and which are associated with your username and your location;
 
-●        as necessary for the operation of the Services. For example, making public road incidents you report and which are associated with your username and your location; 
+  * If Waze reasonably believes that you have breached the Terms of Use or is investigating potential breach of the Terms of Use, or believes that you abused your rights to use the Services, or performed any act or omission that Waze reasonably believes to be violating any applicable law, rules, or regulations. Waze may share your information in these cases, with law enforcement agencies and other competent authorities and with any third party as may be required to handle any result of your wrongdoing;
 
-●      If Waze reasonably believes that you have breached the Terms of Use, or abused your rights to use the Services, or performed any act or omission that Waze reasonably believes to be violating any applicable law, rules, or regulations. Waze may share your information in these cases, with law enforcement agencies and other competent authorities and with any third party as may be required to handle any result of your wrongdoing; 
+  * If Waze is required, or reasonably believes that it is required by law to share or disclose your information;
 
-●      If Waze is required, or reasonably believes that it is required by law to share or disclose your information; 
+  * In any case of dispute, or legal proceeding of any kind between you and Waze, or between you and other users with respect to, or in relation with the Services;
 
-●      In any case of dispute, or legal proceeding of any kind between you and Waze, or between you and other users with respect to, or in relation with the Services; 
+  * In any case where Waze reasonably believes that sharing information is necessary to protect against harm to the rights, property or safety of Waze, our users, or the public as required or permitted by law, including to prevent imminent physical damage or damage to property;
 
-●      In any case where Waze reasonably believes that sharing information is necessary to prevent imminent physical damage or damage to property; 
+  * To detect, prevent, or otherwise address fraud, security, or technical issues;
 
-●      If Waze organizes the operation of the Services within a different framework, or through another legal structure or entity, or if Waze is acquired by, or merged into or with another entity, or if Waze enters bankruptcy, provided however, that those entities agree to be bound by the provisions of this Privacy Policy, with respective changes taken into consideration; 
+  * If Waze organizes the operation of the Services within a different framework, or through another legal structure or entity, or if Waze is acquired by, or merged into or with another entity, or if Waze enters bankruptcy, provided however, that those entities agree to be bound by the provisions of this Privacy Policy, with respective changes taken into consideration;
 
-●      For facilitating the Service and to store your data on servers located in the U.S.A and the European Union. 
+  * To collect, store, hold and manage your personal information through cloud based or hosting services or a third party or a party affiliated or connected to Waze, as reasonable for business purposes, which may be located in the European Union and the U.S.A., potentially countries outside of your jurisdiction;
 
-●      To collect, hold and manage your personal information through cloud based or hosting services or a third party or a party affiliated or connected to Waze, as reasonable for business purposes, which may be located in countries outside of your jurisdiction, including but not limited to the United States of America. 
+  * Waze may also share personal information with companies or organizations connected or affiliated with Waze, such as subsidiaries, sister-companies and parent companies (i.e. entities that belong to the Google group of companies);
 
-●      Waze may also share personal information with companies or organizations connected or affiliated with Waze, such as subsidiaries, sister-companies and parent companies. Personal information may also be shared with Waze's other partners and service providers to process it for us, based on our instructions and in compliance with this policy and any other appropriate confidentiality and security measures. 
+  * We work with other Google’s services (such as Google Doubleclick Bid Manager) for advertising and ad measurement purposes. In order to help advertisers decide what ads to show on Waze, Google, and websites & apps that partner with Google, we may share information with these services, such as a unique identifier for advertising (i.e, Advertising ID available on Android mobile devices or similar technologies). You can learn more about how Google uses information from sites or apps that use its services and how you can control that in [this](https://policies.google.com/technologies/partner-sites) page. For more information see section titled ‘Advertising campaigns’ under this Privacy Policy.
 
-**Controlling your personal information**
+  * We also work with selected measurement services which help us understand how our users interact with our ads (such as DoubleClick Campaign Manager) and in order to measure Waze’s own marketing efforts (such as AppsFlyer services), by using and sharing the device’s identifier (i.e, Advertising ID or similar technologies).
 
-If you would like us to delete your Account, your username (if you have set one up) and your personal information, please use the "Delete Account" function we offer available under the Settings menu in the Application and on the Website. 
+  * Personal information may also be shared with Waze’s trusted partners and service providers to process it for us, based on our instructions and in compliance with this policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer services.
 
-On receiving such a request, Waze will use reasonable efforts to delete such information, however please note we may not delete information immediately from our back-up systems. 
 
-If you choose to set up a username, you can view your route history via the "Edit the Map"/ "Drives" function on the Waze website. 
 
-Your location and route history is associated with your Account and (if you have chosen to set one up) your username or (if you have chosen not to set up a username) the unique identifier generated by Waze. 
 
-This information is held by Waze associated with your Account and username/ unique identifier for such limited period of time as is necessary in order for Waze to be able to use the information for the purposes described in this Privacy Policy. At the end of this period of time, Waze will then anonymize or delete your location and route information. 
+Please note that your username and some other information will be visible to others. Note that your username will be included along with any information you submit for posting (such as traffic reports or chat messages). It will therefore be visible to others. Also - your friends on Waze will see your name & profile photo and any other information you chose to share with them.
 
-If you find that the information associated with your Account is not accurate, complete or updated, then you must make all necessary changes to correct it. Please keep in mind that false, incorrect, or outdated information may prevent you from setting up a username and impair the ability to provide you with Services. 
+If you prefer to remain invisible on the Waze map, you can set the Waze Application not to show your location on the map. To do so you should go to the Privacy Settings and adjust accordingly by switching on to Invisible Mode. If on, **some features may not be available**. If you make this choice, while you will be ‘invisible’ on the map to other users, your location and route information will continue to be collected by Waze for the purposes listed in this Privacy Policy and your Carpool profile (if you choose to set one) may be visible to other Waze’s users.
 
-**How does Waze use aggregated information?**
+You may choose to share information between your Waze account and your social network account (such as Facebook). Through this option, you may choose to have personal information and other content about you available from social networks, transmitted and shared through the Services. Similarly, you may choose to have personal information and other content about you available from Waze, including your location and route information, transmitted to and shared through your social network account.
 
-Waze may use anonymous, statistical or aggregated information (including anonymous location information), in a form that does not enable the identification of a specific user, to properly operate the Services, to improve the quality of the Services, to enhance your experience, to create new services and features, including customized services, to change or cancel existing content or service, and for further internal, commercial and statistical purposes (including advertising). 
+By setting your Waze Account to integrate with social networks, including by signing onto Waze by using your social network account (such as your Facebook account and your Google account), you agree to share information (including personal information) between Waze and such social networks, for the purposes provided under this Privacy Policy.
 
-Waze may also use anonymous, statistical or aggregated information collected on the Services, in a form that does not enable the identification of a specific user, by posting, disseminating, transmitting or otherwise communicating or making available such information to users of the Services, to the Services' providers, partners and any other third party. For example, GPS information that we receive from your mobile device may be provided to map editors in an aggregated and/ or anonymous form to help improve the map and solve map problems, traffic data may be provided to cities, and anonymous ads analysis may be provided to advertisers. 
+The social network’s use of information made available by Waze is governed by that social network’s privacy policy and controlled by the social network, not by this Privacy Policy or Waze.
 
-**Cookies**
+When you connect to the social network account through the Services for the first time or otherwise make the Services interact with your social network account, you will be asked by the social network to permit the social network to share your personal information stored on such social network with Waze. We collect your information from your social network account only in accordance with the permissions granted by you (such as your name, email address, list of friends, profile picture and other information available via the applicable social network).
 
-Waze may use cookies on the Services. Cookies are packets of information sent by the Website's servers to your web browser and then sent back by the browser each time it accesses the Website's servers. 
+You understand and agree that the Services may access, make available and store such information so that it is available on and through your Waze Account, until your Waze Account is deleted.
 
-Waze may use cookies for various purposes, such as to save you the need to re-enter your username and password each time you log-in, to facilitate the use of the Website, to collect statistical information, to verify information, and to customize the Website to your personal preferences and for information security purposes. 
+Please note that certain information which you have defined as private on your third party social network accounts may become public to other Waze Users through the Services once you have allowed the social network to share such information with Waze (for example through your Carpool Profile).
 
-Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block the Website's cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Website, or certain features thereof. 
+Waze may offer you the option to link Waze to third party services that may be useful to you (like, Spotify). Where Waze detects an integration may be available (either because a third party service attempts to link to Waze, or Waze detects an installed service on the device which has an integration option, or you request a particular integration), Waze will ask for confirmation to connect the accounts. If you choose to connect the accounts, Waze will ask for your permission to share data with the third party service. You should only agree to connect accounts if you are comfortable with the third party service receiving the data set out at the time of connecting the accounts and Waze is not responsible for the third party service’s use of data. You can disconnect Waze and the third party service at any time and Waze will cease sharing data with that service from the point of disconnection onwards.
 
-**Advertising campaigns**
+You can always review and update certain information by visiting your Account & Login settings (such as your phone, email and more) or the in-app left menu (to update your home, work and favorites).
 
-Waze may permit, solicit or contract certain other companies to conduct advertising campaigns on the Services. 
+You can log on to the Waze website to view your route history by going to “Edit the Map”/ “Drives” function on the Waze website. Note that in order to access certain information you will need to set up a username. Your location and route history is associated with your Account and (if you have chosen to set one up) your username or (if you have chosen not to set up a username) the unique identifier generated by Waze.
 
-The information and advertisements that you see when accessing the Services may be targeted on the basis of: 
+If you find that the information associated with your Account is not accurate, complete or updated, then you should make all necessary changes to correct it. Please keep in mind that false, incorrect, or outdated information may prevent you from setting up a username and impair the ability to provide you with Services.
 
-geographic or contextual information which we collect from you, including information described in this Privacy Policy; 
+### Privacy controls
 
-information received from third party partners; as well as 
+Your in-app Privacy Settings provide you with quick access to settings and tools that let you safeguard your data and decide how your information can make Waze services work better for you. For example, you can control your visibility on the map and manage your preferences about the ads shown to you on Waze.
 
-your search query history. 
+There are other ways to control the information Waze collects whether or not you’re signed in to a Waze Account, including device-level settings: your device may have controls that determine what information we collect. For example, you can modify location settings on your device.
 
-You hereby agree that we may provide such information and advertisements targeted on the basis of your search query history. However, if, when accessing the Services, you no longer wish to see information and advertisements from us targeted on the basis of your search query history or on the basis of information received from third party partners, you are able to opt out of such targeting in the settings of the Application. See [here](https://support.google.com/waze/answer/6174383) for more detail. 
+### Deleting your information
 
-When you visit a third party website from the Application, such third party may use cookies on your computer. The third party's use of cookies is subject to their own privacy policies and not to this Privacy Policy. If you wish to study the privacy policies of those third parties you should visit their services, or contact them directly. 
+If you would like us to delete your Account, please use the “Delete Account” function available under the in-app Privacy Setting and on the [Waze website](https://web.archive.org/dashboard). On receiving such a request, Waze will use reasonable efforts to delete such information, however please note that information may not be deleted immediately from our back-up systems. We aim to initiate the deletion process immediately after your request. Once we receive your request, your data will no longer be used to personalize your Waze experience. We then begin a process designed to safely and completely delete the data from our storage systems. This process generally takes around 2 months from the time of deletion. As with any deletion process, things like routine maintenance, unexpected outages, bugs, or failures in our protocols may cause delays in the processes and time frames defined in this policy. We maintain systems designed to detect and remediate such issues.
 
-The Service includes an internal messaging system which provides you the ability to send and receive messages to and from other users, and to receive marketing messages from us. You hereby agree that we may use the internal messaging system for the purpose of informing you regarding products or services, which may interest you. 
+Some data you can delete whenever you like, some data is deleted automatically, and some data we retain for longer periods of time when necessary. This section describes why we hold onto different types of data for different periods of time.
 
-Please note however that other Waze users are not allowed to use your contact details or our internal messaging account for commercial advertising purposes. If you have encountered any user generated advertising material, please inform us through the channels listed on the "About" menu in the Software or through the "Contact Us" page on the Site (web address: [support.google.com/waze](https://support.google.com/waze) ). Waze does not accept any liability for any loss, damage, cost or expense that you may suffer or incur as a result of or in connection with any user's advertising material. 
+  * **Information retained until you remove it** \- such as your “Home, “work”, favorites, email address and other account related information. We’ll keep this data in your Waze Account until you choose to remove it and/or update it.
+  * **Data that expires after a specific period of time** \- in some cases, you don’t need to actively delete your information as we set retention timeframes based on the reason for the data’s collection. For example, if you choose to connect your calendar to your Waze Account, we extract your calendar events for several days in advance and delete them after their occurrence. We may also take steps to anonymize certain data within set timeperiods.
+  * **Information retained until your Waze Account is deleted** \- we may keep some data for the life of your Waze Account if it’s useful for helping us understand how users interact with our features and how we can improve our services. For example, if you made an incident report, we will keep information about how many reports you have submitted, even after the event is removed. When you delete your Waze Account, the information about how many reports you have submitted is also removed.
+  * **Information retained for extended time periods for limited purposes** \- sometimes business and legal requirements oblige us to retain certain information, for specific purposes, for an extended period of time. For example, when Waze processes a payment for you, we’ll retain this data for longer periods of time as required for tax or accounting purposes. Reasons we might retain some data for extended periods of time include: 
+    * Security, fraud & abuse prevention
+    * Financial record-keeping
+    * Complying with legal or regulatory requirements
+    * Ensuring the continuity of our services
+    * Direct communications with Waze
 
-It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof. 
 
-**Information Security**
 
-Waze considers information security to be a top priority. Waze implements systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although Waze takes great efforts to protect your personal information, Waze cannot guarantee and you cannot reasonably expect that Waze's databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse. 
+Waze may use anonymous, statistical or aggregated information (including anonymous location information), in a form that does not enable the identification of a specific user, to properly operate the Services, to improve the quality of the Services, to enhance your experience, to create new services and features, including customized services, to change or cancel existing content or service, and for further internal, commercial and statistical purposes (including advertising).
 
-**Changes to this Privacy Policy**
+Waze may also use anonymous, statistical or aggregated information collected on the Services, in a form that does not enable the identification of a specific user, by posting, disseminating, transmitting or otherwise communicating or making available such information to users of the Services, to the Services’ providers, partners and any other third party. For example, GPS information that we receive from your mobile device may be provided to map editors in an aggregated and/or anonymous form to help improve the map and solve map problems, traffic data may be provided to cities, and aggregated ads analysis may be provided to advertisers.
 
-**Waze may from time to time change the terms of this Privacy Policy. Substantial changes will take effect 30 days after Waze has posted a:**
+Waze may use cookies and similar technologies on the Services. Cookies are packets of information sent by the Website’s servers to your web browser and then sent back by the browser each time it accesses the Website’s servers.
 
-**●          system message to users notifying them of changes to the Privacy Policy; and**
+Waze may use cookies for various purposes, such as to save you the need to re-enter your username and password each time you log in, to facilitate the use of the Website, to collect statistical information, to verify information, and to customize the Website to your personal preferences and for information security purposes.
 
-**●          notification on the Website's homepage or any other relevant web pages, explaining the changes to the Privacy Policy alongside a comparison of the "old" and "new" versions of the Privacy Policy.**
+Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer’s hard drive. If you wish to block the Website’s cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Website, or certain features thereof.
 
-**Other changes will take effect 7 days after their initial posting on the Website. However, if Waze amends this Privacy Policy to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required.**
+Waze allows advertisers to run ad campaigns on the Services.
 
-**You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.**
+The information and advertisements that you see when accessing the Services may be targeted on the basis of your current Waze activity, such as your current location, your destination or contextual information based on your current drive session. For example: if you search for “gas station” you may see an ad for a local gas station.
 
-**Last modified: 1 October 2017**
+Depending on your settings, you may also see **ads personalized** to you based on:
+
+  * Information we received from you (for example, your saved “Home” & “Work” addresses)
+  * Past activity and search query history (for example, drives that appear in your drive list)
+  * Information from our ad partners, including entities that belong to the Google group of companies and other trusted ad partners.
+
+
+
+You can decide whether we’ll show you personalized ads or not through your in-app **Privacy Settings– >Ads personalization**. Note: turning Ads personalization off does not turn off ads - only their personalization.
+
+Please note:
+
+  * We don’t knowingly collect nor do we show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
+  * We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and share your phone number with the flower shop.
+  * As described under “When Waze shares your information” section above, we work with other Google’s services (such as Google Doubleclick Bid Manager) for advertising and ad measurement purposes. In order to help advertisers decide what ads to show on Waze, Google, and websites & apps that partner with Google, Waze may share information with these services such as a unique identifier for advertising (Advertising ID available on Android mobile devices or similar technologies). You can learn more about how Google uses information from sites or apps that use its services and how you can control that in [this page](https://policies.google.com/technologies/partner-sites).
+  * The Ads personalization control described above apply to personalized ads served by Waze **on the Waze platform** and they do not apply to ads served on third parties platforms, including on Waze’s behalf.
+  * When you visit a third party website from the Application, such third party may use cookies on your computer. The third party’s use of cookies is subject to their own privacy policies and not to this Privacy Policy. If you wish to study the privacy policies of those third parties you should visit their services, or contact them directly.
+
+
+
+The Services includes an internal messaging system which provides you the ability to send and receive messages to and from other users, and to receive marketing messages from us. You hereby agree that we may use the internal messaging system for the purpose of informing you regarding products or services, which may interest you.
+
+Please note however that other Waze users are not allowed to use your contact details or our internal messaging account for commercial advertising purposes. If you have encountered any user generated advertising material, please inform us through the channels listed on the “About” menu in the Software or through the “Contact Us” page on the Site [link here](https://web.archive.org/about/contact).
+
+It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties and you irrevocably and unconditionally agree that we shall not be held responsible or liable for any loss, damage, cost or expense that you may suffer or incur as a result or in connection thereof.
+
+Waze considers information security to be a top priority. Waze services are built with strong security features that continuously protect your information. Waze implements systems, applications and procedures to secure your personal information, to minimize the risk of theft, damage, loss of information, or unauthorized access or use of information. For example, we review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems. In addition, we restrict access to personal information to Waze employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you.
+
+However, these measures are unable to provide absolute assurance. Therefore, although Waze takes great efforts to protect your personal information, Waze cannot guarantee and you cannot reasonably expect that Waze’s databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.
+
+### Data transfers
+
+We store data on servers located around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy.
+
+When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
+
+### European requirements
+
+If the European Union (EU) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, delete, and restrict the processing of your information.
+
+You can also export a copy of data in your Waze account if you want to back it up or export your information to another service. You can log in to the dashboard by going to the [Waze website](https://web.archive.org/dashboard), then Settings, then choose Download your data archive. Note that in order to access the dashboard you will need a Waze account with a valid email address to receive your data archive.
+
+You also have the right to object to the processing of your information.
+
+We process your information for the purposes described in this policy, based on the following legal grounds:
+
+_With your consent_
+
+We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. You can manage your settings at any time, including your in-app Privacy Settings.
+
+_When we’re pursuing legitimate interests_
+
+We process your information for our legitimate interests and those of third parties (such as partners including advertisers, in order to report use statistics) while applying appropriate safeguards that protect your privacy. This means that we process your information for things like:
+
+  * Providing, maintaining, and improving our services to meet the needs of our users
+  * Developing new services and features that are useful for our users
+  * Understanding how people use our services (including how they interact with our ads) to ensure and improve the performance of our services
+  * Customizing our services to provide you with a better user experience
+  * Marketing to inform users about our services
+  * Providing advertising to make our services freely available for users
+  * Detecting, preventing, or otherwise addressing fraud, abuse, security, or technical issues with our services
+  * Protecting against harm to the rights, property or safety of Waze, our users, or the public as required or permitted by law
+  * Performing research that improves our services for our users and benefits the public
+  * Fulfilling obligations to our partners like developers and rights holders
+  * Enforcing legal claims, including investigation of potential violations of applicable Terms of Service
+
+
+
+_When we’re providing a service_
+
+We process your data to provide a service you’ve asked for under a contract (including our terms of use).
+
+_When we’re complying with legal obligations_
+
+We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to legal process.
+
+If you have questions, you can contact Waze and our data protection office, led by our Data Protection Officer, at: [privacy@waze.com](mailto:privacy@waze.com). And you can contact your local data protection authority if you have concerns regarding your rights under local law.
+
+Waze may from time to time change the terms of this Privacy Policy. Substantial changes will take effect 30 days after Waze has posted a:
+
+  * System message to users notifying them of changes to the Privacy Policy; and
+  * Notification on the Website’s homepage or any other relevant web pages, explaining the changes to the Privacy Policy alongside a comparison of the “old” and “new” versions of the Privacy Policy.
+
+
+
+Other changes will take effect 7 days after their initial posting on the Website. However, if Waze amends this Privacy Policy to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required.
+
+You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
+
+**Last modified: 25 May 2018**
 
 **The Company has registered a database with the Israeli Database Registrar**
