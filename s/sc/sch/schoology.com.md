@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229234015id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629225138id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoology
 
@@ -10,7 +10,7 @@ This Privacy Policy describes Schoology’s privacy practices in relation to inf
 
 This Privacy Policy does not apply to the [Schoology App Center](https://app.schoology.com/apps). For information on the privacy policies of the Schoology App Center, visit <https://developers.schoology.com/privacy>
 
-[](https://privo.com/privo-site-validation/?company=911)
+[](https://privo.com/privo-site-validation/?company=991)
 
 **PRIVO-Cert™ Safe Harbor Certification Program**
 
@@ -57,7 +57,7 @@ Information on individual usage of the system, including but not limited to indi
 We work with a number of third party service providers to help improve the quality of our service. These third parties do not share your information with any other third parties.
 
   * Schoology uses the following third party services on the App:
-    * **Zendesk and Zopim Chat** \- Zendesk and Zopim Chat are platforms for our Support Team to provide private customer support communication to our users. Our support system is available for users of all ages to submit requests or questions to our team. These requests can be submitted using [http://help.schoology.com](http://help.schoology.com/) or via email at [help@schoology.com](mailto:help@schoology.com.) Zendesk does not share user information with any other third parties. 
+    * **Zendesk and Zopim Chat** \- Zendesk and Zopim Chat are platforms for our Support Team to provide private customer support communication to our users. Our support system is available for users of all ages to submit requests or questions to our team. These requests can be submitted using [support.schoology.com](https://support.schoology.com/). Zendesk does not share user information with any other third parties. 
     * **Pendo** \- Pendo is an analytics service used to help analyze your use of our App and to improve it. We use the information we get from Pendo only to improve our App and our Services. Pendo does not share your information with any other third parties. 
   * Schoology uses the following third party services on the Main Domain.
     * **Google Analytics** \- Google Analytics is an analytics service used to help analyze your use of our Main Domain and allow us to improve communication. We use the information we get from Google Analytics only to improve our Main Domain. Google Analytics does not share your information with any other third parties. 
@@ -77,9 +77,11 @@ Parents have the right to consent to the site's use of the child's personal info
 
 If you are the parent and guardian of a student using Schoology, and cease to agree with Schoology's terms of use and privacy policy at some point in the future, you may opt-out by contacting (a) your Subscriber (typically your school) Schoology administrator if you are an Enterprise account user, or (b) Schoology at [privacy@schoology.com](mailto:privacy@schoology.com) if you are a basic account user.
 
-If yours or your child's personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by emailing our Customer Support at [help@schoology.com](mailto:help@schoology.com). We will respond to your access request within 30 days.
+If yours or your child's personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by contacting Customer Support via [support.schoology.com](https://support.schoology.com/). We will respond to your access request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [help@schoology.com](mailto:help@schoology.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us via [support.schoology.com](https://support.schoology.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+For more information on Schoology's data retention and destruction policy, please visit our help center [here](https://support.schoology.com/hc/en-us/articles/360000159647?flash_digest=14689ed8cbca8fb11be046d03f71aa61357bf5ae&flash_digest=aaac2cc74400ec74a85f421c08c03449dc18b922).
 
 ## Internet Privacy & Security
 
