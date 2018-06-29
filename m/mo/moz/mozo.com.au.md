@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610135024id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629143340id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
 # Mozo Privacy Policy | Mozo
 
-##  Introduction 
+## Introduction
 
-Mozo respects and upholds the confidentiality and privacy of individuals. Mozo is committed to ensuring the privacy of personal information you provide to us. We are bound by the Privacy Act 1988 (Cth) and guided by the Australian Privacy Principles. Mozo wants to make you aware how we collect, use, disclose and store your personal information. 
+Mozo respects and upholds the confidentiality and privacy of individuals. Mozo is committed to ensuring the privacy of personal information you provide to us. We are bound by the Privacy Act 1988 (Cth) and guided by the Australian Privacy Principles. Mozo wants to make you aware how we collect, use, disclose and store your personal information.
 
 This Privacy Policy outlines our practices relating to the collection of information collected through all our services, website, widgets, competitions, customer surveys (collectively, the "Services"). By using any of the Services, you agree to the terms and conditions of this Privacy Policy. This Privacy Policy applies to all persons who interact with Mozo including those that are financial providers with commercial relationships with Mozo, registered users and unregistered users of the Services. Unless you give us explicit consent otherwise, we will act in accordance with this Privacy Policy with regards to our collection, storage, use and disclosure of personal information.
 
-## What information we collect?
+## What information do we collect?
 
 We will only collect personal information that is necessary for us to provide you with the Services that we offer. If you choose not to provide certain personal information then we may not be able to provide the Services to you. 
 
@@ -147,7 +147,7 @@ Level 11, 263 Clarence St
 
 Sydney NSW 2000   
   
-Phone: 
+Phone: 
 
 | 
 
