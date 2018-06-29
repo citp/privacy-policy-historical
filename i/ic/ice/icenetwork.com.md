@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120053114id_/http%3A//web.icenetwork.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629191554id_/http%3A//web.icenetwork.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | icenetwork.com: Your home for figure skating and speed skating.
 
@@ -56,7 +56,7 @@ Your Website account preferences are password protected for your privacy and sec
 
 ### 4\. How You Can Review Your Personal Information
 
-If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) click here to log in, and then click on the applicable menu option on the left side of the page, or (2) call Ice Network Customer Service at 866-464-8499. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact Ice Network Customer Service at customerservice@website.icenetwork.com.
+If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) click [here](https://web-secure.icenetwork.com/enterworkflow.do?flowId=registration.login) to log in, and then click on the applicable menu option on the left side of the page, or (2) contact customer support at [icenetwork@usfigureskating.org](mailto:icenetwork@usfigureskating.org). If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), please contact customer support at [icenetwork@usfigureskating.org](mailto:icenetwork@usfigureskating.org).
 
 ### 5\. Choice
 
@@ -79,10 +79,10 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 >  20 First Street, Colorado Springs, CO 80906  
 >  Phone: 719-635-5200  
 >  Fax: 719-635-9548  
->  Or send an e-mail to [customerservice@website.icenetwork.com](mailto:customerservice@website.icenetwork.com)
+>  Or send an e-mail to [icenetwork@usfigureskating.org](mailto:icenetwork@usfigureskating.org)
 
 ### 9\. Notification of Changes
 
 If we make an important change to this Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy.
 
-**LAST UPDATED AND EFFECTIVE DATE: August 12, 2013**
+**LAST UPDATED AND EFFECTIVE DATE: June 8, 2018**
