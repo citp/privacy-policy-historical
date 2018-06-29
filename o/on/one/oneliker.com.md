@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oneliker.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221192041id_/http%3A//oneliker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneliker.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630012620id_/http%3A//oneliker.com/privacy-policy) for the most accurate reproduction.*
 
 # One Liker - Facebook Auto Liker - Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact](https://web.archive.org/cdn-cgi/l/email-protection#4f2c20213b2e2c3b0f00212a0326242a3d612c2022).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact](https://web.archive.org/cdn-cgi/l/email-protection#adcec2c3d9ccced9ede2c3c8e1c4c6c8df83cec2c0).
 
 At OneLiker.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by OneLiker.com and how we use it. 
 
