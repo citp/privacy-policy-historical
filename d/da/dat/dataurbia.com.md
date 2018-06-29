@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dataurbia.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230040847id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataurbia.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629233226id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
 
 # AdFly - Terms & Conditions
 
-**This statement was last updated September 10, 2015.**
+**This statement was last updated May 23, 2018.**
 
 The term 'AdF.ly' or 'AdFly'' or 'us' or 'we' refers to the owner of the website 'x19 Limited' whose registered office is x19 Limited, 27 Old Gloucester Street, London, WC1N 3AX. Our company registration number is 05995703, registered in England. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
@@ -22,7 +22,9 @@ Our Privacy Policy is seperated in to the "AdFly Service Website" (requires an a
 
 1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
 
-1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
+1.2 x19 Limited has appointed an internal Data Protection Officer for you to contact if you have any questions regarding GDPR and our data policy, please email dpo @ adf.ly
+
+1.3 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
 
 ## 2\. Collecting personal information
 
@@ -30,9 +32,9 @@ Our Privacy Policy is seperated in to the "AdFly Service Website" (requires an a
 
 (a) Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
-(b) Information that you provide to us when registering with our website (including yourname and email address);
+(b) Information that you provide to us when registering with our website (including your name and email address);
 
-(c) Information that you provide when completing your profile on our website (including profile pictures, telephone number and adress);
+(c) Information that you provide when completing your profile on our website (including profile pictures, telephone number and address);
 
 (d) Information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);
 
@@ -126,11 +128,13 @@ Our Privacy Policy is seperated in to the "AdFly Service Website" (requires an a
 
 7.4 Notwithstanding the other provisions of this Section 7, we will retain documents (including electronic documents) containing personal data: 
 
-(a) to the extent that we are required to do so by law;
+(a) to the extent that we are required to do so by law; For accounts with any financial information or transactions, we required by UK law to keep this data for 6(+1) years.
 
 (b) if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
 
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+
+(d) in all other cases, inactive personal data is removed after 24 months or 6 months if specifically requested. The length of time has been set in accordance with our fraud prevention policy.
 
 ## 8\. Security of personal information
 
@@ -144,6 +148,8 @@ Our Privacy Policy is seperated in to the "AdFly Service Website" (requires an a
 
 8.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
 
+8.6 Transfers to third country and safeguards; Your data is stored securely on dedicated servers in the US and on encrypted backups, also in the US.
+
 ## 9\. Amendments
 
 9.1 We may update this policy from time to time by publishing a new version on our website.
@@ -156,13 +162,11 @@ Our Privacy Policy is seperated in to the "AdFly Service Website" (requires an a
 
 10.1 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to: 
 
-(a) the payment of a fee (currently fixed at GBP 10); and
-
-(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+(a) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 10.2 We may withhold personal information that you request to the extent permitted by law.
 
-10.3 You may instruct us at any time not to process your personal information for marketing purposes.
+10.3 You may instruct us at any time not to process your personal information for marketing purposes by opting out in your Account settings.
 
 10.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
 
