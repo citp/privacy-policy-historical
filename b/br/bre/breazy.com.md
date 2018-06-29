@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breazy.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905073705id_/https%3A//breazy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breazy.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629025342id_/https%3A//breazy.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Breazy
 
@@ -7,10 +7,10 @@
 We here at Breazy take your privacy very seriously. Read the information below to learn more about our privacy policy.   
   
  **What This Policy Covers**    
-This privacy policy covers how Breazy LLC (“we”) treats the information that we collect regarding visitors and users (“you”) of the Breazy.com site.  
+This privacy policy covers how Breazy Inc (“we”) treats the information that we collect regarding visitors and users (“you”) of the Breazy.com site.  
   
  **The Information That We Collect About You**    
-We collect certain information that you voluntarily give it to us when you use the Breazy.com site, such as when you establish an account, place an order, or contact us. This information may include your first and last name, mailing address, email address, shipping address, telephone number, date of birth, credit card information, username and password, and any other information that is necessary for us to provide our products and services.We may also require you to provide a driver’s license or government issued identification to verify your age and eligibility to purchase tobacco products from us. You may choose not to provide  any information. However, a decision not to provide the information we request may mean that you cannot obtain a product or service from us or use certain features of the site. 
+We collect certain information that you voluntarily give to us when you use the Breazy.com site, such as when you establish an account, place an order, or contact us. This information may include your first and last name, mailing address, email address, shipping address, telephone number, date of birth, credit card information, username and password, and any other information that is necessary for us to provide our products and services. We may also require you to provide a driver’s license or government issued identification to verify your age and eligibility to purchase tobacco products from us. You may choose not to provide  any information. However, a decision not to provide the information we request may mean that you cannot obtain a product or service from us or use certain features of the site. 
 
 You may provide us with information about other individuals (for example, you may request shipping to another individual and their address). We will use and handle such information in accordance with this privacy policy. 
 
@@ -45,4 +45,4 @@ If you have any questions, comments, suggestions, or wish to contact us for any 
  **Updates**  
 We may update this privacy policy at any time, and we will notify you of any changes by, at a minimum, posting the updated privacy policy. We encourage you to review this policy each time you visit the Breazy.com site so that your understanding of our policy will remain current. 
 
-**Updated:  ** **August 29th 2017**
+**Current as of:  September 26,** **  2017**
