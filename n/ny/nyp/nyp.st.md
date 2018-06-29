@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231231129id_/http%3A//nypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629134043id_/https%3A//nypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New York Post
 
