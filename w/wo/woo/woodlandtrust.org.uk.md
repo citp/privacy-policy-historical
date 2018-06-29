@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130121509id_/https%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629104604id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The Woodland Trust
+# Privacy policy - Woodland Trust
 
 At the Woodland Trust we respect the privacy of our supporters and visitors to our websites. This policy is concerned with how we collect information, what we do with it and what controls you have.
 
@@ -77,13 +77,11 @@ We will also hold information about your details so that we can respect your pre
 
 We collect your personal information in a number of ways:
 
-  * When you provide it to us directly.
-  * When you provide permission to other organisations to share it with us (including Facebook or Twitter).
-  * When we collect it as you use our websites or apps.
-  * When you have given it to a third party and you have provided permission to pass your information on to us.
-  * From publicly available sources (where possible) to keep your information up to date (e.g. the Post Office’s National Change of Address database).
-
-
+•  When you provide it to us directly  
+•  When you provide permission to other organisations to share it with us (including Facebook or Twitter)  
+•  When we collect it as you use our websites or apps  
+•  When you have given it to a third party and you have provided permission to pass your information on to us  
+•  From publicly available sources (where possible) to keep your information up to date (e.g. the Post Office’s National Change of Address database).
 
 We combine the information from these sources with the information you provide to us directly.
 
@@ -98,7 +96,7 @@ The Trust may make use of profiling and screening methods to produce relevant co
 
 To do this we may use additional external sources of data to increase and enhance the information we hold about you. This may include obtaining details of changes of address, date of birth, telephone numbers and other contact details, information related to your wealth, and consumption and demographic data generated through the MOSAIC geodemographic tool. It may also include information from public registers and other publicly available sources such as Companies House, newspapers and magazines.
 
-If you do not wish your data to be used in any of the ways listed above or have questions about this then use the contact form on our '[Contact Us](https://web.archive.org/contact-us/)' page or go to our online Permission Portal.
+If you do not wish your data to be used in any of the ways listed above or have questions about this then use the contact form on our '[Contact Us](https://web.archive.org/contact-us/)' page or go to our online [Permission Portal](https://woodlandtrust.yourpreferencecentre.com/ "Woodland Trust Preference Centre").
 
 ### **Children**
 
@@ -107,6 +105,18 @@ If you are under 18 please ensure you obtain your parent/guardian's consent befo
 Please note that we will not knowingly market to or accept donations or orders for goods or services from persons aged under 18 years.
 
 As a parent or guardian we encourage you to be aware of the activities in which your children are participating, both offline and online. If your children voluntarily disclose information, this may encourage unsolicited messages. We suggest that you discourage your child from providing any information without your consent.
+
+### **Volunteering**
+
+When you volunteer with the Woodland Trust, we will keep you up to date with the work that we are doing and events we are involved with. We will also let you know of any changes that might affect you volunteering with us and which you need to be aware of. We will only use this information in relation to your volunteering with us and whilst you remain a volunteer with the Woodland Trust. By agreeing to volunteer with the Woodland Trust you are agreeing to us to sending you emails about volunteering and your volunteer role. We will on occasion share your email address with other Woodland Trust volunteers, for instance in the process of organising an event you have chosen to attend.
+
+### **Scientific data**
+
+If you supply the Woodland Trust with scientific or environmental records e.g. as part of a citizen science or volunteer project, they will be carefully stored and used by us and/or our project partners. Such records may include, for example, species information, location, dates and photographs.
+
+Scientific data sharing helps to further research, education and our national understanding of biodiversity and conservation issues. Hence anonymised scientific data may be shared with project partners and third parties such as the National Biodiversity Network, organisations such as local authorities, academic researchers and students. 
+
+In some circumstances such scientific data may be sold, but the income will be directly used to support the running cost of these data-gathering projects. By submitting your scientific or environmental records you are indicating agreement with our approach.
 
 ### **Anything else?**
 
@@ -118,13 +128,9 @@ If you would like to change the way you hear from us or no longer wish to receiv
 
 ## 3\. Legitimate interests
 
-We have a number of lawful reasons that mean we can use (or 'process') your personal information. One lawful reason is something called 'legitimate interests'.Broadly speaking Legitimate Interests means we can process your personal information if:
+We have a number of lawful reasons that mean we can use (or 'process') your personal information. One lawful reason is something called 'legitimate interests'. Broadly speaking Legitimate Interests means we can process your personal information if:
 
-  * We have a genuine and legitimate reason.  
- ** _and_**
-  * We are not harming any of your rights and interests.
-
-
+•  We have a genuine and legitimate reason **_and_** are not harming any of your rights and interests
 
 ## 
 
@@ -134,15 +140,13 @@ Please read the '[Legitimate Interest](https://web.archive.org/privacy-policy-le
 
 We only disclose information to third parties or individuals when obliged to by law, for purposes of national security, taxation and criminal investigations and the following:
 
-  * If you have agreed that we may do so.
-  * When we use other companies to provide services on our behalf, e.g. processing, mailing or delivering orders, answering customers’ questions about products or services, sending mail and emails, customer analysis, assessment and profiling, when using auditors/advisors or processing credit/debit card payments.
-  * To our subsidiaries (i.e. the companies owned by the Woodland Trust).
-  * If we receive a complaint about any content you have posted or transmitted to or from one of our sites, to enforce or apply our Terms & Conditions or if we believe that we need to do so to protect and defend the rights, property or personal safety of the Woodland Trust, our websites or our visitors and for other lawful purposes.
-  * If we merge with another organisation to form a new entity, information may be transferred to the new entity.
-  * We may disclose aggregate statistics about our site visitors, supporters, customers and sales to describe our services and operations to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics won’t include any personally identifying information.
-  * If we run an event in partnership with other named organisations your details may need to be shared. We will be very clear what will happen to your data when you register.
-
-
+•  If you have agreed that we may do so.  
+•  When we use other companies to provide services on our behalf, e.g. processing, mailing or delivering orders, answering customers’ questions about products or services, sending mail and emails, customer analysis, assessment and profiling, when using auditors/advisors or processing credit/debit card payments.  
+•  To our subsidiaries (i.e. the companies owned by the Woodland Trust).  
+•  If we receive a complaint about any content you have posted or transmitted to or from one of our sites, to enforce or apply our Terms & Conditions or if we believe that we need to do so to protect and defend the rights, property or personal safety of the Woodland Trust, our websites or our visitors and for other lawful purposes.  
+•  If we merge with another organisation to form a new entity, information may be transferred to the new entity.  
+•  We may disclose aggregate statistics about our site visitors, supporters, customers and sales to describe our services and operations to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics won’t include any personally identifying information.  
+•  If we run an event in partnership with other named organisations your details may need to be shared. We will be very clear what will happen to your data when you register.
 
 ## 
 
@@ -150,36 +154,34 @@ And, we will never sell or rent your personal information to other organisations
 
 ## 5\. Retaining your information
 
-We hold your information only as long as necessary for each purpose we use it, we will provide examples of some of our retentions in this paragraph soon to give you an idea of how long we hold your information for.
+We hold your information only as long as necessary for each purpose we use it. This period will normally be for seven years after your last financial contribution or other activity with us, unless we have a good reason to keep your information for a longer period. This is based on any legal, regulatory or business reasons we may have to retain your information.
 
 ## 
 
-If decide not to support the Trust any more or request that we have no further contact with you, we will keep some basic information in order to avoid sending you unwanted materials in the future and to ensure that we don’t accidentally duplicate information.
+You have the right to ask us to remove your personal information from our records. We will inform you in writing when we have actioned your request and if we need to refuse you we will give you the reasons why.
 
 ## 
 
-## [6\. Your details on the web: Our Cookie Policy](https://web.archive.org/privacy-policy/privacy-policy-cookie-policy/ "Privacy policy: Cookie policy")
+## [**6\. Your details on the web: Our Cookie Policy**](https://web.archive.org/privacy-policy/privacy-policy-cookie-policy/ "Privacy policy: Cookie policy")
 
 ## 7\. What are your rights?
 
 A new data protection law, starting in May 2018, gives everyone a number of very important rights. These are:
 
-  * Transparency over how we use your personal information (right to be informed).
-  * Request a copy of the information we hold about you, which will be provided to you within one month (right of access).
-  * Update or amend the information we hold about you if it is wrong (right of rectification).
-  * Ask us to stop using your information (right to restrict processing).
-  * Ask us to remove your personal information from our records (right to be 'forgotten').
-  * Object to the processing of your information for marketing purposes (right to object).
-  * Obtain and reuse your personal data for your own purposes (right to data portability).
-  * Not be subject to a decision when it is based on automated processing (automated decision making and profiling).
-
-
+•  Transparency over how we use your personal information (right to be informed)  
+•  Request a copy of the information we hold about you, which will be provided to you within one month (right of access)  
+•  Update or amend the information we hold about you if it is wrong (right of rectification)  
+•  Ask us to stop using your information (right to restrict processing)  
+•  Ask us to remove your personal information from our records (right to be 'forgotten')  
+•  Object to the processing of your information for marketing purposes (right to object)  
+•  Obtain and reuse your personal data for your own purposes (right to data portability)  
+•  Not be subject to a decision when it is based on automated processing (automated decision making and profiling).
 
 If you would like to know more about your rights under the data protection law see the Information Commissioners Office [website](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/ "Information Commissioner's OPffice").
 
 ## 
 
-Remember, you can change the way you hear from us or withdraw your permission for us to processing your personal data at any time by using the form on our '[Contact Us](https://web.archive.org/contact-us/)' page or by using our online Permission Portal.
+Remember, you can change the way you hear from us or withdraw your permission for us to processing your personal data at any time by using the form on our '[Contact Us](https://web.archive.org/contact-us/)' page or by using our online [Permission Portal](https://woodlandtrust.yourpreferencecentre.com/ "Woodland Trust Preference Centre").
 
 ## 8\. How to contact us
 
@@ -197,12 +199,10 @@ Or by emailing: [dataprotection@woodlandtrust.org.uk](mailto:dataprotection@wood
 
 If you wish to talk to us about anything in the policy or the information we hold about you please contact our supporter services team:
 
-  * **By telephone:** 03303 333300
-  * **By email:** [enquiries@woodlandtrust.org.uk](mailto:enquiries@woodlandtrust.org.uk?subject=Privacy%20Policy)
-  * **By post:** Supporter Services, Woodland Trust, Kempton Way, Grantham, Lincolnshire, NG31 6LL
-
-
+•  **By telephone:** 0330 333 3300  
+•  **By email:** [enquiries@woodlandtrust.org.uk](mailto:enquiries@woodlandtrust.org.uk?subject=Privacy%20Policy)  
+•  **By post:** Supporter Services, Woodland Trust, Kempton Way, Grantham, Lincolnshire, NG31 6LL
 
 Please note that calls to our supporter services team may be monitored or recorded.
 
-**This document was last updated: October 2017**
+This document was last updated: May 2018 (PP180522)
