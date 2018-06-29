@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421212355id_/https%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629100210id_/https%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kissmetrics
 
@@ -7,7 +7,7 @@
 
 #### Effective Date: September 26, 2016
 
-As used in this “Privacy Policy”, “Kissmetrics” refers to all websites (including [http://www.kissmetrics.com](https://web.archive.org/) and [http://blog.kissmetrics.com](http://blog.kissmetrics.com/ "Blog")), properties, and services owned or operated by Space Pencil, Inc., aka Kissmetrics. 
+As used in this “Privacy Policy”, “Kissmetrics” refers to all websites (including [https://www.kissmetrics.com](https://www.kissmetrics.com/) and [http://blog.kissmetrics.com](http://blog.kissmetrics.com/ "Blog")), properties, and services owned or operated by Space Pencil, Inc., aka Kissmetrics. 
 
 This Privacy Policy is part of [Kissmetrics’ Terms of Use](https://web.archive.org/terms) and describes the privacy practices of Kissmetrics. It explains when and how Kissmetrics collects end user and client information, including Personally Identifiable Information (defined below), how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Kissmetrics observes for compliance with laws in the United States as well as other applicable laws, including those followed regarding the transfer of Personally Identifiable Information from the European Economic Area (“EEA”) and/or Switzerland to the United States under the U.S. – EU Privacy Shield and U.S. – Swiss Safe Harbor, respectively (collectively, the “Safe Harbor and Privacy Shield”). 
 
@@ -86,9 +86,9 @@ If you do not elect to set your browser preferences to refuse cookies, you conse
 
 _Web Beacons._ Kissmetrics may also collect certain information using Web Beacons. “Web Beacons” are electronic images that may be used on Kissmetrics’ Website, in Kissmetrics’ Service, or in our email communications. They are used, for example, to count website visits or to tell if an email has been opened and acted upon. 
 
-### Disclosure of Information to Third Parties
+### Disclosure and Transfer of Information to Third Parties
 
-_Service Providers._ Information, including Kissmetrics Client Information, Client User Data, and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the Kissmetrics Service (e.g., credit card processing), or perform functions related to the administration of Kissmetrics (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use Kissmetrics User Information or Client User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, Kissmetrics is not responsible in the event that Personally Identifiable Information is disclosed at a result of a breach or security lapse by any such third party. 
+_Service Providers._ Information, including Kissmetrics Client Information, Client User Data, and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the Kissmetrics Service (e.g., credit card processing), or perform functions related to the administration of Kissmetrics (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use Kissmetrics User Information or Client User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, Kissmetrics is not responsible in the event that Personally Identifiable Information is disclosed as a result of a breach or security lapse by any such third party. 
 
 _Kissmetrics Clients._ Kissmetrics Clients may share Client User Data with service providers (e.g. customer relationship management platforms) that perform tasks on behalf of Kissmetrics Clients. Kissmetrics contractually requires the Clients to disclose such practices to its users. 
 
@@ -149,15 +149,23 @@ San Francisco, CA 94111
 
 We will use reasonable efforts to respond promptly, within 10-20 business days, to requests, questions or concerns you may have regarding access to Personally Identifiable Information about you that we have collected. We may contact you for follow up information. 
 
-### Safe Harbor and Privacy Shield Dispute Resolution
+### Safe Harbor and Privacy Shield Rights and Dispute Resolution
 
 Kissmetrics complies with the U.S. - E.U. Privacy Shield framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kissmetrics has certified that it adheres to the Safe Harbor and Privacy Shield Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor and Privacy Shield programs, and to view Kissmetrics’ certification, please visit [ http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/ "Safe Harbor") and [ https://www.privacyshield.gov/ ](https://www.privacyshield.gov/ "Privacy Shield"). 
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Kissmetrics is subject to the investigatory and regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Kissmetrics may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+Under Safe Harbor and Privacy Shield individuals have the right to access information held about them and amend or delete it if it is inaccurate. Any such requests or inquiries should be directed to the Kissmetrics Privacy Office; contact information is provided above under “How to Contact Us” 
+
+Under Safe Harbor and Privacy Shield individuals must have the choice to opt out of the collection and forward transfer of the data to third parties. Kissmetrics' options for doing so are explained under “User Privacy Controls” Kissmetrics further certifies that it complies with Safe Harbor and Privacy Shield policies regarding the onward transfer of data to third parties. Information about onward transfer and disclosure is available under “Disclosure and Transfer of Information to Third Parties” 
 
 Any questions or concerns regarding the use or disclosure of Personally Identifiable Information should be directed to the Kissmetrics Privacy Office at the address given above. Kissmetrics will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personally Identifiable Information by reference to the principles contained in this Privacy Policy. For complaints that cannot be resolved between Kissmetrics and the complainant, disputes will be resolved pursuant to Sections 13.4 through 13.6 of the Terms of Use. For the avoidance of doubt, the dispute resolution procedures will be conducted in English. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at: 
 
 [ https://feedback-form.truste.com/watchdog/request/ ](https://feedback-form.truste.com/watchdog/request/ "TRUSTe Dispute Resolution"). 
+
+Under certain conditions individuals may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. In addition, the United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Kissmetrics regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy. 
 
 ### Effective Date of this Privacy Policy
 
