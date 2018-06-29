@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gatheringmagic.com privacy policy that was archived on 2017-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126155420id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gatheringmagic.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629114739id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="js"><head profile="http://gmpg.org/xfn/11">
 
@@ -75,9 +75,12 @@
 			</style>
 
 	<link rel="dns-prefetch" href="//s.w.org">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-9177931-1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-9177931-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -94,20 +97,66 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-9177931-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-9177931-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.gatheringmagic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.gatheringmagic.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.gatheringmagic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.gatheringmagic.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
 		<meta content="TheStyle v.1.5" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -123,10 +172,9 @@ img.emoji {
 }
 </style>
 <link media="screen" type="text/css" href="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/page_templates/js/fancybox/jquery.fancybox-1.2.6.css" rel="stylesheet">
-<link media="screen" type="text/css" href="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/page_templates/page_templates.css" rel="stylesheet"><link rel="stylesheet" id="dashicons-css" href="http://www.gatheringmagic.com/wp-includes/css/dashicons.min.css?ver=4.9" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="http://www.gatheringmagic.com/wp-includes/js/thickbox/thickbox.css?ver=4.9" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://www.gatheringmagic.com/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=4.9" type="text/css" media="all">
-<link rel="stylesheet" id="orgseries-default-css-css" href="http://www.gatheringmagic.com/wp-content/plugins/organize-series/orgSeries.css?ver=4.9" type="text/css" media="all">
+<link media="screen" type="text/css" href="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/page_templates/page_templates.css" rel="stylesheet"><link rel="stylesheet" id="dashicons-css" href="http://www.gatheringmagic.com/wp-includes/css/dashicons.min.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://www.gatheringmagic.com/wp-includes/js/thickbox/thickbox.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://www.gatheringmagic.com/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=4.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="http://www.gatheringmagic.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
@@ -139,21 +187,21 @@ img.emoji {
 }
 
 </style>
-<link rel="stylesheet" id="shortcodesStyleSheets-css" href="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/shortcodes/shortcodes.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="shortcodesStyleSheets-css" href="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/shortcodes/shortcodes.css?ver=4.9.6" type="text/css" media="all">
 <script type="text/javascript" src="http://www.gatheringmagic.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.gatheringmagic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://www.gatheringmagic.com/wp-content/plugins/trick-mtg/js/mtgh.js?ver=2.13a.4"></script>
-<script type="text/javascript" src="http://www.gatheringmagic.com/js/js.js?ver=4.9"></script>
+<script type="text/javascript" src="http://www.gatheringmagic.com/js/js.js?ver=4.9.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.gatheringmagic.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gatheringmagic.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6"></script>
+<script type="text/javascript" src="http://www.gatheringmagic.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.6"></script>
 <link rel="https://api.w.org/" href="http://www.gatheringmagic.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gatheringmagic.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gatheringmagic.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9">
+<meta name="generator" content="WordPress 4.9.6">
 <link rel="canonical" href="http://www.gatheringmagic.com/disclosure-policy/">
 <link rel="alternate" type="application/json+oembed" href="http://www.gatheringmagic.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gatheringmagic.com%2Fdisclosure-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.gatheringmagic.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gatheringmagic.com%2Fdisclosure-policy%2F&amp;format=xml">
@@ -237,7 +285,7 @@ jQuery("a.fancybox").fancybox({
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.gatheringmagic.com/?wordfence_lh=1&hid=588527CF817A435AF0087E3EAD799983');
+})('//www.gatheringmagic.com/?wordfence_lh=1&hid=BCE5D9E9D3F9DE766A602D9100B5B6C6');
 </script><link type="text/css" rel="stylesheet" href="http://www.gatheringmagic.com/wp-content/plugins/trick-mtg/css/mtgh.css" media="screen">
 
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
@@ -334,7 +382,7 @@ GA_googleFillSlot("Frontpage_Header_Leaderboard_728x90");
 										
 					<p>This page will outline both our Disclosure Policy as well as our Privacy Policy. Though they are rather annoying lawyer speak, they are not overly difficult to process and understand. If there are questions about either policy, please contact us!</p>
 <h2>Disclosure Policy</h2>
-<p>This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Adam Styborski (stybs@gatheringmagic.com).</p>
+<p>This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Evan Erwin (evan@coolstuffinc.com).</p>
 <p>This blog accepts forms of cash advertising, sponsorship, paid insertions, or other forms of compensation.</p>
 <p>This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.</p>
 <p>The owner(s) of this blog is compensated to provide opinion on products, services, websites, and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.</p>
@@ -377,10 +425,10 @@ GA_googleFillSlot("Frontpage_Header_Leaderboard_728x90");
 <p><strong>Contacting Us</strong></p>
 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
 <p>CoolStuffInc.com<br>
-3592 Aloma Ave, Suite 6<br>
-Winter Park, FL 32792<br>
+8550 S. US Hwy 17-92<br>
+Maitland, FL 32751<br>
 USA<br>
-stybs@gatheringmagic.com</p>
+evan@coolstuffinc.com</p>
 </div>
 </div>
 					
@@ -435,53 +483,53 @@ stybs@gatheringmagic.com</p>
    <ul>
          
       <li class="clearfix">
-         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/alexullman-news-09072017-first-look-at-magic-the-gathering-arena/">
-            First Look at Magic: The Gathering&nbsp;Arena         </a></div>
-                     <a href="http://www.gatheringmagic.com/alexullman-news-09072017-first-look-at-magic-the-gathering-arena/">
-               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2017/09/07/ArenaLogo_40x40.png" class="smallthumb" width="40" height="40">
+         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/vorthosmike-news-05102018-magic-nominated-for-chesley-awards/">
+            Magic Nominated for Chesley Awards         </a></div>
+                     <a href="http://www.gatheringmagic.com/vorthosmike-news-05102018-magic-nominated-for-chesley-awards/">
+               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2018/05/10/chesleythumb.jpg" class="smallthumb" width="40" height="40">
             </a>
-                  <span class="postinfo" style="font-size: smaller;">Tue. Nov. 21</span>
-          - <small>Magic: The Gathering Arena's goal is to make Magic more streamable</small>      </li>
+                  <span class="postinfo" style="font-size: smaller;">Thu. May. 10</span>
+          - <small>Magic up for Best Art Director and Gaming Related Illustration in Chesley Awards!</small>      </li>
       
                
       <li class="clearfix" style="border-top: 1px dotted #aaa;">
-         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/alexullman-news-11192017-shenhar-energized-in-portland/">
-            Shenhar Energized in Portland         </a></div>
-                     <a href="http://www.gatheringmagic.com/alexullman-news-11192017-shenhar-energized-in-portland/">
-               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2017/06/14/Ixalan_40x40.jpg" class="smallthumb" width="40" height="40">
+         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/vorthosmike-news-05082018-magic-takes-gold-and-silver-in-spectrum-awards/">
+            Magic Takes Gold and Silver in Spectrum Awards         </a></div>
+                     <a href="http://www.gatheringmagic.com/vorthosmike-news-05082018-magic-takes-gold-and-silver-in-spectrum-awards/">
+               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2018/05/08/spectrumawards_40x40.jpg" class="smallthumb" width="40" height="40">
             </a>
-                  <span class="postinfo" style="font-size: smaller;">Sun. Nov. 19</span>
-          - <small>Temur Energy takes down another tournament.</small>      </li>
+                  <span class="postinfo" style="font-size: smaller;">Tue. May. 8</span>
+          - <small>Magic Artists win prestigious Sprectrum 25 Awards!</small>      </li>
       
                
       <li class="clearfix" style="border-top: 1px dotted #aaa;">
-         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/alexullman-news-11142017-magic-characters-coming-to-wizkids/">
-            Magic Characters Coming to WizKids         </a></div>
-                     <a href="http://www.gatheringmagic.com/alexullman-news-11142017-magic-characters-coming-to-wizkids/">
-               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2014/10/31/wotc40x40.png" class="smallthumb" width="40" height="40">
+         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/vorthosmike-news-03272018-gencon-makes-changes-to-featured-artists/">
+            GenCon Makes Changes to Featured Artists         </a></div>
+                     <a href="http://www.gatheringmagic.com/vorthosmike-news-03272018-gencon-makes-changes-to-featured-artists/">
+               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2018/03/27/genconkey_40x40.jpg" class="smallthumb" width="40" height="40">
             </a>
-                  <span class="postinfo" style="font-size: smaller;">Tue. Nov. 14</span>
-          - <small>Level up your token game</small>      </li>
+                  <span class="postinfo" style="font-size: smaller;">Tue. Mar. 27</span>
+          - <small>GenCon announces change to Featured Artist Lineup.</small>      </li>
       
                
       <li class="clearfix" style="border-top: 1px dotted #aaa;">
-         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/alexullman-news-11122017-grand-prix-in-shanghai-warsaw-and-atlanta-showcase-standard/">
-            Grand Prix in Shanghai, Warsaw, and Atlanta Showcase Standard         </a></div>
-                     <a href="http://www.gatheringmagic.com/alexullman-news-11122017-grand-prix-in-shanghai-warsaw-and-atlanta-showcase-standard/">
-               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2017/06/14/Ixalan_40x40.jpg" class="smallthumb" width="40" height="40">
+         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/robertburrows-news-02192018-kowalski-smashes-the-competition-at-gp-lyon/">
+            Kowalski Smashes the Competition at GP&nbsp;Lyon         </a></div>
+                     <a href="http://www.gatheringmagic.com/robertburrows-news-02192018-kowalski-smashes-the-competition-at-gp-lyon/">
+               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2018/01/15/RIXKey_40x40.jpg" class="smallthumb" width="40" height="40">
             </a>
-                  <span class="postinfo" style="font-size: smaller;">Sun. Nov. 12</span>
-          - <small>An energetic weekend of Magic.</small>      </li>
+                  <span class="postinfo" style="font-size: smaller;">Mon. Feb. 19</span>
+          - <small>Grzegorz Kowalski takes down GP Lyon.</small>      </li>
       
                
       <li class="clearfix" style="border-top: 1px dotted #aaa;">
-         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/robertburrows-news-11102017-assembling-contraptions/">
-            Assembling Contraptions!         </a></div>
-                     <a href="http://www.gatheringmagic.com/robertburrows-news-11102017-assembling-contraptions/">
-               <img src="http://s3.amazonaws.com/s3.gatheringmagic.com/uploads/_AuthorImages/GatheringMagic_40x40.png" class="smallthumb" width="40" height="40">
+         <div class="title" style="font-weight: bold; font-size: smaller;"><a href="http://www.gatheringmagic.com/alexullman-news-02142018-an-early-look-at-announcement-day/">
+            An Early Look at Announcement&nbsp;Day         </a></div>
+                     <a href="http://www.gatheringmagic.com/alexullman-news-02142018-an-early-look-at-announcement-day/">
+               <img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2018/01/15/RIXKey_40x40.jpg" class="smallthumb" width="40" height="40">
             </a>
-                  <span class="postinfo" style="font-size: smaller;">Fri. Nov. 10</span>
-          - <small>Pieces to the contraption puzzle are popping up!</small>      </li>
+                  <span class="postinfo" style="font-size: smaller;">Wed. Feb. 14</span>
+          - <small>Battlebond, Commander Decks, and an official Magic App!</small>      </li>
       
                </ul> 
    <div style="text-align: center; font-size: 10px;"><a href="/category/news/">News Archive</a></div>
@@ -491,14 +539,14 @@ stybs@gatheringmagic.com</p>
    <h3 class="widgettitle" style="padding-top: 11px;">Videos</h3>
 <div align="center">
       
-      <iframe width="240" height="165" src="http://www.youtube.com/embed/ncpp2Ui63bs?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/kevincrimin-11232017-rogues-alley-standard-r-g-majestisaur/" style="font-size: smaller;">
-Rogue’s Alley: Standard R/G Majestisaur</a><br><br>
+      <iframe width="240" height="165" src="http://www.youtube.com/embed/dd0SURq38Xg?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/theaetherhub-06262018-living-lore-atraxa-praetors-voice/" style="font-size: smaller;">
+Living Lore: Atraxa, Praetors’ Voice</a><br><br>
             
-      <iframe width="240" height="165" src="http://www.youtube.com/embed/bBgGTXwGAYA?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/kevincrimin-11162017-rogues-alley-standard-myriarch-samut-combo/" style="font-size: smaller;">
-Rogue’s Alley: Standard Myriarch Samut Combo</a><br><br>
+      <iframe width="240" height="165" src="http://www.youtube.com/embed/QTj1KPbBf9Q?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/rudybriksza-06252018-vintage-cube-opposition/" style="font-size: smaller;">
+Vintage Cube: Opposition</a><br><br>
             
-      <iframe width="240" height="165" src="http://www.youtube.com/embed/aN2V2dVgSs0?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/mikelinnemann-11092017-ixalan-art-review/" style="font-size: smaller;">
-Ixalan Art Review</a><br><br>
+      <iframe width="240" height="165" src="http://www.youtube.com/embed/XGkZqnJcja8?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><br><a href="http://www.gatheringmagic.com/living-lore-slimefoot-the-stowaway/" style="font-size: smaller;">
+Living Lore: Slimefoot, the Stowaway</a><br><br>
                </div>
 </div>
 
@@ -520,7 +568,9 @@ Ixalan Art Review</a><br><br>
 
 	</li><li class="cat-item cat-item-183"><a href="http://www.gatheringmagic.com/category/articles/casual-articles/">Casual</a>
 <ul class="children">
-	<li class="cat-item cat-item-827"><a href="http://www.gatheringmagic.com/category/articles/casual-articles/commander/">Commander</a>
+	<li class="cat-item cat-item-6153"><a href="http://www.gatheringmagic.com/category/articles/casual-articles/brawl/">Brawl</a>
+
+	</li><li class="cat-item cat-item-827"><a href="http://www.gatheringmagic.com/category/articles/casual-articles/commander/">Commander</a>
 
 	</li><li class="cat-item cat-item-976"><a href="http://www.gatheringmagic.com/category/articles/casual-articles/cube/">Cube</a>
 
@@ -575,10 +625,14 @@ Ixalan Art Review</a><br><br>
 	</li><li class="cat-item cat-item-5454"><a href="http://www.gatheringmagic.com/category/articles/history/">History</a>
 
 	</li><li class="cat-item cat-item-507"><a href="http://www.gatheringmagic.com/category/articles/humor-articles/">Humor</a>
-</li></ul></div><div style="width: 120px; float: left; font-size: smaller;"><ul>
-	<li class="cat-item cat-item-5453"><a href="http://www.gatheringmagic.com/category/articles/interview/">Interview</a>
 
-	</li><li class="cat-item cat-item-714"><a href="http://www.gatheringmagic.com/category/articles/limited-articles/">Limited</a>
+	</li><li class="cat-item cat-item-5453"><a href="http://www.gatheringmagic.com/category/articles/interview/">Interview</a>
+</li></ul></div><div style="width: 120px; float: left; font-size: smaller;"><ul>
+	<li class="cat-item cat-item-714"><a href="http://www.gatheringmagic.com/category/articles/limited-articles/">Limited</a>
+
+	</li><li class="cat-item cat-item-5953"><a href="http://www.gatheringmagic.com/category/articles/mailbag/">Mailbag</a>
+
+	</li><li class="cat-item cat-item-6146"><a href="http://www.gatheringmagic.com/category/articles/mtg-arena/">MTG Arena</a>
 
 	</li><li class="cat-item cat-item-833"><a href="http://www.gatheringmagic.com/category/articles/mtg-tactics/">MTG Tactics</a>
 
@@ -778,18 +832,8 @@ Ixalan Art Review</a><br><br>
 	//]]>	
 	</script>
 
-					<script type="text/javascript"><!--
-			var seriesdropdown = document.getElementById("orgseries_dropdown");
-			if (seriesdropdown) {
-			 function onSeriesChange() {
-					if ( seriesdropdown.options[seriesdropdown.selectedIndex].value != ( 0 || -1 ) ) {
-						location.href = "http://www.gatheringmagic.com/series/"+seriesdropdown.options[seriesdropdown.selectedIndex].value;
-					}
-				}
-				seriesdropdown.onchange = onSeriesChange;
-			}
-			--></script>
-				<script type="text/javascript">
+				<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
+		<script type="text/javascript">
 	/* <![CDATA[ */
 	
 	<!---- et_switcher plugin v2 ---->
@@ -1068,7 +1112,7 @@ var pollsL10n = {"ajax_url":"http:\/\/www.gatheringmagic.com\/wp-admin\/admin-aj
 </script>
 <script type="text/javascript" src="http://www.gatheringmagic.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"></script>
 <script type="text/javascript" src="http://www.gatheringmagic.com/wp-content/themes/_TheStyle/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1"></script>
-<script type="text/javascript" src="http://www.gatheringmagic.com/wp-includes/js/wp-embed.min.js?ver=4.9"></script>
+<script type="text/javascript" src="http://www.gatheringmagic.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
 <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
