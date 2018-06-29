@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redballoon.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325003713id_/https%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redballoon.com.au privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629144122id_/https%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy & Copyright – How Can We Help You?
 
 **RedBalloon Privacy Policy**
 
-Last updated: 21/11/2014
+Last updated: 25/05/2016
 
 RedBalloon Pty Ltd (ABN 13 097 376 442) and RedBalloon NZ Ltd (CO. # 1417960) ( **RedBalloon** , we or our) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy carefully to understand how any personal information collected by RedBalloon is used.
 
@@ -131,7 +131,10 @@ Linda Ferguson
 
 Privacy and Data Protection Officer
 
-[info@redballoon.com.au](mailto:info@redballoon.com.au)
+[info@redballoon.com.au  
+](mailto:info@redballoon.com.au)
+
+RedBalloon, 179 Harris St, Pyrmont, NSW, 2009.
 
 * * *
 
@@ -143,3 +146,5 @@ Privacy and Data Protection Officer
   * To become an affiliate visit the [affiliate section](http://www.redballoon.com.au/affiliates) on the website.
 
 
+
+Have more questions? [Submit a request](https://web.archive.org/hc/en-us/requests/new)
