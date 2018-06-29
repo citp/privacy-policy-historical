@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930141533id_/https%3A//www.ticketnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629085335id_/https%3A//www.ticketnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TicketNews
 
@@ -43,7 +43,7 @@ Access to all public content and basic levels of functionality is free and avail
 
 Upon creating a user account, an account activation e-mail will be sent by TicketNews.com to the address provided by the user. This e-mail includes a one-time password, which the user is asked to change when first logging into the new account. Users retain sole responsibility for creating and maintaining a secure password for their account; a new password may be created under the “Edit” tab of “My Account” when logged in. In the event of a forgotten password, the user may [request a new password](https://web.archive.org/wp-login.php?action=register), which is delivered via automated e-mail and not recorded or filed by TicketNews.com.
 
-Users are free to delete their accounts at any time; the option is available under the “Edit” tab of “My Account.” For assistance in deleting an account, contact [editorial@ticketnews.com](mailto:editorial@ticketnews.com). Please provide the username to be deleted; the e-mail request must originate from the address used to create the account. Accounts deemed to be suspicious, spam, or otherwise harmful to the user in question or the TicketNews.com community as a whole may be deleted at the sole discretion of TicketNews.com and without prior notice.  
+Users are free to delete their accounts at any time; the option is available under the “Edit” tab of “My Account.” For assistance in deleting an account, contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe9b9a978a918c979f92be8a979d959b8a909b898dd09d9193). Please provide the username to be deleted; the e-mail request must originate from the address used to create the account. Accounts deemed to be suspicious, spam, or otherwise harmful to the user in question or the TicketNews.com community as a whole may be deleted at the sole discretion of TicketNews.com and without prior notice.  
 **SUBSCRIPTION E-MAIL SERVICES**
 
 TicketNews.com may send daily and weekly newsletters, breaking reports, special promotions and other forms of subscription e-mail to its users. These services are provided free of charge to users who have consented to and provided contact information explicitly for the receipt of e-mail communications from TicketNews.com.  
@@ -54,7 +54,7 @@ TicketNews.com offers, as a convenience, the option to install the TicketNewsfee
 Operation or use of the Widget does not require any input or storage of the user’s personal information. The feed employs a non-personal tracking code for general analytic purposes related to overall click-through rates from the Widget’s in-bound links to TicketNews.com and its content.  
 **OPTING-OUT AND USER ACCESS TO AND CONTROL OVER INFORMATION ******
 
-Any user can do the following, at any time, by contacting us via [editorial@ticketnews.com](mailto:editorial@ticketnews.com):
+Any user can do the following, at any time, by contacting us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d5d4d9c4dfc2d9d1dcf0c4d9d3dbd5c4ded5c7c39ed3dfdd):
 
 > • Opt out of any future contact from us;  
 >  • See what data we have about that user, if any;  
@@ -62,11 +62,11 @@ Any user can do the following, at any time, by contacting us via [editorial@tick
 >  • Have us delete any data we have about that user; and  
 >  • Express any concern the user has about our handling of that user’s data.
 
-To unsubscribe from any mass e-mail communication sent by TicketNews.com, follow the “unsubscribe” instructions located near the bottom of each e-mail. Users experiencing difficulty with the unsubscribe process or continuing to receive unsolicited communications should contact [editorial@ticketnews.com](mailto:editorial@ticketnews.com). Unsubscribe requests must include the name of the newsletter from which the user wishes to be unsubscribed.
+To unsubscribe from any mass e-mail communication sent by TicketNews.com, follow the “unsubscribe” instructions located near the bottom of each e-mail. Users experiencing difficulty with the unsubscribe process or continuing to receive unsolicited communications should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f0a0b061b001d060e032f1b060c040a1b010a181c410c0002). Unsubscribe requests must include the name of the newsletter from which the user wishes to be unsubscribed.
 
 Users may discontinue use of the TicketNewsfeed Widget at any time by simply removing the Widget’s code from any platform on which it was installed by the user. Any similar RSS feed installed by the user to read or view content from TicketNews.com may be removed or discontinued by the user at any time, following uninstall/delete protocol set forth by the user’s chosen RSS platform.
 
-If a user feels that we are not abiding by this Privacy Policy, the user should contact us immediately by e-mail at [editorial@ticketnews.com](mailto:editorial@ticketnews.com).  
+If a user feels that we are not abiding by this Privacy Policy, the user should contact us immediately by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8eebeae7fae1fce7efe2cefae7ede5ebfae0ebf9fda0ede1e3).  
 **AMENDMENTS**
 
 TicketNews reserves the right to amend this policy at any time. Policy changes and updates will be posted on this page. Continued use of the site after policy changes have been posted indicates user acceptance of the updated policy.
