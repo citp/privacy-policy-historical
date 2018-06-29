@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003221712id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629023332id_/https%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Anime-Planet
 
@@ -24,7 +24,7 @@ Anime-Planet uses information it collects for the following general purposes: (i
 
 ### Children
 
-You must be at least 13 years of age to use our Site and certain portions of the Site may be restricted to Registered Users who are at least 18 years of age. Anime-Planet does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at privacy@anime-planet.com. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files. 
+You must be at least 13 years of age to use our Site and certain portions of the Site may be restricted to Registered Users who are at least 18 years of age. Anime-Planet does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files. 
 
 ### Cookies and Log Data
 
