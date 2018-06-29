@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2017-07-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170710174654id_/https%3A//www.acog.org/About-ACOG/Privacy-Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629172217id_/https%3A//www.acog.org/About-ACOG/Privacy-Statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Statement - ACOG
@@ -196,13 +196,21 @@
                 $j('#ImageButtonSearch').click(
                                 function () {
 
-                                    var parameter = $j("#SearchBoxMain").val();
+                                    var keywordParameter = $j("#SearchBoxMain").val();
 
-                                    if (parameter) {
-                                        _gaq.push(['_trackEvent', "Site Header", "Header", "/search?keyword=" + parameter]);
-                                    } else {
-                                        _gaq.push(['_trackEvent', "Site Header", "Header", "/search"]);
-                                    }
+                                    var ddlSearchOptionsMainParameter = $j("#ddlSearchOptionsMain").val();
+                                 
+                                    if (keywordParameter && ddlSearchOptionsMainParameter) {
+                                        _gaq.push(['_trackEvent', "Site Header", "Header", "/search?keyword=" + keywordParameter + "&search-option=" + ddlSearchOptionsMainParameter]);
+                                    } else
+                                        if (keywordParameter) {
+                                            _gaq.push(['_trackEvent', "Site Header", "Header", "/search?keyword=" + keywordParameter]);
+                                        } else
+                                            if (ddlSearchOptionsMainParameter) {
+                                                _gaq.push(['_trackEvent', "Site Header", "Header", "/search?search-option=" + ddlSearchOptionsMainParameter]);
+                                            } else {
+                                                _gaq.push(['_trackEvent', "Site Header", "Header", "/search"]);
+                                            }
 
 
                                 });
@@ -242,7 +250,7 @@
     <!-- End Wolters Kluwer 2017 Advertising Code -->
 
     
-<meta name="VIcurrentDateTime" content="636353056429787071">
+<meta name="VIcurrentDateTime" content="636658897394548088">
 <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
 </head>
 <body class="hp_body" style="">
@@ -250,7 +258,7 @@
 <div class="aspNetHidden">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="22HA2PFZ5Z6wFfaIUmSG9GE7nLiL5kj5SN9EUgc7HBQlWRw13I3N7uVuoxjG3W329cR5+zpi3Ypf2GKKvUFE+NCGBaP8BfN4p/Vv3pDc/HE=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZA/19X4uNNgWbFQXwT1Am2sAbTjnuTFynMsD1TdM/NG4JOGYZ2wrqmgkBvpCvCP2zaodX3zUOCOCmvL8+I/gL3AT+A9vao/fKwHzCRzqv4Y=">
 </div>
 
 <script type="text/javascript">
@@ -270,15 +278,15 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKv05DCG8qLA0stV_MYnu3cEVsq1rtPcRhEkAURiE7YGEDhTd_gJfDU5DlsUA0BaQA2&amp;t=636283938552661246" type="text/javascript"></script>
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZCWixuLWg-LM59RKN0jpyN2Mwzfr7FKE9BZl7bynyBXuZSJ7pRZMwsJcZolG1ZP7Cw2&amp;t=636475939203255666" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yOq9mBTGUU5Dm_f7O3X7YRsXMV0HMgyZp95k8pRVndBFLqsFOqa2fBA0gttW17wz8zc78jouaDB0Rc_dY9Ak2tW0nNvSQMggTig2PjYlEM9s-KZEkBo0qjh1waOhRUXeFi4AhPWe_OROY4DyWiz88Oc1&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadBSaxl_k6hPJs0jWjwf7gPoDevfvHDBea54OV_w6C5IeYdmT6SLQ6l2S9SU557J265G7pc_DhidB995ouJ62Fq-luYuy0DIXj1jpERmjIn6soTq93c4h_ADPyyoLoo05QNC0R0eBjaFNgfmv_oDVE2k1&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yF9PkYqUOv2Uzo6KZfDGr-LkaX5EmTqnaZUy2NL1qINDdXeDlpdgrgaZus--wKF8STopMM5eiGAGUdesC0pnl_N7_DEvqDvMLQFXgy69BMzYei3j6bqzNN42GUMsumxvCeut8cfVufR-qBf_cKKUMKM1&amp;t=ffffffffad4b7194" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadK3IJhDxuYa6wa5NvC7EV8syRcghAZRIUL82Xw2GN8k00HctlC0siFjBRPLRoJPHa1PGq8L_AdbDLkoKEKN2G_MQ4hnfWz7OrvFxusFM0mx5C1cNDeoYcDjzmrPHBQEAMGCNItSV2SL00Vv-g8Ai2_Y1&amp;t=ffffffffad4b7194" type="text/javascript"></script>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F4F3AC7C">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="t6gNwFnE+GZf8BZiE9dSuc89eFDxN/lipOdors6XczSAof5r7ZQ+chFNkCLpIf5Ib+UwpKkK6RMDKFfu6sXsucqcmuwNwLIprjl7IPx6hGBJh1RLHPZeihW/X45hPBQZStEvzuBGbD4Yo75KDAlufQ==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="v7SU9oKAPLMtvIeJVFoe+ZpCv8YwpHljXOTCW4FqD1AFMQj3gc/Pk4wM7nF5tcSxibtrJubD5naeufHYw3gLviLxU0CP/4xQk/aIyCURCJKmczBk9/wyysmWPXMgyrQMvAsNB+t4wWE8PIJucFyzlxa8YfWmGkoQvl0Vyy6MHyxybupVY3OfuDRiqQ4sBQjJ">
 </div>
         <script type="text/javascript">
 //<![CDATA[
@@ -316,6 +324,10 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
                         </li>
                         
                                 <li class="">
+                                    <a href="https://www.acog.org:443/MyACOG" data-category="Site Header" class="hp_a GA_click" data-action="Hat">My ACOG</a>
+                                </li>
+                            
+                                <li class="">
                                     <a href="https://www.acog.org:443/About-ACOG/ACOG-Departments/Membership-Services" data-category="Site Header" class="hp_a GA_click" data-action="Hat">Join</a>
                                 </li>
                             
@@ -328,15 +340,15 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
                         <div id="socialLabel">Follow us: </div>
                         <ul class="socialIcons hlist">
                             
-                                    <li><a href="http://www.facebook.com/ACOGNational" id="SocailMediaRepeater_SocialMediaHyperLink_0" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name" target="_blank"><img title="Facebook" src="https://www.acog.org/-/media/Icons/Social-Media/facebook-icon.jpg" alt="Facebook"></a></li>
+                                    <li><a href="http://www.facebook.com/ACOGNational" id="SocailMediaRepeater_SocialMediaHyperLink_0" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name" target="_blank"><img title="Facebook" src="https://www.acog.org/-/media/Icons/Social-Media/facebook-icon.png" alt="Facebook"></a></li>
                                 
-                                    <li><a href="http://twitter.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_1" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="Twitter" target="_blank"><img title="Twitter" width="20" height="20" src="https://www.acog.org/-/media/Icons/Social-Media/twitter-icon.jpg" alt="Twitter"></a></li>
+                                    <li><a href="http://twitter.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_1" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="Twitter" target="_blank"><img title="Twitter" width="20" height="20" src="https://www.acog.org/-/media/Icons/Social-Media/twitter-icon.png" alt="Twitter"></a></li>
                                 
-                                    <li><a href="http://www.youtube.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_2" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="Youtube" target="_blank"><img title="YouTube" src="https://www.acog.org/-/media/Icons/Social-Media/icon-youtube.jpg" alt="YouTube"></a></li>
+                                    <li><a href="http://www.youtube.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_2" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="Youtube" target="_blank"><img title="YouTube" src="https://www.acog.org/-/media/Icons/Social-Media/icon-youtube.png" alt="YouTube"></a></li>
                                 
-                                    <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name" target="_blank"><img title="Blogger" src="https://www.acog.org/-/media/Icons/Social-Media/icon-blogger.jpg" alt="Blogger"></a></li>
+                                    <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name" target="_blank"><img title="Blogger" src="https://www.acog.org/-/media/Icons/Social-Media/icon-blogger.png" alt="Blogger"></a></li>
                                 
-                                    <li><a href="https://www.acog.org:443/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name"><img title="RSS Feed" src="https://www.acog.org/-/media/Icons/Social-Media/rss20x20.gif" alt="RSS Feed"></a></li>
+                                    <li><a href="https://www.acog.org:443/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" data-category="Site Header" data-action="Hat" class="hp_a GA_click" title="$name"><img title="RSS Feed" src="https://www.acog.org/-/media/Icons/Social-Media/rss20x20.png" alt="RSS Feed"></a></li>
                                 
                             
                         </ul>
@@ -348,12 +360,12 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
                 <div class="unit size1of1 mainHeader">
                     <div class="unit">
                         <a class="hp_a GA_click" data-category="Site Header" data-action="Header" href="/">
-                            <img src="https://www.acog.org/-/media/About-ACOG/acog-logo.png" id="logo" alt="ACOG Logo"></a>
+                            <img src="https://www.acog.org/-/media/About-ACOG/ACOG-Logo-New-2018.jpg" id="logo" alt="ACOG Logo"></a>
                     </div>
                     <div class="headerTagline unit">
-                        <h1 class="hp_h1"><i>
+                        <h1 class="hp_h1">
                             Women's Health Care Physicians
-                        </i></h1>
+                        </h1>
                     </div>
                     <div class="utility unit size1of3">
                         <ul class="utilityLinks vlist arrowList unit size1of2">
@@ -387,7 +399,12 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
                                 
                         </ul>
                         <div class="mainSearch align-right">
-                            <input name="SearchBoxMain" type="text" id="SearchBoxMain" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ImageButtonSearch')" placeholder="Search ACOG content">
+                            <select name="ddlSearchOptionsMain" id="ddlSearchOptionsMain" class="SelectBoxMain">
+	<option selected="selected" value="https://www.acog.org:443/Search">ACOG.org</option>
+	<option value="https://www.acog.org:443/Clinical-Guidance-and-Publications/Practice-Guidelines-and-Reports-Search">All Clinical Guidance</option>
+
+</select>
+                            <input name="SearchBoxMain" type="text" id="SearchBoxMain" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ImageButtonSearch')" placeholder="Search">
                             <a id="ImageButtonSearch" class="hp_a" href="javascript:__doPostBack('ImageButtonSearch','')">
                                 <img class="searchIcon1" src="/ACOGProject/ACOG/frontend/ACOGHomeRedesign/site/css/images/Search.png"></a>
                         </div>
@@ -401,7 +418,7 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
                                 </li>
                             
                                 <li id="navigation_li_1">
-                                    <a id="navigation_HyperLinkNavigation_1" class="hp_a GA_click" data-category="Top Nav" href="https://www.acog.org:443/Resources-And-Publications">Resources &amp; Publications</a>
+                                    <a id="navigation_HyperLinkNavigation_1" class="hp_a GA_click" data-category="Top Nav" href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Search-Clinical-Guidance">Clinical Guidance &amp; Publications</a>
                                 </li>
                             
                                 <li id="navigation_li_2">
@@ -519,7 +536,7 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
             </li>
         
             <li>
-                <a href="https://www.acog.org:443/About-ACOG/ACOG-Departments/Awards-and-Professional-Recognition">Learn More</a>
+                <a href="https://www.acog.org:443/About-ACOG/ACOG-Departments/Awards-and-Professional-Recognition">Professional Recognition</a>
                 
             </li>
         
@@ -544,33 +561,48 @@ Sys.WebForms.PageRequestManager._initialize('sMgr', 'mainform', [], [], [], 90, 
     
 <div class="horizontal_wrap">
     <div id="all_content_0_main_content_0_featuredItem" class="contentModule featured_item">
-    <h1>Privacy Statement American Congress of Obstetricians and Gynecologists Web Sites</h1><div><span><p>
-By accessing or using any of the American Congress of Obstetricians and Gynecologists (“ACOG”) Internet properties including, without limitation, <a href="http://www.acog.org">www.acog.org</a>, <a href="http://www.scopeforwomenshealth.org" target="_blank">scopeforwomenshealth.org</a>, and any others released by ACOG from time to time (collectively referred to as the "ACOG Web sites") you agree to comply with and be bound by ACOG’s Privacy Statement and&nbsp;<a href="https://www.acog.org:443/About-ACOG/Terms-of-Use">ACOG’s Terms and Conditions of Use</a> ("Terms of Use") that is incorporated herein by reference.<strong> If you do not agree to these Terms of Use and the Privacy Statement, you must immediately terminate use of the ACOG Web sites.</strong></p>
-<p>
-<strong>Information Collection and Use</strong> - Collection, retention, and use of personal information may occur if member and non-member users interact with the ACOG Web sites, by either registering with the site or participating in one of ACOG's services. Member users may be required to provide their name, address, telephone number, e-mail address, ACOG member id number, and/or other identifying information. This information is used to verify status with the ACOG membership database and to respond to inquiries and/or requests. Non-member users may be required to provide an e-mail address, in order for ACOG to respond to inquiries and/or requests.</p>
-<p>
-ACOG may use e-mail addresses provided by member users to notify them of upcoming events from ACOG and District and Section news and events. Member users are able to opt-out or change their preferences for receiving such information at any time.</p>
-<p>
-<strong>Use of Cookies and IP Address </strong>- Cookies are small pieces of information stored by your browser on your computer, which are used to aid in web navigation.&nbsp; The ACOG Web sites use session cookies. When member users log onto the ACOG Web sites, an identifier is temporarily created and placed in their computer's memory so the member user can access the members-only pages using their e-mail address and password. The cookie contains no personal information and is self-terminated upon exiting the browser.</p>
-<p>
-A unique number called an IP address identifies each computer on the Internet. Each time users connect to the Internet, their computer is assigned an IP address. When member and non-member users connect to the ACOG Web sites, the IP address is stored for statistical purposes.&nbsp; This information is used for understanding how users interact with the ACOG Web sites.</p>
-<p>
-<strong>Public Forums </strong>– The ACOG Web sites make public forums and discussion boards available to member users. Please remember that any information disclosed in these areas becomes public information and member users should exercise caution when deciding to disclose personal information. ACOG cannot ensure or warrant the security of any information transmitted in the public forums.</p>
-<p>
-<strong>External Links</strong> – The ACOG Web sites contain links to other external websites that do not fall under its domain. ACOG is not responsible for the privacy practices and the content of such external websites.</p>
-<p>
-<strong>Third Party</strong> - ACOG may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to 1) conform to legal requirements or comply with legal process served on ACOG, 2) protect and defend the rights of property of ACOG, or 3) protect the personal safety of ACOG personnel or members of the public in urgent circumstances.</p>
-<p>
-ACOG reserves the right to amend the Privacy Statement at any time for any reason. This Privacy Statement only applies to information collected by ACOG through the ACOG Web sites.</p>
-<p>
-<strong>Advertisements on our Web sites</strong> - Online advertisements on the ACOG Web sites do not collect any personally identifiable information on individual visitors. ACOG does collect nonmedical aggregate data on visitors such as time of day and Web browser type. Such information may be shared with advertisers to determine their advertising effectiveness.</p>
-<p>
-<strong>Children under 13</strong> - We do not knowingly solicit data online from or market online to children under the age of 13.</p>
-<p>
+    <div><span><h3 style="text-align: center;"><strong><span style="font-size: 18px;">Privacy Statement<br>
+American College of Obstetricians and Gynecologists<br>
+and ACOG Foundation Web Sites</span></strong></h3>
+<p>Your privacy is important to us. This statement is intended to explain how we use your data, how we communicate with you, and the terms and conditions of use or access of Internet properties of the American College of Obstetricians and Gynecologists or ACOG Foundation (collectively, “ACOG”).&nbsp;By accessing or using any of the ACOG Internet properties including, without limitation, <a href="http://www.acog.org">www.acog.org</a>, <a href="https://www.scopeforwomenshealth.org" target="_blank">scopeforwomenshealth.org</a>, and any others released by ACOG from time to time (collectively referred to as the "ACOG Web sites") you agree to comply with and be bound by ACOG’s Privacy Statement and ACOG’s <a href="https://www.acog.org:443/About-ACOG/Terms-of-Use">Terms and Conditions of Use</a> ("Terms of Use") that is incorporated herein by reference<strong>. If you do not agree to these Terms of Use and the Privacy Statement, you must immediately terminate use of the ACOG Web sites.&nbsp;If you have questions, concerns, or requests concerning your data or privacy, please email <a href="mailto:privacy@acog.org   ">privacy@acog.org</a>.</strong><br>
+<br>
+<strong>Information Collection and Use - </strong>Collection, retention, and use of personal information may occur if member and non-member users interact with the ACOG Web sites, by either registering with the site or participating in one of ACOG's services. Member users may be required to provide their name, address, telephone number, e-mail address, ACOG member id number, and/or other identifying information. This information is used to verify status with the ACOG membership database and to respond to inquiries and/or requests. Non-member users may be required to provide an e-mail address, for ACOG to respond to inquiries and/or requests. In addition, personal information will be requested in connection with purchasing products or services, requesting additional information, signing up for newsletters or listservs, submitting questions, or otherwise to participate in this Website.&nbsp;ACOG does not share, sell, or otherwise distribute email addresses or phone numbers to third parties.&nbsp;Members may receive by U.S. mail third-party marketing and/or information pertaining to research studies related to women’s health care.&nbsp;<br>
+<br>
+ACOG may use e-mail addresses provided by member users to notify them of upcoming events from ACOG and District and Section news and events. Member users are able to opt-out or change their preferences for receiving such information at any time. If you have questions, concerns, or requests concerning your data or privacy, please email <a href="mailto:privacy@acog.org">privacy@acog.org</a>.<br>
+<br>
+<strong>Information Collected Through Technology:&nbsp; IP Address and Cookies and IP Address - </strong>A unique number called an IP address identifies each computer on the Internet. Each time users connect to the Internet, their computer is assigned an IP address. When member and non-member users connect to the ACOG Web sites, your IP address provides ACOG with non-personally identifiable information, such as the Internet service provider you use and the frequency with which you visit the Website. This information is used for understanding how users interact with the ACOG Web sites.<br>
+<br>
+Cookies are standard features in Internet browser software that allow Websites to track certain user activities by assigning each of our visitors a unique number that resides on your computer. ACOG uses cookies to make the ACOG Websites more interesting and useful and to provide our visitors with notice of products and services which may be of interest (for example, cookies let us know which of our sites you have been visiting and which you have not).&nbsp; ACOG may use "cookie" technology to obtain non-personal information from its on-line visitors. ACOG servers may also collect the IP addresses and domain names of visitors for site administration purposes. ACOG does not extract personal information in these processes.&nbsp; ACOG may use some of the information collected through technology and tie back that information to personally identifiable information that you provide voluntarily on the Website to provide you with information about products and services that may be of interest to you.<br>
+<br>
+More specifically ACOG uses cookies for analytics and marketing.<br>
+<br>
+1. Analytical Purposes: We use cookies from as Google Analytics and other third party partners to analyze user activity to improve the website. For example, using cookies we can look at aggregate patterns like how many pages users visit, how long they visit, and what link brought them to our site. We can use such analysis to gain insights about how to improve the functionality and user experience of the website.<br>
+<br>
+2. Marketing: We use cookies from Google AdWords and other third party partners for marketing purposes. These cookies allow us to display promotional material to you on other sites you visit across the web.<br>
+<br>
+ACOG collects data about your activities that does not personally or directly identify you when you visit our website or other the websites where we display advertisement. The information we do collect may include the content you view, the date and time you view this content, the products you purchase, and the location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as Retargeting). We also collect information about where you saw the ads we serve you and what ads you clicked on.<br>
+<br>
+For more information about how Google uses data collected from our website visit <a href="http://www.google.com/policies/privacy/partners/" target="_blank">Googles Privacy Policy</a>.<br>
+<br>
+Users can opt out of Google's use of cookies by visiting <a href="http://optout.networkadvertising.org/#!/" target="_blank">Google's Ads Settings</a>.<br>
+<br>
+Alternatively, users can choose to opt out of a third-party vendor's use of cookies by visiting the <a href="http://optout.networkadvertising.org/#!/" target="_blank">Network Advertising Initiative opt-out page</a>.<br>
+<strong><br>
+Public Forums </strong>– The ACOG Web sites make public forums and discussion boards available to member users. Please remember that any information disclosed in these areas becomes public information and member users should exercise caution when deciding to disclose personal information. ACOG cannot ensure or warrant the security of any information transmitted in the public forums.<br>
+<br>
+<strong>External Links</strong> – The ACOG Web sites contain links to other external websites that do not fall under its domain. ACOG is not responsible for the privacy practices and the content of such external websites.<br>
+<strong><br>
+Third Party</strong> - ACOG may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to 1) conform to legal requirements or comply with legal process served on ACOG, 2) protect and defend the rights of property of ACOG, or 3) protect the personal safety of ACOG personnel or members of the public in urgent circumstances.<br>
+<br>
+ACOG reserves the right to amend the Privacy Statement at any time for any reason. This Privacy Statement only applies to information collected by ACOG through the ACOG websites.<br>
+<strong><br>
+Advertisements on our Web sites </strong>- Online advertisements on the ACOG Web sites do not collect any personally identifiable information on individual visitors. ACOG does collect nonmedical aggregate data on visitors such as time of day and Web browser type. Such information may be shared with advertisers to determine their advertising effectiveness.<br>
+<br>
+<strong>Children under 13</strong> - We do not knowingly solicit data online from or market online to children under the age of 13.<br>
+<br>
 <strong>No guarantee </strong>- Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, ACOG cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services.</p>
-<p>
-January 2017</p>
-<p>&nbsp;</p></span></div></div>
+<p>Need help? Have questions? Email us at <a href="mailto:privacy@acog.org">privacy@acog.org</a>.</p>
+<p>May 2018.</p></span></div></div>
     <div id="all_content_0_main_content_0_contModules" class="contentModule">
         
     </div>
@@ -593,20 +625,20 @@ January 2017</p>
                 
                         <div class="footerColumn">
                             <h5 class="hp_h5">
-                                <a href="https://www.acog.org:443/Resources-And-Publications" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Resources&nbsp;&amp;&nbsp;Publications</a>
+                                <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Resources&nbsp;&amp;&nbsp;Publications</a>
                             </h5>
                             <ul>
                                 
                                         <li>
-                                            <a href="https://www.acog.org:443/Resources-And-Publications/Committee-Opinions-List" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Committee Opinions</a>
+                                            <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Committee-Opinions-List" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Committee Opinions</a>
                                         </li>
                                     
                                         <li>
-                                            <a href="https://www.acog.org:443/Resources-And-Publications/Practice-Bulletins-List" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Practice Bulletins</a>
+                                            <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Practice-Bulletins-List" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Practice Bulletins</a>
                                         </li>
                                     
                                         <li>
-                                            <a href="https://www.acog.org:443/Resources-And-Publications/Patient-Education-Materials" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Patient Education</a>
+                                            <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Patient-Education-Materials" data-category="Footer" class="hp_a GA_click" data-action="Resources and Publications">Patient Education</a>
                                         </li>
                                     
                                         <li>
@@ -614,7 +646,7 @@ January 2017</p>
                                         </li>
                                     
                                         <li>
-                                            <a href="https://www.acog.org:443/Resources-And-Publications/Clinical-Updates-in-Womens-Health-Care" data-category="Footer" title="Clinical Updates" class="hp_a GA_click" data-action="Resources and Publications">Clinical Updates</a>
+                                            <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Clinical-Updates-in-Womens-Health-Care" data-category="Footer" title="Clinical Updates" class="hp_a GA_click" data-action="Resources and Publications">Clinical Updates</a>
                                         </li>
                                     
                             </ul>
@@ -701,7 +733,7 @@ January 2017</p>
                                         </li>
                                     
                                         <li>
-                                            <a href="https://www.acog.org:443/About-ACOG/ACOG-Departments/Health-Care-for-Underserved-Women" data-category="Footer" class="hp_a GA_click" data-action="Advocacy">Underserved Women</a>
+                                            <a data-category="Footer" class="hp_a GA_click" data-action="Advocacy">Underserved Women</a>
                                         </li>
                                     
                                         <li>
@@ -726,7 +758,7 @@ January 2017</p>
                                         </li>
                                     
                                         <li>
-                                            <a href="https://www.acog.org:443/Resources-And-Publications/Patient-Education-Pamphlets-Spanish-List" data-category="Footer" class="hp_a GA_click" data-action="For Patients">Spanish Pamphlets</a>
+                                            <a href="https://www.acog.org:443/Clinical-Guidance-and-Publications/Patient-Education-Pamphlets-Spanish-List" data-category="Footer" class="hp_a GA_click" data-action="For Patients">Spanish Pamphlets</a>
                                         </li>
                                     
                                         <li>
@@ -840,13 +872,18 @@ January 2017</p>
                                         Careers at ACOG</a>
                                 </li>
                             
-                                <li class="last">
+                                <li class="">
                                     <a data-category="Footer" data-action="Sub-Footer" class="hp_a GA_click" href="https://www.acog.org:443/Sitemap">
                                         Sitemap</a>
                                 </li>
                             
+                                <li class="last">
+                                    <a data-category="Footer" data-action="Sub-Footer" class="hp_a GA_click" href="https://www.acog.org:443/Website-Feedback">
+                                        Website Feedback</a>
+                                </li>
+                            
                     </ul>
-                    <div id="footerText"><p>American Congress of Obstetricians and Gynecologists<br>
+                    <div id="footerText"><p>American College of Obstetricians and Gynecologists<br>
 409 12th Street SW, Washington, DC&nbsp; 20024-2188 | Mailing Address: PO Box 70620, Washington, DC 20024-9998</p></div>
                 </div>
                 <div id="copyright" class="copyright"><div style="text-align: center;">Copyright 2017. All rights reserved. Use of this Web site constitutes acceptance of our <a href="https://www.acog.org:443/About-ACOG/Terms-of-Use">Terms of Use</a></div></div>
