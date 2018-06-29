@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrepono.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228092203id_/http%3A//myrepono.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepono.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629150205id_/http%3A//myrepono.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - myRepono - Website backup service
 
@@ -12,7 +12,7 @@
 
 ### If you choose to sign-up for myRepono membership, we'll ask you to provide your email address.
 
-### We will NOT disclose, sell or exchange your personally identifiable information to or with anyone, without your specific permission, except when we believe disclosure is absolutely necessary to: (1) comply with the law or legal process; (2) protect or defend the rights or property of myRepono (ionix Limited) or others; (3) enforce this Agreement; or (4) respond to claims that the contents of any communications violate the rights of others.
+### We will NOT disclose, sell or exchange your personally identifiable information to or with anyone, without your specific permission, except when we believe disclosure is absolutely necessary to: (1) comply with the law or legal process; (2) protect or defend the rights or property of myRepono (NullApps LLC) or others; (3) enforce this Agreement; or (4) respond to claims that the contents of any communications violate the rights of others.
 
 ### **Email Addresses**
 
