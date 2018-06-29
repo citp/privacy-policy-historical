@@ -1,93 +1,45 @@
-> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015210047id_/http%3A//www.evidon.com/privacy_inform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092651id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.*
 
-# Global Privacy | Data Control | Evidon
+# Privacy Statement - Evidon
 
-Welcome. The information below explains how Evidon collects, uses, and discloses information as we provide services to advertisers, ad agencies, ad networks, publishers, and other members of the online advertising ecosystem. We describe the notice and assurance services we provide to clients as our “InForm.” Wherever possible, we deliver InForm services to consumers from  [http://info.evidon.com](http://info.evidon.com/) or http://c.betrad.com. The information below is designed to help you understand how our InForm manages consumer data. 
+Effective Date: February 15, 2017
 
-First and foremost, Evidon is not a data company or an advertising company. 
+**Introduction:** We’ve gone back to our earlier name, but our mission remains the same: transparency for all. We believe deeply in this core principle and recognize that transparency, when done right, requires ongoing effort. That is why you may see Evidon change this Privacy Statement from time to time, so it can share with you not only new information about its data practices, but also new ways to communicate that information. Evidon’s goal is to empower you by giving you straightforward information so you can make an informed decision whether or not to use its products or services. Evidon is a a for-profit company and makes software products that allow for better data governance and improve the online ecosystem by helping people and organizations see, understand, and control how data is collected and used across the web—for advertising, e-commerce and more. Transparency for everyone.
 
-  1. We do not sell data we collect in any individualized form - period.
-  2. Evidon is in the business of keeping web media as transparent as technologically possible. Our objective is the same as yours – to keep your user experience safe and transparent. 
+**Website:** This website, evidon.wpengine.com (the “Website”), is owned and operated by Evidon, Inc., and is subject to the Terms of Use Agreement found in the footer of the Website. This Privacy Statement governs information you share with Evidon when you use this Website, including personal data and explains Evidon’s data collection and use practices.
 
+**Application:** This Privacy Statement applies to all information, personal or otherwise, received on this Website. This Privacy Statement does not govern Evidon’s specific products, which have their own privacy statements found on this Website.
 
+**International Visitors and Customers:** Evidon is located in the United States. If you are accessing the Website from the European Union or other geographic regions with laws governing data collection and use that may differ from U.S. law, please note that the U.S. does not have the same data protection laws as the European Union and if Evidon collects or processes your personal data, it will be done by a company based in the U.S.
 
-While we created this page to explain how we approach consumer privacy and data collection as we provide services to businesses, we recommend that you also review the privacy policies of the websites you visit and of the online service providers you use, such as your ISP. Close attention to the privacy policies of the sites you visit remains one of the best ways you can make informed choices about privacy.
+**Data Practices and Processing Basis:** Evidon may ask you to provide your personal data if you would like to take advantage of its products or services. Personal data means any information that may be used to identify you, including, but not limited to, your name, company name, telephone number, email address, device identification, or a specific technology that can be used to reasonably identify you. Evidon has a legitimate interest to collect and process your personal data, namely to respond to your requests, to otherwise transact business with you, or in certain cases, as required by law.
 
-What is the Evidon InForm?
+**Email and Marketing Communications:** Evidon allows you to subscribe, only on an opt-in basis, to its blog, its weekly privacy news summary, or to receive company notifications by email. You can always withdraw your permission by clicking unsubscribe in the document.
 
-The Evidon InForm is designed to create better transparency and accountability in the way data is used in the online advertising marketplace. Consumers will most frequently see the InForm when we serve notices in ads and on websites about data collection and use on behalf of our clients. Our notices provide the opportunity for consumers to learn more about data collection taking place, and where applicable, data that has already been collected to customize the ad or content experience. The Evidon education and transparency interfaces available through our notices, as well as the choice interfaces that we provide, are all part of the InForm.
+**Transfer and Information Sharing:** Except as otherwise provided below, Evidon does not share personal data collected on the Website with third parties. Evidon reserves the right to disclose your personal data as required by law, or when Evidon reasonably believes that disclosure is necessary to protect its rights, or to protect the personal safety of another person, or to comply with a judicial proceeding, court order, or legal process served upon Evidon.
 
-An Example of Notices through the InForm
+**Third Party Tracking:  **Evidon may track the use of the Website to analyze our marketing efforts, improve the services we offer, and improve the efficiency of the Website. We automatically collect user traffic patterns throughout the Website using a technology called cookies, which do not contain personal information. The collection of this type of information is for website operational purposes. Users who do not wish to have their data collected can opt-out of that collection via our site’s privacy notice, which can be accessed by clicking the “cookie consent” icon in the lower-right hand part of any page.
 
-An example of when you might see our InForm is when an Advertiser or Ad Agency uses our Assurance Tag (described in more detail below) to deliver notice on top of an ad about data collection or use.
+Evidon may use third party providers to power certain Website services such as Evidon’s blog, newsletter, or a user forum. We use[ Marketo](http://www.marketo.com/trust/legal/privacy/) to manage our email and marketing campaigns. We also use Google Analytics to analyze visitors to our site. Those third party providers may use third party cookies, for example session ID cookies, to make it easier for you to navigate the Website. The use of cookies by these vendors is not covered by this Privacy Statement. We do not have access or control over these cookies. You should check the applicable privacy policies of those third parties.
 
-Initial notice will often appear as an icon with a text label, similar to notice on the upper right hand corner of the ad below:
+**Access to Personal Data :** Evidon provides you with reasonable access to your personal data to correct any inaccuracies or delete your personal data. Please contact Evidon at privacy@evidon.com if you would like to do either. Evidon may decline requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy or safety of others, would be extremely impractical, or where information is required to be retained by law or for legitimate business purposes.
 
-Step 1:
+**Data Retention** : Evidon will retain your personal data for as long as necessary to provide you with the services or information you requested, to comply with our legal obligations, resolve disputes, enforce our agreements, or as required by law.
 
-Step 2:
+**Security :** No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, Evidon cannot ensure the security of any information you transmit and therefore you do so at your own risk. However, Evidon makes reasonable efforts to ensure that physical, administrative, and technical safeguards are in place to protect the security of its systems and the data that it collects. However, note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such measures.
 
-If a consumer clicks through on the initial notice, they will see more detailed notice, often including invitations to learn more about the advertiser or specifics about the campaign.
+If Evidon learns of a security breach, it may attempt to notify you electronically so that you can take appropriate protective steps. Evidon may also send an email to you at the email address you have provided. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach you should notify Evidon at privacy@evidon.com. Evidon may also post a notice on the Website if a security breach occurs.
 
-Step 3:
+**California Online Privacy Protection Act Notice**
 
-If a consumer elects to learn more about the campaign, or wants to opt-out of targeting from the vendors behind the campaign, they will see a detailed transparency and choice interface like the one below. Further information about each vendor is also made available through this interface.
+**Do Not Track (DNT):** Because there is not yet a consensus on how companies should respond to web browser-based DNT mechanisms, Evidon does not respond to any browser-based DNT signals.
 
-INFORMATION THE EVIDON InForm PROCESSES AND HOW IT IS USED
+**Children’s Privacy:** This Website is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Website unless supervised by a responsible adult, who has given permission that can be verified. Evidon’s goal is to comply with applicable laws and regulations relating to collection and use of information from children as defined by applicable laws. If you believe that Evidon has received information from a child or other person protected under such laws, please notify Evidon immediately by email at privacy@evidon.com or by mail at Evidon, Inc., 10 E. 39th Street, 8th Floor, New York, NY 10016 attention: Legal Department and Evidon will investigate the matter and if take reasonable steps to remove that information that may have been collected.
 
-Evidon does not collect or use any personal information about individual consumers through our InForm. Instead, Evidon collects and relies on non-personal information to provide our services. 
+**Merger, Sale, or Reorganization** : If Evidon should ever file for bankruptcy or have its assets sold to or merged with another entity, any information Evidon receives from you on this Website is an Evidon asset and may be transferred or sold without recourse.
 
-What Information Does Evidon Receive and How Do We Use It?
+**Other Websites:** Evidon do not exercise control over the websites of third parties that you may link to or view as part of a frame on a page on this Website and therefore is not responsible for the actions and policies of such third parties. You should check the applicable privacy policies of those third parties before clicking through to them.
 
-To help our InForm remember the preferences you set through our tools and to provide aggregate statistics about consumer use of our InForm, we collect information about your use of our InForm for limited purposes. 
+**Changes and Updates:** Evidon may occasionally update this Privacy Statement. When it does, Evidon will also revise the “Effective Date” at the top of the Privacy Statement. For changes to this Privacy Statement that may be materially less restrictive on Evidon’s use or disclosure of personal data, Evidon will notify you here or by means of notice on it’s homepage or by obtaining consent via email. It is your responsibility to periodically review this Privacy Statement to stay informed about how Evidon is protecting your personal data.
 
-Website Usage and Analytics. We may collect non-personal information such as information about your browser, your website navigation within the InForm Website including log file activity associated with this navigation and geo-location information directed at determining the general location of users of the InForm. This information may then be used on an aggregated basis alongside similar information from millions of other users to help Evidon improve and develop our products and the user experience. This aggregated information will also be used to help Evidon and its customers understand how the InForm is being used. 
-
-Preference Communications. If you change your preferences within our InForm Website (for example, an opt-out choice), the InForm Website communicates this preference to the appropriate member(s) of the online advertising ecosystem so that the request can be acted upon. 
-
-Because we are also a service provider for other businesses, we do provide aggregate information to our clients about use of the InForm. This aggregated information may include basic reporting metrics like the number of consumers interacting with their privacy notices and the choices consumers, in aggregate, are making through these notices, but not personal information that identifies you in either case.
-
-For advertisers, ad agencies, and ad networks, our InForm helps our clients build trust with consumers and ensure that their advertisements are not shown to consumers who prefer that their online or other activities not generate advertisements targeted to them. You can learn more about online behavioral advertising and how our services work by [clicking here](http://www.iab.net/privacymatters/). 
-
-For publishers, our InForm also helps our clients build trust with consumers and provides detailed disclosure about data collection and use practices on their websites.
-
-Cookies and Other Automated Data Collection Techniques
-
-Cookie technology remains a fundamentally important part of how websites customize users’ online experiences. Through the use of cookies or similar technologies, we may store basic information about the choices you make through our InForm so that our InForm can remember your choices.
-
-Our InForm uses a technology called an Assurance Tag, a piece of computer code that is inserted in advertisements that are served by our customers such as advertisers, ad agencies, and ad networks. This code enables us to deliver notice to you about the data practices behind the advertisement, including the detailed information and choice options described above. At no time during this process does Evidon know who you are or otherwise have any identifying information about you except your IP address and technical attributes about your browser request, including browser type, browser language, and date and time information. We do not associate this information with anything that would identify you or your computer for future use. 
-
-Log Information
-
-Websites you visit may also track product usage data to improve the services they offer or for other business reasons. As part of our services, we may analyze, on an anonymous basis, user traffic patterns through information collected by our customers. The related server logs may include information such as your web request, Internet Protocol address, browser type, browser language, and the date and time of your request. 
-
-Opt-Out: Your Choices
-
-You are welcome to opt-out of Evidon data collection regarding website usage and analytics associated with your use of the Evidon InForm Website. If you opt-out we will still record that the privacy notice associated with the particular advertisement or web page was delivered. The InForm Website will also continue to communicate the preferences you express to the appropriate member(s) of the online advertising ecosystem so that the request can be acted upon. We will continue to store the explicit preferences you set with us (for example, opt-out choices) in a cookie on your browser to ensure that we remember your requests as well. 
-
-[Click here to access our opt-out page](https://web.archive.org/privacy_optout).
-
-Information Retention
-
-Our business customers limit Evidon’ s collection, use, and disclosure of information through our InForm through our service agreements with them. We keep information we need to provide our services to our customers only so long as we have a valid business purpose. 
-
-EVIDON InForm TRANSFER AND INFORMATION SHARING 
-
-While we do not collect personal information through the InForm, as mentioned previously, certain information may be collected about an individual consumer’ s interaction with a particular advertisement as they use the tools we provide. To enable your control of how and whether you receive particular advertisements, it may be necessary for us to communicate your choices as described in Step 3 above. We do not share any individual level information we collect for any direct marketing purposes. We may share aggregate information about the use of the InForm with third parties. This information does not identify you or any other individual consumer. Evidon may otherwise share information it collects if doing so is appropriate to carry out your request; or if Evidon believes that doing so is legally required; or it is in Evidon’ s interest to protect its property or other legal rights; or the rights or property of others. Keep in mind however that we do not generally collect or possess information that would enable us to identify you or any other consumer.
-
-CHANGES AND UPDATES
-
-We may occasionally update our policies and procedures relating to Evidon InForm. When we do, we will also revise the “effective date” on these pages. The Evidon InForm is offered principally on behalf of and through other online businesses, such as advertisers, ad agencies, ad networks, and website publishers. We encourage you to regularly review the privacy policies of pages you visit on the Internet. 
-
-CONTACTING EVIDON
-
-If you have any questions, comments, or concerns about Evidon or Evidon InForm and privacy, please email us at [privacy@evidon.com](mailto:privacy@evidon.com). In the event that we are still unable to resolve your concerns, Evidon is committed to cooperating to achieve a proper resolution of your privacy concerns.
-
-Postal Mail Address:  
-
-
-EVIDON, Inc.  
-28 West 44th Street, Suite 800  
-New York, NY 10036
-
-Effective Date: January 11, 2011
+**Contacting Evidon :** Evidon can be contacted by mail at Evidon, Inc. 10 E. 39th Street, 8th Floor, New York, NY 10016 Attention: Privacy/Legal Department or by email at privacy@evidon.com. You can always reach Evidon by telephone at 917.262.2528.
