@@ -1,200 +1,139 @@
-> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903163010id_/https%3A//www.safc.com/hygiene/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630014213id_/https%3A//www.safc.com/hygiene/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAFC
 
-**SAFC website information  
-**
+Sunderland Association Football Club Limited (“the Club”) take your privacy very seriously and is committed to protecting your personal data and handling it responsibly.
 
-This Website is owned and operated by Sunderland Association Football Club Limited ("SAFC"). ****
+This policy sets out how the Club uses and looks after the personal information collected from you.  
 
-We are registered on the public register of data controllers maintained by the Information Commissioner. We are committed to protecting your privacy. We take our responsibilities to secure your personal information very seriously. Under the Data Protection Act 1998 ("DPA"), we follow strict security procedures in the storage and disclosure of information, which you give to us.
+We collect information whenever you interact with us and this interaction includes but is not limited to when you attend a football game or such other event at the Stadium of Light, when you use our website, when you buy a ticket, when you buy merchandise, or just get in touch with us. 
 
-Our Privacy Policy applies only to information that we obtain from you via the website located at [www.safc.com](http://www.safc.com/). In using the SAFC website, you consent to the collection and use of your personal information by SAFC in the ways set out in the Privacy Policy. If you have any questions about our Privacy Policy please contact [webmaster@safc.com](mailto:webmaster@safc.com).
+**What personal data we hold on you**
 
-If you visit a Website operated by a third party through a link included on this website, your information may be used differently by the operator of the linked website and a third party website may have different privacy and security policies. We do not have any control over any websites other than [www.safc.com](http://www.safc.com/) and take no responsibility for information given to any website other than [www.safc.com](http://www.safc.com/)
+Personal data means any information about an individual from which that individual can be identified.   
 
-**Collecting information  
-**When using this website you may encounter areas such as games, competitions, chat forums, shopping or video services where you may be asked to enter information about you. Such information will only be used for the purposes stated in this Privacy Policy. ****
+We collect, use, store and transfer some personal data of our participants and their parents or guardians, and other Club members. 
 
-By entering information about you, you accept that we may retain your information and that it may be held by us or any third party company, which processes it on our behalf.
+We are the data controller, responsible for the processing of any personal data you give us. 
 
-You can [contact us by clicking here](https://web.archive.org/club/contact-us). Alternatively, you can write to us at the Sunderland Stadium of Light, Sunderland, Tyne & Wear SR5 1SU, England. Telephone number 0871 911 1200.
+We take reasonable care to keep your information secure and to prevent any unauthorised access to or use of it. 
 
-The information you provide to us when using this Website will be processed for the following reasons:-
+You provide information about yourself when you register with the Club, and by filling in forms at an event or online, or by corresponding with us by phone, e-mail or otherwise. 
 
-• to handle orders, deliver products and/ or services;  
-• to process payments;  
-• to communicate with you about orders, products, services and promotional offers;  
-• to update our records;  
-• to administer and maintain your user account with us;  
-• to process any request for advice or information supplied by us;  
-• to notify you of our bulletins, information packs and services;  
-• to customise this Website according to your interests;  
-• to perform statistical analyses and assessments of the use of this Website;  
-• to research our database;  
-• to analyse our customer base;  
-• to inform third party advertisers of the results of the statistical analyses of the use of their adverts on this Website (aggregated data only);  
-• to comply with our statutory and regulatory obligations; [and]  
-• to enable third parties to carry out technical, logistical or other functions on our behalf.
+The information we collect includes:
 
-The type of information we will collect about you includes:-
+\- Your name, date of birth, address, e-mail address, phone number, gender, and the contact details of a third party in the case of emergency 
 
-• your first name and your surname and your address;  
-• your telephone number (in case we need to contact you urgently) and your email address;  
-• your credit card details if you subscribe to one of our online services;  
-• your occupation;  
-• your interests;  
-• the information included in any online services to which you subscribe;  
-• details about the services you specifically request;  
-• information you complete by way of our surveys;  
-• your age and date of birth;
+\- Marketing preferences, including any consents you have given us 
 
-We do not keep your personal information any longer than is necessary.
+\- Browser and device information 
 
-By joining the SAFC email update service, and/ or as a supporter, customer, subscriber or competition entrant, we will occasionally email you with our latest news and information about our products, services, special offers, promotions and any other advertising or marketing materials which we think may be of interest to you.
+\- Track information about attendance at events at the Stadium of Light 
 
-For example, we will often give advance notice of our fantastic sales offers so that you can pick up a bargain. You will be asked when registering on the website to indicate if you do not want to be contacted by us in this way. You will need to provide us with your name and email address if you wish to subscribe to this service. 
+\- Information about your use of the Club website and social media 
 
-Third party promotions **  
-** We would also like to pass your details to third parties and organisations approved by us and with whom we have commercial links so that they may contact you to inform you about their products and/ or services and promotions, which may be of interest to you. We will only disclose your data to third parties if you consent to us doing so. You may be asked when registering on the website to indicate if you allow us to pass your details to any third parties. ****
+\- Photo or video footage (we will only do this is you are over 13 and we have your consent or you have provided consent by default under the Ground Regulations) 
 
-You may refuse, at any time, any mailing or other marketing communication from us or require us, at any time, to cease to process your data for any particular purpose(s) and unsubscribe by writing to us at the above address or emailing us at [webmaster@safc.com](mailto:webmaster@safc.com).
+\- Our access control provider lets us track ticket users 
 
-Likewise, you may notify us of any updates, amendments and corrections to previously collected User information by emailing [webmaster@safc.com](mailto:webmaster@safc.com)
+\- Our ticket provider links with our data analytics provider and lets us know if you have bought a ticket for a football game or event 
 
-SAFC promotions   
-When you enter a SAFC competition or take up a promotional offer, we may ask you for your name, address, and email address, so that we can administer the contest and notify winners.
+\- Our data analytics provides us with insights from data sets about our supporters 
 
-We will never collect sensitive information about you without your explicit consent.
+We may also ask for relevant health information, which is classed as special category personal data, for the purposes of your health, wellbeing, welfare and safeguarding. 
 
-Any information that we collect about you is stored electronically on our database. It may also be printed and stored in our filing system.  
-We will keep your personal information confidential except to the extent that we are compelled to disclose it by law (for example where fraud or other crime is involved) or to comply with an instruction of a regulatory body of a competent jurisdiction.
+Where we need to collect personal data to fulfil Club responsibilities and you do not provide that data, we may not be able honour or administer your membership. 
 
-From time to time we may be called upon to demonstrate our maintenance of certain professional standards as set by appropriate authorities and/or to satisfy our auditors and/or to comply with regulations in relation to money laundering or other statutory requirements.
+**Why we need your personal data**
 
-If you do not consent to our production of your details for this purpose only as an exception to our duty of confidentiality, you can let us know by emailing[ webmaster@safc.com](mailto:webmaster@safc.com).
+We will only use personal data for any purpose for which it has been specifically provided. 
 
-If you believe that the information we hold about you is inaccurate you may notify us of any amendments or corrections by writing to us at the above address or by sending us an e-mail at [webmaster@safc.com](mailto:webmaster@safc.com).
+The reason we need participants’ and members’ personal data is to be able to run the football club and arrange matches; to administer memberships, and provide the membership services you are signing up to when you register with the club. 
 
-We are confident in our security. However, due to the nature of the Internet, we cannot guarantee the protection of your personal information and we cannot be responsible for any outcomes resulting from a breach of security when the website is used.
+We have set out below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate. 
 
-Security is very important to us. Secure Socket Layer ("SSL") encryption technology is used by us for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of your user information.
+**Legitimate interest**
 
-As required by the Data Protection Act 1998, we follow strict security proceedings in the storage and disclosure of information, which you have given to us to prevent unauthorised access.
+\- We process your personal data when necessary to pursue our legitimate interests in the following: 
 
-We have appointed an agent to collect credit card payments from you on our behalf. All credit card transactions conducted from this website are carried out over a secure link for your security.
+\- Enforce ticket terms and conditions 
 
-By transmitting your credit card details, you agree to our agent using your details for the purposes of:-
+\- Processing job applications 
 
-a. authorising your credit card;  
-b. debiting your credit card account for such of our goods you buy and/ or services you use; and  
-c. advising us that payment has been made.
+\- Legal claims, compliance, regulatory and investigative matters including using incident reports and CCTV footage to protect the security of spectators and staff and pass information to law enforcement agencies 
 
-By registering to participate in one of our information rooms or forums you consent to the wider dissemination of the information you provide to the other participants in that information room or forum to achieve your joint objectives.
+\- Responding to comments or complaints 
 
-We reserve the right to appoint an Internet service provider to host our Website on our behalf which may be situated outside the European Economic Area. By agreeing to our terms and conditions of use of our Website you consent to any transfer of your personal information outside the European Economic Area. This may be necessary for us to achieve the purposes set out above.
+\- Receipts for purchases made 
 
-You should be aware that countries outside the European Union may have a lower standard of protection for personal information than that required by the Data Protection Act 1998. If it is necessary to transfer your data to an organisation based outside the European Union we will make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998, as implementing the EU Directive on the protection of personal data, and any other Act or Acts replacing or modifying such Act for the time being in force, through the implementation of an agreement ensuring adequate protection of your personal data.
+\- Checking/verifying credit or debit card details in order to process transactions or prevent fraudulent activity 
 
-**Site tracking & cookies**  
-When visiting our website, we would like to use "cookies" and other tracking technologies which record information and data automatically.
+\- Analysing your engagement with us to help tailor information we send to you 
 
-What are cookies?  
-"Cookies" are small text files stored on your "browser" on your computer's hard drive, which collect basic information, but not personally identifying information, that a website can use to recognize repeat site visits. Cookies send information stored on them back to our webserver when you access our website.
+\- Sharing data with committee members to provide information about club activities, membership renewals or invitation to social events sharing data with third party service or facility providers safeguarding issues and concerns
 
-Cookies enable SAFC to provide features such as remembering your address, so that you do not have to re-enter it each time you use the website. Cookies do not attach to your system or damage your files.
+You have a right to object to any processing that we undertake for our legitimate interests. 
 
-Removing cookies  
-Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies. You can usually change your browser so that it will not accept cookies. If you do this, you will still be able to browse around the site and use most of the features on the website but the functions that allow you to add items to your trolley, set up a new account or access an existing account will not be available. Alternatively, you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them will depend on the type of internet browser programme, which your computer uses.
+**Legal obligation**
 
-If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions at this link [www.allaboutcookies.org](http://www.allaboutcookies.org/) (SAFC is not responsible for the content of external websites.)
+We are legally required to process your personal data in cases where we need to comply to a legal obligation to which the Club is subject under UK or EU Law. 
 
-Go to the heading "Manage Cookies". Click onto the option you prefer, either stopping cookies being installed or notifying you of them. From the list provided, click onto the programme, which your computer uses. If this is not shown on the list, click on the "help" heading on the bar at the top of this page, search for information on "cookies" - an explanation of how to delete cookies will appear, then follow those instructions.
+This may include: 
 
-If we cannot use such technology it is possible that certain functionality or 'personalised' services of this site might be affected and you might not be able to access certain Webpages. This information does not identify you personally.
+\- Responding to requests by government or law enforcement authorities such as HMRC 
 
-What information do we collect?  
-We automatically collect and store only the following information about your visit:-
+\- Local council safety requirements to collect CCTV footage 
 
-• the internet domain and IP address from where you access our Website;  
-• the type of browser software and operating system used to access our Website;  
-• the date and time you access our Website;  
-• the pages you enter, visit and exit our Website from; and  
-• if you linked to our Website from another Website, the address of that Website.
+**Performance of a contract**
 
-Why do we collect this information?  
-We use this information to help us identify click stream patterns, to compile aggregate data in order to observe behaviour and to improve our Website, to learn about the number of visitors to our Website, the types of technology our visitors use, to target the advertising and to assess the general effectiveness of such advertising.
+Where we have a contract with you we will rely on the contractual provisions in order to process your personal data. 
 
-We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience.
+This may include: 
 
-Currently our Webpages are optimised for the following Internet browsers: Internet Explorer 8.0+, Firefox, Safari, Chrome and native browsers on mobile devices and tablets.
+\- Processing membership forms and payments/ subs 
 
-We do not use cookies to collect or store personal information such as your name or email address.
+\- Organising matches 
 
-**Third party advertising cookies**  
-Some of the advertisements you see on this site are generated by third parties. Some of these third parties generate their own "anonymous cookies", for the same reasons we do: to track how many unique users have seen a particular ad, and how many times they have seen it.
+\- Sending out match or Club information and updates 
 
-These third party cookies cannot be used to identify an individual user, but only for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users).
+\- Sharing data with coaches, managers or officials to run training sessions or enter events 
 
-**Consent to cookies  
-**In using this website, and by submitting your information, you consent to the collection, storage and use of your personal information by us as set out in this Policy. ****
+\- Sharing data with leagues we are in membership of, county associations and other competition providers for entry in events 
 
-If you do not agree, please leave this website now.
+**Consent**
 
-You may save this Privacy Policy onto your computer for future reference.
+Whereever we rely on consent to process your personal data you can withdraw your consent at any time by writing to us at the email address below. 
 
-Should you wish to obtain a copy of the personal data that we hold on you, please send an e-mail to the following address: [webmaster@safc.com](mailto:webmaster@safc.com).
+You will have opted-in to receive information about the Club in the form of a newsletter or email and such will contain offers, promotions or information specifically relating to the Club and our commercial partners. 
 
-As soon as we are satisfied as to your identity, we will send to you, within 40 days, a copy of all the data that we hold concerning you.  
-Any queries or comments about this privacy policy should be forwarded by email to [webmaster@safc.com](mailto:webmaster@safc.com).
+You will have set your preferences on our website or have been talked through it at the point of purchase. 
 
-If you have a complaint concerning any breach of this privacy policy, contact us by email at [webmaster@safc.com](mailto:webmaster@safc.com). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 40 days of receiving your complaint to inform you of the results of your complaint.
+We will only ever send you information you have requested to receive by email, SMS or phone and you can update and/or amend your preferences at any time. 
 
-If we decide to change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.
+In addition to the above, we rely on consent to process information about your browsing on our website (including our retail website) so that we can improve the customer experience (please see our cookie policy for more information [www.safc.com/cookies](https://www.safc.com/cookies)). 
 
-List of performance cookies
+**Who we share your personal data with**
 
-**Cookie Name**  
-| **Purpose**  
----|---  
-**Adtech.de** | The cookies from this domain are used to display advertising  
-  
-**CFP** | This ADTECH cookie allows the ad server to check if you accept cookies  
-  
-**JEB2** | 
+The Club is a member of the English Football League (“EFL”) and is subject to the EFL rules and regulations.  We may disclose your personal information to the EFL where required for the purposes of complying with the rules and regulations.  The EFL will respect the security of your personal data and treat it in accordance with the law.  Further information about the EFL’s use of personal data generally can be found in the EFL Privacy Notice available at  <https://www.efl.com/efl-privacy-notice>. 
 
-This ADTECH cookie is the ad server's anonymous unique user ID, used for example to control the number of ads seen by a user.
+When you become a member of the Club, your information, if you are a coach or volunteer will be or if you are another participant may be (depending upon which league(s) your team plays in) entered onto the Whole Game System database, which is administered by the FA. We also pass your information to the County FA and to leagues to register participants and the team for matches, tournaments or other events, and for affiliation purposes. 
 
-ADTECH uses cookies to store the following non person-related data:  
-\- Browser type (such as Chrome 9.x)  
-\- Operating system (such as Windows 7)  
-\- Date and time at which a specific banner was delivered
+We may share your personal data with selected third parties, suppliers and sub-contractors such as referees, coaches or match organisers. Third-party service providers will only process your personal data for specified purposes and in accordance with our instructions. 
 
-When collecting or storing data, ADTECH conforms with the data protection law and fulfils the regulations of the Privacy Preferences Project (P3P), that are determined by the World Wide Web group.  
-  
-  **Doubleclick.net** |    
- ID | We use this Google DoubleClick cookie to measure the effectiveness of its online marketing campaigns. Google provides options for opting out of the DoubleClick cookie.   
-  
-  **Google.com** |    
-  
-  | Google uses cookies, like the PREF, NID and SID cookies, to help customise ads on Google properties, like Google Search. For example, they use such cookies to remember your most recent searches, your previous interactions with an advertiser's ads or search results, and your visits to an advertiser's website. This helps them to show you customised ads on Google.   
-  
-**Twitter.com**  
-|    
-pid, metrics_token   
-| These cookies are created by Twitter. In this case they are present because a Twitter widget or button is being used on the website.   
-  
-**Facebook.com**  
-|    
-  | These cookies are created by Facebook. In this case they are present because a Facebook widget or button is being used on the website.  
-  
-  
-Cookies set by third-party companies
+We may disclose your personal information to third parties to comply with a legal obligation; or to protect the rights, property, or safety of our participants, members or affiliates, or others. The Club’s data processing may require your personal data to be transferred outside of the UK. Where the Club does transfer your personal data overseas it is with the sufficient appropriate safeguards in place to ensure the security of that personal data. 
 
-_utma, _utmb, _utmc, _utmz   
-| Cookies related to Google Analytics which facilitate tracking information about how the website is being used, e.g. number of users.   
-  
----|---  
-ASP.NET SessionID   
-| This cookie is used to create a unique session identifier (a random number specific to just your session on the website) so that we can store the data regarding your session. This cookie expires at the end of your session (when you leave the website) and will be removed when you close the browser.   
+**Protection of your personal data**
 
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. 
+
+**How long we hold your personal data**
+
+We keep personal data on our participants and members while they continue to be a participant or member or are otherwise actively involved with the Club and for a limited period of time afterwards (in case, for example, you decide to reactive your membership). We will delete this data after a participant or member has left or otherwise ended their membership or affiliation, or sooner if specifically requested and we are able to do so. We may need to retain some personal data for longer for legal or regulatory purposes. 
+
+**Your rights regarding your personal data**
+
+As a data subject you may have the right at any time to request access to, rectification or erasure of your personal data; to restrict or object to certain kinds of processing of your personal data, including direct marketing; to the portability of your personal data and to complain to the UK’s data protection supervisory authority, the Information Commissioner’s Office about the processing of your personal data. 
+
+We may update this Privacy Notice from time to time, and will inform you to any changes in how we handle your personal data but we advise that you check by on this page for any changes from time to time. 
+
+If you have any questions about this Privacy Notice then please contact [GDPR@safc.com](mailto:GDPR@safc.com)
