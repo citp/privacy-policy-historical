@@ -1,115 +1,44 @@
-> *The following text is extracted and transformed from the the42.ie privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004244id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the42.ie privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629141808id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
 # TheJournal.ie - Read, Share and Shape the News
 
-### Introduction
+* Except as disclosed in this Privacy Notice, we will not disclose Personal Data that we collect to any parties other than those with whom we partner or are affiliated with, without your consent. Except as disclosed below, we will not sell, share, trade, rent, or give away your Personal Data.
 
-Your privacy is important to us and this privacy statement sets out how Journal Media Ltd. collects, uses and protects any information you give us when you use TheJournal.ie. If you give us any information by which you can be identified when using TheJournal.ie then we will use it only in accordance with this privacy statement.
+* We may use your Personal Data to process any requests made by you for example, to create a user account, subscribe to a mailing list or make a complaint about a comment/post, respond to your inquiry, and communicate with you when necessary to provide customer service and/or follow-up information related to the Site. We may also use information you provide to communicate with you about your interest in our events and our company, to help us improve, operate and enhance your experience on a Site, to promote our events, notify you about important functionality changes to a Site, new services, and special offers we think you will find valuable, to tailor advertisements, content, and other aspects of your experience on and in connection with a Site, for other administrative purposes, to prevent or detect abuses of our terms of use, and to enable third-parties to carry out technical or other functions on our behalf as well as any other purpose that we may disclose to you at the point at which we request your Personal Data. We may combine non-personal information that you provide with supplemental information (including mailing address updates and demographic data) that we obtain from public sources or reputable third-parties. Information combined with personally identifiable information becomes, and is treated as, Personal Data under this Privacy Notice.
 
-We may change this privacy statement from time to time. When we do we will notify you of the changes by adding an “updated” icon next to the Privacy link on the front page of the site for two weeks from the date of the change. By continuing to use the site you agree to these changes.
+* When you contact us, we may request your affirmative, positive consent to use your contact information for marketing or other business purposes. In the event you do not consent to the use of your contact information for marketing or other business purposes, your data will not be used for those purposes. If you provide your consent but subsequently do not wish to receive notifications about related opportunities,, you will be able to modify your preferences by following the instructions on any marketing correspondence.
 
-### Children under the age of 13
+**Other websites**
 
-TheJournal.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with TheJournal.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at privacy@thejournal.ie.
+* The Site interfaces social media websites such as Facebook and Twitter, and may use social media plugins (e.g., the Facebook "Like" button, '"Share to Twitter"' button) to facilitate social media functions. 
 
-### Persons aged 13 to 17
+* If you are a member of a social media platform or website, and log in to such social media or platform, the interfaces may allow the social media platform or website to connect your visit to a Site to your Personal Data. The social media plugins also may allow the social media website to share information about your activities on a Site with other users of their social media platform. We have no control over the information that other websites or social media websites or plugins collect, store, or use. Before you choose to access other websites from a Site or “like” or share information from a Site through any social media platform or website, please be certain that you review the privacy notice of that social media platform or website.
 
-We recommend that young people aged 13 to 17 ask their parents or legal guardians for permission before using TheJournal.ie or sending any information about themselves to anyone over the Internet.
+**Do we disclose Personal Data to anyone else?**
 
-### What we collect
+* We disclose customer information to third parties only when it is necessary as part of business practices or when there is a legal or statutory obligation to do so. Whenever we disclose customer information to third parties, we will only disclose that amount of information necessary to meet such business need or legal requirement. Third parties that receive customer information from us must satisfy us as to the measures taken to protect the personal data such parties receive, in accordance with Data Protection Law and as stated in this Privacy Notice. Appropriate measures will be taken to ensure that all such disclosures or transfers of customer information to third parties will be completed in a secure manner and pursuant to contractual safeguards.
 
-We collect the following information:
+* We may employ other companies and individuals to perform functions on our behalf, including processing credit card payments, marketing, and providing analytics assistance. From time to time, we may also share Personal Data or non-personally identifiable information with third-parties that we have engaged to perform certain services in connection with the operation of certain aspects of a Site, including to customise, deliver, measure, analyse, improve and support our services, content, advertising and layout, your interaction with those aspects, and to deliver more relevant messages and advertisements to you. These third-party service providers are authorised to use Personal Data only if needed to perform their functions on our behalf and are required to maintain the security of your personal information.
 
-  * Information supplied when you use the website or apps;
-  * Information which you supply on registration or as part of your profile;
-  * Information which you provide in relation to any payment;
-  * Information which you post on TheJournal.ie;
-  * Information which you otherwise provide to us (for example by email or private message); and
-  * Information relating to your use of TheJournal.ie generally. This may include, for example login and logout times and polls you’ve voted on.
+* Third Parties we work with
 
+The following is the list of companies we work with and may process data on our behalf. We include links to their privacy policy (available at the time of writing) for convenience:
 
+[Google](https://policies.google.com/privacy?hl=en) (Advertising, Analytics, Notifications, Office Software and Cloud Storage)   
+[Mailchimp](https://mailchimp.com/legal/privacy/) (e-mail services)   
+[Facebook](https://www.facebook.com/privacy/explanation), [Twitter](https://twitter.com/en/privacy) and [Linkedin](https://www.linkedin.com/legal/privacy-policy) (Social Media Authentication)   
+[Clickatell](https://www.clickatell.com/legal/communicator-developer-central/privacy-policy/) (SMS verification)   
+[Stripe](https://stripe.com/ie/privacy), [Paypal](https://www.paypal.com/ie/webapps/mpp/ua/privacy-full) (Payments)   
+[Typeform](https://admin.typeform.com/to/dwk6gt) (Surveys and forms)   
+[Shopify](https://www.shopify.com/legal/privacy) (e-Commerce)   
+[New Relic](https://newrelic.com/termsandconditions/privacy), [Bugsnag](https://docs.bugsnag.com/legal/privacy-policy/) (Error logs)   
+[Amazon AWS](https://aws.amazon.com/compliance/data-privacy-faq/) (Cloud computing)   
+[Pipedrive](https://www.pipedrive.com/en/privacy) (CRM) 
 
-Technical details in connection with visits to this website are logged for our statistical purposes. The technical details logged include:
+* We may also change our ownership or corporate organisation while providing a Site. As a result, we may transfer your information to another company that is affiliated with us, with which we have merged, or which has acquired all or some of our assets. We will advise you if such a change of ownership or change of corporate structure takes place and we will update this Privacy Notice accordingly.
 
-  * The IP address of each visitor and the domain of the internet service provider;
-  * The previous website address from which a visitor reached us, including any search terms used;
-  * “Clickstream” data which shows the traffic of visitors around TheJournal.ie (for example showing which stories have been read and which links have been clicked); and
-  * The type of web browser used by a visitor.
+* We may provide information, when obliged to do so under Data Protection Law and in response to properly made requests, for example, for the purpose of the prevention and detection of crime, and the apprehension or prosecution of offenders. We may also provide information for the purpose of safeguarding national security. In the case of any such disclosure, we will do so only in accordance with Data Protection Law.
 
+* We may also provide information when required to do so by law, for example under a court order, and may transfer data to legal counsel where same is necessary for the defence of legal claims.
 
-
-We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at <http://www.google.com/analytics/>
-
-### Cookies
-
-TheJournal.ie uses cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited.
-
-### External providers
-
-From time to time we may partner with an external provider to provide other services, for example we may ask an external company to carry out a survey or to run a competition. If any personal information is required you will be advised beforehand.
-
-### What we do with the information we collect
-
-We require this information for the operation of TheJournal.ie, to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:
-
-  * We may use this information for our administration, record keeping and in connection with any payment;
-  * We may use this information, with your permission only, to contact you for marketing purposes;
-  * We may transfer this information to any sister site of TheJournal.ie where necessary for the operation of that site;
-  * We may use this information for technical processing and to address technical problems or service complaints;
-  * We may use this information to deal with cases of illegal activity, abuse or harassment;
-  * We may transfer this information to enable an external auditor to verify our traffic figures;
-  * We may disclose this information where required by law to do so;
-  * We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and
-  * We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
-
-
-
-We will not otherwise disclose, sell or distribute your information to any third party without your permission.
-
-### Anonymous and aggregated data
-
-We may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the number of unique visitors in a daily period or the percentage age groups of our members. No personally identifiable information will be disclosed.
-
-### Information you post
-
-Any personal information which you volunteer in your public profile or which you post as a message will be available worldwide to anyone with access to the website.
-
-Please do not post any information you are not happy to leave up indefinitely. We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.
-
-Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
-
-### Anonymous / pseudonymous users
-
-You are free (if you wish) to choose a username which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.
-
-### Controlling your personal information
-
-You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.
-
-If you would like a copy of the information held on you please email us at [privacy@thejournal.ie](mailto:privacy@thejournal.ie). If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [privacy@thejournal.ie](mailto:privacy@thejournal.ie). We will promptly correct any information found to be incorrect.
-
-If someone else has posted your personal information on TheJournal.ie without your permission and you would like it removed please contact us at [privacy@thejournal.ie](mailto:privacy@thejournal.ie).
-
-### Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-### Confidential Sources
-
-Users may wish from time to time to pass information to our writers on a confidential basis. Please note that while we take the privacy of confidential sources seriously, we may not always be able to guarantee absolute confidentiality if, for example, we are compelled by a court order to reveal the identity of a source. If you wish to pass information to us in complete security you may wish to use some of the methods described in the Reporters Without Borders Handbook for Bloggers and Cyber-Dissidents.
-
-### Glossary of technical terms used
-
-Web browser
-
-The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Firefox, Safari and Opera.
-
-IP address
-
-The identifying details for your computer (or your internet company’s computer), expressed in “internet protocol” code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
-
-Cookies
-
-Small pieces of information, stored in simple text files, placed on your computer by a web site.
+* We may also disclose Personal Data in connection with any complaint regarding your use of the Site. For example, _in the event of a complaint or legal action arising from a comment or content posted._
