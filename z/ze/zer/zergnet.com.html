@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zergnet.com privacy policy that was archived on 2016-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114224610id_/http%3A//www.zergnet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zergnet.com privacy policy that was archived on 2018-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180629113045id_/http%3A//zergnet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,82 +14,6 @@
     <script type="text/javascript">window.jQuery || document.write('<script src="info-site/js/jquery-1.8.3.min.js"><\/script>')</script><script src="info-site/js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="info-site/js/jquery.main.js"></script>
 
-    <script type="text/javascript">
-        $(document).ready(function(){
-            $("#login-form").validate({
-                errorClass: "hiddenErrorMsgs",
-                rules:{
-                    email:{
-                        required:true,
-                        email:true
-                    },
-                    password:{
-                        required:true
-                    }
-                }
-            });
-
-
-            $("#sign-form").validate({
-                errorClass: "hiddenErrorMsgs",
-                rules:{
-                    email:{
-                        required:true,
-                        email:true
-                    },
-                    password1: {
-                        required: true,
-                        minlength: 6
-                    },
-                    password2: {
-                        required: true,
-                        minlength: 6,
-                        equalTo: "#password1"
-                    },
-                    linkurl: {
-                        required:true,
-                        notEqual: "Website URL"
-                    },
-                    sitename: {
-                        required:true,
-                        notEqual: "Website Name"
-                    }
-                }
-            });
-
-            $("#contact-form").validate({
-                errorClass: "hiddenErrorMsgs",
-                rules:{
-                    contactName: {
-                        required:true,
-                        notEqual: "Your Name"
-                    },
-                    contactEmail: {
-                        email:true,
-                        notEqual: "Your Email"
-                    }
-                },
-
-                submitHandler: function() {
-                    $('#contact-box').hide();
-                    $('#contact-area').show();
-
-
-                    var encodedContactName = encodeURIComponent($('#contactName').val());
-                    var encodedContactMsg = encodeURIComponent(document.getElementById('contactMsg').value);
-                    var encodedContactEmail = encodeURIComponent($('#contactEmail').val());
-
-                    $.post('ajax/contactrequest.php', {
-                        contactName: encodedContactName,
-                        contactEmail: encodedContactEmail,
-                        contactMsg: encodedContactMsg
-                    });
-                }
-
-            });
-        });
-
-    </script>
 <style type="text/css">.js-tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
 
 <body>
@@ -98,217 +22,227 @@
         <div class="area-holder">
             <strong class="logo"><a href="http://zergnet.com">ZergNet</a></strong>
             <ul id="nav">
-                <li><a class="smoothscroll" href="#how-it-works">HOW IT WORKS</a></li>
-                <li><a class="smoothscroll" href="#clients">CLIENTS</a></li>
-                <li><a class="smoothscroll" href="#features">FEATURES</a></li>
-                <li><a class="smoothscroll" href="#about">ABOUT</a></li>
-                <li><a class="smoothscroll" href="#contact">CONTACT</a></li>
             </ul>
-        </div>
-        <div class="frame-holder">
-            <div class="popup-area">
-                <a class="login open" href="#">LOGIN</a>
-                <div class="popup">
-                    <div class="holder">
-                        <div class="block">
-                            <form action="login" id="login-form" class="login-form" method="post">
-                                <fieldset>
-                                    <input type="hidden" name="action" value="login">
-                                    <div class="row">
-                                        <input type="text" name="email" id="email" value="Email">
-                                    </div>
-                                    <div class="row">
-                                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Password</span><input type="password" name="password" id="password" value="Password" autocomplete="off">
-                                    </div>
-                                    <div class="row-3">
-                                        <a href="forgot">FORGOTTEN PASSWORD?</a>
-                                        <button type="submit" value="">LOGIN</button>
-                                    </div>
-                                </fieldset>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <a class="sing lightbox" href="#popup1">SIGN UP</a>
         </div>
     </div>
 </div>
 
 <div id="wrapper">
-<div class="w1">
-<div style="margin: 109px 0 60px 0">
-    <h2>Privacy Policy</h2>
+    <div class="w1">
+        <div style="margin: 109px 0 60px 0">
+            <h1>ZergNet's Privacy Practices</h1>
 
-    <h3>Privacy</h3>
-    <p>7hops.com Inc. (“ZergNet”) provides this Privacy Policy to inform users of our policies
-    and procedures regarding the collection, use and disclosure of personally identifiable
-    information received from users of ZergNet’s website, located at&nbsp;the domain zergnet.com
-    (the “ZergNet Website"). Please note that this Privacy Policy only applies to the ZergNet
-    Website.</p>
 
-    <h3>Information Collection and Use</h3>
-    <p>It is not necessary to provide ZergNet with your personally identifiable information to
-    use the ZergNet Website, and ZergNet does not collect personally identifiable
-    information in connection with the operation of the ZergNet Website.  If you contact
-    ZergNet by email through the ZergNet Website, ZergNet may keep a record of your
-    contact information and correspondence, and may use your email address, and any
-    information that you provide to ZergNet in your message, to respond to you.  ZergNet
-    treats this information as it would treat any other unsolicited business correspondence,
-    and has no obligation to keep this information confidential, nor to take any security
-    measures to protect this information.</p>
+            <h2 style="padding-top: 10px"> <a href="#" id="pp-click"> ZergNet.com Privacy Policy </a></h2>
+            <h2 style="padding-top: 10px"> <a href="#" id="dps-click"> ZergNet Widget Data Protection Summary</a></h2>
 
-    <p>When you visit the ZergNet Website, ZergNet’s servers automatically record information
-    that your browser sends whenever you visit a website ("Log Data"). This Log Data may
-    include information such as your IP address, browser type or the domain from which you
-    are visiting. For most users accessing the Internet from an Internet service provider, the
-    IP address will be different every time you log on. ZergNet uses Log Data to monitor use
-    of the ZergNet Website and the services we offer via the ZergNet Website and for the
-    ZergNet Website’s technical administration.</p>
+            <div id="pp"></div>
+            <h1 style="padding-top: 30px">Privacy Policy</h1>
+            <p>7hops.com Inc. (“ZergNet”) provides this Privacy Policy to inform users of our policies
+                and procedures regarding the collection, use and disclosure of personally identifiable
+                information received from users of ZergNet’s website, located at&nbsp;the domain zergnet.com
+                (the “ZergNet Website"). Please note that this Privacy Policy only applies to the ZergNet
+                Website.</p>
 
-    <h3>Cookies</h3>
-    <p>Like many websites, ZergNet also uses "cookie" technology to collect additional website
-    usage data and to improve the ZergNet Website and the services offered via the Web Site.
-    A cookie is a small data file that ZergNet’s servers transfer to your computer’s hard disk.
-    ZergNet does not use cookies to collect personally identifiable information. However, IP
-    addresses are collected by the use of cookies.</p>
+            <h3>Information Collection and Use</h3>
+            <p>It is not necessary to provide ZergNet with your personally identifiable information to
+                use the ZergNet Website, and ZergNet does not collect personally identifiable
+                information in connection with the operation of the ZergNet Website.  If you contact
+                ZergNet by email through the ZergNet Website, ZergNet may keep a record of your
+                contact information and correspondence, and may use your email address, and any
+                information that you provide to ZergNet in your message, to respond to you.  ZergNet
+                treats this information as it would treat any other unsolicited business correspondence,
+                and has no obligation to keep this information confidential, nor to take any security
+                measures to protect this information.</p>
 
-    <p>ZergNet mainly uses "session cookies", which enable certain features of the ZergNet
-    Website and services offered via the ZergNet Website, to better understand how you
-    interact with the Web Site and services we offer via the ZergNet Website, to monitor
-    aggregate usage by our users and web traffic routing on the ZergNet Website, and to
-    improve the ZergNet Website and services offered via the ZergNet Website. Session
-    cookies should be deleted from your computer when you disconnect from or leave the
-    ZergNet Website.</p>
+            <p>When you visit the ZergNet Website, ZergNet’s servers automatically record information
+                that your browser sends whenever you visit a website ("Log Data"). This Log Data may
+                include information such as your IP address, browser type or the domain from which you
+                are visiting. For most users accessing the Internet from an Internet service provider, the
+                IP address will be different every time you log on. ZergNet uses Log Data to monitor use
+                of the ZergNet Website and the services we offer via the ZergNet Website and for the
+                ZergNet Website’s technical administration.</p>
 
-    <p>ZergNet also uses a persistent cookie that stays on your computer after you leave the
-    ZergNet Website, for the sole purpose of ensuring that you receive a variety of ZergNet
-    content (also called “frequency-capping”).</p>
+            <h3>Cookies</h3>
+            <p>Like many websites, ZergNet also uses "cookie" technology to collect additional website
+                usage data and to improve the ZergNet Website and the services offered via the Web Site.
+                A cookie is a small data file that ZergNet’s servers transfer to your computer’s hard disk.
+                ZergNet does not use cookies to collect personally identifiable information. However, IP
+                addresses are collected by the use of cookies.</p>
 
-    <p>Most Internet browsers automatically accept cookies. You can instruct your browser, by
-    editing its options, to stop accepting cookies or to prompt you before accepting a cookie
-    from the websites you visit.</p>
+            <p>ZergNet mainly uses "session cookies", which enable certain features of the ZergNet
+                Website and services offered via the ZergNet Website, to better understand how you
+                interact with the Web Site and services we offer via the ZergNet Website, to monitor
+                aggregate usage by our users and web traffic routing on the ZergNet Website, and to
+                improve the ZergNet Website and services offered via the ZergNet Website. Session
+                cookies should be deleted from your computer when you disconnect from or leave the
+                ZergNet Website.</p>
 
-    <h3>Information Sharing and Disclosure</h3>
+            <p>ZergNet also uses a persistent cookie that stays on your computer after you leave the
+                ZergNet Website, for the sole purpose of ensuring that you receive a variety of ZergNet
+                content (also called “frequency-capping”).</p>
 
-    <p>ZergNet cooperates with government and law enforcement officials or private parties, to
-    enforce and comply with the law. ZergNet may disclose any information about you to
-    government or law enforcement officials or private parties as ZergNet, in its sole
-    discretion, believes necessary or appropriate to respond to claims, legal process
-    (including subpoenas), to protect the property and rights of ZergNet or a third party, the
-    safety of the public or any person, to prevent or stop any illegal, unethical, or legally
-    actionable activity, or to comply with the law.</p>
+            <p>Most Internet browsers automatically accept cookies. You can instruct your browser, by
+                editing its options, to stop accepting cookies or to prompt you before accepting a cookie
+                from the websites you visit.</p>
 
-    <p>If any or all of the assets of ZergNet are acquired by, or merged with another entity,
-    ZergNet will share with this entity some or all of the information collected through the
-    ZergNet Website.</p>
+            <h3>Information Sharing and Disclosure</h3>
 
-    <h3>Security</h3>
-    <p>Because ZergNet does not collect any personally identifiable information from the
-    ZergNet Website, ZergNet does not take any specific security measures to protect the
-    information we do collect.</p>
+            <p>ZergNet cooperates with government and law enforcement officials or private parties, to
+                enforce and comply with the law. ZergNet may disclose any information about you to
+                government or law enforcement officials or private parties as ZergNet, in its sole
+                discretion, believes necessary or appropriate to respond to claims, legal process
+                (including subpoenas), to protect the property and rights of ZergNet or a third party, the
+                safety of the public or any person, to prevent or stop any illegal, unethical, or legally
+                actionable activity, or to comply with the law.</p>
 
-    <h3>Links to Other Sites</h3>
+            <p>If any or all of the assets of ZergNet are acquired by, or merged with another entity,
+                ZergNet will share with this entity some or all of the information collected through the
+                ZergNet Website.</p>
 
-    <p>The ZergNet Website may contain links to other web sites ("Linked Sites") operated by
-    ZergNet or third parties. Linked Sites may place their own cookies or other files on your
-    computer, collect data or solicit personal information from you. This Privacy Policy
-    addresses only the use and disclosure of information that ZergNet collects through the
-    ZergNet Website. Other sites follow different rules regarding the use or disclosure of the
-    personal information you submit to them. ZergNet does not exercise control over third
-    party Linked Sites. Your use of any Linked Site operated by ZergNet is subject to the
-    terms and conditions provided by ZergNet for such Linked Site.  ZergNet encourages you
-    to read the privacy policies or statements of the other websites you visit.</p>
+            <h3>Security</h3>
+            <p>Because ZergNet does not collect any personally identifiable information from the
+                ZergNet Website, ZergNet does not take any specific security measures to protect the
+                information we do collect.</p>
 
-    <h3>Our Policy Towards Children</h3>
+            <h3>Links to Other Sites</h3>
 
-    <p>The ZergNet Website is not directed to children under 18. If a parent or guardian
-    becomes aware that his or her child has provided ZergNet with personally identifiable
-    information without their consent, he or she should contact ZergNet
-    at&nbsp;info@zergnet.com.  If ZergNet becomes aware that a child under 13 has provided
-    ZergNet with personally identifiable information, ZergNet will remove such information
-    from our files.</p>
+            <p>The ZergNet Website may contain links to other web sites ("Linked Sites") operated by
+                ZergNet or third parties. Linked Sites may place their own cookies or other files on your
+                computer, collect data or solicit personal information from you. This Privacy Policy
+                addresses only the use and disclosure of information that ZergNet collects through the
+                ZergNet Website. Other sites follow different rules regarding the use or disclosure of the
+                personal information you submit to them. ZergNet does not exercise control over third
+                party Linked Sites. Your use of any Linked Site operated by ZergNet is subject to the
+                terms and conditions provided by ZergNet for such Linked Site.  ZergNet encourages you
+                to read the privacy policies or statements of the other websites you visit.</p>
 
-    <h3>Changes to this Privacy Policy</h3>
+            <h3>Our Policy Towards Children</h3>
 
-    <p>ZergNet reserves the right to change this policy at any time without prior notice. Any
-    changes to this policy will be posted here.  You are advised to consult this Privacy Policy
-    regularly for any changes. If you have any questions or comments about this Privacy
-    Policy, please contact us at info@zergnet.com.</p>
-</div>
-<div class="contact-holder" id="contact" style="min-height:470px;">
-    <div class="contact-box" id="contact-box">
-        <h3>Contact Us</h3>
-        <form class="contact-form" id="contact-form" onsubmit="return false;">
-            <fieldset>
-                <div class="row">
-                    <input type="text" name="contactName" id="contactName" value="Your Name">
-                </div>
-                <div class="row">
-                    <input type="text" name="contactEmail" id="contactEmail" value="Your Email">
-                </div>
-                <div class="row-2">
-                    <textarea name="contactMsg" id="contactMsg" rows="4" cols="30">Your Message</textarea>
-                </div>
-                <button type="submit" value="Send">Send</button>
-            </fieldset>
-        </form>
-    </div>
+            <p>The ZergNet Website is not directed to children under 18. If a parent or guardian
+                becomes aware that his or her child has provided ZergNet with personally identifiable
+                information without their consent, he or she should contact ZergNet
+                at&nbsp;info@zergnet.com.  If ZergNet becomes aware that a child under 13 has provided
+                ZergNet with personally identifiable information, ZergNet will remove such information
+                from our files.</p>
 
-    <div class="contact-area" id="contact-area">
-        <div class="align">
-            <img src="info-site/images/img-symbol.png" alt="image description">
-            <h3>Message Sent!</h3>
-            <span>We’ll be in touch soon</span>
+            <h3>Changes to this Privacy Policy</h3>
+
+            <p>ZergNet reserves the right to change this policy at any time without prior notice. Any
+                changes to this policy will be posted here.  You are advised to consult this Privacy Policy
+                regularly for any changes. If you have any questions or comments about this Privacy
+                Policy, please contact us at info@zergnet.com.</p>
+
+
+            <div style="padding-bottom: 30px;"></div>
+            <hr>
+            <div id="dps"></div>
+
+            <h1 style="padding-top: 30px">ZergNet Widget Data Protection Summary</h1>
+            <p>This will help to explain the practices regarding the collection, use and disclosure of your personal data by 7Hops.com Inc. (“ZergNet”) in connection with the ZergNet widget appearing on third party websites.</p>
+
+
+            <h3>The Purpose Of the ZergNet Widget and Legitimate Interest for this Processing</h3>
+            <p>ZergNet and the publishers (“Publisher”) of one or more websites you visit (“Publisher Website”) have a commercial arrangement for ZergNet to provide the Publisher with javascript code that displays the ZergNet widget (“ZergNet Widget”) displaying content in which you may be interested. In order for ZergNet to do so, it must collect and process a limited amount of personal data and place a cookie on your browsing device. </p>
+
+            <h3>Data Collected by the ZergNet Widget</h3>
+            <p>The ZergNet Widget collects only the following data:<br><br>
+                • the IP address of the device which displayed the ZergNet Widget<br><br>
+                • the user agent (what kind of device and browser) which displayed the ZergNet Widget<br><br>
+                • the identity of the Publisher Website on which the ZergNet Widget was displayed<br><br>
+                • the content links you clicked on (if any), which is recorded in a cookie stored on a browser device along with other cookies containing an identifier for the Publisher Website on which you viewed the ZergNet Widget, and an identifier for the precise version of the ZergNet Widget you were viewing
+            </p>
+
+            <h3>The ZergNet Widget Cookie</h3>
+            <p>• The “ZergNet Widget Cookies” are small data files that ZergNet’s servers transfer to your computer’s hard disk when you view the ZergNet Unit. The ZergNet Widget Cookies are named “recent_crc”, “recent_clicks”, and “seen_crc”.  As noted above, the ZergNet Widget Cookies contain only the content links you clicked on (if any), an identifier for the Publisher Website on which you viewed the ZergNet Widget, and an identifier for the precise version of the ZergNet Widget you were viewing, for the sole purpose of ensuring that you receive a variety of ZergNet content (also called “frequency-capping”).
+                <br><br>
+                • It is possible to opt out of cookies via your browser’s cookie settings.  Most browsers allow you to opt out of all cookies, or just “third party cookies”.  Either will prevent the ZergNet Widget from placing a cookie on your browsing device.
+	            <br><br>
+                • You may also opt-out by visiting our opt-out page <a href="/optout">here</a>. Please note that after choosing to opt-out, if you use a different computer or a different browser, or if you delete or block browser cookies, you may need to repeat the opt-out steps.
+            </p>
+
+            <h3>What ZergNet Does with that Data</h3>
+            <p>• ZergNet keeps logs of IP addresses, user agent information, and Publisher Website identity (but not
+                the cookie information) for 30 days in their raw form. We aggregate the data into categories and
+                counts necessary for the business relationship with the relevant Publisher (to count, sort and report
+                impressions and to make payment), and then we delete the logs. The aggregated data does not
+                contain any data which is identifiable to any natural person (for example, IP addresses). While we
+                have the logs in their raw form, we may also use them for performance and security auditing.
+                ZergNet will also retain personal data as necessary to comply with its legal obligations, resolve
+                disputes, and enforce its agreements.
+                <br><br>
+                • ZergNet uses the information stored in the ZergNet Widget Cookies to avoid displaying content to
+                you that you already clicked on from the specific Publisher Website identified in the cookie. ZergNet
+                does not store this data, and you can delete the cookie at any time. ZergNet does not use cookies or
+                other mechanisms to track user behavior across multiple Publisher Websites.
+            </p>
+
+            <h3>Exceptions For Extreme Circumstance</h3>
+            <p>Your personal data may be used when necessary in order to
+                investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential
+                threats to the physical safety of any person, or if otherwise required by law to do so (such as a subpoena).</p>
+
+            <h3>Transfer of Data Outside of Europe And Outside of the United States</h3>
+            <p>Your personal data will be
+                processed by ZergNet in the United States and possibly other countries outside of Europe. ZergNet abides by
+                the principles of the EU – U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Frameworks.</p>
+
+            <h3>Who Else Will Receive The Data</h3>
+            <p>ZergNet will share your personal data with third party service
+                providers that work with us to provide our services such as providers to host ZergNet’s infrastructure
+                solution. These third-party service providers have access to your personal data only for the purpose of
+                performing services on our behalf. ZergNet may share aggregated, non-identifying information with other
+                third parties, including other users, to enhance the effectiveness of our services and for industry research
+                and analysis, benchmarking, and other similar purposes. For example, ZergNet may share aggregated, non-
+                identifying statistics with other website publishers as part of ZergNet’s sales and marketing efforts and to
+                allow publisher to optimize their use of the ZergNet Unit. Finally, ZergNet may also transfer your personal
+                data if its business assets are ever sold to or purchased by another company. (The data records are part of
+                ZergNet’s business.)</p>
+
+            <h3>What Rights Do I Have?</h3>
+            <p>Under the applicable laws of various countries, you may have certain rights,
+                such as under EU law, the right to access to, rectification or erasure of, and/or restriction of processing or
+                objection to processing of your personal data. ZergNet’s contact information is below. However, please
+                note that given the limited information ZergNet collects, ZergNet will almost certainly not be able to verify
+                your identity from its records.</p>
+
+            <h3>Right to Lodge A Complaint With Data Protection Authorities</h3>
+            <p>If you are a resident in the European
+                Union, you have right to at no cost to lodge a complaint with EU data protection authorities. This right also
+                exists in other countries. If you have questions please contact us or the data protection authority in your
+                country.</p>
+
+            <h3>How To Contact ZergNet</h3>
+            <p>ZergNet can be reached at:
+                <br>ZergNet
+                <br>443 Park Avenue South, Suite 501
+                <br>New York, NY 10016
+                <br>Attn: PRIVACY
+                <br>privacy@zergnet.com
+
+            </p>
+
+            <h3>Scope of Coverage</h3>
+            <p>This Data Protection Summary only covers data collected by ZergNet through the
+                ZergNet Widget. It does not cover data collected by ZergNet from any other source. It does not cover the
+                data practices of any Publisher or Publisher Website.</p>
+
         </div>
-    </div>
 
-</div>
-<div id="footer">
+        <div id="footer">
 					<span>
-						© 2016 ZergNet.com. All Rights Reserved.
+						© 2018 ZergNet.com. All Rights Reserved.
 					</span>
-    <div class="area">
-        <span>You make great content. We help you promote it.</span>
-        <a class="sing-up lightbox" href="#popup1">SIGN UP</a>
-    </div>
-</div>
-</div>
-</div>
-<div class="popup-holder">
-    <div id="popup1" class="lightbox">
-        <div class="contact-box">
-            <h3>Sign Up</h3>
-            <form class="sign-form" id="sign-form" action="signup" method="post">
-                <input type="hidden" name="action" value="signup">
-                <fieldset>
-                    <div class="row">
-                        <input type="text" name="email" id="email" value="Your Email">
-                    </div>
-                    <div class="row">
-                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Password</span><input type="password" name="password1" id="password1" value="Password" autocomplete="off">
-                    </div>
-                    <div class="row">
-                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Verify Password</span><input type="password" name="password2" id="password2" value="Verify Password" autocomplete="off">
-                    </div>
-                    <div class="row">
-                        <input type="text" name="sitename" id="sitename" value="Website Name">
-                    </div>
-                    <div class="row">
-                        <input type="text" name="linkurl" id="linkurl" value="Website URL">
-                    </div>
-                    <button type="submit" value="">Sign Up</button>
-                </fieldset>
-            </form>
         </div>
     </div>
 </div>
+
 
 
 <script language="javascript" type="text/javascript">
 
     $(document).ready(function(){
-                $('.smoothscroll').on('click',function (e) {
+        $('.smoothscroll').on('click',function (e) {
             e.preventDefault();
             var target = this.hash,
                 $target = $(target);
@@ -318,6 +252,20 @@
                 window.location.hash = target;
             });
         });
+
+        $("#pp-click").click(function() {
+            $('html, body').animate({
+                scrollTop: $("#pp").offset().top + -60
+            }, 250);
+        });
+
+        $("#dps-click").click(function() {
+            $('html, body').animate({
+                scrollTop: $("#dps").offset().top + -60
+            }, 1000);
+        });
     });
+
+
 </script>
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
