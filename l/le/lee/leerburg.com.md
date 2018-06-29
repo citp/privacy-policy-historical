@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105103321id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629150232id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Website
 
@@ -13,7 +13,7 @@ Organization name: | Leerburg Enterprises, Inc.
 Address: | 406 Technology Dr W  
 City, State, Zip: | Menomonie, WI 54751  
 Country: | USA  
-Controller: | Jeff Frawley  
+Controller: | Ed Frawley  
 Website: | http://leerburg.com  
 Phone | (715) 235-6502  
   
@@ -63,7 +63,7 @@ We do not collect or use personal data for any purpose other than that indicated
 
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:
 
-  * By sending an email - jeff@leerburg.com
+  * By sending an email - frawley@leerburg.com
   * By sending postal mail to this address - 406 Technology Dr W, Menomonie, WI 54751
   * By calling this telephone number - (715) 235 - 6502
 
@@ -115,7 +115,7 @@ Orders are placed through a high grade 128-bit encrypted HTTPS connection. Order
 
 Upon request, which you can indicate by:
 
-  * Sending an email - jeff@leerburg.com
+  * Sending an email - frawley@leerburg.com
   * Sending postal mail to this address - 406 Technology Dr W, Menomonie, WI 54751
   * Calling this telephone number - (715) 235-6502
 
@@ -147,7 +147,7 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 
 ### Self Assessment Procedure:
 
-Name or designation of the privacy policy person or service:  | Jeff Frawley  
+Name or designation of the privacy policy person or service:  | Ed Frawley  
 ---|---  
 URL: | http://leerburg.com  
 Address: | 406 Technology Dr W  
@@ -160,13 +160,13 @@ If you have an enquiry or concern about our privacy policy, please contact:
 
   | Contact 1  
 ---|---  
-Name/Designation: | Jeff Frawley  
+Name/Designation: | Ed Frawley  
 Dept/Title: | Business Manager  
 Address: | 406 Technology Dr W  
 Menomonie, WI 54751  
 Phone Number: | (715) 235-6502  
 Fax Number: | (715) 235-8868  
-Email Address: | jeff@leerburg.com  
+Email Address: | frawley@leerburg.com  
 URL: | http://leerburg.com  
   
 We do not recommend another means by which visitors' concerns may be addressed.
@@ -204,4 +204,4 @@ Other personal details and profiling data is not collected. These include data t
 
 
 
-_Last updated November 9th, 2015._
+_Last updated November 27th, 2017._
