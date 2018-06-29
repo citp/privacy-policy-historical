@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904191127id_/https%3A//www.mdlinx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629021542id_/https%3A//www.mdlinx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -261,20 +261,16 @@ We will retain your information for as long as your account is active or as need
 
 ##### IX. PRIVACY SHIELD COMPLIANCE
 
-M3 complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. M3 has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
+M3 complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. M3 has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
-M3 is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. M3 complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+M3 is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. M3 complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-M3 submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing M3's adherence to these practices.
+M3 submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU or Swiss individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing M3's adherence to these practices.
 
 **Independent Dispute Resolution Mechanism**  
-M3 commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact M3, refer to our Contact Information section below.
+In compliance with the Privacy Shield Principles, M3 commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union and Switzerland with inquiries or complaints regarding our Private Shield policy should first contact M3, refer to our Contact Information section below.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
-
-Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-In addition, you may lodge a complaint to a supervisory authority if you consider that your personal data has been processed in breach of applicable legislation or this privacy policy; refer to the following link for a complete list of [Data Protection Authorities](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 ##### X. CONTACT INFORMATION
 
