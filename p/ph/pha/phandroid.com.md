@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phandroid.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000816id_/http%3A//phandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phandroid.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629033054id_/http%3A//phandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phandroid
 
@@ -113,6 +113,8 @@ When you conduct e-commerce with one of the e-commerce affiliates or service pro
 We may use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this Website and to other websites in order to provide advertisements about goods and services they believe are of interest to you. These companies may use cookies and clear GIFs to measure advertising effectiveness.
 
 Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information.
+
+a. Exponential Interactive, Inc Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com. 
 
 3.8 Business Transfer
 
