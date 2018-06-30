@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justonlinegames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153152id_/http%3A//www.justonlinegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonlinegames.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630130509id_/http%3A//www.justonlinegames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
