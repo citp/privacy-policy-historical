@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the peakprosperity.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201031024id_/http%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakprosperity.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630212820id_/https%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Prosperity
 
-**Last updated June 22, 2009**
+**Last updated May, 2018**
+
+PeakProsperity.com is committed in safeguarding its clients nonpublic personal information. This policy describes how we handle and protect personal information.
 
 We recognize the importance of maintaining your privacy. We value our relationship with you and we appreciate the trust you show in providing information to us. Explaining how we collect, use and protect customer information is, therefore, of utmost importance to us. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
 PeakProsperity.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except as disclosed in this Privacy Policy. Your information will not be shared without your permission.
+
+PeakProsperity.com is committed to protecting the privacy of any information that we obtain through this Web site. The Privacy Policy set forth below is intended to inform you of how we honor this commitment and seeks to explain the ways that we may collect, use or disclose your personal and non-personal information when you visit this Web site. By visiting this Web site you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. PeakProsperity.com urges you to read this Privacy Policy in its entirety as it impacts upon certain of your rights on using this Web site. IF YOU DO NOT AGREE WITH ANY PROVISIONS OF THIS PRIVACY POLICY AND DO NOT CHOOSE TO ACCEPT SUCH PROVISIONS, INCLUDING ANY CHANGES TO THIS PRIVACY POLICY THAT MAY BE MADE IN THE FUTURE, THEN YOU SHOULD NOT USE THIS WEB SITE.
 
 ## Information Collected
 
@@ -16,13 +20,15 @@ This section of our privacy policy applies to all information collected by or su
 
 Whenever you interact with us, we collect and analyze some data about you, which may include the full Uniform Resource Locator (URL) click stream to, through and from our website, including date and time and cookie data. Your IP address is used for internal use only and helps us diagnose problems with our server and administer our web site. We also automatically track certain information about your activities on our web site. These may include: browser type and version, operating system and platform; statistics on page views, traffic to and from the Site; standard web log information; and purchase history. We use this information to do internal research on your interests and to help us better understand and serve you. If you are a registered user, we link this automatically-collected data to your personally-identifiable information. We may collect and measure session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-We also store certain types of information when you interact with us on our web site. For example, we use "cookies" and can obtain certain information from your web browser. By transferring these alphanumeric identifiers or “cookies” that your browser creates at our request in an approved and standardized place on your computer, PeakProsperity.com assigns you a unique customer code and records information about your activity on our site. When you visit or return to our site, we read the cookie to identify you as one of our customers. This enables us to recall orders or preferences you have selected and to identify you as a registered member, if applicable. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. The cookie does not retain your billing information, nor does it save any of your personally identifiable information in an explicit fashion.
+We also store certain types of information when you interact with us on our web site. For example, we use "cookies" and can obtain certain information from your web browser. By transferring these alphanumeric identifiers or “cookies” that your browser creates at our request in an approved and standardized place on your computer, PeakProsperity.com assigns you a unique customer code and records information about your activity on our site. When you visit or return to our site, we read the cookie to identify you as one of our customers. This enables us to recall orders or preferences you have selected and to identify you as a registered member, if applicable. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. The cookie does not retain your billing information, nor does it save any of your personally identifiable information in an explicit fashion. The use of cookies is common on the Internet and many Web browsers are initially configured to accept cookies automatically. If you would prefer not to accept cookies, you can set your Web browser to notify you when your computer is receiving a cookie, manage the types of cookies accepted or to refuse cookies automatically. To readjust your Web browser’s cookie options, please refer to the instruction documentation of your particular browser, or seek online assistance.
 
 ## Google Data Collection
 
 The PeakProsperity.com website displays Google AdSense advertisements.  Google, as a third party vendor, uses cookies to serve ads on PeakProsperity.com.  The cookie used by Google is known as the [DoubleClick DART cookie](https://www.doubleclick.com/privacy/faq.aspx) ("DART cookie").
 
 Google's use of the DART cookie enables it to serve ads to PeakProsperity.com visitors based on their visit to our site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy page.  This can be found by clicking the following link: <http://www.google.com/privacy_ads.html>
+
+You can learn more about how Google manages data in its ads products, including how to control the information collected by Google on this site (and others), at this website they've created specifically on this topic for the public: <https://policies.google.com/technologies/partner-sites>
 
 ## Use of Information
 
@@ -35,3 +41,11 @@ Other than as described in this Privacy Policy, we will not disclose any account
 ## Changes to the Privacy Policy
 
 We may change the terms of this Policy at any time and without prior notice. If we do this, we will post the changes to this page and indicate at the top of the page the date the Policy was last revised. You can access this document at any time by selecting the Privacy link located at the bottom of every page on the PeakProsperity.com web site. Your use of PeakProsperity.com after changes are made to this Policy means that you agree to be bound by such changes. We reserve the right to modify this privacy statement at any time, so please review it frequently. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+By use of this Web site you agree that your continued use of this Web site following the posting of any modified terms shall be deemed your conclusive acceptance of the modified Privacy Policy. If you do not agree with any modifications posted by PeakProsperity.com, LLC, your sole and exclusive remedy is to discontinue use of this Web site.
+
+## Information Protection
+
+We will use our reasonable efforts to protect all personal information we receive online with appropriate safeguards and security measures. However, the Internet is not a secure medium and neither the privacy of your communications, nor visits to this Web site, can be ensured. Accordingly, by visiting this Web site, you acknowledge and agree that PeakProsperity.com does not guarantee the security of any information you transmit to us, and that you do so at your own risk.
+
+If you have any questions about this Privacy Policy, would like information on what information we have on file for you or ask us to manually remove information we have on file for you, please [click here](https://www.peakprosperity.com/contact) to contact us.
