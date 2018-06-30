@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102114034id_/https%3A//stewartmedia.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630101232id_/https%3A//stewartmedia.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StewArt Media
 
@@ -37,4 +37,4 @@ Remarketing is a method we may use as target advertisement that will display rel
 
 We reserve the right to change this policy from time to time. Please check this page regularly for updates.
 
-You may contact the Privacy Officer by e-mail [privacy@stewartmedia.com.au](mailto:privacy@stewartmedia.com.au), or by regular mail addressed to the Privacy Officer, Stew Art Media (a business of Search Global Pty Ltd), 2a/14 Lionel Road, Mt Waverley, Vic, 3149.
+You may contact the Privacy Officer by e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82f2f0ebf4e3e1fbc2f1f6e7f5e3f0f6efe7e6ebe3ace1edeface3f7), or by regular mail addressed to the Privacy Officer, Stew Art Media (a business of Search Global Pty Ltd), 2a/14 Lionel Road, Mt Waverley, Vic, 3149.
