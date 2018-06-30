@@ -1,29 +1,38 @@
-> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023192559id_/http%3A//nerdist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630022005id_/https%3A//nerdist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nerdist
 
 PRIVACY POLICY
 
-**Effective Date: July 18, 2017**  
+**Effective Date: May 25, 2018**  
 This privacy policy (“Privacy Policy”) applies to www.nerdist.com, which is owned and operated by Nerdist Industries, LLC (“Nerdist,” “we,” “our,” or “us”), (the “Website”), however accessed and/or used, whether via personal computers, mobile devices, tablets or other means. This Privacy Policy also applies to interactive features or downloads that are owned or operated by Nerdist, are available through the Website, or that interact with the Website and post this Privacy Policy. This Privacy Policy covers information collected at the Website and does not cover any information collected at any other web site or offline by Nerdist (unless specifically stated).  
 This Privacy Policy explains Nerdist’s information collection practices at the Website, such as the types of information Nerdist collects regarding visitors to the Website and how we may use that information. By using our Website you understand and agree that, among other things, we are providing a platform for you to post content, including photos, comments and other materials (“User Content”), to the Website and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Website, consistent with the terms and conditions of this Privacy Policy and our Terms of Use. Please review this Privacy Policy carefully. In addition, please review the Website’s Terms of Use, which governs your use of the Website.  
 You can determine when this Privacy Policy was last revised by referring to the “Last Updated” or similar legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site.  
 **TABLE OF CONTENTS**  
 1\. Your California Privacy Rights  
-2\. Information We Collect on the Website  
-3\. How We Use Your Personally Identifiable Information and Usage Information  
-4\. External Links  
-5\. Public Forums/User Content  
-6\. Security  
-7\. Updating or Deleting Your Personally Identifiable Information  
-8\. Ad Serving  
-9\. Google Analytics  
-10\. Changing Our Privacy Policy  
-11\. Jurisdictional Issues – Consent to Transfer  
-12\. Children’s Privacy  
-13\. Contacting Nerdist  
+2\. Your European Privacy Rights  
+3\. Information We Collect on the Website  
+4\. How We Use Your Personally Identifiable Information and Usage Information  
+5\. External Links  
+6\. Public Forums/User Content  
+7\. Security  
+8\. Updating or Deleting Your Personally Identifiable Information  
+9\. Ad Serving  
+10\. Google Analytics  
+11\. Changing Our Privacy Policy  
+12\. Jurisdictional Issues – Consent to Transfer  
+13\. Children’s Privacy  
+14\. Contacting Nerdist  
 **Your California Privacy Rights**  
-Under California Law, California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of Personally Identifiable Information and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To make such requests, if entitled, please write to California Privacy Rights c/o Legend Pictures; 2900 West Alameda Ave, Floor 15, Burbank, CA 91505.  
+Under California Law, California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of Personally Identifiable Information and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To make such requests, if entitled, please write to California Privacy Rights c/o Legend Pictures; 2900 West Alameda Ave, Floor 15, Burbank, CA 91505.
+
+**Your European Privacy Rights**  
+We process your personal data to the extent permitted by law. Such processing may include the transfer to and storage of your data at servers outside the European Union including locations within the United States. In this context we rely on a variety of legitimate reasons for data processing including your informed consent (Article 6(1) lit. (a) GDPR), the necessity to process your personal data as part of the performance of a contract to which you are or wish to become a party (Article 6(1) lit. (b) GDPR ) and/or the necessity to process your personal data for the purposes of our legitimate interests (Article 6(1) lit. (f) GDPR ). Those interests include in particular the improvement of our services. Any personal data will only be stored on file for the time necessary to fulfill the legitimate purpose including the observance of applicable statutory requirements to maintain certain documentation of our services.
+
+We do not share your data with any third parties unless permitted by law. However, we may involve data processors acting on our behalf and helping us to perform our contractual services.
+
+We hereby inform you that you as the data subject have the right to request from us access to and rectification or erasure of your personal data or restriction of processing or to object to such processing as well as the right to data portability. You also have the right to lodge a complaint with the competent a supervisory authority. Further, you may at any time withdraw your once given consent. Either of those rights may be exercised by sending us an email to the following address: [info@nerdist.com](mailto:info@legendary.com). Please specify your demand so that we can act in accordance with your wishes.
+
 **Information We Collect on the Website**  
 **Collection of Usage Information.**  When users come to our Website, we automatically collect “Usage Information” which include among other things, which pages of our Website were visited, the order in which they were visited, when they were visited, and which hyperlinks were “clicked.” We also collect information from the URLs from which you linked to our Website. Collecting such information may involve logging the IP address or other unique identifier (“Device Identifier”) for your computer, phone, tablet or other device used to access the Website (any, a “Device”), operating system and browser software used by each user of the Website. Although such information is not Personally Identifiable Information, we may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of his or her point of connectivity. Whenever we associate Usage Information or a Device Identifier with your Personally Identifiable Information, we will treat it as Personally Identifiable Information.  
 **Technology Used on the Website.**  We also use or may use cookies, web beacons and/or embedded scripts to help us determine and identify repeat visitors, the type of content and sites to which a user of our Website links, the length of time each user spends at any particular area of our Website, and the specific functionalities that users choose to use. Essentially, cookies are a user’s identification card for the Nerdist servers. Web beacons are small graphic files linked to our servers that allow us to track your use of our Website and related functionalities. An embedded script is programming code that is designed to collect information about your interactions with the Website, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.  
