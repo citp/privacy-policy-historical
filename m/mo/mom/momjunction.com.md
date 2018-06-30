@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230132548id_/http%3A//www.momjunction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701213219id_/https%3A//www.momjunction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MomJunction
 
