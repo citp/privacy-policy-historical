@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugucinema.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216164530id_/http%3A//telugucinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugucinema.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030850id_/http%3A//telugucinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | telugucinema.com
 
