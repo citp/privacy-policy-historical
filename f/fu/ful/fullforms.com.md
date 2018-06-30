@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224002408id_/http%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213128id_/http%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | FullForms
 
-FullForms.com (FullForms™) knows that you are concerned about the privacy and security of your personal information. FullForms.com is sensitive to privacy issues on the Internet. In order to make you to feel comfortable using our website and feel secure submitting information to us, we believe it is important you know how we treat the information about you, we receive from you, on the Internet.
+FullForms.com ( **F ullForms**™) knows that you are concerned about the privacy and security of your personal information. FullForms.com is sensitive to privacy issues on the Internet. In order to make you to feel comfortable using our website and feel secure submitting information to us, we believe it is important you know how we treat the information about you, we receive from you, on the Internet.
 
 ## WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
 
-  * When you suggest an entry or sending us an email, you may provide us with your e-mail address ("Personal Information").
+  * When you suggest an entry or send us an email, you may provide us with your e-mail address ("Personal Information").
   * Computer-identification information obtained from "cookies", sent to your browser from a web server and stored on your hard drive.
   * An IP address, assigned to the computer which you use.
   * The domain server through which you access our service.
@@ -15,7 +15,7 @@ FullForms.com (FullForms™) knows that you are concerned about the privacy and 
 
 
 
-FullForms does not and will not relinquish any of its end-users e-mail addresses to any third-party.
+**F ullForms** does not and will not relinquish any of its end-users e-mail addresses to any third-party.
 
 ## HOW IS THE INFORMATION USED?
 
@@ -41,11 +41,11 @@ When you visit this website, you may view advertisements posted on the site by G
 
 ## EXTERNAL LINKS
 
-FullForms.com contains links to other sites. FullForms is not responsible for the privacy practices or the content of such Web sites.
+FullForms.com contains links to other sites. **F ullForms** is not responsible for the privacy practices or the content of such Web sites.
 
 ## SECURITY OF YOUR PERSONAL INFORMATION
 
-FullForms will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+**F ullForms** will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
 
 ## QUESTIONS OR SUGGESTIONS
 
