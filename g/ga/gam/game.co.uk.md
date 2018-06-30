@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823081837id_/https%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630213529id_/https%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# GAME Help
+# Privacy Policy – GAME Help Home
+
+02 August 2017 14:59
 
 At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z3151729.
 
@@ -12,17 +14,14 @@ We will give you the chance to refuse any marketing email from us.
 
 The type of information we collect about you includes:
 
-• Your name
+  * Your name
+  * Your address
+  * Your email address
+  * Your phone number
+  * Your credit/debit card details
+  * Your order history and profile
 
-• Your address
 
-• Your email address
-
-• Your phone number
-
-• Your credit / debit card details
-
-• Your order history and profile
 
 We will never collect sensitive information about you without your explicit consent.
 
@@ -32,7 +31,7 @@ If you find any inaccuracies we will delete or correct them.
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
-o ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Identity Reference Agency which may keep a record of the information. You can rest assured that this is done only to confirm your identity and that there is active credit at the name and address supplied. Please note that although an actual credit check is not performed the search may be logged on your file but your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Identity Reference Agency which may keep a record of the information. You can rest assured that this is done only to confirm your identity and that there is active credit at the name and address supplied. Please note that although an actual credit check is not performed the search may be logged on your file but your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 We use CyberSource for processing of security information and this data is passed outside the EEA (European Economic Area) to the U.S.A. and then back to the UK. CyberSource has been certified by Visa, U.S.A. and Visa International as being compliant with the Cardholder Information Security Program and the Account Information Security program, respectively, which must be renewed annually after follow-up audits. To date, these are the most stringent security requirements in the industry having to do with how consumer data is secured, technologically as well as from a process standpoint.
 
