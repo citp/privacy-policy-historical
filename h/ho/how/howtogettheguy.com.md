@@ -1,75 +1,79 @@
-> *The following text is extracted and transformed from the howtogettheguy.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107140522id_/http%3A//www.howtogettheguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogettheguy.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630152649id_/http%3A//www.howtogettheguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get The Guy
 
-This privacy policy sets out how Get The Guy uses and protects any information that you give Get The Guy when you use this website.
+We are committed to maintaining the trust and confidence of all our clients, readers, viewers and website visitors by ensuring that your privacy is protected.
 
-Get The Guy is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Our business is based on adding value to the lives of our users through our emails, newsletters, blogs, videos, online programmes and all other media.
 
-Get The Guy may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9.JULY.10.
+Most importantly we do not sell, rent or trade our information, email lists, or any other visitor data with any other companies for marketing purposes, we never have and never will.
 
-## What we collect
+We keep the minimum information necessary to enable us to add as much value as possible for you.
 
-We may collect the following information:
+This Privacy Policy provides the detail on the information we collect and why, how we use it, and how we keep it secure. Should we ever ask you to provide any information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-  * Name and job title
+## What information do we collect?
 
-  * Contact information including email address
+We may collect the following information depending on which of our services or programmes you choose to access:
 
-  * Demographic information such as postcode, preferences and interests
+  * Contact information including email addresses
+
+  * Name, age and job title
+
+  * Demographic information such as address, postcode or IP address
 
   * Other information relevant to customer surveys and/or offers
 
 
 
 
-## What we do with the information we gather
+## What do we use the information for?
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We only collect the minimum information appropriate to deliver to you the service you are accessing and we only ever use this information to better understand your needs and provide you with a better service.
 
-  * Internal record keeping.
+So, we use this information for the following:
 
-  * We may use the information to improve our products and services.
+  * To deliver our products and services
+  * To improve our products and services
 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * To periodically send promotional emails about products, special offers or other information which we think you may find interesting and beneficial using the email address you have provided
 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, mail. We may use the information to customise the website according to your interests.
+  * Internal record keeping
 
 
 
 
 ## Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable electronic, physical and managerial procedures to safeguard and secure the information we collect online.
 
-## How we use cookies
+When you purchase a programme we normally only collect your name, email and contact number, but for some programmes this may include additional information such as address and job title. This information may be stored in our system, or with third party cloud-based services such as Infusionsoft and Maropost who may be used for the provision of our online services to you. These third party services are responsible with us for processing and safeguarding your data and as such comply with this Privacy Policy.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+## Transaction Security
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We believe in the strictest guidelines when payments are taken. When placing your order with us online all information regarding your method of payment (whether by credit card or debit card) is passed through a secure checkout operated by a third-party payment gateway (Vindicia and Paypal). This ensures your card details are handled in the most secure, efficient and confidential manner. These third-party payment gateways are controlled by their own strict guidelines which keep your information secure and private and we choose them because they are the world’s leading experts in performing these transactions.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+## Phishing
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We will never send you an email asking you for any personal information, this includes your address details or payment details. If you receive an email which appears to be from us asking for this information then please contact us immediately straight and do not reply to such an email.
 
 ## Links to other websites
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement.
 
-## Controlling your personal information
+You should exercise caution and look at the privacy statement applicable to the website in question.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+## Access to, or Deletion of, your Personal Information
 
-  * You can unsubscribe from our emails at any time you choose with one click using the unsubscribe link included in the footer of every email we send you
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [info@gettheguy.co.uk](mailto:info@gettheguy.co.uk)
-
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998.
+You are entitled to view, amend, or delete any of your information that we hold.  
+Simply email your request to our data protection officer using any of the contact forms on our website or mail your request directly to data@howtogettheguy.com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
+
+You can unsubscribe from our emails at any time you choose with one click using the unsubscribe link included in the footer of every email we send you which will also remove you from our weekly free video coaching blog mailing.
+
+## Updates
+
+This policy will be continually updated in line with improving best practice, developing technology and changes to legislation. You should check this page from time to time to ensure that you are happy with any such changes.
+
+This policy is effective from 1st May 2018.
