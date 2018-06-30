@@ -1,77 +1,147 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805183915id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630030411id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Monarch Airlines | Privacy Policy
+# loveholidays privacy policy
 
-Please note that our privacy policy may change from time to time. We therefore recommend that you read it each time you visit our website. 
+loveholidays understands and respects the importance of your privacy and we are committed to doing everything we can to safeguard personal information.
 
-### Who we are
+Please read this Privacy Policy to see how we use and protect your personal information. We also have a [Cookie Policy](https://web.archive.org/cookie-policy.html) which explains how we use cookies and other similar technologies. From time to time, we may make changes to these policies, so please re-visit these pages regularly if you want to keep up to date with any changes we’ve made 
 
-Monarch Airlines Limited (‘Monarch’) was established over 40 years ago and is one of the UK’s major providers of low-fares scheduled flights from bases at London Gatwick, London Luton, Manchester and Birmingham airports. Monarch is also a key supplier of airliners to the also operates charter aircraft for the tour operating industry, as well as being part of an international group of travel companies. It’s UK sister companies include Monarch Holidays (a trading name of Cosmos Holidays Plc), Monarch Hotels (a trading name of Somewheretostay Limited), Avro Plc, Archers Tours Limited (also known as ‘Archers Direct’) and Cosmos Coach Tours Limited (also known as ‘Cosmos Tourama’) (collectively known as the ‘Sister Companies’). As well as being one of the most established names in the travel industry, Monarch remains resolutely family owned. 
+Our Privacy Policy covers all the platforms through which you choose to interact with us, including our mobile-enabled and social media sites. By giving us your personal information, you agree to the transfer, storing or processing of your data in accordance with this policy. 
 
-This website is owned, managed and operated by Monarch Airlines Limited. Where the terms “we”, “us” or “our” are used in this privacy policy this means Monarch and where the terms “you” or “your” are used this means you and the members of your booking party.
+By making a booking or submitting any personal information via our channels, you are agreeing to us handling your personal information as set out below. If you do not agree to us using your personal information in these ways, unfortunately we can’t process your booking and you shouldn’t use our sites. 
 
-### Your data
+**What kind of personal information do we collect?**
 
-In accordance with the Data Protection Act 1998 and as amended from time to time, any information you provide will be safeguarded and controlled by Monarch, as Data Controller. In order to process your booking, we need to collect certain personal details from you. These details may include, where applicable, the names and addresses of party members, contact details such as telephone numbers and email addresses, credit/debit card or other payment details and in some instances information relating to disability or medical condition which may affect your chosen travel arrangements. If any other personal details are required, we will of course tell you.
+When you book through us, you need to provide certain information such as your name, address, e-mail, phone number and payment information. If you happen to fill in the booking pages but for some reason don’t actually complete the booking, you will still be considered to have provided us with your information.
 
-Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out below unless you agree otherwise. We will not pass your data to third parties unless inexcept for the examples set out below in relation to the administration of your booking, or with your prior consent in relation to marketing communications. 
+If you contact us, whether by phone, e-mail or another method, you’ll be asked to provide certain information. This is likely to include your name, address, e-mail address and phone number so we can respond to you appropriately.
 
-Subject to the exceptions set out in this Privacy Policy, we promise to keep all personal details you give us in connection with your booking confidential. We have appropriate security measures in place to protect this information as, detailed below.
+There are also other instances when you’ll provide us with information, for example if you register to manage your booking via our website, leave a review, enter one of our competitions or complete a survey.
 
-### How we use your data in connection with your booking
+**Information you give to us about others in your party**
 
-We do not store personal data outside the European Economic Area (EEA), however, Wwe may need to pass on some or all of the personal details you provide us with to certain governmental agencies and third parties in order to eaffect your travel arrangements, or deal with and/or investigate any emergency incident, or in the interests of security and/or because we are required to do so by law. Such third parties may include, but are not limited to, any carrier that we may use in substitution for Monarch Airlines (in accordance with our conditions of carriage), a handling agent, credit/debit card company, bank, accommodation supplier (for example in the event of a delay), other supplier and/or third party such as, for example, a car hire company, airport parking company or currency exchange company that we may deal with from time to time on your behalf. Such third parties may be situated outside the European Union EEA.
+If you’re booking with others or for someone else, you will have to give us their information as well, for example their name and date of birth. It’s your responsibility to ensure that they are aware that you have done so, and also accept how we use and process their information as well as yours.
 
-We may need to pass your personal details to certain governmental agencies in the interests of security and/or because we are required to do so by law. For example, the US and Spanish governments now both require by law that every airline discloses flight and reservation data concerning all passengers travelling to or /from either of these countries. 
+**What information do we collect automatically?**
 
-Where you give us details relating to your physical or mental health we will ask you to give us your written consent to our holding, using and passing on such information. 
+When you visit our sites we automatically collect certain information such as the device IP address, the date and time you visited, the hardware, software or particular browser used and information about your visit, including any pages you viewed and interacted with. We do this automatically, even when you don’t actually make a booking.
 
-We may also use your details to contact you regarding the administration of your booking, for example in the event of a change to your flight time or to advise you when online check-in is available.
+If you’re using a mobile device to reach us, we keep data that identifies your device, location details and any specific settings. For more information on this, please see our [Cookies Policy](https://web.archive.org/cookie-policy.html). 
 
-Please note the time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary.
+**Information we get from others**
 
-### How we use your data to inform you of relevant products and services
+We might also get information about you from other sources, such as your Service Providers, affiliates and other third-parties like credit reference agencies, payment processors, search engines or social media sites. We may use this information with other information you provide in order to complete or process your booking. We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
-If we wish to may use any of your personal details to contact you by email with details of our promotions and products which we think you might be interested in, we will only do this with your prior consent., in accordance with the Privacy and Electronic Communications Regulations 2003. 
+**What exactly do we do with your personal information?**
 
-You can opt-in for such marketing communications from Monarch Airlines Limited during the booking process or when you create an account in the ‘my account’ area of our website. You can also choose to give your consent for us to pass your contact details to our UK Sister Companies (as detailed above), so that they may also contact you with details of products and services. 
+Your personal information could be used in the following ways: 
 
-We will not pass your details to other third parties for the purpose of marketing unless you give your prior consent.
+**Processing your bookings:** Put simply, we have to use your personal information to ensure the services you’ve selected, which may include flights, hotels, transport, insurance and other ancillary products, are provided to you. We need certain information about you and your party so we can fulfil the contractual obligations when you make a booking.
 
-Please note: although, as a group, we and our Sister Companies are in the business of selling flights, holidays and other travel related products and services, we are also mindful of your privacy. Wherever possible we will endeavour to keep our communications interesting and relevant to you and not to bombard you with emails or literature!
+**User Accounts:** The information that you provide when you set up an account allows us to provide you with additional services including the ability to manage your bookings, personal settings and access to special offers. 
 
-### How you can opt-out from receiving further marketing communications
+**To communicate with you about your booking:** We’ll need to contact you using the email or telephone number you provided to give you information relevant to your arrangements. For example, to confirm your booking, notification of any changes, security alerts, administrative messages about your arrangements and reminders.
 
-At any time, you can tell us that you do not want us to use your details for the purposes of marketing, by opting-out of future communications. If you have previously registered with us, you can opt-out by changing your email preferences within your account online by [clicking here.](http://bookflights.monarch.co.uk/MemberBookingManager.aspx) Within your account you can choose to opt-out of only certain types of marketing communication or all. Alternatively if you do not have an online account and password, you can opt-out from all future communications by clicking[ here ](http://www.flymonarchemails.com/unsubscribe_me/index.php)or by writing to us at.
+**Customer Services:** You can contact us at any time, whether this is a general query, a question about your booking or to report an issue. You can do this through [Manage My Booking](https://web.archive.org/manage/login.html) on our website, by telephone or via social media. We’ll use the information that you’ve given us to answer any questions and respond to your query or other queries you might have in the future. If you do contact us by telephone, your call may be recorded and reviewed for quality and training purposes. Recordings are only kept for a limited period and then automatically deleted, unless we’ve got a legitimate interest in keeping them for a longer period. 
 
-Data Protection, Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton, Beds, LU2 9NU. 
+**Personalisation of your experience:** We sometimes use your data to enable us to show you the most relevant products and services we think you’ll be interested in, such as the best deals and special offers for destinations you like or have been to previously.
 
-### The use of cookies - how we collect information
+**Marketing:** Where you make a booking and haven’t specifically opted-out (or in any other case, if you have opted-in), we may contact you with information about other products and services that we offer that are similar to those that you have already purchased or enquired about and we think may interest you based on your personal information. Don’t worry, you can opt-out of these emails at any time.
 
-There’s nothing sneaky about the way we collect information – that’s just not our style! Our website uses cookies which collect data to enable us to improve our service to you and to provide certain features that you may find useful. 
+**Promotional Activities:** If you take part in any of our promotions (such as surveys or competitions) we will need to use the information you provide to run these promotions. 
 
-Cookies are small text files that are transferred to your computer’s hard drive through your web browser to enable us to recognise your computer and help us to track visitors to our site. Tracking visitors enables us to better understand the products and services that will be most suitable to you and to optimise the design of the site based on how our customers and visitors use it.
+**Improving our services:** Sometimes we might use your data to help us improve the quality and functionality of our services. This could include eliminating bugs in our system, data analysis, testing, and for statistical and survey purposes, all of which helps us improve the service we offer. 
 
-A cookie tracks your journey through our website and only collects the data that you give us as part of your booking. The cookies we use do not detect any information that is stored on your computer.
+**Security:** We may use your data as part of the efforts to keep our sites (and the information you provide to us) safe and secure, and to prevent fraud or unauthorised access/use of our sites.
 
-Most web browsers automatically accept cookies but, if you wish, you can set your browser to prevent it from accepting cookies. The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. For more information about cookies and how to stop cookies being installed, visit the following website: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+**Fraudulent Claims:** We may use your personal information in order to prevent, detect or defend any claims/actions we believe to be potentially fraudulent or detrimental to our legitimate interests.
 
-Sometimes we use third-party cookies to track our online advertising activity and your response to this. This technology uses non-personal information about your visits to our site and the sites upon which we advertise, in order to deliver relevant advertisements and for us to learn which banner adverts bring users to our website. The information collected and used in this instance is not personally identifiable. 
+**Legal and regulatory compliance:** We might need to use your information in relation to any legal disputes, regulatory, compliance or criminal investigations, or if necessary to enforce our rights.
 
-### Your rights and responsibilities regarding your data
+When we process your information as described above, we will be relying on one or more of the following legal rights:
 
-You are generally entitled to ask us what details of yours we hold, why we’re holding or processing them and to whom we have disclosed or may disclose them. To do this you may send a letter to the Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton, Beds, LU2 9NU. In order to process this information we may charge a small administration fee of £10. We promise to respond to your request within 40 days of receiving the your request, in writing, andalong with any the applicable fee. There are circumstances where we shall be within our rights to refuse such a request.
+**Performance of a contract:** We need to use your information to carry out the contract that you have with us and your Service Providers. We’ll use the information that you provide us when making a booking to conclude and process the reservations with the relevant third-party Service Providers. 
 
-If you believe that any of your personal information that is held or being processed by us is incorrect then please write to us immediately as we cannot be responsible for any problems that may arise due to inaccurate information that you have provided us with.
+**Consent:** You may be asked to consent to us sending you marketing and promotional material. If you do kindly give us this consent, we’ll rely on this consent when contacting you. You can always withdraw your consent at any time by simply unsubscribing – just follow the unsubscribe link in the email and it’s done. Alternatively you can also email [unsubscribe@loveholidays.com](mailto:unsubscribe@loveholidays.com) and it will be done for you.
 
-### Links to third party websites
+**Legitimate interest:** We may use your information for our own legitimate interest, for example to provide you with the most relevant content on our site or to promote new services and for certain administrative and legal purposes.
 
-This privacy statement only covers websites that we own and control. It does not cover links from our website to other third party websites and accordingly any information collected by the parties who own and control those websites or their use of cookies. Please be aware that individual organisations operate their own policies regarding the use and sale of personal information and the use of cookies. 
+**Business transaction:** We may use your data in connection with a business transaction such as the sale of a part or the whole of our business. 
 
-When purchasing travel products or services from third party websites linked from our website, we strongly recommend that you refer to the specific terms and conditions of booking and privacy policy of the third party website as these may differ from our own. These policies will also confirm exactly who you are contracting with as part of your purchase, which is important in the event of an incident, query or claim.
+**How do we store your data?**
 
-If you have a concern regarding the way your personal information will be used on other sites, then you are advised to read the relevant privacy statement or in the absence of such a statement on the site, contact the company concerned.
+Any information that you provide is stored on secure servers and all payment transactions are encrypted. Only authorised personnel are permitted to access your information in the course of their work with us. Whilst we do our best to protect your information, no information transferred over the internet or stored electronically can be guaranteed to be completely secure and you provide your information to us at your own risk.
 
-### Security of your data
+We’ll only retain your information for a reasonable period of time, or for so long as either you or the law allows.
 
-We take great care to ensure the security of this website. The data you provide to us is protected using SSL (Secure Socket Layer) technology. SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet and remain protected from unauthorised access or malicious attack. The information is only decrypted when it reaches our secure server, which is protected with a ‘firewall’. This means that you can book online with complete peace of mind.
+When you pay for your holiday, we don’t store your card details – instead we use an encrypted authorisation ‘token’ issued by your payment provider to collect the payment, or remaining payments if you chose to pay by instalments. 
+
+**When do we share your data with third parties?**
+
+In certain circumstances we may share the information you provide to us with organisations outside of loveholidays. The third parties who we might share your data with include: 
+
+**Service Providers:** If you make a booking, we’ll have to share your booking data with the third parties, such as hoteliers, airlines, insurers and transfer providers, to complete your booking contract. The data shared may include your name and the names and ages of any guests travelling with you, any preferences or special requests you told us about when you made your booking and your contact details. If you contact us with a query about your booking, we may pass this on to our providers if they are needed to answer you.
+
+Due to the nature of our business and the arrangements you have chosen, it may be necessary for your data to be transferred to, and stored at, a destination outside the European Economic Area ("EEA") and may not be subject to the same level of data protection controls as within the EEA. We will take all reasonable steps to ensure that your data is handled securely.
+
+**Third party support services:** These includes anyone who provides support services or functions on our behalf, including payment card processing, business analytics, review agencies, advertising and customer support services. This may be to send you marketing material on our behalf or to collate information that can be analysed to improve our service. They have access to and may collect information only as required to perform their agreed functions and are not permitted to share or use information for any other purpose.
+
+**Payment Processors and other financial institutions:** When you make a payment on your booking, we use a third-party payment processor to take your payment. If you request a chargeback on your booking, it may be necessary for us to share certain details with the payment processor and the relevant financial institution, so they can manage the chargeback. This may include a copy of your booking confirmation, financial details and the IP address that was used to make your booking. 
+
+**Referring websites:** If you were referred to our site via another webpage, we may share some information about you with that referring website so that they can contact you about their products and services, which may include Google Analytics. 
+
+**Business Affiliates:** We may share your data with our business affiliates with whom we offer relevant joint services. This may include other agencies and advertising networks. We do this in order to maximise the services that we provide you and so they may contact you directly about their relevant products and services that may interest you. You can unsubscribe from these emails at any time. 
+
+**Law enforcement authorities:** We will disclose personal information insofar as it is required by law or where we believe it is necessary for the prevention, detection or prosecution of potentially criminal acts, including for fraud, immigration, customs, security or anti-terrorism purposes. 
+
+Please note that whilst we have procedures and security features to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage, we don’t control the privacy practices of any of these third-parties or your Service Providers and we would encourage you to review their own privacy policies where appropriate.
+
+Furthermore, any information that you provide directly to your Service Providers or other suppliers is not covered under this Privacy Policy and we would urge to check their own privacy policies before handing over any personal information. 
+
+**What rights do you have in relation to your personal information?**
+
+You have the following rights in relation to the personal information that we hold about you: 
+
+You may request a copy of the personal information we are keeping about you by submitting a Data Subject Access Request to us at the below address. 
+
+You may ask that we correct any inaccuracies in the data, ask us to transfer it to another party or provide it to you for transfer it to another party yourself. 
+
+You can ask us not to process your personal information for marketing purposes at any time by sending a request to the below address or clicking ‘unsubscribe’ on any of the emails that we send to you. Alternatively you can also email [unsubscribe@loveholidays.com](mailto:unsubscribe@loveholidays.com) and it will be done for you. We will let you know if we intend to use your data for marketing purposes. 
+
+You have the right to request that we delete all personal information that we hold about you. If there is no other reason beside you providing your consent for us to hold your data, we will delete it upon receiving your request. 
+
+If you would like to exercise any of your above rights please contact us at [privacy@loveholidays.com](mailto:privacy@loveholidays.com), writing ‘Data Subject Access Request’ in the subject line. We will deal with any requests we receive in accordance with the relevant UK Data Protection laws. 
+
+If you feel we haven’t handled your personal data correctly, you have the right to complain to your local data protection authority. If you’re resident in the UK, The Information Commissioner's Office is the relevant data protection authority.
+
+**What about data that is collected through a mobile device?**
+
+Mobile devices can be used to access our services, as well as versions of our regular website that have been optimised for mobile and tablet browsing. These mobile sites work in a similar way to our main website. Sometimes we make use of something known as cross-device tracking, which allows us to track user behaviour across different devices. We use this to optimise the service that we provide you and for marketing activities, so advertisements shown to you on other websites may be offered based on your activities on linked devices (please see our [Cookie Policy](https://web.archive.org/cookie-policy.html) for further information on this). 
+
+**How do we treat personal information of children?**
+
+You are only allowed to book through our site if you are over 18 years of age. We only process information about children with the consent of the parents or legal guardians. 
+
+**Who exactly is responsible for processing personal information that is collected under the policy?**
+
+We Love Holidays Limited controls the processing of data over its sites – in legal terms, this means that We Love Holidays Limited is the Data Controller for the purposes of UK Data Protection laws.
+
+**How can you contact us?**
+
+If you have any questions about this Privacy Policy or wish to exercise any of your rights under it, please contact us at: 
+
+Email: [privacy@loveholidays.com](mailto:privacy@loveholidays.com)
+
+Post: Should be sent for the attention of the Legal & Compliance Department to: 
+
+4th Floor The Triangle
+
+5-17 Hammersmith Grove
+
+Hammersmith
+
+London
+
+W6 0LG 
+
+This page was updated 09 May 2018 
