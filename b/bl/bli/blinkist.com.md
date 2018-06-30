@@ -1,305 +1,402 @@
-> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106062722id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkist.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630145642id_/https%3A//www.blinkist.com/en/privacy) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy
+# Privacy Policy
 
-**Effective on 2015-1-1**
+**Last updated: 24. May 2018**
 
-Blinks Labs GmbH, Sonnenallee 223, 12059 Berlin, Germany (thereafter “Blinkist”) operates a platform for mobile reading on the internet portals http://www.blinkist.com, http://www.blinkist.de and other websites as well as via mobile applications - so called “Apps” - (thereafter platform). Within this scope, Blinkist’s authors will summarize the essential statements and contents of nonfiction books on a few pages in a concise manner. This enables you to comprehend the most important information of a nonfiction book on your PC or mobile device within the shortest amount of time. 
+**Our Privacy Policy in a nutshell**
 
-Use of the platform (including Apps) shall be exclusively subject to the following general terms and conditions. 
+The following notes give you an overview of how we collect and process your information. This is an overview, but if you want to know it exactly, you will find a detailed description here. 
 
-No special contractual text is intended for the contract regarding platform use. The content of the contract concluded between you and Blinkist follows these general terms and conditions as well as the information provided during the process of registration (cf. cipher 3.) as well as during contracting of a fee-based subscription ( cipher 5) that will be saved by Blinkist and available at any time in your user account. 
+**Data we collect about you**
 
-By registering and/or using the Blinkist services, you accept the use and application of these terms and conditions. 
+On the one hand, your data is captured because you communicate it to us. This may, for example, be data that you enter in our contact form. Other data is collected automatically when visiting the website through our IT systems. These are above all technical data (eg Internet browser, operating system or time of the page request). The collection of this data is automatic as soon as you visit our platform. 
 
-Blinkist shall retain the right to change individual clauses with effect for the future. If we do not obtain your specific consent for a terms and conditions amendment, you will be timely informed of any changes to the terms and conditions (at least four weeks prior to the effective date of the amended terms). For this purpose, Blinkist will send you the new version of the terms and conditions to the email address you provided during registration. In this context, Blinkist will notify you explicitly regarding the opportunity and objection period against the changes as well as about the consequences of an omitted objection. 
+  * **Registration Information:** When you register for Blinkist (for our free offer, paid subscription, or use of a code), we collect the personal information that you voluntarily provide to us when registering through your access device. 
+  * **Cookies:** For the provision of the Blinking service and to make our offer more user-friendly, effective and secure, we also use so-called cookies for data collection and storage. Cookies are small data packets that are stored on your device and do no harm. 
+  * **Tracking Services:** We use tracking services to collect information about the behavior of visitors to our pages. So we can ensure an optimal user experience. These services use pseudonymised user profiles with the help of cookies, so that a direct inference to persons is not possible. Of course you can contradict the creation of these profiles at any time. Incidentally, each access device can be configured in such a way that basically no cookies can be created at all, or they can be deleted directly after the session. 
+  * **Social Plugins:** Our pages contain buttons from various social networks so that you can recommend our offers, services and / or products to other interested people. If you click on such a button, data such as your current IP address, browser and access device information (type and operating system), the resolution of the screen, if you have plug-ins installed will be the referrer (from where you came to the site) and the current URL to the site operator. 
+  * **Newsletter:** When you sign up for our newsletter, your e-mail address will be used for information on advertising and advertising purposes. Of course, this is voluntary and you can even after the consent at any time unsubscribe. 
+  * **Payment Information:** If you use our free access, any of our trial phases or any of our subscriptions or you purchase anything through the Service, credit card information and other financial information we need to process the payment will be collected and stored with a payment service provider. We ourselves receive very little information from the payment providers about you. 
 
-If you do not object to the changes within four weeks after the effective date of the changed user conditions, the changed user conditions shall be deemed accepted. The period shall start with the day that it is communicated to you via email as the effective date of change. 
 
-In the event that you object the changes, Blinkist shall be entitled to terminate the user contract and delete your user account, under consideration of your interests if continuing of the contractual relationship under the scope of the current terms and conditions is not possible or unreasonable for Blinkist, effective from the date the changed user terms come into force. 
 
-Blinkist will provide you with a summary of nonfiction books (so called “Blinks”) that enable you to comprehend their essential contents within minutes. Blinkist will additionally provide you with a personal area in which you can organize your selected Blinks and textmarkers into different lists or categories at your discretion. 
+**How we collect your data**
 
-The rights on Blinkist’s services and contents that are dispersed this way shall stay and remain with Blinkist or Blinkist’s licensors. Blinkist software applications and contents shall be licensed to you within the scope of the contractual use. We will only grant you a non-exclusive (simple) and temporary right pursuant to cipher 2.3 for personal use of Blinkist’s services and contents. 
+We collect your data in three different ways: 
 
-The scope of the provided contents shall depend on the precise free account, subscription (cf. 4.) or trial (cf. cipher 5.) which you respectively chose (the “license”). The license shall be restricted to the period of the free account/subscription/trial. 
+  * automated when you visit our website
+  * through cookies 
+  * through your voluntary input
 
-All Blinkist trademarks as well as our trade names, logos, domain names and other peculiarities of the Blinkist trademark are under the sole ownership of Blinkist. The license does not grant you the right to use Blinkist trademarks, our trade names, logos, domain names or other features of the Blinkist trademark, irrespective of whether for commercial or non-commercial use. 
 
-If you are using a free service, Blinkist shall be allowed to show you advertisement on the platform. 
 
-A registration with Blinkist is necessary for using Blinkist’s services. 
+### What we use your data for
 
-Registration itself is free (Free Account) and does not obligate to enter into a subscription. 
+We want to offer you a faultless use of our services. Therefore, data is needed for the administration and troubleshooting of our websites. However, as we are constantly improving ourselves and offering you optimized services, data in pseudonymised form (through usage profiles) are also needed for advertising and / or market research. Of course, this can be contradicted at any time. 
 
-You can use your email address and a self-determined password for registration. 
+### How we work with partners
 
-The used password shall be kept confidential. You are solely and to the full-extent responsible for keeping it confidential. You are the only person entitled to use your Blinkist user account. Blinkist shall be notified immediately of any unauthorized use of the user account as well as any suspicion thereof. 
+In some cases, your data is also processed by partner companies. However, this is exclusively regulated by data processing agreements and the processing is instruction-bound, so that we always keep the responsibility for the processing. 
 
-You may register via email address or log-in through a so called social-connect service (e.g. Facebook-connect). 
+### Use of your data for other purposes
 
-You may also register with our apps for iOS, Android or Kindle Fire after downloading it. 
+In addition to the purposes already mentioned, we are also subject to legal requirements. These are:
 
-Registration and/or log-in via social-connect establishes a free contract between Blinkist and you regarding the use of the Blinkist platform (cf. cipher 1.3.). 
+  * any request for information (and the related disclosure) by governmental authorities
+  * any request for information (and the related disclosure) by copyright holders
+  * for the misuse recognition of our provided services
+  * trouble-shooting or -avoidance
 
-All information necessary for registration shall be made complete and accurate and shall be kept up-to-date at all times. 
 
-Registration shall require a minimum age of 18 years. As a minor you are only allowed to register with Blinkist if you are at least 14 years old and your statutory agents have given their consent. We shall have the right to make services of Blinkist subject to appropriate proof of your identity, your legal majority or the consent of your statutory agent. 
 
-Blinkist shall be entitled » Privacy policy to save and process your data provided during the registration process pursuant to the data protection regulations. 
+### Your rights as a user of our services
 
-There is a fee-based subscription available (“Subscription Access”) so that you can use the full scope of Blinkist’s services. The subscription can be entered into for different periods which are presented to you in the order options. 
+You have the right to information, correction, blocking or deletion of your data at any time. You can contact our data protection officer at any time for further information on privacy issues. Our data protection officer Thorsten Schröers can be reached either by post (HC Plus | Geneststraße 5 | D-10829 Berlin) or by e-mail (privacy@blinkist.com). 
 
-Blinkist’s subscription accesses are fee-based and advertisement-free subscriptions which enable you to access a set of our content and features through our mobile and web based applications, depending on the subscription tier you’ve purchased. We offer two subscription tiers with the following service levels:  
-Blinkist Plus gives you unlimited reading access to all of our existing books and new releases and lets you make as many highlights / textmarkers as you want.  
-Blinkist Premium contains all the services of Blinkist Plus, but in addition gives you unlimited access to our Audio summaries (“listening access”) and lets you use our Send-to-Kindle and Evernote-Sync features.  
-The access to our library persists for the subscription period. 
+## Our Privacy Policy in detail
 
-To become the holder of a Blinkist account with subscription access you will have to register with your user data, submit your credit card data and confirm your subscription by clicking the button “subscribe for xx€”. You will receive a subscription confirmation email as soon as you have done this. Your subscription starts on this day. Please read our data protection notification for information regarding gathering, using and processing of your data. 
+### General and Responsible Entity
 
-You can also subscribe via In-App-Purchase via iOS- or Android-Apps. For this purpose, you will have to choose the desired option on the subscription screen of the App, whereupon a pop-up will appear in which you have to enter your Apple- / Google-Play-password. As soon as you have done this, another pop-up will appear in which you have to confirm the subscription purchase again. You may still cancel the process at this stage. 
+We are glad that you are interested in Blinkist. In order to provide you with our service, we need certain information about you (including personally identifiable information - information that identifies you personally). This Privacy Policy explains what information we collect about you for what purpose and what we use it for. It also explains how and for what purpose this happens. 
 
-Blinkist will occasionally offer new users the use of the subscription access for trial purposes for a certain time free-of-charge (so called “trial”). Blinkist determines at its own discretion if you can participate in the trial. Blinkist shall have the right to stop or change a free trial at any time without prior notification or termination period if good cause is present. 
+Blinks Labs GmbH, Sonnenallee 223, D-12059 Berlin (hereafter referred to as "Blinkist" or "we") operates on the internet portals http://www.blinkist.com, http://www.blinkist.de and other websites , as well as via the mobile application a platform for mobile learning (hereinafter "platform"). 
 
-Participation in certain trials might only be possible if you enter your payment data during trial registration. In such event, we will need your consent at the beginning of the trial that your free access will be switched to a fee-based subscription access on the day after your trial expired (cipher 4.). In this event your subscription will subsequently renew itself depending on the term you’ve committed to when accepting the trial access and can be terminated until one day before the subscription is set to renew (cipher 8.3). 
+Responsible body is the natural or legal person who, alone or together with others, decides on the purposes and means of processing personal data (eg names, e-mail addresses, etc.). 
 
-If you do not want the subscription service in an event of cipher 5.2 and the corresponding charges, you will have to terminate the subscription access provided within the trial prior to the trial expiry (e.g. conveniently via your Blinkist Account Settings). 
+### Revocation of consent 
 
-If you are a consumer (meaning an individual making the order for a purpose that is not for commercial or self-employed activity), the following revocation right shall apply for using Blinkist regarding conclusion of fee-based subscriptions as well as for the purchase of codes or download bundles: 
+Many data processing operations are only possible with your express consent. You can revoke an existing consent at any time. An informal message by e-mail to us is sufficient. The legality of the data processing carried out until the revocation remains unaffected by the revocation. 
 
-**INSTRUCTION ON REVOCATION**
+### Right to complain to the competent supervisory authority 
 
-**Revocation Right**
+In the event of data protection violations, you, the person concerned, have the right of appeal to the competent supervisory authority. The competent supervisory authority for data protection issues is the state data protection officer of the federal state in which our company is based. A list of data protection officers and their contact details can be found [here](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html). 
 
-**If you purchased access to a fee-based Blinkist service or offers that are subject to charges (codes, download bundles) via the Blinkist platform, you shall have the right to revoke this contract within fourteen days without having to give reason. The revocation right shall exist for a period of fourteen days from the day of contract conclusion. For exercising your revocation right, you shall notify us**
+### SSL or TLS Encryption 
 
-Blinks Labs GmbH  
-Sonnenallee 223  
-Berlin, 12059  
-Germany  
-Email: [support@blinkist.com](mailto:support@blinkist.com=)
+This site uses SSL or Internet security for security reasons and to protect the transmission of sensitive content, such as orders or requests you send to us. TLS encryption. An encrypted connection is indicated by the browser's address bar switching from "http: //" to "https: //" and the lock icon in your browser bar. 
 
-**via an explicit statement (e.g. letter via postal service, fax or email) regarding your decision to revoke the contract. You can use the attached revocation template for this purpose, which, is however not compulsory.**
+If SSL or TLS encryption is enabled, the data you submit to us can not be read by third parties. 
 
-**Dispatching of the revocation notification before the revocation period expires shall suffice to meet the revocation deadline.**
+### Information, Blocking, Deletion, Data Transferability
 
-If you revoke this contract, we shall be obligated to refund all payments that we received from you, including shipping costs (except for costs that resulted from you opting for another way of shipment than the cheapest standard delivery offered by us) immediately and by no later than fourteen days from the day that we received your contract revocation notice. We will use the same payment method for this refund that you used for the original transaction, unless we have stipulated a deviating method with you. This refund shall under no circumstances be subject to charges for you. 
+You have the right at any time to inquire about the origin, recipient and purpose of your stored personal data free of charge (information). In addition, you have the right to request the correction, blocking or deletion of this data. Our data protection officers are happy to assist you. 
 
-**Template Revocation Form**
+You also have the right to have data, which we process on the basis of your consent or in fulfillment of a contract, automatically handed to you or to a third party in a standard, machine-readable format. If you want to transfer your data directly to another person in charge, this will only be done if we can make it technically possible. 
 
-(If you intend to revoke the contract, please fill-out this form and return to us) 
+## Data collection and use 
 
-To
+### Server log files 
 
-Blinks Labs GmbH  
-Sonnenallee 223  
-Berlin, 12059  
-Germany  
-[support@blinkist.com](mailto:support@blinkist.com=)
+Our provider of the platform automatically collects and stores information in so-called server log files, which your browser automatically transmits to us. These are browser type and browser version, operating system used, referrer URL, host name of the accessing computer, time of the server request and the IP address. The data is for data security and error analysis only. A merge of this data with other data sources will not be done. The basis for data processing is Art. 6 (1) lit. b DSGVO, which allows the processing of data to fulfill a contract or pre-contractual measures. 
 
-I/We (*) hereby cancel the concluded contract by me/us (*) regarding the purchase of the following goods (*)/(performance of the following service (*) 
+Die Daten dienen ausschließlich der Datensicherheit und Fehleranalyse. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.  
+Grundlage für die Datenverarbeitung ist Art.6 Abs.1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet. 
 
-Ordered on (*)/Received on (*)
+### Cookies
 
-Consumer Name(s)
+The internet pages partly use so-called cookies. Cookies do not harm your access device and do not contain viruses. Cookies serve to make our offer more user-friendly, effective and secure. Cookies are small text files that are stored on your access device and stored by your browser. 
 
-Address of Consumer(s)
+Most of the cookies we use are so-called "session cookies". They will be deleted automatically at the end of your visit. Other cookies remain stored on your device until you delete them. These cookies allow us to recognize your browser on your next visit. 
 
-Signature of Consumer(s) (only if paper notification)
+You can set your browser so that you are informed about the setting of cookies and allow cookies only in individual cases, exclude the acceptance of cookies for certain cases or in general, and enable the automatic deletion of cookies when closing the browser. Disabling cookies may limit the functionality of our website. 
 
-Date
+Cookies which are required to carry out the electronic communication process or to provide certain functions which you wish to use (eg shopping basket function) are processed on the basis of Art. 6 (1) lit. f DSGVO saved. We as website operators have a legitimate interest in the storage of cookies for the technically error-free and optimized provision of our services. If other cookies (eg cookies for the analysis of your surfing behavior) are stored, they will be treated separately in this privacy policy. 
 
-(*) (*) Delete as applicable.
+### Contact form and Zendesk
 
-\- End of revocation instructions - 
+We use the Zendesk ticket system to handle customer inquiries, a customer service platform of Zendesk Inc., 989 Market Street #300, San Francisco, CA 94102 (USA). Zendesk is a certified participant of the so-called "Privacy Shield Framework" and thus meets the minimum requirements for legally compliant order data processing. 
 
-The conclusion of the subscription access (cipher 4.) is subject to charges. 
+For more information about Zendesk's data processing, please refer to the [Zendesk Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/). If you have questions, you can also contact the [Privacy Officer of Zendesk](mailto:privacy@zendesk.com) directly. 
 
-For payment purposes, the fees payable to Blinkist will be charged to the credit card account you provided during ordering your subscription (cipher 4.3.). 
+If you send us inquiries via contact form or by using our public, non-personal e-mail addresses, your details from the inquiry form, including the contact details given there, will be stored with us for processing the request and in case of follow-up questions. We will not share this information without your consent. 
 
-In the event of access via a code, payment shall occur via the payment method stipulated on the invoice, e.g. PayPal or money transfer. 
+The processing of the data entered into the contact form is therefore exclusively based on your consent (Art. 6 (1) (a) GDPR). You can revoke this consent at any time. An informal message by e-mail to us or our data protection officer is sufficient. The legality of the data processing operations carried out until the revocation remains unaffected by the revocation. 
 
-In the event of download bundle purchase, payment shall also occur by charging the credit card account (cipher 4.3.) provided during subscription purchase. 
+The data entered by you in the contact form will remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage is omitted (eg after completion of your request). Mandatory statutory provisions - especially retention periods - remain unaffected. 
 
-In the event of a subscription via our iOS- or Android-Apps, payment shall occur via Apple’s or Google’s In-App-Purchase process. 
+### Registration on this website 
 
-Your payment obligation vis-a-vis Blinkist within a premium access shall automatically renew itself at the end of the respective subscription term, if you do not terminate your fee-based subscription at least 24 hours prior to the end of the term (cipher 8.3.). 
+You can register on our platform to use our services. We only use the data entered for the purpose of using the respective offer for which you have registered. The mandatory information requested during registration, such as name and e-mail address, must be provided, otherwise the registration can not be completed. 
 
-The free user contract shall start at the time of your registration pursuant to cipher 3. for an indefinite period. 
+For important changes such as the scope of the offer or in case of technical changes, we use the e-mail address given at registration to inform you in this way. 
 
-You can terminate the free user contract at any time. For this purpose, you can delete your account via our Web-App under “Settings”. 
+The processing of the data entered during registration takes place on the basis of your consent (Art.6 (1) (a) GDPR). You can revoke your consent at any time. An informal message by e-mail to us is sufficient. The legality of the already completed data processing remains unaffected by the revocation. 
 
-The fee-based subscription access (cf. cipher 4.) shall run at least for your initially selected period and shall automatically renew itself if you do not terminate at least 24 hours prior expiry of this period. The subscription period shall extend respective of its currently used subscription model. 
+The data collected during registration will be stored by us as long as you are registered for our services and will subsequently be deleted. Legal retention periods remain unaffected. 
 
-You can terminate subscriptions that you entered into via our Web-App in the settings of the Web-App. For this purpose, you will have to login, open the settings via the menu and click on “Terminate Subscription”. 
+### Registration and login with Facebook Connect
 
-You can terminate a fee-based subscription concluded via our iOS or Android Apps in the iTunes / Google Play settings. 
+Instead of registering directly on our website, you can sign up with Facebook Connect. Provider of this service is the Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland. 
 
-Termination of the subscription access shall become effective the day after the last day of your subscription period and you will be downgraded to a free user contract (Free Service). After renewing your subscription you will however be able to access your old status and your reading lists. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case. 
+If you decide to register with Facebook Connect and click on the "Sign in with Facebook" button, you will automatically be redirected to the Facebook platform. There you can log in with your usage data. This links your Facebook profile to our website or services. This link gives us access to your data stored on Facebook. These are above all: 
 
-The right to suspend and terminate for good cause shall remain unaffected by the aforementioned provisions. 
+Facebook name | Facebook profile and cover image | Email address stored at Facebook and Facebook ID 
 
-If you purchased a Blinkist code with which you can use a premium access for the time stipulated on your email, card or respective paper receipt, then you are entitled to use the Blinkist platform for the respective period. 
+Diese Daten werden zur Einrichtung, Bereitstellung und Personalisierung deines Accounts genutzt. 
 
-For redeeming the code, you will first have to register with Blinkist (cf. cipher 3.) first and subsequently activate the code through the specifically herefore created website(currently: <http://www.blinkist.com/voucher>). 
+This information is used to set up, provision and personalize your account. For more information, see the [Facebook Terms of Use](https://www.facebook.com/legal/terms/) and the [Facebook Privacy Policy](https://www.facebook.com/about/privacy/). 
 
-Codes cannot be redeemed for cash nor refunded, exchanged or used for purchase of other codes. 
+### Register and login with Google Connect
 
-Please be aware that when using a code or another offer, specific provisions relating to the code or offer will apply in addition to these terms and conditions (particularly period of validity). 
+Instead of a direct registration / login on our website, you can also register via Google. Provider of this service is the Google LLC ("Google"), Amphitheater Parkway, Mountain View, CA 94043 (USA). 
 
-After expiry of the respective period, the subscription access ends automatically and you will be downgraded to the Free Service. If you want to continue the subscription access use, you can enter into a new subscription (cf. 4.) any time. If you intend to delete your entire account, you can do so via the settings of our Web-App (cf. cipher 8.2.). All data will be deleted irrevocably in this case. 
+If you decide to register / login with Google and click the "Sign in with Google" button, you will automatically be redirected to Google's platform. There you can log in with your usage data. This will link your Google profile to our website or services. This link gives us access to your data stored on Google. These are above all: 
 
-Blinkist shall not be liable for user damage claims. Blinkist shall only be liable for damages arising from body, life or health violations or from violations of material contractual duties (cardinal duties) as well as for damages for other damages arising from intentional and gross negligent breach of duty of Blinkist, its statutory agents or vicarious agents. Material contractual duties are duties that are required to make proper performance of the contract possible and on whose fulfillment you can rely. 
+First name | Surname | E-mail address | Username | Google Profile URL | Featured Image 
 
-In the event of violation of material contractual duties, Blinkist shall only be liable for the contractual and typically foreseeable damages if these were caused by slight negligence, unless, damages arising from injury to life, body or health are present. 
+This information is used to set up, provision and personalize your accounts. 
 
-The restrictions stipulated under ciphers 10.1. and 10.2. shall also apply for duty violations of vicarious agents and statutory agents of Blinkist if claims are made directly against these. 
+For more information, see the [Google Terms of Service](https://policies.google.com/terms) and the [Google Privacy Policy](https://policies.google.com/privacy). 
 
-Blinkist grants a warrant of merchantability in accordance to the law. 
+## Social Media
 
-If one provision of these terms and conditions shall be void, the remainder of the contract shall remain unaffected thereof. The void provision shall, if applicable, be replaced by the statutory provisions. 
+### Facebook plugins
 
-The laws of the Federal Republic of Germany shall apply; excluding the EGBGB conflict of law rules and the UN-Convention on the International Sale of Goods (CISG). Statutory provisions (especially consumer protection provisions) legally required by a customer’s country of residence remain unaffected. 
+On our pages plugins of the social network Facebook, provider Facebook Inc., 1 Hacker Way, Menlo Park, California 94025 (USA), are integrated. The Facebook plug-ins can be recognized by the Facebook logo or the "Like-Button" ("Like") on our site. An overview of the Facebook plugins can be found [here](https://developers.facebook.com/docs/plugins/). 
 
-The exclusive place of jurisdiction for all disputes directly or indirectly resulting from the contractual relationship shall be the competent court at Blinkist’s registered seat of business if you are an entrepreneur, a legal entity of public law or a special public fund, or have no general place of jurisdiction within the Federal Republic of Germany or another EU member state or relocated your residence/business seat after application of these Terms abroad and outside the European Union. 
+When you visit our platform, a direct connection between your browser and the Facebook server is established via the plugin. Facebook receives the information that you have visited our site with your IP address. If you click on the Facebook "Like-Button" while you are logged in to your Facebook account, you can link the contents of our pages to your Facebook profile. This allows Facebook to associate your visit to our pages with your user account. We point out that we as the provider of the pages are not aware of the content of the data transmitted and their use by Facebook. More information can be found in the [privacy policy of Facebook](https://www.facebook.com/about/privacy/). 
 
-**Effective on 2014-7-10**
+If you do not want Facebook to associate visiting our pages with your Facebook user account, please log out of your Facebook user account. 
 
-Blinks Labs GmbH, Sonnenallee 223, 12059 Berlin, Germany (thereafter “Blinkist” or “we”) operates a platform for mobile reading on the internet portals [http://www.blinkist.com](http://www.blinkist.com/), [http://www.blinkist.de](http://www.blinkist.de/) and other websites as well as via mobile applications - so-called “Apps” - (thereafter platform).  
-We are happy that you are interested in Blinkist. For providing you with our service, we will need certain information about you. This data protection notification elaborates which data we collect from you for what purpose.  
-If you should not consent to this data protection notification, please do not use Blinkist. 
+### Twitter plugin
 
-“Personal data” shall be data that can identify you personally (e.g. name, e-mail address or invoice information) and other information that can be connected to this type of information and that allow a conclusion regarding your identity.  
-“Pseudonymised data” shall be data in which the information appropriate for identifying a certain person are replaced by a pseudonym so that the data cannot be matched to a certain person without knowledge of the correlation which is saved outside the data set.  
-“Anonymized data” shall be data where the respective person is unknown and cannot be determined. 
+On our pages are functions of the service Twitter included. These features are available through Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 (USA). By using Twitter and the "Re-Tweet" function, the websites you visit are linked to your Twitter account and shared with other users. This data is also transmitted to Twitter. We point out that we as the provider of the pages are not aware of the content of the transmitted data and their use by Twitter. For more information, see the [privacy policy of Twitter](https://twitter.com/privacy). 
 
-If you register with Blinkist (for a subscription, a free trial or use of a code) we will collect personal data that you voluntarily submit with registration. In particular, these are your e-mail address and your selected password.  
-We also collect upon registration, data regarding country and language that you have saved as standard setting in your browser or smartphone.  
-We use this data without your explicit consent only for performing our offered services. We will only forward your personal data without your explicit consent to third parties if this is necessary for performing our services or for complying with statutory obligations (see cipher 3 below).  
+You can change your privacy settings on Twitter in the [Twitter account settings](https://twitter.com/account/settings). 
 
+### Google+ plugin
 
-We save all your registration data so that we can use them for performing Blinkist’s services. The data will be deleted after the end of the contract as soon as they are not needed for invoicing purposes any longer. If a deletion conflicts with statutory, contractual or by-law imposed storage periods, the data shall be suspended instead. 
+Our pages use features of Google. Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043 (USA). 
 
-If you opt to connect with Blinkist via your Facebook Account Log-In, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”), you allow us to collect authentication information like your user name, encoded access information and other information that is available on or through your Facebook-Account, e.g. your name, your profile picture, your country, your hometown, your email-address, your birth date, your sex, the names and profile pictures of your friends and networks. Using Facebook Connect shall be subject to Facebook’s data protection policies and terms of use. With this feature, certain data from the Blinkist website can be transferred to your Facebook profile with your consent.
+Collect and share information: Use the Google button to post information worldwide. The Google button will provide you and other users with personalized content from Google and our partners. Google stores both the information that you provided for content +1 and information about the page that you viewed when you clicked on+ 1. Your 1's can appear as clues along with your profile name and photo on Google's services, such as in search results or in your Google profile, or elsewhere on websites and ads on the web. 
 
-The specific information that is transferred to us will be individually listed during your first log-in with Blinkist via Facebook in detail. With registration on our website via Facebook Connect, you consent to profile data transfer from your Facebook profile to Blinkist as well as to the transfer of data to Facebook for using of Blinkist. Your data transferred through Facebook Connect will be saved and processed by us for registration purposes on the Blinkist platform. 
+Google records information about your +1 activity to improve Google services for you and others. To use the Google button, you'll need a globally visible, public Google profile that has at least the name chosen for the profile. This name will be used in all Google services. In some cases, this name may also replace another name you used when sharing content through your Google Account. The identity of your Google profile can be viewed by users who know your email address or have other identifying information about you. 
 
-If you opt to connect with Blinkist via your Xing Account Log-In which is operated by XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany (“Xing”), you allow us to collect authentication information like your user name, encoded access information and other information that is available on or through your Xing-Account, e.g. your name, your profile picture, your career, your country, your hometown, your email-address, your birth date, your sex, the names and profile pictures of your contacts and networks.
+In addition to the purposes outlined above, the information you provide will be used in accordance with applicable Google privacy policy. Google may publish summarized statistics about users +1 activities or share them with users and partners, such as publishers, advertisers, or affiliate websites. 
 
-Using Connect for Xing shall be subject to Xing’s data protection policies and terms of use. With this feature, certain data from the Blinkist website can be transferred to your Xing profile with your consent.
+### LinkedIn plugin
 
-The specific information that is transferred to us will be individually listed during your first log-in with Blinkist via Xing. With registration on our website via Connect for Xing, you consent to profile data transfer from your Xing profile to Blinkist as well as to transfer of data to XING for using of Blinkist. Your data transferred through Connect for Xing will be saved and processed by us for registration purposes on the Blinkist platform. 
+Our site uses functions from the LinkedIn network. The service is provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA. 
 
-If you are using Blinkist services, we will automatically collect personal usage data that is necessary for performing the services and/or invoicing. Personal data shall only be collected if you provide us with these when opening a customer account or registration for our newsletter. In accordance with statutory provisions and for the purpose of data economy, generally only data necessary for the respective service shall be collected.
+Each time one of our pages containing LinkedIn features is accessed, your browser establishes a direct connection to the LinkedIn servers. LinkedIn is informed that you have visited our web pages from your IP address. If you use the LinkedIn “Recommend” button and are logged into your LinkedIn account, it is possible for LinkedIn to associate your visit to our website to your user account. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by LinkedIn. 
 
-In particular, these are your e-mail address, your password, your country and your language. In the event that you connect via Facebook Connect or Connect for Xing (cipher 2.3), we will also collect your first and family name. To the extent that our forms ask for further information, such information shall always be optional and will be marked as such.
+More information can be found in the [LinkedIn privacy policy ](https://www.linkedin.com/legal/privacy-policy). 
 
-We will use your provided data without your separate consent only for fulfilling and performing of our services and for complying with statutory requirements. Forwarding of your personal data to third parties shall only occur if this is necessary for performing our services or for complying with statutory requirements.
+## Analysis tools and advertising 
 
-Your accruing personal data regarding the access history will be deleted immediately after its termination or, if this is legally forbidden, suspended. 
+### Google Analytics
 
-For performing Blinkist services and to make your visit to our website pleasant and to ensure use of certain functions, we will also use so-called cookies for data collection and saving. Cookies are small data packages that are stored on your device. They will not cause any harm there. Two types of cookies will be used. Temporary cookies will be automatically deleted with closing of your browser (so-called session-cookies). Permanent cookies will remain on your device and enable us or our partner company to recognize your browser at your next page visit (so-called persistent-cookies).  
-Cookies enable us to comprehend your user behavior. They are also supposed to provide you with optimized surfing on our website. You can configure your internet browser so that you will be notified of cookie storage und decide about their acceptance in an individual case or reject cookies generally or for certain cases.
+This website uses functions of the web analytics service Google Analytics. Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043 (USA). 
 
-Certain features might not be able available to you if you prevent cookie storage in your browser settings.
+Google Analytics uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the United States and stored there. Google Analytics cookies are stored on the basis of Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-You can find further information regarding cookies and your questions regarding the dangers of cookies under the following link on the website of the German Federal Office for Security in Information Technology:[https://www.bsi-fuer-buerger.de/BSIFB/DE/SicherheitImNetz/WegInsInternet/DerBrowser/GefahrenRisiken/Cookies/cookies.html.](https://www.bsi-fuer-buerger.de/BSIFB/DE/SicherheitImNetz/WegInsInternet/DerBrowser/GefahrenRisiken/Cookies/cookies.html)
+Here’re the details in regard to how we’re using Google Analytics: 
 
-Blinkist uses Google Analytics, a web analysis service of Google Inc., 1600 Amphitheatre Parkway, Mountain View CA 94043, USA Tel: +1 650 253 0000 Fax: +1 650 253 0001 E-Mail: [support@blinkist.com](mailto:support@blinkist.com=) (“Google”). Google Analytics also uses so-called “Cookies”, text files that are stored on your computer enabling analysis of your use of the internet site. The information created by the cookie regarding your website use will usually be transferred to a Google server in the USA and saved there. Blinkist will anonymize the IP address (anonymizeIP() so called IP-masking), and your IP address will be shortened by Google within the member states of the European Union or other contracting states to the Agreement on the European Economic Area. The full IP address shall only be submitted to a Google server in the USA in exceptional cases only and will be shortened there. Google will use this information on behalf of Blinkist to evaluate your use of the website, to compose reports regarding website activity and to perform further service relating to further services connected to website and internet use vis-a-vis Blinkist. The IP address submitted by your browser within the Google Analytics process shall not be connected with other Google data.
+  * **IP anonymization:** We have activated the function IP anonymization on this website. As a result, your IP address will be truncated by Google within member states of the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide other services related to website activity and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data.
+  * **Browser plugin:** You can prevent the storage of cookies by setting your browser software accordingly; however, we point out that in this case you may not be able to use all the features of this website in full. In addition, you may prevent the collection by Google of the data generated by the cookie and related to your use of the website (including your IP address) as well as the processing of this data by Google by downloading and installing the browser plug-in available under [this link](https://tools.google.com/dlpage/gaoptout).
+  * **Opposition to data collection:** You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set that prevents the collection of your data on future visits to this website: disable Google Analytics. For more information about how to handle user data on Google Analytics, see the [Google Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=de).
+  * **Commissioned data processing:** We have entered into an order data processing contract with Google and fully implement the strict requirements of the German data protection authorities when using Google Analytics.
+  * **Demographic data:** This website uses the "demographics" feature of Google Analytics. As a result, reports can be produced that contain statements on the age, gender and interests of the site visitors. This data comes from interest-based advertising from Google and third-party visitor data. This data can not be assigned to a specific person. You can disable this feature at any time through the Ads settings in your Google Account, or generally prohibit Google Analytics from collecting your data as outlined in the "Opposition to Data Collection" section.
 
-You can prevent cookie storage as stipulated above under cipher 2.5. by a respective browser-software setting, which however has the effect that some features of Blinkist websites are not fully useable. You can also prevent Google’s collection of the data created by the cookie and related to your website use (including your IP address) and processing of this data by Google through downloading and installing the following browser-plugin <http://tools.google.com/dlpage/gaoptout?hl=de>
 
-The user profiles created by Google Analytics serve the purpose of visitor behavior analysis and are evaluated for improving and customizing of our offers.
 
-The pseudonymised user profiles will not be connected with your personal data without your separate explicit consent.
+### Google AdSense
 
-You can find further general information about Google Analytics [here](https://www.google.de/intl/de/analytics/), and data protection law information regarding Google Analytics [here](https://support.google.com/analytics/answer/6004245?hl=de)
+This website uses Google AdSense, a service for integrating advertisements of Google Inc. ("Google"). Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043 (USA).  
+Google AdSense uses so-called "cookies", text files that are stored on your computer and that allow an analysis of the use of the website. Google AdSense also uses so-called web beacons (invisible graphics). These web beacons can be used to evaluate information such as visitor traffic on these pages.  
+The information generated by cookies and web beacons on the use of this website (including your IP address) and the delivery of advertising formats are transmitted to and stored by Google on servers in the USA. This information may be shared by Google with Google affiliates. However, Google will not merge your IP address with other data you have stored.  
+The storage of AdSense cookies is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising.  
+You can prevent the installation of cookies by setting your browser accordingly; however, we point out that in this case you may not be able to fully use all features of this website. By using this website, you agree to the processing of data about you by Google in the manner described above and for the purpose stated above. 
 
-Blinkist also uses the analysis technology of adjust GmbH, Saarbrücker Str. 36, 10405 Berlin, Germany, Phone: +49 30 91460083 (“Adjust”).
+### Google Analytics Remarketing
 
-Adjust uses your IP and Mac-addresses for the analysis. This shall however only occur after anonymizing of your data so that a conclusion regarding your identity is not possible. We will use the information obtained hereby only to analyze function and use of the App, e.g. to find out how you became aware of the App.
+Our websites use the features of Google Analytics Remarketing in conjunction with the cross-device features of Google AdWords and Google DoubleClick. Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043 (USA).  
+This feature allows you to link the advertising audiences created with Google Analytics Remarketing to the cross-device capabilities of Google AdWords and Google DoubleClick. In this way, interest-based, personalized advertising messages that have been adapted to you based on your previous usage and surfing behavior on one device (i.e. mobile phone) can also be displayed on another of your devices (i.e. tablet or PC).  
+Once you have given your consent, Google will link your web and app browsing history to your Google Account for this purpose. That way, the same personalized advertising messages can appear on any device you sign in to with your Google Account.  
+To support this feature, Google Analytics collects Google-authenticated IDs of users who are temporarily linked to our Google Analytics data to define and create audiences for cross-device ad promotion. You can permanently opt out of cross-device remarketing / targeting by disabling personalized ads in your Google Account; follow [this link](https://www.google.com/settings/ads/onweb).  
+The aggregation of the collected data in your Google Account is based solely on your consent, which you can give or revoke on Google (Art.6 Abs.1 a. DSGVO). For data collection operations that are not merged into your Google Account (eg, because you do not have a Google Account or have objected to the merge), the collection of the data is based on Art. 6 (1) lit. f DSGVO. The legitimate interest arises from the fact that the website operator has an interest in the anonymous analysis of the website visitors for advertising purposes.  
+For more information and privacy policy, see the [Google Privacy Policy](https://policies.google.com/technologies/ads). 
 
-You consent to the processing of anonymized collected data in the aforementioned way and within the mentioned purpose by using our App. You may object to data collection and saving with effect for the future via email to [support@blinkist.com](mailto:support@blinkist.com=)  
-You can find further general information regarding Adjust [here](https://www.adjust.com/).
+### Google AdWords and Google Conversion Tracking
 
-Blinkist also uses the web analysis service of Mixpanel Inc., 799 Market St, Floor 7, San Francisco, CA 94103, USA, e-mail: [support@blinkist.com](mailto:support@blinkist.com=) (“Mixpanel”). Mixpanel also uses so-called “Cookies”, text files that are stored on your computer enabling analysis of your use of the internet site. The information created by the cookie regarding your website use will usually be transferred to a Mixpanel server in the USA and saved there. Blinkist will anonymize the IP address ((anonymize) so called IP-masking), and your IP address will be shortened by Mixpanel within the member states of the European Union or other contracting states to the Agreement on the European Economic Area. The full IP address shall only be submitted to a Mixpanel server in the USA in exceptional cases and will be shortened there. Mixpanel will use this information on behalf of Blinkist to evaluate your use of the website and to compose reports regarding website activities. The IP address submitted by your browser within Mixpanel process shall not be connected with other Mixpanel data.
+Tracking This website uses Google AdWords. AdWords is an online advertising program of Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043 (USA) ("Google").  
+As part of Google AdWords, we use the so-called conversion tracking. When you click on an ad served by Google, a conversion tracking cookie is set. Cookies are small text files that the Internet browser stores on the user's computer. These cookies lose their validity after 30 days and are not used for the personal identification of the users. If the user visits certain pages of this website and the cookie has not expired yet, Google and we can recognize that the user clicked on the ad and was redirected to this page.  
+Each Google AdWords customer receives a different cookie. The cookies can not be tracked through the websites of advertisers. The information gathered using the conversion cookie is used to generate conversion statistics for AdWords advertisers who have opted for conversion tracking. Customers are told the total number of users who clicked on their ad and were redirected to a conversion tracking tag page. However, they do not receive information that personally identifies users. If you do not wish to participate in tracking, you can opt-out of this use by disabling the Google Conversion Tracking cookie from your Internet browser under User Preferences. You will not be included in the conversion tracking statistics.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. More information about Google AdWords and Google Conversion Tracking can be found in [Google's privacy policy](https://policies.google.com/privacy).  
+You can set your browser so that you are informed about the setting of cookies and cookies only on a case by case basis, the acceptance of cookies for certain cases or generally exclude and can activate the automatic deletion of cookies when closing the browser. Disabling cookies may limit the functionality of this website. 
 
-You can prevent cookie storage as stipulated above under cipher 2.5. by a respective browser-software setting, which however has the effect that some features of Blinkist internet site are not fully useable. You can also prevent Mixpanel’s collection of the data created by the cookie and related to your website use (including your IP address) and processing of this data by Mixpanel through activating the so called “Opt-out-Cookie” on the web page <http://mixpanel.com/optout/>. Please be aware that this cookie and by this the recording ban will be deleted as soon you delete your cookies in your browser settings.
+### Facebook Pixel
 
-The user profiles created by Mixpanel serve the purpose of visitor behavior analysis and are evaluated for improving and customizing of our offers.
+Our site uses the visitor action pixel from Facebook, Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304 ("Facebook") for conversion measurement.   
+This way, the behavior of the site visitors can be tracked after they have been redirected to the provider's website by clicking on a Facebook ad. As a result, the effectiveness of Facebook advertisements can be evaluated for statistical and market research purposes and future advertising measures optimized.  
+The collected data are anonymous to us as the operator of this website, we can not draw conclusions about the identity of the users. However, the data are stored and processed by Facebook so that a connection to the respective user profile is possible and Facebook can use the data for its own advertising purposes, in accordance with the Facebook data usage directive. As a result, Facebook can enable ads to be displayed on Facebook and outside of Facebook. This use of data can not be influenced by us as the site operator. In the privacy policy of Facebook you will find more information on the protection of your privacy.  
+You will find more information on the protection of your privacy in the [privacy policy of Facebook](https://www.facebook.com/about/privacy/).  
+You can also disable the remarketing "Custom Audiences" feature in the Ads Settings section at [this link](https://www.facebook.com/ads/preferences/). You have to be logged in to Facebook.  
+If you do not have a Facebook account, you can opt out of use-based advertising from Facebook on the website of the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.com/de/praferenzmanagement/).  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-The pseudonymised user profiles will not be connected with your personal data without your separate explicit consent.
+### Twitter Ads
 
-Further general information about Mixpanel is available [here](https://mixpanel.com/).
+We use services of the short message service Twitter. Twitter Ads is operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107 ("Twitter"). Twitter allows us to use target group-based advertising, re-targeting and conversion measurements for online advertising via the so-called visitor interaction pixel. Here, offers for specific target groups are played out based on a selection of general criteria, such as demographic characteristics, regions or interests. Twitter also allows us to target ads based on your recent page views. For example, you may see ads and notices about our offers and content if you are interested in specific services, information, or offers at the online trade show. Here only general and technical information on accessed pages are evaluated. If you generally do not want to be tracked by Twitter, you can prevent the storage of cookies at any time by your browser settings, which could be limited function. Twitter is certified under the US-EU Privacy Shield, and is committed to complying with European privacy standards. Twitter also adheres to the do-not-track setting of their browser. More information can be found on the pages of Twitter.  
+As a Twitter user, you can also prevent the data processing described by disabling the "Customize Ads Based on Affiliate Information" checkbox next to the "Sponsored Content" heading in the Security and Privacy settings. Further information can also be found on the pages of Twitter.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-If you are using our trials or if you sign-up for our subscriptions or purchase something via the service, credit card information and other finance related information that are necessary for payment processing will be collected and saved by a payment service provider. We also collect certain limited information, e.g. your postal code, cell phone number and details of your transaction history. Other than that, the payment service providers usually provide us only with very limited information regarding you, e.g. the specific token that enables you to perform further purchases using the data saved by the provider as well as your type of card, expiration date und the last four digits of the number. 
+### Snapchat Ads
 
-Blinkist offers you the opportunity to recommend offers, services and/or products via Facebook. Blinkist uses Facebook’s social plugins for this purpose. These services are offered by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (Facebook). The list and the look of the Facebook social plugins can be viewed [here](https://developers.facebook.com/docs/plugins/) and you can find other general information about the social plugins [here](https://www.facebook.com/help/443483272359009).
+We use services of the short message service Snapchat. Snapchat Ads is operated by Snap Inc., 63 Market Street, Venice, CA 90291 ("Snapchat"). This pixel generates a hash from your usage data that is sent to Snapchat, such as browser information. If you have a Snapchat profile and you're logged in or logged in to Snapchat from one of your devices, you can then use the data provided by the pixels to showcase individualized advertising for our products and offerings on your devices across devices. For more information about the purpose and scope of data collection and how Snapchat processes and uses the data, as well as your privacy settings, see the [Snapchat Privacy Policy](https://www.snap.com/privacy/privacy-policy/).  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-When loading the internet site in your browser, the code of the social plugin will be directly requested by a Facebook server through your browser and integrated into the appearing Blinkist internet site in your browser. Blinkist has thus no influence on the scope of retrieved data by Facebook in this relation.
+### Outbrain Ads
 
-According to Facebook's own information, Facebook saves date and time of your visit, the precise Internet address in which the social plugin is located and other technical data, e.g. IP address, browser type, operating system for a period of 90 days in order to optimize Facebook’s services. After expiry of the 90 days, the data will be anonymized so that they cannot be related to you any longer. You can find more information from Facebook [here](https://www.facebook.com/about/privacy/your-info).
+Our website uses the technology of Outbrain Inc., 39 West 13th Street, 3rd floor, New York, NY 10011 ("Outbrain"), with which our users may be interested in further, possibly also interesting ones Contents within our website and on websites to be pointed out by third parties. Outbrain's integrated read recommendations are determined on a purely pseudonymous basis based on previous content read by the user. More information about Outbrain's privacy can be found [here](https://www.outbrain.com/legal/privacy). You can always object to tracking to show interest-based recommendations; Click on the "Decline" field (opt-out) under Outbrain's privacy policy.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-If you are logged-in on Facebook during a visit on a website of Blinkist, Facebook can associate the pages you visited to your Facebook account. Through the interaction with the social plugins (clicking etc.) the information evoked by the interaction will be transferred to and saved by Facebook. You can prevent this by logging-off Facebook prior to visiting our website.
+### Taboola Ads
 
-It is also possible to generally block Facebook plugins. There are extensions for respective browsers for this purpose (e.g. the Facebook Blocker) which you have to install and activate on your respective browser. Facebook data protection notifications as well as further setting options for protecting your privacy are available [here](http://de-de.facebook.com/privacy/explanation.php).
+We use technologies from Taboola Inc., 28 West 23rd St. 5th Fl, New York, NY 10010 ("Taboola"). Taboola uses cookies that determine what content you use and which of our pages you visit. The cookie enables us to create pseudonymous usage profiles by collecting device-related data as well as log data and recommending content that suits your personal interests. So we can design our offer individually for you. These usage profiles do not allow you to draw conclusions about yourself. For more information about Taboola and the ability to disable the Taboola cookie, see [Taboola's privacy policy](https://www.taboola.com/privacy-policy) (opt-out information can be found under "Site Visitor Choices").  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-Please also inform yourself regarding Facebook under all provided links as Facebook’s data protection policies are frequently updated and amended due to the extended functionality of social plugins.
+### Yahoo Gemini
 
-Blinkist offers you the opportunity to post offers, services and/or products and/or events etc. via Twitter. For this purpose, we use the service of Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107 and an accordingly configured plugin.
+We use Yahoo Gemini on our website, a marketing service provider operated by Oath (EMEA) Limited 5-7 Point Square, North Wall Quay, Dublin 1, Ireland. Yahoo Gemini supports the delivery of personalized and behavioral advertising over the Internet. The collection and storage of user information takes place anonymously and a conclusion to a natural person is not possible by using Yahoo Gemini. Yahoo Gemini uses cookies for this purpose, which can be deactivated at any time. The cookie can be deactivated under [this link](https://aim.yahoo.com/aim/us/en/optout/).  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-The Tweet-Button enables you to share our contents via Twitter. The button shows the amount of Tweets regarding a shared content.
+### Hubspot CM
 
-When loading the website in your browser, the code of the Tweet-Button will be directly requested by a Twitter Inc. server and integrated into the website appearing in your browser. We have thus no influence on the scope of data retrieved by Twitter Inc.
+We use HubSpot, a service of HubSpot Inc. (US based company based in Europe), 2nd Floor 30 North Wall Quay, Dublin 1, Ireland, on our analytical web pages. HubSpot is certified under the EU-US Privacy Shield. Here are used so-called "web beacons" and also "cookies" set, which are stored on your computer and allow an analysis of your use of the website by us. The collected information (eg IP address, geographical location, type of browser, duration of visit and pages accessed) is evaluated by HubSpot on behalf of us to generate reports about the visit and the visited pages of Blinkist. If you subscribe to e-mail news and / or use our services, with HubSpot we can also record your visits to Blinkist via your additional information (eg name / e-mail address) and, if necessary, target-oriented topics of your choice inform. If you generally do not want to be tracked by HubSpot, you can prevent the storage of cookies at any time by your browser settings. For more information about how HubSpot works, see [Hubspot Inc.'s Privacy Policy](https://legal.hubspot.com/privacy-policy).  
+Conversion cookies are stored on the basis of Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-According to Twitter’s own information, Twitter Inc. saves the sent Tweet message and its metadata. This includes the following according to our estimation: Date and time of the Tweet, precise and/or shortened internet address on which the Tweet-Button is located and further technical data, e.g. IP address, browser type or your operation system. Twitter Inc. does not share the information of how long information is saved for. You can find further information of Twitter Inc. [here](https://twitter.com/privacy).
+### Adjust
 
-Please inform yourself there as information of Twitter Inc. are frequently updated and amended due to extended or modified functionalities. 
+We used the analysis technology of adjust GmbH, Saarbrücker Str. 36, 10405 Berlin; Tel: 49 (0) 30 91460083 ("Adjust"). Adjust collects and uses the IP address on our behalf and, if not disabled by the user in the system settings of its device, temporary device identification numbers. The information obtained in this way is only used to analyze the application, function and use of the app, for example, to determine which marketing measure users were aware of our app, ie concretely, which link or which banner users clicked before they downloaded our app.  
+By using our app, you agree to the processing of anonymously collected data in the manner described above in the context of the stated purpose. You can also object to data collection and storage at any time with future effect by sending an e-mail to privacy@blinkist.com. 
 
-Blinkist offers you the opportunity to mark suppliers, services and/or products with the Google “+1” button and recommend these via your Google Plus network. This service is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States.
+### Hotjar
 
-When loading the Blinkist website in your browser, the code of the “+1” button will be directly requested by a Google server through your browser and integrated into Blinkist’s appearing website in your browser. We have thus no influence on the scope of data retrieved by Google.
+We use Hotjar, a web analytics service of Hotjar Ltd., St. Julian's Business Center, Elia Zammit Street 3, St Julian's STJ 1000 (Malta) ("Hotjar"). With Hotjar, interactions of randomly selected, individual visitors to our website are recorded anonymously. Logs of mouse movements and clicks, for example, are created from the recordings with the aim of making Blinkist even more intuitive and user-friendly. Hotjar also uses "cookies", text files that are stored on your computer. In order to exclude a personal relationship, IP addresses are stored only anonymously and information is processed only anonymously. It also provides information, including about your operating system | Browser | geographical origin (country), evaluated for statistical purposes. This information is not personal and will not be disclosed to third parties by us or by Hotjar.  
+If you do not want your data to be tracked by Hotjar, just follow [this guide](https://www.hotjar.com/opt-out).  
+For more information about Hotjar, see the Hotjar [Privacy Policy](https://www.hotjar.com/privacy) and [Terms of Use](https://www.hotjar.com/terms). 
 
-According to Google’s own information, Google records the information pertaining to your provided +1 content as well as information regarding the site that you were looking at when clicking +1, thus the internet address and your IP address other browser related information. You can access the +1 button data protection policies [here](https://www.google.com/policies/privacy/partners/?hl=de).
+### Pinterest
 
-If you are logged-onto your Google account, the recorded information will be allocated to your account/Plus-Account. Your +1 may be displayed as references together with your profile name and your photo in Google services, e.g. search results, or your Google profile or at other places on websites or internet ads.
+We use services of the short message service Pinterest. Pinterest is operated by Pinterest Inc., 651 Brannan Street, San Francisco, CA 94103 (USA) ("Pinterest"). Pinterest allows us to use target group-based advertising, re-targeting and conversion measurements for online advertising via the so-called visitor interaction pixel. Here, offers for specific target groups are played out based on a selection of general criteria, such as demographic characteristics, regions or interests. Pinterest also allows us to target ads based on your recent page views. For example, you may see ads and notices about our offers and content if you are interested in specific services, information, or offers at the online trade show. Here only general and technical information on accessed pages are evaluated. If you generally do not want to be tracked by Pinterest, you can prevent the storage of cookies at any time by your browser settings, which could be limited function.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-According to Google’s own information, Google does not record your internet visits nor your permanent browsing history and neither evaluates your visit on a site with a +1 button in any other way. Google does however save some data short-term, usually for an approximate period of two weeks, regarding your visit for system maintenance and troubleshooting purposes. This data is however not structured according to individual profiles, usernames or URLs. You can find further information from Google [here](http://www.google.com/support/profiles/bin/static.py?page=guide.cs&guide=1347964&topic=1364508&answer=1319578). You have full control over your +1 contents at all times. You can manage all your +1 via the +1 tab in your Google profile. If you do not want that Google collects and connects your data via our website to your Google Plus Account or Google account, you have to log-off from Google prior visiting our website.
+### Quora
 
-You can obtain further information regarding purpose and scope of data collection, saving and processing by Google as well as settings here:
+We use services of the short message service Quora. Quora is operated by Quora, Inc., 650 Castro Street, Suite 450, Mountain View, CA 94041 ("Quora "). Quora allows us to use target group-based advertising, re-targeting and conversion measurements for online advertising via the so-called visitor interaction pixel. Here, offers for specific target groups are played out based on a selection of general criteria, such as demographic characteristics, regions or interests. Quora also allows us to target ads based on your recent page views. For example, you may see ads and notices about our offers and content if you are interested in specific services, information, or offers at the online trade show. Here only general and technical information on accessed pages are evaluated. If you generally do not want to be tracked by Quora, you can prevent the storage of cookies at any time by your browser settings, which could be limited function.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
-  * [+1-Buttons](http://www.google.com/intl/de/+/learnmore/+1/)
-  * [Google Profile](http://www.google.it/support/accounts/bin/topic.py?hl=de&topic=14962)
-  * [Google Data Protection Policy](http://www.google.com/intl/de/privacy/privacy-policy.html)
+### KeyWee
 
+We use services of the short message service KeyWee. KeyWee is operated by Keywee Inc., 37 West 20th St, Suite 1010, New York, NY 10011 (USA) ("KeyWee "). KeyWee allows us to use target group-based advertising, re-targeting and conversion measurements for online advertising via the so-called visitor interaction pixel. Here, offers for specific target groups are played out based on a selection of general criteria, such as demographic characteristics, regions or interests. KeyWee also allows us to target ads based on your recent page views. For example, you may see ads and notices about our offers and content if you are interested in specific services, information, or offers at the online trade show. Here only general and technical information on accessed pages are evaluated. If you generally do not want to be tracked by KeyWee, you can prevent the storage of cookies at any time by your browser settings, which could be limited function.  
+The storage of "conversion cookies" is based on Art. 6 (1) lit. f DSGVO. The website operator has a legitimate interest in analyzing user behavior in order to optimize both its website and its advertising. 
 
+## Newsletter
 
-Please inform yourself there as data protection policies of Google products are frequently updated and amended due to extended functionality. 
+### Newsletter data
 
-With newsletter registration, your e-mail address will be used for Blinkist information and advertisement until you cancel the newsletter. Cancellation is possible at any time. You have given your consent to the following either separate or explicitly during the ordering process, and we have recorded your consent. Pursuant to the German Telemedia Act we are obligated to make the content of consent available at any time. 
+If you would like to receive the newsletter offered on the website, we need an e-mail address from you, as well as information that allows us to verify that you are the owner of the e-mail address provided and that you agree to receive the newsletter are. Further data are not collected or only on a voluntary basis. 
 
-□ I want to subscribe to the newsletter (cancellation possible at any time). 
+We use this data exclusively for the delivery of the requested information and do not pass it on to third parties. The processing of the data entered into the newsletter application form is based exclusively on your consent (Art.6 (1) (a) GDPR). Of course, you can revoke your consent to the storage of the data, the e-mail address and its use for sending the newsletter at any time, for example via the "unsubscribe" link in the newsletter. The legality of the already completed data processing operations remains unaffected by the revocation. 
 
-You can revoke this consent effective for the future at any time by clicking “Unsubscribe Newsletter” at the end of the newsletter or sending your revocation to Blinkist to the following contact address: 
+The data deposited with us for the purpose of obtaining the newsletter will be saved by us from the newsletter until your cancellation and deleted after the cancellation of the newsletter or you will ensure that you will not receive any further newsletters ("blacklisting"). Data stored for other purposes with us (eg e-mail addresses for logging on to our services) remain unaffected. 
 
-[support@blinkist.com](mailto:support@blinkist.com=)  
-Blinks Labs GmbH  
-Sonnenallee 223  
-12059 Berlin  
-Germany 
+### MailChimp / Mandrill
 
-Revoking your consent for receiving the newsletter will not cause any costs for you; except for transmission costs pursuant to the respective basic rates of your phone/internet provider. 
+This website uses the services of MailChimp for sending newsletters (or mandrill for sending information relevant to the user). Provider is the Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308 (USA). 
 
-If we received your e-mail address in connection with selling goods or services, we are also entitled to send you newsletters for direct advertising of our own similar goods or services without your (explicit) consent, unless you have rejected such use.  
-You can object to this use at any time with effect for the future without occurring any costs other than transmission costs pursuant to basic tariffs. 
+MailChimp is a service with which, among other things, the dispatch of newsletters can be organized and analyzed. If you have entered data for the purpose of newsletter subscription (eg e-mail address), these will be stored on the servers of MailChimp in the USA. 
 
-Data protection of our users is a special concern for us. Your password protects your user account and should be thus a strong password that is not used elsewhere. You should restrict access to your computer and browser and you should log-off after using Blinkist services.  
-The Blinkist portal and our systems are protected through technical and organizational measures against loss, destruction, access, alteration or distribution of your data through unauthorized parties. A complete protection against all hazards is however not possible in-spite of frequent controls. 
+MailChimp is certified under the EU-US Privacy Shield. The Privacy Shield is an agreement between the European Union (EU) and the United States designed to ensure compliance with European privacy standards in the United States. 
 
-Blinkist shall be entitled to display advertisement or other contents that contain hyperlinks to third-party websites. Only the provider of the website referred to shall be liable for illegal, erroneous or incomplete contents and particularly for damages that result from use or non-use of these links. We have no influence particularly on the data protection measures and contents of the sites linked to. 
+With the help of MailChimp we can analyze our newsletter campaigns. When you open an e-mail sent with MailChimp, a file included in the e-mail (called web beacon) connects to MailChimp's servers in the United States. This way you can determine if a newsletter message has been opened and which links have been clicked on. In addition, technical information is collected (eg time of retrieval, IP address, browser type and operating system). This information can be assigned to the respective newsletter recipient. They are used exclusively for the statistical analysis of newsletter campaigns. The results of these analyzes can be used to better tailor future newsletters to the interests of the recipient. 
 
-You can access and change your profile data via your account-settings. 
+If you do not want to be analyzed by MailChimp, you have to unsubscribe from the newsletter. For this purpose, we provide a link in every newsletter message. Furthermore, you can unsubscribe from the newsletter directly on the website. 
 
-If you have any questions or comments about this data protection notification or your personal data, please contact us via [support@blinkist.com](mailto:support@blinkist.com=).You can certainly always request free of charge information regarding data we saved about you, e.g. via e-mail [support@blinkist.com](mailto:support@blinkist.com=). We will answer within an appropriate period after proof of identity. You may possibly be entitled to request that your data will be corrected, suspended or deleted. 
+The data processing takes place on the basis of your consent (Art. 6 (1) a DSGVO). You can revoke these at any time by unsubscribing from the newsletter. The legality of the already completed data processing operations remains unaffected by the revocation. 
 
-We will occasionally change this data protection notification in order to incorporate new functions, features, products or services and to ensure the protection of your personal data. These changes and the current data protection notification are available on this site for you anytime. If we are making material changes, particularly regarding collection, use or processing of your personal data, we will notify you of this via e-mail or inform you no later than during your next Blinkist login. 
+The data deposited with us for the purpose of obtaining the newsletter will be saved by us from the newsletter until you receive it and will be deleted from our servers as well as from the servers of MailChimp after cancellation of the newsletter. 
+
+For details, see the [privacy policy of MailChimp](https://mailchimp.com/legal/terms/). 
+
+### Completion of a Data Processing Agreement 
+
+We have entered into a so-called "Data Processing Agreement" with MailChimp, in which we commit MailChimp to protect the data of our customers and not to disclose them to third parties. This contract can be viewed at [this link](https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement/). 
+
+### Payment Information
+
+When you make payments for our services, no credit or debit card information is stored on our servers. This information is stored by our third party PCI-compliant payment processing companies. We work with the following providers: 
+
+  * Recurly Inc., 400 Alabama Street Suite 202. San Francisco, CA 94110 (USA)
+  * Stripe Inc., 185 Berry Street, Suite 550, San Francisco, CA 94107 (USA)
+
+
+
+All credit and debit card transactions occur between the computer from which the transaction originates and our payment processor. When you use one of our trial phases or subscriptions or you purchase something through the service, credit card information and other financial information we need to process the payment is collected and stored with a payment service provider. We also collect certain limited information, such as your zip code, mobile phone number and details of your transaction history. In addition, these payment service providers usually provide us with very limited information about you, such as the unique "token", which enables you to make further purchases using the data stored by the service providers, as well as your card type, expiration date and last four digits of the number. 
+
+### Completion of a data processing agreement 
+
+We have concluded a so-called "Data Processing Agreement" with Recurly, in which we oblige the payment service provider to protect the data of our customers and not to pass them on to third parties. 
+
+##  Candidate data privacy 
+
+**Last updated: 01. June 2018**
+
+Blinkist’s application management system is a service of Blinks Labs GmbH. 
+
+The protection and legally correct collection, processing, and use of your personal data are important for us. In order for you to feel safe when completing and sending us your online application, we comply with all legal data protection requirements when handling your application. By sending us your application data, you consent to the Blinks Labs GmbH storing your data. 
+
+Please read the following information about our data protection regulations: 
+
+### 1\. RESPONSIBLE ENTITY
+
+The entity responsible for collecting, processing, and using your personal data in accordance with the General Data Protection Regulation (GDPR) is the Blinks Labs GmbH, Sonnenallee 223, 12059 Berlin, Germany. 
+
+###  2\. COLLECTING, PROCESSING, AND USING YOUR PERSONAL DATA 
+
+####  2.1 PERSONAL DATA 
+
+Personal data means any information about material or personal circumstances of a specific and identifiable natural person. This includes, but is not limited to your name, your telephone number, your address, as well as all application data that you share with us in the course of your application. 
+
+####  2.2 COLLECTING, PROCESSING, AND USING PERSONAL DATA 
+
+For the purposes of managing your online application, we will collect, process, and use your personal data that you have disclosed to us via the online application form. With the exception of the mandatory fields marked with asterisks, you decide yourself which data you are willing to enter and share with us. The mandatory fields include your first name and last name, email address, resume, cover letter. 
+
+Your data will be transmitted to the People & Organization department in charge and used exclusively for the purposes of the application process. This also includes using the data to contact you. Your data will not be disclosed to any third party – other than in the context of data processing commissions, especially those mentioned in section 2.3 – without your express consent. 
+
+Your data will be transmitted to our People & Organization department. We are also happy to pass on your application to other persons in charge of departments with vacancies or other functional areas that fit your applicant profile. Please notify us if you do not consent to this. 
+
+####  2.3 STORING OF YOUR APPLICATION DATA BY GOOGLE HIRE 
+
+For our application management we use the services of Google Hire, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. For this purpose, your data is being stored and processed on servers of Google Hire, located in the USA. The storage is happening within the framework of a data processing agreement. Google Hire was selected with due care and assured us to fully respect applicable data protection rules. 
+
+###  3\. DELETING PERSONAL DATA 
+
+Your data will usually be deleted automatically after the end of the application process. You can always request us to delete your data by sending a mail to: privacy@blinkist.com. Please note that doing so means that you are withdrawing from any still on-going application processes. 
+
+###  4\. TALENT POOL 
+
+Upon invitation by our recruiting team, you have the option to agree to the storage of your personal data for our talent pool after the completion of the application process. Should you wish to use that option, your application data will be stored by us for a period of 12 months. After the end of the 12-month period, your application data will be deleted. You can always request us to delete the stored data by sending a mail to privacy@blinkist.com. 
+
+###  5\. CONTACT FORM AND ZENDESK 
+
+We use the Zendesk ticket system to handle applicant inquiries, a customer service platform of Zendesk Inc., 989 Market Street #300, San Francisco, CA 94102 (USA). Zendesk is a certified participant of the so-called "Privacy Shield Framework" and thus meets the minimum requirements for legally compliant order data processing. For more information about Zendesk's data processing, please refer to the Zendesk Privacy Policy. If you have questions, you can also contact the Privacy Officer of Zendesk directly. 
+
+If you send us inquiries via contact form or by using our public, non-personal email addresses, your details from the inquiry form, including the contact details given there, will be stored with us for processing the request and in case of follow-up questions. We will not share this information without your consent. 
+
+The processing of the data entered into the contact form is therefore exclusively based on your consent (Art. 6 (1) (a) GDPR). You can revoke this consent at any time. An informal message by e-mail to us or our data protection officer is sufficient. The legality of the data processing operations carried out until the revocation remains unaffected by the revocation. 
+
+The data entered by you in the contact form will remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage is omitted (eg after completion of your request). Mandatory statutory provisions - especially retention periods - remain unaffected. 
+
+###  6\. RIGHT TO INFORMATION / CONTACT 
+
+In accordance with the General Data Protection Regulation (GDPR), you have a right to be informed about all your personal details stored by us and, where applicable, a right to request their amendment, blocking, or deletion. 
+
+We take the protection of your personal data very seriously. Please send your requests by email or post with proof of identity to our data protection officer Thorsten Schröers:   
+HC Plus   
+Geneststraße 5   
+D-10829   
+Berlin   
+privacy@blinkist.com 
