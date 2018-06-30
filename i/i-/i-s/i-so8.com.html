@@ -1,0 +1,673 @@
+<!--The following is the downloaded HTML source of the i-so8.com privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630144400id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent"><head id="ctl00_Head1">
+
+    <!-- Google Tag Manager -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5THBLS"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5THBLS');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
+	Privacy Policy - NameJet Domain Name Services
+</title>
+
+    <script type="text/javascript">
+        function RemoveThisItem(domainName) {
+            var chk = $(".chk");
+            chk.each(function () {
+                if ($(this).attr("title").toString().toLowerCase() == domainName.toLowerCase()) {
+                    $(this).children().attr('checked', true);
+                    var hDiv = $(this).parent();
+
+                    $(this).parent().parent().parent().parent().parent().remove();
+                    $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val($("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val() + "," + domainName);
+
+                    var pd = false;
+                    var pa = false;
+                    var pr = false;
+                    var wl = false;
+                    var d = $(".hDiv");
+                    d.each(function () {
+                        if ($(this).attr("title") == "Pending Deletion")
+                            pd = true;
+                        if ($(this).attr("title") == "Public Auctions")
+                            pa = true;
+
+                        if ($(this).attr("title") == "Pre Release")
+                            pr = true;
+
+                        if ($(this).attr("title") == "Wish List")
+                            wl = true;
+                    });
+
+                    if (!wl)
+                        $("#wlAuctions").html("<div class='sNoResults'>No wish list auctions found!</div>");
+                    if (!pd)
+                        $("#pdAuctions").html("<div class='sNoResults'>No pending delete domains found!</div>");
+                    if (!pa)
+                        $("#pAuctions").html("<div class='sNoResults'>No public auctions found!</div>");
+                    if (!pr)
+                        $("#prAuctions").html("<div class='sNoResults'>No pre release auctions found!</div>");
+                }
+            });
+        }
+
+        function RemoveHiddenDomains() {
+            var rDomains = $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val();
+
+            if (rDomains != "" && rDomains != null) {
+                var arr = rDomains.split(",");
+                for (var g = 0; g < arr.length; g++) {
+
+
+                    RemoveThisItem(arr[g]);
+                }
+            }
+        }
+    </script>    
+
+	    
+	<meta name="keywords" content="NameJet Privacy Policy, NameJet Policy">
+
+	<meta name="description" content="NameJet Privacy Policy - NameJet provides domain auction services and backorder domain registration.">
+<link rel="shortcut icon" href="/_images/global/favicon.ico"><link rel="stylesheet" media="all" href="/_css/global.css?20150803">
+                
+    <script src="/_js/vendor/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/_js/global.js"></script>
+	<script src="/_js/vendor/bootstrap.min.js"></script>
+	<script type="text/javascript">
+	    $(function () {	        
+	        if ($('#njtopimg').css('display') == 'none') {
+	            $('#njtopimg').parent().html("<img src='../../ba/__top-default.png' />");
+	        };
+
+			$('.carousel').carousel();
+		})
+	</script>        
+
+    <link rel="stylesheet" media="all" href="/_css/responsive.css"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"></head>
+    <body id="ctl00_MasterBody">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5THBLS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!--[if lt IE 7 ]><div class="ie6"><![endif]-->
+<!--[if IE 7 ]><div class="ie7"><![endif]-->
+<!--[if IE 8 ]><div class="ie8"><![endif]-->
+<!--[if IE 9 ]><div class="ie9"><![endif]-->
+
+        <!-- SJL0VWNAMEJET05 -->
+        
+        
+	    <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyNzk3NTcyOA9kFgJmD2QWAgIDD2QWAgIBD2QWBgICDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cubmFtZWpldC5jb21kZAIID2QWAmYPZBYGAgEPZBYCAgEPDxYCHgRUZXh0ZWRkAgMPZBYCAgEPDxYCHwFlZGQCCQ9kFgICAQ8PFgIfAWVkZAISDw8WAh4HVmlzaWJsZWhkFgQCAQ88KwARAgEQFgAWABYADBQrAABkAgMPPCsAEQIBEBYAFgAWAAwUKwAAZBgCBRZjdGwwMCRHcmlkVmlld0RlYnVnUHJjD2dkBRtjdGwwMCRHcmlkVmlld0RlYnVnQXBpTGlua3MPZ2T9WqPaHL7+vJ1hW9te58ozJlZ02A==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=hYUe6bQljX4qTr6WqidE3678iWty2-wEfJG1o-hTt5zhd3nM1i2arRE7l8unBdcv7SQgX_s2BaiaGvXRSUc3SL64iXA1&amp;t=636475834140000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=QHpwminn2u_NZ1qiy_f378GroH6NWx8_xmv8TbQdgzDXuOJ8JTYjV2mqw9-rcr_xU0FZMcC1pHWml3a9SDQyhjqW6C6MOU0FykLF1hGD9c1_b66N41r-CiPqoIBgZa08EJumDXJdvUqTN8m2xTsu_4TCFJE1&amp;t=ffffffffad4b7194" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=D_zRKFqv5XyFWxQvMt2f2MDxYh2K1f9hJwRFjMdiaQ84IebS3d6DJ2G28OFbvXvWGXul0FStj4iSLTXWd_ecmDYhYQ1rFmpO0k1n0zm5SA2P3uSS8C5n001mxRb_Uj84BDSyukpAe_TTaacJ3uCcuDFeWZf4hKIaRu12qWUR59a4qony0&amp;t=ffffffffad4b7194" type="text/javascript"></script>
+<script src="/Script/ajax_error_override.js" type="text/javascript"></script>
+<script src="/Script/SafariAjaxFix.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7558CF4A">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW0ADveDhvI/4bpv3JhcRuIcGFkvIpl/077I1BA1REzyyXtNVOi2r2f18ZSxPhMFRBjCLvIvNIw+1OlnOJtWXXrZu5x1d6Uv0to/9msEL+c43/uWblGKTr6wRlqXqnx80yTjkZu">
+</div>	        
+
+
+	        
+	            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$cphScriptManager$ScriptManager', 'aspnetForm', ['tctl00$udpBulkSubmit',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            
+
+	        <!--[if lt IE 8]>
+		        <div class="sIEfix">
+                    <div class="sub">
+			            <div>
+                            <strong>You are using an outdated browser.</strong>
+                            <span>For a better experience using this site, please upgrade to a modern web browser.</span>
+                        </div>
+                        <ul>
+                            <li class="icon chrome"><a href='http://www.google.com/chrome' target='_blank'>Chrome</a></li>
+                            <li class="icon firefox"><a href='http://www.firefox.com' target='_blank'>Firefox</a></li>
+                            <li class="icon safari"><a href='http://www.apple.com/safari/download/' target='_blank'>Safari</a></li>
+                            <li class="icon ie-latest"><a href='http://windows.microsoft.com/en-us/internet-explorer/products/ie/home' target='_blank'>IE9+</a></li>
+                        </ul>
+			        </div>
+		        </div>
+            <![endif]-->
+
+		    <div class="sWrp">
+            <div class="sWrp2">
+		       
+                <div class="sSliver">
+                    <em class="sNote">The Premier Domain Name Aftermarket Service</em>
+	            </div>
+          
+			    <a name="top"></a>
+                <!-- <div id="ctl00_pnlS2N" class="sS2N">
+	<a href="#nav">Skip to Nav</a>
+</div> -->
+                
+                <div id="divMobileApp">   
+                    <!-- <a href="https://itunes.apple.com/us/app/namejet/id875473995" target="_blank">
+                       <img src="/Images/iphone-banner-v3.png" alt="iPhone NameJet Mobile App" />                    
+                    </a> -->
+                    <a href="http://www.namejet.com/Pages/Auctions/PickList.aspx?type=FeaturedList" target="_blank">
+                       <img id="njtopimg" src="../../ba/nj-full-closing-435.png" alt="Header">                        
+                    </a>
+                </div>
+
+			    <div class="sHdr">
+				    <div class="logo">
+				        <a id="ctl00_lnkHome" href="http://www.namejet.com">
+                            <span>NameJet</span>
+                        </a>
+                    </div>
+			    </div>
+
+			    <a name="nav"></a>
+
+                <div id="ctl00_mainNav" class="sNv1">
+	
+                    <div>
+					    <ul>                                                                                                            				    
+						    <li class="sNv1-1"><a href="/Pages/Auctions/BrowseDomains.aspx">Search</a></li>                            
+                            <li class="sNv1-3"><a href="/Pages/Auctions/featuredauctions.aspx">Featured</a></li>
+                            <li class="sNv1-2"><a href="/Pages/Downloads.aspx">Downloads</a></li>
+                            <li class="sNv1-4"><a href="/Pages/support.aspx">Help Center</a></li>
+						    <li class="sNv1-5"><a href="/Pages/MyAccount/Dashboard.aspx"><span class="sHDm">My</span> Account</a></li>
+					    </ul>
+                    </div>
+                
+</div>
+
+                <div id="ctl00_pnlAccountStatus" class="aSt sAtten1">
+	<span id="ctl00_AccountStatusLabel"></span>
+</div>			
+
+                <div id="ctl00_pnlSearchBox" class="sNv2s" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButtonSearch')">
+	
+			        <div class="search">
+                        <div>
+    			            <input name="ctl00$TextBoxSearch" type="text" value="Search Domains" id="ctl00_TextBoxSearch" class="text" placeholder="Search Domains" onfocus="javascript:if (this.defaultValue==this.value) this.value = '';this.style.color = 'black';" defaultbutton="ImageButtonSearch">
+				            <input type="submit" name="ctl00$ImageButtonSearch" value="Search" id="ctl00_ImageButtonSearch" class="button sRCLx">
+                        </div>
+                    </div>			        
+                
+</div>
+
+                <div id="ctl00_pnlLogin" class="sNv2">
+	
+                    <ul>
+                        
+                        <li id="createAcct"><a id="ctl00_plCreate" href="/Pages/Login.aspx">Create an Account</a></li>
+					    <li id="login"><a id="ctl00_plLogin" href="/Pages/Login.aspx">Log In</a></li>
+					</ul>
+                    <!-- // REVIEW THIS <span id="help"><a id="ctl00_lnkHelp" href="javascript:__doPostBack(&#39;ctl00$lnkHelp&#39;,&#39;&#39;)">Help</a></span> -->			
+				
+</div>
+				
+
+                <div class="sCnt">
+			        <div id="ctl00_udpBulkSubmit">
+	
+
+			                
+        			    
+			                
+
+			                
+        			    
+			                
+        			    			    
+			                
+        			    
+			                <div id="AjaxError" class="sError" style="display:none">
+	                            <div id="Notice6">
+                                    <a onclick="javascript:document.getElementById('Notice6').style.visibility='hidden';" class="sFR">close</a>
+	                                <span id="ctl00_ajaxLabel"></span>
+                                </div>
+	                        </div>	
+
+			            
+</div>
+
+				    
+
+    <h1 class="sMTx sMBsm">NameJet Privacy Policy <span style="font-size:60% !important">Version 1.2 (May 23, 2018)</span></h1>
+	
+
+
+	<p>
+		NameJet knows that you care about how your personal information is used and shared 
+        and we appreciate your trust that we will do so carefully and sensibly. 
+        This Privacy Policy describes our policies on the collection, use and disclosure of your personal information 
+        in connection with your use of our websites, platform, services and/or mobile applications 
+        (collectively and individually referred to herein as our "Services"). 
+        By visiting this or another NameJet website displaying this Privacy Policy or a link 
+        thereto (the "Website", or collectively the "Websites"), or by creating a NameJet account or 
+        otherwise using or accepting our Services, you agree to accept the practices described in this Privacy Policy.         
+	</p>
+
+    <p>
+        We encourage you to read the entire Privacy Policy, and for any questions regarding this Privacy Policy 
+        please contact NameJet using our contact information found <a href="/Pages/Contact.aspx">here</a> or by submitting a ticket from your NameJet account.
+    </p>
+
+	<h3>What Information Is Collected</h3>
+	<dl>
+		<dt>Contact Information.</dt>
+		<dd>
+			We collect and retain personal contact information that you submit to us voluntarily in signing up for our Services, 
+            mailing lists, or visiting our Websites. This includes your name, mailing address, web address, telephone number, 
+            fax number and e-mail address. Additionally, we collect contact information provided to us during any correspondence 
+            relating to customer support, as well as in connection with the use of our Services.
+		</dd>
+		<dt>Financial Information and Account-Related Information.</dt>
+		<dd>
+			We collect and retain financial information you provide when you create a NameJet account or otherwise use our Services. 
+            For example, when you create a NameJet account, we require you to provide a credit card number and billing address 
+            before we activate that account. We also collect information related to your use of our Services, such as account number, 
+            purchases, backorders, bids and customer service requests and notes or details explaining what you asked for and how we responded.
+		</dd>
+		<dt>Cookies and Other Information Related to Use of the Website.</dt>
+		<dd>
+			We collect information about the device with which users access the Website and information related to their use of 
+            the Website itself, such as the domain name, Internet Service Provider, browser type and version, pages viewed, 
+            and information accessed. We may also gather general information such as the date, time, operating system, platform, 
+            navigation history, and IP address of users to our Website. We use this information for our internal security audit logs, 
+            trend analysis, and system administration, and to gather broad demographic information about our users. 
+            We may also associate this general information with your personal information. By visiting our Website, 
+            you affirmatively consent to our collection and use of this information in line with the foregoing. <br><br>
+            Additionally, our Website places cookies, which are small data files on the user's hard drive when they visit our Website. 
+            A cookie cannot read data off your hard drive. You may refuse cookies by turning them off in your browser; 
+            however, if you reject the placement of cookies, you may be limited in using our Website and Services. 
+            Some cookies are used to improve your user experience by making logging into our Website easier, 
+            such as by remembering usernames and passwords. Cookies can also enable us to monitor users' movements 
+            through our Website so that we may target user interests to enhance their experience at our Website. 
+            We may also collect click stream data such as the full Uniform Resource Locators (URL) and 
+            assign unique identifiers to our users for the purpose of tracking user behaviors. 
+            Information obtained with these technologies may be associated with the personal information you have provided us. 
+            Besides using the information as described above, NameJet may utilize cookies to control operations 
+            such as the flow of the ordering processes related to your online transactions.  
+            Additional information regarding our use of cookies can be found in our Cookies Policy located <a href="/Pages/CookiePolicy.aspx">here</a>.<br><br>
+            We, or our third-party advertising partners, may also place cookies to provide advertisements about goods 
+            or services that may be of interest to you. Since our advertisers and other third parties whose products 
+            or services are promoted on our Website may also use cookies or other technology, we advise you 
+            to check the advertisers' privacy policies for information about their privacy practices.
+		</dd>
+	</dl>
+
+	<h3>How Information Is Used</h3>
+	<p>
+        NameJet believes in limiting the use of your personal information and only looks to collect or use it (a) where 
+        we have been given permission, (b) as necessary to provide the Services, or (c) as we may be required or permitted 
+        for legal compliance or other lawful purposes. These uses include:
+	</p>
+	<dl>
+		<dt>To Perform our Contract with You or Otherwise Provide our Services to You.</dt>
+		<dd>
+			We use this information to perform our contract with you and fulfil your Services requests, such as:
+            <ul style="list-style-type:disc;padding-left:25px">
+                <li>Sending you requested service information;</li>
+                <li>Processing your backorders and bids;</li>
+                <li>Fulfilling your orders;</li>
+                <li>Billing for Services;</li>
+                <li>Responding to customer service requests, questions and concerns; and</li>
+                <li>Administering your account.</li>
+            </ul>
+            <p>
+                Note that, generally, you may not opt-out of these communications, which are transactional and not promotional in nature. 
+                If you do not wish to receive them, you have the option to not utilize our Website and/or Services.
+            </p>
+            <div>
+                We also engage other companies, individuals, and affiliates to perform certain functions 
+                and services for you on our behalf. These third parties:
+            </div>
+            <ul style="list-style-type:disc;padding-left:25px">
+                <li>Process credit card payments;</li>
+                <li>Provide marketing assistance, including but not limited to email delivery services and email list management;</li>
+                <li>Analyze data; and</li>
+                <li>Provision domains names you purchase or otherwise win on NameJet, which may involve creation of an account 
+                    by a partner registrar or otherwise delivering a domain name to your existing account with that registrar, 
+                    at which point you shall become a customer of that registrar if you are not one already.</li>
+            </ul>
+            <p>
+                These parties have access to user information needed to perform their functions for the benefit of the user. 
+                These parties may, or may not, retain, share, store or use personally identifiable information that 
+                you provide to NameJet for any secondary purposes.
+            </p>
+		</dd>
+
+		<dt>To Contact You</dt>
+		<dd>
+            <p>
+			    If you have given your consent to send you email, phone or SMS marketing, or if you have provided us with your postal address, 
+                we will use the personal data you give to us to contact you from time to time. If you create a NameJet account, 
+                you can select which marketing emails you receive by updating your Email Preferences as follows: 
+            </p>
+            <div>
+                If you want to change your Email Preferences, you may do so by following these steps:
+                <ol style="padding-left:25px">
+                    <li>1. Login to "My Account";</li>
+                    <li>2. Select the "Preferences" tab; and</li>
+                    <li>3. Choose your email settings under "Email Preferences"</li>                
+                </ol>
+            </div>
+            <p>
+                If you do not want to receive electronic communications, you may withdraw your consent at any time, 
+                by changing your Email Preferences, clicking the unsubscribe link in an email communication, 
+                or emailing us using the address provided below. Note that, generally, you may not opt-out of communications 
+                that are transactional and not promotional in nature, or otherwise are for a legitimate business interest. 
+                If you do not wish to receive these types of notices, you have the option to not utilize our Website and/or Services.
+            </p>
+            <p>
+                For services in the United States, by creating an account on NameJet and providing your telephone number, 
+                you agree that this action constitutes a purchase, inquiry and/or application for purposes of telemarketing laws. 
+                Regardless of the fact that your telephone and/or cell number may be listed with the Federal Do-Not-Call Registry 
+                or your local State Do-Not-Call list, you are providing your express written consent to receive future information 
+                (including telemarketing) about products and services from us and/or our affiliates, and you hereby agree 
+                and consent to our contacting you using the information you have provided and will provide to us. 
+                This means we may contact you by e-mail, phone and/or cell number (including use of automated dialing equipment 
+                and/or pre-recorded calls), text (SMS) message, social networks or any other means of communication 
+                that your wireless or other telecommunications device may be capable of receiving (i.e. video, etc.). 
+                We may also send you information or offers from time to time to the postal address or email address we have on file 
+                (as further outlined in this Privacy Policy).
+            </p>
+		</dd>
+
+        <dt>To Protect our Website, Business and Customers.</dt>
+		<dd>
+            <div>
+                We monitor use of the Websites and we use the information we collect, including personal data, to pursue our legitimate 
+                interest in protecting you, others, NameJet, its business and the Websites by: 
+                <ul style="list-style-type:disc;padding-left:25px">
+                    <li>Identifying fraudulent activities and transactions;</li>
+                    <li>Preventing abuse of the Websites and Services and investigating and/or seeking prosecution for any potential threats 
+                        to or misuse of the Websites and Services;</li>
+                    <li>Investigating violations of and ensuring compliance with our Terms of Use and this Privacy Policy; and </li>   
+                    <li>Protecting the rights and property of NameJet, its partners, and customers.</li>             
+                </ul>
+            </div>
+            <p>
+                We further release account and other personal information when we believe release is required to comply with federal 
+                or state law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or 
+                safety of NameJet, our users, or others. This includes potentially exchanging information with other companies, 
+                organizations and members of law enforcement to protect against fraud or other criminal or improper activity.
+            </p>
+		</dd>
+
+        <dt>To Improve Our Services.</dt>
+		<dd>
+            In order to pursue our legitimate interest in improving our Services and Websites, 
+            we also may use personal information to conduct research and analysis.  
+            We do this to (a) better understand how people interact with our Websites and use our Services, 
+            (b) make improvement to the Services and Websites, (c) identify domain name inventory of interest to customers, 
+            (d) identify what features would be useful to our customers, (e) provide communications about Services which 
+            we think will be of interest to our customers, and (f) further determine the effectiveness of promotional campaigns and advertising. 
+		</dd>
+
+        <dt>To Provide Required Information to ICANN.</dt>
+		<dd>
+            When you purchase or otherwise obtain a domain via NameJet, your domain purchase will be fulfilled by one of our partner registrars. 
+            These registrars are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), 
+            the organization that assumes responsibility for domain name allocation, to collect and use your personal information 
+            during the domain name registration process. This information includes your full name, mailing address, phone number, 
+            email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, 
+            mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation 
+            and expiration dates of your domain name registration and the name server information associated with your domain name, 
+            to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Policy 
+            we will refer to this information as your "WHOIS Information."  Each of our partner registrars may handle this responsibility 
+            differently, as some may choose to mask your personally identifiable information as they feel is necessary, 
+            including but not limited to, masking data published to Port 43 or the WHOIS database. 
+            Please be sure to review the Registrar Agreements and Privacy Policies for all our partner registrars, 
+            which you have agreed to via our Terms of Use, in order to be aware of how each partner registrar will handle 
+            and use your information. Also, please note that we do not control how members of the public may use the WHOIS Information.
+		</dd>
+    </dl>
+
+	<h3>Information Security</h3>
+	<p>
+		The information we receive from or about you is stored on systems designed to prevent the loss, disclosure, or destruction 
+        of that information. We follow generally accepted standards to store and protect the personal data we collect, both during transmission 
+        and once received and stored, including utilization of encryption where appropriate. 
+        Specifically, we often protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, 
+        which encrypts information you input and the information we may send to our agents. NameJet has gone to great lengths to ensure 
+        your information is securely obtained. For example, we encrypt your credit card number before it is stored in our database. 
+        However, no method of transmission over the Internet or method of electronic storage is completely secure and 
+        we cannot guarantee its absolute security. You can further help to ensure your security by taking a few simple precautions. 
+        For instance, it is important to protect against unauthorized access to your computer and your NameJet account username and password, 
+        and to be sure to sign off when you are finished using a shared computer.
+	</p>
+	
+	<h3>Retention Policy</h3>
+	<p>
+		We retain personal information for as long as necessary to provide the Services you have requested and 
+        thereafter for a variety of legitimate legal or business purposes. These might include retention periods 
+        that are (a) mandated by law, contract or similar obligations applicable to our business operations; 
+        (b) needed for preserving, resolving, defending or enforcing our legal and/or contractual rights; or 
+        (c) necessary to maintain adequate and accurate business and financial records.
+	</p>
+
+	<h3>Information Access</h3>
+	<p>
+		You have certain rights to your personal information, including but not limited to the following: 
+        </p><ul style="list-style-type:disc;padding-left:25px">
+            <li>To access a copy of your personal data;</li>
+            <li>To correct, erase or restrict our processing of your personal data;</li>
+            <li>To transfer the information you have provided under contract or consent to another organization; and</li>
+            <li>To stop processing your information, by withdrawing your consent or objecting to our legitimate interests.</li>
+        </ul>
+	<p></p>
+    <p>
+        Your rights in relation to your personal information are limited in some situations. 
+        For example, if we have a legal requirement or a compelling legitimate ground we may continue to process your information. 
+        We will provide you with clarification regarding whether there are limits or exemptions that apply to any data request that you make.
+        To access, view, update or delete your available personal information, or to otherwise update your account preferences, 
+        please log into your account for such access and/or submit a ticket via the account. Please note, 
+        however, that no information will be provided without verification. Also, if you make a request to delete or change your personal 
+        information and that data is necessary for the products or services you have purchased, the request will be honored only to the 
+        extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual 
+        record-keeping obligations.  
+    </p>
+    <p>
+        You have the right to make a complaint if you feel your personal information has been mishandled. 
+        We encourage you to come to us in the first instance but, to the extent that this right applies to you, 
+        you are entitled to complain directly to the relevant supervisory authority. This can be the supervisory authority 
+        where you reside or work, or where you believe a breach has taken place.
+    </p>
+    <p>
+        If you are unable for any reason to access your NameJet account please contact us 
+        via our contact information found <a href="/Pages/Contact.aspx">here</a>.
+    </p>
+
+	<h3>Links</h3>
+    <p>
+        The Websites provided by NameJet contain links to other websites. Please be aware that we are not responsible 
+        for the privacy practices of such other websites. We encourage our users to be aware when they leave our Website 
+        and to read the privacy statements of each and every website that collects personally identifiable information. 
+        This Privacy Policy applies solely to information collected by this Website.
+    </p>
+
+	<h3>Age Restrictions &amp; Children</h3>
+    <p>
+        You must be at least eighteen years old to register online or purchase or otherwise use our Services. 
+        If you are under 18, you may use our Services only with involvement of a parent or guardian. 
+        NameJet does not knowingly collect information from children under the age of eighteen.  
+        If you know of or have reason to believe anyone under the age of 18 has provided us with any personal data, please contact us.
+    </p>
+
+	<h3>Conditions of Use, Notices, and Revisions</h3>
+    <p>
+        If you choose to visit our Website, create a NameJet account, and/or utilize our Services, any dispute over privacy 
+        related to the same is subject to this Privacy Policy and our Terms of Use, including limitations on damages, 
+        arbitration of disputes, and application of the law of the Commonwealth of Virginia. 
+        If you have any concern about privacy at NameJet, please send us your concern using our contact information found <a href="/Pages/Contact.aspx">here</a>  
+        or submit a ticket via your NameJet account, and we will investigate and address it as necessary. Our business changes 
+        constantly – so we reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, 
+        we will post those changes to this Privacy Policy, by email, and/or by means of a notice on our home page of our Website prior 
+        to the implementation of the changes. 
+    </p>
+    <p>
+        Also, as we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, 
+        customer information generally is one of the transferred business assets. Also, if NameJet, or substantially all of its assets, 
+        were ever to be acquired, customer information would most likely be one of the transferred assets.
+    </p>
+
+	<h3>Contact Us</h3>
+    <p>
+        If you have questions or concerns regarding this Privacy Policy, please contact us via the contact information found <a href="/Pages/Contact.aspx">here</a>, 
+        or submit a ticket via your NameJet account.
+    </p>
+
+
+
+			    </div>
+                
+                <div id="ctl00_pnlB2T2" class="sB2T sHDd">
+	<a href="#" onclick="window.scrollTo(0,0); return false">Back To Top</a>
+</div>
+                
+                <div class="sFtr sCF">
+
+                    <div id="ctl00_pnlFooterNav" class="sNv3 sFR">
+	
+				        <ul>
+					        <li><a id="ctl00_lnkHome2" href="../Default.aspx">Home</a></li>
+                            <li><a id="ctl00_lnkPress" href="press-releases/default.aspx">Press Releases</a></li>
+					        <li><a id="ctl00_lnkAbout" href="About.aspx">About Us</a></li>
+					        <li><a id="ctl00_lnkContact" href="Contact.aspx">Contact Us</a></li>
+					        <li class="sHDm"><a id="ctl00_lnkSupport2" href="Support.aspx">Help</a></li>					        
+                            <li><a id="ctl00_lnkSiteMap" href="SiteMap.aspx">Site Map</a></li>
+                       </ul>
+                    
+</div>
+
+                    <div class="sNote sFL">
+                        © 2018 NameJet, All rights reserved.
+                        <span id="ctl00_lblLegalNav"><a id="ctl00_lnkTerms" href="Terms.aspx">Terms</a> |
+					        <a id="ctl00_lnkPrivacy" href="Privacy.aspx">Privacy</a> |
+                            <a id="ctl00_lnkCookie" href="CookiePolicy.aspx">Cookie Policy</a></span>
+                    </div>
+
+			    </div>
+
+                <div class="sFtr2 sCF sMBsm">
+
+                    <div class="sFR contact">
+                        <span class="sub1"><strong>Questions? Call Us At</strong></span>
+                        <span class="sub2">1.425.974.4687</span>
+                        <span class="sub3 sHDm">Visit our <a href="/Pages/Support.aspx">Help Center</a> for simple and quick support.</span>
+                    </div>
+
+                    <div class="sFL badges sCF">
+                        <span class="sFL" style="margin-right:15px;margin-top:-20px;display:inline-block">
+                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.namejet.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                        </span>
+                        <span class="sFL" style="margin-right:15px;display:inline-block">
+                            <script type="text/javascript">                                var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fnamejet-22427364.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/namejet-22427364.js" type="text/javascript"></script>
+                            <a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-web-hosting/namejet-in-bellevue-wa-22427364#bbblogo" title="NameJet LLC, Internet - Aftermarket Domains, Kirkland, WA"><img style="border:none;" id="bbblinkimg" src="//seal-alaskaoregonwesternwashington.bbb.org/logo/ruhzbus/namejet-22427364.png" width="200" height="45" alt="NameJet LLC, Internet - Aftermareket Domains, Kirkland, WA"></a>
+                        </span>
+                        <span class="sFL" style="display:inline-block">
+                            <a target="_blank" href="http://www.domaining.com" class="sHDm"><img src="/_images/global/badge-domaining.gif" alt=" "></a> 
+                        </span>
+                    </div>
+
+                 </div>
+
+                <div id="ctl00_pnlSocialNav" class="sNv5">
+	                    
+                    <ul>
+                        <li class="sNv5-0">User Guide: </li>                                 
+					    <li class="sNv5-1"><a href="/Pages/UserGuide.aspx">English User Guide</a></li>
+                        <li class="sNv5-2"><a href="/Pages/UserGuide.aspx?l=cn">Chinese User Guide</a></li>
+                        <li class="sNv5-3"><a href="/Pages/Support.aspx">Visit our help center</a></li>
+                    </ul>
+                
+</div>
+
+		        <input type="hidden" name="ctl00$HiddenFieldFristNav" id="ctl00_HiddenFieldFristNav">
+		    </div>
+
+            <div class="sAC sMTsm sSm sMsBtn">
+                <a id="ctl00_HyperLink1" href="../Default.aspx?DisableMobile=1">Disable Mobile Scaling</a>
+                
+            </div>
+
+            </div>
+
+	        
+	        
+	        
+	    </form>
+        <!--[if (lte IE 8)]> 
+            <script type="text/javascript">
+                function BindControlEventsIE() {
+                    //jQuery is wrapped in BindEvents function so it can be re-bound after each callback.
+                    $('TABLE.sTbl TBODY TR:odd').addClass('alt-row'); //Alternating Rows Fix         
+                }
+
+                //Initial bind
+                $(document).ready(function () {
+                    BindControlEventsIE();
+                });
+
+                //Re-bind for callbacks
+                var prm = Sys.WebForms.PageRequestManager.getInstance();
+                prm.add_endRequest(function() { 
+                    BindControlEventsIE();
+                });
+		    </script>
+        <![endif]--> 
+        
+        <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-2685714-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <!--[if lt IE 7 ]></div><![endif]-->
+        <!--[if IE 7 ]></div><![endif]-->
+        <!--[if IE 8 ]></div><![endif]-->
+        <!--[if IE 9 ]></div><![endif]-->
+
+    
+</body></html>
