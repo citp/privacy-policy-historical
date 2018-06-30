@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130110608id_/http%3A//www.bris.ac.uk/style-guides/web/policies/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630060137id_/http%3A//www.bris.ac.uk/style-guides/web/policies/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Style guides | University of Bristol
 
@@ -49,7 +49,7 @@ Please see the University’s [Use of cookies](https://web.archive.org/style-gu
 
 We may use and analyse the information we collect so that we can manage and improve the services on the website. Demographic and statistical information about user behaviour may be collected and used to analyse the popularity and effectiveness of the website. Any disclosure of this information will be in aggregate form and will not identify individual users.
 
-The University of Bristol also uses services from Google and comScore on this website to measure and analyse visitor information. For further information on these, please visit [comScore](http://www.comscore.com/Products_Services/Web_Analytics) and [Google Analytics](http://www.google.com/analytics).
+The University of Bristol also uses services from Google, comScore and Hotjar on this website to measure and analyse visitor information. For further information on these, please visit [comScore](http://www.comscore.com/Products_Services/Web_Analytics), [Google Analytics](http://www.google.com/analytics) and [Hotjar](https://help.hotjar.com/hc/en-us/articles/115011639887-Data-Safety-Privacy-Security).
 
 The University will not (nor will it allow any third party to) use the statistical analytics tools to track or to collect personally identifiable information of visitors to this website. The University will not associate any data gathered with any personally identifying information from any source as part of our use of the statistical analytics tools.
 
@@ -57,7 +57,7 @@ The University will not (nor will it allow any third party to) use the statistic
 
 ### 3.1 Data Protection Legislation
 
-The University is your data controller. As your data controller the University has notified its activities to the Office of the Information Commissioner as required under the Data Protection Act 1998 (the “Act”) and is listed in the Public Register of Data Controllers. Personal information will only be collected and/or processed by the University in accordance with the Act.
+The University is your data controller. As your data controller the University has notified its activities to the Office of the Information Commissioner as required under the GDPR and is listed in the Public Register of Data Controllers. Personal information will only be collected and/or processed by the University in accordance with the GDPR.
 
 ### 3.2 Disclosure of your information
 
@@ -79,7 +79,7 @@ This website may contain links to other websites that are outside the University
 
 Should the information we hold about you be incorrect, you can change and update your personal information and you can have your information corrected by contacting us.
 
-Where requested, we will provide you with a readable copy of the personal data which we keep about you, by contacting us at the address below. We may require proof of your identity before supplying you with this information to ensure confidentiality. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+Where requested, we will provide you with a readable copy of the personal data which we keep about you, by contacting us at the address below. We may require proof of your identity before supplying you with this information to ensure confidentiality.
 
 We allow you to challenge the data we hold about you and where appropriate you may have the data erased, rectified, amended or completed. For complaints or queries about the privacy policy or data protection queries generally please contact:
 
@@ -90,4 +90,4 @@ Tyndall Avenue
 Bristol  
 BS8 1TH, UK
 
-Email: [data-protection@bristol.ac.uk](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=data-protection@bristol.ac.uk)
+Email: [data-protection@bristol.ac.uk](mailto:data-protection@bristol.ac.uk)
