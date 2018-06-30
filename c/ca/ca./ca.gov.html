@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the ca.gov privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627163433id_/http%3A//ca.gov/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ca.gov privacy policy that was archived on 2018-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630222901id_/http%3A//ca.gov/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths flexbox flexboxlegacy no-flexboxtweener flexwrap" lang="en" style="font-size: 1rem;"><!--<![endif]--><head>
     
 
 <meta charset="utf-8">
-<title>CA.Gov : Privacy Policy</title>
+<title>CA.Gov : CA.gov Privacy Policy</title>
 <meta name="Author" content="State of California">
 <meta name="Description" content="State of California">
 <meta name="Keywords" content="California, government">
@@ -98,7 +98,7 @@
     <!-- Settings Bar -->
     <div class="site-settings section section-standout collapse collapsed" role="alert" id="siteSettings">
     <div class="container  p-y">
-        <button type="button" class="close" data-toggle="collapse" data-target="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-label="Close" role="tab" aria-selected="false" id="ui-collapse-262"><span aria-hidden="true">×</span></button>
+        <button type="button" class="close" data-toggle="collapse" data-target="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-label="Close" role="tab" aria-selected="false" id="ui-collapse-458"><span aria-hidden="true">×</span></button>
         <div class="btn-group btn-group-justified-sm" role="group" aria-label="contrastMode">
             <button type="button" class="btn btn-primary disableHighContrastMode">Default</button>
            <button type="button" class="btn btn-primary enableHighContrastMode">High Contrast</button>
@@ -108,6 +108,9 @@
             <button type="button" class="btn btn-primary increaseTextSize"><span class="hidden-xs">Increase Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-plus-line"></small></span></button>
             <button type="button" class="btn btn-primary decreaseTextSize"><span class="hidden-xs">Decrease Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-minus-line"></small></span></button>
         </div>
+        <div class="btn-group btn-group-justified-sm" role="group" aria-label="contrastMode">
+            <a href="javascript:" class="btn btn-primary" title="Secure" id="secureItem" style="margin-bottom: 2px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); cursor: default;"><span class="ca-gov-icon-lock"></span> Secure</a>
+        </div> 
     </div>
 </div>
     <!-- Alert Banner -->
@@ -126,20 +129,77 @@
                 <ul class="utility-links social-media-links">
                     <li><a href="/"><span class="ca-gov-icon-home" aria-hidden="true"></span><span class="sr-only">Home</span></a></li>
                     <li><a href="https://mobilegallery.ca.gov/" title="Mobile Gallery"><span class="ca-gov-icon-apps" aria-hidden="true"></span><span class="sr-only">Mobile Gallery</span></a></li>
+					<style>
+.animated {
+  -webkit-animation-duration: .9s;
+  animation-duration: .9;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  animation-iteration-count: 4;
+  -webkit-animation-iteration-count: 4;
+}
+@-webkit-keyframes bounce {
+  0%, 100% {
+    -webkit-transform: translateY(0);
+  }
+  33% {
+    -webkit-transform: translateY(-3px);
+  }
+  66% {
+    -webkit-transform: translateY(3px);
+  }
+}
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  33% {
+    transform: translateY(-3px);
+  }
+  66% {
+    transform: translateY(3px);
+  }
+}
+.bounce {
+  -webkit-animation-name: bounce;
+  animation-name: bounce;
+}
+</style>
+                    
+                    <script>
+                        function httpsSwitch() {
+                            if (location.protocol != 'https:') {
+                                location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+                            }
+                        }
+
+                        if (location.protocol == 'https:') {
+                            var element = document.getElementById("lockListItem");
+                            element.outerHTML = "";
+                            delete element;    
+                            document.getElementById("secureItem").style.backgroundColor = '#FFFFFF';
+                            document.getElementById("secureItem").style.color = '#000000';
+                            document.getElementById("secureItem").href = 'javascript:';
+                            document.getElementById("secureItem").style.cursor = "default";
+                        }
+                    </script>
+
                     <li class="p-r-0">Share:</li>
 
                     <li><a class="ca-gov-icon-share-facebook" title="Share via Facebook" tabindex="0"></a></li>
                     <li><a class="ca-gov-icon-share-twitter" title="Share via Twitter" tabindex="0"></a></li>
                     <li><a class="ca-gov-icon-share-googleplus" title="Share via Google+" tabindex="0"></a></li>
-                    <li><a class="ca-gov-icon-share-email" title="Share via email" tabindex="0" href="mailto:?subject=CA.Gov : Privacy Policy&amp;body=%0ahttps%3A%2F%2Fweb.archive.org%2Fweb%2F20170627163433id_%2Fhttp%253A%2F%2Fca.gov%2FPrivacy%0a%0a"></a></li>
+                    <li><a class="ca-gov-icon-share-email" title="Share via email" tabindex="0" href="mailto:?subject=CA.Gov : CA.gov Privacy Policy&amp;body=%0ahttps%3A%2F%2Fweb.archive.org%2Fweb%2F20180630222901id_%2Fhttp%253A%2F%2Fca.gov%2FPrivacy%0a%0a"></a></li>
                 </ul>
             </div>
             <div class="half settings-links">
                 <ul class="utility-links">
-                    <li><a href="http://ca.gov:80/Agencies?page=1">State Agencies</a></li>
+                    <li><a href="http://www.ca.gov:80/Agencies?page=1">State Agencies</a></li>
                     <li><a href="/Contact">Contact Us</a></li>
-                    <li><a role="tab" data-toggle="collapse" href="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-selected="false" id="ui-collapse-780">Settings</a></li>
-                    <li><a role="tab" data-toggle="collapse" href="#locationSettings" aria-expanded="false" aria-controls="locationSettings" class="geo-lookup" aria-selected="false" id="ui-collapse-50"><span class="ca-gov-icon-compass" aria-hidden="true"></span> <span class="located-city-name">Set Location</span></a></li>
+                    <li><a role="tab" data-toggle="collapse" href="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-selected="false" id="ui-collapse-601">Settings</a></li>
+                    <li><a role="tab" data-toggle="collapse" href="#locationSettings" aria-expanded="false" aria-controls="locationSettings" class="geo-lookup" aria-selected="false" id="ui-collapse-301"><span class="ca-gov-icon-compass" aria-hidden="true"></span> <span class="located-city-name">Set Location</span></a></li>
                     <li><span id="showFavoritesLink"></span><a href="javascript:addCurrentToMyPages()" title="Add current page to my pages"><span id="addFavoritesLinkIcon"></span> &nbsp;<span id="addFavoritesLinkText"></span></a></li>
                 </ul>
             </div>
@@ -295,13 +355,13 @@
                     </a>
                 </li>
                 <li class="unit unit3">
-                    <a href="/Agencies/Consumer-Affairs-Department-of/Agency-Services/Check-Contractor-Application" class="second-level-link">
+                    <a href="/Agencies/Contractors-State-License-Board/Agency-Services/Check-Contractor-Application" class="second-level-link">
                         <span class="ca-gov-icon-briefcase" aria-hidden="true"></span>Check Contractor Application
                             <div class="link-description">Check the status of your contractor license application.</div>
                     </a>
                 </li>
                 <li class="unit unit2">
-                    <a href="/Agencies/Equalization-Board-of/Agency-Services/Look-Up-Tax-Rates" class="second-level-link">
+                    <a href="/Agencies/Tax-and-Fee-Administration-California-Department-of/Agency-Services/Look-Up-Tax-Rates" class="second-level-link">
                         <span class="ca-gov-icon-briefcase" aria-hidden="true"></span>Look Up Tax Rates
                             <div class="link-description">Find a sales and use tax rate by address.</div>
                     </a>
@@ -323,18 +383,18 @@
 
 <div class="nav-media">
 <div class="media unit2">
-<div class="media-left"><a href="/Agencies/Business-and-Economic-Development-Governor-s-Office-of"><img height="77" alt="governor" width="77" src="/-/media/Agencies/Business-and-Economic-Development-Governor-s-Office-of/logo-GOBIZ.ashx?la=en&amp;hash=483A5CB58EDE9AD84FDF8EE0910DE6ABC9432E6B"></a></div>
+<div class="media-left"><a href="/Agencies/Business-and-Economic-Development-Governor-s-Office-of"><img height="77" alt="Go Biz" width="77" src="/-/media/Agencies/Business-and-Economic-Development-Governor-s-Office-of/logo-GOBIZ.ashx?la=en&amp;hash=483A5CB58EDE9AD84FDF8EE0910DE6ABC9432E6B"></a></div>
 <div class="media-body">
 <div class="title"><a href="/Agencies/Business-and-Economic-Development-Governor-s-Office-of">Governor’s Office of Business and Economic Development (GoBiz)</a></div>
 <div class="teaser">Single point of contact for economic development and job creation efforts. </div>
 <a href="/Agencies/Business-and-Economic-Development-Governor-s-Office-of" class="btn btn-default btn-xs pull-right">Read More</a></div>
 </div>
 <div class="media unit2">
-<div class="media-left"><a href="/Agencies/Equalization-Board-of"><img height="77" alt="boe" width="77" src="/-/media/Agencies/Equalization-Board-of/logo-BOE.ashx?la=en&amp;hash=0D013E176262B6A03E7A4209C61065EFD4677A0B"></a></div>
+<div class="media-left"><a href="/Agencies/Tax-and-Fee-Administration-California-Department-of"><img height="55" alt="State Seal" width="55" src="/-/media/Global-Files/Homepage-Content/logo-State-Seal.ashx?la=en&amp;hash=1D8232F0E6CCDABA8C7C142790C76E63FBB082D3"></a></div>
 <div class="media-body">
-<div class="title"><a href="/Agencies/Equalization-Board-of">Board of Equalization (BOE)</a></div>
+<div class="title"><a href="/Agencies/Tax-and-Fee-Administration-California-Department-of">California Department of Tax and Fee Administration (CDTFA)</a>&nbsp;</div>
 <div class="teaser">Locate information on California sales use, fuel, alcohol, tobacco, and other taxes. </div>
-<a href="/Agencies/Equalization-Board-of" class="btn btn-default btn-xs pull-right">Read More</a></div>
+<a href="/Agencies/Tax-and-Fee-Administration-California-Department-of" class="btn btn-default btn-xs pull-right">Read More</a></div>
 </div>
 </div>    </div>
 
@@ -379,7 +439,7 @@
                     </a>
                 </li>
                 <li class="unit unit3">
-                    <a href="/Agencies/Consumer-Affairs-Department-of/Agency-Services/Check-Contractor-Application" class="second-level-link">
+                    <a href="/Agencies/Contractors-State-License-Board/Agency-Services/Check-Contractor-Application" class="second-level-link">
                         <span class="ca-gov-icon-briefcase" aria-hidden="true"></span>Check Contractor Application
                             <div class="link-description">Check the status of your contractor license application.</div>
                     </a>
@@ -467,7 +527,7 @@
 
 <div class="nav-media">
 <div class="media unit2">
-<div class="media-left"><a href="/Agencies/Student-Aid-Commission-California"><img height="77" alt="csac" width="77" src="/-/media/Agencies/Student-Aid-Commission-California/logo-CSAC.ashx?la=en&amp;hash=EDB5CE994801DCD6A179BA9C7DCC4D0BCA7D08C6"></a></div>
+<div class="media-left"><a href="/Agencies/Student-Aid-Commission-California"><img alt="csac" height="97" src="-/media//Agencies/Student-Aid-Commission-California/logo-CSAC.ashx"></a></div>
 <div class="media-body">
 <div class="title"><a href="/Agencies/Student-Aid-Commission-California">California Student Aid Commission </a></div>
 <div class="teaser">Locate financial aid to California students pursuing higher education. </div>
@@ -611,7 +671,7 @@
 
 <div class="nav-media">
 <div class="media unit2">
-<div class="media-left"><a href="/Agencies/Visit-California"><img height="77" alt="Visit California Logo" width="77" src="/-/media/Agencies/Travel-and-Tourism-Commission-California/logo-TOURISM/logo-TOURISM.ashx?la=en&amp;hash=ED84AB82D22BE4E5FD8EB0A3006F6594EE0AB21A"></a></div>
+<div class="media-left"><a href="/Agencies/Visit-California"><img height="77" alt="Visit California Logo" width="77" src="/-/media/Agencies/Visit-California/logo-TOURISM/logo-TOURISM.ashx?la=en&amp;hash=FD9FFEA408979772982205853604670FA89CE3DF"></a></div>
 <div class="media-body">
 <div class="title"><a href="/Agencies/Visit-California">Visit California</a></div>
 <div class="teaser">Learn tourist and travel locations and needs. A guide to your research and design for a fun and fabulous California vacation! </div>
@@ -661,7 +721,7 @@
                     </a>
                 </li>
                 <li class="unit unit2">
-                    <a href="/Agencies/Equalization-Board-of/Agency-Services/Look-Up-Tax-Rates" class="second-level-link">
+                    <a href="/Agencies/Tax-and-Fee-Administration-California-Department-of/Agency-Services/Look-Up-Tax-Rates" class="second-level-link">
                         <span class="ca-gov-icon-capitol" aria-hidden="true"></span>Look Up Tax Rates
                             <div class="link-description">Find a sales and use tax rate.</div>
                     </a>
@@ -743,7 +803,7 @@
         
 
 
-<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">Privacy Policy</li></ol>
+<ol class="breadcrumb"><li><a href="/">Home</a></li><li class="active">CA.gov Privacy Policy</li></ol>
         
 
 
@@ -752,98 +812,9 @@
         
 
 <div class="detail clearfix">
-           <h1>Privacy Policy</h1>
+           <h1>CA.gov Privacy Policy</h1>
         <div class="description">
-            <h1 style="background: white; margin: 8.05pt 0in 8.05pt 0.5in;"><span style="color: windowtext;">CA.gov Privacy Policy</span></h1>
-<p style="background: white; margin-left: 0.5in;"><span><strong>Effective 5/23/17</strong></span></p>
-<p style="background: white; margin-left: 0.5in;"><span>The California Department of Technology, which runs CA.gov,&nbsp;is committed to promoting and protecting the privacy rights of individuals, as enumerated in Article 1 of the California Constitution, the Information Practices Act of 1977, and other state and federal laws.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>It is the policy of the Department of Technology to limit the collection and safeguard the privacy of personal information collected or maintained by the Department. The Department of Technology’s information management practices conform to the requirements of the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Sections 11015.5 and 11019.9, and other applicable laws pertaining to information privacy. This Privacy Policy only applies to the CA.gov web site run by the&nbsp;Department of Technology.</span></p>
-<p style="background: white; margin-left: 0.5in;"><strong><span>“Personal information”</span></strong><span> is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual. A domain name or Internet Protocol address is not considered personal information; however, it is considered “electronically collected personal information.”</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>According to Government Code § 11015.5, <strong>“electronically collected personal information”</strong> means any information that is maintained by an agency that identifies or describes an individual user, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, medical or employment history, password, electronic mail address, and information that reveals any network location or identity, but excludes any information manually submitted to a State agency by a user, whether electronically or in written form, and information on or relating to individuals who are users, serving in a business capacity, including, but not limited to, business owners, officers, or principals of that business.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>“Electronically collected personal information” that we automatically collect includes your domain name or Internet Protocol address, and statistical information about which web pages you visit. If you voluntarily participate in an activity that asks for specific information (i.e., completing a request for assistance, personalizing the content of the web site, sending an e-mail, or participating in a survey) more detailed data will be collected. If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the web site.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>If any type of personal information is requested on the web site or volunteered by the users, it is governed by state law, including California Civil Code section 1798 et seq., Government Code 11015.5, the California Public Records Act, and the Federal Privacy Act. This information may become a public record once it is provided and except for electronically collected information, it may be subject to public inspection and copying if not otherwise protected by federal or state law.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span><strong>The Department of Technology adheres to the following principles in connection with the collection and management of personal information:</strong></span></p>
-<ol style="list-style-type: decimal;">
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology collects personal information on individuals only as allowed by law</span></strong><span>. The Department limits the collection of personal information to what is relevant and necessary to accomplish its lawful purpose. For example, the Department may need to know an individual’s e-mail address or telephone number in order to answer the individual’s questions or in order to provide requested assistance.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology does not collect home, business or e-mail addresses, or account information from persons who simply browse the CA.gov web site</span></strong><span>. Personal information about individuals is collected through this web site only if an individual provides such information to the Department voluntarily through e-mail, registration forms, or surveys, for example. This information will be used to facilitate in responding to the person or improve the content or navigation of the web site or provide survey information to users. The information collected in this manner is not subject to requests made pursuant to the Public Records Act, and site visitors may request to have their information discarded without reuse or distribution.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology uses Google Analytics to help improve the web site</span></strong><span>. Google tracking cookies may be used to provide information to Google Analytics. Our web site may use Google Analytics to track web site statistics. Google tracking code used by every web site or application that employs Google Analytics, stores information that identifies device IP addresses, but our web site is anonymizing that information and only part of device IP addresses are being used. Consequently, no information identifying you or your device is being stored at Google via our utilization of Google Analytics implementation. <a href="https://support.google.com/analytics/answer/2763052?hl=en"><span style="color: windowtext; text-decoration: underline;">You can find out more about Google Analytics anonymized IP addresses by clicking here.</span></a></span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology’s use of your e-mail.</span></strong><span> You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other State employees who may be better able to help you, and this staff may be employed by a different agency within the State. Except for authorized law enforcement investigations or, as required by law, we do not share our e-mail with any other organizations. We use your e-mail to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action. </span><span>Submission of an email to the Department, the Department staff and/or communication through the web site does not create any attorney-client or other privileged or confidential relationship. Accordingly, do not disclose any information to the Department that you wish to remain private or confidential.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology provides people who provide personal information with an opportunity to review that information.</span></strong><span> Individuals, who provide personal information, are allowed to review the information and contest its accuracy or completeness.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>The Department of Technology uses personal information only as specified and consistent with those purposes; unless the Department obtains the consent of the subject of the information, or as required or allowed by law. </span></strong><span>The Public Records Act exists to ensure that California government is open and that the public has a right to have access to appropriate records and information possessed by many state and local government agencies. At the same time, there are exceptions that recognize the public’s right to access records. These exceptions serve various needs, including maintaining the privacy of individuals. In the event of a conflict between this Policy and the Public Records Act, the Information Practices Act or other law governing the disclosure of records, the applicable law will control.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>How the Department of Technology collects and uses your information.</span></strong><span> We do collect personal information directly from individuals who volunteer to use some of our services. Collection of this information is required to deliver the specific services, but use of these services is voluntary.</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>How the Department of Technology protects your information.</span></strong><span> The Department, as developer and manager of this web site, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing. Security measures have been integrated into the design, implementation, and day-to-day practices of the entire State operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Department’s supported web site. The technical standards governing security are enforced by the Department of Finance.</span></p>
-    </li>
-</ol>
-<p style="background: white; margin-left: 0.5in;"><span>If you do nothing during your visit to the web site but browse or download information, we automatically collect and store the following information about your visit:</span></p>
-<ol style="list-style-type: decimal;">
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>A partial Internet Protocol address and domain name is collected, but not the e-mail address. The partial Internet Protocol address is used to direct Internet traffic to you without identifying you individually and generate statistics used in the management of this web site;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The type of browser and operating system you used;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The city and zip code you used it from;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The date and time you visited this web site;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web pages or services you accessed at this web site;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web site you visited prior to coming to this web site;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web site you visit as you leave this web site, and;</span></p>
-    </li>
-    <li style="color: #000000;">
-    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>If you downloaded a form, the form that was downloaded.</span></p>
-    </li>
-</ol>
-<p style="background: white; margin-left: 0.5in;"><span>The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. This information does not identify you personally and is used for gathering web site statistics. The information we automatically collect and store in our logs about your visit helps us to analyze our web site to continually improve the value of the materials available. Our web site logs do not identify a visitor by personal information, and we make no attempt to link other web sites with the individuals that browse our web site. Individuals have the right to have any electronically collected personal information deleted by the Department, without reuse or distribution. Individuals may request to have their electronically collected personal information deleted via the contact form&nbsp;reachable from the “Contact Us” link at the top and bottom of each page.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>Electronically collected personal information is exempt from requests made under the Public Records Act.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>Government Code § 11015.5 prohibits all state agencies from distributing or selling any electronically collected personal information, as defined above, about users to any third party without the permission of the user. The Department does not sell any “electronically collected personal information.” Any distribution of “electronically collected personal information” will be solely for the purposes for which it was provided to us.</span></p>
-<p style="background: white; margin-left: 0.5in;"><span>The Department may provide or distribute certain lists and statistical reports of regulatory information as provided by law, but no personal information is sold or distributed, and all relevant legal protections still apply to the web site.</span></p>
-<p style="background: white; margin: 0in 0in 0pt 0.5in;"><span>The Department will provide additional explanations of this privacy policy, if requested. If any individuals have any further questions about this privacy policy, they are encouraged to contact the Department via <a href="mailto:StateInfo@state.ca.gov"><span style="color: windowtext; text-decoration: underline;">email</span></a>, by phone at (916) 319-9223, or by mail to:</span></p>
-<p style="background: white; margin: 0in 0in 0pt 1in;"><span>&nbsp;</span></p>
-<p style="background: white; margin: 0in 0in 0pt 1in;"><span>California Department of Technology </span></p>
-<p style="background: white; margin: 0in 0in 0pt 1in;"><span>1325 J Street, Suite 1600</span></p>
-<p style="background: white; margin: 0in 0in 0pt 1in;"><span>Sacramento, CA 95814</span></p>
-<p style="background: white; margin: 0in 0in 0pt 1in;"><span></span></p>
-<p style="background: white; margin-bottom: 0pt;"><span><strong>&nbsp;</strong></span></p>
-<p style="background: white; margin-bottom: 0pt;"><span><strong></strong></span><strong><span><strong>The CA.gov privacy policy prior to 5/23/17 was as follows:</strong></span></strong></p>
-<p style="background: white; margin-bottom: 0pt;"><strong><span><strong></strong></span></strong></p>
-<p style="color: #222222; background-color: #ffffff;">For details regarding CA.gov Privacy Policy, please see our Conditions of Use. The text below reflects general requirements for State departments.</p>
-<p style="color: #222222; background-color: #ffffff;">Pursuant to Government Code Section 11019.9, all departments and agencies of the State of California shall enact and maintain a permanent privacy policy, in adherence with the Information Practices Act of 1977 (Civil Code Section 1798 et seq.), that includes, but not necessarily limited to, the following principles:</p>
-<p style="color: #222222; background-color: #ffffff;">(a) Personally identifiable information may only be obtained through lawful means.</p>
-<p style="color: #222222; background-color: #ffffff;">(b) The purposes for which personally identifiable data are collected shall be specified at or prior to the time of collection, and any subsequent use of the data shall be limited to and consistent with the fulfillment of those purposes previously specified.</p>
-<p style="color: #222222; background-color: #ffffff;">(c) Personal data may not be disclosed, made available, or otherwise used for a purpose other than those specified, except with the consent of the subject of the data, or as required by law or regulation.</p>
-<p style="color: #222222; background-color: #ffffff;">(d) Personal data collected shall be relevant to the purpose for which it is needed.</p>
-<p style="color: #222222; background-color: #ffffff;">(e) The general means by which personal data is protected against loss, unauthorized access, use, modification, or disclosure shall be posted, unless the disclosure of those general means would compromise legitimate agency objectives or law enforcement purposes.</p>
-<p style="color: #222222; background-color: #ffffff;">Each department shall implement this privacy policy by:</p>
-<ul class="list-understated">
-    <li>Designating which position within the department or agency is responsible for the implementation of and adherence to this privacy policy;</li>
-    <li>Prominently posting the policy physically in its offices and on its Internet website, if any;</li>
-    <li>Distributing the policy to each of its employees and contractors who have access to personal data;</li>
-    <li>Complying with the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Section 11015.5, and all other laws pertaining to information privacy, and</li>
-    <li>Using appropriate means to successfully implement and adhere to this privacy policy.</li>
-</ul>
+            <h1 style="background: white; margin-top: 8.05pt; margin-right: 0in; margin-bottom: 8.05pt; text-align: left;"><strong style="font-size: 13px;">Effective 5/23/17</strong></h1><p style="background: white; text-align: left;"><span>The California Department of Technology, which runs CA.gov,&nbsp;is committed to promoting and protecting the privacy rights of individuals, as enumerated in Article 1 of the California Constitution, the Information Practices Act of 1977, and other state and federal laws.</span></p><p style="background: white; text-align: left;"><span>It is the policy of the Department of Technology to limit the collection and safeguard the privacy of personal information collected or maintained by the Department. The Department of Technology’s information management practices conform to the requirements of the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Sections 11015.5 and 11019.9, and other applicable laws pertaining to information privacy. This Privacy Policy only applies to the CA.gov web site run by the&nbsp;Department of Technology.</span></p><p style="background: white; text-align: left;"><strong><span>“Personal information”</span></strong><span> is information about a natural person that identifies or describes an individual, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history, readily identifiable to that specific individual. A domain name or Internet Protocol address is not considered personal information; however, it is considered “electronically collected personal information.”</span></p><p style="background: white; text-align: left;"><span>According to Government Code § 11015.5, <strong>“electronically collected personal information”</strong> means any information that is maintained by an agency that identifies or describes an individual user, including, but not limited to, his or her name, social security number, physical description, home address, home telephone number, education, financial matters, medical or employment history, password, electronic mail address, and information that reveals any network location or identity, but excludes any information manually submitted to a State agency by a user, whether electronically or in written form, and information on or relating to individuals who are users, serving in a business capacity, including, but not limited to, business owners, officers, or principals of that business.</span></p><p style="background: white; text-align: left;"><span>“Electronically collected personal information” that we automatically collect includes your domain name or Internet Protocol address, and statistical information about which web pages you visit. If you voluntarily participate in an activity that asks for specific information (i.e., completing a request for assistance, personalizing the content of the web site, sending an e-mail, or participating in a survey) more detailed data will be collected. If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the web site.</span></p><p style="background: white; text-align: left;"><span>If any type of personal information is requested on the web site or volunteered by the users, it is governed by state law, including California Civil Code section 1798 et seq., Government Code 11015.5, the California Public Records Act, and the Federal Privacy Act. This information may become a public record once it is provided and except for electronically collected information, it may be subject to public inspection and copying if not otherwise protected by federal or state law.</span></p><p style="background: white; text-align: left;"><span><strong>The Department of Technology adheres to the following principles in connection with the collection and management of personal information:</strong></span></p><ol style="list-style-type: decimal;">    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology collects personal information on individuals only as allowed by law</span></strong><span>. The Department limits the collection of personal information to what is relevant and necessary to accomplish its lawful purpose. For example, the Department may need to know an individual’s e-mail address or telephone number in order to answer the individual’s questions or in order to provide requested assistance.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology does not collect home, business or e-mail addresses, or account information from persons who simply browse the CA.gov web site</span></strong><span>. Personal information about individuals is collected through this web site only if an individual provides such information to the Department voluntarily through e-mail, registration forms, or surveys, for example. This information will be used to facilitate in responding to the person or improve the content or navigation of the web site or provide survey information to users. The information collected in this manner is not subject to requests made pursuant to the Public Records Act, and site visitors may request to have their information discarded without reuse or distribution.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology uses Google Analytics to help improve the web site</span></strong><span>. Google tracking cookies may be used to provide information to Google Analytics. Our web site may use Google Analytics to track web site statistics. Google tracking code used by every web site or application that employs Google Analytics, stores information that identifies device IP addresses, but our web site is anonymizing that information and only part of device IP addresses are being used. Consequently, no information identifying you or your device is being stored at Google via our utilization of Google Analytics implementation. <a href="https://support.google.com/analytics/answer/2763052?hl=en"><span style="text-decoration: underline; color: windowtext;">You can find out more about Google Analytics anonymized IP addresses by clicking here.</span></a></span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology’s use of your e-mail.</span></strong><span> You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other State employees who may be better able to help you, and this staff may be employed by a different agency within the State. Except for authorized law enforcement investigations or, as required by law, we do not share our e-mail with any other organizations. We use your e-mail to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the e-mail to another agency for appropriate action. </span><span>Submission of an email to the Department, the Department staff and/or communication through the web site does not create any attorney-client or other privileged or confidential relationship. Accordingly, do not disclose any information to the Department that you wish to remain private or confidential.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><strong><span>The Department of Technology provides people who provide personal information with an opportunity to review that information.</span></strong><span> Individuals, who provide personal information, are allowed to review the information and contest its accuracy or completeness.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>The Department of Technology uses personal information only as specified and consistent with those purposes; unless the Department obtains the consent of the subject of the information, or as required or allowed by law. </span></strong><span>The Public Records Act exists to ensure that California government is open and that the public has a right to have access to appropriate records and information possessed by many state and local government agencies. At the same time, there are exceptions that recognize the public’s right to access records. These exceptions serve various needs, including maintaining the privacy of individuals. In the event of a conflict between this Policy and the Public Records Act, the Information Practices Act or other law governing the disclosure of records, the applicable law will control.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>How the Department of Technology collects and uses your information.</span></strong><span> We do collect personal information directly from individuals who volunteer to use some of our services. Collection of this information is required to deliver the specific services, but use of these services is voluntary.</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span></span><strong><span>How the Department of Technology protects your information.</span></strong><span> The Department, as developer and manager of this web site, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing. Security measures have been integrated into the design, implementation, and day-to-day practices of the entire State operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Department’s supported web site. The technical standards governing security are enforced by the Department of Finance.</span></p>    </li></ol><p style="background: white; margin-left: 0.5in; text-align: left;"><span>If you do nothing during your visit to the web site but browse or download information, we automatically collect and store the following information about your visit:</span></p><ol style="list-style-type: decimal;">    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>A partial Internet Protocol address and domain name is collected, but not the e-mail address. The partial Internet Protocol address is used to direct Internet traffic to you without identifying you individually and generate statistics used in the management of this web site;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The type of browser and operating system you used;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The city and zip code you used it from;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The date and time you visited this web site;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web pages or services you accessed at this web site;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web site you visited prior to coming to this web site;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>The web site you visit as you leave this web site, and;</span></p>    </li>    <li style="color: #000000; text-align: left;">    <p style="background: white; color: #000000; margin-top: 0in; margin-bottom: 0pt;"><span>If you downloaded a form, the form that was downloaded.</span></p>    </li></ol><p style="background: white; margin-left: 0.5in; text-align: left;"><span>The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. This information does not identify you personally and is used for gathering web site statistics. The information we automatically collect and store in our logs about your visit helps us to analyze our web site to continually improve the value of the materials available. Our web site logs do not identify a visitor by personal information, and we make no attempt to link other web sites with the individuals that browse our web site. Individuals have the right to have any electronically collected personal information deleted by the Department, without reuse or distribution. Individuals may request to have their electronically collected personal information deleted via the contact form&nbsp;reachable from the “Contact Us” link at the top and bottom of each page.</span></p><p style="background: white; margin-left: 0.5in; text-align: left;"><span>Electronically collected personal information is exempt from requests made under the Public Records Act.</span></p><p style="background: white; margin-left: 0.5in; text-align: left;"><span>Government Code § 11015.5 prohibits all state agencies from distributing or selling any electronically collected personal information, as defined above, about users to any third party without the permission of the user. The Department does not sell any “electronically collected personal information.” Any distribution of “electronically collected personal information” will be solely for the purposes for which it was provided to us.</span></p><p style="background: white; margin-left: 0.5in; text-align: left;"><span>The Department may provide or distribute certain lists and statistical reports of regulatory information as provided by law, but no personal information is sold or distributed, and all relevant legal protections still apply to the web site.</span></p><p style="background: white; margin: 0in 0in 0pt 0.5in; text-align: left;"><span>The Department will provide additional explanations of this privacy policy, if requested. If any individuals have any further questions about this privacy policy, they are encouraged to contact the Department via <a href="mailto:StateInfo@state.ca.gov"><span style="text-decoration: underline; color: windowtext;">email</span></a>, by phone at (916) 319-9223, or by mail to:</span></p><p style="background: white; margin: 0in 0in 0pt 1in; text-align: left;"><span>&nbsp;</span></p><p style="background: white; margin: 0in 0in 0pt 1in; text-align: left;"><span>California Department of Technology </span></p><p style="background: white; margin: 0in 0in 0pt 1in; text-align: left;"><span>1325 J Street, Suite 1600</span></p><p style="background: white; margin: 0in 0in 0pt 1in; text-align: left;"><span>Sacramento, CA 95814</span></p><p style="background: white; margin: 0in 0in 0pt 1in; text-align: left;"><span></span></p><p style="background: white; margin-bottom: 0pt; text-align: left;"><span><strong>&nbsp;</strong></span></p><p style="background: white; margin-bottom: 0pt; text-align: left;"><span><strong></strong></span><strong><span><strong>The CA.gov privacy policy prior to 5/23/17 was as follows:</strong></span></strong></p><p style="background: white; margin-bottom: 0pt; text-align: left;"><strong><span><strong></strong></span></strong></p><p style="color: #222222; background-color: #ffffff; text-align: left;">For details regarding CA.gov Privacy Policy, please see our Conditions of Use. The text below reflects general requirements for State departments.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">Pursuant to Government Code Section 11019.9, all departments and agencies of the State of California shall enact and maintain a permanent privacy policy, in adherence with the Information Practices Act of 1977 (Civil Code Section 1798 et seq.), that includes, but not necessarily limited to, the following principles:</p><p style="color: #222222; background-color: #ffffff; text-align: left;">(a) Personally identifiable information may only be obtained through lawful means.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">(b) The purposes for which personally identifiable data are collected shall be specified at or prior to the time of collection, and any subsequent use of the data shall be limited to and consistent with the fulfillment of those purposes previously specified.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">(c) Personal data may not be disclosed, made available, or otherwise used for a purpose other than those specified, except with the consent of the subject of the data, or as required by law or regulation.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">(d) Personal data collected shall be relevant to the purpose for which it is needed.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">(e) The general means by which personal data is protected against loss, unauthorized access, use, modification, or disclosure shall be posted, unless the disclosure of those general means would compromise legitimate agency objectives or law enforcement purposes.</p><p style="color: #222222; background-color: #ffffff; text-align: left;">Each department shall implement this privacy policy by:</p><ul class="list-understated">    <li style="text-align: left;">Designating which position within the department or agency is responsible for the implementation of and adherence to this privacy policy;</li>    <li style="text-align: left;">Prominently posting the policy physically in its offices and on its Internet website, if any;</li>    <li style="text-align: left;">Distributing the policy to each of its employees and contractors who have access to personal data;</li>    <li style="text-align: left;">Complying with the Information Practices Act (Civil Code Section 1798 et seq.), the Public Records Act (Government Code Section 6250 et seq.), Government Code Section 11015.5, and all other laws pertaining to information privacy, and</li>    <li style="text-align: left;">Using appropriate means to successfully implement and adhere to this privacy policy.</li></ul>
         </div>
 </div>
     </main>   
@@ -870,6 +841,9 @@
                                 <li>
                                     <a href="/Contact">Contact Us</a>
                                 </li>
+                                <li>
+                                    <a href="/SiteMap">Sitemap</a>
+                                </li>
                 </ul>
             </div>
             <div class="quarter text-right">
@@ -886,12 +860,13 @@
     <!-- Copyright Statement -->
     <div class="copyright">
         <div class="container">
-            Copyright © 2017 State of California
+            Copyright © 2018 State of California
         </div>
         <br>
-        <div style="width:187px; margin:auto;"><a href="http://www.govtech.com/cdg/Best-of-the-Web-Digital-Government-Achievement-Awards-2016-Winners-Announced.html"><img alt="Best of Web Finalist 2016 logo – click for more details." title="Best of Web Finalist 2016 logo – click for more details." src="/images/bow/BestofWebImageColorSm.png" width="182" height="91"></a></div>
+        <div style="width:187px; margin:auto;">
+            <a href="http://www.govtech.com/cdg/digital-government-achievement/Government-Experience-Awards-2017-Inaugural-Winners-Announced.html" target="_blank"><img alt="Government Experience Awards Overall Finalist 2017 Logo – click for more details." title="Government Experience Awards Overall Finalist 2017 logo – click for more details." src="/images/bow/GovExpAwardsFinalistDefault.png" width="182" height="76"></a>
     </div>
-</footer>
+</div></footer>
 <!-- Extra Decorative Content -->
 <div class="decoration-last">&nbsp;</div>
     <!-- Extra Decorative Content -->
@@ -917,7 +892,7 @@
             background-image: url("/images/feedback/feedback_hover.png");
         }
 </style>
-<div id="feedback" style="display: block;"><a href="javascript:showFeedback();"><img src="/images/template2014/clear.gif" width="25" height="75" title="Provide Feedback" alt="Provide Feedback"></a></div>
+<div id="feedback"><a href="javascript:showFeedback();"><img src="/images/template2014/clear.gif" width="25" height="75" title="Provide Feedback" alt="Provide Feedback"></a></div>
 
 
 <style>
@@ -1001,12 +976,9 @@
 </style>
 
 <script>
-    var feedbackbutton = document.getElementById("feedback");
-    feedbackbutton.style.display = "block";
-
 // When the user clicks the button, open the modal
     function showFeedback() {
-        var surveyToOpen = "https://www.surveymonkey.com/r/cagovfeedback";
+        var surveyToOpen = "https://www.surveymonkey.com/r/CQ37SQX";
 
         var viewportWidth = $(window).width();
 
@@ -1015,6 +987,8 @@
             var modal = document.getElementById('feedbackModal');
             var feedbackiframe = document.getElementById('feedbackform');
             feedbackiframe.src = surveyToOpen;
+			var h = window.innerHeight - 100;
+			feedbackiframe.height = h;
             modal.style.display = "block";
         }
         else {
@@ -1040,11 +1014,11 @@ function closeFeedback() {
     <div class="modal-content">
         <div class="modal-header" style="height:40px;">
 
-            <span class="modal-close" onclick="closeFeedback()"><div onclick="closeFeedback()">×</div></span>
+            <span class="modal-close" onclick="closeFeedback()"><div onclick="closeFeedback()">x</div></span>
             <p class="modal-header-text">&nbsp;</p>
         </div>
         <div class="modal-body" style="overflow:hidden;">
-            <iframe src="" id="feedbackform" scrolling="no" height="625" width="100%" frameborder="0"></iframe>
+            <iframe src="" id="feedbackform" scrolling="auto" style="" height="100%" width="100%" frameborder="0"></iframe>
         </div>
         <div><br style="clear:both;"></div>
     </div>
