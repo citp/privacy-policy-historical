@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raptorsrepublic.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118135915id_/http%3A//www.raptorsrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptorsrepublic.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630104350id_/https%3A//www.raptorsrepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Raptors Republic: ESPN TrueHoop Network Blog
 
-This Privacy Policy governs the manner in which raptorsrepublic.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the  _http://www.raptorsrepublic.com_ website (“Site”). This privacy policy applies to the Site and all products and services offered by RAPTORSREPUBLIC.COM.
+This Privacy Policy governs the manner in which raptorsrepublic.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the  _https://www.raptorsrepublic.com_ website (“Site”). This privacy policy applies to the Site and all products and services offered by RAPTORSREPUBLIC.COM.
 
 **Personal identification information**
 
