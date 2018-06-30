@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711154921id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630181717id_/https%3A//www.transportation.gov/dot-website-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Research and Innovative Technology Administration
+# DOT Website Privacy Policy | US Department of Transportation
 
-###  Our Commitment
+## Our Commitment
 
 We respect your right to privacy and will protect it when you visit our Web site.
 
 This Privacy Policy explains our online information practices only, including how we collect and use your personal information. It does not apply to third-party Web sites that you are able to reach from this Web site. However, the Department of Transportation does evaluate the privacy policies of its unofficial presences on third-party Web sites and third-party content rendering applications. We encourage you to read those privacy policies to learn how they collect and use your information. You may also read our Privacy Impact Assessments for these third-party Web site and content rendering applications.
 
-###  What We Automatically Collect Online
+### What We Automatically Collect Online
 
 We collect information about your visit that does not identify you personally. We can tell the computer, browser, and Web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs. In the event of a known security or virus threat, we may collect information on the Web content you view.
 
-###  Other Information We May Collect
+### Other Information We May Collect
 
 When you visit our Web site, we may request and collect the following categories of personal information from you:
 
@@ -21,7 +21,7 @@ When you visit our Web site, we may request and collect the following categories
 
 
 
-###  Why We Collect Information
+### Why We Collect Information
 
 Our principal purpose for collecting personal information online is to provide you with what you need and want, address security and virus concerns, and to ease the use of our Web site.
 
@@ -37,21 +37,21 @@ We collect information to:
 
 
 
-###  Sharing Your Information
+### Sharing Your Information
 
-We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](http://www.dot.gov/administrations) and related entities, other Federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other Federal government agencies.
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](https://web.archive.org/administrations) and related entities, other Federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other Federal government agencies.
 
 Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974 below.
 
-###  Choices on How We Use the Information You Provide
+### Choices on How We Use the Information You Provide
 
 Throughout our Web site, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you grant us consent to use this information, but only for the primary reason you are giving it. We will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
 
-###  Information Practices for Children
+### Information Practices for Children
 
 We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
 
-###  Cookies or Other Tracking Devices
+### Cookies or Other Tracking Devices
 
 A “cookie” is a small text file stored on your computer that makes it easy for you to move around a Web site without continually re-entering your name, password, preferences, for example.
 
@@ -63,7 +63,7 @@ You also have the right to “opt-out” of the use Web measurement and cookie t
 
 Each DOT site using persistent cookies identifies itself as doing so. A complete list of the Web measurement and persistent cookie technologies in use on DOT Web sites is provided here.
 
-###  Securing Your Information
+### Securing Your Information
 
 Properly securing the information we collect online is a primary commitment. To help us do this, we take the following steps:
 
@@ -71,7 +71,7 @@ Properly securing the information we collect online is a primary commitment. To 
   * Train relevant personnel on our privacy and security measures
   * Secure the areas where we hold hard copies of information we collect online
   * Perform regular backups of the information we collect online to insure against loss
-  * Use technical controls to secure the information we collect online including but not limited to: 
+  * Use technical controls to secure the information we collect online including but not limited to:
     * Secure Socket Layer (SSL)
     * Encryption
     * Firewalls
@@ -83,7 +83,7 @@ Properly securing the information we collect online is a primary commitment. To 
 
 Tampering with DOT’s Web site is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-###  Your Rights Under the Privacy Act of 1974
+### Your Rights Under the Privacy Act of 1974
 
 The Privacy Act of 1974 protects the personal information the Federal government keeps on you in systems of records (SOR) (information the DOT controls recovered by name or other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and keep the personal information that it collects. The Privacy Act does not cover all information collected online.
 
@@ -103,24 +103,12 @@ When the DOT collects information from you online that is subject to the Privacy
 
 
 
-[View our Privacy Act Notices](http://www.dot.gov/individuals/privacy/privacy-act-system-records-notices)
+[View our Privacy Act Notices](https://web.archive.org/individuals/privacy/privacy-act-system-records-notices)
 
-###  Our Privacy Practices
+## Our Privacy Practices
 
 For more information or for comments and concerns on our privacy practices, please contact our Departmental Privacy Officer at [privacy@dot.gov](mailto:privacy@dot.gov).
 
 DOT has conducted Privacy Impact Assessments on applicable systems.
 
-[View our Privacy Impact Assessments](http://www.dot.gov/individuals/privacy/privacy-impact-assessments)
-
-###  Contact
-
-Bob Monniere  
-Attorney Advisor  
-Research and Innovative Technology Administration  
-1200 New Jersey Avenue, SE  
-E35-330, RTC  
-Washington, DC 20590  
-202-366-5498 (tel)  
-202-366-3671 (fax)  
-[robert.monniere@dot.gov](mailto:robert.monniere@dot.gov)
+[View our Privacy Impact Assessments](https://web.archive.org/individuals/privacy/privacy-impact-assessments)
