@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooksonline.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007081852id_/https%3A//security.intuit.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooksonline.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630112718id_/https%3A//security.intuit.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 To learn more about changes in this Statement please review our [FAQ](https://security.intuit.com/images/templates/intuit/FAQs-Privacy-Statement---Version-Sept-12-2017.pdf)
 
-**Last Updated: September 12, 2017  [(View Previous Version)](https://security.intuit.com/index.php/privacy/14-hidden/29-intuit-privacy-statement-2016)**
+**Last Updated: November 6, 2017  [(View Previous Version)](https://security.intuit.com/index.php/privacy/14-hidden/29-intuit-privacy-statement-2016)**
 
 At Intuit, we pride ourselves on our commitment to protecting your privacy.  Our [Data Stewardship Principles](https://security.intuit.com/index.php/data-stewardship-principles) reflect our company’s values and how we strive to maintain your privacy. This Privacy Statement describes in greater detail the privacy practices of Intuit Inc. and its affiliates and subsidiaries, meaning companies related by common ownership or control (“us,” “we,” “our”) responsible for collecting and maintaining certain information collected about you.
 
@@ -74,7 +74,7 @@ You may choose to sync certain Intuit Services with information from other finan
 
 We work with other companies or developers to offer you products and services and you may choose to sync, link or connect other third party services with your Intuit Service.  Sometimes Intuit may let you know about the service or product, or another company may let you know about  an Intuit service or product.  It will be clear who is referring the service or product, and who is providing the service or product.  If you choose to accept these services, providing your consent to either the third party or to us, we may exchange your information, including your Personal Information, as well as information about how you interact with each company's service or product.  This exchange of information is necessary to maintain business operations and to provide the ongoing service you've requested.  By requesting or accepting these products or services, you are permitting us to provide your information, including your Personal Information, to the other party.
 
-**3** **. WHAT YOU CAN DO TO MANAGE YOUR PRIVACY.   You can view and edit information that identifies you online through your Intuit Service. How you can access and control information that identifies you will depend on which Services you use. You have a choice about the use of information that identifies you, marketing communications you receive from us, and our use of cookies and other tracking technologies.   
+**3** **. WHAT YOU CAN DO TO MANAGE YOUR PRIVACY.  You can view and edit information that identifies you online through your Intuit Service. How you can access and control information that identifies you will depend on which Services you use. You have a choice about the use of information that identifies you, marketing communications you receive from us, and our use of cookies and other tracking technologies.   
 **
 
 **a ) Managing Marketing Communications From Us. **We will honor your choices when it comes to receiving marketing communications from us. 
@@ -92,7 +92,7 @@ You have the following choices if you have been receiving marketing communicatio
 
 **b** **) Updating Your Personal Information.  **In connection with your right to manage your Personal Information you provide to us, you may access, update, change, correct or request deletion of your information either through the Service or through our customer support.  You can reach our customer support by using the contact information provided in the "[How to Contact Us](https://security.intuit.com/index.php/privacy#CONTACT)" section of this statement. 
 
-**c** **) Cookies and Similar Tracking Technologies.  **The following is a high level summary of our practices and your controls for cookies and other tracking technologies.  For more information, please see our [Cookies Policy](https://security.intuit.com/index.php/intuit-cookie-policy). 
+**c** **) Cookies and Similar Tracking Technologies.  **The following is a high level summary of our practices and your controls for cookies and other tracking technologies.  For more information, please see our [Cookies Policy](https://security.intuit.com/index.php/privacy?id=510).
 
 In accordance with applicable law, Intuit and our service providers may use commonly-used tools to recognize your visit and track your interactions with our Services such as cookies, web beacons, pixels, local shared objects, and similar technologies (collectively, "Cookies").  Sometimes this tracking is necessary in order for us to provide you the Service you requested.  Other times, we combine Usage Data collected from Cookies with that of other customers to improve your and other customers' experience.  You have control over some of the Usage Data we collect from Cookies and how we use it.  Information on changing your browser settings to opt out of Cookies can be found in your browser settings. 
 
@@ -123,7 +123,7 @@ Please note that even if you opt-out of such Cookies or otherwise opt-out of int
 **b) Your Access Rights.  **
 
   * If you have created an online account with us and would like to update the Personal Information you have provided to us, you can access your account to view and make changes or corrections to your Personal Information.
-  * EU individuals and Swiss individuals have certain rights to access Personal Information about them, and to limit use and disclosure of their Personal Information.  With our Privacy Shield certification (discussed below in Section 8), Intuit has committed to respect those rights. If you wish to request access, to limit use, or to limit disclosure, please contact us at [privacy@intuit.com](mailto:privacy@intui.com) or the mailing address provided under "[How to Contact Us](https://security.intuit.com/index.php/privacy#CONTACT)" and please provide the name of the Intuit customer who submitted your Personal Information to our services.  We will refer your requests to that customer, and will support them as needed in responding to your request.    
+  * EU individuals and Swiss individuals have certain rights to access Personal Information about them, and to limit use and disclosure of their Personal Information.  With our Privacy Shield certification (discussed below in Section 8), Intuit has committed to respect those rights. If you wish to request access, to limit use, or to limit disclosure, please contact us at [privacy@intuit.com](mailto:privacy@intuit.com) or the mailing address provided under "[How to Contact Us](https://security.intuit.com/index.php/privacy#CONTACT)" and please provide the name of the Intuit customer who submitted your Personal Information to our services.  We will refer your requests to that customer, and will support them as needed in responding to your request.    
 
 
 
@@ -142,13 +142,13 @@ For example, we:
 
 
 
-**6\. FOR OUR GLOBAL CUSTOMERS.   We provide our Services in many different countries.  Our global customers can find their country specific Privacy Statement and information about the Intuit entity responsible for their Personal Information by clicking the links below.   
+**6\. FOR OUR GLOBAL CUSTOMERS.   We provide our Services in many different countries.  Our global customers can find their country specific Privacy Statement and information about the Intuit entity responsible for their Personal Information by clicking the links below.  
 **
 
   * Canada (EN): <http://www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp>
   * Canada (FR): <http://www.intuit.ca/a-propos-de-intuit/info/vie-privee.jsp>
-  * France: <http://quickbooks.intuit.fr/a-propos/confidentialite.jsp>
-  * UK: <http://www.intuit.co.uk/about/privacy.jsp>
+  * France: <https://quickbooks.intuit.com/fr/confidentialite>
+  * UK: <https://quickbooks.intuit.com/uk/privacy-policy>
   * Australia: <http://www.intuit.com.au/about/privacy.jsp>
   * India: <http://www.quickbooks.in/privacy.jsp>
   * Singapore: <http://quickbooks.intuit.sg/about/privacy.jsp>
@@ -157,6 +157,7 @@ For example, we:
   * Hong Kong (English): <http://www.intuit.hk/hk-en/about/privacy.jsp>
   * Brazil: <http://www.quickbooks.com.br/privacidade/>
   * South Africa: <http://quickbooks.intuit.com/za/privacy/> 
+  * Rest of Europe: <https://quickbooks.intuit.com/eu/privacy-policy>
   * All Other Countries (Global): <http://global.intuit.com/about/privacy.jsp>
 
 
@@ -167,10 +168,10 @@ For example, we:
 In accordance with and as permitted by applicable law and regulations, we reserve the right to transfer your information, process and store it outside your country of residence to wherever we or our third party service providers operate.    
 
 
-**8\. EU-US PRIVACY SHIELD.   Intuit complies with the E.U. - U.S. and Swiss-U.S. Privacy Shield Framework.   
+**8\. EU-US PRIVACY SHIELD.   Intuit complies with the E.U. - U.S. and Swiss-U.S. Privacy Shield Framework.  
 **
 
-Intuit (and entities and subsidiaries covered by Intuit’s privacy shield certification) ("Intuit U.S.") participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (together the "Privacy Shield Framework").  Intuit US is committed to subjecting all personal data, including Personal Information, received in the US from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability ("European Personal Data"). To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List [here](https://www.privacyshield.gov/).  
+Intuit Inc. and Quincy Data Center LLC, the entities covered by Intuit’s privacy shield certification ("Intuit U.S.") participate in and have certified their compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (together the "Privacy Shield Framework").  Intuit US is committed to subjecting all personal data, including Personal Information, received in the US from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability ("European Personal Data"). To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List [here](https://www.privacyshield.gov/).  
 
 Under the Privacy Shield Framework, Intuit US collections, uses, and discloses EU and Swiss Personal Data for the purposes described in the Privacy Statement.  The choices and means that we offer for limiting use and disclosure of EU and Swiss Personal Data are described above in Section 4, and we provide access as described in Section 5.  Intuit US is responsible for the processing of EU and Swiss Personal Data that it transfers to a third party acting as an agent on its behalf.  We remain liable in accordance with the Privacy Shield Principles if third-party agents that we engage to process such personal data on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
@@ -200,9 +201,9 @@ Intuit Services are intended for and directed to adults.  Our Services are not 
 
 We do not share your Personal Information with third parties for their marketing purposes without your consent.
 
-**13\. ADDITIONAL INTUIT SERVICE SPECIFIC INFORMATION.    
+**13\. ADDITIONAL INTUIT SERVICE SPECIFIC INFORMATION.  
 **
 
 To learn more about how our Services use your information, please click [here](https://security.intuit.com/index.php/additional-intuit-service-specific-privacy-information).
 
-Download a PDF version of this Privacy Statement [here](https://security.intuit.com/images/templates/intuit/Intuit-Privacy-Statement-Sept-12th-2017.pdf).
+Download a PDF version of this Privacy Statement [here](https://security.intuit.com/images/templates/intuit/Intuit-Privacy-Statement-Nov-6th-2017.pdf).
