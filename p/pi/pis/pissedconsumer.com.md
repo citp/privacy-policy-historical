@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621120152id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630211303id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Pissed Consumer Privacy Policy @ Pissed Consumer
 
-Last Modified: April 11, 2017
+Last Modified: May 18, 2018
 
 ## Scope and Consent
 
@@ -42,11 +42,21 @@ We may use visitors' Personal Information for Our internal purposes of enabling 
 
 We may use information about visitors, such as age, gender and interests for improving Our reporting on aggregate basis and for targeting service tailored to specific visitors’ requirements. We also use it for market analysis. We may use this information to provide visitors with the most helpful products and services and to respond to inquiries.
 
+We may store communication sent through the Site and/or resulting from Your use of the Services and/or the Site in any manner including, but not limited to use of any and all communication features. We may access and analyze such communications to improve the Services. In the event You do not want Us to store or monitor Your communications, You must refrain from using the Site and/or the Services.
+
 We also use visitors' Computer Information to track usage, improve the design of the Site, offer products and services, to personalize Our visitors’ experiences, save visitors’ passwords in password-protected areas, and to ensure visitors are following the Site's Agreement. Additionally, in the event that all or most of Opinion Corp.'s stock and/or assets are transferred or sold to another entity, Opinion Corp. may transfer such information and information collected to the acquiring entity.
 
 ## Contests and Sweepstakes
 
-PissedConsumer.com may occasionally offer contests and sweepstakes, which may be entered online. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes if finished, We reserve the right to remove any Personal Information collected. The information collected through PissedConsumer.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for any other purposes and must agree to maintain the confidentiality of the information.
+PissedConsumer.com may occasionally offer contests and sweepstakes, which may be entered online. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes are finished, We reserve the right to remove any Personal Information collected. The information collected through PissedConsumer.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for any other purposes and must agree to maintain the confidentiality of the information.
+
+## Communications from the Site
+
+We may want to contact You with information about Our deals, product announcements, software updates, new features and special offers. You have the following choices to opt out of future communications:
+
+\- You may respond to the email you received and request to be unsubscribed by including the word "unsubscribe" in the subject and/or message body.
+
+\- You may unsubscribe at any time via the unsubscribe mechanism at the bottom of each email.
 
 ## Collection of Information by Third-Party Sites and Affiliates
 
@@ -76,17 +86,44 @@ In addition to cookies, We also utilize MD5 hashing algorithms at the stages of 
 
 ## Session Video Recording
 
-PissedConsumer.com uses a software technology called Webvisor to make video recordings of some visitor sessions. Webvisor is a Yandex.Metrica tool, and We use it in a strict compliance with [Yandex.Metrica Terms of Use](https://yandex.com/legal/metrica_termsofuse/) and [Yandex.Metrica Privacy Policy](https://yandex.com/legal/confidential/). Webvisor provided Us with a piece of Javascript code to copy paste in the Site. After installation, We can monitor Our Site’s visitors in real time. PissedConsumer.com may install this code to record visitor activities on any of the Site pages at its own discretion. Webvisor’s screen capture is a component of the code that works by recording all the events that take place in web browser such as keystrokes, mouse movements, scrolling, and clicking. As PissedConsumer.com only collects Personal Information during the registration and review submission process, same information may be collected during session video recording process. PissedConsumer.com does not store any video recordings on its servers; all of the recordings are stored by Webvisor. We use session video recordings for Our internal statistical purposes, market analysis, for the purposes of web analytics, and for the purposes of the site improvement in accordance with specific visitors’ requirements. PissedConsumer.com reserves the right to use any other similar software technology(s) for similar purposes at its own discretion.
+PissedConsumer.com uses a software technology called Webvisor to make video recordings of some visitor sessions. Webvisor is a Yandex.Metrica tool, and We use it in a strict compliance with [Yandex.Metrica Terms of Use](https://yandex.com/legal/metrica_termsofuse/) and [Yandex.Metrica Privacy Policy](https://yandex.com/legal/confidential/). Webvisor provided Us with a piece of Javascript code to copy paste in the Site. After installation, We can monitor Our Site’s visitors in real time.
 
-## Making a Recorded Call to Customer Service
+PissedConsumer.com may install this code to record visitor activities on any of the Site pages at its own discretion. Webvisor’s screen capture is a component of the code that works by recording all the events that take place in web browser such as keystrokes, mouse movements, scrolling, and clicking. As PissedConsumer.com only collects Personal Information during the registration and review submission process, same information may be collected during session video recording process.
 
-PissedConsumer.com offers You a possibility to make a recorded call to a representative of a company of your choice, provided that such a company has review(s) on the Site and that We have a corresponding telephone number to make such a call. You must have an account on PissedConsumer.com, as this functionality is available to _registered users only_. To operate this functionality, We use a cloud communications platform called Twilio. It is a third-party tool, and We use it in a strict compliance with [Twilio Terms of Service](https://www.twilio.com/legal/tos) and [Twilio Privacy Policy](https://www.twilio.com/legal/privacy). As a caller making a recorded call, You are responsible for notifying the other party You are calling about the fact that the call is being recorded. The recording of this call will be emailed to You. Periodic “beep” tone will be played periodically to all parties in the call, indicating that call recording is turned on.
+PissedConsumer.com does not store any video recordings on its servers; all of the recordings are stored by Webvisor. We use session video recordings for Our internal statistical purposes, market analysis, for the purposes of web analytics, and for the purposes of the site improvement in accordance with specific visitors’ requirements. PissedConsumer.com reserves the right to use any other similar software technology(s) for similar purposes at its own discretion.
+
+## Making a Call to Customer Service
+
+PissedConsumer.com offers You a possibility to make a call to a representative of a company of your choice, provided that such a company is present on the Site and that We have a corresponding telephone number to make such a call. To operate this functionality, We use a cloud communications platform called Twilio.
+
+It is a third-party tool, and We use it in a strict compliance with [Twilio Terms of Service](https://www.twilio.com/legal/tos) and [Twilio Privacy Policy](https://www.twilio.com/legal/privacy). To use this functionality, you need to have an account on the Site, so that information about Your calls could be stored in Your user profile for Your convenience and possible further use.
 
 ## Security
 
 We have adopted appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information We collect online.
 
 You recognize and acknowledge that despite Our security measures, no data transmission over the Internet can be guaranteed to be completely secure, and no data is completely secure from an unauthorized third-party access.
+
+To ensure Your protection and safety when using the Site, We may remove certain types of sensitive personal information from Our Site including, but not limited to:
+
+  * social security numbers;
+  * bank account numbers;
+  * credit card numbers;
+  * images of signatures;
+  * nude or sexually explicit images that were uploaded or shared without Your consent;
+  * confidential, personal medical records of private people.
+
+
+
+Personal information We usually do not remove includes, but is not limited to:
+
+  * dates of birth;
+  * addresses;
+  * telephone numbers.
+
+
+
+We usually do not remove information that can be found on official government websites and/or regular websites because the information is publicly available.
 
 Phishing: Phishing attacks attempt to steal consumers' personal identifiable information and financial accounts credentials. "Phishers" use 'spoofed' e-mails leading consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account numbers, usernames, passwords, and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!
 
