@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220123937id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630144255id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
