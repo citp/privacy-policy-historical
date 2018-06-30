@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221181641id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630182052id_/http%3A//godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
 ## General Privacy Policies
 
-_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20171221181641id_/http%3A//www.godandscience.org/newsletter.html). Now here is the legal/technical stuff:
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20180630182052id_/http%3A//godandscience.org/newsletter.html). Now here is the legal/technical stuff:
 
 ## About Us
 
