@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takarat.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226143516id_/http%3A//takarat.com/privacy_policy-p25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takarat.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630221608id_/http%3A//takarat.com/privacy_policy-p25) for the most accurate reproduction.*
 
 # Privacy Policy - Post Free Online Classified Ads | Takarat.com
 
