@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173602id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140532id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
 # Caring.com Privacy Policy | Caring.com
 
-## Last Updated: August 11, 2015
+## Last Updated: June 29, 2018
 
 This Privacy Policy describes how we collect, use and share information when you use our Services. The terms "we," "us," or "our" mean Caring.com, its operating company, parent company and each of their legal subsidiaries and affiliates. The term "Services," means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, "Use of Your Information") as described in this Privacy Policy.
 
@@ -79,6 +79,7 @@ We may make Use of Your Information for various lawful business purposes. Among 
 
 We may disclose Your Information:
 
+  * As a referral agent, and in states where applicable (including California and Oregon), Caring.com is a mandated reporter of suspected and known elder abuse. As such, Caring.com may release your name, phone number, address, and other information you've shared with us to the state authorities in cases of suspected or known elder abuse;
   * To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney);
   * To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services' maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
   * To third parties when you use our Services to obtain a quote, services, or information from one or more of those third parties (e.g. a senior living community in connection with your completion of an information request form) ("Service Providers"), such as by clicking "Find Cost Information" or other similar buttons at the end of a form, and we may be compensated in connection with such disclosure;
@@ -132,7 +133,7 @@ We strive to provide you with choices regarding the personally identifiable info
   * Email Offers from Us. If you do not wish to receive email offers or newsletters from us, you can opt out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions through our Services) by using the unsubscribe process at the bottom of the email.
   * Accessing and Correcting Personally Identifiable Information. If a portion of our Services allows you to create an account with us, then you can review and update Your Information by logging into that portion of our Services, visiting your account profile page and making changes. We will retain Your Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   * Log Files. Various browsers may offer their own management tools for removing HTML5 Storage LSOs.
-  * Online Behavioral Advertising. If you wish to not have third party advertisers collect your information for the purpose of serving you interest-based ads, you may opt-out by clicking here. In addition, certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative ("NAI"). You can prevent NAI member companies from collecting preference data about you by clicking here and following the NAI's directions. You may also opt-out of Google Adsense's use of its cookie by visiting Google's Advertising and Privacy page. Please note that these opt-outs do not opt you out of being served ads. You will continue to receive generic ads.
+  * Online Behavioral Advertising. If you wish to not have third party advertisers collect your information for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). In addition, certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative ("NAI"). You can prevent NAI member companies from collecting preference data about you by clicking [here](http://www.networkadvertising.org/choices/) and following the NAI's directions. You may also opt-out of Google Adsense's use of its cookie by visiting [Google's Advertising and Privacy page](http://www.google.com/privacy_ads.html). Please note that these opt-outs do not opt you out of being served ads. You will continue to receive generic ads.
 
 
 
@@ -166,8 +167,8 @@ Individuals who are residents of California and have provided their personally i
 
 > **Caring.com  
 > ** Attn: Legal Department  
->  3801 PGA Blvd. Suite 555  
->  Palm Beach Gardens, FL 33410  
+>  2600 S. El Camino Real, Suite 300  
+>  San Mateo, CA 94403  
 > 
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
