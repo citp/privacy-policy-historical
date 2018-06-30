@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121200301id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630185707id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.*
 
 # Gambling Portal Webmasters Association Privacy Policy
 
 The Gambling Portal Webmasters Association (the GPWA) takes your privacy seriously. Please read the following to learn more about our privacy policy.   
-NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information about safe surfing from the Federal Trade Commission. 
+
 
 ## What This Privacy Policy Covers 
 
@@ -28,7 +28,7 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
 
 **Children**
 
-  * We ask that children under age 13 not register with the GPWA because we do not provide services appropriate for their age.
+  * The GPWA cares about the safety of children and their use of the Internet and we ask that children under the age of 13 not register with the GPWA since we do not provide services appropriate for their age. Furthermore, in accordance with the Children's Online Privacy Protection Act of 1998, the GPWA will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event the GPWA determines it has collected such personal information without the requisite and verifiable parental consent, it will delete that information from our database as quickly as is practicable.
 
 
 
@@ -71,6 +71,15 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
 
 
 
+## Special Provisions for Those Located in the European Union
+
+  * Since the GPWA is located in the United States, your personal data will be transferred to the United States for processing, where less strict privacy protections may apply to your personal data than those in the European Union. However, the GPWA will take reasonable measures to ensure your personal data remain protected in compliance with the European Union's General Data Protection Regulation (GDPR).
+  * You acknowledge that the transfer of your personal data to the United States is necessary for the purposes described above. You have the right to request access to, correction of, or erasure of your personal data. You may also request restrictions on or object to certain processing of your personal data, or request the portability of your personal data. If you would like to make any such request or would like more information about your rights related to your personal data, you can contact the GPWA's privacy officer at [privacypolicy@gpwa.org](mailto:privacypolicy@gpwa.org) or by calling +1.617.332.2650 x 112. You understand and agree that the GPWA's ability to comply with the requests you may make regarding the processing of your personal data may be limited by the GPWA's internal policies, and applicable laws and regulatory requirements that the GPWA is required to comply with. You acknowledge that the personal data collection, use, and transfer activities described in this policy are necessary for the performance of the services rendered by the GPWA.
+  * You have the right to lodge a complaint with your country's supervisory authority.
+  * The GPWA will retain a copy of your personal data until completion of the purposes listed in this policy or for as long as reasonably necessary for the GPWA to comply with applicable law and the GPWA's internal retention policies.
+
+
+
 ##  Changes to this Privacy Policy 
 
   * The GPWA may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GPWA account or by placing a prominent notice on our site.
@@ -82,17 +91,23 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
   * If you have questions or suggestions, please complete a feedback form or you can contact us at: 
 
 GPWA Customer Care - Privacy Policy Issues   
-95 Wells Avenue Newton Centre, MA 02459 (617) 332-2850
+33 Needham Street, Newton, MA 02461 +1.617.332.2650
 
 
 
 
 ## More Information
 
-  * [Cookies](https://web.archive.org/web/20171121200301id_/http://www.gpwa.org/privacy/cookies.asp)
-  * [Web Beacons](https://web.archive.org/web/20171121200301id_/http://www.gpwa.org/privacy/web_beacons.asp)
-  * [Advertising](https://web.archive.org/web/20171121200301id_/http://www.gpwa.org/privacy/advertisers.asp)
-  * [Casino City Network](https://web.archive.org/web/20171121200301id_/http://www.gpwa.org/privacy/ccnetwork.asp)
+  * [Cookies](https://web.archive.org/web/20180630185707id_/http%3A//www.gpwa.org/cookies.asp)
+  * [Web Beacons](https://web.archive.org/web/20180630185707id_/http%3A//www.gpwa.org/web_beacons.asp)
+  * [Advertising](https://web.archive.org/web/20180630185707id_/http%3A//www.gpwa.org/advertisers.asp)
+  * [Casino City Network](https://web.archive.org/web/20180630185707id_/http%3A//www.gpwa.org/ccnetwork.asp)
+
+
+
+## Date of Last Update
+
+  * This policy was last updated on 24 May 2018.
 
 
 
