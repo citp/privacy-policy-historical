@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socratic.org privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213071037id_/https%3A//socratic.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socratic.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630090813id_/https%3A//socratic.org/privacy) for the most accurate reproduction.*
 
 # Socratic
 
@@ -108,7 +108,7 @@ California Privacy Rights: Under California Civil Code sections 1798.83-1798.84,
 
 ##### How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f296979e9786979391919d879c86b2819d918093869b91dc9d8095). If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. 
+Should you ever decide to delete your Account, you may do so by emailing [deleteaccount@socratic.org](mailto:deleteaccount@socratic.org). If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. 
 
 ##### What Choices Do I Have Regarding My Information?
 
@@ -122,8 +122,8 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ##### What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e58c8b838aa5968a869784918c86cb8a9782). We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [info@socratic.org](mailto:info@socratic.org). We will make every effort to resolve your concerns. 
 
-Contact: You may contact us at the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ff3faf8fef3dfecf0fcedfeebf6fcb1f0edf8)
+Contact: You may contact us at the following address: [legal@socratic.org](mailto:legal@socratic.org)
 
 Effective Date: June 20, 2014 
