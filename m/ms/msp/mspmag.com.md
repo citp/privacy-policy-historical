@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202220654id_/http%3A//mspmag.com/company-info/about-us/about-us_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630045453id_/http%3A//mspmag.com/company-info/about-us/about-us_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best of the Twin Cities | Mpls.St.Paul Magazine - Mpls.St.Paul Magazine
 
@@ -34,7 +34,7 @@ Our advertising and marketing partners may also use their own cookies; we are no
 
 **Magazine Subscription Order Form**
 
-mspmag.com contains an order form for subscriptions to _Mpls.St.Paul Magazine_ ; we require information from you if you are using the order form to subscribe to the magazine. Information asked of you will include contact information (such as name, e-mail, and shipping address) and possibly financial information (such as credit card number and expiration date). If we have trouble processing an order, we use the information to contact you. This information is used for shipping and billing purposes and to fill your orders.
+mspmag.com contains an order form for subscriptions to  _Mpls.St.Paul Magazine_ ; we require information from you if you are using the order form to subscribe to the magazine. Information asked of you will include contact information (such as name, e-mail, and shipping address) and possibly financial information (such as credit card number and expiration date). We use the information to contact you regarding your subscription, for shipping and for processing and fulfilling your orders.
 
 When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.
 
