@@ -1,98 +1,126 @@
-> *The following text is extracted and transformed from the hucknroll.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230182702id_/http%3A//www.competitivecyclist.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hucknroll.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630083710id_/https%3A//www.competitivecyclist.com/sc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Competitive Cyclist
+# Updated Privacy Policy | Competitive Cyclist
 
-Effective March 21, 2013
+**Last Updated:** 11/7/2017
 
-## Our Commitment To Privacy
+This Privacy Policy explains how information about you is collected, used and disclosed by Backcountry.com, LLC and its subsidiaries (“ **Backcountry** ” or “ **we** ”). This Privacy Policy applies to information we collect when you use our websites, mobile apps and other online products and services (collectively, the “ **Services** ”), including Backcountry.com, SteepandCheap.com, Competitivecyclist.com, and Motosport.com, or when you otherwise interact with us. This policy does not apply to products or services with separate privacy policies that do not incorporate this Privacy Policy. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. In this policy, “Personal Information” is defined as data and facts about you that is collected by Backcountry.com, Inc. (“Backcountry”) or its affiliate websites, but does not include your IP address.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. 
 
-## The Information We Collect
+For information about the choices we offer in connection with our information practices, please see “Your Choices” below.
 
-This policy applies to all information collected or submitted on the Backcountry website, including all affiliated websites, including but not limited to: Backcountry.com, Backcountrytreeline.com, Chainlove.com, CompetitiveCyclist.com, DepartmentOfGoods.com, Dogfunk.com, RealCyclist.com, SteepandCheap.com, and WhiskeyMilitia.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
+### Collection of Information
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Credit/Debit card information
-  * Transaction information
+#### Information You Provide to Us
 
+We collect information you provide directly to us. For example, we collect information when you create an account, update your profile, post a review, participate in any interactive features of the Services, fill out a form or survey, participate in a contest or promotion, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, password, email address, social media user names and handles, postal address, phone number, gender, interests, preferences, payment information and any other information you choose to provide. 
 
+#### Information We Collect Automatically When You Use the Services 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of Personal Information collected are:
+When you use our Services, we automatically collect certain information, including:
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
-
-
-
-## The Way We Use Information
-
-Backcountry does not sell, rent or provide your "Personal Information" to third parties, except as described below. Personal Information is generally kept for Backcountry business which is primarily used to assist you in your current or future purchases or in analyzing sales trends.
-
-We use your Personal Information you provide about yourself when placing an order primarily to complete that order. Personal Information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. Personal Information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings by following the directions in those mailings.
-
-Backcountry sometimes uses online surveys which ask visitors for Personal Information which usually includes contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use Personal Information gathered from our surveys to send the user promotional material from Backcountry. Backcountry periodically runs contests on our site in which we ask visitors for selected Personal Information such as contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use Personal Information gathered from our contests to send users promotional material from Backcountry and at times, to some of our partners. The customer's Personal Information is also used to contact the visitor when necessary (i.e. when someone wins a contest.). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-Backcountry shares Personal Information with third parties in certain limited circumstances:
-
-  * Backcountry may share Personal Information with a third party with your consent. For example, you have the option to enroll in Bill Me Later, which is an independent third-party payment service. If you choose to enroll in Bill Me Later, we will share your email address with Bill Me Later to facilitate the enrollment process and Bill Me Later’s subsequent use of your Personal Information will be governed by Bill Me Later’s Privacy Policy.
-  * Backcountry may provide Personal Information to affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. Backcountry requires that these parties agree to process your Personal Information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may only use your Personal Information to the extent required to perform their services on our behalf.
-  * We may provide Personal Information to third parties or marketers for their marketing purposes. We do not provide your entire credit card or debit card numbers to any of these third parties or marketers, but may provide the last four digits of those numbers to a third party or marketer to aid those third parties or marketers in differentiating individuals from one another.
-  * We may buy or sell subsidiaries or business units. Generally, in these transactions, customer information (including Personal Information) is a transferred asset. That information will remain subject to the then-existing Privacy Policy until or unless you provide consent for any updated use of your Personal Information.
-  * We may share Personal Information to the extent required by legal process or enforceable governmental request.
-  * We may share Personal Information with third parties to detect, prevent, or otherwise address fraud, security, or technical issues. These third parties may place and read cookies on your browsers, or may use web beacons or similar technologies to collect information in connection with the Google Trusted Merchant Program.
+  * **Transaction Information:** We collect information in connection with each transaction you engage in via the Services, including product details, purchase price, and other transaction details. 
+  * **Log Information:** We collect log information in connection with your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information** We collect information about the mobile device you use to access our mobile apps, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Location Information:** We may collect precise location of your mobile device via our mobile apps in accordance with the permission process established by your mobile device operating system. We may also collect the approximate location of your device based the device’s IP address. 
+  * **Stored Information:** We may access information you have stored on your mobile device via our mobile app in accordance with the permission process established by your mobile device operating system. For example, with your permission, we may access photos or videos from your mobile device photo gallery. 
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information from the computer or device you use to access our Services, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. We do not alter or change your experience, or otherwise respond to, “DNT” or “do not track” signals. 
 
 
 
-## Cookies And IP Addresses
+#### Information We Collect From Other Sources
 
-Backcountry also collects, uses, and monetizes IP Addresses. An IP Address is a convention of the Internet Protocol that identifies your "virtual" address on the internet. This IP Address is not personal to you and does not identify any of your Personal Information. All devices connected to a network have an IP Address permitting communication to and from the device. If you connect to the Internet from your computer, then you have an IP Address that looks something like this: 209.17.654.152. In the simplest possible terms, your IP Address contains no data that identifies you as a person. It is only a logical address allowing you to connect to others and others to locate your computer. We use an IP Address for a number of uses as set forth herein. We use an IP Address to help diagnose problems with our server, and to administer our Web site. The IP Address is used to help identify you and your shopping cart and to gather broad demographic information.
+We may also obtain information from other sources. For example, we may collect information about you from other sites that sell our products, from other users, such as individuals who send you a gift through our Services, and from social networks in accordance with their authorization procedures. 
 
-Our site uses cookies (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to keep track of your shopping cart. We use cookies for other purposes such as site personalization. You can reject cookies and still use the Backcountry site, however, it will disable the ability for the site to recognize your cart, your account and any personalization efforts.
+### Use of Information
 
-In addition to the disclosure of Personal Information to third parties as described above, Backcountry may monetize or otherwise provide anonymous IP Addresses to other third parties. Backcountry sometimes employs other companies and individuals to perform functions on our behalf. Examples of such may include hosting our website, providing marketing assistance, providing search results and links, retargeted advertising, analyzing data, etc. These third parties have access only to IP Addresses and do not have access to your Personal Information. However, as disclosed above, Backcountry may disclose Personal Information to third parties in certain limited circumstances.
+We may use information about you for various purposes, including to:
 
-## External Links
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices; 
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events and other news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services; 
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Backcountry and others;
+  * Personalize our Services, including by providing advertisements, content or features we think will be of interest to you;
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+  * Link or combine with information we collect about you; and
+  * Carry out any other purpose described to you at the time the information is collected.
 
-This site contains links to other sites. This Privacy Policy applies to the Backcountry website and its affiliated websites only. We do not exercise control over the privacy practices or content of any of the external links. These external links may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-## Your Rights And Obligations With Respect To Content And Material Submitted By You
 
-Any comments, reviews, posts, feedback, questions, answers, notes, messages, images, video, audio, materials, ideas, suggestions or other communications you submit on Backcountry are not private or proprietary. By submitting User Content on or through Backcountry, you grant Backcountry and its affiliates an irrevocable, royalty-free, worldwide, perpetual right and license to use, copy, modify, display, archive, store, distribute, reproduce and create derivative works based upon such User Content, in any form, media, software or technology of any kind now existing or developed in the future. By submitting such User Content on or through Backcountry, you are confirming that (a) you are the sole author of the User Content and the User Content originated with you and was not copied in whole or in part from any other work; (b) you have obtained all necessary permissions associated with the User Content, including without limitation permissions relating to copyrights, trademarks, rights of publicity and/or rights of privacy; (c) the User Content does not contain hate speech or profanity and is not libelous, obscene or otherwise in violation of this Agreement, and (d) that you are not a minor and have the legal right and capacity to enter into and comply with these Terms. By submitting any such User Content on or through Backcountry, you grant Backcountry permission to use your name, alias and any other information (as provided by you) to attribute such User Content to you. Without limiting the generality of the previous sentence, and subject to our Privacy Policy, you authorize Backcountry and its affiliates to share the User Content across all affiliated Web sites, and to use your name and any other information in connection with its use of such User Content. You also grant Backcountry and its affiliates the right to use any material, information, ideas, concepts, know-how or techniques contained in such User Content. We are not responsible for the similarity of any of our Content or programming in any media to User Content submitted by you. Any and all rights granted in this section are granted without the need for any compensation to you in any form. User Content does not reflect the views of Backcountry, and Backcountry does not represent or guarantee the truthfulness, accuracy, completeness, timeliness or reliability of any User Content, nor endorses or supports any opinions expressed in any User Content. In no event shall Backcountry have or be construed to have any responsibility or liability for or in connection with any User Content. If we determine, in our sole discretion, you or any User Content you submit violates this Agreement, we reserve the right, at any time, without notice and without limiting any and all other rights we may have under this Agreement, to (a) refuse to allow you to submit further User Content, (b) remove and delete your User Content, (c) revoke your registration and right to use the User Content Submission Features and (d) use any technological, legal, operational or other means available to enforce the terms of this Agreement, including, without limitation, blocking specific IP addresses or deactivating your registration, access using your e-mail address, your user name and password.
+### Sharing of Information
 
-BACKCOUNTRY DOES NOT ENDORSE THE USER CONTENT, IS NOT RESPONSIBLE FOR THE USER CONTENT AND SPECIFICALLY DISCLAIMS ANY RESPONSIBILITY OR LIABILITY TO ANY PERSON OR ENTITY (INCLUDING, WITHOUT LIMITATION, PERSONS WHO MAY USE OR RELY ON SUCH USER CONTENT) FOR ANY LOSS, DAMAGE (WHETHER ACTUAL, CONSEQUENTIAL, PUNITIVE OR OTHERWISE), INJURY, CLAIM, LIABILITY OR OTHER CAUSE OF ANY KIND OR CHARACTER BASED UPON OR RESULTING FROM ANY USER CONTENT PROVIDED THROUGH THIS WEB SITE.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-## Our Commitment To Data Security
+  * With third parties for their direct marketing purposes. Please see “Your Choices” below if you want to opt out;
+  * When you participate in interactive features on our Services, information about you may be displayed publicly on our Services and on other sites or online services, including your photos, videos, posts, product feedback, and other information you choose to provide;
+  * With vendors, consultants and other service providers who need access to such information in connection with services they perform for us and who are subject to contractual obligations regarding their use of the information; 
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Backcountry or others;
+  * In connection with, or during negotiations of, any merger, sale of Backcountry assets, financing or acquisition of all or a portion of our business by another company; 
+  * With your consent or at your direction.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example, we work to protect the security of your Personal Information during any transmission of same by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+We may also share aggregated or de-identified information.
 
-You also have the option to access Backcountry.com and affiliates websites from your mobile or wireless device. When using your mobile device or a wireless network, the carrier or network administrator may have access to your Personal Information. For information regarding your carrier or network administrator’s treatment of your information, please consult their respective privacy policies.
+### Social Sharing Features 
 
-## Our Commitment To Children's Privacy
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+### Security
 
-## Opting Out Of Communications From Backcountry
+We use reasonable security measures designed to protect information about you from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-You may elect not to receive on-line or off-line communication from us. To stop receiving Backcountry email or catalogs, please send us an email containing the subject line “opt out” to [info@backcountry.com](mailto:info@backcountry.com).
+### Advertising and Analytics Services Provided by Others
 
-## Opting Out Of Having Our Marketing Partner Deliver Ads Tailored To Your Web Preferences And Usage Patterns
+We may allow others to provide analytics services and serve you advertisements on our behalf. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and apps with this device or other devices. The information collected includes your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Backcountry and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests to this device and other devices via the Services and other websites and apps, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Your device may also include a feature that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
 
-If you choose NOT to have our marketing partner, BlueKai, deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: <http://www.networkadvertising.org/managing/opt_out.asp> and opting out from targeted ads delivered by “BlueKai Inc.” 
+We may also work with other websites or platforms (such as Facebook) to serve ads to you as part of a customized campaign. Please refer to the settings of those other websites or platforms for information about any choices they offer in connection with the delivery of interest-based ads.
 
-## Opting Out Of Sharing Information With Third Party Partners For Marketing Purposes
+### Transfer of Information to the U.S. and Other Countries
 
-If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line “opt out” to [info@backcountry.com](mailto:info@backcountry.com).
+Backcountry is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
 
-## Changes To This Privacy Policy
+### Your Choices
 
-We may change or replace this Privacy Policy at any time. If we make material changes, we will provide current customers with a revised notice that describes our new practices or a link to the new privacy policy.
+#### Account Information
+
+You may update the online account information you provide to us by logging into your online account. This information should update across the online accounts you use to access the Services, except that you will have to separately maintain and update your MotoSport account. 
+
+#### Opt-Out of Sharing for Direct Marketing Purposes
+
+To opt out of us sharing your personal information with third parties for their direct marketing purposes, please send us an email containing the subject line “sharing opt out” to [info@backcountry.com](mailto:info@backcountry.com). 
+
+Please note that California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option through the opt-out we provide above.
+
+#### Location Information
+
+If you initially consent to our collection of precise location information via our mobile app, you should be able to stop the collection of this information by changing the preferences on your mobile device. If you do so, you may be prevented from using certain features of our mobile app. You may also stop our collection of precise location information via our mobile apps by following the standard uninstall process to remove all of our mobile apps from your device.
+
+#### Revoking Other Mobile App Permissions
+
+Your mobile device operating system may provide you with the ability to discontinue our access to the information described in the “Stored Information” section of this policy via our mobile apps. You may also stop our collection of this information by following the standard uninstall process to remove all of our mobile apps from your mobile device.
+
+#### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+#### Promotional Emails
+
+You may opt out of receiving promotional emails from one of our Services by following the instructions in those emails or by changing the preferences through your online account with each Service. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations. 
+
+#### Promotional Calls
+
+You may opt out of receiving promotional calls from us by letting us know during one of those calls or by sending an email to info@backcountry.com with the subject line “opt out to calls”.
+
+#### Mobile Push Notifications
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: 1678 Redstone Center Dr., Park City, UT 84098, [legal@backcountry.com](mailto:legal@backcountry.com), or 1-800-409-4502.
