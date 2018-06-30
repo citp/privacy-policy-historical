@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibeesoft.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119171540id_/http%3A//www.ibeesoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibeesoft.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630145640id_/https%3A//www.ibeesoft.com/privacy.html) for the most accurate reproduction.*
 
 # iBeesoft Privacy Policy
 
