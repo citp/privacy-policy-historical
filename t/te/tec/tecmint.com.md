@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629093020id_/http%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630230739id_/https%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting Us
 
-If you have any questions about this **Privacy Policy** , the practices of this site, or your dealings with this site, please Contact us at: **tecmint.com@gmail.com**
+If you have any questions about this **Privacy Policy** , the practices of this site, or your dealings with this site, please Contact us at: **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
 **This document was last updated on **July 07, 2012**.**
