@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehackingnews.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215051929id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehackingnews.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630032432id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy - E Hacking News
 
