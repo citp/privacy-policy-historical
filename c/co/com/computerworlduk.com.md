@@ -1,62 +1,206 @@
-> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216050320id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630185101id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IDG UK : Privacy Policy
 
-## Introduction – who we are
+## Introduction
 
-This website is owned and operated by IDG Communications Limited of 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 (“IDG UK”). IDG UK has notified as a data controller under the UK Data Protection Act 1998.  
-IDG UK is the owner and operator of CIO UK (www.cio.co.uk), Techworld UK (www.techworld.com), Computerworld UK (www.computerworlduk.com), PC Advisor (www.pcadvisor.co.uk), Macworld (www.macworld.co.uk), MacVideo (www.macvideo.tv), Digital Arts Online (www.digitalartsonline.co.uk), Tech Advisor (www.techadvisor.co.uk), Tech-Resources (www.tech-resources.co.uk) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.  
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including Connect.com, connect.co.uk, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, infoworld.com, idgconnect.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com. The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
+We’re glad you chose to visit an IDG Communications, Inc. (“IDGC”) site! We care about your privacy and the information you share with us and want you to understand how we are using and protecting the information we collect about you. IDGC is respectful of data privacy and adopts best practice in compliance with applicable privacy law and regulations, including the EU General Data Protection Regulation (“GDPR”).
 
-## The Purpose of this Policy – Your Consent
+## Use of the website
 
-Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to IDG UK. The purpose of this Privacy Policy (the “Policy”) is to ensure that we interact with all of our customers in line with current legislation (such as the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003) and in accordance with their wishes. This Policy sets out below what types of personal data may be collected about you, how we may process and use it, and who we may share it with.
+This privacy policy describes the information we collect from you and how it may be stored and processed in the United States of America and across the IDGC **Publishing Network** as described below.
 
-By using this Website and/ or submitting your personal data, you agree to the transfer, storing and processing activities described in this Policy. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy.
+This website, and associated IDGC events and publications provide products, content, and services for a professional and consumer audience and is not intended for individuals under the age of 13 years old. We do not knowingly collect or store personal data provided by anyone under 13 years of age.
 
-## Personal Details
+_If you are a European Union (EU) resident, please note that there are a number of provisions in this privacy policy that apply uniquely to you._
 
-IDG UK and its suppliers may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. IDG UK may employ trusted third party specialists to process your data on our behalf in order to deliver the products and services to you in a more efficient manner.
+## This document describes
 
-This personal data is stored on IDG UK computers in the UK, and, because IDG UK is part of the IDG Publishing Network, may be transferred to, stored and processed, inside the UK and/or outside of the European Economic Area (“EEA”) by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG UK who will send the third party offerings. Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations. Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of the EEA. In all cases, we will only transfer your data outside the EEA to those countries that ensure at least adequate levels of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
+_What information we collect and how we collect it_
 
-From time to time IDG UK and/or the IDG Publishing Network may invite you to register in order to receive such offerings as magazines, email newsletters, enter competitions, and receive goods or services from IDG UK and/or the IDG Publishing Network websites. This may require you to confirm personal data such as your name, email address, and mailing address postcodes. This information is mandatory and is required by IDG UK for security purposes, and enables IDG UK to supply a reasonable level of services to users and our advertisers. We may also ask for information such as job function, job title, industry sector, company/ name and country. During registration, you will also be asked to choose a user name and password for future access to the relevant Website(s).
+How we safeguard your personal data
 
-In order to provide you with free resources such as white papers and expert analysis, we may share your personal data and/or business information with third party organisations we partner with and whose content and/or other offerings you choose to view via an email offer we may send to you via Connect.com or other IDG Publishing Network sites.  
-Because IDG UK is part of the IDG Publishing Network, you may receive offers that IDG UK believes will be of interest to you from any of the IDG Publishing Network sites. However, IDG UK offers you the chance to opt out of receiving additional information from the IDG Publishing Network and our Group. You have the absolute right to ask us not to process your personal data for marketing purposes. Whilst we give details in this Policy in relation to opting out, we want to make clear that you can at any time exercise this right by contacting us by post or email at the address set out at the foot of this Policy.
+What we do with the personal data we collect
 
-## Opting in/ Opting out
+The legal basis we have for processing your personal data
 
-IDG offers you the opportunity to opt in to receive marketing information from carefully selected third party organisations. IDG UK will ensure that the contact you receive will be from reputable organisations. You may opt out at any time from receiving further such information by notifying us by post. IDG UK offers you the opportunity to opt out of receiving information from IDG UK about other products/services that IDG UK and our Group offer.  
-IDG cannot accept any responsibility for use by third parties of data that you have consented to being passed on.
+When and how we share your personal data with others
 
-## Disclosure of Information
+How long we keep your personal data
 
-If the business of operating this Website is sold, the relevant customer lists and other personal data of our subscribers and users will be transferred to the new owner. This will be done in accordance with current legislation.  
-We may disclose your personal data if we are under a duty to disclose your personal data as a result of a court order or any other legal obligation, any subpoena or legal process or as otherwise required by law, or if we believe it necessary to prevent or take action regarding illegal activities or violations of our policies.  
-Changing your details and unsubscribing
+Your rights and preferences
 
-At all times as a recipient of an IDG UK product and/or service or an IDG Publishing Network product and/or service you will have the opportunity to amend your contact details and/or to modify your opt-in/opt-out choices. We will not actually delete your record from the applicable database(s) as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.  
-If you submit your email address to sign up for any of our online offerings including our newsletter(s) on the website, then you can unsubscribe at any time by either contacting, as applicable, IDG UK and/or the IDG Publishing Network directly or via the unsubscribe facility included in communications sent to you.
+How can we help? Getting in touch
 
-## Access to Information
+## What information we collect
 
-You have the right to be told what personal data we hold about you on our databases. You should write to Ms Alex Lincoln, IDG Communications Ltd, 101 Euston Rd, London, NW1 2RA, United Kingdom. In your letter please state your full name, your address and all publications and/or services from IDG UK to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.  
-Anonymous information about your use of the Website
+IDGC collects data about you that is limited to the kind of information that can be found on a typical business card: first name, last name, job title, employer/company name, work address, work email, and work phone number. In some cases, we may ask you to provide additional professional information such as the size of the company you work for, and industry type.
 
-In order that we can monitor and improve the Website, we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version, cookie details (see below) and the website that you visited prior to our Website. IDG UK may make anonymous use of this information to help diagnose faults, manage our systems and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally.
+To enhance and/or update the information that you have provided to us, we may combine it with professional information or personal data that we collect from third party sources. The personal data that we refer to in this document is the personal and professional information you provide, as well as information that we obtain from third party sources, both of which we typically combine as one user record.
 
-## Other Links
+This site also collects and stores certain information automatically using cookies and similar technologies, including IP addresses, the region or general location of a computer or device accessing the internet, browser type, operating system, page view history, and other usage information. See our Cookie Policy for further details.
 
-Please be aware that our Website may link to other web sites which may be accessed through our Website. This statement does not extend to sites that are linked to IDG UK sites. You should refer to those sites for further details about their use of your personal information. We are not responsible for the data policies, content or security of these linked web sites.
+_However, t_ _o the extent that any cookie can uniquely identify a computer, mobile device, or tablet (“Device”), or the person using that Device, and you are a EU resident, under the_ _GDPR,_ _this is personal data.   Therefore, this privacy policy shall apply to such personal data collected by IDGC._
 
-## Cookies
+## How we collect it
 
-For information on what cookies we use on IDG UK websites and how to manage them, click here.
+We may collect your personal data when you register to receive any of the products, content or services offered by IDGC or its third-party sponsors (“sponsors”) such as publications, subscriptions, contests, newsletters, memberships, premium content, webcasts, video, white papers, online seminars, conferences and events.
 
-## Changes to the Policy
+**What happens if you don’t provide personal data?**
 
-IDG UK reviews its privacy and data protection policy periodically. We reserve the right to modify our privacy and data protection policy at any time without notice. Any changes to the policy will be posted on this page.
+In order for us to provide the products, content or services you request, we need your personal data. Therefore, if you do not provide such personal data, we cannot deliver the products, content or services
+
+**IDG Communications Publishing Network**
+
+This website is one of many that IDGC and its group of undertakings operates, all of which we collectively refer to as the IDGC Publishing Network. Where permitted by law, we may share the personal data we collect about you with another IDGC Publishing Network company so that we can provide you with information about products, content and services that might interest you, and for internal analytical and business development purposes. Please click [here](https://www.idg.co.uk/properties/) for a list of the online and print publications included in the IDGC Publishing Network.
+
+## **How do we safeguard your personal data?**
+
+**Security of your personal data**
+
+IDGC maintains safeguards which include technical and organizational security measures to protect your personal data from loss, misuse, unauthorized use, access, inadvertent disclosure, alteration, and destruction, and we require the third parties we contract with to support IDGC’s business operations to employ reasonable security measures as well (see “When and how we share your information with others” below).
+
+We update and test security on an ongoing basis and restrict access to your personal data to only those who need to know in order to provide IDGC’s products, content or services to you.
+
+**Storage of your personal data**
+
+We may store your personal data using IDGC’s own secure on-site servers or other internally hosted technology.  Your personal data may also be stored by third parties, via cloud services or other technology, to whom IDGC has contracted with, to support IDGC’s business operations (see “When and how we share your information with others” below).
+
+These third parties do not use or have access to your personal data other than for cloud storage and retrieval, and IDGC requires such parties to employ at least the same level of security that we use to protect your personal data (see “Security of your personal data” above).
+
+## **What we do with the personal data we collect**
+
+We use the personal data that we collect to communicate with you, deliver what you request, improve our service, and to present other information and offers that may be of interest.
+
+**To communicate with you**
+
+We may use your personal data to send you important notices, such as communications about your registration, transactions, and changes to IDGC’s terms, conditions, policies, and/or other internal purposes.
+
+**To deliver what you request**
+
+We may use your personal data to provide the products, content or services you request. If you enter a sweepstake, contest, or similar IDGC promotion, we may use your personal data to administer such promotion.
+
+**To improve our service**
+
+We may use your personal data for auditing, data analysis, and research to improve IDGC’s products, content and services.
+
+**To present offers that may be of interest to you**
+
+We may contact you to offer you additional IDGC or third-party products, content or services that may be of interest to you.
+
+## **The legal basis we have for processing your personal data**
+
+_The GDPR requires_ _data collectors_ _, such as IDGC,_ _to have a legal basis to use_ _the_ _personal data_ _of EU residents_ _._ _Therefore, this section shall apply to any such personal data collected by IDGC._
+
+IDGC uses the personal data that you provide to supply you with high-quality products, content and services as you request, to send important notices, and for internal purposes such as auditing, data analysis, and research to provide you with the information you need to make the most informed technology purchasing decisions.
+
+We may also use your personal data to offer you products, content or services that may be of interest to you, based upon to your interests or the preferences you shared with us, and may share your personal data with third party sponsors of content, events, and other services or offers.
+
+The legal basis for processing your personal data is your consent. In certain circumstances, we may otherwise process your personal data if IDGC has a legitimate interest in doing so and IDGC is not infringing any of your rights and freedoms.
+
+When IDGC processes your personal data for IDGC’s legitimate interests, IDGC will consider and balance any potential impact on you and your rights under data protection and any other relevant law. Our legitimate business interests do not override your interests. IDGC will not use your personal data in circumstances where your rights and freedoms override our legitimate interests, unless we have your consent or are otherwise required or permitted to by law.
+
+## **When and how we share your personal data with others  
+**
+
+IDGC may share your personal data to deliver content and services from our sites, affiliated companies and third parties services that might interest you, including sponsored content and events, for business operations, and to comply with valid legal processes.
+
+_If you are an EU resident, IDGC will only share your personal data with third parties outside of the IDGC Publishing Network, with your consent_. _  _
+
+**For content and services that may interest you or that you request**
+
+As we mention above, your personal data may be shared within the IDGC Publishing Network to provide you with information about products, content and services that might interest you and for internal analytical and business development purposes (see “IDGC Publishing Network” above).  We may also share your personal data with third parties to deliver third-party sponsored content or other services that you request (see “third party sponsored content and events” below).
+
+**For business operations**
+
+We may also share your personal data with third parties we have contracted with to support IDGC’s business operations including delivery, fulfilment, payment processing, email deployment, suppression list management and data processing.
+
+**For third party sponsored content and events**
+
+IDGC partners with third party sponsors to make available a large library of content to our users, such as white papers, professional events (live or online), as well as other services or offers.  In return for access to such offers, we may ask you to provide us with personal data as part of the registration.
+
+We may use your personal data to send you the offer you request. In addition, your personal data may be shared with the sponsor(s) of the offer to communicate with you regarding the offer, as well as additional products, content or services that may be of interest to you.  _Please note that once your personal data is shared with the sponsor, the sponsor’s privacy policy, including information on how to opt-out in the future, will apply to your personal data._
+
+**As required by law**
+
+Your personal data may be shared when authorized by law or necessary to comply with a valid legal process.
+
+**In the event of new ownership**
+
+If part or all the ownership of IDGC or any of its products or services are sold or transferred, your personal data will be transferred to the new owner.
+
+**International Data Transfers**
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+If IDGC shares your personal data within the IDG Publishing Network or with any other third party as described in this privacy policy and your personal data will be transferred to a State which is not a Member State of either the European Union or the EEA, or deemed adequate by the European Commission, IDGC (as a data controller/data exporter) will only conduct such transfer (to a data processor/data importer) if there are suitable safeguards in place, such as binding corporate rules, standard contractual clauses, approved Codes of Conduct, or approved certification mechanism.  For more information, please contact IDGC’s Data Protection Officer (See contact details below).
+
+## **How long we keep your personal data**
+
+We retain your personal data for the duration of your business relationship with us, and we hold your information only as long as necessary for each purpose we use it, unless we have obtained your consent to use for another or similar purpose.
+
+## **Your rights and preferences**
+
+If you inform us that you want your personal data erased _(if you are an EU resident)_ , or that you no longer wish for us to communicate with you for marketing purposes, or to otherwise restrict IDGC’s processing of your personal data, we may retain some basic information in order to avoid sending you unwanted materials in the future, and to keep a record of your request and our response.
+
+**Confirming your personal data**
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+To confirm that IDGC is processing your personal data, or to access, update or correct the personal data IDGC holds about you, or to obtain a copy to reuse for your own purposes, please send an email to:[privacy@idg.co.uk](mailto:privacy@idg.co.uk)
+
+**Erasing your personal data**
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+If you want your personal data erased, please send an email to: [privacy@idg.co.uk](mailto:privacy@idg.co.uk)
+
+**To opt-out of marketing communications**
+
+If you want IDGC to stop communicating with you for marketing purposes, please send an email to: [privacy@idg.co.uk](mailto:privacy@idg.co.uk)
+
+**To restrict processing of your personal data**
+
+If you want to otherwise restrict IDGC’s processing of your personal data, please send an email to: [privacy@idg.co.uk](mailto:privacy@idg.co.uk)
+
+## **How can we help? Getting in touch**
+
+**Questions, concerns or complaints:**
+
+If you have any questions, concerns or complaints about IDGC’s personal data practices or this Privacy Policy, we encourage you to get in touch with our Data Protection Officer.
+
+If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, _any EU resident_ may also file a complaint with the applicable supervisory authority.
+
+The contact information for IDGC’s Data Protection Officer is:
+
+Mr. Keith Arnot
+
+c/o IDG Communications Ltd.
+
+101 Euston Road
+
+London NW1 2RA
+
+United Kingdom
+
+[GDPR@idgcommunications.com](mailto:GDPR@idgcommunications.com)
+
+IDGC has also designated a Representative _in the EU_ :
+
+Mr. John McGill
+
+c/o IDG Direct
+
+Millennium House  
+Great Strand Street  
+Dublin 1  
+Ireland
+
+GDPRrepresentative@idgcommunications.com
+
+**Feedback**
+
+Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: [privacy@idg.co.uk](mailto:privacy@idg.co.uk)
 
 ## Contact Us
 
