@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192949id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630175252id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spotrac.com
 
@@ -25,5 +25,8 @@ By supplying us with your information, you have confirmed that you do not consid
  **How We Will Keep Your Information Secure  
 ** Safely capturing and storing your information is very important to us. We will use all reasonable measures to safeguard your data but please note: we cannot guarantee that any and all data transmissions over the Internet are completely secure.
 
-**Google Vendor Properties**  
-spotrac.com uses Google, as a third party vendor, uses cookies to serve ads on your site.
+**  
+Google Vendor Properties**  
+spotrac.com uses Google, as a third party vendor, for serving ads and collecting analytics specific to our users. Targeted advertisements. Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites. Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.
+
+Third-party websites. Our website contains links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites. Please read the privacy policy of any website you visit.
