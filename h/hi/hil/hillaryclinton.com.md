@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231231057id_/https%3A//www.hillaryclinton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630231241id_/https%3A//www.hillaryclinton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Office of Hillary Rodham Clinton
 
