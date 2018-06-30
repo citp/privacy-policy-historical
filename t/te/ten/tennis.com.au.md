@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530064207id_/http%3A//www.tennis.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630160448id_/https%3A//www.tennis.com.au/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Tennis Australia
+# Privacy Statement | Tennis Australia
 
 We collect personal information to administer our relationship with you and to promote and provide our products and services. When you provide personal information you agree that this will be used by Tennis Australia and other Australian Tennis Organisations under the terms of the tennis [privacy policy](http://www.tennis.com.au/privacy) and that you may be sent information, offers, invitations and other direct marketing material. . The information, offers, invitations and other direct marketing material may be directly targeted to you and may take the form of online advertisements.
 
