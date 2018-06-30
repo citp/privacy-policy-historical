@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001051258id_/https%3A//www.nyrainc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630225805id_/https%3A//www.nyrainc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NYRA
 
-This Privacy Policy applies to the New York Racing Association’s (“NYRA”) websites and applications, NYRA.com, NYRA Now and NYRA XP (collectively, the “Sites”) This Privacy Policy explains how NYRA protects your privacy and the confidentiality of the information that you provide to NYRA when you use the Sites or any of NYRA’s partners’ or affiliates’ websites, and related products and services. BY USING THIS WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THE PRIVACY POLICY, THEN DO NOT USE THE SITES.  
+This Privacy Policy applies to the New York Racing Association’s (“NYRA”) websites and applications, NYRA.com, NYRA Now and NYRA At The Track (collectively, the “Sites”) This Privacy Policy explains how NYRA protects your privacy and the confidentiality of the information that you provide to NYRA when you use the Sites or any of NYRA’s partners’ or affiliates’ websites, and related products and services. BY USING THIS WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THE PRIVACY POLICY, THEN DO NOT USE THE SITES.  
 
 PERSONAL IDENTIFIABLE INFORMATION PROVIDED TO OR COLLECTED BY THE SITES
 
